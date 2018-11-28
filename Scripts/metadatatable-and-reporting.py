@@ -33,6 +33,7 @@ Please send feedback to Christof at "schoech@uni-trier.de".
 
 # === Import statements ===
 
+import os
 import re
 import glob
 from os.path import join
@@ -43,8 +44,10 @@ from lxml import etree
 
 # === Parameters ===
 
-teiFolder = join("..", "level1", "*.xml")
-metadataFolder = join("..", "Metadata")
+workingDir = join("..", "ELTec-por")
+
+teiFolder = join("..", "..", "ELTeC-por", "level1", "*.eltec")
+metadataFolder = join("..", "..", "ELTeC-por", "Metadata")
 
 xpaths = {"xmlid" : "//tei:TEI/@xml:id", 
           "title" : "//tei:titleStmt/tei:title/text()",
@@ -75,7 +78,7 @@ def open_file(teiFile):
 
 
 
-def get_metadatum(xml, key, xpath): 
+def get_metadatum(xml, xpath): 
     """
     For each metadata key and XPath defined above, retrieve the 
     metadata item from the XML tree.
@@ -206,6 +209,8 @@ def main(teiFolder, metadataFolder, xpaths, ordering):
     From a collection of ELTeC XML-TEI files,
     create a CSV file with some metadata about each file.
     """
+    if not os.path.exists(metadataFolder):
+        os.makedirs(metadataFolder)
     allmetadata = []
     for teiFile in glob.glob(teiFolder): 
         filename,ext = basename(teiFile).split(".")
@@ -220,7 +225,7 @@ def main(teiFolder, metadataFolder, xpaths, ordering):
             keys.extend(["au-name", "au-birth", "au-death"])
             metadata.extend([name, birth, death])
             for key,xpath in xpaths.items(): 
-                metadatum = get_metadatum(xml, key, xpath)
+                metadatum = get_metadatum(xml, xpath)
                 keys.append(key)
                 metadata.append(metadatum)
             allmetadata.append(dict(zip(keys, metadata)))

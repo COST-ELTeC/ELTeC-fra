@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La Maréchale : ELTeC edition</title>
+        <title ref="viaf:unvailable">La Maréchale : ELTeC edition</title>
         <author ref="viaf:100204602">Mirbeau, Octave (1848-1917)</author>
         <respStmt>
           <resp>principal</resp>
@@ -37,7 +37,7 @@
           <ref target="#"></ref>
           .
         </bibl>
-        <bibl type="edition-first">
+        <bibl type="firstEdition">
           <date>1883</date>
           ,
           <idno></idno>
