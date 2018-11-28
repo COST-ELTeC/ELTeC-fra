@@ -6,7 +6,7 @@
         <author ref="viaf:17228199">Ponson du Terrail, Pierre Alexis (1829-1871)</author>
         <respStmt>
           <resp>principal</resp>
-          <name>Stefanie Popp</name>
+          <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
       <extent>
@@ -16,34 +16,29 @@
       <publicationStmt>
         <p>
           Published as part of ELTeC
-          <date>2018-11-01</date>
+          <date>2018-11-29</date>
         </p>
       </publicationStmt>
       <sourceDesc>
-          <!-- was: rd0010 from CLiGS-->
-        <bibl type="digital-source">
-          <date/>
-          ,
-          <idno>977</idno>
-          ,
-          <ref target="http://beq.ebooksgratuits.com/auteurs/terrail/index.htm"/>
-          .
-        </bibl>
-        <bibl type="print-source">
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
-        </bibl>
-        <bibl type="edition-first">
-          <date>1852</date>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
+        <bibl type="source">
+          <ref target="https://github.com/cligs/romandixneuf/blob/master/master/rd0010.xml">La baronne trépassée</ref>
+          <editor>Stephanie Popp</editor>
+          <publisher>CLiGS</publisher>
+          <idno type="CLiGS">rd0010</idno>
+          <relatedItem>
+            <bibl type="copyText">
+              <title>La baronne trépassée</title>
+              <ref target="http://beq.ebooksgratuits.com/auteurs/terrail/index.htm">La baronne trépassée</ref>
+              <publisher>BEQ</publisher>
+              <idno type="beq">977</idno>
+            </bibl>
+            <bibl type="firstEdition">
+              <title>La baronne trépassée</title>
+              <publisher>Baudry</publisher>
+              <pubPlace>Paris</pubPlace>
+              <date>1852</date>
+            </bibl>
+          </relatedItem>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -62,8 +57,8 @@
       </textDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
-      <change when="2015-09-11">Initial TEI version.</change>
+      <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1 (Lou Burnard)</change>
+      <change when="2015-09-11">Initial TEI version (Stephanie Popp).</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -598,7 +593,7 @@
     </front>
     <body>
       <div type="part">
-          <head>Première partie</head>
+        <head>Première partie</head>
         <div type="chapter">
           <head type="sub">I</head>
           <p>Il y avait, jour pour jour, un an que Mme la baronne de Nossac avait été inhumée par les soins de son mari, dans le parc de son château du Léonais.</p>
@@ -2313,7 +2308,7 @@
         </div>
       </div>
       <div type="part">
-          <head>Deuxième partie</head>
+        <head>Deuxième partie</head>
         <div type="chapter">
           <head type="sub">XXIV</head>
           <p>– Mon cher baron, dit le marquis de Simiane, après avoir gravement écouté son ami, le baron de Nossac, qui venait de lui conter son histoire, plus qu’étrange, as-tu consulté un médecin ?</p>
@@ -3449,7 +3444,7 @@
         </div>
       </div>
       <div type="part">
-          <head>Troisième partie</head>
+        <head>Troisième partie</head>
         <div type="chapter">
           <head type="sub">XXXVIII</head>
           <p>Six mois s’étaient écoulés.</p>
