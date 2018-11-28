@@ -1,10 +1,34 @@
 #!/usr/bin/env python3
 
 """
-Script for building a metadata table from ELTeC XML-TEI 
-and for creating some basic corpus composition statistics. 
-Requirement: the XML-TEI files are valid against the ELTeC level1 schema.
+Script (a) for building a metadata table from ELTeC XML-TEI 
+and (b) for creating some basic corpus composition statistics.
+
+The XML-TEI files need to be valid against the ELTeC level1 schema.
+
+Requirements: This script runs in Thonny, https://thonny.org/,
+if the packages pandas and lxml are installed via the package manager.
+Advanced users of Python will know how to get it to work in their preferred environment. 
+
+Usage: The only parameter you should need to adjust is the path
+encoded in the variable "teiFolder" (line 30).
+Advanced users may want to change the XPath expressions to match their TEI encoding.
+
+Normally, the script assumes that it is itself located in a folder inside the
+top-level "ELTeC-xyz" folder, but it does not matter what this folder is called.
+It will create a folder called "Metadata", also in the top-level folder.
+
+Output: The script writes three files to the output folder "Metadata":
+- A CSV file called "metadata.csv" with some basic metadata about the texts included in the collection
+- A file called "report_corpus.txt" with a simple JSON-style string with information
+about the corpus composition criteria for ELTeC collections.
+- A file called "report_full.txt" with a simple JSON-style string that has some more,
+maybe less universally useful information about the files.
+
+Please send feedback to Christof at "schoech@uni-trier.de". 
 """
+
+
 
 
 # === Import statements ===
@@ -78,7 +102,7 @@ def get_authordata(xml):
     try: 
         namespaces = {'tei':'http://www.tei-c.org/ns/1.0'}       
         authordata = xml.xpath("//tei:titleStmt/tei:author/text()", namespaces=namespaces)[0]
-        name = re.search("(.*?)\(", authordata).group(1)
+        name = re.search("(.*?) \(", authordata).group(1)
         birth = re.search("\((\d\d\d\d)", authordata).group(1)
         death = re.search("(\d\d\d\d)\)", authordata).group(1)
     except: 
