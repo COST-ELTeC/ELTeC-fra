@@ -1,0 +1,16 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0"
+	   xmlns:xi="http://www.w3.org/2001/XInclude">
+     <teiHeader>
+         <fileDesc>
+             <titleStmt>
+                 <title>TEI Corpus testharness</title>
+                 <author>assembled by Lou from work done by everyone else</author>
+             </titleStmt>
+	        <publicationStmt>
+	           <p>Not published or publishable</p>
+	        </publicationStmt>
+	        <sourceDesc>
+	           <p>No source: this is a driver file</p>
+	        </sourceDesc>
+         </fileDesc>
+     </teiHeader>

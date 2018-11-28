@@ -1,0 +1,70 @@
+,filename,xmlid,au-name,title,au-birth,au-death,au-gender,au-ids,first-ed,title-ids,sizeCat,canonicity,time-slot,numwords,language
+0,rd0570,FR0570,"Balzac, Honoré de ",Le cousin Pons : ELTeC edition,1799,1850,M,viaf:29529595,1847,viaf:174988989,long,medium,T1,111047,fra
+1,rd0302,FR0302,"Aimard, Gustave ",Les Trappeurs d'Arkansas : ELTeC edition,1818,1883,M,viaf:9841962,1858,viaf:309322317,medium,medium,T1,90166,fra
+2,rd0053,FR0053,"Maupassant, Guy de ",Fort comme la mort : ELTeC edition,1850,1893,M,viaf:29537765,1889,viaf:191941628,medium,medium,T3,75586,fra
+3,rd1184,FR1184,"Boisgobey, Fortuné du ",Rubis sur l'ongle : ELTeC edition,1821,1891,M,viaf:19720225,1886,viaf:315021495,long,medium,T3,104131,fra
+4,rd1155,FR1155,"Gaboriau, Émile ",Le crime d'Orcival : ELTeC edition,1832,1873,M,viaf:100177491,1866,viaf:312348929,long,medium,T2,127326,fra
+5,rd0726,FR0726,"Gay, Marie Françoise Sophie ",Ellenore : ELTeC edition,0000,0000,F,viaf:27059297,1844,viaf:unavailable,long,medium,T1,188985,fra
+6,rv0851,FR0851,"Proust, Marcel ",Du côté de chez Swann : ELTeC edition,1871,1922,M,viaf:32001793,1913,viaf:316309707,long,medium,T4,181506,fra
+7,rd0021,FR0021,"Daudet, Alphonse ",Port-Tarascon : Dernières aventures de l'illustre Tartarin : ELTeC edition,1840,1897,M,viaf:4928621,1890,viaf:179981155,short,medium,T3,46932,fra
+8,rd0041,FR0041,"Flaubert, Gustave ",L'Éducation sentimentale : ELTeC edition,1821,1880,M,viaf:9846192,1869,viaf:180462896,long,medium,T2,149810,fra
+9,rd0019,FR0019,"Daudet, Alphonse ",Numa Roumestan : Mœurs Parisiennes : ELTeC edition,1840,1897,M,viaf:4928621,1881,viaf:287900644,medium,medium,T3,85692,fra
+10,rv0397,FR0397,"Le Rouge, Gustave ","La Conspiration des Milliardaires, III: Le Régiment des hypnotiseurs : ELTeC edition",1867,1938,M,viaf:7392910,1900,viaf:unavailable,medium,medium,T4,76669,fra
+11,rd0012,FR0012,"Ponson du Terrail, Pierre Alexis ",La fée d’Auteuil : ELTeC edition,1829,1871,M,viaf:17228199,1868,viaf:missing,medium,medium,T2,64938,fra
+12,rd0037,FR0037,"Erckmann, Émile ","Madame Thérèse, ou les volontaires de 92 : ELTeC edition",1822,1899,M,viaf:31995972,1863,viaf:209896303,medium,medium,T2,58842,fra
+13,rd0148,FR0148,"Mirbeau, Octave ",L'abbé Jules : ELTeC edition,1848,1917,M,viaf:100204602,1888,viaf:310534644 ,medium,medium,T3,78132,fra
+14,rd0056,FR0056,"Maupassant, Guy de ",Une Vie : ELTeC edition,1850,1893,M,viaf:29537765,1883,viaf:204219240,medium,medium,T3,77338,fra
+15,rd0343,FR0343,"Dombre, Roger ",Une pupille gênante : ELTeC edition,1859,1914,F,viaf:37053113,1890,NA,medium,medium,T3,50336,fra
+16,rd0175,FR0175,"Verne, Jules ",Le Secret de Wilhelm Storitz : ELTeC edition,1828,1905,M,viaf:76323989,1898,viaf:183647198,medium,medium,T3,55614,fra
+17,rd0607,FR0607,"Féval, Paul Henri Corentin ",Les Errants de nuit : ELTeC edition,1816,1887,M,viaf:17222447,1857,viaf:unavailable,long,medium,T1,103086,fra
+18,rd0087,FR0087,"Verne, Jules ",Un capitaine de quinze ans : ELTeC edition,1828,1905,M,viaf:76323989,1878,viaf:183081330,long,medium,T2,124725,fra
+19,rd0656,FR0656,"Ohnet, Georges ",La Grande Marnière : ELTeC edition,1848,1918,M,viaf:66497284,1885,viaf:309268283,long,medium,T3,115269,fra
+20,rd0038,FR0038,"Erckmann, Émile ",Waterloo : ELTeC edition,1822,1899,M,viaf:31995972,1865,viaf:182215847,medium,medium,T2,81303,fra
+21,rd0348,FR0348,"Fleuriot, Zénaïde ",En congé : ELTeC edition,1829,1890,F,viaf:41872490,1874,NA,short,medium,T2,38021,fra
+22,rd1003,FR1003,"Boisgobey, Fortuné du ",Double-blanc : ELTeC edition,1821,1891,M,viaf:19720225,1889,viaf:unavailable,long,medium,T3,125052,fra
+23,rd0476,FR0476,"Stolz, Madame de ",La Maison roulante : ELTeC edition,1820,1898,F,viaf:19850120 wikidata:Q3275360,1869,viaf:309282062,medium,medium,T2,52092,fra
+24,rd0144,FR0144,"Mirbeau, Octave ",Le Jardin des supplices : ELTeC edition,1848,1917,M,viaf:100204602,1899,viaf:293386073,medium,medium,T3,64881,fra
+25,rd0042,FR0042,"Flaubert, Gustave ",Sallambô : ELTeC edition,1821,1880,M,viaf:9846192,1862,viaf:316310961,long,medium,T2,105395,fra
+26,rd0049,FR0049,"Loti, Pierre ",Ramuntcho : ELTeC edition,1850,1923,M,viaf:89440078,1897,viaf:185706732,medium,medium,T3,57948,fra
+27,rd0657,FR0657,"Ohnet, Georges ",L'Âme de Pierre : ELTeC edition,1848,1918,M,viaf:66497284,1890,viaf:309283895,medium,medium,T3,53382,fra
+28,rd0350,FR0350,"Fleuriot, Zénaïde ",Alberte : ELTeC edition,1829,1890,F,viaf:41872490,1881,viaf:unavailable worldcat:944664084,medium,medium,T3,64184,fra
+29,rd0562,FR0562,"Balzac, Honoré de ",Albert Savarus : ELTeC edition,1799,1850,M,viaf:29529595,1842,viaf:174178728,short,medium,T1,42271,fra
+30,rd0409,FR0409,"Malot, Hector ",Romain Kalbris : ELTeC edition,1830,1907,M,viaf:49228546,1869,viaf:312349317,medium,medium,T2,70236,fra
+31,rd0347,FR0347,"Fleuriot, Zénaïde ",Un enfant gâté : ELTeC edition,1829,1890,F,viaf:41872490,1877,viaf:309349545,short,medium,T2,35076,fra
+32,rd1158,FR1158,"Gaboriau, Émile ",Monsieur Lecoq : ELTeC edition,1832,1873,M,viaf:100177491,1869,viaf:310914713,long,medium,T2,269763,fra
+33,rd0301,FR0301,"Aimard, Gustave ",Les Bandits d'Arizona : ELTeC edition,1818,1883,M,viaf:9841962,1881,viaf:307977755,medium,medium,T3,72134,fra
+34,rd0345,FR0345,"Dombre, Roger ",La Nounou : ELTeC edition,1859,1914,F,viaf:37053113,1890,NA,short,medium,T3,40970,fra
+35,rv0775,FR0775,"Rolland, Romain ","Jean-Christophe, tome 5 : La foire sur la place : ELTeC edition",1866,1944,M,viaf:71397100,1908,viaf:312469772,medium,medium,T4,69465,fra
+36,rd0410,FR0410,"Malot, Hector ",Sans famille : ELTeC edition,1830,1907,M,viaf:49228546,1878,viaf:186540937,long,medium,T2,123735,fra
+37,rd0474,FR0474,"Sand, George ",Le Compagnon du Tour de France : ELTeC edition,1804,1876,F,viaf:46766944,1840,viaf:194896547,medium,medium,T1,89027,fra
+38,rd0727,FR0727,"Gay, Marie Françoise Sophie ",Ellénore : Volume II : ELTeC edition,1776,1852,F,viaf:27059297,1844,NA,long,medium,T1,101944,fra
+39,rd0040,FR0040,"Flaubert, Gustave ",Madame Bovary : ELTeC edition,1821,1880,M,viaf:9846192,1857,viaf:186570439,long,medium,T1,120122,fra
+40,rv0771,FR0771,Romain Rolland ,"Jean-Christophe, tome 1 : L'aube : ELTeC edition",1866,1944,M,viaf:71397100,1904,viaf:312469768,short,medium,T4,41108,fra
+41,rd0445,FR0445,"Sand, George ",Nanon : ELTeC edition,1804,1876,F,viaf:46766944,1872,viaf:204615801,long,medium,T2,101840,fra
+42,rd0658,FR0658,"Ohnet, Georges ",Le Marchand de Poison : ELTeC edition,1848,1918,M,viaf:66497284,1892,viaf:308106335,medium,medium,T3,50561,fra
+43,rv0392,FR0392,"Le Rouge, Gustave ",L'Esclave amoureuse : ELTeC edition,1867,1938,M,viaf:7392910,1904,viaf:unavailable,short,medium,T4,25038,fra
+44,rd0480,FR0480,"Stolz, Madame de ",La Maison blanche : ELTeC edition,1820,1898,F,viaf:19850120 wikidata:Q3275360,1884,viaf:unavailable,medium,medium,T3,52128,fra
+45,rd0027,FR0027,"Erckmann, Émile ",Une campagne en Kabylie : Récit d'un chasseur d'Afrique : ELTeC edition,1822,1899,M,viaf:31995972,1873,viaf:317259748,short,medium,T2,23489,fra
+46,rd0370,FR0370,"Gouraud, Julie ",Les Filles du professeur : ELTeC edition,1810,1891,M,viaf:31987653,1876,viaf:unavailable,short,medium,T2,45439,fra
+47,rd0572,FR0572,"Balzac, Honoré de ",Le curé de village : ELTeC edition,1799,1850,M,viaf:29529595,1841,viaf:177407570,medium,medium,T1,93200,fra
+48,rd0047,FR0047,"Loti, Pierre ",Mon frère Yves : ELTeC edition,1850,1923,M,viaf:89440078,1883,viaf:294701732,medium,medium,T3,73698,fra
+49,rd0344,FR0344,"Dombre, Roger ",Folla : ELTeC edition,1859,1914,F,viaf:37053113,1889,NA,short,medium,T3,24998,fra
+50,rd1177,FR1177,"Ponson du Terrail, Pierre Alexis ","La résurrection de Rocambole, tome 2: Saint-Lazare - L'auberge maudite - La maison de fous : ELTeC edition",1829,1871,M,viaf:17228199,1866,viaf:294264533,long,medium,T2,173240,fra
+51,rv0780,FR0780,"Rolland, Romain ","Jean-Christophe, tome 10 : La nouvelle journée : ELTeC edition",1866,1944,M,viaf:71397100,1912,viaf:312469774,medium,medium,T4,59882,fra
+52,rd0415,FR0415,"Malot, Hector ",Conscience : ELTeC edition,1830,1907,M,viaf:49228546,1888,viaf:310221173,long,medium,T3,101840,fra
+53,rd0020,FR0020,"Daudet, Alphonse ",Le petit chose : ELTeC edition,1840,1897,M,viaf:4928621,1867,viaf:184784857,medium,medium,T2,87744,fra
+54,rd0369,FR0369,"Gouraud, Julie ",Quand je serai grande : ELTeC edition,1810,1891,M,viaf:31987653,1888,NA,short,medium,T3,45701,fra
+55,rd0043,FR0043,"Loti, Pierre ",Aziyadé : Extrait des notes et lettres d'un lieutenant de la marine anglaise ,1850,1923,M,viaf:89440078,1879,viaf:185695658,medium,medium,T2,53825,fra
+56,rd0311,FR0311,"Aimard, Gustave",Belle rivière : ELTeC edition,1818,1883,M,viaf:9841962,1874,viaf:309355943,long,medium,T2,139255,fra
+57,rd0010,FR0010,"Ponson du Terrail, Pierre Alexis ",La baronne trépassée : ELTeC edition,1829,1871,M,viaf:17228199,1852,viaf:missing,medium,medium,T1,61779,fra
+58,rd1005,FR1005,"Boisgobey, Fortuné du ",Le crime de l'omnibus : ELTeC edition,1821,1891,M,viaf:19720225,1881,viaf:308091446,medium,medium,T3,93657,fra
+59,rd0426,FR0426,"Mirbeau, Octave ",La Maréchale : ELTeC edition,1848,1917,M,viaf:100204602,1883,NA,medium,medium,T3,60935,fra
+60,rd0605,FR0605,"Féval, Paul Henri Corentin ",Le Cavalier Fortune : ELTeC edition,1816,1887,M,viaf:17222447,1868,viaf:unavailable,long,medium,T2,136999,fra
+61,rd0615,FR0615,"Féval, Paul Henri Corentin ",le Loup blanc : ELTeC edition,1816,1887,M,viaf:17222447,1843,viaf:312363135,medium,medium,T1,80151,fra
+62,rd0379,FR0379,"Gouraud, Julie ",Le petit colporteur : ELTeC edition,1810,1891,M,viaf:31987653,1867,viaf:314022921,short,medium,T2,43343,fra
+63,rd0086,FR0086,"Verne, Jules ",Voyages et aventures du Capitaine Hatteras : ELTeC edition,1828,1905,M,viaf:76323989,1866,viaf:176496719,long,medium,T2,144174,fra
+64,rd0482,FR0482,"Stolz, Madame de ",Le Secret de Laurent : ELTeC edition,1820,1898,F,viaf:19850120 wikidata:Q3275360,1878,viaf:unavailable,short,medium,T2,49150,fra
+65,rd0052,FR0052,"Maupassant, Guy de ",Bel-Ami : ELTeC edition,1850,1893,M,viaf:29537765,1885,viaf:174771837,long,medium,T3,111187,fra
+66,rd1021,FR1021,"Gaboriau, Émile ",L'Argent des autres : 1: Les hommes de paille; 2: La pêche en eau trouble : ELTeC edition,1832,1873,M,viaf:100177491,1874,viaf:312338404,long,medium,T2,173622,fra
+67,rv0384,FR0384,"Le Rouge, Gustave ",La Guerre des vampires : ELTeC edition,1867,1938,M,viaf:7392910,1909,viaf:8889151656380608400006,medium,medium,T4,73470,fra
+68,rd0458,FR0458,"Sand, George ",Le dernier amour : ELTeC edition,1804,1876,F,viaf:46766944,1866,viaf:310216093,medium,medium,T2,88165,fra
