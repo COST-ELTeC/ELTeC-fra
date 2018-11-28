@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La Nounou : ELTeC edition</title>
+        <title ref="oclc:457907781 viaf:unavailable">La Nounou : ELTeC edition</title>
         <author ref="viaf:37053113">Dombre, Roger (Marguerite Sisson / Marguerite Ligeron) (1859-1914)</author>
         <respStmt>
           <resp>principal</resp>
@@ -30,6 +30,7 @@
           .
         </bibl>
         <bibl type="print-source">
+            Nounou, histoire de la Moucheronne
           <date></date>
           ,
           <idno></idno>
