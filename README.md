@@ -2,6 +2,6 @@
 
 French novel collection for the ELTeC (European Literary Text Collection)
 
-For more details, see the [metadata table](../master/Metadata/metadata.csv) and the [corpus composition report card](../master/Metadata/report.md).
+For more details, see the [metadata table](../master/Metadata/metadata.csv) and the [corpus composition report card](../master/report.md).
 
 
