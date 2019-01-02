@@ -22,6 +22,7 @@
       <sourceDesc>
         <bibl type="source">
           <ref target="https://github.com/cligs/romandixneuf/blob/master/master/rd0010.xml">La baronne trépassée</ref>
+          <editor>Stephanie Popp</editor>
           <publisher>CLiGS</publisher>
           <idno type="CLiGS">rd0010</idno>
           <relatedItem>
@@ -31,8 +32,6 @@
               <publisher>BEQ</publisher>
               <idno type="beq">977</idno>
             </bibl>
-          </relatedItem>
-          <relatedItem>
             <bibl type="firstEdition">
               <title>La baronne trépassée</title>
               <publisher>Baudry</publisher>
