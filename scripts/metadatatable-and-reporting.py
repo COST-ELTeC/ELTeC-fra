@@ -11,7 +11,7 @@ if the packages pandas and lxml are installed via the package manager.
 Advanced users of Python will know how to get it to work in their preferred environment. 
 
 Usage: The only parameter you should need to adjust is the path
-encoded in the variable "teiFolder" (line 30).
+encoded in the variable "teiFolder" (line 47).
 Advanced users may want to change the XPath expressions to match their TEI encoding.
 
 Normally, the script assumes that it is itself located in a folder inside the
@@ -42,12 +42,14 @@ import pandas as pd
 from lxml import etree
 
 
-# === Parameters ===
+# === Path parameters ===
 
-workingDir = join("..", "ELTec-por")
+workingDir = join("..", "..", "ELTeC-fra")
+teiFolder = join(workingDir, "level1", "*.xml")
+metadataFolder = join(workingDir, "metadata")
 
-teiFolder = join("..", "..", "ELTeC-por", "level1", "*.eltec")
-metadataFolder = join("..", "..", "ELTeC-por", "Metadata")
+
+# === XPath and output parameters ===
 
 xpaths = {"xmlid" : "//tei:TEI/@xml:id", 
           "title" : "//tei:titleStmt/tei:title/text()",
@@ -66,7 +68,6 @@ ordering = ["filename", "xmlid", "au-name", "title", "au-birth", "au-death", "au
 
 # === Functions ===
 
-
 def open_file(teiFile): 
     """
     Open and parse the XML file. 
@@ -75,7 +76,6 @@ def open_file(teiFile):
     with open(teiFile, "r", encoding="utf8") as infile:
         xml = etree.parse(infile)
         return xml
-
 
 
 def get_metadatum(xml, xpath): 
@@ -152,7 +152,7 @@ def build_balancereport(allmetadata):
               "au-gender" : author_genders}
     import pprint
     pp = pprint.PrettyPrinter(indent=0, width=30, compact=True) 
-    pp.pprint(report)
+    #pp.pprint(report)
     return report
 
 
@@ -198,8 +198,116 @@ def build_fullreport(allmetadata):
               "text_lengths" : text_lengths}
     import pprint
     pp = pprint.PrettyPrinter(indent=0, width=30, compact=True) 
-    pp.pprint(report)
+    #pp.pprint(report)
     return report
+
+
+
+def visualize_gender(fullreport): 
+    import pygal
+    from pygal.style import CleanStyle
+    data = fullreport["au-gender"]
+    #print(data)
+    plot = pygal.Pie(inner_radius=.4, 
+        style = CleanStyle,
+        print_values = True,
+        show_legend = True,
+        legend_at_bottom = True,
+        legend_at_bottom_columns = 3,
+        title = "Number of novels per author gender")
+    plot.add("Male", data["M"])
+    plot.add("Female", data["F"])
+    try: 
+        plot.add("Other", data["X"])
+    except: 
+        plot.add("Other", 0)
+    plot.render_to_file(join("..", "metadata", "viz_au-genders.svg"))
+
+
+def visualize_sizeCat(fullreport): 
+    import pygal
+    from pygal.style import CleanStyle
+    data = fullreport["sizeCats"]
+    #print(data)
+    plot = pygal.Bar(style = CleanStyle,
+        print_values = True,
+        show_legend = True,
+        legend_at_bottom = True,
+        legend_at_bottom_columns = 3,
+        title = "Number of novels per size category")
+    plot.add("short (10-50k words)", data["short"])
+    plot.add("medium (50-100k words)", data["medium"])
+    plot.add("long (>100k words)", data["long"])
+    plot.render_to_file(join("..", "metadata", "viz_sizeCats.svg"))
+    
+
+def visualize_timeSlot(fullreport): 
+    import pygal
+    from pygal.style import CleanStyle
+    data = fullreport["timeSlots"]
+    #print(data)
+    plot = pygal.Bar(style = CleanStyle,
+        print_values = True,
+        show_legend = True,
+        legend_at_bottom = True,
+        legend_at_bottom_columns = 4,
+        title = "Number of novels per time period")
+    plot.add("T1 (1840-1859)", data["T1"])
+    plot.add("T2 (1860-1879)", data["T2"])
+    plot.add("T3 (1880-1899)", data["T3"])
+    plot.add("T4 (1900-1919)", data["T4"])
+    plot.render_to_file(join("..", "metadata", "viz_timeSlots.svg"))
+    
+
+def visualize_canonicity(fullreport): 
+    import pygal
+    from pygal.style import CleanStyle
+    data = fullreport["canonicity"]
+    #print(data)
+    plot = pygal.Bar(style = CleanStyle,
+        print_values = True,
+        show_legend = True,
+        legend_at_bottom = True,
+        legend_at_bottom_columns = 3,
+        title = "Number of novels per canonicity category")
+    try: 
+        plot.add("low canonicity", data["low"])
+    except: 
+        plot.add("low canonicity", 0)
+    plot.add("medium canonicity", data["medium"])
+    try: 
+        plot.add("high canonicity", data["high"])
+    except: 
+        plot.add("high canonicity", 0)
+    plot.render_to_file(join("..", "metadata", "viz_canonicity.svg"))
+
+
+def visualize_novelsperauthor(fullreport): 
+    import pygal
+    from pygal.style import CleanStyle
+    data = fullreport["aus-per-textcount"]
+    print(data)
+    plot = pygal.Bar(style = CleanStyle,
+        print_values = True,
+        show_legend = True,
+        legend_at_bottom = True,
+        legend_at_bottom_columns = 5,
+        title = "Number of authors with given number of novels")
+    plot.add("1 novel", data[1])
+    plot.add("2 novels", data[2])
+    plot.add("3 novels", data[3])
+    try: 
+        plot.add("4 novels", data[4])
+    except: 
+        plot.add("4 novels", 0)
+    try: 
+        plot.add("5 novels", data[5])
+    except: 
+        plot.add("5 novels", 0)
+    plot.render_to_file(join("..", "metadata", "viz_novels-per-author.svg"))
+
+
+
 
 
 # === Coordinating function ===
@@ -234,5 +342,10 @@ def main(teiFolder, metadataFolder, xpaths, ordering):
     save_report(balancereport, join(metadataFolder, "report_composition.txt"))
     fullreport = build_fullreport(allmetadata)
     save_report(fullreport, join(metadataFolder, "report_full.txt"))
+    visualize_gender(fullreport)
+    visualize_sizeCat(fullreport)
+    visualize_timeSlot(fullreport)
+    visualize_canonicity(fullreport)
+    visualize_novelsperauthor(fullreport)
     
 main(teiFolder, metadataFolder, xpaths, ordering)
