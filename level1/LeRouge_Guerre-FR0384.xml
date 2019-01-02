@@ -1758,14 +1758,14 @@
           <p>« J'ai parlé tout à l'heure de demi-ténèbres, je me trouvais en effet baigné d'une clarté grisâtre et crépusculaire, les galeries n'étant éclairées que par le peu de lumière extérieure que laissait filtrer le rempart de verre, c'était une clarté de limbes et de rêve, où les ombres des piliers transparents se dessinaient en teintes atténuées, d'une délicatesse irréelle.</p>
           <p>« Le sol de la galerie circulaire où je me trouvais était aussi incliné en pente douce, il tournait tout autour du bâtiment en une spirale immense où venaient aboutir à chaque étage les couloirs qui venaient des niches.</p>
           <p>« Je descendis, pendant des heures interminablement ; malgré moi, les vers de Baudelaire chantaient dans ma mémoire :</p>
-          <milestone type="subChapter" rend="space"></milestone>
+          <milestone type="subChapter" rend="space" unit="newline"></milestone>
           <p>
             <hi>Des damnés descendant sans lampe</hi>
           </p>
           <p>
             <hi>D'éternels escaliers sans rampe...</hi>
           </p>
-          <milestone type="subChapter" rend="space"></milestone>
+          <milestone type="subChapter" rend="space" unit="newline"></milestone>
           <p>« J'avoue d'ailleurs que ma curiosité était si vivement excitée par cette étrange construction que je ne pensais plus ni à la fatigue, ni à la faim qui me tourmentait.</p>
           <p>« Enfin, j'atteignis un étage où une infinité d'autres galeries venaient se brancher perpendiculairement sur celle que je suivais et rayonnaient dans toutes les directions.</p>
           <p>« L'éternelle spirale continuait encore au-dessous et sans doute allait rejoindre le fond du gouffre dont je n'avais pu mesurer l'immensité.</p>

@@ -143,7 +143,7 @@
         <p>Me prédire des aventures et des voyages, c'était reconnaître que j'étais bien un enfant de la famille, car de père en fils tous les Kalbris avaient été des marins, et même, si la légende est vraie, ils l'étaient déjà au temps de la guerre de Troie. Ce n'est pas nous, bien entendu, qui nous donnons cette origine, mais des savants qui prétendent qu'il y a au Port-Dieu une centaine de familles, précisément celle des marins, qui descendent d'une colonie de Phéniciens. Ce qu'il y a de certain, c'est qu'avec nos yeux noirs, notre teint bistré, notre nez fin, nous n'avons rien du type normand ou breton et que nos barques de pêche sont la reproduction exacte du bateau d'Ulysse tel que nous le montre Homère : un seul mât avec une voile carrée ; ce gréement, très commun dans l'Archipel, est unique dans la Manche.</p>
         <p>Pour nous, nos souvenirs remontaient moins loin, et même leur uniformité les rendait assez confus ; quand on parlait d'un parent, l'histoire n'était guère variée : tout enfant il avait été à la mer ou au-delà des mers, chez des peuples dont les noms sont difficiles à retenir, et il était mort dans un naufrage, dans des batailles, sur les pontons anglais ; les croix portant le nom d'une fille ou d'une veuve étaient nombreuses dans le cimetière, celles portant le nom d'un garçon ou d'un homme l'étaient peu ; ceux-là ne mouraient pas au pays. Comme dans toutes les familles pourtant, nous avions nos héros : l'un était mon grand-père maternel, qui avait été le compagnon de Surcouf ; l'autre était mon grand-oncle Flohy. Aussitôt que je compris ce qui se disait autour de moi, j'entendis son nom dix fois par jour ; il était au service d'un roi de l'Inde qui avait des éléphants ; il commandait des troupes contre les Anglais, et il avait un bras d'argent ; des éléphants, un bras d'argent, ce n'était pas un rêve.</p>
         <p>Ce fut le besoin d'aventures inné dans tous les Kalbris qui fit prendre à mon père un nouvel embarquement peu d'années après son mariage ; il eût pu commander comme second une des goélettes qui partent tous les ans au printemps pour la pêche d'Islande ; mais il était fait au service de l'État et il l'aimait.</p>
-        <milestone type="subChapter" rend="space"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"></milestone>
         <p>Je ne me rappelle pas son départ. Mes seuls souvenirs de cette époque se rapportent aux jours de tempête, aux nuits d'orage et aux heures que j'allais passer devant le bureau de poste.</p>
         <p>Combien de fois, la nuit, ma mère m'a-t-elle fait prier devant un cierge qu'elle allumait ! Pour nous, la tempête au Port-Dieu c'était la tempête partout, et le vent qui secouait notre maison nous semblait secouer en même temps le navire de mon père. Quelquefois il soufflait si fort, qu'il fallait se relever pour attacher les fenêtres, car notre maison était une maison de pauvres gens ; bien qu'elle fût abritée d'un côté par un éboulement de la falaise, et de l'autre, par un rouf qui avait autrefois été le salon d'un trois-mâts naufragé, elle résistait mal aux bourrasques d'équinoxe. Une nuit d'octobre, ma mère me réveilla : l'ouragan était terrible, le vent hurlait, la maison gémissait, et il entrait des rafales qui faisaient vaciller la flamme du cierge jusqu'à l'éteindre ; dans les moments d'apaisement, on entendait la bataille des vagues contre les galets, et, comme des détonations, les coups de mer dans les trous de la falaise. Malgré ce bruit formidable, je ne tardai pas à me rendormir à genoux : tout à coup la fenêtre fut arrachée de ses ferrures, jetée dans la chambre où elle se brisa en mille pièces, et il sembla que j'étais enlevé dans un tourbillon.</p>
         <p>« Ah ! mon Dieu, s'écria ma mère, ton père est perdu ! »</p>
@@ -487,7 +487,7 @@
         <p>Il n'y avait pas de temps à perdre, la mer arrivait rapidement ; de seconde en seconde on entendait son soufflement plus fort. Il entra dans l'eau et je commençai à crier.</p>
         <p>-- Ne crie pas, dit M. de Bihorel, que je ne voyais plus, chante plutôt si tu peux.</p>
         <p>-- Oui, monsieur, et je me mis à chanter :</p>
-        <milestone type="subChapter" rend="space"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"></milestone>
         <p>
           <hi>Il est né en Normandie ;</hi>
         </p>
@@ -503,11 +503,11 @@
         <p>
           <hi>Tra la, la, tra la, la.</hi>
         </p>
-        <milestone type="subChapter" rend="space"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"></milestone>
         <p>Je m'interrompis.</p>
         <p>-- Avez-vous pied, monsieur ?</p>
         <p>-- Oui, mon enfant, il me semble que je commence à remonter ; chante.</p>
-        <milestone type="subChapter" rend="space"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"></milestone>
         <p>
           <hi>Ses lèvres étaient vermeilles</hi>
         </p>
@@ -523,7 +523,7 @@
         <p>
           <hi>Tra la, la, tra la, la.</hi>
         </p>
-        <milestone type="subChapter" rend="space"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"></milestone>
         <p>J'allais chanter le troisième couplet de cette ronde.</p>
         <p>-- À ton tour, me cria M. de Bihorel, je n'ai plus d'eau que jusqu'aux genoux, viens !</p>
         <p>Et il entonna un air sans paroles qui était triste comme une chanson de mort.</p>
@@ -946,11 +946,11 @@
         </l>
         <p>Il me semblait que je ne pouvais pas être, aux yeux de Dieu, moins que les oiseaux qui voltigeaient de branche en branche avec de petits cris joyeux.</p>
         <p>Depuis longtemps je répétais machinalement ces vers qui m'étaient une musique, une sorte de marche plutôt qu'une espérance, lorsque j'entrai dans un bois, le premier que j'eusse encore trouvé. Tout à coup mes yeux furent attirés, sur le talus couronné de genêts jaunes, par de petits points rouges qui brillaient dans l'herbe : des fraises, c'étaient des fraises ! Je ne sentis plus ma fatigue ; et d'un bond je franchis le fossé ; le revers était chargé de fruits comme l'eût été une planche de jardin ; sous bois et dans les clairières il y en avait par milliers qui formaient un tapis rouge. J'en ai mangé depuis de plus belles et de plus grosses, jamais de meilleures : c'était de la force, de la gaieté, de l'espérance. Décidément on pouvait aller au bout du monde :</p>
-        <milestone type="subChapter" rend="space"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"></milestone>
         <p>
           <hi>Dieu laissa-t-il jamais ses enfants au besoin ?</hi>
         </p>
-        <milestone type="subChapter" rend="space"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"></milestone>
         <p>Les fraises des bois ne se cueillent pas vite ; il faut aller de ci de là et se baisser à chaque fruit. Ma faim un peu calmée, sinon assouvie, je voulus faire ma provision pour la route. Je me disais que, si j'en avais assez, je pourrais peut-être les échanger contre un morceau de pain.</p>
         <p>Un morceau de pain, c'était mon rêve ! Mais l'heure me pressait ; il était plus de midi, j'avais encore cinq ou six lieues avant d'arriver au Port-Dieu ; et je sentais, à mes jambes, que ce seraient les plus longues et les plus lentes. Je ne pus donc pas emplir mon mouchoir garni de feuilles de frêne, autant que je l'aurais voulu, et je revins sur le grand chemin, plus dispos et plus courageux que lorsque je l'avais quitté.</p>
         <p>La lassitude ne tarda pas à me prendre, et au lieu de faire une demi-lieue d'une seule traite, je me reposai à tous les kilomètres, m'asseyant sur la borne même. Il faut croire que cette lassitude était visible, car, pendant que j'étais ainsi assis dans une côte, je fus rejoint par un mareyeur qui marchait à pied devant ses chevaux. Il s'arrêta devant moi en me regardant.</p>
@@ -998,14 +998,14 @@
         <p>La veille, lorsque j'étais arrivé à quatre heures, la marée commençait à descendre, la pleine mer me disait donc que le jour allait bientôt paraître, et je ne voulais pas être vu par quelque voisin matinal.</p>
         <p>Dans mon plan de voyage, je n'avais pas prévu combien il est difficile de quitter la maison natale ; car, arrivé à la haie d'ajoncs qui sépare notre cour de la lande, je m'arrêtai malgré moi et me retournai. Mon cœur battait à se rompre. Le coq chantait dans notre poulailler, et les chiens du voisinage, éveillés par le bruit de mes pas, s'étranglaient à aboyer. J'entendais leurs chaînes sonner à chaque secousse qu'ils donnaient pour s'élancer de mon côté. L'aurore commençait à poindre et, dans une étroite bande de lumière blanche qui descendait du sommet de la falaise, la maison se découpait en noir.</p>
         <p>Mon enfance, depuis le jour où j'avais eu le sentiment de la vie, me revint tout entière au souvenir : les nuits où, pour m'empêcher de pleurer, mon père me promenait dans la chambre en chantant :</p>
-        <milestone type="subChapter" rend="space"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"></milestone>
         <p>
           <hi>Les cailloux touchent à la terre,</hi>
         </p>
         <p>
           <hi>Tire lire, lire...</hi>
         </p>
-        <milestone type="subChapter" rend="space"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"></milestone>
         <p>la première mouette que j'avais pu prendre vivante, et qui, l'aile cassée, venait manger dans ma main ; les réveils anxieux de ma mère pendant les nuits de tempête, alors que mon père était en voyage, et mes prières devant le cierge tremblant. Les inquiétudes, les tourments dont je l'avais vue tant souffrir, elle allait après mon départ les souffrir encore : l'abandonner, n'était-ce pas un crime ?</p>
         <p>Le phare s'éteignit, et la mer parut lumineuse sous le ciel encore sombre ; au-dessus des cheminées du village, des colonnes de fumée jaune s'élevèrent droit en l'air, et un bruit de sabots résonnant sur le galet des rues monta jusqu'à moi ; on s'éveillait.</p>
         <p>Cependant, sur la crête du talus, accroupi au milieu des ajoncs, je restais hésitant, impatient, malheureux, mécontent de moi et désolé. L'esprit de hasard, l'espoir vague de faire fortune sans être à charge à personne, ma nature, l'inconnu vertigineux, me tiraient du côté de la lande ; l'habitude, la timidité de mon âge, mes épreuves de la veille, la pensée de ma mère surtout, raidissaient les liens qui m'attachaient à la maison.</p>
@@ -1171,14 +1171,14 @@
            »,* *avait dit le gendarme. Cette parole me retentissait dans les oreilles. On allait chercher, trouver, et bien certainement me renvoyer à mon oncle.
         </p>
         <p>Lucien Hardel marchait en chantant :</p>
-        <milestone type="subChapter" rend="space"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"></milestone>
         <p>
           <hi>Le pauvre prisonnier</hi>
         </p>
         <p>
           <hi>Que l'on conduisait pendre...</hi>
         </p>
-        <milestone type="subChapter" rend="space"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"></milestone>
         <p>Le gendarme le suivait à longueur du bras et je venais ensuite à quatre ou cinq pas. Une demi-lieue à peu près nous séparait du village, et avant d'y arriver nous devions traverser un bois. Le hasard voulut que la route fût droite et qu'à ce moment on n'y vit venir personne. À peine fûmes-nous avancés d'une centaine de mètres dans le bois que, cédant à l'inspiration subite de mes terreurs, mon parti fut pris. Mieux valait m'exposer à tout, pensai-je, que d'être reconnu et conduit à Dol. Je n'avais pas bouclé le sac sur mes épaules, je le portais à la main, je ralentis insensiblement ma marche, puis jetant le sac à terre, je franchis le fossé d'un bond.</p>
         <p>Au bruit que fit le sac en tombant, le gendarme se retourna ; déjà j'étais dans le bois.</p>
         <p>-- Arrêtez ! cria-t-il.</p>

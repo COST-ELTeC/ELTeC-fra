@@ -1,0 +1,213 @@
+Stolz_Secret-FR0482: valid!
+
+Stolz_MaisonRoulante_FR0476: valid!
+
+Dombre_Nounou-FR0345: valid!
+
+Erckmann_Campagne-FR0027: valid!
+
+Aimard_Riviere-FR0311: valid!
+
+Mirbeau_Marechale-FR0426: valid!
+
+Ohnet_Ame-FR0657: NOT valid!
+../level1/Ohnet_Ame-FR0657.xml:70:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Ohnet_Ame-FR0657.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
+../level1/Ohnet_Ame-FR0657.xml:75:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
+../level1/Ohnet_Ame-FR0657.xml:70:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+
+Dombre_Pupille-FR0343: valid!
+
+LeRouge_Esclave-FR0392: valid!
+
+Ohnet_Marchand-FR0658: NOT valid!
+../level1/Ohnet_Marchand-FR0658.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Ohnet_Marchand-FR0658.xml:72:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
+../level1/Ohnet_Marchand-FR0658.xml:76:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: div
+../level1/Ohnet_Marchand-FR0658.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+
+Proust_Swann-FR0851: NOT valid!
+../level1/Proust_Swann-FR0851.xml:63:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element front there
+../level1/Proust_Swann-FR0851.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Proust_Swann-FR0851.xml:74:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Proust_Swann-FR0851.xml:73:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: head
+../level1/Proust_Swann-FR0851.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+../level1/Proust_Swann-FR0851.xml:63:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element text failed to validate content
+
+Loti_Frere-FR0047: valid!
+
+Rolland_Christophe5-FR0775: NOT valid!
+../level1/Rolland_Christophe5-FR0775.xml:56:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Rolland_Christophe5-FR0775.xml:57:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
+../level1/Rolland_Christophe5-FR0775.xml:61:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
+../level1/Rolland_Christophe5-FR0775.xml:56:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+
+Fleuriot_Conge-FR0348: valid!
+
+Daudet_PortTarascon-FR0021: NOT valid!
+../level1/Daudet_PortTarascon-FR0021.xml:58:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element front there
+../level1/Daudet_PortTarascon-FR0021.xml:68:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Daudet_PortTarascon-FR0021.xml:69:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Daudet_PortTarascon-FR0021.xml:70:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: div
+../level1/Daudet_PortTarascon-FR0021.xml:68:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+../level1/Daudet_PortTarascon-FR0021.xml:58:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element text failed to validate content
+
+Loti_Aziyade-FR0043: valid!
+
+Malot_Famille-FR0410: valid!
+
+LeRouge_Consipiration-FR0397: NOT valid!
+../level1/LeRouge_Consipiration-FR0397.xml:70:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/LeRouge_Consipiration-FR0397.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
+../level1/LeRouge_Consipiration-FR0397.xml:75:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
+../level1/LeRouge_Consipiration-FR0397.xml:70:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+
+Malot_Romain-FR0409: valid!
+
+Ponson_Fee-FR0012: valid!
+
+Daudet_Chose-FR0020: valid!
+
+Maupassant_Fort-FR0053: valid!
+
+Ponson_Resurrection-FR1177: valid!
+
+Balzac_Albert-FR0562: NOT valid!
+../level1/Balzac_Albert-FR0562.xml:61:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element front there
+../level1/Balzac_Albert-FR0562.xml:73:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Balzac_Albert-FR0562.xml:74:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
+../level1/Balzac_Albert-FR0562.xml:76:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
+../level1/Balzac_Albert-FR0562.xml:73:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+../level1/Balzac_Albert-FR0562.xml:61:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element text failed to validate content
+
+LeRouge_Guerre-FR0384: NOT valid!
+../level1/LeRouge_Guerre-FR0384.xml:70:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/LeRouge_Guerre-FR0384.xml:1162:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element body has extra content: div
+
+Rolland_Christophe1-FR0771: NOT valid!
+../level1/Rolland_Christophe1-FR0771.xml:59:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Rolland_Christophe1-FR0771.xml:60:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
+../level1/Rolland_Christophe1-FR0771.xml:64:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
+../level1/Rolland_Christophe1-FR0771.xml:59:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+
+Fleuriot_Alberte-FR0350: valid!
+
+Aimard_Bandits-FR0301: valid!
+
+Feval_Loup-FR0615: valid!
+
+Feval_Errants-FR0607: NOT valid!
+../level1/Feval_Errants-FR0607.xml:98:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element milestone there
+../level1/Feval_Errants-FR0607.xml:110:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
+../level1/Feval_Errants-FR0607.xml:76:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: div
+../level1/Feval_Errants-FR0607.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Feval_Errants-FR0607.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+
+Gouraud_Filles-FR0370: valid!
+
+Erckmann_Therese-FR0037: valid!
+
+Flaubert_Sallambo-rd0042: valid!
+
+Loti_Ramuntcho-FR0049: valid!
+
+Stolz_MaisonBlanche-FR0480: valid!
+
+Fleuriot_Enfant-FR0347: valid!
+
+Ohnet_Marniere-FR0656: NOT valid!
+../level1/Ohnet_Marniere-FR0656.xml:72:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Ohnet_Marniere-FR0656.xml:73:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
+../level1/Ohnet_Marniere-FR0656.xml:77:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
+../level1/Ohnet_Marniere-FR0656.xml:72:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+
+Rolland_Christophe10-FR0780: NOT valid!
+../level1/Rolland_Christophe10-FR0780.xml:58:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element front there
+../level1/Rolland_Christophe10-FR0780.xml:66:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Rolland_Christophe10-FR0780.xml:67:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
+../level1/Rolland_Christophe10-FR0780.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
+../level1/Rolland_Christophe10-FR0780.xml:66:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+../level1/Rolland_Christophe10-FR0780.xml:58:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element text failed to validate content
+
+Boisgobey_Crime-FR1005: valid!
+
+Flaubert_Education-FR0041: valid!
+
+Gaboriau_Crime-FR1155: NOT valid!
+../level1/Gaboriau_Crime-FR1155.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element front there
+../level1/Gaboriau_Crime-FR1155.xml:78:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Gaboriau_Crime-FR1155.xml:230:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element body has extra content: div
+../level1/Gaboriau_Crime-FR1155.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element text failed to validate content
+
+Gouraud_Grande-FR0369: valid!
+
+Malot_Conscience-FR0415: valid!
+
+Boisgobey_DoubleBlanc-FR1003: valid!
+
+Feval_Cavalier-FR0605: NOT valid!
+../level1/Feval_Cavalier-FR0605.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Feval_Cavalier-FR0605.xml:72:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
+../level1/Feval_Cavalier-FR0605.xml:76:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: div
+../level1/Feval_Cavalier-FR0605.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+
+Boisgobey_Rubis-FR1184: valid!
+
+Gay_Elleonore-FR0726: valid!
+
+Sand_Amour-FR0458: NOT valid!
+../level1/Sand_Amour-FR0458.xml:123:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element milestone there
+../level1/Sand_Amour-FR0458.xml:129:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
+../level1/Sand_Amour-FR0458.xml:82:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
+../level1/Sand_Amour-FR0458.xml:79:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Sand_Amour-FR0458.xml:79:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+../level1/Sand_Amour-FR0458.xml:70:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element text failed to validate content
+
+Mirbeau_Abbe-FR0148: valid!
+
+Balzac_Cure-FR0572: valid!
+
+Mirbeau_Jardin-FR0144: valid!
+
+Verne_Secret-FR0175: valid!
+
+Flaubert_Bovary-FR0040: valid!
+
+Maupassant_BelAmi-FR0052: valid!
+
+Verne_Voyage-FR0087: valid!
+
+Sand_Compagnon-FR0474: valid!
+
+Balzac_Cousin-FR0570: valid!
+
+Erckmann_Waterloo-FR0038: valid!
+
+Gaboriau_Argent-FR1021: valid!
+
+Daudet_Numa-FR0019: NOT valid!
+../level1/Daudet_Numa-FR0019.xml:58:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element front there
+../level1/Daudet_Numa-FR0019.xml:67:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
+../level1/Daudet_Numa-FR0019.xml:140:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element body has extra content: div
+../level1/Daudet_Numa-FR0019.xml:58:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element text failed to validate content
+
+Gaboriau_Lecoq-FR1158: valid!
+
+Verne_Voyages-FR0086: valid!
+
+Ponson_Baronne-FR0010: NOT valid!
+../level1/Ponson_Baronne-FR0010.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element bibl has extra content: ref
+../level1/Ponson_Baronne-FR0010.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+Dombre_Folla-FR0344: valid!
+
+Gouraud_Colporteur-FR0379: NOT valid!
+../level1/Gouraud_Colporteur-FR0379.xml:562:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element milestone there
+../level1/Gouraud_Colporteur-FR0379.xml:147:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element body has extra content: div
+
+Maupassant_Vie-FR0056: valid!
+
+Aimard_Trappeurs-FR0302: valid!
+
+Sand_Nanon-FR0445: valid!
+

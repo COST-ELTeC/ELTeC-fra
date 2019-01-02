@@ -1,0 +1,3 @@
+<?xml version="1.0" ?>
+<locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
+<uri resource="file:/home/christof/repos/cost/ELTeC-fra/level1/Stolz_Secret-FR0482.xml" uri="file:/home/christof/repos/cost/distantreading.github.io/Schema/eltec-1.rng"/><uri resource="file:/home/christof/repos/cost/ELTeC-fra/level1/Aimard_Riviere-FR0311.xml" uri="file:/home/christof/repos/cost/distantreading.github.io/Schema/eltec-1.rng"/><include rules="file:/home/christof/.jedit/plugins/xml.XmlPlugin/schemas.xml" /></locatingRules>
