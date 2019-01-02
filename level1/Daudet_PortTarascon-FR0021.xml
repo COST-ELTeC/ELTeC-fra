@@ -115,7 +115,7 @@
           <p>-- Et l'on a pas de leurs nouvelles ?</p>
           <p>-- Aucune. »</p>
           <p>Pécaïre ! Quelque temps après nous en avions des nouvelles, détaillées, précises, assez pour me permettre de vous conter l'exode de ce vaillant petit peuple à la suite de son héros, et les formidables mésaventures qui les assaillirent.</p>
-          <milestone type="subChapter" rend="asterisk"></milestone>
+          <milestone type="subChapter" rend="asterisk" unit="asterisk"></milestone>
           <p>Pascal a dit : « Il faut de l'agréable et du réel ; mais il faut que cet agréable soit lui-même pris du vrai. » J'ai tâché de me conformer à sa doctrine dans cette histoire de Port-Tarascon.</p>
           <p>Mon récit est pris du vrai, fait avec des lettres d'émigrants, le « mémorial » du jeune secrétaire de Tartarin, des dépositions empruntées à la Gazette des Tribunaux ; et quand vous rencontrerez ça et là, quelque tarasconnade par trop extravagante, que le crique me croque si elle est de mon invention [2] !</p>
         </div>
