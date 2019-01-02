@@ -1,1 +1,1 @@
-{'num_novels': 68, 'timeSlots': {'T2': 26, 'T3': 25, 'T1': 10, 'T4': 7}, 'sizeCats': {'short': 13, 'medium': 33, 'long': 22}, 'canonicity': {'medium': 68}, 'au-gender': {'M': 55, 'F': 13}}
+{'num_novels': 68, 'timeSlots': {'T2': 26, 'T3': 25, 'T4': 7, 'T1': 10}, 'sizeCats': {'short': 13, 'medium': 33, 'long': 22}, 'canonicity': {'medium': 68}, 'au-gender': {'F': 13, 'M': 55}}
