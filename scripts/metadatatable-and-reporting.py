@@ -203,7 +203,7 @@ def build_fullreport(allmetadata):
 
 
 
-def visualize_gender(fullreport): 
+def visualize_gender(fullreport, metadataFolder): 
     import pygal
     from pygal.style import CleanStyle
     data = fullreport["au-gender"]
@@ -214,6 +214,7 @@ def visualize_gender(fullreport):
         show_legend = True,
         legend_at_bottom = True,
         legend_at_bottom_columns = 3,
+        range = (0,90),
         title = "Number of novels per author gender")
     plot.add("Male", data["M"])
     plot.add("Female", data["F"])
@@ -221,10 +222,10 @@ def visualize_gender(fullreport):
         plot.add("Other", data["X"])
     except: 
         plot.add("Other", 0)
-    plot.render_to_file(join("..", "metadata", "viz_au-genders.svg"))
+    plot.render_to_file(join(metadataFolder, "viz_au-genders.svg"))
 
 
-def visualize_sizeCat(fullreport): 
+def visualize_sizeCat(fullreport, metadataFolder): 
     import pygal
     from pygal.style import CleanStyle
     data = fullreport["sizeCats"]
@@ -234,14 +235,15 @@ def visualize_sizeCat(fullreport):
         show_legend = True,
         legend_at_bottom = True,
         legend_at_bottom_columns = 3,
+        range = (0,40),
         title = "Number of novels per size category")
     plot.add("short (10-50k words)", data["short"])
     plot.add("medium (50-100k words)", data["medium"])
     plot.add("long (>100k words)", data["long"])
-    plot.render_to_file(join("..", "metadata", "viz_sizeCats.svg"))
+    plot.render_to_file(join(metadataFolder, "viz_sizeCats.svg"))
     
 
-def visualize_timeSlot(fullreport): 
+def visualize_timeSlot(fullreport, metadataFolder): 
     import pygal
     from pygal.style import CleanStyle
     data = fullreport["timeSlots"]
@@ -251,15 +253,16 @@ def visualize_timeSlot(fullreport):
         show_legend = True,
         legend_at_bottom = True,
         legend_at_bottom_columns = 4,
+        range = (0,25),
         title = "Number of novels per time period")
     plot.add("T1 (1840-1859)", data["T1"])
     plot.add("T2 (1860-1879)", data["T2"])
     plot.add("T3 (1880-1899)", data["T3"])
     plot.add("T4 (1900-1919)", data["T4"])
-    plot.render_to_file(join("..", "metadata", "viz_timeSlots.svg"))
+    plot.render_to_file(join(metadataFolder, "viz_timeSlots.svg"))
     
 
-def visualize_canonicity(fullreport): 
+def visualize_canonicity(fullreport, metadataFolder): 
     import pygal
     from pygal.style import CleanStyle
     data = fullreport["canonicity"]
@@ -269,6 +272,7 @@ def visualize_canonicity(fullreport):
         show_legend = True,
         legend_at_bottom = True,
         legend_at_bottom_columns = 3,
+        range = (0,40),
         title = "Number of novels per canonicity category")
     try: 
         plot.add("low canonicity", data["low"])
@@ -279,19 +283,20 @@ def visualize_canonicity(fullreport):
         plot.add("high canonicity", data["high"])
     except: 
         plot.add("high canonicity", 0)
-    plot.render_to_file(join("..", "metadata", "viz_canonicity.svg"))
+    plot.render_to_file(join(metadataFolder, "viz_canonicity.svg"))
 
 
-def visualize_novelsperauthor(fullreport): 
+def visualize_novelsperauthor(fullreport, metadataFolder): 
     import pygal
     from pygal.style import CleanStyle
     data = fullreport["aus-per-textcount"]
-    print(data)
+    #print(data)
     plot = pygal.Bar(style = CleanStyle,
         print_values = True,
         show_legend = True,
         legend_at_bottom = True,
         legend_at_bottom_columns = 5,
+        range = (0,20),
         title = "Number of authors with given number of novels")
     plot.add("1 novel", data[1])
     plot.add("2 novels", data[2])
@@ -304,7 +309,7 @@ def visualize_novelsperauthor(fullreport):
         plot.add("5 novels", data[5])
     except: 
         plot.add("5 novels", 0)
-    plot.render_to_file(join("..", "metadata", "viz_novels-per-author.svg"))
+    plot.render_to_file(join(metadataFolder, "viz_novels-per-author.svg"))
 
 
 
@@ -342,10 +347,10 @@ def main(teiFolder, metadataFolder, xpaths, ordering):
     save_report(balancereport, join(metadataFolder, "report_composition.txt"))
     fullreport = build_fullreport(allmetadata)
     save_report(fullreport, join(metadataFolder, "report_full.txt"))
-    visualize_gender(fullreport)
-    visualize_sizeCat(fullreport)
-    visualize_timeSlot(fullreport)
-    visualize_canonicity(fullreport)
-    visualize_novelsperauthor(fullreport)
+    visualize_gender(fullreport, metadataFolder)
+    visualize_sizeCat(fullreport, metadataFolder)
+    visualize_timeSlot(fullreport, metadataFolder)
+    visualize_canonicity(fullreport, metadataFolder)
+    visualize_novelsperauthor(fullreport, metadataFolder)
     
 main(teiFolder, metadataFolder, xpaths, ordering)
