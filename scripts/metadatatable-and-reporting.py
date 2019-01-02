@@ -253,7 +253,7 @@ def visualize_timeSlot(fullreport, metadataFolder):
         show_legend = True,
         legend_at_bottom = True,
         legend_at_bottom_columns = 4,
-        range = (0,25),
+        range = (0,30),
         title = "Number of novels per time period")
     plot.add("T1 (1840-1859)", data["T1"])
     plot.add("T2 (1860-1879)", data["T2"])
