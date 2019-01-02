@@ -112,7 +112,7 @@
         <p>-- Portez cela tout de suite, commanda-t-elle à un lad qui était accouru à son coup de timbre.</p>
         <p>Elle vint ensuite s'accouder à une des fenêtres du salon, donnant sur la Septième Avenue.</p>
         <p>-- Comme je l'aime, murmura-t-elle. Comme je vais être heureuse !...</p>
-        <milestone type="subChapter" rend="asterisk"></milestone>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk"></milestone>
         <p>Un mois après, le mariage d'Olivier, l'inventeur français de la torpille terrestre, et de miss Aurora Boltyn avait lieu, sans aucune pompe, dans la plus stricte intimité.</p>
         <p>Il était inutile d'exciter la curiosité des Américains.</p>
         <p>Les deux jeunes gens s'étaient trouvés d'accord sur ce point.</p>

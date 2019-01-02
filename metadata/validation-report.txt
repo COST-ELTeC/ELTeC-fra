@@ -10,57 +10,29 @@ Aimard_Riviere-FR0311: valid!
 
 Mirbeau_Marechale-FR0426: valid!
 
-Ohnet_Ame-FR0657: NOT valid!
-../level1/Ohnet_Ame-FR0657.xml:70:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/Ohnet_Ame-FR0657.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
-../level1/Ohnet_Ame-FR0657.xml:75:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
-../level1/Ohnet_Ame-FR0657.xml:70:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+Ohnet_Ame-FR0657: valid!
 
 Dombre_Pupille-FR0343: valid!
 
 LeRouge_Esclave-FR0392: valid!
 
-Ohnet_Marchand-FR0658: NOT valid!
-../level1/Ohnet_Marchand-FR0658.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/Ohnet_Marchand-FR0658.xml:72:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
-../level1/Ohnet_Marchand-FR0658.xml:76:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: div
-../level1/Ohnet_Marchand-FR0658.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+Ohnet_Marchand-FR0658: valid!
 
-Proust_Swann-FR0851: NOT valid!
-../level1/Proust_Swann-FR0851.xml:63:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element front there
-../level1/Proust_Swann-FR0851.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/Proust_Swann-FR0851.xml:74:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/Proust_Swann-FR0851.xml:73:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: head
-../level1/Proust_Swann-FR0851.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
-../level1/Proust_Swann-FR0851.xml:63:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element text failed to validate content
+Proust_Swann-FR0851: valid!
 
 Loti_Frere-FR0047: valid!
 
-Rolland_Christophe5-FR0775: NOT valid!
-../level1/Rolland_Christophe5-FR0775.xml:56:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/Rolland_Christophe5-FR0775.xml:57:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
-../level1/Rolland_Christophe5-FR0775.xml:61:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
-../level1/Rolland_Christophe5-FR0775.xml:56:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+Rolland_Christophe5-FR0775: valid!
 
 Fleuriot_Conge-FR0348: valid!
 
-Daudet_PortTarascon-FR0021: NOT valid!
-../level1/Daudet_PortTarascon-FR0021.xml:58:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element front there
-../level1/Daudet_PortTarascon-FR0021.xml:68:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/Daudet_PortTarascon-FR0021.xml:69:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/Daudet_PortTarascon-FR0021.xml:70:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: div
-../level1/Daudet_PortTarascon-FR0021.xml:68:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
-../level1/Daudet_PortTarascon-FR0021.xml:58:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element text failed to validate content
+Daudet_PortTarascon-FR0021: valid!
 
 Loti_Aziyade-FR0043: valid!
 
 Malot_Famille-FR0410: valid!
 
-LeRouge_Consipiration-FR0397: NOT valid!
-../level1/LeRouge_Consipiration-FR0397.xml:70:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/LeRouge_Consipiration-FR0397.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
-../level1/LeRouge_Consipiration-FR0397.xml:75:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
-../level1/LeRouge_Consipiration-FR0397.xml:70:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+LeRouge_Consipiration-FR0397: valid!
 
 Malot_Romain-FR0409: valid!
 
@@ -80,15 +52,9 @@ Balzac_Albert-FR0562: NOT valid!
 ../level1/Balzac_Albert-FR0562.xml:73:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
 ../level1/Balzac_Albert-FR0562.xml:61:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element text failed to validate content
 
-LeRouge_Guerre-FR0384: NOT valid!
-../level1/LeRouge_Guerre-FR0384.xml:70:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/LeRouge_Guerre-FR0384.xml:1162:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element body has extra content: div
+LeRouge_Guerre-FR0384: valid!
 
-Rolland_Christophe1-FR0771: NOT valid!
-../level1/Rolland_Christophe1-FR0771.xml:59:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/Rolland_Christophe1-FR0771.xml:60:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
-../level1/Rolland_Christophe1-FR0771.xml:64:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
-../level1/Rolland_Christophe1-FR0771.xml:59:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+Rolland_Christophe1-FR0771: valid!
 
 Fleuriot_Alberte-FR0350: valid!
 
@@ -96,12 +62,7 @@ Aimard_Bandits-FR0301: valid!
 
 Feval_Loup-FR0615: valid!
 
-Feval_Errants-FR0607: NOT valid!
-../level1/Feval_Errants-FR0607.xml:98:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element milestone there
-../level1/Feval_Errants-FR0607.xml:110:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
-../level1/Feval_Errants-FR0607.xml:76:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: div
-../level1/Feval_Errants-FR0607.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/Feval_Errants-FR0607.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+Feval_Errants-FR0607: valid!
 
 Gouraud_Filles-FR0370: valid!
 
@@ -115,29 +76,15 @@ Stolz_MaisonBlanche-FR0480: valid!
 
 Fleuriot_Enfant-FR0347: valid!
 
-Ohnet_Marniere-FR0656: NOT valid!
-../level1/Ohnet_Marniere-FR0656.xml:72:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/Ohnet_Marniere-FR0656.xml:73:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
-../level1/Ohnet_Marniere-FR0656.xml:77:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
-../level1/Ohnet_Marniere-FR0656.xml:72:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+Ohnet_Marniere-FR0656: valid!
 
-Rolland_Christophe10-FR0780: NOT valid!
-../level1/Rolland_Christophe10-FR0780.xml:58:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element front there
-../level1/Rolland_Christophe10-FR0780.xml:66:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/Rolland_Christophe10-FR0780.xml:67:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
-../level1/Rolland_Christophe10-FR0780.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
-../level1/Rolland_Christophe10-FR0780.xml:66:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
-../level1/Rolland_Christophe10-FR0780.xml:58:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element text failed to validate content
+Rolland_Christophe10-FR0780: valid!
 
 Boisgobey_Crime-FR1005: valid!
 
 Flaubert_Education-FR0041: valid!
 
-Gaboriau_Crime-FR1155: NOT valid!
-../level1/Gaboriau_Crime-FR1155.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element front there
-../level1/Gaboriau_Crime-FR1155.xml:78:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/Gaboriau_Crime-FR1155.xml:230:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element body has extra content: div
-../level1/Gaboriau_Crime-FR1155.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element text failed to validate content
+Gaboriau_Crime-FR1155: valid!
 
 Gouraud_Grande-FR0369: valid!
 
@@ -145,11 +92,7 @@ Malot_Conscience-FR0415: valid!
 
 Boisgobey_DoubleBlanc-FR1003: valid!
 
-Feval_Cavalier-FR0605: NOT valid!
-../level1/Feval_Cavalier-FR0605.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/Feval_Cavalier-FR0605.xml:72:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
-../level1/Feval_Cavalier-FR0605.xml:76:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: div
-../level1/Feval_Cavalier-FR0605.xml:71:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
+Feval_Cavalier-FR0605: valid!
 
 Boisgobey_Rubis-FR1184: valid!
 
@@ -185,11 +128,7 @@ Erckmann_Waterloo-FR0038: valid!
 
 Gaboriau_Argent-FR1021: valid!
 
-Daudet_Numa-FR0019: NOT valid!
-../level1/Daudet_Numa-FR0019.xml:58:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element front there
-../level1/Daudet_Numa-FR0019.xml:67:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/Daudet_Numa-FR0019.xml:140:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element body has extra content: div
-../level1/Daudet_Numa-FR0019.xml:58:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element text failed to validate content
+Daudet_Numa-FR0019: valid!
 
 Gaboriau_Lecoq-FR1158: valid!
 
