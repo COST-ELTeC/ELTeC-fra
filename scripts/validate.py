@@ -32,9 +32,9 @@ def validate(xml, schema, basename):
     validator = etree.RelaxNG(schema)
     result = validator.validate(xml)
     if result == True: 
-        report = str(basename + ": valid!\n\n")
+        report = str(basename + ":\tvalid!\n")
     else: 
-        report = str(basename + ": NOT valid!\n" + str(validator.error_log) + "\n\n")
+        report = str(basename + ":\tNOT valid!\n" + str(validator.error_log) + "\n\n")
     return result, report
 
 
