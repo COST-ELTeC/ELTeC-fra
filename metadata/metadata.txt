@@ -1,0 +1,69 @@
+id,author-name,book-title,subgenre,year,year-cat,canon-cat,gender-cat,length,length-cat,counter
+FR0010,Ponson du Terrail,Labaronnetrépassée,foo,,T1,medium,M,61779,medium,1
+FR0012,Ponson du Terrail,Laféed’Auteuil,foo,1868,T2,medium,M,64938,medium,1
+FR0019,Daudet,NumaRoumestan,foo,1881,T3,medium,M,85692,medium,1
+FR0020,Daudet,Lepetitchose,foo,1867,T2,medium,M,87744,medium,1
+FR0021,Daudet,Port-Tarascon,foo,1890,T3,medium,M,46932,short,1
+FR0027,Erckmann,UnecampagneenKabylie,foo,1873,T2,medium,M,23489,short,1
+FR0037,Erckmann,MadameThérèseoulesvolontairesde92,foo,1863,T2,medium,M,58842,medium,1
+FR0038,Erckmann,Waterloo,foo,1865,T2,medium,M,81303,medium,1
+FR0040,Flaubert,MadameBovary,foo,1857,T1,medium,M,120122,long,1
+FR0041,Flaubert,L'Éducationsentimentale,foo,1869,T2,medium,M,149810,long,1
+FR0042,Flaubert,Sallambô,foo,1862,T2,medium,M,105395,long,1
+FR0043,Loti,Aziyadé,foo,1879,T2,medium,M,53825,medium,1
+FR0047,Loti,MonfrèreYves,foo,1883,T3,medium,M,73698,medium,1
+FR0049,Loti,Ramuntcho,foo,1897,T3,medium,M,57948,medium,1
+FR0052,Maupassant,Bel-Ami,foo,1885,T3,medium,M,111187,long,1
+FR0053,Maupassant,Fortcommelamort,foo,1889,T3,medium,M,75586,medium,1
+FR0056,Maupassant,UneVie,foo,1883,T3,medium,M,77338,medium,1
+FR0086,Verne,VoyagesetaventuresduCapitaineHatteras,foo,1866,T2,medium,M,144174,long,1
+FR0087,Verne,Uncapitainedequinzeans,foo,1878,T2,medium,M,124725,long,1
+FR0144,Mirbeau,LeJardindessupplices,foo,1899,T3,medium,M,64881,medium,1
+FR0148,Mirbeau,L'abbéJules,foo,1888,T3,medium,M,78132,medium,1
+FR0175,Verne,LeSecretdeWilhelmStoritz,foo,1898,T3,medium,M,55614,medium,1
+FR0301,Aimard,LesBanditsd'Arizona,foo,1881,T3,medium,M,72134,medium,1
+FR0302,Aimard,LesTrappeursd'Arkansas,foo,1858,T1,medium,M,90166,medium,1
+FR0311,Aimard,Bellerivière,foo,1874,T2,medium,M,139255,long,1
+FR0343,Dombre,Unepupillegênante,foo,1890,T3,medium,F,50336,medium,1
+FR0344,Dombre,Folla,foo,1889,T3,medium,F,24998,short,1
+FR0345,Dombre,LaNounou,foo,1890,T3,medium,F,40970,short,1
+FR0347,Fleuriot,Unenfantgâté,foo,1877,T2,medium,F,35076,short,1
+FR0348,Fleuriot,Encongé,foo,1874,T2,medium,F,38021,short,1
+FR0350,Fleuriot,Alberte,foo,1881,T3,medium,F,64184,medium,1
+FR0369,Gouraud,Quandjeseraigrande,foo,1888,T3,medium,M,45701,short,1
+FR0370,Gouraud,LesFillesduprofesseur,foo,1876,T2,medium,M,45439,short,1
+FR0379,Gouraud,Lepetitcolporteur,foo,1867,T2,medium,M,43343,short,1
+FR0384,Le Rouge,LaGuerredesvampires,foo,1909,T4,medium,M,73470,medium,1
+FR0392,Le Rouge,L'Esclaveamoureuse,foo,1904,T4,medium,M,25038,short,1
+FR0397,Le Rouge,LaConspirationdesMilliardairesIII,foo,1900,T4,medium,M,76669,medium,1
+FR0409,Malot,RomainKalbris,foo,1869,T2,medium,M,70236,medium,1
+FR0410,Malot,Sansfamille,foo,1878,T2,medium,M,123735,long,1
+FR0415,Malot,Conscience,foo,1888,T3,medium,M,101840,long,1
+FR0426,Mirbeau,LaMaréchale,foo,1883,T3,medium,M,60935,medium,1
+FR0445,Sand,Nanon,foo,1872,T2,medium,F,101840,long,1
+FR0458,Sand,Ledernieramour,foo,1866,T2,medium,F,88165,medium,1
+FR0474,Sand,LeCompagnonduTourdeFrance,foo,1840,T1,medium,F,89027,medium,1
+FR0476,Stolz,LaMaisonroulante,foo,1869,T2,medium,F,52092,medium,1
+FR0480,Stolz,LaMaisonblanche,foo,1884,T3,medium,F,52128,medium,1
+FR0482,Stolz,LeSecretdeLaurent,foo,1878,T2,medium,F,49150,short,1
+FR0562,Balzac,AlbertSavarus,foo,1842,T1,medium,M,42271,short,1
+FR0570,Balzac,LecousinPons,foo,1847,T1,medium,M,111047,long,1
+FR0572,Balzac,Lecurédevillage,foo,1841,T1,medium,M,93200,medium,1
+FR0605,Féval,LeCavalierFortune,foo,1868,T2,medium,M,136999,long,1
+FR0607,Féval,LesErrantsdenuit,foo,1857,T1,medium,M,103086,long,1
+FR0615,Féval,leLoupblanc,foo,1843,T1,medium,M,80151,medium,1
+FR0656,Ohnet,LaGrandeMarnière,foo,1885,T3,medium,M,115269,long,1
+FR0657,Ohnet,L'ÂmedePierre,foo,1890,T3,medium,M,53382,medium,1
+FR0658,Ohnet,LeMarchanddePoison,foo,1892,T3,medium,M,50561,medium,1
+FR0726,Gay,Ellenore,foo,1844,T1,medium,F,188985,long,1
+FR0771,,Jean-Christophetome1,foo,1904,T4,medium,M,41108,short,1
+FR0775,Rolland,Jean-Christophetome5,foo,1908,T4,medium,M,69465,medium,1
+FR0780,Rolland,Jean-Christophetome10,foo,1912,T4,medium,M,59882,medium,1
+FR0851,Proust,DucôtédechezSwann,foo,1913,T4,medium,M,181506,long,1
+FR1003,Boisgobey,Double-blanc,foo,1889,T3,medium,M,125052,long,1
+FR1005,Boisgobey,Lecrimedel'omnibus,foo,1881,T3,medium,M,93657,medium,1
+FR1021,Gaboriau,L'Argentdesautres,foo,1874,T2,medium,M,173622,long,1
+FR1155,Gaboriau,Lecrimed'Orcival,foo,1866,T2,medium,M,127326,long,1
+FR1158,Gaboriau,MonsieurLecoq,foo,1869,T2,medium,M,269763,long,1
+FR1177,Ponson du Terrail,LarésurrectiondeRocamboletome2,foo,1866,T2,medium,M,173240,long,1
+FR1184,Boisgobey,Rubissurl'ongle,foo,1886,T3,medium,M,104131,long,1
