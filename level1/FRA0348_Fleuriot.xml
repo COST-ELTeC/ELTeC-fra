@@ -57,7 +57,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
         <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
       </textDesc>
     </profileDesc>

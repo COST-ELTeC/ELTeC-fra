@@ -47,7 +47,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
         <size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity> <!-- worldcat.py error, not clear why -->
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
       </textDesc>
     </profileDesc>
