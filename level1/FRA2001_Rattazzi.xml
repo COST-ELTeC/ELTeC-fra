@@ -22,13 +22,15 @@
           <ref target="https://ebooks-bnr.com/bonaparte-wyse-marie-laetitia-de-solms-le-piege-aux-maris-tome-1">Le piège aux maris</ref>
           <publisher>Bibliothèque numérique romande</publisher>
           <idno type="bnr">bonaparte-wyse-marie-laetitia-de-solms-le-piege-aux-maris-tome-1</idno>
+          <date>2012</date>
           <relatedItem>
             <bibl type="copyText">
               <title>Le piège aux maris</title>
-              <ref target="https://ebooks-bnr.com/bonaparte-wyse-marie-laetitia-de-solms-le-piege-aux-maris-tome-1">Le piège aux maris</ref>
-              <publisher>Bibliothèque numérique romande</publisher>
-              <idno type="bnr">bonaparte-wyse-marie-laetitia-de-solms-le-piege-aux-maris-tome-1</idno>
-              <date>2012</date>
+              <publisher>A. Cadot</publisher>
+              <pubPlace>Paris</pubPlace>
+              <date>1865</date>
+              <idno type="BnF">https://gallica.bnf.fr/ark:/12148/bpt6k6456888h</idno>
+              
             </bibl>
           </relatedItem>
           <relatedItem>
@@ -37,6 +39,7 @@
               <publisher>A. Cadot</publisher>
               <pubPlace>Paris</pubPlace>
               <date>1865</date>
+              <idno type="BnF">https://gallica.bnf.fr/ark:/12148/bpt6k6456888h</idno>
             </bibl>
           </relatedItem>
         </bibl>
