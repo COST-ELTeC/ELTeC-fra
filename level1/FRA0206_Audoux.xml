@@ -10,7 +10,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <measure unit="words">0</measure>
+        <measure unit="words">35659</measure>
         <measure unit="pages">0</measure>
       </extent>
       <publicationStmt>
@@ -49,7 +49,7 @@
       </langUsage>
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
         <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/> <!-- Prix Fémina -->
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
@@ -59,32 +59,6 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <front>
-      <div>
-        <head>PRÉFACE</head>
-        <p>Francis Jourdain, un soir, me confia la vie douloureuse d'une femme dont il était le grand ami.</p>
-        <p>Couturière, toujours malade, très pauvre, quelquefois sans pain, elle s'appelait Marguerite Audoux. Malgré tout son courage, ne pouvant plus travailler, ni lire, car elle souffrait cruellement des yeux, elle écrivait.</p>
-        <p>Elle écrivait non avec l'espoir de publier ses œuvres, mais pour ne point trop penser à sa misère, pour amuser sa solitude, et comme pour lui tenir compagnie, et aussi, je pense, parce qu'elle aimait écrire.</p>
-        <p>Il connaissait d'elle une œuvre, <hi rend="italic">Marie-Claire</hi>, qui lui paraissait très belle. Il me demanda de la lire. J'aime le goût de Francis Jourdain, et j'en fais grand cas. Sa tournure d'esprit, sa sensibilité me contentent infiniment... En me remettant le manuscrit, il ajouta :</p>
-        <p>-- Notre cher Philippe admirait beaucoup ça... Il eût bien voulu que ce livre fût publié. Mais que pouvait-il pour les autres, lui qui ne pouvait rien pour lui ?...</p>
-        <p>Je suis convaincu que les bons livres ont une puissance indestructible... De si loin qu'ils arrivent, ou si enfouis qu'ils soient dans les misères ignorées d'une maison d'ouvrier, ils se révèlent toujours... Certes, on les déteste... On les nie et on les insulte... Qu'est-ce que cela fait ? Ils sont plus forts que tout et que tout le monde.</p>
-        <p>Et la preuve c'est que <hi rend="italic">Marie-Claire</hi> paraît, aujourd'hui, en volume, chez Fasquelle.</p>
-        <p>Il m'est doux de parler de ce livre admirable, et je voudrais, dans la foi de mon âme, y intéresser tous ceux qui aiment encore la lecture. Comme moi-même, ils y goûteront des joies rares, ils y sentiront une émotion nouvelle et très forte.</p>
-        <p><hi rend="italic">Marie-Claire</hi> est une œuvre d'un grand goût. Sa simplicité, sa vérité, son élégance d'esprit, sa profondeur, sa nouveauté sont impressionnantes. Tout y est à sa place, les choses, les paysages, les gens. Ils sont marqués, dessinés d'un trait, du trait qu'il faut pour les rendre vivants et inoubliables. On n'en souhaite jamais un autre, tant celui-ci est juste, pittoresque, coloré, à son plan. Ce qui nous étonne surtout, ce qui nous subjugue, c'est la force de l'action intérieure, et c'est toute la lumière douce et chantante qui se lève sur ce livre, comme le soleil sur un beau matin d'été. Et l'on sent bien souvent passer la phrase des grands écrivains : un son que nous n'entendons plus, presque jamais plus, et où notre esprit s'émerveille.</p>
-        <p>Et voilà le miracle :</p>
-        <p>Marguerite Audoux n'était pas une « déclassée intellectuelle », c'était bien la petite couturière qui, tantôt, fait des journées <hi rend="italic">bourgeoises</hi>, pour gagner trois francs, tantôt travaille chez elle, dans une chambre si exiguë qu'il faut déplacer le mannequin pour atteindre la machine à coudre.</p>
-        <p>Elle a raconté comment, lorsque en sa jeunesse elle gardait les moutons dans une ferme de la Sologne, la découverte, dans un grenier, d'un vieux bouquin lui révéla le monde des histoires. Depuis ce jour-là, avec une passion grandissante, elle lut tout ce qui lui tombait sous la main, feuilletons, vieux almanachs, etc. Et elle fut prise du désir vague, informulé, d'écrire un jour, elle aussi, des histoires. Et ce désir se réalisa, le jour où le médecin, consulté à l'Hôtel-Dieu, lui interdit de coudre, sous peine de devenir aveugle.</p>
-        <p>Des journalistes ont imaginé que Marguerite Audoux s'écria alors : « Puisque je ne peux plus coudre un corsage, je vais faire un livre. »</p>
-        <p>Cette légende, capable de satisfaire, à la fois, le goût qu'ont les bourgeois pour l'extraordinaire et le mépris qu'ils ont de la littérature, est fausse et absurde.</p>
-        <p>Chez l'auteur de <hi rend="italic">Marie-Claire</hi>, le goût de la littérature n'est pas distinct de la curiosité supérieure de la vie, et ce qu'elle s'amusa à noter, ce fut, tout simplement, le spectacle de la vie quotidienne, mais encore plus ce qu'elle imaginait, ce qu'elle devinait de l'existence des gens rencontrés. Déjà, ses dons d'intuition égalaient ses facultés d'observation... Elle ne parlait jamais à quiconque de cette « manie » de griffonner, et brûlait ses bouts de papier, quelle croyait ne pouvoir intéresser personne.</p>
-        <p>Il fallut que le hasard la conduisît dans un milieu où fréquentaient quelques jeunes artistes, pour qu'elle se rendît compte combien les séduisait, combien les empoignait son don du récit. Charles-Louis Philippe l'encouragea particulièrement, mais jamais il ne lui donna de conseils. Adressés à une femme dont la sensibilité était si éduquée déjà, la volonté si arrêtée, le tempérament si affirmé, il les sentait encore plus inutiles que dangereux.</p>
-        <p>À notre époque, tous les gens cultivés, et ceux qui croient l'être, se soucient fort de retour à la tradition et parlent de s'imposer une <hi rend="italic">forte discipline</hi>... N'est-il pas délicieux que ce soit une ouvrière, ignorant l'orthographe, qui retrouve, ou plutôt qui invente ces grandes qualités de sobriété, de goût, d'évocation, auxquelles l'expérience et la volonté n'arrivent jamais seules ?</p>
-        <p>La volonté, d'ailleurs, ne fait pas défaut à Marguerite Audoux, et quant à l'expérience, ce qui lui en tient lieu, c'est ce sens inné de la langue qui lui permet non pas d'écrire comme une somnambule, mais de travailler sa phrase, de l'équilibrer, de la simplifier, en vue d'un rythme dont elle n'a pas appris à connaître les lois, mais dont elle a, dans son sûr génie, une merveilleuse et mystérieuse conscience.</p>
-        <p>Elle est douée d'imagination, mais entendons-nous, d'une imagination noble, ardente et magnifique, qui n'est pas celle des jeunes femmes qui rêvent et des romanciers qui combinent. Elle n'est ni à côté ni au delà de la vie ; elle semble seulement prolonger les faits observés, et les rendre plus clairs. Si j'étais critique, ou, à Dieu ne plaise, psychologue, j'appellerais cette imagination une imagination déductive. Mais je ne me hasarde pas sur ce terrain périlleux.</p>
-        <p>Lisez <hi rend="italic">Marie-Claire</hi>... Et quand vous l'aurez lue, sans vouloir blesser personne, vous vous demanderez quel est parmi nos écrivains -- et je parle des plus glorieux -- celui qui eût pu écrire un tel livre, avec cette mesure impeccable, cette pureté et cette grandeur rayonnantes.</p>
-        <p>OCTAVE MIRBEAU.</p>
-      </div>
-    </front>
     <body>
       <div>
         <head>PREMIÈRE PARTIE</head>
