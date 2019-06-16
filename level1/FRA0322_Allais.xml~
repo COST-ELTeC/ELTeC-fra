@@ -25,6 +25,7 @@
           <relatedItem>
             <bibl type="copyText">
               <title>Le Captain Cap</title>
+              <ref target="">Le Captain Cap</ref>
             </bibl>
           </relatedItem>
           <relatedItem>
@@ -86,9 +87,9 @@
           <head>Ville de Paris</head>
           <p>
             <hi rend="italic">Aux Électeurs du IXe arrondissement, 2e circonscription (1)</hi>.</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Un mot sur le Captain Cap</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Celui qui voudrait rencontrer l'homme du jour, n'aurait pas à le chercher ailleurs que dans la peau du Captain Cap, votre candidat.</p>
           <p>Le Captain Cap ! Tout le monde en parle aujourd'hui, mais combien peu le connaissent !</p>
           <p>J'ai l'honneur d'appartenir à cette petite élite.</p>
@@ -160,7 +161,7 @@
             <hi rend="italic"> et </hi>
             <hi rend="italic">l'amour de la Patrie</hi>
             <hi rend="italic">, ces deux fleurs symboliques sans lesquelles sont vains les trois mots inscrits au fronton de nos édifices : </hi>Liberté, Égalité, Fraternité*.</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Citoyens,</p>
           <p>
             <hi rend="italic">*Il vous faut un homme d'action, je suis prêt.</hi>*</p>
@@ -168,7 +169,7 @@
             <hi rend="italic">*À dimanche donc, et pas d'abstentions.</hi>*</p>
           <p>
             <hi rend="italic">*Vive la République libre et sans bureaux !</hi>*</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Albert C..., dit CAPTAIN CAP.</p>
         </div>
         <div>
@@ -190,7 +191,7 @@
           <p>IXe arrondissement, 2e circonscription.</p>
           <p>
             <hi rend="italic">*Comité anti-européen et anti-bureaucrate.</hi>*</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Citoyens,</p>
           <p>Saint-Just a dit : « Vous avez renversé l'<hi rend="italic">*aristocratie</hi>
             <hi rend="italic">, mais vous avez créé la </hi>
@@ -234,26 +235,26 @@
           <p>Elle est présidée par le citoyen Maurice O'Reilly, dont l'éloge n'est plus à faire, et dont les électeurs du IXe ont pu maintes fois apprécier la valeur.</p>
           <p>La présidence d'honneur est décernée au grand proscrit Alphonse Allais, victime de l'infâme bureaucratie<hi rend="italic">*(1)</hi>*.</p>
           <p>Après avoir en quelques phrases brèves, mais énergiques, exposé les idées générales du Captain Cap, le citoyen Maurice O'Reilly donne lecture de trois télégrammes qui viennent d'arriver :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>
             <hi rend="italic">Saint-Malo.</hi>
           </p>
           <p>À vous de cœur et en dépit de tous.</p>
           <p>Alphonse ALLAIS.</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Porte un toast à la santé du Captain Cap, et bois à ses succès.</p>
           <p>Raoul PONCHON.</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>
             <hi rend="italic">Le Havre.</hi>
           </p>
           <p>Amis du Havre réunis café Régis, nous chargent d'envoyer bons souhaits au vaillant Captain Cap, et poussent trois hurrahs en son honneur.</p>
           <p>Fraternellement vôtres.</p>
           <p>Jules HEUZY, Albert RENÉ, VALLETTE, SIEGFRIED, FAUTREL.</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Le Captain Cap visiblement ému se lève, et après avoir déclaré qu'il est extrêmement touché de ces marques de sympathie, termine en disant qu'on verra par la suite si oui ou non il en est digne.</p>
           <p>Le citoyen Berthez prend alors la parole en ces termes :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Citoyens,</p>
           <p>Je connais depuis fort longtemps le Captain Cap, je l'ai suivi dans bien des opérations ; j'ai même eu l'heureuse occasion de l'accompagner dans un de ses voyages : j'ai donc pu l'apprécier mieux que tout autre, et c'est à ce titre, citoyens, que je demande la parole.</p>
           <p>Albert C..., connu surtout sous le nom de « Captain Cap », a raison d'être fier de ce dernier titre, car il l'a conquis au péril de sa vie, mille fois menacée.</p>
@@ -278,22 +279,22 @@
           <p>Si je vous conte ces choses, citoyens, si je vous conte ces choses stupéfiantes et si j'ajoute ensuite qu'à quelques années de là, ayant perdu son navire et sa cargaison dans les mers polaires, le Captain Cap sauva son équipage découragé et décimé par le scorbut, si je vous énumère rapidement quelques-unes des aventures du Captain, ce n'est pas, croyez-le bien, pour vous éblouir. C'est simplement pour vous montrer que cet homme qui est à la fois un marin, un savant et un philanthrope peut vaillamment conduire la barque dont vous avez résolu de lui confier la barre.</p>
           <p>Voilà l'homme que j'avais à vous présenter. Jugez-le, et interrogez-le.</p>
           <p>Pour moi, je me retire persuadé que, dès à présent, vos voix lui sont acquises. (<hi rend="italic">Applaudissements frénétiques</hi>.)</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Le citoyen Paul Frény ayant ensuite énuméré les qualités artistiques du Captain Cap, et démontré en quelques mots, combien il serait avantageux pour un quartier d'artistes, d'avoir un tel représentant, d'une façon claire et précise le Captain Cap répond aux différentes questions qui lui sont successivement posées par les citoyens Quinel, Georges Albert, Brandimbourg, etc.</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Le citoyen Howard Symonds, demande à interroger le Captain en anglais au sujet de la question anti-européenne.</p>
           <p>Le Captain répond alors qu'il est, malgré tout, un enfant de la vieille Europe, Parisien et Français. Ce qu'il veut combattre et anéantir, c'est la routine et les idées bureaucratiques qui sont la honte de l'Europe. (<hi rend="italic">De nombreux applaudissements accueillent ces paroles.</hi>)</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Le citoyen Brunais, interroge le Captain au sujet des fontaines d'eau chaude.</p>
           <p>Le Captain répond en ces termes :</p>
           <p>-- Je ne suis pas, pour le moment du moins, partisan des fontaines d'eau chaude, attendu que je veux m'occuper du peuple et non le leurrer. On veut établir des fontaines d'eau chaude pour des gens qui n'ont pas de domicile ou qui, logeant dans des bouges, possèdent d'insuffisants mobiliers. L'eau chaude leur serait donc inutile puisqu'ils ne sauraient où la mettre. Avant d'éblouir le peuple en lui promettant de l'eau chaude, il faut donc lui fournir des récipients pour la recueillir. (<hi rend="italic">Très bien, très bien ! Applaudissements unanimes</hi>.)</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>À onze heures et demie, le citoyen Maurice O'Reilly lève la séance. Une haie se forme sur l'avenue Trudaine et trois hurrahs sont poussés en l'honneur du Captain qui regagne sa voiture.</p>
           <p>À ce moment, l'enthousiasme devient si considérable, qu'on dételle le cheval, et que la voiture du candidat est traînée par ses électeurs sur un parcours de 20 mètres.</p>
           <p>Mais le Captain Cap se dérobe aux ovations.</p>
           <p>En moins de temps qu'il n'en faut pour l'écrire, il saute dans un autre fiacre et le chapeau levé, il disparaît en criant :</p>
           <p>-- Plus de bureaucratie ! Plus de routine européenne ! Plus de sauvages blancs !</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>
             <hi rend="italic">Le secrétaire du Comité,</hi>
           </p>
@@ -304,46 +305,46 @@
           <p>La candidature du Captain Cap, candidat anti-européen et anti-bureaucrate prend une excellente tournure dans le IXe arrondissement, 2e circonscription.</p>
           <p>Un comité d'adhésion et de propagande est déjà constitué. Nous y relevons les noms sympathiques de MM. Alphonse Allais, Courteline, Gandillot, Ponchon, Émile Goudeau, Narcisse Lebeau, Paul Clerget, le prince Joë Masson, Jules Jouy, Gérault (du Cantal), Jehan Sarrazin, Félix Huguenet, Paul Robert, Berthier.</p>
           <p>(<hi rend="italic">L'Écho de Paris</hi>, 11 août 1893.)</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>L'illustre Captain Cap, dont les journaux ont tant parlé ces temps derniers, se présente à la députation en qualité de candidat anti-européen et anti-bureaucrate.</p>
           <p>Le Captain Cap est un homme neuf, aux idées larges, ennemi déclaré de la routine et des paperasseries.</p>
           <p>Nous faisons des vœux pour qu'il soit élu.</p>
           <p>(<hi rend="italic">Le Diable au corps</hi>, Bruxelles,</p>
           <p>le 7 août 1893.)</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Une nouvelle candidature vient de surgir dans le IXe arrondissement de Paris qui mérite l'honneur d'une mention, car le programme du candidat sort de la banalité ordinaire.</p>
           <p>Le nouveau candidat s'appelle M. C... ou « Captain Cap ».</p>
           <p>Il se déclare candidat anti-bureaucrate et anti-européen. S'il développe son programme, la seconde partie surtout, dans une réunion publique, les auditeurs ne s'ennuieront pas.</p>
           <p>(<hi rend="italic">Le Petit Journal</hi>, 7 août 1893.)</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Une foule énorme, évaluée à plusieurs centaines d'électeurs du IXe arrondissement et d'autres arrondissements aussi, se pressait hier soir dans un des salons de l'Auberge du Clou pour entendre la profession de foi du Captain Cap.</p>
           <p>Cette réunion a été très mouvementée. Les portes ont été défoncées par quelques demoiselles dont les cartes n'avaient rien d'électoral. On a constaté avec regret que le citoyen candidat n'avait point exprimé dans son programme le désir de faire voter les femmes. La constitution du bureau notamment a soulevé de nombreuses protestations, le candidat se déclarant anti-bureaucrate.</p>
           <p>Finalement, la candidature du citoyen Captain Cap a été acclamée à l'unanimité moins trois voix.</p>
           <p>(<hi rend="italic">L'Écho de Paris</hi>, 13 août 1893.)</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Montmartre sera toujours Montmartre. On y acclame chaque soir,... au Cabaret du Clou, la candidature du Captain Cap, soutenue par la fine fleur des fantaisistes de la Butte, MM. Alphonse Allais, Courteline, le peintre Robert, etc.</p>
           <p>Les questions que l'honorable Captain Cap s'engage à faire prévaloir sont les suivantes :</p>
           <p>Surélévation de Paris à la hauteur de Montmartre ; défense d'abandonner des tunnels sans lumière sur la voie publique ; création d'un Fort-Observatoire à Montmartre, dont les lunettes serviraient de canons ; création d'un Conseil des disques pour punir les accidents de chemins de fer, etc., etc.</p>
           <p>(<hi rend="italic">Le Figaro</hi>, 16 août 1893.)</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>LES ÉLECTIONS</p>
           <p>
             <hi rend="italic">Paris -- IX</hi>e<hi rend="italic"> arrondissement -- 2</hi>e<hi rend="italic"> circonscription.</hi>
           </p>
           <p>Les électeurs de la 2e circonscription du IXe arrondissement, réunis le 6 août à l'auberge du Clou, avenue Trudaine, après avoir entendu les citoyens O'Reilly, Berthez, Georges Albert, Paul Frény, Quinel, Brunais, etc., etc., et les franches et énergiques déclarations du Captain Cap, acclament sa candidature à l'unanimité moins 3 voix et s'engagent à la faire triompher au scrutin du 20 août.</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>LE CAPTAIN CAP</p>
           <p>Nous n'avons pas la prétention de faire connaître le célèbre Captain Cap dont on sait la joyeuse campagne anti-européenne et anti-bureaucratique sous les auspices d'Allais et de Courteline.</p>
           <p>Nous aurions voulu le joindre et savoir ce qu'il pense de ses 176 voix ; mais, semblable à tous les candidats malgré ses assurances fraternelles, il n'a pas plutôt ramassé les voix de ses électeurs qu'il les oublie et les abandonne -- l'ingrat ! À l'Auberge du Clou où il tenait habituellement ses assises, on nous dit qu'on ne l'a pas vu depuis quatre jours. Son imprimeur nous dévoile le lieu habituel des repas du candidat socialiste. Là, nous apprenons que le Captain Cap est parti en Normandie pour se remettre des fatigues de sa campagne électorale...</p>
           <p>(<hi rend="italic">L'Éclair</hi>, 28 août 1893.)</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Nous ne parlerons que pour mémoire de cette débauche d'affiches multicolores, les unes superlativement laudatives, les autres bassement diffamatoires, dont les murs de Paris ont été revêtus dans la matinée et qui constituent, pour employer le style électoral, les manœuvres de l'extrême dernière heure. C'est aux candidats fantaisistes que revient la palme dans cette lutte homérique de la modeste bande contre le grand colombier. À Montmartre, M. le Captain Cap, un humoriste, né sans doute à l'ombre des ailes du Moulin de la Galette, a inondé sa circonscription de proclamations ainsi conçues :</p>
           <p>« Après vingt ans passés sur mer, qu'ai-je trouvé, en rentrant au pays ? Haines, hypocrisie, malversation, népotisme, nullité...</p>
           <p>« L'origine de tous ces maux, citoyens, n'allez pas la chercher plus loin : c'est le microbe de la bureaucratie.</p>
           <p>« Or, on ne parlemente pas avec les microbes.</p>
           <p>« ON LES TUE ! »</p>
           <p>(<hi rend="italic">Le Matin</hi>, 21 août 1893.)</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Candidatures fantaisistes.</p>
           <p>Connaissez-vous the « Captain Cap ? »</p>
           <p>Non, sans doute. Peut-être croirez-vous qu'il s'agit d'un émule ou d'un disciple du célèbre tireur Ira Paine ?</p>
@@ -356,9 +357,9 @@
           <p>Nous avons vainement essayé de joindre the Captain Cap. Impossible de mettre la main dessus. Nul ne sait où perche ce terrible candidat. Vient-il des régions chères à Buffalo-Bill ? Est-ce un cow-boy, un redoutable adversaire des Peaux-Rouges ?</p>
           <p>Non ; <hi rend="italic">the Captain Cap</hi> nous paraît être un aimable fumiste.</p>
           <p>(<hi rend="italic">Le Gaulois</hi>, 6 août 1893.)</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>MON CANDIDAT</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Il est incontestable qu'en ce moment plusieurs millions de Français sont embarrassés, moi tout le premier. J'ai été assez gêné, ces jours derniers, lorsque des milliers d'affiches multicolores m'ont invité à la lecture attentive et au choix judicieux. Les mots très difficiles : mandat impératif, hydre bourgeoise, tyrannie guesdiste, dansaient devant mes yeux ; et je me trouverais encore dans la même expectative si, par bonheur, je n'avais rencontré l'affiche de mon candidat :</p>
           <p>CAPTAIN CAP</p>
           <p>Candidat anti-bureaucratique et anti-européen.</p>
@@ -384,9 +385,9 @@
           <p>Son élection fera sans doute grand plaisir aux employés de l'administration des Postes et des Télégraphes ; car, d'après ses affirmations, il s'empressera de faire rétablir... l'ordre des facteurs.</p>
           <p>Charles QUINEL.</p>
           <p>(<hi rend="italic">Le Charivari</hi>, 13 août 1893.)</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Terminons ces extraits par la petite note dont il est question précédemment et que le regretté Francisque Sarcey n'hésita pas à consacrer à notre ami :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>« J'ai passé une excellente soirée, samedi, dans une petite société artistico-mondaine qui s'intitule <hi rend="italic">Le Gardénia</hi>, je ne sais pas trop pourquoi, peut-être parce que les membres de cette société affectionnent le gardénia de préférence à toute autre fleur.</p>
           <p>« Ce sont de charmants jeunes gens, d'ailleurs fort aimables, fort bien élevés, et passionnés, par-dessus tout, pour les choses de théâtre.</p>
           <p>« Est-ce que ça ne vaut pas mieux, entre nous, que d'aller au café s'abrutir, boire un tas de consommations qui vous font mal à l'estomac, et, finalement, dépenser beaucoup d'argent ?</p>
@@ -405,7 +406,7 @@
         <div>
           <head>Déclaration</head>
           <p>Après tant d'indiscutables témoignages, au cas où le moindre de ces messieurs et dames de mes lecteurs s'aviserait encore de mettre en doute l'existence réelle du Captain Cap, je suis disposé -- quand et où l'on voudra -- à en faire une affaire personnelle.</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>A. A.</p>
         </div>
       </div>
@@ -426,7 +427,7 @@
           <p>Ces formules m'ont été confiées par l'homme de Paris qui possède le plus d'autorité dans cette matière, je veux parler de M. Louis Fouquet, propriétaire et directeur du célèbre bar qui fait le coin de l'avenue des Champs-Élysées et de l'avenue de l'Alma.</p>
           <p>Si quelqu'un de nos lecteurs désirait avoir sur la préparation des <hi rend="italic">American Drinks</hi> et sur le petit matériel que comporte ce sport, quelques détails supplémentaires, il n'a qu'à s'adresser directement à ce Louis Fouquet, jeune homme chez qui la technique impeccable s'allie à la plus parfaite courtoisie.</p>
           <p>Louis Fouquet se mettra volontiers à la disposition de nos lecteurs pour tous les renseignements concernant la matière.</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>A. A.</p>
         </div>
         <div>
@@ -546,7 +547,7 @@
           <p>« D'un pas de somnambule, Y... revint vers nous, prit son chapeau et sa canne. Il sortit.</p>
           <p>« Nous croyions tous à une bonne charge. Pas du tout ! Nous ne le revîmes plus jamais au café. En six mois, il passa ses derniers examens et sa thèse. -- À l'heure qu'il est, il est professeur à la Faculté de médecine de Nancy.</p>
           <p>« L'image de son regard dans la glace l'avait mis en état d'hypnose et il s'était fait suggérer à lui-même par son propre reflet de ne plus boire et de travailler ! »</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Tous, nous avions écouté cette histoire avec beaucoup d'intérêt. Le Captain Cap, surtout, semblait vivement ému.</p>
           <p>-- Croyez-vous, demanda-t-il au docteur, que ce procédé me réussirait, à moi ?</p>
           <p>-- Pourquoi pas ? dit V... Vous pouvez toujours essayer.</p>
@@ -581,7 +582,7 @@
           <p>Une fois endormie, elle n'était plus qu'un outil de cire molle entre les doigts de votre volition, si, toutefois, nous osons nous exprimer ainsi.</p>
           <p>Si on voulait, on irait ce soir.</p>
           <p>On y alla.</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>De sa rude main droite d'homme de mer, Cap prit les menues menottes de la petite bergère montmartroise, et de l'autre opéra certaines passes connues de lui seul.</p>
           <p>Un, deux, trois... ça y est ! Elle dort.</p>
           <p>Alors Cap sortit de sa poche une pomme de terre crue et une goyave.</p>
@@ -720,25 +721,25 @@
           <p>En arrivant à Nice, le Captain Cap et moi, deux affiches murales se disputèrent la gloire d'attirer notre attention.</p>
           <p>(<hi rend="italic">La phrase que je viens d'écrire est d'une syntaxe plutôt discutable. On ne dirait vraiment pas que j'ai fait mes humanités</hi>.)</p>
           <p>Celle de ces deux affiches qui me charma, moi, en voici la teneur :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>X..., PÉDICURE</p>
           <p>TELLE RUE, TEL NUMÉRO</p>
           <p>LE SEUL PÉDICURE SÉRIEUX DE NICE</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Jamais, comme en ce moment, je ne sentis l'horreur de toute absence, sur mes abatis, de cors, durillons, œils de perdrix et autres stratagèmes.</p>
           <p>Avoir sous la main un artiste qui, non content d'être sérieux, tient en même temps à être le seul sérieux d'une importante bourgade comme Nice, et ne trouver point matière à l'utiliser ! regrettable, ah ! que !...</p>
           <p>Cap me proposa bien un truc qu'il tenait d'une vieille coutume en usage chez les femmes de saura-t-on jamais quel archipel polynésien, lesquelles femmes font consister tout leur charme à détenir le plus grand nombre possible de durillons sur les parties du corps les moins indiquées pour cette fin.</p>
           <p>Je ne crus point devoir accepter, pour ce que ce jeu n'en valait point la chandelle, et nous passâmes à un autre genre de sport.</p>
           <p>Celle des affiches murales que préféra Cap, annonçait à Urbi, Orbi and C°, que tout individu, titulaire d'une petite somme variant entre vingt-cinq centimes et un franc, pouvait s'offrir le spectacle d'un orang-outang, autrement dit, messieurs et dames, le véritable homme des bois, le SEUL, (tel mon pédicure du début) ayant paru en France depuis les laps les plus reculés.</p>
           <p>Une gravure complétait ce texte, une gravure figurant le buste du quadrumane, et autour de cette gravure, ainsi qu'une inscription de médaille, s'étalaient ces mots, circulairement :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>
             <hi rend="italic">Je m'appelle Auguste :</hi>
           </p>
           <p>
             <hi rend="italic">10,000 francs à qui prouvera le contraire !</hi>
           </p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Dix mille francs à qui prouvera le contraire !</p>
           <p>Le contraire de quoi ? Que le monstre en question fût un véritable orang-outang, un authentique homme des bois, ou simplement qu'il s'appelât, de son vrai nom, Auguste ?</p>
           <p>Pour l'âme limpide de Cap, nul doute ne savait exister.</p>
@@ -805,14 +806,14 @@
           <p>Ma nourriture se compose exclusivement de rogue de limande très peu cuite, que j'arrose avec une infusion de chiendent coupée d'un bon tiers de queues de cerises.</p>
           <p>Quelle est mon attitude sur la machine ? me demandez-vous.</p>
           <p>À cet égard, j'ai toujours suivi un vieux dicton de l'École de Saverne que ma grand-mère me répétait souvent, au temps de mon enfance, et dont je n'ai jamais cessé de bien me trouver :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>
             <hi rend="italic">Rigide comme un cyclamen</hi>
           </p>
           <p>
             <hi rend="italic">Chevauchez votre cycle. Amen !</hi>
           </p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>J'évite donc de me pencher sur le guidon et tout le haut de mon corps tend, sans affectation, à se rapprocher de la verticale.</p>
           <p>Voilà, mon cher Allais, les quelques détails que vous avez sollicités de mon obligeance bien connue et de ma courtoisie dont l'éloge n'est plus à faire.</p>
           <p>Pour les renseignements complémentaires, consultez mon prochain ouvrage (<hi rend="italic">sous presse</hi>) : <hi rend="italic">Les Confessions d'un enfant du cycle</hi>.</p>
@@ -1120,12 +1121,12 @@
           <head>Chapitre XVII -- Où le Captain Cap réussit sans appareil à ascensionner avec la régularité d'un oiseau.</head>
           <p>Ce pauvre Captain Cap commençait à me raser étrangement, avec ses aérostats, ses machines volantes, planantes et autres, qui m'indiffèrent également.</p>
           <p>J'allais prendre congé sur un quelconque motif, quand un gentleman d'aspect robuste, et qui avait semblé prendre un vif intérêt aux grandes idées de Cap, se leva, s'approcha, nous tendant le plus correctement du globe sa carte, une très chic carte de chez Stern, sur laquelle on pouvait lire ces mots :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Sir A. KASHTEY</p>
           <p>
             <hi rend="italic">Winnipeg.</hi>
           </p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Nous aimons beaucoup le Canada, Cap et moi, et la rencontre d'un Canadien, même d'un Canadien anglais, nous transporte toujours de joie.</p>
           <p>Aussi accueillîmes-nous, d'une mine accorte, ce noble étranger qui voulut bien consentir à accepter un <hi rend="italic">champagne-gobbler</hi>
             <hi rend="italic">*(1)</hi>*.</p>
@@ -1150,14 +1151,14 @@
           <p>(Et même si ces lignes viennent à tomber sous les yeux des jeunes filles de Tadoussac, qu'elles sachent bien que messieurs P. F., E. D., B. de C., A. A. ont gardé d'elles un souvenir imprescriptible à la fois et charmant<hi rend="italic">*(1)</hi>*.</p>
           <p>Sitôt fermée ma parenthèse, le gentleman de Winnipeg termina son récit avec une aisance presque injurieuse pour ce pauvre Cap :</p>
           <p>-- Dès que j'eus mis pied à terre, j'exhalai le petit restant d'hydrogène qui me restait dans le coffre, et je gagnai la saumonnerie de Tadoussac en chantant à pleine voix cette vieille romance française que j'aime tant :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>
             <hi rend="italic">Laissez les roses aux rosiers</hi>
           </p>
           <p>
             <hi rend="italic">Et les éléphants au lord-maire.</hi>
           </p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Visiblement contrarié, Cap haussa les épaules murmurant :</p>
           <p>-- Ce bonhomme-là ne me fait pas l'effet d'un personnage bien sérieux.</p>
         </div>
@@ -1223,7 +1224,7 @@
           <p>-- Pendant l'été, l'été torride de ces parages, on opère le manège contraire et l'on peut ainsi fuir l'horreur des calcinants midis.</p>
           <p>-- Admirable !</p>
           <p>-- Nous voilà loin, n'est-ce pas, mon cher, de la maison moderne de Marcel Prévost, aux tuyaux émaillés qui empêchent les microbes de remonter dans l'appartement !</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>-- Un petit <hi rend="italic">coffee punch</hi>
             <hi rend="italic">*(1)</hi>*, Captain ?</p>
           <p>-- Volontiers ! fit Cap.</p>
@@ -1327,7 +1328,7 @@
           <p>J'avais depuis longtemps oublié l'aimable invitation de M. Laidgency (car tel est son nom) quand Cap, un beau matin, me proposa :</p>
           <p>-- Tu ne sais pas ? On devrait bien aller goûter aux crus de notre ami de l'autre jour.</p>
           <p>-- C'est une idée !... Garçon, l'indicateur !</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>Ce fut seulement à la gare de B... que nous constatâmes l'absence sur notre carnet de l'adresse exacte de Laidgency.</p>
           <p>-- Bah ! fit Cap, le premier cocher d'omnibus venu nous renseignera. Un tel homme doit être populaire dans son endroit.</p>
           <p>En effet, le premier cocher d'omnibus venu renseigna Cap et le renseigna au moyen de sept ou huit mots à peine, mais qui suffirent à éclairer la religion de Cap.</p>
@@ -1335,7 +1336,7 @@
           <p>Je n'avais pas entendu la réponse du cocher, mais, étant donné le laps infinitésimal de la durée du colloque, je pouvais sans crainte d'exagération, évaluer cette réponse à sept ou huit mots au plus, mettons dix, pour être munificent.</p>
           <p>Cap me dit :</p>
           <p>-- Je sais où c'est. Viens.</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>La petite ville de B... (comme beaucoup de petites villes sur la ligne d'Orléans), possède une gare située dans un faubourg assez lointain de la vraie agglomération citadine, dont elle est séparée par une longue avenue de tilleuls<hi rend="italic">*(1)</hi>*.</p>
           <p>Contemporaine, au bas mot, de François Ier, cette historique cité présente à l'œil ravi du voyageur un lacis inextricable de petites rues pittoresques, je n'en disconviens pas, mais au plus haut point labyrintheuses.</p>
           <p>La merveille était que ce damné Captain se dirigeât, par ce dédale, avec l'aisance et la désinvolture qu'il aurait mises à se balader dans Chicago, Québec, ou toute autre de ses villes natales.</p>
@@ -1347,9 +1348,9 @@
           <p>Puis bientôt :</p>
           <p>-- Tu vois cette grande maison en briques ? étendit-il une main triomphale. Eh bien, c'est là.</p>
           <p>C'était là !</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>Comment diable avait-il pu se faire que, grâce au si court, au si furtif renseignement du cocher (dix mots, je l'ai su depuis) il ait su se diriger, avec une telle précision, dans une ville infiniment compliquée où il n'avait jamais fichu les pieds, vers un logis qu'il me désignait à l'avance bien que ne l'ayant jamais considéré jusqu'à ce jour ?</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>Laidgency nous reçut royalement, mais je ne pus, de la nuit, clore l'œil, tant j'étais agacé par l'irritante énigme sur laquelle Cap se contentait de dire :</p>
           <p>-- J'ai le sens de l'orientation poussé au dernier point. Rien de plus.</p>
           <p>Accrue peut-être par l'excessive consommation que nous avions faite au dîner des principaux crus tourangeaux, ma surexcitation ne connaissait plus de bornes.</p>
@@ -1367,7 +1368,7 @@
           <p>« Cap ne se trompait pas.</p>
           <p>« Diaboliquement ravi de me voir si intrigué, Cap se refuse à la moindre explication.</p>
           <p>« Si demain je n'ai pas le mot de l'énigme, je suis parfaitement disposé à tuer Cap et à périr ensuite, au besoin, sur l'échafaud. »</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>Le lendemain matin, toujours lanciné par mon insupportable hantise, je me lève avant tout le monde et je file vers la gare.</p>
           <p>J'ai mon idée.</p>
           <p>Précisément un omnibus arrive, conduit par le cocher consulté hier.</p>
@@ -1398,7 +1399,7 @@
           <p>Par exemple, au lieu de cette vieille mention à laquelle nous sommes habitués depuis la tendresse de l'âge : « Janvier 4, vendredi, saint Rigobert », nous apercevons, et non sans stupeur : « Janvier 4, vendredi, Chocolat Menier. »</p>
           <p>Le mardi 16 avril, ce pauvre saint Fructueux se voit désinvoltement remplacé par « Crème Simon » !</p>
           <p>Et ainsi de suite, jusqu'au 31 décembre, où saint Sylvestre est détrôné par... <hi rend="italic">Montre du Vingtième siècle</hi>.</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>M. Mougeot souriait.</p>
           <p>-- Oui, mon ami, tels seront désormais nos nouveaux almanachs, dont celui que vous tenez dans les mains n'est qu'un fastueux échantillon.</p>
           <p>-- Étrange !</p>
@@ -1424,7 +1425,7 @@
           <p>Non. Mais dès maintenant, mes chers amis, il s'agit de ne plus faire les poires ; il nous faut abandonner le vieux système barbare de chaufferie par combustion de bois, charbon, coke, etc., etc.</p>
           <p>En un mot, sur cette branche comme sur toutes les autres où s'accrochent les mille problèmes de la vie, déterminons-nous, une bonne fois, à nous montrer scientifiques et à, loin des routines ancestrales, mais bien dans le radieux firmament de la véritable civilisation moderne, chercher le flambeau qui nous guide, je ne dis pas au bonheur parfait, puisque le bonheur parfait ne saurait être de ce monde, assure Machin, mais tout modestement, et ce sera encore bien joli, n'est-ce pas ? au confortable. Ouf !</p>
           <p>Mais assez de préambule. Arrivons au fait !</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>C'était de nuit ; nous nous trouvions, le Captain Cap et moi, seuls dans un wagon de la ligne de l'Ouest, quand un brave employé changea nos bouillottes.</p>
           <p>Malheureusement, soit économie de l'administration, soit personnelle erreur, il changea nos deux bouillottes borgnes contre deux autres aveugles, c'est-à-dire, et je crois en être certain, qu'il nous infligea deux de ces ustensiles provenant d'un wagon voisin, cependant que le wagon voisin bénéficiait des nôtres. (Ce n'est pas autrement qu'on fait les bonnes maisons.)</p>
           <p>Moi, je me contentai de hausser les épaules (lié que je suis par les bienfaits de la Compagnie de l'Ouest) ; mais mon compagnon entra dans une colère abominable et accabla tout le personnel de la gare d'une foule opaque d'injures diverses.</p>
@@ -1486,11 +1487,11 @@
           <p>La théorie tient donc dans ces trois mots (Edgard) : « Perturbons les nuages en leur tirant dessus des coups de canon ! »</p>
           <p>Le seul défaut de ce séduisant système, c'est l'exigence qu'il implique de pièces, de poudre, d'artilleurs spéciaux, tout le tonnerre de Dieu, en un mot, ou plutôt de l'Homme !</p>
           <p>Que de dépenses pour le budget d'humbles bourgades, et que de soucis !</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>Sollicité par maint syndicat agricole, vinicole et autre exploitation en « cole », d'avoir à simplifier la question et d'obtenir à moindre « aria » résultat supérieur, le Captain Cap sentit d'elles-mêmes se hausser ses épaules à l'aisance de la tâche.</p>
           <p>Ne serait-il pas, il vous en fait juge, plus simple, tant qu'à perturber le nuage, de le perturber en son propre sein, grâce à de rustiques mongolfières en papier, chargées d'une simple livre de poudre de chasse qu'enflammerait une pâle mèche, analogue à celle dont se servent nos braves artificiers pour, à distance, allumer de prestigieuses pyrotechnies, le soir du 14 juillet, aux cris mille fois répétés de « Vive la République ! »</p>
           <p>Très simple, en vérité, mais -- ne nous fatiguons pas à le redire -- fallait-il y songer !</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Comme le faisait hier, et fort judicieusement, observer, la charmante comtesse Nimportka, le charbon devient hors de prix.</p>
           <p>Soyons des hommes et ne cherchons pas à nous dissimuler l'atroce vérité : une crise industrielle se prépare.</p>
           <p>La question du charbon, mesdames et messieurs... Mais, avant d'entrer dans le vif du problème, rectifions, d'après les beaux travaux du Captain Cap, les fausses idées que nos lecteurs pourraient concevoir sur la formation du charbon.</p>
@@ -1526,7 +1527,7 @@
           <p>Non satisfait de les accoupler, ces rimes d'or, il les -- si j'ose inaugurer ce terme -- attriplait.</p>
           <p>(Je ne veux pas dire que Tony inventa ce mode, -- d'autres l'employaient depuis longtemps, -- mais, lui, l'appliqua dans toute sa rigueur.)</p>
           <p>Au bout de fort peu de temps, Tom Hatt m'apportait un petit poème qui débutait par ce curieux tercet :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>
             <hi rend="italic">Dans les environs d'Aigues-</hi>
           </p>
@@ -1536,7 +1537,7 @@
           <p>
             <hi rend="italic">Auxquelles tu te ligues.</hi>
           </p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Etc., etc.</p>
           <p>-- Mais, mon pauvre ami, ne pus-je m'empêcher de m'écrier, ça ne rime pas !</p>
           <p>-- Je le sais déjà, répondit Tom, Tony me l'a dit.</p>
@@ -1545,7 +1546,7 @@
           <p>-- Il a raison.</p>
           <p>-- Je vais recommencer, voilà tout ! À demain !</p>
           <p>Et, le lendemain, en effet, Tom Hatt soumettait à mon examen un second morceau, de haute envolée, de philosophie profonde, mais dont voici le début :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>
             <hi rend="italic">Tout vrai poète tient</hi>
           </p>
@@ -1555,7 +1556,7 @@
           <p>
             <hi rend="italic">De ceux qui balbutient.</hi>
           </p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Etc., etc.</p>
           <p>Devant tant de bonne volonté, je n'ai eu -- qu'est-ce que vous voulez ! -- qu'à m'incliner.</p>
           <p>-- Cette fois-ci, mon vieux, ça y est ! Tous mes compliments !</p>
@@ -1564,7 +1565,7 @@
         <div>
           <head>Chapitre XXVIII -- Odieuse violation d'un règlement formel.</head>
           <p>Dans le courrier du Captain Cap, ce matin, se trouvait cette lettre qu'il me confie et dont la publication pourra sauver des milliers d'êtres humains, sans compter les animaux (car rien ne prohibe qu'il s'en trouve en telle occurrence) d'un des plus affreux trépas qu'il soit donné aux habitants de notre planète d'éprouver :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>« Cher monsieur et illustre Captain,</p>
           <p>« Je n'ai pas l'honneur de vous connaître, mais un de mes collègues de bureau vous désigne à moi comme un des rares personnages en vue actuellement vivants qui ne soient pas vendus à l'une quelconque de nos grandes administrations.</p>
           <p>« Vous êtes donc tout indiqué, cher monsieur, pour signaler au public une des plus incroyables monstruosités officielles dont, et cela depuis plus de cinquante ans, il ait à pâtir.</p>
@@ -1590,7 +1591,7 @@
           <p>« (M. Papillaud possède la photographie du dernier reçu de M. Baudin.)</p>
           <p>« Ah ! c'est du propre !</p>
           <p>« Veuillez agréer, etc. etc. »</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Cette intéressante communication est signée d'un fonctionnaire au ministère des travaux publics qui prie Cap de ne pas imprimer son nom, rapport à la petite allocation du jour de l'An, laquelle, redoute-t-il, ne gagnerait rien à cette publicité.</p>
         </div>
         <div>
@@ -1625,7 +1626,7 @@
           <p>Parmentier, lui, n'y regarda pas de si près.</p>
           <p>De là son incontestable notoriété.</p>
           <p>Mais M. Noël Bernard veillait.</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>Trop de zèle attristant Bernard<hi rend="italic">*(1)</hi>* ! Je comprends et j'approuve de toutes mes forces qu'on lutte contre la tuberculose, mais il y a tubercules et tubercules.</p>
           <p>La pomme de terre, d'ailleurs, même en robe de chambre, est assez grande fille pour se défendre toute seule contre vos grotesques imputations.</p>
           <p>Et n'est-ce point, parlant de la pomme frite, radieusement puissante en sa frêle apparence, que Victor Hugo émit jadis : « Dans tubercule, il y a Hercule ! »</p>
@@ -1650,12 +1651,12 @@
           <p>Vous avez compris à demi-mot, n'est-ce pas !</p>
           <p>Et ne voyez-vous point là, vaillante petite épargne française, le placement de père de famille dont je vous parlais plus haut ?</p>
           <p>Seulement, je le répète, ne point perdre une minute.</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>
             <hi rend="italic">P.-S.</hi> Comme bien je m'y attendais, le simple et résumé programme de cette magnifique affaire, la « Société générale des Pelleteries de Paris », a suscité dans le monde si intéressant de la petite épargne française une émotion bien légitime.</p>
           <p>Cette idée, en effet, d'utiliser les catacombes en les transformant en vastes locaux frigides et simili-polaires où l'on pourra cultiver à foison les animaux riches en luxueuses fourrures, ne pouvait manquer de rencontrer un accueil sympathique, encourageant et flatteur. De mille départements à la fois, sans exagération, pleuvent les souscriptions, les demandes de renseignements, les conseils, les sollicitations à quelque emploi dans l'entreprise (si modeste soit-il, ajoute un pauvre bougre).</p>
           <p>De ce volumineux courrier citons les deux lettres suivantes, curieuses l'une et l'autre, bien qu'à des titres différents :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>« Cher et glorieux Captain,</p>
           <p>« Comme vous, je crois la « Société générale des Pelleteries de Paris » appelée au plus brillant avenir : quand on obtient une peau de renard bleu, par exemple, à un prix de revient pas sensiblement supérieur à celui d'une peau de lapin, tenez pour certain qu'une telle entreprise est susceptible de réaliser des bénéfices inconnus jusqu'alors chez l'excellent M. Révillon ou tel autre de ses confrères en fourrures.</p>
           <p>« Eh bien, cher monsieur, ces bénéfices, je viens vous proposer de les accroître encore dans de sensibles proportions.</p>
@@ -1670,9 +1671,9 @@
           <p>« Dans l'espoir, etc., etc.</p>
           <p>« Veuillez, etc., etc.</p>
           <p>« EUGÈNE. »</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>L'autre lettre émane, j'en ai grand-peur, de quelqu'un de pas bien sérieux, quoique assez familier :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>« Mon vieux Captain,</p>
           <p>« Très chic, ton truc d'installer le Septentrion et ses bêtes à poil de luxe dans les catacombes !</p>
           <p>« Mais ne crains-tu pas que tous ces opulents bestiaux ne soient pas bientôt pris du mal du pays ?</p>
@@ -1681,7 +1682,7 @@
           <p>« Hé, parbleu ! Polaire en personne, l'étoile Polaire elle-même !</p>
           <p>« À toi,</p>
           <p>« VICTOR. »</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>L'innocente plaisanterie de M. Victor n'empêchera pas la « Société des Pelleteries de Paris » de gravir d'une main sûre les marches du succès.</p>
         </div>
         <div>
@@ -1711,12 +1712,12 @@
           <p>L'exemple de Cham Loth porta ses fruits : beaucoup de jeunes hommes se répandirent par les pays voisins, débitant mille objets disparates, dont, à grosses clameurs, ils indiquaient le nom, l'emploi, les mérites et le prix.</p>
           <p>Par imitation, le peuple désignait ces vacarmeux individus sous le terme de leur initiateur : Cham Loth.</p>
           <p>Le nom leur en resta et trépassa<hi rend="italic">*(1)</hi>* les âges.</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>Fiers de cette origine quasi-royale, nos modernes camelots cherchent à susciter un réveil dans leur corporation, un réveil doublé d'une ascension vers profits et honneurs.</p>
           <p>Nul doute que leur congrès ne fourmille d'intéressants détails, mais c'est surtout leur tournoi qui passionnera, je pense, notre capitale.</p>
           <p>Car le Congrès des camelots sera suivi d'un tournoi.</p>
           <p>Trente-sept mille camelots arrivés des quatre coins du globe se répandront dans toutes les rues de Paris, exerçant, à qui mieux mieux, leur active industrie et cherchant à vendre aux passants affolés des choses très probablement hétéroclites.</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>
             <hi rend="italic">P.-S.</hi> Jamais, je l'avoue, je n'aurais reconnu M. Salomon Reinach dans le gentleman qui se présentait si fort poliment au seuil de mon cabinet, avec, à la main, son chapeau haut de forme. J'aurais d'autant moins reconnu ce personnage que -- persistons en la voie des aveux -- cette fois était la première où se m'offrait l'occasion de sa vue.</p>
           <p>M. Salomon Reinach a bien des défauts, mais personne ne s'avisera, j'estime, à contester sa mirifique compétence en tout ce qui touche le savoir et l'interprétation des textes bibliques.</p>
@@ -1744,7 +1745,7 @@
         <div>
           <head>Chapitre XXXII -- Le sanatorium de l'avenir.</head>
           <p>De tous côtés, on ne parle que de « sanatoriums ».</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>... Messieurs les typographes, veuillez avoir l'obligeance de m'ouvrir une de vos plus confortables parenthèses :</p>
           <p>(Au pluriel, n'en déplaise à certains messieurs, je n'hésite pas à écrire « sanatoriums », et mon attitude, à cet égard, ne changera qu'au jour improbable où, généralisant leur pédanterie, ces certains messieurs diront des « aquaria », des « harmonia », etc.</p>
           <p>Suivez plutôt mon raisonnement :</p>
@@ -1753,8 +1754,8 @@
           <p>Dès qu'un terme exotique entre dans notre langue, à lui d'en subir, sans murmurer, la règle, si tyrannique, si arbitraire puisse-t-elle lui sembler, ou alors qu'il retourne dans son sale patelin et qu'il nous fiche la paix !</p>
           <p>Quand une dame me raconte qu'elle vient d'entendre de magnifiques « soli », je lui demande incontinent comment se portent ses « gigoli ». (Tête généralement de la personne !)</p>
           <p>S'il s'agit, comme en l'espèce, d'une langue morte, engageons alors le pauvre bougre de mot à regagner prestement la paix de son sépulcre, et qu'il n'en soit plus question !)</p>
-          <p>---</p>
-          <p>   </p>
+          <milestone type="line"/>
+          <milestone type="space"/>
           <p>De tous côtés, donc, on ne parle que de sanatoriums.</p>
           <p>Et non seulement on en parle, ce qui ne suffirait pas à terrasser la tuberculose, mieux : on en édifie, on en inaugure même.</p>
           <p>Pas en nombre suffisant, hélas ! mais il y a commencement à tout, pas vrai ?</p>
@@ -1795,14 +1796,14 @@
           <p>Fort intéressés d'une expérience aussi inattendue, bien décidés à en suivre les phases, nous emboîtâmes le pas, Cap et moi, à notre improvisé sujet.</p>
           <p>Bientôt, il s'arrêtait sous une porte cochère, tirait de sa poche la pièce de cent sous et l'observait longuement sur ses deux faces (ou pour parler plus exactement, sur sa pile et sur sa face) ; puis il entra chez un mastroquet où il absorba, en moins de temps qu'il n'en faut pour l'écrire, une de ces absinthes dans lesquelles la cuiller tient facilement debout.</p>
           <p>Tout le temps que dura cette opération notre malade ne trépida pas.</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>Sans rien conclure hâtivement, ne nous est-il pas permis, dès aujourd'hui, de présumer que l'argent est un métal qui n'a pas besoin, ainsi qu'on l'avait cru jusqu'à présent, d'être ingéré pour avoir une action des plus sédatives à l'égard des accidents nerveux ?</p>
         </div>
         <div>
           <head>Chapitre XXXIV -- <hi rend="italic">*Franchissons les rivières sur des ponts formés par des dos de crocodiles.</hi>*</head>
           <p>Des lettres semblables à celle que voici honorent autant le citoyen qui les écrit que l'homme à qui elles sont destinées.</p>
           <p>Aussi n'hésité-je point à publier cette missive avant même de l'avoir lue :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>« Monsieur et honoré Captain !</p>
           <p>« Avant de commencer, permettez-moi de retirer mon képi bien bas devant l'ardent patriote dont l'esprit toujours en éveil n'a jamais perdu de vue le salut national, quitte à l'assurer moyennant l'aide des animaux les plus inattendus.</p>
           <p>« L'idée de dresser des chiens militaires anti-cyclistes et des puces, non moins militaires, anti-chiens, est de celles que l'Europe vous envie.</p>
@@ -1825,7 +1826,7 @@
           <p>GUY D'AGOCH,</p>
           <p>
             <hi rend="italic">simple lieutenant d'infanterie.</hi> »</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Certes, l'idée de l'honorable correspondant est des plus séduisantes, mais comme dit Cap, vous verrez une fois de plus à l'œuvre l'inertie des bureaux.</p>
         </div>
         <div>
@@ -1834,13 +1835,13 @@
           <p>Une foule innombrable d'étrangers s'entasse chaque soir dans nos lieux de plaisir : la politesse française commande de rôtir nos invités en nombre aussi réduit que possible.</p>
           <p>Ce qui constitue le danger dans ces sortes de malheurs, c'est moins encore la flamme elle-même que l'incroyable panique qui se manifeste dès le début du sinistre et vient causer bousculades, encombrements, écrasements.</p>
           <p>Une foule qui, terrifiée, se presse dans les couloirs d'un théâtre, c'est un bouchon qui se gonflerait dans l'étranglé goulot d'une bouteille.</p>
-          <p>---</p>
-          <p>   </p>
+          <milestone type="line"/>
+          <milestone type="space"/>
           <p>Tous les naturalistes vous diront que, chez l'anguille, le cas de trépas accidentel par combustion dans un théâtre ou autre endroit de plaisir en flammes, est un fait des plus rares.</p>
           <p>À quoi attribuer cette, en apparence, curieuse immunité ?</p>
           <p>À ceci, tout simplement, que l'anguille, lotie par la nature d'un corps parfaitement lisse et comme lubrifié, peut, dès la première alerte, se glisser, se faufiler et promptement parvenir au dehors sans que nulle aspérité personnelle extérieure ne vienne entraver son cours onduleux.</p>
           <p>L'expérience est facile à faire : remplissez une salle de spectacle avec des anguilles, poussez brusquement un cri d'alarme quelconque, ainsi, par exemple, que : « Voici les Tartares ! », et vous serez positivement émerveillé de la rapidité avec laquelle tout ce souple petit monde aura gagné les parties externes du bâtiment.</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>N'y avait-il pas, pour l'humanité, quelque profitable leçon à tirer de cet exemple ?</p>
           <p>De bonne foi, le Captain Cap l'avait cru un instant, et il proposa aux autorités compétentes le projet d'une sorte de vêtement à l'usage des spectateurs, en forme de cache-poussière, avec, remplaçant le tissu, de la peau de pêche, de la simple peau de pêche.</p>
           <p>Ayant, à la suite de longs travaux, remarqué que la peau d'anguille morte ne possède pas les mêmes qualités de glissement que celle de la vivante, il s'était décidé à la remplacer par de la peau de pêche, dont les propriétés, à cet égard, sont si connues et appréciées des amateurs.</p>
@@ -1870,7 +1871,7 @@
           <p>Les machines à bactéries, l'avenir ne saurait se trouver ailleurs, car ce moteur-là ne risquera jamais de s'épuiser ; quand il n'y en a plus, il y en aura encore !</p>
           <p>Et puis, le grand avantage du système Melnikoff consiste surtout dans la facile utilisation du résidu : à peu près un litre de cognac ( ?) pour cinq kilos de glucose employée.</p>
           <p>Chouette, alors ! Y aura du bon !</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>Et maintenant, arrachons brutalement à M. N.-P. Melnikoff, d'Odessa, la couronne apothéotique qu'il usurpe !</p>
           <p>M. N.-P. Melnikoff arrive bon second dans cette intéressante question.</p>
           <p>Le premier ne fut autre, une fois de plus, vous l'avez deviné, que notre glorieux ami, le Captain Cap.</p>
@@ -1928,7 +1929,7 @@
           <p>L'homme eut la chance de tomber, tout de suite, sur une véritable occasion : un sale jaguar adulte, dont le mauvais caractère aurait lassé la patience d'un saint et qu'on lui abandonna pour un prix dérisoire.</p>
           <p>Ce jaguar fut introduit dans une forte malle, une de ces fortes malles où la tôle d'acier joue un rôle plus considérable que l'osier ou la toile cirée.</p>
           <p>Un rapide steam-boat ramena vers Marseille le grincheux Captain et son farouche compagnon.</p>
-          <p>---</p>
+          <milestone type="line"/>
           <p>Le jaguar qui, à l'état libre, n'est déjà pas d'une mansuétude désordonnée, perd encore de sa sociabilité par le séjour d'une semaine dans une malle, même quand son maître a pris la précaution d'enfermer avec lui une dizaine de kilogrammes de viande de cheval premier choix.</p>
           <p>Notre jaguar ne se comporta pas autrement que la plupart de ses congénères.</p>
           <p>Précisément, le garçon de l'hôtel eut la fâcheuse pensée de s'approprier un mouchoir de poche appartenant à notre ami.</p>
@@ -2077,7 +2078,7 @@
           <p>... Cette histoire m'est revenue en souvenance à la lecture d'une stupéfiante circulaire qu'a bien voulu me communiquer mon ami le Captain Cap en m'engageant à y mettre toutes mes économies.</p>
           <p>Il s'agit d'une affaire, mirifique au dire du prospectus, d'une entreprise de <hi rend="italic">Délardage de Cochons vivants</hi>.</p>
           <p>Le début de la circulaire, que voici textuellement vous éclairera sur la question :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>« LA PORCARINE</p>
           <p>« <hi rend="italic">Origine et principe de l'invention.</hi> »</p>
           <p>« Le plus simple cultivateur sait que le cochon arrivé au moment psychologique (<hi rend="italic">sic</hi>), c'est-à-dire <hi rend="italic">gras à point</hi>, se laisse manger, par les rats, des portions importantes de sa chair.</p>
@@ -2189,7 +2190,7 @@
           <p>L'huile se trouva remplacée par de la bonne glycérine, légèrement teintée de jaune.</p>
           <p>... Tous ceux de nos lecteurs qui ont seulement passé deux ou trois ans dans une sérieuse fabrique de dynamite, savent que le mélange des corps ci-dessus forme ce qu'on est convenu d'appeler de la nitro-glycérine.</p>
           <p>Quand le mélange est opéré brusquement et sans précaution, il se produit une élévation de température bientôt suivie d'une de ces explosions après lesquelles on n'a qu'à tirer l'échelle (s'il en reste).</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Les choses se passèrent comme il était prévu.</p>
           <p>Malgré le grand tralala du dîner de ce soir, la dame tint à accommoder sa salade elle-même. Alors le saladier fut réduit en miettes et la chicorée violemment projetée sur tous les assistants.</p>
           <p>Malheureusement, l'accident ne se borna pas à ces quelques dégâts.</p>
@@ -2201,14 +2202,14 @@
           <p>William Bott, que le Captain Cap baptisa fort spirituellement Henry Bott chaque fois qu'il abuse des <hi rend="italic">stars and stripes</hi>
             <hi rend="italic">*(1)</hi>*, est un Bostonien fort aimable, et des plus distingués, ainsi que sont, pour la plupart, les gens de Boston.</p>
           <p>C'est à son propos que j'écrivis ces vers de rime assez plaisante, n'est-ce pas :</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>
             <hi rend="italic">Bott, en dansant la valse et le boston usa</hi>
           </p>
           <p>
             <hi rend="italic">Le parquet de Mary Webb, à Boston (U.S.A.)</hi>
             <hi rend="italic">*(1)</hi>**.*</p>
-          <p>   </p>
+          <milestone type="space"/>
           <p>Débarqué en France au printemps dernier, cet Américain, sur la recommandation de Cap, devint tout de suite mon ami.</p>
           <p>Le français qu'il parlait était un français irréprochable déjà ; seuls, quelques mots auraient gagné à être plus correctement prononcés.</p>
           <p>Ainsi, il disait <hi rend="italic">flott</hi>, <hi rend="italic">pott</hi>, comme si ces mots, à l'instar de son nom, eussent comporté deux *t*.</p>

@@ -1,0 +1,3 @@
+<?xml version="1.0" ?>
+<locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
+<uri resource="file:/media/christof/mydata/repos/cost/ELTeC-fra/level1/FRA0322_Allais.xml" uri="file:/media/christof/mydata/repos/cost/distantreading.github.io/Schema/eltec-1.rng"/><include rules="file:/home/christof/.jedit/plugins/xml.XmlPlugin/schemas.xml" /></locatingRules>
