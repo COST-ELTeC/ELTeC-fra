@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:294264533">La résurrection de Rocambole, tome 2: Saint-Lazare - L'auberge maudite - La maison de fous : ELTeC edition</title>
+        <title ref="viaf:294264533">La résurrection de Rocambole : ELTeC edition</title>
+        <!-- Corresponds to: Rocambole 2; contains: Saint-Lazare - L'auberge maudite - La maison de fous -->
         <author ref="viaf:17228199">Ponson du Terrail, Pierre Alexis (1829-1871)</author>
         <respStmt>
           <resp>principal</resp>

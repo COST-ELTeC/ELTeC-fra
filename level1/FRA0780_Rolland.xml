@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:312469774">Jean-Christophe, tome 10 : La nouvelle journée : ELTeC edition</title>
+        <title ref="viaf:312469774">La nouvelle journée : ELTeC edition</title>
+        <!-- Corresponds to tome 10 of Jean-Christophe -->
         <author ref="viaf:71397100">Rolland, Romain (1866-1944)</author>
         <respStmt>
           <resp>principal</resp>

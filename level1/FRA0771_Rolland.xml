@@ -2,8 +2,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:312469768">Jean-Christophe, tome 1 : L'aube : ELTeC edition</title>
-        <author ref="viaf:71397100">Romain Rolland (1866-1944)</author>
+        <title ref="viaf:312469768">L'aube : ELTeC edition</title>
+        <!-- Corresponds to tome 1 of Jean-Christophe -->
+        <author ref="viaf:71397100">Rolland, Romain (1866-1944)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Christof Schöch</name>

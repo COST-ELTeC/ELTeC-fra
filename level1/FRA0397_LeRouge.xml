@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:unavailable">La Conspiration des Milliardaires, III: Le Régiment des hypnotiseurs : ELTeC edition</title>
+        <title ref="viaf:unavailable">La Conspiration des Milliardaires : ELTeC edition</title>
+        <!-- It needs to be checked which parts of this novel are really included here -->
         <author ref="viaf:7392910">Le Rouge, Gustave (1867-1938)</author>
         <respStmt>
           <resp>principal</resp>
@@ -57,7 +58,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
         <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity> <!-- worldcat.py error because of title -->
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity> 
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
       </textDesc>
     </profileDesc>
