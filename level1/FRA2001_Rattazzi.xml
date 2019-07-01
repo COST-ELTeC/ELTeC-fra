@@ -1,3 +1,4 @@
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA2001" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -18,29 +19,25 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="source">
+        <bibl type="digitalSource">
           <ref target="https://ebooks-bnr.com/bonaparte-wyse-marie-laetitia-de-solms-le-piege-aux-maris-tome-1">Le piège aux maris</ref>
           <publisher>Bibliothèque numérique romande</publisher>
           <idno type="bnr">bonaparte-wyse-marie-laetitia-de-solms-le-piege-aux-maris-tome-1</idno>
           <date>2012</date>
-          <relatedItem>
-            <bibl type="copyText">
-              <title>Le piège aux maris</title>
-              <publisher>A. Cadot</publisher>
-              <pubPlace>Paris</pubPlace>
-              <date>1865</date>
-              <idno type="BnF">https://gallica.bnf.fr/ark:/12148/bpt6k6456888h</idno>
-            </bibl>
-          </relatedItem>
-          <relatedItem>
-            <bibl type="firstEdition">
-              <title>Le piège aux maris</title>
-              <publisher>A. Cadot</publisher>
-              <pubPlace>Paris</pubPlace>
-              <date>1865</date>
-              <idno type="BnF">https://gallica.bnf.fr/ark:/12148/bpt6k6456888h</idno>
-            </bibl>
-          </relatedItem>
+          <bibl type="printSource">
+            <title>Le piège aux maris</title>
+            <publisher>A. Cadot</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date>1865</date>
+            <idno type="BnF">https://gallica.bnf.fr/ark:/12148/bpt6k6456888h</idno>
+          </bibl>
+          <bibl type="firstEdition">
+            <title>Le piège aux maris</title>
+            <publisher>A. Cadot</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date>1865</date>
+            <idno type="BnF">https://gallica.bnf.fr/ark:/12148/bpt6k6456888h</idno>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>

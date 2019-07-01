@@ -20,27 +20,23 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="source">
+        <bibl type="digitalSource">
           <ref target="http://beq.ebooksgratuits.com/auteurs/terrail/index.htm">La seconde mère</ref>
           <publisher>Bibliothèque électronique du Québec</publisher>
           <idno type="BEQ">693</idno>
-          <relatedItem>
-            <bibl type="copyText">
-              <title>La seconde mère</title>
-              <ref target="BnF">La seconde mère</ref>
-              <publisher />
-              <idno type="BnF" />
-            </bibl>
-          </relatedItem>
-          <relatedItem>
-            <bibl type="firstEdition">
-              <title>La seconde mère</title>
-              <publisher>E. Plon, Nourrit et Cie</publisher>
-              <pubPlace>Paris</pubPlace>
-              <date>1888</date>
-              <idno type="BnF">FRBNF30540976</idno>
-            </bibl>
-          </relatedItem>
+          <bibl type="printSource">
+            <title>La seconde mère</title>
+            <ref target="BnF">La seconde mère</ref>
+            <publisher />
+            <idno type="BnF" />
+          </bibl>
+          <bibl type="firstEdition">
+            <title>La seconde mère</title>
+            <publisher>E. Plon, Nourrit et Cie</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date>1888</date>
+            <idno type="BnF">FRBNF30540976</idno>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
