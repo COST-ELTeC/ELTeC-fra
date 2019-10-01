@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="eltec-0.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA18430" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hervé : ELTeC edition</title>
+                <author ref="viaf:186930001">Daniel Stern (Marie d'Agoult)(1805-1876)</author>
+                <respStmt>
+                    <resp>encoded by</resp>
+                    <name>Pia Geißel</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Original data capture</resp>
+                    <name>Gutenberg.org</name>
+                    <name>Mireille Harmelin</name>
+                    <name>Eric Vautier</name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <measure unit="words">15058</measure>
+            </extent>
+            <publicationStmt>
+                <p>First ElTeC edition <date>2019-10-01</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                    <title>Herve</title>
+                    <author>Daniel Stern</author>
+                    <ref target="http://www.gutenberg.org/ebooks/26863"/>
+                    <date>2008-10-10</date>
+                </bibl>
+                <bibl type="printSource">
+                    <title>Hervé</title>
+                    <author>Daniel Stern</author>
+                    <publisher>MICHEL LÉVY FRÈRES, LIBRAIRES ÉDITEURS</publisher>
+                    <pubPlace>Paris</pubPlace>
+                    <date>1866</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc n="eltec-0">
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fr"/>
+            </langUsage>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+            </textDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2019-10-01">File created</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <!-- somehow chapter III seems to be missing? Or wrong headings from gutenberg.org -->
+        <body>
+            <div type="liminal">
+
+                <p>ENVOI</p>
+                <p> À M. E. DE G...</p>
+                <p> À vous qui avez combattu seul.</p>
+                <p>Souffert en silence,</p>
+                <p>Triomphé sans joie.</p>
+                <p>À vous, qui êtes mon ami.</p>
+
+
+            </div>
+            <div type="chapter">
+                <head>I</head>
+
+                <p> Au mois de septembre 1832, une voiture de poste entrait à l'hôtel</p>
+                <p>Meurice; une femme jeune et remarquablement belle était seule dans cette</p>
+                <p>voiture. On l'attendait. En la conduisant à l'appartement retenu pour</p>
+                <p>elle, le maître de l'hôtel lui remit une lettre; elle la saisit</p>
+                <p>vivement, en brisa le cachet et lut ce qui suit:</p>
+                <p> «Enfin te voilà donc à Paris; te figures-tu mon chagrin de n'y pas être</p>
+                <p>pour te recevoir? Après une si longue absence, il me tarde tant de te</p>
+                <p>presser sur mon coeur. Oh! je t'en supplie, Thérèse, viens au plus vite</p>
+                <p>retrouver ta vieille amie. Je suis à Vermont, avec mon mari, qui joint</p>
+                <p>ses instances aux miennes. Tu n'as fait qu'entrevoir Hervé le jour de</p>
+                <p>notre mariage; c'est à peine si tu te le rappelles; mais lui, il te</p>
+                <p>connaît, il t'aime pour tout ce que je lui ai dit de toi, pour les</p>
+                <p>adorables lettres que je lui ai lues avec orgueil. Songe qu'il y aura</p>
+                <p>bientôt huit ans que nous sommes séparées; songe à tout ce que nous</p>
+                <p>aurons à nous dire, et hâte-toi de venir reprendre notre intimité, nos</p>
+                <p>interminables causeries du couvent. Sois bonne comme tu l'étais alors.</p>
+                <p>Souviens-toi que tu ne refusais jamais rien à ta petite Georgine. Que</p>
+                <p>ferais-tu d'ailleurs à Paris dans cette saison? Il n'y a personne. Ta</p>
+                <p>famille est dispersée; ta soeur est aux eaux de Toeplitz. Crois-moi, viens</p>
+                <p>l'attendre à Vermont. Viens prendre ta part de ma douce vie, te réjouir</p>
+                <p>de me voir heureuse auprès d'un mari que j'estime, que je vénère, que</p>
+                <p>j'adore. Ne pense pas que j'exagère, Hervé est adorable. Il a fait de</p>
+                <p>moi, de cette enfant gâtée que tu as connue si ignorante, si</p>
+                <p>inconsidérée, si futile, une femme sérieuse, attachée à ses devoirs, une</p>
+                <p>mère attentive. Il m'a sauvée de tous les écueils; il m'a corrigée de</p>
+                <p>tous mes travers; il m'a rendue presque digne de lui, et cela sans une</p>
+                <p>parole amère, sans un reproche, sans avoir jamais exercé sur mon esprit</p>
+                <p>la moindre contrainte. Quel noble coeur qu'Hervé! Comme tu vas l'aimer</p>
+                <p>tout de suite! Il y a tant de rapports entre vous deux. Mais, égoïste</p>
+                <p>que je suis, je ne te parle que de moi et je ne sais pas si tu peux</p>
+                <p>m'entendre sans tristesse. Tes parents m'ont bien assuré, à la vérité,</p>
+                <p>que tu vivais contente à New-York; que tu dirigeais en partie les</p>
+                <p>affaires de ton mari; qu'elles prospéraient; que vous aviez un</p>
+                <p>établissement superbe; que tu ne regrettais point trop Paris. Ton</p>
+                <p>beau-frère a même ajouté que ta tête s'était calmée et que, grâce au</p>
+                <p>ciel, tu étais guérie des idées romanesques. Mais toi, tu ne m'as</p>
+                <p>presque rien dit de ton intérieur; je n'ai pas su deviner non plus</p>
+                <p>l'état de ton âme au ton de tes lettres qui n'était ni triste, ni gai,</p>
+                <p>ni exalté, ni tout à fait calme pourtant. J'attends donc tes</p>
+                <p>confidences, et je ne puis que te répéter: Viens, viens dans mes bras</p>
+                <p>qui te sont ouverts; viens dans ma maison qui est la tienne.»</p>
+                <p> Une larme mouilla les yeux de Thérèse, restée seule dans sa chambre.</p>
+                <p> --Âme charmante! murmura-t-elle, coeur plein d'enchantements! Je l'avais</p>
+                <p>bien prévu, le monde ne devait se montrer à toi que sous ses couleurs</p>
+                <p>les plus séduisantes; ta lèvre ne devait goûter que le miel au bord de</p>
+                <p>la coupe. Rien qu'en approchant des lieux où tu vis, je sens ta bénigne</p>
+                <p>influence. Il me semble que ces huit années passées, si pesantes, si</p>
+                <p>mornes, se détachent de moi. Je crois respirer de nouveau l'air libre de</p>
+                <p>mon enfance. J'oublie déjà mes jours sans soleil, mes devoirs</p>
+                <p>inexorables et la chaîne si courte qui m'attache à un sol aride. Mon</p>
+                <p>coeur frémit d'une joyeuse impatience, j'ai comme hâte de vivre. Je crois</p>
+                <p>entendre encore la voix de mes illusions perdues et le battement d'ailes</p>
+                <p>de mes jeunes espérances. Ô Georgine, Georgine, quelle magie il y a</p>
+                <p>encore pour moi rien que dans ton nom! Je t'ai toujours aimée, non comme</p>
+                <p>mon amie, mais comme ma fille, comme mon enfant de prédilection. Si je</p>
+                <p>t'avais vue toujours près de moi, si j'avais pu à toute heure contempler</p>
+                <p>ton front serein et ton doux sourire, mon sort ne m'eût point semblé</p>
+                <p>trop rude; je l'aurais accepté sans déchirement, peut-être même sans</p>
+                <p>effort.</p>
+                <p> Thérèse sonna et fit demander immédiatement des chevaux de poste. Puis</p>
+                <p>elle écrivit, à sa soeur pour lui apprendre qu'ayant obtenu de son mari</p>
+                <p>la permission de passer trois mois en France, elle allait en donner un à</p>
+                <p>Georgine et rejoindrait sa famille dans le courant d'octobre.</p>
+                <p> Le lendemain elle arrivait à Vermont. C'était une ravissante demeure, un</p>
+                <p>château bâti à l'italienne sur le versant d'une colline, au bas de</p>
+                <p>laquelle roulait une petite rivière. La vue s'étendait au loin sur une</p>
+                <p>plaine fertile. Les abords étaient riants, les jardins plantés avec un</p>
+                <p>goût exquis, le paysage avait une délicieuse fraîcheur. À mesure qu'on</p>
+                <p>approchait, on se sentait plus attiré. Le murmure de la rivière, le</p>
+                <p>chant de milliers d'oiseaux sous les ombrages, les tons éclatants, les</p>
+                <p>riches nuances des fleurs jetées à profusion sur les tapis de verdure,</p>
+                <p>les parfums qui s'en exhalaient et qui embaumaient l'atmosphère, tout</p>
+                <p>révélait un séjour privilégié; il était impossible de s'en figurer les</p>
+                <p>habitants autrement que comme des êtres satisfaits et paisiblement</p>
+                <p>heureux. Thérèse reçut avec attendrissement cette impression d'une</p>
+                <p>nature si charmante qu'elle agissait même sur les esprits les moins</p>
+                <p>préparés à en être émus, et quand elle aperçut Georgine venant radieuse</p>
+                <p>à sa rencontre, appuyée sur le bras d'Hervé, elle crut voir la</p>
+                <p>réalisation d'un de ces romans anglais qui se plaisent aux scènes de</p>
+                <p>famille, une image vivante de cette félicité paradisienne accordée dès</p>
+                <p>ici-bas dans le mariage à quelques femmes que leur ange gardien n'a pas</p>
+                <p>quittées.</p>
+                <p> Les deux amies se précipitèrent dans les bras l'une de l'autre et se</p>
+                <p>tinrent longtemps embrassées.</p>
+                <p> --Fais-toi donc voir! s'écria enfin Thérèse. En vérité, je ne te</p>
+                <p>reconnais plus. Tu n'étais que jolie quand je t'ai quittée; je te</p>
+                <p>retrouve tout à fait belle.</p>
+                <p> --Vous l'entendez, dit Georgine en se retournant vers Hervé, nous</p>
+                <p>verrons maintenant ce qu'elle va dire des enfants. Où sont-ils donc</p>
+                <p>restés? Tenez, Hervé, conduisez Thérèse; moi, je cours chercher ces</p>
+                <p>chers trésors.</p>
+                <p> Hervé offrit son bras à Thérèse. Il la remercia avec cordialité de</p>
+                <p>l'empressement qu'elle avait mis à rejoindre Georgine et de la joie que</p>
+                <p>sa présence allait répandre à Vermont. Puis, tournant assez court aux</p>
+                <p>phrases d'usage:</p>
+                <p> --Comment la trouvez-vous? dit-il. Avez-vous parlé vrai? vous</p>
+                <p>semble-t-elle embellie?</p>
+                <p> Thérèse lui répéta ce qu'elle venait de dire, ajoutant que le visage de</p>
+                <p>Georgine, son attitude, sa démarche avaient pris un caractère noble et</p>
+                <p>grave, infiniment préférable à son joli minois du couvent.</p>
+                <p> --Eh bien! reprit Hervé, ce changement extérieur qui vous frappe est</p>
+                <p>l'expression d'un changement intime bien plus marqué, bien plus complet</p>
+                <p>encore. Quand vous avez connu Georgine, quand je l'ai épousée, c'était</p>
+                <p>une aimable et gracieuse enfant, rien de plus; aujourd'hui, vous ne</p>
+                <p>tarderez pas à vous en apercevoir, c'est une femme distinguée. Son</p>
+                <p>intelligence s'est ouverte à tous les beaux sentiments. Elle me rend</p>
+                <p>bien fier...</p>
+                <p> --Et heureux? dit Thérèse en lui prenant la main.</p>
+                <p> --Quelle question! reprit Hervé en souriant; on voit bien que vous</p>
+                <p>arrivez d'Amérique. Vous avez véritablement des idées de l'autre monde;</p>
+                <p>vous croyez au bonheur. Dans notre vieux monde à nous, il n'y a que les</p>
+                <p>niais et les envieux qui y croient.</p>
+                <p> En ce moment, ils entraient au château; Georgine les attendait, tenant</p>
+                <p>ses enfants par la main. L'un, garçon de six à sept ans, ressemblait</p>
+                <p>trait pour trait à son père; l'autre était une petite fille à la</p>
+                <p>chevelure dorée, aux grands yeux bleus, au teint transparent, un</p>
+                <p>chérubin du Corrége. Dès qu'ils aperçurent Hervé, ils se jetèrent sur</p>
+                <p>lui, sautèrent sur ses genoux, se cramponnèrent à son cou; il n'y eut</p>
+                <p>plus moyen de les en arracher.</p>
+                <p> --Voilà une présentation bien solennelle, dit Georgine; mais que</p>
+                <p>veux-tu? ce sont de petits sauvages élevés dans les bois; ils adorent</p>
+                <p>leur père et ne m'écoutent plus dès qu'il est là.</p>
+                <p> Le reste du jour se passa en entretiens affectueux et familiers. Les</p>
+                <p>jours suivants, Thérèse fut initiée à tous les détails de la vie de</p>
+                <p>château telle qu'on l'entendait à Vermont. Il régnait dans cet intérieur</p>
+                <p>une liberté si sagement ordonnée, tant de paix; les maîtres étaient si</p>
+                <p>indulgents, les serviteurs si attentifs, les enfants si joyeux, tous les</p>
+                <p>visages si ouverts, Thérèse voyait surtout chez Hervé et chez Georgine</p>
+                <p>un soin si constant, et qui paraissait si naturel, de se complaire,</p>
+                <p>qu'elle ne pouvait se figurer la plus légère ombre à ce tableau. Le</p>
+                <p>temps de son séjour était déjà presque écoulé; elle avait déjà passé</p>
+                <p>trois semaines dans une intimité continuelle avec les deux époux, sans</p>
+                <p>qu'un seul mot, un seul regard, un seul incident eût pu faire concevoir</p>
+                <p>à sa pénétrante amitié le moindre doute sur leur bonheur à l'un et à</p>
+                <p>l'autre. Seulement, de temps en temps, elle se rappelait la singulière</p>
+                <p>réticence d'Hervé lorsqu'elle lui avait demandé si Georgine le rendait</p>
+                <p>heureux. Involontairement elle cherchait une signification à ce qui,</p>
+                <p>sans doute, n'avait été qu'une plaisanterie banale. Elle commentait de</p>
+                <p>vingt façons diverses les paroles qu'il avait dites. Souvent aussi le</p>
+                <p>beau front d'Hervé, déjà dépouillé au-dessus des tempes, le timbre de sa</p>
+                <p>voix pénétrant et attristé, un léger pli d'ironie qu'elle surprenait à</p>
+                <p>sa lèvre, même dans le sourire, la faisaient rêver et lui jetaient à</p>
+                <p>l'esprit mille perplexités, mille conjectures vagues et romanesques.</p>
+                <p>Mais aucune de ces conjectures ne portait atteinte à la haute opinion</p>
+                <p>qu'elle avait conçue de lui. Elle admirait de plus en plus ce coeur fier</p>
+                <p>et simple, cet esprit délicat qui savait ennoblir toutes les vulgarités</p>
+                <p>de la vie, cet homme qui ressemblait si peu aux autres hommes, et qui,</p>
+                <p>possédant tous les avantages qui excitent l'envie, exerçait en même</p>
+                <p>temps toutes les vertus qui la désarment.</p>
+                <p> Chaque jour elle lui faisait une place plus large dans son coeur, et</p>
+                <p>bientôt elle n'aurait pas su discerner qui de lui ou de Georgine</p>
+                <p>occupait le plus sa pensée et la retenait par de plus doux liens. Un</p>
+                <p>refroidissement insensible avait même succédé à l'impétuosité des</p>
+                <p>premières caresses entre les deux amies. Thérèse ayant doucement évité</p>
+                <p>de répondre aux questions un peu indiscrètes de Georgine, celle-ci</p>
+                <p>s'était sentie froissée, et, sans rien témoigner, elle avait, de son</p>
+                <p>côté, mis fin aux épanchements, aux confidences. Occupée de ses enfants,</p>
+                <p>de sa maison, d'un nombreux voisinage rendu plus animé par l'approche</p>
+                <p>des élections et la candidature d'Hervé, elle ne trouvait plus de temps</p>
+                <p>pour les tête-à-tête, et Thérèse semblait plutôt être devenue l'amie de</p>
+                <p>son mari que la sienne. Cependant je ne sais quelle gêne subsistait</p>
+                <p>entre Hervé et cette dernière. Ils étaient tous deux réservés,</p>
+                <p>circonspects, et leurs entretiens, quoique familiers, n'avaient rien de</p>
+                <p>véritablement intime.</p>
+                <p> Thérèse, d'abord charmée, épanouie au sein de l'atmosphère bienveillante</p>
+                <p>de Vermont, retombait peu à peu dans une sorte d'absorption et de</p>
+                <p>mélancolie. Souvent elle s'échappait du château, faisait seule de</p>
+                <p>longues courses; elle errait alors à l'aventure, et ne rentrait parfois</p>
+                <p>qu'à l'heure des repas. Un matin, par un de ces beaux soleils d'automne</p>
+                <p>qui percent lentement la brume et jettent des teintes si vives aux</p>
+                <p>arbres à demi dépouillés, elle s'était éloignée plus que de coutume.</p>
+                <p>D'étranges préoccupations, des rêves bizarres, avaient agité son</p>
+                <p>sommeil. Elle était dans cette disposition vague et languissante à</p>
+                <p>laquelle ne peuvent toujours se soustraire les natures les plus fortes.</p>
+                <p>À chaque instant ses yeux s'emplissaient de larmes; tout ce que la</p>
+                <p>poésie a créé d'images tendres et dangereuses lui revenait confusément à</p>
+                <p>la mémoire; se parlant à elle-même, elle disait à haute voix et comme</p>
+                <p>pour se soulager de ses propres pensées, des chants d'amour, des vers</p>
+                <p>tendres ou passionnés. Elle se croyait seule et suivait sans contrainte</p>
+                <p>le cours de sa rêverie, lorsqu'un bruit de pas sur les feuilles sèches</p>
+                <p>la fit tressaillir.</p>
+                <p> --Thérèse! dit une voix bien connue; Thérèse, répéta Hervé, car c'était</p>
+                <p>lui, ne voulez-vous donc point m'entendre; je vous y prends enfin en</p>
+                <p>flagrant délit de roman. La voilà donc retrouvée, cette femme</p>
+                <p>sentimentale, cette poétesse de qui l'on m'avait tant parlé!</p>
+                <p>Aujourd'hui, elle fait des affaires de banque et raille tout ce qui</p>
+                <p>n'est pas palpable comme de l'or, positif comme de l'arithmétique; mais</p>
+                <p>un beau matin elle fuit au bocage et répète aux échos d'alentour des</p>
+                <p>vers amoureux.</p>
+                <p> Disant cela, il s'approcha gaiement, prit le bras de Thérèse, le passa</p>
+                <p>doucement dans le sien, serra sa main brûlante et se mit à marcher avec</p>
+                <p>elle. Elle était interdite et demeurait muette.</p>
+                <p> --Pardonnez ma sotte plaisanterie, reprit Hervé en la regardant avec</p>
+                <p>surprise; je vois que je viens de heurter un sentiment intime, une</p>
+                <p>disposition de l'âme que j'aurais dû respecter. C'est un nouveau</p>
+                <p>malentendu ajouté à tous ceux qui sont déjà entre nous. Je vous assure,</p>
+                <p>Thérèse, que je souffre de cela. Depuis près d'un mois, nous nous voyons</p>
+                <p>sans cesse; vous êtes l'amie intime de ma femme; j'estime votre</p>
+                <p>caractère, j'admire votre esprit. J'aimerais, ajouta-t-il avec quelque</p>
+                <p>hésitation, oui, j'aimerais être aussi votre ami. Je voudrais que vous</p>
+                <p>me connussiez bien, que vous pussiez aimer en moi, non pas l'homme que</p>
+                <p>je parais, mais l'homme que je suis; et cependant, je le sens, nous</p>
+                <p>vivons à mille lieues l'un de l'autre. Je suis un étranger pour vous,</p>
+                <p>Thérèse, moi qui devrais être votre frère. Je ne sais si je puis même</p>
+                <p>accepter les sentiments affectueux que vous semblez avoir pour moi...</p>
+                <p>J'aurais besoin de vous parler une fois à coeur ouvert.</p>
+                <p> Thérèse releva la tête, son visage s'éclaira de joie; Hervé allait</p>
+                <p>au-devant de son plus ardent désir; il prévenait une demande qui, bien</p>
+                <p>souvent déjà, avait erré sur ses lèvres, et qu'une excessive</p>
+                <p>appréhension de lui déplaire avait seule refoulée. Tout ce que Georgine</p>
+                <p>lui avait dit de son mari lui semblait incomplet, insuffisant; une voix</p>
+                <p>secrète lui criait qu'il y avait là un mystère à pénétrer, un de ces</p>
+                <p>mystères d'amour, peut-être, dont les femmes sont toujours avides...</p>
+                <p> --Hervé, dit-elle, mon ami, puisque vous devinez si bien ce que je</p>
+                <p>pense, ce que je souhaite depuis le premier instant où je vous ai vu,</p>
+                <p>puisque vous me jugez digne de votre confiance, à quoi bon vous dire que</p>
+                <p>vous trouverez en moi un esprit recueilli, pénétré de la religion du</p>
+                <p>silence, un coeur qui peut tout comprendre, car il a connu, lui aussi, le</p>
+                <p>vertige de certaines heures funestes et l'effrayante fascination</p>
+                <p>qu'exerce le mal sur la perversité de nos penchants. J'ai connu la</p>
+                <p>curiosité et l'orgueil... C'est vous dire que j'ai côtoyé bien des</p>
+                <p>abîmes.</p>
+                <p> --Vous devinez donc que je vais avoir un triste récit à vous faire, dit</p>
+                <p>Hervé, puisque vous me promettez votre indulgence?...</p>
+                <p> --Mon indulgence, dit Thérèse; ce mot aurait-il un sens entre nous? Qui</p>
+                <p>donc aurait le droit d'en gracier un autre? À mes yeux, il n'y a pas de</p>
+                <p>fautes, il n'y a que des malheurs.</p>
+                <p> Hervé lui serra la main.</p>
+                <p> --Écoutez-moi, reprit-il; ces heures ne se retrouveront peut-être plus.</p>
+                <p>Vous exercez en ce moment sur moi une influence presque surnaturelle;</p>
+                <p>vous avez le rameau miraculeux qui découvre les sources cachées; mon</p>
+                <p>coeur se dilate en votre présence; mais bientôt un silence de plomb va</p>
+                <p>retomber sur lui. Écoutez-moi, puis oubliez ce que je vais vous dire,</p>
+                <p>car personne, non, personne au monde, n'a jamais su, ne saura jamais ce</p>
+                <p>que vous allez entendre.</p>
+                <p> --Comment? dit Thérèse, votre femme elle-même, Georgine, ignorerait-elle</p>
+                <p>une seule particularité de votre vie; lui cacheriez-vous quelque chose?</p>
+                <p> --Prendre sa femme pour confidente, reprit Hervé, c'est une erreur</p>
+                <p>funeste. Cela ne peut et ne doit point être. L'éducation d'une jeune</p>
+                <p>fille, ses préjugés, ses instincts mêmes, lui rendent ce rôle</p>
+                <p>impossible. Comment attendre d'un être qui ne connaît rien de la vie,</p>
+                <p>l'appréciation équitable de ce tourbillon de paroles, de pensées,</p>
+                <p>d'actes contraires et inconséquents qui tourmente et entraîne la</p>
+                <p>jeunesse de l'homme? L'épouse tendre et naïve sera indignée, affligée</p>
+                <p>outre mesure, au récit de tant et de si vulgaires égarements; elle</p>
+                <p>méprisera peut-être celui qu'elle doit avant tout respecter. Non,</p>
+                <p>l'homme doit savoir porter seul le fardeau de son passé quel qu'il soit;</p>
+                <p>il n'y a de dignité possible dans le mariage qu'à ce prix.</p>
+                <p> Un long silence se fit; ils continuaient de marcher; le ciel se couvrait</p>
+                <p>de nuages, un vent froid s'était levé et sifflait dans les branches</p>
+                <p>mortes; des nuées de corneilles traversaient les allées du bois en</p>
+                <p>faisant entendre leur rauque croassement; je ne sais quoi de lugubre</p>
+                <p>dans la nature avait succédé à la promesse d'une matinée splendide;</p>
+                <p>quelque chose de morne et de sinistre semblait planer au-dessus d'Hervé</p>
+                <p>et de Thérèse et les pénétrait de tristesse.</p>
+                <p> Hervé rompit enfin le silence et parla ainsi:</p>
+                <p> «À vingt-deux ans, je devins amoureux d'une femme qui en avait plus de</p>
+                <p>trente; son visage avait perdu l'éclat de la première jeunesse, mais</p>
+                <p>tout ce que la grâce la plus exquise, un soin constant de plaire, un</p>
+                <p>insatiable désir de captiver peuvent donner de séduction et de charme</p>
+                <p>était en elle et me ravissait. Encore aujourd'hui, Thérèse, en dépit de</p>
+                <p>tant d'années qui ont pesé sur mon front et ralenti le sang dans mes</p>
+                <p>veines, je ne prononce pas son nom sans un pénible effort.»</p>
+                <p> --Je comprends, dit Thérèse...</p>
+                <p> «Quand vous aurez entendu ce que j'ai à vous dire d'elle, reprit Hervé,</p>
+                <p>je crains que vous ne me compreniez plus. Mais n'importe... Continuons.</p>
+                <p>Le mari d'Éliane, excellent homme, enrichi par des spéculations</p>
+                <p>industrielles qui lui prenaient tout son temps, laissait à sa femme une</p>
+                <p>liberté entière. Elle ne paraissait pas en avoir abusé, car sa</p>
+                <p>réputation était bonne, et l'on ne tenait sur elle que très-peu de ces</p>
+                <p>propos inconsidérés auxquels n'échappent pas les femmes les plus</p>
+                <p>vertueuses. Éliane voyait beaucoup de monde; elle était fort recherchée</p>
+                <p>à cause de son esprit et de son élégance. Il ne me vint pas en pensée</p>
+                <p>qu'elle pourrait deviner seulement que je l'aimais. Je n'avais aucune</p>
+                <p>expérience ni des autres ni de moi-même; je n'étais ni fat, ni</p>
+                <p>présomptueux, ni pénétrant. J'étais simple et vrai dans l'exaltation la</p>
+                <p>plus romanesque. Je mettais tout mon bonheur à contempler Éliane, à</p>
+                <p>l'écouter, à m'enivrer de son regard, de son accent expressif, à suivre</p>
+                <p>ses mouvements, ses moindres gestes, à épier les occasions d'être près</p>
+                <p>d'elle; tout cela sans rien prétendre, sans rien espérer, je crois même</p>
+                <p>sans un désir. J'étais si jeune, il y avait en moi une telle</p>
+                <p>surabondance de vie, que mon amour était à lui-même son but et sa</p>
+                <p>récompense. Éliane avait trop de pénétration pour ne pas s'apercevoir,</p>
+                <p>dès l'abord, de l'empire qu'elle exerçait sur moi. Je crois qu'elle s'en</p>
+                <p>applaudit et qu'elle résolut de le rendre absolu. Cela ne lui fut pas</p>
+                <p>difficile. Elle parvint sans aucune coquetterie apparente, par des</p>
+                <p>manières cordiales, des discours pleins de prudence, des conseils</p>
+                <p>affectueux, parfois même des réprimandes enjouées, en un mot, par toute</p>
+                <p>une attitude prise de soeur aînée, à me mettre en entière confiance et à</p>
+                <p>éloigner en même temps de son entourage les soupçons qui auraient pu</p>
+                <p>contrarier son dessein: bientôt, chose sans exemple dans le monde où</p>
+                <p>elle vivait, il fut tout simple pour son mari et pour ses amis, de me</p>
+                <p>voir chez elle à peu près à toute heure, tantôt à lui faire des</p>
+                <p>lectures, tantôt à l'accompagner au piano, car elle chantait divinement,</p>
+                <p>tantôt à lui servir de secrétaire pour sa nombreuse correspondance.</p>
+                <p>Depuis, en réfléchissant au pied sur lequel je me trouvais au bout de si</p>
+                <p>peu de temps dans sa maison, en songeant combien cela eût été impossible</p>
+                <p>à une autre femme, je suis resté confondu devant tant d'habileté et de</p>
+                <p>savoir-faire; mais alors je ne réfléchissais pas, je me laissais aller</p>
+                <p>au flot qui me portait. L'amour me pénétrait tout entier; Éliane s'était</p>
+                <p>emparée de toutes mes facultés. Son esprit actif, son imagination vive,</p>
+                <p>donnaient un continuel aliment à ma pensée; elle embrasait mes sens par</p>
+                <p>des familiarités dont elle ne semblait pas soupçonner le danger, et</p>
+                <p>quand, à ses heures d'abandon, elle me laissait entrevoir le fond de son</p>
+                <p>âme, j'y découvrais de si nobles douleurs, de si belles révoltes contre</p>
+                <p>la mesquinerie et l'inutilité de son existence, des élans si purs vers</p>
+                <p>le beau et le vrai, que je me récriais contre l'injustice du sort,</p>
+                <p>contre l'aveuglement d'une société ingrate qui ne tombait pas à genoux</p>
+                <p>en adoration devant cet ange exilé du ciel. Six mois se passèrent ainsi</p>
+                <p>dans les rapports les plus étranges qui aient peut-être jamais existé</p>
+                <p>entre un homme de mon âge et une femme encore jeune. Je ne lui avais pas</p>
+                <p>dit une seule fois que j'étais amoureux d'elle; elle ne paraissait pas</p>
+                <p>s'en douter; il était établi que nous avions grand plaisir à être</p>
+                <p>ensemble, que nous nous aimions beaucoup, et nous ne cherchions pas à</p>
+                <p>définir les termes. J'étais devenu si insatiable que, non content de la</p>
+                <p>voir tous les jours, je lui écrivais la nuit d'énormes lettres</p>
+                <p>auxquelles elle répondait assez souvent par quelques lignes</p>
+                <p>affectueuses, mais où ne se trouvait jamais, ainsi que je le compris</p>
+                <p>plus tard, une phrase de sens douteux, jamais une parole qui eût pu la</p>
+                <p>compromettre.</p>
+                <p> »Un jour que je me présentais chez elle à l'heure accoutumée, on me dit</p>
+                <p>à l'antichambre qu'elle était rentrée souffrante du bal, qu'une fièvre</p>
+                <p>violente s'était déclarée, et qu'elle ne pouvait me recevoir. Une</p>
+                <p>semaine entière s'écoula sans qu'on me laissât parvenir jusqu'à elle.</p>
+                <p>Les nouvelles devenaient de plus en plus alarmantes; le médecin</p>
+                <p>paraissait soucieux et refusait de s'expliquer. Je crus que je</p>
+                <p>deviendrais fou. Une continuelle obsession des pensées les plus</p>
+                <p>absurdes, des résolutions les plus extravagantes, obscurcissait mon</p>
+                <p>cerveau; une douleur inouïe déchirait mon coeur; Éliane souffrait et je</p>
+                <p>n'étais pas près d'elle; Éliane était en danger, et je ne pouvais prier</p>
+                <p>à son chevet; Éliane allait peut-être cesser de vivre et ce n'était pas</p>
+                <p>moi qui recevrais la dernière étreinte de sa main adorée; ce n'était pas</p>
+                <p>moi qui recueillerais son dernier soupir. Je n'étais donc rien pour</p>
+                <p>cette femme si chère; rien dans sa vie, rien à l'heure de sa mort. Le</p>
+                <p>hasard d'un jour nous avait rapprochés; je ne tenais à elle par aucun</p>
+                <p>lien; je n'étais ni son frère, ni son mari, ni son amant. Son amant! ce</p>
+                <p>mot, qui ne fit d'abord que traverser mon esprit sous la forme d'une</p>
+                <p>plainte vague, y revint bientôt comme un regret, puis s'y fixa comme une</p>
+                <p>espérance.</p>
+                <p> »Je n'étais pas l'amant d'Éliane, mais je pouvais le devenir. Dès ce</p>
+                <p>moment, ô puissance de la passion, ô certitude de la jeunesse! je ne</p>
+                <p>doutai plus de son salut, je n'eus plus d'appréhension pour elle, il n'y</p>
+                <p>eut plus de place dans mon coeur pour le découragement. L'avenir</p>
+                <p>m'apparut comme un ami qui me tendait la main et qui me criait: Aie</p>
+                <p>confiance. La dernière fois que j'avais vu Éliane, j'étais un enfant</p>
+                <p>sans volonté, recevant passivement toutes les impressions du dehors sans</p>
+                <p>réagir sur aucune; lorsque je la revis, j'avais conscience de moi;</p>
+                <p>l'amertume d'une première douleur avait sevré mon âme; d'enfant j'étais</p>
+                <p>devenu homme, je voulais posséder Éliane ou mourir. Enfin, je reçus un</p>
+                <p>matin un billet d'elle qui ne contenait que ces mots:</p>
+                <p> «Je suis sauvée, venez.»</p>
+                <p> »Vous dire mon ivresse, mon délire quand je revis son écriture, ne</p>
+                <p>serait possible dans aucune langue. Je poussais des cris, de véritables</p>
+                <p>rugissements de joie. Je tenais ce billet à deux mains comme si je</p>
+                <p>craignais qu'on ne me l'enlevât; je dévorais des yeux ces caractères qui</p>
+                <p>rayonnaient à m'éblouir; puis je les posai sur mon coeur pour contenir</p>
+                <p>des battements si violents qu'ils me causaient une souffrance aiguë; je</p>
+                <p>les portai à mes lèvres brûlantes; je tombai à genoux et je rendis</p>
+                <p>grâce... Si ce fut à elle, si ce fut à Dieu, je l'ignore. Tout ce que je</p>
+                <p>sais, c'est qu'en ce moment j'adorai, je bénis un être puissant et bon</p>
+                <p>qui me rendait heureux. Oh! pour ce seul instant, s'il pouvait renaître,</p>
+                <p>pour ce seul élan, pour cette seule étincelle qu'une immense espérance</p>
+                <p>fit jaillir d'un immense amour, je voudrais revivre ces années si</p>
+                <p>terribles; je reprendrais la chaîne de mes misères; je subirais toutes</p>
+                <p>les tortures de ce passé si douloureux; je renoncerais à la</p>
+                <p>tranquillité, à la paix que j'ai reconquise; je renoncerais à l'estime</p>
+                <p>des hommes, et, je vous le dis bien bas, je renoncerais à ma propre</p>
+                <p>estime que j'ai reconquise aussi!»</p>
+                <p> Thérèse leva les yeux sur Hervé avec l'expression d'une indicible</p>
+                <p>surprise.</p>
+                <p> --Ô Thérèse! Thérèse! ce langage vous étonne, il vous effraye presque.</p>
+                <p>Vous avez cru aussi, qui ne le croirait? que j'étais un homme mort aux</p>
+                <p>passions de la jeunesse, calmé par l'expérience et la réflexion. Vous</p>
+                <p>avez pensé que cet empire salutaire que j'exerce sur les autres par la</p>
+                <p>persuasion et l'exemple, je le devais à une sagesse voisine de la</p>
+                <p>froideur, à une intelligente insensibilité. Convenez-en, vous avez pensé</p>
+                <p>qu'Hervé était aujourd'hui un homme voué au culte de l'utile, absorbé</p>
+                <p>par les affaires et par les honnêtes calculs d'une ambition modérée?</p>
+                <p>Cela est vrai comme tout est vrai en ce monde: à moitié. Mon âme est</p>
+                <p>aujourd'hui comme les terrains de formation successive; tant de couches</p>
+                <p>y sont superposées qu'il m'est difficile à moi-même d'en retrouver le</p>
+                <p>fond. Mais ce que je sais, ce que je sens surtout à certains jours de</p>
+                <p>souffrances plus intenses, c'est qu'elle a conservé une ardente soif</p>
+                <p>d'amour, un dédain complet de cet ordre, de cette régularité qui</p>
+                <p>encadrent aujourd'hui ma vie; le sentiment d'un isolement profond au</p>
+                <p>sein des affections les plus tendres, et l'amer, le coupable regret des</p>
+                <p>orages de ma jeunesse.</p>
+                <p> Hervé se tut, Thérèse n'osa rompre le silence. Rien n'est plus auguste</p>
+                <p>que l'aveu des misères d'une grande âme; rien d'affligeant pour l'esprit</p>
+                <p>comme de pénétrer le néant des plus fortes volontés, de toucher la</p>
+                <p>couronne d'épines qui ceint le front de ceux qui ont triomphé</p>
+                <p>d'eux-mêmes, et d'entendre la plainte étouffée qui gronde au fond de</p>
+                <p>toute satisfaction humaine. Après avoir fait quelques pas sans rien</p>
+                <p>dire, Hervé reprit ainsi:</p>
+                <p> «--Quand j'entrai chez Éliane, elle était seule, couchée sur une chaise</p>
+                <p>longue; ses longs cheveux noirs, que j'avais toujours vus bouclés avec</p>
+                <p>le plus grand soin, tombaient en désordre sur ses épaules; son regard,</p>
+                <p>si brillant d'ordinaire, était abattu; sa voix presque éteinte; elle</p>
+                <p>paraissait avoir beaucoup souffert. Éliane, m'écriai-je en me</p>
+                <p>précipitant à ses genoux et en couvrant sa main de larmes, Éliane, tu</p>
+                <p>vis, tu m'es rendue! Et je relevai la tête, et mon regard s'attacha sur</p>
+                <p>le sien avec âpreté, comme pour ressaisir en une minute tout le bonheur,</p>
+                <p>toute la joie que j'avais perdus loin d'elle. C'était la première fois</p>
+                <p>qu'il m'arrivait de la tutoyer; elle n'en parut pourtant point surprise.</p>
+                <p>Elle se souleva à demi, et posant la main sur ma tête, ainsi qu'elle</p>
+                <p>avait accoutumé de le faire lorsqu'elle était un peu émue:</p>
+                <p> »--Pauvre Hervé, dit-elle, vous m'aimez beaucoup.</p>
+                <p> »--Beaucoup? m'écriai-je, quel mot! Veux-tu savoir combien je t'aime,</p>
+                <p>Éliane, laisse-moi, laisse-moi te presser, t'étreindre contre ma</p>
+                <p>poitrine, tu y sentiras un coeur qui ne bat que pour toi! Et, par un</p>
+                <p>mouvement soudain, avant qu'elle pût se défendre, je passai mon bras</p>
+                <p>autour de sa taille et je l'attirai vers moi. Elle n'eut que le temps de</p>
+                <p>cacher son visage sur mon épaule, je couvris son cou d'ardents baisers.</p>
+                <p>Parvenant enfin à se dégage:</p>
+                <p> --Hervé, me dit-elle, et il n'y avait dans son accent ni trouble, ni</p>
+                <p>colère, vous savez bien que je ne m'appartiens pas, que des sentiments</p>
+                <p>aussi exaltés ne sauraient entrer dans ma vie. J'ai un mari que</p>
+                <p>j'estime, des enfants dont les caresses sont la récompense de mes</p>
+                <p>sacrifices. Dieu bénit en eux, j'en suis certaine, le renoncement de ma</p>
+                <p>jeunesse; mon coeur saigne parfois, mais mon front est sans tache, et</p>
+                <p>l'orgueil d'une conscience pure est ma force dans l'affliction. Dites,</p>
+                <p>Hervé, voudriez-vous me la ravir?</p>
+                <p> «--M'aimes-tu, m'écriai-je sans lui répondre; m'aimes-tu?</p>
+                <p> «--Hervé, ne le savez-vous pas? ne voyez-vous pas que vous êtes mon</p>
+                <p>meilleur, mon plus cher ami?</p>
+                <p> «--Un de vos amis, repris-je avec ironie, le meilleur même de vos amis;</p>
+                <p>je suis reconnaissant de la place que vous m'avez faite, mais cette</p>
+                <p>place, je ne m'en sens pas digne. Si vous ne devez avoir pour moi qu'une</p>
+                <p>amitié banale, il est impossible que je vous revoie. Je sais bien que</p>
+                <p>vous quitter, c'est mourir, mais vivre auprès de vous d'une misérable</p>
+                <p>aumône d'affection distribuée à parts égales entre vos nombreux amis,</p>
+                <p>c'est à quoi je ne me résoudrai jamais. Non, non, Éliane, mon amour est</p>
+                <p>trop absolu, trop profond, trop fou peut-être, pour accepter, en échange</p>
+                <p>de ce qu'il vous donnerait, un sentiment bâtard, subordonné à mille</p>
+                <p>calculs. Il me faut votre amour, Éliane, il me le faut tout entier, ou</p>
+                <p>bien vous me voyez en ce moment pour la dernière fois.</p>
+                <p> «D'où m'était venue tout à coup cette énergie, cette audace? je ne</p>
+                <p>saurais l'expliquer. Le développement de la force morale ne s'accomplit</p>
+                <p>pas chez l'homme dans une progression régulière et continue. Il y a tel</p>
+                <p>événement, telle pensée qui peut faire en une minute l'oeuvre de</p>
+                <p>plusieurs années; une de ces minutes avait sonné pour moi. Éliane le</p>
+                <p>comprit, car dès ce jour, je pourrais dire dès cette heure, elle changea</p>
+                <p>de manière; elle quitta le ton de supériorité condescendante qu'elle</p>
+                <p>avait eu jusque-là, elle se montra craintive, suppliante; elle m'avoua</p>
+                <p>qu'elle m'aimait d'amour, de l'amour le plus tendre et le plus exclusif;</p>
+                <p>mais elle me conjura de ne pas abuser de cet aveu, de ne pas la rendre</p>
+                <p>parjure à son mari, hypocrite avec le monde, tremblante devant Dieu.</p>
+                <p> «Son langage fit sur moi l'impression qu'elle voulait. Je n'étais point</p>
+                <p>dévot, mais comme tous les hommes, même les plus corrompus, j'aimais la</p>
+                <p>piété des femmes, et j'étais facilement séduit par le côté poétique de</p>
+                <p>la religion. Tout en combattant l'exagération de ses idées, j'admirais</p>
+                <p>la résistance d'Éliane, et j'étais si fier de sa vertu, que je ne savais</p>
+                <p>plus, par moment, si je serais joyeux ou triste de la voir succomber.</p>
+                <p>Nos tête-à-tête, qu'elle avait rendus moins fréquents, étaient devenus</p>
+                <p>plus orageux. C'étaient, de mon côté, de vives supplications; des appels</p>
+                <p>à ma générosité, du sien. Quelquefois les rôles changeaient; j'arrivais</p>
+                <p>chez elle calme, apaisé; c'était elle alors qui semblait oublier sa</p>
+                <p>résolution et qui me prodiguait des marques de tendresse inexplicables</p>
+                <p>de la part d'une femme qui voulait et croyait rester fidèle.</p>
+                <p> «Pour vous faire concevoir jusqu'où allaient la bizarrerie,</p>
+                <p>l'inconséquence de nos rapports, les singuliers incidents que sa retenue</p>
+                <p>et son laisser-aller, sa dévotion et son caprice amenaient dans notre</p>
+                <p>liaison, je vous citerai un fait entre mille. Elle m'avait plusieurs</p>
+                <p>fois exprimé la curiosité la plus vive de voir mon appartement; c'était</p>
+                <p>un enfantillage, disait-elle, mais elle tenait à savoir dans quel ordre</p>
+                <p>mes livres étaient rangés, si mon bureau était bien placé; où je mettais</p>
+                <p>mes armes; enfin, elle disait à ce propos cent folies charmantes que</p>
+                <p>j'osais à peine écouter, tant elles présentaient à mon esprit</p>
+                <p>d'enivrantes images. C'était le temps des bals de l'Opéra. Son mari</p>
+                <p>était absent. Elle me proposa un jour, sans aucun préambule et comme si</p>
+                <p>elle m'eût dit la chose du monde la plus simple, de venir la prendre à</p>
+                <p>minuit; elle ajouta qu'elle serait masquée, que nous serions censés</p>
+                <p>aller au bal, et qu'au lieu de cela je la conduirais chez moi où elle</p>
+                <p>resterait jusqu'au jour. Pour un homme éperdument épris, comme je</p>
+                <p>l'étais, d'une femme honorée, il y avait de quoi perdre l'esprit; je me</p>
+                <p>contins, dans la crainte que, si elle voyait mes transports, elle ne</p>
+                <p>comprît mieux l'imprudence de sa démarche, et je la quittai aussitôt,</p>
+                <p>pensant n'avoir jamais assez de temps pour dignement préparer un lieu</p>
+                <p>que sa présence allait consacrer.</p>
+                <p> «Je n'ai jamais été prodigue, je n'ai jamais fait à aucune époque de ma</p>
+                <p>vie, par vanité, où par goût du luxe, aucune dépense excessive; mais ce</p>
+                <p>jour-là, pour qu'Éliane se trouvât bien chez moi pendant une heure, je</p>
+                <p>dépensai en quelques minutes mon revenu de toute une année. Je passai le</p>
+                <p>reste du jour à courir dans les magasins les plus célèbres, j'aurais</p>
+                <p>voulu inventer des recherches nouvelles, de nouveaux raffinements de</p>
+                <p>confort et d'élégance, pour lui arracher un mouvement de surprise. Mon</p>
+                <p>premier soin, comme je lui connaissais la passion des fleurs, fut de</p>
+                <p>faire acheter les plus magnifiques plantes, les arbustes les plus rares,</p>
+                <p>et de transformer le cabinet où je travaillais en véritable bosquet. Au</p>
+                <p>milieu de ce bosquet je fis placer un meuble sculpté en forme de chaise</p>
+                <p>longue, recouvert d'une étoffe de l'Inde, que l'on venait d'achever pour</p>
+                <p>être envoyé en Russie. Après avoir vainement cherché un tapis qui me</p>
+                <p>parût assez moelleux pour son pied de fée, je fis arranger à la hâte une</p>
+                <p>fourrure d'hermine, que j'étendis devant la chaise longue, en songeant</p>
+                <p>avec ravissement à l'effet que feraient sur ce tapis de neige ses deux</p>
+                <p>petits souliers de satin, noirs et lustrés comme l'aile d'un corbeau.</p>
+                <p>Sous un grand mimosa, dont les branches flexibles la recouvraient à</p>
+                <p>moitié, je fis dresser une table où il n'y avait que la place juste de</p>
+                <p>deux couverts. J'ordonnai un souper fort simple en apparence, mais</p>
+                <p>composé de primeurs extravagantes. Une corbeille en vermeil</p>
+                <p>admirablement ciselée, contenait des fruits savoureux, dignes d'être</p>
+                <p>servis à une souveraine; je remplis moi-même deux flacons de cristal</p>
+                <p>d'un vin exquis, qu'un de mes oncles, vieux marin, avait rapporté des</p>
+                <p>îles.</p>
+                <p> «Je m'étais aperçu qu'Éliane aimait la bonne chère et qu'il lui arrivait</p>
+                <p>de boire capricieusement plus que les femmes ne le font d'habitude. Je</p>
+                <p>n'ose pas dire que j'avais comme une vague idée, un espoir confus que</p>
+                <p>peut-être ce vin capiteux, bu sans défiance, porterait le désordre à son</p>
+                <p>cerveau, rendrait sa raison chancelante; vous allez trouver que c'était</p>
+                <p>là une pensée ignoble, bien peu digne de l'amour idolâtre qu'Éliane</p>
+                <p>m'avait inspiré. Mais, Thérèse, voyez-vous, les hommes sont ainsi faits;</p>
+                <p>les plus délicats ne sont pas exempts de grossièretés inqualifiables.</p>
+                <p>L'image de la femme aimée n'est jamais assez isolée sur l'autel que nous</p>
+                <p>lui dressons pour que d'étranges confusions ne se fassent pas dans notre</p>
+                <p>esprit. Lorsque nous nous inclinons devant elle, semblables au flot qui</p>
+                <p>vient saluer la rive, nous déposons à ses pieds, comme malgré nous, le</p>
+                <p>limon de nos habitudes corrompues, l'écume de nos souvenirs.</p>
+                <p> «Éliane vint chez moi le 28 février, à une heure du matin; je n'ai</p>
+                <p>jamais oublié cette date.»</p>
+            </div>
+            <div type="chapter">
+                <head>II</head>
+                <p>«Lorsqu'à la lueur des candélabres dont les branches sortaient du milieu</p>
+                <p>d'arbustes en fleurs, elle entrevit ces apprêts de notre tête-à-tête, ce</p>
+                <p>luxe fantasque prodigué à elle seule, dans un pauvre petit réduit où</p>
+                <p>elle n'avait compté trouver que l'ameublement modeste d'un étudiant,</p>
+                <p>elle fut surprise, sa vanité fut à tel point flattée, qu'elle ne trouva</p>
+                <p>de paroles ni pour me remercier ni pour me gronder. Par un mouvement</p>
+                <p>prompt, elle dénoua son masque et laissa glisser à terre son domino. En</p>
+                <p>voyant son charmant visage illuminé de joie, ses épaules et ses bras nus</p>
+                <p>se dégager des plis noirs du satin, j'eus un moment de vertige. Elle</p>
+                <p>était si blanche, sa robe étroite et collante dessinait une taille si</p>
+                <p>svelte, ses grands yeux m'éblouissaient de tant de flammes, que je crus</p>
+                <p>voir une apparition, la reine des ondines ou la fée Titania. Elle</p>
+                <p>s'aperçut sans doute que mon imagination s'exaltait, et que j'étais sur</p>
+                <p>une pente où bientôt il ne lui serait pas facile de m'arrêter, car elle</p>
+                <p>employa sa ruse habituelle pour me contenir. Elle se hâta de me parler</p>
+                <p>avec vivacité, avec enjouement, et même avec une pointe d'ironie; elle</p>
+                <p>poussa la cruauté jusqu'à critiquer mon tapis d'hermine, et jusqu'à</p>
+                <p>prétendre qu'une plante de gardénia, qui se trouvait auprès de la chaise</p>
+                <p>longue où elle s'était couchée, lui causait un mal de tête affreux.</p>
+                <p>Enfin elle me tourmenta, me harcela, m'irrita, me dérouta si bien, que</p>
+                <p>je ne pensais plus à lui proposer de souper, lorsque tout à coup elle</p>
+                <p>s'élança de son repos, et courant s'asseoir à table elle se prit à</p>
+                <p>manger avec un appétit merveilleux. Je restais là mécontent, confus de</p>
+                <p>mon personnage, me sentant gauche et le devenant de plus en plus. Elle</p>
+                <p>en arriva à vouloir me faire trouver notre situation plaisante, alors je</p>
+                <p>ne me contins pas. Dans la disposition romanesque où je me trouvais, la</p>
+                <p>raillerie m'était odieuse; nous nous disputâmes assez vivement: je me</p>
+                <p>souviens de tous ces détails comme si c'était hier; enfin elle me tendit</p>
+                <p>la main; nous fîmes une espèce de paix; nous achevâmes gaiement notre</p>
+                <p>petit souper. Deux heures s'étaient passées dans ces conversations à</p>
+                <p>demi hostiles; elle se plaignit d'une extrême fatigue, et se recouchant</p>
+                <p>sur la chaise longue, elle ne tarda pas à fermer les yeux et à</p>
+                <p>s'endormir.</p>
+                <p> «Je la contemplai d'abord avec une émotion religieuse; ce sommeil si</p>
+                <p>calme d'une femme que j'adorais, et qui se trouvait chez moi, loin de</p>
+                <p>toute surveillance, livrée à ma merci, était la chose la plus poétique</p>
+                <p>que je pusse imaginer. Toutefois mes sens étaient trop excités, ma</p>
+                <p>pensée était trop troublée, pour que de violents désirs ne s'emparassent</p>
+                <p>pas de moi. Je ne pus m'empêcher de déposer sur son front un long</p>
+                <p>baiser. Elle ouvrit les yeux à moitié et me parla d'une voix mourante.</p>
+                <p>Ce qu'elle me dit, la résistance qu'elle m'opposa, ce que j'arrachai à</p>
+                <p>sa lassitude ou ce que j'obtins de son amour, je ne saurais plus, je</p>
+                <p>n'ai jamais su le discerner. C'était assez pour que je pusse</p>
+                <p>m'enorgueillir de ma victoire; ce n'était pas assez pour qu'elle eût à</p>
+                <p>rougir de sa chute.</p>
+                <p> «Vous pouvez imaginer combien de pareilles scènes exaspéraient ma</p>
+                <p>passion et me faisaient son esclave. Ce qui vous surprendra peut-être,</p>
+                <p>c'est que notre liaison fût restée secrète et que le monde, dont Éliane</p>
+                <p>redoutait excessivement l'opinion, ne se jetât pas à la traverse de nos</p>
+                <p>amours. Mais outre qu'elle avait des précautions inouïes, une prudence</p>
+                <p>toujours éveillée, elle était si maîtresse d'elle-même, elle parlait de</p>
+                <p>moi avec un si parfait aplomb, qu'il était presque impossible de rien</p>
+                <p>soupçonner. D'ailleurs la piété d'Éliane, sa régularité dans l'exercice</p>
+                <p>de ses devoirs religieux, son assiduité auprès des pauvres de la</p>
+                <p>paroisse, lui conciliaient à tel point l'affection des ecclésiastiques</p>
+                <p>et des vieilles femmes, qu'elle avait autour d'elle comme une milice</p>
+                <p>sacrée toujours prête à la défendre en toute occasion.</p>
+                <p> «Quelque temps après cette nuit étrange, un matin que j'étais chez</p>
+                <p>Éliane, on annonça le comte de Marcel. C'était un homme de quarante ans</p>
+                <p>environ, brave, spirituel, de la meilleure compagnie, loyal et même</p>
+                <p>chevaleresque, disait-on, dans ses rapports avec les hommes, mais</p>
+                <p>débauché, cynique, et sans moralité aucune quand il s'agissait des</p>
+                <p>femmes qu'il affectait de mépriser. Sa présence inopinée chez Éliane, où</p>
+                <p>je ne l'avais jamais rencontré, me surprit et me déplut. Ce qui me</p>
+                <p>déplut bien davantage ce fut de lui voir prendre avec elle un ton léger,</p>
+                <p>persifleur, et s'établir dans son salon avec une familiarité négligente</p>
+                <p>qui me sembla dépasser les bornes de la liberté permise. Je donnai de</p>
+                <p>fréquentes marques d'impatience pendant sa longue visite, et, lorsqu'il</p>
+                <p>quitta la place, j'éclatai en indignation, presque en reproche. Je ne</p>
+                <p>concevais pas comment une femme honnête pouvait recevoir un homme</p>
+                <p>pareil, je n'aurais pas supposé qu'une personne qui se respectait</p>
+                <p>entendît de tels propos, souffrit une manière d'être si inconvenante.</p>
+                <p>Enfin je donnai un libre cours à ma colère que fomentait déjà le premier</p>
+                <p>levain d'une violente jalousie. Le comte était beau, je n'avais pu</p>
+                <p>m'empêcher de lui trouver du mordant, du trait dans l'esprit, une</p>
+                <p>certaine élégance, un grand air jusque dans le cynisme, quelque chose</p>
+                <p>enfin de supérieur, de voulu dans son laisser-aller apparent, qui me</p>
+                <p>causait une irritation sourde; et je me vengeais, en le rabaissant le</p>
+                <p>plus possible, de tous ces avantages dont je ne possédais aucun. Un des</p>
+                <p>plus singuliers effets de la jalousie, c'est qu'elle cause tout à la</p>
+                <p>fois d'imbéciles aveuglements et des divinations en quelque sorte</p>
+                <p>surnaturelles. Pour la première fois depuis que j'aimais Éliane,</p>
+                <p>j'observai dans ses réponses un certain embarras qui ne me parut pas</p>
+                <p>d'accord avec sa franchise ordinaire. Une ombre glissa dans mon coeur; ce</p>
+                <p>ne fut pas le doute, je me serais cru le dernier des hommes si j'avais</p>
+                <p>hésité à la croire en ce moment; ce fut comme une lointaine et vague</p>
+                <p>possibilité entrevue de ne pas la croire entièrement toujours.</p>
+                <p> «Elle m'expliqua que, à la vérité, elle avait peu attiré M. de Marcel</p>
+                <p>jusqu'ici, parce que ses principes trop connus lui inspiraient la même</p>
+                <p>répulsion qu'à moi, mais elle ajouta que d'anciennes relations de</p>
+                <p>famille, d'importants services rendus à ses parents, lui faisaient un</p>
+                <p>devoir de l'accueillir en ami, et autorisaient jusqu'à un certain point</p>
+                <p>les libertés qu'il prenait chez elle. Elle parla longtemps sur ce ton.</p>
+                <p>Je ne répondis rien, je n'aurais pas osé avouer de la jalousie; des</p>
+                <p>conseils dans ma bouche eussent été déplacés. J'en avais déjà trop dit;</p>
+                <p>je me tus. Je devins pensif, et, rentré chez moi, je m'abandonnai à une</p>
+                <p>grande tristesse. Un sentiment inconnu jusqu'alors envahit mon coeur.</p>
+                <p>C'était une douleur fiévreuse, sans nom et sans objet, un chagrin dont</p>
+                <p>la puérilité me faisait rougir, et dont pourtant je ne savais pas me</p>
+                <p>défendre; j'étais jaloux, éperdûment jaloux; et cela à propos d'une</p>
+                <p>misère, à propos de rien; jaloux de la plus vertueuse femme qu'il y eût</p>
+                <p>au monde; c'était de quoi me prendre moi-même en grande pitié.</p>
+                <p> «Dès ce jour commença pour moi une période de souffrance toujours</p>
+                <p>croissante; je ne crois pas qu'il soit au monde de tourments plus odieux</p>
+                <p>que celui d'un coeur fier aux prises avec la jalousie, cette passion</p>
+                <p>basse que les poëtes ont tenté d'ennoblir, mais dont le principe est,</p>
+                <p>presque toujours, dans un intérêt égoïste et brutal ou dans un</p>
+                <p>amour-propre désordonné. Il est bien rare que l'amour pur, si emporté</p>
+                <p>qu'on le suppose, se montre jaloux et défiant. C'est ce qu'il y a de</p>
+                <p>maladif, de mauvais en nous, qui sert d'aliment aux flammes de la</p>
+                <p>jalousie. J'en fis alors la triste épreuve, car, à ses premières lueurs,</p>
+                <p>je découvris en moi des petitesses, des lâchetés dont je n'avais pas</p>
+                <p>jusque-là soupçonné l'existence.</p>
+                <p> «Ma passion pour Éliane, en paraissant s'accroître, changea de nature.</p>
+                <p>Je n'allais plus chez elle avec simplicité et ouverture de coeur, pour</p>
+                <p>jouir de sa douce présence et des épanchements de notre amour. J'y</p>
+                <p>allais avec la pensée de rencontrer Marcel, avec une sorte de désir âpre</p>
+                <p>de les surprendre, de rompre leur tête-à-tête. J'étais désappointé quand</p>
+                <p>il ne s'y trouvait pas. Son nom me revenait sans cesse à la bouche,</p>
+                <p>Éliane le prononçait-elle, au contraire, mon coeur se serrait</p>
+                <p>douloureusement et mes yeux s'emplissaient de larmes. Je m'aperçus</p>
+                <p>bientôt qu'Éliane évitait de me faire rencontrer avec le comte, et je</p>
+                <p>crus même surprendre, quand je les voyais dans le monde, où il ne la</p>
+                <p>quittait guère, des sourires d'intelligence échangés entre eux. J'en</p>
+                <p>devins comme fou, et je m'oubliai un jour jusqu'à vouloir exiger</p>
+                <p>d'Éliane qu'elle cesserait de le voir; je lui fis d'absurdes menaces:</p>
+                <p>puis voyant que je n'obtenais rien ainsi, je me montrai faible comme un</p>
+                <p>enfant; je pleurai sur son sein, je la conjurai de prendre en pitié ma</p>
+                <p>souffrance. Elle me répondit qu'elle ne pouvait faire un pareil éclat,</p>
+                <p>que les choses s'arrangeraient d'elles-mêmes par le prochain départ de</p>
+                <p>Marcel. Elle raisonnait à perte de vue, quand moi je divaguais de la</p>
+                <p>façon la plus déplorable. Aussi dans ces sortes de scènes, qui se</p>
+                <p>renouvelèrent plusieurs fois, je finissais toujours par lui demander</p>
+                <p>pardon; je la quittais mécontent de moi, admirant sa sagesse et</p>
+                <p>maudissant ma folie. Quant au comte, il ne semblait pas s'apercevoir de</p>
+                <p>ces orages. Il ne me témoignait ni éloignement ni sympathie; il était</p>
+                <p>avec moi strictement poli, rien de plus, rien de moins, et ne tenait</p>
+                <p>guère compte de ma présence. Moi je le haïssais; j'aurais voulu le tuer;</p>
+                <p>j'épiais sans cesse un sujet de querelle. Je fus trop exaucé: j'étais</p>
+                <p>réservé au plus triste des châtiments, à celui que l'homme, égaré par sa</p>
+                <p>passion, rencontre dans l'accomplissement même de ses aveugles désirs.</p>
+                <p> «Il y avait près de deux mois que duraient mes angoisses; je ne voyais</p>
+                <p>pas d'issue à ce labyrinthe de soupçons, de reproches, d'explications,</p>
+                <p>de révolte où j'étais entré. Mon cerveau fatigué n'avait plus la faculté</p>
+                <p>d'envisager sainement quoi que ce soit, mon coeur se gonflait d'amertume;</p>
+                <p>j'étais dans un état lamentable. Vous concevez ce que je dus éprouver,</p>
+                <p>lorsqu'un jour, en entrant chez Éliane, je la vis accourir au-devant de</p>
+                <p>moi, ce qu'elle ne faisait jamais, et se jeter à mon cou en fondant en</p>
+                <p>larmes.</p>
+                <p> «Depuis mes ridicules querelles, elle s'était montrée plus froide, plus</p>
+                <p>réservée. Je m'attendais si peu à une démonstration pareille, que je</p>
+                <p>demeurai pétrifié, en croyant à peine mes yeux.</p>
+                <p> «--Éliane! m'écriais-je.</p>
+                <p> «Et dans ce nom, prononcé ainsi en la serrant contre mon coeur, je</p>
+                <p>retrouvai ma joie, mon espoir, mon aveugle amour.</p>
+                <p> «--Hervé, me dit-elle, m'aimes-tu encore? me pardonnes-tu tes</p>
+                <p>tristesses? les chagrins que je t'ai causés, veux-tu les oublier? Hervé!</p>
+                <p>si tu savais, ah! j'en suis cruellement punie!</p>
+                <p> «Ses sanglots lui coupèrent la parole. Troublé, ému, orgueilleux tout à</p>
+                <p>coup, je la conduisis, je la portai presque jusqu'à son fauteuil, et je</p>
+                <p>m'agenouillai devant elle.</p>
+                <p> «Alors seulement je vis l'altération effrayante de ses traits; une</p>
+                <p>pâleur mortelle couvrait ses joues, son oeil était ardent et sec.</p>
+                <p> «--Que j'étais insensée, reprit-elle, de croire à un bon sentiment chez</p>
+                <p>cet homme pervers! Hervé, si tu savais comme il m'a traitée!... Quel</p>
+                <p>affront sanglant!...</p>
+                <p> «--Que dites-vous? m'écriai-je. Quand, où, comment? Qu'a-t-il fait? Où</p>
+                <p>se cache-t-il? Ô mon Dieu! depuis si longtemps je me contiens! La voilà</p>
+                <p>donc arrivée enfin, mon heure!... Mais encore une fois, Éliane,</p>
+                <p>qu'a-t-il fait?</p>
+                <p> «Un affront public, un outrage dont il se vante sans doute en ce moment</p>
+                <p>dans tout Paris. Hier soir, à l'ambassade de Sardaigne, sa soeur, la</p>
+                <p>marquise de R***, qu'il affecte d'aimer pour faire croire qu'il est</p>
+                <p>capable d'aimer quelque chose, était venue s'asseoir auprès de moi; sans</p>
+                <p>nous connaître autrement que de vue nous échangeâmes cependant quelques</p>
+                <p>paroles. Mais tout à coup M. de Marcel, qui était à l'autre bout du</p>
+                <p>salon, fendit la foule, vint droit à sa soeur, et jetant sur moi un</p>
+                <p>regard impudent: «Vous n'êtes pas bien là, Marguerite, dit-il en</p>
+                <p>haussant la voix, ce n'est pas là une place convenable pour vous.» Puis</p>
+                <p>il lui prit le bras et l'emmena dans une autre pièce. Son intention</p>
+                <p>était évidente. Soit qu'il voulût faire comprendre que sa soeur était une</p>
+                <p>trop grande dame pour se commettre avec une bourgeoise, soit que dans</p>
+                <p>son rôle d'homme à bonnes fortunes, il entrât de donner à croire à tous</p>
+                <p>ceux qui nous entouraient qu'il était mon amant et qu'il ne voulait pas</p>
+                <p>voir sa soeur auprès de sa maîtresse, toujours est-il que le coup a</p>
+                <p>porté, et qu'aujourd'hui, si vous ne détournez les propos en donnant le</p>
+                <p>change, je suis la fable de la ville.</p>
+                <p> «--Je cours lui en demander raison, m'écriai-je.</p>
+                <p> «--Vous n'y pensez pas, reprit-elle; le comte vous recevra en fumant sa</p>
+                <p>pipe; il vous dira qu'il ne sait à qui vous en avez, vous plaisantera</p>
+                <p>sur l'intérêt que vous prenez à moi, et cette démarche ne servira qu'à</p>
+                <p>me compromettre davantage. Non, non, j'ai pensé à tout, j'ai réfléchi</p>
+                <p>toute la nuit. Il n'y a qu'un moyen, il faut lui rendre au centuple son</p>
+                <p>insolence; il faut l'insulter publiquement, et cela dans la personne de</p>
+                <p>sa soeur. C'est son seul endroit vulnérable; il a l'orgueil de son nom à</p>
+                <p>un point inouï. Allez ce soir au bal de lord C***, vous les y trouverez,</p>
+                <p>elle et lui, sans aucun doute; saisissez un moment où il sera près</p>
+                <p>d'elle, trouvez moyen de lancer quelques mots railleurs sur la marquise;</p>
+                <p>il répondra, cela est certain; une querelle s'engagera naturellement, et</p>
+                <p>je serai doublement vengée.</p>
+                <p> «Cette combinaison, si habile qu'elle fût, ou peut-être à cause de son</p>
+                <p>habileté, révolta tout ce qu'il y avait en moi d'honnêteté et de</p>
+                <p>délicatesse.--Prenez garde, Éliane, lui dis-je, votre trop juste</p>
+                <p>ressentiment vous emporte. Vous me demandez une chose impossible.</p>
+                <p>Insulter une femme, qui, après tout, n'est aucunement coupable envers</p>
+                <p>vous, ce serait une lâcheté.</p>
+                <p> «--Ce ne sera point une lâcheté, interrompit Éliane, puisqu'il y aura là</p>
+                <p>un homme pour la défendre. D'ailleurs je la hais, ajouta-t-elle avec un</p>
+                <p>accent qui m'épouvanta.</p>
+                <p> «--Au nom du ciel, Éliane, songez...</p>
+                <p> «--Je songe, reprit-elle, que vous êtes bien circonspect.</p>
+                <p> «Ce mot si blessant fit son effet. Je fus d'une pitoyable faiblesse.</p>
+                <p>Faisant taire ma conscience, et mon honneur, je n'écoutai plus que sa</p>
+                <p>colère; je promis tout ce qu'elle voulut, comptant un peu sur le hasard;</p>
+                <p>mais le hasard qui sert les volontés fortes ne vient jamais en aide aux</p>
+                <p>caractères faibles. La marquise de R..., qui avait eu pendant longtemps</p>
+                <p>une réputation irréprochable, était cette année-là en butte à la</p>
+                <p>malignité du monde. Son mari voyageait depuis près d'une année; on</p>
+                <p>voyait assidûment chez elle un jeune homme fort à la mode; on remarquait</p>
+                <p>qu'elle devenait triste, soucieuse; les plus téméraires dans leur</p>
+                <p>méchanceté faisaient observer que sa taille svelte perdait de sa grâce,</p>
+                <p>qu'elle prenait un embonpoint singulier; le mot de grossesse avait même</p>
+                <p>été prononcé. Ce fut de ces honteux propos que je me souvins lorsque,</p>
+                <p>étant arrivé au bal, la vue de Marcel ranima ma colère et chassa mes</p>
+                <p>derniers scrupules. Je me hâtai d'engager la marquise pour une prochaine</p>
+                <p>valse, et, le moment venu, je vis avec une joie vraiment féroce que son</p>
+                <p>frère l'avait rejointe et qu'il ne pourrait pas ne pas entendre les</p>
+                <p>impertinences que j'allais lui dire. Quand l'orchestre donna le signal</p>
+                <p>je m'approchai de la marquise, et, feignant de la regarder avec</p>
+                <p>inquiétude: «Voici, madame, la valse que vous avez daigné me promettre,</p>
+                <p>dis-je, mais, en vérité, je me fais scrupule d'user de mon droit; vous</p>
+                <p>paraissez fatiguée, souffrante même; peut-être le repos vous serait-il</p>
+                <p>plus conseillable que la danse.</p>
+                <p> «Soit que la malheureuse femme fût réellement coupable, soit qu'elle eût</p>
+                <p>connaissance des bruits qui couraient, elle rougit. Marcel, qui était</p>
+                <p>derrière sa chaise, attacha sur moi un oeil interrogatif, c'était ce que</p>
+                <p>je voulais.</p>
+                <p> «--Je ne suis point lasse, monsieur, me dit-elle timidement et je</p>
+                <p>danserai volontiers.</p>
+                <p> «--J'en serais heureux, madame, continuai-je avec une détestable</p>
+                <p>effronterie, mais vous respirez avec peine... Il est des circonstances,</p>
+                <p>ajoutai-je en me penchant à son oreille, où la plus légère fatigue peut</p>
+                <p>devenir dangereuse.</p>
+                <p> «--De grâce, monsieur, dit la marquise d'un air suppliant et entièrement</p>
+                <p>décontenancée par les sourires que ces insinuations avaient appelés sur</p>
+                <p>les lèvres de ceux qui nous entouraient...</p>
+                <p> «En ce moment Marcel se leva, et me séparant de la marquise par un</p>
+                <p>mouvement brusque:</p>
+                <p> «Vous avez raison, monsieur, me dit-il; je suis également d'avis que ma</p>
+                <p>soeur ne danse pas, et, si vous le trouvez bon, nous irons pendant la</p>
+                <p>valse faire un tour de jardin ensemble.</p>
+                <p> «Je le suivis.»</p>
+            </div>
+            <div type="chapter">
+                <head>IV</head>
+                <p>«En descendant les degrés du perron, Marcel me dit d'un accent bref:</p>
+                <p> «--Le ton que vous venez de prendre avec ma soeur ne me convient pas,</p>
+                <p>monsieur; j'ignore ce que vous lui avez dit et je n'ai pas souci de</p>
+                <p>l'apprendre; mais votre air railleur m'a déplu et je vous prie de</p>
+                <p>vouloir bien m'expliquer...</p>
+                <p> «--Je ne donne point d'explication des airs que je puis avoir,</p>
+                <p>interrompis-je, ayant hâte d'en venir à un cartel, prenez-les comme bon</p>
+                <p>vous semblera.</p>
+                <p> «--Il suffit, dit Marcel; veuilles avoir l'obligeance de rester ici une</p>
+                <p>minute, un de mes amis va venir de ma part pour s'entendre avec vous.</p>
+                <p> «Je fis une légère inclination de tête. Un quart d'heure après, le</p>
+                <p>témoin du comte et un de mes cousins, qui fit l'office de mon second,</p>
+                <p>étaient convenus que le lendemain à huit heures on se battrait à l'épée,</p>
+                <p>c'était l'arme à la mode cette année-là, au bois de Boulogne. Rentré</p>
+                <p>chez moi, je fis, avec une solennité empressée, mes dispositions en cas</p>
+                <p>de mort. J'écrivis à Éliane une lettre remplie de conseils évangéliques.</p>
+                <p>Je pardonnai aux ennemis que je n'avais pas, je laissai des souvenirs</p>
+                <p>aux amis que je n'avais guère davantage; enfin je passai la nuit dans un</p>
+                <p>accès d'héroïsme fiévreux, dans un monologue déclamatoire, dont je n'ai</p>
+                <p>pu m'empêcher de sourire quelquefois depuis en y songeant.</p>
+                <p> «Heureusement un sommeil de quelques heures, l'air vif du matin, la</p>
+                <p>présence de Marcel et des témoins me ramenèrent à un sentiment plus</p>
+                <p>simple et plus calme des choses. Je puis vous le dire, aujourd'hui que</p>
+                <p>certes nulle vanité rétrospective ne se mêle à ce récit, je me battis</p>
+                <p>avec le sang-froid et l'adresse d'un homme consommé dans l'habitude des</p>
+                <p>armes, et j'entendis Marcel, au moment où, blessé assez grièvement, il</p>
+                <p>s'appuyait sur son témoin, dire ces paroles qui me semblèrent un brevet</p>
+                <p>d'honneur dans la bouche d'un homme aussi réputé pour sa bravoure:</p>
+                <p> «--En vérité, on ne s'est jamais battu plus galamment; cela s'appelle</p>
+                <p>manier l'épée en gentilhomme.</p>
+                <p> «Le chirurgien déclara que la blessure de Marcel ne présentait aucun</p>
+                <p>danger immédiat. J'en fus heureux. Ce duel avait tout à coup apaisé ma</p>
+                <p>colère; je ne me souvenais plus d'avoir été jaloux; je ne songeais qu'à</p>
+                <p>la satisfaction de m'être bien montré dans une semblable rencontre. Le</p>
+                <p>plaisir d'avoir vengé Éliane ne venait même qu'en seconde ligne. Vous ne</p>
+                <p>pouvez vous figurer combien on est fier, dans la jeunesse, d'acquérir la</p>
+                <p>certitude qu'on est véritablement brave et qu'on sait faire bonne</p>
+                <p>contenance en présence du danger. Un premier duel est une crise dans la</p>
+                <p>vie d'un homme: c'est comme une initiation, comme, dans un autre ordre</p>
+                <p>d'idées, un sacrement reçu: c'est une confirmation de l'honneur.</p>
+                <p> «Ne pouvant me présenter chez Éliane aussi matin, je lui fis savoir</p>
+                <p>l'issue de mon affaire avec M. de Marcel, et dans l'après-midi, j'allai</p>
+                <p>suivant l'usage m'informer de l'état du blessé. On me dit qu'il se</p>
+                <p>sentait aussi bien que possible, que le chirurgien assurait toujours que</p>
+                <p>la blessure n'avait aucun caractère alarmant. Le comte avait donné</p>
+                <p>l'ordre de me faire entrer si j'en témoignais le désir. J'avoue que je</p>
+                <p>fus flatté de cet ordre, et je me fis immédiatement annoncer à M. de</p>
+                <p>Marcel. Il me parut bien; il était à peine un peu pâli et se mouvait</p>
+                <p>dans son lit sans aucune gêne apparente. Il me reçut avec une extrême</p>
+                <p>politesse. Après avoir répondu brièvement à mes questions sur l'état où</p>
+                <p>il se trouvait:</p>
+                <p> «--À mon tour, monsieur, me permettez-vous, me dit-il, de vous</p>
+                <p>interroger? Je n'en ai pas le droit, et vous avez répondu à l'avance, de</p>
+                <p>la pointe de votre épée, à tout ce que je pourrais vouloir</p>
+                <p>d'éclaircissements sur le sujet qui a amené notre rencontre; toutefois,</p>
+                <p>monsieur, j'ai près du double de votre âge, je pourrais être votre père;</p>
+                <p>me direz-vous, à ce titre, comment il se peut qu'un homme d'honneur, un</p>
+                <p>gentilhomme, qui a du monde et du savoir-vivre, s'attaque à une femme</p>
+                <p>ainsi que vous l'avez fait hier.</p>
+                <p> «Je demeurai un peu confus. Le comte m'avait toujours imposé malgré moi.</p>
+                <p>En ce moment son accent était si calme, si noble, il avait si</p>
+                <p>complétement raison de me parler ainsi, que pour toute réponse je</p>
+                <p>balbutiai.</p>
+                <p> «--J'ai déjà eu l'honneur de vous dire, continua-t-il, que je n'ai point</p>
+                <p>entendu vos propos; je n'ai pas questionné ma soeur; je ne veux pas</p>
+                <p>apprendre de vous ce que vous lui avez dit; mais enfin, monsieur, qui le</p>
+                <p>saurait mieux que vous? ce n'est pas de ce ton goguenard et impertinent</p>
+                <p>qu'il convient d'aborder une femme comme elle, n'est-il pas vrai?</p>
+                <p> «--Pourquoi donc, alors, dis-je en reprenant contenance, pourquoi, vous,</p>
+                <p>monsieur le comte, aviez-vous insulté la veille, au bal, une femme</p>
+                <p>également digne de tous vos respects?</p>
+                <p> «--Ah! j'en étais certain, s'écria Marcel en faisant un mouvement</p>
+                <p>brusque qui lui arracha un signe de douleur, c'est cette détestable</p>
+                <p>créature qui est derrière tout cela! C'est Éliane qui vous pousse...</p>
+                <p>Mais savez-vous bien, monsieur, de qui vous parlez, quand vous l'appelez</p>
+                <p>une femme respectable?</p>
+                <p> «Je le priai avec calme, quoique la colère m'eût fait tout à coup monter</p>
+                <p>le rouge au front, de ne pas s'exprimer ainsi devant moi sur le compte</p>
+                <p>d'une personne qui m'était chère. Il sourit avec ironie.</p>
+                <p> «--Écoutez, monsieur, me dit-il en reprenant son sang-froid, je n'ai</p>
+                <p>aucun intérêt à calomnier madame... auprès de vous. Quoi que vous en</p>
+                <p>puissiez penser, je ne dispute ses faveurs à personne. Je ne suis point</p>
+                <p>jaloux de mes nombreux rivaux; mais tenez, je vais vous parler en</p>
+                <p>gentilhomme, vous avez aujourd'hui gagné mon coeur par votre parfaite</p>
+                <p>tenue, par votre bonne grâce à manier l'épée. Un homme qui se bat bien,</p>
+                <p>qui est correct en matière d'honneur, comme nous disons, nous autres</p>
+                <p>vieux du métier, a droit à toutes mes sympathies. La façon dont vous</p>
+                <p>vous êtes comporté ce matin, m'a non-seulement fait vous pardonner la</p>
+                <p>cause de notre querelle, mais encore (ne me trouvez pas trop singulier),</p>
+                <p>elle m'a vivement intéressé à vous. Je vous le répète, je serais votre</p>
+                <p>père: eh bien, laissez-moi vous donner un conseil. Vous êtes jeune, vous</p>
+                <p>avez de l'avenir, ne vous empêtrez pas dans les lacs de cette femme,</p>
+                <p>vous ne savez pas jusqu'à quel point cela peut vous devenir funeste.</p>
+                <p> «Je voulus l'interrompre.</p>
+                <p> «--Mon Dieu, je vous choque, je blesse en ce moment un sentiment exalté</p>
+                <p>peut-être; vous n'êtes pas le premier qu'Éliane a séduit; c'est une</p>
+                <p>véritable sirène... Maïs croyez-moi, si vous vous y abandonnez, vous ne</p>
+                <p>recueillerez de cet amour qu'ennuis et dégoûts de toute sorte; peut-être</p>
+                <p>même finirez-vous par faire de mauvaises actions pour lui plaire, car</p>
+                <p>elle exerce un pouvoir inouï sur tout ce qui l'entoure, personne ne</p>
+                <p>l'approche impunément... Moi qui vous parle, et qui ne me suis pas pris</p>
+                <p>comme un enfant dans ses pièges, vous voyez pourtant que me voici puni</p>
+                <p>de ne m'être pas toujours tenu à distance.</p>
+                <p> «Le comte avait, en me parlant, un accent si vrai, si loyal, son regard</p>
+                <p>était si paternel, sa parole si simple et en même temps si pleine</p>
+                <p>d'autorité, qu'il m'imposa silence; il continua ainsi:</p>
+                <p> «--Mais il ne faut pas que son triomphe soit complet; il ne faut pas</p>
+                <p>que, pour une aussi vile créature, deux hommes d'honneur se</p>
+                <p>méconnaissent, se prennent de haine l'un pour l'autre; il y a assez</p>
+                <p>longtemps qu'elle fait des dupes. J'ai acquis le droit de la démasquer;</p>
+                <p>je le ferai.</p>
+                <p> «Je croyais, en entendant le comte parler de la sorte, que le délire</p>
+                <p>m'avait pris. Je sentais le sol se dérober sous moi; j'étais comme</p>
+                <p>frappé de la foudre. Marcel sonna, fit ouvrir son secrétaire, demanda un</p>
+                <p>grand portefeuille à serrure qui s'y trouvait, et me le montrant:</p>
+                <p> «--Ce portefeuille, me dit-il, contient à peu près tout le secret de la</p>
+                <p>vie d'Éliane; il renferme une longue correspondance et d'autres papiers</p>
+                <p>écrits de sa main, dans lesquels toute la fausseté, tout l'odieux de son</p>
+                <p>caractère sont dévoilés. Elle qui a, toute sa vie, été prudente,</p>
+                <p>circonspecte de telle façon que le monde, encore à l'heure qu'il est, ne</p>
+                <p>soupçonne rien de ses déportements, elle a commis une faute immense:</p>
+                <p>elle s'est confiée une fois, une seule fois, mais entièrement, sans</p>
+                <p>restriction, sans pruderie, je vous le jure, à une femme; et cette femme</p>
+                <p>l'a trahie pour moi.</p>
+                <p> «Je fis une exclamation.</p>
+                <p> «--Ce n'était pas une grande dame, ce n'était pas même une honnête</p>
+                <p>femme, c'était tout simplement une courtisane, mais très-bonne, et</p>
+                <p>valant cent fois mieux qu'Éliane qu'elle avait connue, je ne sais où ni</p>
+                <p>comment, et dont elle était devenue, sans trop en avoir conscience,</p>
+                <p>l'instrument, la confidente, le recours, à certaines heures de ces</p>
+                <p>dangers auxquels les femmes qui mènent de front plusieurs intrigues sont</p>
+                <p>souvent exposées.</p>
+                <p> «Cette chère Zélia qui m'aimait, je crois, assez sincèrement, mais qui</p>
+                <p>pourtant ne m'avait jamais laissé deviner ses relations mystérieuses</p>
+                <p>avec Éliane, est morte il y a six mois, fort tourmentée d'une sorte</p>
+                <p>d'engouement qui m'avait pris pour son amie en la voyant dans le monde.</p>
+                <p>Voulant me prémunir sans doute contre les dangers qu'elle prévoyait,</p>
+                <p>elle me remit à son lit, de mort le portefeuille ci-joint, en me faisant</p>
+                <p>jurer de le brûler après l'avoir lu; mais on ne tient pas les serments</p>
+                <p>faits aux femmes, cela ne compte pas; j'ai gardé le portefeuille, et le</p>
+                <p>voici à vos ordres, si vous voulez avoir une idée nette de ce que peut</p>
+                <p>être la corruption chez le beau sexe quand une fois il s'en mêle.</p>
+                <p> «J'avoue, continua le comte, que lorsque je parcourus ces pages, qui</p>
+                <p>recélaient le secret de tant d'intrigues, de perfidies, de mensonges, il</p>
+                <p>me prit une violente curiosité, la maladie de notre temps, la curiosité</p>
+                <p>de la dépravation. Je fus moins sage alors que je ne vous parais</p>
+                <p>aujourd'hui; je voulus connaître Éliane et devenir son amant. Cela ne</p>
+                <p>fut pas difficile. Elle sut à n'en pas douter que je possédais cette</p>
+                <p>correspondance. Dès lors il s'engagea entre nous une lutte pleine de</p>
+                <p>péripéties; elle voulait ravoir le portefeuille, moi je voulais le</p>
+                <p>garder, de nous deux je fus le plus habile; elle céda sans condition,</p>
+                <p>s'en rapportant à ma bonne foi, comme vous pourrez vous en convaincre</p>
+                <p>dans quelques billets qu'elle n'a pas craint de m'écrire, car elle</p>
+                <p>n'avait plus rien à risquer avec moi; elle jouait le tout pour le tout.</p>
+                <p>Ces lettres, je les ai jointes à celle de Zélia, elles sont là aussi.</p>
+                <p> «En ce moment on annonça le docteur. Marcel me fit signe de prendre le</p>
+                <p>portefeuille. Je lui serrai la main et je sortis en silence, la mort sur</p>
+                <p>les lèvres, l'enfer dans le coeur. Quand j'arrivai chez moi, je ne sais</p>
+                <p>ce que j'avais pensé en route, quelle étrange confusion s'était faite</p>
+                <p>dans mon cerveau, ni comment j'avais pu oublier si vite la parole du</p>
+                <p>blessé, son regard convaincu, tout ce qui enfin mettait hors de doute la</p>
+                <p>véracité de son récit; mais j'étais persuadé que ce qui venait de se</p>
+                <p>passer ne pouvait être qu'une plaisanterie, une vengeance peut-être,</p>
+                <p>exercée par Marcel, une épreuve faite sur ma crédulité, dont j'allais</p>
+                <p>trouver l'explication et l'excuse dans le portefeuille.</p>
+                <p> «Cela était bien incroyable, bien impossible assurément, mais pour moi,</p>
+                <p>tout au monde était croyable, tout était possible, hormis l'avilissement</p>
+                <p>d'Éliane. Je posai le portefeuille sur ma table, je le regardai</p>
+                <p>longtemps d'un oeil hébété; un nuage était devant mes yeux, il me</p>
+                <p>semblait que quelque chose de glacé s'était posé sur mon coeur; je ne me</p>
+                <p>sentais plus ni impatience ni curiosité, je n'avais pas même peur; tous</p>
+                <p>les ressorts de mon être étaient relâchés; ce grand ébranlement, ce choc</p>
+                <p>inattendu avaient comme arrêté soudain en moi la vie et l'intelligence.</p>
+                <p>Ce fut par un mouvement machinal que je tournai la clef dans la serrure</p>
+                <p>du portefeuille, et certes si quelqu'un fût entré en ce moment et m'eût</p>
+                <p>demandé ce que je faisais là, je n'aurais pas su répondre. Il y a dans</p>
+                <p>la vie de l'homme des heures rapides, décisives, chargées de choses, où</p>
+                <p>l'on dirait que le destin a hâte de faire son oeuvre à lui tout seul, et</p>
+                <p>ne laisse ni à la volonté ni à la réflexion le temps d'agir.</p>
+                <p> «La vue même de l'écriture d'Éliane ne me fit pas sortir de ma torpeur;</p>
+                <p>je ne pouvais plus en douter, pourtant, le récit de Marcel se</p>
+                <p>confirmait; j'avais bien là sous les yeux une volumineuse</p>
+                <p>correspondance, dont quelques mots saisis au hasard, en tournant</p>
+                <p>rapidement les feuilles, me blessaient comme des pointes aiguës. Je suis</p>
+                <p>certain que ces lettres passèrent plus de vingt fois dans mes mains</p>
+                <p>tremblantes, avant que j'eusse bien compris de quoi il s'agissait. Enfin</p>
+                <p>un billet de date toute récente, adressé à Marcel, me causa une</p>
+                <p>sensation plus vive, m'entra plus avant et d'une pointe plus acérée dans</p>
+                <p>le coeur.</p>
+                <p> «Je m'éveillai comme en sursaut; une sueur froide inonda mon visage, ma</p>
+                <p>douleur éclata et je me laissai tomber à terre en poussant des cris. Je</p>
+                <p>crois que je restai là plusieurs heures à pleurer et à me tordre. Je ne</p>
+                <p>pense pas que tristesse plus amère ait jamais envahi plus complétement</p>
+                <p>une âme aussi ouverte, aussi mal défendue; ce fut comme un flot noir qui</p>
+                <p>passa tout à coup sur ma tête et qui emporta avec lui, pour ne jamais me</p>
+                <p>les rendre, ma jeunesse, mon amour et mon facile bonheur. Un coup frappé</p>
+                <p>à ma porte m'arracha à cette première crise de pleurs et de sanglots.</p>
+                <p>J'allai ouvrir. C'était un billet d'Éliane qu'on m'apportait. Je le</p>
+                <p>jetai sans le regarder. Mon transport s'étant un peu calmé, mon cerveau</p>
+                <p>étant devenu un peu plus lucide par l'abondance de mes larmes, je me</p>
+                <p>rassis, et j'eus cette fois le courage de lire jusqu'au bout la fatale</p>
+                <p>correspondance. Lecture effroyable! Marcel ne m'avait pas trompé.</p>
+                <p> «Ces lettres, écrites sans doute dans des moments où Éliane ressentait</p>
+                <p>le besoin, qui saisit même les plus hypocrites, de soulever un instant</p>
+                <p>le masque qui les offusque, laissaient voir à nu des vices, des</p>
+                <p>turpitudes où l'oeil le plus aguerri eût hésité à plonger. Ce n'étaient</p>
+                <p>pas seulement les intrigues multipliées d'une femme galante dont je</p>
+                <p>trouvais les trop certains indices, c'étaient encore les raffinements</p>
+                <p>d'une froide corruption et toutes les bassesses que le goût immodéré de</p>
+                <p>la dépense et du faste peut faire commettre à un être sans moralité et</p>
+                <p>sans autres principes que ceux d'un épouvantable égoïsme.</p>
+                <p> «Vous ne pourrez jamais vous figurer, ma chère Thérèse, quel affreux</p>
+                <p>ravage porta en moi cette nuit de désolation, où je ne fis que lire et</p>
+                <p>relire ces lettres funestes. Quand on a acquis l'expérience du monde, on</p>
+                <p>se reporte difficilement à ces heures de jeunesse où la passion libre,</p>
+                <p>forte, croyante et simple, règne seule sur le coeur. À ce moment de la</p>
+                <p>vie, on ne se représente jamais le mal que sous des dehors repoussants;</p>
+                <p>la beauté, les grâces du corps semblent une image fidèle de la</p>
+                <p>perfection de l'âme; une femme aimée est toujours un ange. On ne</p>
+                <p>pourrait pas comprendre l'existence de ces êtres doués de tous les</p>
+                <p>charmes et gangrenés de tous les vices, tels qu'une société vieillie</p>
+                <p>dans la corruption peut seule les produire.</p>
+                <p> J'ai quelque peine, moi-même, à me rappeler de quelle hauteur j'étais en</p>
+                <p>ce moment précipité. L'excès de ma douleur était tel que je n'avais plus</p>
+                <p>aucune notion ni de temps ni de lieu. Je demeurai toute la nuit et tout</p>
+                <p>le jour suivant seul, enfermé dans ma chambre, l'oeil fixe et morne, sans</p>
+                <p>parler, sans songer à prendre de nourriture. J'écoutais machinalement le</p>
+                <p>bruit égal et régulier de ma pendule, je suivais les mouvements du</p>
+                <p>balancier; il me semblait voir quelque chose de mystérieux et de</p>
+                <p>terrible dans les chiffres du cadran, et quand l'aiguille les touchait,</p>
+                <p>j'éprouvais une angoisse puérile. Quelquefois je me jetais à genoux,</p>
+                <p>mais je me relevais tout à coup en éclatant de rire comme un insensé. Le</p>
+                <p>soir venu, mon domestique, inquiet de n'avoir pas été appelé une seule</p>
+                <p>fois dans la journée, vint me demander si je n'avais pas d'ordre à lui</p>
+                <p>donner. Sa vue me rendit la conscience de moi et de ce qui s'était</p>
+                <p>passé.</p>
+                <p> Je pensai à Marcel et j'envoyai savoir de ses nouvelles. Au bout d'une</p>
+                <p>demi-heure, on revint me dire qu'on était assez inquiet, que le comte</p>
+                <p>avait passé une nuit détestable, qu'une fièvre très-forte s'était</p>
+                <p>déclarée le matin, et qu'un second médecin venait d'être appelé. Les</p>
+                <p>gens de la maison croyaient, ajouta mon domestique, que le chirurgien</p>
+                <p>qui avait fait les premiers pansements s'était trompé, et que la</p>
+                <p>blessure était bien plus grave qu'on ne l'avait craint d'abord. Un peu</p>
+                <p>secoué par ces nouvelles, je voulus aller moi-même savoir l'exacte</p>
+                <p>vérité, mais une défaillance de coeur me prit encore. Après avoir renvoyé</p>
+                <p>mon domestique, je me laissai tomber sur mon fauteuil. «Éliane!</p>
+                <p>m'écriai-je douloureusement, Éliane!...» À l'instant même, et comme si</p>
+                <p>elle eût pu m'entendre, elle ouvrait ma porte et je la vis devant moi.»</p>
+                <p> «Frappée sans doute de ma pâleur et du bouleversement de mes traits:</p>
+                <p> --Qu'avez-vous, Hervé? s'écria-t-elle, m'aurait-on trompée?...</p>
+                <p>Seriez-vous blessé? Pourquoi ne m'avoir pas écrit? Pourquoi n'être pas</p>
+                <p>venu?</p>
+                <p> Cette voix si douce, ce regard qui descendait sur moi comme un rayon, me</p>
+                <p>donnèrent encore un moment d'illusion, presque de bonheur. Je la</p>
+                <p>contemplai sans rien dire, puis je fondis en larmes. Elle s'était</p>
+                <p>approchée de moi; mon fauteuil touchait à la table sur laquelle j'avais</p>
+                <p>laissé le portefeuille de Marcel tout ouvert; son châle, en frôlant</p>
+                <p>cette table, fit voler en l'air quelques-unes des lettres. Il faut</p>
+                <p>croire qu'elle connaissait le portefeuille, ou que, voyant sa propre</p>
+                <p>écriture, elle devina à l'instant même, car elle pâlit.</p>
+                <p> «--Qu'est-ce que cela? me dit-elle vivement.</p>
+                <p> «--C'est un souvenir que me laisse Marcel, lui dis-je en attachant sur</p>
+                <p>elle un regard qui l'eût tuée, si cette femme avait eu un coeur; c'est un</p>
+                <p>legs; il va peut-être mourir, il ne veut pas que je puisse vivre après</p>
+                <p>lui. Il m'a donné vos lettres...</p>
+                <p> «Aussitôt, et comme pour s'assurer que je ne l'abusais pas, elle</p>
+                <p>s'élança sur le portefeuille. À la façon dont elle le saisit, toutes les</p>
+                <p>lettres s'en échappèrent. Elle ne put plus douter, elle était trahie,</p>
+                <p>dévoilée. J'ignore ce qui se passa dans son esprit, je ne sais quel</p>
+                <p>démon lui inspira subitement la seule chose qui pût la sauver, mais sans</p>
+                <p>presque changer de visage et sans hésiter une minute, elle se jeta à mes</p>
+                <p>genoux et joua la plus transcendante comédie qui jamais, peut-être, ait</p>
+                <p>été jouée depuis que l'on se trompe et que l'on se trahit dans ce monde.</p>
+                <p> «Nier était impossible; expliquer, atténuer, excuser, rien de tout cela</p>
+                <p>ne se pouvait; elle comprit vite, car elle avait le génie du mal.</p>
+                <p> «--Hervé! Hervé! s'écria-t-elle d'une voix qui eût ému le marbre, et en</p>
+                <p>tenant malgré moi mes genoux embrassés, Hervé, je suis la plus misérable</p>
+                <p>des créatures, la dernière des femmes! Il n'y a pas en ce monde de</p>
+                <p>châtiment assez rude pour moi; je ne sais pas de parole qui me flétrisse</p>
+                <p>assez; une fatalité épouvantable m'a entraînée; je suis tombée de</p>
+                <p>déception en déception, d'égarement en égarement, jusqu'au plus profond</p>
+                <p>de l'abîme; j'ai enfin commis le plus grand des crimes, puisque j'ai</p>
+                <p>aussi trahi votre amour, votre saint et noble amour. Je ne vous demande</p>
+                <p>ni pitié ni pardon. Je sais que vous ne pouvez plus aimer une femme</p>
+                <p>telle que je suis devenue, malgré Dieu lui-même qui m'avait fait naître</p>
+                <p>avec un noble coeur et capable peut-être de grandes vertus... Mais</p>
+                <p>voyez-vous, Hervé, ne me refusez pas la dernière grâce que j'implore de</p>
+                <p>vous. Je ne survivrai pas à la douleur de voir se briser si cruellement</p>
+                <p>mon dernier espoir de vertu... votre amour. Mais je veux avoir eu du</p>
+                <p>moins le seul courage qui me soit possible, celui d'une sincérité sans</p>
+                <p>bornes; je veux que vous entendiez comme un prêtre ma confession tout</p>
+                <p>entière, et peut-être prononcerez-vous sur ma tête courbée une parole de</p>
+                <p>paix et de miséricorde.</p>
+                <p> «Elle continua ainsi longtemps; elle fut pathétique, éloquente; elle</p>
+                <p>déroula à mes yeux toute une vie de dérèglements et d'hypocrisie à faire</p>
+                <p>trembler. Mais telle est la puissance de l'aveu, que, à mesure qu'elle</p>
+                <p>s'accusait, elle semblait se purifier et se grandir. Ce qui m'avait fait</p>
+                <p>horreur à lire loin d'elle, je l'écoutais avec une sorte de terreur</p>
+                <p>presque respectueuse; les actes les plus condamnables, au moment où elle</p>
+                <p>s'en confessait, se paraient à mes yeux d'une beauté sinistre; elle me</p>
+                <p>fascinait et me dominait en raison même de sa honte, car je ne voyais</p>
+                <p>plus dans ses bassesses que son courage à me les révéler. On eût dit, à</p>
+                <p>me voir pâle, frémissant, éperdu, et à l'entendre, elle, me parler d'une</p>
+                <p>voix vibrante, sa belle main tenant la mienne avec force, comme si elle</p>
+                <p>eût craint que je ne lui échappasse, on eût dit que j'étais le coupable</p>
+                <p>et qu'elle allait m'absoudre ou me condamner. Enfin, que vous dirais-je?</p>
+                <p>elle était divinement belle. Il vint un moment où je n'entendis plus</p>
+                <p>rien, où mon regard perdu dans le sien n'y vit plus que les flammes d'un</p>
+                <p>ardent amour, où mes lèvres attachées à ses lèvres y burent le poison</p>
+                <p>d'une volupté terrible, où tout disparut, tout s'abîma, tout s'anéantit</p>
+                <p>dans le sentiment de cette volupté.»</p>
+                <p> Hervé s'interrompit. Thérèse lâcha son bras. Elle respirait à peine. Ils</p>
+                <p>firent quelques pas séparés.</p>
+                <p> --Ne vous lassez pas de moi, dit enfin Hervé, nous approchons de la</p>
+                <p>conclusion. Encore un peu de patience, et le récit de mes pitoyables</p>
+                <p>faiblesses sera terminé.</p>
+                <p> «Je tombai dans une sorte d'assoupissement causé, je pense, par la</p>
+                <p>longue tension de mes nerfs, l'abondance de mes larmes, et aussi</p>
+                <p>l'absence totale de nourriture depuis vingt-quatre heures. C'était une</p>
+                <p>complète prostration de forces. Je ne sais au bout de combien de temps</p>
+                <p>je m'éveillais, mais il faisait sombre, les lumières étaient éteintes;</p>
+                <p>je rallumai une bougie, tout en cherchant à rappeler mes esprits; je ne</p>
+                <p>savais pas si je sortais d'un affreux cauchemar, d'une léthargie... Je</p>
+                <p>regardai autour de moi comme pour chercher Éliane. Il n'y avait personne</p>
+                <p>dans la chambre; mes yeux rencontrèrent la table; le portefeuille avait</p>
+                <p>disparu.</p>
+                <p> «Je ne m'arrêterai pas davantage à vous peindre ma fureur et mon</p>
+                <p>désespoir; la Providence avait choisi ces jours pour épuiser sur moi sa</p>
+                <p>colère. Vers neuf heures du matin, on m'apporta un billet d'Éliane ainsi</p>
+                <p>conçu:</p>
+                <p> «Le comte de Marcel est au plus mal; on s'était grossièrement trompé sur</p>
+                <p>sa blessure. La fièvre et le délire ne l'ont pas quitté depuis douze</p>
+                <p>heures. Il n'a plus, selon toute apparence, que très-peu d'instants à</p>
+                <p>vivre. Mon coeur est brisé par ce malheur; je ne me consolerai jamais de</p>
+                <p>la fin si cruelle d'un de mes meilleurs amis. Vous comprendrez,</p>
+                <p>monsieur, qu'il me devienne impossible, au moins d'ici à bien longtemps,</p>
+                <p>de vous recevoir chez moi.»</p>
+                <p> «La lecture de ce billet ne me causa presque aucune émotion, tant je les</p>
+                <p>avais toutes épuisées la veille. Notre coeur est aussi impuissant pour la</p>
+                <p>douleur que pour la joie. Il y a un terme que nous ne dépassons guère:</p>
+                <p>au delà c'est l'abrutissement ou la défaillance. Le fond des deux</p>
+                <p>calices est vite atteint; c'est un breuvage de même saveur et d'effet</p>
+                <p>pareil, une lie narcotique qui engourdit l'âme et la plonge dans une</p>
+                <p>stupide insensibilité.</p>
+                <p> «Une seule pensée me restait distincte: je voulais partir, quitter à</p>
+                <p>l'instant Paris, ne plus voir un visage connu, fuir ces tristes</p>
+                <p>murailles qui semblaient chargées de malédictions. Je croyais, j'étais</p>
+                <p>bien jeune, qu'on se fuyait soi-même, et que, en allant loin, bien loin,</p>
+                <p>au delà des monts et des mers, j'irais aussi, peut-être, au delà de ma</p>
+                <p>douleur.</p>
+                <p> «Je m'embarquai à Marseille pour l'Amérique du sud. Pendant les huit</p>
+                <p>jours que je restai là à attendre le premier vaisseau qui ferait voile</p>
+                <p>pour Rio-Janeiro, j'appris deux nouvelles funestes: la mort de Marcel et</p>
+                <p>le retour à Paris de son beau-frère, le marquis de R***, qui, averti par</p>
+                <p>des amis charitables, avait saisi une correspondance, portait partout</p>
+                <p>ses plaintes et menaçait d'un procès qui alla achever de perdre la</p>
+                <p>marquise, déjà cruellement compromise par le duel et la mort de son</p>
+                <p>frère, dont elle était regardée comme l'unique cause.</p>
+                <p> «Durant toute la traversée, je quittai à peine ma chambre, si l'on peut</p>
+                <p>donner ce nom aux six pieds carrés qui contenaient mon lit et ma table.</p>
+                <p>J'avais d'effroyables accidents nerveux, on me prenait pour un homme</p>
+                <p>frappé d'aliénation mentale; personne n'était désireux de m'aborder,</p>
+                <p>mais j'avais un compagnon invisible, le sentiment constant, aigu, de mon</p>
+                <p>crime, le remords, qui ne me laissait de repos ni jour ni nuit. Un reste</p>
+                <p>de religion, ou peut-être tout simplement l'horreur naturelle d'une</p>
+                <p>organisation robuste pour la destruction, m'empêchèrent d'attenter à ma</p>
+                <p>vie. Tout ce que je fis, tout ce que je tentai pendant près de deux</p>
+                <p>années pour trouver du répit fut vain. J'allais, j'allais toujours, sans</p>
+                <p>m'arrêter, de ville en ville, de désert en désert; je parcourus les plus</p>
+                <p>beaux pays du monde, je vis les scènes les plus grandioses de la nature;</p>
+                <p>je pressai, j'entassai les images dans ma mémoire, mais ma pensée, sans</p>
+                <p>se lasser non plus, franchissait tous les obstacles que j'élevais entre</p>
+                <p>elle et ma faute; elle s'acharnait à sa proie; et cette proie c'était</p>
+                <p>mon propre coeur que rien ne soulageait alors, que rien depuis n'a su</p>
+                <p>guérir.</p>
+                <p> «Les émotions du jeu me tentèrent; je gagnai d'abord immensément, puis</p>
+                <p>je perdis à peu près tout ce que je possédais, sans plus m'affecter de</p>
+                <p>la perte que du gain. Seulement cette ruine presque totale me força de</p>
+                <p>revenir en Europe et de me rapprocher de ma famille, qui ne savait ce</p>
+                <p>que j'étais devenu et à laquelle je fus contraint de recourir. Ce fut</p>
+                <p>une dernière misère assez vivement ressentie par mon orgueil. Je ne pus</p>
+                <p>me résoudre toutefois à remettre les pieds sur le sol de la France. Je</p>
+                <p>débarquai à Livourne, d'où je me rendis à Florence. Je m'étais déterminé</p>
+                <p>presque machinalement à aller là plutôt qu'ailleurs, J'avais rencontré à</p>
+                <p>bord un moine italien avec lequel, durant la traversée, il m'était</p>
+                <p>arrivé de causer plus longuement et plus intimement que je ne l'avais</p>
+                <p>fait depuis mes malheurs. Ce moine était un Dominicain, jeune encore,</p>
+                <p>mais fatigué, soit, comme on le racontait, par des abstinences et des</p>
+                <p>macérations volontaires, soit par une maladie des poumons gagnée dans ce</p>
+                <p>voyage au Brésil, qu'il avait entrepris pour les intérêts de son ordre.</p>
+                <p>Il allait tenter de se guérir en essayant les climats les plus doux de</p>
+                <p>l'Italie. Il devait habiter successivement Florence, Pise et Naples.</p>
+                <p> «Le père Anselme, c'est ainsi qu'on l'appelait, m'avait inspiré sinon de</p>
+                <p>l'intérêt, mon coeur était mort à tous les sentiments bienveillants, du</p>
+                <p>moins une respectueuse curiosité. Dès le premier jour où nous nous</p>
+                <p>étions abordés, il avait paru trouver du plaisir à s'entretenir avec</p>
+                <p>moi. Ces entretiens, d'abord très-vagues, avaient pris peu à peu, grâce</p>
+                <p>à lui, quelque chose de plus sérieux et de plus intime.</p>
+                <p> «Tout en gardant le silence sur son véritable nom et sur les événements</p>
+                <p>de sa vie, le moine me laissa entrevoir qu'il avait traversé bien des</p>
+                <p>orages, et que le monde et ses écueils ne lui étaient pas inconnus. Il</p>
+                <p>s'exprimait en français avec une facilité rare; il abordait tous les</p>
+                <p>sujets avec convenance et liberté. Sa parole, quoique simple, touchait</p>
+                <p>toujours au fond des choses et donnait beaucoup à penser. C'était un</p>
+                <p>noble esprit et un noble coeur. Un jour que, sans rien préciser, je lui</p>
+                <p>avais parlé de mes ennuis, de mes courses sans but et de mon éloignement</p>
+                <p>à rentrer dans ma patrie:</p>
+                <p> «--Pourquoi ne feriez-vous pas avec moi le voyage d'Italie? me dit-il.</p>
+                <p> «Il n'en avait pas fallu davantage pour me décider à suivre ses pas.</p>
+                <p>Après quelques mois de séjour à Florence, il ne se trouva pas bien de</p>
+                <p>l'air trop vif, et résolut de passer la mauvaise saison à Pise. Pendant</p>
+                <p>tout cet hiver, je le vis sans cesse. Nous faisions ensemble des</p>
+                <p>promenades le long de l'Arno, à San Rossore, dans la forêt de pins qui</p>
+                <p>s'étend des cascines jusqu'à la mer, et surtout dans les galeries du</p>
+                <p>Campo-Santo. Cette nature douce et triste, ces oeuvres de l'art dont je</p>
+                <p>pénétrais chaque jour davantage les solennelles beautés, agissaient sur</p>
+                <p>mon esprit et m'arrachaient à la constante obsession de ma misère. Il me</p>
+                <p>prenait quelquefois des tressaillements subits d'admiration et</p>
+                <p>d'enthousiasme. La vie rentrait en moi. J'en arrivai à éprouver le</p>
+                <p>besoin de confier mes peines, et je fis au père Anselme, en déguisant</p>
+                <p>les noms et les circonstances, la confession de mon indigne amour et des</p>
+                <p>fautes où il m'avait entraîné. C'était un jour que nous revenions d'une</p>
+                <p>course en plein midi le long de la mer; le ciel n'avait pas un nuage; la</p>
+                <p>lumière inondait la grève solitaire. Le moine marchait silencieux et</p>
+                <p>pensif à mes côtés. Quand je cessai de parler, il réfléchit quelques</p>
+                <p>instants, puis, me regardant avec une tendresse profonde:</p>
+                <p> «--Mon enfant, me dit-il, écoutez la parole d'un homme qui à suivi, lui</p>
+                <p>aussi, les sentiers de la perdition; croyez-moi, il n'est permis à aucun</p>
+                <p>de nous de désespérer de sa vie. L'irréparable aux yeux de Dieu n'existe</p>
+                <p>pas. Si vous êtes poursuivi de trop cuisants remords, si vous croyez la</p>
+                <p>doctrine catholique, il y a des asiles ouverts à la pénitence:</p>
+                <p>faites-vous chartreux ou trappiste; si, au contraire, comme je le pense,</p>
+                <p>votre coeur est moins frappé de remords que tourmenté de regrets, si vous</p>
+                <p>avez moins de désespoir de vos fautes que de retours cruels vers des</p>
+                <p>illusions perdues, alors, mon enfant, sachez ressaisir les rênes de</p>
+                <p>votre âme. Sachez être homme. Il n'est personne ici-bas, pas même le</p>
+                <p>galérien attaché à son boulet, qui ne puisse encore être bon à son</p>
+                <p>semblable. Quand nous n'avons plus dans notre coeur de quoi nous rendre</p>
+                <p>heureux nous-mêmes, c'est alors souvent qu'il se trouve dans notre</p>
+                <p>esprit de plus riches trésors à répandre autour de nous. Vous êtes</p>
+                <p>jeune; vous avez une patrie, une famille; vous avez l'humanité à aimer</p>
+                <p>comme le Christ l'a aimée jusqu'à la fin. Et, tenez, ajouta-t-il en me</p>
+                <p>désignant la tour penchée (nous arrivions en ce moment sur la place du</p>
+                <p>Dôme), vous savez l'histoire de cette tour que le peuple regarde comme</p>
+                <p>miraculeuse. Elle s'élevait sous les yeux de l'architecte, droite,</p>
+                <p>fière, audacieuse, quand tout à coup, arrivée à moitié de sa hauteur, le</p>
+                <p>terrain s'affaissa, et chacun pensa que l'édifice allait s'écrouler.</p>
+                <p>Mais l'artiste, confiant en Dieu et en sa volonté, ne perdit pas</p>
+                <p>courage. Il sut trouver le remède au moment du plus grand péril. Il</p>
+                <p>étaya fortement la tour; puis, s'étant assuré que l'affaissement du sol</p>
+                <p>ne pouvait dépasser une certaine profondeur qu'il calcula avec</p>
+                <p>précision, il modifia ses mesures, il changea ses lignes, il acheva son</p>
+                <p>campanile sur un plan incliné qui est aujourd'hui l'émerveillement de</p>
+                <p>tous, et fait paraître son oeuvre bien plus belle dans sa singularité</p>
+                <p>qu'elle ne l'eût été si aucun accident ne fût survenu.</p>
+                <p> «Ceci est un apologue, mon noble ami, poursuivit le père Anselme en</p>
+                <p>souriant doucement. Notre vie, c'est la tour de Pise. Nous la commençons</p>
+                <p>avec audace et certitude, nous la voulons droite et haute; mais tout à</p>
+                <p>coup le terrain sur lequel nous bâtissons vient à s'effondrer. Notre</p>
+                <p>volonté fait défaut, nous croyons que tout est perdu. Souvenons-nous</p>
+                <p>alors de Bonanno Pisano, imitons-le: étayons d'abord notre âme, puis</p>
+                <p>faisons la part de nos fautes. Mais, continuons, ne craignons pas la</p>
+                <p>peine, achevons notre vie penchée; et qu'on puisse au moins douter en</p>
+                <p>nous voyant s'il n'a pas mieux valu qu'elle fût ainsi, et si une</p>
+                <p>perfection plus complète n'eût pas été peut-être moins admirable.</p>
+                <p> «Le soir même de cet entretien je reçus des lettres qui m'annonçaient la</p>
+                <p>mort de mon frère aîné. Il ne laissait pas d'enfants. J'allais me</p>
+                <p>trouver chef de famille, possesseur d'une grande fortune territoriale.</p>
+                <p>Je crus reconnaître dans cet événement et dans cette coïncidence le</p>
+                <p>doigt de Dieu. Je résolus de rentrer immédiatement en France, et d'y</p>
+                <p>commencer une vie nouvelle. J'allai prendre congé du père Anselme; il</p>
+                <p>parut heureux de ma détermination et me serra dans ses bras. «Mon père,</p>
+                <p>lui dis-je, bénissez en moi la résignation et la volonté que vous y avez</p>
+                <p>mises.»</p>
+                <p> «Il fit, en silence, sur ma tête, le signe de la croix.</p>
+                <p> «Nous ne nous sommes jamais revus.</p>
+                <p> «Le reste, vous le savez. À mon arrivée ici, d'anciens amis de ma</p>
+                <p>famille me parlèrent de mariage. J'y étais assez disposé. Tout ce qui</p>
+                <p>devait fixer, régler mon existence me semblait bon. Je ne devais plus y</p>
+                <p>laisser de place pour le hasard. On me fit connaître la mère de</p>
+                <p>Georgine, et plusieurs fois nous allâmes ensemble voir cette dernière au</p>
+                <p>couvent. Je la trouvai jolie; je la savais bonne; elle était pauvre. Je</p>
+                <p>me laissai séduire par la pensée de réparer une injustice du sort. Je me</p>
+                <p>dis que, ne pouvant plus jouir de rien par moi-même, je jouirais du</p>
+                <p>moins de tous les plaisirs de cette jeune fille élevée dans les</p>
+                <p>privations et dans une austère simplicité. Je crus que cette âme à</p>
+                <p>guider, cette intelligence à conduire serait un intérêt noble et</p>
+                <p>constant dans ma vie. Je désirais passionnément avoir de beaux enfants,</p>
+                <p>et vous voyez que le Ciel m'a exaucé. Georgine est heureuse par moi,</p>
+                <p>elle le sent, elle m'aime. À chaque heure du jour, elle sait me le</p>
+                <p>témoigner. J'ai la conviction d'avoir fait autour de moi un bien réel.</p>
+                <p>Dans ce pays, depuis huit ans que je l'habite, la misère a disparu. Le</p>
+                <p>nécessaire est assuré à tous; beaucoup même ont ce modique superflu qui</p>
+                <p>fait si aisément bénir l'existence à ceux qui vivent de leur travail. Je</p>
+                <p>suis à la veille d'entrer dans la vie politique. J'espère alors faire</p>
+                <p>plus en grand ce que je fais maintenant sur une très-petite échelle. Je</p>
+                <p>ne suis pas insensible au désir d'attacher mon nom à quelque réforme</p>
+                <p>utile pour mon pays.»</p>
+                <p> --Vous ne me dites pas ce qu'est devenue Éliane? interrompit Thérèse;</p>
+                <p>l'avez-vous revue?</p>
+                <p> --Jamais! dit Hervé. Elle avait quitté la France quand j'y suis rentré.</p>
+                <p>On m'a dit qu'elle s'était fixée à Naples. Je n'en sais pas davantage.</p>
+                <p>Voici la première fois, depuis huit années, que je prononce son nom.</p>
+                <p> Ils entraient dans la cour du château; la cloche avait depuis longtemps</p>
+                <p>appelé pour le déjeuner; des domestiques étaient partis dans plusieurs</p>
+                <p>directions pour avertir Hervé et Thérèse.</p>
+                <p> --Mais arrivez donc! leur cria Georgine du plus loin qu'elle les</p>
+                <p>aperçut; les enfants s'impatientent, le cuisinier se désespère; on n'a</p>
+                <p>pas idée de se promener par ce temps là et à de pareilles heures.</p>
+                <p> Disant cela elle tendit la main à Thérèse, embrassa Hervé, et ne vit pas</p>
+                <p>sur le visage de tous deux qu'un mystère venait d'être révélé, qu'un</p>
+                <p>lien nouveau et secret unissait leurs coeurs; heureuse Georgine! elle ne</p>
+                <p>devina pas l'orage qui grondait sur sa tête.</p>
+                <p> Il est sur la terre des êtres singulièrement préservés; ils passent à</p>
+                <p>côté des plus graves événements sans les voir; ils se trouvent mêlés aux</p>
+                <p>drames les plus terribles sans les soupçonner; ils reçoivent l'étreinte</p>
+                <p>d'une main convulsive sans que rien en eux frémisse, et sourient dans la</p>
+                <p>bénignité d'une ignorance tranquille aux coeurs dévastés, aux fronts qu'a</p>
+                <p>touchés la foudre: ce sont de bonnes et douces natures qui vivent leur</p>
+                <p>temps et s'en vont de ce monde sans y avoir fait ni mal ni bien.</p>
+                <p>Georgine était un peu de celles-là.</p>
+                <p> Les jours suivants, Hervé et Thérèse ne se parlèrent plus. Le récit</p>
+                <p>d'Hervé avait bouleversé le coeur de Thérèse; lui-même se sentait</p>
+                <p>profondément ébranlé. Il y a des révélations qui sont des révolutions.</p>
+                <p>Il est des dangers contre lesquels le silence est la seule armure.</p>
+                <p> Un matin Thérèse était descendue au salon un peu plus tôt que de</p>
+                <p>coutume; il n'y avait personne encore. Un feu mal allumé emplissait</p>
+                <p>l'âtre d'une fumée épaisse; les vitres, chargées de brume, ne laissaient</p>
+                <p>pas percer le regard sur les jardins. La table était encore dans le</p>
+                <p>désordre de la veille. L'ouvrage commencé de Georgine, les jouets des</p>
+                <p>enfants, un volume de Walter-Scott, dont Hervé faisait le soir lecture,</p>
+                <p>y étaient restés. Le piano était ouvert. Dans une corbeille, placée en</p>
+                <p>face des fenêtres, quelques chrysanthèmes penchaient mélancoliquement</p>
+                <p>leurs têtes violacées; je ne sais pourquoi ce salon parut à Thérèse</p>
+                <p>d'une tristesse lugubre. Elle essaya de lire un journal, elle ne put;</p>
+                <p>elle se mit au piano, préluda longtemps, mais aucune phrase ne</p>
+                <p>s'achevait sous ses doigts; elle voulut chanter, alors les pleurs</p>
+                <p>qu'elle réprimait se mirent à couler. Tout à coup elle sentit une main</p>
+                <p>se poser doucement sur son épaule, elle se retourna: c'était Hervé qui</p>
+                <p>la regardait avec une indicible expression de tendresse et de douleur.</p>
+                <p> --Vous ressemblez à Éliane, lui dit-il; seulement vous êtes beaucoup</p>
+                <p>plus belle.</p>
+                <p> En ce moment la porte s'ouvrit; c'était Georgine avec les enfants et</p>
+                <p>deux voisins qui venaient s'établir à Vermont pour plusieurs jours.</p>
+                <p>Thérèse s'échappa et fut cacher ses larmes. C'est ainsi, par un incident</p>
+                <p>insignifiant, par un hasard vulgaire, que se brisent souvent, au moment</p>
+                <p>où ils vont se nouer, les fils de deux destinées. Tout fut dit: la</p>
+                <p>dernière parole qui devait être échangée entre Hervé et Thérèse vint se</p>
+                <p>perdre dans les compliments et les lieux-communs de la politesse de</p>
+                <p>province.</p>
+                <p> Le lendemain, à sept heures du matin, un beau cheval sellé et bridé</p>
+                <p>attendait devant le perron du château; sur la selle du domestique qui</p>
+                <p>devait suivre, une petite valise était attachée. Hervé parut; il remit</p>
+                <p>un billet au valet de chambre qui lui ouvrît la porte d'entrée.</p>
+                <p> --Quand madame sera éveillée, vous lui donnerez cette lettre.</p>
+                <p> Disant cela, il monta lentement en selle, traversa au pas la cour du</p>
+                <p>château, puis, piquant des deux, il s'élança au galop dans la longue</p>
+                <p>avenue. Au bout de quelques minutes, un détour du chemin le ramena, en</p>
+                <p>vue de Vermont. Il s'arrêta, regarda longtemps une fenêtre dont les</p>
+                <p>jalousies venaient de s'ouvrir:</p>
+                <p> «Thérèse!» murmura-t-il, et il s'éloigna de toute la vitesse de son</p>
+                <p>cheval.</p>
+                <p> Sa lettre à Georgine motivait son départ. Les intérêts de son élection</p>
+                <p>l'appelaient à la petite ville de B... et l'y retiendraient une huitaine</p>
+                <p>de jours. Thérèse, malgré les instances de Georgine, quitta Vermont</p>
+                <p>avant le retour d'Hervé. Elle demeura fort peu de temps dans sa famille</p>
+                <p>et s'embarqua pour New-York. Georgine n'eut plus de ses nouvelles qu'à</p>
+                <p>de rares intervalles.</p>
+                <p> Aujourd'hui, l'océan est entre Hervé et Thérèse. Ils ne se reverront</p>
+                <p>pas, ou du moins ils ne se reverront que lorsque l'âge les aura rendu</p>
+                <p>méconnaissables l'un à l'autre. Ils étaient faits pour s'aimer; le</p>
+                <p>devoir les sépare, et chacun d'eux, sans se l'être dit, garde au fond de</p>
+                <p>son coeur un ineffaçable et cher regret. Leur histoire est celle de</p>
+                <p>plusieurs d'entre nous. Passer un jour tout auprès d'un bonheur immense,</p>
+                <p>le voir, croire qu'on le saisirait en étendant la main, et ne pas s'y</p>
+                <p>arrêter pourtant, c'est l'héroïsme ignoré de bien des nobles coeurs. J'en</p>
+                <p>sais qui se pleurent et qui s'appellent tout bas à travers l'espace. Ô</p>
+                <p>mon Dieu! vous qui leur avez donné la force des grands sacrifices,</p>
+                <p>donnez-leur-en du moins l'amère volupté!</p>
+                <p> FIN DE HERVÉ</p>
+            </div>
+        </body>
+    </text>
+</TEI>
