@@ -31,7 +31,7 @@
                 </respStmt>
             </titleStmt>
             <extent>
-                <measure unit="words">30561</measure>
+                <measure unit="words">50150</measure>
             </extent>
             <publicationStmt>
                 <p>First ElTeC edition <date>2019-09-29</date></p>
@@ -61,7 +61,7 @@
             </langUsage>
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
                 <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
