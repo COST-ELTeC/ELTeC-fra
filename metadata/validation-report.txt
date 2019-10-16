@@ -1,292 +1,359 @@
-FRA0384_LeRouge:	valid!
-FRA0775_Rolland:	valid!
-FRA0042_Flaubert:	valid!
-FRA0345_Dombre:	valid!
-FRA0658_Ohnet:	valid!
-FRA0605_Feval:	valid!
-FRA0087_Verne:	valid!
-FRA1184_Boisgobey:	valid!
-FRA1155_Gaboriau:	valid!
-FRA0370_Gouraud:	valid!
-FRA0409_Malot:	valid!
-FRA0657_Ohnet:	valid!
-FRA0175_Verne:	valid!
+
+FRA0384_LeRouge:	NOT valid!
+../level1/FRA0384_LeRouge.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0384_LeRouge.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0384_LeRouge.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0775_Rolland:	NOT valid!
+../level1/FRA0775_Rolland.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0775_Rolland.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0775_Rolland.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+../level1/FRA0775_Rolland.xml:47:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element canonicity failed to validate attributes
+
+FRA0042_Flaubert:	NOT valid!
+../level1/FRA0042_Flaubert.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0042_Flaubert.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0042_Flaubert.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+../level1/FRA0042_Flaubert.xml:50:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element canonicity failed to validate attributes
+
+FRA0345_Dombre:	NOT valid!
+../level1/FRA0345_Dombre.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0345_Dombre.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0345_Dombre.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0658_Ohnet:	NOT valid!
+../level1/FRA0658_Ohnet.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0658_Ohnet.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0658_Ohnet.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0605_Feval:	NOT valid!
+../level1/FRA0605_Feval.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0605_Feval.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0605_Feval.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0087_Verne:	NOT valid!
+../level1/FRA0087_Verne.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0087_Verne.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0087_Verne.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA1184_Boisgobey:	NOT valid!
+../level1/FRA1184_Boisgobey.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA1184_Boisgobey.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA1184_Boisgobey.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA1155_Gaboriau:	NOT valid!
+../level1/FRA1155_Gaboriau.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA1155_Gaboriau.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA1155_Gaboriau.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0370_Gouraud:	NOT valid!
+../level1/FRA0370_Gouraud.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0370_Gouraud.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0370_Gouraud.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0409_Malot:	NOT valid!
+../level1/FRA0409_Malot.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0409_Malot.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0409_Malot.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0657_Ohnet:	NOT valid!
+../level1/FRA0657_Ohnet.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0657_Ohnet.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0657_Ohnet.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0175_Verne:	NOT valid!
+../level1/FRA0175_Verne.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0175_Verne.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0175_Verne.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
 FRA2001_Rattazzi:	valid!
-FRA0415_Malot:	valid!
-FRA0771_Rolland:	valid!
-FRA0052_Maupassant:	valid!
-FRA0607_Feval:	valid!
-FRA0049_Loti:	valid!
-FRA0012_Ponson:	valid!
-FRA0369_Gouraud:	valid!
-FRA0056_Maupassant:	valid!
-FRA0482_Stolz:	valid!
-FRA1158_Gaboriau:	valid!
-FRA0086_Verne:	valid!
-FRA0027_Erckmann:	valid!
-FRA0038_Erckmann:	valid!
-FRA0311_Aimard:	valid!
-FRA0010_Ponson:	valid!
-FRA0780_Rolland:	valid!
-FRA0426_Mirbeau:	valid!
-FRA0350_Fleuriot:	valid!
-FRA0458_Sand:	valid!
-FRA0726_Gay:	valid!
-FRA0037_Erckmann:	valid!
-FRA0043_Loti:	valid!
-FRA1177_Ponson:	valid!
-FRA0410_Malot:	valid!
-FRA0053_Maupassant:	valid!
-FRA0379_Gouraud:	valid!
-FRA0570_Balzac:	valid!
-FRA0144_Mirbeau:	valid!
-FRA0344_Dombre:	valid!
-FRA1021_Gaboriau:	valid!
-FRA1005_Boisgobey:	valid!
-FRA0021_Daudet:	valid!
-FRA0480_Stolz:	valid!
-FRA0347_Fleuriot:	valid!
-FRA0572_Balzac:	valid!
-FRA0562_Balzac:	valid!
-FRA0301_Aimard:	valid!
-FRA0040_Flaubert:	valid!
-FRA0020_Daudet:	valid!
-FRA0445_Sand:	valid!
-FRA0019_Daudet:	valid!
-FRA0148_Mirbeau:	valid!
-FRA0302_Aimard:	valid!
-FRA0656_Ohnet:	valid!
-FRA1003_Boisgobey:	valid!
-FRA0476_Stolz:	valid!
-FRA0348_Fleuriot:	valid!
-FRA0041_Flaubert:	valid!
-FRA0474_Sand:	valid!
-FRA0392_LeRouge:	valid!
-FRA0047_Loti:	valid!
-FRA0851_Proust:	valid!
-FRA0615_Feval:	valid!
-FRA0343_Dombre:	valid!
-FRA0397_LeRouge:	valid!
-FRA0384_LeRouge:	valid!
-FRA0775_Rolland:	valid!
-FRA0042_Flaubert:	valid!
-FRA0345_Dombre:	valid!
-FRA0658_Ohnet:	valid!
-FRA0605_Feval:	valid!
-FRA0087_Verne:	valid!
-FRA1184_Boisgobey:	valid!
-FRA1155_Gaboriau:	valid!
-FRA0370_Gouraud:	valid!
-FRA0409_Malot:	valid!
-FRA0657_Ohnet:	valid!
-FRA0175_Verne:	valid!
-FRA2001_Rattazzi:	valid!
-FRA0415_Malot:	valid!
-FRA0771_Rolland:	valid!
-FRA0052_Maupassant:	valid!
-FRA0607_Feval:	valid!
-FRA0049_Loti:	valid!
-FRA0012_Ponson:	valid!
-FRA0369_Gouraud:	valid!
-FRA0056_Maupassant:	valid!
-FRA0482_Stolz:	valid!
-FRA1158_Gaboriau:	valid!
-FRA0086_Verne:	valid!
-FRA0027_Erckmann:	valid!
-FRA0038_Erckmann:	valid!
-FRA0311_Aimard:	valid!
-FRA0010_Ponson:	valid!
-FRA0780_Rolland:	valid!
-FRA0426_Mirbeau:	valid!
-FRA0350_Fleuriot:	valid!
-FRA0458_Sand:	valid!
-FRA0726_Gay:	valid!
-FRA0037_Erckmann:	valid!
-FRA0043_Loti:	valid!
-FRA1177_Ponson:	valid!
-FRA0410_Malot:	valid!
-FRA0053_Maupassant:	valid!
-FRA0379_Gouraud:	valid!
-FRA0570_Balzac:	valid!
-FRA0144_Mirbeau:	valid!
-FRA0344_Dombre:	valid!
-FRA1021_Gaboriau:	valid!
-FRA1005_Boisgobey:	valid!
-FRA0021_Daudet:	valid!
-FRA0480_Stolz:	valid!
-FRA0347_Fleuriot:	valid!
-FRA0572_Balzac:	valid!
-FRA0562_Balzac:	valid!
-FRA0301_Aimard:	valid!
-FRA0040_Flaubert:	valid!
-FRA0020_Daudet:	valid!
-FRA0445_Sand:	valid!
-FRA0019_Daudet:	valid!
-FRA0148_Mirbeau:	valid!
-FRA0302_Aimard:	valid!
-FRA0656_Ohnet:	valid!
-FRA1003_Boisgobey:	valid!
-FRA2002_Greville:	valid!
-FRA0476_Stolz:	valid!
-FRA0348_Fleuriot:	valid!
-FRA0041_Flaubert:	valid!
-FRA0474_Sand:	valid!
-FRA0392_LeRouge:	valid!
-FRA0047_Loti:	valid!
-FRA0851_Proust:	valid!
-FRA0615_Feval:	valid!
-FRA0343_Dombre:	valid!
-FRA0397_LeRouge:	valid!
-FRA0343_Dombre:	valid!
-FRA1184_Boisgobey:	valid!
-FRA0043_Loti:	valid!
-FRA0301_Aimard:	valid!
-FRA0726_Gay:	valid!
-FRA0426_Mirbeau:	valid!
-FRA0041_Flaubert:	valid!
-FRA0482_Stolz:	valid!
-FRA2002_Greville:	valid!
-FRA1021_Gaboriau:	valid!
-FRA0345_Dombre:	valid!
-FRA0348_Fleuriot:	valid!
-FRA0409_Malot:	valid!
-FRA0415_Malot:	valid!
-FRA0370_Gouraud:	valid!
-FRA0052_Maupassant:	valid!
-FRA0410_Malot:	valid!
-FRA0780_Rolland:	valid!
-FRA0311_Aimard:	valid!
+FRA0415_Malot:	NOT valid!
+../level1/FRA0415_Malot.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0415_Malot.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0415_Malot.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0771_Rolland:	NOT valid!
+../level1/FRA0771_Rolland.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0771_Rolland.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0771_Rolland.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+../level1/FRA0771_Rolland.xml:50:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element canonicity failed to validate attributes
+
+FRA0052_Maupassant:	NOT valid!
+../level1/FRA0052_Maupassant.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0052_Maupassant.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0052_Maupassant.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0607_Feval:	NOT valid!
+../level1/FRA0607_Feval.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0607_Feval.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0607_Feval.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0049_Loti:	NOT valid!
+../level1/FRA0049_Loti.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0049_Loti.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0049_Loti.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0012_Ponson:	NOT valid!
+../level1/FRA0012_Ponson.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0012_Ponson.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0012_Ponson.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0369_Gouraud:	NOT valid!
+../level1/FRA0369_Gouraud.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0369_Gouraud.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0369_Gouraud.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0056_Maupassant:	NOT valid!
+../level1/FRA0056_Maupassant.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0056_Maupassant.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0056_Maupassant.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0482_Stolz:	NOT valid!
+../level1/FRA0482_Stolz.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0482_Stolz.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0482_Stolz.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA1158_Gaboriau:	NOT valid!
+../level1/FRA1158_Gaboriau.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA1158_Gaboriau.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA1158_Gaboriau.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0086_Verne:	NOT valid!
+../level1/FRA0086_Verne.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0086_Verne.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0086_Verne.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0027_Erckmann:	NOT valid!
+../level1/FRA0027_Erckmann.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0027_Erckmann.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0027_Erckmann.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
 FRA0322_Allais:	NOT valid!
+../level1/FRA0322_Allais.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
 ../level1/FRA0322_Allais.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element bibl has extra content: ref
 ../level1/FRA0322_Allais.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
-../level1/FRA0322_Allais.xml:60:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element front there
-../level1/FRA0322_Allais.xml:80:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element div there
-../level1/FRA0322_Allais.xml:83:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element p there
-../level1/FRA0322_Allais.xml:83:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element div has extra content: p
-../level1/FRA0322_Allais.xml:80:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element body failed to validate content
-../level1/FRA0322_Allais.xml:60:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element text failed to validate content
 
-FRA0458_Sand:	valid!
-FRA0021_Daudet:	valid!
-FRA0175_Verne:	valid!
-FRA0206_Audoux:	valid!
-FRA0344_Dombre:	valid!
-FRA1158_Gaboriau:	valid!
-FRA0038_Erckmann:	valid!
-FRA0042_Flaubert:	valid!
-FRA0020_Daudet:	valid!
-FRA0572_Balzac:	valid!
-FRA0049_Loti:	valid!
-FRA0019_Daudet:	valid!
-FRA0605_Feval:	valid!
-FRA0657_Ohnet:	valid!
-FRA0027_Erckmann:	valid!
-FRA0562_Balzac:	valid!
-FRA0384_LeRouge:	valid!
-FRA0570_Balzac:	valid!
-FRA0037_Erckmann:	valid!
-FRA0775_Rolland:	valid!
-FRA1155_Gaboriau:	valid!
-FRA0392_LeRouge:	valid!
-FRA0607_Feval:	valid!
-FRA0379_Gouraud:	valid!
-FRA0474_Sand:	valid!
-FRA0047_Loti:	valid!
-FRA0369_Gouraud:	valid!
-FRA0658_Ohnet:	valid!
-FRA0615_Feval:	valid!
-FRA0480_Stolz:	valid!
-FRA0086_Verne:	valid!
-FRA0302_Aimard:	valid!
-FRA0144_Mirbeau:	valid!
-FRA0476_Stolz:	valid!
-FRA0851_Proust:	valid!
-FRA0350_Fleuriot:	valid!
-FRA0656_Ohnet:	valid!
-FRA0148_Mirbeau:	valid!
-FRA0445_Sand:	valid!
-FRA0012_Ponson:	valid!
-FRA1177_Ponson:	valid!
-FRA0347_Fleuriot:	valid!
-FRA1003_Boisgobey:	valid!
-FRA0040_Flaubert:	valid!
-FRA0397_LeRouge:	valid!
-FRA0056_Maupassant:	valid!
-FRA2001_Rattazzi:	valid!
-FRA0053_Maupassant:	valid!
-FRA0087_Verne:	valid!
-FRA0010_Ponson:	valid!
-FRA1005_Boisgobey:	valid!
-FRA0771_Rolland:	valid!
-FRA0343_Dombre:	valid!
-FRA1184_Boisgobey:	valid!
-FRA0043_Loti:	valid!
-FRA0301_Aimard:	valid!
-FRA0726_Gay:	valid!
-FRA0426_Mirbeau:	valid!
-FRA0041_Flaubert:	valid!
-FRA0482_Stolz:	valid!
+FRA0038_Erckmann:	NOT valid!
+../level1/FRA0038_Erckmann.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0038_Erckmann.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0038_Erckmann.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0311_Aimard:	NOT valid!
+../level1/FRA0311_Aimard.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0311_Aimard.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0311_Aimard.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0010_Ponson:	NOT valid!
+../level1/FRA0010_Ponson.xml:26:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element idno there
+../level1/FRA0010_Ponson.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element bibl has extra content: ref
+../level1/FRA0010_Ponson.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0780_Rolland:	NOT valid!
+../level1/FRA0780_Rolland.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0780_Rolland.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0780_Rolland.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+../level1/FRA0780_Rolland.xml:50:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element canonicity failed to validate attributes
+
+FRA0426_Mirbeau:	NOT valid!
+../level1/FRA0426_Mirbeau.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0426_Mirbeau.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0426_Mirbeau.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0350_Fleuriot:	NOT valid!
+../level1/FRA0350_Fleuriot.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0350_Fleuriot.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0350_Fleuriot.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0458_Sand:	NOT valid!
+../level1/FRA0458_Sand.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0458_Sand.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0458_Sand.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0726_Gay:	NOT valid!
+../level1/FRA0726_Gay.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0726_Gay.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0726_Gay.xml:21:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0037_Erckmann:	NOT valid!
+../level1/FRA0037_Erckmann.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0037_Erckmann.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0037_Erckmann.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0043_Loti:	NOT valid!
+../level1/FRA0043_Loti.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0043_Loti.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0043_Loti.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA1177_Ponson:	NOT valid!
+../level1/FRA1177_Ponson.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA1177_Ponson.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA1177_Ponson.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0410_Malot:	NOT valid!
+../level1/FRA0410_Malot.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0410_Malot.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0410_Malot.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0053_Maupassant:	NOT valid!
+../level1/FRA0053_Maupassant.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0053_Maupassant.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0053_Maupassant.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0206_Audoux:	NOT valid!
+../level1/FRA0206_Audoux.xml:26:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element idno there
+../level1/FRA0206_Audoux.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element bibl has extra content: ref
+../level1/FRA0206_Audoux.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0379_Gouraud:	NOT valid!
+../level1/FRA0379_Gouraud.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0379_Gouraud.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0379_Gouraud.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0570_Balzac:	NOT valid!
+../level1/FRA0570_Balzac.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0570_Balzac.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0570_Balzac.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0144_Mirbeau:	NOT valid!
+../level1/FRA0144_Mirbeau.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0144_Mirbeau.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0144_Mirbeau.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0344_Dombre:	NOT valid!
+../level1/FRA0344_Dombre.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0344_Dombre.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0344_Dombre.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA1021_Gaboriau:	NOT valid!
+../level1/FRA1021_Gaboriau.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA1021_Gaboriau.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA1021_Gaboriau.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+../level1/FRA1021_Gaboriau.xml:61:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element canonicity failed to validate attributes
+
+FRA1005_Boisgobey:	NOT valid!
+../level1/FRA1005_Boisgobey.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA1005_Boisgobey.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA1005_Boisgobey.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0021_Daudet:	NOT valid!
+../level1/FRA0021_Daudet.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0021_Daudet.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0021_Daudet.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0480_Stolz:	NOT valid!
+../level1/FRA0480_Stolz.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0480_Stolz.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0480_Stolz.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0347_Fleuriot:	NOT valid!
+../level1/FRA0347_Fleuriot.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0347_Fleuriot.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0347_Fleuriot.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0572_Balzac:	NOT valid!
+../level1/FRA0572_Balzac.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0572_Balzac.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0572_Balzac.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0562_Balzac:	NOT valid!
+../level1/FRA0562_Balzac.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0562_Balzac.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0562_Balzac.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0301_Aimard:	NOT valid!
+../level1/FRA0301_Aimard.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0301_Aimard.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0301_Aimard.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0040_Flaubert:	NOT valid!
+../level1/FRA0040_Flaubert.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0040_Flaubert.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0040_Flaubert.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0020_Daudet:	NOT valid!
+../level1/FRA0020_Daudet.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0020_Daudet.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0020_Daudet.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0445_Sand:	NOT valid!
+../level1/FRA0445_Sand.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0445_Sand.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0445_Sand.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0019_Daudet:	NOT valid!
+../level1/FRA0019_Daudet.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0019_Daudet.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0019_Daudet.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0148_Mirbeau:	NOT valid!
+../level1/FRA0148_Mirbeau.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0148_Mirbeau.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0148_Mirbeau.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0302_Aimard:	NOT valid!
+../level1/FRA0302_Aimard.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0302_Aimard.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0302_Aimard.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0656_Ohnet:	NOT valid!
+../level1/FRA0656_Ohnet.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0656_Ohnet.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0656_Ohnet.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA1003_Boisgobey:	NOT valid!
+../level1/FRA1003_Boisgobey.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA1003_Boisgobey.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA1003_Boisgobey.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
 FRA2002_Greville:	valid!
-FRA1021_Gaboriau:	valid!
-FRA0345_Dombre:	valid!
-FRA0348_Fleuriot:	valid!
-FRA0409_Malot:	valid!
-FRA0415_Malot:	valid!
-FRA0370_Gouraud:	valid!
-FRA0052_Maupassant:	valid!
-FRA0410_Malot:	valid!
-FRA0780_Rolland:	valid!
-FRA0311_Aimard:	valid!
-FRA0322_Allais:	valid!
-FRA0458_Sand:	valid!
-FRA0021_Daudet:	valid!
-FRA0175_Verne:	valid!
-FRA0206_Audoux:	valid!
-FRA0344_Dombre:	valid!
-FRA1158_Gaboriau:	valid!
-FRA0038_Erckmann:	valid!
-FRA0042_Flaubert:	valid!
-FRA0020_Daudet:	valid!
-FRA0572_Balzac:	valid!
-FRA0049_Loti:	valid!
-FRA0019_Daudet:	valid!
-FRA0605_Feval:	valid!
-FRA0657_Ohnet:	valid!
-FRA0027_Erckmann:	valid!
-FRA0562_Balzac:	valid!
-FRA0384_LeRouge:	valid!
-FRA0570_Balzac:	valid!
-FRA0037_Erckmann:	valid!
-FRA0775_Rolland:	valid!
-FRA1155_Gaboriau:	valid!
-FRA0392_LeRouge:	valid!
-FRA0607_Feval:	valid!
-FRA0379_Gouraud:	valid!
-FRA0474_Sand:	valid!
-FRA0047_Loti:	valid!
-FRA0369_Gouraud:	valid!
-FRA0658_Ohnet:	valid!
-FRA0615_Feval:	valid!
-FRA0480_Stolz:	valid!
-FRA0086_Verne:	valid!
-FRA0302_Aimard:	valid!
-FRA0144_Mirbeau:	valid!
-FRA0476_Stolz:	valid!
-FRA0851_Proust:	valid!
-FRA0350_Fleuriot:	valid!
-FRA0656_Ohnet:	valid!
-FRA0148_Mirbeau:	valid!
-FRA0445_Sand:	valid!
-FRA0012_Ponson:	valid!
-FRA1177_Ponson:	valid!
-FRA0347_Fleuriot:	valid!
-FRA1003_Boisgobey:	valid!
-FRA0040_Flaubert:	valid!
-FRA0397_LeRouge:	valid!
-FRA0056_Maupassant:	valid!
-FRA2001_Rattazzi:	valid!
-FRA0053_Maupassant:	valid!
-FRA0087_Verne:	valid!
-FRA0010_Ponson:	valid!
-FRA1005_Boisgobey:	valid!
-FRA0771_Rolland:	valid!
+FRA0476_Stolz:	NOT valid!
+../level1/FRA0476_Stolz.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0476_Stolz.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0476_Stolz.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0348_Fleuriot:	NOT valid!
+../level1/FRA0348_Fleuriot.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0348_Fleuriot.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0348_Fleuriot.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0041_Flaubert:	NOT valid!
+../level1/FRA0041_Flaubert.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0041_Flaubert.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0041_Flaubert.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0474_Sand:	NOT valid!
+../level1/FRA0474_Sand.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0474_Sand.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0474_Sand.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0392_LeRouge:	NOT valid!
+../level1/FRA0392_LeRouge.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0392_LeRouge.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0392_LeRouge.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0047_Loti:	NOT valid!
+../level1/FRA0047_Loti.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0047_Loti.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0047_Loti.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0851_Proust:	NOT valid!
+../level1/FRA0851_Proust.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0851_Proust.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0851_Proust.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0615_Feval:	NOT valid!
+../level1/FRA0615_Feval.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0615_Feval.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0615_Feval.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0343_Dombre:	NOT valid!
+../level1/FRA0343_Dombre.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0343_Dombre.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0343_Dombre.xml:22:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+
+FRA0397_LeRouge:	NOT valid!
+../level1/FRA0397_LeRouge.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element bibl failed to validate attributes
+../level1/FRA0397_LeRouge.xml:24:0:ERROR:RELAXNGV:RELAXNG_ERR_INVALIDATTR: Invalid attribute type for element bibl
+../level1/FRA0397_LeRouge.xml:23:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element sourceDesc failed to validate content
+../level1/FRA0397_LeRouge.xml:61:0:ERROR:RELAXNGV:RELAXNG_ERR_ATTRVALID: Element canonicity failed to validate attributes
+

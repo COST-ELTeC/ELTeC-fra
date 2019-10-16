@@ -14,7 +14,7 @@ from os.path import join
 
 workdir = join("..")
 xmlfolder = join(workdir, "level1", "*_*.xml")
-schemafile = join(workdir, "..", "distantreading.github.io", "Schema", "eltec-1.rng")
+schemafile = join(workdir, "..", "Schemas", "eltec-1.rng")
 reportfile = join(workdir, "metadata", "validation-report.txt")
 
 
