@@ -42,6 +42,10 @@
                     <pubPlace>Paris</pubPlace>
                     <date>1866</date>
                 </bibl>
+		<bibl type="firstEdition">
+                    <!-- best guess -->
+                    <date>1866</date>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-0">
@@ -49,7 +53,7 @@
         </encodingDesc>
         <profileDesc>
             <langUsage>
-                <language ident="fr"/>
+                <language ident="fra"/>
             </langUsage>
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
