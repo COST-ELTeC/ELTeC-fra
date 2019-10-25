@@ -40,6 +40,10 @@
                     <ref target="ark:/12148/bpt6k54963878"/>
                     <date>2009-24-02</date>
                 </bibl>
+		<bibl type="firstEdition">
+                    <!-- best guess -->
+                    <date>1843</date>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-0">
@@ -47,7 +51,7 @@
         </encodingDesc>
         <profileDesc>
             <langUsage>
-                <language ident="fr"/>
+                <language ident="fra"/>
             </langUsage>
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
