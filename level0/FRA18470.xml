@@ -38,6 +38,10 @@
                     <pubPlace>Paris</pubPlace>
                     <date>1860</date>
                 </bibl>
+		<bibl type="firstEdition">
+                    <!-- best guess. There may be some editions that were published in earlier volumes with other novels from this author.  -->
+                    <date>1847</date>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-0">
@@ -45,7 +49,7 @@
         </encodingDesc>
         <profileDesc>
             <langUsage>
-                <language ident="fr"/>
+                <language ident="fra"/>
             </langUsage>
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
