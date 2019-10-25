@@ -42,6 +42,10 @@
                     <date>2006-06-29</date>
                     <ref target="http://www.gutenberg.org/ebooks/18715"/>
                 </bibl>
+		<bibl type="firstEdition">
+                    <!-- best guess -->
+                    <date>1852</date>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-0">
@@ -49,7 +53,7 @@
         </encodingDesc>
         <profileDesc>
             <langUsage>
-                <language ident="fr"/>
+                <language ident="fra"/>
             </langUsage>
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
