@@ -20,45 +20,45 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Bibliothèque électronique du Québec,
-          <date></date>
+          <date/>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="http://beq.ebooksgratuits.com"></ref>
+          <ref target="http://beq.ebooksgratuits.com"/>
           .
         </bibl>
-        <bibl type="print-source">
-          <date></date>
+        <bibl type="printSource">
+          <date/>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
         <bibl type="firstEdition">
           <date>1877</date>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p></p>
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -603,12 +603,12 @@
         <p>-- Je lui ferai des beignets, dit Marie-Céline avec condescendance.</p>
         <p>-- Très bonne idée ; il en demande tous les jours, cela lui fera oublier son maquereau. »</p>
         <p>Tandis que l'on s'arrangeait pour le désarmer, M. Massereau, assis au bureau bien rangé qui ne lui servait guère, écrivait d'une écriture tout empâtée le billet suivant</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>« Mon cher colonel,</p>
         <p>« Au fond, je me suis toujours ligué avec ma femme pour vous empêcher de reprendre votre pupille. Le moment de la séparation venu, je me laissais circonvenir par ses lamentations. Mais cela va de mal en pis pour l'enfant. (Ici le maquereau frit se représenta vivement à l'imagination du vieillard ; et après une pause, il continua d'une main fébrile :) Les gâteries n'ont plus de mesure et il est plus que temps qu'il nous quitte. Ma femme et moi n'avons pas ce qu'il faut pour élever un enfant. Donc, faites-le chercher, que je sois au plus tôt débarrassé de cette désagréable affaire. Je vous prête main-forte, c'est entendu.</p>
         <p>« Je vous serre cordialement la main.</p>
         <p>« MASSEREAU. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>M. Massereau cacheta cette lettre, mit l'adresse et sortit de son cabinet, son chapeau sur la tête et sa canne à la main.</p>
         <p>Le hasard, était-ce bien le hasard ? lui fit trouver Mme Massereau et Marie-Céline sur son chemin. Mme Massereau rangeait bruyamment un service à thé, Marie-Céline époussetait la rampe de l'escalier. Il passa majestueux et sombre, sans leur adresser la parole.</p>
         <p>À peine la porte de la rue se fut-elle refermée derrière lui que Mme Massereau apparut sur la balustrade du palier.</p>

@@ -20,15 +20,15 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           <date>2005</date>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="http://www.ebooksgratuits.com/"></ref>
+          <ref target="http://www.ebooksgratuits.com/"/>
           .
         </bibl>
-        <bibl type="print-source">
+        <bibl type="printSource">
           <date>source</date>
         </bibl>
         <bibl type="firstEdition">
@@ -37,17 +37,17 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p></p>
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -68,7 +68,7 @@
     <body>
       <div type="part">
         <div type="chapter">
-          <head></head>
+          <head/>
           <p>C'était septembre, et c'était la Provence, à une rentrée de vendange, il y a cinq ou six ans.</p>
           <p>Du grand break attelé de deux camarguais qui nous emportait à toute bride, le poète Mistral, l'aîné de mes fils et moi, vers la gare de Tarascon et le train rapide du P.-L.-M., elle nous semblait divine cette fin de jour d'une pâleur ardente, un jour mat, épuisé, fiévreux, passionné comme un beau visage de femme de là-bas.</p>
           <p>Pas un souffle d'air malgré le train de notre course. Les roseaux d'Espagne à longues feuilles rubanées, droits et rigides au bord du chemin ; et par toutes ces routes de campagne, d'un blanc de neige, d'un blanc de rêve, où la poussière craquait immobile sous les roues, un lent défilé de charrettes chargées de raisins noirs, rien que des noirs, -- garçons et filles venant derrière, muets et graves, tous grands, bien découplés, la jambe longue et les yeux noirs.</p>
@@ -115,7 +115,7 @@
           <p>-- Et l'on a pas de leurs nouvelles ?</p>
           <p>-- Aucune. »</p>
           <p>Pécaïre ! Quelque temps après nous en avions des nouvelles, détaillées, précises, assez pour me permettre de vous conter l'exode de ce vaillant petit peuple à la suite de son héros, et les formidables mésaventures qui les assaillirent.</p>
-          <milestone type="subChapter" rend="asterisk" unit="asterisk"></milestone>
+          <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
           <p>Pascal a dit : « Il faut de l'agréable et du réel ; mais il faut que cet agréable soit lui-même pris du vrai. » J'ai tâché de me conformer à sa doctrine dans cette histoire de Port-Tarascon.</p>
           <p>Mon récit est pris du vrai, fait avec des lettres d'émigrants, le « mémorial » du jeune secrétaire de Tartarin, des dépositions empruntées à la Gazette des Tribunaux ; et quand vous rencontrerez ça et là, quelque tarasconnade par trop extravagante, que le crique me croque si elle est de mon invention [2] !</p>
         </div>
@@ -1587,7 +1587,7 @@
       </div>
     </body>
     <back>
-      <div type="notes"></div>
+      <div type="notes"/>
       <div>
         <p>[1] De gré ou de force -- ils feront le saut -- du fenestron -- de Tarascon -- dedans le Rhône.</p>
         <p>[2] Lire dans les journaux d'il y a douze ans, le procès de la « Nouvelle-France » et de la colonie de Port-Breton, ainsi que le curieux volume publié chez Dreyfous, par le docteur Baudoin, médecin de l'expédition.</p>

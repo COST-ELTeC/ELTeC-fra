@@ -20,16 +20,16 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Feedbooks
-          <date></date>
+          <date/>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="http://www.feedbooks.com/"></ref>
+          <ref target="http://www.feedbooks.com/"/>
           via Ebooksgratuits.
         </bibl>
-        <bibl type="print-source">
+        <bibl type="printSource">
           <date>source</date>
         </bibl>
         <bibl type="firstEdition">
@@ -38,17 +38,17 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p></p>
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -58,7 +58,7 @@
   </teiHeader>
   <text>
     <front>
-      <div></div>
+      <div/>
     </front>
     <body>
       <div type="chapter">

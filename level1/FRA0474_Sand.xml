@@ -20,45 +20,45 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Bibliothèque électronique du Québec,
-          <date></date>
+          <date/>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="http://beq.ebooksgratuits.com"></ref>
+          <ref target="http://beq.ebooksgratuits.com"/>
           .
         </bibl>
-        <bibl type="print-source">
-          <date></date>
+        <bibl type="printSource">
+          <date/>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
         <bibl type="firstEdition">
           <date>1840</date>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p></p>
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"></timeSlot>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -199,7 +199,7 @@
         <p>-- Il n'aura garde de mécontenter ses maîtres. Rappelez-vous, mon père, que M. de Villepreux est un homme actif, vigilant, économe ; M. Lerebours sait bien qu'il faut que les choses soient bien faites et sans prodigalité ; c'est pourquoi il vous a choisi, quoiqu'il n'aime pas les anciens patriotes. Il vous conservera la pratique du château, n'en doutez pas, et d'autant plus que l'architecte lui dira que vous êtes plus capable que bien d'autres.</p>
         <p>Dominé par la sagesse de son fils, le père Huguenin s'endormit tranquille, et, trois jours après, il fut mandé au château pour s'entendre avec l'architecte qui était venu en personne examiner les lieux et faire un devis des dépenses totales pour le compte du châtelain.</p>
         <p>L'architecte était passablement enclin à donner gain de cause aux plus puissants, c'est-à-dire à M. Lerebours et à sa progéniture. Aussi, dès qu'il eut jeté les yeux sur les deux plans, il s'écria :</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>-- Sans aucun doute, le plan de monsieur votre fils est excellent, mon petit père Lerebours ; et le vôtre, mon pauvre ami Pierre, est boiteux de trois jambes. En parlant ainsi, il jetait dédaigneusement sur la table le plan de l'employé aux ponts-et-chaussées, ne doutant pas que ce ne fût l'œuvre du menuisier.</p>
         <p>-- Permettez, monsieur, lui dit Pierre avec sa tranquillité accoutumée, le plan que vous rejetez n'est pas le mien. Veuillez regarder celui que vous venez d'approuver ; mon nom est écrit en petit caractère sur la dernière marche de l'escalier.</p>
         <p>-- Ma foi, c'est vrai ! s'écria l'architecte avec un gros rire ; j'en suis fâché pour vous, mon pauvre père Lerebours, votre fils s'est blousé. Allons, n'en soyez pas désolé, cela peut arriver à tout le monde. -- Quant à toi, mon garçon, ajouta-t-il en se tournant vers le fils Huguenin et en lui frappant sur l'épaule, tu entends ton affaire, et si tu es aussi bon sujet que tu es bon géomètre, tu pourras faire ton chemin. Voilà une planche dessinée avec beaucoup de goût et d'intelligence, continua-t-il en retournant au dessin de Pierre Huguenin, et cet escalier pourra être aussi commode qu'élégant. Employez-moi ce menuisier-là, père Lerebours, vous en pourrez faire venir de loin qui ne le vaudront pas.</p>
@@ -1958,7 +1958,7 @@
       </div>
     </body>
     <back>
-      <div type="notes"></div>
+      <div type="notes"/>
       <div>
         <p>FIN</p>
       </div>
@@ -1976,7 +1976,7 @@
           <hi>partants</hi>
           jusqu'à la sortie des villes, qui lève les acquits. etc.
         </p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>6  L'équerre, insigne du travail, qui figure aussi le triangle symbolique de la Trinité divine.</p>
       </div>
     </back>

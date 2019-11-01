@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-0.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA18830" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -33,7 +33,7 @@
         <bibl type="digitalSource">
           <title>Païenne</title>
           <author>Juliette Lamber (Madame Adam)</author>
-          <ref target="https://fr.wikisource.org/wiki/Pa%C3%AFenne" />
+          <ref target="https://fr.wikisource.org/wiki/Pa%C3%AFenne"/>
           <date>2017-05-17</date>
         </bibl>
         <bibl type="printSource">
@@ -50,17 +50,17 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <language ident="fra" />
+        <language ident="fra"/>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -87,7 +87,7 @@
       </div>
     </front>
     <body>
-      <div type="chapter" />
+      <div type="chapter"/>
       <div type="letter">
         <head>MÉLISSANDRE DE NOVES À TIBURCE GARDANNE</head>
         <p>Maison de Pétrarque, île de Sorgues, à Vaucluse</p>
@@ -1073,7 +1073,11 @@
       </div>
       <div type="letter">
         <head>À MÉLISSANDRE</head>
-        <p>Le retour de l'anniversaire qui te donna, il y a vingt-sept ans, à l'admiration des hommes, te paraît-il plus doux aujourd'hui ? Penses-tu que, dès ta naissance, il n'y avait pas sur ton berceau l'étoile qui devait me guider vers toi ? Cet anniversaire est le mien. La nature a formé pour moi, ce jour-là, l'être supérieur qu'elle me destinait, que j'ai cherché vingt ans à travers les traditionnels <foreign>mile è tre</foreign>.</p>
+        <p>
+          Le retour de l'anniversaire qui te donna, il y a vingt-sept ans, à l'admiration des hommes, te paraît-il plus doux aujourd'hui ? Penses-tu que, dès ta naissance, il n'y avait pas sur ton berceau l'étoile qui devait me guider vers toi ? Cet anniversaire est le mien. La nature a formé pour moi, ce jour-là, l'être supérieur qu'elle me destinait, que j'ai cherché vingt ans à travers les traditionnels
+          <foreign>mile è tre</foreign>
+          .
+        </p>
         <p>Rien ne prépare mieux à la suprême jouissance de l'amour éternel que ces plaisirs aussi vite délaissés qu'ils ont été poursuivis. Je te le dis avec un mélange de confusion et d'ivresse, c'est pour avoir été si longtemps sceptique, léger, libertin, que je goûte profondément les joies de la conversion, de l'inflexible attachement, de la possession unique, sans lendemain.</p>
         <p>Je t'aime, je te bénis. Tu as dépassé tous mes rêves. Je te dois les sublimes vertiges de l'amour infini. Tu m'as revivifié. Je ne suis pas seulement ton pieux adorateur, je suis ta créature.</p>
         <p>Toi et moi ! Songe à ce que ces deux mots sont pour chacun de nous.</p>

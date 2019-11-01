@@ -20,46 +20,46 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Ebookslibres,
           <date>2006</date>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
-        <bibl type="print-source">
-          <date></date>
+        <bibl type="printSource">
+          <date/>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
         <bibl type="firstEdition">
           Plon,
           <date>1881</date>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p></p>
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -1499,7 +1499,7 @@
         <p>-- Essayez.</p>
         <p>-- Il me suffira de compulser les registres des actes de l'état civil, dans toutes les mairies de Paris.</p>
         <p>-- Libre à vous. Les gens qui meurent ne sont pas toujours inscrits sous leur véritable nom.</p>
-        <p></p>
+        <p/>
         <p>-- Si cette Astrodi l'a été sous un autre nom que le sien, comment pourrez-vous me fournir un acte de décès qui établisse qu'elle est morte ?</p>
         <p>-- C'est mon affaire.</p>
         <p>-- Et alors même que vous me le fourniriez, à quoi me servirait-il ? Si cette Italienne a hérité, ses héritiers à elle hériteront.</p>
@@ -3470,7 +3470,7 @@
       </div>
     </body>
     <back>
-      <div type="notes"></div>
+      <div type="notes"/>
       <div>
         <p>FIN</p>
       </div>

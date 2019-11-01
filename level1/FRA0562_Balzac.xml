@@ -20,16 +20,16 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Éfélé,
           <date>2014</date>
           ,
           <idno>000015</idno>
           ,
-          <ref target="http://efele.net/ebooks/livres/000015"></ref>
+          <ref target="http://efele.net/ebooks/livres/000015"/>
           .
         </bibl>
-        <bibl type="print-source">
+        <bibl type="printSource">
           Paris: Furne, J.-J. Dubochet et Cie, J. Hetzel et Paulin, 1842-1848, vol. 1,
           <date>1842</date>
           .
@@ -40,17 +40,17 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p></p>
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"></timeSlot>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -276,7 +276,7 @@
         <p>Au troisième numéro, la Revue avait obtenu l’échange avec tous les journaux de France qu’Albert lut alors chez lui. Ce troisième numéro contenait une Nouvelle, signée A. S., et attribuée au fameux avocat. Malgré le peu d’attention que la haute société de Besançon accordait à cette Revue accusée de libéralisme, il fut question chez madame de Chavoncourt, au milieu de l’hiver, de cette première Nouvelle éclose dans la Comté.</p>
         <p>-- Mon père, dit Philomène, il se fait une Revue à Besançon, tu devrais bien t’y abonner et la garder chez toi, car maman ne me la laisserait pas lire, mais tu me la prêteras.</p>
         <p>Empressé d’obéir à sa chère Philomène, qui depuis cinq mois lui donnait des preuves de tendresse, monsieur de Watteville alla prendre lui-même un abonnement d’un an à la Revue de l’Est, et prêta les quatre numéros parus à sa fille. Pendant la nuit Philomène put dévorer cette nouvelle, la première qu’elle lut de sa vie ; mais elle ne se sentait vivre que depuis deux mois ! Aussi ne faut-il pas juger de l’effet que cette œuvre dut produire sur elle d’après les données ordinaires. Sans rien préjuger du plus ou du moins de mérite de cette composition due à un Parisien qui apportait en province la manière, l’éclat, si vous voulez, de la nouvelle école littéraire, elle ne pouvait point ne pas être un chef-d’œuvre pour une jeune personne livrant sa vierge intelligence, son cœur pur à un premier ouvrage de ce genre. D’ailleurs, sur ce qu’elle en avait entendu dire, Philomène s’était fait, par intuition, une idée qui rehaussait singulièrement la valeur de cette Nouvelle. Elle espérait y trouver les sentiments et peut-être quelque chose de la vie d’Albert. Dès les premières pages, cette opinion prit chez elle une si grande consistance, qu’après avoir achevé ce fragment, elle eut la certitude de ne pas se tromper. Voici donc cette confidence où, selon les critiques du salon Chavoncourt, Albert aurait imité quelques-uns des écrivains modernes qui, faute d’invention, racontent leurs propres joies, leurs propres douleurs ou les événements mystérieux de leur existence.</p>
-        <milestone type="subChapter" rend="line" unit="line"></milestone>
+        <milestone type="subChapter" rend="line" unit="line"/>
         <p>L’AMBITIEUX PAR AMOUR</p>
         <p>En 1823, deux jeunes gens qui s’étaient donné pour thème de voyage de parcourir la Suisse, partirent de Lucerne par une belle matinée du mois de juillet, sur un bateau que conduisaient trois rameurs, et allaient à Fluelen en se promettant de s’arrêter sur le lac des Quatre-Cantons à tous les lieux célèbres. Les paysages qui de Lucerne à Fluelen environnent les eaux, présentent toutes les combinaisons que l’imagination la plus exigeante peut demander aux montagnes et aux rivières, aux lacs et aux rochers, aux ruisseaux et à la verdure, aux arbres et aux torrents. C’est tantôt d’austères solitudes et de gracieux promontoires, des vallées coquettes et fraîches, des forêts placées comme un panache sur le granit taillé droit, des baies solitaires et fraîches qui s’ouvrent, des vallées dont les trésors apparaissent embellies par le lointain des rêves.</p>
         <p>En passant devant le charmant bourg de Gersau, l’un des deux amis regarda long-temps une maison en bois qui paraissait construite depuis peu de temps, entourée d’un palis, assise sur un promontoire et presque baignée par les eaux. Quand le bateau passa devant, une tête de femme s’éleva du fond de la chambre qui se trouvait au dernier étage de cette maison, pour jouir de l’effet du bateau sur le lac. L’un des jeunes gens reçut le coup d’œil jeté très-indifféremment par l’inconnue.</p>
@@ -565,7 +565,7 @@
         <p>Le ministère Villèle succombait aussi quand succomba Rodolphe. Aussitôt l’intrépide amoureux voulut demander à la Politique ce que l’Industrie lui avait refusé ; mais avant de se lancer dans les orages de cette carrière, il alla tout blessé, tout souffrant, faire panser ses plaies et puiser du courage à Naples, où le prince et la princesse Gandolphini furent rappelés et réintégrés dans leurs biens à l’avénement du roi. Au milieu de sa lutte, ce fut un repos plein de douceur, il passa trois mois à la villa Gandolphini, bercé d’espérances.</p>
         <p>Rodolphe recommença l’édifice de sa fortune. Déjà ses talents avaient été distingués, il allait enfin réaliser les vœux de son ambition, une place éminente était promise à son zèle, en récompense de son dévouement et de services rendus, quand éclata l’orage de juillet 1830, et sa barque sombra de nouveau.</p>
         <p>Elle et Dieu ! tels sont les deux témoins des efforts les plus courageux, des plus audacieuses tentatives d’un jeune homme doué de qualités, mais à qui jusqu’alors a manqué le secours du dieu des sots, le Bonheur ! Et cet infatigable athlète, soutenu par l’amour, recommence de nouveaux combats, éclairé par un regard toujours ami, par un cœur fidèle ! Amoureux ! priez pour lui !</p>
-        <milestone type="subChapter" rend="line" unit="line"></milestone>
+        <milestone type="subChapter" rend="line" unit="line"/>
         <p>En achevant ce récit qu’elle dévora, mademoiselle de Watteville avait les joues en feu, la fièvre était dans ses veines ; elle pleurait, mais de rage. Cette Nouvelle, inspirée par la littérature alors à la mode, était la première lecture de ce genre qu’il fût permis à Philomène de faire. L’amour y était peint, sinon par une main de maître, du moins par un homme qui semblait raconter ses propres impressions ; or la vérité, fût-elle inhabile, devait toucher une âme encore vierge. Là se trouvait le secret des agitations terribles, de la fièvre et des larmes de Philomène : elle était jalouse de Francesca Colonne. Elle ne doutait pas de la sincérité de cette poésie : Albert avait pris plaisir à raconter le début de sa passion en cachant sans doute les noms, peut-être aussi les lieux. Philomène était saisie d’une infernale curiosité. Quelle femme n’eût pas, comme elle, voulu savoir le vrai nom de sa rivale, car elle aimait ! En lisant ces pages contagieuses pour elle, elle s’était dit ce mot solennel : j’aime ! Elle aimait Albert, et se sentait au cœur une mordante envie de le disputer, de l’arracher à cette rivale inconnue. Elle pensa qu’elle ne savait pas la musique et qu’elle n’était pas belle.</p>
         <p>-- Il ne m’aimera jamais, se dit-elle.</p>
         <p>Cette parole redoubla son désir de savoir si elle ne se trompait pas, si réellement Albert aimait une princesse italienne, et s’il était aimé d’elle. Durant cette fatale nuit, l’esprit de décision rapide qui distinguait le fameux Watteville se déploya tout entier chez son héritière. Elle enfanta de ces plans bizarres autour desquels flottent d’ailleurs presque toutes les imaginations de jeunes filles, quand, au milieu de la solitude où quelques mères imprudentes les retiennent, elles sont excitées par un événement capital que le système de compression auquel elles sont soumises n’a pu ni prévoir ni empêcher. Elle pensait à descendre avec une échelle par le kiosque dans le jardin de la maison où demeurait Albert, à profiter du sommeil de l’avocat, pour voir par sa fenêtre l’intérieur de son cabinet. Elle pensait à lui écrire, elle pensait à briser les liens de la société bisontine en introduisant Albert dans le salon de l’hôtel de Rupt. Cette entreprise, qui eût paru le chef-d’œuvre de l’impossible à l’abbé de Grancey lui-même, fut l’affaire d’une pensée.</p>
@@ -742,7 +742,7 @@
             <hi>Alberto !</hi>
             nous promener devant tes orangers en fleur, vivre quelques mois au sein de ce sublime paysage... Voilà la vie. Oh ! quelle niaiserie que de courir après le pouvoir, un nom, la fortune ! Mais tout est à Belgirate : là est la poésie, là est la gloire ! J’aurais dû me faire ton intendant, ou, comme ce cher tyran que nous ne pouvons haïr me le proposait, y vivre en cavalier servant, ce que notre ardente passion ne nous a pas permis d’accepter. Est-ce un Italien que le duc ? m’est avis que c’est le père Éternel ! Adieu, mon ange, tu me pardonneras mes prochaines tristesses en faveur de cette gaieté tombée comme un rayon du flambeau de l’Espérance, qui jusqu’alors me paraissait un feu follet. »
           </p>
-          <p></p>
+          <p/>
         </quote>
         <p>-- Comme il aime ! s’écria Philomène en laissant tomber cette lettre qui lui sembla lourde à tenir. Après onze ans écrire ainsi ?</p>
         <p>-- Mariette, dit Philomène à la femme de chambre le lendemain matin, allez jeter cette lettre à la poste, dites à Jérôme que je sais tout ce que je voulais savoir et qu’il serve fidèlement monsieur Albert. Nous nous confesserons de ces péchés sans dire à qui les lettres appartenaient, ni où elles allaient. J’ai eu tort, c’est moi qui suis la seule coupable.</p>
@@ -1104,11 +1104,7 @@
       <div>
         <p>Paris, mai 1842.</p>
       </div>
-      <!-- Not sure why this is here.
-      <div>
-        <ref target="#N1"></ref>
-      </div>
-      -->
+      <!-- Not sure why this is here. <div> <ref target="#N1"></ref> </div> -->
     </back>
   </text>
 </TEI>

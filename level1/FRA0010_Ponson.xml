@@ -20,26 +20,22 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="source">
+        <bibl type="digitalSource">
           <ref target="https://github.com/cligs/romandixneuf/blob/master/master/rd0010.xml">La baronne trépassée</ref>
           <publisher>CLiGS</publisher>
           <idno type="CLiGS">rd0010</idno>
-          <relatedItem>
-            <bibl type="copyText">
+            <bibl type="digitalSource">
               <title>La baronne trépassée</title>
               <ref target="http://beq.ebooksgratuits.com/auteurs/terrail/index.htm">La baronne trépassée</ref>
               <publisher>BEQ</publisher>
               <idno type="beq">977</idno>
             </bibl>
-          </relatedItem>
-          <relatedItem>
             <bibl type="firstEdition">
               <title>La baronne trépassée</title>
               <publisher>Baudry</publisher>
               <pubPlace>Paris</pubPlace>
               <date>1852</date>
             </bibl>
-          </relatedItem>
         </bibl>
       </sourceDesc>
     </fileDesc>

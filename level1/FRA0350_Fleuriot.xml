@@ -20,45 +20,45 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Bibliothèque électronique du Québec,
-          <date></date>
+          <date/>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="http://beq.ebooksgratuits.com"></ref>
+          <ref target="http://beq.ebooksgratuits.com"/>
           .
         </bibl>
-        <bibl type="print-source">
-          <date></date>
+        <bibl type="printSource">
+          <date/>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
         <bibl type="firstEdition">
           <date>1881</date>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p></p>
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -334,12 +334,12 @@
         <p>-- John, qui sont ces visiteurs ? demanda-t-elle d'une voix légèrement émue.</p>
         <p>John lui tendit la carte.</p>
         <p>Alberte lut à demi-voix :</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>ROGER DE CHÂTEAUGRAND</p>
         <p>
           <hi>Lieutenant de dragons, et sa mère descendue à l'hôtel du Louvre.</hi>
         </p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>-- Je m'en doutais, reprit la jeune fille ; quelque chose me disait que cette dame, que je n'ai fait qu'entrevoir, lorsqu'elle traversait la cour, était ma tante de Châteaugrand. Pourquoi ne les avez-vous pas reçus ?</p>
         <p>-- Par ordre de madame la marquise.</p>
         <p>-- Madame de Châteaugrand ne m'a donc pas demandée ?</p>
@@ -1057,7 +1057,7 @@
         <p>-- Cela ne se fait pas, répondit Alberte, qui prenait volontiers avec Luna un air de supériorité ; mais nous pouvons nous rendre dans le boudoir de Madeleine, car, en vérité, il me tarde de savoir ce que m'écrit madame de Châteaugrand.</p>
         <p>Elles se levèrent et gagnèrent le petit salon où les intimes allaient se reposer du bruit et du mouvement et se faire de mutuelles confidences.</p>
         <p>Il était vide par un heureux hasard, et Alberte, s'approchant de la cheminée sur laquelle brûlaient deux lampes dont les abat-jour roses voilaient l'éclat, brisa le cachet de la lettre que Roger lui avait remise, et lut rapidement ce qui suit :</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>« Ma chère Alberte,</p>
         <p>« Il faut bien que tu le saches, nous avons le cœur angoissé par tout ce que nous apprenons. J'ai reçu les plus tristes confidences de Roger, qui croit ses espérances sérieusement menacées.</p>
         <p>« Il n'est question que des assiduités d'un riche étranger que ta sœur, avec sa légèreté ordinaire, a reçu dans son intimité.</p>
@@ -1068,7 +1068,7 @@
         <p>« Hélas ! ce projet si tendrement caressé, cet avenir si longuement préparé vont-ils être détruits ?</p>
         <p>« Je t'embrasse de tout mon cœur, en te conjurant encore une fois de me répondre avec la franchise qui est une de tes plus précieuses qualités.</p>
         <p>« Comtesse de Châteaugrand. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>-- Voilà une vilaine lettre qui vous a mis un nuage sur le front, s'écria Luna en frappant le papier du bout de son éventail, laissez-moi en faire une allumette.</p>
         <p>Alberte secoua la tête, plia la lettre et la mit dans la poche mignonne attachée à son corsage de velours bleu.</p>
         <p>-- Cette lettre m'afflige en effet, dit-elle, mais je devais m'attendre à son contenu.</p>
@@ -1176,13 +1176,13 @@
         <p>-- Seulement, tu sais, ne sois pas d'une sévérité outrée pour Maurice. Il est comme moi, très nerveux, très délicat ; ne le contrarie pas trop.</p>
         <p>Alberte répondit par un sourire, et madame de Valroux, satisfaite de ce qu'elle croyait un acquiescement tacite à ses idées, la quitta.</p>
         <p>Après son départ, la jeune fille demeura quelque temps songeuse ; puis, elle reprit sa plume et écrivit d'une main posée la lettre suivante :</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>« Ma chère tante,</p>
         <p>« Votre lettre m'a grandement affligée. Non seulement Roger doute de moi, mais sa mère est toute prête à m'accuser.</p>
         <p>« Pardonnez-moi tous les deux de tâtonner un peu, et attendez le terme fixé.</p>
         <p>« Ce n'est pas ma faute si je ne vois pas encore très clair dans ma destinée.</p>
         <p>« Mais soyez bien assurée que je ne subirai pas l'action des influences contraires, et que les bruits qui courent n'ont pas l'importance qu'on y accorde. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>Ici, Alberte appuya la tête sur sa main, et tomba dans une profonde rêverie.</p>
         <p>Son cœur ne s'était pas détaché de Roger ; mais pouvait-elle en toute sincérité écrire à sa mère que l'étranger n'était pas devenu un rival redoutable ?</p>
         <p>Ce jour-là, elle avait brusquement interrompu la vie vertigineuse qu'elle menait depuis quelque temps ; ce jour-là, elle avait voulu échapper à la compagnie de Luna et de David.</p>
@@ -1198,7 +1198,7 @@
         <p>L'autre, c'était la passion à la fois fougueuse et dissimulée, mais persévérante.</p>
         <p>Aussi, arrivée à ce paragraphe de protestation, Alberte s'arrêtait machinalement et mesurait, non sans un secret effroi, la modification survenue dans ses sentiments depuis son entrevue à l'hôtel avec sa tante de Châteaugrand.</p>
         <p>Quand elle reprit la plume, deux larmes tombaient de ses cils soyeux sur son papier, et, sans songer à les essuyer, elle reprit :</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>« Je ne suis pas libre d'échapper à la société étrangère que voit Madeleine ; j'aime beaucoup mademoiselle Louzéma, qui me rappelle une année émouvante de mon enfance ; mais enfin tout ceci ne pèse pas encore sur la décision à venir. Croyez bien, ma chère tante, que, s'il en était autrement, j'aurais la loyauté de vous prévenir. Rassurez donc Roger, et qu'il laisse parler le monde, qui, la plupart du temps, ne sait pas ce qu'il dit.</p>
         <p>« J'assiste ce soir à un dernier bal ; le carnaval se meurt, les cancans de salon mourront avec lui.</p>
         <p>« Avec quel soulagement je vois arriver le carême ! Je vous avouerai, ma chère tante, que je commençais à en avoir assez.</p>
@@ -1208,7 +1208,7 @@
         <p>« Adieu, ma chère tante ; attendez à m'en vouloir, attendez à me condamner, car, en vérité, je vous aime de tout mon cœur.</p>
         <p>« Alberte. »</p>
         <p>« P. S. Médéric a été fort mécontent de ce que Madeleine ait jugé à propos de changer de conducteur de cotillon. Cela m'a privée de danser avec Roger. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>Cette lettre terminée, Alberte la mit sous enveloppe, la cacheta, écrivit l'adresse et alla elle-même la jeter dans la boîte placée dans le corridor.</p>
         <p>Cela fait, elle se dirigea vers la salle d'étude, où mademoiselle Adèle enseignait, avec une patience bien mal récompensée, les premiers éléments de l'écriture au futur marquis de Valroux.</p>
         <p>L'entrée d'Alberte produisit son effet ordinaire : Maurice reprit son porte-plume, qu'il s'amusait à faire rouler d'un bout de la table à l'autre, et Agnès étudia avec une ardeur nouvelle sa leçon d'anglais.</p>
@@ -1560,7 +1560,7 @@
         <p>-- Explique-toi, Luna.</p>
         <p>-- Écoute, c'est de la baronne de Lextreville.</p>
         <p>Et, ouvrant le papier, elle lut d'une voix qui tremblait de joie :</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>« Mademoiselle, la personne dont je vous ai parlé m'apporte une nouvelle tout à fait inattendue.</p>
         <p>« La farouche chanoinesse s'adoucit. Elle n'est pas éloignée de se rendre, et avec elle toute une branche de la famille de mademoiselle de la Rochefaucon.</p>
         <p>« Mais elle a dit : « Ces jeunes gens ne m'ont pas fait de visite. Cependant, j'aimerais assez à voir de près celui qui aspire à devenir mon neveu ».</p>
@@ -1569,7 +1569,7 @@
         <p>« Adieu, bon succès et bien affectueusement à vous.</p>
         <p>« Baronne de Lextreville. »</p>
         <p>« Voici l'adresse de madame la comtesse de Bonlieu : rue de Verneuil, 51. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>-- Allons-nous ? demanda Luna.</p>
         <p>-- Mais ta gorge !</p>
         <p>-- Précisément, ce sera un sujet de conversation.</p>
@@ -1937,23 +1937,23 @@
         <p>-- Lisez, mademoiselle, dit-il d'une voix altérée.</p>
         <p>-- Lis tout haut, ajouta madame de Valroux.</p>
         <p>Et Alberte lut toute pâlissante le court billet suivant :</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>« Mon cher David, frère de mon cœur,</p>
         <p>« Tu n'auras pas aujourd'hui une lettre de six pages ! Me voici terrassée par la fièvre. Hier je n'étais pas bien ; mais on chassait, je n'ai pas eu le courage de renoncer à monter mon charmant Pasquino. J'ai chassé, j'ai dansé et aujourd'hui, à bout de forces, je me suis livrée à Rika, qui me croit morte ou peu s'en faut.</p>
         <p>« Ce ne sera rien, je te promets qu'à l'avenir je ne serai plus si folle. J'aurais dû retourner en France, Alberte m'eût prêché la raison. Elle prêche si bien, n'est-ce pas, David ?</p>
         <p>« Dis-lui donc de m'écrire.</p>
         <p>« Adieu... je n'en puis plus, je vois trouble ; adieu, frère, Rika s'avance un bol de tisane à la main. Ne t'inquiète pas.</p>
         <p>« Luna. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>-- L'écriture est bien tremblée, dit Alberte avec des larmes dans les yeux ; Luna est peut-être plus souffrante qu'elle ne l'avoue.</p>
         <p>Pour toute réponse, David lui présenta un second papier.</p>
         <p>-- Une dépêche ! murmura Alberte, de quand, monsieur ?</p>
         <p>-- D'il y a une demi-heure ; le temps de me rendre ici.</p>
         <p>Alberte ouvrit le papier et lut :</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>« Venir immédiatement à Rome, Luna très malade, médecin inquiet.</p>
         <p>« Carmen. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>Alberte fixa sur David ses yeux ruisselants de larmes.</p>
         <p>-- Vous partez, n'est-ce pas ? s'écria-t-elle.</p>
         <p>-- Ce soir, mademoiselle.</p>
@@ -2064,11 +2064,11 @@
         <p>Pendant qu'il parlait, madame de Valroux déchirait l'enveloppe épaisse. Elle lut d'un coup d'œil le contenu et, passant le papier à son mari, elle dit victorieusement :</p>
         <p>-- Voyez, Médéric, s'il est possible que nous partions demain.</p>
         <p>Monsieur de Valroux prit le papier et lut à demi-voix, mais assez haut pour être entendu d'Alberte :</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>« Madame la marquise,</p>
         <p>« Un mieux subit, accompagné d'un effort de volonté très énergique, a fait un miracle. Nous sommes venus d'un trait de Culoz à Paris ; je vous écris de mon hôtel des Champs-Élysées, d'où je mets à vos pieds tous mes hommages.</p>
         <p>« David Louzéma. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>-- Elle est à Paris ? s'écria Alberte dans une explosion de joie. Oh ! Médéric, quel bonheur !</p>
         <p>-- Partons-nous demain, Médéric ? redemanda madame de Valroux de son ton de persiflage.</p>
         <p>-- Eh ! pourquoi pas ? Alberte, je me mets à votre disposition. Voulez-vous venir sur-le-champ chez vos amis ? Vous aurez vu, de vos yeux vu, l'état de mademoiselle Luna. Je m'engage à vous ramener à Paris, s'il le faut. Vous plaît-il de venir tout de suite ?</p>
@@ -2482,9 +2482,9 @@
         <p>-- Ah ! c'est vous, madame, dit-elle en riant ; vous ai-je assez intriguée par mon billet énigmatique de ce matin ?</p>
         <p>-- Franchement, madame la marquise, je vous trouve d'une malice...</p>
         <p>« Comment, à propos d'une chose si palpitante d'intérêt, avez-vous pu m'écrire :</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>« Il n'y a plus rien à espérer ni rien à craindre. Venez savoir tantôt le résultat, je ne sors qu'à trois heures. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>Madame de Valroux se mit à rire de plus belle et conduisit madame de Lextreville vers un canapé placé près d'une fenêtre.</p>
         <p>-- Venez, que je vous raconte cela, dit-elle. Je n'ai pu me refuser le plaisir de vous le narrer de vive voix et c'est pourquoi je vous ai écrit ce billet énigmatique. Devinez comment se sont résolues les choses.</p>
         <p>-- Je n'ose pas espérer le succès, et cependant votre physionomie triomphante proclame que c'est monsieur David qui l'a emporté.</p>
@@ -2692,7 +2692,7 @@
         <p>« Il ne me répondit pas tout d'abord ; mais je le vis très impressionné.</p>
         <p>« Le soir même, il m'écrivit le billet suivant.</p>
         <p>Le jeune homme prit le billet que lui tendait sa mère et lut :</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>« Mon cher lieutenant,</p>
         <p>« Non, vous ne donnerez pas votre démission, non vous ne quitterez pas l'armée ; ce serait une désertion, ce serait, pardonnez à ma vieille franchise, ce serait une lâcheté.</p>
         <p>« Vous êtes un de nos officiers d'avenir : l'armée, la France, entendez-vous bien, la France, ont besoin de vous.</p>
@@ -2797,25 +2797,25 @@
         <p>Tout à coup, elle le vit relever la tête comme par une secousse électrique, il devint très pâle, ses yeux sombres étincelèrent et il se tourna tout d'une pièce vers la scène.</p>
         <p>En ce moment même, la voisine d'Alberte lui touchait l'épaule du doigt en murmurant :</p>
         <p>-- Oh ! mademoiselle Alberte, voici ce que je ne puis entendre sans émotion. Sortez un peu de votre froideur dédaigneuse. Écoutez, écoutez !</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>
           <hi>Amour sacré de la patrie,</hi>
         </p>
         <p>
           <hi>Rends-nous l'audace et la fierté...</hi>
         </p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>Alberte n'avait pas besoin de cette prière. Elle écoutait de toute son âme, les yeux fixés sur Roger de Châteaugrand.</p>
         <p>La même expression qu'elle avait vue sur son visage martial, dans le salon de la chanoinesse de Bonlieu, l'illuminait en ce moment.</p>
         <p>Quand les deux conjurés, la main dans la main, reprirent ensemble, sur cet air admirable d'un rythme malheureusement trop rapide :</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>
           <hi>Amour sacré de la patrie,</hi>
         </p>
         <p>
           <hi>Rends-nous l'audace et la fierté...</hi>
         </p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>elle le vit détourner la tête pour cacher deux larmes qui jaillissaient de ses yeux. Alors, elle-même, se dérobant au fond de la loge, essuya aussi les pleurs qui montaient de son cœur à ses paupières.</p>
         <p>En ce moment, sa sœur, qui tournait le dos à la loge occupée par David Louzéma et à la place où se tenait Roger, se détourna pour étouffer un bâillement dans son mouchoir, et l'interpella, d'un air moqueur, sur cet accès subit de sensibilité :</p>
         <p>
@@ -2930,12 +2930,12 @@
         <p>-- Un losange de marbre ? répéta Roger, en voici un qui nous touche, là sous ces herbes folles.</p>
         <p>-- Je vous ai dit de marbre blanc, Roger, et d'ailleurs il est impossible que son frère n'ait pas songé à remplacer cette pauvre pierre d'attente, par le monument dont il m'avait montré le dessin.</p>
         <p>Pour toute réponse, Roger chassait, à l'aide de sa cravache, les herbes qui couvraient le marbre qu'il avait signalé à sa femme, et, se penchant sur la pierre verdie et moussue, il lut tout haut :</p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>LUNA</p>
         <p>
           <hi>Paris, 20 avril 1880.</hi>
         </p>
-        <milestone type="subChapter" rend="space" unit="newline"></milestone>
+        <milestone type="subChapter" rend="space" unit="newline"/>
         <p>Alberte leva au ciel ses yeux qui se remplirent de larmes.</p>
         <p>-- Oh ! cet oubli ! murmura-t-elle ; ce cruel oubli !</p>
         <p>Roger continuait à dégager la pierre et bientôt elle apparut émergeant des herbes.</p>
@@ -2996,7 +2996,7 @@
       </div>
     </body>
     <back>
-      <div type="notes"></div>
+      <div type="notes"/>
       <div>
         <p>
           1  Voir le livre intitulé :
