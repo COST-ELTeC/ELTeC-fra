@@ -8,7 +8,7 @@ This is the French novel collection for the ELTeC, the European Literary Text Co
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.  
 
-The ELTeC-fra collection as it stands contains 84 novels encoded at level 1. The corpus composition criteria are not yet fully fulfilled. 
+The ELTeC-fra collection as it stands contains 82 novels encoded at level 1. The corpus composition criteria are not yet fully fulfilled. 
 
 ## Contributors
 
