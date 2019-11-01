@@ -1,2 +1,3 @@
 # ELTeC-fra
-Folder for level0: basic TEI Encoding
+
+Folder for very simple TEI encoding.
