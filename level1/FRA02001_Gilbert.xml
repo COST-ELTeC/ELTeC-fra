@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Vers Le Pôle En Aéroplane : ELTeC edition</title>
+        <title>Vers le pôle en aéroplane : ELTeC edition</title>
         <author>Gilbert, Jehan (1880-1940)</author>
         <respStmt>
           <resp>encoded by</resp>
@@ -40,7 +40,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
