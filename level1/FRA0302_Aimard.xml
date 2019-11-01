@@ -20,45 +20,45 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Bibliothèque électronique du Québec,
-          <date></date>
+          <date/>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="http://beq.ebooksgratuits.com"></ref>
+          <ref target="http://beq.ebooksgratuits.com"/>
           .
         </bibl>
-        <bibl type="print-source">
-          <date></date>
+        <bibl type="printSource">
+          <date/>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
         <bibl type="firstEdition">
           <date>1858</date>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p></p>
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"></timeSlot>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -162,7 +162,7 @@
             <hi>ciudad</hi>
             est sale, bâtie en pisé et présente aux yeux étonnés du voyageur un mélange de ruines, d'incurie et de désolation qui attriste l'âme.
           </p>
-          <milestone type="subChapter" rend="space" unit="newline"></milestone>
+          <milestone type="subChapter" rend="space" unit="newline"/>
           <p>
             Le jour où commence ce récit, c'est-à-dire le 17 janvier 1817, entre trois et quatre heures de l'après-midi, moment où d'ordinaire la population fait la
             <hi>siesta,</hi>
@@ -1928,10 +1928,10 @@
           <p>-- Señorita, lui dit-il, je suis heureux que le hasard m'ait permis de vous rendre un léger service... j'aurai l'honneur de vous revoir. Depuis longtemps déjà, je suis vos pas dans l'ombre. Dieu, qui m'a accordé la grâce de vous parler une fois, me l'accordera une seconde, j'en suis certain, quoique dans peu de jours vous deviez partir pour un lointain voyage. Permettez-moi donc de vous dire non pas adieu, mais au revoir.</p>
           <p>Et, après s'être incliné profondément devant la jeune fille, il s'éloigna rapidement.</p>
           <p>Quinze jours après cette bizarre aventure dont elle n'avait pas jugé à propos de parler à son oncle, doña Luz quittait Mexico sans avoir revu l'inconnu. Seulement, la veille de son départ, en entrant dans sa chambre à coucher, la jeune fille avait trouvé sur son prie-Dieu un papier plié en quatre. Sur ce papier étaient écrits ces quelques mots, d'une écriture fine et élégante :</p>
-          <milestone type="subChapter" rend="space" unit="newline"></milestone>
+          <milestone type="subChapter" rend="space" unit="newline"/>
           <p>« Vous partez, doña Luz, souvenez-vous que je vous ai dit au revoir.</p>
           <p>« Votre sauveur de la calle de Plateros. »</p>
-          <milestone type="subChapter" rend="space" unit="newline"></milestone>
+          <milestone type="subChapter" rend="space" unit="newline"/>
           <p>Pendant longtemps cette étrange rencontre avait fortement occupé l'esprit de la jeune fille, un instant elle avait cru que le Cœur-Loyal et son sauveur inconnu étaient le même homme, mais cette supposition s'était bientôt évanouie. Quelle probabilité qu'il en fût ainsi ? Dans quel but le Cœur-Loyal, après l'avoir sauvée, se serait-il si promptement éloigné ? cela eût été absurde.</p>
           <p>Mais, par une de ces conséquences ou de ces inconséquences, comme on le voudra, de l'esprit humain, au fur et à mesure que l'aventure de Mexico s'effaçait dans sa pensée, le Cœur-Loyal y grandissait.</p>
           <p>Elle aurait voulu voir le chasseur, causer avec lui.</p>
@@ -4439,7 +4439,7 @@
       </div>
     </body>
     <back>
-      <div type="notes"></div>
+      <div type="notes"/>
       <div>
         <p>1  Nous donnons ici la traduction de ce discours qui peut intéresser le lecteur comme spécimen du langage des Comanches.</p>
         <p>

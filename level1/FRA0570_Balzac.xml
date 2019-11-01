@@ -20,16 +20,16 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Éfélé,
           <date>2014</date>
           ,
           <idno>000067</idno>
           ,
-          <ref target="http://efele.net/ebooks/livres/000067"></ref>
+          <ref target="http://efele.net/ebooks/livres/000067"/>
           .
         </bibl>
-        <bibl type="print-source">
+        <bibl type="printSource">
           Paris: Furne, J.-J. Dubochet et Cie, J. Hetzel et Paulin,
           <date>1842</date>
           -1848.
@@ -40,17 +40,17 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p></p>
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"></timeSlot>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -3468,7 +3468,7 @@
       <p>Excusez les fautes du copiste !</p>
     </body>
     <back>
-      <div type="notes"></div>
+      <div type="notes"/>
       <div>
         <p>Paris, juillet 1846-mai 1847.</p>
       </div>

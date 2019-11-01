@@ -20,46 +20,46 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Project Gutenberg,
           <date>2014</date>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
-        <bibl type="print-source">
+        <bibl type="printSource">
           6th ed.,
           <date>1869</date>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
         <bibl type="firstEdition">
           <date>1866</date>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p></p>
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -2580,7 +2580,7 @@
         <p>«Monsieur,</p>
         <p>«Vous rendrez un immense service à une pauvre fille, bien malheureuse, en prenant la peine de venir demain jusqu'à Corbeil, à l'hôtel de la _Belle-Image_, où on vous attendra toute la journée.</p>
         <p>«Votre humble servante, JENNY FANCY.»</p>
-        <p></p>
+        <p/>
         <p>Il y avait encore en post-scriptum:</p>
         <p>«De grâce, monsieur, je vous en conjure, pas un mot de ma démarche à M. le comte de Trémorel.»</p>
         <p>«Eh! eh! pensa Sauvresy, il y a de la brouille dans le ménage illégitime de ce cher Hector, c'est bon signe pour le mariage.»</p>
@@ -3079,7 +3079,7 @@
         <p>Hector se rendit au désir de son ami, bien que sentant que l'émotion devait faire chevroter sa voix, et il lut:</p>
         <p>«Aujourd'hui (le jour et la date), sain d'esprit, bien que souffrant, je déclare n'avoir pas une ligne à changer à ce testament. Jamais je n'ai plus aimé ma femme, jamais je n'ai tant désiré la faire héritière, si je viens à mourir avant elle, de tout ce que je possède.</p>
         <p>CLÉMENT SAUVRESY.»</p>
-        <p></p>
+        <p/>
         <p>Si forte était Berthe, si parfaitement et toujours maîtresse de ses impressions, qu'elle parvint à refouler la satisfaction immense qui l'inondait. Tous ses voeux étaient comblés, et pourtant elle parvint à voiler de tristesse l'éclat de ses beaux yeux.</p>
         <p>--À quoi bon! fit-elle avec un soupir.</p>
         <p>Elle disait cela, mais une demi-heure plus tard, seule avec Trémorel, elle se livrait à tous les enfantillages de la joie la plus folle.</p>
@@ -3323,7 +3323,7 @@
         <p>--Là, derrière le rideau, je les vois.</p>
         <p>Une dernière convulsion le rejeta sur son oreiller.</p>
         <p>Clément Sauvresy était mort.</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"></milestone>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
       </div>
       <div type="chapter">
         <p>
@@ -3953,7 +3953,7 @@
         <p>Renfermé de nouveau dans son cabinet avec le père Plantat:</p>
         <p>--Voyons un peu, fit l'agent de la Sûreté, ce que nous dit le docteur.</p>
         <p>Il brisa le cachet et lut:</p>
-        <p></p>
+        <p/>
         <p>«Mon cher Plantat,</p>
         <p>«Vous m'avez demandé une dépêche, autant vous griffonner en toute hâte une vingtaine de lignes que je vous fais porter chez notre sorcier...»</p>
         <p>--Oh! murmura M. Lecoq s'interrompant, M. Gendron est trop bon, trop indulgent, en vérité!</p>
@@ -4344,7 +4344,7 @@
         <p>«Monsieur Wilson,</p>
         <p>«Quatre des billets de mille francs que vous m'avez donnés en paiement sont faux; je viens de le reconnaître en les remettant à mon banquier. Si avant dix heures vous n'êtes pas chez moi pour vous expliquer à ce sujet, j'aurai le regret de faire parvenir ce soir même une plainte à monsieur le procureur impérial.</p>
         <p>RECH.»</p>
-        <p></p>
+        <p/>
         <p>--Tenez, monsieur, fit M. Lecoq en passant sa lettre au père Plantat, comprenez-vous!</p>
         <p>D'un coup d'oeil le vieux juge de paix eut lu, et il ne put retenir une exclamation de joie qui fit retourner tous les garçons.</p>
         <p>--Oui, dit-il, oui, en effet, il sera pris au reçu de cette lettre, d'une épouvante qui triomphera de toutes ses terreurs. Il se dira que parmi les billets remis en paiement il a pu s'en glisser de faux sans qu'il s'en soit aperçu, il se dira qu'une plainte déposée au Parquet provoquera une enquête, qu'il lui faudra prouver qu'il est bien M. Wilson et qu'alors il est perdu.</p>
@@ -4523,7 +4523,7 @@
         <p>Resté seul, ayant entendu le roulement de la voiture qui emmenait Laurence et le père Plantat, l'agent de la Sûreté vint se placer devant le cadavre de Trémorel.</p>
         <p>«Voilà, se disait-il, un misérable que j'ai tué au lieu de l'arrêter et de le livrer à la justice. En avais-je le droit? Non, mais ma conscience ne me reproche rien, c'est donc que j'ai bien agi.»</p>
         <p>Et courant à l'escalier, il appela ses hommes.</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"></milestone>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
       </div>
       <div type="chapter">
         <p>
@@ -4532,14 +4532,14 @@
         <p>Le lendemain même de la mort de Trémorel, La Ripaille et Guespin étaient remis en liberté, et recevaient, l'un quatre mille francs pour s'acheter un bateau et des filets à mailles réglementaires, l'autre dix mille francs, avec promesse de pareille somme au bout d'un an, s'il allait s'établir dans son pays.</p>
         <p>Quinze jours plus tard, à la grande surprise des badauds d'Orcival, qui n'ont jamais su le fin mot de l'histoire, le père Plantat épousait Mlle Laurence Courtois et, le soir même, les nouveaux époux partaient pour l'Italie en annonçant qu'ils y resteraient au moins un an.</p>
         <p>Quant au père Courtois, il vient de mettre en vente son beau domaine d'Orcival, il se propose de s'établir dans le midi, et est en quête d'une commune ayant besoin d'un bon maire.</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"></milestone>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
         <p>Comme tout le monde, M. Lecoq aurait oublié cette affaire du Valfeuillu restée fort obscure dans le public, n'était que l'autre matin un notaire est venu de sa personne lui apporter une lettre bien gracieuse de Laurence et un gros cahier de papier timbré.</p>
         <p>Ces paperasses n'étaient autres que les titres de propriété de la jolie habitation du père Plantat à Orcival, «telle qu'elle se poursuit et comporte, avec meubles meublants, écurie, remise, jardin, dépendances diverses», et quelques arpents de prés aux environs.</p>
         <p>--Ô prodige! s'écria M. Lecoq, je n'ai pas obligé des ingrats! Pour la rareté du fait, je consens à devenir propriétaire.</p>
       </div>
     </body>
     <back>
-      <div type="notes"></div>
+      <div type="notes"/>
       <div>
         <p>FIN</p>
       </div>

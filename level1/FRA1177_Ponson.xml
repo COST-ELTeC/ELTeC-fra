@@ -21,46 +21,46 @@
         </p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source">
+        <bibl type="digitalSource">
           Ebooksgratuits.com,
-          <date></date>
+          <date/>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
-        <bibl type="print-source">
-          <date></date>
+        <bibl type="printSource">
+          <date/>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
         <bibl type="firstEdition">
           Le Petit Journal -- 31 octobre 1865 au 10 juin 1866, 223 épisodes.
           <date>1866</date>
           ,
-          <idno></idno>
+          <idno/>
           ,
-          <ref target="#"></ref>
+          <ref target="#"/>
           .
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p></p>
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -7272,7 +7272,7 @@
       </div>
     </body>
     <back>
-      <div type="notes"></div>
+      <div type="notes"/>
       <div>
         <head>Notes</head>
         <p>1 Le premier-Paris, dit encore « filet de bœuf », est le principal article de fond d'un journal.</p>

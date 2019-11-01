@@ -27,8 +27,8 @@
           <bibl type="printSource">
             <title>La seconde mère</title>
             <ref target="BnF">La seconde mère</ref>
-            <publisher />
-            <idno type="BnF" />
+            <publisher/>
+            <idno type="BnF"/>
           </bibl>
           <bibl type="firstEdition">
             <title>La seconde mère</title>
@@ -41,17 +41,17 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
