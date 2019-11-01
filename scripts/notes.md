@@ -1,1 +1,0 @@
-java -jar /usr/share/java/saxon9he.jar -s:/media/christof/mydata/repos/cost/ELTeC-fra/Orig/rd0010.xml -xsl:/media/christof/mydata/repos/cost/ELTeC-fra/Scripts/CLIGStoELTeC.xsl -o:/media/christof/mydata/repos/cost/ELTeC-fra/level1/rd0010.xml
