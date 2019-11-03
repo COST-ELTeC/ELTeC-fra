@@ -14,7 +14,6 @@
       </titleStmt>
       <extent>
         <measure unit="words">115269</measure>
-        <measure unit="pages">0</measure>
       </extent>
       <publicationStmt>
         <p>
@@ -28,26 +27,18 @@
           <date>2007</date>
           ,
           <idno>20950</idno>
-          ,
-          <ref target="#"/>
+         
           .
         </bibl>
         <bibl type="printSource">
           Ollendorff,
           <date>1907</date>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
+          
         </bibl>
         <bibl type="firstEdition">
           Ollendorff,
           <date>1885</date>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
+          
           .
         </bibl>
       </sourceDesc>
