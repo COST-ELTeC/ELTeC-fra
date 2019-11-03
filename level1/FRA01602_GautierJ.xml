@@ -80,10 +80,11 @@
     </revisionDesc>
   </teiHeader>
   <text>
+    <front> <div type="titlepage">
+      <p>Fleurs d’Orient </p><p>Judith Gautier</p><p> Armand Colin, </p><p>Paris, 1893 </p><p>FLEURS D’ORIENT</p>
+    </div></front>
     <body>
-      <div type="titlepage">
-        <p>Fleurs d’Orient Judith Gautier Armand Colin, Paris, 1893 FLEURS D’ORIENT</p>
-      </div>
+     
       <div type="chapter">
         <head>ZULEÏKA</head>
         <head>I</head>
