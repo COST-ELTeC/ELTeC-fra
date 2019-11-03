@@ -67,18 +67,19 @@
     </revisionDesc>
   </teiHeader>
   <text>
+    <front> <div type="titlepage">
+      <p>
+        ANATOLE FRANCE
+        <hi>DE L'ACADÉMIE FRANÇAISE</hi></p><p>
+        LES DIEUX ONT SOIF </p><p>CALMANN-LÉVY </p><p>Tous droits de traduction, de reproduction et d'adaptation réservés pour tous pays.
+      </p>
+      <p>
+       Copyright by Librairie Calmann-Lévy, éditeurs.
+      </p>
+    </div>
+    </front>
     <body>
-      <div type="titlepage">
-        <p>
-          ANATOLE FRANCE
-          <emph>DE L'ACADÉMIE FRANÇAISE</emph>
-          LES DIEUX ONT SOIF CALMANN-LÉVY Tous droits de traduction, de reproduction et d'adaptation réservés pour tous pays.
-        </p>
-        <p>
-          <emph>Copyright by Librairie Calmann-Lévy, éditeurs.</emph>
-        </p>
-      </div>
-      <div type="chapter">
+        <div type="chapter">
         <head>I</head>
         <p>Évariste Gamelin, peintre, élève de David, membre de la section du Pont-Neuf, précédemment section Henri IV, s'était rendu de bon matin à l'ancienne église des Barnabites, qui depuis trois ans, depuis le 21 mai 1790, servait de siège à l'assemblée générale de la section. Cette église s'élevait sur une place étroite et sombre, près de la grille du Palais. Sur la façade, composée de deux ordres classiques, ornée de consoles renversées et de pots à feu, attristée par le temps, offensée par les hommes, les emblèmes religieux avaient été martelés et l'on avait inscrit en lettres noires au-dessus de la porte la devise républicaine: "Liberté, Égalité, Fraternité ou la Mort." Évariste Gamelin pénétra dans la nef: les voûtes, qui avaient entendu les clercs de la congrégation de Saint-Paul chanter en rochet les offices divins, voyaient maintenant les patriotes en bonnet rouge assemblés pour élire les magistrats municipaux et délibérer sur les affaires de la section. Les saints avaient été tirés de leurs niches et remplacés par les bustes de Brutus, de Jean-Jacques et de Le Peltier. La table des Droits de l'Homme se dressait sur l'autel dépouillé.</p>
         <p>C'est dans cette nef que, deux fois la semaine, de cinq heures du soir à onze heures, se tenaient les assemblées publiques. La chaire, ornée du drapeau aux couleurs de la nation, servait de tribune aux harangues.</p>

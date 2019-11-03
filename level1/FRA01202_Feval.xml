@@ -14,7 +14,6 @@
       </titleStmt>
       <extent>
         <measure unit="words">103086</measure>
-        <measure unit="pages">0</measure>
       </extent>
       <publicationStmt>
         <p>
@@ -24,30 +23,13 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          ELG,
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
+          ELG
         </bibl>
-        <bibl type="printSource">
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
-        </bibl>
+      
         <bibl type="firstEdition">
           Le Pays, du 26 juin au 3 octobre
           <date>1857</date>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
+         
         </bibl>
       </sourceDesc>
     </fileDesc>
