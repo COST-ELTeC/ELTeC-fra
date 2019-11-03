@@ -32,20 +32,10 @@
           <ref target="http://beq.ebooksgratuits.com"/>
           .
         </bibl>
-        <bibl type="printSource">
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
-        </bibl>
+       
         <bibl type="firstEdition">
           <date>1889</date>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
+          
           .
         </bibl>
       </sourceDesc>
