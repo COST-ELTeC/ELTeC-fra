@@ -28,25 +28,12 @@
           <date>2004</date>
           ,
           <idno>14251</idno>
-          ,
-          <ref target="#"/>
-          .
+         
         </bibl>
-        <bibl type="printSource">
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
-        </bibl>
+        
         <bibl type="firstEdition">
           <date>1890</date>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
+          
         </bibl>
       </sourceDesc>
     </fileDesc>

@@ -14,7 +14,6 @@
       </titleStmt>
       <extent>
         <measure unit="words">88165</measure>
-        <measure unit="pages">0</measure>
       </extent>
       <publicationStmt>
         <p>
@@ -25,29 +24,18 @@
       <sourceDesc>
         <bibl type="digitalSource">
           Bibliothèque électronique du Québec,
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="http://beq.ebooksgratuits.com"/>
+            <ref target="http://beq.ebooksgratuits.com"/>
           .
         </bibl>
         <bibl type="printSource">
           Paris, Calmann Lévy,
           <date>1882</date>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
+          
           .
         </bibl>
         <bibl type="firstEdition">
           <date>1866</date>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
+                 .
         </bibl>
       </sourceDesc>
     </fileDesc>
