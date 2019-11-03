@@ -25,28 +25,14 @@
       <sourceDesc>
         <bibl type="digitalSource">
           Bibliothèque électronique du Québec,
-          <date/>
-          ,
-          <idno/>
-          ,
+         
           <ref target="http://beq.ebooksgratuits.com"/>
-          .
+         
         </bibl>
-        <bibl type="printSource">
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
-        </bibl>
+      
         <bibl type="firstEdition">
           <date>1869</date>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
+         
         </bibl>
       </sourceDesc>
     </fileDesc>
