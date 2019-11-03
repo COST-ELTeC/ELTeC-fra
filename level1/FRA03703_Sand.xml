@@ -14,8 +14,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">89027</measure>
-        <measure unit="pages">0</measure>
-      </extent>
+     </extent>
       <publicationStmt>
         <p>
           Published as part of ELTeC
@@ -25,28 +24,14 @@
       <sourceDesc>
         <bibl type="digitalSource">
           Bibliothèque électronique du Québec,
-          <date/>
-          ,
-          <idno/>
-          ,
+         
           <ref target="http://beq.ebooksgratuits.com"/>
           .
         </bibl>
-        <bibl type="printSource">
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
-        </bibl>
+       
         <bibl type="firstEdition">
           <date>1840</date>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
+          
         </bibl>
       </sourceDesc>
     </fileDesc>
