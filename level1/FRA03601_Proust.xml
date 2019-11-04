@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03601" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -14,16 +16,13 @@
       </titleStmt>
       <extent>
         <measure unit="words">181506</measure>
-        <measure unit="pages">0</measure>
+        
       </extent>
-      <publicationStmt>
-        <p>
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
-          <date>2018-11-01</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+          2018-11-01
+        --></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           Bibliothèque électronique du Québec, Collection À tous les vents,
           <date>digital</date>
           ,
@@ -31,18 +30,15 @@
           ,
           <ref target="http://www.beq.ebooksgratuits.com/"/>
           .
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           Paris: Gallimard:
           <date>1946-1947</date>
           , 15 volumes.
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           Paris: Grasset,
           <date>1913</date>
           , revised edition Paris: Gallimard, 1919.
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -58,21 +54,21 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-06-08">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <front>
-      <div>
+      <div type="liminal">
         <p>À MONSIEUR GASTON CALMETTE</p>
         <p>Comme un témoignage de profonde et affectueuse reconnaissance.</p>
         <p>Marcel Proust.</p>
       </div>
     </front>
     <body>
-      <div>
+      <div type="group">
         <head>Combray</head>
         <div type="chapter">
           <p>
@@ -593,7 +589,7 @@
           <p>Souvent il se trouvait qu'il s'était tant attardé avec la jeune ouvrière avant d'aller chez les Verdurin, qu'une fois la petite phrase jouée par le pianiste, Swann s'apercevait qu'il était bientôt l'heure qu'Odette rentrât. Il la reconduisait jusqu'à la porte de son petit hôtel, rue La Pérouse, derrière l'Arc de Triomphe. Et c'était peut-être à cause de cela, pour ne pas lui demander toutes les faveurs, qu'il sacrifiait le plaisir moins nécessaire pour lui de la voir plus tôt, d'arriver chez les Verdurin avec elle, à l'exercice de ce droit qu'elle lui reconnaissait de partir ensemble et auquel il attachait plus de prix, parce que, grâce à cela, il avait l'impression que personne ne la voyait, ne se mettait entre eux, ne l'empêchait d'être encore avec lui, après qu'il l'avait quittée.</p>
         </div>
       </div>
-      <div>
+      <div type="group">
         <head>Un amour de Swann</head>
         <div type="chapter">
           <p>Ainsi revenait-elle dans la voiture de Swann ; un soir, comme elle venait d'en descendre et qu'il lui disait à demain, elle cueillit précipitamment dans le petit jardin qui précédait la maison un dernier chrysanthème et le lui donna avant qu'il fût reparti. Il le tint serré contre sa bouche pendant le retour, et quand au bout de quelques jours la fleur fut fanée, il l'enferma précieusement dans son secrétaire.</p>
@@ -1052,7 +1048,7 @@
           <p>Mais tandis que, une heure après son réveil, il donnait des indications au coiffeur pour que sa brosse ne se dérangeât pas en wagon, il repensa à son rêve ; il revit, comme il les avait sentis tout près de lui, le teint pâle d'Odette, les joues trop maigres, les traits tirés, les yeux battus, tout ce que -- au cours des tendresses successives qui avaient fait de son durable amour pour Odette un long oubli de l'image première qu'il avait reçue d'elle -- il avait cessé de remarquer depuis les premiers temps de leur liaison, dans lesquels sans doute, pendant qu'il dormait, sa mémoire en avait été chercher la sensation exacte. Et avec cette muflerie intermittente qui reparaissait chez lui dès qu'il n'était plus malheureux et qui baissait du même coup le niveau de sa moralité, il s'écria en lui-même : « Dire que j'ai gâché des années de ma vie, que j'ai voulu mourir, que j'ai eu mon plus grand amour, pour une femme qui ne me plaisait pas, qui n'était pas mon genre ! »</p>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <head>Noms de pays : le nom</head>
         <p>Parmi les chambres dont j'évoquais le plus souvent l'image dans mes nuits d'insomnie, aucune ne ressemblait moins aux chambres de Combray, saupoudrées d'une atmosphère grenue, pollinisée, comestible et dévote, que celle du Grand-Hôtel de la Plage, à Balbec, dont les murs passés au ripolin contenaient, comme les parois polies d'une piscine où l'eau bleuit, un air pur, azuré et salin. Le tapissier bavarois qui avait été chargé de l'aménagement de cet hôtel avait varié la décoration des pièces et sur trois côtés fait courir le long des murs, dans celle que je me trouvai habiter, des bibliothèques basses, à vitrines en glace, dans lesquelles, selon la place qu'elles occupaient, et par un effet qu'il n'avait pas prévu, telle ou telle partie du tableau changeant de la mer se reflétait, déroulant une frise de claires marines, qu'interrompaient seuls les pleins de l'acajou. Si bien que toute la pièce avait l'air d'un de ces dortoirs modèles qu'on présente dans les expositions « modern style » du mobilier, où ils sont ornés d'œuvres d'art qu'on a supposées capables de réjouir les yeux de celui qui couchera là, et auxquelles on a donné des sujets en rapport avec le genre de site où l'habitation doit se trouver.</p>
         <p>Mais rien ne ressemblait moins non plus à ce Balbec réel que celui dont j'avais souvent rêvé, les jours de tempête, quand le vent était si fort que Françoise en me menant aux Champs-Élysées me recommandait de ne pas marcher trop près des murs pour ne pas recevoir de tuiles sur la tête, et parlait en gémissant des grands sinistres et naufrages annoncés par les journaux. Je n'avais pas de plus grand désir que de voir une tempête sur la mer, moins comme un beau spectacle que comme un moment dévoilé de la vie réelle de la nature ; ou plutôt il n'y avait pour moi de beaux spectacles que ceux que je savais qui n'étaient pas artificiellement combinés pour mon plaisir, mais étaient nécessaires, inchangeables -- les beautés des paysages ou du grand art. Je n'étais curieux, je n'étais avide de connaître que ce que je croyais plus vrai que moi-même, ce qui avait pour moi le prix de me montrer un peu de la pensée d'un grand génie, ou de la force ou de la grâce de la nature telle qu'elle se manifeste livrée à elle-même, sans l'intervention des hommes. De même que le beau son de sa voix, isolément reproduit par le phonographe, ne nous consolerait pas d'avoir perdu notre mère, de même une tempête mécaniquement imitée m'aurait laissé aussi indifférent que les fontaines lumineuses de l'Exposition. Je voulais aussi, pour que la tempête fût absolument vraie, que le rivage lui-même fût un rivage naturel, non une digue récemment créée par une municipalité. D'ailleurs la nature, par tous les sentiments qu'elle éveillait en moi, me semblait ce qu'il y avait de plus opposé aux productions mécaniques des hommes. Moins elle portait leur empreinte et plus elle offrait d'espace à l'expansion de mon cœur. Or j'avais retenu le nom de Balbec que nous avait cité Legrandin, comme d'une plage toute proche de « ces côtes funèbres, fameuses par tant de naufrages qu'enveloppent six mois de l'année le linceul des brumes et l'écume des vagues ».</p>

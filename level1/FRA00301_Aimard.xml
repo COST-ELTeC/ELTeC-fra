@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00301" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -14,16 +16,13 @@
       </titleStmt>
       <extent>
         <measure unit="words">90166</measure>
-        <measure unit="pages">0</measure>
+        
       </extent>
-      <publicationStmt>
-        <p>
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
-          <date>2018-11-01</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+          2018-11-01
+        --></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           Bibliothèque électronique du Québec,
           <date/>
           ,
@@ -31,24 +30,14 @@
           ,
           <ref target="http://beq.ebooksgratuits.com"/>
           .
-        </bibl>
-        <bibl type="printSource">
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <date>1858</date>
           ,
           <idno/>
           ,
-          <ref target="#"/>
+          
           .
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -64,14 +53,14 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <front>
-      <div>
+      <div type="liminal">
         <head>Note de la première édition</head>
         <p>On a beaucoup écrit sur l'Amérique; bon nombre d'auteurs d'un talent incontestable ont entrepris la tâche difficile de faire connaître ces savanes immenses, peuplées de tribus féroces et inaccessibles à la civilisation, mais peu d'entre eux ont réussi faute d'une connaissance approfondie des pays qu'ils voulaient décrire et des peuples dont ils prétendaient faire connaître les mœurs.</p>
         <p>M. Gustave Aimard a été plus heureux que ses devanciers; séparé pendant de longues années du monde civilisé, il a vécu de la vie du nomade au milieu des prairies, côte à côte avec les Indiens, fils adoptif d'une de leurs puissantes nations, partageant leurs dangers et leurs combats, les accompagnant partout, le rifle d'une main et le machète de l'autre.</p>
@@ -102,7 +91,7 @@
       </div>
     </front>
     <body>
-      <div type="part">
+      <div type="group">
         <p>
           <label>Prologue -- Le maudit</label>
         </p>
@@ -627,7 +616,7 @@
           <p>Des semaines, des mois, des années s'écoulèrent sans que rien vînt lever un coin du voile mystérieux qui enveloppait ces sinistres événements, et malgré les plus actives recherches, on ne put rien apprendre sur le sort de Rafaël, de sa mère et de nô Eusébio.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>Première partie -- Le Cœur-Loyal</label>
         </p>
@@ -4443,7 +4432,7 @@
     </body>
     <back>
       <div type="notes"/>
-      <div>
+      <div type="liminal">
         <p>1  Nous donnons ici la traduction de ce discours qui peut intéresser le lecteur comme spécimen du langage des Comanches.</p>
         <p>
           « Meegvoitch kitchée manitoo, kaigait-kee zargetoone an nishinnorbay nogomé, shafuyyar payshik artwwaay winnin tercushenan, cawween kitchée morgussey, an nishinnorbay nogome, cawwickar indenendum. Kaygait kitchée muskowway geosay haguarmissey waybenan matchée oathty nee zargetoone saggonash artawway winnin kaygait hapadgey kitchee morgussey an nishinnorbay; kaig wotch annaboikassey nennerwind mornooch towvach nee zargey debwoye kee appayomar, cuppar bebone nepewar appiminiqui omar »
