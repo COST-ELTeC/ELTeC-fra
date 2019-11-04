@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02301" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -16,20 +18,17 @@
         <measure unit="words">56950</measure>
         <measure unit="pages">291</measure>
       </extent>
-      <publicationStmt>
-        <p>
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
-          <date>2019-06-14</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+          2019-06-14
+        --></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <ref target="http://beq.ebooksgratuits.com/auteurs/terrail/index.htm">La seconde mère</ref>
           <publisher>Bibliothèque électronique du Québec</publisher>
           <idno type="BEQ">693</idno>
           <bibl type="printSource">
             <title>La seconde mère</title>
-            <ref target="BnF">La seconde mère</ref>
+            
             <publisher/>
             <idno type="BnF"/>
           </bibl>
@@ -40,8 +39,7 @@
             <date>1888</date>
             <idno type="BnF">FRBNF30540976</idno>
           </bibl>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -57,13 +55,13 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-06-14">Conversion to TEI for ELTeC level-1 (Christof Schöch)</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="chapter">
         <head>I</head>
         <p>Pendant que Jaffé se glissait derrière lui, Richard Brice rassembla les rênes de ses trotteurs. Le train qu’il venait de quitter s’ébranla et s’en alla à toute vitesse en lançant à coups rapides de petites bouffées de vapeur, dans la direction opposée à celle que prenait le phaéton. Les volutes élégantes s’accrochaient aux basses branches des peupliers ; on eût dit que, dans la tiède pesanteur de cette journée, il leur était impossible de s’élever plus haut ; et elles y restaient longtemps, comme embarrassées de disparaître sans attirer l’attention.</p>
         <p>Les trotteurs avaient pris une belle allure sur la route sinueuse, une vraie route de France, élastique et ferme, avec juste assez de pentes pour donner de la variété au paysage ; un paysage tout vert, extrêmement vert, tel qu’on n’en peut voir qu’après de longues pluies d’été. Il se déroulait aimablement, tantôt à gauche, tantôt à droite, mais toujours borné d’un côté par un pan de colline, où, pour ouvrir la route, la mine avait fait une blessure toute fraîche dans le grès couleur de rouille.</p>
@@ -237,7 +235,7 @@
         <p>L’enfant avait eu peur, mais c’était un vaillant petit garçon, et il savait le prouver. Il n’avait pas crié, et maintenant il se tenait fort grave, la main gauche fermement attachée à la barre du siège. Il ne répondit rien à son père ; un instant après, il le tira doucement par la manche.</p>
         <p>– Papa, dit-il, embrasse-moi. Et il tendit vers lui son petit visage honnête.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>II</head>
         <p>La Rouveraye était distante d’une dizaine de kilomètres au plus ; la route délicieuse s’enfonçait à travers le bois jusqu’à la grille du parc. Au moment où le phaéton traversait le pont, un rayon de soleil illumina les fenêtres du château ; une surtout, en pleine lumière dorée, miroitait comme une glace. Richard reconnut la fenêtre du petit salon de sa femme, où il avait passé les dernières heures pénibles de l’agonie, alors que les deux mères qui entouraient la mourante ne lui permettaient plus de s’approcher, mais seulement de la regarder, debout dans la large baie. Était-ce parce que Madeleine avait trop appartenu à ces deux mères, que son mari n’avait jamais pu l’aimer autant qu’il l’eût voulu ?</p>
         <p>Comme il se posait cette question, il arriva devant le château, qui semblait flamboyer en son honneur.</p>
@@ -342,7 +340,7 @@
         <p>Les chevaux partirent comme le vent vers leur écurie ; Brice suivit des yeux le léger équipage qui s’enfonçait dans la nuit croissante, sentant un morceau de son cœur s’en aller avec lui. Le train arrivait.</p>
         <p>– Et dire qu’il y a tant de gens qui ne se soucient pas de leurs enfants ! pensa-t-il en montant dans un compartiment où par bonheur il resta seul.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>III</head>
         <p>Richard arriva à Paris, assez tard dans la soirée ; sans prendre le temps de dîner, sans même passer chez lui, il se fit conduire chez M. Montaubray.</p>
         <p>La veille, il avait promis à sa fiancée de lui rendre compte, le soir même, des démarches accomplies ce jour-là. C’était Odile qui avait insisté pour qu’il les fit sans plus tarder, et elle l’avait instamment prié de venir, ne fut-ce qu’un instant, pour lui dire comment il avait été accueilli.</p>
@@ -411,7 +409,7 @@
         <p>Seule dans sa chambre, Mlle Montaubray resta longtemps pensive avant de se mettre au lit.</p>
         <p>– Deux belles-mères, c’est pourtant vrai, se dit-elle, car la grand-mère d’Yveline est presque une mère pour lui... et les enfants pourraient bien apprendre à me haïr... Mais si c’était facile, il n’y aurait pas de mérite ! Et je veux qu’il soit heureux ! Je l’ai pris avec toutes les blessures de son âme, toutes les tristesses de son cœur ; c’est à moi de les guérir... et s’il faut pour cela que mon amour fasse des miracles... il en fera.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>IV</head>
         <p>Les Pignons flamboyaient par toutes leurs ouvertures, le soir d’octobre où Richard Brice y amena sa jeune épouse.</p>
         <p>Mme Brice mère avait tenu à faire grandement les choses. Tant par ostentation que par calcul habile, elle avait convoqué toute sa parenté et la plupart de ses amis au dîner qu’elle donnait ce jour-là aux nouveaux mariés qui revenaient de leur voyage de noces. Elle s’était dit qu’il serait plus commode pour la jeune femme, aussi bien que pour elle-même, de faire sa connaissance et celle des enfants au milieu d’une réunion nombreuse, qui remettrait à plus tard la possibilité des épanchements.</p>
@@ -466,7 +464,7 @@
         <p>Depuis celles qui se piquaient de beauté jusqu’aux simples bas bleus qui se targuaient de littérature, chacune dit et répéta que la nouvelle Mme Richard Brice n’était ni la belle personne ni la femme remarquable qu’on avait annoncée. Les hommes, plus clairvoyants, savaient le contraire ; mais ils n’assistaient point aux conciliabules féminins, et leur avis ne put faire pencher la balance ; si les opinions se heurtèrent, ce qui arriva peut-être, comme ce fut à l’abri du mur de la vie privée, ces heurts furent sans résultat.</p>
         <p>Mme Brice mère fut fort approuvée d’avoir fait une si belle réception à sa bru ; Mme de la Rouveraye encore davantage, pour avoir su imposer silence à ses sentiments les plus légitimes. Toutes deux avaient eu le grand esprit de comprendre qu’un député ne saurait rester veuf. Comment offrirait-il des dîners, donnerait-il des soirées ? N’y avait-il pas mille occasions dans sa vie sociale et politique où l’absence d’une femme se ferait cruellement sentir ? Au sortir de l’excellent dîner offert par Mme Brice mère, tout le département portait aux nues la famille entière, dans toutes ses ramifications. Jaffé seul n’était point satisfait ; mais comme il n’en faisait part à personne, il n’eut point occasion de se quereller.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>V</head>
         <p>Ce premier séjour de Brice et de sa femme fut de courte durée. Ils avaient résolu d’aller souvent aux Pignons et de n’y pas rester plus de quarante-huit heures à la fois, au moins jusqu’au retour du printemps ; de la sorte, nombre de difficultés se trouvaient tournées, et Edme ne perdait point l’habitude de les voir.</p>
         <p>Le petit garçon reprit assez promptement ses habitudes de tendresse et de confiance avec son père ; aussitôt qu’il le voyait seul, il courait à lui, posant mille questions, le tiraillant et le câlinant comme il l’avait fait depuis sa naissance. Mais aussitôt qu’Odile paraissait, il retombait dans le silence. Après avoir été grondé une fois ou deux assez vertement par son père, il n’avait plus tenté de s’enfuir à la vue de sa belle-mère ; il restait près d’eux, mais contraint et morose, si bien qu’Odile elle-même avait intercédé pour qu’il obtint sa liberté.</p>
@@ -501,7 +499,7 @@
         <p>Aux heures où Mlle Montaubray s’était interdit de songer à Richard Brice, alors l’époux d’une autre, elle avait connu la tristesse et la résignation ; mais alors, c’étaient des compagnes aimées, bienvenues, qui devaient l’aider à vivre ses années solitaires. À présent qu’elle tenait son rêve dans ses mains reconnaissantes, il était plus dur de retomber dans les grisailles de l’incertitude.</p>
         <p>Elle était vaillante cependant, et surtout très sage. Elle se dit que la vie est longue et qu’on ne désespère pas à vingt-cinq ans. Son mari l’aimait ; avec la grâce de Dieu, il l’aimerait toujours, car elle était sûre de ne pas démériter de sa tendresse. Elle se raidit contre ses petites déceptions, se cuirassa de souriante politesse contre l’aimable froideur de Mme de la Rouveraye et attendit : l’amitié de tous ceux qui connaissaient sa valeur et les succès mondains dont elle n’avait garde de se laisser enivrer, l’aidèrent à se faire une existence extérieure pleine d’un charme sans banalité.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VI</head>
         <p>Trois années s’étaient écoulées. Vaincue par la raison du plus fort, c’est-à-dire par la déraison de son petit-fils, Mme Brice s’était décidée à lui donner une institutrice.</p>
         <p>C’était une personne très sage, qui avait fait plusieurs éducations déjà, et qui, en prenant de l’âge, avait choisi la mission difficile, mais flatteuse, de préparer les petits garçons pour le lycée. Elle avait jusque-là fort bien réussi, et on la déclarait très supérieure à tout gouverneur pour mener à bien les études des jeunes héritiers de grande famille. Cette réputation méritée devait attirer sur elle l’attention de Mme Brice mère, qui, décidément, trouvait Edme un peu récalcitrant.</p>
@@ -692,7 +690,7 @@
         <p>M. et Mme Richard montèrent dans le landau qui s’était approché, et partirent. Quand ils furent hors de vue, Brice se laissa couler à genoux, et baisant la main d’Odile, il lui dit :</p>
         <p>– Je vous demande humblement pardon, ma femme !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VII</head>
         <p>Edme entra au lycée comme interne, sans autres tiraillements. Mme Brice mère avait compris, une fois le calme rétabli, que son aveugle tendresse pour son petit-fils l’avait entraînée trop loin, et elle n’avait plus soulevé d’objections, pour le moment. Richard s’était fait amener l’enfant par Jaffé, et l’avait gardé chez lui deux ou trois jours : Odile s’était absentée à la même époque, de sorte qu’Edme ne l’avait point rencontrée. Lorsqu’il l’avait revue, elle lui avait adressé un simple bonjour auquel il avait répondu de même : elle le traitait avec une réserve qui excluait toute idée de pardon, mais où le censeur le plus sévère n’eût pu découvrir la moindre parcelle de rancune ou seulement de mauvaise grâce.</p>
         <p>Mme Brice mère s’installa dans un bel appartement, plus près du lycée Henri IV que de la demeure de son fils, et les journées de sortie se partagèrent ainsi : le matin, Edme, conduit par Jaffé, viendrait déjeuner chez son père ; dans l’après-midi, il irait chez sa grand-mère, qui se chargeait de le faire reconduire le soir.</p>
@@ -749,7 +747,7 @@
         <p>Quelques journées s’écoulèrent, intolérablement lentes et lourdes. La grand-mère avait installé le jeune garçon dans une chambre voisine de la sienne, dont la porte de communication restait toujours ouverte, et elle ne permettait à personne d’y entrer, excepté à Jaffé, qui avait pris le métier de garde-malade avec la même tranquillité qu’il eût pris les guides de ses chevaux.</p>
         <p>La maladie ne se déclarait pas nettement, et le docteur, inquiet, avait déjà parlé d’appeler en consultation un médecin célèbre, afin de dégager sa responsabilité ; la fièvre violente et la prostration d’Edme, qui n’ouvrait plus les yeux et qui ne parlait que pour demander à boire, lui faisaient redouter quelque terrible complication cérébrale. Mme Brice, dès le second soir, avait remis ses clefs à Odile, en la priant de donner les ordres nécessaires : elle sentait ses forces décroître et voulait lutter quand même ; la jeune femme, heureuse de se voir utile, prit sur-le-champ le commandement du personnel, qui lui obéit d’ailleurs avec une régularité parfaite.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VIII</head>
         <p>Le soir du quatrième jour, le médecin était parti plus soucieux encore ; si la maladie ne se prononçait pas, on pouvait tout craindre. Odile, qui venait de recevoir de sa bouche cette déclaration, en le reconduisant, rentra au salon, avec un douloureux sentiment d’impuissance, irritant parce qu’il provenait non de la force des choses, mais de la volonté de Mme Brice. Si elle avait pu entrer dans cette chambre d’enfant fermée pour elle !... Elle eût accepté facilement toutes les peines, toutes les difficultés.</p>
         <p>La soirée était lugubre. Des nuages très bas couraient dans le ciel gris, chassés par un vent rapide ; des frissons secouaient l’eau des feuilles sur la terre déjà saturée de pluie : Odile, qui avait refusé les lampes, ouvrit la porte-fenêtre et s’avança sur le perron.</p>
@@ -812,7 +810,7 @@
         <p>La grand-mère se retourna brusquement vers Odile et lui tendit les deux mains ; comme elle s’inclinait, Mme Brice l’attira sur son cœur et lui donna un baiser, un vrai baiser de mère.</p>
         <p>– Que Dieu vous aide, lui dit-elle. Et maintenant, il faut que je dorme, car je sens que ma tête s’en irait.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>IX</head>
         <p>Le médecin avait ordonné le repos complet pour la grand-mère, qu’il espérait d’ailleurs voir sur pied dans quelques jours. Lui aussi avait averti du danger Mme Richard, comme c’était son devoir, et, de même que tout le personnel de la maison, il avait été émerveillé du calme et de l’ordre que répandait autour d’elle cette âme ferme et généreuse.</p>
         <p>Elle gouvernait comme un capitaine à son bord, sans bruit et sans secousses, avec une autorité bienveillante qui ne permettait aucune défaillance. Elle avait décidé qu’elle et Jaffé passeraient alternativement une nuit près du malade, afin de se ménager des forces pour la lutte, qui pourrait être longue, et, tout en se réservant d’y recourir si cela devenait nécessaire, elle avait décidé de se passer des soins des Sœurs de charité ; la crainte de la contagion, que celles-ci eussent méprisée, était assez forte dans l’esprit d’Odile pour qu’elle reculât devant l’idée d’y exposer d’autres vies que la sienne.</p>
@@ -842,7 +840,7 @@
         <p>Odile se retourna. Elle n’avait pas vu sa belle-mère, qui s’était avancée très lentement et qui l’avait aperçue de loin, par la porte ouverte sur une longue enfilade de chambres communiquant entre elles.</p>
         <p>– Je vous ai appelée, vous ne m’avez pas entendue ; ma voix est si faible... Je ne l’aurais pas permis... mon fils ne l’aurait pas permis... Mais vous êtes une brave et une bonne créature... Embrassez-moi !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>X</head>
         <p>Le docteur, après avoir examiné le sommeil profond, semblable à la mort, dans lequel Edme était tombé après sa crise de fièvre, porta un arrêt peu rassurant. Les forces étaient totalement épuisées : la nuit qui allait suivre pouvait être la dernière ; si l’enfant sortait de cette torpeur, il serait probablement sauvé, mais la présence d’un confrère savant était réclamée par le vieux praticien pour mettre à couvert sa responsabilité.</p>
         <p>– Pourquoi ne m’avez-vous pas dit cela plus tôt ? s’écria Odile. J’aurais prévenu mon mari ! Maintenant, quoi que je fasse, il ne peut plus revenir à temps...</p>
@@ -880,7 +878,7 @@
         <p>– Ô mon Dieu ! je vous remercie ! murmura Odile en joignant les mains vers le ciel radieux.</p>
         <p>Au même instant, la voiture qui ramenait les médecins entrait dans la cour.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XI</head>
         <p>L’examen du petit malade donna des résultats aussi satisfaisants que possible ; une dépêche de Richard, arrivée quelques heures après avec ce seul mot : « Edme ? » reçut en réponse un autre mot unique : « Sauvé ! » Et Mme Richard, enfin délivrée de son horrible anxiété, crut que tout son être allait se fondre et mourir dans une inexprimable et heureuse langueur.</p>
         <p>Ce n’était pas fini, cependant ; la période dangereuse était terminée, la période insupportable commençait. Edme, en revenant à la vie, revenait aussi à ses caprices, à ses rébellions, excitées encore par l’irritabilité des malades. Par une circonstance que Mme Richard se trouvait contrainte de dire heureuse, la surdité, au dire du médecin, devait se prolonger pendant une dizaine de jours encore, les yeux ne devaient guère s’ouvrir plus tôt, et Odile pouvait tranquillement continuer pendant ce temps ses fonctions de garde-malade, sans courir le risque d’être reconnue.</p>
@@ -910,7 +908,7 @@
         <p>– Mon cher petit, dit-elle, je vous ai toujours aimé, et maintenant, je suis bien heureuse !</p>
         <p>Mme Brice, en entrant une heure après, les trouva causant, la main dans la main.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XII</head>
         <p>
           C’était une joie enfantine, absurde, dans la vieille demeure des Pignons, que le jeune maître eût si promptement recouvré toutes ses facultés ; c’était de quoi en chanter
@@ -969,7 +967,7 @@
         <p>– Comme ça, grommela Edme, je n’aurai jamais de sœur, et papa jamais de fille ?</p>
         <p>– On fera pour le mieux, mon cher enfant, dit Odile en lui donnant un baiser.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XIII</head>
         <p>Les portes de la Madeleine s’ouvrirent toutes grandes, et le roulement des orgues éclata au dehors, comme une tempête d’harmonie, pour la fin de messe de la première communion. C’était un beau jeudi de mai, si radieux, si brûlant qu’il défiait toutes les ardeurs de juin ; les marronniers fleuris de la place avaient l’air de grands bouquets préparés pour la circonstance ; une foule de dames bien mises s’étageaient sur les marches, abritées par les ombrelles multicolores ; en bas, sur le trottoir, une masse de gens de toutes les classes regardaient avec sympathie à l’intérieur de l’église, et ceux qui remontaient la rue Royale en venant de la place de la Concorde, par cette journée délicieuse, voyaient, au fond du temple sombre, l’autel étincelant de lumières, entouré jusqu’aux frises, couvert jusqu’au tapis, de blanches fleurs de mai, en l’honneur du mois de Marie.</p>
         <p>Des voix fraîches d’enfants chantèrent un cantique accompagné discrètement par l’orgue ; puis, sur le tapis rouge, étendu comme pour des mariés, les communiants et les communiantes s’avancèrent en longues files ; soudain, comme si un grand vol de cygnes s’était abattu sur les marches de l’église, l’air se trouva rempli de voiles blancs et de délicates mousselines.</p>
@@ -1023,7 +1021,7 @@
         <p>– Sortez.</p>
         <p>Edme obéit et s’en fut de lui-même se mettre aux arrêts dans sa chambre.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XIV</head>
         <p>Éliminant volontairement Mme Brice, qui l’eût blâmé de tout point, tout en censurant le jeune homme, Richard tint conseil avec sa femme.</p>
         <p>La circonstance n’eût pas eu cette gravité exceptionnelle si elle se fût présentée pour la première fois, et si Edme eût été dans de bonnes conditions d’étude. Malheureusement, toutes ses classes s’étaient ressenties du manque de direction primitif, et son éducation était pleine de trous. Quand il se trouvait en humeur de travail, il prenait facilement la tête de la classe, à la grande indignation de ses camarades, et même des professeurs, qui voyaient avec humeur ce vainqueur intermittent couper l’herbe sous le pied à des élèves consciencieux qui travaillaient bien toute l’année. Mais d’ordinaire, il était à une place très médiocre.</p>
@@ -1070,7 +1068,7 @@
         <p>– Quand je vois des gens de maison – car ce ne sont pas des domestiques, comme madame le sait ; moi, je suis un domestique, mais eux, ce sont des gens de maison ; – quand je vois des gens de maison aussi distingués, et que leurs équipages sont d’une tenue qui me fait hausser les épaules, sauf le respect que je dois à madame en sa présence, je me dis qu’il vaut peut-être mieux n’être qu’un domestique et avoir des harnais convenablement astiqués.</p>
         <p>C’est avec cette pensée que Jaffé sut maintenir, pendant toutes les vacances, un équilibre louable entre son orgueil et son humilité, ce qui produisit en lui un état d’esprit des plus agréables.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XV</head>
         <p>Edme, d’abord bourru, car il regrettait sa chère liberté des Pignons, s’accoutuma bientôt à la vie qu’on menait à la Rouveraye. Cette demeure, très mondaine, était journellement l’objet de visites diverses : les jeunes amies d’Yveline venaient la voir, quelques-unes de son âge, d’autres déjà promues au rang supérieur de la jeune fille. Pareil à la plupart des jeunes gens, Edme se trouvait un peu mal à l’aise au milieu de tant de demoiselles ; mais comme il était fort beau, grand, mince, élégant, aimable quand il le voulait, comme en outre ses défauts ne se manifestaient que dans la société intime de ses proches, ainsi qu’il convient à tout être bien élevé, il devint bientôt l’âme des petites réunions.</p>
         <p>De la sorte, il prit goût à la société des dames, ce qu’Odile n’avait pu obtenir dans son salon, qu’Edme fuyait régulièrement à Paris, et, par une conséquence toute naturelle, il se rapprocha de sa sœur.</p>
@@ -1192,7 +1190,7 @@
         <p>Richard Brice entrait hagard, appelé par le bruit.</p>
         <p>– Je vous ai désobéi, lui dit simplement sa femme en lui remettant l’arme. Vous voyez bien qu’il ne l’avait pas fait exprès. Allez, Richard, votre fils est un noble garçon, mais son cœur est malade, et c’est cela qu’il faudra guérir.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XVI</head>
         <p>Certaines situations très tendues ne peuvent se dénouer que par un accident tragique : certains malentendus trouvent par l’appréhension d’une catastrophe une solution aisée et facile. Sans la tentative de suicide du malheureux Edme, les rapports entre son père et lui fussent peut-être restés pénibles éternellement et douloureux ; la bonne foi du jeune homme ne pouvant plus être mise en doute, Richard sentit dans son cœur une grande floraison de tendresse pour son premier-né.</p>
         <p>Ce qui s’était passé relativement à l’examen n’était pas en soi bien grave ; rien n’était plus aisé pour Edme que de se présenter à nouveau pour l’année suivante, puisqu’il se trouverait encore dans la limite d’âge. Un nouveau professeur fut choisi, afin d’écarter de l’esprit du candidat autant de souvenirs désagréables que c’était possible, et Edme s’épanouit sous un régime différent, sûr d’être désormais compris et désormais deviné, lorsque sa maladresse lui donnerait l’apparence de torts qu’il n’avait pas.</p>
@@ -1254,7 +1252,7 @@
         <p>– Qu’il est donc laid ! Et qu’il est drôle ! pensa la jeune fille en t’apercevant. Il a l’air d’un bébé en cire, qui aurait des moustaches !</p>
         <p>Et sentant le fou rire la prendre, elle s’enfuit dans le jardin, où Varcourt n’osa pas la suivre.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XVII</head>
         <p>L’imagination des jeunes filles parcourt beaucoup de chemin en peu de temps. Yveline se fit un tableau délicieux de la vie dans la maisonnette où vivaient les Présances. Cette existence resserrée, pour ne pas dire étroite, lui sembla la plus belle de toutes ; elle n’était pas sans avoir entendu parler de Nausicaa, fille de roi, lavant son linge à la rivière ; on pouvait donc accomplir les travaux les plus humbles sans rien perdre de son grand air et de sa dignité, et Yveline était bien sûre que Mme de Présances, quoi qu’elle fit, serait toujours une femme distinguée, malgré ses petites robes usées et la modestie souffrante de son maintien.</p>
         <p>À quoi tiennent les choses ! Si Mme de la Rouveraye n’avait point critiqué sa cousine pauvre, Mlle Brice n’eût peut-être jamais remarqué le cousin Georges !</p>
@@ -1315,7 +1313,7 @@
         <p>– Au revoir ! dit Berthe, et le modeste cabriolet s’en alla cahin-caha sur la route, suivi par les yeux d’Yveline. Si Georges l’avait su ! Le soleil faisait une gloire d’or au vernis de l’humble carriole, qui, pour l’héritière de la Rouveraye, était plus belle et plus flamboyante que le char d’Apollon !</p>
         <p>Mais Georges ne savait pas, et tout le temps de la route, en mâchonnant sa moustache, il lui semblait mordre les morceaux de son orgueil humilié.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XVIII</head>
         <p>Le dîner et la soirée furent interminables ; quelques-uns des hôtes étaient partis, d’autres étaient restés, ce qui trouble le plus souvent l’harmonie d’une réunion. Tout le monde s’ennuya ce soir-là à la Rouveraye, excepté Yveline, qui vivait dans un éblouissement ; le soleil lui était resté dans les yeux. On partit de bonne heure, et lorsque la jeune fille vint embrasser sa grand-mère, comme de coutume, en lui souhaitant le bonsoir, Mme de la Rouveraye fit un mouvement pour la retenir : elle avait presque envie de lui parler sur-le-champ du mariage projeté. Mais un peu de fatigue l’arrêta ; elle renvoya au lendemain l’explication, et congédia simplement sa petite-fille.</p>
         <p>Jamais Yveline n’avait éprouvé à ce point le besoin d’être seule ; depuis le moment où l’humble cabriolet avait disparu au bout de l’avenue, elle sentait des impatiences la parcourir comme des frissons ; elle aurait voulu secouer la contrainte de toutes ces présences intolérables ; le dîner n’en finissait pas ; le bavardage des hôtes, qu’elle supportait fort bien d’ordinaire, y ajoutant la gaieté de son rire, tous ces propos mondains lui semblaient d’un vide et d’un oiseux dont elle était dégoûtée. Lorsqu’elle eut renvoyé sa femme de chambre et qu’elle se vit seule dans le joli nid de sa jeunesse, elle regarda autour d’elle avec ravissement.</p>
@@ -1414,7 +1412,7 @@
         <p>– On vous cherche partout, mademoiselle, dit-elle. Madame vous fait demander.</p>
         <p>Ils descendirent bras dessus bras dessous, joyeux et graves à la fois, et, pendant toute la soirée, ils échangèrent à la dérobée des regards d’entente qui leur donnaient un air de conspirateurs, bien fait pour réjouir leurs jeunes esprits, prompts à s’amuser de tout.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XIX</head>
         <p>Edme cependant avait pris très au sérieux la confiance d’Yveline et son rôle de protecteur. Dès le matin, sous prétexte de tirer quelques coups de fusil, il partit dans les plaines, dorées par un joli soleil de septembre, et, comme on peut le croire, il se dirigea du côté de la Maisonnette, pour en voir au moins l’extérieur.</p>
         <p>Pendant qu’il arpentait les routes, en compagnie d’un vieux chien, ami de sa jeunesse, Mme de la Rouveraye avait emmené Yveline dans son petit salon.</p>
@@ -1500,7 +1498,7 @@
         <p>Il entraîna Mme Brice d’un côté, pendant que Mme Richard, très émue, prenait doucement la taille d’Yveline pour l’emmener de l’autre.</p>
         <p>– Viens dans ma chambre, dit la seconde mère, nous y serons mieux pour causer.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XX</head>
         <p>Dans cet asile aimable et sérieux, où tout parlait d’une vie bien employée, Yveline sentit tout à coup son cœur se desserrer. Sur la cheminée, sur les murs, partout, des photographies de son frère et d’elle-même, à tous les âges ; un beau portrait de son père, qui l’attira dès son entrée ; des livres, des ouvrages de femme ; un grand registre, fermé, sur le bureau, affirmait l’ordre de la ménagère... C’était une de ces chambres reposantes, où l’on sent qu’on aimerait à vivre et à mourir ; la mort, dans ce grand lit, au milieu de tous ces témoins d’une vie d’honneur et de travail, ne pouvait être que paisible et vénérable.</p>
         <p>Emue, Yveline, après avoir tout embrassé d’un coup d’œil, tourna son regard vers Odile, et lut dans ses yeux une tendresse grave et profonde.</p>
@@ -1538,7 +1536,7 @@
         <p>Edme fut reçu à peu près de la même façon, et les enfants furent congédies pour laisser aux deux dames la facilité de s’expliquer ensemble.</p>
         <p>Que se dirent-elles en cette mémorable entrevue ? Le secret en fut bien gardé, car ni l’une ni l’autre n’en parlèrent jamais. Il est probable que Mme Brice évoqua le souvenir de la première femme de Richard, épousée sans amour, par raison de famille, de convenances, de tout enfin, sauf le libre choix des époux, qui seul est la base des unions heureuse. Dans son triomphe, peut-être fut-elle quelque peu sarcastique, car Mme de la Rouveraye, au sortir de cet entretien, avait le teint enflammé, comme une personne qui s’est fort animée ; quoi qu’il en soit, les deux grand-mères se séparèrent de la façon la plus aimable, si ce n’est la plus cordiale.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XXI</head>
         <p>La tâche d’Odile était extrêmement ardue. De ses ennuis relatifs à l’éducation d’Edme, Richard avait gardé une susceptibilité nerveuse à l’endroit de ses enfants. Depuis l’incident terrible qui avait failli amener la mort de son fils, il ne se laissait plus emporter à des paroles dures ou à des réprimandes amères, mais sa femme savait combien ce sujet lui tenait au cœur, et quelles pensées pénibles la moindre erreur d’Edme ou d’Yveline remuait en lui, autant dans le passé que dans le présent et l’avenir. Richard voyait toujours en lui-même le père privé de son autorité naturelle sur ses enfants : sans cesse il se reprochait les concessions qu’il avait dû faire jadis et qu’à présent, oubliant les difficultés passées, il considérait comme le résultat d’une coupable faiblesse, et, se reprochant tout ce qui en était découlé, il voyait en lui le seul auteur d’une situation dont en réalité il n’était que la victime.</p>
         <p>C’est donc avec une sorte de terreur qu’Odile essaya le lendemain de raconter à son mari ce qui s’était passé, et de lui expliquer la métamorphose du cœur d’Yveline. Un autre danger se présentait encore : il avait trop tendrement aimé sa fille, la préférant à son fils lorsqu’elle était petite, pour ne pas avoir à souffrir en apprenant qu’un nouveau venu avait gagné d’emblée ce cœur, qui n’avait jamais été à lui.</p>
@@ -1594,7 +1592,7 @@
         <p>Cette situation douloureuse offrit au moins un grand avantage : la séparation, tant redoutée de Mme de la Rouveraye, fut presque une délivrance ; de fait, la séparation était consommée depuis la fuite d’Yveline aux Pignons.</p>
         <p>Quand on a tendrement aimé un être, l’eût-on d’ailleurs mal aimé, et que cet être vous échappe, non seulement on n’éprouve plus aucun bien de sa présence, mais cette présence jadis si chère vous devient bientôt une gêne ; c’est cette gêne que ressentait la grand-mère. Quant à Yveline, elle ne pouvait pardonner ni le tort de Mme de laRouveraye, ni le sien propre ; il faut une certaine grandeur d’âme pour n’être pas mal à l’aise près de quelqu’un qu’on a offensé ; cette grandeur, Yveline devait l’obtenir plus tard, elle ne l’avait pas encore.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XXII</head>
         <p>En novembre, toute la famille devait rentrer à Paris ; Mme de la Rouveraye prétexta un rhume pour s’abstenir de ce voyage, préférant remettre sa petite-fille aux mains des parents dans la tranquillité des Pignons. La veille du jour où Yveline devait quitter la maison, elle demanda à faire quelques visites chez des compagnes d’enfance, habitant les environs. Mme de la Rouveraye y consentit volontiers, et lui donna pour compagnie son ancienne nourrice, qui devait l’accompagner à Paris en qualité de femme de chambre. Cette femme, beaucoup plus dévouée à la grand-mère qu’à la jeune fille, serait le lien qui, dans la pensée de l’aïeule, rattacherait Yveline à son ancienne demeure.</p>
         <p>Une demi-douzaine de visites furent faites de la façon la plus banale, sans amener autre chose que la dépense d’une après-midi d’automne. Mais, au moment de reprendre le chemin de la Rouveraye, Yveline dit au cocher :</p>
@@ -1656,7 +1654,7 @@
         <p>– Grand-maman, dit-elle en se jetant à son cou, ne croyez pas que rien me fasse oublier votre amitié ! Je ne suis pas une ingrate, grand-maman ; j’ai un drôle de caractère et je ne suis pas toujours commode... Il faut me le pardonner, n’est-ce pas, grand-maman, je vous en prie ?</p>
         <p>Quand elles eurent pleuré ensemble, la paix fut faite ; Mme de la Rouveraye suivit des yeux la voiture jusqu’au bout de l’avenue, puis rentra dans son salon, tout étonnée de sentir, au bout du compte, si peu douloureusement un départ qu’elle avait jadis redouté à l’égal du martyre.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XXIII</head>
         <p>Les semaines s’écoulèrent sans qu’Yveline entendit parler des habitants de la Maisonnette autrement que par une courte lettre de Berthe au jour de l’an, où elle ne nommait pas son frère, mais où elle annonçait son prochain mariage avec un petit propriétaire des environs. Yveline, après son grand coup de tête, avait espéré mieux. Dans son inquiétude, elle alla un soir trouver Odile dans son petit salon. Richard était absent ; Edme, après quelques jours de congé, était retourné à Saumur : elles étaient bien sûres de n’être pas dérangées.</p>
         <p>– Maman, dit Yveline en s’asseyant sur un tabouret aux pieds de sa seconde mère, avez-vous dit quelque chose de nouveau à mon père, au sujet de ce que vous savez ?</p>

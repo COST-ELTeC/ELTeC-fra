@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00901" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -14,31 +16,25 @@
       </titleStmt>
       <extent>
         <measure unit="words">87744</measure>
-        <measure unit="pages">0</measure>
+        
       </extent>
-      <publicationStmt>
-        <p>
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
-          <date>2018-11-01</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+          2018-11-01
+        --></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <date>2004</date>
           ,
           <idno/>
           ,
           <ref target="http://www.ebooksgratuits.com/"/>
           .
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <date>source</date>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <date>1867</date>
           (1866-1867)
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -54,14 +50,14 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-06-02">Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
-      <div type="part">
+      <div type="group">
         <p>
           <label>PREMIÈRE PARTIE</label>
         </p>
@@ -880,7 +876,7 @@
           <p>« Vois ta sœur ! disait-elle à son mari, la joie de retrouver Daniel lui coupe l'appétit. Hier elle a pris deux fois du pain, aujourd'hui une fois seulement. » Ah ! chère Mme Eyssette, comme j'aurais voulu vous emporter ce soir-là, comme j'aurais voulu vous arracher à cette impitoyable vache à lait et à son épouse ; mais, hélas ! je m'en allais au hasard moi même, ayant juste de quoi payer ma route, et je pensais bien que la chambre de Jacques n'était pas assez grande pour nous tenir tous les trois. Encore si j'avais pu vous parler, vous embrasser à mon aise ; mais non ! On ne nous laissa pas seuls une minute... Rappelez-vous : tout de suite après dîner, l'oncle se remit à sa grammaire espagnole, la tante essuyait son argenterie, et tous deux ils nous épiaient du coin de l'œil... L'heure du départ arriva, sans que nous eussions rien pu nous dire. Aussi le petit Chose avait le cœur bien gros, quand il sortit de chez l'oncle Baptiste ; et en s'en allant, tout seul, dans l'ombre de la grande avenue qui mène au chemin de fer, il se jura deux ou trois fois très solennellement de se conduire désormais comme un homme et de ne plus songer qu'à reconstruire le foyer.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>DEUXIÈME PARTIE</label>
         </p>

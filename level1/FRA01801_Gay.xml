@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01801" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -15,36 +17,30 @@
       <extent>
         <measure unit="words">188985</measure>
       </extent>
-      <publicationStmt>
-        <p>
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
-          <date>2018-11-01</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+          2018-11-01
+        --></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <date>2006</date>
           ,
           <idno>17757</idno>
           ,
           <ref target="https://www.gutenberg.org/ebooks/17757"/>
           .
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <date>1864</date>
           ,
           <idno/>
           ,
-          <ref target="#"/>
-        </bibl>
-        <bibl type="firstEdition">
+          
+        </bibl><bibl type="firstEdition">
           <date>1844</date>
           ,
           <idno/>
           ,
-          <ref target="#"/>
-        </bibl>
-      </sourceDesc>
+          
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -60,14 +56,14 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-01">Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <front>
-      <div>
+      <div type="liminal">
         <head>INTRODUCTION</head>
         <p>C'est sous le Consulat, à un dîner chez la marquise de Condorcet, où se trouvaient plusieurs des personnes des plus remarquables de ce temps, que je vis pour la première fois la belle madame Mansley, cette spirituelle Ellénore qu'un homme justement célèbre a choisie pour l'héroïne d'un roman qui, sauf quelques voiles très-diaphanes, montre avec confiance la vérité des caractères plutôt que celle des faits. Le portrait qu'a tracé Adolphe d'Ellénore, écrit sous l'influence d'un sentiment intéressé, est bien celui qu'il a vu, mais non pas celui qui la ferait reconnaître par ses parents et par ses amis. L'amour n'est pas sujet à voir juste; celui d'Adolphe, qui éprouvait également le besoin de se vanter et de se décrier, devait louer et blâmer à faux la cause de toutes ses inconséquences de coeur; mais qui oserait médire des illusions qui ont produit un si charmant ouvrage!</p>
         <p>J'étais ravie de me rencontrer avec cette femme dont j'entendais parler chaque jour d'une si différente manière. Pour les uns, c'était une personne d'un grand caractère, dont l'âme noble, l'esprit indépendant et le ton austère étaient l'objet d'une admiration respectueuse. Pour les autres, c'était une femme bizarre, passionnée, orgueilleuse, inconséquente, prude et légère, conciliant une extrême sévérité de principes avec la situation la plus équivoque. Son caractère et ses qualités variaient en raison du plus ou moins d'occasions qu'on avait eues de la connaître et de se l'expliquer.</p>
@@ -81,7 +77,7 @@
         </p>
         <p>Au milieu de ces spirituels convives on remarquait une figure angélique, c'était celle de la fille de madame de Condorcet, de cette ravissante Eliza[1] qui, à peine dans l'âge de l'adolescence, avait déjà la taille et les traits réguliers d'une statue grecque.</p>
         <p>
-          <ref target="#FRA01801_N01"/>
+          <ref target="#N1"/>
         </p>
         <p>Je ne saurais peindre l'étonnement, la curiosité, le plaisir que j'éprouvais à voir, à écouter tant de gens dont les réputations offraient de si piquants contrastes. D'abord terrifiée par le nom de Chénier, je gardai un silence observateur. Sans doute mon regard craintif trahissait ma pensée, car Chénier quitta un moment son air dédaigneux, et m'adressa la parole de la manière la plus gracieuse. Il me fit l'éloge de mon mari, auquel, ajouta-t-il, il avait été assez heureux pour rendre un léger service.</p>
         <p>Ce léger service n'était rien moins que celui de l'avoir fait sortir de la Conciergerie, la veille du jour où il devait être conduit au tribunal révolutionnaire.</p>
@@ -123,7 +119,7 @@
       </div>
     </front>
     <body>
-      <div type="part">
+      <div type="group">
         <div type="chapter">
           <head>I</head>
           <p>Le père d'Ellénore, officier distingué d'un régiment irlandais, commandé autrefois par le duc de…, que nous nommerons le duc de Montévreux, s'étant vu contraint de se réfugier en France par suite des troubles de son pays, vint s'établir à Boulogne avec sa femme et ses enfants. Une modique fortune, encore diminuée par les sacrifices que le capitaine Mansley avait faits à son parti lui donnait à peine les moyens de soutenir honorablement sa famille. Un vieux nègre, dévoué aux intérêts de son maître, l'avait suivi dans l'exil, et son zèle infatigable secondait si bien son habileté, qu'il faisait à lui seul le service des quatre domestiques que son maître avait été forcé de renvoyer en Irlande.</p>
@@ -200,7 +196,7 @@
           <p>D'abord elle fut frappée de la familiarité hautaine avec laquelle la duchesse lui parlait devant M. de Croixville, l'appelant à chaque minute pour lui demander son métier à broder, ses soies, son cordonnet, et laissant dix fois tomber son mouchoir pour le faire ramasser par Ellénore; puis, quand vint le coiffeur, la duchesse le renvoya en disant:</p>
           <p>—Je ne sortirai point aujourd'hui, j'ai mal à la tête, une longue coiffure me fatiguerait; Ellénore arrangera mes cheveux, et me mettra ma baigneuse[2].</p>
           <p>
-            <ref target="#FRA1801_N02"/>
+            <ref target="#N2"/>
           </p>
           <p>Enchantée d'être choisie pour soigner sa protectrice, et pour épargner quelque secousse à sa tête malade, Ellénore se met à la coiffer de son mieux, en touchant à peine de ses jolis doigts les cheveux qu'elle boucle.</p>
           <p>—C'est bien, dit la duchesse. Maintenant, allez trouver mademoiselle Adeline; je ne m'habillerai que dans une heure. Ellénore, pensant qu'on la chargeait d'un ordre pour mademoiselle Adeline, sortit sans faire attention au ton qui avait accompagné les derniers mots de la duchesse.</p>
@@ -2010,7 +2006,7 @@
           <p>En ce moment, la porte du salon s'ouvrit, et l'on vit entrer le célèbre Adolphe de Rheinfeld.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <div type="chapter">
           <head>I</head>
           <p>En cédant aux nombreuses sollicitations des lecteurs, curieux de savoir la fin de l'histoire d'Ellénore, de cette vie commencée sous l'influence de tant d'événements romanesques, de tant de sentiments passionnés, je ne me dissimule pas l'impossibilité d'en soutenir l'intérêt. Comment le récit des sensations d'un coeur déjà flétri par de longues souffrances, des rêves d'une imagination tant de fois déçue aurait-il l'attrait de la peinture exacte des tourments d'un coeur naïf, ignorant du mal, dupe par la loyauté, victime par innocence?</p>
@@ -2238,7 +2234,7 @@
           <l>Mais on les aimait mieux quand on les voyait moins.</l>
           <p>Que dirait aujourd'hui cet aimable critique, à la vue des mêmes nudités[1] que ne recouvrent plus un châle drapé à l'antique, ni même des gants longs?</p>
           <p>
-            <ref target="#FRA01801_N03"/>
+            <ref target="#N1"/>
           </p>
           <p>
             Dans cette tragédie d'
@@ -3609,7 +3605,7 @@
               [2] est bien le plus mauvais repas qu'on puisse servir à des abonnés.
             </p>
             <p>
-              <ref target="#FRA01801_N04"/>
+              <ref target="#N2"/>
             </p>
             <p>
               »On ne s'explique pas ici comment le gouvernement anglais, qui se dit en paix avec nous, autorise la publication de telles calomnies contre le nôtre. C'est, prétendent-ils, par respect pour leur liberté de la presse qu'ils nous laissent insulter de la sorte; comme si l'
@@ -3699,7 +3695,7 @@
               [3], et pour tort, celui de représenter plusieurs fripons de laquais singeant leurs maîtres d'une manière tellement vraie que de grands personnages ont cru s'y reconnaître. C'est bien humble, direz-vous; mais c'est ainsi. Je devrais avoir ma part de cette disgrâce, car je suis coupable de quelques mauvais couplets de ce pauvre opéra, qui ne me semblait pas avoir jamais rien à démêler avec la politique et la police. Je dois, sans doute, cet excès d'indulgence de la part du sultan, à mon fils qui se bat dans son armée, et à mon frère qui se ferait tuer pour lui être agréable. Je ne partage ni le dévouement de l'un ni l'aveuglement de l'autre; mais je respecte toutes les illusions, celles de la gloire comme celles de la vanité.
             </p>
             <p>
-              <ref target="#FRA01801_N5"/>
+              <ref target="#N3"/>
             </p>
             <p>»A propos de vanité, la Harpe continue ses homélies académiques. Il cache son vieux bonnet rouge sous un capuchon monacal, dans l'espoir de faire oublier ses discours par ses sermons, ses chansons par ses cantiques, et ses rendez-vous grivois avec la célèbre gouvernante par la pénitence de lire mutuellement leurs ouvrages. Voici un quatrain improvisé en rêve, à la dernière séance du lycée républicain, par un des endormis du professeur:</p>
             <l>On disait autrefois proverbialement,</l>
@@ -3738,7 +3734,7 @@
           <p>On récite dans tous les lycées des vers sur cette grande restauration. Les dévots se réjouissent, les philosophes font la grimace; l'un d'eux prétendait l'autre jour que le curé et le vicaire de sa paroisse disaient de lui:</p>
           <p>Puisqu'il ne croit qu'en Dieu, c'est sans doute un athée[4].</p>
           <p>
-            <ref target="#N6"/>
+            <ref target="#N4"/>
           </p>
           <p>
             Les éternels frondeurs disent que le
@@ -4247,20 +4243,22 @@
     </body>
     <back>
       <div type="notes">
-        <note xml:id="FRA01801_N01">[Note 1: Elle a épousé depuis M. O'Connor.]</note>
-        <note xml:id="FRA01801_N02">[Note 2: Sorte de bonnet négligé, qui était à la mode en ce temps.]</note>
-        <note xml:id="FRA01801_N03">
+        <note xml:id="N11">[Note 1: Elle a épousé depuis M. O'Connor.]</note>
+        <note xml:id="N12">[Note 2: Sorte de bonnet négligé, qui était à la mode en ce temps.]</note>
+      </div>
+      <div type="notes">
+        <note xml:id="N21">
           [Note 1: On lit dans un journal de cette époque-là: «Deux femmes, ces jours-ci, se sont fait huer aux Champs-Élysées par l'effet de leurs robes transparentes. Huer!… ce qui eût été affreux pour nos grand'mères.»(
           <hi>Décade philosophique</hi>
           , année 5, trimestre 1.)]
         </note>
-        <note xml:id="FRA01801_N04">[Note 2: Journal qui paraissait à Londres.]</note>
-        <note xml:id="FRA01801_N05>
+        <note xml:id="N22">[Note 2: Journal qui paraissait à Londres.]</note>
+        <note xml:id="N23">
           [Note 3: Il a été donné depuis avec grand succès sous le titre de
           <hi>Picaros et Diegos</hi>
           .]
         </note>
-        <note xml:id="FRA01801_N06">[Note 4: Raboteau. Les Partis, pièce de vers lue au lycée de Paris.]</note>
+        <note xml:id="N24">[Note 4: Raboteau. Les Partis, pièce de vers lue au lycée de Paris.]</note>
       </div>
     </back>
   </text>
