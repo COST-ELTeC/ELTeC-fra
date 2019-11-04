@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA02901" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -23,31 +25,25 @@
       <extent>
         <measure unit="words">54730</measure>
       </extent>
-      <publicationStmt>
-        <p>
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           First ElTeC edition
-          <date>2019-10-02</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+          2019-10-02
+        --></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <title>La Nouvelle Espérance</title>
           <author>Anna de Noailles</author>
           <ref target="https://fr.wikisource.org/wiki/La_Nouvelle_Esp%C3%A9rance"/>
           <date>2015-04-18</date>
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <title>LA NOUVELLE ESPÉRANCE</title>
           <author>Comptesse Mathieu de Noailles</author>
           <publisher>Calmann-Lévy, 3 rue Auber</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1903</date>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <!-- best guess -->
           <date>1903</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -63,14 +59,14 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-11-01">Conversion to level 1 encoding.</change>
       <change when="2019-10-02">File created</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
-      <div type="titlepage">
+      <div type="unrecognized">
         <p>La Nouvelle Espérance Anna de Noailles Paris, 1903</p>
       </div>
       <div type="chapter">

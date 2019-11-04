@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA04102" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -14,30 +16,24 @@
       </titleStmt>
       <extent>
         <measure unit="words">58842</measure>
-        <measure unit="pages">0</measure>
+        
       </extent>
-      <publicationStmt>
-        <p>
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
-          <date>2018-11-01</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+          2018-11-01
+        --></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <date>2007</date>
           ,
           <idno/>
           ,
           <ref target="http://www.ebooksgratuits.com/"/>
           .
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <date>source</date>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <date>1863</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -53,7 +49,7 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-06-02">Initial TEI version.</change>
     </revisionDesc>
@@ -1760,7 +1756,7 @@
     </body>
     <back>
       <div type="notes"/>
-      <div>
+      <div type="liminal">
         <p>POURQUOI HUNEBOURG NE FUT PAS RENDU</p>
         <p>ÉPISODE DE 1815</p>
         <p>Le fort de Hunebourg, taillé dans le roc à la cime d'un pic escarpé, domine toute cette branche secondaire des Vosges qui sépare la Meurthe, la Moselle et la Bavière rhénane du bassin d'Alsace.</p>
@@ -1816,7 +1812,7 @@
         <p>L'archiduc Jean d'Autriche entendait très bien le français... Il avait, de plus, un faible pour la cuisine, et comprit les scrupules de Jean-Pierre. Aussi, dès le lendemain, il remonta tranquillement la vallée de la Zorne... après avoir fait demi-tour à gauche !</p>
         <p>Et voilà pourquoi Hunebourg ne fut pas rendu.</p>
       </div>
-      <div>
+      <div type="liminal">
         <p>[1] Taupier.</p>
         <p>[2] En avant ! en avant !</p>
         <p>[3] Pardon, Français.</p>

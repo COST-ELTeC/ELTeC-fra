@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA02302" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -20,30 +22,24 @@
       <extent>
         <measure unit="words">10562</measure>
       </extent>
-      <publicationStmt>
-        <p>
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           First ElTeC edition
-          <date>2019-09-30</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+          2019-09-30
+        --></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <title>L’amie</title>
           <author>Henry Gréville</author>
           <ref target="http://beq.ebooksgratuits.com/vents/greville.htm"/>
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <title>L’amie</title>
           <author>Henry Gréville</author>
           <publisher>E. Plon, Nourrit et Cie</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1879</date>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <!-- best guess -->
           <date>1878</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -59,7 +55,7 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-09-30">File created</change>
       <change when="2019-10-24">upgrade to ELTeC-1</change>
     </revisionDesc>
