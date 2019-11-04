@@ -14,7 +14,6 @@
       </titleStmt>
       <extent>
         <measure unit="words">70236</measure>
-        <measure unit="pages">0</measure>
       </extent>
       <publicationStmt>
         <p>
@@ -25,10 +24,7 @@
       <sourceDesc>
         <bibl type="digitalSource">
           Bibliothèque électronique du Québec,
-          <date/>
-          ,
-          <idno/>
-          ,
+        
           <ref target="http://beq.ebooksgratuits.com"/>
           .
         </bibl>
@@ -39,19 +35,11 @@
           <hi>nouvelle</hi>
           , de la Librairie Ch. Delagrave, Paris, publiée en 1884.
           <date>1884</date>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
+             .
         </bibl>
         <bibl type="firstEdition">
           <date>1869</date>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
+             .
         </bibl>
       </sourceDesc>
     </fileDesc>
