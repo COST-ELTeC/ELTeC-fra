@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00401" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -14,26 +16,21 @@
       </titleStmt>
       <extent>
         <measure unit="words">38400</measure>
-        <measure unit="pages">0</measure>
+        
       </extent>
-      <publicationStmt>
-        <p>
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
-          <date>2018-11-29</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+          2018-11-29
+        --></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <ref>Le Captain Cap</ref>
           <title>Le Captain Cap</title>
-         </bibl>
-            <bibl type="firstEdition">
+         </bibl><bibl type="firstEdition">
               <title>Le Captain Cap</title>
               <publisher>Felix Juven</publisher>
               <pubPlace>Paris</pubPlace>
               <date>1902</date>
-            </bibl>
-      </sourceDesc>
+            </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -49,13 +46,13 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-06-15">Conversion to ELTeC level-1 (Christof Schöch)</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <front>
-      <div>
+      <div type="liminal">
         <head>Avant-propos</head>
         <p>Il importe tout d'abord de dissiper une des plus grossières erreurs de ce temps et des plus néfastes.</p>
         <p>
@@ -76,12 +73,12 @@
       </div>
     </front>
     <body>
-      <div>
+      <div type="group">
         <head>Première partie</head>
         <p>
           <hi rend="italic">Le Captain Cap devant le suffrage universel</hi>
         </p>
-        <div>
+        <div type="chapter">
           <head>Ville de Paris</head>
           <p>
             <hi rend="italic">Aux Électeurs du IXe arrondissement, 2e circonscription (1)</hi>
@@ -183,7 +180,7 @@
             <hi rend="italic">Vu : Le candidat : Albert C... dit Captain Cap.</hi>
           </p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Profession de foi du Captain Cap</head>
           <p>Citoyens,</p>
           <p>Homme neuf, j'arrive avec des idées neuves.</p>
@@ -250,7 +247,7 @@
           <p/>
           <p>Albert C..., dit CAPTAIN CAP.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Le programme du Captain Cap</head>
           <p>1º Établissement d'un fort sur la butte Montmartre ;</p>
           <p>2º Établissement d'un observatoire sur la même butte ;</p>
@@ -263,7 +260,7 @@
           <p>9º Établissement sur la butte d'une Plazza de toros et d'une piste nautique ;</p>
           <p>10º Suppression de l'École des Beaux-Arts, etc., etc.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Proclamation d'un groupe d'électeurs</head>
           <p>Élections législatives du 20 août 1893</p>
           <p>IXe arrondissement, 2e circonscription.</p>
@@ -349,7 +346,7 @@
           <p>CAPTAIN CAP.</p>
           <p>Maurice O'Reilly, Paul Frény, Alphonse Allais, Raoul Ponchon, Georges Auriol, Léon Gandillot, Howard Symonds, Georges Courteline, Émile Goudeau, Armand Berthez, Raphael Shoomard, Jean Prairial, Narcisse Lebeau, Paul Clerget, Henri Joseph, le prince Joe Masson, Barral, Brunais, Duplay, Gatget, Lacault, A. Bert, Jules Jouy, Gérault du « Cantal », Édouard Million, J. Paulet, Darcey, Alfred-Amand Montel, Jehan Sarrazin, Félix Huguenet, Paul Robert, Berthier.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Une réunion électorale du Captain Cap</head>
           <p>La séance est ouverte à neuf heures et demie.</p>
           <p>Elle est présidée par le citoyen Maurice O'Reilly, dont l'éloge n'est plus à faire, et dont les électeurs du IXe ont pu maintes fois apprécier la valeur.</p>
@@ -458,7 +455,7 @@
           </p>
           <p>Signé : Georges AURIOL.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>La presse et le Captain Cap</head>
           <p>La candidature du Captain Cap, candidat anti-européen et anti-bureaucrate prend une excellente tournure dans le IXe arrondissement, 2e circonscription.</p>
           <p>Un comité d'adhésion et de propagande est déjà constitué. Nous y relevons les noms sympathiques de MM. Alphonse Allais, Courteline, Gandillot, Ponchon, Émile Goudeau, Narcisse Lebeau, Paul Clerget, le prince Joë Masson, Jules Jouy, Gérault (du Cantal), Jehan Sarrazin, Félix Huguenet, Paul Robert, Berthier.</p>
@@ -625,14 +622,14 @@
             , 10 décembre 1892.)
           </p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Déclaration</head>
           <p>Après tant d'indiscutables témoignages, au cas où le moindre de ces messieurs et dames de mes lecteurs s'aviserait encore de mettre en doute l'existence réelle du Captain Cap, je suis disposé -- quand et où l'on voudra -- à en faire une affaire personnelle.</p>
           <p/>
           <p>A. A.</p>
         </div>
       </div>
-      <div>
+      <div type="group">
         <head>Deuxième partie</head>
         <p>
           <hi rend="italic">Le Captain Cap</hi>
@@ -643,7 +640,7 @@
         <p>
           <hi rend="italic">Ses idées, ses breuvages</hi>
         </p>
-        <div>
+        <div type="chapter">
           <head>Avant-propos imposé par la plus élémentaire bonne foi</head>
           <p>J'ai cru bon, chaque fois qu'au cours des récits suivants se présentait sous ma plume le nom d'un de ces breuvages transatlantiques dont le Captain Cap se montrait si friand, d'en donner la formule exacte permettant à chacun d'en opérer la préparation.</p>
           <p>Ces formules m'ont été confiées par l'homme de Paris qui possède le plus d'autorité dans cette matière, je veux parler de M. Louis Fouquet, propriétaire et directeur du célèbre bar qui fait le coin de l'avenue des Champs-Élysées et de l'avenue de l'Alma.</p>
@@ -656,7 +653,7 @@
           <p/>
           <p>A. A.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre I</head>
           <head>
             <hi rend="italic">Les aventures du Captain Cap dans la région du Haut-Niger. Apparente solidarité du boa et de la girafe au cours d'une laryngite chez ce quadrupède à qui la nature se plut à monter le cou.</hi>
@@ -747,7 +744,7 @@
             *, et soignés, s. v. p.
           </p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre II -- Où l'on apprend comment le Captain Cap acquitte ses dettes d'amour.</head>
           <p>
             Celui -- et je ne dis
@@ -777,7 +774,7 @@
           <p>-- Alors, nous sommes quittes.</p>
           <p>Et Cap regagna son petit hôtel de la rue Julot, en proie à la plus grande quiétude morale.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre III -- Où se découvre l'existence du Meat-land : autrement dit terre de viande, riche carrière de charcuterie, située près d'Arthurville (Province de Québec).</head>
           <p>À ce récit, un sourire d'incrédulité fleurit sur mes lèvres et de petites lueurs de rigolade avivèrent l'éclat de mon regard.</p>
           <p>
@@ -847,7 +844,7 @@
           <p>Une Société est en voie de formation pour l'exploitation de cette substance unique.</p>
           <p>Nous reviendrons sur cette affaire, une affaire de tout premier ordre sur laquelle nous appelons d'ores et déjà l'attention de la petite épargne.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre IV -- Où apparaît, par l'exemple du Captain Cap, la vanité de la science hypnotique et le néant des influences auto-suggestives.</head>
           <p>-- Moi, dit le docteur V..., le cas le plus curieux d'autosuggestion que j'aie jamais vu, c'est voilà cinq ou six ans. Extrêmement curieux, même !</p>
           <p>-- Contez-nous cela, docteur.</p>
@@ -890,7 +887,7 @@
           </p>
           <p>-- Qu'est-ce que vous voulez ? L'autosuggestion ne réussit pas à tous les tempéraments.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre V -- Où s'instance par les soins du Captain Cap une contradictoire expérience d'autosuggestion des moins péremptoires.</head>
           <p>À ce moment le Captain Cap crut devoir prendre un air mystérieux. Et comme, en nos yeux, s'allumait la luisance de l'anxiété :</p>
           <p>-- Ne m'en blâmez pas, dit le Captain, je ne dirai rien de plus. Mon ORDRE me le défend !</p>
@@ -929,7 +926,7 @@
           <p>Et, sortant de la maison, le Captain nous dit sur un ton du plus vif intérêt scientifique :</p>
           <p>-- Est-ce curieux, hein, le cas de dépravation de cette petite, qui adore la pomme de terre crue et ne peut sentir la goyave ?</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre VI -- Où le Captain Cap indique un moyen bien simple d'assurer l'équilibre européen.</head>
           <p>-- Dites-moi, mon cher Allais, vous est-il jamais venu à l'esprit l'idée de faire couver des œufs de hareng saur par une autruche empaillée ?</p>
           <p>-- Jamais, mon cher Cap, au grand jamais, je vous le jure !</p>
@@ -983,7 +980,7 @@
           <p>-- Le Péloponnèse ?</p>
           <p>-- Allié au Jutland, bien entendu.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre VII -- Où le Captain Cap donne une magistrale leçon de savoir-faire à un barman ignare, européen et ahuri.</head>
           <p>
             Bien que l'heure ne fût pas, à vrai dire, encore très avancée, une soif énorme étreignait les gorges du Captain Cap et de moi (triste conséquence, sans doute, des débauches de la veille)
@@ -1124,7 +1121,7 @@
           <p>-- Non, ça, ça n'est pas des pailles ! C'est de la paille, et de la paille périmée, sortant de dessous -- saura-t-on jamais ? -- quelles innommables vaches ! Je n'ai point accoutumé à boire avec des résidus de purin. En allons-nous, mon ami, en allons-nous !</p>
           <p>Cap jeta sur le marbre de la table une suffisante pièce de cent sous, et nous partîmes vers le prochain mastroquet, où nous nous délectâmes à la joie d'une chopine de vin blanc, un peu de gomme et un demi-siphon !</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre VIII -- Où Cap fait d'heureuses recherches sur l'authentique prénom d'un orang-outang à tort qualifié Auguste.</head>
           <p>En arrivant à Nice, le Captain Cap et moi, deux affiches murales se disputèrent la gloire d'attirer notre attention.</p>
           <p>
@@ -1186,7 +1183,7 @@
           <p>Mais, hélas ! la petite fête foraine du Pont-Vieux était terminée.</p>
           <p>Le faux Auguste, sa baraque, son barnum, tout déménagé à San-Remo, sur la terre d'Italie ; et l'on n'ignore point que la loi italienne est formelle à cet égard : interdiction absolue de rechercher l'état civil de tout singe haut de 70 centimètres et plus.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre IX -- Résumé trop succinct, hélas ! d'une conférence du Captain Cap sur un projet de nouvelle division pour la France.</head>
           <p>
             Vous n'êtes pas sans avoir remarqué, mesdames et messieurs, qu'on a donné le nom de
@@ -1254,7 +1251,7 @@
             )
           </p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre X -- Exposé de la méthode employée par le Captain Cap pour établir le record du millimètre et le record du « gnon ». Cap, champion du monde!</head>
           <p>-- Qu'apprends-je à l'instant, mon cher Cap ; c'est vous qui détenez le record du millimètre ?</p>
           <p>
@@ -1367,7 +1364,7 @@
           <p>-- Ce qui, entre nous, mon cher Cap, est un résultat splendide.</p>
           <p>-- Que je tâcherai de perfectionner encore.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XI -- Nouveau projet du Captain Cap pour communications inter-astrales.</head>
           <p>
             Le flamboiement inaccoutumé de Mars -- uniquement dû, d'ailleurs, à la générale adoption du bec Auer
@@ -1396,7 +1393,7 @@
           <p>Au bout d'un laps double de ce temps, plus le temps moral pour l'organisation de la réponse, si nous n'entendons aucune clameur astrale, c'est que les Martiens sont sourds, tels des pots, ou qu'ils se fichent de nous comme de leur premier bock (de bière de Mars).</p>
           <p>Et alors ce serait à vous décourager de l'astronomie.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XII -- Récit incroyable mais vrai de dressages d'animaux, obtenus sans effort par de patients bipèdes.</head>
           <p>Dimanche dernier, aux courses d'Auteuil, je fis la rencontre du Captain Cap et je ressentis de cette circonstance, une joie d'autant plus vive que je croyais, pour le moment, notre sympathique navigateur en rade de Bilbao.</p>
           <p>
@@ -1498,7 +1495,7 @@
             .
           </p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XIII -- Description oiseuse et par conséquent détaillée des manipulations minutieuses et efficaces au moyen desquelles on remet à neuf les vieux confetti.</head>
           <p>
             D'un seul coup, Cap lampa le large verre d'
@@ -1595,7 +1592,7 @@
           <p>-- À la vôtre, mon cher Cap !</p>
           <p>-- Dieu vous garde, mon vieil Allais.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XIV -- Le Captain Cap et la défense nationale. -- Nouveau mode de transport de dépêches. -- La critique du général Dragomirov.</head>
           <p>Le premier être humain que j'aperçus, en sortant de la gare, fut mon vieil ami le Captain Cap, qui remontait d'un pas songeur la rue d'Amsterdam.</p>
           <p>
@@ -1672,7 +1669,7 @@
           <p>-- Et Dragomirov, qu'est-ce qu'il a dit ?</p>
           <p>-- Dragomirov était furieux ! Il prétend que de faire porter des dépêches aux poissons, ça leur abîme le caviar.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XV -- La question des ours blancs devant le Captain Cap.</head>
           <p>Il faudrait le crayon de Callot, doublé de la plume de Pierre Maël, pour donner une faible idée de l'émotion qui nous étreignit tous deux, le Captain Cap et moi, en nous retrouvant, après ces trois longs mois de séparation.</p>
           <p>Nos mains s'abattirent l'une dans l'autre, mutuel étau, et demeurèrent enserrées longtemps. Nous avions peine à contenir nos larmes.</p>
@@ -1755,7 +1752,7 @@
             * avec énormément de glace dedans, pour nous assurer une vieillesse vigoureuse.
           </p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XVI -- L'anti-filtre du Captain Cap ou un nouveau moyen de traiter les microbes comme ils le méritent.</head>
           <p>-- Y aurait-il indiscrétion, mon cher Cap, à vous demander en quoi consiste le paquet que vous tenez sous le bras ?</p>
           <p>-- Nullement, cher ami, nullement.</p>
@@ -1827,7 +1824,7 @@
           </p>
           <p>Si vraiment, les microbes adorent les boissons américaines, ce fut une bonne journée pour eux, individuellement, mais déplorable pour leur race.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XVII -- Où le Captain Cap réussit sans appareil à ascensionner avec la régularité d'un oiseau.</head>
           <p>Ce pauvre Captain Cap commençait à me raser étrangement, avec ses aérostats, ses machines volantes, planantes et autres, qui m'indiffèrent également.</p>
           <p>J'allais prendre congé sur un quelconque motif, quand un gentleman d'aspect robuste, et qui avait semblé prendre un vif intérêt aux grandes idées de Cap, se leva, s'approcha, nous tendant le plus correctement du globe sa carte, une très chic carte de chez Stern, sur laquelle on pouvait lire ces mots :</p>
@@ -1890,7 +1887,7 @@
           <p>Visiblement contrarié, Cap haussa les épaules murmurant :</p>
           <p>-- Ce bonhomme-là ne me fait pas l'effet d'un personnage bien sérieux.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XVIII -- Description d'une ingénieuse machine de l'invention de Cap pour faire du deux cent trente-quatre à l'heure.</head>
           <p>
             Comme j'avais rencontré mon excellent ami le Captain Cap devant la
@@ -1943,7 +1940,7 @@
           <p>Mon acquiescement parut enchanter Cap, mais le capitaine se rappela bientôt qu'un léger accident était survenu, le matin même, à un brin d'osier de sa nonuplette.</p>
           <p>Finalement, nous entrâmes dans un petit café blanc et or, où un garçon entre deux âges, nous servit deux excellents bocks de bière Tourtel.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XIX -- Ce qu'on peut appeler sans crainte la maison vraiment moderne.</head>
           <p>-- Eh bien, mon vieux Cap, que pensez-vous de cela ?</p>
           <p>-- De quoi ?</p>
@@ -1989,7 +1986,7 @@
           </p>
           <p>-- Volontiers ! fit Cap.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XX -- Une création du Captain Cap : le Grandiose Billard Club !</head>
           <p>Comme la pluie n'avait pas l'air décidée à ne plus choir, je fis au Captain Cap la proposition de jouer au billard, histoire, ajoutai-je, de tuer le temps.</p>
           <p>-- Hélas ! répliqua Cap, ce n'est pas nous qui tuons le temps, mais bien le temps qui nous tue !</p>
@@ -2038,7 +2035,7 @@
           <p>Cap m'affirma qu'en peu de temps ce sport devenait passionnant.</p>
           <p>Et je n'eus plus de peine à comprendre le mépris qu'il éprouvait pour nos pauvres petits ridicules billards européens.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXI -- Où le Captain Cap nous donne d'intéressants tuyaux sur le ferrage des chevaux dans les pampas d'Australie.</head>
           <p>-- Et vous, Cap, qu'est-ce que vous pensez de tout ça ?</p>
           <p>-- Tout ça... quoi ?</p>
@@ -2130,7 +2127,7 @@
             * que j'aie goûtés de ma vie.
           </p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXI -- Dans lequel le Captain Cap se paye -- et dans les grandes largeurs, encore ! -- la tête de l'estimable M. Alphonse Allais.</head>
           <p>Je ne pardonnerai pas de longtemps à ce froid fumiste de Cap l'atroce -- oui atroce ! -- plaisanterie qu'il vient d'exercer à mon détriment.</p>
           <p>Quand il s'en mêle, Cap ne vole pas son nom de Captain et les bateaux qu'il monte sont de vrais bateaux.</p>
@@ -2205,7 +2202,7 @@
           <p>Ça n'était pas plus malin que ça !</p>
           <p>Mais du jour où l'on adoptera administrativement la télégraphie sans fil, il faudra que mon « practical joker » Cap trouve autre chose.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXIII -- Dans lequel M. Mougeot afflige par l'étendue de son cynisme mercantile l'âme délicate du Captain Cap.</head>
           <p>Une vieille coutume administrative veut que, chaque année, M. le directeur général des postes françaises applique tous ses soins et tout son goût à la confection d'un splendide calendrier de luxe duquel il n'est tiré qu'un nombre restreint d'exemplaires et qu'il se dérange en personne, ce haut fonctionnaire, pour en faire hommage à M. le chef de l'État, à MM. les ministres, à MM. les présidents des Chambres et, enfin, à quelques-unes des personnalités les plus notoires dont s'honore à bon droit notre pays.</p>
           <p>
@@ -2250,7 +2247,7 @@
             *.
           </p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXIV -- Où l'on voit, tel saint Michel terrassant le démon, notre ami Cap avoir raison des plus basses températures.</head>
           <p>Le phénomène généralement désigné sous le nom de « froid » provient, neuf fois sur dix, de la température.</p>
           <p>Supprimez la cause, vous supprimez l'effet ; d'un abaissement plus ou moins considérable élevez la température, vous serez tout étonné de voir disparaître le froid.</p>
@@ -2289,7 +2286,7 @@
             et qu'il cherche, en vain, à faire adopter par les compagnies de chemin de fer et autres. Mais la routine, la damnée routine !
           </p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXV -- Où il est question, c'est le cas de le dire, d'un tas de cochonneries.</head>
           <p>Excellent réveillon passé avec quelques hétaïres de grande beauté, cinq ou six députés prévaricateurs, le tout sous la chatoyante présidence du Captain Cap.</p>
           <p>Avec ce diable d'homme, on ne manque pas une occasion de s'instruire en s'amusant. Laissons-lui donc la parole :</p>
@@ -2322,7 +2319,7 @@
           <p>... Revenons à notre boudin, à nos trente kilomètres de boudin, et concluons que, dans cette nuit de Noël, où nous nous trouvons réunis, cent cinquante kilos de la... marchandise en question seront absorbés sur le territoire de la République française.</p>
           <p>Déplorable constatation, car, enfin, ce n'est pas une raison, parce que le Christ est né dans une étable, pour que, cette nuit-là, nous nous gorgions de bouse de vache.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXVI -- Où l'on verra les nuages à grêle n'en mener pas large devant le système du Captain Cap. -- La théorie du Captain sur la formation de la houille.</head>
           <p>La grêle, -- Émile Gautier vous le dira comme moi, -- la grêle est une sorte de conglomérat formé d'eau gelée.</p>
           <p>Précipité d'une notable hauteur, abusant lâchement de la loi de la chute des corps, chaque grêlon constitue à lui seul une sorte de petit Attila, des seuls vitriers béni, mettant à sac les promesses de moissons et de vendanges et même -- car le bougre devant rien ne recule -- les moissons et vendanges en personne.</p>
@@ -2361,7 +2358,7 @@
           <p>Pourquoi donc, dès lors, ne pas admettre que toute la houille que nous découvrons maintenant dans nos sous-sols, provienne de cette formidable et souterraine ligneuse réserve ?</p>
           <p>Pourquoi pas, en effet ?</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXVII -- Difficulté de la poésie française pour certains étrangers.</head>
           <p>-- Cap, vous qui touchez à toutes les sciences, à tous les arts, avec une égale supériorité, comment se fait-il que je ne connaisse point de vos poèmes ?</p>
           <p>-- Des vers, mon cher ami, j'en ai fait quand j'étais jeune, j'en ai fait à remplir des magasins à coton, et des halles à blé ! Quand je me décidai à les brûler, je me trouvais alors à Melbourne, l'atmosphère en fut obscurcie pendant plus de huit jours.</p>
@@ -2422,7 +2419,7 @@
           <p>-- Cette fois-ci, mon vieux, ça y est ! Tous mes compliments !</p>
           <p>Et de plaisir, alors, la peau de Tom Hatt devint aussi rouge que ses cheveux.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXVIII -- Odieuse violation d'un règlement formel.</head>
           <p>Dans le courrier du Captain Cap, ce matin, se trouvait cette lettre qu'il me confie et dont la publication pourra sauver des milliers d'êtres humains, sans compter les animaux (car rien ne prohibe qu'il s'en trouve en telle occurrence) d'un des plus affreux trépas qu'il soit donné aux habitants de notre planète d'éprouver :</p>
           <p/>
@@ -2464,7 +2461,7 @@
           <p/>
           <p>Cette intéressante communication est signée d'un fonctionnaire au ministère des travaux publics qui prie Cap de ne pas imprimer son nom, rapport à la petite allocation du jour de l'An, laquelle, redoute-t-il, ne gagnerait rien à cette publicité.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXIX -- Où Parmentier se voit contester sa gloire.</head>
           <p>
             Brusquement, Cap se tourne vers un jeune homme à l'air idiot qui près de lui dégustait un
@@ -2529,7 +2526,7 @@
           <p>La pomme de terre, d'ailleurs, même en robe de chambre, est assez grande fille pour se défendre toute seule contre vos grotesques imputations.</p>
           <p>Et n'est-ce point, parlant de la pomme frite, radieusement puissante en sa frêle apparence, que Victor Hugo émit jadis : « Dans tubercule, il y a Hercule ! »</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXX -- Le renard bleu à la portée des plus petites bourses.</head>
           <p>-- Encore un petit whisky-cocktail, Cap.</p>
           <p>-- Volontiers, mais sur le pouce, car je suis pressé.</p>
@@ -2597,7 +2594,7 @@
           <p/>
           <p>L'innocente plaisanterie de M. Victor n'empêchera pas la « Société des Pelleteries de Paris » de gravir d'une main sûre les marches du succès.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXXI -- Les camelots devant le Captain Cap, et M. Salomon Reinarch.</head>
           <p>S'il faut en croire le Captain Cap -- et pourquoi douter de sa parole ? Il va se tenir, le 31 juin prochain, un congrès pas banal.</p>
           <p>Un congrès international de camelots !</p>
@@ -2676,7 +2673,7 @@
           <p>« Ajoutons que l'idée de tirer de sa belle-maman un profit aussi inattendu comblait de joie notre ami Cham Loth.</p>
           <p>« C'est sans doute à la bonne humeur de leur ancêtre que les camelots d'aujourd'hui doivent encore leur incontestable gaieté. »</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXXII -- Le sanatorium de l'avenir.</head>
           <p>De tous côtés, on ne parle que de « sanatoriums ».</p>
           <p>---</p>
@@ -2715,7 +2712,7 @@
           <p>Sans compter que les pauvres embrasés, comme dit Michel Corday, pourront s'amuser à pêcher à la ligne et se nourrir, en grande partie, du produit de leur pêche, riche en phosphore, alimentation recommandée, dans le cas qui nous occupe, par les meilleurs praticiens.</p>
           <p>Tout cela est très simple, comme vous voyez ; mais fallait-il pas moins y songer.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXXIII -- Un aspect nouveau de la métallothérapie.</head>
           <p>
             À l'époque -- et ça ne nous rajeunit pas -- où j'habitais le quartier Latin, les étudiants en médecine que j'avais habitude de vivre avec
@@ -2753,7 +2750,7 @@
           <p>---</p>
           <p>Sans rien conclure hâtivement, ne nous est-il pas permis, dès aujourd'hui, de présumer que l'argent est un métal qui n'a pas besoin, ainsi qu'on l'avait cru jusqu'à présent, d'être ingéré pour avoir une action des plus sédatives à l'égard des accidents nerveux ?</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>
             Chapitre XXXIV --
             <hi rend="italic">*Franchissons les rivières sur des ponts formés par des dos de crocodiles.</hi>
@@ -2795,7 +2792,7 @@
           <p/>
           <p>Certes, l'idée de l'honorable correspondant est des plus séduisantes, mais comme dit Cap, vous verrez une fois de plus à l'œuvre l'inertie des bureaux.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXXV -- La sécurité dans les théâtres.</head>
           <p>La sécurité du public dans les théâtres est un de ces problèmes qui ne doivent jamais laisser indifférent le penseur, alors même qu'aucune catastrophe récente ne vient mettre cette morose question sur le tapis de l'actualité.</p>
           <p>Une foule innombrable d'étrangers s'entasse chaque soir dans nos lieux de plaisir : la politesse française commande de rôtir nos invités en nombre aussi réduit que possible.</p>
@@ -2822,7 +2819,7 @@
           <p>En cas d'incendie, un simple déclic met en marche tout ce mécanisme.</p>
           <p>Ainsi, plus de bousculade, ou si bousculade, plus de catastrophe, puisque tout le monde sorti dans la rue, automatiquement.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXXVI -- Où la Russie cherche à voler un peu de gloire au Captain Cap.</head>
           <p>
             Je vous laisse à penser combien mes yeux tressaillirent d'allégresse quand, fouillant le sommaire de la très intéressante
@@ -2883,7 +2880,7 @@
           <p>Mais la Russie était là, qui veillait !</p>
           <p>Vive la Russie ! monsieur !</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXXVII -- Où le Captain Cap fait luire aux yeux des auteurs et des éditeurs une séduisante aurore.</head>
           <p>Bien que fort exagérée par certains pleurnichards, toujours stupéfaits que leurs petites saletés ne tirent pas à cent mille exemplaires et un exemplaire, comme dit le docteur Mardrus, la mévente du livre est un phénomène pénible mais incontestable.</p>
           <p>Le Captain Cap que je ne manque jamais de consulter en telles circonstances, me fit à ce sujet une réponse qui dévoile chez cet économiste distingué autant de science approfondie que de solide bon sens :</p>
@@ -2911,7 +2908,7 @@
           <p>De telle sorte -- et vous voyez l'avantage, pour les libraires à la fois et les auteurs -- que le même volume, ne pouvant servir qu'à un nombre très restreint de lecteurs, devra être renouvelé dès que ses pages seront devenues blanches comme la blanche hermine, c'est-à-dire à bref délai.</p>
           <p>Cet ingénieux stratagème remédiera-t-il à la triste situation des littérateurs, c'est, encore une fois, ce qu'avenir prochain se chargera de nous apprendre.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXXVIII -- Où le Captain Cap ne badine pas quand on cherche à se payer sa fiole.</head>
           <p>Ayant glissé son décime dans la fente d'un appareil automatique, le Captain Cap conçut une effroyable colère en constatant que rien ne bougeait à l'appareil et que la tablette de chocolat annoncée ne se présentait pas.</p>
           <p>-- Tas de voleurs ! écuma-t-il.</p>
@@ -2940,7 +2937,7 @@
           <p>Quand un jaguar s'amuse, rien ne saurait l'arrêter.</p>
           <p>-- Eh bien, monsieur, concluait gaiement le Captain Cap, je suis souvent revenu dans cet hôtel et n'eus plus jamais à déplorer l'absence du moindre bouton de manchettes... Qu'est-ce que vous voulez, moi, je n'aime pas qu'on se f... de ma fiole !</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XXXIX -- L'économie alliée au bien-être.</head>
           <p>-- Trouvez-vous, nous prévenait simplement un très aimable ingénieur de la Compagnie, trouvez-vous, à dix heures vingt-cinq, à la gare des Batignolles, et vous assisterez à quelque chose de fort curieux.</p>
           <p>Vous pensez si nous eûmes garde, le Captain et moi, de manquer pareille occasion !</p>
@@ -2987,7 +2984,7 @@
             *.
           </p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XL -- Dans lequel on voit évoluer M. Brunetière et des kangourous.</head>
           <p>Les nombreuses personnes qui, profitant des derniers beaux jours se promenaient hier au Bois, ressentirent soudain une peu mince stupeur.</p>
           <p>Toute une famille venait de leur apparaître : le père, la mère, deux grandes jeunes filles et un petit garçon, tous éperdument pédalant sur d'élégants tandems peints en vert-nil.</p>
@@ -3036,7 +3033,7 @@
             lui en avait bouché un coin.
           </p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XLI -- Fragment d'une conférence du Captain Cap sur la question des phares.</head>
           <p>
             L'effroyable catastrophe du
@@ -3087,7 +3084,7 @@
             .
           </p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XLII -- Où il est question, pour faire plaisir à la population parisienne, de l'abaissement du prix du gaz.</head>
           <p>-- Faut-il, s'écria Cap, que les Parisiens soient bêtes pour payer leur gaz six sous le mètre cube, quand ils peuvent s'en procurer excellent, à Londres, pour moins d'un penny.</p>
           <p>-- Pardon, Cap, et le transport ?</p>
@@ -3119,7 +3116,7 @@
           <p>Oui, mais voilà : en France, on est fort pour crier, mais dès qu'il s'agit d'attacher le grelot, il n'y a plus personne !</p>
           <p>Pauvre France !</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XLII -- Où il est question du porc, cet utile auxiliaire du charcutier, comme disait Buffon.</head>
           <p>Et, à cette occasion, laissez-moi vous rappeler une anecdote qu'aimait à conter un vieux mien oncle au temps jadis où, bébé frais et rose, j'encadrais mon front par d'épaisses boucles brunes.</p>
           <p>Deux individus s'avisèrent une fois d'acheter un cochon en commun.</p>
@@ -3187,7 +3184,7 @@
           <p>« Pour calmer les alarmes des cœurs tendres et donner satisfaction à la Société Protectrice des Animaux, les cochons seront anesthésiés avant de subir les opérations. »</p>
           <p>-- Attendons-nous à une forte hausse sur le chloroforme, conclut le Captain.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XLIV -- Où Cap prouve jusqu'à l'évidence qu'il aime à se rendre compte.</head>
           <p>-- Oui, mon cher, je suis comme ça, j'aime à me rendre compte par moi-même.</p>
           <p>-- Vous êtes un sage, Captain.</p>
@@ -3235,7 +3232,7 @@
           </p>
           <p>-- Rien, Cap, rien au monde ne saurait nous prohiber cette démarche.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XLV -- Supériorité de la pratique sur la théorie.</head>
           <p>-- En tout métier, proclama le Captain Cap, en toute profession, en tout art, il faut de la pratique.</p>
           <p>Ceux qui viendraient à vous tenir un langage contraire, tenez-les pour sombres niais, tout au moins dangereuses fripouilles.</p>
@@ -3264,7 +3261,7 @@
           <p>Voilà, je pense, une des mesures les plus humaines qu'une nation vraiment civilisée aurait prises depuis longtemps.</p>
           <p>Et l'on aurait ainsi des médecins militaires qui seraient autre chose que de vulgaires amateurs.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XLVI -- Où l'on voit le Captain Cap, alors jeune homme, abuser de sa science chimique pour jeter le trouble dans un intérieur bourgeois.</head>
           <p>Partagez-vous mon opinion ? M'est avis qu'on ne doit faire aux bons serviteurs nulle injure, même légère.</p>
           <p>Contre un peu d'or, ces gens nous consacrent leur temps et leur travail : nous sommes quittes, sans avoir à jeter dans la balance l'appoint des méprisants vocables et des gestes hautains.</p>
@@ -3305,7 +3302,7 @@
           <p>La vaisselle et la cristallerie crurent devoir se brusquement fragmenter, et aussi, la table, ainsi que la figure et les membres de ces messieurs et dames.</p>
           <p>Pendant ce temps il y avait dans la cuisine deux personnes qui n'avaient jamais tant ri.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Chapitre XLVII -- Inconvénient d'une mauvaise prononciation.</head>
           <p>
             William Bott, que le Captain Cap baptisa fort spirituellement Henry Bott chaque fois qu'il abuse des
@@ -3383,7 +3380,7 @@
           <p>-- Horrible ! horrible ! Qu'est-ce que cette fillette va penser de moi ?</p>
           <p>Et Bott tint à revenir tout de suite au tir, porter ses excuses à la petite Charlotte et lui offrir une jolie bague, pour laquelle la petite citoyenne du dix-huitième arrondissement lui sauta au cou et l'embrassa de grand cœur.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Breuvages</head>
           <p>
             <hi rend="italic">*Alabazam cocktail.</hi>
@@ -3529,7 +3526,7 @@
       </div>
     </body>
     <back>
-      <div>
+      <div type="liminal">
         <p>1  Dont notre ami Escudier est actuellement le vaillant édile.</p>
         <p>
           1  Comme c'est loin tout ça ! Et que d'établissements disparus depuis cette époque, ou transformés, ou absorbés par de puissants voisins, tel ce pittoresque

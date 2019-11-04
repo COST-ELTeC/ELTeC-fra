@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA04202" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -15,30 +17,24 @@
       </titleStmt>
       <extent>
         <measure unit="words">59882</measure>
-        <measure unit="pages">0</measure>
+        
       </extent>
-      <publicationStmt>
-        <p>
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
-          <date>2018-11-01</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+          2018-11-01
+        --></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <date>2007</date>
           ,
           <idno/>
           ,
           <ref target="http://www.ebooksgratuits.com/"/>
           .
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <date>source</date>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <date>1912</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -55,14 +51,14 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-06-02">Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <front>
-      <div>
+      <div type="liminal">
         <p>La vie passe. Le corps et l'âme s'écoulent comme un flot. Les ans s'inscrivent sur la chair de l'arbre qui vieillit. Le monde entier des formes s'use et se renouvelle. Toi seule ne passes pas, immortelle Musique. Tu es la mer intérieure. Tu es l'âme profonde. Dans tes prunelles claires, la vie ne mire pas son visage morose. Au loin de toi s'enfuient, troupeau de nuées, les jours brûlants, glacés, fiévreux, que l'inquiétude chasse, que jamais rien ne fixe. Toi seule ne passes pas. Tu es en dehors du monde. Tu es un monde, à toi seule. Tu as ton soleil, qui mène ta ronde des planètes, ta gravitation, tes nombres et tes lois. Tu as la paix des étoiles, qui tracent dans le champ des espaces nocturnes leur sillon lumineux, -- charrues d'argent que mène l'invisible bouvier.</p>
         <p>Musique, amie sereine, ta lumière lunaire est douce aux yeux fatigués par le brutal éclat du soleil d'ici-bas. L'âme qui se détourne de l'abreuvoir commun, où les hommes pour boire remuent la vase avec leurs pieds, se presse sur ton sein et suce à tes mamelles le ruisseau de lait du rêve. Musique, vierge mère, qui portes en ton corps immaculé toutes les passions, qui contiens dans le lac de tes yeux couleur de joncs, couleur de l'eau vert-pâle qui coule des glaciers, tout le bien, tout le mal, -- tu es par delà le mal, tu es par delà le bien ; qui chez toi fait son nid vit en dehors des siècles ; la suite de ses jours ne sera qu'un seul jour ; et la mort qui tout mord s'y brisera les dents.</p>
         <p>Musique qui berças mon âme endolorie, Musique qui me l'as rendue calme, ferme et joyeuse, -- mon amour et mon bien, -- je baise ta bouche pure, dans tes cheveux de miel je cache mon visage, j'appuie mes paupières qui brûlent sur la paume douce de tes mains. Nous nous taisons, nos yeux sont clos, et je vois la lumière ineffable de tes yeux, et je bois le sourire de ta bouche muette ; et blotti sur ton cœur, j'écoute le battement de la vie éternelle.</p>
@@ -1059,7 +1055,7 @@
     </body>
     <back>
       <div type="notes"/>
-      <div>
+      <div type="liminal">
         <p>FIN</p>
         <p>ADIEU À JEAN-CHRISTOPHE</p>
         <p>J'ai écrit la tragédie d'une génération qui va disparaître. Je n'ai cherché à rien dissimuler de ses vices et de ses vertus, de sa tristesse pesante, de son orgueil chaotique, de ses efforts héroïques et de ses accablements sous l'écrasant fardeau d'une tâche surhumaine ; toute une Somme du monde, une morale, une esthétique, une foi, une humanité nouvelle à refaire. -- Voilà ce que nous fûmes.</p>
@@ -1070,7 +1066,7 @@
         <p>CHRISTOFORI FACIEM DIE QUACUMQUE TUERIS,</p>
         <p>ILLA NEMPE DIE NON MORTE MALA MORIERIS.</p>
       </div>
-      <div>
+      <div type="liminal">
         <p>[1] Giuseppe Prezzolini, qui dirigeait alors, avec Giovanni Papini, le groupe de la Voce.</p>
         <p>[2] Quand une chose est arrivée, même les sots la comprennent.</p>
         <p>[3] Escroc, imposteur, simulateur, trompeur. (Note du correcteur -- ELG.)</p>

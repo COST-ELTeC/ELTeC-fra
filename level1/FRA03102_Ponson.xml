@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03102" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -15,42 +17,29 @@
       </titleStmt>
       <extent>
         <measure unit="words">173240</measure>
-        <measure unit="pages">0</measure>
+        
       </extent>
-      <publicationStmt>
-        <p>
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
-          <date>2018-11-01</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+          2018-11-01
+        --></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           Ebooksgratuits.com,
           <date/>
           ,
           <idno/>
           ,
-          <ref target="#"/>
+          
           .
-        </bibl>
-        <bibl type="printSource">
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="#"/>
-          .
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           Le Petit Journal -- 31 octobre 1865 au 10 juin 1866, 223 épisodes.
           <date>1866</date>
           ,
           <idno/>
           ,
-          <ref target="#"/>
+          
           .
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -66,7 +55,7 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-14">cf Revised teiHeader.</change>
       <change when="2014-08-25">cf Initial TEI version.</change>
@@ -74,7 +63,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="part">
+      <div type="group">
         <p>
           <label>SAINT-LAZARE</label>
         </p>
@@ -3634,7 +3623,7 @@
           <p>Et l'on vit alors s'éloigner d'Antoinette la ressuscitée, qui ne voyait et n'entendait que son cher Agénor, et se réfugier dans le coin le plus obscur de la chambre, pâles et sombres comme les anges déchus précipités du ciel ! dans l'abîme : La belle Marton. Rocambole le forçat. Ces deux maudits à qui Dieu fermait le temple de l'amour avec une porte d'airain.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>L'AUBERGE MAUDITE</label>
         </p>
@@ -5992,7 +5981,7 @@
           <p>Une heure après, M. de Morlux avait quitté Varsovie. Yvan l'accompagnait toujours.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>LA MAISON DE FOUS</label>
         </p>
@@ -7276,7 +7265,7 @@
     </body>
     <back>
       <div type="notes"/>
-      <div>
+      <div type="liminal">
         <head>Notes</head>
         <p>1 Le premier-Paris, dit encore « filet de bœuf », est le principal article de fond d'un journal.</p>
         <p>2 Ce revirement de Marton et son dévouement sont inspirés du personnage de la Louve dans Les Mystères de Paris.</p>

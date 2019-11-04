@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00201" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -14,28 +16,23 @@
       </titleStmt>
       <extent>
         <measure unit="words">35659</measure>
-        <measure unit="pages">0</measure>
+        
       </extent>
-      <publicationStmt>
-        <p>
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
-          <date>2019-06-15</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+          2019-06-15
+        --></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <ref target="http://beq.ebooksgratuits.com/auteurs/terrail/index.htm">Marie-Claire</ref>
           <publisher>BEQ</publisher>
           <idno type="beq">977</idno>
           <title>Marie-Claire</title>
-          </bibl>
-            <bibl type="firstEdition">
+          </bibl><bibl type="firstEdition">
               <title>Marie-Claire</title>
               <publisher>Eugène Fasquelle</publisher>
               <pubPlace>Paris</pubPlace>
               <date>1910</date>
-            </bibl>
-      </sourceDesc>
+            </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -52,13 +49,13 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion to ELTeC level-1 (Christof Schöch)</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="chapter">
         <head>PREMIÈRE PARTIE</head>
         <p>Un jour, il vint beaucoup de monde chez nous. Les hommes entraient comme dans une église, et les femmes faisaient le signe de la croix en sortant.</p>
         <p>Je me glissai dans la chambre de mes parents, et je fus bien étonnée de voir que ma mère avait une grande bougie allumée près de son lit. Mon père se penchait sur le pied du lit, pour regarder ma mère, qui dormait les mains croisées sur sa poitrine.</p>
@@ -575,7 +572,7 @@
         <p>-- Oh ! c'est trop, mon Dieu, c'est trop !</p>
         <p>Je traversai la cour toute seule, et la fermière, qui m'attendait, m'emmena aussitôt.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>DEUXIÈME PARTIE</head>
         <p>Je me trouvai bientôt installée au milieu de paniers vides dans une voiture couverte d'une bâche, et quand le cheval s'arrêta de lui-même dans la cour de la ferme, il y avait déjà longtemps qu'il faisait nuit.</p>
         <p>Le fermier sortit de la maison avec une lanterne qu'il balançait au bout de son bras et qui n'éclairait que ses sabots ; il s'approcha de nous et m'aida à descendre de la voiture, puis il haussa sa lanterne jusqu'à ma figure et il dit en se reculant :</p>
@@ -884,7 +881,7 @@
         <p>-- Adieu, mon petit compagnon. Je me souviendrai toujours de toi.</p>
         <p>Quand j'eus marché un peu, je me retournai pour les voir encore ; et, malgré la nuit qui augmentait, je vis qu'Eugène et Martine marchaient en se tenant par la main.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>TROISIÈME PARTIE</head>
         <p>Les nouveaux fermiers arrivèrent le lendemain. Les laboureurs et la servante étaient venus dès le matin, et, lorsque le soir, les maîtres entrèrent dans la maison, je savais qu'on les appelait M. et Mme Alphonse.</p>
         <p>M. Tirande resta deux jours à Villevieille et partit après m'avoir rappelé que j'étais au service de sa bru, et que je n'aurais plus à m'occuper des travaux de la ferme.</p>
@@ -1436,7 +1433,7 @@
       </div>
     </body>
     <back>
-      <div>
+      <div type="liminal">
         <p/>
       </div>
     </back>

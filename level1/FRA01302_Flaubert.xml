@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01302" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -14,30 +16,24 @@
       </titleStmt>
       <extent>
         <measure unit="words">120122</measure>
-        <measure unit="pages">0</measure>
+        
       </extent>
-      <publicationStmt>
-        <p>
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
-          <date>2018-11-01</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+          2018-11-01
+        --></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <date>2012</date>
           ,
           <idno/>
           ,
           <ref target="http://www.ebooksgratuits.com/"/>
           .
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <date>source</date>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <date>1857</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -53,25 +49,25 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2014-03-22">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <front>
-      <div>
+      <div type="liminal">
         <p>À Marie-Antoine-Jules Senard MEMBRE DU BARREAU DE PARIS EX-PRESIDENT DE L’ASSEMBLÉE NATIONALE ET ANCIEN MINISTRE DE L’INTÉRIEUR</p>
         <p>Cher et illustre ami, Permettez-moi d’inscrire votre nom en tête de ce livre et au-dessus même de sa dédicace ; car c’est à vous, surtout, que j’en dois la publication. En passant par votre magnifique plaidoirie, mon œuvre a acquis pour moi-même comme une autorité imprévue. Acceptez donc ici l’hommage de ma gratitude, qui, si grande qu’elle puisse être, ne sera jamais à la hauteur de votre éloquence et de votre dévouement.</p>
         <p>GUSTAVE FLAUBERT</p>
         <p>Paris, 12 avril 1857</p>
       </div>
-      <div>
+      <div type="liminal">
         <p>À Louis Bouilhet</p>
       </div>
     </front>
     <body>
-      <div type="part">
+      <div type="group">
         <p>
           <label>PREMIÈRE PARTIE</label>
         </p>
@@ -417,7 +413,7 @@
           <p>Quand on partit de Tostes, au mois de mars, madame Bovary était enceinte.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>DEUXIÈME PARTIE</label>
         </p>
@@ -1834,7 +1830,7 @@
           <p>Le clerc affirma qu’il n’y manquerait pas, ayant d’ailleurs besoin de se rendre à Yonville pour une affaire de son étude. Et l’on se sépara devant le passage Saint-Herbland, au moment où onze heures et demie sonnaient à la cathédrale.</p>
         </div>
       </div>
-      <div type="part">
+      <div type="group">
         <p>
           <label>TROISIÈME PARTIE</label>
         </p>

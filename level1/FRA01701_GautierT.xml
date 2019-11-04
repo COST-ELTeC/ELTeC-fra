@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA01701" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -19,31 +21,25 @@
       <extent>
         <measure unit="words">38915</measure>
       </extent>
-      <publicationStmt>
-        <p>
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           First ElTeC edition
-          <date>2019-10-03</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+          2019-10-03
+        --></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <title>Militona</title>
           <author>Théophile Gautier</author>
           <ref target="https://fr.wikisource.org/wiki/Militona"/>
           <date>2007-03-30</date>
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <title>Militona: troisième édition</title>
           <author>Théophile Gautier</author>
           <publisher>Hachette</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1860</date>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <!-- best guess. There may be some editions that were published in earlier volumes with other novels from this author. -->
           <date>1847</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -59,7 +55,7 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-10-03">File created</change>
       <change when="2019-10-19">Upgrade to ELTeC-1</change>
     </revisionDesc>
