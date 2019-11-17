@@ -1,85 +1,85 @@
-filename	xmlid	au-name	title	au-birth	au-death	au-gender	au-ids	copytext-yr	firsted-yr	title-ids	sizeCat	canonicity	time-slot	numwords	language
-FRA00301_Aimard	FRA00301	Aimard; Gustave	Les Trappeurs de l'Arkansas	1818	1883	M	viaf:9841962	NA	1858	viaf:309322317	medium	low	T1	90166	fra
-FRA01302_Flaubert	FRA01302	Flaubert; Gustave	Madame Bovary	1821	1880	M	viaf:9846192	NA	1857	viaf:186570439	long	high	T1	120122	fra
-FRA02802_Mirbeau	FRA02802	Mirbeau; Octave	La Maréchale	1848	1917	M	viaf:100204602	NA	1883	viaf:unvailable	medium	high	T3	60935	fra
-FRA03301_Rattazzi	FRA03301	Rattazzi; Marie	La Mexicaine	1831	1902	F	viaf:30341384	NA	1866	NA	medium	low	T2	56517	fra
-FRA02501_Loti	FRA02501	Loti; Pierre	Mon frère Yves	1850	1923	M	viaf:89440078	NA	1883	viaf:294701732	medium	high	T3	73698	fra
-FRA02602_Malot	FRA02602	Malot; Hector	Sans famille	1830	1907	M	viaf:49228546	NA	1878	viaf:186540937	long	high	T2	123735	fra
-FRA02402_LeRouge	FRA02402	Le Rouge; Gustave	La Conspiration des Milliardaires	1867	1938	M	viaf:7392910	NA	1900	viaf:unavailable	medium	low	T4	76669	fra
-FRA04002_Verne	FRA04002	Verne; Jules	Le Secret de Wilhelm Storitz	1828	1905	M	viaf:76323989	NA	1898	viaf:183647198	medium	high	T3	55614	fra
-FRA01601_GautierJ	FRA01601	Gautier; Judith	La Sœur du Soleil	1845	1917	F	viaf:54148064	NA	1887	NA	medium	high	T3	104043	fra
-FRA03901_Stolz	FRA03901	Stolz; Madame de	La Maison roulante	1820	1898	F	viaf:19850120 wikidata:Q3275360	NA	1869	viaf:309282062	medium	low	T2	52092	fra
-FRA00401_Allais	FRA00401	Allais; Alphone	Le Captain Cap	1829	1871	M	viaf:302147306	NA	1902	viaf:missing	short	high	T4	38400	fra
-FRA03401_Reybaud	FRA03401	Reybaud; Fanny	Mademoiselle de Malepeire	1802	1871	F	viaf:36959845	NA	1855	NA	short	high	T1	36880	fra
-FRA01901_Gaboriau	FRA01901	Gaboriau; Émile	Le crime d'Orcival	1832	1873	M	viaf:100177491	NA	1866	viaf:312348929	long	low	T2	127326	fra
-FRA01603_GautierJ	FRA01603	Gautier; Judith	Les Princesses d'Amour: courtisanes japonaises	1845	1917	F	viaf:54148064	NA	1900	NA	short	high	T4	28724	fra
-FRA00503_Balzac	FRA00503	Balzac; Honoré de	Le curé de village	1799	1850	M	viaf:29529595	NA	1841	viaf:177407570	medium	high	T1	93200	fra
-FRA01101_Dombre	FRA01101	Dombre; Roger	Une pupille gênante	1859	1914	F	viaf:37053113	NA	1890	oclc:457908349 viaf:unavailable	medium	low	T3	50336	fra
-FRA01801_Gay	FRA01801	Gay; Marie Françoise Sophie	Ellenore	1776	1852	F	viaf:27059297	NA	1844	viaf:unavailable	long	low	T1	188985	fra
-FRA01203_Feval	FRA01203	Féval; Paul Henri Corentin	le Loup blanc	1816	1887	M	viaf:17222447	NA	1843	viaf:312363135	medium	high	T1	80151	fra
-FRA03703_Sand	FRA03703	Sand; George	Le Compagnon du Tour de France	1804	1876	F	viaf:46766944	NA	1840	viaf:194896547	medium	high	T1	89027	fra
-FRA03101_Ponson	FRA03101	Ponson du Terrail; Pierre Alexis	La baronne trépassée	1829	1871	M	viaf:17228199	NA	1852	viaf:missing	medium	high	T1	61779	fra
-FRA02701_Maupassant	FRA02701	Maupassant; Guy de	Bel-Ami	1850	1893	M	viaf:29537765	NA	1885	viaf:174771837	long	high	T3	111187	fra
-FRA03202_Rachilde	FRA03202	Rachilde	Monsieur Vénus	1860	1953	F	viaf:44304153	NA	1884	NA	short	high	T3	38584	fra
-FRA00602_Boisgobey	FRA00602	Boisgobey; Fortuné du	Rubis sur l'ongle	1821	1891	M	viaf:19720225	NA	1886	viaf:315021495	long	low	T3	104131	fra
-FRA03102_Ponson	FRA03102	Ponson du Terrail; Pierre Alexis	La résurrection de Rocambole	1829	1871	M	viaf:17228199	NA	1866	viaf:294264533	long	low	T2	173240	fra
-FRA00601_Boisgobey	FRA00601	Boisgobey; Fortuné du	Le crime de l'omnibus	1821	1891	M	viaf:19720225	NA	1881	viaf:308091446	medium	low	T3	93657	fra
-FRA00501_Balzac	FRA00501	Balzac; Honoré de	Albert Savarus	1799	1850	M	viaf:29529595	NA	1842	viaf:174178728	short	high	T1	42271	fra
-FRA00302_Aimard	FRA00302	Aimard; Gustave	Belle rivière	1818	1883	M	viaf:9841962	NA	1874	viaf:309355943	long	low	T2	139255	fra
-FRA01401_Fleuriot	FRA01401	Fleuriot; Zénaïde	Un enfant gâté	1829	1890	F	viaf:41872490	NA	1877	viaf:309349545	short	low	T2	35076	fra
-FRA01403_Fleuriot	FRA01403	Fleuriot; Zénaïde	Alberte	1829	1890	F	viaf:41872490	NA	1881	viaf:unavailable worldcat:944664084	medium	low	T3	64184	fra
-FRA04203_Rolland	FRA04203	Rolland; Romain	La foire sur la place	1866	1944	M	viaf:71397100	NA	1908	viaf:312469772	medium	low	T4	69465	fra
-FRA01701_GautierT	FRA01701	Gautier; Théophile	Militona	1800	1872	M	viaf:96428598	NA	1847	NA	short	high	T1	38915	fra
-FRA01402_Fleuriot	FRA01402	Fleuriot; Zénaïde	En congé	1829	1890	F	viaf:41872490	NA	1874	oclc:561075297 viaf:unavailable	short	low	T2	38021	fra
-FRA01001_DelarueMardrus	FRA01001	Delarue-Mardrus; Lucie	Comme tout le monde	1874	1945	F	viaf:34455354	NA	1910	NA	medium	low	T4	59906	fra
-FRA01201_Feval	FRA01201	Féval; Paul Henri Corentin	Le Cavalier Fortune	1816	1887	M	viaf:17222447	NA	1868	viaf:unavailable	long	low	T2	136999	fra
-FRA01702_GautierT	FRA01702	Gautier; Théophile	Le roman de la momie	1800	1872	M	viaf:96428598	NA	1857	NA	short	high	T1	45141	fra
-FRA04001_Verne	FRA04001	Verne; Jules	Un capitaine de quinze ans	1828	1905	M	viaf:76323989	NA	1878	viaf:183081330	long	high	T2	124725	fra
-FRA03001_Ohnet	FRA03001	Ohnet; Georges	La Grande Marnière	1848	1918	M	viaf:66497284	NA	1885	viaf:309268283	long	low	T3	115269	fra
-FRA03002_Ohnet	FRA03002	Ohnet; Georges	L'Âme de Pierre	1848	1918	M	viaf:66497284	NA	1890	viaf:309283895	medium	low	T3	53382	fra
-FRA02603_Malot	FRA02603	Malot; Hector	Conscience	1830	1907	M	viaf:49228546	NA	1888	viaf:310221173	long	low	T3	101840	fra
-FRA03601_Proust	FRA03601	Proust; Marcel	Du côté de chez Swann	1871	1922	M	viaf:32001793	NA	1913	viaf:316309707	long	high	T4	181506	fra
-FRA02203_Gouraud	FRA02203	Gouraud; Julie	Les Filles du professeur	1810	1891	M	viaf:31987653	NA	1876	viaf:unavailable	short	low	T2	45439	fra
-FRA00502_Balzac	FRA00502	Balzac; Honoré de	Le cousin Pons	1799	1850	M	viaf:29529595	NA	1847	viaf:174988989	long	high	T1	111047	fra
-FRA03802_Stern	FRA03802	Stern; Daniel	Nélida	1805	1876	F	viaf:186930001	NA	1846	NA	medium	low	T1	65549	fra
-FRA00903_Daudet	FRA00903	Daudet; Alphonse	Numa Roumestan : Mœurs Parisiennes	1840	1897	M	viaf:4928621	NA	1881	viaf:287900644	medium	low	T3	85692	fra
-FRA02302_Greville	FRA02302	Henry Gréville	L’amie	1842	1902	F	viaf:49258322	NA	1878	NA	short	low	T2	10562	fra
-FRA04102_Erckmann	FRA04102	Erckmann; Émile	Madame Thérèse; ou les volontaires de 92	1822	1899	M	viaf:31995972	NA	1863	viaf:209896303	medium	high	T2	58842	fra
-FRA02401_LeRouge	FRA02401	Le Rouge; Gustave	L'Esclave amoureuse	1867	1938	M	viaf:7392910	NA	1904	viaf:unavailable	short	low	T4	25038	fra
-FRA02801_Mirbeau	FRA02801	Mirbeau; Octave	L'abbé Jules	1848	1917	M	viaf:100204602	NA	1888	viaf:310534644 	medium	high	T3	78132	fra
-FRA03702_Sand	FRA03702	Sand; George	Le dernier amour	1804	1876	F	viaf:46766944	NA	1866	viaf:310216093	medium	high	T2	88165	fra
-FRA01902_Gaboriau	FRA01902	Gaboriau; Émile	Monsieur Lecoq	1832	1873	M	viaf:100177491	NA	1869	viaf:310914713	long	high	T2	269763	fra
-FRA01602_GautierJ	FRA01602	Gautier; Judith	Fleurs d'Orient	1845	1917	F	viaf:54148064	NA	1893	NA	medium	low	T3	50150	fra
-FRA00102_Adam	FRA00102	Adam; Juliette	Païenne	1836	1936	F	viaf:64000638	NA	1883	NA	short	low	T3	28266	fra
-FRA00901_Daudet	FRA00901	Daudet; Alphonse	Le petit chose	1840	1897	M	viaf:4928621	NA	1867	viaf:184784857	medium	high	T2	87744	fra
-FRA01102_Dombre	FRA01102	Dombre; Roger	Folla	1859	1914	F	viaf:37053113	NA	1889	oclc:465119441 viaf:unavailable	short	low	T3	24998	fra
-FRA00701_Carraud	FRA00701	Carraud; Zulma	La petite Jeanne	1796	1889	F	viaf:66529196	NA	1852	NA	medium	high	T1	50316	fra
-FRA03701_Sand	FRA03701	Sand; George	Nanon	1804	1876	F	viaf:46766944	NA	1872	viaf:204615801	long	high	T2	101840	fra
-FRA03201_Rachilde	FRA03201	Rachilde	La Marquise de Sade: ELTeC edition	1860	1953	F	viaf:44304153	NA	1887	NA	medium	high	T3	85847	fra
-FRA03003_Ohnet	FRA03003	Ohnet; Georges	Le Marchand de Poison	1848	1918	M	viaf:66497284	NA	1892	viaf:308106335	medium	low	T3	50561	fra
-FRA01501_France	FRA01501	France; Anatole	Les dieux ont soif: ELTeC edition	1844	1924	M	NA	NA	1912	NA	medium	high	T4	67177	fra
-FRA02702_Maupassant	FRA02702	Maupassant; Guy de	Une Vie	1850	1893	M	viaf:29537765	NA	1883	viaf:204219240	medium	high	T3	77338	fra
-FRA01303_Flaubert	FRA01303	Flaubert; Gustave	Salammbô	1821	1880	M	viaf:9846192	NA	1862	viaf:316310961	long	high	T2	105395	fra
-FRA00802_Dash	FRA00802	Comtesse Dash	Le château de Pinon I: ELTeC edition	1804	1872	F	viaf:102278	NA	1843	NA	medium	low	T1	44767	fra
-FRA03903_Stolz	FRA03903	Stolz; Madame de	Le Secret de Laurent	1820	1898	F	viaf:19850120 wikidata:Q3275360	NA	1878	viaf:unavailable	short	low	T2	49150	fra
-FRA02901_Noailles	FRA02901	Noailles; Anna de	La nouvelle espérance	1876	1933	F	viaf:95303465	NA	1903	NA	medium	low	T4	54730	fra
-FRA02303_Greville	FRA02303	Henry Gréville	Ariadne	1842	1902	F	viaf:49258322	NA	1878	NA	short	low	T2	10455	fra
-FRA03902_Stolz	FRA03902	Stolz; Madame de	La Maison blanche	1820	1898	F	viaf:19850120 wikidata:Q3275360	NA	1884	viaf:unavailable	medium	low	T3	52128	fra
-FRA02201_Gouraud	FRA02201	Gouraud; Julie	Quand je serai grande	1810	1891	M	viaf:31987653	NA	1888	oclc:559725443 viaf:unavailable	short	low	T3	45701	fra
-FRA02301_Greville	FRA02301	Gréville; Henry	La seconde mère	1842	1902	F	viaf:49258322	NA	1888	viaf:missing	medium	low	T3	56950	fra
-FRA02101_Girardin	FRA02101	Girardin; Delphine de	Marguerite; ou Deux amours	1804	1855	F	viaf:24601979	NA	1852	NA	medium	high	T1	68770	fra
-FRA03801_Stern	FRA03801	Stern; Daniel	Hervé	1805	1876	F	viaf:186930001	NA	1843	NA	short	low	T1	15058	fra
-FRA00201_Audoux	FRA00201	Audoux; Marguerite	Marie-Claire	1863	1937	F	viaf:71386673	NA	1910	viaf:missing	short	high	T4	35659	fra
-FRA02601_Malot	FRA02601	Malot; Hector	Romain Kalbris	1830	1907	M	viaf:49228546	NA	1869	viaf:312349317	medium	high	T2	70236	fra
-FRA02202_Gouraud	FRA02202	Gouraud; Julie	Le petit colporteur	1810	1891	M	viaf:31987653	NA	1867	viaf:314022921	short	low	T2	43343	fra
-FRA00801_Dash	FRA00801	Stern; Daniel	Hervé	1805	1876	F	viaf:186930001	NA	1843	NA	short	low	T1	15058	fra
-FRA04202_Rolland	FRA04202	Rolland; Romain	La nouvelle journée	1866	1944	M	viaf:71397100	NA	1912	viaf:312469774	medium	high	T4	59882	fra
-FRA00101_Adam	FRA00101	Juliette Adam	Mon Village	1836	1936	F	viaf:64000638	NA	1868	NA	short	low	T2	21777	fra
-FRA02502_Loti	FRA02502	Loti; Pierre	Ramuntcho	1850	1923	M	viaf:89440078	NA	1897	viaf:185706732	medium	high	T3	57948	fra
-FRA01202_Feval	FRA01202	Féval; Paul Henri Corentin	Les Errants de nuit	1816	1887	M	viaf:17222447	NA	1857	viaf:unavailable	long	low	T1	103086	fra
-FRA01301_Flaubert	FRA01301	Flaubert; Gustave	L'Éducation sentimentale	1821	1880	M	viaf:9846192	NA	1869	viaf:180462896	long	high	T2	149810	fra
-FRA00902_Daudet	FRA00902	Daudet; Alphonse	Port-Tarascon : Dernières aventures de l'illustre Tartarin	1840	1897	M	viaf:4928621	NA	1890	viaf:179981155	short	low	T3	46932	fra
-FRA02001_Gilbert	FRA02001	Gilbert; Jehan	Vers Le Pôle En Aéroplane	1880	1940	M	NA	NA	1912	NA	short	unspecified	T2	34567	fr
-FRA03302_Rattazzi	FRA03302	Rattazzi; Marie	Le piège aux maris	1831	1902	F	viaf:30341384	NA	1865	viaf:missing	medium	low	T2	53880	fra
-FRA04101_Erckmann	FRA04101	Erckmann; Émile	Une campagne en Kabylie : Récit d'un chasseur d'Afrique	1822	1899	M	viaf:31995972	NA	1873	viaf:317259748	short	high	T2	23489	fra
-FRA04201_Rolland	FRA04201	Rolland; Romain	L'aube	1866	1944	M	viaf:71397100	NA	1904	viaf:312469768	short	low	T4	41108	fra
+filename,xmlid,au-name,title,au-birth,au-death,au-gender,au-ids,copytext-yr,firsted-yr,title-ids,sizeCat,canonicity,time-slot,numwords,language
+FRA00301_Aimard,FRA00301,Aimard; Gustave,Les Trappeurs de l'Arkansas,1818,1883,M,viaf:9841962,NA,1858,viaf:309322317,medium,low,T1,90166,fra
+FRA01302_Flaubert,FRA01302,Flaubert; Gustave,Madame Bovary,1821,1880,M,viaf:9846192,NA,1857,viaf:186570439,long,high,T1,120122,fra
+FRA02802_Mirbeau,FRA02802,Mirbeau; Octave,La Maréchale,1848,1917,M,viaf:100204602,NA,1883,viaf:unvailable,medium,high,T3,60935,fra
+FRA03301_Rattazzi,FRA03301,Rattazzi; Marie,La Mexicaine,1831,1902,F,viaf:30341384,NA,1866,NA,medium,low,T2,56517,fra
+FRA02501_Loti,FRA02501,Loti; Pierre,Mon frère Yves,1850,1923,M,viaf:89440078,NA,1883,viaf:294701732,medium,high,T3,73698,fra
+FRA02602_Malot,FRA02602,Malot; Hector,Sans famille,1830,1907,M,viaf:49228546,NA,1878,viaf:186540937,long,high,T2,123735,fra
+FRA02402_LeRouge,FRA02402,Le Rouge; Gustave,La Conspiration des Milliardaires,1867,1938,M,viaf:7392910,NA,1900,viaf:unavailable,medium,low,T4,76669,fra
+FRA04002_Verne,FRA04002,Verne; Jules,Le Secret de Wilhelm Storitz,1828,1905,M,viaf:76323989,NA,1898,viaf:183647198,medium,high,T3,55614,fra
+FRA01601_GautierJ,FRA01601,Gautier; Judith,La Sœur du Soleil,1845,1917,F,viaf:54148064,NA,1887,NA,medium,high,T3,104043,fra
+FRA03901_Stolz,FRA03901,Stolz; Madame de,La Maison roulante,1820,1898,F,viaf:19850120 wikidata:Q3275360,NA,1869,viaf:309282062,medium,low,T2,52092,fra
+FRA00401_Allais,FRA00401,Allais; Alphone,Le Captain Cap,1829,1871,M,viaf:302147306,NA,1902,viaf:missing,short,high,T4,38400,fra
+FRA03401_Reybaud,FRA03401,Reybaud; Fanny,Mademoiselle de Malepeire,1802,1871,F,viaf:36959845,NA,1855,NA,short,high,T1,36880,fra
+FRA01901_Gaboriau,FRA01901,Gaboriau; Émile,Le crime d'Orcival,1832,1873,M,viaf:100177491,NA,1866,viaf:312348929,long,low,T2,127326,fra
+FRA01603_GautierJ,FRA01603,Gautier; Judith,Les Princesses d'Amour: courtisanes japonaises,1845,1917,F,viaf:54148064,NA,1900,NA,short,high,T4,28724,fra
+FRA00503_Balzac,FRA00503,Balzac; Honoré de,Le curé de village,1799,1850,M,viaf:29529595,NA,1841,viaf:177407570,medium,high,T1,93200,fra
+FRA01101_Dombre,FRA01101,Dombre; Roger,Une pupille gênante,1859,1914,F,viaf:37053113,NA,1890,oclc:457908349 viaf:unavailable,medium,low,T3,50336,fra
+FRA01801_Gay,FRA01801,Gay; Marie Françoise Sophie,Ellenore,1776,1852,F,viaf:27059297,NA,1844,viaf:unavailable,long,low,T1,188985,fra
+FRA01203_Feval,FRA01203,Féval; Paul Henri Corentin,le Loup blanc,1816,1887,M,viaf:17222447,NA,1843,viaf:312363135,medium,high,T1,80151,fra
+FRA03703_Sand,FRA03703,Sand; George,Le Compagnon du Tour de France,1804,1876,F,viaf:46766944,NA,1840,viaf:194896547,medium,high,T1,89027,fra
+FRA03101_Ponson,FRA03101,Ponson du Terrail; Pierre Alexis,La baronne trépassée,1829,1871,M,viaf:17228199,NA,1852,viaf:missing,medium,high,T1,61779,fra
+FRA02701_Maupassant,FRA02701,Maupassant; Guy de,Bel-Ami,1850,1893,M,viaf:29537765,NA,1885,viaf:174771837,long,high,T3,111187,fra
+FRA03202_Rachilde,FRA03202,Rachilde,Monsieur Vénus,1860,1953,F,viaf:44304153,NA,1884,NA,short,high,T3,38584,fra
+FRA00602_Boisgobey,FRA00602,Boisgobey; Fortuné du,Rubis sur l'ongle,1821,1891,M,viaf:19720225,NA,1886,viaf:315021495,long,low,T3,104131,fra
+FRA03102_Ponson,FRA03102,Ponson du Terrail; Pierre Alexis,La résurrection de Rocambole,1829,1871,M,viaf:17228199,NA,1866,viaf:294264533,long,low,T2,173240,fra
+FRA00601_Boisgobey,FRA00601,Boisgobey; Fortuné du,Le crime de l'omnibus,1821,1891,M,viaf:19720225,NA,1881,viaf:308091446,medium,low,T3,93657,fra
+FRA00501_Balzac,FRA00501,Balzac; Honoré de,Albert Savarus,1799,1850,M,viaf:29529595,NA,1842,viaf:174178728,short,high,T1,42271,fra
+FRA00302_Aimard,FRA00302,Aimard; Gustave,Belle rivière,1818,1883,M,viaf:9841962,NA,1874,viaf:309355943,long,low,T2,139255,fra
+FRA01401_Fleuriot,FRA01401,Fleuriot; Zénaïde,Un enfant gâté,1829,1890,F,viaf:41872490,NA,1877,viaf:309349545,short,low,T2,35076,fra
+FRA01403_Fleuriot,FRA01403,Fleuriot; Zénaïde,Alberte,1829,1890,F,viaf:41872490,NA,1881,viaf:unavailable worldcat:944664084,medium,low,T3,64184,fra
+FRA04203_Rolland,FRA04203,Rolland; Romain,La foire sur la place,1866,1944,M,viaf:71397100,NA,1908,viaf:312469772,medium,low,T4,69465,fra
+FRA01701_GautierT,FRA01701,Gautier; Théophile,Militona,1800,1872,M,viaf:96428598,NA,1847,NA,short,high,T1,38915,fra
+FRA01402_Fleuriot,FRA01402,Fleuriot; Zénaïde,En congé,1829,1890,F,viaf:41872490,NA,1874,oclc:561075297 viaf:unavailable,short,low,T2,38021,fra
+FRA01001_DelarueMardrus,FRA01001,Delarue-Mardrus; Lucie,Comme tout le monde,1874,1945,F,viaf:34455354,NA,1910,NA,medium,low,T4,59906,fra
+FRA01201_Feval,FRA01201,Féval; Paul Henri Corentin,Le Cavalier Fortune,1816,1887,M,viaf:17222447,NA,1868,viaf:unavailable,long,low,T2,136999,fra
+FRA01702_GautierT,FRA01702,Gautier; Théophile,Le roman de la momie,1800,1872,M,viaf:96428598,NA,1857,NA,short,high,T1,45141,fra
+FRA04001_Verne,FRA04001,Verne; Jules,Un capitaine de quinze ans,1828,1905,M,viaf:76323989,NA,1878,viaf:183081330,long,high,T2,124725,fra
+FRA03001_Ohnet,FRA03001,Ohnet; Georges,La Grande Marnière,1848,1918,M,viaf:66497284,NA,1885,viaf:309268283,long,low,T3,115269,fra
+FRA03002_Ohnet,FRA03002,Ohnet; Georges,L'Âme de Pierre,1848,1918,M,viaf:66497284,NA,1890,viaf:309283895,medium,low,T3,53382,fra
+FRA02603_Malot,FRA02603,Malot; Hector,Conscience,1830,1907,M,viaf:49228546,NA,1888,viaf:310221173,long,low,T3,101840,fra
+FRA03601_Proust,FRA03601,Proust; Marcel,Du côté de chez Swann,1871,1922,M,viaf:32001793,NA,1913,viaf:316309707,long,high,T4,181506,fra
+FRA02203_Gouraud,FRA02203,Gouraud; Julie,Les Filles du professeur,1810,1891,M,viaf:31987653,NA,1876,viaf:unavailable,short,low,T2,45439,fra
+FRA00502_Balzac,FRA00502,Balzac; Honoré de,Le cousin Pons,1799,1850,M,viaf:29529595,NA,1847,viaf:174988989,long,high,T1,111047,fra
+FRA03802_Stern,FRA03802,Stern; Daniel,Nélida,1805,1876,F,viaf:186930001,NA,1846,NA,medium,low,T1,65549,fra
+FRA00903_Daudet,FRA00903,Daudet; Alphonse,Numa Roumestan : Mœurs Parisiennes,1840,1897,M,viaf:4928621,NA,1881,viaf:287900644,medium,low,T3,85692,fra
+FRA02302_Greville,FRA02302,Henry Gréville,L’amie,1842,1902,F,viaf:49258322,NA,1878,NA,short,low,T2,10562,fra
+FRA04102_Erckmann,FRA04102,Erckmann; Émile,Madame Thérèse; ou les volontaires de 92,1822,1899,M,viaf:31995972,NA,1863,viaf:209896303,medium,high,T2,58842,fra
+FRA02401_LeRouge,FRA02401,Le Rouge; Gustave,L'Esclave amoureuse,1867,1938,M,viaf:7392910,NA,1904,viaf:unavailable,short,low,T4,25038,fra
+FRA02801_Mirbeau,FRA02801,Mirbeau; Octave,L'abbé Jules,1848,1917,M,viaf:100204602,NA,1888,viaf:310534644 ,medium,high,T3,78132,fra
+FRA03702_Sand,FRA03702,Sand; George,Le dernier amour,1804,1876,F,viaf:46766944,NA,1866,viaf:310216093,medium,high,T2,88165,fra
+FRA01902_Gaboriau,FRA01902,Gaboriau; Émile,Monsieur Lecoq,1832,1873,M,viaf:100177491,NA,1869,viaf:310914713,long,high,T2,269763,fra
+FRA01602_GautierJ,FRA01602,Gautier; Judith,Fleurs d'Orient,1845,1917,F,viaf:54148064,NA,1893,NA,medium,low,T3,50150,fra
+FRA00102_Adam,FRA00102,Adam; Juliette,Païenne,1836,1936,F,viaf:64000638,NA,1883,NA,short,low,T3,28266,fra
+FRA00901_Daudet,FRA00901,Daudet; Alphonse,Le petit chose,1840,1897,M,viaf:4928621,NA,1867,viaf:184784857,medium,high,T2,87744,fra
+FRA01102_Dombre,FRA01102,Dombre; Roger,Folla,1859,1914,F,viaf:37053113,NA,1889,oclc:465119441 viaf:unavailable,short,low,T3,24998,fra
+FRA00701_Carraud,FRA00701,Carraud; Zulma,La petite Jeanne,1796,1889,F,viaf:66529196,NA,1852,NA,medium,high,T1,50316,fra
+FRA03701_Sand,FRA03701,Sand; George,Nanon,1804,1876,F,viaf:46766944,NA,1872,viaf:204615801,long,high,T2,101840,fra
+FRA03201_Rachilde,FRA03201,Rachilde,La Marquise de Sade: ELTeC edition,1860,1953,F,viaf:44304153,NA,1887,NA,medium,high,T3,85847,fra
+FRA03003_Ohnet,FRA03003,Ohnet; Georges,Le Marchand de Poison,1848,1918,M,viaf:66497284,NA,1892,viaf:308106335,medium,low,T3,50561,fra
+FRA01501_France,FRA01501,France; Anatole,Les dieux ont soif: ELTeC edition,1844,1924,M,NA,NA,1912,NA,medium,high,T4,67177,fra
+FRA02702_Maupassant,FRA02702,Maupassant; Guy de,Une Vie,1850,1893,M,viaf:29537765,NA,1883,viaf:204219240,medium,high,T3,77338,fra
+FRA01303_Flaubert,FRA01303,Flaubert; Gustave,Salammbô,1821,1880,M,viaf:9846192,NA,1862,viaf:316310961,long,high,T2,105395,fra
+FRA00802_Dash,FRA00802,Comtesse Dash,Le château de Pinon I: ELTeC edition,1804,1872,F,viaf:102278,NA,1843,NA,medium,low,T1,44767,fra
+FRA03903_Stolz,FRA03903,Stolz; Madame de,Le Secret de Laurent,1820,1898,F,viaf:19850120 wikidata:Q3275360,NA,1878,viaf:unavailable,short,low,T2,49150,fra
+FRA02901_Noailles,FRA02901,Noailles; Anna de,La nouvelle espérance,1876,1933,F,viaf:95303465,NA,1903,NA,medium,low,T4,54730,fra
+FRA02303_Greville,FRA02303,Henry Gréville,Ariadne,1842,1902,F,viaf:49258322,NA,1878,NA,short,low,T2,10455,fra
+FRA03902_Stolz,FRA03902,Stolz; Madame de,La Maison blanche,1820,1898,F,viaf:19850120 wikidata:Q3275360,NA,1884,viaf:unavailable,medium,low,T3,52128,fra
+FRA02201_Gouraud,FRA02201,Gouraud; Julie,Quand je serai grande,1810,1891,M,viaf:31987653,NA,1888,oclc:559725443 viaf:unavailable,short,low,T3,45701,fra
+FRA02301_Greville,FRA02301,Gréville; Henry,La seconde mère,1842,1902,F,viaf:49258322,NA,1888,viaf:missing,medium,low,T3,56950,fra
+FRA02101_Girardin,FRA02101,Girardin; Delphine de,Marguerite; ou Deux amours,1804,1855,F,viaf:24601979,NA,1852,NA,medium,high,T1,68770,fra
+FRA03801_Stern,FRA03801,Stern; Daniel,Hervé,1805,1876,F,viaf:186930001,NA,1843,NA,short,low,T1,15058,fra
+FRA00201_Audoux,FRA00201,Audoux; Marguerite,Marie-Claire,1863,1937,F,viaf:71386673,NA,1910,viaf:missing,short,high,T4,35659,fra
+FRA02601_Malot,FRA02601,Malot; Hector,Romain Kalbris,1830,1907,M,viaf:49228546,NA,1869,viaf:312349317,medium,high,T2,70236,fra
+FRA02202_Gouraud,FRA02202,Gouraud; Julie,Le petit colporteur,1810,1891,M,viaf:31987653,NA,1867,viaf:314022921,short,low,T2,43343,fra
+FRA00801_Dash,FRA00801,Stern; Daniel,Hervé,1805,1876,F,viaf:186930001,NA,1843,NA,short,low,T1,15058,fra
+FRA04202_Rolland,FRA04202,Rolland; Romain,La nouvelle journée,1866,1944,M,viaf:71397100,NA,1912,viaf:312469774,medium,high,T4,59882,fra
+FRA00101_Adam,FRA00101,Juliette Adam,Mon Village,1836,1936,F,viaf:64000638,NA,1868,NA,short,low,T2,21777,fra
+FRA02502_Loti,FRA02502,Loti; Pierre,Ramuntcho,1850,1923,M,viaf:89440078,NA,1897,viaf:185706732,medium,high,T3,57948,fra
+FRA01202_Feval,FRA01202,Féval; Paul Henri Corentin,Les Errants de nuit,1816,1887,M,viaf:17222447,NA,1857,viaf:unavailable,long,low,T1,103086,fra
+FRA01301_Flaubert,FRA01301,Flaubert; Gustave,L'Éducation sentimentale,1821,1880,M,viaf:9846192,NA,1869,viaf:180462896,long,high,T2,149810,fra
+FRA00902_Daudet,FRA00902,Daudet; Alphonse,Port-Tarascon : Dernières aventures de l'illustre Tartarin,1840,1897,M,viaf:4928621,NA,1890,viaf:179981155,short,low,T3,46932,fra
+FRA02001_Gilbert,FRA02001,Gilbert; Jehan,Vers Le Pôle En Aéroplane,1880,1940,M,NA,NA,1912,NA,short,unspecified,T2,34567,fr
+FRA03302_Rattazzi,FRA03302,Rattazzi; Marie,Le piège aux maris,1831,1902,F,viaf:30341384,NA,1865,viaf:missing,medium,low,T2,53880,fra
+FRA04101_Erckmann,FRA04101,Erckmann; Émile,Une campagne en Kabylie : Récit d'un chasseur d'Afrique,1822,1899,M,viaf:31995972,NA,1873,viaf:317259748,short,high,T2,23489,fra
+FRA04201_Rolland,FRA04201,Rolland; Romain,L'aube,1866,1944,M,viaf:71397100,NA,1904,viaf:312469768,short,low,T4,41108,fra
