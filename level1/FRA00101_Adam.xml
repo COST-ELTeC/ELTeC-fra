@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA00101" xml:lang="fr">
   <teiHeader>
@@ -257,7 +257,7 @@
         <p>Faut convenir que si les fillettes le rencontraient maintes fois sur leur chemin, les maris ne le trouvaient jamais, en revenant de travailler, devisant avec leurs femmes de la sainte Vierge Marie.</p>
         <p>Il aimait à faire endêver la jeunesse, on ne saurait le nier, mais il savait mieux qu’aucun de nous respecter le mariage.</p>
         <p>Au milieu de tout ça, le curé de Morlincourt était resté un homme comme un autre ; il devait, à coup sûr, lui arriver quelque malheur.</p>
-        <p>Adonc, quand M lle Léonie, sa cousine et sa servante, se coiffait de son tour gris des dimanches, quoiqu’elle eût l’âge requis pour une servante et une cousine légitime de curé, elle pouvait en dire encore un brin. Mais il y a des gens qui n’ont pas de chance ; en voilà une forte preuve. Le jour même de la visite annuelle du seigneur l’évêque à Morlincourt, un petiot chrétien naissait au presbytère. Vous jugez de l’aria. On rapporte que le seigneur l’évêque se mit dans une colère des cinq cents diables, et que quelques-uns l’entendirent crier :</p>
+        <p>Adonc, quand Mlle Léonie, sa cousine et sa servante, se coiffait de son tour gris des dimanches, quoiqu’elle eût l’âge requis pour une servante et une cousine légitime de curé, elle pouvait en dire encore un brin. Mais il y a des gens qui n’ont pas de chance ; en voilà une forte preuve. Le jour même de la visite annuelle du seigneur l’évêque à Morlincourt, un petiot chrétien naissait au presbytère. Vous jugez de l’aria. On rapporte que le seigneur l’évêque se mit dans une colère des cinq cents diables, et que quelques-uns l’entendirent crier :</p>
         <p>— Chez vous, curé ! c’est impardonnable. Vous quitterez la commune !</p>
         <p>— Ce pauvre curé de Morlincourt ! dit un chacun, si parlant, si brave homme ! On ne sait pas ; peut-être bien qu’au lieu d’un mauvais curé il eût fait un bon mari.</p>
         <p>— Des histoires de curé, il en pleut ! dit le père Roux ; mais je penche toujours pour celle de défunt mon grand-oncle :</p>
