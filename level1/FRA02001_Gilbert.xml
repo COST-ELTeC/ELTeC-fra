@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA02001" xml:lang="fr">
   <teiHeader>
@@ -56,226 +56,224 @@
       <div type="chapter">
         <head>LE BANQUET</head>
         <p>Bans la grande salle des fêtes de 1' « Aéro-Club », le banquet s'achevait. L'on entendait un brouhaha confus de conversations, de vaisselle entrechoquée, d'argenterie remuée. Prestes, les maîtres d'hôtel circulaient entre les tables, les plats à la main.</p>
-        <p>Dans une loggia, la musique de la garde républicaine, à demi dissimulée pardes plantes vertes et des guirlandes de fleurs, commença une valse lente.</p>
-        <p>La mélodie, d'abord sourde, puis toute menue, devint soudain langoureuse et câline. Chacun l'éooutait sans cependant interrompre la conversation engagée. C'est làl'une des plus grandes influences de la musique, d'avoir quand même prise surnos sentiments artistiques, alors qu'on n'y prête qu'une attention minime.</p>
-        <p>Mais il fallait bien le reconnaître, jamais une musique aussi douce, aussi enveloppante n'avait eu autant de chances de plaire à ces nombreux convives quegroupait le banquet de l'Aéro-Club.</p>
-        <p>C'était une valse spécialement composée pour cette réunion, par le jeune maîtreMarc Delmas, elle s'intitulait « Horizons » et n'était de la première à ladernière mesure qu'un enchantement.</p>
-        <p>C'est que ce soir-là, 1' « Aéro-Club » fêtait les récentes prouesses desaviateurs français, ils étaient tous là au grand (complet, Lathon, Farlan,Clériot, Faulhan, Dou- gier, et beaucoup d'autres encore.</p>
-        <p>Et tous, aux accents de la valse «Horizons », se laissaient aller à rêvasser :oui, c'étaient bien les longues glissades dans l'air pur qu'exprimaient cesphrases musicales.</p>
-        <p>C'étaient bien les voluptés des vols planés et des montées dans l'azur du cielque rendait avec une suavité exquise la mélodie du compositeur. C'êtaîent lesmagni* ficences des couchers de soleil, admirés depuis les hautes altitudes ; c'étaientles mers nuageuses planant au-dessus de la terre; les plaintes mélancoliques duvent, de l'ennemi, soufflant dans les structures des appareils.</p>
-        <p>Et peu à peu toutes les conversations se tûrent, s'apaisèrent, les maîtresd'hôtel eux-mêmes semblaient gênés de circuler et, marchant sur la pointe despieds, faisaient le moins de bruit possible.</p>
-        <p>Avec de langoureux accords, la valse mourut, doucement, doucement... Il y eutune seconde de silence puis le ministre du commerce, le premier, battit desmains.</p>
-        <p>Ce fut du délire, une acclamation enthousiaste qui monta vers le plafond de lasalle, avec des applaudissements frénétiques .</p>
+        <p>Dans une loggia, la musique de la garde républicaine, à demi dissimulée par des plantes vertes et des guirlandes de fleurs, commença une valse lente.</p>
+        <p>La mélodie, d'abord sourde, puis toute menue, devint soudain langoureuse et câline. Chacun l'écoutait sans cependant interrompre la conversation engagée. C'est là l'une des plus grandes influences de la musique, d'avoir quand même prise sur nos sentiments artistiques, alors qu'on n'y prête qu'une attention minime.</p>
+        <p>Mais il fallait bien le reconnaître, jamais une musique aussi douce, aussi enveloppante n'avait eu autant de chances de plaire à ces nombreux convives que groupait le banquet de l'Aéro-Club.</p>
+        <p>C'était une valse spécialement composée pour cette réunion, par le jeune maître Marc Delmas, elle s'intitulait « Horizons » et n'était de la première à la dernière mesure qu'un enchantement.</p>
+        <p>C'est que ce soir-là, 1' « Aéro-Club » fêtait les récentes prouesses des aviateurs français, ils étaient tous là au grand (complet, Lathon, Farlan, Clériot, Faulhan, Dougier, et beaucoup d'autres encore.</p>
+        <p>Et tous, aux accents de la valse «Horizons », se laissaient aller à rêvasser :oui, c'étaient bien les longues glissades dans l'air pur qu'exprimaient ces phrases musicales.</p>
+        <p>C'étaient bien les voluptés des vols planés et des montées dans l'azur du ciel que rendait avec une suavité exquise la mélodie du compositeur. C'étaient les magnificences des couchers de soleil, admirés depuis les hautes altitudes ; c'étaient les mers nuageuses planant au-dessus de la terre; les plaintes mélancoliques du vent, de l'ennemi, soufflant dans les structures des appareils.</p>
+        <p>Et peu à peu toutes les conversations se tûrent, s'apaisèrent, les maîtres d'hôtel eux-mêmes semblaient gênés de circuler et, marchant sur la pointe des pieds, faisaient le moins de bruit possible.</p>
+        <p>Avec de langoureux accords, la valse mourut, doucement, doucement... Il y eut une seconde de silence puis le ministre du commerce, le premier, battit des mains.</p>
+        <p>Ce fut du délire, une acclamation enthousiaste qui monta vers le plafond de la salle, avec des applaudissements frénétiques .</p>
         <p>De nouveau, le brouhaha recommença, les conversations reprirent, on était arrivé au dessert.</p>
-        <p>Les maîtres d'hôtel apportèrent le champagne et le débouchèrentsilencieusement, la mode n'étant plus aux brusques et joyeuses explosions.Cependant chacun en son fors intérieur les désirait, les regrettait cesdétonations qui, jadis, étaient synonymes de joie et de gaîté.</p>
-        <p>En effet, ce banquet n'était-il pas le triomphe de l'aviation et ne pouvait-on désormais considérer l'empire des airscomme définitivement conquis.</p>
-        <p>La semaine précédente, Lathon, si populaire en France, n'avait-il pas exécutéd'une seule traite le voyage Bordeaux- Paris, et n'affirmait-il pas à tout lemonde qu'il était prêt à exécuter des randonnées d'une bien plus grandeétendue.</p>
-        <p>La traversée de la Manche ne se faisait- elle pas couramment et les aéroplanesn'étaient-ils pas aussi bien en faveur dans toute la France qu'à Paris?</p>
-        <p>Le ministre du commerce se leva, la coupe à la main, il prononça un discoursdans lequel il exaltait le courage français et l'audace des aviateurs réunis àla table d'honneur et, après avoir prodigué les éloges les plus enthousiastesà ceux qui l'entouraient, il termina par l'appel suivant :</p>
-        <p>— Je vous en supplie, messieurs les aviateurs, messieurs les pionniers de l'airqui m'écoutez. Il faut que la France conserve le premier rang dansl'aviation.</p>
-        <p>« A qui demander cela, si ce n'est à vous que rien n'effraye et qu'au contrairetoutes les audaces attirent.</p>
-        <p>« Oui, messieurs, poursuivez vos expériences, la France vous encouragera. Et je tiens à vous le dire aujourd'hui à vous tous qui m'entourez, vous trouverez toujours auprès du gouvernement une sollicitude constante, une bienveillancede tous les instants.</p>
-        <p>« A partir d'aujourd'hui, je crée au ministère du commerce un service spécialexclusivement réservé à l'aviation : venez nous voir.</p>
-        <p>« Tout à l'heure j'ai parlé d'encouragements, je tiens à, préciser, noussommes à votre disposition, messieurs, pour tout ce dont vous aurez besoin.</p>
-        <p>« La main-d'œuvre militaire peut vous être utile, nous vous l'offrons ; noschamps de manœuvre, nos camps d'instruction ? Prenez-les, ils sont à vous 1 LaFrance veut vous aider, facilitez sa besogne en lui donnant toute votreconfiance, en lui confiant tous vos espoirs.</p>
-        <p>« Messieurs, je bois à vos triomphes, je bois à vos santés si précieuses, jebois enfin à l'Aviation française victorieuse l</p>
+        <p>Les maîtres d'hôtel apportèrent le champagne et le débouchèrent silencieusement, la mode n'étant plus aux brusques et joyeuses explosions. Cependant chacun en son fors intérieur les désirait, les regrettait ces détonations qui, jadis, étaient synonymes de joie et de gaîté.</p>
+        <p>En effet, ce banquet n'était-il pas le triomphe de l'aviation et ne pouvait-on désormais considérer l'empire des airs comme définitivement conquis.</p>
+        <p>La semaine précédente, Lathon, si populaire en France, n'avait-il pas exécuté d'une seule traite le voyage Bordeaux- Paris, et n'affirmait-il pas à tout le monde qu'il était prêt à exécuter des randonnées d'une bien plus grande étendue.</p>
+        <p>La traversée de la Manche ne se faisait- elle pas couramment et les aéroplanes n'étaient-ils pas aussi bien en faveur dans toute la France qu'à Paris?</p>
+        <p>Le ministre du commerce se leva, la coupe à la main, il prononça un discours dans lequel il exaltait le courage français et l'audace des aviateurs réunis à la table d'honneur et, après avoir prodigué les éloges les plus enthousiastes à ceux qui l'entouraient, il termina par l'appel suivant :</p>
+        <p>— Je vous en supplie, messieurs les aviateurs, messieurs les pionniers de l'air qui m'écoutez. Il faut que la France conserve le premier rang dans l'aviation.</p>
+        <p>« A qui demander cela, si ce n'est à vous que rien n'effraye et qu'au contraire toutes les audaces attirent.</p>
+        <p>« Oui, messieurs, poursuivez vos expériences, la France vous encouragera. Et je tiens à vous le dire aujourd'hui à vous tous qui m'entourez, vous trouverez toujours auprès du gouvernement une sollicitude constante, une bienveillance de tous les instants.</p>
+        <p>« A partir d'aujourd'hui, je crée au ministère du commerce un service spécial exclusivement réservé à l'aviation : venez nous voir.</p>
+        <p>« Tout à l'heure j'ai parlé d'encouragements, je tiens à, préciser, nous sommes à votre disposition, messieurs, pour tout ce dont vous aurez besoin.</p>
+        <p>« La main-d'œuvre militaire peut vous être utile, nous vous l'offrons ; nos champs de manœuvre, nos camps d'instruction ? Prenez-les, ils sont à vous ! La France veut vous aider, facilitez sa besogne en lui donnant toute votre confiance, en lui confiant tous vos espoirs.</p>
+        <p>« Messieurs, je bois à vos triomphes, je bois à vos santés si précieuses, je bois enfin à l'Aviation française victorieuse !</p>
         <p>Le ministre se rassit, les applaudissements se déchaînèrent.</p>
-        <p>Plusieurs orateurs prirent la parole et leur succès ne fut pas moins vif. Enfinle président de l'Aéro-Club fit le discours suivant :</p>
-        <p>— Messieurs, j'ai tenu à m'entretenir avec vous le dernier, parce que j'ai une initiative remarquable à vousproposer.</p>
-        <p>« U me semble que la France a le devoir de dépasser toutes les autres nationsen aviation, comme l'a si justement dit M. le ministre du commerce.</p>
-        <p>« Or, je suis d'avis qu'il nous faut étonner le monde, mais je suis d'avis aussiqu'il nous faut stimuler le génie de notre race en lui donnant l'occasion delutter avec celui des autres pays.</p>
-        <p>« Je vous propose de fonder un prix de trois cent mille francs qui sera donné àl'aviateur qui fera la prouesse dont je vais parler:</p>
+        <p>Plusieurs orateurs prirent la parole et leur succès ne fut pas moins vif. Enfin le président de l'Aéro-Club fit le discours suivant :</p>
+        <p>— Messieurs, j'ai tenu à m'entretenir avec vous le dernier, parce que j'ai une initiative remarquable à vous proposer.</p>
+        <p>« U me semble que la France a le devoir de dépasser toutes les autres nations en aviation, comme l'a si justement dit M. le ministre du commerce.</p>
+        <p>« Or, je suis d'avis qu'il nous faut étonner le monde, mais je suis d'avis aussi qu'il nous faut stimuler le génie de notre race en lui donnant l'occasion de lutter avec celui des autres pays.</p>
+        <p>« Je vous propose de fonder un prix de trois cent mille francs qui sera donné à l'aviateur qui fera la prouesse dont je vais parler:</p>
         <p>« Nous avons tous été intrigués par les allégations des explorateurs américains: Cook et Peary.</p>
-        <p>« Ils prétendent tous deux avoir découvert le Pôle, leurs documents paraissent assez probants, mais il faudrait aller s'assurer de leurs allégations,contrôler leurs dires et pour cela, messieurs, il me parait que l'aéroplane estmerveilleusement indiqué.</p>
-        <p>« Pourquoi ne tenterait-on pas de gagner le Pôle après s'en être approché leplus près possible par voie de mer.</p>
+        <p>« Ils prétendent tous deux avoir découvert le Pôle, leurs documents paraissent assez probants, mais il faudrait aller s'assurer de leurs allégations,contrôler leurs dires et pour cela, messieurs, il me parait que l'aéroplane est merveilleusement indiqué.</p>
+        <p>« Pourquoi ne tenterait-on pas de gagner le Pôle après s'en être approché le plus près possible par voie de mer.</p>
         <p>« L'aéroplane a rendu bien des services, mais ne rendrait-il pas encore celui- là et ne pourrait-il, d'une seule traite, aller directement au Pôle Nord, en passant par dessus tous les obstacles et en méprisant tous les dangers?</p>
-        <p>« Je crois, messieurs, que la chose est possible, 1' « Aéro-Club » estime quel'entreprise est colossale, aussi se borne-t-il à vous dire par ma bouche :nous donnons trois cent mille francs à l'aviateur qui le premier atteindra lepôle et nous en rapportera des renseignements convaincants.</p>
+        <p>« Je crois, messieurs, que la chose est possible, 1' « Aéro-Club » estime que l'entreprise est colossale, aussi se borne-t-il à vous dire par ma bouche :nous donnons trois cent mille francs à l'aviateur qui le premier atteindra le pôle et nous en rapportera des renseignements convaincants.</p>
         <p>« Ceci n'empêche pas les bienfaiteurs habituels des sports d'ajouter les sommes qu'ils jugeront nécessaires.</p>
-        <p>« L'épreuvé sera internationale, chaque pays ne pourra se faire représenter quepar un concurrent; les aviateurs seront transportés à bord d'un bateau spécialement affrété jusqu'au point le plus proche du Pôle ou bien sur la terre ferme,au Groenland par exemple, à un endroit où l'on pourra construire des hangars,destinés au montage des appareils.</p>
-        <p>« L'Aéro-Club fera paraître ces jours- ci un règlement tout à fait précis del'épreuve, contenant les renseignements les plus exacts. Dans chaque nation, lessociétés d'aviation devront s'entendre pour désigner le concurrent digne de participer à. l'épreuve.</p>
-        <p>« Je vous demande aujourd'hui, mes* sieurs, de désigner celui d'entre nous quimérite de tenter l'expédition?</p>
+        <p>« L'épreuve sera internationale, chaque pays ne pourra se faire représenter que par un concurrent; les aviateurs seront transportés à bord d'un bateau spécialement affrété jusqu'au point le plus proche du Pôle ou bien sur la terre ferme,au Groenland par exemple, à un endroit où l'on pourra construire des hangars,destinés au montage des appareils.</p>
+        <p>« L'Aéro-Club fera paraître ces jours- ci un règlement tout à fait précis de l'épreuve, contenant les renseignements les plus exacts. Dans chaque nation, les sociétés d'aviation devront s'entendre pour désigner le concurrent digne de participer à. l'épreuve.</p>
+        <p>« Je vous demande aujourd'hui, mes* sieurs, de désigner celui d'entre nous qui mérite de tenter l'expédition?</p>
         <p>Le président se tût.</p>
-        <p>Aussitôt une clameur retentit, de tous côtés le nom de Lathon était prononcéavec enthousiasme.</p>
+        <p>Aussitôt une clameur retentit, de tous côtés le nom de Lathon était prononcé avec enthousiasme.</p>
         <p>Au bout de quelques minutes le président reprit :</p>
-        <p>— C'est notre ami Lathon que vous désignez, c'est parfait. Eh bien, messieurs,je bois au champion de la France, je bois à Lathon, je bote au succès de sonvoyage au Pôle Nord.</p>
-        <p>Des acclamations fusèrent à nouveau, c'était du délire, le silence se fit lorsqu'on .vit le ministre du commerce se disposer à parler :</p>
-        <p>— Le gouvernement français, messieurs, avait été pressenti par l'Aéro-OIub ausujet de cette course au Pôle, le Conseil des ministres m'a chargé de vous direqu'il ajoute cent mille francs aux trois cent mille dont oq vient de vous parler1</p>
-        <p>Le marquis de la Lande agita le bras pour demander la parole puis ilannonça;</p>
-        <p>— Je donne deux cent mille francs I Ne voulant pas demeurer en reste avec le richissime marquis, ami de tous les sports, les gros instructeurs d'automobiles, les industriels qui se trouvaient là s'empressèrent de s'engager pour defortes sommes...</p>
-        <p>Si bien que le président, lorsque le tumulte fut un peu calmé, putannoncer:</p>
-        <p>— Messieurs, le prix du voyage au Pôle sera de %n million six cent mille francsl :</p>
+        <p>— C'est notre ami Lathon que vous désignez, c'est parfait. Eh bien, messieurs,je bois au champion de la France, je bois à Lathon, je bote au succès de son voyage au Pôle Nord.</p>
+        <p>Des acclamations fusèrent à nouveau, c'était du délire, le silence se fit lorsqu'on vit le ministre du commerce se disposer à parler :</p>
+        <p>— Le gouvernement français, messieurs, avait été pressenti par l'Aéro-Club au sujet de cette course au Pôle, le Conseil des ministres m'a chargé de vous dire qu'il ajoute cent mille francs aux trois cent mille dont on vient de vous parler !</p>
+        <p>Le marquis de la Lande agita le bras pour demander la parole puis il annonça :</p>
+        <p>— Je donne deux cent mille francs ! Ne voulant pas demeurer en reste avec le richissime marquis, ami de tous les sports, les gros instructeurs d'automobiles, les industriels qui se trouvaient là s'empressèrent de s'engager pour de fortes sommes...</p>
+        <p>Si bien que le président, lorsque le tumulte fut un peu calmé, put annoncer:</p>
+        <p>— Messieurs, le prix du voyage au Pôle sera de un million six cent mille francs !</p>
         <p>Un tonnerre d'applaudissements retentit.</p>
         <p>Le président ajouta :</p>
-        <p>— Chaque concurrent devra faire les frais de son appareil, des hangars à bâtirau point de débarquement, mais l'Aéro- Club se chargera du transport jusqu'à cepoint.</p>
-        <p>Le président fit un signe et la musique de la garde républicaine joua laMarseillaise.</p>
+        <p>— Chaque concurrent devra faire les frais de son appareil, des hangars à bâtir au point de débarquement, mais l'Aéro-Club se chargera du transport jusqu'à ce point.</p>
+        <p>Le président fit un signe et la musique de la garde républicaine joua la Marseillaise.</p>
       </div>
       <div type="chapter">
         <head>II</head>
         <head>LE MARQUIS DE LA LANDE</head>
-        <p>Dans la coquette garçonnière des Champs* Elysées qu'habitait Pierre Lathon, l'onn'entendait ce matin-là aucun bruit.</p>
-        <p>Le jeune aviateur était rentré très tard. ou très tôt, d'un banquet donné en son honneur et il avait intimé à son valet dechambre l'ordre formel de ne pas venir le réveiller avant midi.</p>
-        <p>C'est que depuis quelque temps, le jeune homme était de toutes les "fêtes,chaque société sportive se faisait une gloire de l'avoir comme invité, et lui,dans son désir de contenter tout le monde, acceptait toujours .</p>
-        <p>Huit jours s'étaient écoulés depuis le banquet de l'Aéro-Club ; l'idée d'un concours international pour gagner le Pôle avait obtenu un succès universel, unsuccès mondial.</p>
-        <p>A l'étranger, ç'avait ‘été un enthousiasme fébrile, et les clubs d'aviations'étaient en hâte réunis pour prendre des détermina- , tions décisives.</p>
-        <p>Lathon avait suspendu pendant quelque temps la série de ses vols magnifiques, ilse reposait pour ainsi dire, si l'on peut appeler se reposer le fait de secoucher tous lçs jours à deux heures du matin et de banqueterperpétuellement.</p>
-        <p>Dix heures venaient de sonner, le valet de chambre Jacques époussetaitsilencieusement les meubles du salon-bureau où son maître avait coutume derecevoir les visiteurs, lorsqu'à la porte d'entrée don- liant dur l'escalier plusieurs coups furent frappés.</p>
-        <p>Le timbre électrique, par l'entremise obligeante d'un commutateur, restait obstinément sourd lorsque des gens sollicitaient son bouton. Q'était là un descôtés ingénieux de la demeure de Pierre Lathon.</p>
-        <p>Or, ce matin là un visiteur s'obstinait à frapper la porte à coupsredoublés.</p>
-        <p>Le valet de chambre avait, à chaque nouvelle tentative du visiteur, des accès derage concentrée et haussait les épaules.</p>
-        <p>La consigne était la consigne ; il n'irait pas ouvrir. Jacques était un soldatde race, les principes de l'obéissance étaient solidement ancrés en lui : ilobéissait sans réfléchir, aveuglément, parce qu'on le lui avait ordonné.</p>
-        <p>Pierre Lathon avait engagé son valet de chambre dans des conditions particulières ; il accomplissait en qualité de sous- lieutenant de réserve ses sixderniers mois de service militaire dans un régiment d'infanterie, à Saint-Malo.</p>
-        <p>H avait eu comme ordonnance Jacques, de son nom de famille Loniam, et avait puapprécier les qualités qui étaient en lui.</p>
-        <p>, Certes, ce brave garçon, paysan normand des environs de Cherbourg, n'étaitpeut-être pas au début très débrouillard. mais il était honnête et pratiquait la dis- création, sachant, s'il le fallait,imiter le mutisme légendaire des carpes.</p>
-        <p>Peu à peu, Pierre Lathon avait formé Jacques Loniam, il en avait fait le typemodèle de l'ordonnance d'officier garçon.</p>
-        <p>Le jeune sous-lieutenant était réputé k Saint-Malo pour un bon vivant, son logisde la rue des Hautes-Salles devait en voir de raides, se chuehottait-on àl'oreille, avec cette exagération qui est le propre — ou le mie, comme on voudra— de toutes les mauvaises langues.</p>
-        <p>Jacques Loniam interrogé ne voulut jamais répondre et son dévouement obscurpour Pierre Lathon ne lui attira de la part des curieux et des commères que des:« Quel imbécile !... Ce garçon est idiot î... Ce Loniam est une fichue bête !...»</p>
-        <p>Heureusement pour lui, le sous-lieutenant Lathon était perspicace, il remarquait et voyait tout. Si bien que vers la fin des manœuvres, Loniam s'entendittenir le langage suivant :</p>
-        <p>— Loniam, vous allez être libéré, moi aussi ! Je vous propose, mon petit, devenir avec moi à Paris, comme valet de chambre. J'ai besoin d'un garçon honnête, débrouillard, dévoué, vous êtes tout cela. Acceptez-vous? Enthousiasmé, le soldat de deuxième classe Loniam s'écria:</p>
-        <p>— Oui mon lieutenant, de grand cœur 1</p>
-        <p>Et voilà comment l'ordonnance Loniam, le fantassin Loniam, était devenu Jacquestout court, valet de chambre de l'aviateur Pierre La thon.</p>
-        <p>Ah! ce n'était pas un domestique ordinaire, il avait conservé pour son maîtrele respect du soldat pour son officier.</p>
-        <p>C'est tout juste s'il ne joignait pas les talons en lui adressant la parole, etparfois ,11 lui arrivait de l'appeler encore « jnnn lieutenant ».</p>
-        <p>Maintenant, Paris l'avait tout à fait formé, le naïf normand, d'une crédulité àtoute épreuve, avait fait place à un fin matois, au courant de toutes lesexigences de son métier et plus roublard à lui tout seul qu'une demi-douzaine devalets de chambre.</p>
-        <p>Beau garçon, Jacques Loniam ne désespérait pas d'épouser une ravissante fegunéde chambre qui, dans le même immeuble, était au service d'une vicomtesse desplus riches. L'assiduité qu'il lui témoignait, ne l'empêchait aucunementd'assurer son service.</p>
-        <p>Donc, en cette matinée, un visiteur avait le don d'exaspérer Jacques par sapersis- tance à vouloir pénétrer dans le coquet et minuscule appartement qu'habitaitPier- re Lathon.</p>
-        <p>Les coups devenant de plus en plus forts et Jacques malgré son flegme normandcommençant à perdre patience, U se décida à aller ouvrir.</p>
-        <p>Pans la demi-obscurité du palier, un homme de haute taille, très chic, trèsélégant, apparut. H prit la parole et l'on distinguait aisément dans son accentune mauvaise humeur passagère.</p>
+        <p>Dans la coquette garçonnière des Champs-Elysées qu'habitait Pierre Lathon, l'on n'entendait ce matin-là aucun bruit.</p>
+        <p>Le jeune aviateur était rentré très tard, ou très tôt, d'un banquet donné en son honneur et il avait intimé à son valet de chambre l'ordre formel de ne pas venir le réveiller avant midi.</p>
+        <p>C'est que depuis quelque temps, le jeune homme était de toutes les fêtes, chaque société sportive se faisait une gloire de l'avoir comme invité, et lui, dans son désir de contenter tout le monde, acceptait toujours.</p>
+        <p>Huit jours s'étaient écoulés depuis le banquet de l'Aéro-Club ; l'idée d'un concours international pour gagner le Pôle avait obtenu un succès universel, un succès mondial.</p>
+        <p>À l'étranger, ç'avait été un enthousiasme fébrile, et les clubs d'aviations étaient en hâte réunis pour prendre des déterminations décisives.</p>
+        <p>Lathon avait suspendu pendant quelque temps la série de ses vols magnifiques, il se reposait pour ainsi dire, si l'on peut appeler se reposer le fait de se coucher tous les jours à deux heures du matin et de banqueter perpétuellement.</p>
+        <p>Dix heures venaient de sonner, le valet de chambre Jacques époussetait silencieusement les meubles du salon-bureau où son maître avait coutume de recevoir les visiteurs, lorsqu'à la porte d'entrée donnant sur l'escalier plusieurs coups furent frappés.</p>
+        <p>Le timbre électrique, par l'entremise obligeante d'un commutateur, restait obstinément sourd lorsque des gens sollicitaient son bouton. C'était là un des côtés ingénieux de la demeure de Pierre Lathon.</p>
+        <p>Or, ce matin là un visiteur s'obstinait à frapper la porte à coups redoublés.</p>
+        <p>Le valet de chambre avait, à chaque nouvelle tentative du visiteur, des accès de rage concentrée et haussait les épaules.</p>
+        <p>La consigne était la consigne ; il n'irait pas ouvrir. Jacques était un soldat de race, les principes de l'obéissance étaient solidement ancrés en lui : il obéissait sans réfléchir, aveuglément, parce qu'on le lui avait ordonné.</p>
+        <p>Pierre Lathon avait engagé son valet de chambre dans des conditions particulières ; il accomplissait en qualité de sous-lieutenant de réserve ses six derniers mois de service militaire dans un régiment d'infanterie, à Saint-Malo.</p>
+        <p>Il avait eu comme ordonnance Jacques, de son nom de famille Loniam, et avait pu apprécier les qualités qui étaient en lui.</p>
+        <p>Certes, ce brave garçon, paysan normand des environs de Cherbourg, n'était peut-être pas au début très débrouillard. Mais il était honnête et pratiquait la discrétion, sachant, s'il le fallait, imiter le mutisme légendaire des carpes.</p>
+        <p>Peu à peu, Pierre Lathon avait formé Jacques Loniam, il en avait fait le type modèle de l'ordonnance d'officier garçon.</p>
+        <p>Le jeune sous-lieutenant était réputé à Saint-Malo pour un bon vivant, son logis de la rue des Hautes-Salles devait en voir de raides, se chuchottait-on à l'oreille, avec cette exagération qui est le propre — ou le mie, comme on voudra — de toutes les mauvaises langues.</p>
+        <p>Jacques Loniam interrogé ne voulut jamais répondre et son dévouement obscur pour Pierre Lathon ne lui attira de la part des curieux et des commères que des:« Quel imbécile !... Ce garçon est idiot !... Ce Loniam est une fichue bête !...»</p>
+        <p>Heureusement pour lui, le sous-lieutenant Lathon était perspicace, il remarquait et voyait tout. Si bien que vers la fin des manœuvres, Loniam s'entendit tenir le langage suivant :</p>
+        <p>— Loniam, vous allez être libéré, moi aussi ! Je vous propose, mon petit, de venir avec moi à Paris, comme valet de chambre. J'ai besoin d'un garçon honnête, débrouillard, dévoué, vous êtes tout cela. Acceptez-vous? Enthousiasmé, le soldat de deuxième classe Loniam s'écria:</p>
+        <p>— Oui mon lieutenant, de grand cœur !</p>
+        <p>Et voilà comment l'ordonnance Loniam, le fantassin Loniam, était devenu Jacques tout court, valet de chambre de l'aviateur Pierre Lathon.</p>
+        <p>Ah! ce n'était pas un domestique ordinaire, il avait conservé pour son maître le respect du soldat pour son officier.</p>
+        <p>C'est tout juste s'il ne joignait pas les talons en lui adressant la parole, et parfois, il lui arrivait de l'appeler encore « mon lieutenant ».</p>
+        <p>Maintenant, Paris l'avait tout à fait formé, le naïf normand, d'une crédulité à toute épreuve, avait fait place à un fin matois, au courant de toutes les exigences de son métier et plus roublard à lui tout seul qu'une demi-douzaine de valets de chambre.</p>
+        <p>Beau garçon, Jacques Loniam ne désespérait pas d'épouser une ravissante feguné de chambre qui, dans le même immeuble, était au service d'une vicomtesse des plus riches. L'assiduité qu'il lui témoignait, ne l'empêchait aucunement d'assurer son service.</p>
+        <p>Donc, en cette matinée, un visiteur avait le don d'exaspérer Jacques par sa persistance à vouloir pénétrer dans le coquet et minuscule appartement qu'habitait Pierre Lathon.</p>
+        <p>Les coups devenant de plus en plus forts et Jacques malgré son flegme normand commençant à perdre patience, il se décida à aller ouvrir.</p>
+        <p>Pans la demi-obscurité du palier, un homme de haute taille, très chic, très élégant, apparut. Il prit la parole et l'on distinguait aisément dans son accent une mauvaise humeur passagère.</p>
         <p>— Eh bien, dit-il, vous ne m'entendez donc pas? Votre maître est-il là?</p>
         <p>— Il est là, monsieur, mais il ne reçoit personne.</p>
         <p>— Il me recevra.</p>
         <p>— Non monsieur.</p>
         <p>— Mais vous êtes insupportable, mon ami, je vous dis d'aller avertir votre maître que je suis là : le marquis de la Lande.</p>
-        <p>Jacques s'inclina, il avait aussi le respect des titres, mais il avait avanttout celui de la consigne.</p>
-        <p>— Monsieur le marquis voudra bien repasser, dit-il, monsieur Lathon est couchéet ne se lèvera qu'à midi.</p>
-        <p>Perplexe, le marquis de la Lande se taisait, lorsque la voix de l'aviateur s'éleva: Il est là mais il ne reçoit personne (page 16) — Entrez donc, cher monsieur, je suis à vous dans un instant. Jacques conduisez monsieur dans mon bureau.</p>
-        <p>Pierre Mathon venait de se réveiller en sursaut et avait reconnu la voix dumarquis. Pendant que ce dernier était introduit dans son bureau, il s'habillaen bâte.</p>
-        <p>Quelques minutes plus tard U pénétrait à son tour dans 1% pièce où le marquisl'attendait.</p>
-        <p>Ile se serrèrent la main avec effusion, car le marquis estimait fort Pierre La-thon et ce dernier tenait le marquis en très haute considération.</p>
-        <p>H avait en effet encouragé depuis trente ans toutes les entreprises modernes lesplus audacieuses comme les plus utiles.</p>
-        <p>Grâce à lui, l'automobile avait fait des progrès gigantesques, ses usines deMontrouge livraient bon an mal an des milliers de machines munies desderniers perfectionnements.</p>
-        <p>Grâce â lui, également, l'aéroplane avait été expérimenté en France, où lesexploits des frères Wright n'avaient trouvé que de trop lointains et de trop,sourds échos.</p>
-        <p>Nous avons vu enfin* que le marquis clc la Lande avait donné deux cent mille franc», au banquet de l'Aéro-Club, pour le raid vers le Pôle*.</p>
-        <p>— Bonjour mon cher voleur, dit le marquis en riant, lorsque Pierre Lathon ap*parut dans le bureau.</p>
-        <p>— Bonjour mon cher! repartit Pierre Lathon, que me vaut l'honneur de votrevisite... matinale, si j'ose dire?</p>
+        <p>Jacques s'inclina, il avait aussi le respect des titres, mais il avait avant tout celui de la consigne.</p>
+        <p>— Monsieur le marquis voudra bien repasser, dit-il, monsieur Lathon est couché et ne se lèvera qu'à midi.</p>
+        <p>Perplexe, le marquis de la Lande se taisait, lorsque la voix de l'aviateur s'éleva: Il est là mais il ne reçoit personne — Entrez donc, cher monsieur, je suis à vous dans un instant. Jacques conduisez monsieur dans mon bureau.</p>
+        <p>Pierre Lathon venait de se réveiller en sursaut et avait reconnu la voix du marquis. Pendant que ce dernier était introduit dans son bureau, il s'habilla en bâte.</p>
+        <p>Quelques minutes plus tard, il pénétrait à son tour dans la pièce où le marquis l'attendait.</p>
+        <p>Ile se serrèrent la main avec effusion, car le marquis estimait fort Pierre Lathon et ce dernier tenait le marquis en très haute considération.</p>
+        <p>Il avait en effet encouragé depuis trente ans toutes les entreprises modernes les plus audacieuses comme les plus utiles.</p>
+        <p>Grâce à lui, l'automobile avait fait des progrès gigantesques, ses usines de Montrouge livraient bon an mal an des milliers de machines munies des derniers perfectionnements.</p>
+        <p>Grâce à lui, également, l'aéroplane avait été expérimenté en France, où les exploits des frères Wright n'avaient trouvé que de trop lointains et de trop sourds échos.</p>
+        <p>Nous avons vu enfin que le marquis de la Lande avait donné deux cent mille franc, au banquet de l'Aéro-Club, pour le raid vers le Pôle.</p>
+        <p>— Bonjour mon cher voleur, dit le marquis en riant, lorsque Pierre Lathon apparut dans le bureau.</p>
+        <p>— Bonjour mon cher! repartit Pierre Lathon, que me vaut l'honneur de votre visite... matinale, si j'ose dire?</p>
         <p>— Hum' ! Osez toujours !... Matinale, dix heures et quart!</p>
-        <p>— Couché, deux heures 1</p>
+        <p>— Couché, deux heures !</p>
         <p>— Diable! Petit lever alors: midi! Je suis un importun, je m'en vais, vous pourrez vous recoucher.</p>
         <p>— Vous plaisantez, restez donc! Et dites-moi: quoi de nouveau?</p>
-        <p>— Eh bien oui, mon cher, quoi de nouveau? C'est à vous qu'il convient de posercette question. Il y a une semaine que l'idée du concours international de lacourse au Pôle est lancée. Vous savez le succès qui vient de l'accueillir, avez-vous songé aux dispositions qu'il vous convenait de prendre?</p>
+        <p>— Eh bien oui, mon cher, quoi de nouveau? C'est à vous qu'il convient de poser cette question. Il y a une semaine que l'idée du concours international de la course au Pôle est lancée. Vous savez le succès qui vient de l'accueillir, avez-vous songé aux dispositions qu'il vous convenait de prendre?</p>
         <p>Pierre Lathon eut un geste gamin :</p>
         <p>— Ma foi non !</p>
-        <p>— Voilà qui est un grand tort. L'expédition, d'après le règlement de l'Aéro-Club, qui a paru hier, partira dans trois mois. Vous n'avez pas trop de tempspour vous préparer. Maintenant mon cher La- thon, laissez-moi vous dire que vous pouvez absolument compter sur mon concours financier.</p>
-        <p>« Je vous demande comme un service de puiser dans ma caisse, vous me ferezplaisir. Si vous gagnez le million et les six cent mille francs qui serontdécernés au premier prix, vous me rembourserez, sinon vous n'aurez à vousoccuper de rien.</p>
+        <p>— Voilà qui est un grand tort. L'expédition, d'après le règlement de l'Aéro-Club, qui a paru hier, partira dans trois mois. Vous n'avez pas trop de temps pour vous préparer. Maintenant mon cher La- thon, laissez-moi vous dire que vous pouvez absolument compter sur mon concours financier.</p>
+        <p>« Je vous demande comme un service de puiser dans ma caisse, vous me ferez plaisir. Si vous gagnez le million et les six cent mille francs qui seront décernés au premier prix, vous me rembourserez, sinon vous n'aurez à vous occuper de rien.</p>
         <p>— Vous êtes réellement trop aimable!</p>
-        <p>— Non ! j'aime mon pays et je veux le servir de toutes les façons. Je vous connais, je vous apprécie à votre juste valeur, je sais que vous ferez tout votrepossible pour gagner le prix, aussi je veux vous encourager.</p>
-        <p>Vivement ému de cette marque de sollicitude, Pierre Lathon serra la main dumarquis avec chaleur en disant :</p>
-        <p>— Merci! je veux me rendre digne de la sympathie que vous me témoignez et jevous assure que je ferai l'impossible pour réussir.</p>
-        <p>— Bien! Ne perdons pas de temps à parler de tout cela et causons de chosessérieuses : avez-vous un atelier assez grand pour construire votre appareil?</p>
-        <p>— Mon atelier d'Asnières me paraît largement suffisant. — Non ! il ne dispose pas de tout l'outillage nécessaire» il ne faut riennégliger» mon cher ami» vous le savez bien, vous allez me faire le plaisir devenir vous installer dans mon usine de Montrouge. Vous aurez ainsi sous la maintout ce que vous pourrez désirer. Est-ce dit?</p>
-        <p>— Vous le proposez si aimablement que je n'ose refuser. Soit, je serai votrehôte.</p>
+        <p>— Non ! j'aime mon pays et je veux le servir de toutes les façons. Je vous connais, je vous apprécie à votre juste valeur, je sais que vous ferez tout votre possible pour gagner le prix, aussi je veux vous encourager.</p>
+        <p>Vivement ému de cette marque de sollicitude, Pierre Lathon serra la main du marquis avec chaleur en disant :</p>
+        <p>— Merci! je veux me rendre digne de la sympathie que vous me témoignez et je vous assure que je ferai l'impossible pour réussir.</p>
+        <p>— Bien! Ne perdons pas de temps à parler de tout cela et causons de choses sérieuses : avez-vous un atelier assez grand pour construire votre appareil?</p>
+        <p>— Mon atelier d'Asnières me paraît largement suffisant. — Non ! il ne dispose pas de tout l'outillage nécessaire ; il ne faut rien négliger, mon cher ami, vous le savez bien, vous allez me faire le plaisir devenir vous installer dans mon usine de Montrouge. Vous aurez ainsi sous la main tout ce que vous pourrez désirer. Est-ce dit?</p>
+        <p>— Vous le proposez si aimablement que je n'ose refuser. Soit, je serai votre hôte.</p>
         <p>— Et vous gagnerez la course?</p>
         <p>— Je tâcherai!</p>
         <p>— Si! Il le faut pour notre honneur national ! Vous serez champion du monde!</p>
-        <p>Le marquis se leva du fauteuil où il s'était assis puis, serrant de nouveau lamain de Pierre Lathon, il se retira sur ces mots:</p>
-        <p>— Excusez-moi, j'ai des courses à faire jusqu'à midi... je vous attends àl'usine, sans faute n'est-ce pas ? Cette après-midi ? Viendrez-vous ?</p>
+        <p>Le marquis se leva du fauteuil où il s'était assis puis, serrant de nouveau la main de Pierre Lathon, il se retira sur ces mots:</p>
+        <p>— Excusez-moi, j'ai des courses à faire jusqu'à midi... je vous attends à l'usine, sans faute n'est-ce pas ? Cette après-midi ? Viendrez-vous ?</p>
         <p>— J'irai! répondit Pierre Lathon.</p>
       </div>
-      <pb/>
       <div type="chapter">
         <head>QUELQUES VISITEURS INATTENDUS</head>
-        <p>Pierre Lathon était installé dans les usines du marquis de la Lande depuis déjàplus d'un mois.</p>
-        <p>Bien ne lui manquait 1 L'outillage était sans pareil, la main-d'œuvre de premierordre.</p>
-        <p>L'atelier où se construisait l'aéroplane destiné à la course du Pôle était isoledes autres constructions de l'usine.</p>
-        <p>Pour y pénétrer il fallait montrer patte blanche, car Lathon n'aimait pas — àjuste raison — être dérangé dans son travail. Le marquis de la Lande et luis'enfermaient parfois dans le petit bureau adjoint à l'atelier, et là tousdeux se passionnaient à résoudre des équations ou à tracer des plans decertaines pièces de l'aéroplane.</p>
-        <p>Celui-ci s'avançait fort, c'était une machine du mode précédemment adopté parl'aviateur. Mais elle avait reçu plusieurs adjonctions: la place réservée aupilote était plus vaste et pouvait loger troi3 personnes, de plus elle étaitentièrement re- couverte d'une cloison en peau de mouton qui devait assurer l'habitabilitéparfaite de ce minuscule réduit par les froids les plus rigoureux.</p>
-        <p>Un système spécial de calorifère devait y entretenir une température modérée etl'on ne voyait l'extérieur que par un vaste panneau que des feuilles de micarecouvraient en partie.</p>
+        <p>Pierre Lathon était installé dans les usines du marquis de la Lande depuis déjà plus d'un mois.</p>
+        <p>Rien ne lui manquait ! L'outillage était sans pareil, la main-d'œuvre de premier ordre.</p>
+        <p>L'atelier où se construisait l'aéroplane destiné à la course du Pôle était isolé des autres constructions de l'usine.</p>
+        <p>Pour y pénétrer il fallait montrer patte blanche, car Lathon n'aimait pas — à juste raison — être dérangé dans son travail. Le marquis de la Lande et lui s'enfermaient parfois dans le petit bureau adjoint à l'atelier, et là tous deux se passionnaient à résoudre des équations ou à tracer des plans de certaines pièces de l'aéroplane.</p>
+        <p>Celui-ci s'avançait fort, c'était une machine du mode précédemment adopté par l'aviateur. Mais elle avait reçu plusieurs adjonctions: la place réservée au pilote était plus vaste et pouvait loger trois personnes, de plus elle était entièrement recouverte d'une cloison en peau de mouton qui devait assurer l'habitabilité parfaite de ce minuscule réduit par les froids les plus rigoureux.</p>
+        <p>Un système spécial de calorifère devait y entretenir une température modérée et l'on ne voyait l'extérieur que par un vaste panneau que des feuilles de mica recouvraient en partie.</p>
         <p>L'appareil était un monoplan, sa grandeur était impressionnante.</p>
-        <p>Les moteurs — car il y en avait deux — avaient é«é l'objet de soinsparticuliers, ils étaient logés eux aussi dans une aorte de petite cabine situéeà l'avant de l'aéroplane, et du volant de direction on pouvait les inspecteren soulevant un simple volet d'acajou.</p>
-        <p>Suivant un conseil du marquis de la Lande, Pierre Latbon avait décidé quel'expédition française comporterait trois personnes: le mécanicien, un médecinet lui-même.</p>
-        <p>Le médecin qu'avait choisi l'aviateur n'était pas le premier venu. Il s'appelaitLucien Golfech, et dans les milieux médicaux, de même que dans les milieuxscientifiques il avait acquis une juste renommée.</p>
-        <p>Trente ans à peine, et déjà Lucien Çk&gt;l- fech avait étonné ses camarades et ses professeurs par les remarquables travauxqu'il avait publiés sur les maladies de cœur.</p>
-        <p>H s'affirmait comme un jeune maître ! H avait été le médecin de la missionBerdoulet-Ladoubran, qui avait définitivement exploré la région — encore simystérieuse ü y a quelque temps — du lac Tschad.</p>
-        <p>Il avait séjourné au Congo, et ses observations sur la maladie du sommeilainsi que sur les fièvres paludéennes, avaient occupé toute une séance del'Académie de médecine.</p>
-        <p>Nous l'avons dit plus haut, Lucien Gol- fech n'était pas seulement un médecindes plus éminents, mais encore c'était un scientifique.</p>
-        <p>Des travaux sur les rayons N lui avaient ouvert les portes de tous leslaboratoires, on l'y accueillait avec joie, car son esprit clair, lucide etinventif, trouvait parfois des solutions à des problèmes d'une complicationabracadabrante.</p>
+        <p>Les moteurs — car il y en avait deux — avaient été l'objet de soins particuliers, ils étaient logés eux aussi dans une sorte de petite cabine située à l'avant de l'aéroplane, et du volant de direction on pouvait les inspecter en soulevant un simple volet d'acajou.</p>
+        <p>Suivant un conseil du marquis de la Lande, Pierre Lathon avait décidé que l'expédition française comporterait trois personnes: le mécanicien, un médecin et lui-même.</p>
+        <p>Le médecin qu'avait choisi l'aviateur n'était pas le premier venu. Il s'appelait Lucien Golfech, et dans les milieux médicaux, de même que dans les milieux scientifiques, il avait acquis une juste renommée.</p>
+        <p>Trente ans à peine, et déjà Lucien Golfech avait étonné ses camarades et ses professeurs par les remarquables travaux qu'il avait publiés sur les maladies de cœur.</p>
+        <p>Il s'affirmait comme un jeune maître ! Il avait été le médecin de la mission Berdoulet-Ladoubran, qui avait définitivement exploré la région — encore si mystérieuse il y a quelque temps — du lac Tschad.</p>
+        <p>Il avait séjourné au Congo, et ses observations sur la maladie du sommeil ainsi que sur les fièvres paludéennes, avaient occupé toute une séance de l'Académie de médecine.</p>
+        <p>Nous l'avons dit plus haut, Lucien Golfech n'était pas seulement un médecin des plus éminents, mais encore c'était un scientifique.</p>
+        <p>Des travaux sur les rayons N lui avaient ouvert les portes de tous les laboratoires, on l'y accueillait avec joie, car son esprit clair, lucide et inventif, trouvait parfois des solutions à des problèmes d'une complication abracadabrante.</p>
         <p>Tel était l'homme que Pierre Lathon s'était adjoint comme collaborateur.</p>
-        <p>C'était au demeurant un charmant garçon, très gai, exempt de toute pédanterieet sachant tenir une conversation sur n'im- portp quel sujet — chose assez rare et digne d'être signalée chez unscientifique.</p>
-        <p>Quant au mécanicien, il est déjà connu de nos lecteurs, c'était Jacques Loniam,le valet de chambre de Pierre Lathon et son ancien ordonnance.</p>
-        <p>Pour ceux qui seraient surpris de ce choix, nous donnerons volontiers quelquesexplications.</p>
-        <p>Jacques Loniam n'avait certes rien d'un mécanicien, il ignorait l'art degraisser un moteur, de le mettre en marche ou de le réparer.</p>
-        <p>Mais lorsqu'il avait appris que son maître allait partir pour le Pôle, ilavait conçu le projet de l'y accompagner.</p>
-        <p>Très franchemant, il exposa son désir à Pierre Lathon.</p>
-        <p>— Mais mon vieux Jacques, lui fit observer le jeune homme, vous êtes fou!Savez-vous conduire seulement une automobile ?</p>
+        <p>C'était au demeurant un charmant garçon, très gai, exempt de toute pédanterie et sachant tenir une conversation sur n'importe quel sujet — chose assez rare et digne d'être signalée chez un scientifique.</p>
+        <p>Quant au mécanicien, il est déjà connu de nos lecteurs, c'était Jacques Loniam, le valet de chambre de Pierre Lathon et son ancien ordonnance.</p>
+        <p>Pour ceux qui seraient surpris de ce choix, nous donnerons volontiers quelques explications.</p>
+        <p>Jacques Loniam n'avait certes rien d'un mécanicien, il ignorait l'art de graisser un moteur, de le mettre en marche ou de le réparer.</p>
+        <p>Mais lorsqu'il avait appris que son maître allait partir pour le Pôle, il avait conçu le projet de l'y accompagner.</p>
+        <p>Très franchement, il exposa son désir à Pierre Lathon.</p>
+        <p>— Mais mon vieux Jacques, lui fit observer le jeune homme, vous êtes fou! Savez-vous conduire seulement une automobile ?</p>
         <p>— Non monsieur.</p>
-        <p>— Et vous voulez conduire un aéroplane dans les régions polaires. Peste monpetit, vous n'êtes pas dénué d'ambition.</p>
+        <p>— Et vous voulez conduire un aéroplane dans les régions polaires. Peste mon petit, vous n'êtes pas dénué d'ambition.</p>
         <p>Jacques ne se tenait pas pour battu, il insista :</p>
         <p>— Je ferai remarquer à monsieur que j'étais autrefois un simple paysan maladroit et peu instruit.</p>
         <p>— Et après?</p>
-        <p>— Je ferai remarquer aussi à monsieur qu'en très peu de temps je suis devenu,grâce à monsieur, un valet de chambre en qui l'on peut avoir touteconfiance.</p>
+        <p>— Je ferai remarquer aussi à monsieur qu'en très peu de temps je suis devenu, grâce à monsieur, un valet de chambre en qui l'on peut avoir toute confiance.</p>
         <p>— C'est vrai, mais quelle déduction voulez-vous tirer de ce fait?</p>
-        <p>— Monsieur a fait de moi un bon valet de chambre, il pourrait en faire un bom unexcellent mécanicien.</p>
-        <p>Pierre Lathon, désarmé par ce raison- sonnement, se mit à rire et délibérémentil décida:</p>
-        <p>— Allons, quand on a de la bonne volonté c'est déjà quelque chose, mais je vouspréviens mon bon Jacques, si un mois avant mon départ pour les régionspolaires vous ne me donnez pas complète satisfaction, je vous prierai de resteraux Champs-E lysé js et d'y brosser avec la plus grande attention mes meubleset mes tapis pendant mon absence.</p>
-        <p>Jacques Loniam avait accepté et courageusement s'était mis à l'étude, tous lesjours il venait à l'usine de la Lande et s'instruisait du mieux qu'ilpouvait.</p>
-        <p>Si bien qu'un matin ü eut la joie de s'entendre dire par son maître: — Jacques, jè tiens à vous dire que .vous m'accompagnerez au Pôle, vous faitesdes progrès stupéfiants.</p>
-        <p>Jacques Loniam se rengorgea et ne fut pas éloigné en cet instant de seprendre</p>
-        <p>Ce jour là, l'équipage du navire aérien était réuni au grand complet, le docteurLucien Golfech expliquait au marquis de la Lande et à Pierre Lathon quels approvisionnements médicaux il emportait avec lui. Dans un coin de l'atelier,Jacques, tout en serrant un écrou, écoutait attentivement.</p>
-        <p>Un ouvrier entra et vint accoster le marquis à qui il parla à voix basse. Lemarquis eut un mouvement étonné puis donna l'ordre suivant:</p>
-        <p>— Conduisez ce monsieur et cette dame ici L'ouvrier disparut, le marquis ajouta pour ses interlocuteurs :</p>
-        <p>— Une surprise, messieurs, voici une visite au moins inattendue : Le concur-</p>
-        <p>Tohnson Faber, sa femme et</p>
-        <p>Quelques minutes s'écoulèrent, puis les nouveaux arrivants firent leur entrée.Les présentations eurent lieu rapidement et de façon brève. Johnson Faber était une homme d'une quarantaine d'années, à la figure complètement rasée, au regard énergique et investigateur.</p>
-        <p>Sa femme Katy avait environ trente- cinq ans, elle s'était mariée toute jeune etavait l'air d'adorer Johnson Faber, car les regards qu'elle lui lançait disaienttrès ingénûxnent l'admiration et l'estime dans laquelle elle le tenait.</p>
+        <p>— Monsieur a fait de moi un bon valet de chambre, il pourrait en faire un bon, un excellent mécanicien.</p>
+        <p>Pierre Lathon, désarmé par ce raisonnement, se mit à rire et délibérément il décida:</p>
+        <p>— Allons, quand on a de la bonne volonté c'est déjà quelque chose, mais je vous préviens mon bon Jacques, si un mois avant mon départ pour les régions polaires vous ne me donnez pas complète satisfaction, je vous prierai de rester aux Champs-Elysées et d'y brosser avec la plus grande attention mes meubles et mes tapis pendant mon absence.</p>
+        <p>Jacques Loniam avait accepté et courageusement s'était mis à l'étude, tous les jours il venait à l'usine de la Lande et s'instruisait du mieux qu'il pouvait.</p>
+        <p>Si bien qu'un matin il eut la joie de s'entendre dire par son maître: — Jacques, je tiens à vous dire que vous m'accompagnerez au Pôle, vous faites des progrès stupéfiants.</p>
+        <p>Jacques Loniam se rengorgea et ne fut pas éloigné en cet instant de se prendre pour un grand homme.</p>
+        <p>Ce jour là, l'équipage du navire aérien était réuni au grand complet, le docteur Lucien Golfech expliquait au marquis de la Lande et à Pierre Lathon quels approvisionnements médicaux il emportait avec lui. Dans un coin de l'atelier,Jacques, tout en serrant un écrou, écoutait attentivement.</p>
+        <p>Un ouvrier entra et vint accoster le marquis à qui il parla à voix basse. Le marquis eut un mouvement étonné puis donna l'ordre suivant:</p>
+        <p>— Conduisez ce monsieur et cette dame ici.</p>
+        <p>L'ouvrier disparut, le marquis ajouta pour ses interlocuteurs :</p>
+        <p>— Une surprise, messieurs, voici une visite au moins inattendue : Le concurrent anglais, Johnson Faber, sa femme et sa fille Nelly !</p>
+        <p>Quelques minutes s'écoulèrent, puis les nouveaux arrivants firent leur entrée. Les présentations eurent lieu rapidement et de façon brève. Johnson Faber était une homme d'une quarantaine d'années, à la figure complètement rasée, au regard énergique et investigateur.</p>
+        <p>Sa femme Katy avait environ trente-cinq ans, elle s'était mariée toute jeune et avait l'air d'adorer Johnson Faber, car les regards qu'elle lui lançait disaient très ingénûment l'admiration et l'estime dans laquelle elle le tenait.</p>
         <p>Elle était d'une beauté très régulière et joignait à une grâce naturelle une désinvolture charmante, un laisser-aller délicieux .</p>
-        <p>Nelly Faber avait dix-sept ans, c'était la plus exquise frimousse de jeuneanglaise qu'on puisse rêver.</p>
-        <p>Brune, chose plutôt rare chez les femmes de sa race, elle avait les yeux lesplus malicieux et les plus rieurs. Une petite bouche très gracieuse et trèsmobile achevait de donner à sa physionomie une expression changeante et trèssympathique.</p>
-        <p>Johnson Faber, de passage à Paris, avait tenu à rendre visite à Pierre Lathonqu'il avait vu une fois au meeting de Blaak- pool et entrevu seulement à celuide Berlin.</p>
-        <p>— Etes-vous prêt? demanda-t-il.</p>
-        <p>— Pas encore, répondit le jeune aviateur, mais d'ici quelques jours je compte exé- cuter ma première sortie avec cet appareil. Voulez-vous vous approcher, je vais vous le montrer.</p>
-        <p>Avec une coquetterie toute française, il montra son monoplan à son concurrent. Hfaut dire d'ailleurs pour la louange de ce dernier, que Jolmson Faber n'eut pasdemandé mieux que d'agir de la même façon.</p>
-        <p>Lorsqu'il vit la cabine du conducteur, il s'écria avec le plus pur accentfrançais :</p>
+        <p>Nelly Faber avait dix-sept ans, c'était la plus exquise frimousse de jeune anglaise qu'on puisse rêver.</p>
+        <p>Brune, chose plutôt rare chez les femmes de sa race, elle avait les yeux les plus malicieux et les plus rieurs. Une petite bouche très gracieuse et très mobile achevait de donner à sa physionomie une expression changeante et très sympathique.</p>
+        <p>Johnson Faber, de passage à Paris, avait tenu à rendre visite à Pierre Lathon qu'il avait vu une fois au meeting de Blackpool et entrevu seulement à celui de Berlin.</p>
+        <p>— Êtes-vous prêt? demanda-t-il.</p>
+        <p>— Pas encore, répondit le jeune aviateur, mais d'ici quelques jours je compte exécuter ma première sortie avec cet appareil. Voulez-vous vous approcher, je vais vous le montrer.</p>
+        <p>Avec une coquetterie toute française, il montra son monoplan à son concurrent. Il faut dire d'ailleurs pour la louange de ce dernier, que Johnson Faber n'eut pas demandé mieux que d'agir de la même façon.</p>
+        <p>Lorsqu'il vit la cabine du conducteur, il s'écria avec le plus pur accent français :</p>
         <p>— Combien de places dans votre appareil ? Au moins trois, n'est-ce pas ?</p>
-        <p>— Trois en effet, et voici mes collaborateurs 1</p>
-        <p>D'un geste large, il désigna Lucien Gol- fech qu'il présenta, puis Jacques quifit une révérence pour répondre au petit salut bref de l'aviateur anglais.</p>
-        <p>—. Oui, reprenait Pierre Lathon, nous serons trois pour tenter cette épreuve, jecrois que ce ne sera pas trop.</p>
-        <p>— C'est un minimum, en effet, dit à. son tour Johnson Faber. Mes collaborateurs à moi, les voici: Katy et Nellyl</p>
-        <p>Et le sourire aux lèvres, ü montra sa femme et sa fille qui s'inclinèrent.</p>
-        <p>— Mesdames, dit Pierre Lathon, je ne puis que vous féliciter de .votreaudace et je ne puis qu'envier M. Faber d'avoir avec lui de telles compagnes. Sij'avais été marié, certainement ma femme aurait été de l'expédition. Quelsencouragements constants, quelles énergies ne doit-on pas trouver dans une tellecollaboration?</p>
+        <p>— Trois en effet, et voici mes collaborateurs !</p>
+        <p>D'un geste large, il désigna Lucien Golfech qu'il présenta, puis Jacques qui fit une révérence pour répondre au petit salut bref de l'aviateur anglais.</p>
+        <p>— Oui, reprenait Pierre Lathon, nous serons trois pour tenter cette épreuve, je crois que ce ne sera pas trop.</p>
+        <p>— C'est un minimum, en effet, dit à son tour Johnson Faber. Mes collaborateurs à moi, les voici: Katy et Nelly !</p>
+        <p>Et le sourire aux lèvres, il montra sa femme et sa fille qui s'inclinèrent.</p>
+        <p>— Mesdames, dit Pierre Lathon, je ne puis que vous féliciter de votre audace et je ne puis qu'envier M. Faber d'avoir avec lui de telles compagnes. Si j'avais été marié, certainement ma femme aurait été de l'expédition. Quels encouragements constants, quelles énergies ne doit-on pas trouver dans une telle collaboration?</p>
         <p>Johnson Faber hocha la tête et reprit:</p>
-        <p>— Oui, c'est une collaboration à laquelle il me serait pénible derenoncer.</p>
-        <p>Fuis, changeant soudain de conversation, ü dit:</p>
-        <p>— Avez-vous vu que le dirigeable allemand du comte Dreppelin va se rendre auPôle lui aussi ?</p>
+        <p>— Oui, c'est une collaboration à laquelle il me serait pénible de renoncer.</p>
+        <p>Fuis, changeant soudain de conversation, il dit:</p>
+        <p>— Avez-vous vu que le dirigeable allemand du comte Dreppelin va se rendre au Pôle lui aussi ?</p>
         <p>Pierre Lathon s'étonna :</p>
-        <p>— Pas possible, vous m'apprenez cette nouvelle 1</p>
-        <p>— Oui, et j'estime qu'il y a là une lutte du plus haut intérêt entre le pluslourd que Voir et le plus léger!</p>
-        <p>— Nous remporterons la victoire ! D'ailleurs, le dirigeable Dreppelin nesaurait être un concurrent pour nous, puisque le règlement de l'Aéro-Club a bienspécifié que l'épreuve internationale ne serait disputée que par desaéroplanes.</p>
-        <p>— Oui, mais il y a là tout de même une concurrence morale. Le Dreppelin setrouvera à peu près à la même époque que nous au Spitzberg, le lieu d'oùnous</p>
-        <p>i devons partir. M. Lathon, je vais vous poser une question qui vous semblerapeut-être un peu naïve : Comptez-vous triompher ?</p>
-        <p>— Mais pourquoi pas ? D'ailleurs, j'ai baptisé mon aéroplane du nom de « Pourquoi pàs? » Voyez-voua, M. Faber, lorsqu'on a la volonté de vaincre, vaincren'est rien. C'est aussi vrai pour nous autres pionniers de l'air que pour lesofficiers et même les simples soldats.</p>
-        <p>Le visage de Joknson Faber rayonnait :</p>
-        <p>— Serrons-nous la main 1 s'exclama l'anglais. Je suis heureux d'avoir unconcurrent tel que vous. Moi aussi je veux triompher l Moi aussi je dispourquoi pas ? Et c'est ainsi qu'il faut être, M. Lathon : acharné à pouvoir ceque l'on veut et décidé à tous les efforts, à tous les hé- roïsmes...</p>
-        <p>« Oui, je suis content de penser que nous tenterons l'épreuve ensemble, voilàqui va me stimuler, car nos autres concurrents, vous savez, c'est piteux.</p>
-        <p>« L'on se demande où les autres pays ont déniché ces gens-là... ils n'ontpresque pas paru dans nos meetings officiels et internationaux.</p>
+        <p>— Pas possible, vous m'apprenez cette nouvelle !</p>
+        <p>— Oui, et j'estime qu'il y a là une lutte du plus haut intérêt entre <hi>le plus lourd que l'air et le plus léger !</hi></p>
+        <p>— Nous remporterons la victoire ! D'ailleurs, le dirigeable Dreppelin ne saurait être un concurrent pour nous, puisque le règlement de l'Aéro-Club a bien spécifié que l'épreuve internationale ne serait disputée que par des aéroplanes.</p>
+        <p>— Oui, mais il y a là tout de même une concurrence morale. Le Dreppelin se trouvera à peu près à la même époque que nous au Spitzberg, le lieu d'où nous devons partir. M. Lathon, je vais vous poser une question qui vous semblera peut-être un peu naïve : Comptez-vous triompher ?</p>
+        <p>— Mais pourquoi pas ? D'ailleurs, j'ai baptisé mon aéroplane du nom de « Pourquoi pas? » Voyez-voua, M. Faber, lorsqu'on a la volonté de vaincre, vaincre n'est rien. C'est aussi vrai pour nous autres pionniers de l'air que pour les officiers et même les simples soldats.</p>
+        <p>Le visage de Johnson Faber rayonnait :</p>
+        <p>— Serrons-nous la main ! s'exclama l'anglais. Je suis heureux d'avoir un concurrent tel que vous. Moi aussi je veux triompher ! Moi aussi je dis pourquoi pas ? Et c'est ainsi qu'il faut être, M. Lathon : acharné à pouvoir ce que l'on veut et décidé à tous les efforts, à tous les héroïsmes...</p>
+        <p>« Oui, je suis content de penser que nous tenterons l'épreuve ensemble, voilà qui va me stimuler, car nos autres concurrents, vous savez, c'est piteux.</p>
+        <p>« L'on se demande où les autres pays ont déniché ces gens-là... ils n'ont presque pas paru dans nos meetings officiels et internationaux.</p>
         <p>« Vous, vous êtes un audacieux, un loyal compagnon, M. Pierre Lathon, je vous estime et suis fier de vous le dire.</p>
-        <p>Le marquis de la Lande, qui était demeuré silencieux jusqu'à ce moment prit laparole :</p>
-        <p>— M. .Johnson Faber, dit-il, permettez- moi de vous inviter à dîner pour cesoir, vous, madame Faber et mademoiselle Nelly, nous aurons pour compagnonsPierre Lathon et le docteur Lucien Golfech. Ce sera pour nous une belle occasionde faire plus amplement connaissance. C'e3t dit?</p>
-        <p>Joyeusement, Faber accepta après avoir consulté sa femme et sa fille duregard.</p>
-        <p>Quelques minutes plus tard, l'anglais quittait l'usine après avoir pris rendez-vous pour l'après-midi, à l'heure du thé, au Palace-Hôtel, ou l'aviateur étaitdescendu .</p>
-        <p>Après leur départ, Lucien Golfech qui ne détestait pas pratiquer la moquerie,s'écria :</p>
-        <p>— Hé I Hé 1 Pierre Lathon, je crois que la (petite Nelly Faber ne vous regardepas d'un œil indifférent!</p>
+        <p>Le marquis de la Lande, qui était demeuré silencieux jusqu'à ce moment prit la parole :</p>
+        <p>— M. Johnson Faber, dit-il, permettez-moi de vous inviter à dîner pour ce soir, vous, madame Faber et mademoiselle Nelly, nous aurons pour compagnons Pierre Lathon et le docteur Lucien Golfech. Ce sera pour nous une belle occasion de faire plus amplement connaissance. C'est dit?</p>
+        <p>Joyeusement, Faber accepta après avoir consulté sa femme et sa fille du regard.</p>
+        <p>Quelques minutes plus tard, l'anglais quittait l'usine après avoir pris rendez-vous pour l'après-midi, à l'heure du thé, au <hi>Palace-Hôtel</hi>, ou l'aviateur était descendu .</p>
+        <p>Après leur départ, Lucien Golfech qui ne détestait pas pratiquer la moquerie, s'écria :</p>
+        <p>— Hé ! Hé ! Pierre Lathon, je crois que la petite Nelly Faber ne vous regarde pas d'un œil indifférent!</p>
         <p>Pierre Lathon haussa les épaules :</p>
         <p>— Vous êtes fou mon cher docteur!</p>
-        <p>— Pas fou du tout ! Mais c'est si naturel, vous n'avez pas l'air de vous douterque vous êtes un héros et que votre réputation est mondiale ! — Quand voua aurez fini de me « chiner », docteur I Le marquis de la Lande les interrompit gentiment :</p>
-        <p>— Dites-moi, mes enfants, si vous bavardiez un peu moins et si vous vousdécidiez à travailler un peu.</p>
+        <p>— Pas fou du tout ! Mais c'est si naturel, vous n'avez pas l'air de vous douter que vous êtes un héros et que votre réputation est mondiale ! — Quand vous aurez fini de me « chiner », docteur !</p>
+        <p>Le marquis de la Lande les interrompit gentiment :</p>
+        <p>— Dites-moi, mes enfants, si vous bavardiez un peu moins et si vous vous décidiez à travailler un peu.</p>
         <p>« Cette visite nous a fait perdre beaucoup de temps, ne trouvez-vous pas ?</p>
         <p>Moqueur, le docteur Lucien Golfech riposta :</p>
-        <p>— On ne perd jamais de temps quand on admire des dames aussi charmantes quemadame et mademoiselle Faber !</p>
+        <p>— On ne perd jamais de temps quand on admire des dames aussi charmantes que madame et mademoiselle Faber !</p>
         <p>Pierre Lathon haussa les épaules une deuxième fois et alluma une cigarette.</p>
-        <p>Quant à Jacques Loniam dans son coin, il jeta un regard furibond au docteur: iln'aimait pas qu'on touche à son maître, même en plaisantant.</p>
+        <p>Quant à Jacques Loniam dans son coin, il jeta un regard furibond au docteur: il n'aimait pas qu'on touche à son maître, même en plaisantant.</p>
       </div>
-      <pb/>
-      <div type="chapter">
-        <head>AËAOV1LLE</head>
+            <div type="chapter">
+        <head>AÉROVILLE</head>
         <p>Vous aurez beau chercher dans le Bot- tin des départements, voire même de l'étranger, vous ne trouverez pas AêrovUîe. En vain demanderez-vous le renseignement au guichet spécial d'une gare ou autélégraphe, on vous répondra sur toute la ligne, si j'ose ainsi m'exprimer :</p>
         <p>— Inconnu t Inconnu I Ne vous payez pas ma tête !</p>
         <p>Et cependant Aêroville existe ou plutôt j a existé, car à l'heure où nousécrivons ce récit, les événements que nouâ racon- • tons ont déjà quelquesannées de date et ; les maisons d'Aéro ville ne sont plus que des amoncellementsde planches vermoulues.</p>
@@ -346,8 +344,7 @@
         <p>Il avait suffi d'une parole jetée dans un banquet où étaient réunis des gensd'audace et d'énergie, il avait suffi d'un enthousiasme provoqué par le beaugeste de l'Aéro-Club et du Gouvernement français... et maintenant, face auxdangers inconnus, face aux bourrasques terribles et indomptables, Aéroville sedressait. Aéroville qui narguait le Pôle Nord, Aéroville d'où les oiseaux detoile et d'aluminium allaient s'envoler vers les contrées inexplorées.</p>
         <p>Et cette solitude du Spitzberg prenait, à être ainsi considérée, un airgrandiose de champ de bataille. Oui, d'un champ de bataille moderne effrayantpar son vide et où l'ennemi bien dissimulé ne se montrait pas.</p>
         <p>Aéroville, certes, valait alors une capitale, c'était l'asile de la sciencequi recueillait ses prosélytes avant de les lancer là. la conquête del'inconnu.</p>
-        <pb/>
-      </div>
+              </div>
       <div type="chapter">
         <head>V</head>
         <head>HAINES ET SYMPATHIES</head>
@@ -416,8 +413,7 @@
         <p>Et Pierre Lathon tout rêveur se demanda à haute voix:</p>
         <p>— Est-il bien exact que j'aime Nelly ?</p>
       </div>
-      <pb/>
-      <div type="chapter">
+            <div type="chapter">
         <head>VI</head>
         <head>AMOUR ET JALOUSIE</head>
         <p>Depuis ce Jour, Pierre Lathon s'étudia curieusement, jamais il n'avait soupçonnéjusqu'à présent qu'il pouvait aimer la jeune fille et être aimé d'elle.</p>
@@ -471,8 +467,7 @@
         <p>Doucement, la jeune fille murmura dans un souffle à peine perceptible:</p>
         <p>— Je .vous aime aussi, monsieur Pierre !</p>
       </div>
-      <pb/>
-      <div type="chapter">
+            <div type="chapter">
         <head>VII</head>
         <head>PREMIERS VOLS</head>
         <p>L'époque de la course s'approchait, l'activité dans les ateliers devenait dejour en jour plus fébrile et les aviateurs mettaient la dernière main à leursappareils.</p>
@@ -512,8 +507,7 @@
         <p>— Monsieur Faber j'ai à vous entretenir d'un projet qui m'est très cher, voulez-vous m'accompagner jusque Chez moi?</p>
         <p>— Mais très volontiers mon amil... je vous suis.</p>
       </div>
-      <pb/>
-      <div type="chapter">
+            <div type="chapter">
         <head>VHI</head>
         <head>BASSES VENGEANCES</head>
         <p>Johnson Faber était assurément l'homme le plus calme et le moins curieux de lacréation.</p>
@@ -654,8 +648,7 @@
         <p>— Vive le marquis! !</p>
         <p>vms i»a wm m</p>
       </div>
-      <pb/>
-      <div type="chapter">
+            <div type="chapter">
         <head>IX</head>
         <head>LA RÉVOLUTION A AÉROVILLE</head>
         <p>'Johnson Fabêr était à présent doublement ému. L'arrivée de sou mécanicienl'avait bouleversé. Hô quoi, l'ennemi mys- tériêbt Se Pierre Lathon s'était doncégalement attaqué à lui.</p>
@@ -781,8 +774,7 @@
         <p>f Mais heureusement, les russes, les autrichiens, les espagnols et lesaméricains veillaient, ils empêchèrent le retour des incidents qui avaient amenéles scènes que nous venons de raconter. Peu à peu la rue du Colonel-Renarddevint déserte comme d'habitude, chacun était rentré chez lui. Et Aérovillereprit son aspect tranquille qui avait été troublé pendant une bonne heure,par une véritable émeute révolutionnaire.</p>
       </div>
       <div type="chapter">
-        <pb/>
-        <head>X</head>
+                <head>X</head>
         <head>JUSTICE I</head>
         <p>Jacques Lavernière était un homme énergique. Quand il voulait quelque chose, üle voulait bien et arrivait toujours à la réalisation de ses désirs.</p>
         <p>L'attentat commis sur les aéroplanes lui parut abominable et il jugea que sonauteur ne pouvait demeurer plus longtemps à Aéroville où il constituait undanger permanent pour tout le monde. Ge tribunal, composé dans les conditions indiquées par Jacques Laverdière, nommapour président Nicolas Weiner, lé c^téor* rent allemand.</p>
@@ -812,8 +804,7 @@
         <p>Nelly le fit remarquer à Pierre Lathon, ce dernier eut un geste de dédain et déclara :</p>
         <p>— Qu'ils aillent se faire pendre ailleurs !</p>
       </div>
-      <pb/>
-      <div type="chapter">
+            <div type="chapter">
         <head>XI</head>
         <head>UNE NUIT TRAGIQUE</head>
         <p>Tout dormait dans Aéroville et pourtant — phénomène singulier 1 — le jour étaitaussi vif qu'en plein midi. Il était une; heure du matin, le froid était un peumoins intense et le vent ne soufflait plus.</p>
@@ -856,8 +847,7 @@
         <p>Nuit tragique qui tuait les deux méca- niciens de Laurent Taliani ; nuit 'tragique, qui privait la course «Spitzberg-Pôle Nord » d'un concurrent de plus.</p>
         <p>La fatalité semblait décidément s'acharner sur Aéroville.</p>
       </div>
-      <pb/>
-      <div type="chapter">
+            <div type="chapter">
         <head>XII</head>
         <head>SIX CONCURRENTS</head>
         <p>Maintenant que Laurent Taliani s'était retiré de la course et que le grand ducSerge Petropstock était tombé sous la bombe nihiliste de son secrétaire FélyneDa- niloff, il ne restait plus que huit concurrents décidés à tenterl'audacieuse randonnée Spitzberg-Pôle Nord et retour.</p>
@@ -885,8 +875,7 @@
         <p>Le japonais Nito, lui, était loin de vouloir abandonner la partie, sonaéroplane volait assez bien et obtenait de bons résultats. Nito étaitravi, ilescomptaitlaréussite.</p>
         <p>Somme toute, sur les six concurrente de Lathoii et Faber, deux étaient dansl'impossibilité de prendre part à la course, à cause de la défectuosité de leursaéroplanes, et les frères Spithson abandonnaient. Il restait Dicquez, Weineret Nito. De ces trois là, Nito semblait jusqu'àj présent être le plusredoutable.</p>
       </div>
-      <pb/>
-      <div type="chapter">
+            <div type="chapter">
         <head>XHI</head>
         <head>LE DÉPART DE LA COURSÉ</head>
         <p>Le grand jour était enfin arrivé, Aéro- viïle était en fête et chacun paraissait‘ joyeux. Au moins en apparence, car l'épreuve était rude et rien ne prouvaitque tous en reviendraient.</p>
@@ -932,8 +921,7 @@
         <p>Nicolas Weiner à son tour atterrit et le jeune français se trouva seul, en routevers le Pôle, confiant dans les moteurs incomparables que lui avait donnés lemarquis de la Lande.</p>
         <p>Les kilomètres fuyaient éperdûment, et toujours la plaine blanche déroulait sondésert lugubre.</p>
       </div>
-      <pb/>
-      <div type="chapter">
+            <div type="chapter">
         <head>XIV</head>
         <head>VERS LE POLE</head>
         <p>Au fur et à mesure qu'ils se rapprochaient du Pôle, les trois françaissentaient leur émotion s'augmenter.</p>
