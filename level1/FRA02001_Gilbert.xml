@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA02001" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -17,14 +15,24 @@
       <extent>
         <measure unit="words">34567</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Hachette Livre 2018--></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          BNF, Gallica
-          <ref target="http://gallica.BnF.fr "/>
-        </bibl><bibl type="firstEdition">
-          NANCY P. PIERRON, IMPRIMEUR-ÉDITEUR
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/>
+        <availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Hachette Livre 2018--></publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <title>Vers le pôle en aéroplane : roman d'aventures</title>
+          <publisher>Gallica</publisher>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k65899h"/>
+          <date>2012</date>
+        </bibl>
+        <bibl type="firstEdition">
+          <title>Vers le pôle en aéroplane: roman d'aventures</title>
+          <pubPlace>Nancy</pubPlace>
+          <publisher>P. Pierron, imprimeur-éditeur</publisher>
           <date>1912</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -34,14 +42,20 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
+      <textClass>
+        <keywords>
+          <term xml:lang="eng">subgenre=adventure novel</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
         <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-11-01">Conversion to level 1 encoding.</change>
       <change when="2019-09-23">File created</change>
     </revisionDesc>
@@ -55,29 +69,36 @@
     <body>
       <div type="chapter">
         <head>LE BANQUET</head>
-        <p>Bans la grande salle des fêtes de 1' « Aéro-Club », le banquet s'achevait. L'on entendait un brouhaha confus de conversations, de vaisselle entrechoquée, d'argenterie remuée. Prestes, les maîtres d'hôtel circulaient entre les tables, les plats à la main.</p>
+        <p>Bans la grande salle des fêtes de 1' « Aéro-Club », le banquet s'achevait. L'on entendait un brouhaha confus de conversations, de vaisselle entrechoquée, d'argenterie remuée. Prestes, les maîtres d'hôtel circulaient entre les tables, les plats à
+          la main.</p>
         <p>Dans une loggia, la musique de la garde républicaine, à demi dissimulée par des plantes vertes et des guirlandes de fleurs, commença une valse lente.</p>
-        <p>La mélodie, d'abord sourde, puis toute menue, devint soudain langoureuse et câline. Chacun l'écoutait sans cependant interrompre la conversation engagée. C'est là l'une des plus grandes influences de la musique, d'avoir quand même prise sur nos sentiments artistiques, alors qu'on n'y prête qu'une attention minime.</p>
+        <p>La mélodie, d'abord sourde, puis toute menue, devint soudain langoureuse et câline. Chacun l'écoutait sans cependant interrompre la conversation engagée. C'est là l'une des plus grandes influences de la musique, d'avoir quand même prise sur nos
+          sentiments artistiques, alors qu'on n'y prête qu'une attention minime.</p>
         <p>Mais il fallait bien le reconnaître, jamais une musique aussi douce, aussi enveloppante n'avait eu autant de chances de plaire à ces nombreux convives que groupait le banquet de l'Aéro-Club.</p>
         <p>C'était une valse spécialement composée pour cette réunion, par le jeune maître Marc Delmas, elle s'intitulait « Horizons » et n'était de la première à la dernière mesure qu'un enchantement.</p>
         <p>C'est que ce soir-là, 1' « Aéro-Club » fêtait les récentes prouesses des aviateurs français, ils étaient tous là au grand (complet, Lathon, Farlan, Clériot, Faulhan, Dougier, et beaucoup d'autres encore.</p>
         <p>Et tous, aux accents de la valse « Horizons », se laissaient aller à rêvasser :oui, c'étaient bien les longues glissades dans l'air pur qu'exprimaient ces phrases musicales.</p>
-        <p>C'étaient bien les voluptés des vols planés et des montées dans l'azur du ciel que rendait avec une suavité exquise la mélodie du compositeur. C'étaient les magnificences des couchers de soleil, admirés depuis les hautes altitudes ; c'étaient les mers nuageuses planant au-dessus de la terre; les plaintes mélancoliques du vent, de l'ennemi, soufflant dans les structures des appareils.</p>
+        <p>C'étaient bien les voluptés des vols planés et des montées dans l'azur du ciel que rendait avec une suavité exquise la mélodie du compositeur. C'étaient les magnificences des couchers de soleil, admirés depuis les hautes altitudes ; c'étaient les
+          mers nuageuses planant au-dessus de la terre; les plaintes mélancoliques du vent, de l'ennemi, soufflant dans les structures des appareils.</p>
         <p>Et peu à peu toutes les conversations se turent, s'apaisèrent, les maîtres d'hôtel eux-mêmes semblaient gênés de circuler et, marchant sur la pointe des pieds, faisaient le moins de bruit possible.</p>
         <p>Avec de langoureux accords, la valse mourut, doucement, doucement... Il y eut une seconde de silence puis le ministre du commerce, le premier, battit des mains.</p>
         <p>Ce fut du délire, une acclamation enthousiaste qui monta vers le plafond de la salle, avec des applaudissements frénétiques .</p>
         <p>De nouveau, le brouhaha recommença, les conversations reprirent, on était arrivé au dessert.</p>
-        <p>Les maîtres d'hôtel apportèrent le champagne et le débouchèrent silencieusement, la mode n'étant plus aux brusques et joyeuses explosions. Cependant chacun en son fors intérieur les désirait, les regrettait ces détonations qui, jadis, étaient synonymes de joie et de gaîté.</p>
+        <p>Les maîtres d'hôtel apportèrent le champagne et le débouchèrent silencieusement, la mode n'étant plus aux brusques et joyeuses explosions. Cependant chacun en son fors intérieur les désirait, les regrettait ces détonations qui, jadis, étaient
+          synonymes de joie et de gaîté.</p>
         <p>En effet, ce banquet n'était-il pas le triomphe de l'aviation et ne pouvait-on désormais considérer l'empire des airs comme définitivement conquis.</p>
         <p>La semaine précédente, Lathon, si populaire en France, n'avait-il pas exécuté d'une seule traite le voyage Bordeaux- Paris, et n'affirmait-il pas à tout le monde qu'il était prêt à exécuter des randonnées d'une bien plus grande étendue.</p>
         <p>La traversée de la Manche ne se faisait-elle pas couramment et les aéroplanes n'étaient-ils pas aussi bien en faveur dans toute la France qu'à Paris?</p>
-        <p>Le ministre du commerce se leva, la coupe à la main, il prononça un discours dans lequel il exaltait le courage français et l'audace des aviateurs réunis à la table d'honneur et, après avoir prodigué les éloges les plus enthousiastes à ceux qui l'entouraient, il termina par l'appel suivant :</p>
+        <p>Le ministre du commerce se leva, la coupe à la main, il prononça un discours dans lequel il exaltait le courage français et l'audace des aviateurs réunis à la table d'honneur et, après avoir prodigué les éloges les plus enthousiastes à ceux qui
+          l'entouraient, il termina par l'appel suivant :</p>
         <p>— Je vous en supplie, messieurs les aviateurs, messieurs les pionniers de l'air qui m'écoutez. Il faut que la France conserve le premier rang dans l'aviation.</p>
         <p>« A qui demander cela, si ce n'est à vous que rien n'effraye et qu'au contraire toutes les audaces attirent.</p>
-        <p>« Oui, messieurs, poursuivez vos expériences, la France vous encouragera. Et je tiens à vous le dire aujourd'hui à vous tous qui m'entourez, vous trouverez toujours auprès du gouvernement une sollicitude constante, une bienveillance de tous les instants.</p>
+        <p>« Oui, messieurs, poursuivez vos expériences, la France vous encouragera. Et je tiens à vous le dire aujourd'hui à vous tous qui m'entourez, vous trouverez toujours auprès du gouvernement une sollicitude constante, une bienveillance de tous les
+          instants.</p>
         <p>« A partir d'aujourd'hui, je crée au ministère du commerce un service spécial exclusivement réservé à l'aviation : venez nous voir.</p>
         <p>« Tout à l'heure j'ai parlé d'encouragements, je tiens à, préciser, nous sommes à votre disposition, messieurs, pour tout ce dont vous aurez besoin.</p>
-        <p>« La main-d'œuvre militaire peut vous être utile, nous vous l'offrons ; nos champs de manœuvre, nos camps d'instruction ? Prenez-les, ils sont à vous ! La France veut vous aider, facilitez sa besogne en lui donnant toute votre confiance, en lui confiant tous vos espoirs.</p>
+        <p>« La main-d'œuvre militaire peut vous être utile, nous vous l'offrons ; nos champs de manœuvre, nos camps d'instruction ? Prenez-les, ils sont à vous ! La France veut vous aider, facilitez sa besogne en lui donnant toute votre confiance, en lui
+          confiant tous vos espoirs.</p>
         <p>« Messieurs, je bois à vos triomphes, je bois à vos santés si précieuses, je bois enfin à l'Aviation française victorieuse !</p>
         <p>Le ministre se rassit, les applaudissements se déchaînèrent.</p>
         <p>Plusieurs orateurs prirent la parole et leur succès ne fut pas moins vif. Enfin le président de l'Aéro-Club fit le discours suivant :</p>
@@ -86,13 +107,17 @@
         <p>« Or, je suis d'avis qu'il nous faut étonner le monde, mais je suis d'avis aussi qu'il nous faut stimuler le génie de notre race en lui donnant l'occasion de lutter avec celui des autres pays.</p>
         <p>« Je vous propose de fonder un prix de trois cent mille francs qui sera donné à l'aviateur qui fera la prouesse dont je vais parler:</p>
         <p>« Nous avons tous été intrigués par les allégations des explorateurs américains : Cook et Peary.</p>
-        <p>« Ils prétendent tous deux avoir découvert le Pôle, leurs documents paraissent assez probants, mais il faudrait aller s'assurer de leurs allégations,contrôler leurs dires et pour cela, messieurs, il me parait que l'aéroplane est merveilleusement indiqué.</p>
+        <p>« Ils prétendent tous deux avoir découvert le Pôle, leurs documents paraissent assez probants, mais il faudrait aller s'assurer de leurs allégations,contrôler leurs dires et pour cela, messieurs, il me parait que l'aéroplane est merveilleusement
+          indiqué.</p>
         <p>« Pourquoi ne tenterait-on pas de gagner le Pôle après s'en être approché le plus près possible par voie de mer.</p>
         <p>« L'aéroplane a rendu bien des services, mais ne rendrait-il pas encore celui- là et ne pourrait-il, d'une seule traite, aller directement au Pôle Nord, en passant par dessus tous les obstacles et en méprisant tous les dangers?</p>
-        <p>« Je crois, messieurs, que la chose est possible, l' « Aéro-Club » estime que l'entreprise est colossale, aussi se borne-t-il à vous dire par ma bouche :nous donnons trois cent mille francs à l'aviateur qui le premier atteindra le pôle et nous en rapportera des renseignements convaincants.</p>
+        <p>« Je crois, messieurs, que la chose est possible, l' « Aéro-Club » estime que l'entreprise est colossale, aussi se borne-t-il à vous dire par ma bouche :nous donnons trois cent mille francs à l'aviateur qui le premier atteindra le pôle et nous en
+          rapportera des renseignements convaincants.</p>
         <p>« Ceci n'empêche pas les bienfaiteurs habituels des sports d'ajouter les sommes qu'ils jugeront nécessaires.</p>
-        <p>« L'épreuve sera internationale, chaque pays ne pourra se faire représenter que par un concurrent; les aviateurs seront transportés à bord d'un bateau spécialement affrété jusqu'au point le plus proche du Pôle ou bien sur la terre ferme,au Groenland par exemple, à un endroit où l'on pourra construire des hangars,destinés au montage des appareils.</p>
-        <p>« L'Aéro-Club fera paraître ces jours-ci un règlement tout à fait précis de l'épreuve, contenant les renseignements les plus exacts. Dans chaque nation, les sociétés d'aviation devront s'entendre pour désigner le concurrent digne de participer à l'épreuve.</p>
+        <p>« L'épreuve sera internationale, chaque pays ne pourra se faire représenter que par un concurrent; les aviateurs seront transportés à bord d'un bateau spécialement affrété jusqu'au point le plus proche du Pôle ou bien sur la terre ferme,au
+          Groenland par exemple, à un endroit où l'on pourra construire des hangars,destinés au montage des appareils.</p>
+        <p>« L'Aéro-Club fera paraître ces jours-ci un règlement tout à fait précis de l'épreuve, contenant les renseignements les plus exacts. Dans chaque nation, les sociétés d'aviation devront s'entendre pour désigner le concurrent digne de participer à
+          l'épreuve.</p>
         <p>« Je vous demande aujourd'hui, messieurs, de désigner celui d'entre nous qui mérite de tenter l'expédition?</p>
         <p>Le président se tût.</p>
         <p>Aussitôt une clameur retentit, de tous côtés le nom de Lathon était prononcé avec enthousiasme.</p>
@@ -118,7 +143,8 @@
         <p>Huit jours s'étaient écoulés depuis le banquet de l'Aéro-Club ; l'idée d'un concours international pour gagner le Pôle avait obtenu un succès universel, un succès mondial.</p>
         <p>À l'étranger, ç'avait été un enthousiasme fébrile, et les clubs d'aviations étaient en hâte réunis pour prendre des déterminations décisives.</p>
         <p>Lathon avait suspendu pendant quelque temps la série de ses vols magnifiques, il se reposait pour ainsi dire, si l'on peut appeler se reposer le fait de se coucher tous les jours à deux heures du matin et de banqueter perpétuellement.</p>
-        <p>Dix heures venaient de sonner, le valet de chambre Jacques époussetait silencieusement les meubles du salon-bureau où son maître avait coutume de recevoir les visiteurs, lorsqu'à la porte d'entrée donnant sur l'escalier plusieurs coups furent frappés.</p>
+        <p>Dix heures venaient de sonner, le valet de chambre Jacques époussetait silencieusement les meubles du salon-bureau où son maître avait coutume de recevoir les visiteurs, lorsqu'à la porte d'entrée donnant sur l'escalier plusieurs coups furent
+          frappés.</p>
         <p>Le timbre électrique, par l'entremise obligeante d'un commutateur, restait obstinément sourd lorsque des gens sollicitaient son bouton. C'était là un des côtés ingénieux de la demeure de Pierre Lathon.</p>
         <p>Or, ce matin là un visiteur s'obstinait à frapper la porte à coups redoublés.</p>
         <p>Le valet de chambre avait, à chaque nouvelle tentative du visiteur, des accès de rage concentrée et haussait les épaules.</p>
@@ -127,16 +153,21 @@
         <p>Il avait eu comme ordonnance Jacques, de son nom de famille Loniam, et avait pu apprécier les qualités qui étaient en lui.</p>
         <p>Certes, ce brave garçon, paysan normand des environs de Cherbourg, n'était peut-être pas au début très débrouillard. Mais il était honnête et pratiquait la discrétion, sachant, s'il le fallait, imiter le mutisme légendaire des carpes.</p>
         <p>Peu à peu, Pierre Lathon avait formé Jacques Loniam, il en avait fait le type modèle de l'ordonnance d'officier garçon.</p>
-        <p>Le jeune sous-lieutenant était réputé à Saint-Malo pour un bon vivant, son logis de la rue des Hautes-Salles devait en voir de raides, se <corr>chuchotait-on</corr> à l'oreille, avec cette exagération qui est le propre — ou le mie, comme on voudra — de toutes les mauvaises langues.</p>
+        <p>Le jeune sous-lieutenant était réputé à Saint-Malo pour un bon vivant, son logis de la rue des Hautes-Salles devait en voir de raides, se
+          <corr>chuchotait-on</corr>
+          à l'oreille, avec cette exagération qui est le propre — ou le mie, comme on voudra — de toutes les mauvaises langues.</p>
         <p>Jacques Loniam interrogé ne voulut jamais répondre et son dévouement obscur pour Pierre Lathon ne lui attira de la part des curieux et des commères que des:« Quel imbécile !... Ce garçon est idiot !... Ce Loniam est une fichue bête !...»</p>
         <p>Heureusement pour lui, le sous-lieutenant Lathon était perspicace, il remarquait et voyait tout. Si bien que vers la fin des manœuvres, Loniam s'entendit tenir le langage suivant :</p>
-        <p>— Loniam, vous allez être libéré, moi aussi ! Je vous propose, mon petit, de venir avec moi à Paris, comme valet de chambre. J'ai besoin d'un garçon honnête, débrouillard, dévoué, vous êtes tout cela. Acceptez-vous? Enthousiasmé, le soldat de deuxième classe Loniam s'écria:</p>
+        <p>— Loniam, vous allez être libéré, moi aussi ! Je vous propose, mon petit, de venir avec moi à Paris, comme valet de chambre. J'ai besoin d'un garçon honnête, débrouillard, dévoué, vous êtes tout cela. Acceptez-vous? Enthousiasmé, le soldat de
+          deuxième classe Loniam s'écria:</p>
         <p>— Oui mon lieutenant, de grand cœur !</p>
         <p>Et voilà comment l'ordonnance Loniam, le fantassin Loniam, était devenu Jacques tout court, valet de chambre de l'aviateur Pierre Lathon.</p>
         <p>Ah! ce n'était pas un domestique ordinaire, il avait conservé pour son maître le respect du soldat pour son officier.</p>
         <p>C'est tout juste s'il ne joignait pas les talons en lui adressant la parole, et parfois, il lui arrivait de l'appeler encore « mon lieutenant ».</p>
-        <p>Maintenant, Paris l'avait tout à fait formé, le naïf normand, d'une crédulité à toute épreuve, avait fait place à un fin matois, au courant de toutes les exigences de son métier et plus roublard à lui tout seul qu'une demi-douzaine de valets de chambre.</p>
-        <p>Beau garçon, Jacques Loniam ne désespérait pas d'épouser une ravissante feguné de chambre qui, dans le même immeuble, était au service d'une vicomtesse des plus riches. L'assiduité qu'il lui témoignait, ne l'empêchait aucunement d'assurer son service.</p>
+        <p>Maintenant, Paris l'avait tout à fait formé, le naïf normand, d'une crédulité à toute épreuve, avait fait place à un fin matois, au courant de toutes les exigences de son métier et plus roublard à lui tout seul qu'une demi-douzaine de valets de
+          chambre.</p>
+        <p>Beau garçon, Jacques Loniam ne désespérait pas d'épouser une ravissante feguné de chambre qui, dans le même immeuble, était au service d'une vicomtesse des plus riches. L'assiduité qu'il lui témoignait, ne l'empêchait aucunement d'assurer son
+          service.</p>
         <p>Donc, en cette matinée, un visiteur avait le don d'exaspérer Jacques par sa persistance à vouloir pénétrer dans le coquet et minuscule appartement qu'habitait Pierre Lathon.</p>
         <p>Les coups devenant de plus en plus forts et Jacques malgré son flegme normand commençant à perdre patience, il se décida à aller ouvrir.</p>
         <p>Pans la demi-obscurité du palier, un homme de haute taille, très chic, très élégant, apparut. Il prit la parole et l'on distinguait aisément dans son accent une mauvaise humeur passagère.</p>
@@ -161,17 +192,20 @@
         <p>— Couché, deux heures !</p>
         <p>— Diable! Petit lever alors: midi! Je suis un importun, je m'en vais, vous pourrez vous recoucher.</p>
         <p>— Vous plaisantez, restez donc! Et dites-moi: quoi de nouveau?</p>
-        <p>— Eh bien oui, mon cher, quoi de nouveau? C'est à vous qu'il convient de poser cette question. Il y a une semaine que l'idée du concours international de la course au Pôle est lancée. Vous savez le succès qui vient de l'accueillir, avez-vous songé aux dispositions qu'il vous convenait de prendre?</p>
+        <p>— Eh bien oui, mon cher, quoi de nouveau? C'est à vous qu'il convient de poser cette question. Il y a une semaine que l'idée du concours international de la course au Pôle est lancée. Vous savez le succès qui vient de l'accueillir, avez-vous songé
+          aux dispositions qu'il vous convenait de prendre?</p>
         <p>Pierre Lathon eut un geste gamin :</p>
         <p>— Ma foi non !</p>
-        <p>— Voilà qui est un grand tort. L'expédition, d'après le règlement de l'Aéro-Club, qui a paru hier, partira dans trois mois. Vous n'avez pas trop de temps pour vous préparer. Maintenant mon cher La- thon, laissez-moi vous dire que vous pouvez absolument compter sur mon concours financier.</p>
+        <p>— Voilà qui est un grand tort. L'expédition, d'après le règlement de l'Aéro-Club, qui a paru hier, partira dans trois mois. Vous n'avez pas trop de temps pour vous préparer. Maintenant mon cher La- thon, laissez-moi vous dire que vous pouvez
+          absolument compter sur mon concours financier.</p>
         <p>« Je vous demande comme un service de puiser dans ma caisse, vous me ferez plaisir. Si vous gagnez le million et les six cent mille francs qui seront décernés au premier prix, vous me rembourserez, sinon vous n'aurez à vous occuper de rien.</p>
         <p>— Vous êtes réellement trop aimable!</p>
         <p>— Non ! j'aime mon pays et je veux le servir de toutes les façons. Je vous connais, je vous apprécie à votre juste valeur, je sais que vous ferez tout votre possible pour gagner le prix, aussi je veux vous encourager.</p>
         <p>Vivement ému de cette marque de sollicitude, Pierre Lathon serra la main du marquis avec chaleur en disant :</p>
         <p>— Merci! je veux me rendre digne de la sympathie que vous me témoignez et je vous assure que je ferai l'impossible pour réussir.</p>
         <p>— Bien! Ne perdons pas de temps à parler de tout cela et causons de choses sérieuses : avez-vous un atelier assez grand pour construire votre appareil?</p>
-        <p>— Mon atelier d'Asnières me paraît largement suffisant. — Non ! il ne dispose pas de tout l'outillage nécessaire ; il ne faut rien négliger, mon cher ami, vous le savez bien, vous allez me faire le plaisir devenir vous installer dans mon usine de Montrouge. Vous aurez ainsi sous la main tout ce que vous pourrez désirer. Est-ce dit?</p>
+        <p>— Mon atelier d'Asnières me paraît largement suffisant. — Non ! il ne dispose pas de tout l'outillage nécessaire ; il ne faut rien négliger, mon cher ami, vous le savez bien, vous allez me faire le plaisir devenir vous installer dans mon usine de
+          Montrouge. Vous aurez ainsi sous la main tout ce que vous pourrez désirer. Est-ce dit?</p>
         <p>— Vous le proposez si aimablement que je n'ose refuser. Soit, je serai votre hôte.</p>
         <p>— Et vous gagnerez la course?</p>
         <p>— Je tâcherai!</p>
@@ -185,11 +219,14 @@
         <p>Pierre Lathon était installé dans les usines du marquis de la Lande depuis déjà plus d'un mois.</p>
         <p>Rien ne lui manquait ! L'outillage était sans pareil, la main-d'œuvre de premier ordre.</p>
         <p>L'atelier où se construisait l'aéroplane destiné à la course du Pôle était isolé des autres constructions de l'usine.</p>
-        <p>Pour y pénétrer il fallait montrer patte blanche, car Lathon n'aimait pas — à juste raison — être dérangé dans son travail. Le marquis de la Lande et lui s'enfermaient parfois dans le petit bureau adjoint à l'atelier, et là tous deux se passionnaient à résoudre des équations ou à tracer des plans de certaines pièces de l'aéroplane.</p>
-        <p>Celui-ci s'avançait fort, c'était une machine du mode précédemment adopté par l'aviateur. Mais elle avait reçu plusieurs adjonctions: la place réservée au pilote était plus vaste et pouvait loger trois personnes, de plus elle était entièrement recouverte d'une cloison en peau de mouton qui devait assurer l'habitabilité parfaite de ce minuscule réduit par les froids les plus rigoureux.</p>
+        <p>Pour y pénétrer il fallait montrer patte blanche, car Lathon n'aimait pas — à juste raison — être dérangé dans son travail. Le marquis de la Lande et lui s'enfermaient parfois dans le petit bureau adjoint à l'atelier, et là tous deux se
+          passionnaient à résoudre des équations ou à tracer des plans de certaines pièces de l'aéroplane.</p>
+        <p>Celui-ci s'avançait fort, c'était une machine du mode précédemment adopté par l'aviateur. Mais elle avait reçu plusieurs adjonctions: la place réservée au pilote était plus vaste et pouvait loger trois personnes, de plus elle était entièrement
+          recouverte d'une cloison en peau de mouton qui devait assurer l'habitabilité parfaite de ce minuscule réduit par les froids les plus rigoureux.</p>
         <p>Un système spécial de calorifère devait y entretenir une température modérée et l'on ne voyait l'extérieur que par un vaste panneau que des feuilles de mica recouvraient en partie.</p>
         <p>L'appareil était un monoplan, sa grandeur était impressionnante.</p>
-        <p>Les moteurs — car il y en avait deux — avaient été l'objet de soins particuliers, ils étaient logés eux aussi dans une sorte de petite cabine située à l'avant de l'aéroplane, et du volant de direction on pouvait les inspecter en soulevant un simple volet d'acajou.</p>
+        <p>Les moteurs — car il y en avait deux — avaient été l'objet de soins particuliers, ils étaient logés eux aussi dans une sorte de petite cabine située à l'avant de l'aéroplane, et du volant de direction on pouvait les inspecter en soulevant un
+          simple volet d'acajou.</p>
         <p>Suivant un conseil du marquis de la Lande, Pierre Lathon avait décidé que l'expédition française comporterait trois personnes: le mécanicien, un médecin et lui-même.</p>
         <p>Le médecin qu'avait choisi l'aviateur n'était pas le premier venu. Il s'appelait Lucien Golfech, et dans les milieux médicaux, de même que dans les milieux scientifiques, il avait acquis une juste renommée.</p>
         <p>Trente ans à peine, et déjà Lucien Golfech avait étonné ses camarades et ses professeurs par les remarquables travaux qu'il avait publiés sur les maladies de cœur.</p>
@@ -214,16 +251,19 @@
         <p>— C'est vrai, mais quelle déduction voulez-vous tirer de ce fait?</p>
         <p>— Monsieur a fait de moi un bon valet de chambre, il pourrait en faire un bon, un excellent mécanicien.</p>
         <p>Pierre Lathon, désarmé par ce raisonnement, se mit à rire et délibérément il décida :</p>
-        <p>— Allons, quand on a de la bonne volonté c'est déjà quelque chose, mais je vous préviens mon bon Jacques, si un mois avant mon départ pour les régions polaires vous ne me donnez pas complète satisfaction, je vous prierai de rester aux Champs-Elysées et d'y brosser avec la plus grande attention mes meubles et mes tapis pendant mon absence.</p>
+        <p>— Allons, quand on a de la bonne volonté c'est déjà quelque chose, mais je vous préviens mon bon Jacques, si un mois avant mon départ pour les régions polaires vous ne me donnez pas complète satisfaction, je vous prierai de rester aux
+          Champs-Elysées et d'y brosser avec la plus grande attention mes meubles et mes tapis pendant mon absence.</p>
         <p>Jacques Loniam avait accepté et courageusement s'était mis à l'étude, tous les jours il venait à l'usine de la Lande et s'instruisait du mieux qu'il pouvait.</p>
         <p>Si bien qu'un matin il eut la joie de s'entendre dire par son maître : — Jacques, je tiens à vous dire que vous m'accompagnerez au Pôle, vous faites des progrès stupéfiants.</p>
         <p>Jacques Loniam se rengorgea et ne fut pas éloigné en cet instant de se prendre pour un grand homme.</p>
-        <p>Ce jour là, l'équipage du navire aérien était réuni au grand complet, le docteur Lucien Golfech expliquait au marquis de la Lande et à Pierre Lathon quels approvisionnements médicaux il emportait avec lui. Dans un coin de l'atelier, Jacques, tout en serrant un écrou, écoutait attentivement.</p>
+        <p>Ce jour là, l'équipage du navire aérien était réuni au grand complet, le docteur Lucien Golfech expliquait au marquis de la Lande et à Pierre Lathon quels approvisionnements médicaux il emportait avec lui. Dans un coin de l'atelier, Jacques, tout
+          en serrant un écrou, écoutait attentivement.</p>
         <p>Un ouvrier entra et vint accoster le marquis à qui il parla à voix basse. Le marquis eut un mouvement étonné puis donna l'ordre suivant:</p>
         <p>— Conduisez ce monsieur et cette dame ici.</p>
         <p>L'ouvrier disparut, le marquis ajouta pour ses interlocuteurs :</p>
         <p>— Une surprise, messieurs, voici une visite au moins inattendue : Le concurrent anglais, Johnson Faber, sa femme et sa fille Nelly !</p>
-        <p>Quelques minutes s'écoulèrent, puis les nouveaux arrivants firent leur entrée. Les présentations eurent lieu rapidement et de façon brève. Johnson Faber était une homme d'une quarantaine d'années, à la figure complètement rasée, au regard énergique et investigateur.</p>
+        <p>Quelques minutes s'écoulèrent, puis les nouveaux arrivants firent leur entrée. Les présentations eurent lieu rapidement et de façon brève. Johnson Faber était une homme d'une quarantaine d'années, à la figure complètement rasée, au regard
+          énergique et investigateur.</p>
         <p>Sa femme Katy avait environ trente-cinq ans, elle s'était mariée toute jeune et avait l'air d'adorer Johnson Faber, car les regards qu'elle lui lançait disaient très ingénument l'admiration et l'estime dans laquelle elle le tenait.</p>
         <p>Elle était d'une beauté très régulière et joignait à une grâce naturelle une désinvolture charmante, un laisser-aller délicieux .</p>
         <p>Nelly Faber avait dix-sept ans, c'était la plus exquise frimousse de jeune anglaise qu'on puisse rêver.</p>
@@ -239,26 +279,34 @@
         <p>— Oui, reprenait Pierre Lathon, nous serons trois pour tenter cette épreuve, je crois que ce ne sera pas trop.</p>
         <p>— C'est un minimum, en effet, dit à son tour Johnson Faber. Mes collaborateurs à moi, les voici: Katy et Nelly !</p>
         <p>Et le sourire aux lèvres, il montra sa femme et sa fille qui s'inclinèrent.</p>
-        <p>— Mesdames, dit Pierre Lathon, je ne puis que vous féliciter de votre audace et je ne puis qu'envier M. Faber d'avoir avec lui de telles compagnes. Si j'avais été marié, certainement ma femme aurait été de l'expédition. Quels encouragements constants, quelles énergies ne doit-on pas trouver dans une telle collaboration?</p>
+        <p>— Mesdames, dit Pierre Lathon, je ne puis que vous féliciter de votre audace et je ne puis qu'envier M. Faber d'avoir avec lui de telles compagnes. Si j'avais été marié, certainement ma femme aurait été de l'expédition. Quels encouragements
+          constants, quelles énergies ne doit-on pas trouver dans une telle collaboration?</p>
         <p>Johnson Faber hocha la tête et reprit:</p>
         <p>— Oui, c'est une collaboration à laquelle il me serait pénible de renoncer.</p>
         <p>Fuis, changeant soudain de conversation, il dit:</p>
         <p>— Avez-vous vu que le dirigeable allemand du comte Dreppelin va se rendre au Pôle lui aussi ?</p>
         <p>Pierre Lathon s'étonna :</p>
         <p>— Pas possible, vous m'apprenez cette nouvelle !</p>
-        <p>— Oui, et j'estime qu'il y a là une lutte du plus haut intérêt entre <hi>le plus lourd que l'air et le plus léger !</hi></p>
+        <p>— Oui, et j'estime qu'il y a là une lutte du plus haut intérêt entre
+          <hi>le plus lourd que l'air et le plus léger !</hi>
+        </p>
         <p>— Nous remporterons la victoire ! D'ailleurs, le dirigeable Dreppelin ne saurait être un concurrent pour nous, puisque le règlement de l'Aéro-Club a bien spécifié que l'épreuve internationale ne serait disputée que par des aéroplanes.</p>
-        <p>— Oui, mais il y a là tout de même une concurrence morale. Le Dreppelin se trouvera à peu près à la même époque que nous au Spitzberg, le lieu d'où nous devons partir. M. Lathon, je vais vous poser une question qui vous semblera peut-être un peu naïve : Comptez-vous triompher ?</p>
-        <p>— Mais pourquoi pas ? D'ailleurs, j'ai baptisé mon aéroplane du nom de « Pourquoi pas? » Voyez-voua, M. Faber, lorsqu'on a la volonté de vaincre, vaincre n'est rien. C'est aussi vrai pour nous autres pionniers de l'air que pour les officiers et même les simples soldats.</p>
+        <p>— Oui, mais il y a là tout de même une concurrence morale. Le Dreppelin se trouvera à peu près à la même époque que nous au Spitzberg, le lieu d'où nous devons partir. M. Lathon, je vais vous poser une question qui vous semblera peut-être un peu
+          naïve : Comptez-vous triompher ?</p>
+        <p>— Mais pourquoi pas ? D'ailleurs, j'ai baptisé mon aéroplane du nom de « Pourquoi pas? » Voyez-voua, M. Faber, lorsqu'on a la volonté de vaincre, vaincre n'est rien. C'est aussi vrai pour nous autres pionniers de l'air que pour les officiers et
+          même les simples soldats.</p>
         <p>Le visage de Johnson Faber rayonnait :</p>
-        <p>— Serrons-nous la main ! s'exclama l'anglais. Je suis heureux d'avoir un concurrent tel que vous. Moi aussi je veux triompher ! Moi aussi je dis pourquoi pas ? Et c'est ainsi qu'il faut être, M. Lathon : acharné à pouvoir ce que l'on veut et décidé à tous les efforts, à tous les héroïsmes...</p>
+        <p>— Serrons-nous la main ! s'exclama l'anglais. Je suis heureux d'avoir un concurrent tel que vous. Moi aussi je veux triompher ! Moi aussi je dis pourquoi pas ? Et c'est ainsi qu'il faut être, M. Lathon : acharné à pouvoir ce que l'on veut et
+          décidé à tous les efforts, à tous les héroïsmes...</p>
         <p>« Oui, je suis content de penser que nous tenterons l'épreuve ensemble, voilà qui va me stimuler, car nos autres concurrents, vous savez, c'est piteux.</p>
         <p>« L'on se demande où les autres pays ont déniché ces gens-là... ils n'ont presque pas paru dans nos meetings officiels et internationaux.</p>
         <p>« Vous, vous êtes un audacieux, un loyal compagnon, M. Pierre Lathon, je vous estime et suis fier de vous le dire.</p>
         <p>Le marquis de la Lande, qui était demeuré silencieux jusqu'à ce moment prit la parole :</p>
-        <p>— M. Johnson Faber, dit-il, permettez-moi de vous inviter à dîner pour ce soir, vous, madame Faber et mademoiselle Nelly, nous aurons pour compagnons Pierre Lathon et le docteur Lucien Golfech. Ce sera pour nous une belle occasion de faire plus amplement connaissance. C'est dit?</p>
+        <p>— M. Johnson Faber, dit-il, permettez-moi de vous inviter à dîner pour ce soir, vous, madame Faber et mademoiselle Nelly, nous aurons pour compagnons Pierre Lathon et le docteur Lucien Golfech. Ce sera pour nous une belle occasion de faire plus
+          amplement connaissance. C'est dit?</p>
         <p>Joyeusement, Faber accepta après avoir consulté sa femme et sa fille du regard.</p>
-        <p>Quelques minutes plus tard, l'anglais quittait l'usine après avoir pris rendez-vous pour l'après-midi, à l'heure du thé, au <hi>Palace-Hôtel</hi>, ou l'aviateur était descendu .</p>
+        <p>Quelques minutes plus tard, l'anglais quittait l'usine après avoir pris rendez-vous pour l'après-midi, à l'heure du thé, au
+          <hi>Palace-Hôtel</hi>, ou l'aviateur était descendu .</p>
         <p>Après leur départ, Lucien Golfech qui ne détestait pas pratiquer la moquerie, s'écria :</p>
         <p>— Hé ! Hé ! Pierre Lathon, je crois que la petite Nelly Faber ne vous regarde pas d'un œil indifférent!</p>
         <p>Pierre Lathon haussa les épaules :</p>
@@ -272,9 +320,10 @@
         <p>Pierre Lathon haussa les épaules une deuxième fois et alluma une cigarette.</p>
         <p>Quant à Jacques Loniam dans son coin, il jeta un regard furibond au docteur: il n'aimait pas qu'on touche à son maître, même en plaisantant.</p>
       </div>
-            <div type="chapter">
+      <div type="chapter">
         <head>AÉROVILLE</head>
-        <p>Vous aurez beau chercher dans le Bottin des départements, voire même de l'étranger, vous ne trouverez pas Aéroville. En vain demanderez-vous le renseignement au guichet spécial d'une gare ou au télégraphe, on vous répondra sur toute la ligne, si j'ose ainsi m'exprimer :</p>
+        <p>Vous aurez beau chercher dans le Bottin des départements, voire même de l'étranger, vous ne trouverez pas Aéroville. En vain demanderez-vous le renseignement au guichet spécial d'une gare ou au télégraphe, on vous répondra sur toute la ligne, si
+          j'ose ainsi m'exprimer :</p>
         <p>— Inconnu ! Inconnu ! Ne vous payez pas ma tête !</p>
         <p>Et cependant Aéroville existe ou plutôt a existé, car à l'heure où nous écrivons ce récit, les événements que nous racontons ont déjà quelques années de date et les maisons d'Aéroville ne sont plus que des amoncellements de planches vermoulues.</p>
         <p>Oui, Aéroville existe et c'est au Spitzberg que cette importante cité a été édifiée.</p>
@@ -287,13 +336,18 @@
         <p>Des envoyés spéciaux des journaux du monde entier, avaient grossi le nombre des concurrents et des ouvriers.</p>
         <p>Bref, trois cent cinquante personnes au bas mot, étaient venues peupler le Spitzberg.</p>
         <p>Aussi, les baraques démontables rapidement installées sur la terre gelée furent-elles presque insuffisantes, et l'on dut renvoyer l'Aéro-Club français avec mission de revenir en Norvège et d'y prendre d'autres matériaux.</p>
-        <p>Le départ de l'expédition — car en somme cette course n'était-elle pas une expédition ? — s'était fait au Havre, devant une foule enthousiaste. Le gouvernement avait tenu à honorer de sa présence cette cérémonie, deux ministres se trouvaient là. Un régiment rendait les honneurs avec sa musique et son drapeau.</p>
-        <p>Et lorsque l'Aéro-Club français, ayant détaché ses amarres, quitta le quai avec un bruissement et une trépidation d'hélices, la musique joua la Marseillaise et le drapeau s'inclina devant ces audacieux qui partaient courageusement, qui se lançaient dans une aventure aussi redoutable et qui peut-être y trouveraient la mort.</p>
-        <p>Il y eut à ce moment dans la foule, un seul frisson, les rivalités de race disparaissaient, c'étaient des hommes qui allaient au danger. C'étaient des représentants de l'humanité, tous unis, tous frères qui tentaient l'impossible avec la même ardeur, avec la même espérance.</p>
-        <p>Et chacun salua ce navire qui gagnait le large, lentement laissant derrière lui un sillage qui s'effaçait, se fondait dans la mer, synthétisant à merveille l'enthousiasme des foules qui lui aussi bruissait et se faisait jour avec éclat, mais qui s'atténuait presqu'aussitôt, se fanait, s'anéantissait dans la vague perpétuelle des occupations journalières et des questions toujours renouvelées de brûlante actualité.</p>
+        <p>Le départ de l'expédition — car en somme cette course n'était-elle pas une expédition ? — s'était fait au Havre, devant une foule enthousiaste. Le gouvernement avait tenu à honorer de sa présence cette cérémonie, deux ministres se trouvaient là.
+          Un régiment rendait les honneurs avec sa musique et son drapeau.</p>
+        <p>Et lorsque l'Aéro-Club français, ayant détaché ses amarres, quitta le quai avec un bruissement et une trépidation d'hélices, la musique joua la Marseillaise et le drapeau s'inclina devant ces audacieux qui partaient courageusement, qui se
+          lançaient dans une aventure aussi redoutable et qui peut-être y trouveraient la mort.</p>
+        <p>Il y eut à ce moment dans la foule, un seul frisson, les rivalités de race disparaissaient, c'étaient des hommes qui allaient au danger. C'étaient des représentants de l'humanité, tous unis, tous frères qui tentaient l'impossible avec la même
+          ardeur, avec la même espérance.</p>
+        <p>Et chacun salua ce navire qui gagnait le large, lentement laissant derrière lui un sillage qui s'effaçait, se fondait dans la mer, synthétisant à merveille l'enthousiasme des foules qui lui aussi bruissait et se faisait jour avec éclat, mais qui
+          s'atténuait presqu'aussitôt, se fanait, s'anéantissait dans la vague perpétuelle des occupations journalières et des questions toujours renouvelées de brûlante actualité.</p>
         <p>Le voyage jusqu'au Spitzberg avait paru à tous être une excursion, tant la gaîté avait prédominé.</p>
         <p>L'élément français avait tout de suite apporté la joie et l'entrain. De tout cœur les délégués de l'Aéro-Club de France, désireux de distraire leurs passagers, avaient organisé des concerts.</p>
-        <p>Le marquis de la Lande qui avait tenu à accompagner son jeune protégé, n'était pas le moins ardent à s'amuser, infatigable il organisait les distractions, s'occupait des isolés, mettait en valeur les timides, s'ingéniait de mille et mille façons à rendre la vie du bord agréable.</p>
+        <p>Le marquis de la Lande qui avait tenu à accompagner son jeune protégé, n'était pas le moins ardent à s'amuser, infatigable il organisait les distractions, s'occupait des isolés, mettait en valeur les timides, s'ingéniait de mille et mille façons à
+          rendre la vie du bord agréable.</p>
         <p>Sur ces trois cent cinquante personnes que l'Aéro-Çlub français transportait au Spitzberg, se trouvaient bon nombre de femmes, tous les concurrents mariés n'avaient pu se résoudre à se séparer de leur compagne et quelques unes étaient là.</p>
         <p>L'on juge avec quelle joie on les choyait, car le pays était maussadement lugubre et la seule distraction permise était le travail, le travail forcené qui fait oublier .</p>
         <p>Le Spitzberg était un pays désolé, sans végétation, où l'on trouvait à peine quelques oiseaux, d'une chair coriace.</p>
@@ -302,10 +356,12 @@
         <p>Les conditions de ce départ étaient les suivantes : il ne serait donné que le jour où tous les concurrents se déclareraient prêts à partir.</p>
         <p>Un accident arrivé à la machine d'un aviateur retarderait tout le monde. Ces conditions étaient rédigées dans un grand esprit d'égalité.</p>
         <p>Aéroville fut rapidement construit, chaque aviateur disposait d'une baraque pour lui et les siens, il avait en outre à sa disposition un grand atelier.</p>
-        <p>Tous ces baraquements étaient chauffés à outrance afin de permettre aux ouvriers de travailler. L'Aéro-Club français avait apporté des stocks de charbon qui semblaient devoir être inusables et qui pourtant dûrent être renouvelés. Le comité de direction et d'organisation s'était réservé une baraque, plus grande que les autres où était disposée une salle de réunion assez vaste pour contenir les personnes qui devaient faire partie de l'expédition.</p>
+        <p>Tous ces baraquements étaient chauffés à outrance afin de permettre aux ouvriers de travailler. L'Aéro-Club français avait apporté des stocks de charbon qui semblaient devoir être inusables et qui pourtant dûrent être renouvelés. Le comité de
+          direction et d'organisation s'était réservé une baraque, plus grande que les autres où était disposée une salle de réunion assez vaste pour contenir les personnes qui devaient faire partie de l'expédition.</p>
         <p>C'est dans cette baraque qu'habitait le marquis de la Lande avec les autres membres de l'Aéro-Club.</p>
         <p>Dès les premiers jours, une conférence fut organisée pour les concurrents.</p>
-        <p>Un scientifique éminent, M. Charly-Boissette, de l'Académie des sciences, chargé de contrôler les observations faites pendant la course, avait annoncé que durant les quelques semaines séparant les concurrents du jour définitif, il ferait un cours sur le Pôle et les divers moyens d'y parvenir.</p>
+        <p>Un scientifique éminent, M. Charly-Boissette, de l'Académie des sciences, chargé de contrôler les observations faites pendant la course, avait annoncé que durant les quelques semaines séparant les concurrents du jour définitif, il ferait un cours
+          sur le Pôle et les divers moyens d'y parvenir.</p>
         <p>Ce cours était d'une invention heureuse, en effet quelques concurrents n'avaient pas pris la précaution comme Pierre Lathon d'amener avec eux un homme de sciences de la valeur de Lucien Golfech.</p>
         <p>Il était donc nécessaire de bien éclairer chacun sur la question du Pôle et de lui donner toutes les précisions nécessaires pour ne susciter dans la suite aucune contestation.</p>
         <p>M. Charly-Boissette énuméra les diverses observations qu'il faudrait faire, les résultats qu'il faudrait atteindre et que lui contrôlerait, avec un soin et une minutie extrêmes.</p>
@@ -314,22 +370,31 @@
         <p>Ceux-ci connaissent déjà notre ami et compatriote Pierre Lathon, son collaborateur scientifique le docteur Lucien Golfech et son mécanicien-valet de chambre, Jacques Loniam.</p>
         <p>De même nos lecteurs ont-ils eu l'avantage de voir déjà à Paris, dans l'usine du marquis de la Lande, le concurrent anglais, Johnson Faber, sa femme Katy et sa fille Nelly.</p>
         <p>Il nous reste huit concurrents à présenter ainsi que leur suite. Commençons par l'Allemagne.</p>
-        <p>M. Nicolas Weiner était un homme d'une quarantaine d'années, très énergique, d'un caractère loyal et capable de toutes les audaces, il ne devait amener avec lui dans son aéroplane qu'un compagnon : un jeune licencié ès-sciences de la faculté de Cologne.</p>
+        <p>M. Nicolas Weiner était un homme d'une quarantaine d'années, très énergique, d'un caractère loyal et capable de toutes les audaces, il ne devait amener avec lui dans son aéroplane qu'un compagnon : un jeune licencié ès-sciences de la faculté de
+          Cologne.</p>
         <p>Ce dernier, Frans Hyde, paraissait un rêveur, toujours perdu dans ses pensées, toujours absorbé par ses calculs, il était d'un physique sympathique et semblait même ne pas posséder une santé merveilleuse.</p>
         <p>Le représentant de l'Italie s'appelait Laurent Taliani, il était vif, enjoué, songeait perpétuellement à dire une plaisanterie mais était d'une volonté un peu molle.</p>
         <p>Son entourage était singulier, Laurent Taliani avait prévu quatre places dans son aéroplane, il avait donc trois camarades de route.</p>
         <p>Deux mécaniciens lui avaient paru nécessaires, la troisième personne était un jeune médecin Claude Ranello qui, au premier abord ne produisait pas une impression sympathique.</p>
-        <p>Les mécaniciens se nommaient l'un, Victor Ainoterellini, l'autre, Félix Gumberto. Tous deux avaient un regard fourbe qui déplaisait, ils exerçaient avec le docteur une influence très grande sur Laurent Taliani, bon garçon, très courageux, mais qui nous l'avons dit était un peu mou. L'espagnol Alphonse Dicquez d'une jovialité exubérante inspirait plutôt la sympathie, il avait deux compagnons, Miguel Sebata, un de ses élèves en aviation et sa femme Dolorès, originaire d'Andalousie et dont le teint brun et les yeux de flamme, déconcertaient dans le pays glacial. Miguel Sabata était d'un naturel doux, Dolorès Dicquez était sujette à des emportements qui révélaient sa race, mais elle adorait son mari Alphonse et manifestait à chaque instant son attachement pour lui.</p>
+        <p>Les mécaniciens se nommaient l'un, Victor Ainoterellini, l'autre, Félix Gumberto. Tous deux avaient un regard fourbe qui déplaisait, ils exerçaient avec le docteur une influence très grande sur Laurent Taliani, bon garçon, très courageux, mais qui
+          nous l'avons dit était un peu mou. L'espagnol Alphonse Dicquez d'une jovialité exubérante inspirait plutôt la sympathie, il avait deux compagnons, Miguel Sebata, un de ses élèves en aviation et sa femme Dolorès, originaire d'Andalousie et dont le
+          teint brun et les yeux de flamme, déconcertaient dans le pays glacial. Miguel Sabata était d'un naturel doux, Dolorès Dicquez était sujette à des emportements qui révélaient sa race, mais elle adorait son mari Alphonse et manifestait à chaque instant
+          son attachement pour lui.</p>
         <p>Le Portugal était représenté par Carlo Diboin jeune homme emporté, plus audacieux qu'instruit des choses de l'aviation. Son compagnon était un vieil ouvrier mécanicien, Sébastien Buijo, plus au courant que lui certes, de la mécanique et de ses lois.</p>
-        <p>Le concurrent autrichien se dénommait Wilhem Fürster, son appareil acheté en France lui avait procuré en Autriche une renommée assez grande. Quelques modifications apportées à sa machine, avaient fini par lui laisser croire qu'il l'avait entièrement construit du premier au dernier écrou.</p>
-        <p>Il amenait avec lui sa jeune femme Dorothée, une blonde un peu fade, tous deux appartenant à la race des timides à qui des impulsions soudaines et passagères, apportent de l'audace, paraissaient peu désireux de se créer des amitiés parmi les habitants d'Aéroville.</p>
-        <p>La Russie avait voulu se singulariser et elle y avait brillamment réussi, son délégué n'était autre que le grand Duc Serge Fotropstoek. Grand seigneur, bon-vivant, exempt de toute morgue et qui tentait l'épreuve sans autre espoir que celui de tuer le temps d'une façon plus intelligente que celle adoptée d'habitude par lui.</p>
+        <p>Le concurrent autrichien se dénommait Wilhem Fürster, son appareil acheté en France lui avait procuré en Autriche une renommée assez grande. Quelques modifications apportées à sa machine, avaient fini par lui laisser croire qu'il l'avait
+          entièrement construit du premier au dernier écrou.</p>
+        <p>Il amenait avec lui sa jeune femme Dorothée, une blonde un peu fade, tous deux appartenant à la race des timides à qui des impulsions soudaines et passagères, apportent de l'audace, paraissaient peu désireux de se créer des amitiés parmi les
+          habitants d'Aéroville.</p>
+        <p>La Russie avait voulu se singulariser et elle y avait brillamment réussi, son délégué n'était autre que le grand Duc Serge Fotropstoek. Grand seigneur, bon-vivant, exempt de toute morgue et qui tentait l'épreuve sans autre espoir que celui de tuer
+          le temps d'une façon plus intelligente que celle adoptée d'habitude par lui.</p>
         <p>Les trois hommes qui étaient avec lui appartenaient à sa maison, un mécanicien, un valet de chambre, son secrétaire, ce dernier Félyne Daniloff ne parlait jamais et se renfermait dans un mutisme profond.</p>
-        <p>Les États-Unis n'ayant pu décider les frères Wright à tenter l'épreuve, n'avaient envoyé en désespoir de cause que deux aviateurs frères également, mais d'un mérite plus que secondaire, les frères Jack et Joël Spithson, ils avaient avec eux un mécanicien, une manière de brute avinée qui se nommait Folter.</p>
+        <p>Les États-Unis n'ayant pu décider les frères Wright à tenter l'épreuve, n'avaient envoyé en désespoir de cause que deux aviateurs frères également, mais d'un mérite plus que secondaire, les frères Jack et Joël Spithson, ils avaient avec eux un
+          mécanicien, une manière de brute avinée qui se nommait Folter.</p>
         <p>. Mais le dixième concurrent était de beaucoup le plus pittoresque, le Japon était le pays qu'il représentait, il s'appelait Nito, était marquis, et avait reçu de son gouvernement les encouragements les plus considérables.</p>
         <p>Son aéroplane, un composite de toutes les machines inventées jusqu'à ce jour, pouvait contenir cinq personnes.</p>
         <p>C'était un concurrent sérieux, car l'aviation l'attirait comme une religion et il s'y adonnait avec fanatisme.</p>
-        <p>Ses collaborateurs avaient comme lui le mépris de la mort et n'envisageaient qu'une éventualité : le triomphe. Ils étaient tous quatre japonais, avaient presque tous fait leurs études à Paris et doués d'une perspicacité et d'une volonté peu ordinaires, s'immisçaient partout et s'efforçaient d'apprendre, de s'instruire à chaque seconde, à chaque minute.</p>
+        <p>Ses collaborateurs avaient comme lui le mépris de la mort et n'envisageaient qu'une éventualité : le triomphe. Ils étaient tous quatre japonais, avaient presque tous fait leurs études à Paris et doués d'une perspicacité et d'une volonté peu
+          ordinaires, s'immisçaient partout et s'efforçaient d'apprendre, de s'instruire à chaque seconde, à chaque minute.</p>
         <p>Tels étaient, très sommairement dépeints, les concurrents de la course Spitzberg-Pôle Nord. Tous n'avaient pas les mêmes mérites, certains paraissaient devoir être écartés de toutes probabilités de réussite.</p>
         <p>Les plus sérieux étaient à n'en pas douter Pierre Lathon, Johnson Paber, l'anglais ; Nicolas Wainer, l'allemand ; Alphonse Dicquez, l'espagnol; Nito, le japonais.</p>
         <p>Indépendamment de tout ce petit monde, nous avons dit qu'il se trouvait plusieurs membres de l'Aéro-Club et des journalistes.</p>
@@ -341,7 +406,8 @@
         <p>Rien ne manquait donc à Aéroville, ces quatre rues, se coupant à angles droits, étaient chacune la branche d'une croix.</p>
         <p>Les hangars-ateliers des aéroplanes n'ouvraient pas sur la rue, mais bien par derrière où l'espace ne manquait pas.</p>
         <p>L'on ne pouvait se lasser d'admirer ce village surgi sur le roc glacé, de par la volonté des hommes, si faible comparée aux forces brutales et mystérieuses de la nature.</p>
-        <p>Il avait suffi d'une parole jetée dans un banquet où étaient réunis des gens d'audace et d'énergie, il avait suffi d'un enthousiasme provoqué par le beau geste de l'Aéro-Club et du Gouvernement français... et maintenant, face aux dangers inconnus, face aux bourrasques terribles et indomptables, Aéroville se dressait. Aéroville qui narguait le Pôle Nord, Aéroville d'où les oiseaux de toile et d'aluminium allaient s'envoler vers les contrées inexplorées.</p>
+        <p>Il avait suffi d'une parole jetée dans un banquet où étaient réunis des gens d'audace et d'énergie, il avait suffi d'un enthousiasme provoqué par le beau geste de l'Aéro-Club et du Gouvernement français... et maintenant, face aux dangers inconnus,
+          face aux bourrasques terribles et indomptables, Aéroville se dressait. Aéroville qui narguait le Pôle Nord, Aéroville d'où les oiseaux de toile et d'aluminium allaient s'envoler vers les contrées inexplorées.</p>
         <p>Et cette solitude du Spitzberg prenait, à être ainsi considérée, un air grandiose de champ de bataille. Oui, d'un champ de bataille moderne effrayant par son vide et où l'ennemi bien dissimulé ne se montrait pas.</p>
         <p>Aéroville, certes, valait alors une capitale, c'était l'asile de la science qui recueillait ses prosélytes avant de les lancer à la conquête de l'inconnu.</p>
       </div>
@@ -351,13 +417,18 @@
         <p>Ah ! l'on ne chômait guère à Aéroville, et les grèves et autres misères sociales n'avaient point l'air d'y être connues.</p>
         <p>À peine arrivés, les concurrents se mirent à l'ouvrage, les énormes caisses apportées d'Europe et de toutes les parties du monde furent déballées.</p>
         <p>Les biplans, les monoplans commencèrent à se monter dans les hangars.</p>
-        <p>Jacques Lavernière, le président de la course, accompagné des membres de l'Aéro-Club, visitait les ateliers. Il se faisait donner des explications sur les différents mécanismes. Rien n'était plus curieux en effet que cette variété dans les procédés et les constructions.</p>
-        <p>Le marquis de la Lande constatait tous les jours avec grand plaisir que l'aéroplane de Pierre Lathon était le seul logiquement construit en vue d'une randonnée polaire, et le seul capable de supporter vaillamment ce voyage qu'il importait à tout prix d'exécuter d'une seule traite.</p>
+        <p>Jacques Lavernière, le président de la course, accompagné des membres de l'Aéro-Club, visitait les ateliers. Il se faisait donner des explications sur les différents mécanismes. Rien n'était plus curieux en effet que cette variété dans les
+          procédés et les constructions.</p>
+        <p>Le marquis de la Lande constatait tous les jours avec grand plaisir que l'aéroplane de Pierre Lathon était le seul logiquement construit en vue d'une randonnée polaire, et le seul capable de supporter vaillamment ce voyage qu'il importait à tout
+          prix d'exécuter d'une seule traite.</p>
         <p>L'aéroplane de Johnson Faber était également des plus curieux, il devait certes être capable des plus grands efforts et devait être un adversaire redoutable pour le jeune français.</p>
         <p>L'appareil de Nicolas Weiner était assez ingénieux, d'un modèle tout à fait nouveau, il demandait à être longuement expérimenté avant le départ définitif.</p>
         <p>Pierre Lathon, à Paris, avait fait merveille, le jour même où son « Pourquoi pas ? » avait été prêt, il était sorti des usines de Montrouge et avait pris son vol.</p>
-        <p>Comme premier essai, il avait fait le tour de Paris en suivant les fortifications, puis il s'était dirigé vers la place de l'Opéra, et les grands boulevards acclamé par une population en délire, il avait suivi les boulevards de l'Opéra à la place de la République, de là était allé au-dessus de l'Élysée où il avait eu l'honneur d'être admiré par le président Fallières, puis il avait piqué droit sur la tour Eiffel qu'il avait contournée en se maintenant à une centaine de mètres au-dessus d'elle; après quoi il était rentré à Montrouge,ayant tout .le long du trajet éprouvé son appareil de maintes et maintes manières.</p>
-        <p>La conclusion qui devait être tirée et qui fut tirée de ces exploits, fut que Pierre Lathon possédait un véhicule aérien d'une souplesse et d'une endurance stupéfiantes. Doucement Nelly tira Lathon par le bras (page 61). Ce fut dans toute la presse un concert d'éloges, que ne parvinrent pas à surmonter les articles dithyrambiques consacrés dans les journaux étrangers aux essais de leurs compatriotes.</p>
+        <p>Comme premier essai, il avait fait le tour de Paris en suivant les fortifications, puis il s'était dirigé vers la place de l'Opéra, et les grands boulevards acclamé par une population en délire, il avait suivi les boulevards de l'Opéra à la place
+          de la République, de là était allé au-dessus de l'Élysée où il avait eu l'honneur d'être admiré par le président Fallières, puis il avait piqué droit sur la tour Eiffel qu'il avait contournée en se maintenant à une centaine de mètres au-dessus
+          d'elle; après quoi il était rentré à Montrouge,ayant tout .le long du trajet éprouvé son appareil de maintes et maintes manières.</p>
+        <p>La conclusion qui devait être tirée et qui fut tirée de ces exploits, fut que Pierre Lathon possédait un véhicule aérien d'une souplesse et d'une endurance stupéfiantes. Doucement Nelly tira Lathon par le bras (page 61). Ce fut dans toute la
+          presse un concert d'éloges, que ne parvinrent pas à surmonter les articles dithyrambiques consacrés dans les journaux étrangers aux essais de leurs compatriotes.</p>
         <p>Pour tous les gens compétents, en France, le seul adversaire sérieux de Pierre Lathon était Johnson Faber, c'était, nous l'avons vu, l'avis de tous les membres de l'expédition et du marquis de la Lande, en particulier.</p>
         <p>Malgré cette rivalité qui allait donner lieu à une lutte sans précédents dans les annales de l'aviation, Pierre Lathon et Johnson Faber étaient devenus deux amis.</p>
         <p>Ils éprouvaient le besoin de se voir plusieurs fois par jour, se rendaient mutuellement visite dans leurs ateliers, discutaient des problèmes de mécanique, se passionnaient pour les questions d'aéronautique, échangeaient leurs idées philosophiques.</p>
@@ -370,15 +441,20 @@
         <p>De temps à autre, Nicolas Weiner et son aide Frans Hyde prônaient place à cette table familiale, mais ces deux hommes n'aimaient pas trop ces réunions.</p>
         <p>C'étaient des travailleurs acharnés mais timides, arachés de leurs ateliers ils ne songeaient qu'à y retourner ; assurément, ils n'avaient pas l'habitude du monde et préféraient la solitude.</p>
         <p>Le marquis de la Lande était invité souvent, il aimait beaucoup la compagnie de ce rival anglais, si loyal, si franc.</p>
-        <p>En dehors de ces personnages, les deux aviateurs ne s'étaient guère liés qu'avec l'espagnol Alphonse Dicquez et sa femme Dolorès, gens sans arrière pensée et d'un commerce agréable. Ils entretenaient aussi des relations de bonne amitié avec le grand duc Serge Potropstock et voyaient quelquefois, non sans déplaisir, le japonais Nito.</p>
+        <p>En dehors de ces personnages, les deux aviateurs ne s'étaient guère liés qu'avec l'espagnol Alphonse Dicquez et sa femme Dolorès, gens sans arrière pensée et d'un commerce agréable. Ils entretenaient aussi des relations de bonne amitié avec le
+          grand duc Serge Potropstock et voyaient quelquefois, non sans déplaisir, le japonais Nito.</p>
         <p>En revanche, de véritables inimitiés, qui ne devaient pas tarder à se changer en haines vivaces, éclatèrent dès le début, malgré la bonne volonté de Pierre La-thon et de Johnson Faber.</p>
-        <p>Le concurrent italien, Laurent Taliani, volontiers attiré vers le français et l'anglais, s'était peu à peu laissé influencer par son compatriote et collaborateur le docteur Claude Ranello, puis par ses deux mécaniciens Victor Ainoterellini et Félix Gumberto.</p>
-        <p>Ces derniers, particulièrement, détestaient le français, ils firent croire à Claude Ranello que Lathon avait fait un pacte avec Faber et que les deux hommes coaliseraient leurs efforts pour gagner la course, ce qui leur permettrait de partager le prix qui, ne l'oublions pas, était d'un million six cent mille francs. Claude Ranello se laissait lui aussi mener un peu par ses compagnons. Ceux-ci,mentant effrontément et jaloux de la gloire du jeune français, racontèrent que Jacques Loniam avait été aperçu rôdant autour de l'atelier de l'italien, dans le but, sans doute, de surprendre des détails de l'aéroplane Taliani.</p>
+        <p>Le concurrent italien, Laurent Taliani, volontiers attiré vers le français et l'anglais, s'était peu à peu laissé influencer par son compatriote et collaborateur le docteur Claude Ranello, puis par ses deux mécaniciens Victor Ainoterellini et
+          Félix Gumberto.</p>
+        <p>Ces derniers, particulièrement, détestaient le français, ils firent croire à Claude Ranello que Lathon avait fait un pacte avec Faber et que les deux hommes coaliseraient leurs efforts pour gagner la course, ce qui leur permettrait de partager le
+          prix qui, ne l'oublions pas, était d'un million six cent mille francs. Claude Ranello se laissait lui aussi mener un peu par ses compagnons. Ceux-ci,mentant effrontément et jaloux de la gloire du jeune français, racontèrent que Jacques Loniam avait
+          été aperçu rôdant autour de l'atelier de l'italien, dans le but, sans doute, de surprendre des détails de l'aéroplane Taliani.</p>
         <p>Claude Banello, indigné, sans chercher à contrôler la véracité de ce fait, avertit Laurent Taliani et le mit en garde contre des entreprises d'espionnage possibles.</p>
         <p>Lé jeune italien avait tout haut manifesté son indignation et s'était bien juré de ne jamais avoir de rapports avec le français/ Quand il le rencontrait dans Aéroville, il l'évitait et ne le saluait jamais.</p>
         <p>Pierre Lathon s'en était bien aperçu, mais il avait mis cet incident sur le compte de la jalousie et il n'y avait plus pensé.</p>
         <p>Or, les ouvriers monteurs italiens avaient épousé la querelle de leur maître, ils injurièrent bientôt les ouvriers français et anglais, essayant d'entraîner avec eux les allemands.</p>
-        <p>Mais ces derniers ne se laissèrent pas influencer et demeurèrent neutres ; les russes étaient d'un calme que rien ne pouvait approcher, d'ailleurs peu connaissaient un autre langage que le slave et pour cette raison ne pouvaient s'entendre avec leurs collègues étrangers.</p>
+        <p>Mais ces derniers ne se laissèrent pas influencer et demeurèrent neutres ; les russes étaient d'un calme que rien ne pouvait approcher, d'ailleurs peu connaissaient un autre langage que le slave et pour cette raison ne pouvaient s'entendre avec
+          leurs collègues étrangers.</p>
         <p>C'était un curieux spectacle que celui d'Aéroville, véritable Tour de Babel où toutes les langues, tous les idiomes s'entrecroisaient.</p>
         <p>Les ouvriers espagnols et les ouvriers portugais sympathisèrent tout de suite étant presque du même pays. Les ouvriers américains, comme les russes, vivaient à part, ne se mêlant aucunement à l'existence des autres.</p>
         <p>Les autrichiens fréquentaient quelque peu les allemands et leurs rapports étaient sinon excellents, du moins empreints de bonne cordialité.</p>
@@ -413,13 +489,14 @@
         <p>Et Pierre Lathon tout rêveur se demanda à haute voix:</p>
         <p>— Est-il bien exact que j'aime Nelly ?</p>
       </div>
-            <div type="chapter">
+      <div type="chapter">
         <head>VI</head>
         <head>AMOUR ET JALOUSIE</head>
         <p>Depuis ce Jour, Pierre Lathon s'étudia curieusement, jamais il n'avait soupçonné jusqu'à présent qu'il pouvait aimer la jeune fille et être aimé d'elle.</p>
         <p>Il s'était simplement habitué à vivre près d'elle et il constatait une chose indéniable c'est qu'il ne pouvait plus se passer de sa compagnie.</p>
         <p>Or, sur ces entrefaites, un événement singulier se produisit qui projeta dans l'âme du jeune homme un peu de clarté, de joie, mais aussi de chagrin.</p>
-        <p>Un soir, il gagnait emmitouflé dans ses fourrures, la baraque de Johnson Paberqui se trouvait rue du Colonel Bénard, lorsqu'il aperçut dans la demi-obscurité de la rue, mal dissipée par des lanternes accrochées aux baraques, une silhouette qui lui était familière.</p>
+        <p>Un soir, il gagnait emmitouflé dans ses fourrures, la baraque de Johnson Paberqui se trouvait rue du Colonel Bénard, lorsqu'il aperçut dans la demi-obscurité de la rue, mal dissipée par des lanternes accrochées aux baraques, une silhouette qui lui
+          était familière.</p>
         <p>À n'en pas douter, c'était Nelly Faber qui marchait à une vingtaine de pas de lui à peine ; il se disposait à accélérer sa marche pour rejoindre la jeune fille qui venait probablement de rendre visite à Dolorès Dicquez on à une autre de ses amies.</p>
         <p>Soudain, comme elle passait devant la demeure de l'italien Laurent Taliani, Pierre Lathon vit ce jeune homme sortir de l'ombre et s'avancer vers Nelly.</p>
         <p>Celle-ci eut un tel mouvement de surprise que Pierre Lathon, intrigué, se jeta dans l'intervalle qui séparait deux baraques et de là, parfaitement dissimulé,il observa.</p>
@@ -467,22 +544,23 @@
         <p>Doucement, la jeune fille murmura dans un souffle à peine perceptible :</p>
         <p>— Je vous aime aussi, monsieur Pierre !</p>
       </div>
-            <div type="chapter">
+      <div type="chapter">
         <head>VII</head>
         <head>PREMIERS VOLS</head>
-        <p>L'époque de la course s'approchait, l'activité dans les ateliers devenait dejour en jour plus fébrile et les aviateurs mettaient la dernière main à leursappareils.</p>
-        <p>Pierre Lathon et Johnson Faber avaient achevé le montage de leur aéroplane lespremiers.</p>
-        <p>Avant de faire des essais, ils tinrent à vérifier attentivement leurs moindrespièces, leurs moteurs. Cet examen démontra que tout était en place et que rienn'était ou ne paraissait défectueux.</p>
+        <p>L'époque de la course s'approchait, l'activité dans les ateliers devenait de jour en jour plus fébrile et les aviateurs mettaient la dernière main à leur sappareils.</p>
+        <p>Pierre Lathon et Johnson Faber avaient achevé le montage de leur aéroplane les premiers.</p>
+        <p>Avant de faire des essais, ils tinrent à vérifier attentivement leurs moindres pièces, leurs moteurs. Cet examen démontra que tout était en place et que rien n'était ou ne paraissait défectueux.</p>
         <p>Par un sentiment de coquetterie que des adversaires moins courtois ne comprenaient pas, les deux aviateurs tinrent à faire leurs essais le même jour.</p>
-        <p>Les appareils furent sortis du hangar et amenés sur le même terrain. Le ventétait modéré, mais la température, quoiqu'on fut au printemps, étaitglaciale.</p>
-        <p>Les aides étaient assez embarrassés pour manier le monoplan de Pierre Lathon etle biplan de Johnson Faber; en effet, le yent leur glaçait les mains et leursépais vêtements de fourrure les gênaient dans leurs mouvements.</p>
-        <p>Pierre Lathon avait été bien avisé en apportant tout ses soins au chauffage dela cabine où il devait prendre place avec. Lucien Golfech et Jacques Loniam, ily faisait une chaleur modérée.</p>
-        <p>Johnson Faber, au contraire, avait installé un calorifère de fortune et dès lepremier jour, en dirigeant son aéroplane, il souffrit du froid, ce qui luienlevait plus d'un de ses moyens.</p>
-        <p>Tout Aéroville était là, chacun avait tenu à assister à ces premiers essais desdeux champions vraiment sérieux de la course, des favoris — eüt-on dit à Paris,sur l'hippodrome de Longchamp ou d'Au- teuil.</p>
-        <p>Pierre Lathon fit une envolée magnifique, du premier élan il gagna une hauteur de quatre cents mètres, hauteur à laquelle il se maintint. Puis, voyant queson aéroplane était tel qu'il l'avait eu à Paris, bien en main, parfaitementéqui- bré, il se risqua à faire les tours de force les plus audacieux.</p>
-        <p>Il coupa l'allumage, descendit en vol plané jusqu'à cent mètres de terre, puisfit marcher de nouveau le moteur et reprit le vol régulier, s'amusant a fairedes vira- ges savants, à- boucler des boucles, des huit.</p>
-        <p>Johnson Faber était parvenu à se lancer, il voletait au-dessus de son ami La-thon puis brusquement se glissait sous lui.</p>
-        <p>Dn aurait dit de gigantesques oiseaux jblancs se poursuivant à tire d'aile, lespectacle était de toute beauté, on devinait que ces appareils étaient capablesde randonnées gigantesques.</p>
+        <p>Les appareils furent sortis du hangar et amenés sur le même terrain. Le vent était modéré, mais la température, quoiqu'on fut au printemps, était glaciale.</p>
+        <p>Les aides étaient assez embarrassés pour manier le monoplan de Pierre Lathon et le biplan de Johnson Faber; en effet, le vent leur glaçait les mains et leurs épais vêtements de fourrure les gênaient dans leurs mouvements.</p>
+        <p>Pierre Lathon avait été bien avisé en apportant tout ses soins au chauffage de la cabine où il devait prendre place avec. Lucien Golfech et Jacques Loniam, il y faisait une chaleur modérée.</p>
+        <p>Johnson Faber, au contraire, avait installé un calorifère de fortune et dès le premier jour, en dirigeant son aéroplane, il souffrit du froid, ce qui lui enlevait plus d'un de ses moyens.</p>
+        <p>Tout Aéroville était là, chacun avait tenu à assister à ces premiers essais des deux champions vraiment sérieux de la course, des favoris — eut-on dit à Paris, sur l'hippodrome de Longchamp ou d'Auteuil.</p>
+        <p>Pierre Lathon fit une envolée magnifique, du premier élan il gagna une hauteur de quatre cents mètres, hauteur à laquelle il se maintint. Puis, voyant que son aéroplane était tel qu'il l'avait eu à Paris, bien en main, parfaitement équilibré, il
+          se risqua à faire les tours de force les plus audacieux.</p>
+        <p>Il coupa l'allumage, descendit en vol plané jusqu'à cent mètres de terre, puis fit marcher de nouveau le moteur et reprit le vol régulier, s'amusant a faire des virages savants, à boucler des boucles, des huit.</p>
+        <p>Johnson Faber était parvenu à se lancer, il voletait au-dessus de son ami Lathon puis brusquement se glissait sous lui.</p>
+        <p>On aurait dit de gigantesques oiseaux jblancs se poursuivant à tire d'aile, lespectacle était de toute beauté, on devinait que ces appareils étaient capablesde randonnées gigantesques.</p>
         <p>On comprenait qu'ils pouvaient fournir des efforts prodigieux, leur robustessebien visible les désignait à 1 attention de tous, comme ceux qui devaient êtreles triomphateurs.</p>
         <p>Et malgré les jalousies qu'ils éveillaient, malgré les espoirs qu'ils venaientcontrarier par ces belles expériences, ils furent applaudis avec enthousiasmeet quelques hurrahs s'élevèrent.</p>
         <p>Ce fut piquant de voir les deux concurrents sortir de leurs machines, venir àla rencontre l'un de l'autre et se serrer la main avec effusion en sefélicitant.</p>
@@ -498,7 +576,8 @@
         <p>Elle le fixa un moment de ses yeux si expressifs, puis lui répondit :</p>
         <p>— Eh bien Pierre, vous parlerez quand vous voudrez!</p>
         <p>— Merci Nelly ! dit-il. Et il lui serra la main.</p>
-        <p>Comme il regardait autour de lui, il aperçut Laurent Taliaat entouré de son amile docteur Claude RaneUo et de ses dçiix • mécaniciens, Victor AitlotoralUni etFélix ©Umberto, Il remarqua que l'aviateur Italien avait une mauvaise flamme dans les y eux.. 4il était jaloux sans doute et n'avait pas. dû renoncer à se faire aimer, deNelly*</p>
+        <p>Comme il regardait autour de lui, il aperçut Laurent Taliaat entouré de son amile docteur Claude RaneUo et de ses dçiix • mécaniciens, Victor AitlotoralUni etFélix ©Umberto, Il remarqua que l'aviateur Italien avait une mauvaise flamme dans les y
+          eux.. 4il était jaloux sans doute et n'avait pas. dû renoncer à se faire aimer, deNelly*</p>
         <p>— Pauvre garçon, pensa Pierre Lathori* Il est à plaindre.</p>
         <p>Puis il donna des ordres à ses ouvriers et fit rentrer le .« Pourquoi pasl »dans son hangar.</p>
         <p>‘Johnson Faber expliquait quelques détails de sa machine aux membres del'Àéro- Glul, qui l'écoutaient très intéressés*</p>
@@ -507,14 +586,15 @@
         <p>— Monsieur Faber j'ai à vous entretenir d'un projet qui m'est très cher, voulez-vous m'accompagner jusque Chez moi?</p>
         <p>— Mais très volontiers mon amil... je vous suis.</p>
       </div>
-            <div type="chapter">
+      <div type="chapter">
         <head>VHI</head>
         <head>BASSES VENGEANCES</head>
         <p>Johnson Faber était assurément l'homme le plus calme et le moins curieux de lacréation.</p>
         <p>L'intonation de voix de Pierro Lathon, son attitude gênée, embarrassée, toutdisait que le jeune homme n'était pas dans son état normal et qu'il -avaitquelque confidence à faire, ou bien des conseils à demander sur une graveaffaire.</p>
         <p>Certainement Johnson Faber voyait cela, mais il n'en était pas le moins du mondeintrigué, il avait adopté un système de philosophie des plus pratiques.</p>
         <p>Il avait coutume de dire: laissons les événements venir à nous, dans la vie touts'arrange, dès lors à quoi bon se faire du mauvais sang, à quoi bon eecompliquer l'existence, se créer des ennuis pour en arriver aux mêmesrésultats?</p>
-        <p>Devinait-il la proche arrivée de cruels soucis, il ne se désolait pas pour sipeu, il attendait et ne faisait pas comme tant de gens qui oubliaient le dicton: « A chaque jour suffit sa peine ! » provoquant en eux-mêmes d'atroces chagrins, par l'évocation de l'avenir.</p>
+        <p>Devinait-il la proche arrivée de cruels soucis, il ne se désolait pas pour sipeu, il attendait et ne faisait pas comme tant de gens qui oubliaient le dicton: « A chaque jour suffit sa peine ! » provoquant en eux-mêmes d'atroces chagrins, par
+          l'évocation de l'avenir.</p>
         <p>Pour ces raisons, Johnson Faber évitait toujours de se « déprimer » moralementen songeant à ce qui l'attendait. Aussi son esprit était-il libre et dispos,dégagé de toute préoccupation importune.</p>
         <p>Docile, il suivit son ami Pierre Lathon dans sa baraque et s'installaconfortablement au fond d'un fauteuil d'osier, avant que d'écouter.</p>
         <p>— Cher monsieur Faber, commença Pierre Lathon, je vous ai fait venir ici, car ceque j'ai à vous dire est très important.</p>
@@ -548,7 +628,8 @@
         <p>— Allons ! Allons ! jeune homme, ne pensons plus à ça et venez avec moi... a làmaison. Si l'on peut désigner de ce nom familial cette bicoque en planches maljointes !</p>
         <p>Pierre Lathon se laissa entraîner et quelques minutes plus tard, Katy Faber apprenait la nouvelle et manifestait à l'aviateur toute sa joie et toute sasympathie.</p>
         <p>Le champion français était radieux, mais il semblait manquer quelque chose à sonbonheur, Johnson Faber s'en aperçut.</p>
-        <p>— 'Sommes-nous cruels I s'exclama-t-il. Nous laissons ce pauvre garçon sans safiancée et il fait une tête. Rassurez-vous, monsieur, nous allons l'appeler,mais je vous défends de dire un mot, laissez-moi le soin exclusif de parler...chacun son tour, n'est-ce pas ?...</p>
+        <p>— 'Sommes-nous cruels I s'exclama-t-il. Nous laissons ce pauvre garçon sans safiancée et il fait une tête. Rassurez-vous, monsieur, nous allons l'appeler,mais je vous défends de dire un mot, laissez-moi le soin exclusif de parler...chacun son
+          tour, n'est-ce pas ?...</p>
         <p>Il disparut et revint presque aussitôt suivi de Nelly ; la jeune fille compritque Pierre avait fait la demande.</p>
         <p>D'un air mi-rieur, mi-sévère, Johnson commença :</p>
         <p>— Eh bien, mademoiselle ma fille, c'est comme ça que vous faites des mystères,c'est comme ça que vous cachez quelque chose à votre vieux bonhomme de père?</p>
@@ -578,12 +659,15 @@
         <p>— Oui mon cher! fit à son tour Lucien Golfech. C'est incompréhensible, vousm'en voyez moi-même tout bouleversé.</p>
         <p>Nelly, son père et sa mère étaient en cet instant aussi émus que Lathon. Le français prit la parole :</p>
         <p>—■ Mais enfin, Jacques, expliquez-moi, vous aussi Golfech, je vous en prie.</p>
-        <p>Golfech expliqua : — J'étais revenu avec Jacques dans l'atelier pour y graisser les moteurs etvérifier ei l'expérience d'aujourd'hui ne les avait pas quelque peu abîmés...nous ne remarquons rien de particulier, mais lorsque nous débrayons et que nousessayons de mettre en marche le moteur de droite, il se refuse obstinément àse mettre en mouvement et nous constatons, non sans douleur, qu'il estbrisé.</p>
-        <p>— Brisé î B'indigna Lathon. Mais c'est invraisemblable. Le marquis de la Landeavait fait apporter tous ses soins à la construction des moteurs destinés au «Pourquoi pas ? » Vous vous rappelez Gol- fech que j'en ài éliminé quatre avant'd'arriver à choisir ceux que nous avons.</p>
+        <p>Golfech expliqua : — J'étais revenu avec Jacques dans l'atelier pour y graisser les moteurs etvérifier ei l'expérience d'aujourd'hui ne les avait pas quelque peu abîmés...nous ne remarquons rien de particulier, mais lorsque nous débrayons et que
+          nousessayons de mettre en marche le moteur de droite, il se refuse obstinément àse mettre en mouvement et nous constatons, non sans douleur, qu'il estbrisé.</p>
+        <p>— Brisé î B'indigna Lathon. Mais c'est invraisemblable. Le marquis de la Landeavait fait apporter tous ses soins à la construction des moteurs destinés au «Pourquoi pas ? » Vous vous rappelez Gol- fech que j'en ài éliminé quatre avant'd'arriver à
+          choisir ceux que nous avons.</p>
         <p>— Venez voir mon cher ami, reprit le docteur. Vous jugerez vous-même 1</p>
         <p>Pierre Lathon remit son manteau et se coiffa de la toque de renard qui protégeait sa tête contre les rigueurs du froid.</p>
         <p>Johnson Faber, sa femme et sa fille suivirent; la rue du Colonel Renard fut vitefranchie.</p>
-        <p>En passant devant la porte de Laurent Talîanî, Pierre Lathon aperçut l'italienderrière les vitres de Ba fenêtre, il avait un regard narquois auquel l'aviateurne fit pas sur le moment attention. Nelly fit la même remarque et ne put s'empêcher de frissonner en voyant le coupd'œil méchant que lui lança celui qu'elle avait évincé.</p>
+        <p>En passant devant la porte de Laurent Talîanî, Pierre Lathon aperçut l'italienderrière les vitres de Ba fenêtre, il avait un regard narquois auquel l'aviateurne fit pas sur le moment attention. Nelly fit la même remarque et ne put s'empêcher de
+          frissonner en voyant le coupd'œil méchant que lui lança celui qu'elle avait évincé.</p>
         <p>L'atelier où était déposé le « Pourquoi pas ? » présentait un curieuxspectacle.</p>
         <p>L'aéroplane était en effet entouré de presque tous les monteurs mécaniciens quiavaient suivi le français au Spitzberg. Attirés par Jacques, ils examinaient lamachine et de sourdes rumeurs couraient.</p>
         <p>A l'arrivée de Lathon, les ouvriers s'écartèrent pour lui livrer passage, puisun concert de malédictions s'éleva...</p>
@@ -620,8 +704,10 @@
         <p>ï)e nouveau Pierre Lathon regardait l'objet que lui avait remis Nelly, c'étaitun bouton de manchette en acier, mais adorné d'une monture d'émail.</p>
         <p>Et cette monture qui avait été pour le jeune homme comme pour la jeune fille unerévélation, c'était une réduction du drapeau italien, Mais fallait-il pour cela soupçonner Laurent £Taliani ? fallait-il le croire,capable de cette monstruosité?</p>
         <p>Le jeune homme demeurait perplexe. Il était trop, loyal lui-même, pour soupçonner les autres de telles perfidies et il ne pouvait se résoudre à,accuser.</p>
-        <p>C'était pour cela qu'il avait essayé de donner le change au contremaître, qu'ilsavait très entêté et très violent; d'ailleurs il redoutait la fougue de tousses mécaniciens qui étaient de braves garçons, capables, pour venger leurpatron, leur idole, de se livrer aux pires représailles.</p>
-        <p>Et cependant, tout ne semblait-il pas convaincre l'italien d'avoir commis cetattentat? A présent Pierre Lathon se rappelait le regard qu'il lui avait lancéquelques minutes auparavant, et il doutait, se méfiant un peu de lui-même, caril détestait Laurent Taliani depuis qu'il avait en lui un rival amoureux.</p>
+        <p>C'était pour cela qu'il avait essayé de donner le change au contremaître, qu'ilsavait très entêté et très violent; d'ailleurs il redoutait la fougue de tousses mécaniciens qui étaient de braves garçons, capables, pour venger leurpatron, leur
+          idole, de se livrer aux pires représailles.</p>
+        <p>Et cependant, tout ne semblait-il pas convaincre l'italien d'avoir commis cetattentat? A présent Pierre Lathon se rappelait le regard qu'il lui avait lancéquelques minutes auparavant, et il doutait, se méfiant un peu de lui-même, caril détestait
+          Laurent Taliani depuis qu'il avait en lui un rival amoureux.</p>
         <p>Etrange situation dans laquelle il se trouvait. S'il n'avait pas aimé Nelly ileut joui de toute sa liberté d'esprit, pour accuser l'Italien et pour voirattentivement si ce dernier était coupable ou innocent.</p>
         <p>Mais, en présence de l'attentat odieux dont venait d'être victime son «Pour- I</p>
         <p>quoi pas? », cette merveille scientifique, il tremblait de tous ses membres,anéanti moralement, écœuré.</p>
@@ -643,12 +729,13 @@
         <p>En quelques mots on le mit au courant des événements qui venaient de se dérouler .</p>
         <p>Il s'efforça de calmer les ouvriers par un langage raisonné et sa conclusion futcelle-ci :</p>
         <p>— Mes chers amis, il ne faut pas discréditer le nom français !</p>
-        <p>« Il ne faut pas que ce nom soit synonyme de désordre et violence. Du calmeje vous en prie, du calme 1 Vous me ferez de la peine si vous vous portez auxpires extrémités. Laissez-nous faire, nous trouverons les coupables et peut-êtreà ce moment, mais à ce moment seulement, noms vous lfé abandonnerons.</p>
+        <p>« Il ne faut pas que ce nom soit synonyme de désordre et violence. Du calmeje vous en prie, du calme 1 Vous me ferez de la peine si vous vous portez auxpires extrémités. Laissez-nous faire, nous trouverons les coupables et peut-êtreà ce moment,
+          mais à ce moment seulement, noms vous lfé abandonnerons.</p>
         <p>Üne formidable clameur retentit;</p>
         <p>— Vive le marquis! !</p>
         <p>vms i»a wm m</p>
       </div>
-            <div type="chapter">
+      <div type="chapter">
         <head>IX</head>
         <head>LA RÉVOLUTION A AÉROVILLE</head>
         <p>'Johnson Fabêr était à présent doublement ému. L'arrivée de sou mécanicienl'avait bouleversé. Hô quoi, l'ennemi mys- tériêbt Se Pierre Lathon s'était doncégalement attaqué à lui.</p>
@@ -676,14 +763,16 @@
         <p>Et l'un des mécaniciens, pour bien montrer qu'il partageait tout à faitl'opinion de son patron, dit en ricanant:</p>
         <p>— Yes, je voudrais le avoir ce gentlemen, je casserais le moteur à lui. Malgré toute la peine qu'il avait, Pierre Lathon ne put s'empêcher de rire.</p>
         <p>— Tiens I remarqua :t-il, voilà une expression qui ferait fureur à Paris, jevais la lancer à mon retour. J'entends d'ici un voyou parisien dire d'un tontraînard : « Mon vieux, je vas te casser le moteur 1 » Le voilà bien lelangage imagé I</p>
-        <p>Puis il ajouta à voix basse pour Johnson Faber: — Vous voyez, vos ouvriers nous écoutent: plus un mot de cette affaire, doubliez pas une chose, c'est que noué avons intérêt à être les seuls justiciers.Ne mêlons pas à cela ces braves gens, beaucoup trop violents et dont le manquede pondération pourrait nous faire grand tort.</p>
+        <p>Puis il ajouta à voix basse pour Johnson Faber: — Vous voyez, vos ouvriers nous écoutent: plus un mot de cette affaire, doubliez pas une chose, c'est que noué avons intérêt à être les seuls justiciers.Ne mêlons pas à cela ces braves gens, beaucoup
+          trop violents et dont le manquede pondération pourrait nous faire grand tort.</p>
         <p>Il achevait à peine ces mots qu'un vacarme effroyable se produisit audehors.</p>
         <p>Pierre Lathon se précipita dans la pièce qui donnait sur la rue duColonel-Renard, il leva les bras au ciel, saisit son manteau qui traînait parterre et sortit.</p>
         <p>Johnson Faber, sa femme, sa fille et Lucien Golfech le suivirent après s'êtrevêtus en hâte.</p>
         <p>La rue présentait une vive animation, on se serait cru au sortir d'une réunionpublique parisienne.</p>
         <p>En tête d'un fôrt groupement d'hommes, une quarantaine, environ, d'anglais etde français, marchait affairé et important Jacques loniâm.</p>
         <p>Il dirigeait tout ce petit monde qui criait, qui hurlait à l'adresse deLaurent Talianl et de ses collaborateurs des menaces de mort.</p>
-        <p>Les ouvriers paraissaient très surexcités et brandissaient qui des revolvers,qui des leviers, qui des bâtons. Dans le fond de la rue l'on voyait le marquis de la Lande, accompagiïè de PierreSanceyt de Peyroutas et de deux autres membres de l'Aéro-Club, qui arrivait aupas de course.</p>
+        <p>Les ouvriers paraissaient très surexcités et brandissaient qui des revolvers,qui des leviers, qui des bâtons. Dans le fond de la rue l'on voyait le marquis de la Lande, accompagiïè de PierreSanceyt de Peyroutas et de deux autres membres de
+          l'Aéro-Club, qui arrivait aupas de course.</p>
         <p>Une clameur soudain se déchaîna, clameur de haine, clameur lugubre:</p>
         <p>— A mort Taliahi ! A mort les maca* ronis 1</p>
         <p>Ce mot « macaroni » semblait d'ailleurs dans la bouche des ouvriers français etanglais, une injure terrible ; ils tendaient leurs armes vers la baraque oùl'italien habitait ainsi que ses aides.</p>
@@ -703,7 +792,8 @@
         <p>Une troupe nombreuse d'ouvriers de tous les pays venait en effet de faire sonapparition sur le théâtre de l'émeute.</p>
         <p>Les divers concurrents étrangers s'étaient mêlés à elle. En un clin d'œil tousles combattants furent désarmés et soigneusement séparés en deux camps.</p>
         <p>Tous les membres du comité directeur de la course étaient là. Ce fut pour Jacques Lavernière, le président, l'occasion de prononcer un discours.</p>
-        <p>— Mes amis, dit-il, ce que vous faites là est honteux. Hé quoi, vous donneriezraison à ceux qui disent que les hommes sont semblables aux bêtes féroces et nedemandent qu'à se manger entre eux. Si vous avez des querelles à régler, si vousavez des différents, soumettez-les nous I Il faut avoir confiance en nous ! Nousdonnerons raison à ceux qui ont raison et tort à ceux qui ont tort.</p>
+        <p>— Mes amis, dit-il, ce que vous faites là est honteux. Hé quoi, vous donneriezraison à ceux qui disent que les hommes sont semblables aux bêtes féroces et nedemandent qu'à se manger entre eux. Si vous avez des querelles à régler, si vousavez des
+          différents, soumettez-les nous I Il faut avoir confiance en nous ! Nousdonnerons raison à ceux qui ont raison et tort à ceux qui ont tort.</p>
         <p>Un nouveau murmure de haine courut dans les rangs des ouvriers français.</p>
         <p>Jacques Lavernière mit les poings sur les hanches ot familièrement, comme s'ilparlait à des enfants indisciplinés, il reprit :</p>
         <p>— Quelle férocité l Vous mériteriez tous la même punition et tous ceux quisont T</p>
@@ -768,24 +858,30 @@
         <p>Quelle machination infernale ! déclara Laurent Taliani qui, de très bonne foi, croyait son collaborateur innocent del'acte .dont on l'accusait.</p>
         <p>De nouveaux cris s'élevèrent, les ouvriers français et anglais s'agitaient,des ouvriers étrangers prenaient fait et cause pour eux.</p>
         <p>Jacques Lavernière prit la parole:</p>
-        <p>— Messieurs, en présence de ce qui vient de se passer, je constitue un tribunal d'honneur devant qui vont comparaître MM. Lathon, Taliani, Faber, Ba-nello et tous ceux qui ont été mêlés à cette affaire. Ce tribunal comprendradeux membres de chaque nationalité qui vont être tirés au sort. Mais je vous ensupplie, n'ensanglantez pas Aéroville. Et que le bruit d'incidents scandaleux etregrettables n'arrive pas en Europe! Messieurs, mes amis, mes camarades, jecompte sur vous 1... Dans une heure le tribunal d'honneur sera constitué et cesoir son verdict sera rendu. Quel qu'il soit nous nous inclinerons tous devantlui!</p>
+        <p>— Messieurs, en présence de ce qui vient de se passer, je constitue un tribunal d'honneur devant qui vont comparaître MM. Lathon, Taliani, Faber, Ba-nello et tous ceux qui ont été mêlés à cette affaire. Ce tribunal comprendradeux membres de chaque
+          nationalité qui vont être tirés au sort. Mais je vous ensupplie, n'ensanglantez pas Aéroville. Et que le bruit d'incidents scandaleux etregrettables n'arrive pas en Europe! Messieurs, mes amis, mes camarades, jecompte sur vous 1... Dans une heure le
+          tribunal d'honneur sera constitué et cesoir son verdict sera rendu. Quel qu'il soit nous nous inclinerons tous devantlui!</p>
         <p>Jacques Lavernière prit par le bras le marquis de la Lande et s'éloigna.</p>
         <p>I«es ouvriers, français, anglais et allemands d'un côté, italiens de l'autre,se regardèrent avec des yeux chargés de</p>
-        <p>f Mais heureusement, les russes, les autrichiens, les espagnols et lesaméricains veillaient, ils empêchèrent le retour des incidents qui avaient amenéles scènes que nous venons de raconter. Peu à peu la rue du Colonel-Renarddevint déserte comme d'habitude, chacun était rentré chez lui. Et Aérovillereprit son aspect tranquille qui avait été troublé pendant une bonne heure,par une véritable émeute révolutionnaire.</p>
+        <p>f Mais heureusement, les russes, les autrichiens, les espagnols et lesaméricains veillaient, ils empêchèrent le retour des incidents qui avaient amenéles scènes que nous venons de raconter. Peu à peu la rue du Colonel-Renarddevint déserte comme
+          d'habitude, chacun était rentré chez lui. Et Aérovillereprit son aspect tranquille qui avait été troublé pendant une bonne heure,par une véritable émeute révolutionnaire.</p>
       </div>
       <div type="chapter">
-                <head>X</head>
+        <head>X</head>
         <head>JUSTICE I</head>
         <p>Jacques Lavernière était un homme énergique. Quand il voulait quelque chose, üle voulait bien et arrivait toujours à la réalisation de ses désirs.</p>
-        <p>L'attentat commis sur les aéroplanes lui parut abominable et il jugea que sonauteur ne pouvait demeurer plus longtemps à Aéroville où il constituait undanger permanent pour tout le monde. Ge tribunal, composé dans les conditions indiquées par Jacques Laverdière, nommapour président Nicolas Weiner, lé c^téor* rent allemand.</p>
-        <p>Lés membres dé l'Aêro-Clüb dssistàiént à la délibération. L'on entendit d'àbordtoutes les personnes en cause et s'il apparut tout de suite que Laurent Talianin'était coupable que de légèreté et de vive jalousie, il sembla par contreinfiniment probable aux juges que Claude Banello était bien l'auteur des deuxattentats.</p>
+        <p>L'attentat commis sur les aéroplanes lui parut abominable et il jugea que sonauteur ne pouvait demeurer plus longtemps à Aéroville où il constituait undanger permanent pour tout le monde. Ge tribunal, composé dans les conditions indiquées par
+          Jacques Laverdière, nommapour président Nicolas Weiner, lé c^téor* rent allemand.</p>
+        <p>Lés membres dé l'Aêro-Clüb dssistàiént à la délibération. L'on entendit d'àbordtoutes les personnes en cause et s'il apparut tout de suite que Laurent Talianin'était coupable que de légèreté et de vive jalousie, il sembla par contreinfiniment
+          probable aux juges que Claude Banello était bien l'auteur des deuxattentats.</p>
         <p>Pierre Lathon était tellement connu par sa droiture d'esprit et par sa loyautéqu'il était fou de l'accuser d'imposture.</p>
         <p>Avant toutes choses, d'ailleurs, le jeune homme tint à raconter aux juges quellerivalité avait dès le début du séjour à Aérovillè, séparé les ouvriers françaiset italiens.</p>
         <p>Puis il expliqua que Taliani avait trouvé en lui lin rival soucieux uniquementde noble émulation, au lieu que Taliani n'avait jamais consenti à lë saluer,laissant percer une jalousie évidente et stupide.</p>
         <p>, Nelly fut plus catégorique, Pierre Lathon avait négligé d'accuser LaurentTaliani et de raconter la scène violente qui s'était déroulée entre les deuxjeunes gens. Nelly s'empressa de révéler ce détail au tribunal d'honneur.</p>
         <p>Il apparut alors âpres l'audition de Ta- liani que ce dernier détèstait PierreLa- thon et qu'il était pleinement sous l'influence de son entourage.</p>
         <p>Or, il apparut également que cet entourage était nettement hostile àl'aviateur français.</p>
-        <p>Nicolas Weiner, soucieux de faire ressortir les moindres côtés de cetteaffaire, sut interroger avec habileté Claude Kanel- lo, Victor Ainotorellini etFélix Gumberto. Entendus séparément, ils apportèrent de piquants renseignementsà l'enquête. Et bientôt, grâce à Alphonse Dicquez et à Nicolas Weiner, la véritééclata.</p>
+        <p>Nicolas Weiner, soucieux de faire ressortir les moindres côtés de cetteaffaire, sut interroger avec habileté Claude Kanel- lo, Victor Ainotorellini etFélix Gumberto. Entendus séparément, ils apportèrent de piquants renseignementsà l'enquête. Et
+          bientôt, grâce à Alphonse Dicquez et à Nicolas Weiner, la véritééclata.</p>
         <p>Aucun doute ne restait, Claude Kaneïlo, aidé des deux mécaniciens italiens,avait tènté de détruire les deux aéroplanes.</p>
         <p>Incident comique, chacun de ces trois personnages accusé d'avoir commis l'actedélictueux, se défendait de telle façon qu'il laissait tout supposer en ce quiconcernait les deux autres.</p>
         <p>Enfin, on les fit venir tous les trois et le tribunal leur annonça :</p>
@@ -793,35 +889,47 @@
         <p>« Vous allez être expulsés du Spitzberg et VAéro-Club français va vous rameneren Europe 1</p>
         <p>« Quant à M. Laurent Taliani, le tribunal le lave de tout soupçon déshonorant.Il n'était pour rien dans les deux attentats.</p>
         <p>L'aviateur italien se trouvait là, ainsi que tous les acteurs de ce drame, il s©leva èt déclara:</p>
-        <p>— Messieurs, puisqu'il en est ainsi, puisque réellement vous avez acquis laconviction que mes trois collaborateurs ont commis sür les aéroplanes de deuxde mes concurrents des attentats que je réprouve, je ne veux pas qu'il reste unseul soupçon sur moi et je me retire de la course Spite-j berg-Pôle Nord. Jevais rentrer en Italie.</p>
+        <p>— Messieurs, puisqu'il en est ainsi, puisque réellement vous avez acquis laconviction que mes trois collaborateurs ont commis sür les aéroplanes de deuxde mes concurrents des attentats que je réprouve, je ne veux pas qu'il reste unseul soupçon sur
+          moi et je me retire de la course Spite-j berg-Pôle Nord. Jevais rentrer en Italie.</p>
         <p>Nicolas Weiner répondit:</p>
         <p>— Vous avez tort, mon cher camarade, notre jugement ne vous atteint aucunement, vous pouvez rester.</p>
         <p>Laurent Taliani insista:</p>
-        <p>— Je vous demande pardon, M. Weiner, je ne peux rester. Je me suis rendu coupable, vis-à-vis de M. Pierre Lathon d'une méfiance injustifiée, je le reconnaisici bien hautement. C'est vrai, je ne fais aucun mystère de l'avouer: j'aijalousé M. Pierre Lathon. Mais tout semblait conspirer contre lui pour me le rendreantipathique. Dans les débuts, j'étais assez volontiers attiré vers lui. Mescollaborateurs, à qui je ne peux pardonner ces machinations, me leprésentèrent comme un homme vil, capable de me voler les modificationsapportées récemment à mon appareil. J'ai fini par le croire. Là-dessus est venuse greffer un incident que vous connaissez et que dans sa grande loyauté M.Pierre Lathon vous taisait tout à l'heure : il s'agit de mon amour pourmademoiselle Nelly Faber. C'est vrai, j'ai aimé, &lt;5t j'aime encore cettejeune fille. Voyez, messieurs, quel fut le mouvement de haine soulevé en moipar l'intervention imprévue de M. Lathon. Ainsi cet homme qui m'était représentépar les miens comme un voleur d'idées, cet homme voulait maintenant me prendrecelle que je chérissais si tendre- ment-, j Et je prononçai alors cette phrase: «* Nous nous retrouverons ! » phrase de dépit, de colère, qui a été mal interprétée par la suite et qui aujourd'hui me faisait accuser du plus noir forfait.Je vous en prie, messieurs, ne me jugez pas défavorablement. Merci de m'avoirmis len dehors de ces machinations infâmes tramées par trois de mescollaborateurs. Non, je ne puis rester parmi vous, et je partirai dès demain à bord deVAéro-Club français avec ceux qui commirent, je le répètje encore, le pluslâche, le plus abominable des crimes. '</p>
+        <p>— Je vous demande pardon, M. Weiner, je ne peux rester. Je me suis rendu coupable, vis-à-vis de M. Pierre Lathon d'une méfiance injustifiée, je le reconnaisici bien hautement. C'est vrai, je ne fais aucun mystère de l'avouer: j'aijalousé M. Pierre
+          Lathon. Mais tout semblait conspirer contre lui pour me le rendreantipathique. Dans les débuts, j'étais assez volontiers attiré vers lui. Mescollaborateurs, à qui je ne peux pardonner ces machinations, me leprésentèrent comme un homme vil, capable de
+          me voler les modificationsapportées récemment à mon appareil. J'ai fini par le croire. Là-dessus est venuse greffer un incident que vous connaissez et que dans sa grande loyauté M.Pierre Lathon vous taisait tout à l'heure : il s'agit de mon amour
+          pourmademoiselle Nelly Faber. C'est vrai, j'ai aimé, &lt;5t j'aime encore cettejeune fille. Voyez, messieurs, quel fut le mouvement de haine soulevé en moipar l'intervention imprévue de M. Lathon. Ainsi cet homme qui m'était représentépar les miens
+          comme un voleur d'idées, cet homme voulait maintenant me prendrecelle que je chérissais si tendre- ment-, j Et je prononçai alors cette phrase: «* Nous nous retrouverons ! » phrase de dépit, de colère, qui a été mal interprétée par la suite et qui
+          aujourd'hui me faisait accuser du plus noir forfait.Je vous en prie, messieurs, ne me jugez pas défavorablement. Merci de m'avoirmis len dehors de ces machinations infâmes tramées par trois de mescollaborateurs. Non, je ne puis rester parmi vous, et
+          je partirai dès demain à bord deVAéro-Club français avec ceux qui commirent, je le répètje encore, le pluslâche, le plus abominable des crimes. '</p>
         <p>Nicolas Wieiner se leva et prononça ces quelques paroles :</p>
-        <p>— Messieurs, nous remercions notre camarade Laurent Taliani des protestationsqu'il vient de prononcer ici, c'est un brave cœur nous le savions tous, nous luireprocherons seulement d'avoir été trop faible vis-à-vis de ceux quil'entouraient. Un honnête homme devrait avoir une influence sur les canailleset ce ne sont pas. les canailles qui devraient en avoir sur lui. Messieurs, letribunal d'honneur ayant rempli sa tâche le plus dignement possible, je lèvela séance.</p>
+        <p>— Messieurs, nous remercions notre camarade Laurent Taliani des protestationsqu'il vient de prononcer ici, c'est un brave cœur nous le savions tous, nous luireprocherons seulement d'avoir été trop faible vis-à-vis de ceux quil'entouraient. Un
+          honnête homme devrait avoir une influence sur les canailleset ce ne sont pas. les canailles qui devraient en avoir sur lui. Messieurs, letribunal d'honneur ayant rempli sa tâche le plus dignement possible, je lèvela séance.</p>
         <p>Dans un brouhaha de conversations particulières, les assistants sortirent, lesmécaniciens italiens avaient un air ministre qui'n'était rien moins querassurant.</p>
         <p>Nelly le fit remarquer à Pierre Lathon, ce dernier eut un geste de dédain et déclara :</p>
         <p>— Qu'ils aillent se faire pendre ailleurs !</p>
       </div>
-            <div type="chapter">
+      <div type="chapter">
         <head>XI</head>
         <head>UNE NUIT TRAGIQUE</head>
         <p>Tout dormait dans Aéroville et pourtant — phénomène singulier 1 — le jour étaitaussi vif qu'en plein midi. Il était une; heure du matin, le froid était un peumoins intense et le vent ne soufflait plus.</p>
         <p>Après les événements qui avaient animé Aéroville, la cité d'aéroplanes, ilétait étrange de n'entendre aucun bruit, de ne voir personne dans les quatrerues, personne sur le -pas des portes, toutes fermées.</p>
         <p>Il était, nous l'avons dit, une heure du matin, à l'horloge officielle de labaraque du Comité. Une heure du matin et il faisait grand jour.</p>
-        <p>Pour ceux de nos lecteurs que la chose intriguerait, nous rappelleronssimplement • qu'au Pôle arctique, du printemps à l'automne, règne un jourperpétuel. Pas de nuits noires l Rien ne vient distinguer* dans la nature, lejour des heures consacrées en général au repos.</p>
-        <p>Cependant, tous les animaux égarés dans ces solitudes glaciales s'endorment aumoment voulu et peu leur imperte l'éclat plus ou moins vif de la lumière. Nous ajouterons encore que cette perpétuité du jour pendant six mois est dueau soleil qui éclaire le Pôle arctique pleinement malgré la rotation de laTerre pendant le printemps et l'été.</p>
+        <p>Pour ceux de nos lecteurs que la chose intriguerait, nous rappelleronssimplement • qu'au Pôle arctique, du printemps à l'automne, règne un jourperpétuel. Pas de nuits noires l Rien ne vient distinguer* dans la nature, lejour des heures consacrées
+          en général au repos.</p>
+        <p>Cependant, tous les animaux égarés dans ces solitudes glaciales s'endorment aumoment voulu et peu leur imperte l'éclat plus ou moins vif de la lumière. Nous ajouterons encore que cette perpétuité du jour pendant six mois est dueau soleil qui
+          éclaire le Pôle arctique pleinement malgré la rotation de laTerre pendant le printemps et l'été.</p>
         <p>Quand l'automne survient, le Pôle arctique est plongé dans des ténèbres queviennent uniquement dissiper des aurores boréales magnifiques.</p>
         <p>A ce moment, le Pôle antarctique, autrement dit le Pôle Sud, que toutrécemment tenta d'aborder le lieutenant Schakleton, est inondé de lumièrejusqu'au printemps.</p>
         <p>C'est de là que vient l'alternance des saisons. Mais fuyons au plus vite cesquestions scientifiques trop ardues pour être développées ici et poursuivonsnôtre récit.</p>
         <p>Il était une heure du matin lorsque des baraques italiennes sortirent deux hommes, c'étaient Félix Gumberto et Victor Ainoterellini. t</p>
         <p>Etouffant le bruit de leurs pas, par une marche silencieuse, ils longèrent lesbaraques anglaises, russes et autrichiennes. Ils se dirigèrent ensuite versles baraques françaises.</p>
-        <p>Ils avaient certainement de mauvaises intentions, car ils se souciaient peud'être» vus et se retournaient par instants, comme par crainte d'êtresuivis. Lumière du jour tu gênes instinctivement tous ceux qui se disposent à commettre quelque mauvaise action ! Tu n'es pas aimé|e des gens qui ne 'travaillentd'habitude que la nuit, tel des hyènes et des vampires. Les ténèbres pourceux-là sont les complices sûrs, les complices qui encouragent et quidissimulent.</p>
+        <p>Ils avaient certainement de mauvaises intentions, car ils se souciaient peud'être» vus et se retournaient par instants, comme par crainte d'êtresuivis. Lumière du jour tu gênes instinctivement tous ceux qui se disposent à commettre quelque
+          mauvaise action ! Tu n'es pas aimé|e des gens qui ne 'travaillentd'habitude que la nuit, tel des hyènes et des vampires. Les ténèbres pourceux-là sont les complices sûrs, les complices qui encouragent et quidissimulent.</p>
         <p>Les mécaniciens italiens, arrivés aux hangars de Pierre Lathon, tirèrent despoches de leurs manteaux quelques pinces et se mirent en devoir de forcer laserrure de la porte.</p>
         <p>Ils y parvinrent facilement et entrèrent. Ils devaient partir le lendemainavec Y Aéro-Club français et l'on avait négligé de les surveilier, pensant quela crainte les immobiliserait.</p>
         <p>Le « Pourquoi pas ? » était toujours à la même place, déjà le moteur abîmé avaitcojmmencé à être réparé, des outils étaient déposés sur le sol.</p>
-        <p>Félix Gumberto le premier 'eut un rire sardonique et silencieux, il brandit unebouteille qu'il avait apportée et la montra sans rien dire à son compagnon,celui-ci fit une grimace significative, prit le récipient des mains de soncamarade, le déboucha, eit commença à arroser un plan de l'appareil avec leliquide qu'il contenait. dits avaient formé la projet d'incendier la baraque personne ne sinistrésoccupations.</p>
+        <p>Félix Gumberto le premier 'eut un rire sardonique et silencieux, il brandit unebouteille qu'il avait apportée et la montra sans rien dire à son compagnon,celui-ci fit une grimace significative, prit le récipient des mains de soncamarade, le
+          déboucha, eit commença à arroser un plan de l'appareil avec leliquide qu'il contenait. dits avaient formé la projet d'incendier la baraque personne ne sinistrésoccupations.</p>
         <p>Victor Ai.noterellini avait vidé s» bouteille, il la posa sur le sol puis fitcra- quèr une allumette et se pencha pour en* flaminer la toile del'aéroplane.</p>
         <p>Deux détonajtions retentirent coup sur coup et les italiens tombèrent à. la renverse.</p>
         <p>Jacques Loniam, qui couchait dans une sorte de soupente d'un hangar voisin,avait entendu marcher, il Vêtait babillé en t$to gt. son rgÿpiyer à la main,était venu ypir cè qui se passait.</p>
@@ -835,7 +943,8 @@
         <p>Les baraques russes venaient d'être le théâtre d'un drame atroce. Nous n'avonspas oublié que le champion russe était le grand-duc Serge Potropstock et que sonsecrétaire Félyne Daniloff se révélait un homme taciturne et renfermé.</p>
         <p>Or cette nuit-là, le grand-duc avait été réveillé en sursaut, Félyne Daniloff setenait devant lui et le menaçait d'un revolver .</p>
         <p>— Félyne que fais-tu ? avait demandé le grand-duc désagréablement surpris.</p>
-        <p>— Je viens venger tes victimes, misérable 1 je fais partie du « Club des Terroristes rouges » de Moscou et j'étais attaché à ta personne pour t'épier. Orj'ai reçu par le courrier arrivé aujourd'hui un ordre de mon Club, m'enjoignant de te tuer... c'est ce que je vais faire 1Fais une prière pour le repos de ton âme... tu vas mourir 1 La bombe qui doit tedépecer est depuis longtemps en ma propriété... le jour est venu! Prie!</p>
+        <p>— Je viens venger tes victimes, misérable 1 je fais partie du « Club des Terroristes rouges » de Moscou et j'étais attaché à ta personne pour t'épier. Orj'ai reçu par le courrier arrivé aujourd'hui un ordre de mon Club, m'enjoignant de te tuer...
+          c'est ce que je vais faire 1Fais une prière pour le repos de ton âme... tu vas mourir 1 La bombe qui doit tedépecer est depuis longtemps en ma propriété... le jour est venu! Prie!</p>
         <p>Le grand-duc avait essayé de fléchir son secrétaire :</p>
         <p>— Mon petit Félyne, avait-il dit, tu sais bien comme je t'aime, épargne-moi, tuauras une fortune, tu vivras à l'étranger, ton Club ne pourra t'yrechercher.</p>
         <p>— Prie, misérable!</p>
@@ -847,12 +956,15 @@
         <p>Nuit tragique qui tuait les deux méca- niciens de Laurent Taliani ; nuit 'tragique, qui privait la course «Spitzberg-Pôle Nord » d'un concurrent de plus.</p>
         <p>La fatalité semblait décidément s'acharner sur Aéroville.</p>
       </div>
-            <div type="chapter">
+      <div type="chapter">
         <head>XII</head>
         <head>SIX CONCURRENTS</head>
-        <p>Maintenant que Laurent Taliani s'était retiré de la course et que le grand ducSerge Petropstock était tombé sous la bombe nihiliste de son secrétaire FélyneDa- niloff, il ne restait plus que huit concurrents décidés à tenterl'audacieuse randonnée Spitzberg-Pôle Nord et retour.</p>
-        <p>Les aéroplanes de Pierre Lathon et de Johnson Faber étaient merveilleusement misau point, les brisures de moteurs causées par les italiens furent facilementréparées, quant à l'aéroplane Lathon, le commencement d'incendie dont il avaitété victime, ne l'avait presque pas endommagé.</p>
-        <p>Les autres appareils étaient-il3 dans un état semblable de perfection ? C'est ceque nous allons rapidement voir. Nicolas Wei- ner avait fait quelques essais,certes l'ai- lemand obtenait de forts beaux rêsültâfo, maie il n'eiait pas encoro absoluménfcô'ûp de son moteur. En éîîei^ il s'arrêtait sou* ment, ce qui obligeaitl'aviateur- à, descendre à. terre.</p>
+        <p>Maintenant que Laurent Taliani s'était retiré de la course et que le grand ducSerge Petropstock était tombé sous la bombe nihiliste de son secrétaire FélyneDa- niloff, il ne restait plus que huit concurrents décidés à tenterl'audacieuse randonnée
+          Spitzberg-Pôle Nord et retour.</p>
+        <p>Les aéroplanes de Pierre Lathon et de Johnson Faber étaient merveilleusement misau point, les brisures de moteurs causées par les italiens furent facilementréparées, quant à l'aéroplane Lathon, le commencement d'incendie dont il avaitété victime,
+          ne l'avait presque pas endommagé.</p>
+        <p>Les autres appareils étaient-il3 dans un état semblable de perfection ? C'est ceque nous allons rapidement voir. Nicolas Wei- ner avait fait quelques essais,certes l'ai- lemand obtenait de forts beaux rêsültâfo, maie il n'eiait pas encoro
+          absoluménfcô'ûp de son moteur. En éîîei^ il s'arrêtait sou* ment, ce qui obligeaitl'aviateur- à, descendre à. terre.</p>
         <p>Or, dans la randonnée vers le Pôle, ne fallait-il pas réduire au minimum cesdescentes qui pouvaient être très dangereuses, l'appafeil courant le risquede se briser au lancement?</p>
         <p>Donc Nicolas Weiner et Frans Ilyde travaillaient courageusement àl'améliorattion de leur machiné à voler, ils espéraient</p>
         <p>y, aboutir .</p>
@@ -865,17 +977,20 @@
         <p>3£n attendant, il sortait tops les. jours, volait très tard, s'attardait dansles airs, faisait des constatations, avait pour son appareil des soinsmaternels.</p>
         <p>Pour deux concurrents malheureux, certes Wilhelm Fürster et Carte Dihoin pouvaient se vanter de l'être au-delà de toute mesure...</p>
         <p>Malgré tous les efforts qu'ils prodiguaient sans compter, les appareils del'autriehien et du portugais, ne parvenaient pas à quitter le sol.</p>
-        <p>Peut-être ôtaient-ils insuffisamment équilibrés. En effet, un problème assezdifficile à résoudre se posait: il fallait emporter une grande quantitéd'essence, puisque la distance à parcourir était environ de mille à onzecents kilomètres pour l'aller et autant pour le retour. Çè qui faisait, entenant compte des aléas, un voyage de deux mille à deux mille cinq centskilomètres: une bagatelleI</p>
+        <p>Peut-être ôtaient-ils insuffisamment équilibrés. En effet, un problème assezdifficile à résoudre se posait: il fallait emporter une grande quantitéd'essence, puisque la distance à parcourir était environ de mille à onzecents kilomètres pour
+          l'aller et autant pour le retour. Çè qui faisait, entenant compte des aléas, un voyage de deux mille à deux mille cinq centskilomètres: une bagatelleI</p>
         <p>Or, qette essence pesait beaucoup et il fallait unè puissance énorme du mptqurpour la transporter durant un long parcours .</p>
         <p>Sans doute Carlo Diboin et Wilhelm Fürster avaient-ils mal fait leurs diverscalculs, Dorothée, la jeune femme de Fürster, était peut-être plus affectée de cet évènement que son mari.</p>
         <p>Quant aux frères Jack et Joël Spithson, champions des Etats-Unis; il leur arrivaune mésaventure assez vexante.</p>
         <p>Leur mécanicien Folter, un ivrogne, avait mal réglé le moteur, lors de la</p>
-        <p>première expérience; de sorte que l'appareil par suite d'une défaillance de cemoteur, capota à cinquante mètres de hauteur et vint s'abîmer sur le sol. Ilétait complètement détruit, les deux frères Spithson étaient indemnes, Folterseul était blessé, mais peu grièvement.</p>
+        <p>première expérience; de sorte que l'appareil par suite d'une défaillance de cemoteur, capota à cinquante mètres de hauteur et vint s'abîmer sur le sol. Ilétait complètement détruit, les deux frères Spithson étaient indemnes, Folterseul était
+          blessé, mais peu grièvement.</p>
         <p>Les deux frères essayèrent de reconstruire l'appareil, mais ils s'aperçurentque c'était une folie et y renoncèrent. Un autre concurrent disparaissaitdoncl</p>
         <p>Le japonais Nito, lui, était loin de vouloir abandonner la partie, sonaéroplane volait assez bien et obtenait de bons résultats. Nito étaitravi, ilescomptaitlaréussite.</p>
-        <p>Somme toute, sur les six concurrente de Lathoii et Faber, deux étaient dansl'impossibilité de prendre part à la course, à cause de la défectuosité de leursaéroplanes, et les frères Spithson abandonnaient. Il restait Dicquez, Weineret Nito. De ces trois là, Nito semblait jusqu'àj présent être le plusredoutable.</p>
+        <p>Somme toute, sur les six concurrente de Lathoii et Faber, deux étaient dansl'impossibilité de prendre part à la course, à cause de la défectuosité de leursaéroplanes, et les frères Spithson abandonnaient. Il restait Dicquez, Weineret Nito. De ces
+          trois là, Nito semblait jusqu'àj présent être le plusredoutable.</p>
       </div>
-            <div type="chapter">
+      <div type="chapter">
         <head>XHI</head>
         <head>LE DÉPART DE LA COURSÉ</head>
         <p>Le grand jour était enfin arrivé, Aéro- viïle était en fête et chacun paraissait‘ joyeux. Au moins en apparence, car l'épreuve était rude et rien ne prouvaitque tous en reviendraient.</p>
@@ -887,14 +1002,18 @@
         <p>Quant à Nicolas , peiner, Nifco et Bloquez, ilé pâraissaÜnfc satisfaits.</p>
         <p>Les cinq aéroplanes étaient placés en ligne, 6éparé§ de vingt cinq mètres chacun, au noya jd'AérqviUf/ l'avanttourné. da.n« là direction du Pôle.</p>
         <p>Une suprême recommandation fut imite par Jacques Lavernière, entouré de tous lesmembres du comité :</p>
-        <p>— Messieurs, n'oubliez pas que si l'un' d'entre vous se trouve dans une posturecritique, vous avez le devoir de l'en tirer immédiatement. Les intérêts del'humanité passent avant ceux de la course. $out concurrent secouru aurad'ailleurs l'infériorité et son sauveur sera classé avant lui, je compte survotre loyauté à tôiiSf pour faire observer cette clause et pour nous dire laivérité l Et maintenant, messieurs, regagnez vos machines, je me fais auprès devous l'interprète de tous lès habitante d'Aéroville et aussi de nos am|s dumonde entier, pour vous souhaiter pleine réussite et bon retour. Au devoir#messieurs l</p>
+        <p>— Messieurs, n'oubliez pas que si l'un' d'entre vous se trouve dans une posturecritique, vous avez le devoir de l'en tirer immédiatement. Les intérêts del'humanité passent avant ceux de la course. $out concurrent secouru aurad'ailleurs
+          l'infériorité et son sauveur sera classé avant lui, je compte survotre loyauté à tôiiSf pour faire observer cette clause et pour nous dire laivérité l Et maintenant, messieurs, regagnez vos machines, je me fais auprès devous l'interprète de tous lès
+          habitante d'Aéroville et aussi de nos am|s dumonde entier, pour vous souhaiter pleine réussite et bon retour. Au devoir#messieurs l</p>
         <p>Lentement, les aviateurs, se dirigeaient vers leurs machines, Nelly Faber etPierre Lathon s'embrassèrent tendrement puis se séparèrent à regrets, JacquesLoniam .faisait le beau et le docteur Lucien Golfech se .moquait de lui.</p>
         <p>tîne exclamation universelle s'éleva soudain dans l'air, glacial, un petitcanon ide sauvetage de VAéro-Club français venait sur l'ordre de Jacques Lavernièrede donner le départ de la course.</p>
         <p>Presqu'aussitôt après, une pétarade de moteurs retentit, les aéroplanes se lançaient, les hélices tournaient, presque tous partirent en même temps, àl'exception de Nito qui eut quelques ratés et qui se laissa dépasser d'unecentaine de mètres.</p>
         <p>L'on distinguait dans les airs les appareils ornés des drapeaux de la nationalité, ils gagnèrent les hautes couches de</p>
         <p>l'atmosphère, bonne précaution, car en cas de panne du moteur, il fallait pouvoir atterrir en vol plané en un endroit favorable.</p>
-        <p>De l'endroit où se trouvait situé Aéro- ville au Pôle Nord il y avait environmille à onze cents kilomètres, Pierre La- thon espérait s'y rèndre en unehuitaine d'heures et redemander aussitôt à son appareil l'effort fantastiquedu retour. Il espérait atteindre la vitesse constante de cent cinquantekilomètres &amp; l'heure qui avait été prévue dès l'origine pour le « Pourquoi pas?</p>
-        <p>Johnson Faber avait aussi l'intention d'atteindre une vitesse semblable ; lestrois autres concurrents, d'après leurs essais et leurs expériences, pouvaient évidemment faire du cent cinquante à. l'heure, maisrien ne prouvait qu'ils pouvaient s'y maintenir.</p>
+        <p>De l'endroit où se trouvait situé Aéro- ville au Pôle Nord il y avait environmille à onze cents kilomètres, Pierre La- thon espérait s'y rèndre en unehuitaine d'heures et redemander aussitôt à son appareil l'effort fantastiquedu retour. Il
+          espérait atteindre la vitesse constante de cent cinquantekilomètres &amp; l'heure qui avait été prévue dès l'origine pour le « Pourquoi pas?</p>
+        <p>Johnson Faber avait aussi l'intention d'atteindre une vitesse semblable ; lestrois autres concurrents, d'après leurs essais et leurs expériences, pouvaient évidemment faire du cent cinquante à. l'heure, maisrien ne prouvait qu'ils pouvaient s'y
+          maintenir.</p>
         <p>La course seule pouvait le dire. Dès le début, les cinq appareils luttèrent devitesse, le japonais Nito, qui avait cent mètres de retard, les rattrapafacilement et voulut dépasser ses camarades.</p>
         <p>Alphonse Dicquez ne voulut pas se laisser vaincre dès le début et força sonallure, ce qui était un tort.</p>
         <p>Pierre Lathon, Johnson Faber et Nicolas Weiner continuaient à la même vitesse presque tous trois à la même hauteur, pendant que l'espagnol et lejaponais prenaient les devants ;</p>
@@ -921,7 +1040,7 @@
         <p>Nicolas Weiner à son tour atterrit et le jeune français se trouva seul, en routevers le Pôle, confiant dans les moteurs incomparables que lui avait donnés lemarquis de la Lande.</p>
         <p>Les kilomètres fuyaient éperdûment, et toujours la plaine blanche déroulait sondésert lugubre.</p>
       </div>
-            <div type="chapter">
+      <div type="chapter">
         <head>XIV</head>
         <head>VERS LE POLE</head>
         <p>Au fur et à mesure qu'ils se rapprochaient du Pôle, les trois françaissentaient leur émotion s'augmenter.</p>
@@ -956,12 +1075,15 @@
         <p>— Eh bien zut, c'est rien moche le Pô|e Nord 1 Pas même un chand de vin pour s'yréchauffer... eh bien où est donc passé le garçon ?... Garçon ? ? Trois grogs(américains, s. v. p.? Et vite, on est gelés !</p>
         <p>Pierre Lathon sourit:</p>
         <p>•— Gosse va ! dit-il en haussant les épaules.</p>
-        <p>|ls sortirent. Certes, le Pôle Nord n'avait rien de bien extraordinaire. C'étaitle centre de la cuvette marine dont nous avons parlé plus haut et la glace yétait unie comme sur toute l'étendue de cette cuvette, mais Lucien Golfechrelevait ses observations, relevait la hauteur du soleil à l'horizon, mesuraitl'angle qu'il faisait avec la terre.</p>
-        <p>Il avait extrait de la cabine du « Pourquoi'pas? » toute une/ séried'appareils dont il se servit instantanément. Pierre Lathon songeait... ainsi c'était là l'axe de la terre, le Pôle Nord donton lui parlait tout enfant à l'école, et qu'on lui représentait comme une terreinviolée et inabordable.</p>
+        <p>|ls sortirent. Certes, le Pôle Nord n'avait rien de bien extraordinaire. C'étaitle centre de la cuvette marine dont nous avons parlé plus haut et la glace yétait unie comme sur toute l'étendue de cette cuvette, mais Lucien Golfechrelevait ses
+          observations, relevait la hauteur du soleil à l'horizon, mesuraitl'angle qu'il faisait avec la terre.</p>
+        <p>Il avait extrait de la cabine du « Pourquoi'pas? » toute une/ séried'appareils dont il se servit instantanément. Pierre Lathon songeait... ainsi c'était là l'axe de la terre, le Pôle Nord donton lui parlait tout enfant à l'école, et qu'on lui
+          représentait comme une terreinviolée et inabordable.</p>
         <p>Lui, Pierre Lathon, connaissait désormais cet honneur d'avoir été l'un despremiers en ce point si mystérieux du globe. Et ii planta le drapeau françaisdans la glace.</p>
         <p>De tous les côtés, c'était le Sud! le Sud partout ! Devant lui I derrière lui îà sa gauche 1 à sa droite !</p>
         <p>Mais il aperçut Loniam qui inspectait le moteur malade, il s'y rendit, ilseurent vite découvert la cause de la panne, c'était un engorgement auquel ilsremédièrent aussitôt.</p>
-        <p>Une demi-heure s'écoula, le « Pourquoi pas ? » était prêt à partir. Mais LucienGolfech n'avait pas fini, il fallut attendre une heure encore, car lesobservations exigées par Charly-Boissette étaient méticuleuses à faire etd'une nature beaucoup trop scientifique pour que nous songions à enentretenir nos lecteurs.</p>
+        <p>Une demi-heure s'écoula, le « Pourquoi pas ? » était prêt à partir. Mais LucienGolfech n'avait pas fini, il fallut attendre une heure encore, car lesobservations exigées par Charly-Boissette étaient méticuleuses à faire etd'une nature beaucoup
+          trop scientifique pour que nous songions à enentretenir nos lecteurs.</p>
         <p>Enfin, le jeune médecin replia tous ses appareils et lés replaça dansl'aéroplane, où l'attendaient Lathon et Loniam transis de froid, car latempérature était épouvantablement glacée. — Je viens me chauffer, déclara Gol- fech. Brrl quel froid!</p>
         <p>Avant de repartir, les trois jeunes gens prirent un repas, composé surtoutd'aliments chimiques, de capsules préparées en Europe, à Paris, par leDocteur.</p>
         <p>Et soudain, lorsque le « Pourquoi pas ? » fut sur le point de s'envoler, Lathon,tout joyeux, signala à l'horizon un aéroplane.</p>
@@ -986,7 +1108,8 @@
         <p>Pierre Lathon tendit la main à son futur beau-père:</p>
         <p>— Merci, lui dit-il, je tiens à vous annoncer que je veux partager ce prix également entre mes collaborateurs et moi !</p>
         <p>« Ils ont été à la peine, il est juste qu'ils aient une rémunération autre que le simple honneur de m'accompagner.</p>
-        <p>« Je compte aussi dédommager mes monteurs et mes mécaniciens des peines prises ici par eux... Le dévouement de ces braves gens m'a été précieux. Et maintenant, monsieur Faber, rentrons vite en France, j'ai hâte... oh oui, j'ai hâte de voua ravir Nelly...</p>
+        <p>« Je compte aussi dédommager mes monteurs et mes mécaniciens des peines prises ici par eux... Le dévouement de ces braves gens m'a été précieux. Et maintenant, monsieur Faber, rentrons vite en France, j'ai hâte... oh oui, j'ai hâte de voua ravir
+          Nelly...</p>
         <p>— Elle vous aime tant ! dit l'aviateur, anglais.</p>
         <p>~ Est-ce vrai, Nelly ? demanda Lathon en se tournant vers sa fiancée.</p>
         <p>— Oh oui Pierre ! déclara la jeune fille.</p>
