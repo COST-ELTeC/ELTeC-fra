@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA01603" xml:lang="fr">
   <teiHeader>
@@ -78,10 +78,12 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body>
-      <div type="unrecognized">
+    <front>
+      <div type="titlepage">
         <p>Les Princesses d’Amour : courtisanes japonaises Judith Gautier Société d’éditions littéraires et artistiques,</p>
       </div>
+      </front>
+    <body>
       <div type="chapter">
         <head>I</head>
         <head>LE DAÏMIO DE KAMA-KOURA</head>
