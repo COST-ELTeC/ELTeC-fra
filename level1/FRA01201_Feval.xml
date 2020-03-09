@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01201" xml:lang="fr">
   <teiHeader>
@@ -16,56 +16,57 @@
       </titleStmt>
       <extent>
         <measure unit="words">136999</measure>
-        
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          Ebooks libres et gratuits,
-          <date/>
-          ,
-          <idno/>
-          ,
-          
-          .
-        </bibl><bibl type="firstEdition">
-          Dentu,
-          <date>1868</date>
-          ,
-          <idno/>
-          ,
-          
-          .
-        </bibl></sourceDesc>
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource"> Ebooks libres et gratuits,
+          <date /> ,
+          <idno /> , . </bibl>
+        <bibl type="firstEdition"> Dentu, <date>1868</date> ,
+          <idno /> , . </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-08-12">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="group">
         <p>
           <label>PREMIÈRE PARTIE -- LA CONSPIRATION EN DENTELLES</label>
         </p>
         <div type="chapter">
+
           <head>Où Fortune établit qu'il a une étoile.</head>
           <p>-- Monseigneur, dit Fortune, nous autres Français nous n'avons point la vanterie des Espagnols. S'il y a chez nous un défaut, c'est que nous ne savons pas nous faire valoir suffisamment. Je suis brave, mes preuves sont faites, et quant à la prudence, j'en ai en vérité à revendre. À Paris, comme à Florence, à Turin et dans d'autres villes capitales, mon adresse passe en proverbe, et c'est justice, car aussitôt que j'entreprends une affaire elle est dans le sac. En me choisissant, Votre Éminence a eu la main heureuse : je lui en fais mon sincère compliment.</p>
           <p>C'était un magnifique garçon, à la taille élégante et robuste à la fois. Il disait tout cela en souriant, debout qu'il était, dans une attitude noble mais respectueuse, incliné à demi devant un personnage aux traits sévères et fortement accentués qui portait le costume de prêtre.</p>
@@ -96,12 +97,8 @@
           <p>-- Monseigneur, mon histoire pourrait être racontée devant une carmélite. J'en abrégerai néanmoins les détails. La jeune dame était de la cour, et Votre Éminence sait par expérience comme on monte vite à la cour, quand on a du bonheur et du génie. Sans la méchante humeur du mari, qui était un homme à courte vue et qui me fit jeter peu de temps après dans un cul de basse-fosse, je serais à présent un personnage considérable, voilà le fait certain.</p>
           <p>-- Singulier dénouement, murmura le prélat, pour une aventure qui vous mérita le nom de Fortune !</p>
           <p>-- J'en demande pardon à Votre Éminence ! s'écria vivement le jeune cavalier. Je n'ai pas tout dit : le jour même où j'entrai en prison, mon logis brûla misérablement depuis les caves jusqu'aux greniers. Sans la jalousie maladroite de cet excellent seigneur, c'en était fait de moi ! En prison, d'ailleurs, je fis la connaissance d'un gentilhomme qui commandait une bande dans l'Apennin. Nous rompîmes nos chaînes ensemble, et, voyez la filière ! ce hasard me conduisit jusqu'à Rome sous prétexte d'y être pendu. Je dis tout à Monseigneur, sachant que les vrais politiques aiment à employer les gens qui ont une étoile. On me pendit en effet, mais la corde cassa, et Sa Sainteté ayant eu la curiosité de me voir, défendit qu'on recommençât avec une corde neuve.</p>
-          <p>
-            « J'avais fait impression sur le père commun des fidèles par ma tournure galante et mon agréable caractère : au lieu d'être pendu,
-            <hi>feu le petit collet</hi>
-            <hi>**\{1\}</hi>
-            **, et Dieu sait où je serais parvenu dans cette voie nouvelle si le protonotaire apostolique n'avait eu une nièce.
-          </p>
+          <p> « J'avais fait impression sur le père commun des fidèles par ma tournure galante et mon agréable caractère : au lieu d'être pendu, <hi>feu le petit collet</hi>
+            <hi>**\{1\}</hi> **, et Dieu sait où je serais parvenu dans cette voie nouvelle si le protonotaire apostolique n'avait eu une nièce. </p>
           <p>« Je m'éveillai un matin au château Saint-Ange, et il faudrait être aveugle pour ne pas reconnaître là l'influence de mon étoile : ma vocation est l'épée, et huit jours de plus j'avais la tonsure !</p>
           <p>« Au lieu de cela et en moitié moins de temps, une personne charitable qui venait visiter les prisonniers, eut pitié de ma jeunesse et me donna la clef des champs. Je gagnai la mer et pris passage comme matelot à bord d'un navire qui revenait en France. Les corsaires algériens nous abordèrent en face de l'île de Sardaigne, et me voilà l'esclave des infidèles.</p>
           <p>« Mon étoile, Monseigneur ! Pendant qu'on m'emmenait captif au pays africain, la peste était à Marseille !</p>
@@ -162,6 +159,7 @@
           <p>-- Vous attendrez, répondit l'asturien. Que Dieu protège Votre Seigneurie dans la forêt !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune cherche son souper.</head>
           <p>C'était une gaie matinée de printemps.</p>
           <p>Il faisait froid, comme il arrive souvent dans la campagne de Madrid, et Fortune regrettait que La Roche-Laury, sa providence, n'eût point songé à joindre un manteau à son pourpoint et à son haut-de-chausses.</p>
@@ -235,11 +233,7 @@
           <p>Fortune se remit en selle et poussa incontinent son cheval.</p>
           <p>Ce n'était pas pour rejoindre le rousseau, bien que la fuite de ce dernier lui donnât vaguement envie de l'atteindre.</p>
           <p>Il se disait tout bonnement :</p>
-          <p>
-            -- Les mules de la Française vont au pas, les
-            <hi>arriéros</hi>
-            sont à pied : en trottant cinq minutes je rejoindrai la litière, et ce sera bien le diable si la belle inconnue ne met pas un peu le nez dehors, car on doit étouffer dans cette boîte.
-          </p>
+          <p> -- Les mules de la Française vont au pas, les <hi>arriéros</hi> sont à pied : en trottant cinq minutes je rejoindrai la litière, et ce sera bien le diable si la belle inconnue ne met pas un peu le nez dehors, car on doit étouffer dans cette boîte. </p>
           <p>Fortune trotta pendant dix minutes, puis il galopa pendant un quart d'heure, mais il ne vit ni mules, ni chaise, ni muletiers.</p>
           <p>Il arriva de bonne heure à la posada du Taureau-Royal, qui était située à l'entrée même de la ville.</p>
           <p>Fortune laissa sa monture à l'écurie du Taureau-Royal, pénétra dans la ville pour chercher son souper.</p>
@@ -280,6 +274,7 @@
           <p>-- Voilà du temps que nous ne nous sommes vus, reprit le petit homme, sincèrement attendri ; mon logis n'est pourtant pas bien difficile à trouver ; Vous n'aviez qu'à demander, mon cher fils, l'église Saint-Ginès. Depuis que l'église est bâtie, les Pacheco vendent de la futaine en face du portail. Mais mieux vaut tard que jamais ; entrez, cousin, la soupe est au chaud, et nous allons trinquer à la prospérité de notre famille.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune boit du vin de Xérès.</head>
           <p>Aussitôt qu'il eut passé le seuil du marchand de futaine, les vapeurs d'une marmite, où mijotait l'« olla podrida » mélangée selon le grand art des cordons bleus Castillans, vinrent gonfler ses narines.</p>
           <p>L'« olla podrida », ou pot pourri, un peu démodée aujourd'hui était, on le sait, le pot-au-feu des âges héroïques en Espagne. Pélage en était nourri, et le Cid campéador l'aimait à la folie.</p>
@@ -396,10 +391,10 @@
           <p>Au moment où ils traversaient le pont, dépassant nos voyageurs, le vent souleva le voile de l'amazone, et Fortune ne put retenir un cri.</p>
           <p>Il avait reconnu le charmant visage de la dame mystérieuse qui s'était montrée la veille à la portière de la chaise.</p>
           <p>Et il eût juré que la Française lui avait adressé en passant un gracieux sourire.</p>
-          <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+          <milestone type="subChapter" rend="asterisk" unit="asterisk" />
           <p>**Où l'on appelle pour la première fois Fortune :</p>
           <p>« M. le duc ».**</p>
-          <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+          <milestone type="subChapter" rend="asterisk" unit="asterisk" />
           <p>Ce bon Michel Pacheco était payé pour ne point tromper quand il parlait d'espions échelonnés sur la route. Il ajoutait des profits politiques à son commerce de futaine, servant le roi et la ligue tour à tour, comme il convient à un marchand obligeant qui ne veut mécontenter aucune de ses pratiques.</p>
           <p>Une comédie, qui rappelait par de certains côtés les finesses cousues de fil blanc de la Fronde, se jouait entre Paris et Madrid, et tout le long du chemin il y avait des gens qui, comme Michel Pacheco, sans savoir au juste de quoi il s'agissait, connaissaient supérieurement les masques.</p>
           <p>On faisait du mystère à foison, car une conspiration qui ne se donnerait point la joie de la mise en scène périrait d'ennui dès le début.</p>
@@ -503,6 +498,7 @@
           <p>-- Monseigneur ne sait pas devant qui il parle !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune trouve les cheveux, l'épaule et l'emplâtre du rousseau.</head>
           <p>La Française reprit, continuant l'éducation de Fortune :</p>
           <p>-- Je n'ai pas à vous cacher, mon ami, que Son Éminence a d'autres messagers que vous sur la route de Paris. Vous n'emportez rien d'ici en fait de dépêches, sinon ce signe (elle montra la canne de compagnon) qui vous servira en même temps de défense et de passeport. Vos dépêches vous seront remises en chemin, peut-être sans que vous vous en doutiez. À chaque couchée, vous recevrez les instructions pour l'étape du lendemain. N'ayez pas l'air de fuir les espions que vous rencontrerez à foison sur votre route, aucun d'eux ne vous connaît, vous pourrez passer à visage découvert.</p>
@@ -616,6 +612,7 @@
           <p>-- La mule du pape ! s'écria-t-il en devenant tout pâle c'est lui qui a dormi dans ce lit !... et il est en route vers Paris !... Si je n'arrive pas avant lui aux barrières, le scélérat est capable de me dénoncer et de me faire pendre !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune fait un métier de chien.</head>
           <p>Après une pareille découverte, le plus sage était de payer sa dépense à l'auberge et de gagner au pied pour tâcher d'arriver le premier aux barrières de Paris.</p>
           <p>Mais là gisait justement la difficulté. Fortune faisait toujours les choses en conscience : il avait tout perdu, jusqu'à son dernier rouble, et je crois même qu'il restait pour un peu le débiteur des joyeux vivants avec qui il avait passé la soirée.</p>
@@ -712,6 +709,7 @@
           <p>-- Le coquin est à moi ! pensa-t-il en reprenant chasse avec une nouvelle vigueur, et j'espère bien qu'il n'aura pas le temps de tout boire !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune casse enfin sa canne sur la tête du rousseau.</head>
           <p>Cette fois, la chasse ne fut pas longue. Fortune, en effet, n'eut qu'à tourner l'extrémité de la charmille, qui s'arrêtait à une vingtaine de pas de la grille, pour se trouver dans une autre route, à l'entrée de laquelle le compagnon maçon et son chien prenaient leur repas.</p>
           <p>À cet aspect inopiné le chien resta bien tranquille, mais l'homme bondit sur ses pieds et saisit sa canne de compagnon avec tous les signes de la frayeur et de la colère.</p>
@@ -838,6 +836,7 @@
           <p>Puis l'émeute entière fut prise d'une gaieté folle et entoura notre cavalier en poussant un vaste éclat de rire.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune voit une belle fille dans un beau carrosse.</head>
           <p>Le défaut de Fortune n'était pas d'être endurant ; il mit le poing sur la hanche comme s'il avait eu son épée au côté.</p>
           <p>Et les rires de redoubler, car en touchant sa hanche sa main avait soulevé un nuage de plâtre.</p>
@@ -945,6 +944,7 @@
           <p>Le battant tourna aussitôt sur ses gonds, montrant au-devant du seuil trois gentilshommes qui tenaient l'épée à la main.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune est introduit dans un repaire de conspirateurs.</head>
           <p>C'était une chambre d'aspect misérable où il y avait pour tout meuble un vieux lit sans rideaux et quelques chaises, dont la plupart étaient boiteuses.</p>
           <p>Au pied du lit, une basse de viole s'appuyait contre le mur avec son archet passé dans l'unique corde qui ne fût point cassée.</p>
@@ -1056,6 +1056,7 @@
           <p>-- Au fait, dit-il, ce pauvre garçon peut avoir ses ridicules, mais depuis que je le connais il a fait preuve d'un remarquable bon sens. Il y a mille pistoles pour lui, mille pistoles pour moi et mille pistoles de prime que nous sommes convenus de partager. En l'absence du sieur Guillaume Badin, première basse de viole à l'Opéra, et dont les voisins parlaient naguère en termes fort légers, je voudrais bien savoir qui va nous solder cette petite note de quinze cents louis.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune remet La Pistole à sa place.</head>
           <p>Notre drame n'est pas la conspiration de la Cellamare nous disons cela pour rassurer le lecteur.</p>
           <p>Mais toutes les conspirations se ressemblent.</p>
@@ -1174,6 +1175,7 @@
           <p>À ce cri, l'homme recula et referma bruyamment la porte. La Pistole aurait juré qu'il avait distingué un couteau dans sa main, demi-cachée sous le revers sombre de son pourpoint.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune obtient des renseignements sur M. le duc de Richelieu.</head>
           <p>La Pistole n'était pas un chevalier. La vue de cet homme pâle, habillé de deuil des pieds à la tête, cachant un couteau et jetant sur Fortune un regard tout flamboyant de haine, augmenta manifestement le désir qu'il avait de rejoindre son oncle Chizac-le-Riche.</p>
           <p>Il prit congé avec une certaine précipitation, mais son dernier mot fut celui-ci :</p>
@@ -1219,21 +1221,27 @@
           <p>-- Cela se voit, dit le frater, je connais, Dieu merci, mon monde, ayant l'honneur de soigner M. de Cadillac, M. de Brancas et M. de la Grange-Chancel, le poète qui m'a appris à faire des vers. Veuillez ne point bouger monseigneur, voici ma dernière chanson, elle est sur l'air des Pendus :</p>
         </div>
         <div type="chapter">
+
           <head>Lundi, j'achetai des actions,</head>
         </div>
         <div type="chapter">
+
           <head>Mardi, je gagnai des millions,</head>
         </div>
         <div type="chapter">
+
           <head>Mercredi, j'arrangeai mon ménage,</head>
         </div>
         <div type="chapter">
+
           <head>Jeudi, je pris un équipage,</head>
         </div>
         <div type="chapter">
+
           <head>Vendredi, je fus au bal,</head>
         </div>
         <div type="chapter">
+
           <head>Et samedi à l'hôpital !</head>
           <p>Le barbier lâcha le nez de Fortune qui respira bruyamment.</p>
           <p>-- Je vois que tu n'aimes pas M. Law, dit-il.</p>
@@ -1241,27 +1249,35 @@
           <p>-- C'est lui qui m'a pris mon premier valet, répliqua-t-il, mon second valet, ma femme, mon troisième valet et mes économies ! Ah ! il y en a contre lui des chansons !... Tendez votre joue, je vous prie... Voici le pont-neuf de l'abbé Genest qui confesse Mme la duchesse du Maine :</p>
         </div>
         <div type="chapter">
+
           <head>Ce parpaillot, pour attirer</head>
         </div>
         <div type="chapter">
+
           <head>Tout l'argent de la France,</head>
         </div>
         <div type="chapter">
+
           <head>Songea d'abord à s'assurer</head>
         </div>
         <div type="chapter">
+
           <head>De notre confiance ;</head>
         </div>
         <div type="chapter">
+
           <head>Il fit son abjuration,</head>
         </div>
         <div type="chapter">
+
           <head>La faridondaine, la faridondon,</head>
         </div>
         <div type="chapter">
+
           <head>Mais le fourbe s'est converti, Biribi,</head>
         </div>
         <div type="chapter">
+
           <head>À la façon de Barbari, mon ami...</head>
           <p>-- La mule du pape ! gronda Fortune, complètement rasé, Mme la duchesse a là un bien agréable confesseur ! Mais, dis-moi, l'ami, voici la foule qui augmente dans la rue, comme si nous étions au jour de la Saint-Louis ; j'ai vu des fleurs et des tentures aux fenêtres : quelle fête va-t-on célébrer aujourd'hui ?</p>
           <p>Le frater, qui passait le peigne dans la belle chevelure de Fortune, repartit :</p>
@@ -1294,6 +1310,7 @@
           <p>C'était notre ami le cavalier Fortune qui sortait de chez son barbier.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune est accosté par l'homme vêtu de deuil.</head>
           <p>Il paraît qu'il y avait entre le cavalier Fortune et ce précieux duc de Richelieu une ressemblance extraordinaire, car la plupart des dames qui encombraient la rue Saint-Antoine connaissaient très particulièrement le duc de Richelieu, et pourtant l'erreur fut unanime.</p>
           <p>Il n'y eut pas l'ombre d'une hésitation ou d'un doute ; la même émotion prit à la fois tout ce charmant essaim, nous dirions presque la même ferveur religieuse, tant il se mêla de discrétion et de réserve à l'entraînement général.</p>
@@ -1399,6 +1416,7 @@
           <p>-- La mule du pape ! on m'a assassiné, mais je ne suis pas encore mort. Embrasse-moi ma petite cousine Muguette.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune raconte une histoire.</head>
           <p>C'était une chambre très petite et mansardée qui donnait sur les fossés de la Bastille.</p>
           <p>Par la croisée on voyait le profil entier de la forteresse, dont les tours étagées se découpaient sur le ciel.</p>
@@ -1507,6 +1525,7 @@
           <p>« -- Demoiselle Aldée, je lui donnerai un peu de mon pain et vous un peu du vôtre.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune demande des explications à sa petite cousine Muguette.</head>
           <p>-- Je ne pense pas t'avoir donné souvent de mon pain, Muguette, continua Fortune, car j'avais un terrible appétit ! Mais Aldée de Bourbon aurait eu faim plutôt que de te laisser manquer de rien. Tu repris bien vite les jolies couleurs de ton âge, et j'avais tant de bonheur à te voir fleurir comme une rose de mai ! Tu étais jolie, jolie !</p>
           <p>« Moins jolie qu'aujourd'hui, ma fille, s'interrompit-il ; mais ne crains jamais rien de moi ; il me semble que partout où tu es, Dieu regarde.</p>
@@ -1621,6 +1640,7 @@
           <p>-- C'est à cela que je dépense mon argent.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune parle raison avec Muguette.</head>
           <p>Muguette et Fortune étaient revenus sur leurs pas ; ils s'assirent tout les deux sur un lit de camp, dans la chambre d'entrée dont Muguette avait refermé la porte et où elle venait d'allumer un flambeau.</p>
           <p>Cette pièce contrastait par sa nudité complète avec celle où Mme la comtesse de Bourbon et sa fille Aldée reposaient.</p>
@@ -1728,6 +1748,7 @@
           <p>Muguette voulut courir après lui, mais il était déjà au bas de l'escalier.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune va cueillir la dot de Mlle Aldée.</head>
           <p>Fortune redescendit la rue Saint-Antoine à longues enjambées. La blessure de sa poitrine le cuisait bien un peu et sa jambe foulée lui arrachait de temps en temps un juron, mais il était de fer et marchait en somme d'un bien meilleur pas que tel beau fils de la cour qui aurait eu un pli à son bas de soie ou un grain de sable dans sa botte.</p>
           <p>La rue Saint-Antoine avait complètement changé d'aspect et ne gardait qu'un seul trait de sa physionomie la sombre masse de la Bastille, dont les remparts arrêtaient la vue vers l'est.</p>
@@ -1780,6 +1801,7 @@
           <p>Mais ce Chizac était de Bordeaux, et je ne sais comment l'argent perdu retrouvait toujours le chemin de sa poche.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune fait la connaissance de Guillaume Badin et de Chizac-le-Riche.</head>
           <p>Au moment où Fortune parvenait à s'introduire dans la salle commune du cabaret des Trois-Singes, l'animation était au comble. Un quintuple rang de joueurs entourait une table revêtue d'un tapis abondamment souillé où se taillait un lansquenet.</p>
           <p>Cette table occupait à peu près le milieu de la salle.</p>
@@ -1895,6 +1917,7 @@
           <p>-- Banco !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune porte jusqu'à cent mille livres la dot de Mlle Aldée.</head>
           <p>Les autres joueurs retirèrent leurs mises, comme c'est loi, pendant que le Riche, ouvrant son portefeuille déposait cent quarante mille livres sur le tapis.</p>
           <p>-- Pauvre poulet ! dit l'ancienne cuisinière.</p>
@@ -2032,6 +2055,7 @@
           <p>Les rêves n'y vont pas par quatre chemins : la dot était de cinq cent mille livres.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune a fait de jolis rêves et un fâcheux réveil.</head>
           <p>C'était bien ce Fortune, le plus heureux cavalier qui fût sous la voûte du firmament. Tout lui arrivait toujours à point : il pouvait courir comme un cerf, malgré sa jambe foulée, et on avait beau le poignarder, il dévorait des tranches de pâté avec un appétit de prince. Un autre, en sortant du tripot les poches vides et retournées, à cette heure de la nuit, aurait été obligé de dormir sur la borne, mais lui, pas du tout ! un mur s'était ouvert devant ses pas comme s'il eût possédé la baguette d'une fée, et un lit tout chaud s'était offert à lui.</p>
           <p>Nous le disons comme cela était : un lit tout chaud. La dernière sensation de Fortune, avant de s'endormir, lui fut fournie par le matelas tiède, et il pensa :</p>
@@ -2097,6 +2121,7 @@
           <p>-- Arrière ! ou vous êtes mort. Nous gardons cette porte de par le roi !</p>
         </div>
         <div type="chapter">
+
           <head>Où Thérèse Badin promène son carrosse neuf et sa toilette de bal.</head>
           <p>Il était environ six heures du matin et il y avait plus d'une heure que les curieux attendaient là, les pieds dans la boue, l'arrivée de la justice.</p>
           <p>Ils auraient tout aussi bien attendu deux jours. Paris a une patience féroce quand il s'agit de certains spectacles gratis, de certains drames qui ne sont pas joués par des comédiens et où le sang répandu est du vrai sang, liquide et rouge.</p>
@@ -2186,9 +2211,9 @@
           <p>-- Pendant que tu dansais, Thérèse Badin, ton père est mort assassiné !</p>
           <p>Thérèse poussa un cri déchirant et tomba évanouie entre les bras de ceux qui l'entouraient.</p>
           <p>Ceux qui l'entouraient n'étaient ni les deux comtesses, ni la baronne, ni le marquis, ni le vicomte, ni le chevalier, ni l'abbé. Tout ce noble monde avait disparu comme par enchantement.</p>
-          <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+          <milestone type="subChapter" rend="asterisk" unit="asterisk" />
           <p>Où la justice informe contre le cavalier Fortune.</p>
-          <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+          <milestone type="subChapter" rend="asterisk" unit="asterisk" />
           <p>L'autre foule, les fidèles, attendait toujours dans la rue des Cinq-Diamants, et sa constance n'avait pas encore été récompensée.</p>
           <p>On était allé chercher, deux heures en deçà, le commissaire de police du quartier des Innocents, qui se nommait maître Touchenot, mais ce magistrat avait passé une partie de la nuit à l'Épée-de-Bois pour veiller au maintien du bon ordre et jouer à la bassette.</p>
           <p>On avait frappé à la porte de divers juges de la Prévôté du Bailliage et du Présidial, tous séant au Châtelet, et dont les gouvernantes avaient répondu à l'unanimité que leurs maîtres entendaient dormir la grasse matinée.</p>
@@ -2279,6 +2304,7 @@
           <p>Thirou alla plus loin : voyant avec chagrin que les pieds du roi Chizac étaient sur le sol humide, il plia sa houppelande en quatre et en fit un tabouret qu'il déposa délicatement sous les semelles du riche.</p>
         </div>
         <div type="chapter">
+
           <head>Où Chizac-le-Riche témoigne en faveur de Fortune.</head>
           <p>-- Nous allons, reprit Loiseau timidement et comme s'il eût demandé conseil à Chizac-le-Riche, procéder à l'enquête.</p>
           <p>Chizac approuva du bonnet.</p>
@@ -2405,6 +2431,7 @@
           <p>-- Moi, je suis toujours du même avis que M. le bailli. La prison et la question, voilà la bonne manière !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune pleure pour la première fois.</head>
           <p>En toute autre circonstance, le bailli suppléant Loiseau se fût peut-être indigné qu'on eût pris l'avis d'un subalterne pour contrôler les ordres d'un magistrat tel que lui. Mais il y avait le potage qui l'attendait à la maison.</p>
           <p>-- Ce garçon, dit-il en adressant à Bertrand un signe de tête protecteur, n'est pas si nigaud qu'on le pense. L'habitude de se frotter à des gens de ma sorte le décrassera, vous verrez. Allons, enfants, qu'on se mette en besogne ! relevez-moi ce coquin et qu'on desserre les liens de ses jambes pour qu'il puisse marcher jusqu'à la prison du Châtelet. Quant au corps du délit, avant de l'envoyer au caveau de la Montre, j'ordonne que le docteur Pujon, mon médecin ordinaire et celui de Mme Loiseau, soit requis, dans le plus bref délai d'avoir à constater l'état du cadavre : c'est à savoir,</p>
@@ -2505,6 +2532,7 @@
           <p>Sa pâleur ne pouvait pas augmenter, mais ses yeux exprimaient une angoisse nouvelle.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune retrouve la parole.</head>
           <p>Au premier moment, le désespoir de cette pauvre belle fille avait mis dans tous les cœurs un mouvement de terrible colère.</p>
           <p>La foule a des cruautés de tigre : on voulait déchirer l'assassin.</p>
@@ -2637,6 +2665,7 @@
           <p>-- Mettez un couvert pour mon cousin La Pistole.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune, ne sait plus à quel amour entendre.</head>
           <p>Fortune arriva au Châtelet vers dix heures du matin avec sa belle escorte d'exempts, d'archers et de hallebardiers, derrière laquelle venait encore cette portion du public qui veut boire le spectacle.</p>
           <p>Le guichetier de la grande geôle, voyant arriver tant de monde, jugea bien qu'il s'agissait d'un personnage d'importance et fit appeler le geôlier. Celui-ci était un bon gros homme à tournure d'aubergiste qui passait pour tenir sa prison un peu comme une hôtellerie.</p>
@@ -2739,11 +2768,7 @@
           <p>Fortune mit sa tête entre ses mains comme un poète qui cherche une rime rebelle et fit un effort désespéré pour continuer la lettre.</p>
           <p>Il en résulta un second pâté et une seconde phrase ainsi conçue :</p>
           <p>« Ledit service consiste en ce qu'il m'est arrivé un accident malheureux, dont j'ai l'espérance que vous voudrez bien m'appuyer favorablement auprès de Mme la duchesse du Maine pour...»</p>
-          <p>
-            Impossible d'aller au-delà ! Fortune fit à son imagination un appel terrible, mais derrière ce
-            <hi>pour</hi>
-            il n'y avait rien !
-          </p>
+          <p> Impossible d'aller au-delà ! Fortune fit à son imagination un appel terrible, mais derrière ce <hi>pour</hi> il n'y avait rien ! </p>
           <p>Et le papier était désormais trop raccourci pour qu'il fût possible de recommencer une autre lettre.</p>
           <p>Fortune était en train de s'arracher les cheveux, lorsqu'un joyeux éclat de rire retentit au-dessus de sa tête.</p>
           <p>Il se leva en fureur et regarda au plafond où il vit un blond et charmant visage penché au-dessus de la cloison, dans, l'espace laissé libre par la courbe de la voûte.</p>
@@ -2768,6 +2793,7 @@
           <p>-- Enfin, poursuivit le petit Bourbon, vous auriez une barbe de sapeur, si vous vouliez, et ce misérable bellâtre n'a pas un poil sur la joue. Par la morbleu ! vous me plaisez, et pour peu que cela vous convienne, nous allons être une paire de camarades tous les deux !</p>
         </div>
         <div type="chapter">
+
           <head>D'une conversation importante qui eut lieu entre le cavalier Fortune et le petit Bourbon.</head>
           <p>Fortune ne répondit pas tout de suite aux cordiales avances de ce nouveau compagnon. Quand il parla enfin, ce fut en ces termes :</p>
           <p>-- Il ne faut pas vous étonner, monsieur le chevalier, dit-il avec gravité, si je vous considère attentivement ; j'en ai le droit par la position où je me trouve vis-à-vis de vous.</p>
@@ -2835,6 +2861,7 @@
           <p>-- Ce gentilhomme était M. le duc de Richelieu, vous l'avez dit.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune a le plaisir d'apprendre l'histoire du petit Bourbon.</head>
           <p>Le nom de Richelieu avait produit un effet pareil sur nos deux compagnons : le petit Bourbon tremblait de colère et Fortune avait un éclair dans les yeux.</p>
           <p>-- Corbac ! dit-il, je conviens que vous avez le pas sur moi de toutes les manières, monsieur le chevalier. C'est vous qui devez le premier tirer l'épée contre ce duc, mais s'il vous embrochait par hasard, soyez certain qu'il ne le porterait pas en paradis !</p>
@@ -2929,6 +2956,7 @@
           <p>-- Mon Dieu, oui, répliqua Courtenay, je ne m'évadais pas pour avoir la clé des champs, mais bien pour me procurer mon tête-à-tête avec M. le duc de Richelieu.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune passe un quart d'heure agréable à écouter le récit d'une galante aventure.</head>
           <p>-- Après bien des tours et des détours, continua le petit Bourbon, je me trouvai dans le quartier des gens de qualité :</p>
           <p>« Sur mon assertion effrontée que je venais avec le message du gouverneur, on m'ouvrit une porte et je me trouvai, non point encore dans la prison du Richelieu, mais dans une manière d'antichambre assez propre où l'illustre Raffé, votre valet de chambre, était commodément renversé dans un fauteuil.</p>
@@ -3015,6 +3043,7 @@
           <p>Il était temps : les clés de maître Lombat chantaient déjà leur musique accoutumée à l'autre bout du corridor.</p>
         </div>
         <div type="chapter">
+
           <head>Où le cavalier Fortune retrouve son ami La Pistole.</head>
           <p>Fortune mangea son souper de meilleur appétit encore qu'il avait mangé son dîner.</p>
           <p>Il se sentait le cœur léger comme s'il avait eu déjà ville gagnée.</p>
@@ -3146,6 +3175,7 @@
           <label>DEUXIÈME PARTIE -- LES AMOURS DE MLLE ALDEE</label>
         </p>
         <div type="chapter">
+
           <head>Où Fortune rencontre le cadavre de maître Bertrand l'inspecteur.</head>
           <p>Fortune savait désormais où il était. Son pauvre ami, le chevalier de Courtenay, dont il regrettait amèrement l'absence, lui avait dit la vérité de point en point.</p>
           <p>Une simple pierre le séparait de ceux qu'il entendait. Il ne s'agissait que d'attendre la nuit pour soulever la dalle à la force des reins, et il allait se trouver dans la galerie d'Est, déserte et libre.</p>
@@ -3252,6 +3282,7 @@
           <p>-- La mule du pape ! c'est bien lui, le voilà !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune entame sa plus triste aventure.</head>
           <p>La Pistole s'était assis sur les marches parce que ses pauvres jambes ne pouvaient plus le porter.</p>
           <p>Fortune lui-même était singulièrement ému, et son premier mouvement avait été, de faire retraite devant le regard fixe que l'inspecteur Bertrand jetait sur lui à travers les carreaux.</p>
@@ -3352,6 +3383,7 @@
           <p>Et, pour la troisième fois, caché qu'il était derrière la table, il agita la cloche de pitié.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune, déguisé en noyé, se présente chez une belle dame.</head>
           <p>L'armée, qui se rangeait en bataille sous le vestibule, était ainsi composée : maître Magloire Séverin, gardien juré et greffier des écritures de la Morgue ; Françoise Jodelet, sa femme légitime ; Anne-Gertrude Séverin, sa sœur aînée, et Denis Museau, son valet.</p>
           <p>Anne-Gertrude Séverin, qui était demoiselle à plus de cinquante ans qu'elle avait, s'était réveillée en sursaut au premier son de cloche ; elle avait appelé Magloire Séverin, son frère, qui avait secoué Françoise Jodelet laquelle gardait toujours dans la ruelle de son lit une gaule pour mettre un terme, vers 4 heures du matin, au sommeil de Denis Museau, le domestique.</p>
@@ -3438,6 +3470,7 @@
           <p>Qui est là ? demanda-t-elle tout bas ; d'une voix ferme et exempte de frayeur. -- C'est moi, le cavalier Fortune, répondit ce dernier. Thérèse murmura -- Je pensais à vous. Elle rentra et la porte fut refermée.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune a peur d'être aimé.</head>
           <p>Fortune se frotta les mains de tout son cœur.</p>
           <p>-- Avec cette belle fille-là, se dit-il, les choses vont toujours comme sur des roulettes ! elle ne prend pas de gants ; elle ne cherche jamais midi à quatorze heures. Je parie qu'elle va trouver moyen de m'habiller de pied en cap sans même envoyer chez le fripier !</p>
@@ -3546,6 +3579,7 @@
           <p>-- Je vous l'ai dit : c'est très curieux ; et il y aura plaisir à débrouiller cette affaire-là.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune entrevoit le fantôme de maître Bertrand, l'inspecteur.</head>
           <p>Après une heure écoulée, le cavalier Fortune et Thérèse Badin étaient encore assis en face l'un de l'autre dans le boudoir charmant, dont les coquettes richesses formaient un contraste étrange avec le deuil de la belle fille et la couleur sombre de l'entretien.</p>
           <p>Mais c'était à Chizac-le-Riche et au meurtre si imprévu de l'inspecteur Bertrand que la conversation revenait toujours.</p>
@@ -3605,6 +3639,7 @@
           <p>-- La mule du pape ! jeune homme, c'est vous qui êtes le frère de Mme Michelin, et qui m'avez si maladroitement poignardé l'autre jour ! Comment vous va ? Je ne suis pas fâché de faire votre connaissance.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune cause avec son assassin.</head>
           <p>Le passant, qui était en effet l'homme en deuil de la rue de la Tixanderie, le frère de la malheureuse Mme Michelin, essaya d'abord de dégager ses deux poignets et voulut faire un pas en arrière, mais Fortune n'eut point de peine à vaincre sa molle résistance.</p>
           <p>-- La peste ! mon petit homme, dit Fortune avec compassion, il ne faut point avoir frayeur de moi. Quel est votre nom, s'il vous plaît ?</p>
@@ -3719,6 +3754,7 @@
           <p>-- Ce gentilhomme est un prisonnier. Il ne faut pas qu'il se rencontre avec Pierre de Courtenay de Bourbon. Madame ma mère a épousé aussi un Bourbon, mais elle parlait souvent de M. le duc de Richelieu. Chut ! Ce ne sont pas vos affaires, jeune homme, Madame ma mère est morte et je ne vivrai pas longtemps. Allez en chasse, que nous fassions bonne chère !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune apprend un très important secret.</head>
           <p>Fortune fit un grand effort sur lui-même et parvint à sourire, malgré le mortel chagrin qu'il avait dans le cœur.</p>
           <p>-- Nous irons à la chasse, demoiselle Aldée, dit-il en prenant un ton de gaieté, et ce ne sont pas les daims qui manquent autour du manoir. Vous aurez de la venaison pour le repas du soir, car il faut que le chevalier Pierre de Courtenay soit reçu comme il faut dans notre maison.</p>
@@ -3814,6 +3850,7 @@
           <p>Il lui donna un gros baiser et franchit le seuil courant.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune noue des relations avec Mme La Pistole.</head>
           <p>Fortune songeait à cette vieille dame pour laquelle il n'avait jamais éprouvé peut-être une tendresse bien vive mais qu'il s'était habitué à vénérer, comme une relique : la comtesse de Bourbon était sa mère ! Son père, c'était le maître de ce grand château que ses souvenirs d'enfance lui représentaient si brillant et si riche.</p>
           <p>L'enfant tout blanc, tout rose, tout délicat, tout impertinent, qui le molestait jadis et pour qui on le fouettait, c'était son frère, c'était M. le duc de Richelieu !</p>
@@ -3886,6 +3923,7 @@
           <p>-- Volontiers, mais quand j'aurai fini. Dans dix minutes vous allez être un exempt, non pas laid, c'est impossible, mais enfin un exempt par les habits, par la coiffure et même par la figure, car j'ai là tout ce qu'il faut pour vous transformer à ma guise. Et quand ma baguette vous aura touché, vous pourrez tourner autour du Richelieu, croiser le Chizac et même, si vous voulez, aller rendre visite à maître Lombat sans courir le moindre risque d'être reconnu !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune conçoit la première idée de son plan.</head>
           <p>Si l'étoile de Fortune avait eu quelquefois des torts, il faut bien avouer qu'elle les réparait amplement à cette heure, car Mme La Pistole était une véritable trouvaille.</p>
           <p>-- Quoique je n'aie jamais souhaité, dit notre cavalier d'un air modeste, faire avec votre personne le troc de ma tournure et de ma figure, je ne suis pas fâché de posséder pour quelque temps cet anneau des contes de ma Mère l'Oie qui rend les chevaliers invisibles. C'est la meilleure armure que puisse revêtir un homme isolé comme je le suis au milieu de tant d'ennemis. Où trouverai-je ton mari, ma toute belle ?</p>
@@ -3946,6 +3984,7 @@
           <p>-- La mule du pape ! pensa-t-il, toutes ces femmes folles n'ont pas si méchant goût que je le croyais, et ce serait dommage d'écraser cette jolie tête entre deux pierres !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune attend la veuve en jouant avec les orphelins.</head>
           <p>Fortune se disait en les regardant du coin de l'œil :</p>
           <p>-- Le Chizac est encore plus défait que je ne croyais. Quant à M. mon frère, je suis fort satisfait de l'avoir vu. Corbac ! il est flatteur pour moi de ressembler à un duc si propre, si blanc et si bien frisé, et je lui pardonnerais toutes choses en souvenir du vieux seigneur ; s'il n'avait pas jeté un sort à notre belle Aldée.</p>
@@ -4057,6 +4096,7 @@
           <p>Et le flot des enfants rieurs, se précipitant sur lui, le submergea des pieds à la tête.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune soupe avec feu l'inspecteur Bertrand.</head>
           <p>La porte intérieure s'ouvrit et Chizac-le-Riche parut, reconduit par une belle petite femme grasse et blonde qui dont le frais visage portait le grand deuil de veuve, mais respirait la plus complète sérénité.</p>
           <p>-- Cachez-moi, dit Fortune aux bambins.</p>
@@ -4161,6 +4201,7 @@
           <p>-- Cavalier, répondit-il, on ne tient jamais les gens qui ont des millions. Les millions sont sorciers. Les millions sont sacrés. Soupons tranquillement, je vous l'ai dit après le repas, nous parlerons affaires :</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune et maître Bertrand tiennent conseil.</head>
           <p>Fortune et maître Bertrand, après avoir soupé d'excellent appétit, prenaient leur café en tête-à-tête dans un cabinet de travail fort proprement meublé, qui était à l'usage particulier de l'inspecteur.</p>
           <p>Entre eux, le chien Faraud, accroupi, tendait son museau pensif et semblait écouter la conversation qui ne laissait pas que d'avoir un certain intérêt.</p>
@@ -4235,6 +4276,7 @@
           <p>-- Les fous, répondit Bertrand qui réfléchissait, ont des éclairs de génie. Ceci est un trait de génie, car il doit croire que nous ne pouvons nous passer de Thérèse. Tenons-nous bien ! il cherche, il travaille, il fermente. Si on ne noie pas cette mine d'or, il éclatera sous nos pieds comme cent tonneaux de poudre !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune prend le parti de se jeter à l'eau</head>
           <p>La jolie Mme Bertrand ne voyait qu'une chose en tout ceci : le gros lot gagné par Thérèse.</p>
           <p>-- Nous voilà bien ! murmura-t-elle ; pour être comtesse, la Badin vendra notre secret !</p>
@@ -4286,6 +4328,7 @@
           <p>Il prit la pose des gens qui piquent une tête selon l'art, et se précipita à son tour dans le fleuve, dont les eaux blanchâtres et hautes bouillonnaient en passant sous les arches.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune trouve à qui parler dans la rivière.</head>
           <p>Peu de temps auparavant, pendant que Fortune était chez maître Bertrand, une main timide avait soulevé le marteau de l'hôtel habité par Thérèse Badin, rue des Saints-Pères.</p>
           <p>Un homme, vêtu de noir et si pâle que le portier l'aurait pris volontiers pour un pauvre honteux, n'ayant point mangé depuis la veille, demanda le cavalier Fortune.</p>
@@ -4367,6 +4410,7 @@
           <p>-- Corbac ! s'écria Fortune, qui éleva du coup la tête et les épaules du fugitif hors de l'eau, n'allons pas étouffer l'héritier de tant de royaumes ! Je savais bien que j'avais entendu cette voix-là quelque part.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune amène noble compagnie chez Thérèse Badin.</head>
           <p>Cette idée de Fortune était bonne en principe, car il y avait vraiment bien longtemps que la tête du petit Bourbon était sous l'eau, mais il est permis de croire que les descendants de tant de rois peuvent avoir l'haleine plus longue que les autres hommes, car ce démoniaque chevalier n'eut pas plutôt le nez et la bouche à l'air libre qu'il toussa, renifla, se secoua comme un barbet sortant d'une mare, et donna en même temps une telle secousse que les deux mains de ses deux sauveurs lâchèrent prise à la fois.</p>
           <p>Il n'eut garde de plonger. Ses yeux, qui lançaient des éclairs à travers les mèches collées de ses cheveux, brillèrent comme des chandelles ; il cria : « À moi ! à moi ! » et ses deux mains, semblables à des paquets de griffes, se cramponnèrent à l'abondante chevelure de René.</p>
@@ -4489,11 +4533,7 @@
           <p>-- Nous avons raison tous les deux, dit-il après avoir lu. La lettre parle de M. le duc et parle aussi de l'assassin du pauvre Guillaume. La lettre ment deux fois. M. le duc ne sera pas cette nuit à l'Arsenal, et il faut avoir le cerveau bien malade, Thérèse, malheureuse fille, pour croire à cette fable grossière : le régent de France perdant son temps et sa peine à poignarder un musicien de l'Opéra !</p>
           <p>-- Ce musicien était mon père, murmura Thérèse, on devait croire qu'il conspirait comme moi.</p>
           <p>Fortune eut un sourire de pitié.</p>
-          <p>
-            -- L'orgueil est aussi un
-            <hi>jettatore</hi>
-            , pensa-t-il tout haut. Ce soir, avant de retirer de l'eau le pauvre amoureux que vous avez désespéré, j'ai bien longtemps parlé de vous avec maître Bertrand l'inspecteur.
-          </p>
+          <p> -- L'orgueil est aussi un <hi>jettatore</hi> , pensa-t-il tout haut. Ce soir, avant de retirer de l'eau le pauvre amoureux que vous avez désespéré, j'ai bien longtemps parlé de vous avec maître Bertrand l'inspecteur. </p>
           <p>-- Quoi ! s'écria Thérèse, vous savez !</p>
           <p>-- Pendant que j'étais avec lui, poursuivit Fortune, maître Bertrand a reçu la lettre où vous lui disiez Chizac est innocent puisqu'il m'a demandée en mariage.</p>
           <p>-- J'ai réfléchi ; murmura Thérèse, depuis que cette lettre a été écrite. Mes doutes sont revenus.</p>
@@ -4520,6 +4560,7 @@
           <p>Fortune lui baisa la main avec effusion et se retira.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune prend un prince à son service</head>
           <p>Thérèse était seule auprès de René. Elle prit sa main froide et la garda un instant entre les siennes. Un souffle faible passait entre les lèvres du pauvre jeune homme, et un nuage de fugitive rougeur semblait remonter à ses joues.</p>
           <p>Au bout de quelques minutes, et comme si elle eût cédé à un irrésistible entraînement, Thérèse abandonna la main du malade et glissa ses doigts frémissants sous le revers de sa robe de deuil.</p>
@@ -4602,6 +4643,7 @@
           <p>-- René ! murmura-t-elle, pauvre ami, sa sœur aussi est morte ensorcelée !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune engage une forte servante du nom de Marton.</head>
           <p>Le lendemain matin, de bonne heure, le cavalier Fortune, qui portait toujours son costume d'exempt, séché au feu de la cuisine, traversa Paris en remontant le cours de la rivière ; un gentilhomme l'accompagnait qui avait, comme lui, le feutre et le manteau d'aventures.</p>
           <p>Ils entrèrent tous les deux à l'Arsenal., où ils demandèrent Zerline, la chambrière de Mme Delaunay.</p>
@@ -4698,6 +4740,7 @@
           <p>-- Madame la comtesse, dit Muguette en rentrant, consent à recevoir M. le cavalier Fortune.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune soutient avec talent une thèse généalogique.</head>
           <p>Au moment où Fortune entrait dans la chambre à coucher de Mme la comtesse de Bourbon d'Agost, celle-ci était debout au-devant de son lit et se tenait appuyée sur une longue canne.</p>
           <p>-- Approchez, jeune homme, dit-elle à Fortune, et donnez-moi votre bras.</p>
@@ -4761,6 +4804,7 @@
           <p>-- Madame, dit-il rondement, chacun fait, ce qu'il peut, et il fallait un garde du corps à Mlle Aldée de Bourbon. Le danger qui la menace est prochain et terrible, le déguisement de M. le prince de Courtenay ici présent n'est pas un moyen de comédie, mais un gage de salut. Tout sera pour le mieux si vous faites que ce soit un fiancé qui veille sur sa fiancée.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune suit Chizac à la trace de ses forfaits</head>
           <p>Mme la comtesse de Bourbon hésita un instant, puis elle dit avec ce grand air de noblesse qu'elle prenait tout naturellement quand il le fallait :</p>
           <p>-- Soyez le bienvenu, monsieur mon cousin ; ce n'est pas la première fois que Bourbon et Courtenay se marient ensemble.</p>
@@ -4859,6 +4903,7 @@
           <p>-- Mais, à bien considérer les choses, acheva-t-il, j'aimerais voir si le petit me ressemblera. J'ai le million, et je ne suis pas encore pendu, mon camarade.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune a l'honneur de contempler un illustre sous séducteur.</head>
           <p>Il était assez difficile d'arracher à ce bon La Pistole quelque chose de suivi et de raisonnable. Il aimait et il détestait à la folie. Cette haine amoureuse ou cet amour haineux lui bouleversaient la cervelle à tel point que ses idées dansaient incessamment la farandole.</p>
           <p>Le petit devait s'appeler Vincent Camus comme lui, pour peu qu'il appartînt au sexe masculin ; si c'était une fille, au contraire, on devait lui donner le nom de Zerline.</p>
@@ -4949,6 +4994,7 @@
           <p>-- Il a la bouche, murmura-t-il, le nez aussi, les yeux... par la sambleu ! Sais-tu que tu es un beau gars mon fils ? M. le duc ne pourra te renier, car tu lui ressembles comme deux gouttes d'eau !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune demande un miracle à Zerline.</head>
           <p>Un quart d'heure s'était écoulé. Maître Raffé avait repris son siège, et Fortune se tenait toujours debout.</p>
           <p>-- J'étais un tout petit garçon en ce temps-là, dit le premier valet de chambre ; comme tout cela nous vieillit ! Feu M. le duc a eu tort de ne pas te laisser quelque chose dans son testament, car son fils est la fleur des pois, il n'y a pas à dire non, mais il n'attache point ses chiens avec des saucisses. Voyons, mon enfant, quel rêve as-tu fait ? T'es-tu figuré que nous allions te donner de quoi rouler carrosse ?</p>
@@ -5050,6 +5096,7 @@
           <p>-- Asseyez-vous là, cavalier, dit Zerline piquée au jeu ; nous allons vous arranger tant et si bien que dans une demi-heure vous pourrez, si vous le voulez, escalader le fameux balcon de l'hôtel de Condé ou entrer au Palais-Royal par l'armoire aux confitures !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune et Richelieu partagent en frères.</head>
           <p>-- Pour fabriquer un duc, commença Zerline en préparant son papier à papillotes, il faut d'abord un cavalier immobile et sage comme une image.</p>
           <p>-- Je ne bougerai pas, dit Fortune, je ne parlerai pas...</p>
@@ -5109,6 +5156,7 @@
           <p>-- Quant à cela, Monseigneur, répondit Zerline en plantant le peigne dans ses cheveux et en riant de bon cœur, il ne faut pas demander l'impossible. Pour faire le duc de Richelieu, il a fallu l'amour, les grâces et les fées !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune fait passer M. de Richelieu pour un ivrogne.</head>
           <p>Fortune, nous n'avons pas besoin de le dire au lecteur, suivait désormais une idée et entamait l'exécution de son fameux plan.</p>
           <p>Seulement, pour une partie de ce plan qui n'était pas la moins importante, il avait compté sur maître Bertrand, l'inspecteur de police, et maître Bertrand lui manquait.</p>
@@ -5178,6 +5226,7 @@
           <p>-- Qui vivra verra. Demain vous comprendrez pourquoi je me suis montré si discret malgré le demi-flacon de M. de Cadillac.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune prend le frais dans la forêt de Bretagne.</head>
           <p>Fortune se frottait les mains en descendant l'escalier de l'hôtel de Tencin ; il se disait :</p>
           <p>-- Le Dubois était dans le cabinet ! il a mordu à l'hameçon et l'affaire de M. le duc est aux trois quarts faite. Seulement, mon rôle est plus épineux que je le croyais. La mule du pape ! cette jolie échappée de couvent a été deux ou trois fois sur le point de percer à jour ! Il va falloir jouer serré à l'Arsenal, et la prudence veut qu'on y avale encore mon demi-flacon de vin de Sicile.</p>
@@ -5260,6 +5309,7 @@
           <p>Fortune suivit tour à tour les deux restes de l'exempt et vit d'abord Thérèse Badin, splendide sous ses habits de deuil, puis René Briand, tout blême, dont les yeux brûlaient à travers les trous de son demi-masque.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune repousse les avances de l'impératrice d'Occident.</head>
           <p>La grotte était jolie, spacieuse et très bien décorée, on y avait mis des stalactites.</p>
           <p>Des lampes de fer suspendues à la voûte laissaient tomber de tremblantes clartés sur un autel païen, semblable à ceux où Velleda sacrifiait au dieu Belen des jeunes garçons et jeunes filles pour le renouveau de l'an.</p>
@@ -5349,6 +5399,7 @@
           <p>Le chef des exempts et ses cinq acolytes avaient mit l'épée à la main.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune assiste encore à une fête</head>
           <p>-- Mes braves, disait Fortune à ses ombres, vous me suivez depuis le logis de Mme de Tencin, et vous avez fort adroitement exécuté les ordres de ce bon abbé Dubois qui vous avait bien recommandé de ne point vous hâter, et de me laisser descendre tout au fond de la ratière.</p>
           <p>Soit de parti pris, soit par mégarde, notre cavalier avait cessé de déguiser sa voix. Son masque était tombé dans la bagarre : mais il faisait nuit noire sous les arbres, et le chef des exempts essayait en vain de distinguer les traits de son visage.</p>
@@ -5439,6 +5490,7 @@
           <p>Hélas ! ce n'était plus le divin Armand, dont un seul regard eût fait reculer la cohue. Il était pris au piège, il recevait les coups avec un désespoir silencieux ; ce qu'il craignait le plus au monde, c'était d'être reconnu, et il se serait laissé assommer sur place avant de crier : « Je suis le duc de Richelieu ! »</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune agit avec magnanimité.</head>
           <p>Il y a les réjouissances annuelles et réglementaires : la fête du souverain, la promenade solennelle du bœuf gras et autres anniversaires, attendus impatiemment par les enfants, petits et grands.</p>
           <p>Il y a encore les aubaines, les mariages de princes, funérailles illustres, et ce drame si cher aux incontinent, de la curiosité parisienne, ce drame silencieux et sangle qui se joue la nuit avec, l'échafaud pour théâtre, entre un condamné et le bourreau.</p>
@@ -5530,6 +5582,7 @@
           <p>Elle n'est plus là, répondit Muguette à travers ses sanglots. Elle a fui, elle est perdue !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune n'a plus qu'à suivre son plan</head>
           <p>Fortune et Courtenay interrogèrent la pauvre petite Muguette que ses larmes étouffaient.</p>
           <p>Voici ce qu'elle leur apprit :</p>
@@ -5651,6 +5704,7 @@
           <p>-- Raffé, qu'on apporte ma chasse ; Aldée de Bourbon et la fille à Badin !</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune a le plaisir de voir la réussite de son plan</head>
           <p>Les femmes étaient ivres, les hommes auraient eu honte de montrer ce qui leur restait de cœur. Le temps le voulait ainsi ; la fable de la Fontaine était retournée ; les bœufs essayaient de s'aplatir en grenouilles et tout ce vieux monde se mourait étranglé par le blasphème idiot.</p>
           <p>Gacé tout seul protesta. Encore était-ce par rancune !</p>
@@ -5749,6 +5803,7 @@
           <p>-- Non, grâce à Chizac-le-Riche.</p>
         </div>
         <div type="chapter">
+
           <head>Où Fortune marche sur des millions</head>
           <p>-- Écoutez-moi seulement, reprit l'inspecteur Bertrand. Pour arriver jusqu'à l'ancienne chambre à coucher de feu Guillaume Badin, nous avions suivi, Julie et moi, bien malgré nous, le chemin que Chizac avait pris lui-même, la nuit du meurtre.</p>
           <p>-- Vous étiez entrés par la porte de la rue ? demanda encore Fortune.</p>
@@ -5855,25 +5910,16 @@
           <p>-- Voici qui appartient à Thérèse, je le prends pour le lui rendre. Il n'y a rien ici pour notre ami Courtenay et notre chère Aldée. Quant à moi, je ne suis pas un Caton, et je crois bien que j'ai pu prendre çà et là quelques bribes du bien d'autrui dans mes campagnes ; mais c'était en pays ennemi, et je n'avais pas encore le cœur plein de Muguette. Elle est là, ma petite Muguette ; je la vois entre moi et ses paperasses ; je l'entends aussi ; elle me dit : je n'en veux pas. Donc, ami Bertrand, grand bien vous fasse, et au revoir. J'apporterai dans mon ménage, bon pied, bon œil et bonne humeur.</p>
           <p>« Et autre chose encore, interrompit-il, en foulant les millions pour gagner la porte. La mule du pape, j'allais oublier mon étoile !</p>
           <p>
-            <hi>Post-scriptum</hi>
-             : il y eut trois noces et demie, car La Pistole reprit sa femme, qui lui mangea ses millions.
-          </p>
+            <hi>Post-scriptum</hi>  : il y eut trois noces et demie, car La Pistole reprit sa femme, qui lui mangea ses millions. </p>
+          <trailer>FIN</trailer>
         </div>
       </div>
     </body>
     <back>
-      <div type="notes"/>
-      <div type="liminal">
-        <p>FIN</p>
-      </div>
-      <div type="note">
-        <p>[1] Expression incertaine, impossible à vérifier en l'absence de l'image de scan de cette page. [Note du correcteur]</p>
-        <p>
-          [2]
-          <hi>Avoir une épaisse couche de fard rouge sur les joues.</hi>
-          Mon cher, reprit le comte, vous voyez que j'ai un pied de rouge sur les joues, ménagez-moi* (FEUILLET, J. de Trécœur, 1872, p. 62).
-        </p>
-        <p>[3] Vin rouge, surtout vin de Bordeaux.</p>
+      <div type="notes">
+        <note xml:id="n1">[1] Expression incertaine, impossible à vérifier en l'absence de l'image de scan de cette page. [Note du correcteur]</note>
+        <note xml:id="n2"> [2] <hi>Avoir une épaisse couche de fard rouge sur les joues.</hi> Mon cher, reprit le comte, vous voyez que j'ai un pied de rouge sur les joues, ménagez-moi* (FEUILLET, J. de Trécœur, 1872, p. 62). </note>
+        <note xml:id="n3">[3] Vin rouge, surtout vin de Bordeaux.</note>
       </div>
     </back>
   </text>
