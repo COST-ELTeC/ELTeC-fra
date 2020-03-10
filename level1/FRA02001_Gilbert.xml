@@ -8,8 +8,9 @@
         <title>Vers le pôle en aéroplane : ELTeC edition</title>
         <author>Gilbert, Jehan (1880-1940)</author>
         <respStmt>
-          <resp>encoded by</resp>
+          <resp>encodeding</resp>
           <name>Rezearta Murati</name>
+          <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
       <extent>
@@ -23,7 +24,6 @@
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
         <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--Hachette Livre 2018-->
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -47,8 +47,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
-      <!-- The text quality is rather bad at this stage! (Christof Schöch, 2019-11-01) -->
+      <p>ELTeC level 1 encoding. In some instances, "corr" has been used to mark modernized spelling.</p>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -67,6 +66,7 @@
       </textDesc>
     </profileDesc>
     <revisionDesc>
+      <change when="2020-03-10">Fixed spelling and tokenization.</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-11-01">Conversion to level 1 encoding.</change>
       <change when="2019-09-23">File created</change>
@@ -970,76 +970,76 @@
 
         <head>XIV</head>
 
-        <head>VERS LE POLE</head>
-        <p>Au fur et à mesure qu'ils se rapprochaient du Pôle, les trois françaissentaient leur émotion s'augmenter.</p>
-        <p>Une terreur les prenait soudainement et faisait passer dans leur échine un longfrisson: si pour une raison ou une autre ils n'arrivaient pas au but qu'ilss'étaient proposé?</p>
-        <p>S'il survenait un accident au moteur, si le réservoir à essence était abîmé?</p>
-        <p>Autant d'éventualités que les jeunes gens envisageaient sans se lescommuniquer. Victorieusement, rompant le silence qui s'était établi entre eux trois, LucienGol- fech annonça : f</p>
-        <p>— Le Pôle est à cent kilomètres 1 -</p>
-        <p>Nerveux, Pierre Lathon s'exclama:</p>
-        <p>. — Allons « Pourquoi pas ? » encore un bond vers le Pôle mon vieux camarade?Puis tu nous ramèneras au Spitzberg, après quoi tu pourras te reposer!</p>
+        <head>VERS LE PÔLE</head>
+        <p>Au fur et à mesure qu'ils se rapprochaient du Pôle, les trois français sentaient leur émotion s'augmenter.</p>
+        <p>Une terreur les prenait soudainement et faisait passer dans leur échine un long frisson : si pour une raison ou une autre ils n'arrivaient pas au but qu'ils s'étaient proposé ?</p>
+        <p>S'il survenait un accident au moteur, si le réservoir à essence était abîmé ?</p>
+        <p>Autant d'éventualités que les jeunes gens envisageaient sans se les communiquer. Victorieusement, rompant le silence qui s'était établi entre eux trois, Lucien Golfech annonça : </p>
+        <p>— Le Pôle est à cent kilomètres !</p>
+        <p>Nerveux, Pierre Lathon s'exclama :</p>
+        <p>— Allons « Pourquoi pas ? » encore un bond vers le Pôle mon vieux camarade ? Puis tu nous ramèneras au Spitzberg, après quoi tu pourras te reposer !</p>
         <p>— Quel chic voyage quand même ! murmura Jacques émerveillé.</p>
-        <p>— Vous trouvez, Jacques, dit Lucien Golfech, vous n'auriez pas préféré garderles meubles de votre maître, à Paris?</p>
-        <p>— Ah, monsieur veut rire ! je suis si heureux d'être ici!</p>
-        <p>— Vous y resterez peut-être mon ami jusqu'à la fin des siècles?</p>
+        <p>— Vous trouvez, Jacques, dit Lucien Golfech, vous n'auriez pas préféré garder les meubles de votre maître, à Paris ?</p>
+        <p>— Ah, monsieur veut rire ! je suis si heureux d'être ici !</p>
+        <p>— Vous y resterez peut-être mon ami jusqu'à la fin des siècles ?</p>
         <p>— Amen ! déclara joyeusement Loniam.</p>
         <p>— Vrai, ça vous serait égal de mourir en ce moment ?</p>
-        <p>— Voyez-vous, monsieur le docteur, je n'y crois pas, le « Pourquoi pas ? » esttrop bien constitué, nous irons jusqu'au bout, nous triompherons !</p>
-        <p>— Mais je l'espère aussi! fit Golfech.</p>
-        <p>De nouveau, le silence s'établit, le moteur explosait périodiquement, leshélices ronronnaient inlassablement.</p>
-        <p>L'aéroplane volait sans discontinuer de- puis sept heures et demie, d'ailleurs Pierre Lâ%hon, dans son voyageParis-Bordeaux avait déjà accompli ce raid magnifique qüi l'avait si bienqualifié pour la course Spitzberg-Pôle Nord.</p>
-        <p>Soudain, le ronronnement des hélices diminua d'intensité. Pierre Lathon pâlitet dit :</p>
-        <p>— Mes amis, nous nous arrêtons l</p>
-        <p>En effet, le moteur explosa une dernière fois avec peine, puis se tût. Sansperdre son sang froid, Pierre Lathon mit en marche le deuxième moteur. L'aéro-planel qui avait commencé la descente, reprit son vol majestueux.</p>
-        <p>— Ouf, j'ai eu peur ! déclara Golfeçh .</p>
-        <p>— Nous ne sommes pas sauvés, dit Lathon . Pourvu que le deuxième moteur n'aitpas une panne à son tour. Nous réparerons le premier, si nous le pouvons, auPôle...</p>
+        <p>— Voyez-vous, monsieur le docteur, je n'y crois pas, le « Pourquoi pas ? » est trop bien constitué, nous irons jusqu'au bout, nous triompherons !</p>
+        <p>— Mais je l'espère aussi ! fit Golfech.</p>
+        <p>De nouveau, le silence s'établit, le moteur explosait périodiquement, les hélices ronronnaient inlassablement.</p>
+        <p>L'aéroplane volait sans discontinuer depuis sept heures et demie, d'ailleurs Pierre Lathon, dans son voyage Paris-Bordeaux avait déjà accompli ce raid magnifique qui l'avait si bien qualifié pour la course Spitzberg-Pôle Nord.</p>
+        <p>Soudain, le ronronnement des hélices diminua d'intensité. Pierre Lathon pâlit et dit :</p>
+        <p>— Mes amis, nous nous arrêtons !</p>
+        <p>En effet, le moteur explosa une dernière fois avec peine, puis se tût. Sans perdre son sang froid, Pierre Lathon mit en marche le deuxième moteur. L'aéroplane qui avait commencé la descente, reprit son vol majestueux.</p>
+        <p>— Ouf, j'ai eu peur ! déclara Golfech.</p>
+        <p>— Nous ne sommes pas sauvés, dit Lathon. Pourvu que le deuxième moteur n'ait pas une panne à son tour. Nous réparerons le premier, si nous le pouvons, au Pôle...</p>
         <p>— Alors vous voulez atterrir?</p>
-        <p>— Mais comment donc, il faut mon ami que vous fassiez toutes les observationsscientifiques, prescrites par Charly- Boissette, après quoi nousrepartirons.</p>
-        <p>Vingt minutes j&amp;üs tard," Golf ecb annonça avec (grandiloquence :</p>
-        <p>— Nous sommes au Pôle I</p>
-        <p>En effet, la bousspje était complètement affolée et tournait dans tous lèssens. Blême d'émotion, Lathon coupa l'allumage, le « Pourquoi pas ? » descendit lentement et bientôt se posa avec douceur sur la glace.</p>
-        <p>Lés trois français se revêtirent de leurs fourrures, mirent d'épais bonnets quine laissaient passer que les yeux et sortirent.</p>
-        <p>Avant d'ouvrir la porte, Loniam s'écria d'un accent gavroche:</p>
-        <p>— Eh bien zut, c'est rien moche le Pô|e Nord 1 Pas même un chand de vin pour s'yréchauffer... eh bien où est donc passé le garçon ?... Garçon ? ? Trois grogs(américains, s. v. p.? Et vite, on est gelés !</p>
-        <p>Pierre Lathon sourit:</p>
-        <p>•— Gosse va ! dit-il en haussant les épaules.</p>
-        <p>|ls sortirent. Certes, le Pôle Nord n'avait rien de bien extraordinaire. C'étaitle centre de la cuvette marine dont nous avons parlé plus haut et la glace yétait unie comme sur toute l'étendue de cette cuvette, mais Lucien Golfechrelevait ses observations, relevait la hauteur du soleil à l'horizon, mesuraitl'angle qu'il faisait avec la terre.</p>
-        <p>Il avait extrait de la cabine du « Pourquoi'pas? » toute une/ séried'appareils dont il se servit instantanément. Pierre Lathon songeait... ainsi c'était là l'axe de la terre, le Pôle Nord donton lui parlait tout enfant à l'école, et qu'on lui représentait comme une terreinviolée et inabordable.</p>
-        <p>Lui, Pierre Lathon, connaissait désormais cet honneur d'avoir été l'un despremiers en ce point si mystérieux du globe. Et ii planta le drapeau françaisdans la glace.</p>
-        <p>De tous les côtés, c'était le Sud! le Sud partout ! Devant lui I derrière lui îà sa gauche 1 à sa droite !</p>
-        <p>Mais il aperçut Loniam qui inspectait le moteur malade, il s'y rendit, ilseurent vite découvert la cause de la panne, c'était un engorgement auquel ilsremédièrent aussitôt.</p>
-        <p>Une demi-heure s'écoula, le « Pourquoi pas ? » était prêt à partir. Mais LucienGolfech n'avait pas fini, il fallut attendre une heure encore, car lesobservations exigées par Charly-Boissette étaient méticuleuses à faire etd'une nature beaucoup trop scientifique pour que nous songions à enentretenir nos lecteurs.</p>
-        <p>Enfin, le jeune médecin replia tous ses appareils et lés replaça dansl'aéroplane, où l'attendaient Lathon et Loniam transis de froid, car latempérature était épouvantablement glacée. — Je viens me chauffer, déclara Gol- fech. Brrl quel froid!</p>
-        <p>Avant de repartir, les trois jeunes gens prirent un repas, composé surtoutd'aliments chimiques, de capsules préparées en Europe, à Paris, par leDocteur.</p>
-        <p>Et soudain, lorsque le « Pourquoi pas ? » fut sur le point de s'envoler, Lathon,tout joyeux, signala à l'horizon un aéroplane.</p>
+        <p>— Mais comment donc, il faut mon ami que vous fassiez toutes les observations scientifiques, prescrites par Charly-Boissette, après quoi nous repartirons.</p>
+        <p>Vingt minutes plus tard, Golfech annonça avec grandiloquence :</p>
+        <p>— Nous sommes au Pôle !</p>
+        <p>En effet, la boussole était complètement affolée et tournait dans tous les sens. Blême d'émotion, Lathon coupa l'allumage, le « Pourquoi pas ? » descendit lentement et bientôt se posa avec douceur sur la glace.</p>
+        <p>Les trois français se revêtirent de leurs fourrures, mirent d'épais bonnets qui ne laissaient passer que les yeux et sortirent.</p>
+        <p>Avant d'ouvrir la porte, Loniam s'écria d'un accent gavroche :</p>
+        <p>— Eh bien zut, c'est rien moche le Pôle Nord ! Pas même un chaud de vin pour s'y réchauffer... eh bien où est donc passé le garçon ?... Garçon ? Trois grogs américains, s. v. p.? Et vite, on est gelés !</p>
+        <p>Pierre Lathon sourit :</p>
+        <p>— Gosse va ! dit-il en haussant les épaules.</p>
+        <p>Ils sortirent. Certes, le Pôle Nord n'avait rien de bien extraordinaire. C'était le centre de la cuvette marine dont nous avons parlé plus haut et la glace y était unie comme sur toute l'étendue de cette cuvette, mais Lucien Golfech relevait ses observations, relevait la hauteur du soleil à l'horizon, mesurait l'angle qu'il faisait avec la terre.</p>
+        <p>Il avait extrait de la cabine du « Pourquoi pas? » toute une série d'appareils dont il se servit instantanément. Pierre Lathon songeait... ainsi c'était là l'axe de la terre, le Pôle Nord dont on lui parlait tout enfant à l'école, et qu'on lui représentait comme une terre inviolée et inabordable.</p>
+        <p>Lui, Pierre Lathon, connaissait désormais cet honneur d'avoir été l'un des premiers en ce point si mystérieux du globe. Et il planta le drapeau français dans la glace.</p>
+        <p>De tous les côtés, c'était le Sud ! le Sud partout ! Devant lui ! derrière lui ! à sa gauche ! à sa droite !</p>
+        <p>Mais il aperçut Loniam qui inspectait le moteur malade, il s'y rendit, ils eurent vite découvert la cause de la panne, c'était un engorgement auquel ils remédièrent aussitôt.</p>
+        <p>Une demi-heure s'écoula, le « Pourquoi pas ? » était prêt à partir. Mais Lucien Golfech n'avait pas fini, il fallut attendre une heure encore, car les observations exigées par Charly-Boissette étaient méticuleuses à faire et d'une nature beaucoup trop scientifique pour que nous songions à en entretenir nos lecteurs.</p>
+        <p>Enfin, le jeune médecin replia tous ses appareils et lés replaça dans l'aéroplane, où l'attendaient Lathon et Loniam transis de froid, car la température était épouvantablement glacée. — Je viens me chauffer, déclara Golfech. Brr ! quel froid !</p>
+        <p>Avant de repartir, les trois jeunes gens prirent un repas, composé surtout d'aliments chimiques, de capsules préparées en Europe, à Paris, par le Docteur.</p>
+        <p>Et soudain, lorsque le « Pourquoi pas ? » fut sur le point de s'envoler, Lathon, tout joyeux, signala à l'horizon un aéroplane.</p>
         <p>Ils partirent. Dix minutes s'écoulèrent, Lathon eut le bonheur le premier de découvrir avec sa jumelle les couleurs de l'Angleterre.</p>
         <p>C'était Johnson Faber qui avait réparé son appareil et qui à son tour venait atterrir au Pôle.</p>
-        <p>Derrière le panneau vitré, Lathon envoya un baiser à sa fiancée qu'il aperçut distinctement... Les deux machines se croisèrent, mais ne s'arrêtèrent pas, etchacune poursuivit sa route, l'une vers le Nord, l'autre vers le Sud.</p>
+        <p>Derrière le panneau vitré, Lathon envoya un baiser à sa fiancée qu'il aperçut distinctement... Les deux machines se croisèrent, mais ne s'arrêtèrent pas, et chacune poursuivit sa route, l'une vers le Nord, l'autre vers le Sud.</p>
         <p>Une heure après ce fut l'aéroplane allemand que rencontra Lathon, puis le désert recommença pendant de longues heures.</p>
-        <p>Une nouvelle panne contraignit, le « Pourquoi pas ?» à atterrir une deuxièmefois, en une heure elle fut réparée !</p>
-        <p>Il y avait quinze heures que le départ de la course avait été donné, lés jeunes gens ne se sentaient duçune;néntfatigués, mais il leur tardait de revoir les baraques d'Aérovüle qui leurparafaient être ie inonde civilisé.</p>
-        <p>Enfin, vingt-quatre heures exactèment après son départ, le « Pourquoi pas? » vint atterrir devant son hangar à Aéro-ville.</p>
-        <p>Les membres de l'Aéro-Clüb s'empressèrent très émus, toute la population aussi.</p>
-        <p>Au premier rang, Pierre Lathon distingua Alphonse Dicquez, Nito, qui avaientabandonné la coursé.</p>
-        <p>Fièvreusement, il dit qu'il avait réussi dans sa tentative, et ce fut unenthousiasme indescriptible.</p>
-        <p>Çharly-Boissette entraîna Lucien Gol- fech :</p>
+        <p>Une nouvelle panne contraignit, le « Pourquoi pas ?» à atterrir une deuxième fois, en une heure elle fut réparée !</p>
+        <p>Il y avait quinze heures que le départ de la course avait été donné, lés jeunes gens ne se sentaient aucunement fatigués, mais il leur tardait de revoir les baraques d'Aéroville qui leur paraissaient être le monde civilisé.</p>
+        <p>Enfin, vingt-quatre heures exactement après son départ, le « Pourquoi pas? » vint atterrir devant son hangar à Aéro-ville.</p>
+        <p>Les membres de l'Aéro-Club s'empressèrent très émus, toute la population aussi.</p>
+        <p>Au premier rang, Pierre Lathon distingua Alphonse Dicquez, Nito, qui avaient abandonné la coursé.</p>
+        <p><corr>Fiévreusement</corr>, il dit qu'il avait réussi dans sa tentative, et ce fut un enthousiasme indescriptible.</p>
+        <p>Charly-Boissette entraîna Lucien Golfech :</p>
         <p>— Mon cher docteur, avez-vous fait ample moisson ?</p>
-        <p>— Oui, mais je vous demanderai d'aller me coucher, je suis brisé 1</p>
-        <p>Loniam ne voulut aller prendre du éoiti- meil qu'après avoir fait rentrer leglorieux « Pourquoi pas? » dans l'ateliér.</p>
-        <p>Quant à Pierre Lathon, il attendait avec angoissé lé retour de Johson Fabèr, akretour se produisit cinq heures après.</p>
-        <p>il donna lieu à une nouvelle ovation. Nicolas Weiner fit son apparition dix heures seulement plus tard.</p>
+        <p>— Oui, mais je vous demanderai d'aller me coucher, je suis brisé !</p>
+        <p>Loniam ne voulut aller prendre du sommeil qu'après avoir fait rentrer le glorieux « Pourquoi pas? » dans l'atelier.</p>
+        <p>Quant à Pierre Lathon, il attendait avec angoissé lé retour de Johnson Faber, ce retour se produisit cinq heures après.</p>
+        <p>Il donna lieu à une nouvelle ovation. Nicolas Weiner fit son apparition dix heures seulement plus tard.</p>
         <p>Johnson Faber était radieux.</p>
         <p>— Mon cher ami, dit-il à Pierre Lathon, je suis heureux d'être parvenu au Pôle, mais je suis encore plus heureux que vous ayez gagné le prix.</p>
-        <p>Pierre Lathon tendit la main à son futur beau-père:</p>
+        <p>Pierre Lathon tendit la main à son futur beau-père :</p>
         <p>— Merci, lui dit-il, je tiens à vous annoncer que je veux partager ce prix également entre mes collaborateurs et moi !</p>
         <p>« Ils ont été à la peine, il est juste qu'ils aient une rémunération autre que le simple honneur de m'accompagner.</p>
-        <p>« Je compte aussi dédommager mes monteurs et mes mécaniciens des peines prises ici par eux... Le dévouement de ces braves gens m'a été précieux. Et maintenant, monsieur Faber, rentrons vite en France, j'ai hâte... oh oui, j'ai hâte de voua ravir Nelly...</p>
+        <p>« Je compte aussi dédommager mes monteurs et mes mécaniciens des peines prises ici par eux... Le dévouement de ces braves gens m'a été précieux. Et maintenant, monsieur Faber, rentrons vite en France, j'ai hâte... oh oui, j'ai hâte de vous ravir Nelly...</p>
         <p>— Elle vous aime tant ! dit l'aviateur, anglais.</p>
         <p>~ Est-ce vrai, Nelly ? demanda Lathon en se tournant vers sa fiancée.</p>
         <p>— Oh oui Pierre ! déclara la jeune fille.</p>
         <p>... Puis, comme il lui souriait avec tendresse, elle se jeta dans ses bras et ils s'étreignirent longuement.</p>
-        <p>Jehan Gilbert...</p>
       </div>
+      <trailer>Jehan Gilbert...</trailer>
     </body>
   </text>
 </TEI>
