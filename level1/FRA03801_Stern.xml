@@ -69,6 +69,7 @@
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-10-01">File created</change>
       <change when="2019-10-16">upgrade to ELTeC-1</change>
+      <change when="2020-04-01">Fixed tokenization and spelling.</change>
     </revisionDesc>
   </teiHeader>
   <text>
