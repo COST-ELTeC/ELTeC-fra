@@ -24,18 +24,18 @@
       <publicationStmt>
         <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
         <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2019-11-04"/>
+        <date when="2019-11-04" />
         <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
         <!--First ElTeC edition 2019-10-01 -->
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <title>Herve</title>
           <author>Daniel Stern</author>
-          <ref target="http://www.gutenberg.org/ebooks/26863"/>
+          <ref target="http://www.gutenberg.org/ebooks/26863" />
           <date>2008-10-10</date>
         </bibl>
         <bibl type="printSource">
@@ -52,17 +52,17 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <language ident="fra"/>
+        <language ident="fra" />
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -87,8 +87,10 @@
         <p>À vous, qui êtes mon ami.</p>
       </div>
     </front>
+
     <body>
       <div type="chapter">
+
         <head>I</head>
         <p>Au mois de septembre 1832, une voiture de poste entrait à l'hôtel Meurice ; une femme jeune et remarquablement belle était seule dans cette voiture. On l'attendait. En la conduisant à l'appartement retenu pour elle, le maître de l'hôtel lui remit une lettre ; elle la saisit vivement, en brisa le cachet et lut ce qui suit :</p>
         <p>
@@ -162,6 +164,7 @@
         <p>« Éliane vint chez moi le 28 février, à une heure du matin ; je n'ai jamais oublié cette date.»</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>« Lorsqu'à la lueur des candélabres dont les branches sortaient du milieu d'arbustes en fleurs, elle entrevit ces apprêts de notre tête-à-tête, ce luxe fantasque prodigué à elle seule, dans un pauvre petit réduit où elle n'avait compté trouver que l'ameublement modeste d'un étudiant, elle fut surprise, sa vanité fut à tel point flattée, qu'elle ne trouva de paroles ni pour me remercier ni pour me gronder. Par un mouvement prompt, elle dénoua son masque et laissa glisser à terre son domino. En voyant son charmant visage illuminé de joie, ses épaules et ses bras nus se dégager des plis noirs du satin, j'eus un moment de vertige. Elle était si blanche, sa robe étroite et collante dessinait une taille si svelte, ses grands yeux m'éblouissaient de tant de flammes, que je crus voir une apparition, la reine des ondines ou la fée Titania. Elle s'aperçut sans doute que mon imagination s'exaltait, et que j'étais sur une pente où bientôt il ne lui serait pas facile de m'arrêter, car elle employa sa ruse habituelle pour me contenir. Elle se hâta de me parler avec vivacité, avec enjouement, et même avec une pointe d'ironie ; elle poussa la cruauté jusqu'à critiquer mon tapis d'hermine, et jusqu'à prétendre qu'une plante de gardénia, qui se trouvait auprès de la chaise longue où elle s'était couchée, lui causait un mal de tête affreux.</p>
         <p>Enfin elle me tourmenta, me harcela, m'irrita, me dérouta si bien, que je ne pensais plus à lui proposer de souper, lorsque tout à coup elle s'élança de son repos, et courant s'asseoir à table elle se prit à manger avec un appétit merveilleux. Je restais là mécontent, confus de mon personnage, me sentant gauche et le devenant de plus en plus. Elle en arriva à vouloir me faire trouver notre situation plaisante, alors je ne me contins pas. Dans la disposition romanesque où je me trouvais, la raillerie m'était odieuse ; nous nous disputâmes assez vivement : je me souviens de tous ces détails comme si c'était hier ; enfin elle me tendit la main ; nous fîmes une espèce de paix ; nous achevâmes gaiement notre petit souper. Deux heures s'étaient passées dans ces conversations à demi hostiles ; elle se plaignit d'une extrême fatigue, et se recouchant sur la chaise-longue, elle ne tarda pas à fermer les yeux et à s'endormir.</p>
@@ -202,6 +205,7 @@
         <p>« Je le suivis.»</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p>« En descendant les degrés du perron, Marcel me dit d'un accent bref : «--Le ton que vous venez de prendre avec ma sœur ne me convient pas, monsieur ; j'ignore ce que vous lui avez dit et je n'ai pas souci de l'apprendre ; mais votre air railleur m'a déplu et je vous prie de vouloir bien m'expliquer...</p>
         <p>« -- Je ne donne point d'explication des airs que je puis avoir, interrompis-je,ayant hâte d'en venir à un cartel, prenez-les comme bon vous semblera.</p>
@@ -241,6 +245,7 @@
         <p>Je pensai à Marcel et j'envoyai savoir de ses nouvelles. Au bout d'une demi-heure, on revint me dire qu'on était assez inquiet, que le comte avait passé une nuit détestable, qu'une fièvre très-forte s'était déclarée le matin, et qu'un second médecin venait d'être appelé. Les gens de la maison croyaient, ajouta mon domestique, que le chirurgien qui avait fait les premiers pansements s'était trompé, et que la blessure était bien plus grave qu'on ne l'avait craint d'abord. Un peu secoué par ces nouvelles, je voulus aller moi-même savoir l'exacte vérité, mais une défaillance de cœur me prit encore. Après avoir renvoyé mon domestique, je me laissai tomber sur mon fauteuil. « Éliane ! m'écriai-je douloureusement, Éliane !...» À l'instant même, et comme si elle eût pu m'entendre, elle ouvrait ma porte et je la vis devant moi. »</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
         <p>« Frappée sans doute de ma pâleur et du bouleversement de mes traits : --Qu'avez-vous, Hervé? s'écria-t-elle, m'aurait-on trompée ?...</p>
         <p>Seriez-vous blessé? Pourquoi ne m'avoir pas écrit ? Pourquoi n'être pas venu ?</p>
