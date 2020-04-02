@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03003" xml:lang="fr">
   <teiHeader>
@@ -16,69 +16,60 @@
       </titleStmt>
       <extent>
         <measure unit="words">50561</measure>
-        
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          PG,
-          <date>2009</date>
-          ,
-          <idno>18073</idno>
-          ,
-          
-          .
-        </bibl><bibl type="printSource">
-          Ollendorff,
-          <date>1903</date>
-          ,
-          <idno/>
-          ,
-          
-          .
-        </bibl><bibl type="firstEdition">
-          <date>1892</date>
-          -1894,
-          <idno/>
-          ,
-          
-          .
-        </bibl></sourceDesc>
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource"> PG, <date>2009</date> , <idno>18073</idno> , . </bibl>
+        <bibl type="printSource"> Ollendorff, <date>1903</date> ,
+          <idno /> , . </bibl>
+        <bibl type="firstEdition">
+          <date>1892</date> -1894,
+          <idno /> , .
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-08-15">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="group">
-        <p>
-          <label>PREMIÈRE PARTIE</label>
-        </p>
+
+        <head>PREMIÈRE PARTIE</head>
         <div type="chapter">
+
           <head>I</head>
-          <p>
-            Rue de Châteaudun, sur la façade d'un des immeubles qui avoisinent les jardins, derniers vestiges des seigneuriales demeures où habitèrent Talleyrand et la reine Hortense, se lit, sur une plaque de marbre, cette inscription:
-            <hi>Banque de l'Alimentation---Vernier-Mareuil</hi>
-            . Cette maison, hautement estimée dans le commerce, porte les noms de deux hommes très connus dans le monde parisien pour leur soudaine et rapide ascension vers la grande fortune. En vingt ans, Vernier et son beau-frère Mareuil, partis de rien, sont arrivés à tenir une place prépondérante à la Bourse, et les banques les plus solides sont obligées de compter avec eux. Par l'alimentation, ils étendent leur influence sur le négoce des vins, des eaux-de-vie et des liqueurs, et enlacent le Midi tout entier sous les mailles d'un gigantesque filet dont ils tiennent la corde dans leurs bureaux de la rue de Châteaudun.
-          </p>
+          <p>Rue de Châteaudun, sur la façade d'un des immeubles qui avoisinent les jardins, derniers vestiges des seigneuriales demeures où habitèrent Talleyrand et la reine Hortense, se lit, sur une plaque de marbre, cette inscription: <hi>Banque de l'Alimentation---Vernier-Mareuil</hi> . Cette maison, hautement estimée dans le commerce, porte les noms de deux hommes très connus dans le monde parisien pour leur soudaine et rapide ascension vers la grande fortune. En vingt ans, Vernier et son beau-frère Mareuil, partis de rien, sont arrivés à tenir une place prépondérante à la Bourse, et les banques les plus solides sont obligées de compter avec eux. Par l'alimentation, ils étendent leur influence sur le négoce des vins, des eaux-de-vie et des liqueurs, et enlacent le Midi tout entier sous les mailles d'un gigantesque filet dont ils tiennent la corde dans leurs bureaux de la rue de Châteaudun. </p>
           <p>Ils ont établi, pour lutter contre la mévente des vins, un système de prêts sur warrants qui met en leur dépendance tous les viticulteurs de France embarrassés dans leurs affaires. Il est juste de dire qu'ils n'abusent pas de cette puissance formidable, qu'ils ne l'exercent qu'au profit de leurs adhérents, et se bornent, en ce qui les concerne, à se procurer dans des conditions avantageuses les alcools qui leur servent à fabriquer les apéritifs célèbres avec la vente desquels ils ont commencé leur fortune. A la Bourse du Commerce, Vernier-Mareuil sont aussi glorieusement connus, traités avec autant de respectueuse déférence que Rothschild, à la Bourse des Valeurs. Ils sont, au point de vue spécial de l'alimentation, de véritables potentats. Et quand on a dit d'une spéculation: «Les Vernier-Mareuil en sont», il n'y a plus qu'à s'incliner devant la réussite certaine.</p>
           <p>Vernier n'avait pas eu des commencements brillants. Après son service militaire, fait, tant bien que mal, dans un régiment de ligne, à Courbevoie, il était entré, à vingt-quatre ans, chez un marchand de vins du quai de Bercy, qui l'avait initié à tous les mystères de la science œnophile. Il avait, pendant quelques mois, manié le campèche, l'acide tartrique, et fabriqué des tonnes de vin, dans lesquelles l'eau de la Seine entrait pour plus que le jus de la vigne. Le commerce lui avait paru si facile et si simple qu'il avait rêvé de l'exercer pour son propre compte. Il avait loué une petite boutique avenue de Tourville, près de l'École militaire, et s'était mis à pratiquer la falsification des boissons avec autant de suite que de succès.</p>
           <p>Mais bientôt la vente du vin, dans lequel il n'y avait pas de vin, lui parut sans intérêt. Il rêva de doter l'ivrognerie nationale d'un produit personnel, et comme ses études en l'art de frelater les liquides lui avaient donné quelques notions de chimie, il se décida à créer un apéritif. Ce n'était encore qu'un «Prunelet», à base d'alcool à quatre-vingt-dix degrés, qui faisait dresser les cheveux sur la tête à tout homme sain, mais procurait une douce sensation de chaleur dans la gorge de tout pochard invétéré. Or, ce n'était que pour les pochards que Vernier-Mareuil travaillait.</p>
@@ -214,6 +205,7 @@
           <p>Ils se séparèrent avec une poignée de main. C'était ainsi que leurs querelles finissaient toujours. Cependant la vente des produits de la maison Vernier-Mareuil, l'extension des affaires de warrantage, les bénéfices de la Banque avaient pris de telles proportions que Vernier s'était fait construire place Malesherbes un hôtel seigneurial, et qu'il avait fini par considérer comme absolument insignifiantes les dépenses que sa femme faisait chez les couturiers les plus chers de Paris, et les dettes que contractait Christian pour les beaux yeux d'Étiennette Dhariel.</p>
         </div>
         <div type="chapter">
+
           <head>II</head>
           <p>C'était une des créatures les plus dangereuses à rencontrer pour un fils de famille, que la charmante rousse qui s'était emparée de Christian Vernier-Mareuil. Elle avait commencé par être mannequin chez Doucet, et avait tourné, marché, viré, sous l'œil des clientes pour faire admirer les modèles nouveaux. Un coup de cœur pour un cabotin des Variétés, à figure simiesque et qui pourtant avait des bonnes fortunes étonnantes, l'avait conduite sur les planches. Là, sa beauté, sa grâce et la splendeur de sa chevelure dorée avaient séduit le jeune Goldscheider, qui l'avait mise dans ses meubles. En un an, Étiennette avait fait dépenser de telles sommes au petit baron que la caisse de son père, cependant solide, en avait été ébranlée. La belle, partie d'un appartement rue Pasquier et d'une voiture en location, en était arrivée, dans les douze mois, à un hôtel avenue du Bois de Boulogne, lui appartenant par contrat, avec, dans son salon, le fameux mobilier en tapisserie des Gobelins du prince de Thurigny, payé cent quinze mille francs chez Wertheimer.</p>
           <p>Quant à ses équipages, ils rivalisaient avec ceux des plus brillantes écuries de la capitale. Elle avait pris à son service le piqueur de lord Bloodberry, que ce grand seigneur avait trouvé trop cher pour lui. Cette mangeuse, qui savait si bien faire payer les hommes, possédait au même degré l'art de se constituer des rentes. Elle montrait dans la tenue de sa maison une économie intelligente, qui, tout en laissant à son luxe un éclat incomparable, lui permettait chaque mois des placements sérieux. De Goldscheider, elle avait passé à Pierre Thuraux, le vermicellier millionnaire. Celui-là n'avait duré que six mois. Puis elle avait mis la main sur Sir Julius Harvey, qui dirigeait à Paris le trust du caoutchouc pour le monde entier. L'ennui profond que lui causait sa liaison avec le richissime Américain l'avait entraînée à un caprice pour le loustic Clamiron, prince des fumistes parisiens. Mais les caprices d'Étiennette n'étaient jamais gratuits et Clamiron avait été attelé en volée au char de la belle, pendant que Harvey tirait dans les brancards.</p>
@@ -325,13 +317,7 @@
           <p>--Elle vaut bien la tienne, où on vole avec des gants blancs et où on assassine avec des sourires.</p>
           <p>--C'est égal, je voudrais voir Mme Mauduit, le «rigolo» à la main, faisant la partie du Costeau avec son «lingue». Ça doit être un coup d'œil peu ordinaire!</p>
           <p>--Mon petit, si Mme Mauduit voulait te raconter sa vie, et si tu étais fichu d'écrire quatre lignes en français, tu pourrais faire un feuilleton, avec lequel tu dégoterais les maîtres du genre....</p>
-          <p>
-            --
-            <hi>Les Mémoires d'une Manucure?</hi>
-            Fameux! Il faudra que j'en parle à Clamiron, qui connaît quelqu'un à la
-            <hi>Revue des Deux-Mondes</hi>
-            .
-          </p>
+          <p> -- <hi>Les Mémoires d'une Manucure?</hi> Fameux! Il faudra que j'en parle à Clamiron, qui connaît quelqu'un à la <hi>Revue des Deux-Mondes</hi> . </p>
           <p>Il n'en restait pas moins dans l'esprit de Christian, malgré ses railleries, que Mlle Dhariel était une personne avec laquelle il ne fallait pas badiner, et que, dans sa vie passée, grouillaient de mystérieux personnages, capables de jouer du couteau et du revolver avec une dangereuse facilité.</p>
           <p>Il y avait plus de deux ans que le malheureux garçon était dans les mains de cette coquine, et, chaque jour, il descendait plus bas dans la dégradation physique et l'affaiblissement intellectuel, lorsque la circonstance la plus imprévue bouleversa les plans d'Étiennette, et parut devoir assurer le salut de Christian. Mlle Dhariel, comme tous les ans, ayant manifesté le désir d'aller passer les mois de juillet et d'août au bord de la mer, Christian s'était mis en quête d'une villa à louer. Un agent lui avait indiqué une vaste et luxueuse propriété à Tourgeville, entre Deauville et Villers. L'habitation comptait de nombreuses chambres, ce qui facilitait le séjour des amies d'Étiennette et des familiers de Christian. Les communs, très vastes, permettaient d'installer des chevaux, des voitures, et les indispensables automobiles. Vernier-Mareuil, lui, habitait Deauville, ce qui ne paraissait nullement gêner ni son fils, ni Étiennette.</p>
           <p>Les premières semaines s'étaient écoulées assez tranquillement. Christian, ranimé par l'air de la mer, avait retrouvé des forces nouvelles. Il sillonnait les routes de l'arrondissement dans son phaéton de vingt chevaux, et, la plupart du temps, seul avec son chauffeur, car Mlle Dhariel avait constaté que le fouettement de l'air lui irritait la figure, et elle n'était pas femme à sacrifier son hygiène à un caprice de Christian. Alors, pris du vertige de la vitesse, sur ces belles et larges routes de Normandie, le jeune homme faisait du soixante à l'heure, et roulait comme un ouragan, à travers les villages, laissant derrière lui un nuage de poussière, les mugissements de sa trompe et l'infection du pétrole.</p>
@@ -388,11 +374,7 @@
           <p>--Dans le boudoir de Madame.</p>
           <p>--Bien. Dites que j'y vais.</p>
           <p>Clamiron, du fond de son fauteuil, gouailla sans même bouger:</p>
-          <p>
-            --
-            <hi>Dame aux camélias</hi>
-            ---acte 3---scène du père Duval.... Chouette!
-          </p>
+          <p> -- <hi>Dame aux camélias</hi> ---acte 3---scène du père Duval.... Chouette! </p>
           <p>--Tiens! tu ne roupilles plus, toi?</p>
           <p>--J'ai déclos mes paupières pour assister à ta joie. Tu as vraiment l'air d'être dans le délire du bonheur.</p>
           <p>Étiennette se regarda dans la glace. Elle était fort pâle.</p>
@@ -439,6 +421,7 @@
           <p>--C'est ce qu'on verra!</p>
         </div>
         <div type="chapter">
+
           <head>III</head>
           <p>Le lendemain matin, le docteur Augagne éveilla Christian en entrant dans sa chambre. Le soleil dorait les feuillages des pommiers, et les vaches paissaient lourdement l'herbe drue. La fenêtre ouverte laissa entrer un air tiède, et le parfum des luzernes en fleurs. Depuis bien des nuits, le fils de Vernier n'avait si longtemps ni si bien dormi. Il avait le teint clair et la figure reposée:</p>
           <p>--Ça vous réussit d'avoir la jambe cassée! dit le docteur à son malade. Il y a beau jour que je ne vous ai vu une mine pareille. Si votre père vous voyait, il serait agréablement surpris....</p>
@@ -497,14 +480,10 @@
           <p>--Eh! mon ami, tous ces gens-là boivent, ou recrutent leurs partisans parmi ceux qui boivent....</p>
           <p>--Tout le monde alors! Voyons, docteur, il y a un peu de manie dans votre cas.... Vous ne voyez que des alcooliques, comme d'autres de vos confrères ne voient que des aliénés.... Depuis que le vieux Noé s'est oublié dans les vignes, on use du jus de la grappe.... L'humanité s'est cependant développée et a fait de grandes choses.... Si vous vouliez chercher dans l'histoire les hommes illustres qui ont été des buveurs émérites, la liste en serait longue. Vous y trouveriez des philosophes, des poètes, des savants, des hommes d'état, des hommes de guerre, des hommes d'église, et même des médecins....</p>
           <p>--Jamais de médecins!</p>
-          <p>
-            --Allons donc! Vous pratiquez admirablement le
-            <hi>sic vos non vobis</hi>
-            .... Et les excès que vous défendez à un client, vous vous les permettez parfaitement à vous-mêmes.... C'est comme pour le tabac. Ne fumez pas!... Et, en sortant, le médecin allume son cigare dans l'escalier.... Allons, allons! Ne soyez pas plus rigoriste qu'il ne faut! Et, pour ce qui me concerne, rassurez-vous: tout n'a qu'un temps. Je serai probablement sobre la semaine ou l'année prochaine.
-          </p>
+          <p> --Allons donc! Vous pratiquez admirablement le <hi>sic vos non vobis</hi> .... Et les excès que vous défendez à un client, vous vous les permettez parfaitement à vous-mêmes.... C'est comme pour le tabac. Ne fumez pas!... Et, en sortant, le médecin allume son cigare dans l'escalier.... Allons, allons! Ne soyez pas plus rigoriste qu'il ne faut! Et, pour ce qui me concerne, rassurez-vous: tout n'a qu'un temps. Je serai probablement sobre la semaine ou l'année prochaine. </p>
           <p>--Oui, à Pâques ou à la Trinité!</p>
           <p>--En attendant, faites-moi donner à boire, car vous m'avez fait parler, et cela m'a desséché le gosier....</p>
-          <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+          <milestone type="subChapter" rend="asterisk" unit="asterisk" />
           <p>--De la tisane?...</p>
           <p>--Non, du grog....</p>
           <p>--Alors très léger?</p>
@@ -637,6 +616,7 @@
           <p>Elle eut l'adresse de sentir que c'était le moment précis où elle devait disparaître, afin de laisser Christian sous une impression excellente. Elle ne fit pas une tentative pour se rapprocher de lui. Elle se tint à distance, et marchant vers le saut de loup, elle le franchit avec prestesse. De l'autre côté, au bord de la route, elle approcha ses doigts de sa bouche et, sans un mot, avec un seul baiser accompagné d'un regard de ses yeux bleus, elle lui dit adieu. Il la vit poser la main sur le guidon de sa bicyclette et, la poussant devant elle, disparaître derrière les arbres. Le bruit du grelot tinta dans le silence, rythmant le départ de la maîtresse autrefois si puissante, s'affaiblit peu à peu, et cessa. Il sembla à Christian que toutes les attaches mauvaises qui le liaient encore à son passé venaient de se rompre. Il tendit l'oreille pour percevoir le bruit lointain du grelot. Il ne l'entendit plus et pensa qu'il était débarrassé d'Étiennette pour toujours.</p>
         </div>
         <div type="chapter">
+
           <head>IV</head>
           <p>Lorsque Christian revint à Deauville, il était accompagné de la famille Harnoy. Il avait paru à Vernier que la plus élémentaire convenance exigeait qu'il rendît aux hôtes de son fils leur hospitalité. L'ancien liquoriste était allé, la veille, faire visite à Mlle Étiennette Dhariel et lui avait remis un chèque qui devait, suivant lui, apaiser complètement sa douleur. En échange de la somme, il avait réclamé le départ de la jolie fille pour Paris. Elle avait acquiescé à ces exigences, sans faire la moindre observation. Le terrain était donc parfaitement déblayé de tout obstacle, quand le convalescent reparut chez son père. L'oncle Mareuil était arrivé de la veille. Vernier avait tenu particulièrement à avoir l'opinion de son beau-frère sur la famille Harnoy. L'idée se précisait dans l'esprit de Vernier que le changement radical survenu dans les habitudes de Christian était dû à l'influence de la gentille Geneviève. Et comme il avait pour règle de conduite de ne jamais rien négliger de ce qui pouvait être utile, il songeait déjà à tirer parti de cette autorité pour obtenir la conversion définitive de son fils. Mais comment?</p>
           <p>Emmeline, qui abordait toujours franchement les situations, le lui avait dit tout net:</p>
@@ -746,7 +726,7 @@
           <p>--Oh! pas grand chose de très mal. Mais rien de très bien. C'est l'inutilité néfaste de la jeunesse oisive, avec tout ce qui s'ensuit. Il n'a pas eu l'inconvenance de me le raconter, mais je l'ai clairement compris. M. Christian Vernier est un viveur, très blasé, très ennuyé, très disposé à faire des sottises par désœuvrement; avec cela, entouré de gens qui le flattent et l'exploitent, en le poussant aux pires actions.</p>
           <p>--Malheureuse enfant! s'écria M. Harnoy. Quelle clairvoyance inattendue possèdes-tu donc, pour avoir deviné toutes ces choses qui m'ont échappé à moi, et qui n'ont pas frappé ta mère? Car, hier soir, elle ne tarissait pas d'éloges sur la famille Vernier, et sur Christian lui-même! Mais enfin, pendant trois semaines, nous l'avons eu sous notre toit, ce garçon. Nous avons pu le connaître. Il est charmant, doux, facile. Et brusquement, si je t'en croyais, il se changerait en un être malfaisant et redoutable! Ma fille, tu as un défaut immense: tu es exagérée. Tu grossis les choses avec des préoccupations imaginaires. Je crois que ta mère et moi nous ne sommes pas des imbéciles. Eh bien! nous n'avons aucune des craintes que tu ressens. Et, si tu épousais le fils Vernier nous pourrions envisager l'avenir sans aucun souci. Et ce serait un bien grand soulagement pour nous!</p>
           <p>--Crois, mon cher père, que je ferai tout ce que je pourrai pour te contenter, sans aller cependant jusqu'à compromettre ma sécurité.</p>
-          <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+          <milestone type="subChapter" rend="asterisk" unit="asterisk" />
           <p>--Allons! c'est bien! je ne t'en demande pas davantage. D'ailleurs, tu auras le temps de réfléchir, de consulter.</p>
           <p>--C'est bien mon intention.</p>
           <p>--Mais qui? Nous ne connaissons personne dans l'entourage de la famille Vernier.</p>
@@ -889,6 +869,7 @@
           <p>Et, souriante, elle rentra dans le salon.</p>
         </div>
         <div type="chapter">
+
           <head>V</head>
           <p>Étiennette Dhariel, dans son magnifique cabinet de toilette, était fort occupée à se tirer les cartes, lorsque Mme Mauduit, sa manucure, vêtue ainsi qu'une bourgeoise cossue, un sac noir à la main, entra sans être annoncée, comme chez elle.</p>
           <p>--Bonjour, Nénette, dit la manucure en posant son sac sur un canapé Louis XVI foncé de canne dorée, tu vas bien, ce matin?</p>
@@ -1060,11 +1041,7 @@
           <p>Puis il fit asseoir Christian, se plaça à côté de lui, et se tournant vers le maître d'hôtel, il cria:</p>
           <p>--Que la fête commence!</p>
           <p>Ils étaient douze, tous connus sur le pavé de Paris. Le plus vieux comptait trente ans. Il y avait déjà deux divorcés dans le nombre, et cinq jouissaient de conseils judiciaires, ce qui ne les empêchait pas de se ruiner, bien au contraire, les usuriers étant devenus leur suprême recours. Presque aucun de ces brillants seigneurs n'avait fait de folies pour les femmes. La passion n'était point leur affaire. Ils s'adonnaient aux sports, se livraient à de grandes dépenses de vigueur, mangeaient et buvaient solidement, mais méprisaient l'amour, qui leur paraissait beaucoup trop énervant. La plupart étaient joueurs, et c'était sur les tables des cercles ou aux baraques du pari mutuel qu'ils laissaient leur argent.</p>
-          <p>
-            Génération très particulière et nouvelle en France, qui n'avait plus rien de la fougueuse spontanéité de l'espèce, se montrait très pratique, très avertie, très froide, et d'une férocité d'égoïsme indicible. Ces gaillards-là étaient bien incapables d'aller chez le bijoutier acheter une parure ou un bracelet pour donner à une jolie fille, mais ils ne dédaignaient pas de s'offrir à eux-mêmes des boutons de chemises en pierres précieuses, des épingles et des coulants de cravate somptueux, des chaînes de montre variées, pour toutes les circonstances de la vie, des cannes à monture d'or, et des bagues qui faisaient étinceler leurs mains à chaque geste. Curieux de sensations imprévues, jusqu'à la manie, ils réalisaient dans toute son intégrité le type du
-            <hi>snob</hi>
-            , plein d'admirations factices, qui court avec empressement au divertissement à la mode, et s'en régale pendant le temps qu'il sera bon genre de s'y amuser. Race inquiétante qui a contribué à pervertir le goût, par la bassesse instinctive de ses tendances et par une recherche de tout ce qui était outrancier dans la vulgarité, comme si sa veulerie blasée avait besoin d'être excitée par des sensations ordurières. Mais toujours regardant, jamais agissant, voyeuse émasculée de la décadence, incapable d'un sursaut viril, dans son avachissement progressif.
-          </p>
+          <p> Génération très particulière et nouvelle en France, qui n'avait plus rien de la fougueuse spontanéité de l'espèce, se montrait très pratique, très avertie, très froide, et d'une férocité d'égoïsme indicible. Ces gaillards-là étaient bien incapables d'aller chez le bijoutier acheter une parure ou un bracelet pour donner à une jolie fille, mais ils ne dédaignaient pas de s'offrir à eux-mêmes des boutons de chemises en pierres précieuses, des épingles et des coulants de cravate somptueux, des chaînes de montre variées, pour toutes les circonstances de la vie, des cannes à monture d'or, et des bagues qui faisaient étinceler leurs mains à chaque geste. Curieux de sensations imprévues, jusqu'à la manie, ils réalisaient dans toute son intégrité le type du <hi>snob</hi> , plein d'admirations factices, qui court avec empressement au divertissement à la mode, et s'en régale pendant le temps qu'il sera bon genre de s'y amuser. Race inquiétante qui a contribué à pervertir le goût, par la bassesse instinctive de ses tendances et par une recherche de tout ce qui était outrancier dans la vulgarité, comme si sa veulerie blasée avait besoin d'être excitée par des sensations ordurières. Mais toujours regardant, jamais agissant, voyeuse émasculée de la décadence, incapable d'un sursaut viril, dans son avachissement progressif. </p>
           <p>Et cette réunion de douze jeunes gens, sans femmes, dans ce salon de restaurant, était symptomatique de cet état moral et physique qui poussait toute une génération à une chasteté presque honteuse. Ils mangeaient et buvaient entre eux, joyeux viveurs dont la dégénérescence eût humilié les ancêtres. Mais ils buvaient et mangeaient ferme, car ils savaient ce qu'était la gastronomie et appréciaient à leur juste mérite les vins que le sommelier versait dans leurs verres. Le menu avait été soigneusement rédigé et les crus étaient de choix. Clamiron avait bien fait les choses, et le chef célèbre qui officiait avait su être à la hauteur de sa mission. Déjà les cailles en caisses apparaissaient escortées d'un Yquem 84, et Christian, qui faisait honneur au déjeuner, n'avait pas encore touché à son verre. Clamiron se pencha vers lui:</p>
           <p>--Tu vas avoir la pépie! Bois au moins de l'eau, si tu ne bois pas de vin.... Crains-tu qu'on ne t'ait versé du poison?</p>
           <p>Christian sourit, et prenant sa coupe à Champagne:</p>
@@ -1080,7 +1057,7 @@
           <p>Christian lui fit raison sans hésiter. Une légère rougeur monta à ses pommettes, une excitation soudaine tendit ses nerfs. Et comme Clamiron avait versé du vin dans la coupe reposée sur la table, le fiancé de Geneviève cria dans le bruit des verres tintant aux mains des convives:</p>
           <p>--Je vous en souhaite une pareille à chacun, mes petits!</p>
           <p>Et, sans qu'on l'y eût invité, il porta encore une fois la coupe à sa bouche. Ses yeux s'allumèrent, comme une lampe dont la flamme s'avive. Dans son cerveau purifié par une abstinence prolongée, un trouble soudain se manifesta. Machinalement, et comme retrouvant ses habitudes anciennes, il but de nouveau. Au milieu du tapage, parmi les interpellations qui s'échangeaient dans la chaleur de la pièce où flottaient les odeurs des mets et le bouquet des vins, il eut le sentiment qu'il se laissait entraîner à un danger certain. Il regarda autour de lui d'un air de défi, et ne vit que des physionomies souriantes, des yeux bienveillants, n'entendit que des rires. Nul dessein de lui nuire, le seul projet de se divertir entre soi, et bien tranquillement. Le dessert était servi, et la glace circulait autour de la table. Vertemousse avait même allumé une cigarette et fumait en contant ses exploits cynégétiques. Christian se rassura, mais il sentit que sa tête était déjà plus échauffée qu'il ne convenait, il se pencha vers Clamiron et lui dit:</p>
-          <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+          <milestone type="subChapter" rend="asterisk" unit="asterisk" />
           <p>--Fais-moi donc donner un verre d'eau.</p>
           <p>--Tout de suite.</p>
           <p>Pavé appela le maître d'hôtel et lui parla à voix basse. Celui-ci mit sur la table une bouteille qui avait la forme et la couleur d'une bouteille d'eau d'Evian, Christian prit la bouteille et emplit lui-même son verre. Puis, distraitement, il le vida aux trois quarts. Il lâcha un juron, reposa le verre si fort sur la table qu'il le brisa, et, d'un ton furieux, il cria:</p>
@@ -1118,6 +1095,7 @@
           <p>--A la maison.</p>
         </div>
         <div type="chapter">
+
           <head>VI</head>
           <p>L'hôtel Vernier-Mareuil, ce soir-là, flamboyait, par toutes ses fenêtres, dans la nuit. Sur la place Malesherbes, une foule, difficilement contenue par un service d'ordre, se pressait aux abords de la porte cochère pour voir entrer les voitures amenant chez le grand industriel la fleur du Paris élégant, riche et titré. Un brouhaha joyeux saluait le passage des femmes éclairées brusquement, au fond de leurs voitures, par les lampadaires, élevés de chaque côté du large trottoir. La file des coupés et des landaus se succédait, lente et solennelle, s'engouffrant, avec des roulements sourds, dans la cour verdoyante et fleurie, rayonnante de lumière électrique, comme une scène de théâtre pour l'apothéose d'une féerie.</p>
           <p>Sur chaque marche du haut perron, surmonté d'une marquise dorée, se tenait un valet de pied immobile dans sa livrée rouge, bas de soie et chevelure poudrée. Dans le vestibule, les maîtres d'hôtel, en habit noir à la française, faisaient la haie devant la porte du vestiaire. Et c'était sur le dallage de marbre une suite ininterrompue de couples souriants et compassés, femmes vêtues de leurs élégants manteaux de bal, coiffées de fleurs, maris ou pères enveloppés dans leurs fourrures, et se saluant, causant, dans la sonorité de l'orchestre qui recouvrait, de ses ondes harmonieuses, le roulement incessant des voitures.</p>
@@ -1299,8 +1277,8 @@
       </div>
     </body>
     <back>
-      <div type="notes"/>
-      <div type="liminal"/>
+      <div type="notes" />
+      <div type="liminal" />
     </back>
   </text>
 </TEI>

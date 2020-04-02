@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02402" xml:lang="fr">
   <teiHeader>
@@ -24,12 +24,12 @@
         --></publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           Bibliothèque électronique du Québec,
-         
+
           <ref target="http://beq.ebooksgratuits.com"/>
           .
         </bibl><bibl type="firstEdition">
           <date>1900</date>
-          
+
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
@@ -54,9 +54,7 @@
   <text>
     <body>
       <div type="chapter">
-        <p>
-          <label>I -- Le mariage d'une milliardaire</label>
-        </p>
+        <head>I -- Le mariage d'une milliardaire</head>
         <p>-- Crois-tu que je puisse jamais accepter pour toi un tel mariage ? s'écria William Boltyn, en abattant son poing fermé sur la table du salon dans lequel il prenait le thé avec sa fille, miss Aurora... Un Européen ! continua-t-il, et le pire de tous, l'espion de Mercury's Park ! Voilà l'homme que tu veux épouser !... Tes prétentions sont par trop insensées. Je crois avoir assez fait, vraiment, pour ce Coronal, en lui sauvant la vie, en lui rendant la liberté, alors que je pouvais le faire exécuter sommairement... Cette folie me coûtera cher sans doute... Mais je trouve que cela suffit.</p>
         <p>Un silence glacial suivit les paroles du milliardaire yankee.</p>
         <p>Miss Aurora ne semblait pas disposée à répondre.</p>
@@ -191,9 +189,7 @@
         <p>Pendant ce temps, dans son cabinet de travail, William Boltyn, le père de la jeune épouse d'Olivier Coronal, donnait libre cours à sa mauvaise humeur, et prononçait contre l'Europe et les Européens, les plus redoutables menaces.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II -- Le Bellevillois chez ses hôtes</label>
-        </p>
+        <head>II -- Le Bellevillois chez ses hôtes</head>
         <p>À quelques kilomètres de la petite ville, non loin de Salt Lake City, chez les braves fermiers canadiens qui l'avaient recueilli blessé sur la route, Léon Goupit, l'ancien domestique d'Olivier Coronal, achevait de se rétablir.</p>
         <p>La généreuse hospitalité des Tavernier ne s'était pas démentie un seul instant.</p>
         <p>Ils avaient soigné Léon avec dévouement, comme ils l'eussent fait pour un de leurs enfants.</p>
@@ -272,9 +268,7 @@
         <p>Et cette simple phrase résumait bien toute son admiration, toute sa reconnaissance pour les braves gens qui lui avaient sauvé la vie, qui l'avaient recueilli, blessé, sous leur toit, et l'avaient soigné avec autant de sollicitude que s'il eût été un de leurs propres enfants.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III -- Pacific Railway</label>
-        </p>
+        <head>III -- Pacific Railway</head>
         <p>Le train avait décidément du retard.</p>
         <p>Depuis plus d'une heure, le Bellevillois, revenu dans la salle d'attente, se promène de long en large, en jetant des regards impatients sur le cadran de l'horloge pneumatique.</p>
         <p>
@@ -430,9 +424,7 @@
         <p>Mais lui, sans s'inquiéter autrement de la stupéfaction générale, développa son paquet, en tira un superbe poulet rôti qu'il installa sur une assiette, et repoussant avec un air méprisant la pinte de bière qui se trouvait devant lui, il fit prestement sauter le bouchon d'une bouteille qu'il avait emportée et se versa majestueusement une rasade de cidre mousseux.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV -- Un pickpocket qui joue de malheur</label>
-        </p>
+        <head>IV -- Un pickpocket qui joue de malheur</head>
         <p>Il faisait nuit lorsque le Bellevillois débarqua à Ottega.</p>
         <p>Sa légère valise à la main, son plaid et sa musette en bandoulière, il s'en alla lui-même à la recherche d'un hôtel pour y passer la nuit.</p>
         <p>« Demain, se disait-il, je verrai à prendre mes renseignements, à savoir de quel côté je dois me diriger. D'après les notes de cet animal de Bob Weld, Mercury's Park est à cent vingt milles d'ici. Je trouverai bien quelqu'un qui m'indiquera le chemin. »</p>
@@ -643,9 +635,7 @@
         <p>Et Léon sourit à cette idée, en appuyant avec frénésie sur la sonnerie du Grand Hôtel d'Ottega, où il était descendu.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V -- Irlandaise et gamin de Paris</label>
-        </p>
+        <head>V -- Irlandaise et gamin de Paris</head>
         <p>Le lendemain, c'est avec plus de soin qu'à l'ordinaire que Léon Goupit procéda à sa toilette.</p>
         <p>Quoique avec son scepticisme gouailleur il ne voulût pas en convenir, le brave Léon était amoureux de la petite Irlandaise.</p>
         <p>« Après tout, se disait-il, en gagnant d'un pas allègre, une demi-heure au moins avant l'heure fixée, les ombrages du parc d'Ottega, pourquoi donc ne ferais-je pas un mariage en Amérique, comme mon patron ? Je demanderai l'autorisation à maman par téléphone. Voilà qui sera diablement rigolo !</p>
@@ -754,9 +744,7 @@
         <p>Le chemin de fer n'allait pas jusque-là ; mais ils devaient gagner la côte du Pacifique à l'aide d'un service de voitures, assez semblables aux anciennes diligences que l'on rencontre encore dans certaines provinces de France.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI -- L'auberge de Skytown</label>
-        </p>
+        <head>VI -- L'auberge de Skytown</head>
         <p>Léon avait eu un moment la pensée de prévenir Olivier Coronal de son mariage.</p>
         <p>Puis je ne sais quel sentiment l'avait arrêté.</p>
         <p>« Je ne veux pas, s'était-il dit, que William Boltyn et sa fille, qui surveillent sans doute la correspondance de mon maître, sachent que je suis à Skytown, ni ce que j'y suis venu faire. Voilà qui dérangerait tous mes plans. J'irai voir m'sieur Olivier moi-même plus tard. »</p>
@@ -979,9 +967,7 @@
         <p>D'ailleurs, par un sentiment que nous n'essaierons pas d'expliquer, Hattison n'aimait pas entendre parler de Betty ni s'occuper d'elle.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII -- Le dirigeable le « Hattison »</label>
-        </p>
+        <head>VII -- Le dirigeable le « Hattison »</head>
         <p>Par un clair et froid matin de janvier, Léon Goupit se sentit des velléités d'aller à la chasse.</p>
         <p>Il était tombé de la neige quelques jours auparavant, et les grands arbres de la forêt, qui s'étendait au nord de Skytown, étaient couverts d'étincelantes stalactites.</p>
         <p>Le sol résonnait sous les pas.</p>
@@ -1159,9 +1145,7 @@
         <p>Et c'était pour Léon l'occasion de bondir de nouveau en avant, de se rapprocher de Hattison.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII -- Léon Goupit réalise ses projets</label>
-        </p>
+        <head>VIII -- Léon Goupit réalise ses projets</head>
         <p>Tapi dans une encoignure sombre, Léon ne perdait pas de vue un seul des mouvements du vieil ingénieur.</p>
         <p>Sous le rayonnement des arcs électriques, Hattison, le dos légèrement voûté, les vêtements constellés de taches d'acide, l'œil féroce et la lèvre haineuse, avait l'air, entouré de ses noirs soldats de métal, d'un nécromancien des temps passés au milieu d'une troupe de mauvais esprits soumis à son pouvoir.</p>
         <p>Il paraissait d'ailleurs satisfait.</p>
@@ -1311,9 +1295,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX -- Un directeur de journal avisé</label>
-        </p>
+        <head>IX -- Un directeur de journal avisé</head>
         <p>Le milliardaire était en proie à un véritable accès de fureur.</p>
         <p>Les yeux lui sortaient de la tête ; les veines de son cou se gonflaient.</p>
         <p>Il crut qu'il allait succomber à une attaque d'apoplexie, et s'empressa de se faire apporter un grand verre d'eau glacée.</p>
@@ -1519,9 +1501,7 @@
         <p>Il n'attendait qu'une occasion d'en profiter.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X -- Les tribulations d'un reporter</label>
-        </p>
+        <head>X -- Les tribulations d'un reporter</head>
         <p>Trois détectives, stimulés par l'appât d'une forte prime, étaient partis pour Skytown.</p>
         <p>Ils opéraient pour le compte des milliardaires.</p>
         <p>
@@ -1721,9 +1701,7 @@
         <p>Thomas Borton était désespéré.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XI -- Le chef de gare philosophe</label>
-        </p>
+        <head>XI -- Le chef de gare philosophe</head>
         <p>En quittant sa maisonnette de Skytown, Léon Goupit s'était enfoncé dans les bois dans la direction du nord.</p>
         <p>Il avait bien pensé tout d'abord à gagner Ottega, mais il avait vite rejeté cette idée.</p>
         <p>« C'est pas la peine de m'exposer à me faire mettre la main dessus par un détective, s'était-il dit. J'ai de bonnes jambes. Il est beaucoup plus prudent de faire le chemin à pied. »</p>
@@ -1894,9 +1872,7 @@
         <p>Et, sans avoir attendu la réponse du chef de gare qui, non sans avoir haussé les épaules, s'était remis à son travail, Thomas Borton fila comme un trait dans la direction qu'on venait de lui indiquer.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII -- L'enseveli</label>
-        </p>
+        <head>XII -- L'enseveli</head>
         <p>Après avoir perdu une journée à suivre une fausse piste, celle de l'individu arrêté pour vol à Persépolis, Thomas Borton, nous l'avons vu, avait repris le train dans la direction de Skytown, en pestant contre sa naïveté.</p>
         <p>Plusieurs jours s'étaient écoulés sans qu'aucun indice, si léger fût-il, vînt le mettre sur la trace de Léon Goupit.</p>
         <p>L'irritation du reporter croissait d'heure en heure, à mesure qu'il s'embrouillait davantage dans le flot d'indications contradictoires qui lui parvenaient sans cesse par le télégraphe.</p>
@@ -2023,9 +1999,7 @@
         <p>Léon Goupit était muré tout vivant dans la montagne, plus solidement enfermé que dans la mieux défendue des prisons de l'Amérique.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIII -- Nouveaux projets de William Boltyn</label>
-        </p>
+        <head>XIII -- Nouveaux projets de William Boltyn</head>
         <p>William Boltyn n'avait jamais déployé autant d'activité. Même aux époques les plus troublées de sa vie aventureuse, dans les moments critiques où il avait vu sa fortune chavirer et la chance lui tourner le dos, où il avait dû vaincre des difficultés qui paraissaient insurmontables, jamais le milliardaire n'avait été aussi totalement absorbé.</p>
         <p>En son palais de la Septième Avenue de Chicago, il s'enfermait des journées entières dans son cabinet de travail ; et le majordome Stephen avait l'ordre formel de ne recevoir personne, de ne déranger son maître sous aucun prétexte.</p>
         <p>Lorsque Boltyn sortait, c'était pour se rendre en autocar à ses usines de conserves, grandes à elles seules comme une ville et qui occupaient tout un quartier, à l'ouest de Chicago.</p>
@@ -2207,9 +2181,7 @@
         <p>Elle prit le parti de s'esquiver, en prétextant une occupation urgente.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIV -- Un discours de Harry Madge</label>
-        </p>
+        <head>XIV -- Un discours de Harry Madge</head>
         <p>Un moment de silence régna entre Olivier Coronal et son beau-père.</p>
         <p>Ce fut William Boltyn qui parla le premier.</p>
         <p>-- Je suis venu pour m'entretenir sérieusement avec vous, fit-il. J'ai une communication importante à vous faire.</p>
@@ -2400,9 +2372,7 @@
         <p>Immobile, les yeux fixés sur un cadran de métal qui paraissait actionner une roue tournant avec furie au-dessus de sa tête, le milliardaire spirite, avec son bizarre bonnet à boule de cuivre, volait à ras de terre, comme un brouillard lumineux emporté dans un coup de vent.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XV -- Léon s'échappera-t-il ?</label>
-        </p>
+        <head>XV -- Léon s'échappera-t-il ?</head>
         <p>Il y avait à peine quelques heures que Léon Goupit, brisé de fatigue, s'était endormi dans une sorte de caverne naturelle, aux côtés d'un vagabond que le hasard lui avait donné comme compagnon de route, lorsqu'un bruit formidable le tira de son sommeil.</p>
         <p>Ce bruit lui semblait à la fois proche et lointain.</p>
         <p>Léon crut, un moment, que la montagne s'écroulait.</p>
@@ -2715,9 +2685,7 @@
         <p>Il ne distinguait plus à l'horizon qu'un point rouge s'enfonçant dans les ténèbres, et qu'on eût pris pour un soleil couchant.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVI -- La caverne</label>
-        </p>
+        <head>XVI -- La caverne</head>
         <p>Sur toute la surface du globe terrestre, il arrive assez fréquemment qu'en fouillant la terre soit pour y rechercher des gisements de minerai, soit pour y établir les fondements d'un édifice, on découvre des souterrains, des grottes ou des cavernes, dont on n'avait pas jusqu'alors soupçonné l'existence.</p>
         <p>Quelquefois ces excavations communiquent directement avec l'air libre au moyen d'un corridor plus ou moins large.</p>
         <p>Le plus souvent elles sont absolument isolées, encloses de tous côtés ; et il est permis de supposer qu'il en existe en réalité bien plus que l'on n'en connaît.</p>
@@ -2938,9 +2906,7 @@
         <p>Ce qu'il voyait et ce qu'il entendait l'intéressait à un tel point que malgré le froid et la faim, malgré le danger qu'il courait à chaque minute, il ne pouvait se décider à quitter son poste d'observation.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVII -- Un palais fantastique</label>
-        </p>
+        <head>XVII -- Un palais fantastique</head>
         <p>Le palais de Harry Madge, bâti dans une sorte de presqu'île formée par une des rivières qui se jettent dans le grand lac Ontario, était construit dans un style à la fois magnifique et bizarre.</p>
         <p>Le plan semblait en avoir été dressé par quelque architecte nourri de la lecture des livres cabalistes.</p>
         <p>Les murailles du palais et celles qui fermaient une vaste cour en face de la principale porte d'entrée étaient bâties en marbre noir. Les angles et les frontons des fenêtres et des portes étaient décorés d'ornements en bronze.</p>
@@ -3119,9 +3085,7 @@
         <p>Après l'avoir longtemps pris pour un fou, ils étaient maintenant tout disposés à le considérer comme un grand homme.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVIII -- Sauvé</label>
-        </p>
+        <head>XVIII -- Sauvé</head>
         <p>Par son air sombre, William Boltyn seul faisait tache, parmi la satisfaction unanime des milliardaires.</p>
         <p>Depuis quelques instants, il semblait préoccupé.</p>
         <p>Son enthousiasme, son admiration avaient disparu tout à coup.</p>
@@ -3320,9 +3284,7 @@
         <p>Au bout de quelques minutes, il finit par s'endormir d'un sommeil lourd et agité.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIX -- Querelles de ménage</label>
-        </p>
+        <head>XIX -- Querelles de ménage</head>
         <p>Ce matin-là, à peine réveillée, Aurora avait sonné sa femme de chambre, s'était fait vêtir à la hâte ; et sans même prendre le temps de jeter un regard sur sa toilette, elle s'était rendue chez son père.</p>
         <p>Elle savait que, la veille au soir, il y avait eu une réunion des milliardaires dans le grand salon de l'hôtel, et elle brûlait du désir d'apprendre ce qui s'y était passé, quelles décisions on y avait prises.</p>
         <p>Par les fenêtres de son cabinet de travail, Olivier Coronal l'avait vue sortir, traverser l'avenue, et pénétrer dans le grand vestibule du palais de son beau-père.</p>
@@ -3457,9 +3419,7 @@
         <p>« Je vais attendre le retour d'Olivier, se dit-elle, et, sans avoir l'air d'y attacher de l'importance, je lui demanderai des explications... Si je me trompe vraiment, si ce n'est pas Léon Goupit qui est venu ici, il ne se refusera pas à satisfaire ma curiosité. Du reste, pour ne pas lui laisser soupçonner que je tiens ces renseignements de Kate, je lui dirai que, des fenêtres de mon père, je l'ai vu sortir en voiture. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XX -- Le retour à la maison paternelle</label>
-        </p>
+        <head>XX -- Le retour à la maison paternelle</head>
         <p>Toute la première partie du repas du soir fut silencieuse. Olivier, toujours plongé dans ses réflexions, mangeait du bout des dents.</p>
         <p>Aurora ne savait comment s'y prendre pour engager l'entretien sur le sujet qui lui tenait tant au cœur.</p>
         <p>Enfin Olivier rompit le premier le silence glacial qui pesait sur la petite salle à manger.</p>
@@ -3591,9 +3551,7 @@
         <p>Elle ne put s'endormir qu'au moment où une aurore blafarde commençait de monter dans le ciel, derrière les toits et les colonnes rouges de la ville fumeuse.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXI -- Le Collège des sciences psychiques</label>
-        </p>
+        <head>XXI -- Le Collège des sciences psychiques</head>
         <p>Aurora dormait encore lorsque William Boltyn, véritablement admirable d'obstination, d'énergie et de sang-froid dans sa lutte contre les difficultés, s'installa dans son confortable car électrique, après avoir jeté au cocher l'adresse du palais de Harry Madge.</p>
         <p>Le spirite, coiffé de son bonnet à boule de métal, et vêtu de son éternel pardessus-robe, reçut William Boltyn avec la politesse un peu taciturne qui lui était habituelle. Pour pouvoir parler plus librement, il le mena dans sa bibliothèque, qu'il avait machinée avec une baroque ingéniosité.</p>
         <p>Cette bibliothèque occupait à elle seule une tour fort large et d'une prodigieuse hauteur.</p>
@@ -3679,9 +3637,7 @@
         <p>-- Hurrah ! pour le régiment des hypnotiseurs !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXII -- Divorce et départ</label>
-        </p>
+        <head>XXII -- Divorce et départ</head>
         <p>La brouille entre Olivier et Aurora durait toujours, sournoisement entretenue par les insinuations de William Boltyn, tout heureux d'avoir reconquis sa fille.</p>
         <p>Cependant la jeune femme, quoique trop orgueilleuse pour faire les premiers pas, demeurait mortellement triste.</p>
         <p>Elle souffrait beaucoup dans son affection pour Olivier.</p>

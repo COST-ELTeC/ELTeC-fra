@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01401" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">35076</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -35,7 +35,7 @@
           ,
           <idno/>
           ,
-          
+
           .
         </bibl></sourceDesc>
     </fileDesc>
@@ -61,9 +61,7 @@
   <text>
     <body>
       <div type="chapter">
-        <p>
-          <label>I -- Le tuteur</label>
-        </p>
+        <head>I -- Le tuteur</head>
         <p>« Je veux me faire la barbe ! »</p>
         <p>Ainsi parlait un homme de dix ans sonnés, le petit Léopold Massereau. En fourrageant au fond d'un tiroir, il avait trouvé une paire de rasoirs usés jusqu'au fer. Saisi tout à coup par le désir de poser en grand garçon, il s'était juché sur un tabouret devant la glace ovale d'une toilette d'acajou, brandissait le rasoir et répétait d'une voix de commandement :</p>
         <p>« Je veux me faire la barbe !</p>
@@ -281,9 +279,7 @@
         <p>Ce n'était pas en effet le soin de sa maison qui l'embarrassait, elle possédait sur le bout du doigt la science précieuse du ménage, elle savait faire dresser un couvert dans les règles, ordonner la symétrie du dessert, au besoin cuire à point une côtelette et accommoder une fricassée de poulet. Sa basse-cour était renommée ; elle avait su acclimater le faisan en Bretagne, et engraisser les oies. Mais autre chose est d'élever un petit dindon ou d'élever un enfant, et de cette science supérieure, Mme Massereau n'avait pas la moindre idée. Elle ne sortait jamais des soins matériels et les distribuait beaucoup plus maladroitement à son filleul qu'à ses petits animaux. Ses poulets et ses serins n'ayant pas reçu le don sublime de la liberté, et ne suivant jamais que leur instinct aveugle et sûr, ne se donnaient pas d'indigestions, ne restaient pas blottis sous un édredon à l'heure saine de la promenade matinale, ne variaient pas sans cesse leur nourriture par caprice, ne se mettaient jamais en colère, ce qui est extrêmement malsain. Ils ne s'ennuyaient jamais, ce qui est non moins malsain et ce qui arrivait sans cesse à Léopold, que son caractère bizarre et volontaire condamnait à une solitude absolue.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II -- La question brûlante</label>
-        </p>
+        <head>II -- La question brûlante</head>
         <p>Quand le colonel Dauvellec et M. Massereau rentrèrent, ils furent introduits par Mme Massereau dans la salle à manger où le couvert était mis.</p>
         <p>La vue de la table étincelante d'argenterie fit sourire M. Massereau.</p>
         <p>« Ne nous fais pas attendre le dîner, Caroline, dit-il en consultant sa grosse montre d'or ; nos pendules retardent toutes de cinq minutes sur la ville. Midi va sonner, j'ai mis ma montre au cadran de la mairie. »</p>
@@ -385,9 +381,7 @@
         <p>« Il le veut, il le veut absolument ; mais il ne l'aura pas ! »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III -- Partie gagnée</label>
-        </p>
+        <head>III -- Partie gagnée</head>
         <p>S'il est un instant dans la journée où Léopold mérite son nom de monsieur Je veux, c'est bien à l'heure de son lever. D'abord se lever est pour le petit paresseux toute une affaire.</p>
         <p>Cela se passe ordinairement ainsi :</p>
         <p>Sa tante ou Marie-Céline l'appelle une fois, deux fois, trois fois. Il feint de dormir. On va le secouer.</p>
@@ -535,9 +529,7 @@
         <p>« Nous verrons bien ! et d'ailleurs c'est toujours du temps de gagné. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV -- La goutte d'eau</label>
-        </p>
+        <head>IV -- La goutte d'eau</head>
         <p>Comme les rues de la petite ville de Châtel sont nettes et reluisantes ! De grandes pluies d'orage sont venues remplacer le balayage souvent oublié ; elles ont enlevé de dessus les pavés inégaux jusqu'aux plus légers atomes de poussière.</p>
         <p>Dans les rigoles mal dessinées au milieu des petites rues étroites, coulent encore de gros ruisseaux gonflés, et la tempête de la veille se fait sentir par de soudaines rafales qui transforment les parapluies en de grosses et laides tulipes, qui enlèvent les chapeaux les plus solides et qui retroussent très coquettement les coiffes de mousseline des paysannes. C'est jour de marché, et l'on vient contre vent et marée de la campagne à Châtel.</p>
         <p>Il est donc tout simple que les robustes paysans, le chapeau assujetti sur la tête par un mouchoir noué sous le menton, et que les fermières chargées de corbeilles remplies de fruits et de légumes affrontent les rafales et les ondées. Mais on se demanderait pourquoi M. Massereau s'expose de gaieté de cœur à ce vent furieux et pourquoi il se promène péniblement dans ce marché en plein air, la main droite sur son chapeau qui a déjà fait mainte excursion parmi les tas de pommes de terre nouvelles, et la main gauche occupée à rabattre les pans de sa redingote qui viennent sans cesse lui caresser le visage. Hélas ! il faut bien l'avouer, c'est son défaut capital, la gourmandise, qui le conduit sur cette place encombrée. L'orage qui soulève les profondeurs de la mer amène tout à coup à sa surface des légions de poissons ; il se fait instantanément sur tout le littoral des pêches abondantes qui débordent sur tous les marchés voisins.</p>
@@ -609,9 +601,7 @@
         <p>-- Oh ! certes, il boudera longtemps ce pauvre enfant. Dieu ! que les hommes sont égoïstes ! »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V -- En route !</label>
-        </p>
+        <head>V -- En route !</head>
         <p>Quinze jours après cette petite scène, Mme Massereau recevait un court billet du colonel Dauvellec, lui enjoignant en des termes fort polis, mais très nets, d'avoir à faire conduire Léopold à Rennes, où son domestique l'attendrait pour l'amener à Coutances.</p>
         <p>Sa première pensée fut de résister à cette demande formelle ; sa seconde de l'éluder ; mais il lui aurait fallu, pour cela, la complicité habituelle de M. Massereau, et M. Massereau déclara qu'il irait lui-même conduire Léopold si sa femme ne s'y résignait pas.</p>
         <p>À ce sujet, M. Massereau se plongea dans les légalités. La demande du colonel était tout ce qu'il y avait de plus légal, il avait toujours eu le droit de faire de Léopold ce que bon lui semblerait, et il n'y avait désormais aucune raison de le garder. L'affaire de son éducation intéressait exclusivement son tuteur, et s'il avait bien voulu laisser à sa tante le soin de sa petite enfance, ce n'était pas une raison pour s'autoriser à le garder plus longtemps.</p>
@@ -697,9 +687,7 @@
         <p>« Ça passera, ça passera, murmura M. Massereau en s'élançant sur ses traces ; mais, mon Dieu, qu'il était temps que ce diable d'enfant partit ! »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI -- L'arrivée</label>
-        </p>
+        <head>VI -- L'arrivée</head>
         <p>Pendant que son oncle et sa tante se dirigeaient vers Rennes, l'un en maugréant, l'autre en jubilant, Léopold poursuivait son chemin vers la Normandie. Un peu troublé par le sans-façon avec lequel Choucroute l'avait arraché de dessus une pyramide de caisses qu'il se plaisait à escalader, il avait fait très sagement une heure de chemin de fer, examinant du coin de l'œil la physionomie de son gardien. C'était au demeurant la meilleure physionomie du monde, et Léopold jugea qu'il n'y avait nul danger à se montrer ce qu'il était. Aussi fit-il le reste du voyage très agréablement à son gré.</p>
         <p>Qu'importait à Choucroute que les vasistas subitement baissés laissassent entrer l'air et la poussière ? Que lui importaient ces pieds qui lui heurtaient sans cesse ses grosses bottes ? Ce n'était qu'une petite barque frôlant le navire immobile. Au buffet, il obéissait passivement à Léopold, prenant bien parfois des airs étonnés de le voir entasser les friandises et manger tout à l'envers, du jambon après des gâteaux. Il avait évidemment reçu des ordres précis là-dessus, car il laissait faire, ouvrait flegmatiquement sa bourse et payait sans mot dire. Léopold, ayant fait toutes ses volontés sans contrôle aucun, arriva à Coutances avec un rhume de cerveau bien conditionné et un commencement d'indigestion, dû à son alimentation fantaisiste.</p>
         <p>Quand le colonel, qui l'attendait sur le quai de la gare, s'approcha de lui, il le salua par une série d'éternuements.</p>
@@ -739,9 +727,7 @@
         <p>Léopold la repoussait d'un geste furieux. Au beau milieu de cette pantomime, il s'endormit.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII -- La première journée</label>
-        </p>
+        <head>VII -- La première journée</head>
         <p>Le lendemain matin, Léopold crut rêver en se réveillant dans cette petite chambre élégante et silencieuse. Ce n'était plus la voix rauque de Marie-Céline, ou la voix aiguë de sa marraine, qui retentissait à ses oreilles, mais une claire petite voix d'enfant gazouillait des mots sacrés dans l'appartement voisin.</p>
         <p>Alfred levé, habillé, faisait sa prière à genoux, un peu plus rapidement que de coutume, car il attendait le réveil de Léopold, ce qui le mettait en distraction.</p>
         <p>Ce fut lui qui lui donna le premier bonjour, et il fallait que le cœur de l'enfant gâté fût bien endurci déjà, pour ne pas se sentir touché par cette amabilité enfantine.</p>
@@ -804,9 +790,7 @@
         <p>Elle l'embrassa et quitta la chambre l'air soucieux.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII -- Un joli projet</label>
-        </p>
+        <head>VIII -- Un joli projet</head>
         <p>Huit jours se sont écoulés depuis l'arrivée de Léopold à Coutances. Ses premiers étonnements ont disparu, mais non point ses défauts de caractère. L'habitude, qui devient une seconde nature, est lente à déraciner, même à dix ans, et le pauvre enfant gâté en faisait l'expérience. Son premier mouvement était toujours de désobéir à l'ordre donné, quand la chose ordonnée lui déplaisait ; son premier mot était toujours : « Je veux », comme si à son âge on savait vouloir selon la sagesse et la raison. La discipline qui régnait dans la maison du colonel l'obligeait bien à réprimer son premier mouvement de résistance ; mais il obéissait à contrecœur, il résistait en dessous. S'il n'y avait pas moyen de répéter deux fois à haute voix : « Je veux », il le disait à voix basse, il le répétait malicieusement et le sobriquet lui en restait.</p>
         <p>Mme Eugénie avait beaucoup de peine à empêcher Fédik de conjuguer ce dangereux verbe vouloir, si beau dans la bouche d'un homme qui remplit un devoir, si ridicule dans la bouche d'un enfant.</p>
         <p>Léopold était soumis à une surveillance très étroite. Édouard et Gustave le mettaient sans ménagement à la raison ; Amélie, douce et persuasive, tâchait de l'amener à une obéissance pareille à la sienne, toute d'amour et de condescendance. Quant à Fédik, on ne lui permettait guère les tête-à-tête avec son cousin, car il en revenait toujours tout imprégné d'insubordination.</p>
@@ -882,9 +866,7 @@
         <p>Cela prononcé, il disparut par l'entrebâillement, et la porte se referma sans bruit.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX -- L'auberge de l'Ancre d'argent</label>
-        </p>
+        <head>IX -- L'auberge de l'Ancre d'argent</head>
         <p>C'est un bien joli jour pour les familles que celui où elles s'embarquent au complet pour un voyage d'agrément. Cette fois tout le petit clan Dauvellec se mettait en mouvement, depuis grand-maman jusqu'à Fédik et Choucroute.</p>
         <p>Le voyage jusqu'à Darville fut charmant.</p>
         <p>Entassés dans la voiture de Valognes, nos voyageurs supportaient patiemment ou gaiement les incommodités du mode de transport. Léopold seul faisait une mine renfrognée quand Alfred, soulevé tout à coup par un cahot, retombait assis sur ses genoux.</p>
@@ -973,9 +955,7 @@
         <p>Choucroute, apercevant un gourdin dans un coin de l'appartement, se précipita dessus, et venant se placer bien en face de Léopold, fit un moulinet terrible au-dessus de sa tête. Puis voyant l'enfant fermer les yeux avec effroi, il posa le bâton sur son épaule comme un fusil et se mit à marcher à pas réguliers et lents, à pas de sentinelle, le long du grand lit. Au moindre mouvement de Léopold, il empoignait le bâton et tout mouvement s'arrêtait aussitôt. Il n'eut pas à veiller longtemps. Quelques minutes de ce pas cadencé sur le plancher sonore suffirent pour endormir profondément Fédik et son persécuteur.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X -- Sur mer</label>
-        </p>
+        <head>X -- Sur mer</head>
         <p>« Hé ! hé ! les petits messieurs, le vent a tourné, la brise est bonne, hé ! hé ! »</p>
         <p>
           Le vieux pêcheur, le père La Plie, plaçant ses deux mains calleuses en cornet devant sa large bouche, jetait cet appel sous les étroites fenêtres de l'
@@ -1081,9 +1061,7 @@
         <p>Léopold, réchauffé et restauré, finit par prendre part à la gaieté générale ; mais il déclara qu'il ne mettrait plus désormais les pieds dans le bateau du père La Plie.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XI -- Une désobéissance</label>
-        </p>
+        <head>XI -- Une désobéissance</head>
         <p>La rude leçon que Léopold avait reçue pendant la promenade en bateau produisit une certaine amélioration dans son caractère. Il se montra moins exigeant et plus docile avec Choucroute, auquel il se faisait un malin plaisir de résister.</p>
         <p>Un jour il alla jusqu'à répondre à son premier appel, ce qui ne s'était jamais vu.</p>
         <p>Il avait l'oreille très fine lorsqu'il s'agissait d'entendre son oncle, sa tante et même ses grands cousins, qui ne supportaient la plaisanterie que jusqu'à un certain point ; mais tout autre appel le trouvait sourd. Une des plus désobligeantes habitudes des enfants gâtés est celle de ne se rendre qu'à des injonctions réitérées. Ils ne savent rien abandonner de ce qui les amuse et font passer leur caprice du moment avant toute chose. Le jour où Léopold, s'entendant appeler par Choucroute qui lui enjoignait de mettre son chapeau, répondit sur-le-champ : « Je vais le chercher », Mme Dauvellec, qui tricotait sous la petite tente-abri où elle passait ses après-midi, regarda sa belle-fille assise auprès d'elle et lui dit :</p>
@@ -1250,9 +1228,7 @@
         <p>Et bonne-maman dormait toujours, et la brise ne lui apportait pas cette plainte déchirante de son enfant bien-aimé, menacé d'une mort aussi affreuse qu'imprévue.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII -- Sur la route</label>
-        </p>
+        <head>XII -- Sur la route</head>
         <p>Comme ils geignent, les pauvres chevaux attelés à la voiture qui fait, à volonté, le service entre Valognes et Darville ! C'est jour de marché dans la ville normande et le postillon, n'ayant plus à craindre la surveillance de l'octroi, accueille sur la route nombre de voyageurs et de paquets. Il y en a partout. Le siège est encombré, la vieille bâche est gonflée à se déchirer et dans l'intérieur c'est un véritable entassement. Une côte se présente, le postillon et ceux qui ont usurpé son siège allègent la voiture de leur poids.</p>
         <p>Une voix forte, une voix de commandement, se fait entendre de l'intérieur.</p>
         <p>« Eh ! cocher, ouvrez la portière, je vous prie ; je tiens beaucoup à faire comme vous. »</p>
@@ -1294,9 +1270,7 @@
         <p>Quand Mme Eugénie et ses enfants arrivèrent le soir de leur expédition, ils trouvèrent Alfred couché et grelottant de fièvre ; mais en somme assez bien remis de son terrible accident. Ce soir-là, il n'y eut ni gronderies, ni récriminations, ni châtiment. Tous ces bons cœurs n'éprouvèrent d'abord qu'un sentiment d'actions de grâces envers la Providence qui les avait préservés d'une inconsolable douleur.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIII -- Le châtiment</label>
-        </p>
+        <head>XIII -- Le châtiment</head>
         <p>Les jours qui suivirent ce jour émouvant furent pleins d'inquiétude. La secousse avait été bien forte pour le pauvre petit Alfred et, sur les ordres du médecin qu'on avait fait venir de Valognes, il garda le lit et fut soumis à un régime sévère. Ses frères et sa sœur ne le quittaient pas, et quand la prostration qui était son état habituel cédait un peu, ils venaient tous bien doucement le distraire, en partageant ses jeux.</p>
         <p>Amélie disposait les canons, Édouard découpait des forteresses, Gustave gréait des flottes.</p>
         <p>Quant à Léopold, auquel personne ne faisait attention, il demeurait blotti dans un coin, n'osant pas se rencontrer de trop près avec son oncle dont le regard sévère pesait terriblement sur lui. Les résultats de sa faute lui apparaissaient ce qu'ils étaient, il commençait à comprendre que la désobéissance est une source de chagrin ; il souffrait enfin de lui-même. Tout le monde le traitait avec froideur, moins sa petite victime, qui lui souriait de loin et lui faisait dire mille amabilités par Amélie, dont le cœur était si compatissant.</p>
@@ -1355,9 +1329,7 @@
         <p>« Non, non, je l'ai bien vu le jour où Alfred a été retiré des sables, mon oncle ne me pardonnera jamais. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIV -- L'épreuve</label>
-        </p>
+        <head>XIV -- L'épreuve</head>
         <p>Celui qui, le lendemain matin, eût deviné les intentions du colonel eût été bien avisé.</p>
         <p>Sur ces visages impassibles qui ont affronté tant de fois le feu de l'ennemi, rien ne se peut lire, car rien ne s'écrit.</p>
         <p>Le colonel alla, selon son habitude, fumer son premier cigare en arpentant la grève.</p>
@@ -1401,9 +1373,7 @@
         <p>À cette surveillance affectueuse, Léopold répondait par une docilité parfaite et se transformait à vue d'œil.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XV -- La bonne voie</label>
-        </p>
+        <head>XV -- La bonne voie</head>
         <p>Chose étrange, Léopold ne s'ennuyait plus. Quoi ! le bonheur suprême n'était donc pas d'échapper à la surveillance, de suivre un caprice tournant à tous les vents, de chercher son propre amusement, toujours !</p>
         <p>Un matin Amélie et Fédik, qui flânaient sur la grève, l'aperçurent qui entrait dans la vieille guérite abandonnée. Ils coururent de ce côté et le trouvèrent assis, un livre sur ses genoux. Il étudiait en se bouchant les oreilles, sans doute pour ne pas entendre le bruit séduisant du flot.</p>
         <p>Il apprit à Amélie que son oncle lui donnait des leçons à apprendre et des devoirs à faire afin qu'il pût subir sans trop de honte l'examen d'entrée du collège de la Flèche. C'est pourquoi il se réfugiait depuis plusieurs jours dans la vieille guérite, afin de ne voir personne et de ne pas être tenté par la mer et par Fédik.</p>
@@ -1479,9 +1449,7 @@
         <p>« Soignez-vous bien, bonne-maman. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVI -- Au Prytanée militaire</label>
-        </p>
+        <head>XVI -- Au Prytanée militaire</head>
         <p>Les vastes parloirs du Prytanée, où s'élève une grande partie de la génération militaire de la France, sont livrés au va-et-vient du jour des rentrées. Les familles y entrent par groupes, et parmi cette foule bigarrée circulent les jeunes Fléchois dans leur uniforme sévère et disgracieux, mais que certains portent néanmoins avec une crânerie toute militaire.</p>
         <p>De temps en temps un nom est prononcé à haute voix, c'est celui de l'élève demandé.</p>
         <p>Deux noms retentissent soudain :</p>

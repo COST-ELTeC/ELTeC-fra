@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00901" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">87744</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -58,9 +58,7 @@
   <text>
     <body>
       <div type="group">
-        <p>
-          <label>PREMIÈRE PARTIE</label>
-        </p>
+        <head>PREMIÈRE PARTIE</head>
         <div type="chapter">
           <head>I -- LA FABRIQUE</head>
           <p>Je suis né le 13 mai 18..., dans une ville du Languedoc où l'on trouve, comme dans toutes les villes du Midi, beaucoup de soleil, pas mal de poussière, un couvent de carmélites et deux ou trois monuments romains.</p>
@@ -877,9 +875,7 @@
         </div>
       </div>
       <div type="group">
-        <p>
-          <label>DEUXIÈME PARTIE</label>
-        </p>
+        <head>DEUXIÈME PARTIE</head>
         <div type="chapter">
           <head>I -- MES CAOUTCHOUCS</head>
           <p>QUAND je vivrais aussi longtemps que mon oncle Baptiste, lequel doit être à cette heure aussi vieux qu'un vieux baobab de l'Afrique centrale, jamais je, n'oublierai mon premier voyage à Paris en wagon de troisième classe.</p>

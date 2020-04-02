@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03903" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">49150</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -35,7 +35,7 @@
           ,
           <idno/>
           ,
-          
+
           .
         </bibl></sourceDesc>
     </fileDesc>
@@ -61,9 +61,7 @@
   <text>
     <body>
       <div type="chapter">
-        <p>
-          <label>I -- L'enfant pâle.</label>
-        </p>
+        <head>I -- L'enfant pâle.</head>
         <p>Avez-vous connu, lecteur, les embarras de la rue du Bac, la grande artère du faubourg Saint-Germain avant l'existence du boulevard ? Tous les jours d'hiver, à quatre heures, on eût dit que Boileau, par une vue prophétique, avait fait poser devant lui les charrettes, les voitures, les cavaliers et les piétons qui s'y disputaient le passage. Quand il pleuvait, les obstacles s'augmentaient de tous les parapluies, doublés de la mauvaise humeur de ceux qui les portaient. On se choquait, on s'accrochait, on se fâchait. Cela durait jusqu'à sept heures, moment fortuné où chacun oubliait son voisin dans les douceurs d'un excellent potage.</p>
         <p>Un jour donc, par un temps pluvieux et détestable, une jeune femme, d'un gracieux aspect, entra vers cinq heures chez un grand papetier de la rue du Bac, c'était une marquise. Elle apparut sans bruit, sans grands airs, sans flux de paroles, avec une assurance modeste, et demanda tout simplement un paquet d'enveloppes. Elle avait un costume de fort bonne compagnie, n'attirant les yeux ni par la couleur, ni par la forme, et portant ce qu'on appelle le cachet du faubourg Saint-Germain ; rien de prétentieux, rien de trop hardi, ni de trop nouveau. Le gris de lin se mariait au noir et au blanc ; de fines dentelles se jouaient également sur une espèce de je ne sais quoi, chef-d'œuvre de goût destiné, paraît-il, à couvrir la tête et qui ne la couvrait pas. Elle avait le pied mince, la main étroite, les doigts longs, les attaches fines, un visage régulier où se peignait la bonté, une bonté de grande dame qui a trop d'esprit pour être fière.</p>
         <p>On s'empressa de la faire asseoir, et l'on mit à la servir beaucoup de politesse. Un commis présenta plusieurs paquets d'enveloppes, longues, carrées, de toute forme et de toute grandeur. La marquise les regarda sans plaisir et les toucha du bout des doigts d'un air indifférent, bien que le commis affirmât d'un ton sérieux que ces enveloppes étaient jolies et bien faites. Peine perdue ! La dame ne se laissait pas prendre aux habiles discours, ce que voyant le maître du magasin, il s'approcha tenant à la main le paquet dont nous osons écrire l'histoire et dit simplement : « Madame, voilà ce qui se fait de mieux. » Les yeux de la jeune femme s'arrêtèrent sur ces enveloppes ; ses doigts délicats, sortis pour un moment de leur joli étui de peau de chevreau, les touchèrent avec satisfaction, et elle s'informa du prix, selon l'usage, mais toute décidée d'avance à en faire l'acquisition. Le commis les entoura, sans beaucoup de précaution, d'un papier gris, et la marquise les ayant mises dans son manchon déposa à la caisse une pièce d'argent, salua poliment la maîtresse du magasin et sortit.</p>
@@ -199,9 +197,7 @@
         <p>La première visite de l'importune Rosella, si bien pomponnée et coloriée, fut pour la marquise un ennui profond, présageant beaucoup d'autres ennuis encore plus profonds.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II -- C'est moi.</label>
-        </p>
+        <head>II -- C'est moi.</head>
         <p>Pour mieux entendre ce qui suit, il est nécessaire de se transporter en esprit aux environs de Paimbœuf, et d'y faire connaissance avec des Bretons, fort estimables. C'est dans ces campagnes que chaque année revient la jeune veuve avec son père et son enfant. C'est là que s'élève, adossé à une colline élégamment boisée, le château d'assez riant aspect, tout environné de chaumières.</p>
         <p>Parmi ces chaumières, il en est une que le malheur a touchée, c'est celle de la veuve Benoît.</p>
         <p>La Benoît, comme on dit en ce pays, est une femme de quarante ans à peine ; mais la pauvreté, le chagrin, l'ont faite vieille avant le temps. Ses forces trahissent sa bonne volonté. La maladie lutte en elle contre le courage et, pour l'aider à vivre en élevant de son mieux ses trois filles, elle n'a plus que Laurent, son fils, Laurent qui ressemble à son père, le laborieux et honnête Corentin Benoît. Le jeune paysan a dix-sept ans, une figure heureuse, un bon cœur ; mais sa faiblesse de caractère effraye quelquefois la veuve. Elle se dit tout bas : Non, non, ce n'est pas là mon pauvre Corentin, qu'on aurait roué plutôt que de le faire manquer à son devoir. Laurent a la bonne humeur et la bonté de son père, mais il tournera au moindre vent.</p>
@@ -336,9 +332,7 @@
         <p>Le soir de ce même jour, Laurent, brisé des graves émotions de la matinée, reposa son cœur converti en remettant sous ses yeux la chère enveloppe qui renfermait les secrets de Marie Dubreuil. C'était un véritable trésor, puisque toutes les bonnes et saintes pensées étaient revenues par ce moyen. Il se demandait comment on pourrait sauver ce trésor des regards indiscrets, et en même temps le préserver de tout accident ? Alors il avisa un vieux portefeuille, que le général avait jeté, et dont lui, Laurent, avait fait son profit, le destinant à conserver les lettres qu'on lui enverrait du pays ; il y en avait déjà trois, toutes trois de sa mère. Dans la poche la plus secrète de ce vieux portefeuille, il cacha la lettre de la petite Marie, mit le tout dans sa malle, qui avait une bonne serrure, et il lui sembla avoir enfoui là toute une fortune.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III -- En Bretagne.</label>
-        </p>
+        <head>III -- En Bretagne.</head>
         <p>Voyez-vous cette petite dame, serrée dans sa ceinture, gênée dans ses entournures, et pincée dans ses bottines, qui se promène sous les arbres de ce beau parc, parlant toilette, racontant les plaisirs de l'hiver et ses petits succès de salon ? C'est Rosella.</p>
         <p>La malheureuse enveloppe si blanche, si fine, avait eu la déplorable destinée d'attirer en Bretagne cette beauté passée qui posait encore, qui minaudait, qui grimaçait, et dont chacun plaisantait. La vicomtesse était tombée un beau matin à Kerniou, comme fût tombée la grêle, sans prévenir, et s'appuyant sur la lettre du général lui-même pour se dire : « Je suis toujours attendue. » Bien résolue à remplir sa prétendue mission, elle avait dit tout bas : Me voici ; vous voyez, général, que je ne perds pas de vue notre petite marquise ; j'ai entrepris, d'après vos désirs, de la distraire, et j'y parviendrai.</p>
         <p>Que peut faire dans un pareil cas un maître de maison ? Saluer, puis saluer encore, et attendre patiemment le départ. C'est ce que faisait le bon père, et sa gaieté naturelle lui suffisait à peine pour endurer le fléau qu'avait attiré sa fâcheuse distraction.</p>
@@ -551,9 +545,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV -- Marie Dubreuil.</label>
-        </p>
+        <head>IV -- Marie Dubreuil.</head>
         <p>Est-il un être plus intéressant que l'enfant du pauvre, qui souffre déjà de la vie, qui se résigne, ne se plaint pas, et essaye, selon ses forces, de diminuer la somme des privations et des douleurs que supportent ses parents ? Telle était Marie Dubreuil.</p>
         <p>Nous l'avons vue, à l'âge de neuf ans, charmer et consoler son père, entretenir doucement les illusions du cher malade, afin de le rendre moins malheureux. Dubreuil était, à juste titre, très fier de sa fille, et souvent il disait à Marguerite ?</p>
         <p>« Tiens, ma femme, sans la petite, je ne sais pas ce que nous deviendrions ! »</p>
@@ -726,9 +718,7 @@
         <p>La pauvre Alice n'y tenait plus. Espérance et Pauline n'osaient regarder ni l'enfant, ni l'aïeul, encore moins Rosella qui avait été prise, de par Cicéron, d'un tic nerveux, un clignement de l'œil gauche, indiquant à n'en point douter, que son impatience n'était plus retenue que par un fil, et que ce fil pourrait bien se casser. La situation était tendue, et l'on avait les plus sérieuses raisons de craindre qu'Alice, à bout de moyens préservatifs, ne partît d'un éclat de rire, tout comme autrefois à Kerniou. La porte du salon s'ouvrit ; c'était Laurent qui apportait, toujours sur le même plat d'argent, une des jolies enveloppes, fines, blanches, satinées, contenant la lettre de Marie Dubreuil.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V -- L'Albanaise.</label>
-        </p>
+        <head>V -- L'Albanaise.</head>
         <p>Se voir souvent ne constitue pas toujours l'intimité, sinon les importuns seraient nos intimes amis. Aussi la marquise, ayant demandé poliment à Rosella la permission de décacheter la lettre qu'on lui apportait, l'avait-elle parcourue rapidement sans oser communiquer l'impression qu'elle en ressentait. La confiance est un sentiment très délicat, et la vicomtesse était loin de comprendre les rapports qui existaient entre la jeune veuve et Marie. Si l'on avait lu cette lettre devant elle, on l'aurait entendue s'écrier :</p>
         <p>« Voyez-vous cette petite effrontée ? Ces gens-là sont incroyables ! quelle indiscrétion ! J'espère que vous allez lui répondre comme elle le mérite, ou plutôt ne pas lui répondre du tout. C'est le parti que je prendrais. »</p>
         <p>Expliquer à la froide et futile Rosella ce qui touche deux âmes, et va de l'une à l'autre par ce courant divin qu'on appelle charité, c'eût été lui parler grec ; or, elle avait bien assez du latin de Cicéron.</p>
@@ -999,9 +989,7 @@
         <p>Dans ces douces pensées le sommeil trouva le paysan breton qui, à travers les dangers de la grande ville, et malgré son premier entraînement avait su rester vraiment chrétien, vraiment breton.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI -- Laurent n'oubliait pas.</label>
-        </p>
+        <head>VI -- Laurent n'oubliait pas.</head>
         <p>La suprême consolation des vieillards, c'est de voir grandir les enfants. Le général se complaisait à voir grandir sa petite-fille, à surprendre sur son front cette nuance, à peine sensible, qui est le passage de l'enfance à l'adolescence.</p>
         <p>Tandis qu'Espérance avait gagné, par l'esprit de devoir et par la charité, un calme d'imagination dont sa nature rêveuse semblait incapable, Alice formée par la tendresse intelligente de sa mère était devenue une jeune fille, non seulement brillante, mais instruite ; ce qui est, de notre temps, beaucoup plus rare. Trop supérieure pour se laisser surprendre par la vanité que le talent inspire aux esprits vulgaires, elle cultivait soigneusement les dons de Dieu, et la richesse de son organisation n'empêchait pas l'épanouissement de cette fleur de jeunesse qui n'a qu'une saison : le printemps.</p>
         <p>En famille, point de compliments. Le général se bornait à se frotter les mains quand la jeune fille se mêlait aux réunions de parents ou d'amis, parée de sa fraîcheur, que rehaussait une élégance ennemie de toute excentricité. Dans ces occasions, l'aïeul souriait à l'enfant, avec une tendresse enjouée.</p>
@@ -1154,9 +1142,7 @@
         <p>Une foule recueillie remplissait l'Église, écoutant les voix de l'orgue et les refrains des cantiques. On eût pu voir, dans cette foule chrétienne, un jeune garçon en livrée, religieusement incliné. Lui aussi priait, mais avec une défiance de lui-même qui était de l'humilité. À peine s'il osait demander une grâce, dont il se jugeait trop indigne. Qu'était-ce donc ?... que de cet essaim virginal, le vent du ciel laissât venir à lui une abeille laborieuse, et que, s'il se pouvait, cette abeille fût Marie ! Mais non, se disait-il, non jamais ! Elle si pure ! Et moi ? qui suis-je ? Ah ! si elle le savait ! Est-ce que je puis, moi, misérable, espérer une aussi grande faveur ? Mon Dieu, vous gardez Marie pour un autre, et c'est justice. Moi, je ne la mérite pas !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII -- Maison nette.</label>
-        </p>
+        <head>VII -- Maison nette.</head>
         <p>Alice avait à son tour dix-huit ans, et son éducation, aussi complète que possible à cet âge, lui laissait plus de temps à donner à la famille, à la lecture, aux arts d'agrément. Sa mère jouissait de son œuvre. Son amie Pauline avait eu raison de lui dire autrefois :</p>
         <p>« Ce qui abîme la vie, c'est moins la douleur que le vide. » </p>
         <p>Le joli boudoir était toujours un lieu de prédilection ; mais depuis longtemps la marquise n'y rêvait plus, elle y réfléchissait, ce qui est tout différent.</p>
@@ -1374,9 +1360,7 @@
         <p>Le jeune serviteur aurait dû se sentir heureux de l'estime de ses maîtres, et pourtant il était de plus en plus triste, et il maigrissait. Depuis que Mme Dubreuil avait été placée à la tête de la lingerie, à Paris et à Kerniou, et que Marie était auprès de la marquise, Laurent semblait accablé d'un poids que bientôt il ne pourrait plus porter.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII -- Deux larmes.</label>
-        </p>
+        <head>VIII -- Deux larmes.</head>
         <p>On continuait à vivre paisiblement à l'hôtel de la rue de Varenne, et Marie s'y trouvait heureuse, voyant le sort de sa bonne mère assuré par un travail proportionné à ses forces. Alice ayant appris que Marie conservait précieusement l'enveloppe jaunie contenant le billet de la marquise, se mit à songer au sort de chacune des enveloppes échappées au désastre, et se rappela qu'elle-même en avait conservé une. Un instant elle rêva à l'emploi qu'elle pourrait en faire, car c'était presque une relique d'un passé déjà lointain et elle voulait la consacrer à quelque mission du cœur. Il lui sembla que la plus délicate serait d'aller porter une joie de plus à sa mère et, se recueillant, dans le calme de ses souvenirs, elle écrivit :</p>
         <milestone type="subChapter" rend="space" unit="newline"/>
         <p>« Ma chère maman,</p>

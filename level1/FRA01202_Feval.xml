@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01202" xml:lang="fr">
   <teiHeader>
@@ -26,7 +26,7 @@
         </bibl><bibl type="firstEdition">
           Le Pays, du 26 juin au 3 octobre
           <date>1857</date>
-         
+
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
@@ -51,9 +51,7 @@
   <text>
     <body>
       <div type="group">
-        <p>
-          <label>PREMIÈRE PARTIE -- LE CONDAMNÉ À MORT</label>
-        </p>
+        <head>PREMIÈRE PARTIE -- LE CONDAMNÉ À MORT</head>
         <div type="chapter">
           <head>I -- LES SAUDEURS</head>
           <p>Ce sont des paysages magnifiques et variés à l'infini : de grandes forêts, des rivières, des montagnes. Cela s'appelle les Ardennes ; c'est plein de souvenirs. Et nul ne saurait dire pourquoi la poésie s'est retirée de ces admirables campagnes.</p>
@@ -2175,9 +2173,7 @@
         </div>
       </div>
       <div type="group">
-        <p>
-          <label>DEUXIÈME PARTIE -- LES RUINES D'ORVAL</label>
-        </p>
+        <head>DEUXIÈME PARTIE -- LES RUINES D'ORVAL</head>
         <div type="chapter">
           <head>I -- LE VAL D'OR</head>
           <p>

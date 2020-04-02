@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00602" xml:lang="fr">
   <teiHeader>
@@ -16,55 +16,56 @@
       </titleStmt>
       <extent>
         <measure unit="words">104131</measure>
-        
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          Scan,
-          <date>2014</date>
-          ,
-          <idno/>
-          ,
-          
-          .
-        </bibl><bibl type="firstEdition">
-          <date>1886</date>
-          ,
-          <idno/>
-          ,
-          
-          .
-        </bibl></sourceDesc>
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource"> Scan, <date>2014</date> ,
+          <idno /> , . </bibl>
+        <bibl type="firstEdition">
+          <date>1886</date> ,
+          <idno /> , .
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-14">cf Revised teiHeader.</change>
       <change when="2014-08-27">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="chapter">
-        <p>
-          <label>Chapitre 1</label>
-        </p>
+
+        <head>Chapitre 1</head>
         <p>C’est l’hiver, l’affreux hiver de Paris, la saison maudite où le ciel fond en eau sur les pauvres diables qui pataugent dans la boue, faute d’argent pour prendre un fiacre.</p>
         <p>Il fait nuit et la pluie, chassée par des rafales de l’ouest, fouette au visage les passants qui cheminent à contre-vent sur les larges trottoirs su boulevard Montmartre.</p>
         <p>Ceux-là se font des boucliers avec leurs parapluies ; ceux qui viennent en sens inverse se servent des leurs pour se garantir par derrière, et, comme les uns et les autres avancent en courbant la tête sous l’averse, il se produit des abordages.</p>
@@ -390,7 +391,7 @@
         <p>-- Rassurez-vous, mademoiselle, l’affaire s’arrangera et si vous n’avez pas d’autre sujet de chagrin…</p>
         <p>-- Mme de Malvoisine vient de me signifier qu’elle me renvoie. Demain, je quitterai sa maison.</p>
         <p>-- Ah ! c’est indigne !… Et sous quel prétexte… ?</p>
-        <p>Que vous reproche-t-elle ? Serait-ce de m’avoir répondu quand je vous ai parlé  ?… Alors ce serait moi qui serais cause…</p>
+        <p>Que vous reproche-t-elle ? Serait-ce de m’avoir répondu quand je vous ai parlé ?… Alors ce serait moi qui serais cause…</p>
         <p>-- Ne vous en affligez pas, monsieur. J’étais lasse de supporter les humiliations dont on m’abreuve ici. Je vivrai comme j’ai toujours vécu… de mon art… Et, du moins, je serai libre.</p>
         <p>-- Et je ne vous verrai plus ! s’écria Robert.</p>
         <p>-- Pourquoi pas ? J’ai confiance en vous. Dites-moi où je puis vous écrire et si vous me promettez de ne m’offrir que votre amitié…</p>
@@ -399,9 +400,8 @@
         <p>Il s’inclina et sortit précipitamment du salon. Il emportait une espérance qui le consolait un peu de sa perte, et il lui tardait d’être seul pour réfléchir aux incidents de cette soirée dont il ne prévoyait guère les suites.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Chapitre 2</label>
-        </p>
+
+        <head>Chapitre 2</head>
         <p>À vingt-quatre ans qu’il avait, Robert de Bécherel n’était pas encore revenu des illusions et des enthousiasmes de sa première jeunesse. Il devait cette prolongation d’adolescence à l’éducation qu’il avait reçue.</p>
         <p>Fils d’un père qui ne prenait rien au sérieux et d’une mère pieuse jusqu’à l’austérité, tendre jusqu’à la faiblesse, ignorante du mal et ne sachant rien du monde, Robert tenait de tous les deux, par ses défauts et par ses qualités.</p>
         <p>De son père, il avait hérité l’insouciance, ou plutôt l’inconscience des devoirs de la vie et une fâcheuse légèreté de conduite. De sa mère, il avait la bonté du cœur, la délicatesse des sentiments, et aussi une naïveté dangereuse dont il ne s’était pas encore corrigé. Trois années passées dans l’ancienne capitale de la Bretagne, après son volontariat, lui avaient plutôt nui que servi.</p>
@@ -748,9 +748,8 @@
         <p>C’était signé : Violette.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Chapitre 3</label>
-        </p>
+
+        <head>Chapitre 3</head>
         <p>Le mois de février touchait à sa fin et on sentait déjà l’approche du printemps. Le soleil un peu pâle de la saison brillait dans un ciel sans nuages et l’hiver semblait faire ses adieux aux Parisiens, en leur concédant une journée tiède et sereine, après tant de bourrasques et de frimas.</p>
         <p>C’était un temps fait à souhait pour la promenade et pour les rendez-vous en plein air. Tous les privilégiés que le labeur quotidien n’enchaîne pas à leur bureau ou à leur boutique s’étaient répandus par les rues. Des femmes élégantes flânaient à pied devant les étalages des bijouteries de la rue de la Paix, et l’avenue des Champs-Élysées était encombrée d’équipages qui montaient vers le bois.</p>
         <p>À deux heures moins le quart, Robert de Bécherel entra dans le jardin des Tuileries par la rue de Rivoli, et le traversa au pas accéléré pour arriver à la terrasse du bord de l’eau. La veille, après avoir écrit à sa mère une lettre plus courte qu’il n’aurait fallu, il avait passé une soirée à réfléchir solitairement aux événements du jour qui venait de finir et de la nuit précédente.</p>
@@ -1016,9 +1015,8 @@
         <p>-- Tertio, enfin, que je vais m’occuper de ta protégée. Je tâcherai de lui faire obtenir une audition aux Fantaisies Lyriques, et d’autre part, je t’aiderai dans tes recherches… je me sens même de force à t’accompagner dans tes voyages de découvertes… au Havre ou ailleurs. Maintenant j’ai dit, et j’ai besoin d’être seul. File au pas accéléré et viens déjeuner demain matin.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Chapitre 4</label>
-        </p>
+
+        <head>Chapitre 4</head>
         <p>Après le court entretien qu’il avait eu, en plein air, avec le colonel Mornac, Robert de Bécherel était rentré chez lui tout réconforté. Ce colonel philosophe se trouvait être précisément le Mentor qu’il lui fallait : un Mentor indulgent, mais résolu, qui excusait les fautes, sans transiger avec les principes. Il avait suffi qu’il se prononçât énergiquement pour que Robert comprît ce que valait l’aimable Gustave qui jouait si lestement avec l’argent et avec le crédit d’un camarade, retrouvé par hasard, après des années d’oubli.</p>
         <p>Robert, maintenant, était fermement décidé à laisser dans la caisse de l’agent de change le produit d’une opération faite sans son consentement, et à planter là le remisier peu scrupuleux qui s’était servi de son nom.</p>
         <p>Il se promettait aussi d’en finir sans retard avec le sieur Marcandier, dit Rubis-sur-l’ongle, qui ne lui inspirait aucune confiance. Mieux valait assurément avoir pour créancier M. de Mornac, ancien ami de son père, que de rester à la discrétion d’un usurier suspect. Mais ce qui le comblait de joie, c’était que le colonel consentait à faciliter les débuts de l’intrépide jeune fille. Il encourageait Robert dans son hardi dessein de chercher la famille de cette pauvre abandonnée. C’était plus que n’espérait l’ex-secrétaire particulier de M. Lafitte.</p>
@@ -1280,9 +1278,8 @@
         <p>Robert prit la main que la jeune fille lui tendait et elle ne la retira pas quand il y mit un baiser. Il s’en alla, le cœur pris et la tête en feu. Mais il n’hésitait plus à ouvrir une campagne contre les ennemis de Violette et il se jurait à lui-même de mener à fin la hasardeuse entreprise où il allait s’engager.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Chapitre 5</label>
-        </p>
+
+        <head>Chapitre 5</head>
         <p>Robert de Bécherel ne s’était pas trompé. Mme de Malvoisine et Mlle Herminie l’avaient parfaitement vu, du haut du perron de leur hôtel, au moment où elles allaient monter dans leur victoria.</p>
         <p>C’était l’heure où elles sortaient en voiture, pour peu qu’il fit beau et, comme ce jour-là, le temps était superbe, elles n’avaient garde de manquer cette occasion de se produire aux yeux du tout-Paris qui fréquente les Champs-Élysées. Les femmes qui ne sont pas du vrai monde tiennent à le connaître au moins de vue et ne perdent jamais l’espoir de s’y glisser. C’était le cas de la comtesse de la rue du Rocher, et tous ses efforts tendaient à prendre pied dans cette société parisienne où, quoi qu’on en dise, on n’entre pas en prouvant qu’on est très riche. De plus millionnaires que Mme de Malvoisine sont restées à la porte et sa persévérance n’avait pas encore été récompensée.</p>
         <p>Elle était bien arrivée à côtoyer les grandes mondaines aux premières représentations, aux fêtes de charité, aux expositions des cercles, mais elle n’avait jamais pu parvenir à être reçue dans un salon bien posé, et le sien n’était fréquenté que par des hommes de plaisir et par des déclassées.</p>
@@ -1560,9 +1557,8 @@
         <p>Sur cette conclusion, le colonel s’en alla retrouver son cheval qui l’attendait dans la cour et Bécherel n’essaya pas de le retenir.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Chapitre 6</label>
-        </p>
+
+        <head>Chapitre 6</head>
         <p>Robert de Bécherel savait gré au colonel d’être venu lui dénoncer les trames des ennemis de Violette, mais il n’était pas fâché de le voir partir, car il se trouvait dans une de ces dispositions d’esprit où un homme a besoin d’être seul.</p>
         <p>Après sa visite rue de Constantinople, Robert s’était décidé à entreprendre, le soir même, l’exploration du grenier où gémissait une femme qui pouvait être la mère disparue de sa jeune amie. Un mot avait suffi pour le mettre sur cette nouvelle voie. Violette s’était souvenue tout à coup qu’elle s’appelait Simone, et ce nom, la séquestrée l’avait écrit avec son sang sur le papier qu’elle avait lancé dans la ruelle, par une des ouvertures du toit de sa prison. C’était bien assez pour que Robert essayât d’arriver jusqu’à elle.</p>
         <p>Il n’avait pas dit à Violette un mot de son projet, parce qu’il craignait de lui donner un espoir qui ne se réaliserait pas ; et il s’était hâté de rentrer chez lui. Il y avait trouvé la lettre de sa mère et cette lettre l’avait profondément ému, mais elle n’avait fait que l’affermir dans le dessein qu’il venait de former.</p>
@@ -1797,9 +1793,8 @@
         <p>Après avoir fumé d’innombrables cigares et fait cent tours dans sa chambre, Bécherel se résigna à se coucher dans un lit qui ne valait pas celui de son appartement du faubourg Poissonnière. Il eut quelque peine à s’endormir, mais, la fatigue aidant, il finit par fermer les yeux, en répétant tout bas : Fantaisies Lyriques !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Chapitre 7</label>
-        </p>
+
+        <head>Chapitre 7</head>
         <p>Trois semaines se sont passées et Robert de Bécherel n’a pas recommencé l’expédition qui lui a si mal réussi. Il a beaucoup pensé, pendant quelques jours, à la malheureuse femme qu’il a laissée à la merci de ses persécuteurs ; plus d’une fois même, il a été tenté d’aller raconter son aventure au commissaire de police du quartier des Martyrs, et il s’y serait probablement décidé, s’il n’eût pas été absorbé par des préoccupations intimes. À Rennes, où il menait la vie désœuvrée des provinciaux, il serait allé faire sa déclaration dès le lendemain ; à Paris, dans la situation particulière où il se trouvait, il était assez naturel qu’il y mît moins d’empressement.</p>
         <p>Depuis cette nuit mémorable où il était descendu dans le grenier, après une périlleuse excursion sur les toits, les jours s’étaient envolés comme des heures et le souvenir de la séquestrée s’était effacé peu à peu de son esprit.</p>
         <p>Pour s’excuser à ses propres yeux de l’avoir oubliée si vite, il se disait qu’il serait encore temps de lui porter secours quand Violette aurait débuté. Si Violette réussissait, elle n’aurait plus besoin de lui ; si elle tombait, il lui resterait encore l’espoir de retrouver ses parents, au Havre ou ailleurs, puisque ce n’était pas sa mère qui pâtissait dans la geôle de la rue Rodier.</p>
@@ -2040,9 +2035,8 @@
         <p>M. de Mornac s’éloigna sans que Robert osât lui tendre la main. Après avoir douté de la loyauté de son meilleur ami, il doutait maintenant de l’innocence de Violette.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Chapitre 8</label>
-        </p>
+
+        <head>Chapitre 8</head>
         <p>Pendant que les incidents se succédaient dans la salle, d’autres se succédaient sur la scène des Fantaisies Lyriques. Ce soir-là, le drame était partout.</p>
         <p>Depuis qu’elle était arrivée au théâtre, à l’heure où Robert de Bécherel finissait de dîner aux Champs-Élysées, Violette avait passé par toutes les épreuves qui attendent une débutante et elle les avait supportées avec une patience héroïque : les encouragements de son directeur, encouragements tout à fait superflus au dernier moment ; les conseils des auteurs lui recommandant de soigner tel ou tel passage de son rôle ; les félicitations anticipées et quelque peu ironiques des autres artistes ; les tracasseries de l’habilleuse qui voulait absolument raccourcir la jupe du costume ; les lenteurs du coiffeur qui n’en finissait pas de la coiffer en fauvette.</p>
         <p>Le colonel avait eu l’esprit de se tenir à l’écart jusqu’à ce qu’elle descendit de sa loge, à l’appel du régisseur, et à cet instant décisif, il s’était borné à lui adresser quelques paroles affectueuses. Aussi était-elle en possession de tous ses moyens quand elle fit sa première entrée. Elle avait gardé toute sa lucidité, à ce point qu’elle reconnut parfaitement Herminie à l’avant-scène du rez-de-chaussée et Robert aux fauteuils d’orchestre.</p>
@@ -2223,9 +2217,8 @@
         <p>-- Cet homme, c’est Robert, pensait Violette, et je comprends maintenant pourquoi, il y a quinze jours, il me promettait de me rendre ma mère.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Chapitre 9</label>
-        </p>
+
+        <head>Chapitre 9</head>
         <p>Bécherel, après la courte explication qu’il avait eue avec le colonel, était rentré chez lui, désespéré.</p>
         <p>Il ne soupçonnait plus M. de Mornac, mais il doutait encore de Violette, et la pensée qu’elle avait pu se laisser tenter par les propositions d’un Galimas le faisait horriblement souffrir. Il cherchait à se persuader du contraire et il n’y parvenait pas.</p>
         <p>Par surcroît de malheur, il se trouvait condamné provisoirement à l’inaction. Qu’aurait-il pu faire ? À qui redemander Violette ? Galimas et Marcandier lui auraient ri au nez, s’il était venu la réclamer chez eux. Il ne s’agissait plus cette fois de grimper sur un toit et de descendre dans un grenier pour délivrer une prisonnière. Il s’agissait avant tout de savoir à qui s’en prendre et de découvrir la maison où Violette était allée, volontairement ou non, en sortant du théâtre. Et dans Paris immense où trouver la disparue ?</p>
@@ -2505,9 +2498,8 @@
         <p>Bécherel obéit sans répliquer et tout se passa comme le voulait M. de Mornac. Il avait fait bonne besogne, cet intrépide colonel. Grâce à lui, Violette était sauvée, Robert ne craignait plus de la perdre. Il ne leur restait qu’à être heureux.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Épilogue</label>
-        </p>
+
+        <head>Épilogue</head>
         <p>Six mois ont passé sur cette histoire et Paris l’a oubliée. Il faut dire que Paris n’en a su qu’une partie. La disparition de Violette, au milieu d’une première représentation aux Fantaisies Lyriques, a fait beaucoup de bruit et tous les journaux s’en sont occupés pendant huit jours. Mais aucun n’a soupçonné la vérité. On a cru à une aventure galante ou à un caprice de jolie femme. Et le directeur, l’infortuné Cochard, a supporté seul les conséquences de cette fugue. Encore son ex-pensionnaire, devenue millionnaire tout à coup, l’a-t-elle largement indemnisé des pertes d’argent que lui a infligées la brusque fermeture de son théâtre.</p>
         <p>Les événements qui ont suivi l’enlèvement de Violette ont porté à ses persécuteurs un coup plus rude. Herminie et sa mère ont appris en même temps le suicide de Morgan et la résurrection de sa fille légitime. Plus d’héritage ! Morgan, avant de se tuer, avait brûlé son testament. Et impossibilité absolue de contester la filiation de Simone, Morgan ayant pris soin de remettre sous pli au colonel les pièces qui établissaient cette filiation d’une façon certaine.</p>
         <p>Ces dames de la rue du Rocher ont consulté des avocats illustres qui leur ont démontré l’inanité de leurs prétentions. Un enfant non reconnu ne peut recueillir la succession de son père naturel qu’en vertu d’un testament régulier. Et Herminie n’avait pas pris la peine de se faire donner un double du testament détruit. Sur quelles bases auraient-elles pu intenter un procès à Mlle Morgan ?</p>
@@ -2535,8 +2527,8 @@
       </div>
     </body>
     <back>
-      <div type="notes"/>
-      <div type="liminal"/>
+      <div type="notes" />
+      <div type="liminal" />
     </back>
   </text>
 </TEI>
