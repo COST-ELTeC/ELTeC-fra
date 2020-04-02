@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02501" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">73698</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -57,9 +57,7 @@
   <text>
     <body>
       <div type="chapter">
-        <p>
-          <label>I</label>
-        </p>
+        <head>I</head>
         <p>Le livret de marin de mon frère Yves ressemble à tous les autres livrets de tous les autres marins.</p>
         <p>Il est recouvert d'un papier parchemin de couleur jaune, et, comme il a beaucoup voyagé sur la mer, dans différents caissons de navire, il manque absolument de fraîcheur.</p>
         <p>En grosses lettres, il y a sur la couverture :</p>
@@ -75,9 +73,7 @@
         <p>Premières années, où il gagnait par mois quinze francs, dont il gardait dix pour sa mère ; années passées la poitrine au vent, à vivre demi-nu en haut de ces grandes tiges oscillantes qui sont des mâts de navire, à errer sans souci de rien au monde sur le désert changeant de la mer ; années plus troublées, où l'amour naissait, prenait forme dans l'âme vierge et inculte, -- puis se traduisait en ivresses brutales ou en rêves naïvement purs au hasard des lieux où le vent le poussait, au hasard des femmes jetées entre ses bras ; éveils terribles du cœur et des sens, grandes révoltes, et puis retour à la vie ascétique du large, à la séquestration sur le couvent flottant ; il y a tout cela sous-entendu derrière ces chiffres, ces noms et ces dates qui s'accumulent, année par année, sur un pauvre livret de marin. Tout un étrange grand poème d'aventures et de misères tient là entre les feuillets jaunis.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II</label>
-        </p>
+        <head>II</head>
         <p>Le 28 août 1851, il faisait, paraît-il, un beau temps d'été à Saint-Pol-de-Léon, dans le Finistère.</p>
         <p>Le soleil pâle de la Bretagne souriait et faisait fête à ce petit nouveau venu, qui devait plus tard tant aimer le soleil et tant aimer la Bretagne. Yves apparut dans ce monde sous la forme d'un gros bébé tout rond et tout bronzé. Les bonnes femmes présentes à son arrivée lui donnèrent le surnom de Bugel-Du, qui, en français, signifie : petit enfant noir. C'était, du reste, de famille, cette couleur de bronze, les Kermadec, de père en fils, ayant été marins au long cours et gens fortement passés au hâle de mer.</p>
         <p>Un beau jour d'été à Saint-Pol-de-Léon, c'est-à-dire une chose rare dans cette région de brumes : une espèce de rayonnement mélancolique répandu sur tout ; la vieille ville du moyen âge comme réveillée de son morne sommeil dans le brouillard, et rajeunie ; le vieux granit se chauffant au soleil ; le clocher de Creizker, le géant des clochers bretons, baignant dans le ciel bleu, en pleine lumière, ses fines découpures grises marbrées de lichens jaunes. Et tout alentour la lande sauvage, aux bruyères roses, aux ajoncs couleur d'or, exhalant une senteur douce de genêts fleuris.</p>
@@ -90,9 +86,7 @@
         <p>Toute la vie, cette humiliation resta sur le cœur d'Yves ; il ne sut jamais pardonner ce mauvais accueil fait à son entrée dans ce monde, ni ces larmes cruelles versées par sa mère ; il en garda au clergé romain une rancune inoubliable et ferma à notre mère l'église son cœur breton.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III</label>
-        </p>
+        <head>III</head>
         <p>C'était vingt-quatre ans plus tard, un soir de décembre, à Brest.</p>
         <p>La pluie tombait, fine, froide, pénétrante, continue ; elle ruisselait sur les murs, rendant plus noirs les hauts toits d'ardoise, les hautes maisons de granit ; elle arrosait comme à plaisir cette foule bruyante du dimanche qui grouillait tout de même, mouillée et crottée, dans les rues étroites, sous un triste crépuscule gris.</p>
         <p>Cette foule du dimanche, c'étaient des matelots ivres qui chantaient, des soldats qui trébuchaient en faisant avec leur sabre un bruit d'acier, des gens du peuple allant de travers, -- ouvriers de grande ville à la mine tirée et misérable, des femmes en petit châle de mérinos et en coiffe pointue de mousseline, qui marchaient le regard allumé, les pommettes rouges, avec une odeur d'eau-de-vie ; -- des vieux et des vieilles à l'ivresse sale, qui étaient tombés et qu'on avait ramassés, et qui s'en allaient devant eux le dos plein de boue.</p>
@@ -138,9 +132,7 @@
         <p>Yves, par prudence, avait confié à bord, à son ami Barrada, tout son argent, qu'il destinait à sa mère, gardant seulement dans sa poche cinquante francs pour sa nuit.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV</label>
-        </p>
+        <head>IV</head>
         <p>« Et mon mari aussi, Madame Quémeneur, quand il est soûl, tout le temps il dort.</p>
         <p>-- Vous faites votre petit tour aussi, Madame Kervella ?</p>
         <p>-- Et j'attends mon mari, moi aussi donc, qui est arrivé aujourd'hui sur le Catinat.</p>
@@ -179,9 +171,7 @@
         <p>La nuit s'avançait ; les mauvais lieux seuls restaient ouverts, et, dans les rues, la pluie tombait toujours sur l'exubérance des gaietés sauvages...</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V</label>
-        </p>
+        <head>V</head>
         <p>... Six heures du matin, le lendemain. Une masse noire ayant forme humaine dans un ruisseau, -- au bord d'une espèce de rue déserte surplombée par des remparts. -- Encore l'obscurité ; encore la pluie, fine et froide ; et toujours le bruit de ce vent d'hiver -- qui avait veillé, comme on dit en marine, et passé la nuit à gémir.</p>
         <p>C'était en bas, un peu au-dessous du pont de Brest, au pied des grands murs, à cet endroit où traînent d'habitude les marins sans gîte, ivres morts, qui ont eu une intention vague de retourner vers leur navire et sont tombés en route.</p>
         <p>Déjà une demi-lueur dans l'air ; quelque chose de terne, de blafard, un jour d'hiver se levant sur du granit. L'eau ruisselait sur cette forme humaine qui était à terre, et, tout à côté, tombait en cascade dans le trou d'un égout.</p>
@@ -199,9 +189,7 @@
         <p>La mer était mauvaise ; le vent debout. Ils louvoyèrent longtemps et ils eurent du mal pour atteindre leur navire.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI</label>
-        </p>
+        <head>VI</head>
         <p>... Yves s'éveilla lentement vers le soir ; C'étaient d'abord des sensations de douleur, qui revenaient une à une, comme au sortir d'une espèce de mort. Il avait froid, froid jusqu'au cœur de ses membres.</p>
         <p>Surtout il était engourdi et meurtri, -- étendu depuis des heures sur une couche dure : alors il essaya un premier effort, à peine conscient, pour se retourner. Mais son pied gauche, qui lui fit tout à coup grand mal, était pris dans une chose rigide contre laquelle on sentait bien qu'il n'y avait pas de lutte possible. -- Ah ! oui, il reconnaissait cette sensation, il comprenait maintenant : les fers !...</p>
         <p>Il connaissait bien déjà ce lendemain inévitable des grandes nuits de plaisirs : être rivé à la barre par une boucle, pour des jours entiers ! Et ce lieu où il devait être, il le devinait sans prendre la peine d'ouvrir les yeux, ce recoin étroit comme une armoire, et sombre, et humide, avec une odeur de renfermé et un peu de jour pâle tombant d'en haut par un trou : la cale du Magicien !</p>
@@ -233,9 +221,7 @@
         <p>Sans doute, à cette heure, personne ne descendrait plus dans la cale. Yves était seul par terre rivé à sa boucle, l'anneau de fer au pied, et maintenant ses dents claquaient.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII</label>
-        </p>
+        <head>VII</head>
         <p>Pourtant, une heure après, Jean Barrada reparut encore, ayant l'air d'être venu ranger un de ces palans dont on se sert pour les canons.</p>
         <p>Et, cette fois, Yves l'appela tout bas :</p>
         <p>« Barrada, tu devrais bien me donner un peu d'eau douce pour boire. »</p>
@@ -251,9 +237,7 @@
         <p>Il avait aussi espoir en moi, et puis, surtout, envie de me voir. Et il pria Barrada de monter me chercher.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII</label>
-        </p>
+        <head>VIII</head>
         <p>Il y avait sept ans qu'Yves était mon ami quand il fit cette équipée de retour.</p>
         <p>Nous étions entrés dans la marine par des portes différentes : lui, deux années avant moi, bien qu'il fût de quelques mois le plus jeune.</p>
         <p>Le jour où j'étais arrivé à Brest, en 1867, pour y prendre ce premier uniforme de marin en toile dure, que je vois encore, le hasard m'avait fait rencontrer Yves Kermadec chez un protecteur à lui, un vieux commandant qui avait connu son père. Yves était alors un enfant de seize ans. On me dit qu'il allait passer novice après deux années de mousse. Pour le moment, il revenait de son pays, à l'expiration d'une permission de huit jours qu'on lui avait donnée ; il semblait avoir le cœur très gros des adieux qu'il venait de faire pour longtemps à sa mère. Cela, et notre âge, qui était à peu près le même, c'était entre nous deux points communs.</p>
@@ -303,9 +287,7 @@
         <p>C'était tout ce que je pouvais pour lui, car son Plouherzel était bien loin de Brest, dans les Côtes-du-Nord, au fond d'un pays perdu, et on n'avait encore construit par là aucun chemin de fer capable, en une journée, de nous y conduire.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX</label>
-        </p>
+        <head>IX</head>
         <p>5 mai 1875.</p>
         <p>Il y avait des années qu'Yves rêvait de revoir ce Saint-Pol-de-Léon, le pays de sa naissance.</p>
         <p>Du temps que nous naviguions ensemble sur la mer brumeuse, souvent en passant au large, balancés par la houle grise, nous avions vu le clocher légendaire de Creizker se dresser dans les lointains noirs, au-dessus de cette bande triste et monotone qui représentait là-bas la terre de Bretagne, le pays de Léon.</p>
@@ -328,9 +310,7 @@
         <p>Des petites filles bretonnes chassent devant elles des troupeaux de moutons dans les bruyères ; de jeunes gars les effarouchent en caracolant sur des chevaux nus ; des carrioles passent, chargées de femmes en coiffe blanche qui s'en vont entendre la messe à la ville. Les cloches sonnent la route s'anime joyeusement, nous arrivons.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X</label>
-        </p>
+        <head>X</head>
         <p>Quand nous eûmes déjeuné tous deux dans l'auberge la plus comme il faut, nous trouvâmes que la matinée d'hiver avait fait place à une belle journée de mai. Dans les petites rues solitaires, des branches de lilas, des grappes de glycines, des digitales roses que personne n'avait semées égayaient les murs gris ; il y avait du vrai soleil, et tout sentait le printemps.</p>
         <p>Et Yves regardait partout, s'étonnant qu'aucun souvenir ne lui revînt de sa petite enfance, cherchant, cherchant très loin dans sa mémoire, ne reconnaissant rien, et alors, peu à peu, se trouvant désenchanté.</p>
         <p>Sur la grand'place de Saint-Pol, la foule du dimanche était assemblée, et c'était comme un tableau du Moyen ge. La cathédrale des anciens évêques de Léon dominait cette place, l'écrasait de sa masse aux dentelures noires, y jetant une grande ombre des temps passés. Autour, il y avait des maisons antiques à pignons et à tourelles ; tous les buveurs du dimanche, portant de travers leur feutre large, étaient attablés devant les portes. Cette foule en habits bretons, qui était là vivante et alerte, était encore pareille à celle des anciens jours ; dans l'air, on n'entendait vibrer que les syllabes dures, le ya septentrional de la langue celtique.</p>
@@ -377,9 +357,7 @@
         <p>« Demain matin, disait Yves, il faudra que vous me permettiez d'entrer de bonne heure dans votre chambre, à bord, pour écrire sur votre bureau. Je voudrais raconter tout cela à ma mère avant de partir de France. Et, tenez je suis sûr que les larmes lui viendront dans les yeux quand on lui lira ma lettre. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XI</label>
-        </p>
+        <head>XI</head>
         <p>Juin 1875.</p>
         <p>...C'était par le vingtième parallèle de latitude, dans la région des alizés, un matin vers six heures ; sur le pont d'un navire qui était là tout seul au milieu du bleu immense, un groupe de jeunes hommes se tenait, le torse nu, au soleil levant.</p>
         <p>C'était la bande d'Yves, les gabiers de misaine et ceux du beaupré.</p>
@@ -423,9 +401,7 @@
         <p>Et la mer aussi éclairait par en dessous. Il y avait une sorte d'immense lueur diffuse dans les eaux. Les mouvements les plus légers, le navire dans sa marche lente, le requin en se retournant derrière, dégageaient dans les remous tièdes des clartés couleur de ver-luisant. Et puis, sur le grand miroir phosphorescent de la mer, il y avait des milliers de flammes folles ; c'étaient comme des petites lampes qui s'allumaient d'elles-mêmes partout, mystérieuses, brûlaient quelques secondes et puis mouraient. Ces nuits étaient pâmées de chaleur, pleines de phosphore, et toute cette immensité éteinte couvait de la lumière, et toutes ces eaux enfermaient de la vie latente à l'état rudimentaire comme jadis les eaux mornes du monde primitif.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII</label>
-        </p>
+        <head>XII</head>
         <p>Il y avait quelques jours que nous avions quitté ces tranquillités de l'équateur, et nous filions doucement vers le sud, poussés par l'alizé austral. Un matin Yves entra très affairé dans ma chambre pour préparer ses lignes à prendre les oiseaux. « On avait vu, disait-il, les premiers damiers derrière. »</p>
         <p>Ces damiers sont des oiseaux du large, proches parents des goélands, et les plus jolis de toute cette famille de la mer : d'un blanc de neige, les plumes douces et soyeuses, avec un damier noir finement dessiné sur les ailes.</p>
         <p>Les premiers damiers ! C'est déjà un grand éloignement qu'indique leur seule présence, signe qu'on a laissé bien loin derrière soi notre hémisphère boréal et qu'on arrive aux régions froides qui sont sur l'autre versant du monde, là-bas vers le sud.</p>
@@ -435,9 +411,7 @@
         <p>Yves savait coudre très habilement, comme tous les bons matelots, et c'était drôle de le voir se livrer à ce travail, étant donnés son aspect et sa tournure. Dans ses visites du soir, il lui arrivait de passer en revue mes vêtements de bord et d'y faire des réparations qu'il jugeait mon domestique incapable d'exécuter comme il convenait.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIII</label>
-        </p>
+        <head>XIII</head>
         <p>Nous marchions toujours, toujours, avec toutes nos voiles, vers le sud.</p>
         <p>Maintenant, c'étaient des nuées de damiers et d'autres oiseaux de mer qui voyageaient derrière nous. Ils nous suivaient étonnés et confiants, depuis le matin jusqu'à la nuit, criant, se démenant, volant par courbes folles, -- comme pour nous souhaiter la bienvenue à nous, autre grand oiseau aux ailes de toile, qui entrions dans leur domaine lointain et infini, l'océan Austral.</p>
         <p>Et leur troupe grossissait toujours à mesure que nous descendions. Avec les damiers, il y avait les pétrels gris-perle, le bec et les pattes légèrement teintés de bleu et de rose ; -- et les malamochs tout noirs ; -- et les gros albatros lourds, d'une teinte sale, avec leur air bête de mouton, avec leurs ailes rigides et immenses, fendant l'air, piaulant après nous. Même on en voyait un que les matelots se montraient : un amiral, oiseau d'une espèce rare et énorme, ayant sur ses longues pennes les trois étoiles dessinées en noir.</p>
@@ -454,17 +428,13 @@
         <p>Et Yves, lui, n'avait guère que son pauvre hamac balancé, où, une nuit sur deux, on lui laissait le loisir de dormir un peu chaudement.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIV</label>
-        </p>
+        <head>XIV</head>
         <p>Ce fut un matin, à l'entrée de la mer des Célèbes, que mourut cette chouette qui était la perruche d'Yves, un matin de grand vent où on prenait le second ris aux huniers. Elle se laissa écraser, par insouciance, entre le mât et la vergue.</p>
         <p>Yves, qui entendit son cri rauque, vola à son secours, mais trop tard. Il redescendit de la hune, rapportant dans sa main sa pauvre perruche morte, aplatie, n'ayant plus forme d'oiseau, un mélange de sang et de plumes grises, au-dessus duquel remuait encore une pauvre patte crispée.</p>
         <p>Yves avait du chagrin, je le voyais bien dans ses yeux. Mais il se contenta de me la montrer sans rien dire, en mordant sa lèvre dédaigneuse. Puis il la lança à la mer, et le requin qui nous suivait la croqua comme une ablette.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XV</label>
-        </p>
+        <head>XV</head>
         <p>En Bretagne, l'hiver de 1876. La Sibylle était rentrée à Brest depuis deux jours, -- après avoir fini son tour complet par en-dessous, -- et j'étais avec Yves, un soir de février, dans une diligence de campagne qui nous emportait vers Plouherzel.</p>
         <p>C'était un recoin bien perdu que ce pays de sa mère. Cette voiture devait nous mener en quatre heures de Guingamp à Paimpol, où nous comptions passer la nuit ; et, de là, il nous faudrait encore marcher longtemps à pied pour arriver au village.</p>
         <p>Nous nous en allions, cahotés sur une mauvaise petite route, nous enfonçant de plus en plus dans le silence des campagnes tristes. La nuit d'hiver tombait sur nous lentement et une pluie très fine embrouillait les choses dans les buées grises. Les arbres passaient, passaient, montrant l'un après l'autre leur silhouette morte. De loin en loin, les villages passaient aussi ; -- villages bretons, chaumières noires au toit de paille moussue, vieilles églises à mince flèche de granit ; -- gîtes isolés, mélancoliques, qui se perdaient vite derrière nous dans la nuit.</p>
@@ -488,9 +458,7 @@
         <p>Ce fut là que je dis adieu à Yves et que je rebroussai chemin, moi qui n'allais pas jusqu'à Plouherzel. Quand nous eûmes chacun perdu le bruit de nos pas dans le silence de cette nuit d'hiver, le vieux petit homme mort nous revint en tête, et nous nous mîmes à regarder malgré nous dans les taillis noirs.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVI</label>
-        </p>
+        <head>XVI</head>
         <p>Le lendemain matin, j'ouvris les yeux dans la chambre immense de dame Le Pendreff. Le soleil breton filtrait discrètement par les fenêtres. Il devait faire très beau.</p>
         <p>Après ces quelques minutes qui sont toujours employées par moi à me demander dans quel coin du monde je m'éveille, je retrouvai l'image d'Yves et j'entendis dehors le piétinement d'une foule en sabots. Il y avait grande foire à Paimpol ce jour-là, et je fis une toilette de frère de la côte pour ne pas effaroucher tous les amis nouveaux auxquels j'allais être présenté comme un marin du midi. C'était entendu avec Yves, cette mise en scène et cette histoire.</p>
         <p>Je descendis sur le perron de l'hôtel, où le soleil donnait. La place était pleine de monde : des marins, des paysans, des pêcheurs. Yves était là, lui aussi ; revenu au petit jour pour cette foire avec tous ses parents de Plouherzel, il m'attendait en bas pour me conduire à sa mère.</p>
@@ -504,9 +472,7 @@
         <p>D'ailleurs, j'avais décidé de ne m'établir chez eux que demain, pour ne pas les gêner pendant cette première journée, et je m'en allai seul, me promener très loin.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVII</label>
-        </p>
+        <head>XVII</head>
         <p>Je marchais depuis une heure. -- Au hasard, j'avais pris le même chemin qu'hier avec Yves, -- et j'étais repassé devant cette croix de Kergrist.</p>
         <p>Maintenant Paimpol et la mer, et les îles, et les caps boisés de sapins sombres, tout cela venait de disparaître derrière un repli du terrain ; une campagne plus triste s'étendait devant moi.</p>
         <p>Cette journée de février était calme, très morne ; l'air était presque doux, et le ciel restait bleu par places, un peu voilé seulement, comme toujours est le ciel breton.</p>
@@ -539,9 +505,7 @@
         <p>J'avais oublié de dîner et je marchais d'un pas rapide, craignant d'arriver bien tard, de trouver là-bas la chaumière fermée et mes amis couchés.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVIII</label>
-        </p>
+        <head>XVIII</head>
         <p>Au bout d'une heure, j'étais au milieu de la campagne absolument égaré. Autour de moi rien que l'obscurité, le silence des nuits d'hiver. J'errais dans des sentiers détrempés ; personne à qui demander ma route, aucun hameau, aucune lumière. Toujours des silhouettes noires d'arbres. Et puis, de loin en loin, des calvaires ; il y en avait de très grands que je n'avais jamais rencontrés dans ma promenade du jour.</p>
         <p>Je rebroussai chemin en courant. Je courus longtemps dans toutes les directions. Une pluie glaciale commençait à tomber, chassée par le vent qui se levait. Cela m'était égal d'être égaré ; seulement j'avais besoin de voir quelqu'un d'ami et je me pressais pour essayer de retrouver Yves.</p>
         <p>Il devait être fort tard quand je reconnus devant moi la chapelle de Plouherzel et le lac d'eau marine, où tombait une lueur de lune, et la masse noire de l'île de granit sur l'eau pâle, le dos de la grande bête couchée.</p>
@@ -556,9 +520,7 @@
         <p>Nous étions bien devant cette flamme qui séchait nos vêtements trempés de pluie, et nous attendions avec impatience la bonne soupe chaude qu'on allait nous servir.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIX</label>
-        </p>
+        <head>XIX</head>
         <p>Ces crêpes qu'on nous faisait ressemblaient à la lune, tant elles étaient larges ; on nous les passait à mesure toutes brûlantes, au bout d'une longue palette de frêne taillée en forme d'aviron de chaloupe.</p>
         <p>Yves en laissa choir une sur une grosse poule qu'on n'avait pas vue par terre et qui se sauva dans un recoin sombre, en secouant ce manteau d'un air revêche et offensé. J'avais bonne envie de rire et Jeannie aussi ; mais nous n'osions pas, sachant bien tous deux que c'était un signe de malheur.</p>
         <p>« Encore la grosse noire ! » dit la vieille mère, lâchant son rouet et regardant Yves d'un air consterné. « Jeannie, ma fille, rappelez-vous de l'envoyer demain matin vendre au marché ; c'est toujours la même qui rôde à l'heure où toutes les autres poules sont couchées ; elle finirait par nous attirer du mal. »</p>
@@ -612,9 +574,7 @@
         <p>C'est le vent de la mer qui nous tourmente.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XX</label>
-        </p>
+        <head>XX</head>
         <p>Quand il fallut partir, il se trouva qu'Yves était beaucoup plus gris qu'on n'aurait pu le croire. Dehors, il enfonçait jusqu'au genou dans les flaques d'eau et marchait tout de travers. Pour le ramener, je passai mon bras droit autour de sa taille, son bras gauche à lui par-dessus mes épaules, le portant presque. Nous ne voyions plus rien que le noir intense de la nuit ; un grand vent nous fouettait la poitrine, et, dans ces sentiers, Yves ne se reconnaissait plus.</p>
         <p>On était inquiet dans sa chaumière, et on veillait pour l'attendre. Sa mère le gronda, de son air dur, en prenant une grosse voix, comme on fait pour gronder les petits enfants, et lui s'en alla tout penaud s'asseoir dans un coin.</p>
         <p>Tout de même on nous obligea de souper une seconde fois ; c'est la coutume. Une omelette, encore des crêpes, et des tartines de pain bis avec du beurre. Ensuite, on procéda au coucher de la famille (les hommes d'abord, puis on éteint la lumière, et les femmes se couchent après). Il y avait sous nos matelas de hautes litières faites d'un amas de branches de chêne et de hêtre ; cela s'affaissait avec un bruit de feuilles sèches, et on se sentait descendre, enfoncer dans un creux qui vous tenait chaud.</p>
@@ -622,9 +582,7 @@
         <p>Quand la chandelle fut éteinte et que la chaumière fut noire, on entendit une voix douce de petite fille commencer une prière en breton (c'était une toute petite de quatre ans qu'on avait recueillie, un enfant que Gildas avait fait à une fille de Plouherzel, lors de son dernier passage au pays). Une très longue prière, coupée de répons graves de vieille femme ; tous les saints de la Bretagne : saints Corentin et Allain, saints Thénénan et Thégounec, saints Tuginal et Tugdual, saints Clet et Gildas furent invoqués, et puis le silence se fit. Tout près de moi, la respiration à peine perceptible d'Yves, déjà endormi d'un sommeil profond. -- Au pied de notre lit, les poules couchées, rêvant tout haut sur leur perchoir. Un grillon donnant de temps à autre, dans l'âtre encore chaud, une mystérieuse petite note de cristal. Et puis dehors, autour de la chaumière isolée, toujours ce vent : un gémissement immense courant sur tout le pays breton ; une poussée incessante venue de la mer avec la nuit et mettant dans la campagne un monotone remuement noir, à l'heure des apparitions et des promenades de morts.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXI</label>
-        </p>
+        <head>XXI</head>
         <p>« Bonjour, Yves !</p>
         <p>-- Bonjour, Pierre ! »</p>
         <p>Et nous ouvrons à la lumière grise du matin les auvents de notre armoire.</p>
@@ -650,9 +608,7 @@
         <p>« Ce n'est pas pour la religion, vous comprenez bien ; car, moi, vous savez, je n'aime pas beaucoup les curés. Non, une idée que j'ai comme ça, je ne peux pas vous dire pourquoi. Et, quand j'ai le malheur de penser à cette chose, ça m'empêche d'être brave. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXII</label>
-        </p>
+        <head>XXII</head>
         <p>Ce fut le soir, après souper, que la mère d'Yves me recommanda solennellement son fils, et cela resta toute la vie.</p>
         <p>Elle avait bien compris, avec son instinct de mère, que je n'étais pas ce que je paraissais être et que je pourrais avoir sur la destinée de son dernier fils une influence souveraine.</p>
         <p>« Elle dit, traduisait la jeune fille, que vous nous trompez, monsieur, et qu'Yves aussi nous trompe pour vous faire plaisir ; que vous n'êtes pas quelqu'un comme nous autres... Et elle demande, puisque vous naviguez ensemble, si vous voudrez veiller sur lui. »</p>
@@ -687,9 +643,7 @@
         <p>« Mais oui... Bien sûr... »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXIII</label>
-        </p>
+        <head>XXIII</head>
         <p>Nous n'eûmes pas longtemps à dormir, cette nuit-là, mon frère et moi, dans notre lit en armoire.</p>
         <p>Dès que le vieux coucou de la chaumière eut dit quatre heures de sa voix fêlée, vite il fallut nous lever ; nous devions être à Paimpol avant le jour, pour y prendre à six heures le diligence de Guingamp.</p>
         <p>À quatre heures et demie, ce triste matin d'hiver, la pauvre petite porte s'ouvre pour nous laisser sortir ; elle se referme sur un dernier baiser à Yves, de sa mère qui pleure, sur une dernière pression de main à moi. Nous nous éloignons tous deux dans la pluie froide et la nuit noire, et en voilà pour cinq ans.</p>
@@ -700,18 +654,14 @@
         <p>Et, le soir du même jour, à onze heures, nous arrivons à Brest pour reprendre la mer.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXIV</label>
-        </p>
+        <head>XXIV</head>
         <p>J'avais conscience d'avoir accepté une lourde charge en adoptant ce frère insoumis, d'autant plus que je prenais très au sérieux mon serment.</p>
         <p>Mais le sort nous sépara le surlendemain et mit bientôt entre nous deux la moitié de la terre.</p>
         <p>Yves prit le large dans l'Atlantique, et, moi, je partis pour le Levant, pour Stamboul.</p>
         <p>Ce fut seulement quinze mois plus tard, en mai 1877, que nous nous retrouvâmes à bord d'une certaine Médée, qui naviguait du côté de la Chine et des Indes.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXV</label>
-        </p>
+        <head>XXV</head>
         <p>À bord de la Médée, avril 1877.</p>
         <p>« Ça me va comme des guêtres à un lapin », disait Yves d'un air d'enfant, en contemplant ses manches pagodes et sa robe en soie bleue de Birmanie.</p>
         <p>C'était à Yé, ville de Siam, au bord du golfe de Bengale. Il était assis au fond d'une taverne de mariniers, sur un escabeau d'une forme chinoise.</p>
@@ -744,9 +694,7 @@
         <p>...Mais les Birmanes, montées comme des automates, dansèrent longtemps, longtemps, plus longtemps que lui. Et, après, à la fin de la nuit, quand les gongs eurent fait silence, les matelots furent pris de frayeur à l'idée que ces femmes, payées pour leur plaisir, les attendaient. Les uns après les autres, ils s'en allèrent du côté de la plage n'osant pas les approcher.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXVI</label>
-        </p>
+        <head>XXVI</head>
         <p>C'était le grand ami d'Yves, ce Barrada, qui s'était débrouillé, pour repartir une troisième fois sur le même navire que nous.</p>
         <p>Enfant naturel, poussé à la belle étoile sur les quais de Bordeaux. Très vicieux, avec un bon cœur ; plein de contrastes, certaines notions premières de respect humain lui manquaient absolument ; son honneur, à lui, c'était d'être plus beau que les autres, plus leste et plus fort, plus débrouillard aussi (débrouillard et débrouillage sont deux mots qui résument presque à eux seuls toute la marine ; ils n'ont pas d'équivalents académiques.)</p>
         <p>Moyennant salaire, ce Barrada professait à bord tous les genres d'exercices en usage parmi les matelots : boxe, canne, chausson, avec la gymnastique par-dessus le marché, et le chant, et la danse. Souple comme un clown ; l'ami de tous les hercules de foire posant chez des sculpteurs ; luttant pour de l'argent chez des saltimbanques.</p>
@@ -760,9 +708,7 @@
         <p>Et, en attendant cette petite fiancée, il s'abandonnait à beaucoup d'autres par intérêt souvent, quelquefois aussi par vraie bonté d'âme, à la manière d'Yves, pour ne pas faire de la peine.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXVII</label>
-        </p>
+        <head>XXVII</head>
         <p>En mer, mai 1877.</p>
         <p>Depuis deux jours, la grande voix sinistre gémissait autour de nous. Le ciel était très noir ; il était comme dans ce tableau où le poussin a voulu peindre le déluge ; seulement toutes les nuées remuaient, tourmentées par un vent qui faisait peur.</p>
         <p>Et cette grande voix s'enflait toujours, se faisait profonde, incessante ; c'était comme une fureur qui s'exaspérait. Nous nous heurtions dans notre marche à d'énormes masses d'eau, qui s'enroulaient en volutes à crêtes blanches et qui passaient avec des airs de se poursuivre ; elles se ruaient sur nous de toutes leurs forces : alors c'étaient des secousses terribles et de grands bruits sourds.</p>
@@ -818,9 +764,7 @@
         <p>Le gong, c'était la tempête qui en jouait, dehors, contre les murailles...</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXIX</label>
-        </p>
+        <head>XXIX</head>
         <p>Moi aussi, à minuit, quand j'eus fini mon quart et vu descendre Yves, je rentrai dans ma chambre pour essayer de dormir. Après tout, cela ne nous regardait plus ni l'un ni l'autre, le sort du navire ; nous avions fourni notre temps de veille et de travail. Nous pouvions nous coucher maintenant avec cette insouciance absolue qu'on a sur mer lorsque les heures de service sont finies.</p>
         <p>Dans ma chambre à moi, qui était sur le pont, l'air ne manquait pas, -- au contraire. Par les vitres brisées, toutes les rafales et la pluie furieuse pouvaient entrer ; les rideaux se tordaient en spirales et montaient au plafond avec des bruits d'ailes.</p>
         <p>Comme Yves, je suspendis mes vêtements mouillés. L'eau ruisselait sur ma poitrine.</p>
@@ -845,9 +789,7 @@
         <p>... Notre heure n'était pas venue sans doute ; car, le surlendemain, nous retrouvâmes le calme dans un port, en Chine, à Hong-Kong.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXX</label>
-        </p>
+        <head>XXX</head>
         <p>Septembre 1877.</p>
         <p>La Médée a rebroussé chemin depuis longtemps.</p>
         <p>Tous les vents, tous les courants l'ont favorisée. Elle a marché, marché si vite, pendant des jours et des nuits, qu'on en a perdu la notion des lieux et des distances. Vaguement on a vu passer le détroit de Malacca, franchi à la course ; la mer Rouge, remontée à la vapeur dans un éblouissement grand lion couché de Gibraltar. Maintenant on veille l'horizon, et la première terre qui paraîtra tout à l'heure sera une terre bretonne.</p>
@@ -860,9 +802,7 @@
         <p>Yves, à cette époque, était un petit garçon qu'on eût dit sérieux et sage, un petit novice breton, à la figure très douce, qui habitait le vaisseau d'à côté, la Bretagne, le voisin et le compagnon du Borda. Nous étions des enfants, alors, -- aujourd'hui des hommes faits, -- demain... la vieillesse, -- après-demain, mourir.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXXI</label>
-        </p>
+        <head>XXXI</head>
         <p>Dimanche, jour de grande soûlerie dans Brest.</p>
         <p>Dix heures du soir. -- Nuit calme, clair de lune sur la mer tranquille ; à bord de la Médée, les matelots ont fini de chanter leurs longues chansons, et le silence vient de se faire.</p>
         <p>Depuis la tombée de la nuit, mes yeux sont tournés vers les lumières de la ville. J'attends avec inquiétude cette chaloupe dont Yves est le patron : elle est allée à terre et ne revient pas.</p>
@@ -887,9 +827,7 @@
         <p>Pauvre Yves ! C'était la fatalité acharnée contre lui, car, cette fois, il n'était pas bien coupable. Et tout cela arrivait maintenant qu'il était plus sage, maintenant qu'il faisait de grands efforts pour ne plus boire et se bien conduire !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXXII</label>
-        </p>
+        <head>XXXII</head>
         <p>Quand je revins dans ma chambre lui dire qu'on allait le mettre aux fers, je le trouvai assis sur mon lit, les poings fermés, les dents serrées de rage. Sa mauvaise tête de Breton avait pris le dessus.</p>
         <p>En frappant du pied, il déclara qu'il n'irait pas, -- c'était trop injuste ! -- à moins qu'on ne l'y portât de force, et encore il démolirait les premiers qui viendraient pour le prendre.</p>
         <p>Alors, pour tout de bon, je le vis perdu, et l'angoisse commença à m'étreindre le cœur. Que faire ? Les hommes de garde étaient là, derrière ma porte, attendant pour l'emmener, et je n'osais pas ouvrir ; les secondes et les instants s'envolaient, et ce que je faisais n'avait plus de nom.</p>
@@ -905,9 +843,7 @@
         <p>Et je m'en allai autrement que je n'étais venu, emportant pour lui de la reconnaissance et de l'affection.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXXIV</label>
-        </p>
+        <head>XXXIV</head>
         <p>Un coin de la cale de la Médée, en plein désarmement, dans le plus grand désarroi. Un fanal éclaire un vaste fouillis d'objets hétérogènes plus ou moins grignotés par les rats.</p>
         <p>Une douzaine de matelots, -- Barrada, Guiaberry, Barazère, Le Hello, toute la bande des amis, -- entourent un homme couché par terre. C'est Yves qui est aux fers, étendu sur les planches humides, la tête appuyée sur son coude, le pied pris dans l'anneau à cadenas de la barre de justice.</p>
         <p>Son ennemi le plus acharné des trois, maître Lagatut, est devant lui, qui le menace avec sa vieille voix d'ivrogne. Il le menace d'une revanche de cette histoire de chaloupe, dans laquelle, à son gré, j'ai trop mis la main.</p>
@@ -918,9 +854,7 @@
         <p>... Ce n'était peut-être pas très correct, cette plaisanterie que je venais de faire. Mais la galerie, qui nous était très sympathique, jouissait beaucoup de ce triomphe d'Yves.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXXV</label>
-        </p>
+        <head>XXXV</head>
         <p>Huit jours après, c'était fini de notre frégate : désarmée au fond de l'arsenal, son équipage dispersé, autant dire un navire mort.</p>
         <p>Je m'en allais, et Yves venait m'accompagner au chemin de fer. La gare était encombrée de matelots : tous ceux de la Médée, qui partaient aussi ; d'autres encore, en bordée, venus pour les reconduire.</p>
         <p>Parmi eux, beaucoup d'anciennes connaissances à nous, des protégés, des amis d'Yves. Et tous ces braves gens, un peu gris, mettaient bas leur bonnet, nous faisant leurs adieux avec effusion. C'étaient les scènes habituelles de tous les désarmements : un bateau qui finit, c'est quelque chose à part ; c'est l'explosion de toutes les reconnaissances et de toutes les rancunes, de toutes les haines et de toutes les sympathies.</p>
@@ -932,9 +866,7 @@
         <p>« Eh bien, mais c'est très simple... » (Et je cherche longtemps cette chose simple, ne trouvant pas du tout.) « C'est très simple, tu mettras... Tu mettras : mon frère ; ce sera vrai d'abord et, en style épistolaire, ce sera très convenable. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXXVI</label>
-        </p>
+        <head>XXXVI</head>
         <p>Il y avait environ six semaines que la Médée avait été désarmée à Brest et que j'étais séparé d'Yves, quand un jour, à Athènes, je crois, je reçus cette surprenante lettre :</p>
         <p>« Brest, 15 septembre 1877.</p>
         <p>» Mon bon frère,</p>
@@ -959,9 +891,7 @@
         <p>Il y avait en elle quelque chose de candide et d'honnête qu'on aimait à regarder. Il me parut que je l'aurais précisément désirée ainsi si j'avais été chargé de la choisir moi-même pour mon frère Yves.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXXIX</label>
-        </p>
+        <head>XXXIX</head>
         <p>Le hasard les avait rapprochés tous deux un jour qu'elle était venue voir sa marraine à Brest.</p>
         <p>Le galant avait été vite en besogne, et elle, séduite par le grand air d'Yves, par son bon sourire doux, s'était laissée aller -- avec une certaine inquiétude cependant -- à ce mariage précipité, qui allait, pour commencer, la faire veuve pendant sept ou huit mois.</p>
         <p>Elle avait un peu de bien, comme on dit à la campagne, et devait s'en retourner, aussitôt après notre départ, chez ses parents, dans son village de Toulven.</p>
@@ -970,9 +900,7 @@
         <p>Et il embrassa sa femme qui pleurait. Nous partîmes. Encore une fois, nous nous en allions ensemble nous promener là-bas dans le domaine bleu des poissons volants et des dorades.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XL</label>
-        </p>
+        <head>XL</head>
         <p>15 novembre 1877.</p>
         <p>La veille de ce départ, Yves avait obtenu par faveur d'aller à terre dans le jour pour voir à l'hôpital maritime son grand frère Gildas, le pêcheur de baleines, qui venait d'arriver à moitié perdu et qu'il n'avait pas vu depuis dix ans.</p>
         <p>Gildas Kermadec était un homme de quarante ans, de haute taille, la figure plus régulière que celle d'Yves. On voyait encore dans ses grands yeux comme une flamme éteinte ; il avait dû être très beau.</p>
@@ -987,9 +915,7 @@
         <p>... Un mois plus tard, à notre première relâche, nous apprîmes que Gildas était mort. Alors Yves mit un crêpe à sa manche de laine.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XLI</label>
-        </p>
+        <head>XLI</head>
         <p>À bord de l'Ariane, mai 1878.</p>
         <p>... L'île de Ténériffe se dessinait devant nous comme une sorte de grand édifice pyramidal posé sur une immense glace réfléchissante qui était la mer. Les côtes tourmentées, les arêtes gigantesques des montagnes étaient rapprochées, rapetissées par la limpidité extrême, invraisemblable de l'air. On distinguait tout : les angles vifs un peu rosés, les creux un peu bleus. Et tout cela posait sur la mer comme une grande découpure légère, sans poids. Une bande très nette de nuages d'un gris nacré coupait Ténériffe horizontalement par le milieu, et, au-dessus, le pic dressait son grand cône baigné de soleil.</p>
         <p>Les goélands faisaient un tapage extraordinaire autour de nous ; ils étaient une bande qui criaient et battaient l'air de leurs ailes blanches, dans un de ces accès de frénésie qui les prend quelquefois on ne sait à quel propos.</p>
@@ -1005,9 +931,7 @@
         <p>Jamais nous ne l'appelions d'une autre manière.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XLII</label>
-        </p>
+        <head>XLII</head>
         <p>Brest, 15 juin 1878.</p>
         <p>Nous habitons pour aujourd'hui un logis de hasard, rue de Siam, à Brest, où l'Ariane est revenue mouiller ce matin.</p>
         <p>En réponse à l'avis de son arrivée, Yves a reçu de Toulven, du vieux Keremenen, la dépêche suivante :</p>
@@ -1019,9 +943,7 @@
         <p>« Je n'ose pas vous dire, mais, si vous vouliez, à Toulven, manger chez nous ? Dame, vous savez, chez mon beau-père, ça n'est pas comme à la ville, bien sûr. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XLIII</label>
-        </p>
+        <head>XLIII</head>
         <p>Brest, 15 juin 1878.</p>
         <p>Dès le matin, je pars pour Toulven, où Yves m'attend depuis hier.</p>
         <p>Temps splendide. La vieille Bretagne est verte et fleurie. Tout le long du chemin, de grands bois, des rochers.</p>
@@ -1032,9 +954,7 @@
         <p>Comment seront-ils, ces nouveaux parents de mon frère Yves, -- et ce pays qui va devenir le sien ?</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XLIV</label>
-        </p>
+        <head>XLIV</head>
         <p>Nous nous acheminons tous trois par des sentiers creux, très profonds, qui fuient devant nous sous le couvert des hêtres et qui sont tout pleins de fougères.</p>
         <p>C'est le soir ; le ciel est couvert, et il fait dans ces chemins une espèce de nuit qui sent le chèvrefeuille.</p>
         <p>Çà et là sont rangées, au bord, des chaumières grises, très antiques, tapissées de mousse.</p>
@@ -1051,17 +971,13 @@
         <p>On nous dit que Marie Kermadec est couchée dans un de ces lits dont on a refermé sur elle la petite porte de bois à jour, parce qu'elle vient de s'endormir ; nous baissons la voix de peur de l'éveiller, et nous sortons, Yves et moi, pour aller faire dans le village plusieurs démarches que nécessite la solennité de demain.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XLV</label>
-        </p>
+        <head>XLV</head>
         <p>Nous trouvons drôle de nous voir tous deux faisant acte de citoyens comme tout le monde. Chez m. Le maire, chez m. Le curé, nous nous sentons très empruntés, ayant même par instants des envies de rire.</p>
         <p>Petit goéland est définitivement inscrit au registre de Toulven sous les prénoms de Yves-Pierre, -- celui de son père, et le mien, comme c'est l'usage dans le pays. Quant à m. Le curé, il est convenu avec lui qu'il nous attendra demain matin, à neuf heures, à l'église, et qu'il y aura un te deum.</p>
         <p>« Maintenant rentrons tout droit, dit Yves ; le père doit être déjà de retour, et nous les retarderions pour souper. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XLVI</label>
-        </p>
+        <head>XLVI</head>
         <p>La nuit de juin descendait doucement, avec beaucoup de calme et de silence, sur le pays breton. Dans le chemin creux, on commençait à ne plus y voir.</p>
         <p>Le vieux Corentin Keremenen était de retour, en effet, de son travail aux champs et nous attendait sur sa porte. Même il avait eu le temps de faire sa toilette : il avait mis son grand chapeau à boucle d'argent et sa veste des fêtes en drap bleu, ornée de paillettes de métal et d'une broderie dans le dos, représentant le saint sacrement.</p>
         <p>... Il y a une agitation joyeuse dans cette chaumière, un air des grands jours. Les chandeliers de cuivre sont allumés sur la table, qui est recouverte d'une belle nappe. Les bahuts, les escabeaux, les vieilles boiseries de chêne reluisent comme des miroirs ; on sent qu'Yves a passé par là.</p>
@@ -1084,9 +1000,7 @@
         <p>Et puis nous rencontrons un calvaire, qui tend dans l'obscurité ses deux bras gris, et nous songeons à toutes ces vieilles chapelles de granit, qui sont posées çà et là autour de nous, isolées au milieu des bois de hêtres et dans lesquelles veillent des esprits de morts.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XLVII</label>
-        </p>
+        <head>XLVII</head>
         <p>Le lendemain jeudi, 16 du mois de juin 1878, par un temps radieux, le cortège de baptême s'organise dans la chaumière des vieux Keremenen.</p>
         <p>Anne, le dos tourné dans un coin, ajuste sa grande coiffe devant un miroir, un peu embarrassée d'être obligée de faire cela devant moi ; mais les chaumières de Bretagne ne sont pas grandes, et elles n'ont pas d'autres séparations au dedans que les petites armoires où l'on dort.</p>
         <p>Anne est vêtue d'un costume de drap noir dont le corsage ouvert est brodé de soies de toutes couleurs et de paillettes d'argent ; elle porte un devantier de moire bleue, et, débordant sur ses épaules, une collerette blanche à mille plis qui se tient rigide comme une fraise du XVIe siècle. Moi, j'ai pris un uniforme aux dorures toutes fraîches, et nous produirons certainement un bon effet tout à l'heure, nous donnant le bras, dans le sentier vert.</p>
@@ -1155,9 +1069,7 @@
         <p>À mesure qu'il le contemplait, sa figure prenait une expression d'une tendresse infinie ; alors l'espoir me vint que ce serait peut-être un jour sa sauvegarde et son salut, ce petit enfant...</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XLIX</label>
-        </p>
+        <head>XLIX</head>
         <p>Le soir, après souper, nous fîmes une promenade beaucoup plus calme que celle du jour, Anne, Yves et moi.</p>
         <p>Et, à neuf heures, nous étions assis au bord d'un grand chemin qui traversait les bois.</p>
         <p>Ce n'était pas encore la nuit, tant sont longues en Bretagne les soirées du beau mois de juin ; mais nous commencions tout de même à causer des fantômes et des morts.</p>
@@ -1174,9 +1086,7 @@
         <p>Quand nous fûmes bien convaincus que c'étaient des chats, il remit le tout sur son épaule, salua, et continua sa route.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>L</label>
-        </p>
+        <head>L</head>
         <p>17 juin 1878.</p>
         <p>De bonne heure, nous sommes debout pour aller dans les bois ramasser des luzes (petits fruits d'un noir bleu que l'on trouve dans les plus épais fourrés, sur des plantes qui ressemblent au gui de chêne).</p>
         <p>Anne ne portait plus son beau costume de fête : elle avait mis une grande collerette unie et une coiffe plus simple. Sa robe bretonne en drap bleu était ornée de broderies jaunes : sur chaque côté de son corsage, c'étaient des dessins imitant de ces rangées d'yeux comme en ont les papillons sur leurs ailes.</p>
@@ -1198,9 +1108,7 @@
         <p>... Et, quand je vis s'éloigner Toulven, le clocher gris et l'étang triste, mon cœur se serra. Dans combien d'années reviendrais-je en Bretagne ? Encore une fois nous étions séparés, mon frère et moi, et tous deux nous en allions à l'inconnu. Je m'inquiétais de son avenir, sur lequel je voyais peser des nuages très sombres... Et puis je songeais aussi à ces Keremenen, dont l'accueil m'avait touché ; je me demandais si mon pauvre cher Yves, avec ses défauts terribles et son caractère indomptable, n'allait pas leur apporter le malheur, sous leur toit de chaume couvert de petites fleurs roses.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LI</label>
-        </p>
+        <head>LI</head>
         <p>Novembre 1880.</p>
         <p>... Un peu plus de deux ans après.</p>
         <p>Petit Pierre avait froid. Il pleurait, en se tenant ses deux petites mains, qu'il essayait de cacher sous son tablier. Il était dans une rue de Brest, avant jour, un matin de novembre, sous la pluie fine. Il se serrait contre sa mère, qui, elle aussi, pleurait.</p>
@@ -1215,9 +1123,7 @@
         <p>Un autre passa ; il battait sa femme, celui-ci, il ne voulait pas se laisser ramener, et c'était horrible. Marie poussa un cri, en entendant le bruit creux d'un coup de poing frappé dans une poitrine ; et puis elle se cacha la figure, n'y pouvant rien. Non ! Yves n'en était jamais arrivé là, lui. Mais est-ce que cela viendrait ? Est-ce qu'il faudrait aussi, un de ces jours, descendre jusqu'à cette dernière misère ?...</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LII</label>
-        </p>
+        <head>LII</head>
         <p>Yves, à la fin, parut, marchant droit, cambré, la tête haute, mais l'œil atone, égaré. Il vit sa femme, mais passa sans en avoir l'air, lui jetant un mauvais regard trouble.</p>
         <p>Ce n'était plus lui, -- comme il le disait lui-même après, dans les bons moments de repentir qu'il avait encore.</p>
         <p>Ce n'était plus lui, en effet : c'était la bête sauvage que l'ivresse réveillait, quand sa vraie âme était obscurcie et disparue.</p>
@@ -1232,17 +1138,13 @@
         <p>Elle, ayant recouché leur enfant dans son berceau et l'ayant bien couvert, faisait semblant de s'occuper des choses de leur ménage. Il fallait avoir un air naturel dans ces cas-là ; autrement, si on semblait trop s'occuper de lui, il s'exaspérait tout à coup, comme un fauve qui a senti le sang ; et il voulait repartir. Et, quand une fois il avait dit : « Eh bien, je m'en vais ! Je m'en vais retrouver mes camarades ! » il s'en allait avec un entêtement de brute ; il n'y avait plus ni force, ni prières, ni larmes capables de le retenir.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LIII</label>
-        </p>
+        <head>LIII</head>
         <p>Quelquefois Yves tombait tout à coup comme un mort et dormait plusieurs heures, puis c'était fini. Cela dépendait de l'espèce d'alcool qu'il avait pris.</p>
         <p>D'autres fois, il tenait bon, on ne sait comment, et s'en retournait sur son navire, dans le port, « à la Réserve », faire son service.</p>
         <p>Ce matin-là, quand il fut sept heures, Yves, un peu dégrisé, ayant eu l'idée de lui-même de tremper sa tête dans de l'eau glacée, sortit et prit le chemin de l'arsenal.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LIV</label>
-        </p>
+        <head>LIV</head>
         <p>Alors Marie s'assit, brisée, anéantie, auprès du petit berceau où leur fils venait de se rendormir.</p>
         <p>Par les fenêtres sans rideaux une lueur blanche commençait à entrer, une lueur pâle, pâle, qui donnait froid.</p>
         <p>Encore un jour ! -- dans la rue, on entendait ce bruit caractéristique des bas quartiers de Brest aux heures d'embauchée : des milliers de sabots de bois martelant les pavés de granit dur. Les ouvriers rentraient dans le port de guerre, s'arrêtant en chemin pour boire encore de l'eau-de-vie, dans des cabarets à peine ouverts qui mêlaient au jour naissant les lueurs sales de leurs petites lampes.</p>
@@ -1254,9 +1156,7 @@
         <p>Et puis, très tard, quand les autres, les voisines, étaient couchées et ne pouvaient plus la voir, elle descendait ; sous le froid, sous la pluie, elle s'en allait comme une insensée attendre aux coins des rues, écouter aux portes des bouges où l'on buvait encore, coller sa joue pâlie aux vitres des cabarets...</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LV</label>
-        </p>
+        <head>LV</head>
         <p>Petit Pierre dormait toujours dans son berceau, pour rattraper son pauvre petit sommeil perdu d'avant jour. -- Et, ce matin-là, sa mère aussi s'était assoupie près de lui dans sa chaise, accablée qu'elle était de fatigue et de veille.</p>
         <p>Le grand jour pâle était tout à fait levé quand elle se réveilla, les membres engourdis, ayant froid. En reprenant ses idées, vite elle retrouva son angoisse. Pourquoi avait-elle quitté Toulven ? Pourquoi s'était-elle mariée ? Pauvre fille de la campagne, que faisait-elle dans ce Brest, où on regardait son costume de paysanne ? Pourquoi était-elle venue traîner dans les rues de la ville sa grande collerette blanche, souvent trempée de pluie, que, par désespérance, par dégoût de tout, elle laissait maintenant pendre toute fripée et sans apprêt sur ses épaules ?</p>
         <p>Elle avait épuisé tous les moyens pour ramener Yves. Il était encore si doux, si bon, il aimait tant son petit Pierre dans ses moments raisonnables, que souvent elle s'était reprise à espérer ! Il avait des repentirs très sincères, qui duraient plusieurs jours ; et c'étaient des jours de bonheur.</p>
@@ -1268,16 +1168,12 @@
         <p>Eh bien, elle le leur dirait, qu'il n'en était pas digne. Une révolte se faisait en elle. Elle le laisserait, cet homme ; c'était trop à la fin, et il n'avait pas de cœur...</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LVI</label>
-        </p>
+        <head>LVI</head>
         <p>Et pourtant, si ! -- quelque chose lui disait qu'il en avait, du cœur, mais qu'il était un grand enfant que la vie de la mer avait perdu. Avec un attendrissement très doux, elle retrouvait sa figure noble et tranquille, sa voix, son sourire des bons moments où il était sage...</p>
         <p>L'abandonner ?... À cette idée qu'il s'en irait seul, tout à fait perdu alors, et jetant tout au diable, livré à ses vices et à ceux des autres, recommencer sa vie de débauches avec d'autres femmes, naviguer au loin, puis vieillir seul, délaissé, épuisé par l'alcool !... Oh ! à cette idée de le quitter, elle était prise d'une angoisse plus horrible que tout : elle sentait qu'elle était rivée à lui maintenant par un lien plus fort que toute raison, que toute volonté humaine. Elle l'aimait éperdument, sans avoir conscience de la grandeur de son amour... Non, plutôt, si elle ne pouvait pas l'en retirer, elle se laisserait rouler avec lui dans la dernière fange pour l'avoir encore dans ses bras jusqu'à l'heure de mourir.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LVII</label>
-        </p>
+        <head>LVII</head>
         <p>Petit Pierre n'aimait pas du tout Brest, lui ; il trouvait que c'était vilain et que c'était noir.</p>
         <p>Il y demeurait seulement depuis quatre mois, et déjà ses joues rondes avaient un peu pâli sous leur teinte brune. Avant, elles étaient pareilles à ces brugnons très mûrs des pays du Midi, qui sont d'une couleur chaude et dorée, d'un rouge taché de soleil.</p>
         <p>Ses yeux étaient noirs et brillaient d'un éclat de jais, comme ceux de sa mère, entre de très longs cils charmants. Dans ses petits sourcils, il y avait déjà quelque chose de grave, qui était d'Yves.</p>
@@ -1287,9 +1183,7 @@
         <p>Non, il n'aimait pas la ville. Et puis il avait toujours froid, dans cette chambre nue et dans ces vieux escaliers de pierre.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LVIII</label>
-        </p>
+        <head>LVIII</head>
         <p>« Il faut me pardonner ; tu vois bien que ce n'était plus moi. »</p>
         <p>Quand une fois Yves avait dit cela, tout était bien fini ; mais c'était souvent très long à venir. Lorsque l'ivresse était passée, pendant deux ou trois jours il restait sombre, morne, ne parlant plus, jusqu'au moment où son sourire s'épanouissait de nouveau tout à coup à propos d'un rien, avec une expression de confusion très enfantine. -- Alors le ciel se rouvrait pour la pauvre Marie, et elle lui souriait, elle aussi, d'une façon particulière, sans jamais dire un mot de reproche ; et c'était la fin de l'épreuve.</p>
         <p>Une fois, elle osa lui demander très doucement :</p>
@@ -1307,9 +1201,7 @@
         <p>Mais vivre d'une vie régulière avec un petit ménage, compter ses dépenses chaque jour, se conduire soi-même et songer au lendemain, ses allures de matelot ne cadraient plus avec ces obligations imprévues. D'ailleurs, autour de lui, dans ce Brest abâtardi et pourri, l'alcool semblait suinter des murs avec l'humidité malsaine. Alors il tombait tout à fait bas comme tant d'autres qui, eux aussi, avaient été bons et braves ; il s'avilissait, se ravalait peu à peu au niveau de ce peuple d'ivrognes ; et sa débauche devenait repoussante et vulgaire comme une débauche d'ouvrier.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LIX</label>
-        </p>
+        <head>LIX</head>
         <p>... Un jour, je reçus une lettre qui m'appelait au secours.</p>
         <p>Elle était très simple, et ressemblait beaucoup à celle d'un enfant :</p>
         <p>« Mon bon frère,</p>
@@ -1323,9 +1215,7 @@
         <p>» Yves Kermadec. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LX</label>
-        </p>
+        <head>LX</head>
         <p>Un dimanche de décembre, je revins à Brest sans être annoncé et je descendis dans le quartier bas de la Grand'rue, cherchant la maison d'Yves. En lisant les numéros des portes, je longeais toutes ces hautes constructions de granit, qui sont d'anciennes maisons de riches tombées aux mains du peuple : en bas, partout des cabarets ouverts ; en haut, des fenêtres à rideaux de pauvre, avec de dernières fleurs maladives, sur les appuis ; des chrysanthèmes morts, dans des pots.</p>
         <p>C'était le matin. Des bandes de matelots circulaient déjà, dans leur belle tenue propre, chantant, commençant la fête du dimanche.</p>
         <p>On respirait une brume blanche, une fraîcheur humide, -- sensation nouvelle de l'hiver. -- Comme j'arrivais de l'Adriatique, encore ensoleillée, les teintes de ce Brest me semblaient plus grises.</p>
@@ -1340,9 +1230,7 @@
         <p>Les journées de décembre, très courtes, très sombres, s'enfuyaient vite. Je montais souvent, quatre à quatre, le vieil escalier sordide des Kermadec ; -- et Marie, toujours anxieuse des premiers mots que j'allais dire, me souriait tristement, avec une confiance respectueuse et résignée, attendant ma décision.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXI</label>
-        </p>
+        <head>LXI</head>
         <p>En rade de Brest, 23 décembre 1880.</p>
         <p>Une nuit de décembre, claire et froide ; -- un grand calme sur la mer, un grand silence à bord.</p>
         <p>Dans une très petite chambre de navire, qui est peinte en blanc et qui a des murs de ter, Yves est assis près de moi sur des malles, des caisses ouvertes. C'est encore le désarroi de l'arrivée ; il faudra s'installer et se faire un chez-soi dans ce réduit qui va bientôt nous promener au milieu des lames ou des houles de l'hiver.</p>
@@ -1351,9 +1239,7 @@
         <p>Mais j'aurais mieux aimé être envoyé ailleurs, quelque part au soleil ; pour Yves surtout, j'aurais voulu l'emmener plus loin de Brest, plus loin des mauvais amis et des tavernes de la côte.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXII</label>
-        </p>
+        <head>LXII</head>
         <p>En mer, 25 décembre, Noël.</p>
         <p>C'était le surlendemain, de très bonne heure, au petit jour. Je montais sur le pont, ayant à peine dormi un moment, après un quart de minuit à quatre heures très dur : nous avions été malmenés toute la nuit par grand vent et grosse mer. Yves était là, tout mouillé, mais très à son aise dans son élément, et, dès qu'il me vit paraître, il me montra de la main, en souriant, un pays singulier duquel nous nous approchions.</p>
         <p>Des falaises grises muraient les lointains de l'horizon comme un long rempart. -- Une espèce de calme venait de se faire dans les eaux, bien que le vent continuât de nous envoyer sa poussée furieuse. Au ciel, des nuées sombres et lourdes glissaient les unes sur les autres, très vite : toute une voûte de plomb en mouvement ; des choses immenses, obscures, qui se déformaient, qui semblaient très pressées de passer, de courir ailleurs, comme prises du vertige de quelque chute prochaine et formidable. Autour de nous, des milliers d'écueils, des têtes noires qui se dressaient partout au milieu de cet autre remuement argenté que les lames faisaient ; on eût dit d'immenses troupeaux de bêtes marines. À perte de vue, il y en avait toujours, de ces dangereuses têtes noires, la mer en était couverte. Et puis, là-bas, sur la falaise lointaine, les silhouettes de trois clochers très vieux, ayant l'air plantés là tout seuls au milieu d'un désert de granit, l'un dominant de beaucoup les deux autres et dressant sa haute taille comme un géant qui observe et qui préside...</p>
@@ -1362,9 +1248,7 @@
         <p>... Et voilà comment, à son retour dans la mer brumeuse, la première visite d'Yves fut pour son clocher.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXIII</label>
-        </p>
+        <head>LXIII</head>
         <p>Cherbourg, 27 décembre 1880.</p>
         <p>À sept heures du matin, on me rapporte Yves, au fond d'un canot, ivre mort. Ce sont d'anciens amis, des gabiers de la Vénus, qui l'ont traîné toute la nuit dans les bouges, -- pour fêter leur retour des Antilles.</p>
         <p>Je suis de quart. Personne encore sur le pont ; seulement quelques matelots qui font leur fourbissage, -- mais des dévoués, ceux-là, connus de longue date, et sur qui on peut compter. Quatre hommes l'enlèvent, le descendent furtivement par un panneau et le cachent dans ma chambre.</p>
@@ -1388,9 +1272,7 @@
         <p>Non, cette Sèvre décidément ne nous réussissait pas...</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXIV</label>
-        </p>
+        <head>LXIV</head>
         <p>Petit Pierre est à Plouherzel, qui essaye de jouer devant la porte de sa grand-mère ; -- tout dépaysé en regardant là-bas cette nappe d'eau immobile avec cette grande forme de bête qui semble dormir au milieu, derrière un voile de brume. On est bien au grand air ici, mais le vent y est plus âpre qu'à Toulven, la campagne plus désolée ; et les enfants sentent tout cela d'instinct ; en présence des tristesses des choses, ils ont des mélancolies et des silences involontaires, -- comme les petits oiseaux.</p>
         <p>Voilà bien deux petits camarades qui arrivent d'une chaumière voisine pour le voir, lui, le nouveau venu. Mais ce ne sont plus ceux de Toulven, ceux-ci ; ils ne connaissent pas les mêmes jeux ; les quelques petits mots qu'ils savent dire ne sont plus du même breton. Alors, n'osant pas trop ni les uns ni les autres, ils sont là tous trois qui s'observent, avec des petits sourires, avec des petites mines comiques.</p>
         <p>... C'est hier que petit Pierre est arrivé à Plouherzel avec Marie Kermadec. Yves a écrit à sa femme de faire bien vite ce voyage ; une idée lui est venue tout d'un coup, un espoir, que cela les réconcilierait peut-être avec sa mère. C'est que la vieille femme, toujours dure et volontaire, après avoir d'abord refusé net son consentement à leur mariage, ne l'a donné ensuite que de mauvaise grâce, et, depuis, ne veut plus seulement faire réponse à leurs lettres.</p>
@@ -1410,9 +1292,7 @@
         <p>Alors la pauvre Marie, le cœur gros, ne sachant plus que répondre, ni que dire tout le long du jour, ni que faire d'elle-même, attendait avec impatience le temps fixé par Yves pour repartir. Et, bien sûr, elle ne reviendrait plus.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXV</label>
-        </p>
+        <head>LXV</head>
         <p>Au sortir de Paimpol, Marie est remontée avec son fils dans la diligence, qui s'ébranle et les emmène. Par la portière, elle regarde sa belle-mère, qui est tout de même venue de Plouherzel les conduire jusqu'à la ville, mais qui leur a dit un bonjour glacial, un bonjour bref à faire mal au cœur.</p>
         <p>Elle la regarde, et elle ne comprend plus : la voilà qui court maintenant, qui court après la voiture, -- et puis sa figure qui change, qui leur fait comme une grimace. Qu'est-ce qu'elle leur veut ? Et Marie regarde presque effrayée. Elle grimace toujours. Ah !... C'est qu'elle pleure ! Ses pauvres traits se contractent tout à fait, et voici les larmes qui coulent... Elles se comprennent maintenant toutes les deux.</p>
         <p>« Pour l'amour de Dieu ! Faites arrêter la voiture, monsieur », dit Marie à un Islandais qui est assis près d'elle, et qui a compris, lui aussi ; car il passe son bras au travers du petit carreau de devant et tire le conducteur par sa manche.</p>
@@ -1425,9 +1305,7 @@
         <p>Il faut arracher l'une de l'autre. Et Marie, rassise dans son coin, regarde en s'éloignant, avec ses yeux pleins de larmes, la vieille femme, qui s'est affaissée en sanglotant, sur une borne, tandis que petit Pierre, avec sa petite main potelée, lui fait adieu par la portière.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXVI</label>
-        </p>
+        <head>LXVI</head>
         <p>1er janvier 1881.</p>
         <p>Au fond de l'arsenal de Brest, un peu avant le jour, le premier matin de l'année 1881, -- un lieu triste, ce fond de port ; la Sèvre y était amarrée depuis une semaine.</p>
         <p>En haut, le ciel avait commencé à blanchir entre les grandes murailles de granit qui nous enfermaient. Les réverbères, très rares, donnaient dans la brume leur dernière petite lumière jaune. Et on voyait déjà des silhouettes de choses formidables qui se dessinaient, éveillant des idées de rigidité méchante ; des machines haut perchées, des ancres énormes dressant leurs pattes noires ; toute sorte de formes indécises et laides, et puis des navires désarmés, avec leurs gigantesques tournures de poisson, immobiles sur leurs chaînes, comme de gros monstres morts.</p>
@@ -1483,9 +1361,7 @@
         <p>« Yves. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXVII</label>
-        </p>
+        <head>LXVII</head>
         <p>« Jean-marie, dépêche-toi d'aller dire à Yves que je l'attends là, en bas, à terre, sur le quai ! »</p>
         <p>C'était dix minutes après. Il fallait bien se voir, après s'être écrit, pour que la réconciliation fût complète.</p>
         <p>Quand Yves arriva, il avait sa figure changée, et son bon sourire, que je n'avais plus vu depuis bien longtemps. Je pris sa main, sa pauvre main de gabier dans les miennes ; il fallait la serrer très fort pour qu'elle sentît la pression, car le travail l'avait beaucoup durcie.</p>
@@ -1546,9 +1422,7 @@
         <p>« Eh bien, dit-il, quand j'aurai ma petite maison à Toulven, j'en mettrai chez nous, car je trouve que ça fait très bien. C'est pourtant vous, tenez, qui m'avez donné l'idée de ces choses... »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXIX</label>
-        </p>
+        <head>LXIX</head>
         <p>En mer, le lendemain, 1er avril. -- Route sur Saint-Nazaire. -- Voilure du grand largue ; forte brise du nord-ouest ; mauvais temps ; on ne voit plus les feux. -- Entré dans le bassin au petit jour ; cassé le bossoir ; craqué le petit mât de hune.</p>
         <p>Le 2, c'est jour de paye. Des hommes ivres tombent la nuit dans la cale et se fendent la tête.</p>
         <p>Une petite permission de deux jours, inattendue. En route avec Yves pour Trémeulé en Toulven. Cette Sèvre est un bon bateau, qui ne nous éloigne jamais bien longtemps.</p>
@@ -1561,9 +1435,7 @@
         <p>Quand sa mère le met tout nu, il ressemble aux bébés classiques, aux statues grecques de l'amour.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXX</label>
-        </p>
+        <head>LXX</head>
         <p>Toulven, 30 avril.</p>
         <p>Ceci se passe dans la chaumière des vieux Keremenen, à la tombée de la nuit, un soir d'avril. Nous sommes toute une bande qui rentrons de la promenade : Yves, Marie, Anne, la petite Corentine Penmelen et le petit Pierre Bugel-du.</p>
         <p>Il y a quatre chandelles allumées dans la chaumière, (trois, cela ferait la noce du chat, et cela porterait malheur).</p>
@@ -1591,9 +1463,7 @@
         <p>Comme il va falloir qu'Yves soit sage et fasse des économies pour payer tout cela ! Il devient très sérieux quand il y songe.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXXI</label>
-        </p>
+        <head>LXXI</head>
         <p>À bord de la Sèvre, mai 1881.</p>
         <p>Yves, qui aura trente ans bientôt, me prie de lui rapporter de terre un cahier relié pour commencer à y écrire ses impressions, à ma manière ; il regrette même de ne plus se rappeler assez les dates et les choses passées pour reconstituer un journal rétrospectif de sa vie.</p>
         <p>Son intelligence s'ouvre à une foule de conceptions nouvelles ; il se façonne sur moi, c'est incontestable, et se complique peut-être un peu plus qu'il ne faudrait. Mais notre intimité amène un autre résultat très inattendu, c'est que je me simplifie beaucoup à son contact ; moi aussi, je change, et presque autant que lui...</p>
@@ -1621,9 +1491,7 @@
         <p>Bientôt parut Brest, avec son grand air solennel, ses grands remparts de granit, ses grandes murailles grises, où poussaient aussi des herbes et des digitales roses. Elle était comme enivrée, cette ville triste, d'avoir par hasard un vrai jour d'été, une soirée pure et tiède ; elle était pleine de bruit, de mouvement et de monde, de coiffes blanches et de marins qui chantaient.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXXII</label>
-        </p>
+        <head>LXXII</head>
         <p>5 juillet 1881.</p>
         <p>En mer. -- Nous revenons de la Manche. La Sèvre marche tout doucement dans une brume épaisse, poussant de minute en minute un coup de sifflet qui résonne comme un appel de détresse sous ce suaire humide qui nous enveloppe. Les solitudes grises de la mer sont autour de nous, et nous en avons le sentiment sans les voir. Il semble que nous traînions avec nous de longs voiles de ténèbres ; on voudrait les percer, on est comme oppressé de se sentir depuis tant d'heures enfermé là-dessous, et on songe que ce rideau est immense, infini, qu'on pourrait faire des lieues et des lieues sans vue, dans le même gris blafard, dans la même atmosphère d'eau. Et la houle passe, lente, molle, régulière, patiente, exaspérante. C'est comme de grands dos polis et luisants, qui s'enflent, donnent leur coup d'épaule, vous soulèvent et vous laissent retomber.</p>
         <p>Brusquement, le soir, il se fait une éclaircie, et une chose noire se dresse tout près de nous, surprenante, inattendue, comme un haut fantôme surgissant de la mer :</p>
@@ -1655,9 +1523,7 @@
         <p>Puis, quand ce fut fini, l'idée me vint de garder une de ces petites mèches brunes que j'avais coupées, et je l'emportai, étonné de tant y tenir.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXXIV</label>
-        </p>
+        <head>LXXIV</head>
         <p>LETTRE D'YVES</p>
         <p>À bord de la Sèvre, Lisbonne, 1er août 1881.</p>
         <p>« Cher frère, je vous réponds une petite lettre le jour même que je reçois la vôtre. Je vous écris bien à courir, et encore je profite de l'heure du déjeuner, et je suis sur le râtelier du grand mât.</p>
@@ -1681,17 +1547,13 @@
         <p>» Yves. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXXV</label>
-        </p>
+        <head>LXXV</head>
         <p>C'est en Orient maintenant que viennent me trouver ces petites lettres d'Yves ; elles m'y apportent, dans leur simplicité, les senteurs déjà lointaines du pays breton.</p>
         <p>Ils s'éloignent beaucoup, mes souvenirs de Bretagne. Déjà je les revois passer comme à travers des voiles de rêve ; les écueils connus de là-bas, les feux de la côte, la pointe du Finistère avec ses grandes roches sombres ; et les approches dangereuses d'Ouessant les soirs d'hiver, et le vent d'ouest qui courait sous le ciel morne, à la tombée des nuits de décembre. D'ici, tout cela semble la vision d'un pays noir.</p>
         <p>La pauvre petite chaumière de Toulven ! Elle était bien humble, bien perdue au bord du sentier breton. Mais c'était la région des grands bois de hêtres, des rochers gris, des lichens et des mousses ; des vieilles chapelles de granit et des hauts foins semés de fleurs roses. Ici, du sable et des minarets blancs sous une voûte très bleue, et puis le soleil, l'enchanteur éternel.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXXVI</label>
-        </p>
+        <head>LXXVI</head>
         <p>LETTRE D'YVES</p>
         <p>Brest, le 10 septembre 1881.</p>
         <p>« Mon bon frère,</p>
@@ -1736,9 +1598,7 @@
         <p>Alors, tournant sur lui-même, il prit l'escalier et s'en alla...</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXXIX</label>
-        </p>
+        <head>LXXIX</head>
         <p>« Tiens ! C'est vous, Kermadec ?</p>
         <p>-- Oui, monsieur Kerjean.</p>
         <p>-- Et, en bordée, je parie ?</p>
@@ -1765,9 +1625,7 @@
         <p>Et il avait raison peut-être : ce n'était pas sa faute. À cet instant, il était irresponsable ; il cédait à des influences lointaines et mystérieuses qui lui venaient de son sang ; il subissait la loi d'hérédité de toute une famille, de toute une race.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXXX</label>
-        </p>
+        <head>LXXX</head>
         <p>À deux heures, le même jour, après marché conclu, Yves ayant acheté des hardes de marin du commerce et changé de costume clandestinement dans un cabaret du quai, monta à bord de la Belle-Rose.</p>
         <p>Il se mit à faire le tour de ce bateau, qui était mal tenu, qui avait des aspects de rudesse sauvage, mais qu'on sentait souple et fort, taillé pour la course et les hasards de mer.</p>
         <p>Auprès des navires de l'état, celui-ci semblait petit, court, et surtout vide : un air abandonné, presque personne à bord ; même au mouillage, cette espèce de solitude serrait le cœur. Trois ou quatre forbans étaient là, qui rôdaient sur le pont ; ils composaient tout l'équipage et ils allaient devenir, pour des années peut-être, les seuls compagnons d'Yves.</p>
@@ -1781,9 +1639,7 @@
         <p>Une lampe était allumée sur la table. Son fils était tout seul, endormi. Il se pencha sur sa corbeille d'osier, qui sentait le nid de petit oiseau, et appuya la bouche tout doucement sur la sienne pour sentir encore une fois sa petite respiration douce, et puis il s'assit près de lui et resta tranquille, afin d'avoir repris une figure calme quand sa femme rentrerait.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXXXI</label>
-        </p>
+        <head>LXXXI</head>
         <p>Derrière lui, Marie était montée en tremblant ; elle l'avait vu venir.</p>
         <p>Depuis deux jours, elle avait eu le temps d'envisager en face tous les aspects de malheur.</p>
         <p>Elle n'avait pas voulu aller interroger les autres marins, comme font les pauvres femmes des coureurs de bordée, pour apprendre d'eux si Yves était rentré à son bord. Elle ne savait rien de lui, et elle attendait, se tenant prête à tout.</p>
@@ -1895,9 +1751,7 @@
         <p>C'était seulement pour lui donner une poignée de main, lui souhaiter bienvenue et bonne fin de nuit avant de m'en aller dormir.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>LXXXV</label>
-        </p>
+        <head>LXXXV</head>
         <p>« Hale le bout à bord, Goulven ! »</p>
         <p>C'était dans un accostage difficile. Je venais, avec un canot du Primauguet, aborder un bâtiment baleinier d'allures suspectes, qui ne portait aucun pavillon.</p>
         <p>Dans l'océan austral, toujours ; auprès de l'île Tonga-Tabou, du côté du vent. -- Le Primauguet, lui, était mouillé dans une baie de l'île, en dedans de la ligne des récifs, à l'abri du corail. L'autre, le baleinier, s'était tenu au large, presque en pleine mer, comme pour rester prêt à fuir, et la houle était forte autour de lui.</p>
@@ -2024,9 +1878,7 @@
         <p>Ils avaient même le cœur très serré tous les deux, ils regrettaient Barazère. À présent, ce mal qui leur avait fait peur était enfermé, oublié ; dans leur souvenir, celui qui était mort se dégageait de cette impureté finale, s'ennoblissait tout à coup ; et ils le revoyaient comme au temps de sa force, ils s'attendrissaient en pensant à lui.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XC</label>
-        </p>
+        <head>XC</head>
         <p>Il y a rien d'faraud</p>
         <p>Comme un matelot</p>
         <p>Qu'a lavé sa peau</p>
@@ -2046,18 +1898,14 @@
         <p>Cette sépulture des marins n'est plus violable par aucune main humaine. Celui qui est descendu dormir si bas est plus mort qu'aucun autre mort ; jamais rien de lui ne remontera ; jamais il ne se mêlera plus à cette vieille poussière d'hommes qui, à la surface, se cherche et se recombine toujours dans un éternel effort pour revivre. Il appartient à la vie d'en dessous ; il va passer dans les plantes de pierre qui n'ont pas de couleur, dans les bêtes lentes qui sont sans forme et sans yeux...</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XCI</label>
-        </p>
+        <head>XCI</head>
         <p>Le soir de l'immersion de Barazère, Yves avait amené son ami Jean Barrada dans ma chambre avec lui. Ils restaient maintenant les derniers de toute l'ancienne bande : Kerboul, Le Hello, dormaient depuis longtemps au fond de la mer, descendus, eux aussi, en pleine jeunesse ; les autres, partis pour naviguer au commerce, ou rentrés dans leurs villages ; tous dispersés.</p>
         <p>C'étaient de très anciens amis, Yves et ce Barrada. À terre, quand ils étaient réunis, ils ne faisait pas bon se mettre en travers de leurs fantaisies.</p>
         <p>Je les vois encore tous deux assis devant moi, de moitié sur la même chaise à cause de l'exiguïté du logis, se tenant d'une main par habitude de rouler, et me regardant avec leurs yeux attentifs. C'est que j'essayais de leur démontrer ce soir-là que les hommes ce n'était pas comme les bêtes, de leur parler du mystérieux après... Et eux, ayant cette mort toute fraîche dans la mémoire, m'écoutaient surpris, captivés, au milieu de cette tranquillité très particulière des soirs où la mer se calme, tranquillité qui prédispose à comprendre l'incompréhensible.</p>
         <p>Vieux raisonnements ressassés d'école que je leur développais et qui pouvaient impressionner encore leurs têtes jeunes... C'était peut-être très bête, ce cours d'immortalité ; mais cela ne leur faisait aucun mal, au contraire.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XCII</label>
-        </p>
+        <head>XCII</head>
         <p>Ces mers où se tenait le Primauguet étaient presque toujours du même bleu de lapis ; c'était la région des alizés et du beau temps qui ne finit pas.</p>
         <p>Quelquefois, pour aller d'un groupe d'îles à un autre, il nous fallait franchir l'équateur, passer par les grandes immobilités, les splendeurs mornes.</p>
         <p>Et, après, quand l'alizé vivifiant reprenait dans un hémisphère ou dans l'autre, quand le Primauguet réveillé se remettait à courir, alors on sentait mieux, par contraste, le charme d'aller vite, le charme d'être sur cette grande chose inclinée, frémissante, qui semblait vivre et qui vous obéissait, alerte et souple, en filant toujours.</p>
@@ -2093,9 +1941,7 @@
         <p>Ils n'avaient pas de but, les matelots, et ils ne savaient pas où ils allaient. À quoi bon d'ailleurs, puisqu'on ne leur permettait nulle part de mettre les pieds sur terre ? Ils ignoraient la direction de cette course rapide et l'infinie profondeur des solitudes où ils étaient ; mais cela les amusait d'aller droit devant eux, dans l'obscurité bleuâtre, très vite, et de se sentir filer. En chantant leurs chansons du soir, ils regardaient ce beaupré, toujours lancé en avant, avec ses deux petites cornes et sa tournure d'arbalète tendue, qui sautillait sur la mer, qui effleurait l'eau bruissante à la façon très légère d'un poisson-volant.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XCIII</label>
-        </p>
+        <head>XCIII</head>
         <p>Sur ce Primauguet, mon cher Yves était sans reproche, comme il nous l'avait promis. Les officiers le traitaient avec des égards un peu particuliers à cause de sa tenue, de sa manière d'être, qui n'étaient déjà plus celles de tous les autres. Et il restait, malgré tout, au premier rang de cette rude bande dont le maître d'équipage disait avec orgueil :</p>
         <p>« Ça, c'est moitié requin ; ça n'a pas peur. »</p>
         <p>Il avait repris son habitude d'autrefois d'arriver le soir, à petits pas de chat, dans ma chambre, aux heures où je la lui abandonnais. Il s'installait à lire mes livres ou mes papiers, sachant bien qu'il avait permission de tout regarder ; il apprenait à comprendre les cartes marines, s'amusait à y marquer des points et à y mesurer des distances. Très souvent, il écrivait à sa femme, et il arrivait que ses petites lettres, interrompues par la manœuvre, restaient à courir parmi les miennes. J'en trouvai une un jour qui était destinée sans doute à partir sous double enveloppe, et sur laquelle il avait mis cette adresse drôle :</p>
@@ -2107,18 +1953,14 @@
         <p>C'était sa première longue absence depuis son mariage. De loin, il se mettait à songer beaucoup à cette jeune femme qui avait déjà tant souffert par lui, et qui l'avait tant aimé ; maintenant elle lui apparaissait, au fond de ce lointain, sous un aspect nouveau.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XCIV</label>
-        </p>
+        <head>XCIV</head>
         <p>En juillet, -- le mauvais mois de l'hiver austral, -- nous sortîmes de la région des alizés pour redescendre jusqu'à Valparaiso.</p>
         <p>Là, je dus quitter le Primauguet et m'embarquer sur un grand vaisseau à voiles qui rentrait à Brest après son tour du monde.</p>
         <p>Il s'appelait le Navarin ; on y embarqua aussi tous les hommes de notre bord qui avaient fini leur temps de service : entre autres, Barrada, qui s'en allait à Bordeaux, avec sa ceinture garnie d'or, épouser sa petite fiancée espagnole.</p>
         <p>Très brusquement, comme toujours, je dis adieu à Yves, le recommandant encore une fois à tous, et je partis pour la France par la grande route du cap Horn.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XCV</label>
-        </p>
+        <head>XCV</head>
         <p>20 octobre 1882.</p>
         <p>Je me souviens de ce jour passé en Bretagne. Nous trois, courant sous le ciel gris, dans ces bois de Toulven, Marie, Anne et moi.</p>
         <p>Ma tête encore toute pleine de soleil et de mer bleue, et cette Bretagne revue tout à coup et si vite pour quelques heures, absolument comme dans les rêves que nous en faisions à la mer... Il me semblait comprendre son charme pour la première fois.</p>
@@ -2150,9 +1992,7 @@
         <p>Et puis ce fut fini de la Bretagne pour longtemps ; j'y avais passé vingt heures, et, le lendemain matin, elle était déjà bien loin de moi...</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XCVI</label>
-        </p>
+        <head>XCVI</head>
         <p>LETTRE D'YVES</p>
         <p>« Melbourne, septembre 1882.</p>
         <p>» Cher frère,</p>
@@ -2174,9 +2014,7 @@
         <p>» Yves. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XCVII</label>
-        </p>
+        <head>XCVII</head>
         <p>Décembre 1882.</p>
         <p>... Je passais sur les quais de Bordeaux. Quelqu'un de fort bien mis vint à moi, le chapeau bas et la main tendue : Barrada ! -- Barrada transformé, ayant coupé sa barbe noire, et quitté ses trente et un ans, sans doute en même temps que ses cols bleus ; les joues soigneusement rasées, la moustache naissante, l'air d'un jeune amoureux de vingt ans.</p>
         <p>Toujours aussi parfaitement beau et noble de lignes mais la figure meilleure et plus douce, comme éclaircie par une joie profonde.</p>
@@ -2196,9 +2034,7 @@
         <p>Non, jamais dans sa vie de pauvre errant, toujours à la peine, -- jamais il n'avait eu une heure si belle, une joie si profonde que celle que son frère Pierre venait de lui envoyer par le télégraphe...</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XCIX</label>
-        </p>
+        <head>XCIX</head>
         <p>Quand les vents me ramènent en Bretagne, c'est aux derniers jours de mai, au plus beau du printemps breton.</p>
         <p>Il y a déjà six semaines qu'Yves est dans sa petite maison de Toulven, arrangeant ma chambre, préparant tout pour mon arrivée.</p>
         <p>Le navire sur lequel je suis embarqué a quitté la Méditerranée pour remonter dans l'Océan, vers les ports du Nord et désarmer à Brest.</p>
@@ -2258,9 +2094,7 @@
         <p>Et il emporte tout, les résédas, les pois de senteur, même les gerbes de bruyère.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>C</label>
-        </p>
+        <head>C</head>
         <p>La pendule du temps a continué de marcher, même de marcher très vite. La semaine qu'on m'avait accordée va bientôt finir.</p>
         <p>Tous les jours dans les bois. -- Un temps splendide. -- Les bruyères, les digitales, les silènes roses, tout est fleuri.</p>
         <p>Il y a eu un grand pardon, le dimanche, un des plus renommés de cette région de la Bretagne ; c'était autour de la chapelle de Notre-Dame de Bonne Nouvelle, -- qui est seule au milieu des bois, comme si elle s'était endormie là, et oubliée depuis le Moyen ge.</p>
@@ -2283,9 +2117,7 @@
         <p>Et quand Yves, tout dépeigné, las d'avoir tant fait le diable, dit, en se rajustant, de son plus grand air sérieux : « Allons, petit Pierre a fini son gymnase à présent, » petit Pierre alors vient à moi, avec ce sourire qui fait qu'on lui donne toujours ce qu'il veut : « C'est à ton tour, parrain, dis ? » Et ce gymnase recommence.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CI</label>
-        </p>
+        <head>CI</head>
         <p>La grande pendule, inexorable, a encore marché ; dans quelques heures, je vais partir, et bientôt mon frère Yves s'en ira aussi, tous deux au loin ; à l'inconnu.</p>
         <p>C'est le dernier jour, le dernier soir. Yves, petit Pierre et moi, nous allons à la chaumière des vieux Keremenen, pour ma visite d'adieu à la grand-mère Marianne.</p>
         <p>Elle habite seule, maintenant, sous son toit plein de mousse, sous les grands chênes étendus en voûte. Pierre Kerbras et Anne, qui se sont mariés au printemps, font bâtir dans le village une vraie maison, en granit, pareille à celle d'Yves. Tous les enfants sont partis.</p>
@@ -2327,9 +2159,7 @@
         <p>La nuit tombe, et une tristesse inattendue, profonde nous prend au cœur... Pourtant, aujourd'hui nous sommes heureux.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CII</label>
-        </p>
+        <head>CII</head>
         <p>Et les Celtes regrettaient trois pierres brutes,</p>
         <p>sous un ciel pluvieux, au fond d'un golfe rempli d'îlots.</p>
         <p>Gustave Flaubert, Salammbô.</p>

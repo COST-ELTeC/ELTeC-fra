@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03902" xml:lang="fr">
   <teiHeader>
@@ -52,9 +52,7 @@
   <text>
     <body>
       <div type="chapter">
-        <p>
-          <label>I -- Le feu à la maison</label>
-        </p>
+        <head>I -- Le feu à la maison</head>
         <p>On allait et venait dans le somptueux appartement de Mme de Langrune, et cette agitation exprimait la plus vive inquiétude. Qu'allait-il se passer ? Qu'allait-on devenir ? Comment se terminerait cette terrible journée ? C'était à la fin de la Commune de 1871, alors que l'armée de la France luttait contre ces phalanges égarées, qu'on appelait improprement Paris.</p>
         <p>Mme de Langrune aurait pu, comme tant d'autres, quitter tout d'abord le foyer de l'insurrection, et se réfugier dans une belle habitation qu'elle possédait à huit lieues de la capitale ; mais son mari étant obligé, par honneur, de veiller sur une caisse dont l'administration lui était confiée, elle avait choisi, elle aussi, de rester à son poste.</p>
         <p>On se battait dans Paris de tous côtés, et la lutte durait déjà depuis trois jours. La mère de famille, seule à la tête de sa maison, puisque M. de Langrune n'avait pu revenir chez lui, devait maintenant prendre elle-même le parti qui lui semblerait le plus sage ; elle était justement effrayée de cette responsabilité.</p>
@@ -144,9 +142,7 @@
         <p>Personne ne disait mot ; on étendait les bras pour toucher les murs, et les ténèbres pesaient de tout leur poids sur ces esprits fatigués. On arriva enfin au pied d'un escalier fort étroit et assez sombre ; on monta un étage, et l'on entra dans le petit logement de Mme Berthuis.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II -- Les braves gens</label>
-        </p>
+        <head>II -- Les braves gens</head>
         <p>Mme Berthuis ouvrit la porte.</p>
         <p>« Entrez, madame, dit-elle, vous allez vous trouver bien à l'étroit ; mais dans la position où l'on est, on se contente de tout !</p>
         <p>-- Et l'on est bien reconnaissant, répondit Mme de Langrune, envers ceux qui vous offrent avec tant de bienveillance l'hospitalité. »</p>
@@ -296,9 +292,7 @@
         <p>« Madame Berthuis ! Madame Berthuis ! »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III -- Les locataires</label>
-        </p>
+        <head>III -- Les locataires</head>
         <p>La femme qui venait d'entrer était suivie d'une autre tenant par la main un enfant, et en portant un autre sur le bras. Un bonhomme, ayant toute l'apparence du savetier de Lafontaine, suivait à son tour, et une femme, d'une mise assez étrange, et pressant un gros chat angora sur son cœur fermait la marche. Tout ce monde affolé cria comme une invocation suprême :</p>
         <p>« Madame Berthuis ! Madame Berthuis ! »</p>
         <p>La brusque entrée de tant de personnes à la fois, dans le petit logement de Mme Berthuis, pouvait passer pour une avalanche. Ainsi se vérifiaient les paroles qu'avait tout à l'heure prononcées Léopold :</p>
@@ -405,9 +399,7 @@
         <p>La fusillade avait cessé aux alentours ; mais tout n'était pas fini, et l'on entendait au loin gronder le canon. Cependant, après de si mauvaises nuits, et tant d'émotions, la lassitude l'emporta sur l'inquiétude, et bientôt, dans le petit logement de la bonne Mme Berthuis, on n'entendit plus que le souffle paisible de sept personnes endormies.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV -- Le gamin de Paris</label>
-        </p>
+        <head>IV -- Le gamin de Paris</head>
         <p>Le lendemain, dès avant le jour, Mme de Langrune, Mme Berthuis et Françoise reprirent en s'éveillant toutes leurs inquiétudes ; mais comme chacune, en ces tristes moments, se trouvait réduite à l'impuissance, on ne se leva point, on ne fit aucun bruit, afin de ne pas troubler le repos des enfants. Ernestine se réveilla la première, et se mit à tousser.</p>
         <p>Mme de Langrune questionna la mère au sujet de cette toux, et la brave femme répondit tristement :</p>
         <p>« Hélas ! c'est comme ça tous les matins, et depuis longtemps. Ce qui me fait de la peine, c'est que sa sœur, à son âge, était tout de même. Le médecin me dit que c'est faiblesse de poitrine, et qu'il faudrait que l'enfant pût se fortifier assez pour surmonter le mal.</p>
@@ -500,9 +492,7 @@
         <p>Le brave homme fut reçu comme il méritait de l'être ; il embrassa tout son monde, et salua le jeune étranger. Quelques mots de sa femme le mirent au courant de la situation, et il se montra aussi poli, aussi gracieux, aussi affable, qu'on pouvait s'y attendre de la part d'un homme de sa condition, dont les sentiments étaient honnêtes et délicats. Alfred, fatigué et souffrant, ne tarda pas à s'endormir, pendant que Berthuis et sa femme se racontaient mutuellement l'histoire de ces quatre jours d'angoisses. On lui avait fait une sorte de petite chambre avec un vieux paravent. On dédoubla le lit d'Ernestine, et les trois enfants se plongèrent dans un paisible sommeil pour jusqu'au lendemain matin.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V -- Chez madame de Tilly</label>
-        </p>
+        <head>V -- Chez madame de Tilly</head>
         <p>Le voyage fort court de Mme de Langrune s'était effectué sans encombre, bien qu'elle eût le cœur attristé de l'accident arrivé à son fils. En entrant chez sa sœur, ou du moins dans son appartement, car Mme de Tilly était absente depuis les premiers jours de la Commune, elle fut reçue par le fidèle serviteur qu'on avait laissé à Paris, et il mit aussitôt à sa disposition toutes les clefs de la maison.</p>
         <p>Mme de Tilly était une veuve sans enfants, et son isolement avait encore resserré les liens naturels qui unissaient les deux sœurs. Mme de Langrune savait donc que, dans la détresse où elle se trouvait, par suite de l'incendie, elle pouvait agir chez sa sœur comme si elle eût été dans sa propre maison. En conséquence, le domestique de confiance ne s'étonna point de voir la vieille Françoise ouvrir les armoires, et y prendre tout ce qui était nécessaire.</p>
         <p>Le premier soin de Mme de Langrune fut de s'informer de son mari ; mais il n'avait pas encore paru. Elle demanda alors des nouvelles de Joseph qui, au même moment, accourait, heureux de revoir sa maîtresse qu'il aimait et respectait.</p>
@@ -594,9 +584,7 @@
         <p>Mme Berthuis, heureuse de voir son bon mari en face d'elle, fit honneur au déjeuner de Mme de Langrune, et il y eut un peu de joie entre tous ces bons cœurs si dignes de s'apprécier mutuellement.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI -- La supplique</label>
-        </p>
+        <head>VI -- La supplique</head>
         <p>On se figure aisément la joie d'Alfred en revoyant son père, après tant de péripéties. Ils restèrent un moment dans les bras l'un de l'autre, comme si de longs jours s'étaient écoulés depuis leur dernière entrevue. M. de Langrune serra bien affectueusement les mains des braves gens qui lui avaient sauvé toute sa famille ; il leur parla avec cette vraie bonhomie de l'homme du monde, qui met à l'aise et ne laisse voir que son affabilité.</p>
         <p>Le pied du petit garçon allait de mieux en mieux, grâce à l'immobilité et peut-être aussi grâce à la suie, car Mme Berthuis, allait, raclant dans sa cheminée, aussi haut que sa pelle, au bout de son bras, pouvait atteindre. Il fallait prendre patience encore vingt-quatre heures, et M. de Langrune espérait se procurer une voiture et venir chercher son fils. Quel bonheur de se retrouver tous sous le toit de Mme de Tilly !</p>
         <p>Pendant qu'on causait avec abandon et confiance, on frappa à la porte.</p>
@@ -716,9 +704,7 @@
         <p>« Oh ! si l'on allait venir aujourd'hui ! je voudrais bien que la visite tardât jusqu'à dimanche, parce que, au moins, je serais là. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII -- La visite</label>
-        </p>
+        <head>VII -- La visite</head>
         <p>Mme de Langrune, qui pensait à tout, choisit le dimanche pour aller en famille voir Mme Berthuis, car elle savait que ce jour réunissait le mari, la femme et les enfants. On partit tous ensemble, en voiture, à cause d'Alfred, dont le pied n'était pas encore entièrement guéri, et l'on arriva, le cœur tout ému de souvenirs, devant la pauvre maison.</p>
         <p>En entendant une voiture s'arrêter, deux têtes d'enfants apparurent à la fenêtre, toutes surprises, car le fait était rare. Léopold et Ernestine s'élancèrent ensemble dans l'escalier obscur, dont ils savaient toutes les marches par cœur, et coururent au-devant des étrangers. Mme de Langrune et sa fille portaient leur plus simple toilette, et venaient chez ces braves gens, le sourire aux lèvres, et l'amitié au cœur.</p>
         <p>M. de Langrune les suivait, ainsi que son fils, et l'on monta avec précaution jusqu'au premier étage où, la porte étant ouverte, on trouva sur le palier la bonne Mme Berthuis avec sa physionomie douce et calme, son regard bienveillant, son maintien à la fois assuré et modeste.</p>
@@ -837,9 +823,7 @@
         <p>Il résulta de tous ces demi-mots que Jeannette, qui n'en entendait rien, comprit, à la pantomime, que les journaux devaient annoncer une horrible nouvelle, qu'on avait résolu de lui cacher pour lui épargner quelques épouvantes. Quand elle eut eu logé cette idée dans sa tête, rien ne put l'en faire déloger. Elle pensait quelquefois que la Russie nous avait déclaré la guerre ; d'autres fois, c'était l'Italie ; puis la Turquie, puis l'Angleterre, puis l'Espagne ; et pour finir, c'était tout le monde à la fois. Bref, ce fut l'âme plongée dans de morbides angoisses et l'esprit tout rempli de fantômes, qu'elle arriva avec ses maîtres dans le calme et gracieux séjour qu'on appelait Valfleur.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII -- Valfleur</label>
-        </p>
+        <head>VIII -- Valfleur</head>
         <p>Cette campagne était admirablement située, à l'ombre de vieux arbres dans lesquels nichaient des oiseaux gais et chanteurs. Une belle pièce d'eau frappait tout d'abord les regards, occupant tout le côté de la façade. Une barque blanche amarrée à la rive, de beaux cygnes gardant majestueusement les abords de leur domaine, des plantes aquatiques étalant sur l'eau calme leurs larges feuilles, quelques saules pleurant sur ces beautés, c'était le décor de la propriété du côté du Midi, et quand le soleil frappait les vitres des deux étages dont se composait le château, l'aspect en était radieux.</p>
         <p>Du côté du Nord, un certain air de mélancolie voilait cette belle nature. De hauts platanes formaient la ceinture du parc. À droite et à gauche, de jeunes chênes se pressaient, mêlés aux arbres verts, qui seuls paraissaient conserver le sentiment de la vie pendant la saison rigoureuse ; et juste en face des fenêtres de Mme de Langrune, s'ouvrait à l'horizon une échappée, entre deux collines boisées, où les yeux se reposaient sur des prairies à perte de vue, coupées par de petits bouquets de bois et un hameau lointain.</p>
         <p>Vers l'orient, c'était le village, à cette distance où s'atténuent tous les bruits de la vie, où les rires et les pleurs ne font qu'un, trompant l'oreille et lui épargnant l'inquiétude. Le village, c'était le mouvement, la sûreté, et les châtelains se sentaient heureux de se voir entourés de gens qui les gardaient par leur présence, qui au besoin les eussent défendus, et pourtant ne gênaient en rien leur existence un peu solitaire, par goût et par habitude.</p>
@@ -970,9 +954,7 @@
         <p>Enfin, au détour du chemin, lui apparut le radieux séjour où elle était appelée à vivre, auprès de ses excellents maîtres ; le soleil éclairait la façade ; il y avait partout du gazon et des fleurs, les oiseaux chantaient, l'air était vif et sain, le ciel bleu, l'eau limpide ; Aline resta comme charmée sous le regard de cette splendide nature, et comprit que sa vie de travail lui serait douce et facile, en dépit des verres noircis à travers lesquels Jeannette regardait toute chose en ce monde.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX -- Le secret</label>
-        </p>
+        <head>IX -- Le secret</head>
         <p>« Oh que je suis contente, Alfred ! Papa vient de me dire que tout est prêt. Il s'agit maintenant de meubler la maison blanche, de la cave au grenier ; on t'attendait pour cela, puisque c'est le grand plaisir de nos vacances.</p>
         <p>-- Me voici, je ne demande pas mieux que de m'en occuper. »</p>
         <p>Alfred et Marie causaient, assis sur une jolie terrasse, ayant pour point de vue principal le clocher de la vieille église.</p>
@@ -1094,9 +1076,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X -- Madame Berthuis</label>
-        </p>
+        <head>X -- Madame Berthuis</head>
         <p>Une femme aux yeux hagards, aux lèvres desséchées par la fièvre, était étendue sur un lit, dans une mauvaise chambre, dont la tristesse augmentait encore celle de la malade. À cette malheureuse, tout était refusé ; elle avait peu d'air, peu de lumière, jamais de soleil ; elle avait froid, elle avait peur, et personne ne la plaignait.</p>
         <p>Il y a quelques semaines encore, elle affectait un air effronté, une désinvolture hardie, une parole menaçante. Elle injuriait, elle blasphémait, et les enfants qui la rencontraient se détournaient de son chemin, car l'aspect de cette chevelure sauvage, de ces vêtements sales et déchirés, leur causait une frayeur involontaire. Aujourd'hui, c'est tout le contraire. Elle craint même les enfants ; tout être civilisé lui paraît redoutable. On dirait que son crime est écrit en traits de flamme sur son front, depuis longtemps déshonoré.</p>
         <p>Brûlée par l'insomnie, sans force pour se lever de sa misérable couche, elle souffre d'une soif violente et n'a pas de quoi se désaltérer ; car il n'y a plus d'eau dans son pot de grès, et sur sa table on ne voit que des bouteilles vides, grandes et petites, tristes témoins de ses excès ! Le vin, depuis plusieurs années, a commencé le travail de destruction ; l'eau-de-vie l'a achevé. Les derniers mois de cette existence, usée avant la maturité de l'âge, ont été consacrés à la révolte, à ce délire qui fait accuser la société entière, la mettre en jugement, la condamner, la détruire si on le peut.</p>
@@ -1217,9 +1197,7 @@
         <p>« Vous ne m'avez pas maudite ! Que Dieu vous récompense, Madame Berthuis ! »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X -- Une partie de campagne</label>
-        </p>
+        <head>X -- Une partie de campagne</head>
         <p>« Eh bien, ma femme, décidément, est-ce dimanche prochain que nous allons à Valfleur ?</p>
         <p>-- Mais certainement, mon bon ami, je ne demande pas mieux. Je suis trop honorée de l'invitation pour avoir jamais pensé à la refuser.</p>
         <p>-- Tu es pourtant bien solidement amarrée ! On ne peut pas te faire bouger.</p>
@@ -1430,9 +1408,7 @@
         <p>Mais le temps va toujours trop vite ! Il était deux heures et demie ; on partit tous ensemble pour le bois.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII -- Chez la Belle au bois dormant</label>
-        </p>
+        <head>XII -- Chez la Belle au bois dormant</head>
         <p>Une chose étonnait singulièrement les Berthuis ; on n'avait pas aperçu la bonne Françoise, qui pourtant avait naguère témoigné de l'amitié à toute la famille. Plusieurs fois, l'un ou l'autre avait demandé :</p>
         <p>« Où donc est madame Françoise ? »</p>
         <p>Mais parents et enfants s'étaient contentés de répondre d'une manière tout à fait évasive et même on avait surpris un sourire plein de malice sur les lèvres d'Alfred et de Marie. Qu'est-ce que cela voulait dire ? Toujours des mystères !</p>

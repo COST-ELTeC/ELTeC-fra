@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02603" xml:lang="fr">
   <teiHeader>
@@ -16,62 +16,62 @@
       </titleStmt>
       <extent>
         <measure unit="words">101840</measure>
-        
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          Bibliothèque électronique du Québec,
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="http://beq.ebooksgratuits.com"/>
-          .
-        </bibl><bibl type="firstEdition">
-          <date>1888</date>
-          ,
-          <idno/>
-          ,
-          
-          .
-        </bibl></sourceDesc>
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource"> Bibliothèque électronique du Québec,
+          <date /> ,
+          <idno /> ,
+          <ref target="http://beq.ebooksgratuits.com" /> . </bibl>
+        <bibl type="firstEdition">
+          <date>1888</date> ,
+          <idno /> , .
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="group">
-        <p>
-          <label>Première partie</label>
-        </p>
+
+        <head>Première partie</head>
         <div type="chapter">
+
           <head>I</head>
           <p>Lorsque le bohème Crozat était sorti de la misère par un bon mariage qui le faisait bourgeois de la rue de Vaugirard, il n'avait pas rompu avec ses anciens camarades ; au lieu de les fuir ou de les tenir à distance, il avait pris plaisir à les grouper autour de lui, très content de leur ouvrir sa maison, dont le confortable le jetait loin de la mansarde de la rue Ganneron qu'il avait si longtemps habitée, et le flattait agréablement.</p>
-          <p>
-            Tous les mercredis, de quatre à sept heures, il y avait réunion chez lui à l'
-            <hi>Hôtel des Médicis</hi>
-            , et c'était un jour sacré pour lequel on se réservait : quand une idée nouvelle germait dans l'esprit d'un des habitués, elle était caressée, mûrie, étudiée en silence, afin d'être présentée dans sa fleur au cénacle. « J'en parlerai chez Crozat » ; les lèvres prenaient un sourire d'espérance, et l'on s'endormait tranquillement en écoutant déjà le tapage qui se ferait dans la petite salle basse de l'hôtel où Crozat, les mains tendues, la figure ouverte, recevait ses amis.
-          </p>
+          <p> Tous les mercredis, de quatre à sept heures, il y avait réunion chez lui à l' <hi>Hôtel des Médicis</hi> , et c'était un jour sacré pour lequel on se réservait : quand une idée nouvelle germait dans l'esprit d'un des habitués, elle était caressée, mûrie, étudiée en silence, afin d'être présentée dans sa fleur au cénacle. « J'en parlerai chez Crozat » ; les lèvres prenaient un sourire d'espérance, et l'on s'endormait tranquillement en écoutant déjà le tapage qui se ferait dans la petite salle basse de l'hôtel où Crozat, les mains tendues, la figure ouverte, recevait ses amis. </p>
           <p>Elle était aimable cette réception, simple comme l'homme, cordiale de la part du mari ainsi que de celle de la femme, qui ayant été comédienne, avait gardé la religion de la camaraderie. Sur une table, on trouvait des cruchons de bière et des chopes ; à longueur de bras, un vieux pot en grès de Beauvais, plein de tabac. La bière était bonne, le tabac sec ; les chopes ne restaient jamais vides ; on pouvait mettre ses pieds crottés sur les barreaux des chaises en causant librement entre hommes, et cracher sans gêne autour de soi.</p>
           <p>Et ce n'était point de niaiseries ou de futilités qu'on s'entretenait, de bavardages mondains, de commérages sur les amis absents, ou de potins de coteries, mais des grandes questions philosophiques, politiques, sociales, religieuses, qui règlent l'humanité.</p>
           <p>Formé d'abord d'amis ou tout au moins de camarades qui avaient travaillé et traîné la misère ensemble, le cercle de ces réunions s'était peu à peu élargi, et si bien qu'un jour la salle de l'hôtel des Médicis était devenue une « parlotte » où les prêcheurs d'idées et de religions nouvelles, les penseurs, les réformateurs, les apôtres, les politiciens, les esthéticiens et même simplement les bavards en quête d'oreilles plus ou moins complaisantes se donnaient rendez-vous ; venait qui voulait, et, si l'on n'entrait point là tout à fait comme dans une brasserie, il suffisait d'être amené par un habitué pour avoir droit à la pipe, à la bière et à la parole.</p>
@@ -107,11 +107,7 @@
           <p>-- Au moins l'idée est bizarre chez un médecin, interrompit Crozat, puisqu'elle supprime les hôpitaux.</p>
           <p>-- Mais pas du tout : je les conserve pour l'étude des monstres.</p>
           <p>-- En mettant la société sur ce pied d'antagonisme aigu, dit Brigard, vous supprimez la société même, qui repose sur la réciprocité, sur la solidarité, et vous créez ainsi pour vos forts un état de méfiance qui les paralyse. Carthage et Venise ont pratiqué cette sélection par la force, et elles se sont effondrées.</p>
-          <p>
-            -- Vous parlez de force, mon cher Saniel, interrompit une voix ; où prenez-vous ça, la force des choses, le
-            <hi>fatum</hi>
-             ; il n'y a pas d'initiative, pas de volonté ; ce sont les événements qui veulent pour nous, le climat, le tempérament, le milieu.
-          </p>
+          <p> -- Vous parlez de force, mon cher Saniel, interrompit une voix ; où prenez-vous ça, la force des choses, le <hi>fatum</hi>  ; il n'y a pas d'initiative, pas de volonté ; ce sont les événements qui veulent pour nous, le climat, le tempérament, le milieu. </p>
           <p>-- Donc, répliqua Saniel, il n'y a pas de responsabilité, et cet instrument, la conscience, qui devrait tout peser, ne sert à rien. Sans compter que les conséquences des événements, que le succès ou la défaite viennent encore le fausser, car tel acte que vous avez cru condamnable en l'accomplissant peut servir à l'espèce, tandis que tel autre que vous avez cru bienfaisant peut nuire ; d'où il résulte qu'on ne devrait juger que les intentions et qu'il n'y a que Dieu qui peut sonder les cœurs.</p>
           <p>Il se mit à rire :</p>
           <p>-- Le voulez-vous ? Est-ce là votre conclusion ?</p>
@@ -122,6 +118,7 @@
           <p>-- C'est un garçon qui se croit plus fort que la vie, dit-il, parce qu'il est solide et intelligent ; qu'il prenne garde qu'elle ne l'écrase !</p>
         </div>
         <div type="chapter">
+
           <head>II</head>
           <p>Quand Saniel et Glady se trouvèrent sur le trottoir de la rue de Vaugirard, la pluie qui tombait depuis le matin, fouettée par des rafales de l'ouest, venait de s'arrêter, et l'asphalte brillait propre et luisant comme un miroir.</p>
           <p>-- Il fait bon marcher, dit Saniel.</p>
@@ -167,11 +164,7 @@
           <p>-- Comme pour une cocotte.</p>
           <p>-- Justement. Je me laissai tenter. N'oubliez pas que j'avais passé huit ans à l'hôtel du Sénat et que je ne savais rien de la vie parisienne ; chez moi ! dans mes meubles ! un domestique dans mon antichambre, j'allais être quelqu'un. Mon tapissier aurait pu m'installer dans son quartier qu'il m'aurait peut-être trouvé des malades dans la clientèle de la haute noce ; mais il n'en eut pas l'idée, jugeant sans doute qu'avec ma tournure lourdaude je n'étais pas fait pour réussir dans ce monde-là : arrivé, c'est une originalité d'être paysan, on vous trouve fort ; en route, c'est une honte. Ce fut rue Louis-le-Grand, dans une maison d'aspect grave, qu'il me choisit l'appartement qu'il meubla : un salon magistral avec six fauteuils et deux canapés Louis XIV de grand style, un cabinet austère et confortable à la fois, rien dans la salle à manger, un petit lit en fer et une chaise de paille dans la chambre. Me voilà donc prêt à descendre dans la lutte avec dix mille francs de dettes derrière moi, les intérêts, les très gros intérêts de cette somme, un loyer de deux mille quatre cents francs, pas un sou en poche, pas une relation...</p>
           <p>-- C'était de la bravoure.</p>
-          <p>
-            -- Je ne savais pas que dans Paris tout se fait par relations, et j'imaginais que des bras solides suffisent à un homme intelligent pour s'ouvrir une trouée. L'expérience allait m'instruire. Quand un nouveau médecin arrive quelque part, ce n'est généralement pas avec sympathie que ses confrères l'accueillent : « Que veut cet intrus ? n'étions-nous pas déjà assez nombreux ! » On le surveille, et, au premier malade qu'il perd, on tire parti de son ignorance ou de son imprudence, de façon à lui rendre la place difficile. Chez les pharmaciens de mon quartier, auxquels je devais aussi une visite, la réception ne fut pas plus chaude ; on me fit sentir la distance qui sépare un honorable commerçant d'un crève-la-faim, et je dus comprendre qu'on ne me protégerait que si j'ordonnais les spécialités qu'on exploitait, le fer de celui-ci, le goudron de celui-là. En commençant, je n'eus donc pour clients que les gens du quartier, dont le principe était de ne pas payer leur médecin, attendant l'arrivée d'un nouveau pour quitter l'ancien, -- et l'espèce en est nombreuse partout. Le hasard avait voulu que mon concierge fût Auvergnat comme moi, et il considéra que c'était un devoir pour lui de me faire soigner gratis tous nos
-            <hi>pays</hi>
-            , qu'il racola dans le quartier et partout, de sorte que j'eus la satisfaction patriotique de voir tous les charbonniers de l'Auvergne se carrer dans mes beaux fauteuils. À la fin, en restant religieusement chez moi les dimanches d'été, pendant que mes confrères étaient aux champs ; en me levant vivement la nuit toutes les fois que ma sonnette tintait, je finis par accrocher quelques clients moins fantaisistes. J'obtins un prix à l'Académie. En même temps je faisais, au rabais, des cours d'anatomie dans les pensions de la banlieue ; je donnais des leçons, j'entreprenais tous les travaux anonymes de librairie et de journalisme que je pouvais me procurer. Je dormais cinq heures par jour, et en quatre ans j'arrivais à diminuer ma dette de sept mille francs. Mon tapissier aurait voulu être payé : j'en serais venu à bout, mais telle n'était pas son intention : ce qu'il veut, c'est reprendre ses meubles, qui ne sont pas usés, et garder ce qu'il a reçu. Si je ne paye pas ces trois mille francs d'ici quelques jours, je suis dans la rue. À la vérité, j'ai à toucher un millier de francs, mais les clients qui me doivent ne sont pas à Paris ou ne payeront qu'en janvier. Voilà ma situation : désespérée, car je n'ai personne à qui m'adresser ; ceux à qui j'ai fait appel ne m'ont pas écouté ; je vous ai dit que je n'avais pas de relations, je n'ai pas non plus d'amis... peut-être parce que je ne suis pas aimable. C'est alors que j'ai pensé à vous. Vous me connaissez. Vous savez qu'on croit que j'ai de l'avenir : avant trois mois, je serai médecin des hôpitaux ; mes concurrents admettent que je ne raterai pas l'agrégation ; j'ai en train des expériences qui me feront peut-être un nom ; voulez-vous me tendre la main ?
-          </p>
+          <p> -- Je ne savais pas que dans Paris tout se fait par relations, et j'imaginais que des bras solides suffisent à un homme intelligent pour s'ouvrir une trouée. L'expérience allait m'instruire. Quand un nouveau médecin arrive quelque part, ce n'est généralement pas avec sympathie que ses confrères l'accueillent : « Que veut cet intrus ? n'étions-nous pas déjà assez nombreux ! » On le surveille, et, au premier malade qu'il perd, on tire parti de son ignorance ou de son imprudence, de façon à lui rendre la place difficile. Chez les pharmaciens de mon quartier, auxquels je devais aussi une visite, la réception ne fut pas plus chaude ; on me fit sentir la distance qui sépare un honorable commerçant d'un crève-la-faim, et je dus comprendre qu'on ne me protégerait que si j'ordonnais les spécialités qu'on exploitait, le fer de celui-ci, le goudron de celui-là. En commençant, je n'eus donc pour clients que les gens du quartier, dont le principe était de ne pas payer leur médecin, attendant l'arrivée d'un nouveau pour quitter l'ancien, -- et l'espèce en est nombreuse partout. Le hasard avait voulu que mon concierge fût Auvergnat comme moi, et il considéra que c'était un devoir pour lui de me faire soigner gratis tous nos <hi>pays</hi> , qu'il racola dans le quartier et partout, de sorte que j'eus la satisfaction patriotique de voir tous les charbonniers de l'Auvergne se carrer dans mes beaux fauteuils. À la fin, en restant religieusement chez moi les dimanches d'été, pendant que mes confrères étaient aux champs ; en me levant vivement la nuit toutes les fois que ma sonnette tintait, je finis par accrocher quelques clients moins fantaisistes. J'obtins un prix à l'Académie. En même temps je faisais, au rabais, des cours d'anatomie dans les pensions de la banlieue ; je donnais des leçons, j'entreprenais tous les travaux anonymes de librairie et de journalisme que je pouvais me procurer. Je dormais cinq heures par jour, et en quatre ans j'arrivais à diminuer ma dette de sept mille francs. Mon tapissier aurait voulu être payé : j'en serais venu à bout, mais telle n'était pas son intention : ce qu'il veut, c'est reprendre ses meubles, qui ne sont pas usés, et garder ce qu'il a reçu. Si je ne paye pas ces trois mille francs d'ici quelques jours, je suis dans la rue. À la vérité, j'ai à toucher un millier de francs, mais les clients qui me doivent ne sont pas à Paris ou ne payeront qu'en janvier. Voilà ma situation : désespérée, car je n'ai personne à qui m'adresser ; ceux à qui j'ai fait appel ne m'ont pas écouté ; je vous ai dit que je n'avais pas de relations, je n'ai pas non plus d'amis... peut-être parce que je ne suis pas aimable. C'est alors que j'ai pensé à vous. Vous me connaissez. Vous savez qu'on croit que j'ai de l'avenir : avant trois mois, je serai médecin des hôpitaux ; mes concurrents admettent que je ne raterai pas l'agrégation ; j'ai en train des expériences qui me feront peut-être un nom ; voulez-vous me tendre la main ? </p>
           <p>Glady la lui tendit.</p>
           <p>-- Je vous remercie de vous être adressé à moi, c'est une preuve de confiance qui me touche, -- il serra chaleureusement la main qu'il avait prise ; -- je vois que vous avez deviné les sentiments d'estime que vous m'inspirez.</p>
           <p>Saniel respira.</p>
@@ -182,6 +175,7 @@
           <p>-- Voici enfin des voitures, dit Glady, pardonnez-moi de vous quitter, je suis pressé.</p>
         </div>
         <div type="chapter">
+
           <head>III</head>
           <p>Glady était monté si vivement en voiture, que Saniel restait sur le trottoir, interloqué ; ce fut seulement quand la portière se referma qu'il comprit :</p>
           <p>-- Sa conscience ! murmura-t-il ; les voilà donc ! Tartufes !</p>
@@ -199,11 +193,7 @@
           <p>-- Ce sont les faibles qui se tuent ; les forts luttent jusqu'à leur dernier souffle.</p>
           <p>Et, si bas qu'il fût, il n'en était pas encore à ce dernier souffle.</p>
           <p>Lorsqu'il s'était décidé à s'adresser à Glady, il avait hésité entre celui-ci et un usurier appelé Caffié qu'il ne connaissait pas personnellement, mais dont il avait souvent entendu parler comme d'un vrai coquin s'occupant de toute sorte d'affaires, des mauvaises de préférence aux bonnes, de successions, de mariages, d'interdictions, de chantages ; et, s'il n'avait point été à lui, c'était autant par crainte d'être refusé que par peur de se mettre dans de pareilles mains, au cas où elles voudraient bien l'accepter. Mais ces scrupules et ces craintes n'étaient plus de saison : puisque Glady lui manquait, coûte que coûte et quoi qu'il pût en advenir, il fallait bien se retourner du côté du coquin.</p>
-          <p>
-            Il savait que Caffié demeurait rue Sainte-Anne, mais il ignorait son numéro : il n'eût qu'à entrer chez un de ses clients, marchand de vin, rue Thérèse, pour le trouver en consultant le
-            <hi>Bottin</hi>
-            . C'était à deux pas ; et tout de suite il décida de risquer l'aventure ; l'affaire pressait. Découragé par toutes les démarches qu'il avait essayées jusqu'à ce jour, rebuté par les espoirs trahis, irrité par les rebuffades reçues, il ne s'abusait pas sur les chances de cette dernière tentative, mais enfin il devait la faire, si peu solides que fussent ces chances.
-          </p>
+          <p> Il savait que Caffié demeurait rue Sainte-Anne, mais il ignorait son numéro : il n'eût qu'à entrer chez un de ses clients, marchand de vin, rue Thérèse, pour le trouver en consultant le <hi>Bottin</hi> . C'était à deux pas ; et tout de suite il décida de risquer l'aventure ; l'affaire pressait. Découragé par toutes les démarches qu'il avait essayées jusqu'à ce jour, rebuté par les espoirs trahis, irrité par les rebuffades reçues, il ne s'abusait pas sur les chances de cette dernière tentative, mais enfin il devait la faire, si peu solides que fussent ces chances. </p>
           <p>C'était une vieille maison de la butte des Moulins qu'habitait Caffié et qui, autrefois, avait dû être un hôtel particulier : elle se composait de deux corps de bâtiment, l'un sur la rue, l'autre sur une cour intérieure. Une porte cochère donnait accès dans cette cour, et sous sa voûte, après un escalier, se trouvait la loge du concierge. Ce fut vainement que Saniel frappa à cette porte : fermée à clef, elle ne s'ouvrit point ; il dut attendre quelques instants et, dans son impatience nerveuse, il se mit à marcher en long et en large dans la cour. Enfin, une vieille femme cassée et voûtée parut, un rat-de-cave à la main, et s'excusa : seule, elle ne pouvait pas être partout en même temps, à garder sa loge et à allumer dans l'escalier de la propriétaire. C'était au premier étage que demeurait Caffié, dans le corps de bâtiment sur la rue.</p>
           <p>Saniel monta au premier et sonna ; un temps assez long, ou tout au moins qui parut très long à son inquiétude, s'écoula avant qu'on lui répondît ; à la fin, il entendit un pas lent et traînant sur le carreau, et la porte s'entrouvrit, mais retenue par la main et par le pied :</p>
           <p>-- Qui demandez-vous ?</p>
@@ -235,22 +225,22 @@
           <p>-- Pas d'autres que ma position présente, je l'avoue, et surtout mon avenir.</p>
           <p>Sur un signe de Caffié, il expliqua quel était cet avenir, tandis que l'homme d'affaires, sa joue dans sa main, écoutait en poussant, de temps en temps, un soupir étouffé, une sorte de plainte.</p>
           <p>-- Hum ! hum ! dit Caffié quand Saniel fut arrivé au bout de son explication ; vous savez, mon cher monsieur, vous savez :</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>
             <hi>Ma foi, sur l'avenir bien fou qui se fiera :</hi>
           </p>
           <p>
             <hi>Tel qui rit vendredi, dimanche pleurera.</hi>
           </p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>Vous en êtes à dimanche, mon cher monsieur.</p>
           <p>-- Mais je ne suis ni au bout de ma vie, ni au bout de mon énergie, et je vous assure que cette énergie me rend capable de beaucoup de choses.</p>
           <p>-- Je n'en doute pas ; je sais ce que peut l'énergie : dites à un Grec crevant de faim de monter au ciel, il y va :</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>
             <hi>Greculus esuriens in caelum, jusseris, ibit.</hi>
           </p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>Mais je ne vois pas que vous soyez parti pour le ciel.</p>
           <p>Caffié eut un mauvais sourire accompagné d'une grimace : avant d'être l'usurier de la rue Sainte-Anne dont tout le monde parlait comme d'un coquin, il avait été avoué en province, juge suppléant, et si des malheurs immérités l'avaient obligé à se démettre, pour venir cacher ses désagréments à Paris, il ne perdait jamais l'occasion de montrer qu'il était, par l'éducation, au-dessus de sa situation présente : trouvant dans ce nouveau client un érudit, il était bien aise de placer quelques citations qui devaient lui valoir de la considération.</p>
           <p>-- C'est peut-être parce que je ne suis pas Grec, répondit Saniel ; mais je suis Auvergnat, et les gens de mon pays ont les reins solides.</p>
@@ -265,6 +255,7 @@
           <p>-- Je veux vous prouver qu'elle est réelle et qu'elle peut devenir efficace. Vous venez à moi parce que vous avez besoin de trois mille francs. Que je vous les trouve -- et je vous promets de les chercher, bien que cela me paraît difficile, très difficile -- ils assureront votre repos présent ; mais assureront-ils votre avenir, c'est-à-dire vous permettront-ils de continuer les travaux importants dont vous venez de me parler et sur lesquels votre ambition compte ? Non. Les luttes dans lesquelles vous vous débattez et vous usez, recommenceront bientôt. Et c'est de ces luttes que vous devez vous débarrasser pour vous assurer la liberté de travail qui vous est indispensable si vous voulez marcher droit et vite. Pour cela, je ne vois qu'un moyen : -- vous marier.</p>
         </div>
         <div type="chapter">
+
           <head>IV</head>
           <p>Saniel, qui était sur ses gardes et s'attendait à quelque rouerie de la part de l'agent d'affaires, n'avait pas du tout prévu que ces témoignages d'intérêt aboutiraient à une proposition de mariage ; une exclamation de surprise lui échappa. Mais elle se perdit dans le tintement de la sonnette.</p>
           <p>Caffié se leva :</p>
@@ -279,11 +270,7 @@
           <p>-- Tirez la porte en sortant, dit Caffié qui avait déjà repris son fauteuil.</p>
           <p>-- N'ayez crainte.</p>
           <p>Le garçon de banque parti, Caffié s'excusa pour cette interruption.</p>
-          <p>
-            -- Reprenons notre entretien si vous le voulez bien, mon cher monsieur. Je vous disais donc qu'il n'y avait pour vous qu'un moyen d'être tiré à jamais de vos embarras, et que ce moyen vous le trouveriez dans un bon mariage qui mettrait
-            <hi>hic et nunc</hi>
-            une somme raisonnable à votre disposition.
-          </p>
+          <p> -- Reprenons notre entretien si vous le voulez bien, mon cher monsieur. Je vous disais donc qu'il n'y avait pour vous qu'un moyen d'être tiré à jamais de vos embarras, et que ce moyen vous le trouveriez dans un bon mariage qui mettrait <hi>hic et nunc</hi> une somme raisonnable à votre disposition. </p>
           <p>-- Mais ce serait folie à moi de me marier en ce moment, quand je n'ai pas de position à offrir à ma femme.</p>
           <p>-- Et votre avenir, dont vous parliez tout à l'heure avec tant d'assurance, n'y avez-vous pas foi ?</p>
           <p>-- Une foi absolue, aussi ferme aujourd'hui que quand je suis entré dans la lutte, mais plus éclairée. Cependant, comme les autres n'ont pas les mêmes raisons que moi pour espérer et croire ce que j'espère et crois, je trouve tout naturel qu'on doute de cet avenir : ce que vous avez fait vous-même, à l'instant, en ne le trouvant pas bon pour garantir un simple prêt de trois mille francs.</p>
@@ -348,6 +335,7 @@
           <p>-- C'est un obstacle dans les jambes de votre Jardine et qui peut l'arrêter un moment. Nous pourrons ainsi manœuvrer plus aisément. L'essentiel est de m'avertir aussitôt que le feu commencera. Au revoir donc, cher monsieur.</p>
         </div>
         <div type="chapter">
+
           <head>V</head>
           <p>Bien que Saniel n'eût aucune expérience des affaires, il n'était pas assez naïf pour ne pas comprendre que Caffié, en lui refusant ce prêt, voulait le tenir dans une dépendance étroite.</p>
           <p>-- Le calcul est simple, se dit-il, en descendant l'escalier ; il se charge de ma défense et la conduit de telle sorte qu'un beau jour, qui n'est pas loin, je ne peux me sauver qu'en tendant la main à la jeune fille charmante. Quel gredin !</p>
@@ -356,16 +344,10 @@
           <p>Que dirait-il, que ferait-il, quand le moment de l'action serait venu ?</p>
           <p>Il arriva chez lui sans avoir rien trouvé, et, comme il passait devant la loge du concierge, absorbé dans sa préoccupation, il entendit qu'on l'appelait :</p>
           <p>-- Monchieur le docteur, voulez-vous bien entrer un moment, je vous prie ?</p>
-          <p>
-            Il pensa que c'était quelque consultation qu'on voulait lui demander, un
-            <hi>pays</hi>
-            qui attendait son retour comme cela se produisait si souvent, et, bien qu'il ne fût pas en disposition d'écouter patiemment des bavardages imbéciles, il revint sur ses pas et entra dans la loge.
-          </p>
+          <p> Il pensa que c'était quelque consultation qu'on voulait lui demander, un <hi>pays</hi> qui attendait son retour comme cela se produisait si souvent, et, bien qu'il ne fût pas en disposition d'écouter patiemment des bavardages imbéciles, il revint sur ses pas et entra dans la loge. </p>
           <p>-- C'est cha qu'on a apporté, dit le concierge en lui tendant une feuille de papier timbré couverte d'une écriture courue.</p>
           <p>
-            <hi>Cha</hi>
-            , c'était le commencement du feu dont Caffié avait parlé. Sans la lire jusqu'au bout Saniel la mit dans sa poche et se prépara à sortir ; mais le concierge le retint.
-          </p>
+            <hi>Cha</hi> , c'était le commencement du feu dont Caffié avait parlé. Sans la lire jusqu'au bout Saniel la mit dans sa poche et se prépara à sortir ; mais le concierge le retint. </p>
           <p>-- Je voudrais dire deux mots à monchieur le docteur relativement à ce papier.</p>
           <p>-- Vous l'avez lu ?</p>
           <p>-- Pour cha non, mais j'ai causé avec le clerc d'huissier qui me l'a remis « parlant à ma perchonne » et il m'a expliqué la situation. C'est-y malheureux, monchieur le docteur !</p>
@@ -375,15 +357,7 @@
           <p>-- Vous me la donnerez.</p>
           <p>-- Je vous l'ai déjà donnée deux fois, mais je l'ai refaite ; la voilà.</p>
           <p>La réclamation d'un créancier paralysait Saniel ou bien il restait bouche béante, étouffé par l'humiliation, ou bien il ne trouvait à répondre que des maladresses. Prenant la note que le concierge lui tendait, il la mit dans sa poche en balbutiant quelques mots.</p>
-          <p>
-            -- Voyez-vous, monchieur le docteur, faut que je vous dise ce que j'ai sur le cœur depuis longtemps. Vous êtes mon
-            <hi>pays</hi>
-            et je vous estime trop pour ne pas parler. En prenant votre appartement, en vous engageant avec votre tapissier, vous avez fait plus que force : vous vous épuisez ; quittez cet appartement, prenez celui d'en face qui coûte moitié moins, et ça ira. Vous ne serez pas forcé d'abandonner le quartier. Qu'est-ce que deviendraient les
-            <hi>pays</hi>
-            si vous nous quittiez ? Vous êtes un bon médecin, tout le monde le reconnaît et le dit, les
-            <hi>pays</hi>
-            s'entend. Maintenant, pour ma petite note, il est convenu que je passerai le premier, n'est-ce pas, comme de juste ?
-          </p>
+          <p> -- Voyez-vous, monchieur le docteur, faut que je vous dise ce que j'ai sur le cœur depuis longtemps. Vous êtes mon <hi>pays</hi> et je vous estime trop pour ne pas parler. En prenant votre appartement, en vous engageant avec votre tapissier, vous avez fait plus que force : vous vous épuisez ; quittez cet appartement, prenez celui d'en face qui coûte moitié moins, et ça ira. Vous ne serez pas forcé d'abandonner le quartier. Qu'est-ce que deviendraient les <hi>pays</hi> si vous nous quittiez ? Vous êtes un bon médecin, tout le monde le reconnaît et le dit, les <hi>pays</hi> s'entend. Maintenant, pour ma petite note, il est convenu que je passerai le premier, n'est-ce pas, comme de juste ? </p>
           <p>-- Aussitôt que j'aurai de l'argent, je vous payerai.</p>
           <p>-- C'est dit ?</p>
           <p>-- Je vous le promets.</p>
@@ -404,35 +378,17 @@
           <p>Saniel ne le savait que trop, qu'il était père de famille, ayant eu à soigner depuis quatre ans cette famille, composée d'une mère et de trois enfants constamment malades, sans qu'il eût jamais été question de lui payer ses visites.</p>
           <p>Tant bien que mal, après une interminable discussion, il parvint à renvoyer le charbonnier, et rentra dans son bureau pour se mettre à son article.</p>
           <p>La première lettre qu'il prit, signée : « Parfum de cyclamen », demandait des conseils pour les dents ; il répondit :</p>
+          <p> «  <hi>Parfum de cyclamen.</hi> -- Abandonnez votre dentifrice, qui est dangereux et vous ferait perdre toutes vos dents avant cinq ans, adoptez celui de la pharmacie Durand, 215, rue Richelieu, dont je vous garantis les bons effets... </p>
+          <p> «  <hi>Jeune femme pâle.</hi> -- L'opération est radicale, sans danger pour la peau et pour la santé ; mais elle doit être faite par une main habile à manier l'électricité. Adressez-vous à moi, 117, Chaussée-d'Antin, de deux à quatre heures ; j'aurai grand plaisir à vous voir. » </p>
           <p>
-            « 
-            <hi>Parfum de cyclamen.</hi>
-            -- Abandonnez votre dentifrice, qui est dangereux et vous ferait perdre toutes vos dents avant cinq ans, adoptez celui de la pharmacie Durand, 215, rue Richelieu, dont je vous garantis les bons effets...
-          </p>
-          <p>
-            « 
-            <hi>Jeune femme pâle.</hi>
-            -- L'opération est radicale, sans danger pour la peau et pour la santé ; mais elle doit être faite par une main habile à manier l'électricité. Adressez-vous à moi, 117, Chaussée-d'Antin, de deux à quatre heures ; j'aurai grand plaisir à vous voir. »
-          </p>
-          <p>
-            <hi>Moi,</hi>
-            ce n'était pas lui Saniel, mais bien son confrère, celui qui signait cette correspondance et qui, par ces amorces, pêchait ainsi quelques clients.
-          </p>
+            <hi>Moi,</hi> ce n'était pas lui Saniel, mais bien son confrère, celui qui signait cette correspondance et qui, par ces amorces, pêchait ainsi quelques clients. </p>
           <p>Il allait passer à la troisième, signée : « Une affligée de vingt ans », lorsque la sonnette retentit de nouveau. Cette fois, il n'ouvrirait pas : encore un créancier sans doute. Et il écrivit son conseil.</p>
           <p>Pourtant ? Depuis quatre ans, il attendait que la chance tirât pour lui un bon billet à la loterie de la vie : une malade riche, atteinte d'un kyste ou d'une tumeur qu'il conduisait chez un chirurgien à la mode, lequel partageait avec lui les dix ou quinze mille francs, prix de l'opération. Alors il était sauvé.</p>
           <p>Il courut à sa porte. La malade au kyste se présenta sous la forme d'un petit homme barbu, à la trogne allumée, portant par-dessus sa veste le tablier en grosse toile noire des marchands de vin. C'était en effet le marchand de vin du coin qui ayant, lui aussi, appris la vérité de l'huissier, venait toucher sa petite note pour fournitures de vin et de portions faites depuis trois mois pour les déjeuners de M. le docteur.</p>
           <p>La scène qui s'était passée avec le charbonnier recommença plus vive, plus violente, et il fallut que Saniel se fâchât, menaçât, pour mettre à la porte le marchand de vin, qui ne partit qu'en promettant de revenir le lendemain avec son huissier.</p>
           <p>Saniel reprit son article :</p>
-          <p>
-            « 
-            <hi>Une Parisienne en perspective.</hi>
-            -- Puisque vous viendrez bientôt à Paris, je diffère mon ordonnance jusqu'à votre arrivée : toutes les explications ne valent pas un coup d'œil. Que votre première visite soit pour le 117 de la Chaussée-d'Antin : vous êtes certaine de me trouver de deux heures à quatre heures.
-          </p>
-          <p>
-            « 
-            <hi>Entre perruche et ouistiti</hi>
-            . -- Faites usage des sachets de toilette de la parfumerie du Magnolia, ils retarderont vos rides, que vous exagérez certainement, votre style le dit. »
-          </p>
+          <p> «  <hi>Une Parisienne en perspective.</hi> -- Puisque vous viendrez bientôt à Paris, je diffère mon ordonnance jusqu'à votre arrivée : toutes les explications ne valent pas un coup d'œil. Que votre première visite soit pour le 117 de la Chaussée-d'Antin : vous êtes certaine de me trouver de deux heures à quatre heures. </p>
+          <p> «  <hi>Entre perruche et ouistiti</hi> . -- Faites usage des sachets de toilette de la parfumerie du Magnolia, ils retarderont vos rides, que vous exagérez certainement, votre style le dit. » </p>
           <p>Sa plume courait sur le papier, lorsqu'un bruit de pas lui fit lever la tête : ou bien il avait mal fermé sa porte sur le dos du marchand de vin, ou bien c'était son domestique qui venait d'entrer avec sa clef... Alors que voulait-il ? Ce n'était point toute la journée qu'il l'employait, mais seulement à l'heure de sa consultation, pour le ménage et pour ouvrir aux clients quand il s'en présentait.</p>
           <p>Comme il allait se lever pour voir qui marchait ainsi, on frappa à sa porte : c'était en effet son domestique, à l'air penaud et embarrassé.</p>
           <p>-- Qu'est-ce qu'il y a, Joseph ?</p>
@@ -466,6 +422,7 @@
           <p>-- Ah ! mon chéri, que je suis contente de te trouver chez toi.</p>
         </div>
         <div type="chapter">
+
           <head>VI</head>
           <p>Elle lui avait passé un bras autour de la taille, et, se serrant contre lui, se pelotonnant, ils étaient entrés dans le cabinet.</p>
           <p>-- Que je suis donc contente, répéta-t-elle ; quelle bonne idée j'ai eue !</p>
@@ -513,9 +470,7 @@
           <p>Elle avait répondu par un sourire, et ils s'étaient mis à marcher côte à côte jusqu'au moment où la pluie s'était abattue sur eux ; alors elle s'était rapprochée de lui, et ils étaient entrés dans la gare en causant gaiement :</p>
           <p>-- Votre parapluie vaut mieux que la jupe de Virginie, dit-elle.</p>
           <p>-- Qu'est-ce que c'est que la jupe de Virginie ?</p>
-          <p>
-            -- Vous n'avez pas lu
-            <hi>Paul et Virginie ?</hi>
+          <p> -- Vous n'avez pas lu <hi>Paul et Virginie ?</hi>
           </p>
           <p>-- Non.</p>
           <p>Elle l'avait regardé avec un sourire un peu moqueur, se demandant ce que les gens très forts pouvaient bien lire.</p>
@@ -533,6 +488,7 @@
           <p>Ils s'aimaient.</p>
         </div>
         <div type="chapter">
+
           <head>VII</head>
           <p>Saniel était encore au travail quand Philis rentra.</p>
           <p>-- Tu n'as pas fini, pauvre cher ? demanda-t-elle.</p>
@@ -594,11 +550,7 @@
           <p>Comme il allait s'asseoir, elle l'arrêta :</p>
           <p>-- Tu ne me donnes pas le bras pour me conduire à ma place ? Si nous ne faisons pas les choses sérieusement, méthodiquement, nous n'y croirons pas, et les truffes du Périgord se changeront peut-être en petits morceaux noirs de n'importe quoi.</p>
           <p>Quand ils furent assis en face l'un de l'autre, la serviette dépliée, elle continua sa plaisanterie :</p>
-          <p>
-            -- Allâtes-vous lundi à la représentation de
-            <hi>Don Juan</hi>
-            , mon cher docteur ?
-          </p>
+          <p> -- Allâtes-vous lundi à la représentation de <hi>Don Juan</hi> , mon cher docteur ? </p>
           <p>Et Saniel qui, malgré tout, avait gardé la mine sombre, se mit à rire franchement.</p>
           <p>-- Allons donc ! s'écria-t-elle en frappant ses mains l'une contre l'autre. Plus de préoccupation, n'est-ce pas, plus de souci ! Tes yeux dans les miens, cher Victor, et ne pensons qu'à l'heure présente ; à la joie d'être ensemble, à notre amour. Est-ce dit ?</p>
           <p>Elle lui tendit la main par-dessus la table.</p>
@@ -629,6 +581,7 @@
           <p>-- Et maintenant ?</p>
         </div>
         <div type="chapter">
+
           <head>VIII</head>
           <p>À ce moment, la bougie qui éclairait la table, s'éteignit dans le flambeau, sans que sa lueur vacillante depuis quelques instants déjà les eût avertis qu'elle allait mourir. Philis se leva :</p>
           <p>-- Où y a-t-il des bougies ? demanda-t-elle.</p>
@@ -690,6 +643,7 @@
           <p>-- Je viendrai quand même demain soir pour connaître cette réponse.</p>
         </div>
         <div type="chapter">
+
           <head>IX</head>
           <p>Bien que Saniel ne se fit pas d'illusion sur la réponse de Caffié, il alla le lendemain, à la même heure que la veille, sonner à la porte de l'homme d'affaires.</p>
           <p>Comme la veille, il eut à attendre assez longtemps avant que la porte s'ouvrît ; à la fin il entendit un pas traînant sur le carreau.</p>
@@ -780,6 +734,7 @@
           <p>-- Est-ce bien « heureusement » qu'il faut dire ?</p>
         </div>
         <div type="chapter">
+
           <head>X</head>
           <p>Ce soir-là Philis devait rentrer de bonne heure : le dîner ne se prolongea donc pas tard comme la veille ; cependant, avant de partir, elle voulut desservir la table et tout remettre en ordre.</p>
           <p>-- Tu pourras très bien déjeuner demain avec le reste du poulet, dit-elle en le serrant dans le garde-manger, où il alla rejoindre la boîte de sardines et la terrine de foie gras.</p>
@@ -868,6 +823,7 @@
           <p>Le sort de Caffié était décidé.</p>
         </div>
         <div type="chapter">
+
           <head>XI</head>
           <p>Quand, après deux heures de sommeil, Saniel s'éveilla, il ne pensa pas tout d'abord à ce couteau : il était las et ses idées confuses restaient engourdies ; machinalement il allait, venait dans la chambre, sans se rendre compte de ce qu'il faisait, comme s'il était en état de somnambulisme ; et cela l'étonnait, car jamais il ne ressentait la fatigue de l'esprit, pas plus que celle du corps, si peu qu'il eût dormi.</p>
           <p>Mais tout à coup, ses yeux ayant rencontré le couteau, qu'en rentrant il avait déposé sur le marbre de la cheminée, il reçut une commotion qui secoua son engourdissement et sa fatigue : ce fut comme un éclair qui l'aurait ébloui.</p>
@@ -915,6 +871,7 @@
           <p>Il piqua la pointe du couteau dans un bouchon et, après l'avoir placé, entre les feuilles repliées d'un journal, dans la poche intérieure du côté gauche de sa redingote, il partit.</p>
         </div>
         <div type="chapter">
+
           <head>XII</head>
           <p>Quand il arriva devant la porte de Caffié, la nuit n'était point encore tout à fait établie, et, si le gaz des boutiques flambait déjà, celui des lanternes de la rue n'avait pas encore été allumé.</p>
           <p>Le mieux et le plus sûr pour lui eût été de stationner devant la porte cochère et du côté opposé ; de là il guettait la concierge, qui n'aurait pas pu sortir de sa loge sans qu'il la vît. Mais bien que les passants fussent peu nombreux à ce moment, ils l'auraient peut-être remarqué : juste en face de cette porte cochère se trouvait un petit café, dont la devanture brillante de gaz le mettrait trop en pleine lumière. Il continua donc son chemin, mais lentement et presque aussitôt il revint sur ses pas.</p>
@@ -996,6 +953,7 @@
           <p>Une seconde après, il se trouvait dans la rue, mêlé aux passants, et respirait.</p>
         </div>
         <div type="chapter">
+
           <head>XIII</head>
           <p>Il n'avait plus à s'observer, à écouter, à tendre ses nerfs, à retenir son cœur, il pouvait marcher librement et réfléchir.</p>
           <p>Sa première pensée fut de chercher à se rendre compte de ce qu'il éprouvait, et il trouva que c'était un immense soulagement, quelque chose d'analogue sans doute à l'état de l'asphyxié qui revient à la vie : physiquement, il avait repris son calme ; moralement, il ne sentait en lui aucun trouble, aucun remords : il ne s'était donc pas trompé dans sa théorie quand il avait expliqué à Philis que chez l'homme intelligent le remords précède l'action et ne la suit pas.</p>
@@ -1010,11 +968,11 @@
           <p>Comme il passait devant la loge sans s'arrêter, son concierge l'appela et, sortant aussitôt, lui remit une lettre avec un empressement peu ordinaire ; Saniel, qui voulait échapper à tout examen, la prit vivement et la fourra dans sa poche.</p>
           <p>-- C'est une lettre importante, dit le concierge ; le domestique qui me l'a remise m'a dit qu'elle renfermait de l'argent.</p>
           <p>Il fallait cette recommandation pour qu'en un pareil moment Saniel eût la pensée de l'ouvrir, -- ce qu'il fit en entrant chez lui.</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>« Je ne veux pas, mon cher docteur, quitter Paris pour Monaco, où je vais passer deux ou trois mois, sans vous adresser tous nos remerciements.</p>
           <p>« Votre bien reconnaissant</p>
           <p>« C. DUPHOT. »</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>Ces remerciements étaient représentés par deux billets de cent francs, paiement plus que suffisant pour les soins que Saniel avait donnés, quelques mois auparavant, à la maîtresse de cet ancien camarade. Que lui importaient maintenant ces deux cents francs qui, quelques jours plus tôt, lui eussent été si utiles ; il les jeta sur son bureau ; et tout de suite, après avoir allumé deux bougies, il passa l'inspection de ses vêtements et de son linge.</p>
           <p>La précaution qu'il avait prise de se placer derrière le fauteuil lui avait réussi ; le sang, en jaillissant en avant et de chaque côté, ne l'avait pas atteint ; seules, la main qui tenait le couteau et la manchette de la chemise avaient été éclaboussées ; mais cela était sans conséquence : un médecin a bien le droit d'avoir du sang sur ses manches, et cette chemise allait rejoindre celle avec laquelle il avait, la nuit précédente, délivré la femme de la rue de la Corderie.</p>
           <p>Dégagé de ce souci, il ne l'était point de celui de l'argent qui chargeait encore ses poches ; il les vida sur son bureau, où il compta le tout : cinq rouleaux d'or de mille francs et trois liasses de dix mille francs chacune en billets de banque.</p>
@@ -1049,6 +1007,7 @@
           <p>-- Un agent d'affaires a été assassiné chez lui : on est parti chercher la police au bureau de la rue du Hasard.</p>
         </div>
         <div type="chapter">
+
           <head>XIV</head>
           <p>Saniel était venu là pour voir et savoir, sans avoir arrêté, pendant sa longue attente, ce qu'il devrait faire. Instantanément, avec un esprit de décision qui lui avait si souvent manqué depuis la veille, il résolut de monter chez Caffié avec la police : n'était-il pas médecin, et, de plus, médecin de la victime ?</p>
           <p>-- Un homme d'affaires ! dit-il ; est-ce M. Caffié ?</p>
@@ -1139,11 +1098,7 @@
           <p>Après avoir tourné et retourné la concierge sans pouvoir lui en faire dire davantage, le commissaire la renvoya, et laissant Saniel à sa besogne, il passa dans le cabinet de Caffié, où il resta assez longtemps.</p>
           <p>Quand il revint, il apportait un petit carnet qu'il consulta : sans doute, c'était le livre de caisse de Caffié, simple et primitif comme tout ce qui touchait aux habitudes du vieil homme d'affaires, réglées par la plus étroite économie, aussi bien dans les dépenses que dans le travail.</p>
           <p>-- De ce carnet, dit le commissaire à son secrétaire, il semble résulter qu'on aurait pris dans la caisse 35 ou 36 000 francs ; mais on y a laissé des titres et des valeurs pour une somme qui paraît considérable.</p>
-          <p>
-            Saniel, qui avait terminé son rapport, ne quittait pas des yeux le carnet, et ce qu'il pouvait voir était pour le rassurer. Évidemment, cette comptabilité était réduite au minimum : une date, un nom, une somme, et après cette somme un P majuscule qui, sans doute, voulait dire
-            <hi>payé</hi>
-            , ou un autre signe hiéroglyphique, et c'était tout ; il paraissait donc peu vraisemblable qu'avec un pareil système, Caffié eût jamais pris la peine d'inscrire le numéro des billets qui lui passaient par les mains ; en tout cas, s'il le faisait, ce n'était point sur ce carnet. En trouverait-on un autre ?
-          </p>
+          <p> Saniel, qui avait terminé son rapport, ne quittait pas des yeux le carnet, et ce qu'il pouvait voir était pour le rassurer. Évidemment, cette comptabilité était réduite au minimum : une date, un nom, une somme, et après cette somme un P majuscule qui, sans doute, voulait dire <hi>payé</hi> , ou un autre signe hiéroglyphique, et c'était tout ; il paraissait donc peu vraisemblable qu'avec un pareil système, Caffié eût jamais pris la peine d'inscrire le numéro des billets qui lui passaient par les mains ; en tout cas, s'il le faisait, ce n'était point sur ce carnet. En trouverait-on un autre ? </p>
           <p>-- Mon rapport est terminé, dit-il, le voici.</p>
           <p>-- Puisque je vous ai, pouvez-vous me donner quelques renseignements sur les habitudes de la victime et sur les personnes qu'il recevait.</p>
           <p>-- Pas du tout, je ne le connaissais que depuis peu, et il n'était mon client que comme j'étais le sien, par hasard : il s'occupait d'une affaire pour moi, et je lui avais donné simplement quelques conseils ; il était diabétique au dernier degré ; l'assassin n'a avancé sa mort que de très peu de temps, de peu de jours.</p>
@@ -1161,6 +1116,7 @@
           <p>-- Si nous avons besoin de vous, ce ne sera pas sans doute avant plusieurs jours ; nous n'allons pas marcher bien vite dans l'inconnu où nous nous trouvons.</p>
         </div>
         <div type="chapter">
+
           <head>XV</head>
           <p>En suivant la rue des Petits-Champs pour rentrer chez lui, Saniel marchait allègrement. Si, plus d'une fois, son émotion avait été poignante pendant cette longue séance, en somme il ne pouvait être que satisfait de ses résultats : la concierge ne l'avait pas vu, cela était désormais acquis ; l'hypothèse du couteau de boucher était posée de façon à faire son chemin ; enfin, il semblait vraisemblable que Caffié n'avait pas pris les numéros de ses billets.</p>
           <p>Mais eussent-ils été notés et dût-on découvrir plus tard le carnet qui les contenait, que ce danger n'était pas immédiat. En effet, pendant qu'il rédigeait son rapport et qu'il écoutait la déposition de la concierge, son esprit, au lieu de se tendre sur ces deux choses, avait, par une anomalie bizarre, couru à une troisième : alors, comme par une sorte d'inspiration, il avait trouvé le moyen qui s'était toujours dérobé à lui lorsqu'il le cherchait de toutes les forces de son application, -- et qui consistait à se débarrasser le soir même des billets de banque, sans les détruire ; pour cela il n'avait qu'à les diviser en petits paquets, à les mettre sous enveloppe, et à les confier, sous diverses initiales, à la poste restante, qui les lui garderait fidèlement jusqu'au jour où il pourrait les lui redemander sans se compromettre.</p>
@@ -1168,11 +1124,7 @@
           <p>Rentré chez lui et sa porte fermée, il mit tout de suite son idée à exécution : des trois liasses de billets il fit dix paquets, de façon à ne former qu'un petit volume, plia chacun d'eux dans une feuille de papier fort, le plaça sous enveloppe simplement gommée, et sur cette enveloppe il écrivit deux lettres de l'alphabet se suivant en commençant par A, et deux chiffres commençant par 1 et se suivant aussi : A. B. 12, -- C. D. 34, -- E. F. 56 ; -- puis il les adressa poste restante dans les dix premiers bureaux de Paris inscrits sur son almanach. Cet ordre logique et facile à retenir lui permettait de ne pas garder une note de cette combinaison, et de défier ainsi toute recherche si jamais on en faisait. Sans doute un ou plusieurs de ces paquets pouvaient être volés ou égarés, mais c'était là une considération peu importante pour lui : ce n'était pas pour trente mille francs qu'il avait tué Caffié, c'était simplement pour trois mille ; et puisqu'il avait eu la pensée de brûler ces billets, il pouvait maintenant, sans souci, s'exposer à en perdre quelques-uns.</p>
           <p>Quand cette idée de la poste restante lui était venue, il s'était dit qu'il jetterait ses enveloppes dans la boîte la plus voisine de chez lui, ce qui terminerait tout ; mais, au moment de partir, il réfléchit que ces dix lettres ayant une suscription à peu près pareille, trouvées en tas dans la même boîte, pourraient provoquer la curiosité, et il résolut de les diviser dans cinq ou six bureaux, où il allait les porter lui-même, à pied, sans prendre une voiture, bien qu'il eût maintenant de quoi la payer, car le cocher qui l'aurait conduit pourrait devenir un jour un témoin redoutable.</p>
           <p>Après la course folle de la journée à travers les bois et les champs, après ses émotions de la soirée, il se sentait brisé et las d'une fatigue qu'il ne connaissait point, mais il comprenait qu'il n'avait pas la liberté d'écouter cette lassitude. Une nouvelle situation lui était faite qui avait cela de particulier qu'il cessait de s'appartenir pour être désormais, et pour rester jusqu'à la fin de sa vie, le prisonnier de son crime ; ce serait ce crime qui, à partir de cette soirée, commanderait, à lui qu'il faudrait obéir.</p>
-          <p>
-            De cela, il eut une perception très nette qui le frappa : comment n'avait-il pas prévu cette situation quand, pesant si longuement le pour et le contre, en homme intelligent qui peut scruter l'avenir sous toutes ses faces, il avait examiné ce qui
-            <hi>devrait</hi>
-            arriver ? Mais pour surprenante qu'elle fût, la découverte n'en avait pas moins une certitude incontestable, et la preuve qui s'en dégageait, fâcheuse et troublante, était que, si intelligent qu'on soit ou qu'on se croie, on a toujours à apprendre de l'expérience.
-          </p>
+          <p> De cela, il eut une perception très nette qui le frappa : comment n'avait-il pas prévu cette situation quand, pesant si longuement le pour et le contre, en homme intelligent qui peut scruter l'avenir sous toutes ses faces, il avait examiné ce qui <hi>devrait</hi> arriver ? Mais pour surprenante qu'elle fût, la découverte n'en avait pas moins une certitude incontestable, et la preuve qui s'en dégageait, fâcheuse et troublante, était que, si intelligent qu'on soit ou qu'on se croie, on a toujours à apprendre de l'expérience. </p>
           <p>Qu'apprendrait-il encore ? Il fallait qu'il s'avouât qu'il se trouvait en face de l'inconnu, et tout ce qu'il pouvait souhaiter, c'était que cette leçon qu'il recevait des faits fût la plus dure ; quant à s'imaginer qu'elle était la dernière, c'eût été folie : on verrait.</p>
           <p>Pour le moment, il ne s'agissait que des lettres qu'il avait préparées, et, qu'il fût ou ne fût pas fatigué, il devait au plus vite s'en débarrasser : il les prit et tout de suite il se mit en route, allant, par les rues qui commençaient à se faire désertes et sombres, du bureau de la rue Cambon à celle de la place Ventedour, de la rue de Choiseul à la place de la Bourse, et continuant ainsi jusqu'à ce qu'il eût fini.</p>
           <p>Quand il rentra, une heure du matin était sonnée depuis assez longtemps déjà ; il se coucha tout de suite, et dormit d'un lourd sommeil, sans réveils et sans rêves.</p>
@@ -1225,6 +1177,7 @@
           <p>-- Mardi, à cinq heures, j'arriverai.</p>
         </div>
         <div type="chapter">
+
           <head>XVI</head>
           <p>Personne ne connaissait le jeu aussi peu que Saniel : il savait qu'on jouait à Monaco, voilà tout ; et à Paris il avait pris son billet pour Monaco, où il descendit de wagon.</p>
           <p>En sortant de la gare, il regarda autour de lui pour s'orienter ; ne voyant rien qui ressemblât à une maison de jeu telle qu'il la comprenait, c'est-à-dire au casino de Royat, le seul établissement de ce genre qu'il eût jamais vu, il s'adressa à un passant :</p>
@@ -1272,9 +1225,7 @@
           <p>-- Je vous remercie ; je ne reviens jamais sur ce que j'ai arrêté.</p>
           <p>En tout autre moment, Saniel eût tourné le dos à cet importun ; mais c'était un témoin qu'il fallait ménager.</p>
           <p>-- Je n'ai plus rien à faire ici, dit-il poliment ; permettez que je me retire après vous avoir remercié de votre offre, dont j'apprécie la gracieuseté.</p>
-          <p>
-            -- Eh bien, s'écria le prince, puisque vous ne voulez pas épuiser votre chance, laissez-moi le faire pour vous ; cet argent peut être un fétiche, prenez dessus cinq louis, cinq louis seulement : confiez-les-moi ; je les joue d'après mes combinaisons, qui sont certaines, et ce soir je vous remets votre part de bénéfices. Où êtes-vous descendu ? Moi j'habite la
-            <hi>Villa des Palmes.</hi>
+          <p> -- Eh bien, s'écria le prince, puisque vous ne voulez pas épuiser votre chance, laissez-moi le faire pour vous ; cet argent peut être un fétiche, prenez dessus cinq louis, cinq louis seulement : confiez-les-moi ; je les joue d'après mes combinaisons, qui sont certaines, et ce soir je vous remets votre part de bénéfices. Où êtes-vous descendu ? Moi j'habite la <hi>Villa des Palmes.</hi>
           </p>
           <p>-- Nulle part ; j'arrive.</p>
           <p>-- Alors trouvez-vous ce soir, à dix heures, dans cette salle et nous liquiderons notre association.</p>
@@ -1304,16 +1255,13 @@
           <p>-- Je vais vous conduire.</p>
           <p>C'était un second témoin dont Saniel n'avait garde de refuser le concours.</p>
           <p>Quand il eut envoyé son mandat à Jardine, il n'avait plus rien à faire à Monte-Carlo, et comme il ne pouvait partir que le soir, à onze heures, il resta désœuvré, ne sachant à quoi employer son temps. Alors il acheta un journal de Nice et alla s'asseoir dans le jardin, sous un bec de gaz, en face de la mer tranquille et sombre. Peut-être trouverait-il dans ce journal quelque dépêche télégraphique qui lui apprendrait ce qui s'était passé rue Sainte-Anne depuis son départ.</p>
-          <p>
-            Il chercha assez longtemps ; puis à la fin du journal, aux
-            <hi>Dernières nouvelles</hi>
-            , il lut : « Le crime de la rue Sainte-Anne paraît entrer dans une voie nouvelle ; des recherches faites avec plus de soin ont amené la découverte d'un bouton de pantalon auquel adhère un morceau d'étoffe. Il est donc démontré qu'avant le crime il y a eu lutte entre la victime et son assassin. Comme ce bouton porte certaines lettres et certaines marques, c'est un indice précieux pour la police. »
-          </p>
+          <p> Il chercha assez longtemps ; puis à la fin du journal, aux <hi>Dernières nouvelles</hi> , il lut : « Le crime de la rue Sainte-Anne paraît entrer dans une voie nouvelle ; des recherches faites avec plus de soin ont amené la découverte d'un bouton de pantalon auquel adhère un morceau d'étoffe. Il est donc démontré qu'avant le crime il y a eu lutte entre la victime et son assassin. Comme ce bouton porte certaines lettres et certaines marques, c'est un indice précieux pour la police. » </p>
           <p>Cette preuve d'une lutte entre la victime et son assassin fit sourire Saniel : si la police entrait dans cette voie, elle ferait un joli bout de chemin avant d'arriver à un résultat. Qui pouvait savoir depuis combien de temps ce bouton se trouvait dans cette pièce peu balayée ? De qui provenait-il ?</p>
           <p>Tout à coup, quittant brusquement son banc, il entra dans un bosquet et vivement il se tâta : n'était-ce pas lui qui avait perdu ce bouton ?</p>
           <p>Mais il fut bien vite honteux de ce mouvement inconscient : le bouton que la police était si fière d'avoir découvert ne lui appartenait point ; ce ne serait pas à lui que conduirait la nouvelle voie sur laquelle elle venait de s'engager.</p>
         </div>
         <div type="chapter">
+
           <head>XVII</head>
           <p>Le mardi, un peu avant cinq heures, Philis, comme elle l'avait promis, sonnait à sa porte ; et il sortait de son laboratoire, où il s'était remis au travail, pour aller lui ouvrir.</p>
           <p>Elle lui sauta au cou :</p>
@@ -1390,15 +1338,12 @@
           <p>-- Non, mais il porte des initiales et une marque de fabrique : un A et un P avec une couronne et un coq.</p>
           <p>-- Eh bien ! comment veux-tu que la police trouve, parmi les deux ou trois mille tailleurs de Paris, ceux qui emploient les boutons ainsi marqués ; et comment ces tailleurs trouvés pourraient-ils désigner celui de leurs clients à qui appartient ce bouton, celui-là précisément et non un autre ? C'est chercher une aiguille dans une botte de foin. Où ton frère a-t-il fait faire ce pantalon ? Ne l'a-t-il pas rapporté d'Amérique ?</p>
           <p>-- Le pauvre garçon n'a rien rapporté d'Amérique, si ce n'est de misérables vêtements bien usés, et nous avons dû commencer par l'habiller des pieds à la tête. Nous avons été à l'économie, et c'est un petit tailleur de l'avenue de Clichy, appelé Valérius, qui lui a fait ce costume.</p>
-          <p>
-            -- Il ne me paraît guère probable que la police trouve ce petit tailleur de l'avenue de Clichy, bien qu'il eût mieux valu que ce pantalon vînt de la
-            <hi>Belle Jardinière</hi>
-            ou d'un autre grand magasin : mais le découvrît-on et le tailleur reconnût-il que le bouton provient de sa provision que cela ne désignerait pas ton frère. Enfin, arrivât-on jusqu'à lui, il faudrait encore prouver qu'il y a eu lutte comme on le suppose, que le bouton a été arraché dans cette lutte, et que ton frère se trouvait rue Sainte-Anne entre cinq et six heures, alors que sans doute il lui sera facile, à lui, de prouver où il était à ce moment.
-          </p>
+          <p> -- Il ne me paraît guère probable que la police trouve ce petit tailleur de l'avenue de Clichy, bien qu'il eût mieux valu que ce pantalon vînt de la <hi>Belle Jardinière</hi> ou d'un autre grand magasin : mais le découvrît-on et le tailleur reconnût-il que le bouton provient de sa provision que cela ne désignerait pas ton frère. Enfin, arrivât-on jusqu'à lui, il faudrait encore prouver qu'il y a eu lutte comme on le suppose, que le bouton a été arraché dans cette lutte, et que ton frère se trouvait rue Sainte-Anne entre cinq et six heures, alors que sans doute il lui sera facile, à lui, de prouver où il était à ce moment. </p>
           <p>-- Mais chez nous, avec maman !</p>
           <p>-- Tu vois donc que vous pouvez être tranquilles.</p>
         </div>
         <div type="chapter">
+
           <head>XVIII</head>
           <p>Rassurée, Philis avait hâte de revenir rue des Moines pour faire partager à sa mère et à son frère la confiance que Saniel lui avait mise au cœur : ce fut à pas pressés qu'elle remonta la rue Louis-le-Grand aux Batignolles et d'une main fiévreuse qu'elle tira le cordon de leur sonnette.</p>
           <p>Car le temps n'était plus où, dans cette maison tranquille dont tous les locataires se connaissaient, on laissait la clef sur la porte et où il n'y avait qu'à frapper avant d'entrer. Depuis que les journaux parlaient du bouton trouvé chez Caffié, la liberté et la sécurité qui régnaient dans cet intérieur où jusqu'à ce moment, on n'avait rien à craindre pas plus qu'à cacher, avaient disparu ; plus de clef sur la porte d'entrée, plus d'entretien à haute voix, plus de rires : maintenant, la porte restait toujours fermée ; on ne riait plus ; et quand on parlait, quand on lisait les journaux qu'on achetait matin et soir, c'était à mi-voix, comme si, derrière les murs, des oreilles avaient été aux aguets ; que la sonnette tintât et l'on se regardait avec émoi, en se demandant d'un coup d'œil craintif si ce n'était pas l'annonce d'un danger.</p>
@@ -1474,17 +1419,12 @@
           <p>-- Eh bien, attendons, dit-il ; au surplus, j'aime autant cela ; au moins je n'ai pas de responsabilité. Il adviendra ce qui pourra.</p>
         </div>
         <div type="chapter">
+
           <head>XIX</head>
           <p>Pour que le bouton trouvé chez Caffié mît sur la piste de l'assassin, il fallait qu'il sortît des mains d'un tailleur parisien, ou tout au moins français, et que le pantalon n'eût point été vendu par un magasin de vêtements confectionnés, où l'on ne garde ni le nom ni le souvenir des acheteurs qui passent.</p>
           <p>La tâche de la police était donc difficile, comme faibles étaient ses chances de succès.</p>
           <p>Qu'elle se fût adressée, ainsi que l'imaginait Saniel, à chacun des trois mille tailleurs de Paris, pour connaître ceux d'entre eux qui employaient des boutons au Coq et à la Couronne marqués A. P., elle eut réellement cherché une aiguille dans une botte de foin.</p>
-          <p>
-            Mais ce n'était point de cette façon qu'elle avait procédé : au lieu de courir après ceux qui employaient ces boutons, elle avait cherché ceux qui les fabriquaient ou les vendaient, et tout de suite, sans aller plus loin que le
-            <hi>Bottin</hi>
-            , elle avait trouvé ce fabricant : A. Pélinotte,
-            <hi>manufacture de boutons métal pour pantalons, marque de fabrique A. P., Couronne et Coq</hi>
-            , faubourg du Temple.
-          </p>
+          <p> Mais ce n'était point de cette façon qu'elle avait procédé : au lieu de courir après ceux qui employaient ces boutons, elle avait cherché ceux qui les fabriquaient ou les vendaient, et tout de suite, sans aller plus loin que le <hi>Bottin</hi> , elle avait trouvé ce fabricant : A. Pélinotte, <hi>manufacture de boutons métal pour pantalons, marque de fabrique A. P., Couronne et Coq</hi> , faubourg du Temple. </p>
           <p>Tout d'abord, ce fabricant s'était montré assez peu disposé à répondre aux questions de l'agent qui s'était rendu chez lui ; mais, quand il avait commencé à comprendre qu'il pouvait retirer un avantage de l'affaire, en bon commerçant qu'il était, jeune et actif, il avait mis ses livres et ses placiers à la disposition de la justice. Sa prétention, en effet, était que ses boutons, grâce à une barrette en cuivre, autour de laquelle le fil s'enroulait au lieu de passer dans des trous, ne coupaient jamais le fil et qu'ils étaient incassables : quand ils sautaient, c'était avec un morceau de l'étoffe. Quelle meilleure justification de ses prétentions, quelle meilleure réclame que ce bouton arraché avec un morceau du pantalon de l'assassin ? Il fallait que l'affaire vint aux assises et que, dans tous les journaux, on parlât des boutons A. P. ; pour ce résultat, il eût payé un bon prix.</p>
           <p>On ne lui avait demandé que son concours, et, au bout de quelques jours, les recherches avaient pu commencer, guidées par une liste dont l'exactitude épargnait les démarches inutiles.</p>
           <p>Un matin, un agent de la sûreté arriva avenue de Clichy et trouva le tailleur Valérius dans sa boutique, occupé à lire son journal. Car ce n'était pas seulement quand la patrie était en danger que Valérius se passionnait pour la lecture des journaux, c'était tous les matins et tous les soirs : quand les affaires politiques allaient mal, il prenait si tragiquement les soucis qu'elles lui causaient qu'il fallait les conversations et surtout les consommations du café pour l'en distraire, et alors, bien entendu, il ne travaillait pas ; au contraire, lorsqu'elles allaient à peu près bien, personne n'était plus appliqué que lui à la besogne, il ne sortait pas de sa petite boutique et, la lecture du journal du matin finie, il ne quittait ses ciseaux que pour s'asseoir à sa machine à coudre, et, tout en appuyant sur la pédale, il ruminait ce qu'il avait lu : politique, polémique, faits divers, tribunaux et feuilleton.</p>
@@ -1553,6 +1493,7 @@
           <p>Elle était éperdue : mais, comprenant qu'elle compromettait son fils si elle s'abandonnait, elle se contint.</p>
         </div>
         <div type="chapter">
+
           <head>XX</head>
           <p>Puisque c'était un rôle qu'il remplissait, Florentin se dit qu'il devait le jouer jusqu'au bout de son mieux, en entrant dans la peau du personnage qu'il voulait être, et ce rôle était celui de témoin.</p>
           <p>Il avait été le clerc de Caffié ; la justice voulait l'interroger sur son ancien patron, rien n'était plus naturel ; c'était cela seulement, et rien que cela, qu'il pouvait admettre ; par conséquent, il devait s'intéresser aux recherches de la police, et avoir la curiosité d'apprendre où elles en étaient.</p>
@@ -1658,6 +1599,7 @@
           <p>-- Faites, monsieur.</p>
         </div>
         <div type="chapter">
+
           <head>XXI</head>
           <p>Après le départ de son fils et de l'agent, madame Cormier était restée anéantie : son fils ! son Florentin ! le pauvre enfant ! et elle s'était abîmée dans son désespoir.</p>
           <p>N'avaient-ils pas assez souffert ! Leur fallait-il cette nouvelle épreuve ! Pourquoi la vie leur était-elle si impitoyablement cruelle ?</p>
@@ -1690,12 +1632,12 @@
           <p>Madame Cormier prit la lettre que Philis lui tendait, mais le papier tremblait tellement dans sa main agitée qu'elle ne put pas lire.</p>
           <p>-- Lis-la-moi.</p>
           <p>Philis la reprit et lut :</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>« Chère petite sœur,</p>
           <p>« Après m'avoir entendu, le juge d'instruction me garde. Adoucis pour maman la douleur de ce coup ; fais-lui comprendre qu'on ne peut pas ne pas reconnaître bientôt la fausseté de cette accusation et, de ton côté, emploie-toi à rendre évidente cette fausseté, tandis que, du mien, je vais travailler à prouver mon innocence.</p>
           <p>« Embrasse bien la pauvre maman pour moi, et trouve dans ta tendresse, dans ta force et ta bonté des consolations pour elle ; la mienne sera de penser que tu es près d'elle, chère petite sœur bien-aimée.</p>
           <p>« FLORENTIN. »</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>-- Et c'est ce brave garçon qu'on accuse d'un assassinat ! s'écria madame Cormier en fondant en larmes.</p>
           <p>Il fallut plusieurs minutes à Philis pour calmer un peu cette crise.</p>
           <p>-- C'est à lui qu'il faut penser, maman ; ne nous abandonnons pas.</p>
@@ -1753,10 +1695,10 @@
         </div>
       </div>
       <div type="group">
-        <p>
-          <label>Deuxième partie</label>
-        </p>
+
+        <head>Deuxième partie</head>
         <div type="chapter">
+
           <head>I</head>
           <p>Saniel avait passé les premières épreuves de ses deux concours si brillamment que les résultats n'en étaient douteux ni pour l'un ni pour l'autre. En soutenant sa thèse pour l'agrégation, il avait forcé son auditoire à l'admiration : tour à tour agressif, hargneux, ironique, éloquent, il avait si bien réduit son adversaire aux abois que celui-ci, écrasé à la fin, n'avait rien pu répondre. Dans sa leçon d'une heure qu'il avait faite sur la mort dans les maladies du cœur, il avait déployé tant de clarté dans la démonstration, une si belle sobriété de paroles, une éloquence scientifique si ferme, si simple, si sûre que, ses adversaires les plus injustes avaient dû reconnaître qu'il possédait les qualités des grands professeurs : un brutal mais quelqu'un. Brutal, il l'avait été aussi dans les épreuves pour le concours des hôpitaux : comme son diagnostic était opposé à celui de ses juges, sans ménagements, sans compliments, rien que pour l'amour du vrai, il avait accumulé tant de preuves fortes à l'appui de son opinion, une logique si serrée, une argumentation si entraînante, que le jury avait décidé de retourner au lit du malade, et qu'après un nouvel examen, dans lequel il avait reconnu son erreur, le président lui avait dit : « Quand je serai malade, c'est vous qui me soignerez. »</p>
           <p>Que pouvait peser la mort de Caffié mise en balance avec tous ces résultats ? Si peu, qu'elle ne comptait même pas et n'aurait tenu aucune place dans ses préoccupations, si elle ne s'était trouvée mêlée à l'accusation qui allait faire passer Florentin aux assises.</p>
@@ -1788,6 +1730,7 @@
           <p>Saniel avait été un peu surpris de ces points de ressemblance avec la jeune personne charmante que Caffié lui avait proposée. Fille d'une de nos plus gracieuses comédiennes de genre, élevée dans un couvent à la mode, mère d'un délicieux petit garçon, dotée de deux cent mille francs : la rencontre était pour le moins curieuse ; mais, s'il s'agissait d'une seule et même femme, il n'était pas fâché de voir que Nougarède avait été moins difficile que lui.</p>
         </div>
         <div type="chapter">
+
           <head>II</head>
           <p>En se rendant chez Nougarède, Saniel s'imaginait vaguement que l'avocat allait lui dire qu'un acquittement était certain si Florentin passait aux assises et même qu'une ordonnance de non-lieu était probable. Mais son espérance ne s'était point réalisée.</p>
           <p>-- L'aventure du bouton nous serait arrivée, à vous ou à moi, qu'elle n'aurait pas la même gravité que pour ce garçon ; nous n'avons pas d'antécédents sur lesquels on puisse établir des présomptions, lui en a : les quarante-cinq francs qui constituent un détournement par homme à gages seront certainement le point de départ de l'accusation ; on commence par une faiblesse, on finit par un crime. Entendez-vous l'avocat général ? il débute par le portrait du clerc d'autrefois, laborieux, exact, scrupuleux, content de peu et mettant sa satisfaction dans le devoir accompli ; puis, en opposition, il passe à celui du clerc d'aujourd'hui : aussi irrégulier dans son travail que dans sa conduite, dévoré de besoins, pressé de jouir, mécontent de tout et de tous, des autres comme de lui-même. « Est-il exemple plus frappant que celui que vous avez en ce moment devant vous, messieurs les jurés ? Le voilà cet irrégulier dont je vous parlais ; sans instruction spéciale, il a la bonne fortune inespérée de trouver une situation honorable ; mais il faut travailler et le travail le gêne, surtout parce qu'il l'empêche de s'amuser ; ce qu'il veut, ce sont les plaisirs de la vie mondaine, celle des heureux de ce monde qu'il envie. Sa situation, il la quitte pour une autre qui lui laissera la liberté de satisfaire ses appétits. Qu'en fait-il, de cette liberté ? Il se livre à la débauche et se plonge dans cette existence désordonnée qu'il voulait. De dangereuses sirènes l'attirent, le charment, le fascinent, et il est perdu. Elles aussi sont dévorées par le besoin du luxe. Où trouverait-il l'argent qu'elles exigent de lui, et que sa passion n'a pas la force de refuser ? Dans la caisse de son patron. Il commence par détourner quarante-cinq francs et finit par en voler trente-cinq mille après un assassinat. » Soyez sûr que, si l'affaire vient aux assises, comme je le crois, vous entendrez ces paroles, ou tout au moins ce thème, et je vous affirme que nous aurons du mal à détruire l'impression qu'il aura produite sur les jurés ; mais nous y arriverons... je l'espère.</p>
@@ -1817,12 +1760,12 @@
           <p>-- Et qu'est-il résulté ?</p>
           <p>-- La preuve que ce n'est pas Florentin qui était chez Caffié au moment où l'assassinat a été commis. Toute la journée d'hier et toute la matinée d'aujourd'hui, j'étais restée sous l'impression de honte qui me poursuivait, quand à trois heures j'ai reçu ce petit mot de la concierge de la rue Sainte-Anne.</p>
           <p>Elle sortit de sa poche un morceau de papier plié en forme de lettre, avec une adresse grossièrement écrite, qu'elle tendit à Saniel.</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>« Mademoiselle,</p>
           <p>« Si vous voulez passer rue Sainte-Anne, j'ai quelque chose à vous apprendre qui vous fera bien plaisir, à ce que je crois.</p>
           <p>« Je suis votre servante.</p>
           <p>« Veuve ANAÏS BOUCHU. »</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>-- Tu sais que la vieille concierge aux reins ankylosés n'a jamais voulu admettre que mon frère pouvait être coupable. Florentin avait été poli et bon avec elle pendant son séjour chez Caffié, et elle lui en est restée reconnaissante. Bien souvent, elle m'avait dit qu'elle était certaine qu'on découvrirait le coupable, que les cartes l'annonçaient, et que, quand cela arriverait, elle me priait de l'en avertir. Au lieu que ce soit moi qui ait eu à lui apporter cette bonne nouvelle, c'est elle, comme tu le vois, qui m'a écrit de venir la recevoir d'elle. Tu penses comme je suis descendue vivement des Batignolles à la rue Sainte-Anne. Si loin qu'allât mon imagination, elle restait cependant au-dessous de la réalité : je comptais sur quelque indice favorable, une découverte, un témoignage, non sur une preuve ; et cette preuve, nous l'avons. Quand j'arrivai, la vieille femme me prit les deux mains et me dit qu'elle allait me conduire tout de suite auprès d'une dame qui avait vu l'assassin de Caffié.</p>
           <p>-- Vu ! s'écria Saniel, frappé d'un coup qui le secoua de la tête aux pieds.</p>
           <p>-- Parfaitement vu, comme je te vois. Elle ajouta que cette dame était la propriétaire de la maison et qu'elle habitait le second corps de bâtiment, au deuxième étage sur la cour, juste en face le cabinet de Caffié. Cette dame, qui s'appelle madame Dammauville, veuve d'un avoué, est atteinte de paralysie, elle ne quitte pas sa chambre depuis un an, je crois. Ce fut ce que la concierge m'expliqua en traversant la cour et en montant l'escalier, répétant toujours : « Vos chagrins sont finis, ma pauvre demoiselle », mais sans me dire comment et pourquoi. Quand je la pressais, elle répondait : « Attendez encore un peu, Madame vous l'expliquera mieux que moi, et puis elle n'aime pas qu'on bavarde. »</p>
@@ -1832,6 +1775,7 @@
           <p>-- Elle le vit donc très bien, assez pour ne pas l'oublier et le confondre avec un autre : taille élevée, cheveux longs, barbe blonde frisée ; le vêtement, celui d'un monsieur, non d'un pauvre diable. Les rideaux furent tirés ; il était alors cinq heures un quart ou cinq heures vingt minutes ; et c'est à ce moment même que Caffié a été égorgé par ce faux tapissier qui n'a évidemment tiré les rideaux que pour tuer Caffié en toute sécurité, sans être vu, n'imaginant pas que, précisément, on venait de le voir accomplissant un fait qui le dénonçait pour l'assassin aussi sûrement que si on l'avait surpris le couteau à la main. En lisant dans les journaux le signalement de Florentin, quand il avait été arrêté, madame Dammauville avait cru que la justice tenait le coupable : taille élevée, cheveux longs, barbe frisée, il y avait, en effet, des points de ressemblance ; mais dans le portrait publié par le journal illustré qu'elle reçoit, elle n'a pas reconnu celui qui avait manœuvré les rideaux, et elle a la certitude que la justice se trompe ! Tu vois que Florentin est sauvé.</p>
         </div>
         <div type="chapter">
+
           <head>III</head>
           <p>Comme il n'avait rien répondu à ce cri de triomphe, surprise elle le regarda.</p>
           <p>Elle le vit pâle, le visage bouleversé, sous le coup, bien évidemment, d'une émotion violente qu'elle ne s'expliquait pas.</p>
@@ -1904,6 +1848,7 @@
           <p>-- J'espère que ton enquête me l'apprendra ; en tout cas, ne brusquons rien ; si demain tu ne me rapportes que des choses insignifiantes, nous verrons à aviser ; en attendant, retourne chez la concierge ce soir même, interroge-la ; s'il est possible, monte chez madame Dammauville, et ne rentre chez ta mère qu'après avoir obtenu quelques renseignements sur ce que nous avons si grand intérêt à apprendre. Moi, de mon côté, je vais chez Nougarède.</p>
         </div>
         <div type="chapter">
+
           <head>IV</head>
           <p>Ce n'était point pour fausser le récit de Philis que Saniel avait tenu à voir Nougarède : à quoi bon ? ce serait une maladresse qui tôt ou tard se découvrirait toute seule et tournerait alors contre lui ; il aurait voulu, avec l'autorité du médecin, expliquer que ce témoignage d'une paralytique pouvait n'avoir pas plus d'importance que celui d'une folle.</p>
           <p>Mais, aux premiers mots de son explication, Nougarède l'avait arrêté :</p>
@@ -1938,11 +1883,7 @@
           <p>-- C'est impossible.</p>
           <p>-- Je ne trouve pas du tout impossible que vous soyez appelé en consultation ; je n'ai pas oublié que votre thèse a été faite sur les paralysies dues à l'affection de la moelle, et elle a été assez remarquable pour que nous nous en soyons occupés dans notre parlotte de la rue de Vaugirard ; vous avez donc autorité en la matière.</p>
           <p>-- Ce n'est pas pour avoir fait quelques travaux sur l'anatomie pathologique des lésions médullaires, et spécialement sur les altérations des racines antérieures de la moelle, qu'on acquiert de l'autorité dans une question aussi étendue et aussi délicate.</p>
-          <p>
-            -- Ne soyez pas trop modeste, cher ami ; j'ai eu à consulter dernièrement l'article
-            <hi>Paralysie</hi>
-            dans mon Dictionnaire de médecine, et j'ai vu votre travail cité à chaque page. De plus, la façon dont vous venez de passer votre concours vous a mis en lumière ; on ne parle que de vous. Il n'y a donc rien d'impossible à ce que mademoiselle Philis, racontant que sa mère a été guérie par vous d'une paralysie précisément, n'amène madame Dammauville à l'idée de vous consulter, et que son médecin ne vous appelle.
-          </p>
+          <p> -- Ne soyez pas trop modeste, cher ami ; j'ai eu à consulter dernièrement l'article <hi>Paralysie</hi> dans mon Dictionnaire de médecine, et j'ai vu votre travail cité à chaque page. De plus, la façon dont vous venez de passer votre concours vous a mis en lumière ; on ne parle que de vous. Il n'y a donc rien d'impossible à ce que mademoiselle Philis, racontant que sa mère a été guérie par vous d'une paralysie précisément, n'amène madame Dammauville à l'idée de vous consulter, et que son médecin ne vous appelle. </p>
           <p>-- Vous ne ferez pas cela !</p>
           <p>-- Et pourquoi ne le ferais-je pas ?</p>
           <p>Ils se regardèrent un moment en silence, et Saniel détourna les yeux.</p>
@@ -1954,6 +1895,7 @@
           <p>-- En aucun cas ; mais je fais écrire une lettre par elle que je lis au moment voulu, et je cite son médecin pour qu'il explique qu'il n'a pas permis à sa cliente de venir à l'audience : sans doute, l'effet produit ne serait pas celui que je cherche, mais enfin, nous en aurions toujours un.</p>
         </div>
         <div type="chapter">
+
           <head>V</head>
           <p>Après Philis, voilà que Nougarède voulait qu'il vît madame Dammauville, et cette coïncidence n'était pas le moindre danger de la situation qui s'ouvrait.</p>
           <p>Qu'elle le vît, et les chances étaient pour qu'elle reconnût en lui l'homme qui avait tiré les rideaux ; car, s'il avait pu parler à Philis et à Nougarède de troubles de vision ou de raison, il ne croyait pas à ces troubles, qui n'étaient pour lui que des échappatoires.</p>
@@ -2023,6 +1965,7 @@
           <p>Il ne répondit pas et se leva pour se retirer. Timidement, madame Cormier répéta son invitation ; mais il n'accepta pas, malgré le tendre regard que Philis attachait sur lui ; il était obligé de rentrer sans pouvoir attendre davantage.</p>
         </div>
         <div type="chapter">
+
           <head>VI</head>
           <p>Pourrait-il résister à la pression qui de tous les côtés à la fois le poussait vers la rue Sainte-Anne ? Il semblait que rien n'était plus facile que de ne pas commettre la folie d'y céder, et cependant telle était la persistance des efforts qui se réunissaient contre lui, qu'il devait se demander si un jour il ne serait pas amené malgré lui à leur obéir : Philis, Nougarède, madame Cormier ; maintenant d'où viendrait la nouvelle attaque ?</p>
           <p>N'y avait-il pas là quelque chose d'extraordinaire qu'il eût même qualifié de providentiel ou de fatal, s'il avait cru à la Providence ou à la Fatalité ?</p>
@@ -2055,6 +1998,7 @@
           <p>Et il s'en alla dîner, furieux contre lui-même, contre les choses de voir à quels misérables expédients il en était réduit.</p>
         </div>
         <div type="chapter">
+
           <head>VII</head>
           <p>Le lendemain, à cinq heures, quand Philis sonna, ce fut lui qui alla ouvrir ; car Joseph, qui n'était jamais venu le dimanche, ne venait pas davantage maintenant.</p>
           <p>À peine entrée, elle voulut comme d'habitude se jeter à son cou, et avec un élan qui disait combien elle était heureuse de le voir ; mais de la main il l'arrêta.</p>
@@ -2125,6 +2069,7 @@
           <p>-- Et peut-être celle d'un condamné à mort dont la toilette vient d'être faite pour la guillotine.</p>
         </div>
         <div type="chapter">
+
           <head>VIII</head>
           <p>S'être rendu méconnaissable était, sans doute, une bonne précaution ; mais, entré dans cette voie, il ne serait tranquille que quand il les aurait épuisées toutes, et de telle sorte que madame Dammauville ne pût jamais retrouver l'homme qu'elle avait si bien vu sous la lampe de Caffié.</p>
           <p>Précisément parce qu'il n'était pas coquet et n'avait aucune prétention à la beauté ou à la séduction, il avait échappé à la manie photographique. Une seule fois, il s'était fait photographier et encore malgré lui, après s'être défendu, simplement pour ne pas refuser sans raison un ancien camarade qui, abandonnant la médecine pour la photographie, avait voulu sa tête.</p>
@@ -2180,6 +2125,7 @@
           <p>Bien que ces derniers mois eussent été terriblement agités pour lui par tout ce qui touchait à l'affaire de Caffié et de Florentin, et surtout par les fatigues, les émotions, les fièvres de ses concours, il n'avait cependant pas interrompu ses travaux particuliers ni un jour, ni une heure, et ses expériences poursuivies depuis tant d'années lui avaient enfin donné des résultats importants, que la prudence seule l'avait empêché de publier. En opposition avec l'enseignement officiel de l'école, ces découvertes auraient fait dresser les cheveux sur de vieux crânes où, depuis longtemps, on n'en voyait plus, et ce n'était pas le moment, quand il demandait la porte, de s'attirer l'hostilité de ces vénérables portiers qui barreraient le chemin à un révolutionnaire. Mais, maintenant, qu'il était dans la place pour dix ans au moins, il n'avait plus de ménagements à garder, ni pour les personnes, ni pour les idées, et il pouvait parler.</p>
         </div>
         <div type="chapter">
+
           <head>IX</head>
           <p>Saniel avait vu son collègue le solennel Balzajette, et, assez adroitement pour ne provoquer ni la surprise ni le soupçon, il avait pu lui parler de madame Dammauville, à laquelle il s'intéressait incidemment ; sans insister, en passant et seulement pour justifier sa question, il avait expliqué la nature de cet intérêt.</p>
           <p>Pour être solennel, Balzajette n'en était pas moins bavard, et même c'était sa solennité qui faisait son bavardage : il s'écoutait parler, et quand, les jambes légèrement écartées, il était bien posé sur un trottoir pas trop étroit, bombant la poitrine, appuyant son menton rose, rasé de frais, sur sa cravate blanche, décrivant dans l'air, de sa main baguée, des gestes nobles et démonstratifs, on pouvait, si on avait la patience de l'écouter, lui faire dire tout ce qu'on voulait : car il était convaincu que son interlocuteur passait un moment agréable dont le souvenir ne s'effacerait pas ; ses malades pouvaient l'attendre dans la douleur ou dans l'angoisse, il n'en hâtait pas le majestueux débit de ses phrases ronflantes aux adjectifs choisis, et à moins qu'il ne se rendît à une invitation à dîner, ce qui lui arrivait cinq jours au moins par semaine, il ne vous lâchait qu'après vous avoir fait partager l'admiration qu'il professait pour lui-même.</p>
@@ -2236,6 +2182,7 @@
           <p>-- Eh bien ! parle, dit-il, je t'écoute ; au surplus, il vaut encore mieux savoir. Parle donc.</p>
         </div>
         <div type="chapter">
+
           <head>X</head>
           <p>-- Tu dois comprendre, dit-elle avec un peu plus de calme, -- car, puisqu'il lui permettait de parler, elle espérait bien le convaincre, -- que depuis quatre jours j'ai fait tout ce que j'ai pu pour amener madame Dammauville à l'idée d'appeler en consultation avec M. Balzajette un médecin...</p>
           <p>-- Qui serait moi.</p>
@@ -2289,6 +2236,7 @@
           <p>-- Je savais bien que tu me pardonnerais.</p>
         </div>
         <div type="chapter">
+
           <head>XI</head>
           <p>Ce ne fut pas sans émotion que, le lendemain, Saniel vit s'écouler l'après-midi, et, bien qu'il se fût mis au travail pour employer son temps, à chaque instant il s'interrompait pour regarder l'heure.</p>
           <p>Parfois il trouvait qu'elle passait vite, puis tout de suite qu'elle ne marchait pas.</p>
@@ -2359,6 +2307,7 @@
           <p>-- Bonsoir, chère madame. Je vous reverrai demain, mais pas le matin, car je pars à six heures pour la campagne et ne reviendrai qu'à midi.</p>
         </div>
         <div type="chapter">
+
           <head>XII</head>
           <p>-- Avez-vous remarqué comme je lui ai coupé la parole ? dit Balzajette dans l'escalier. Si on écoutait les femmes, elles ne vous laisseraient jamais partir. Du diable si je devine pourquoi elle vous a parlé de cet homme assassiné ! Et vous, vous en doutez-vous ?</p>
           <p>-- Non.</p>
@@ -2429,10 +2378,10 @@
           <p>Une femme de chambre lui tendit une lettre :</p>
           <p>-- De la part de madame Dammauville, lui dit-elle ; il y a une réponse.</p>
           <p>Il la laissa dans le vestibule, éclairé par la porte ouverte sur le palier, et rentra dans son cabinet pour lire la lettre : le rêve n'avait pas duré longtemps, la réalité le ressaisissait de ses mains impitoyables ; cette lettre à coup sûr allait annoncer le coup qui le menaçait.</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>« Si M. le docteur Saniel est libre, je le prie de venir me voir ce soir pour affaire urgente ; je l'attendrai jusqu'à dix heures ; sinon je compte sur lui demain matin à partir de neuf heures.</p>
           <p>« A. DAMMAUVILLE. »</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>Il revint dans le vestibule :</p>
           <p>-- Dites à madame Dammauville que je serai près d'elle dans un quart d'heure.</p>
           <p>Quand il rentra dans son cabinet, il trouva Philis debout devant la glace, occupée à mettre son chapeau.</p>
@@ -2442,6 +2391,7 @@
           <p>-- Jamais il ne l'avait serrée d'une étreinte aussi longue, aussi passionnée.</p>
         </div>
         <div type="chapter">
+
           <head>XIII</head>
           <p>Saniel n'avait pas eu une seconde de doute ; ce n'était pas pour l'entretenir de médecine que madame Dammauville l'appelait, c'était pour lui parler de Caffié, et, dans la crise qui venait d'éclater, il devait se dire que c'était peut-être une bonne chance qu'il en fût ainsi : au moins il allait être le premier à savoir ce qu'elle avait décidé, et alors, il pourrait se défendre ; rien n'est désespéré tant que la lutte est possible.</p>
           <p>À son coup de sonnette donné avec fermeté, la domestique qui avait apporté la lettre ouvrit la porte, et une petite lampe à la main elle lui fit traverser la salle à manger et le salon pour l'introduire dans la chambre de madame Dammauville.</p>
@@ -2515,6 +2465,7 @@
           <p>-- Reconduisez M. le docteur Saniel.</p>
         </div>
         <div type="chapter">
+
           <head>XIV</head>
           <p>En rentrant Saniel se laissa tomber atterré sur son divan, et, sans même allumer une bougie, il resta là, anéanti.</p>
           <p>Ce qui était effroyable, c'était la rapidité avec laquelle il avait condamné à mort cette pauvre femme et, sans hésitation, l'avait exécutée : pour qu'il fût sauvé, il fallait qu'elle mourût : elle mourrait. Cette fois, l'idée n'avait pas tourné et dévié comme pour Caffié, allant d'une contradiction à une autre, le faisant passer par des étapes successives qui lui avaient donné l'accoutumance ; n'y a-t-il donc que le premier crime qui coûte, et, dans la route où il était entré, irait-il jusqu'au bout en semant les cadavres derrière lui ?</p>
@@ -2566,20 +2517,12 @@
         </div>
       </div>
       <div type="group">
-        <p>
-          <label>Troisième partie</label>
-        </p>
+
+        <head>Troisième partie</head>
         <div type="chapter">
+
           <head>I</head>
-          <p>
-            Pendant ses premières années de séjour à Paris, Saniel avait publié dans une revue de jeunes, du quartier Latin, un article sur la
-            <hi>Pharmacie de Shakespeare</hi>
-             : le poison d'
-            <hi>Hamlet</hi>
-            , celui de
-            <hi>Roméo et Juliette</hi>
-             ; et bien que, depuis son choix pour la médecine, il ne lût plus guère que des livres de science, il avait dû à ce moment étudier le théâtre de son auteur ; de cette étude il lui était resté dans la mémoire une phrase qui, pendant dix ans, ne lui était jamais revenue sur les lèvres, et qui tout à coup s'était imposée à son souvenir avec la persistance exaspérante d'un air entendu autrefois et qu'on répète, -- celle de Macbeth : « Macbeth a tué le sommeil, le sommeil, innocent, mort de la vie de chaque jour, bain du travail douloureux, baume des âmes blessées. »
-          </p>
+          <p> Pendant ses premières années de séjour à Paris, Saniel avait publié dans une revue de jeunes, du quartier Latin, un article sur la <hi>Pharmacie de Shakespeare</hi>  : le poison d' <hi>Hamlet</hi> , celui de <hi>Roméo et Juliette</hi>  ; et bien que, depuis son choix pour la médecine, il ne lût plus guère que des livres de science, il avait dû à ce moment étudier le théâtre de son auteur ; de cette étude il lui était resté dans la mémoire une phrase qui, pendant dix ans, ne lui était jamais revenue sur les lèvres, et qui tout à coup s'était imposée à son souvenir avec la persistance exaspérante d'un air entendu autrefois et qu'on répète, -- celle de Macbeth : « Macbeth a tué le sommeil, le sommeil, innocent, mort de la vie de chaque jour, bain du travail douloureux, baume des âmes blessées. » </p>
           <p>C'est que cette phrase était la traduction d'un état particulier qu'il traversait : lui aussi l'avait perdu, « ce sommeil innocent, bain du travail douloureux, baume des âmes blessées. » Jamais il n'avait été grand dormeur, en cela au moins qu'il s'était imposé l'habitude, dure au commencement, moins pénible en continuant, de ne passer que quelques heures au lit ; mais ces quelques heures, il les employait bien, dormant comme les fatigués, poings fermés, sans rêves et sans réveils : le côté où il se couchait était celui où il ouvrait les yeux, et la pensée qui occupait son esprit le soir, celle qu'il retrouvait la première le matin, n'ayant point été chassée par d'autres, pas plus que par des rêves.</p>
           <p>Après la mort de Caffié, ce sommeil tranquille et réparateur avait continué aussi calme, aussi solide ; mais voilà que tout à coup, après celle de madame Dammauville, il s'était trouvé interrompu.</p>
           <p>Tout d'abord, il ne s'en était pas tourmenté : il ne dormait pas, tant mieux ! il travaillerait davantage. Mais on ne peut pas plus toujours travailler qu'on ne peut rester toujours sans manger. Saniel savait mieux que personne que la vie de tout organe se compose de périodes alternatives de repos et d'activité : l'une pendant laquelle l'organe renouvelle sa provision de matériaux nutritifs, l'autre pendant laquelle il consomme ces matériaux dans le développement de forces vives, et il n'imaginait pas qu'il pourrait travailler indéfiniment sans dormir : seulement il croyait qu'après des journées de vingt heures de travail, écrasé de fatigue, il aurait malgré tout quatre heures de sommeil complet, celui que Shakespeare appelait le bain du travail douloureux.</p>
@@ -2608,6 +2551,7 @@
           <p>Pour cela, était-il donc faible et lâche ? Non peut-être ; mais simplement humain.</p>
         </div>
         <div type="chapter">
+
           <head>II</head>
           <p>Précisément parce qu'il éprouvait du calme auprès de Philis, Saniel eût voulu qu'elle ne le quittât point.</p>
           <p>Mais, si heureuse qu'elle fût, dans sa douleur, de voir qu'au lieu de s'éloigner d'elle -- ce qu'un autre moins généreux eût fait peut-être -- il cherchait à s'en rapprocher chaque jour davantage, elle ne pouvait pas abandonner ses leçons et son travail, qui étaient leur vie même, pour donner tout son temps à son amour, pas plus qu'elle ne pouvait laisser toujours seule sa mère accablée de chagrin, qui jamais autant que maintenant n'avait eu besoin d'être relevée et soutenue.</p>
@@ -2683,6 +2627,7 @@
           <p>-- Me crois-tu homme à subir les sots préjugés du monde ?</p>
         </div>
         <div type="chapter">
+
           <head>III</head>
           <p>Saniel n'avait pas attendu ce jour pour reconnaître l'influence salutaire que Philis, par sa seule présence, exerçait sur lui. Cependant, l'idée de la prendre pour femme ne s'était jamais imposée à son esprit : il était si peu fait, croyait-il, pour le mariage ; il se sentait si peu mari ; jusqu'à ces derniers temps, il avait eu si peu besoin d'un intérieur !</p>
           <p>C'était tout à coup que cette idée lui était venue et l'avait frappé fortement, au moins autant par le calme qu'il sentait en lui, que par le charme qui se dégageait d'elle, la santé, le bonheur, la gaieté et la vie.</p>
@@ -2754,6 +2699,7 @@
           <p>-- Oh ! mon Dieu, qui m'avez pris mon fils, que vous êtes bon de m'en rendre un !</p>
         </div>
         <div type="chapter">
+
           <head>IV</head>
           <p>Il ne demandait pas mieux que d'être un fils pour cette pauvre femme ; en réalité il vaudrait bien ce malheureux garçon, mou et incapable. Que lui fallait-il, à cette affamée de maternité ? Un fils à aimer. Elle le trouverait dans son gendre. En voyant sa fille heureuse, comment, pourquoi ne serait-elle pas heureuse elle-même ?</p>
           <p>Il pouvait se dire que personne n'était moins que lui disposé à l'infatuation ; aussi n'était-ce que justice de reconnaître qu'il réparait dans la mesure du possible la fatalité dont elles avaient été victimes.</p>
@@ -2836,6 +2782,7 @@
           <p>-- Profonde ironie, au contraire ! dit Brigard, en assurant son feutre, leçon puissante et féconde que celle qui fait concourir à la démolition des préjugés ceux-là mêmes qui en sont les défenseurs professionnels ! Saniel est un homme.</p>
         </div>
         <div type="chapter">
+
           <head>V</head>
           <p>Le dimanche qui suivit son mariage, Philis éprouva une surprise à laquelle elle réfléchit longtemps, sans lui trouver une explication satisfaisante.</p>
           <p>Comme elle s'habillait, Saniel entra dans sa chambre :</p>
@@ -2897,6 +2844,7 @@
           <p>Elle n'avait jamais osé demander les raisons vraies de ce « il faut ».</p>
         </div>
         <div type="chapter">
+
           <head>VI</head>
           <p>Si elle n'osait pas lui adresser franchement cette question : « Pourquoi faut-il sortir ? » pas plus celle-là que les autres, d'ailleurs : « Pourquoi est-il convenable que je me fasse voir à la messe ? -- Pourquoi dois-je porter des toilettes qui nous ruinent ? -- Pourquoi acceptes-tu des décorations sans valeur à tes yeux ? -- Pourquoi recherches-tu la compagnie de gens qui n'ont d'autre mérite que celui qu'ils tirent de leur situation officielle ou de leur fortune ? -- Pourquoi nous imposons-nous des devoirs mondains qui nous ennuient autant l'un que l'autre, au lieu de rester en tête à tête dans une tendre et intelligente intimité qui nous est aussi douce à l'un qu'à l'autre ? » elle ne pouvait pas ne pas se les adresser à elle-même.</p>
           <p>Elles eussent toutes appartenu à cet ordre d'idées, qu'elle eût sans doute trouvé à les expliquer : disposition de caractère ; exigences d'une ambition pressée de réaliser ses désirs ; susceptibilité ou fierté ombrageuse ; mais il y en avait d'autres qui reposaient sur des observations ou des souvenirs n'ayant avec celles-là aucun rapport, -- au moins lui semblait-il.</p>
@@ -2945,6 +2893,7 @@
           <p>Et il s'était cru fort. Fou qu'il était, et plus encore ignorant, d'avoir pris une pareille charge quand, par l'exercice de sa volonté il ne s'était pas mis en état de la porter ! Vouloir ! Mais il n'avait pas appris à vouloir, pas plus qu'à se servir de ce frein que le cerveau fait manœuvrer, de sorte qu'il en était de lui comme des animaux inférieurs chez qui les mouvements réflexes s'accentuent par l'ablation du cerveau.</p>
         </div>
         <div type="chapter">
+
           <head>VII</head>
           <p>Le calme relatif que Saniel avait éprouvé depuis son mariage, c'était à Philis qu'il le devait, à la force, à la confiance, à la paix qu'il puisait en elle. Philis sans force, sans confiance, sans paix intérieure, telle qu'il la voyait maintenant, ne pouvait lui donner ce qu'elle n'avait plus, et il revenait aux temps bouleversés qui avaient précédé son mariage, avec les mêmes agitations désordonnées et stériles, les mêmes angoisses, le même affolement. Les belles relations, la considération mondaine, le succès, les décorations, les honneurs, c'était bon pour les autres ; mais, pour son repos, il fallait la tranquillité et la sérénité de sa femme, sa bonne santé morale qui passaient en lui lorsqu'elle dormait sur son épaule ; alors, pas de brusques réveils, pas d'insomnies : au bruit de sa douce respiration, il se rassurait et les spectres restaient dans leur tombe.</p>
           <p>Mais que cette respiration fût agitée, qu'il ne sentît plus en elle cette tranquillité et cette sérénité, qu'il la vît faible, inquiète, il n'en était plus ainsi : c'était sa fièvre qu'elle lui donnait, non son sommeil.</p>
@@ -2985,20 +2934,12 @@
           <p>Il ne pouvait pas la presser davantage sans montrer l'importance qu'il attachait à cet interrogatoire :</p>
           <p>-- Je n'insiste pas, dit-il ; c'était un moyen comme un autre, meilleur qu'un autre ; tu n'en veux pas, n'en parlons plus.</p>
           <p>Mais il avait cédé trop vite pour qu'elle pût espérer qu'il renonçait à son projet, et elle resta sous le coup d'une frayeur stupéfiante. Que dirait-elle s'il la faisait parler ? Tout n'était-il pas possible, alors qu'elle ne savait même pas quelles pensées se cachaient au fond de son cerveau et qu'elle ignorait entièrement ce qu'était ce somnambulisme provoqué dont elle était menacée.</p>
-          <p>
-            À cette époque, les travaux de l'
-            <hi>École de Nancy</hi>
-            sur le sommeil, l'hypnotisme et la suggestion n'avaient pas encore été publiés, ou tout au moins le livre qui leur a servi de point de départ n'était pas connu, et elle ne savait rien des procédés qu'on peut employer pour provoquer le sommeil hypnotique, en étant restée à ce qu'elle avait lu, sans y prêter grande attention d'ailleurs, sur Cagliostro. Aussitôt que son mari fut parti, elle chercha dans la bibliothèque les livres qui pouvaient l'éclairer ; mais le dictionnaire qu'elle trouva ne fournit à sa curiosité que des renseignements obscurs ou confus au milieu desquels elle se noya ; le seul point précis qui la frappa fut la formule à employer pour provoquer le sommeil ; faire regarder au sujet qu'on veut endormir un objet brillant placé à 15 ou 20 centimètres au-dessus de ses yeux ; si cela était vrai, elle n'avait pas à craindre d'être jamais endormie.
-          </p>
+          <p> À cette époque, les travaux de l' <hi>École de Nancy</hi> sur le sommeil, l'hypnotisme et la suggestion n'avaient pas encore été publiés, ou tout au moins le livre qui leur a servi de point de départ n'était pas connu, et elle ne savait rien des procédés qu'on peut employer pour provoquer le sommeil hypnotique, en étant restée à ce qu'elle avait lu, sans y prêter grande attention d'ailleurs, sur Cagliostro. Aussitôt que son mari fut parti, elle chercha dans la bibliothèque les livres qui pouvaient l'éclairer ; mais le dictionnaire qu'elle trouva ne fournit à sa curiosité que des renseignements obscurs ou confus au milieu desquels elle se noya ; le seul point précis qui la frappa fut la formule à employer pour provoquer le sommeil ; faire regarder au sujet qu'on veut endormir un objet brillant placé à 15 ou 20 centimètres au-dessus de ses yeux ; si cela était vrai, elle n'avait pas à craindre d'être jamais endormie. </p>
           <p>Cependant elle ne se laissa pas rassurer, et comme à quelques jours de là elle se trouva dans un dîner à côté d'un confrère de son mari, qui, elle le savait, s'occupait de somnambulisme, elle eut le courage de vaincre sa timidité habituelle en tout ce qui touchait à la médecine, pour l'interroger :</p>
           <p>-- Est-ce qu'il n'y a que les personnes malades de certaines maladies qui peuvent être mises en état de somnambulisme ?</p>
           <p>-- C'était une croyance autrefois admise par le public et par beaucoup de médecins qu'on ne pouvait provoquer le somnambulisme que chez les sujets atteints d'hystérie, de nervosisme, mais il y avait là une erreur : le somnambulisme artificiel s'obtient chez un grand nombre de sujets parfaitement sains.</p>
           <p>-- Conserve-t-on sa volonté dans le sommeil ?</p>
-          <p>
-            -- Le sujet ne conserve de spontanéité et de volonté que ce que veut bien lui en laisser son hypnotiseur, qui, à son gré peut le rendre triste, gai, colère, tendre et jouer de son âme comme d'un instrument
-            <hi>*(1)</hi>
-            *.
-          </p>
+          <p> -- Le sujet ne conserve de spontanéité et de volonté que ce que veut bien lui en laisser son hypnotiseur, qui, à son gré peut le rendre triste, gai, colère, tendre et jouer de son âme comme d'un instrument <hi>*(1)</hi> *. </p>
           <p>-- Mais c'est effroyable.</p>
           <p>-- Curieux au moins ; il est certain qu'il y a une paralysie locale de telle ou telle cellule dont l'étude deviendra le point de départ de découvertes intéressantes.</p>
           <p>-- Une fois réveillé, le sujet se rappelle-t-il ce qu'il a dit pendant son sommeil ?</p>
@@ -3069,6 +3010,7 @@
           <p>-- Rien... j'ai peur !...</p>
         </div>
         <div type="chapter">
+
           <head>VIII</head>
           <p>Cette confession le bouleversa, car si elle n'allait pas au delà de ce qu'il avait craint, elle révélait cependant une situation terrible.</p>
           <p>Clairement, à livre ouvert, il avait lu en elle : si elle ne savait pas tout, elle n'avait plus qu'un pas à faire pour arriver à la vérité, et si elle ne l'avait pas fait, c'était parce que son amour l'avait retenue : moins solide cet amour, moins grand, elle n'eût certainement pas résisté aux preuves qui de tous côtés la pressaient.</p>
@@ -3141,6 +3083,7 @@
           <p>-- Appuie-toi sur moi, pauvre maman, tu sais bien que je suis forte.</p>
         </div>
         <div type="chapter">
+
           <head>IX</head>
           <p>Saniel ne devait revenir qu'assez tard dans l'après-midi. Quand il rentra, en ouvrant la porte avec sa clef, comme toujours, il fut surpris de ne pas voir sa femme accourir au devant de lui pour l'embrasser.</p>
           <p>-- Elle travaille, se dit-il, elle ne m'a pas entendu.</p>
@@ -3149,12 +3092,12 @@
           <p>Il regarda autour de lui, stupéfait, puis, revenant vivement dans le vestibule, il appela :</p>
           <p>-- Philis !... Philis !</p>
           <p>On ne répondit pas : il courut à la cuisine, personne ; il vint dans son cabinet, personne non plus mais comme il regardait autour de lui, la lettre de Philis, placée sur son bureau, lui sauta au cœur ; il se jeta dessus, et d'une main tremblante l'ouvrit :</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>« Je suis partie pour ne plus revenir. Mon désespoir et mon dégoût de la vie sont tels, que sans ma mère et sans le pauvre être qui est là-bas, je me serais tuée ; mais malgré l'horreur de ma situation, il m'a fallu réfléchir, et je n'ai pas voulu aggraver par une faiblesse le mal qui s'est fait autour de moi. Ma mère n'est plus jeune, elle est malade et elle a cruellement souffert ; non seulement je lui dois d'adoucir sa vieillesse par ma présence, par le soutien matériel et moral que je puis lui donner, mais il faut qu'elle garde la confiance que je suis là pour la remplacer et ouvrir mes bras à son fils, à mon frère. C'est bien le moins que je puisse faire pour eux de l'attendre courageusement ; et si pesante, si terrible, si effroyable que soit désormais ma vie, je la supporterai pour que le malheureux, le paria que le sort implacable a terrassé, trouve en revenant, un foyer, une maison, une amie. Ce sera là mon unique but, ma raison d'être, et afin de me sauver des lâchetés, de la lassitude, ma pensée ira toujours en avant vers l'heure où me sera rendu celui dont je veux faire mon enfant et que mon amour doit sauver et guérir. Je sais que de longues années me séparent de ce jour, et que mon cœur brisé ne pourra jamais, avant qu'il se lève, avoir un moment de repos ; mais j'emploierai ce temps à travailler pour lui, pour le frère, pour l'enfant, pour l'être chéri qui m'arrivera vieilli, désespéré, et je veux qu'il puisse croire encore à quelque chose de bon, qu'il n'imagine pas que tout est injuste et infâme dans ce monde, car il me reviendra accablé par vingt ans de honte, de honte dégradante, imméritée. Comment les aura-t-il supportés, ces vingt ans ? Quels efforts ne me faudra-t-il pas faire pour lui prouver qu'il ne doit pas s'abandonner à la désespérance, et que la vie offre parfois le remède, la compassion aux plus profondes, aux plus injustes douleurs humaines ! Comment lui faire croire cela ? Comment amener son pauvre cœur fermé à la confiance, à l'épanchement, aux pleurs qui seuls pourront le soulager ? Enfin Dieu qui m'a tant éprouvée, viendra sans doute à mon aide et m'inspirera les paroles consolatrices, me montrera le chemin à suivre et me donnera la force de la persévérance ; n'ai-je pas déjà à le bénir d'être seule au monde en dehors de la maman et du frère, de ceux qui ne me trahiront pas ? Je n'ai point d'enfants de mes entrailles, et je suis sauvée de la terreur de voir une âme grandir pour le mal, une intelligence m'échapper et aller vers l'infamie ou le déshonneur. Je me retire donc comme je suis venue : pauvre fille j'étais, pauvre femme je m'en vais. J'ai repris les vêtements et les objets personnels que j'avais apportés dans le logis commun, aucun de ceux acquis de l'argent commun, et je vous interdis de rien changer à ma volonté en ce qui touche cette question matérielle, pas plus qu'à ma résolution de vous fuir. Rien ne peut plus nous réunir jamais ; rien ne nous réunira, aucune considération, aucune nécessité. Je repousse le passé, ce passé coupable dont la responsabilité pèse si lourdement sur ma conscience, et je voudrais perdre la mémoire d'un temps détesté. Il me serait impossible d'accepter la lutte, ni des supplications s'il vous convenait d'en faire. J'ai tranché nos liens, et nous serons désormais aussi loin l'un de l'autre que si l'un de nous était mort, plus loin encore. N'ayez donc aucun scrupule à me laisser seule en face d'une nouvelle vie, d'un recommencement qui peut paraître difficile et pénible à quiconque n'est pas à ma place. Les épreuves d'autrefois m'auront été bonnes, puisqu'elles m'ont aguerrie aux difficultés du travail ; la désolation d'aujourd'hui me soutiendra, en ce sens que, ayant souffert tout ce qu'on peut souffrir, je n'ai plus à craindre quelque catastrophe décourageante qui m'arrêterait dans mes résolutions. Pour ne pas vous compromettre et redevenir mieux moi-même, je reprendrai mon nom de famille, -- nom déshonoré, mais que je porterai sans honte. Je vivrai obscurément, absorbée par le travail et m'appliquant à oublier jusqu'à votre existence : faites de même. Vous trouverez peut-être que je suis dure, si vous songez au passé ; cependant ce n'est pas une désertion égoïste que ce départ ; je ne vous suis plus bonne à rien, et le repos dont vous avez besoin vous fuirait désormais près de moi. Au contraire, cherchez l'oubli comme je vais le chercher moi-même. Si vous parvenez à effacer de votre vie le temps pendant lequel je l'ai traversée, vous arriverez peut-être à éloigner le reste et à reconquérir un peu du calme d'autrefois. Je ne peux plus me rappeler que je vous ai aimé, car ma situation a cela de particulier que je ne garde même pas le refuge du souvenir ; à mon âge, il faut que je reste sans passé comme sans avenir ; ce qui fait la consolation des malheureux me manque avec tout. Je ne puis pas sortir de mon accablement pour essayer de retrouver une heure où la vie se soit montrée douce pour moi ; ces heures-là, au contraire, me font frémir et je me les reproche comme un crime. Ainsi, de quelque côté que je me retourne, je ne trouve que la douleur et les regrets poignants ; tout est flétri, déshonoré pour moi. »</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>Il avait lu cette lettre écrite d'un trait, d'une seule poussée, debout au milieu de son cabinet ; arrivé à la fin, vaguement il regarda autour de lui ; son fauteuil était un peu écarté de son bureau : il se laissa tomber dessus et resta là, anéanti, gardant la lettre dans sa main crispée :</p>
           <p>-- Seul !</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>C'était une après-midi d'octobre, sombre et boueuse ; dans la rue des Saints-Pères, le long des maisons qui cachent l'hôpital de la Charité, des coupés étaient rangés, attendant, et leur file se prolongeait jusque sur le boulevard Saint-Germain, où les cochers, descendus de leur siège, causaient en gens qui sont habitués à se rencontrer. Du porche à colonnes prétentieuses et lourdes qui fait le coin de la rue et du boulevard, vers quatre heures et demie, dans l'obscurité qui commençait, on vit sortir des hommes à la tournure grave et aux vêtements sombres, -- les membres de l'Académie de médecine, -- qui, la séance du mardi levée, regagnaient leurs voitures : les uns, ceux-là étaient seuls, vivement, pour partir grand train ; les autres, ceux-là étaient accompagnés, avec d'habiles lenteurs, s'arrêtant pour aborder aimablement un journaliste et lui recommander leur communication de ce jour, ou bien continuant avec un confrère non académicien l'entretien commencé dans la salle des pas-perdus ; c'était la Bourse aux consultations qui s'achevait, l'originalité la plus amusante de ce lieu pour ceux qui savent regarder ou sont au courant des petites intrigues électorales qu'on joue là. Tous les membres de l'Académie n'ont pas, en effet, une longue liste de malades chez qui courir ; mais tous ont une voix à donner, et ce sont ceux-là que les candidats entourent, en tâchant de les gagner... On a déjà une riche clientèle, mais on n'est pas encore de l'Académie ; on manœuvre donc pour y arriver : avec le chirurgien, on arrange, aux frais des clients qui ont la foi, une consultation pour aller voir un panaris superficiel ; avec le médecin, on en arrange une pour visiter une migraineuse. On espère que, le jour du vote venu, l'académicien ne refusera pas sa voix à un confrère qui, par des consultations de cette importance, vous fait gagner mille ou quinze cents francs par an, vous envoie du gibier de sa chasse, sa loge à l'Opéra, son coupon des Français ; et qu'en galant homme qu'il est, il aura la reconnaissance de l'estomac ou du porte-monnaie.</p>
           <p>Un des académiciens, qui parut le dernier au haut des marches, était un homme de grande taille, mais voûté, au visage creux et blême, qu'éclairaient deux yeux bleu pâle d'une expression étrange, dure et désolée à la fois ; il s'avançait seul, et à sa démarche lourde, à son pas traînant, on pouvait se demander s'il avait soixante ans, tandis que, par d'autres côtés il gardait encore une certaine jeunesse, -- Saniel, vieilli de vingt ans.</p>
           <p>Sans que personne échangeât un signe de tête ou un serrement de main avec lui, il descendit sur le trottoir, et, le remontant, il vint jusqu'au boulevard, où il ouvrit la portière d'un coupé dont l'intérieur montrait l'installation complète d'une bibliothèque ambulante : tablette pour écrire, avec papier, encrier et lampe, poches, soufflets tous pleins de livres et de brochures.</p>
@@ -3186,14 +3129,12 @@
       </div>
     </body>
     <back>
-      <div type="notes"/>
+      <div type="notes" />
       <div type="liminal">
         <p>FIN</p>
       </div>
       <div type="liminal">
-        <p>
-          1  H. Beaunis :
-          <hi>Le Somnambulisme provoqué.</hi>
+        <p> 1  H. Beaunis : <hi>Le Somnambulisme provoqué.</hi>
         </p>
       </div>
     </back>
