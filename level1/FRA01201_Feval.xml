@@ -62,9 +62,8 @@
 
     <body>
       <div type="group">
-        <p>
-          <label>PREMIÈRE PARTIE -- LA CONSPIRATION EN DENTELLES</label>
-        </p>
+
+        <head>PREMIÈRE PARTIE -- LA CONSPIRATION EN DENTELLES</head>
         <div type="chapter">
 
           <head>Où Fortune établit qu'il a une étoile.</head>
@@ -3171,9 +3170,8 @@
         </div>
       </div>
       <div type="group">
-        <p>
-          <label>DEUXIÈME PARTIE -- LES AMOURS DE MLLE ALDEE</label>
-        </p>
+
+        <head>DEUXIÈME PARTIE -- LES AMOURS DE MLLE ALDEE</head>
         <div type="chapter">
 
           <head>Où Fortune rencontre le cadavre de maître Bertrand l'inspecteur.</head>

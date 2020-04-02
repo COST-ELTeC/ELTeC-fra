@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02201" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">45701</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -36,14 +36,14 @@
           ,
           <idno/>
           ,
-          
+
           .
         </bibl><bibl type="firstEdition">
           <date>1888</date>
           ,
           <idno/>
           ,
-          
+
           .
         </bibl></sourceDesc>
     </fileDesc>
@@ -69,9 +69,7 @@
   <text>
     <body>
       <div type="chapter">
-        <p>
-          <label>I</label>
-        </p>
+        <head>I</head>
         <p>L'année scolaire est finie. Les portes du Lycée sont à peine assez larges pour suffire à l'empressement des écoliers qui partent en vacances. Toutefois cette journée ne donne pas satisfaction à tous. Mais M. Thiébaut n'est pas du nombre de ces pères de famille dont la physionomie sérieuse accuse une déception. Il sourit à Joseph et à Xavier, qui élèvent leurs bras au-dessus de leurs têtes.</p>
         <p>Ces braves enfants sont assurément bien heureux de voir leur père ; mais pourquoi leur mère n'est-elle pas là ? Serait-elle malade, cette mère chérie, dont le souvenir a soutenu leur courage ?</p>
         <p>Mme Thiébaut n'est pas malade : elle est restée en Lorraine avec sa petite fille, dont la paresse mérite une punition, et il n'y en a pas de plus grande pour Laure que de ne pas aller à Paris pour être témoin des succès de ses frères. Joseph et Xavier aiment beaucoup leur petite sœur, qu'ils trouveraient parfaite si elle n'était pas paresseuse.</p>
@@ -113,9 +111,7 @@
         <p>Cette réflexion mit les parents d'accord.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II</label>
-        </p>
+        <head>II</head>
         <p>L'heureux événement que l'on espérait en famille arriva beaucoup plus tôt qu'on ne s'y attendait et justifia les prévisions de M. Thiébaut. Marguerite se maria dès l'année suivante ; elle épousait un jeune lieutenant d'infanterie.</p>
         <p>Le premier effet de ce mariage fut de faire tort aux études de Laure ; et comme dans ce cas particulier la fillette n'avait rien à se reprocher, elle était franchement enchantée de ne plus entendre parler de lecture, d'écriture, de grammaire, etc. Elle courait, elle chantait ; il lui arrivait même de dire à Rose :</p>
         <p>« Quel bonheur, d'avoir un long congé !</p>
@@ -185,9 +181,7 @@
         <p>Mais l'occasion lui fit défaut. Le silence du revenant ne rassura pas les voisins, car, disaient-ils, les revenants ont leurs fantaisies tout comme nous ; et vous verrez que celui-là recommencera ses diableries.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III</label>
-        </p>
+        <head>III</head>
         <p>
           Laure, qui jusqu'ici, sauf quelques légères indispositions, avait eu une bonne santé, tomba malade. Il lui fallut quinze grands jours pour entrer en convalescence. La première fois qu'elle se leva, elle fut effrayée de se voir si grande. Ce n'était plus la petite Laurette, mais Mlle Laure. Elle comprit tout de suite que grandeur oblige, et que sa taille de demoiselle lui imposerait de nouveaux devoirs. Elle ne disait plus : « 
           <hi>Quand je serai grande</hi>
@@ -292,9 +286,7 @@
         <p>-- Tu crois, ma sœur, répondit Joseph, mais tu peux en être certaine, puisque cela dépend, après tout, de ta volonté. Tu verras, Laurette, comme tu seras contente quand tu auras bien fait tes devoirs ! Ce contentement-là surpasse tous les autres, car il provient de la conscience d'avoir fait ce que l'on doit. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV</label>
-        </p>
+        <head>IV</head>
         <p>Tous les écoliers ont remarqué la rapidité avec laquelle passent les vacances. À la campagne le mois d'octobre s'annonçait très beau, et les frères de Laure en eussent volontiers profité ; mais il fallait partir et rentrer au collège.</p>
         <p>Cependant le père de famille n'avait pas tardé à reconnaître que la velléité de se faire agriculteur devait être abandonnée. À son âge on ne pouvait espérer acquérir promptement l'expérience nécessaire ; et d'ailleurs, pour affermer un terrain assez étendu autour de Beau-Séjour, il fallait commencer par faire de tels frais d'installation que la réussite était fort douteuse. En homme prudent, il quitta cette voie où il avait à peine fait quelques pas, et se tourna d'un autre côté, puisqu'il était de son devoir d'employer son temps utilement.</p>
         <p>M. Thiébaut avait confié à ses amis de Paris le désir qu'il éprouvait de trouver une occupation lucrative ; et comme il se souvenait d'avoir été professeur au collège où l'on élevait ses fils, il voulut y rentrer, à la grande joie de ses enfants. S'ils n'étaient pas dans la classe où leur père professerait, ils auraient du moins le plaisir de le voir passer matin et soir.</p>
@@ -360,9 +352,7 @@
         <p>« Au revoir, à Pâques. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V</label>
-        </p>
+        <head>V</head>
         <p>Laure, en voyant s'en aller ceux qu'elle aimait, s'était bien dit qu'elle aurait du courage, beaucoup de courage ; elle avait même promis à la bonne Rose de redoubler de soins dans la maison, tout en s'occupant activement de ses études. Mais tenir ses promesses lui fut très difficile, et il lui en coûta beaucoup pour ne pas perdre son temps en pleurs stériles.</p>
         <p>Une circonstance contribua à rendre pénibles ces premières semaines. L'éducation de Laure demandait une direction sage et intelligente ; sa mère était trop occupée dans son intérieur pour lui consacrer quelques heures tous les jours, et, la jeune institutrice qui, depuis un certain temps, faisait travailler Laure, quittant le voisinage, il fallut, de toute nécessité, la remplacer.</p>
         <p>Toutefois, après avoir perdu quelques semaines en recherches, Mme Thiébaut fut heureuse dans le nouveau choix qu'elle fit. Mlle Raymont avait reçu une excellente éducation, à une époque où une grande aisance régnait dans sa famille. La mort imprévue de son père avait réduit sa mère à une gêne dont elle eût beaucoup souffert si sa fille n'avait résolu de tirer parti de l'instruction que lui avaient donnée ses parents. Elle éprouvait un si grand bonheur à venir en aide à sa famille, qu'on n'eût jamais pu soupçonner combien il lui en avait coûté de prendre le rôle modeste d'institutrice.</p>
@@ -454,9 +444,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI</label>
-        </p>
+        <head>VI</head>
         <p>Laure avait pu retenir ses larmes tant qu'elle avait été entourée de ses juges ; mais lorsqu'elle fut seule dans sa chambre, elle pleura et, se jetant dans les bras de sa mère, elle lui dit :</p>
         <p>« Maman, partons ! partons !</p>
         <p>-- Non, ma chérie, nous ne ferons pas ce chagrin à Marguerite, qui est si heureuse de nous recevoir. Je regrette assurément que tu aies fait preuve d'ignorance devant toutes ces jeunes filles ; mais je considère cette fâcheuse aventure comme un remède violent, qui guérit le malade. D'ailleurs, la faute que tu as faite est une faute d'étourderie, puisque Mlle Raymont trouve que tu as fait, en français, des progrès réels.</p>
@@ -660,9 +648,7 @@
         <p>Le soin des fleurs fut confié à Annette, qui était une excellente fille, dont Laure était parfaitement sûre. Quant à celle-là, il n'y avait pas à craindre que le passé lui jouât un mauvais tour.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII</label>
-        </p>
+        <head>VII</head>
         <p>Les frères de Laure furent extrêmement heureux de la revoir et de reprendre avec elle la vie de famille. Depuis plusieurs années, les vacances leur avaient fait constater les progrès de leur sœur ; ils se réjouissaient donc plus que jamais de la retrouver, maintenant que les deux jeunes gens pouvaient causer avec elle et lui parler de ce qui les intéressait.</p>
         <p>Xavier était en admiration devant sa grande sœur ; et Joseph lui disait en l'embrassant avec tendresse :</p>
         <p>« Je t'assure que tu n'as plus la même figure qu'autrefois. Tu as l'air si contente !</p>
@@ -746,9 +732,7 @@
         <p>« Il est encore temps ; tu m'as appris des choses beaucoup plus difficiles. Deviens mon élève à ton tour, quand nous nous trouvons réunies, et tu verras que la bonne volonté suffit pour acquérir ce qui te manque. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII</label>
-        </p>
+        <head>VIII</head>
         <p>Il est vrai que Mlle Cécile Jacquemin avait reçu une éducation à la fois brillante et sérieuse ; mais la mère, émerveillée des talents de sa fille, avait complètement négligé ce qui fait le fond de l'éducation d'une femme. Cécile était considérée comme une princesse dans sa famille ; elle ne connaissait aucun détail du ménage, et ses mains n'étaient habiles qu'aux ouvrages de luxe et d'agrément. Malheureusement l'état de santé de Mme Thiébaut s'opposait à ce qu'elle allât, comme l'année précédente, passer l'hiver à Paris ; et l'impossibilité de se réunir à son mari et à ses fils lui fut une véritable peine. La mauvaise saison s'écoula paisiblement à la campagne, et Laure épargna à sa mère les tristesses de l'isolement. Pour l'en récompenser, Mme Thiébaut écrivit à Mlle Jacquemin et l'invita à venir passer quelque temps près de son amie, dès que le printemps serait de retour.</p>
         <p>« Puisque vous dessinez le paysage, lui disait-elle, nous avons des modèles à vous offrir ; et vous savez quel plaisir ce sera pour nous de vous recevoir. Je veux faire une surprise à Laure, et aucune surprise ne peut lui être plus agréable que la présence de son amie. »</p>
         <p>La permission fut accordée, sans difficulté, et M. Jacquemin alla lui-même conduire sa fille à Beauséjour. En revenant, il dit à sa femme :</p>
@@ -883,9 +867,7 @@
         <p>Laure s'étonnait de voir sa mère si en train, presque au moment de se séparer d'elle. Elle croyait que Mme Thiébaut ne pourrait pas se passer de sa fille ; mais cette excellente mère la rassura, et les huit jours que le fiancé et Mme Belisle passèrent en Lorraine confirmèrent les espérances de bonheur des deux familles qui allaient bientôt s'allier.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX</label>
-        </p>
+        <head>IX</head>
         <p>Le mariage de Laure avait été l'occasion d'une fête à l'école ; mais c'était une fête d'adieu. Chaque famille avait reçu un souvenir de la mariée, et les petites élèves, après avoir pleuré en embrassant leur chère maîtresse, avaient regardé avec un vif plaisir les images et les jolis livres roses que Laure avait rangés dans une bibliothèque, où chaque enfant trouverait à s'instruire et à s'amuser.</p>
         <p>Laure, devenue Mme André Belisle, était aimée de toutes ces petites filles, et elle les aimait. Elle avait donc une véritable peine en songeant qu'elles allaient oublier tout ce qu'on leur avait appris ; mais il ne devait pas en être ainsi. Ses efforts et ceux de la bonne et intelligente Annette méritaient d'être récompensés par la continuation de la bonne œuvre, qu'Annette ne pouvait pas diriger à elle seule.</p>
         <p>L'exemple est un maître puissant. La sœur du notaire, Mlle Emma, comme on l'appelait dans le pays, ne voulut pas abandonner les enfants que Laure avait réunis autour d'elle. Son frère, excellent homme, approuva le projet, sans dissimuler qu'il voyait une grande difficulté à son exécution.</p>
@@ -1002,9 +984,7 @@
         <p>Comme cette gênante intimité ne devait durer que huit jours, on en prit son parti et l'on fit très bon ménage.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X</label>
-        </p>
+        <head>X</head>
         <p>Huit jours sont bientôt passés, surtout quand on vit heureux entre soi. M. et Mme Thiébaut jouirent beaucoup de la présence de leur fille à Beauséjour, et la société de l'aimable Cécile ajouta encore à leur satisfaction. Les deux jeunes femmes, tout en trouvant du plaisir à être ensemble, ne s'isolaient pas ; elles savaient, au contraire, se mêler à tout et jeter du charme autour d'elles.</p>
         <p>Cependant ce n'était pas là que l'existence devait s'écouler. Paris réclamait, du moins pour quelque temps encore, la gentille Laure, et Cécile devait habiter tantôt Paris, tantôt le nord de la France, où des affaires appelaient M. Cormery.</p>
         <p>M. et Mme Thiébaut, jaloux des instants qu'on pouvait leur consacrer, s'arrangèrent de façon à ne recevoir aucun étranger la veille du départ de leur fille. Ces braves gens restèrent tous les quatre ensemble et l'on causa avec cet empressement inaccoutumé qui précède toujours les adieux. Cependant cette séparation ne leur causait ni inquiétude ni profonde tristesse, car ils savaient en quelles excellentes mains ils avaient remis leur enfant. André avait répondu à leur attente, et sa mère se montrait pleine de bonté et d'indulgence pour sa jeune belle-fille. Elle avait même dissimulé le chagrin que lui avait causé, pendant les premiers mois, le changement moral de la jeune femme, changement qu'elle attribuait à une espèce de fascination, produite parfois sur les jeunes têtes par le tumulte de Paris et les fêtes qui accueillent une jeune femme à son entrée dans une nouvelle existence.</p>
@@ -1132,9 +1112,7 @@
         <p>Il y eut donc là du bonheur pour Laure, non seulement par son intérieur, par l'aimable accueil qu'on lui fit à Nancy, mais encore par le voisinage de Beauséjour et la possibilité de se trouver souvent tous en famille.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XI</label>
-        </p>
+        <head>XI</head>
         <p>Retournons à Paris et remarquons l'expression de tristesse dont s'est empreinte la physionomie de Mme Cormery, la belle-mère de Cécile. Tous ses amis s'aperçoivent qu'elle n'est plus la même, qu'une vague inquiétude pèse sur elle ; mais personne ne lui demande : « Qu'avez-vous ? »</p>
         <p>Cependant son fils l'a deviné, et s'il n'a pas encore osé lui en parler, c'est qu'il souffre du même mal et qu'il cherche à s'en distraire.</p>
         <p>Sans doute Cécile est charmante ; elle est admirablement douée ; elle est la première partout ; et pourtant son mari et sa belle-mère se trouvent en face d'une douloureuse déception. Mme Cormery avait cru donner à son fils une femme modèle, on l'appelait ainsi, une femme qui se plaisait aux travaux intellectuels, qui avait le noble désir de toujours progresser, sans rien perdre toutefois de la réserve qui sied à une femme. Et voilà que Cécile a délaissé, abandonné ses chères études ; elle ne se soucie plus de ces belles et fortes lectures qu'elle faisait avec tant de fruit. Elle a l'air de mépriser les ouvrages manuels qui font tant d'honneur à une femme, à une mère de famille.</p>
@@ -1257,9 +1235,7 @@
         <p>« Quel service tu m'as rendu ! J'ai appris auprès de toi que le bonheur ne fait pas de bruit. »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII</label>
-        </p>
+        <head>XII</head>
         <p>La petite maison de Beauséjour est pleine, trop pleine. Peu importe ! on consent à se gêner pendant quelques jours pour avoir le plaisir d'être tous ensemble, sous le même toit. M. et Mme Thiébaut ont appelé autour d'eux leurs filles, leurs gendres et leurs petits-enfants. Chaque chambre est convertie en dortoir ; on a mis quatre allonges à la table, et l'on n'a pas encore ses coudées franches.</p>
         <p>Et pourtant quelle expression de bonheur sur tous ces visages ! Joseph et Xavier, tous deux entrés en carrière, ne se plaignent pas d'être un peu à l'étroit. Les vieux parents sont si heureux de voir que personne ne manque au rendez-vous ; cela ne s'était pas vu depuis plusieurs années. Les jeunes gens, les officiers, les jeunes femmes, tout le monde plaisante et se laisse aller à cette gaieté française qui est un mélange de modération et de francs rires.</p>
         <p>On se croit en famille, et pourtant il y a ici une étrangère et son mari ; mais cette étrangère ne compte pas, on ne fait avec elle aucune cérémonie, c'est l'amie intime de Laure, c'est Mme Cormery, que la secourable amitié de Mme Belisle a fait rentrer dans sa première voie. On ne reconnaît plus cette charmante femme : elle est redevenue ce qu'elle était, simple, laborieuse et sans prétention aux succès de vanité puérile qui naguère l'ont un moment étourdie. Sa grande fortune, elle l'emploie à faire des heureux, après avoir répandu d'abord autour d'elle le confortable et tous les agréments de la vie. Son temps, elle l'économise comme un trésor qui diminue chaque fois qu'on y puise ; elle le consacre à son mari, à sa belle-mère, dont la vieillesse réclame des soins et des attentions ; aux pauvres églises, pour lesquelles on doit se faire un honneur de travailler ; aux malheureux, quels qu'ils soient, car c'est à chaque pas que les riches les rencontrent. Et cette transformation, on la doit à la charmante Laure, rendant avec usure, par son exemple et ses douces paroles, ce qu'en d'autres temps on lui a donné.</p>

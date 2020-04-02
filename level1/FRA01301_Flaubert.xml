@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01301" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">149810</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -53,9 +53,7 @@
     </front>
     <body>
       <div type="group">
-        <p>
-          <label>Partie 1</label>
-        </p>
+        <head>Partie 1</head>
         <div type="chapter">
           <head>Chapitre 1</head>
           <p>Le 15 septembre 1840, vers six heures du matin, la Ville-de-Montereau, près de partir, fumait à gros tourbillons devant le quai Saint-Bernard.</p>
@@ -1064,9 +1062,7 @@
         </div>
       </div>
       <div type="group">
-        <p>
-          <label>Partie 2</label>
-        </p>
+        <head>Partie 2</head>
         <div type="chapter">
           <head>Chapitre 1</head>
           <p>Quand il fut à sa place, dans le coupé, au fond, et que la diligence s’ébranla, emportée par les cinq chevaux détalant à la fois, il sentit une ivresse le submerger. Comme un architecte qui fait le plan d’un palais, il arrangea, d’avance, sa vie. Il l’emplit de délicatesses et de splendeurs ; elle montait jusqu’au ciel ; une prodigalité de choses y apparaissait ; et cette contemplation était si profonde, que les objets extérieurs avaient disparu.</p>
@@ -3343,9 +3339,7 @@
         </div>
       </div>
       <div type="group">
-        <p>
-          <label>Partie 3</label>
-        </p>
+        <head>Partie 3</head>
         <div type="chapter">
           <head>Chapitre 1</head>
           <p>Le bruit d’une fusillade le tira brusquement de son sommeil ; et, malgré les instances de Rosanette, Frédéric, à toute force, voulut aller voir ce qui se passait. Il descendait vers les Champs-Elysées, d’où les coups de feu étaient partis. A l’angle de la rue Saint-Honoré, des hommes en blouse le croisèrent en criant :</p>

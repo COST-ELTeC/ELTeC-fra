@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02401" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">25038</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -35,7 +35,7 @@
           ,
           <idno/>
           ,
-          
+
           .
         </bibl></sourceDesc>
     </fileDesc>
@@ -61,9 +61,7 @@
   <text>
     <body>
       <div type="chapter">
-        <p>
-          <label>I</label>
-        </p>
+        <head>I</head>
         <p>Il y avait plus de soixante ans que l'empereur Napoléon, pressé d'argent, avait vendu les provinces de la Louisiane à la République des États-Unis ; mais, en dépit de l'infiltration yankee, les traditions des créoles français se perpétuaient.</p>
         <p>M. de Saint-Elme, dont la plantation était située à vingt milles de la Nouvelle-Orléans, occupait plus de six cents esclaves qu'il traitait avec une bonté devenue proverbiale.</p>
         <p>
@@ -221,9 +219,7 @@
         <p>Vénus et sa fille s'éclipsèrent comme deux ombres, et il n'y eut plus par la chambre ténébreuse et parfumée, qu'un bruit de baisers qui se mariait au roucoulement lointain des ramiers, dans le parc, et au sanglot des sources fouettées par la brise, à l'ombre des orangers et des magnolias.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II</label>
-        </p>
+        <head>II</head>
         <p>M. de Saint-Elme avait conclu une excellente affaire. Son vendeur, un Américain du Nord, l'avait régalé d'un magnifique déjeuner dans les salons de Muraty's Hôtel ; justement à la suite d'une de ces épidémies de fièvre jaune, si communes à la Nouvelle-Orléans, l'hôtel avait été vendu ; le personnel entièrement renouvelé, et les salons remis à neuf avec un luxe inouï. M. de Saint-Elme ne rencontrait plus parmi les waiters noirs ou mulâtres, qui, vêtus de blanc, circulaient affairés dans les couloirs de l'immense bâtiment, aucune figure de connaissance.</p>
         <p>M. Growlson, le vendeur, un Yankee à la face osseuse, au menton anguleux, terminé par un pinceau de poils rudes et rouges, avait fait servir le café dans une petite véranda attenant au bar, et qui donnait sur les jardins de l'hôtel.</p>
         <p>Mis en verve par une copieuse absorption de Ryebourbon, le Yankee plaisantait lourdement son hôte, sur les proverbiales débauches des habitants de la ville, qui passe dans tous les États de l'Union, pour la capitale de la galanterie et de la fête.</p>
@@ -483,9 +479,7 @@
         <p>Les noirs indécis le lâchèrent un instant. Profitant de cette hésitation, Pascalino s'élança vers la porte et s'enfuit en boitant, tel un taureau mal assommé, échappé au maillet sanglant du boucher, beuglant et titubant s'enfuit des abattoirs.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III</label>
-        </p>
+        <head>III</head>
         <p>Après la mort de sa femme, M. de Saint-Elme était demeuré pendant trois mois plongé dans une noire mélancolie. Maintenant, il ne s'occupait plus que rarement et, pour ainsi dire, par accident de l'administration de son domaine ; il passait presque toutes ses journées à la Nouvelle-Orléans où il avait loué une petite maison dans le quartier neuf ; il fallait que quelque vente importante de sucre ou de coton nécessitât absolument sa présence à l'habitation pour qu'il se dérangeât.</p>
         <p>En son absence, le commandeur Vulcain régissait l'exploitation avec une probité scrupuleuse.</p>
         <p>Les noirs de « l'Homme rouge » aimaient tellement leur maître qu'ils déploraient son absence, qu'ils en souffraient et qu'ils accusaient même M. de Saint-Elme d'ingratitude et de méchanceté à cause de ses longues escapades.</p>
@@ -652,9 +646,7 @@
         <p>Lina emmenait son ancien maître hébété de lassitude et à peine conscient de la route qu'il suivait dans la direction du faubourg, vers la maisonnette qu'elle n'avait pas cessé d'habiter en compagnie de sa mère, la vieille Vénus.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV</label>
-        </p>
+        <head>IV</head>
         <p>Tom Dixon avait à peine dix-neuf ans, mais son visage osseux et allongé, au front très haut, à la mâchoire fortement proéminente ne permettait pas de lui assigner un âge quelconque. Encore imberbe il avait déjà des rides et quelques cheveux gris. Ses yeux mornes, d'un bleu de glace, annonçaient une persévérance et une force de volonté effrayantes.</p>
         <p>
           Toujours vêtu d'une redingote noire râpée, si étroite qu'elle accusait nettement le dessin squelettique des épaules, le jeu des clavicules et la cage des côtes, il parlait rarement. Presque toute la journée, installé dans le meilleur fauteuil de Vénus, il lisait des livres de mathématiques et de chimie, les lèvres amincies et les sourcils froncés par l'attention. Tom était un enfant trouvé. Tour à tour garçon de bar, employé dans une entreprise de vidange, teneur de livres d'un marchand d'esclaves et domestique d'un
@@ -752,9 +744,7 @@
         <p>Il posa une foule de questions à Lina, et à la suite de leur entretien, il fut décidé que la petite mulâtresse demeurerait à l'hôpital en qualité d'infirmière, qu'elle veillerait d'une façon toute spéciale son ancien maître, que le docteur conservait un vague espoir de sauver. William reçut l'ordre formel de n'approcher du malade sous aucun prétexte.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V</label>
-        </p>
+        <head>V</head>
         <p>Dans la fièvre jaune, il ne meurt guère qu'un malade sur trois. Après plusieurs jours d'affreux vomissements, de sueurs, de hoquets et de prostration, M. de Saint-Elme entra dans la période de la convalescence. Le docteur avait répondu de lui.</p>
         <p>Mais comme il était pâle, vieilli et décharné ! C'est à peine s'il se reconnaissait dans le miroir que Lina, qui ne l'avait pas quitté d'une minute, s'était procuré pour lui. La face blafarde, aux dents jaunes, au regard éteint, qu'il contemplait, lui paraissait celle d'un fantôme. Quand il put se lever, ses jambes fléchissaient sous lui ; il courbait le dos, et tremblait de faiblesse.</p>
         <p>Appuyé sur le bras de Lina, il put enfin se rendre dans un jardin qui se trouvait derrière l'hôpital, et que le directeur laissait presque à l'état sauvage. Des lauriers étaient devenus des arbres de haute futaie, des orangers non greffés montraient de longues épines vertes ; les bananiers, aux larges feuilles luisantes, étaient devenus de vastes bosquets, dont les rejetons vivaces poussaient au milieu des allées ; des magnolias secouaient au vent leurs millions de fleurs parfumées. Grâce aux lianes, jetant leurs cordages d'arbre en arbre, enchevêtrant leur milles racines sur le sol, pour aller fleurir, après de singulières complications, les branches les plus hautes, le jardin tout entier n'était qu'un immense buisson frissonnant et parfumé.</p>
@@ -869,9 +859,7 @@
         <p>L'esclave cacha soigneusement l'aigle d'or dans un coin de son mouchoir et descendit avec son maître au jardin.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI</label>
-        </p>
+        <head>VI</head>
         <p>Un luxueux déjeuner servi à la française attendait M. de Saint-Elme dans un retrait ombreux des jardins du célèbre restaurant Messonnier.</p>
         <p>Un saumon accommodé aux groseilles, des tranches de venaison, un jambon d'ours, des fruits de toute beauté et d'excellents vins dans des seaux remplis de glace égayaient une nappe étincelante de blancheur et reluisante de cristaux et d'argenterie.</p>
         <p>M. de Saint-Elme, que ses emplettes avaient occupé toute la matinée, n'avait pas oublié d'acheter pour Lina une belle chaîne d'or. Dans sa joie, il avait complété la parure de bracelets, de boucles d'oreilles et d'un grand peigne de perles, qu'il jugeait devoir être d'un effet merveilleux parmi les cheveux bleus de sa petite amie.</p>

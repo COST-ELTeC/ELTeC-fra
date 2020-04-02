@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03702" xml:lang="fr">
   <teiHeader>
@@ -28,7 +28,7 @@
         </bibl><bibl type="printSource">
           Paris, Calmann Lévy,
           <date>1882</date>
-          
+
           .
         </bibl><bibl type="firstEdition">
           <date>1866</date>
@@ -1590,9 +1590,7 @@
         <p>L'avis était bon. Quand je fus seul, j'ouvris la lettre, qui était à peine pliée et nullement cachetée. Félicie avait certainement voulu que cet écrit passât sous mes yeux.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Lettre de Félicie.</label>
-        </p>
+          <head>Lettre de Félicie.</head>
         <p>« Plus d'espoir, plus du tout... Il ne m'aime plus, il ne m'aimera plus jamais ! Son cœur est mort, nous l'avons tué. Depuis un an, je lutte pour retrouver son affection ou pour éteindre celle que j'ai pour lui ; je m'efforce de le haïr, par moments je le hais. Une femme peut-elle pardonner le plus sanglant des outrages, l'indifférence ? Et pourtant je vais mourir pour qu'il me pardonne, à moi ! Morte, il me plaindra peut-être, il aura peut-être quelque regret, quelque pitié ; il se souviendra de m'avoir aimée, il oubliera mon crime ; il me gardera dans son cœur, purifiée par le châtiment qu'il n'a pas voulu m'imposer et que je me serai infligé à moi-même. La mort ! c'est tout ce que je peux faire, puisque ma vie ne peut rien réparer. J'ai voulu t'écrire cela. Je ne veux pas que tu croies que je meurs pour toi et que je te regrette. Non, je te méprise et te maudis. Et ne crois pas non plus que je sois en colère contre toi ; j'ai essayé de te pardonner et de t'aimer encore ; que n'ai-je pas essayé depuis un an pour échapper à l'horreur de l'isolement ! Tout a été inutile. Le dégoût que j'inspirais à Sylvestre, j'ai senti que je l'éprouvais pour toi. Lâche ! tu vas venir recueillir mon héritage, n'est-ce pas ? Tu vas habiter ma maison. Ta femme dormira dans mon lit à tes côtés ! et, toi, tandis qu'elle reposera à ta droite, verras-tu à ta gauche le cadavre que je serai tout à l'heure ?</p>
         <p>» Oh ! mon Dieu, mourir déjà, moi jeune encore et si forte, si remplie de volonté ! Je ne peux pas m'imaginer ce que c'est que d'être mort. Je me jette dans l'inconnu comme quelqu'un qui se précipiterait dans les ténèbres, sans savoir s'il tombe dans un abîme ou dans le vide. Peut-être ne tombe-t-on pas du tout ! On se retrouve peut-être debout et actif, devant quelque tâche nouvelle, avec d'autres êtres, d'autres souffrances, d'autres idées. Ah ! pourvu qu'on oublie cette vie que je vais quitter ! Je n'ai pas d'autre désir, oublier ! Ne plus savoir que je suis souillée et méprisée ! À ce prix, j'accepterais avec joie les plus atroces tortures et même les feux et les épouvantes de l'enfer.</p>
         <p>» Ah ! je ne sais pas s'il y a un Dieu, mais je sens qu'il y a une justice, car j'ai été bien punie. Après avoir été si heureuse, si aimée, si honorée, se voir seule et dédaignée, et sentir qu'on ne peut plus rien pour reconquérir l'estime !</p>

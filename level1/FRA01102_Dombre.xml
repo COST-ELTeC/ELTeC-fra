@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01102" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">24998</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -32,7 +32,7 @@
           .
         </bibl><bibl type="firstEdition">
           <date>1889</date>
-          
+
           .
         </bibl></sourceDesc>
     </fileDesc>
@@ -58,9 +58,7 @@
   <text>
     <body>
       <div type="chapter">
-        <p>
-          <label>I -- En veine de paresse</label>
-        </p>
+        <head>I -- En veine de paresse</head>
         <p>
           Verbe
           <hi>marcher</hi>
@@ -136,9 +134,7 @@
         <p>Et son homme ne revint jamais.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II -- L'enfant de Gervaise</label>
-        </p>
+        <head>II -- L'enfant de Gervaise</head>
         <p>Environ un an après, le grand-père et la grand-mère Milane venaient mélancoliquement s'installer à la Seille, jolie propriété qu'ils possédaient en Dauphiné.</p>
         <p>Ils étaient tristes, car ils adoraient les enfants et ne pouvaient jouir de leur petite-fille ; leur gendre, d'un caractère un peu entier, ne sympathisait pas avec eux, et après quelques discussions pénibles la brouille s'était mise entre les deux ménages.</p>
         <p>Mme Kernor en souffrit beaucoup, mais elle ne put décider son mari à oublier sa rancune.</p>
@@ -225,9 +221,7 @@
         <p>Voilà donc nos fillettes à l'église, priant tantôt avec distraction, tantôt avec piété. Juliette était coquette : elle se savait jolie et admirée, cela ne lui déplaisait point. Quant à Folla, elle ne s'inquiétait guère de ces choses-là ; ce qui venait la distraire n'était pas la pensée que sa robe seyait bien à son petit visage, le ruban rose à ses boucles brunes, mais plutôt une grosse mouche remuante qui entrait dans le bonnet tuyauté d'une paysanne, ou bien les maladresses de l'enfant de chœur ; rien n'échappait à son œil espiègle. Mais, dès qu'elle pensait qu'on se trouvait à l'église, vite elle reprenait son livre et sa gravité.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III -- Poulets perdus</label>
-        </p>
+        <head>III -- Poulets perdus</head>
         <p>L'après-midi, les petites filles jouaient dehors, le temps étant fort beau. Un peu avant le dîner, elles obtinrent la permission de s'amuser au bout du parc.</p>
         <p>Or, de l'autre côté de la haie, s'élevait une petite ferme appartenant à un pauvre ménage dont les enfants, « pour être moins nombreux à la niche », étaient serviteurs ou bergers dans de plus grandes métairies des environs.</p>
         <p>Ce jour-là, la mère Serriau et « son homme » étaient en violent émoi : un oiseau de proie, buse ou corbeau, on ne savait, avait jeté le désarroi dans la basse-cour ; les volailles, effarées, fuyaient de tous côtés avec des piaillements de désespoir. Cela durait depuis une heure environ. Sur les vingt-deux poulets qui composaient la basse-cour, on n'avait pu en réunir qu'une dizaine. Les autres piaulaient dans la campagne, éperdus, épouvantés.</p>
@@ -286,9 +280,7 @@
         <p>Non seulement Mme Milane consentit à ce que Folla portât aux Moussard un gros paquet de vêtements encore très bons, mais elle y joignit un peu d'argent, et plusieurs boîtes de farine lactée pour le dernier petit.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV -- En mer</label>
-        </p>
+        <head>IV -- En mer</head>
         <p>On parla d'aller aux bains de mer : Juliette grandissait beaucoup, était pâlotte ; bref, on partit. Comme M. et Mme Milane craignaient l'air frais du Nord, on s'établit à Montpellier, en dehors de la ville, sur la route de Pallavas, afin de se rendre facilement au bain chaque jour. On s'amusa beaucoup sur cette bonne petite plage méditerranéenne, assez fréquentée et cependant paisible.</p>
         <p>C'était si divertissant de courir dans l'eau salée, vêtu seulement d'un simple costume de bain, les cheveux flottant au vent du large, de s'ébattre dans la vague bleue qui vous roulait, vous emportait et vous rapportait au rivage ; puis d'apprendre à nager avec le baigneur, ce vieux marin qui aimait tant les enfants et qui leur jouait des tours, en les plongeant jusqu'au fond quand ils faisaient la grimace à l'onde froide.</p>
         <p>Et ce beau soleil qui dorait les flots ou les rougissait à l'heure du couchant, qui brunissait la peau et fortifiait le corps !</p>
@@ -358,9 +350,7 @@
         <p>« Tenez, cria-t-elle tout essoufflée, mère Limousin, vous pourrez avec cela vous procurer quelques douceurs. » Et elle s'enfuit radieuse. Ainsi elle n'avait point perdu sa journée.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V -- L'homme qui revient</label>
-        </p>
+        <head>V -- L'homme qui revient</head>
         <p>Et voilà qu'à partir de ce temps un vilain oiseau noir aux ailes déployées, qui a nom le malheur, plana sur la pauvre petite Folla.</p>
         <p>Elle était pourtant bien douce et bien généreuse cette fillette. N'est-ce pas que vous l'aimez bien, notre mignonne héroïne, malgré sa paresse, qui peut-être n'est pas celui de ses défauts qui vous offusque le plus ?</p>
         <p>Un matin, les deux enfants, sous un soleil magnifique, jouaient au bord de la mer, abritées sous leurs grands chapeaux de jonc ornés d'une gaze blanche, leurs jambes nues hâlées par l'air salin.</p>
@@ -398,9 +388,7 @@
         <p>Et les deux mignonnes s'endormirent sans plus rêver luxe ou misère.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI -- Ce qu'entendit Folla en dormant</label>
-        </p>
+        <head>VI -- Ce qu'entendit Folla en dormant</head>
         <p>C'était un après-midi d'automne, à cette heure où, les jours diminuant de plus en plus, le soleil décline dans le ciel déjà plus pâle.</p>
         <p>Le château était plongé dans une douce et silencieuse paix. L'air était un peu froid, mais pur et bon à respirer ; le feuillage rougi, à diverses nuances, s'agitait au moindre souffle et tombait feuille à feuille avec un bruit sec.</p>
         <p>M. Milane était allé en ville ; Mlle Cayer à vêpres, car c'était dimanche. Bonne maman gardait les petites filles tout en combinant un remède contre les crampes d'estomac. Nous avons déjà vu que bonne maman était une femme pratique. Les deux petites filles arrosaient d'arnica leur perroquet, qui s'était blessé aux barreaux de sa cage. De temps en temps un rire frais et argentin coupait l'air silencieux. Il faisait chaud dans la salle à manger, où l'on entretenait un bon feu de bois.</p>
@@ -491,9 +479,7 @@
         <p>Et cependant Folla, malgré sa préoccupation, s'était montrée d'une sagesse exemplaire. Elle n'avait ni parlé ni souri pendant la classe : elle avait su ses leçons pour la première fois depuis longtemps, et son institutrice ne savait à quoi attribuer ce changement subit.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII -- Tes père et mère honoreras</label>
-        </p>
+        <head>VII -- Tes père et mère honoreras</head>
         <p>Il était revenu, l'homme de Pallavas, ce Félicien Marlioux qui réclamait la petite Folla comme son bien légitime, et qui cependant, pour un peu d'or, l'eût cédée volontiers à ceux qui l'avaient adoptée.</p>
         <p>
           C'est qu'il ne demanda pas seulement
@@ -534,9 +520,7 @@
         <p>L'enfant soupira, mais elle tint bon ; elle voulait remplir son devoir.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII -- La derniere nuit</label>
-        </p>
+        <head>VIII -- La derniere nuit</head>
         <p>C'était un mardi, à six heures du soir, que Folla devait quitter la Seille.</p>
         <p>Félix Marlioux jura et tempêta longuement lorsqu'il vit échouer son plan, quand M. Milane lui apprit qu'il ne pouvait accepter ses conditions, et que la petite Sophie était toute décidée à rentrer chez ses parents.</p>
         <p>Il ne s'attendait pas à cela.</p>
@@ -564,9 +548,7 @@
         <p>À la fin, sentant la fatigue la gagner, elle se glissa lentement dans le lit, à côté de sa sœur de lait, et à son tour tomba dans un lourd sommeil.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX -- La dernière heure</label>
-        </p>
+        <head>IX -- La dernière heure</head>
         <p>La Seille est plongée dans la mélancolie et le silence. Dans la mélancolie, parce que Juliette est partie avec Mlle Cayer ; dans le silence, parce qu'on est à l'automne, que les oiseaux ne chantent plus, et que le ciel est lugubre et lourd comme une voûte de plomb.</p>
         <p>Il est l'heure de la tombée du jour ; on attend l'arrivée de Félix Marlioux, qui va emmener sa fille.</p>
         <p>Sa fille, elle erre, la pauvre enfant, à travers ces lieux tant aimés, dont le moindre recoin lui garde un souvenir.</p>
@@ -608,9 +590,7 @@
         <p>Épuisée d'émotions, Folla s'était endormie en chemin de fer. Une voisine complaisante la prit des bras de son père, la déshabilla et la coucha, sans l'éveiller, dans un lit de sangle installé à la hâte dans un étroit cabinet.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X -- La femme folle</label>
-        </p>
+        <head>X -- La femme folle</head>
         <p>Quand elle rouvrit les yeux le matin suivant, la petite fille se les frotta longuement, croyant rêver. Mais le souvenir de la réalité lui revint. Elle ne pleura point en se trouvant transportée tout à coup d'un nid coquet entre les quatre murs blanchis à la chaux d'un réduit exigu, dans un lit maigre garni de draps grossiers.</p>
         <p>Elle se leva prestement, fit sa toilette et sa prière, natta tant bien que mal sa chevelure prodigue et rebelle, et ouvrit la porte.</p>
         <p>La chambre voisine servait à la fois de cuisine et de salle à manger.</p>
@@ -667,9 +647,7 @@
         <p>Sophie sécha ses pleurs, et, en effet, fut si occupée pendant quarante-huit heures, qu'elle n'eut plus le temps de se livrer à sa tristesse.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XI -- Endoume</label>
-        </p>
+        <head>XI -- Endoume</head>
         <p>Le samedi soir, Marlioux emmena sa femme et sa fille. Il fallut beaucoup de peine pour décider la première à quitter la maisonnette, et tout le long du trajet elle demeura sans parole, effarouchée, presque terrifiée.</p>
         <p>Folla, vêtue de son costume le plus simple, voyageait pour la première fois en troisième classe ; certes, elle n'en était ni humiliée ni choquée, mais elle en souffrit. Son père entra en conversation avec de rustiques voyageurs dont les voix rudes sonnaient douloureusement aux oreilles délicates de l'enfant et l'empêchaient de dormir ; puis ils fumèrent, sans se soucier de la femme et de la petite fille, blotties dans leur coin.</p>
         <p>Mais cette impression pénible se dissipa à mesure qu'on approcha de Marseille ; l'aube devint moins pâle, l'atmosphère plus douce, et enfin la jolie ville, toute gaie dans le soleil du matin, sembla sourire à la petite exilée.</p>
@@ -711,9 +689,7 @@
         <p>La pauvre petite devait pourtant subir de plus dures épreuves encore.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII -- Volée !</label>
-        </p>
+        <head>XII -- Volée !</head>
         <p>Cette vie mélancolique, mais tranquille au fond, dura environ trois mois.</p>
         <p>Intelligent et adroit ouvrier, Félix Marlioux gagnait de quoi suffire aux dépenses du ménage. Au bout de quelques mois, son humeur s'altéra, ses manières devinrent plus brusques, son langage plus cynique, son caractère inégal.</p>
         <p>Folla remarqua que ce changement data du jour où il reçut un ami (l'homme qui accompagnait Félix Marlioux à Pallavas l'an passé). À cet ami vint se joindre un autre, puis un autre.</p>
@@ -770,9 +746,7 @@
         <p>Et cela la désespéra tout à fait.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIII -- Rencontre</label>
-        </p>
+        <head>XIII -- Rencontre</head>
         <p>Un après-midi de mars, Folla n'avait pas été à l'école ; ses vêtements usés lui attiraient trop de quolibets et de méchancetés de ses compagnes ; sa maîtresse ne l'aimait pas, et nul ne prenait intérêt à ses progrès. D'ailleurs elle n'avait pas le cœur au travail, non plus qu'au jeu.</p>
         <p>Elle alla sur la route où passent les tramways, les omnibus et même les équipages ; devant elle, elle avait ce blanc chemin de la Corniche serpentant au bord du golfe bleu, derrière elle la mer d'azur semée de voiles claires.</p>
         <p>Elle s'accouda au parapet de pierre, sa petite tête amaigrie et triste appuyée sur sa main, et elle songea.</p>
@@ -811,9 +785,7 @@
         <p>Certes, toute autre enfant de son âge eût pu franchir cette distance en s'imposant une fatigue ; mais c'était plus pénible encore pour la pauvre fillette, qui était à jeun et fort affaiblie par les privations qu'elle endurait depuis longtemps.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIV -- En route</label>
-        </p>
+        <head>XIV -- En route</head>
         <p>Elle suivit le bord de la mer jusqu'au rond-point des Catalans, tourna à gauche, puis droit devant elle, boulevard de la Corderie.</p>
         <p>Au carrefour Notre-Dame, elle demanda la route qu'il fallait prendre ; elle était si rarement sortie d'Endoume ! On lui indiqua la rue Grignan.</p>
         <p>Dieu ! qu'elle était lasse ! Ses petits jambes fléchissaient sous elle, la tête lui tournait, et elle fermait les yeux en passant devant les boutiques des boulangers, pour ne pas apercevoir les petits pains dorés alignés dans la montre.</p>
@@ -859,9 +831,7 @@
         <p>Folla reçut le coup sans pousser un cri ; déjà affaiblie par son long jeûne et par sa course affolée, elle ne put supporter cette dernière émotion et tomba, privée de sentiment. La folle demeura auprès d'elle, murmurant d'incohérentes paroles et tâtonnant dans l'ombre pour retrouver son châle.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XV -- Scène dramatique</label>
-        </p>
+        <head>XV -- Scène dramatique</head>
         <p>Le galop d'un cheval se fit entendre à cet instant.</p>
         <p>« C'est là, ce doit être là », dit une voix.</p>
         <p>La voiture s'arrêta devant la maison des Marlioux ; trois personnages en descendirent.</p>
@@ -932,9 +902,7 @@
         <p>Tout le long du trajet elle avait sangloté, et elle continua toute la nuit, au grand désespoir de Gervaise et à la grande indignation de M. Milane. Mme Milane, plus indulgente, l'excusait. Tous les deux passèrent de longues heures à discuter la question concernant l'avenir de l'enfant des Marlioux.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVI -- Épilogue</label>
-        </p>
+        <head>XVI -- Épilogue</head>
         <p>Les Milane n'ont point quitté Marseille et continuent à habiter l'hôtel Noailles. On ne voit plus avec eux la jolie fillette blonde et rose avec laquelle ils s'y étaient installés ; en revanche, une autre petite fille non moins jolie, mais brune et vive, les suit partout.</p>
         <p>Folla est redevenue la Folla d'autrefois, pétulante, espiègle, rieuse, mais toujours gentille, avec un brin de gravité en plus ; car la souffrance mûrit, et Folla a souffert.</p>
         <p>Elle a repris ses costumes élégants, sa douce vie et sa chère musique. Elle avait supplié ses grands-parents de garder avec eux sa sœur de lait, avec Gervaise.</p>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02802" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">60935</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -35,7 +35,7 @@
           ,
           <idno/>
           ,
-          
+
           .
         </bibl></sourceDesc>
     </fileDesc>
@@ -78,9 +78,7 @@
     </front>
     <body>
       <div type="chapter">
-        <p>
-          <label>I -- Un mardi aux Français</label>
-        </p>
+        <head>I -- Un mardi aux Français</head>
         <p>
           ...On claqua des mains : le rideau tombait, prenant des temps, comme si, lui aussi, il eût été sociétaire. Et l'orchestre se rua à la queue leu leu des couloirs. Seuls, des vieux à calottes demeuraient, des étrangers, en costumes de voyage, qui, debout, le nez en l'air, lorgnaient les allégories peintes du plafond. Les beaux, les belles au théâtre dormant, se secouaient, cherchaient leur monde, puis, après un petit signe aux intimes, une œillade à l'unique loge vide aux
           <hi>premières,</hi>
@@ -286,9 +284,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II -- La soupente de l'hôtel de Varèse</label>
-        </p>
+        <head>II -- La soupente de l'hôtel de Varèse</head>
         <p>-- C'est Casimir ! fit Honorine, de sa voix rude et traînée de Lorraine, en introduisant un petit homme chafouin en lunettes.</p>
         <p>-- Madame la maréchale, j'ai bien l'honneur...</p>
         <p>-- Bonjour, dit la vieille femme, sans quitter sa bergère près de la fenêtre. J'ai fini... Suis à vous... Honorine !</p>
@@ -450,9 +446,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III -- Five o'clock</label>
-        </p>
+        <head>III -- Five o'clock</head>
         <p>Comme chaque soir, à partir de cinq heures, la petite duchesse de Varèse recevait.</p>
         <p>Sur le perron deux laquais, cariatides, se tenaient raides et gelés. Au vestibule, un huissier attendait -- assis à une table à écrire --, puis, gravement, prenait la tête à travers l'enfilade des salons. Il y en avait cinq, dans le goût du dernier siècle, hauts ainsi que des cathédrales, solennels et guindés, les meubles en place, prêts à défiler la parade. À chaque porte, d'autres grands laquais, debout, en jalonneurs. Puis, au seuil d'un boudoir vieil or, l'huissier, ouvrant un large bec, laissait tomber un nom qui ronflait.</p>
         <p>Pas solennel ni guindé, le boudoir : au contraire, avec sa douce odeur de violette, hospitalier et souriant, à l'égal de cette jolie femme, aux grands yeux un peu vagues de myope, qui, sans artifice de demi-jour, y trônait dans sa marquise. C'était partout un amusant drapé d'étoffes, des fauteuils ployants, et qui ployaient, des tables volantes, et qui volaient, toute une gamme chromatique de soies et de lumière. Ci et là un livre, une vieille reliure aux armes tirait l'œil, une bonbonnière de Saxe, des jardinières du Japon, où des palmiers montaient en parasols.</p>
@@ -644,9 +638,7 @@
         <p>La baronne lui mit la pointe de son regard dans les yeux, puis, tournant les talons, très calme, elle répéta : « Prends garde ! » de son même joli ton câlin d'oiseau rare et de femme à la mode.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV -- Une fleur dans les ruines</label>
-        </p>
+        <head>IV -- Une fleur dans les ruines</head>
         <p>C'est tout là-bas, au diable vauvert, boulevard Beauséjour, à Passy, une petite maison blanche et rose, si rose, si blanche, qu'on dirait sous son paletot de lierre, de la chair, de la chair nue, qui grelotte. Soir et matin, matin et soir, le vent y joue des castagnettes. Et qu'est-ce qu'elles chantent, ces castagnettes ? Elles chantent : « C'est ici que perche un grand, un très grand collectionneur !... »</p>
         <p>Grand, pour cela oui, M. Constantin Baccaris l'était, et collectionneur encore par surcroît : tout en jambes, une tête d'échassier assortie, des yeux comme des raisins de Corinthe et de grosses moustaches blanches tombantes, il avait toujours l'air d'être grimpé sur quelque chose, à ce point que ceux qui avaient affaire à lui, fatigués de lever le cou à ces hauteurs, se retenaient à quatre pour ne lui pas dire :</p>
         <p>-- Mais descendez donc de là, s'il vous plaît !</p>
@@ -854,9 +846,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V -- Journal du premier cocher</label>
-        </p>
+        <head>V -- Journal du premier cocher</head>
         <p>
           <hi>...Ce 22 de janvier 188.</hi>
           -- Il y avait pas loin de trente-cinq bonnes minutes d'horloge que j'étais en place sur mon siège, le fouet à la cuisse, les épaules effacées, l'œil à quinze pas entre les oreilles de mes chevaux -- une paire de grands carrossiers bai clair, mesurant 1 m 70 au garrot, des jeunes bêtes, dont c'était la première attelée --, et je commençais à faire mes réflexions. L'inexactitude, je ne l'ignore pas, après trente-deux ans passés dessus les premiers sièges des premières familles de la capitale, l'inexactitude, je ne l'ignore pas, est un vice féminin, ce qu'on appelle. Mais trente-cinq bonnes minutes d'horloge, ce n'est plus de l'inexactitude, mais un véritable oubli de toutes les convenances.
@@ -1181,9 +1171,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI -- Amours séniles</label>
-        </p>
+        <head>VI -- Amours séniles</head>
         <p>
           -- Non, non, n'en parlons plus, mon cher monsieur, je ne mettrai pas le nez dans votre mariage ! dit la comtesse d'Andilly à Varon-Bey, assis en face d'elle au coin du feu, dans ce qu'elle appelait son
           <hi>bavardoir,</hi>
@@ -1354,9 +1342,7 @@
         <p>Et la baronne souligna ce mot -- « l'honneur » -- d'un petit rire de chatte à dents nues.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII -- En famille</label>
-        </p>
+        <head>VII -- En famille</head>
         <p>-- François, vous savez combien cela me coûte... Il le faut pourtant !</p>
         <p>
           Elle répéta : « Il le faut ! » et, faisant un pas vers le duc, qui, renversé dans sa chauffeuse, distraitement, du bout des yeux, grignotait les dernières « tendresses » de
@@ -1504,9 +1490,7 @@
         <p>-- Rue Duphot !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII -- La « première » du Cercle de l'Épée</label>
-        </p>
+        <head>VIII -- La « première » du Cercle de l'Épée</head>
         <p>Il était huit heures.</p>
         <p>Dans la rue de Rivoli, que doraient sur tranche les lignes enjambées des réverbères, une double file de voitures allait le pas, comme aux beaux soirs de l'Élysée, pivotant autour d'un cordon de gardiens de la paix encapuchonnés sous la bise. Coupées par escouades, elles passaient à mesure sous la voûte illuminée d'une maison, pour ressortir au petit trot par la seconde porte. Et c'était dans la cour -- vrai jardin d'hiver, planté de palmiers géants et de camélias en fleurs, où des globes électriques mettaient d'argentines clartés de pleine lune -- un ininterrompu vient-et-va de foule bavarde en toilette.</p>
         <p>Sous le vestibule, garni de tapisseries de Bruges à fond d'or, la livrée faisait la haie, poudrée, culottée, magnifique ; à droite et à gauche, quatre vestiaires, où de jolies soubrettes papillonnaient. Puis, à travers la galerie, qui s'allongeait comme un boulevard entre ses murs carrelés de tableaux, des commissaires, choisis parmi les plus fringants, conduisaient les femmes par le bras jusqu'à la salle de spectacle, une merveille, copiée sur l'Opéra de Versailles, avec deux rangs de loges et un amphithéâtre surélevé, des fleurs partout, une féerie de lustres et de girandoles.</p>
@@ -1810,9 +1794,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX -- Un déjeuner à Éleusis</label>
-        </p>
+        <head>IX -- Un déjeuner à Éleusis</head>
         <p>Parbleu ! oui, il était content le « beau duc ». Cet espérandieu entêté, de cœur verni, d'esprit lisse -- sans prise à l'inquiétude seulement, et qui, de même qu'en campagne, au bruit des fusillades d'avant-postes, ne dormait jamais mieux, disait-il, qu'au bercement des soucis domestiques --, quelques dettes payées, d'autres à peine reculées, avait repris ses belles habitudes de dépense. À peine s'il se souvenait de cette heure mauvaise : il avait la mémoire clémente, qui passait les jadis au crible et n'en gardait que les joies. De cette brouillerie de femme et de maîtresse, de ce refus tout sec de sa mère, de la marquise et de ses flux de bile haineux, de ce passager malaise d'argent, plus trace. Le billet signé, l'or en poche, de quelle main large ouverte il l'avait semé aux quatre vents de son caprice ! À chacun sa part : car, ordonné dans son désordre, il n'oubliait personne -- pas même lui.</p>
         <p>
           Les petites bourses de Chantal, de François, avaient eu de quoi crever de ses largesses. Il n'était jusqu'à ses gens, valets et ordonnances, qui n'eussent récolté des miettes de l'aubaine. Bien mieux, après une de ces visites par surprise, comme il aimait à en faire aux quartiers de ses dragons, goûtant la soupe, débouchant les mousquetons, présent à la
@@ -2005,9 +1987,7 @@
         <p>...Un bonheur que M. Baccaris soit remonté : car des *si* comme cela, il en aurait défilé jusqu'à demain. -- Quand une fois c'est lancé, un dragon... !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X -- Ministère de la charité publique (département des belles relations extérieures)</label>
-        </p>
+        <head>X -- Ministère de la charité publique (département des belles relations extérieures)</head>
         <p>On raconte que Momus se récria de l'homme que Vulcain avait fait :</p>
         <p>-- Que ne lui mettiez-vous une petite fenêtre au cœur, afin que par là l'on pût voir ses pensées !</p>
         <p>
@@ -2202,9 +2182,7 @@
         <p>-- Allons ! fit-elle, saute, Varèse !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XI -- Matin en fleurs, midi en pleurs</label>
-        </p>
+        <head>XI -- Matin en fleurs, midi en pleurs</head>
         <p>Ce samedi-là, 31 mai, dès la fine pointe du jour, le ciel avait mis sa robe des dimanches, une belle robe de soie bleu-marine, relevée de volants couleur de rose, mais si transparents, si légers, à peine une poussière de pastel. À travers les acacias en fleurs, le soleil, au saut du lit, s'amusait à tirer ses petites flèches d'or ; et il visait si juste, le soleil, que, comme jadis l'archer de Philippe, et du premier coup, autant dire, l'un des traits, filant entre deux lames de persienne, vint frapper Chantal à l'œil droit.</p>
         <p>Et Chantal s'éveilla doucement.</p>
         <p>Un charmant réduit, l'appartement de Chantal : deux pièces à l'entresol de l'hôtel, ayant gardé pimpante la grâce mièvre de leur rococo d'autrefois : et si basses de plafond, si basses, que, quand le duc y entre par hasard, il n'en sort pas à moins d'une bosse ou deux. La chambre est une vraie boîte à poudre avec ses boiseries blanches ajourées, ses glaces, ses panneaux peints, qui jouent dans la dentelle du bois. Ci et là un trumeau d'attributs rustiques, un paysage Watteau de nuances tendres, où des couples jolis se pavanent amoureusement. Pompadour le meuble, pompadour la tenture : et telle est la contagion de ce style que pompadour aussi sont les rêves qu'on y fait.</p>
@@ -2329,9 +2307,7 @@
         <p>Le lit était encore préparé pour la nuit. Dans le fumoir, sur une grande table d'ébène incrustée d'ivoire, il y avait des piles de paperasses, d'enveloppes non défaites : mais pas une lettre d'adieu, rien de cette mise en ordre, de cette solennité d'apprêts avant-coureurs des suprêmes partis. Alors il reviendrait... il n'était pas loin peut-être. Et elle savait bien où elle l'irait chercher.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII -- L'aïeule</label>
-        </p>
+        <head>XII -- L'aïeule</head>
         <p>Elle piétinait toujours dans la chambre, à l'aguet d'une trace, d'une brisée, qui la pût mettre dans la voie. Tout son père était là, au poli des glaces familières, en ces vêtements jetés aux dossiers des chaises, parmi ces débandades de menus ustensiles de toilette, flacons débouchés, polissoirs, brosses fines, qui çà et là traînaient, dans ce fouillis des vide-poches, ces éperons d'or, ces billets parfumés, les cartes, les gants, les souvenirs. Et à cet éparpillement de lui elle raccrochait à mesure ses espoirs de jeune et robuste santé. Pas une place du fumoir qui ne le lui montrât vivant de sa vie journalière, et les panoplies des murs, cet éblouissant ostensoir d'épées, et les boîtes à cigares ouvertes, ces Revues militaires sous bandes, ces atlas, l'Annuaire, des théories. C'était comme un livre où elle aurait lu ses années, depuis ce petit canon de cuivre encore attelé de ses chevaux de carton, joujou de jadis, et ce portrait d'enfant blond au pastel, jusqu'à ces trophées d'Afrique écartelés en soleil autour d'une toile de Bastien-Lepage, un chef-d'œuvre, où le général était debout, le poing à la hanche, botté, le képi sur l'oreille à la crâne : en pendant, la duchesse, peinte par Henner, lui souriait de son calme sourire de statue.</p>
         <p>Et, fermant les yeux, Chantal retournait en arrière, marchait à reculons sa jeunesse : elle se revoyait sur ses genoux, galopant, tandis qu'il lui chantait une fanfare.</p>
         <p>-- Taratati, taratata, ta, ta ! Sa mère était là, toujours sereine. Puis des vides : les guerres, où sa mère pleurait son père parti loin dans les batailles. Encore des vides, des vides : puisqu'il n'y avait plus de batailles, où était-il donc, lui ?</p>
@@ -2562,9 +2538,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIII -- Un scandale parisien</label>
-        </p>
+        <head>XIII -- Un scandale parisien</head>
         <p>C'était le 30 mai : le duc, qui était d'un repas de corps chez Voisin, se fit conduire avant rue Barbet-de-Jouy.</p>
         <p>Un peu plus que préoccupé, ce soir là, le « beau duc », et, comme il l'avait pour habitude depuis qu'il perdait ses aplombs, il s'en allait chez sa baronne Égérie chercher conseil et appui contre ses créanciers, qui, tous, fondaient sur lui à la fois : Varon-Bey d'abord (son ami Varon-Bey !), qui charitablement l'avisait que son premier billet de dix mille louis venait le lendemain à échéance. Ainsi des autres, fournisseurs, usuriers, escompteurs, qui annonçaient d'un mot sec leurs visites. En dire le nombre il n'aurait pu, les chiffres et lui n'ayant jamais été camarades.</p>
         <p>
@@ -2678,9 +2652,7 @@
         <p>Et elle le câlinait de petites tapes sur les joues, de baisers, de phrases attendries, délicieusement chatouillée au fond d'elle par cette exquise, cette inespérée vengeance. Demain tout Paris saurait -- car en ce joli métier qu'elle faisait, point de secret professionnel --, tout Paris saurait que le général Jarry, duc de Varèse, sous le coup d'une double poursuite, avait levé le pied comme un caissier.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIV -- La fin d'un duc</label>
-        </p>
+        <head>XIV -- La fin d'un duc</head>
         <p>Le fiacre s'arrêta rue d'Amsterdam. Il n'y avait de train qu'après neuf heures. Pour tuer le temps, ils se firent voiturer aux boulevards, lui, se rencognant, crainte d'être reconnu, et secoué de tels frissons qu'il ne pouvait parler, elle, remerciant Dieu tout bas de sa victoire : c'était un Dieu pratique que le sien, un Dieu à l'usage des baronnes qui ont des injures à venger.</p>
         <p>Revenu à la gare, il la supplia de descendre la première, afin de s'assurer qu'il n'y avait pas d'agents. Alors ce furent de déchirants adieux, à croire qu'il la quittait pour toujours.</p>
         <p>-- Je vous tiendrai au courant, lui dit-elle, au seuil de la salle d'attente. Château de Belœil, par Trouville-sur-Mer... C'est bien comme cela ?</p>
@@ -2744,9 +2716,7 @@
         <p>-- Papa !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XV -- Chantal</label>
-        </p>
+        <head>XV -- Chantal</head>
         <p>-- Oh ! ne pleure pas, je t'en prie !... Je suis si malheureux !</p>
         <p>Il bégayait, agenouillé près d'elle, l'embrassant.</p>
         <p>-- Chérie ! Non, je ne m'en irai pas... je te promets !... Tais-toi !... oh ! tais-toi !... Oui, je t'aime bien, je vous aime bien !... J'étais fou... C'est vrai ! Vous étiez là... je ne savais plus... je...</p>
@@ -2868,9 +2838,7 @@
         <p>-- Adieu ! dit-elle à l'étoile.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVI -- Vierge à vendre</label>
-        </p>
+        <head>XVI -- Vierge à vendre</head>
         <p>Chantal se hâte vers le fiancé de son choix. -- Sur le trottoir sonore des rues mortes son pas fait un petit bruit haché, cadencé. L'âme lisse désormais et cuirassée, elle va, les yeux secs sous son voile, les bras en croix sur la poitrine. Elle va, ayant une à une semé les tristesses rappeleuses, où comme un glas tintaient les joies quittées ; elle va, et secoue ses épaules, où pèsent des regrets encore ; elle va ; et chaque enjambée, qui la rapproche, fait son regard plus clair, plus claire sa pensée. -- Chantal se hâte vers le fiancé de son choix.</p>
         <p>Chantal se hâte vers le fiancé de son choix. -- La nuit est sereine comme elle : entre ses marges blanches, piquées de petites flammes, la Seine écailleuse chatoie, et la lune, là-bas, sur l'*i *blafard de l'obélisque, s'arrondit pareille à un point d'or. De délicates écharpes de brumes se balancent doucement à fleur d'eau. Il y a du rose, du lilas aux façades de pierre, aux quais de granit du lilas, du rose. Et, le cœur haut, vidé ainsi qu'une tirelire, la mémoire dégagée, libre, sans une idée arrière --, Chantal se hâte vers le fiancé de son choix.</p>
         <p>
@@ -2917,9 +2885,7 @@
         <p>Alors, victime souriante et parée, elle attendit, les yeux levés en haut pour voir si l'ange ne venait pas...</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVII -- La maréchale</label>
-        </p>
+        <head>XVII -- La maréchale</head>
         <p>
           -- Ah ! ma pauvre Clémentine, fit la comtesse d'Andilly en se levant, le monde n'est pas gai. Mais va ! Chacun a ses misères. Croirais-tu que Sabine s'est amourachée de ce petit de Breux, qui doit débuter au théâtre, et qui n'a pas un patard ? Et ça me fait des sommations... oh ! respectueuses, tout ce qu'il y a de plus respectueuses. Où le respect va-t-il se nicher ? Que veux-tu ? Elle était si mal élevée, cette Sabine !... Et puis trop bon garçon... tiens ! dans le genre du duc. Très dangereux, les bons garçons ! Comme les bons mots, ce sont de bonnes gens qui vous assassinent pour rire... Il ne faut pas se laisser assassiner... Oui ! Oui ! Je
           <hi>*sais, tu n'as pas voulu te mêler des affaires. Je</hi>
@@ -3045,9 +3011,7 @@
         <p>-- Allez-vous-en !... Allez-vous-en, parricide !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVIII -- Journal d'un premier cocher (suite)</label>
-        </p>
+        <head>XVIII -- Journal d'un premier cocher (suite)</head>
         <p>
           <hi>Ce premier de juin, mid</hi>
           <hi>i. --</hi>
@@ -3306,9 +3270,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIX -- Où l'on va au pas</label>
-        </p>
+        <head>XIX -- Où l'on va au pas</head>
         <p>Sous le porche haut drapé en chapelle, parmi les grêles colonnades des cierges, dont les flammes ruisselaient en larmes d'or aux tentures, le catafalque, énorme, se dressait, tout caparaçonné de velours, dans un écroulement de bouquets et de couronnes. Au fond, un prêtre assis priait entre deux sœurs de Bon Secours, de Troyes, agenouillées.</p>
         <p>Dehors les voitures roulaient continuellement, fendant le gros de foule amassé.</p>
         <p>Des hommes arrivaient, tête nue, des femmes, long voilées, jupes traînantes, qui se signaient, inclinées, et avec l'aspersoir d'argent cinglaient la bière d'une pluie fine, pendant que des valets de pied, les mains gourdes dans le gant, empilaient sur l'estrade des bottes de roses, des croix de pensées et de reines-marguerites. Les draperies soulevées, on se hâtait vers l'hôtel, à travers la cour d'honneur sableuse, largement étendue comme une grève. Dans le vestibule, où la livrée, debout, en grand deuil, mettait une bordure de crêpe dessus la blancheur éclatante des murailles, on s'inscrivait au galop sur des tables, pour filer l'un derrière l'autre, gourmant son air, et poissant son pas vers la pénombre recueillie des salons.</p>
@@ -3446,9 +3408,7 @@
         <p>Alors le duc, s'éveillant, prit l'aspersoir des mains du prêtre, et, furieusement, les prunelles agrandies par de suprêmes colères, de toute la détente de son bras il en flagella le cercueil.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XX -- Où l'on va au trot</label>
-        </p>
+        <head>XX -- Où l'on va au trot</head>
         <p>C'est tout là-bas, au diable vauvert, boulevard Beauséjour, à Passy, par une claire après-midi de fin juin, ravigotée d'une petite brise qui batifole dans les platanes. Le ciel a mis sa robe pompadour, vous savez, sa robe à volants roses comme soufflés sur un dessous bleu-marine.</p>
         <p>-- Celle qu'il avait le mois passé ?</p>
         <p>-- Non pas ! Le ciel est un coquet, qui ne met jamais deux fois la même robe.</p>

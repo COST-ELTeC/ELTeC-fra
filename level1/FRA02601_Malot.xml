@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02601" xml:lang="fr">
   <teiHeader>
@@ -23,7 +23,7 @@
         --></publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           Bibliothèque électronique du Québec,
-        
+
           <ref target="http://beq.ebooksgratuits.com"/>
           .
         </bibl><bibl type="printSource">
@@ -120,9 +120,7 @@
     </front>
     <body>
       <div type="chapter">
-        <p>
-          <label>I</label>
-        </p>
+        <head>I</head>
         <p>De ma position présente, il ne faut pas conclure que j'ai eu la Fortune pour marraine. Mes ancêtres, si le mot n'est pas bien ambitieux, étaient des pêcheurs ; mon père était le dernier de onze enfants, et mon grand-père avait eu bien du mal à élever sa famille, car dans ce métier-là plus encore que dans les autres, le gain n'est pas en proportion du travail ; compter sur de la fatigue, du danger, c'est le certain ; sur un peu d'argent, le hasard.</p>
         <p>À dix-huit ans, mon père fut pris par l'inscription maritime ; c'est une espèce de conscription, au moyen de laquelle l'État peut se faire servir par tous les marins pendant trente-deux ans... de dix-huit à cinquante. Il partit ne sachant ni lire ni écrire. Il revint premier maître, ce qui est le plus beau grade auquel parviennent ceux qui n'ont point passé par les écoles du gouvernement.</p>
         <p>Le Port-Dieu, notre pays, étant voisin des îles anglaises, l'État y fait stationner un cotre de guerre, qui a pour mission d'empêcher les gens de Jersey de venir nous prendre notre poisson, en même temps qu'il force nos marins à observer les règlements sur la pêche : ce fut sur ce cotre que mon père fut envoyé pour continuer son service. C'était une faveur, car, si grandement habitué que l'on soit à faire de son navire la patrie, on est toujours heureux de revenir au pays natal.</p>
@@ -148,9 +146,7 @@
         <p>Elle n'admit jamais qu'ils étaient perdus. Elle mourut elle-même sans les croire morts, et elle avait confié peu de jours auparavant au curé trois louis pour qu'il les remît à Jérôme quand il reviendrait : malgré le besoin et la misère, elle les avait toujours gardés pour son petit dernier.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II</label>
-        </p>
+        <head>II</head>
         <p>L'embarquement de mon père devait durer trois années, il en dura six : l'état-major fut successivement remplacé, mais l'équipage tout entier resta dans le Pacifique jusqu'au jour où la frégate menaça de couler bas.</p>
         <p>J'avais dix ans lorsqu'il revint au pays.</p>
         <p>C'était un dimanche après la grand-messe ; j'étais sur la jetée pour voir rentrer la patache de la douane. À côté du timonier on apercevait un marin de l'État ; on le remarquait d'autant mieux qu'il était en tenue et que les douaniers étaient en vareuse de service. Comme tous les jours au moment de la marée, la jetée avait son public ordinaire de vieux marins, qui, par n'importe quel temps, soleil ou tempête, arrivaient là deux heures avant le plein de la mer pour ne s'en aller que deux heures après.</p>
@@ -170,9 +166,7 @@
         <p>Par ce moyen, elle espérait nous garder à terre pendant la saison d'hiver, alors que les navires qui font la pêche rentrent au port pour désarmer. Mais que peuvent les combinaisons et les prévisions humaines contre la destinée ?</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III</label>
-        </p>
+        <head>III</head>
         <p>Mon père était revenu en août ; au mois de septembre, le temps, qui avait été beau pendant plus de trois mois, se mit au mauvais ; il y eut une série d'ouragans comme il y avait eu une série de calme. On ne parlait que de naufrages sur nos côtes ; un vapeur s'était perdu corps et biens dans le raz Blanchard ; plusieurs barques de Granville avaient disparu, et l'on disait que la mer aux alentours de Jersey était couverte de débris ; à terre, les chemins étaient encombrés de branches rompues ; les pommes, encore vertes, couvraient le sol, aussi drues que si elles avaient été gaulées ; bien des pommiers étaient les racines en l'air ou tordus par le milieu du tronc, et les feuilles pendaient aux branches, roussies comme si elles avaient été exposées à un feu de paille.</p>
         <p>Tout le monde vivait dans la crainte, car c'était le moment du retour des Terreneuviers.</p>
         <p>Cela dura près de trois semaines, puis un soir il se fit une accalmie complète à la fois sur la terre et sur la mer : je croyais la tempête passée, mais au souper mon père se moqua de moi quand je lui demandai si nous n'irions pas le lendemain relever les filets qui étaient tendus depuis le commencement du mauvais temps.</p>
@@ -309,9 +303,7 @@
         <p>Ce fut seulement deux jours après qu'on retrouva le corps de mon père horriblement mutilé ; on ne retrouva jamais celui de mon cousin.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV</label>
-        </p>
+        <head>IV</head>
         <p>Pendant six années, la place de mon père avait été vide au bout de la table, mais ce n'était pas le vide effrayant et morne qui suivit cette catastrophe.</p>
         <p>Sa mort ne nous réduisit pas absolument à la misère, car nous avions notre maison et un peu de terre ; cependant ma mère dut travailler pour vivre.</p>
         <p>Elle avait été autrefois la meilleure repasseuse du pays, et comme le bonnet du Port-Dieu est une des belles coiffures de la côte, elle retrouva des pratiques.</p>
@@ -581,9 +573,7 @@
         <p>-- Si, mon enfant, c'est pour ton bien ; M. de Bihorel a trop raison, il faut accepter.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V</label>
-        </p>
+        <head>V</head>
         <p>Ma réception chez M. de Bihorel justifia pour moi sa réputation d'originalité, dont j'avais tant entendu parler.</p>
         <p>En arrivant, je le trouvai devant la porte de la maison, car, m'ayant vu de loin, il était venu au-devant de moi.</p>
         <p>-- Arrive ici, dit-il sans me laisser le temps de me reconnaître. As-tu jamais écrit une lettre ? Non. Eh bien ! tu vas en écrire une à ta mère pour lui dire que tu es arrivé et que Samedi ira demain chercher ton linge. Par cette lettre je verrai ce que tu sais. Entre, et mets-toi là.</p>
@@ -715,9 +705,7 @@
         <p>-- Tu es un bon garçon, dit-il ; tu iras quelquefois à la Pierre-Gante, et tu porteras une poignée de sel à la vache noire, elle t'aimait bien aussi.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI</label>
-        </p>
+        <head>VI</head>
         <p>J'avais un oncle chez qui le sang des Kalbris n'avait pas parlé, et qui, à la mer, avait préféré la terre ferme ; il était huissier à Dol, et passait pour très riche.</p>
         <p>Ma mère, bien embarrassée de moi, lorsque je rentrai à la maison, lui écrivit pour lui demander conseil. Un mois après, nous le vîmes arriver au Port-Dieu.</p>
         <p>-- Je n'ai pas répondu à votre lettre, dit-il, parce que, comme j'avais l'intention de venir, ce n'était pas la peine de donner l'argent à la poste, il est assez dur à gagner ; je ne suis pas venu plus tôt parce que j'attendais une occasion ; j'ai trouvé un mareyeur qui m'a fait faire quinze lieues pour douze sous. Autant de pris sur l'ennemi.</p>
@@ -884,9 +872,7 @@
         <p>-- Vraiment ! Eh bien, tu ne t'en iras pas, attendu que tu m'appartiens pour cinq ans et que je veux te garder. Je veux aller chez maman, maman, maman : grand niais !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII</label>
-        </p>
+        <head>VII</head>
         <p>J'étais depuis longtemps tourmenté d'une idée qui me revenait toutes les fois que j'avais faim ou que mon oncle m'avait trop rudement secoué, c'est-à-dire tous les jours ; c'était de m'échapper de Dol et de m'en aller au Havre m'embarquer. Pendant les heures d'absence de mon oncle, je m'étais bien souvent amusé à me tracer mon itinéraire sur une grande carte de la Normandie qui était accrochée dans l'escalier ; à défaut de compas, je m'en étais fabriqué un en bois, et j'avais mesuré les distances comme M. de Bihorel m'avait appris à le faire. De Dol, en passant par Pontorson, j'irais coucher à Avranches ; d'Avranches j'irais à Villedieu, Villers-Bocage, Caen, Dozulé, Pont-l'Évêque, Honfleur. C'était huit jours de marche au plus ; le pain coûtait alors trois sous la livre ; si je pouvais amasser vingt-quatre sous, vingt sous seulement, j'étais sûr de ne pas mourir de faim en chemin. Mais comment réunir ce capital de vingt sous ? Je m'étais toujours arrêté devant cette impossibilité.</p>
         <p>Le Paillot me la fit franchir. Enfermé dans ma chambre, après m'être lavé la tête sous la pompe et avoir arrêté le sang tant bien que mal, je ne vis plus les difficultés de mon projet. Les mûres commençaient à noircir dans les fossés, le long des bois ; il y avait des œufs dans les nids des oiseaux ; on trouve quelquefois des sous perdus dans la poussière, et puis pourquoi n'aurais-je pas la chance de rencontrer quelque roulier qui me laisserait monter sur sa voiture et me donnerait un morceau de pain pour me payer d'avoir conduit ses chevaux pendant qu'il dormirait ? Cela n'était pas impossible, on l'avait vu. Au Havre, je ne doutais pas que tous les capitaines ne me prissent comme mousse ; une fois en mer, bon voyage, j'étais marin ; quand je reviendrais, j'irais au Port-Dieu, ma mère m'embrasserait et je lui donnerais ma paye. Si nous faisions naufrage, eh bien ! tant mieux : une île déserte, des sauvages, un perroquet ! Ô Robinson !</p>
         <p>Je ne sentais plus ma blessure à la tête et j'oubliais que je n'avais pas dîné.</p>
@@ -977,9 +963,7 @@
         <p>Ah ! comment à cet instant n'ai-je pas sauté près d'elle ?</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII</label>
-        </p>
+        <head>VIII</head>
         <p>Je m'endormis en pleurant ; mon sommeil fut moins calme sous le toit maternel qu'il ne l'avait été la nuit précédente dans les prairies de Dol.</p>
         <p>Avant l'aube et dès que j'entendis la mer battre son plein sous la falaise, je sortis du rouf avec précaution.</p>
         <p>La veille, lorsque j'étais arrivé à quatre heures, la marée commençait à descendre, la pleine mer me disait donc que le jour allait bientôt paraître, et je ne voulais pas être vu par quelque voisin matinal.</p>
@@ -1176,9 +1160,7 @@
         <p>Voici comment je raisonnai : Lucien Hardel consigné chez le maire, le gendarme allait prévenir ses camarades, et tous ensemble aussitôt se mettraient à ma recherche. Si je ne voulais pas être pris, il fallait donc partir immédiatement et gagner un peu d'avance. L'idée ne me vint même pas que chez le maire tout aurait pu s'arranger, que le peintre remis en liberté, nous aurions pu continuer notre voyage jusqu'au Havre, comme il avait été convenu. J'étais dans un état où les résolutions extrêmes se présentent seules à l'esprit, parce que seules elles sont en rapport avec notre exaltation. Pour ne pas être repris par les gendarmes et reconduit à Dol, j'aurais, je crois, passé à travers le feu. Sans doute, je demandais pardon, dans mon cœur, à Lucien Hardel de l'avoir abandonné ; mais n'étaient-ce pas ses charges saugrenues qui avaient rendu notre séparation nécessaire ?</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX</label>
-        </p>
+        <head>IX</head>
         <p>Deux heures après, j'atteignais les premières maisons de Sourdeval ; mais de peur d'être remarqué, je ne traversai pas la ville, je la tournai vers les derrières, de manière à rejoindre la route de Vire.</p>
         <p>La marche avait calmé mon exaltation, mais je n'étais pas rassuré sur les difficultés de mon voyage jusqu'à Honfleur : je n'avais plus ma casserole, mon petit paquet était resté à Mortain, et au milieu des campagnes j'allais me retrouver dans la même position que le premier jour de ma fuite : la faim ne se faisait pas encore sentir, parce que j'avais bien déjeuné, mais elle ne tarderait pas !</p>
         <p>Ajoutez que je voyais des gendarmes partout et vous comprendrez que je ne cheminais pas très gaiement : d'abord je regrettais mon compagnon ; puis tout chapeau, même tout bonnet de coton qui se montrait au loin était aussitôt changé en un tricorne par mon imagination inquiète. Je n'avais pas fait trois lieues que, déjà plus de dix fois, j'avais quitté la grande route pour me blottir dans les blés ou sous les ronces du fossé. En sautant un de ces fossés, il me sembla entendre un bruit clair dans ma poche, comme si des sous se choquaient : je me fouillai ; c'étaient bien des sous, il y en avait six, et, ce qui valait mieux encore, deux pièces de quarante sous s'y trouvaient jointes : la veille j'avais acheté du tabac pour mon peintre, et c'était la monnaie qu'on m'avait rendue sur cinq francs. Devais-je la garder ? Mais comment la rendre ? Je me promis de n'y pas manquer si jamais cela me devenait possible.</p>
@@ -1265,9 +1247,7 @@
         <p>Dans ma position je n'avais pas le choix d'un état. Je ne pouvais me montrer difficile. J'acceptai comme un bienfait l'étrange ressource qui m'était offerte.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X</label>
-        </p>
+        <head>X</head>
         <p>Me voici donc saltimbanque, ou, pour parler avec moins de vanité, domestique des chevaux de la caravane de M. le comte de Lapolade.</p>
         <p>
           Mon patron n'était point, comme on aurait le droit de le supposer, un comte de fantaisie ; il avait des parchemins parfaitement authentiques qu'il exhibait volontiers dans les grandes occasions et qui lui donnaient le droit de porter ce titre. Après une vie troublée par tous les vices et toutes les passions, il en était descendu là. Pour mettre le comble à sa dégradation, il avait, dans une heure suprême de détresse, épousé la grande femme qui m'avait si mal accueilli. Célèbre dans toutes les foires de l'Europe sous le nom de la
@@ -1456,9 +1436,7 @@
         <p>-- Donne-moi une poignée de main, dit-elle, c'est parce que tu es bon enfant que j'ai confiance en toi.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XI</label>
-        </p>
+        <head>XI</head>
         <p>C'était un samedi, jour de marché, et les rues étaient pleines de paysans ; sur la grande-place que je traversais pour regagner mes voitures, Filasse et la Bouillie arrêtés devant Turquetin, qui, au son de la grosse caisse et du trombone, arrachait les dents avec tant de rapidité qu'on les voyait voler en l'air comme s'il eût joué avec des osselets.</p>
         <p>Tout jeune alors, Turquetin n'avait point encore la célébrité que trente années de batailles contre les mâchoires normandes, plus braves que solides, lui ont si justement acquise ; mais déjà sa sûreté de main, surtout sa bonne humeur narquoise et gouailleuse l'avaient rendu populaire dans tous les départements de l'Ouest ; la foule était compacte autour de sa voiture.</p>
         <p>Mauvais gymnasiarque, la Bouillie était un très remarquable escamoteur, et son grand plaisir était de pratiquer son art en jouant des tours plus ou moins gais aux paysans ; quand je le vis au milieu du public de Turquetin, je pensai bien qu'il était là pour s'amuser, et je restai pour savoir quelle malice il allait inventer : seulement, comme plus d'une fois, à ce jeu, il avait récolté des claques, je me tins prudemment à l'écart.</p>
@@ -2030,9 +2008,7 @@
         <p>Elle était vivante, Diélette était près d'elle, la main dans sa main ; toutes les deux avaient les yeux rouges. Je me jetai à bas du fossé. Trois heures après je montais sous la bâche de la diligence et, en deux jours, par Caen et Honfleur, j'arrivai au Havre. Il me restait sept francs dans ma bourse.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII</label>
-        </p>
+        <head>XII</head>
         <p>J'avais cru que je n'aurais qu'à me présenter à bord d'un navire pour être immédiatement engagé.</p>
         <p>À peine débarqué dans l'avant-port, je commençai ma promenade sur les quais pour faire mon choix ; dans le bassin du Roi je ne vis que quatre ou cinq vapeurs, ce n'était pas mon affaire ; dans le bassin de la Barre je trouvai de grands navires américains d'où l'on déchargeait des balles de coton qui s'entassaient en montagnes sur le quai ; ce n'était pas encore ce qu'il me fallait ; je voulais un navire français.</p>
         <p>En faisant le tour du bassin du Commerce je fus émerveillé ; il y avait là des navires de tous les pays du monde, des grands, des petits, une forêt de mâts enguirlandés de guidons, de flammes et de pavillons. Cela me parut plus beau que Paris.</p>
@@ -2261,9 +2237,7 @@
         <p>J'étais sauvé, mais si à bout de forces que je perdis connaissance. Ce fut mon ami Turc qui, en me léchant la figure, me fit revenir à moi. Ses yeux brillaient, il avait l'air de me dire : « Sois donc content, nous sommes tirés d'affaire. » Je m'assis, et, sur la grève, j'aperçus un douanier et des paysans qui accouraient.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIII</label>
-        </p>
+        <head>XIII</head>
         <p>
           C'est à l'est du cap Lévi, à quatre ou cinq lieues de Cherbourg, que l'
           <hi>Orénoque</hi>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01901" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">127326</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -28,7 +28,7 @@
           ,
           <idno/>
           ,
-          
+
           .
         </bibl><bibl type="printSource">
           6th ed.,
@@ -36,14 +36,14 @@
           ,
           <idno/>
           ,
-          
+
           .
         </bibl><bibl type="firstEdition">
           <date>1866</date>
           ,
           <idno/>
           ,
-          
+
           .
         </bibl></sourceDesc>
     </fileDesc>
@@ -76,9 +76,7 @@
     </front>
     <body>
       <div type="chapter">
-        <p>
-          <label>I</label>
-        </p>
+        <head>I</head>
         <p>Le 9 juillet 186.., un jeudi, Jean Bertaud, dit La Ripaille, et son fils, bien connus à Orcival pour vivre de braconnage et de maraude, se levèrent sur les trois heures du matin, avec le jour, pour aller à la pêche.</p>
         <p>Chargés de leurs agrès, ils descendirent ce chemin charmant, ombragé d'acacias, qu'on aperçoit de la station d'Évry, et qui conduit du bourg d'Orcival à la Seine.</p>
         <p>Ils se rendaient à leur bateau amarré d'ordinaire à une cinquantaine de mètres en amont du pont de fil de fer, le long d'une prairie joignant Valfeuillu, la belle propriété du comte de Trémorel.</p>
@@ -227,9 +225,7 @@
         <p>Alors seulement le valet de chambre ouvrit la porte de la maison.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II</label>
-        </p>
+        <head>II</head>
         <p>S'il n'y avait pas eu de crime, au moins s'était-il passé quelque chose de bien extraordinaire chez le comte de Trémorel; l'impassible juge de paix dut en être convaincu dès ses premiers pas dans le vestibule.</p>
         <p>La porte vitrée donnant sur le jardin était toute grande ouverte, et trois des carreaux étaient brisés en mille pièces.</p>
         <p>Le _chemin_ de toile cirée qui reliait toutes les portes avait été arraché, et sur les dalles de marbre blanc, çà et là, on apercevait de larges gouttes de sang. Au pied de l'escalier était une tache plus grande que les autres, et sur la dernière marche une éclaboussure hideuse à voir.</p>
@@ -344,9 +340,7 @@
         <p>Pour la première fois de sa vie, il venait sérieusement de maudire son ambition et de regretter d'être le plus important personnage d'Orcival.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III</label>
-        </p>
+        <head>III</head>
         <p>Le juge d'instruction près le tribunal de Corbeil était alors un remarquable magistrat, M. Antoine Domini, appelé depuis à d'éminentes fonctions.</p>
         <p>M. Domini est un homme d'une quarantaine d'années, fort bien de sa personne, doué d'une physionomie heureusement expressive, mais grave, trop grave.</p>
         <p>En lui semble s'être incarnée la solennité parfois un peu roide de la magistrature.</p>
@@ -485,9 +479,7 @@
         <p>--Je sais ce que c'est, dit le maire, je ne le sais que trop; on vient de retrouver le cadavre du comte de Trémorel.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV</label>
-        </p>
+        <head>IV</head>
         <p>Monsieur le maire d'Orcival se trompait.</p>
         <p>La porte du salon s'ouvrit brusquement et on aperçut, tenu d'un côté par un gendarme, de l'autre par un domestique, un homme, d'apparence grêle, qui se défendait furieusement et avec une énergie qu'on ne lui eût point soupçonnée.</p>
         <p>La lutte avait duré assez longtemps déjà, et ses vêtements étaient dans le plus effroyable désordre. Sa redingote neuve était déchirée, sa cravate flottait en lambeaux, le bouton de son col avait été arraché, et sa chemise ouverte laissait à nu sa poitrine. Il avait perdu sa coiffure, et ses longs cheveux noirs et plats retombaient pêle-mêle sur sa face contractée par une affreuse angoisse. Dans le vestibule et dans la cour, on entendait les cris furieux des gens du château et des curieux--ils étaient plus de cent--que la nouvelle d'un crime avait réunis devant la grille et qui brûlaient de savoir et surtout de voir.</p>
@@ -627,9 +619,7 @@
         <p>Et alors, autour de cette table, humide encore du vin versé par les assassins, le juge d'instruction, le père Plantat, le médecin et le maire vinrent s'asseoir et prendre à la hâte une collation improvisée.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V</label>
-        </p>
+        <head>V</head>
         <p>L'escalier avait été consigné, mais le vestibule était resté libre. On y entendait des allées et des venues, des piétinements, des chuchotements étouffés puis, dominant ce bourdonnement continu, les exclamations et les jurements des gendarmes essayant de contenir la foule.</p>
         <p>De temps à autre, une tête effarée se glissait le long de la porte de la salle à manger restée entrebâillée. C'était quelque curieux qui, plus hardi que les autres, voulait voir manger les «gens de la justice» et essayait de surprendre quelques paroles pour les rapporter et s'en faire gloire. Mais les «gens de justice»--pour parler comme à Orcival--se gardaient bien de rien dire de grave, portes ouvertes, en présence d'un domestique circulant autour de la table pour le service.</p>
         <p>Très émus de ce crime affreux, inquiets du mystère qui recouvrait encore cette affaire, ils renfermaient et dissimulaient leurs impressions. Chacun, à part soi, étudiait la probabilité de ses soupçons et gardait sa pensée intime.</p>
@@ -722,9 +712,7 @@
         <p>Le père Plantat ne crut pas devoir lui refuser, il avala un morceau de jujube et la sérénité reparut sur le front de l'agent de la Sûreté. Il lui faut, comme à tous les grands comédiens, un public sympathique, et vaguement il sentait qu'on allait travailler devant un amateur.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI</label>
-        </p>
+        <head>VI</head>
         <p>M. Lecoq s'engagea le premier dans l'escalier, et tout d'abord les taches de sang lui sautèrent aux yeux.</p>
         <p>--Oh! faisait-il, d'un air révolté, à chaque tache nouvelle, oh! oh! les malheureux.</p>
         <p>M. Courtois fut très touché de rencontrer cette sensibilité chez un agent de police. Il pensait que cette épithète de commisération s'appliquait aux victimes. Il se trompait, car M. Lecoq, tout en montant, continuait:</p>
@@ -874,9 +862,7 @@
         <p>--Rappelez-vous, monsieur, les allusions de La Ripaille.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII</label>
-        </p>
+        <head>VII</head>
         <p>Le juge d'instruction, le père Plantat et le docteur échangèrent un regard plein d'anxiété.</p>
         <p>Quel malheur frappait M. Courtois, cet homme si parfaitement estimable et si excellent en dépit de ses défauts? Était-ce donc décidément une journée maudite!</p>
         <p>--Si La Ripaille s'en est tenu aux allusions, dit M. Lecoq, j'ai entendu raconter, moi qui ne suis ici que depuis quelques heures, deux histoires très circonstanciées. Il paraît que cette demoiselle Laurence...</p>
@@ -1100,9 +1086,7 @@
         <p>Guespin et le vieux La Ripaille, les menottes aux mains, avaient été quelques minutes plus tôt dirigés sur la prison de Corbeil, sous la conduite des gendarmes d'Orcival.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII</label>
-        </p>
+        <head>VIII</head>
         <p>Dans la salle de billard du château de Valfeuillu, le docteur Gendron venait d'achever sa funèbre besogne.</p>
         <p>Il avait retiré son vaste habit noir à larges manches, à basques immenses, à boutonnière ornée du ruban rouge de la Légion d'honneur, véritable habit de savant, et il avait retroussé, bien au-dessus du coude, les manches de sa chemise de forte toile.</p>
         <p>Près de lui, sur une petite table destinée à recevoir les rafraîchissements, étaient épars les instruments dont il s'était servi, des bistouris et plusieurs sondes d'argent.</p>
@@ -1180,9 +1164,7 @@
         <p>L'opération fut promptement terminée. Des bandes étroites de parchemin, retenues par de larges cachets de cire, aux armes de la justice de paix, furent placées à toutes les portes du premier étage, à la porte de la chambre à la hache, et aussi aux battants d'une armoire où toutes les pièces de conviction, recueillies par l'enquête et minutieusement décrites dans les procès-verbaux, avaient été déposées.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX</label>
-        </p>
+        <head>IX</head>
         <p>Malgré toute la hâte imaginable, il n'était pas loin de dix heures quand le père Plantat et les invités purent enfin quitter le château de Valfeuillu.</p>
         <p>Au lieu de prendre le chemin du matin, ils s'engagèrent dans un petit sentier en pente qui, longeant les propriétés de Mme de Lanascol, conduit en diagonale au pont de fil de fer.</p>
         <p>C'était le plus court pour gagner l'auberge où M. Lecoq avait déposé son léger bagage.</p>
@@ -1428,9 +1410,7 @@
         <p>L'agent de la Sûreté avait glissé dans sa poche la lettre de la pauvre Laurence et l'enveloppe de cette lettre.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X</label>
-        </p>
+        <head>X</head>
         <p>Étroite et petite est la maison du juge de paix d'Orcival; c'est la maison du sage.</p>
         <p>Trois grandes pièces au rez-de-chaussée, quatre chambres au premier étage, un grenier et des mansardes de domestiques sous les combles composent tout le logis.</p>
         <p>Partout se trahit l'insouciance de l'homme qui, retiré de la mêlée du monde, replié sur lui-même depuis des années, a cessé d'attacher la moindre importance aux objets qui l'entourent. Le mobilier, fort beau jadis, s'est insensiblement dégradé, s'est usé et n'a pas été renouvelé. Les moulures des gros meubles se sont décollées, les pendules ont cessé de marquer l'heure, l'étoffe des fauteuils laisse voir le crin en maint endroit, le soleil a mangé par places la couleur des rideaux.</p>
@@ -1703,9 +1683,7 @@
         <p>«Car il ne l'a pas retrouvée, cette lettre, mais nous la retrouverons, nous; elle nous est nécessaire pour ébranler M. Domini, il nous la faut pour changer nos doutes en certitude.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XI</label>
-        </p>
+        <head>XI</head>
         <p>Un silence assez long suivit la déclaration de l'agent de la Sûreté. Peut-être ses auditeurs cherchaient-ils des objections.</p>
         <p>Enfin, le docteur Gendron prit la parole.</p>
         <p>--Dans tout cela, dit-il, je n'aperçois pas le rôle de Guespin.</p>
@@ -1836,9 +1814,7 @@
         <p>--Soit, reprit le juge de paix, alors écoutez-moi.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII</label>
-        </p>
+        <head>XII</head>
         <p>À vingt-six ans, le comte Hector de Trémorel était le modèle achevé, le parfait idéal du gentilhomme viveur, tel qu'il peut l'être à notre époque, inutile à soi et aux autres, nuisible même, semblant mis sur terre expressément pour jouir aux dépens de tout et de tous.</p>
         <p>Jeune, très noble, élégant, riche à millions, doué d'une santé de fer, ce dernier descendant d'une grande race, gaspillait le plus follement, d'aucuns disaient le plus indignement du monde, et sa jeunesse et son patrimoine.</p>
         <p>Il est vrai, qu'à ces excès de tous les genres, il avait conquis une magnifique et peu enviable célébrité.</p>
@@ -2000,9 +1976,7 @@
         <p>Puis, dans l'antichambre, ayant appelé les domestiques, il leur remit dix louis pour se les partager et s'éloigna rapidement.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIII</label>
-        </p>
+        <head>XIII</head>
         <p>Arrivé dans la rue, le comte de Trémorel s'apprêtait à remonter le boulevard, lorsque l'idée de ses amis traversa son esprit. L'histoire de sa saisie, colportée par ses gens, devait déjà courir la ville.</p>
         <p>--Non, pas par là, murmura-t-il.</p>
         <p>C'est qu'en effet, de ce côté, il rencontrerait infailliblement quelqu'un de ses «très chers» et il lui semblait entendre les compliments de condoléances et les ridicules offres de service.</p>
@@ -2183,9 +2157,7 @@
         <p>--Comment! Mais je t'emmène, parbleu! chez moi, au Valfeuillu. Ne sais-tu donc pas que je suis marié? Ah! mon ami, il n'est pas d'homme plus heureux que moi. J'ai épousé, par amour, la plus belle et la meilleure des femmes. Tu seras un frère pour nous... Mais viens, ma voiture est là, devant la grille.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIV</label>
-        </p>
+        <head>XIV</head>
         <p>Le père Plantat s'arrêta.</p>
         <p>Ses auditeurs, depuis qu'il parlait, ne s'étaient permis ni un geste ni un mot.</p>
         <p>Tout en écoutant, M. Lecoq réfléchissait.</p>
@@ -2340,9 +2312,7 @@
         <p>--Voici ma femme, dit-il, plus un mot.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XV</label>
-        </p>
+        <head>XV</head>
         <p>En montant se coucher, ce soir-là, le comte de Trémorel était déjà beaucoup moins enthousiasmé du dévouement de son ami Sauvresy. Il n'est pas de diamant où on ne trouve une tache en l'examinant à la loupe.</p>
         <p>«Le voici, se disait-il, prêt à abuser de son rôle de sauveur. Il se pose en mentor et fait des phrases. Les gens ne sauraient-ils donc vous obliger sans vous le faire sentir. Ne semblerait-il pas que par cette raison qu'il m'a empêché de me brûler la cervelle, je deviens quelque chose lui appartenant? Pour un peu plus il allait ce soir me reprocher les magnificences de Fancy! Où s'arrêtera son zèle?»</p>
         <p>Ce qui n'empêcha pas que le lendemain, au déjeuner, il prétexta un malaise pour ne pas manger et qu'il fit remarquer à Sauvresy qu'il allait manquer le train.</p>
@@ -2478,9 +2448,7 @@
         <p>«Allons, se dit-il, ç'a été dur, mais moins que je ne croyais. Vraiment, Jenny était une bonne fille.»</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVI</label>
-        </p>
+        <head>XVI</head>
         <p>Lorsqu'il parlait à miss Fancy d'un mariage conclu, le comte de Trémorel ne mentait qu'à demi. Il était, en effet, question pour lui d'un mariage, et si les choses n'étaient pas aussi avancées qu'il lui plaisait de le dire, au moins les préliminaires faisaient-ils prévoir une prompte et favorable issue.</p>
         <p>L'idée venait de Sauvresy, plus que jamais désireux de compléter son oeuvre de sauvetage et de restauration.</p>
         <p>Un soir, il y avait de cela un peu plus d'un mois, il avait, après le dîner, entraîné Trémorel dans son cabinet.</p>
@@ -2587,9 +2555,7 @@
         <p>--Dites, répondit Sauvresy en lui jetant une pièce de quarante sous, dites que j'irai.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVII</label>
-        </p>
+        <head>XVII</head>
         <p>Le lendemain, le temps était froid et humide. Il faisait un brouillard si épais qu'on ne distinguait pas les objets à dix pas devant soi. Cependant, à l'issue du déjeuner, Sauvresy prit son fusil et siffla ses chiens.</p>
         <p>--Je vais faire un tour dans les bois de Mauprévoir, dit-il.</p>
         <p>--Singulière idée! remarqua Hector, une fois sous bois, tu ne verras seulement pas le bout du canon de ton fusil.</p>
@@ -2716,9 +2682,7 @@
         <p>Où allait-il? qu'allait-il faire?</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVIII</label>
-        </p>
+        <head>XVIII</head>
         <p>Au brouillard du matin avait succédé une petite pluie fine, pénétrante, glaciale. Mais Sauvresy ne s'en apercevait pas. Il allait, la tête nue, dans la campagne, par les chemins de traverse, au hasard, sans direction, sans but. Il parlait haut, tout en marchant, s'arrêtait tout à coup, puis reprenait sa course, et des exclamations bizarres lui échappaient.</p>
         <p>Les paysans des environs qu'il rencontrait, et qui tous le connaissaient, se retournaient ébahis après l'avoir salué, et le suivant des yeux, se demandaient si le maître du Valfeuillu n'était pas devenu fou.</p>
         <p>Il n'était pas fou, malheureusement. Foudroyé par une catastrophe inouïe, qui l'atteignait en plein bonheur, son cerveau avait été pour un moment frappé de paralysie. Mais il recueillait une à une ses idées éparses, et avec la faculté de penser, la faculté de souffrir lui revenait.</p>
@@ -2910,9 +2874,7 @@
         <p>--Ah! vous êtes bonne, et vous m'aimez vraiment.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIX</label>
-        </p>
+        <head>XIX</head>
         <p>Le comte de Trémorel ne supposait pas que le répit demandé par Berthe dût être de longue durée. Depuis une semaine, Sauvresy semblait aller mieux. Il se levait maintenant, il commençait à aller et venir dans la maison, et même il recevait sans trop de fatigue la visite de ses nombreux amis du voisinage.</p>
         <p>Mais, hélas! le maître du Valfeuillu n'était plus que l'ombre de lui-même. Jamais, à le voir plus blême que la cire, exsangue, chancelant, la joue creuse, l'oeil brillant d'un feu sombre, on n'aurait reconnu ce robuste jeune homme aux lèvres rouges, au visage épanoui, qui, le long du restaurant de Sèvres, avait arrêté la main de Trémorel.</p>
         <p>Il avait tant souffert! Vingt fois la maladie avait failli le terrasser, vingt fois l'énergie de son indomptable volonté avait repris le dessus. Il ne voulait pas, non il ne voulait pas mourir avant de s'être vengé de ces infâmes qui lui avaient pris son bonheur et sa vie.</p>
@@ -3127,9 +3089,7 @@
         <p>Lui aussi cependant il eût voulu voir son ami sous la terre, pour en finir avec ses terreurs, pour secouer l'obsession épouvantable de Berthe.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XX</label>
-        </p>
+        <head>XX</head>
         <p>L'heure s'avançait, Hector et Berthe durent passer dans la chambre de Sauvresy. Il dormait. Ils s'installèrent sans bruit chacun d'un côté du feu comme tous les soirs, la femme de chambre se retira.</p>
         <p>Afin que la lumière de la lampe ne gênât pas le malade, on avait disposé les rideaux de la tête du lit de telle façon que, couché, il ne pouvait voir la cheminée. Pour l'apercevoir, il lui fallait se hausser sur ses oreillers et se pencher en s'appuyant sur le bras droit.</p>
         <p>Mais il dormait, d'un sommeil pénible, fiévreux, agité de frissons convulsifs. Sa respiration pressée et sifflante soulevait la couverture à intervalles égaux.</p>
@@ -3325,9 +3285,7 @@
         <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXI</label>
-        </p>
+        <head>XXI</head>
         <p>Depuis plus de cinq minutes le vieux juge de paix avait achevé la lecture de son volumineux dossier, et ses auditeurs, l'agent de la Sûreté et le médecin, subissaient encore l'impression de ce récit désolant.</p>
         <p>Il est vrai que le père Plantat avait une façon de dire singulière et bien propre à frapper ceux qui l'écoutaient.</p>
         <p>Il se passionnait en parlant comme si sa personnalité eût été en jeu, comme s'il eût été pour quelque chose dans cette ténébreuse affaire, et que ses intérêts s'y fussent trouvés engagés.</p>
@@ -3447,9 +3405,7 @@
         <p>En travers de la porte du cabinet gisait le corps inanimé du rebouteux. Le misérable s'était suicidé.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXII</label>
-        </p>
+        <head>XXII</head>
         <p>Il avait fallu au rebouteux d'Orcival une présence d'esprit singulière et un rare courage, pour se donner la mort dans ce cabinet obscur, sans éveiller par aucun bruit suspect l'attention des hôtes de la bibliothèque.</p>
         <p>Un bout de ficelle, trouvé en tâtant dans l'ombre parmi les vieux livres et les liasses de journaux, avait été l'instrument de son suicide. Il l'avait lié solidement autour de son cou, et se servant d'un morceau de crayon en guise de tourniquet il s'était étranglé.</p>
         <p>Il n'offrait rien, d'ailleurs, de cet aspect hideux que la croyance populaire attribue aux individus qui périssent par la strangulation. Il avait la face pâle, les yeux à demi ouverts, la bouche béante et l'air hébété de l'homme qui, sans grandes douleurs, perd peu à peu connaissance, sous l'influence d'une congestion cérébrale.</p>
@@ -3520,9 +3476,7 @@
         <p>--Le ciel soit loué! répondit le vieux juge de paix, mais puisque vous voici, partons, hâtons-nous. M. Domini, qui nous attendait ce matin, doit être fou d'impatience.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXIII</label>
-        </p>
+        <head>XXIII</head>
         <p>Lorsqu'il parlait de l'impatience du juge d'instruction, le père Plantat était certes bien au-dessous de la réalité. M. Domini était furieux, ne comprenant rien à l'absence si prolongée de ses collaborateurs de la veille, du juge de paix, du médecin et de l'agent de la Sûreté.</p>
         <p>Dès le grand matin, il était venu s'installer dans son cabinet, au palais de justice, drapé de sa robe de juge, et il comptait les minutes.</p>
         <p>C'est que les réflexions de la nuit loin d'ébranler et de troubler ses convictions n'avaient fait que les affirmer. À mesure qu'il s'éloignait de l'heure du crime, il le trouvait plus simple, plus naturel, plus aisé à expliquer.</p>
@@ -3794,9 +3748,7 @@
         <p>Et, arrivés à la hauteur de l'hôtel de la _Belle-Image_, ils se séparèrent.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXIV</label>
-        </p>
+        <head>XXIV</head>
         <p>Neuf heures venaient de sonner à Saint-Eustache et on entendait encore la grosse cloche du carreau des halles, lorsque le père Plantat arriva rue Montmartre et s'engagea dans l'allée obscure de la maison qui porte le nº...</p>
         <p>--M. Lecoq? demanda-t-il à une vieille femme occupée à préparer le mou du déjeuner de trois énormes matous qui miaulaient autour d'elle.</p>
         <p>La portière le toisa d'un air à la fois surpris et goguenard.</p>
@@ -4110,9 +4062,7 @@
         <p>Ils sortirent et derrière eux Janouille se barricada solidement.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXV</label>
-        </p>
+        <head>XXV</head>
         <p>Avez-vous besoin d'argent?</p>
         <p>Voulez-vous un habillement complet à la dernière mode, une calèche à huit ressorts ou une paire de bottines? Vous faudrait-il un cachemire de l'Inde, un service de porcelaine ou un bon tableau pas cher? Est-ce un mobilier que vous souhaitez, de noyer ou de palissandre, ou des diamants, ou des draps, ou des dentelles, ou une maison de campagne, ou votre provision de bois pour l'hiver?</p>
         <p>Adressez-vous à Mme Charman, 136, rue Notre-Dame-de-Lorette, au premier au-dessus de l'entresol, car elle tient tout cela et même d'autres articles encore qu'il est défendu de considérer comme marchandise. Si, homme, vous avez quelque garantie à lui présenter, ne fût-ce qu'un traitement saisissable, si, femme, vous êtes jeune, jolie et point farouche, Mme Charman se fera un plaisir de vous obliger à raison de deux cents pour cent d'intérêt.</p>
@@ -4248,9 +4198,7 @@
         <p>--Rien, chère dame, rien qui vous regarde du moins. Et sur ce, au revoir et merci, nous sommes fort pressés.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXVI</label>
-        </p>
+        <head>XXVI</head>
         <p>Quand M. Lecoq est pressé, il marche vite. Il courait presque, en descendant la rue de Notre-Dame-de-Lorette, qui est la rue de Paris qu'on pave le plus souvent, si bien que le père Plantat avait toutes les peines du monde à le suivre.</p>
         <p>Tout en hâtant le pas, préoccupé des mesures qu'il avait à prendre pour assurer le succès de ses desseins, il poursuivait un monologue dont le juge de paix, de-ci et de-là, saisissait quelques bribes.</p>
         <p>--Tout va bien, murmurait-il, et nous réussirons. Il est rare qu'une campagne commençant si bien ne se termine pas heureusement. Si Job est chez le marchand de vins, si un de mes hommes a réussi dans sa tournée, le crime du Valfeuillu est réglé, toisé, arrangé dans la soirée, et dans huit jours personne n'en parlera plus.</p>
@@ -4408,9 +4356,7 @@
         <p>--Vous le voyez, monsieur, dit-il, tout est pour nous. Venez, et au nom de Mlle Laurence, du courage!</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXVII</label>
-        </p>
+        <head>XXVII</head>
         <p>Toutes les prévisions de M. Lecoq se réalisaient. Laurence n'était pas morte, sa lettre à sa famille n'était qu'une odieuse tromperie. C'était bien elle, qui sous le nom de Mme Wilson habitait l'hôtel où venaient de pénétrer le père Plantat et l'agent de la Sûreté.</p>
         <p>Comment la belle et noble jeune fille tant aimée du juge d'Orcival en était-elle venue à ces extrémités affreuses? C'est que la logique de la vie, hélas! enchaîne fatalement les unes aux autres toutes nos déterminations. C'est que souvent une action indifférente, peu répréhensible en elle-même, peut être le point de départ d'un crime. Chacune de nos résolutions nouvelles dépend de celles qui l'ont précédées et en est la conséquence mathématique, en quelque sorte, comme le total d'une addition est le produit des chiffres posés.</p>
         <p>Malheur à celui qui, pris au bord de l'abîme d'un premier vertige, ne fuit pas au plus vite sans détourner la tête; c'en est fait de lui. Bientôt, cédant à une attraction irrésistible, il s'approche bravant le péril, son pied glisse, il est perdu. Vainement revenu au sentiment de la réalité il fera, pour se retenir, d'incroyables efforts, il n'y parviendra pas; à peine réussira-t-il à retarder sa chute définitive. Quoi qu'il fasse et qu'il tente, il roulera plus bas, toujours plus bas, jusqu'à ce qu'il arrive au fond, tout au fond du gouffre.</p>
@@ -4525,9 +4471,7 @@
         <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXVIII</label>
-        </p>
+        <head>XXVIII</head>
         <p>Le lendemain même de la mort de Trémorel, La Ripaille et Guespin étaient remis en liberté, et recevaient, l'un quatre mille francs pour s'acheter un bateau et des filets à mailles réglementaires, l'autre dix mille francs, avec promesse de pareille somme au bout d'un an, s'il allait s'établir dans son pays.</p>
         <p>Quinze jours plus tard, à la grande surprise des badauds d'Orcival, qui n'ont jamais su le fin mot de l'histoire, le père Plantat épousait Mlle Laurence Courtois et, le soir même, les nouveaux époux partaient pour l'Italie en annonçant qu'ils y resteraient au moins un an.</p>
         <p>Quant au père Courtois, il vient de mettre en vente son beau domaine d'Orcival, il se propose de s'établir dans le midi, et est en quête d'une commune ayant besoin d'un bon maire.</p>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03703" xml:lang="fr">
   <teiHeader>
@@ -23,12 +23,12 @@
         --></publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           Bibliothèque électronique du Québec,
-         
+
           <ref target="http://beq.ebooksgratuits.com"/>
           .
         </bibl><bibl type="firstEdition">
           <date>1840</date>
-          
+
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
@@ -53,9 +53,7 @@
   <text>
     <body>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE PREMIER</label>
-        </p>
+        <head>CHAPITRE PREMIER</head>
         <p>Le village de Villepreux était, au dire de M. Lerebours, le plus bel endroit du département de Loir-et-Cher, et l'homme le plus capable du dit village était, au sentiment secret de M. Lerebours, M. Lerebours lui-même, quand la noble famille de Villepreux, dont il était le représentant, n'occupait pas son majestueux et antique manoir de Villepreux. Dans l'absence des illustres personnages qui composaient cette famille, M. Lerebours était le seul dans tout le village qui sût écrire l'orthographe irréprochablement. Il avait un fils qui était aussi un homme capable. Il n'y avait qu'une voix là-dessus, ou plutôt il y en avait deux, celle du père et celle du fils, quoique les malins de l'endroit prétendissent qu'ils étaient trop honnêtes gens pour avoir entre eux deux volé le Saint-Esprit.</p>
         <p>Il est peu de commis-voyageurs fréquentant les routes de la Sologne pour aller offrir leur marchandise de château en château, il est peu de marchands forains promenant leur bétail et leurs denrées de foire en foire, qui n'aient, à pied, à cheval ou en patache, rencontré, ne fût-ce qu'une fois en leur vie, M. Lerebours, économe, régisseur, intendant, homme de confiance des Villepreux. J'invoque le souvenir de ceux qui ont eu le bonheur de le connaître. N'est-il pas vrai que c'était un petit homme très sec, très jaune, très actif, au premier abord sombre et taciturne, mais qui devenait peu à peu communicatif jusqu'à l'excès ? C'est qu'avec les gens étrangers au pays il était obsédé d'une seule pensée, qui était celle-ci : Voilà pourtant des gens qui ne savent pas qui je suis ! -- Puis venait cette seconde réflexion, non moins pénible que la première : il y a donc des gens capables d'ignorer qui je suis -- Et quand ces gens-là ne lui paraissaient pas tout à fait indignes de l'apprécier, il ajoutait pour se résumer : Il faut pourtant que ces braves gens apprennent de moi qui je suis.</p>
         <p>
@@ -110,9 +108,7 @@
         <p>M. Lerebours savait fort bien que le fils Huguenin était un homme très précieux à employer. Il attendit que les deux artisans eussent passé leurs vestes et qu'ils se fussent munis de la règle, du pied-de-roi et du crayon. Après quoi, ils se mirent tous trois en route, parlant peu et chacun se tenant sur la défensive.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE II</label>
-        </p>
+        <head>CHAPITRE II</head>
         <p>Pierre Huguenin, le fils du maître menuisier, était le plus beau garçon qu'il y eût à vingt lieues à la ronde. Ses traits avaient la noblesse et la régularité de la statuaire ; il était grand et bien fait de sa personne ; ses pieds, ses mains et sa tête étaient fort petits, ce qui est remarquable chez un homme du peuple, et ce qui est très compatible avec une grande force musculaire dans les belles races ; enfin ses grands yeux bleus ombragés de cils noirs et le coloris délicat de ses joues donnaient une expression douce et pensive à cette tête qui n'eût pas été indigne du ciseau de Michel-Ange.</p>
         <p>Le père Huguenin, qui, lui-même, était un superbe vieillard, et qui ne manquait pas de bon sens, ne s'était pas toujours douté de la haute intelligence et de la beauté idéale de son fils. Il voyait en lui un garçon bien bâti, laborieux, rangé, un bon aide en un mot ; mais quoiqu'il eût été un réformateur dans son temps, il n'était nullement épris des jeunes idées libérales, et il trouvait que Pierre donnait beaucoup trop dans l'amour des nouveautés.</p>
         <p>
@@ -134,9 +130,7 @@
         <p>En raisonnant ainsi, le maître menuisier rongeait son frein. Il essayait de trouver quelque chose à reprendre dans le travail de son fils, et s'il surprenait la moindre trace d'enjolivement à ses pièces de menuiserie, il la critiquait amèrement. Pierre n'en montrait aucun dépit. D'un coup de rabot il enlevait lestement l'ornement qui semblait s'être échappé malgré lui de sa main : il était résolu à tout souffrir, à se laisser humilier mille fois plutôt que de faire mauvais ménage avec son père. Il le connaissait trop bien pour ne pas avoir prévu qu'il ne fallait pas essayer de le primer. Content d'avoir acquis les talents qu'il avait ambitionnés, il attendait que l'occasion de les faire apprécier vînt d'elle-même, et il savait bien qu'elle ne tarderait pas. En effet, elle se présenta le jour où l'économe conduisit les deux menuisiers au château pour examiner les travaux en question.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE III</label>
-        </p>
+        <head>CHAPITRE III</head>
         <p>Ils furent introduits dans un antique vaisseau qui avait servi successivement de chapelle, de bibliothèque, de salle de spectacle et d'écurie, suivant les vicissitudes de la noblesse ou les goûts des divers possesseurs du château. Cette salle était située dans un corps de bâtiment plus ancien que les autres constructions qui composaient le vaste et imposant manoir de Villepreux. Elle était d'un beau style gothique flamboyant, et les arceaux de la charpente annonçaient qu'elle avait été consacrée au culte religieux. Mais en changeant son usage à diverses époques, on avait changé ses ornements, et les dernières traces de réparation qui subsistaient, c'étaient les boiseries du quinzième siècle, qu'au dix-huitième on avait couvertes de planches et de toiles peintes pour jouer des pastorales. Un reste de ce décor, barbouillé de guirlandes fanées et d'Amours éraillés, avait été enlevé ; et une certaine pièce située dans une tourelle adjacente avait pu ouvrir une porte, longtemps murée, sur la grande salle déblayée de ses oripeaux. Or, la tourelle était un lieu favori pour une certaine personne de la famille. Dès qu'on eut découvert une nouvelle issue à cette pièce et un usage à cette porte, on voulut qu'elle pût communiquer avec la chapelle ; mais il n'y manquait qu'une chose, c'était un escalier. Dans le principe, la porte donnait sur une tribune dans laquelle le châtelain et sa famille venaient écouter les offices, et la tourelle servait d'oratoire. La famille de Villepreux, ayant su apprécier la beauté des boiseries méprisées et mutilées par la génération précédente, avait résolu d'utiliser cette vaste pièce abandonnée depuis la révolution aux rats et aux chouettes.</p>
         <p>On avait donc décrété ce qui suit :</p>
         <p>L'ex-chapelle du moyen âge, ex-bibliothèque sous Louis XIV, ex-salle de spectacle sous la régence, ex-écurie durant l'émigration, servirait désormais d'atelier de peinture, ou pour mieux dire de musée. On y rassemblerait tous les vieux vases et meubles rares, tous les portraits de famille et anciens tableaux, tous les livres de prix, toutes les gravures, en un mot toutes les curiosités éparses dans le château. Il y avait place pour tout cela et pour toutes les tables, modèles et chevalets qu'on voudrait y ajouter.</p>
@@ -195,9 +189,7 @@
         <p>-- Allons, disait-il à son fils en revenant au logis, tu t'entends à toutes choses ; voici la première fois de ma vie que je termine un marché sur mon premier mot.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE IV</label>
-        </p>
+        <head>CHAPITRE IV</head>
         <p>À huit jours de là, les Huguenin, ayant achevé de remplir tous les engagements contractés envers leur clientèle villageoise, prirent possession de la chapelle et commencèrent leurs travaux.</p>
         <p>Pierre était toujours levé avant le jour. Aux premiers rayons du soleil il promenait déjà le compas sur les vieux ais de chêne de la boiserie séculaire, et déjà la tâche était taillée aux apprentis lorsqu'ils arrivaient, les yeux encore gonflés par le sommeil. Il advint qu'un soir Pierre, absorbé par l'examen de la boiserie, et ayant tracé plusieurs figures à la craie sur un panneau noirci par le temps, oublia, dans ses calculs, l'heure avancée et la solitude qui s'était faite autour de lui. Son père s'était retiré depuis longtemps avec tous ses ouvriers, les portes du château étaient fermées, et les chiens de garde étaient lâchés dans les cours. Le vigilant économe, surpris de voir une lampe briller encore derrière le haut vitrage de l'atelier, vint, son trousseau de clefs dans une main et sa lanterne sourde dans l'autre, regarder à la porte avec précaution.</p>
         <p>-- C'est vous, maître Pierre ? s'écria-t-il lorsqu'il eut reconnut le jeune menuisier à travers les fentes ; n'avez-vous pas assez travaillé pour un jour ?</p>
@@ -205,9 +197,7 @@
         <p>Pierre travailla encore deux heures, et, lorsqu'il eut résolu le problème qui l'embarrassait, il se décida à aller dormir ; mais il entendit sonner deux heures à l'horloge du château. Pierre craignit que sa sortie à une pareille heure ne fût remarquée par le village et ne donnât lieu à des commentaires. Il fuyait la réputation de bizarrerie que son amour pour l'étude n'eût pas manqué de lui attirer. D'ailleurs ses apprentis devaient bientôt arriver, et, s'il allait se coucher, il ne pourrait se réveiller avec assez d'exactitude pour les recevoir et les mettre à l'ouvrage. Il se décida à s'étendre sur un monceau de ces menus copeaux et de ces rubans de bois que les menuisiers enlèvent de leurs planches en rabotant. Ce fut un lit assez doux pour ses membres robustes. Sa veste lui servit d'oreiller et sa blouse de couverture.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE V</label>
-        </p>
+        <head>CHAPITRE V</head>
         <p>Un fâcheux incident interrompit les travaux de l'atelier au moment où ils allaient le mieux. Un des meilleurs apprentis du père Huguenin se démit l'épaule en tombant d'une échelle ; et, comme un malheur n'arrive jamais seul, le père Huguenin s'enfonça dans le pouce un éclat de bois qui le mit hors de travail. M. Lerebours lui prodigua de gracieuses condoléances pendant un jour ou deux ; mais quand il vit que l'apprenti était retourné chez ses parents pour se faire soigner, et quand le médecin du village eut visité la main du vieux menuisier, et décrété qu'il fallait quinze jours de repos à cette blessure, l'intraitable économe parla de faire commencer l'escalier par d'autres entrepreneurs. Ce fut une crainte mortelle pour le père Huguenin, qui mettait encore plus d'amour-propre que d'intérêt personnel à rester seul chargé de tout le travail. Il voulut se remettre à l'ouvrage ; mais le mal s'envenima, et de nouveau il fallut s'interrompre. Le médecin menaçait de couper le doigt, la main, le bras peut-être, si on persistait.</p>
         <p>-- Coupez-moi donc la tête tout de suite ! dit le père Huguenin, en jetant son ciseau avec désespoir sur le plancher ; et il alla s'enfermer chez lui de colère et de douleur.</p>
         <p>-- Mon père, lui dit Pierre à l'heure de la veillée, il faut prendre un parti. Vous ne pouvez travailler d'ici à plusieurs semaines sans compromettre votre santé, votre vie peut-être. Guillaume était votre meilleur ouvrier ; il lui faut deux mois, au moins, pour se rétablir. Me voilà seul avec des jeunes gens zélés sans doute, mais inexpérimentés, et manquant des connaissances nécessaires pour un travail de cette importance. Moi-même je ne vous cache pas que, forcé depuis plusieurs jours à travailler pour trois, je sens mes forces décroître ; mon appétit s'en va, le sommeil m'abandonne. Je puis tomber malade ; j'irai tant que je pourrai, sans plaindre ma peine, vous le savez bien ; mais il arrive toujours un moment où la fatigue nous surmonte, et alors M. Lerebours, à supposer qu'il prenne patience jusque-là, sera bien fondé à nous remplacer.</p>
@@ -277,9 +267,7 @@
         <p>Cette autorisation contradictoire fut comprise de Pierre. Il savait que son père cédait souvent en fait, sans jamais céder en paroles. Il prit sa canne, partit pour Blois, décidé à embaucher les premiers bons Compagnons qu'il trouverait, et à les faire passer pour des apprentis non agrégés s'il retrouvait son père aussi mal disposé que de coutume contre les sociétés secrètes.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE VI</label>
-        </p>
+        <head>CHAPITRE VI</head>
         <p>Tandis que Pierre Huguenin cheminait pédestrement parmi les coursières fleuries, si bien connues des ouvriers nomades, qui coupent la France dans toutes ses directions à vol d'oiseau, une lourde berline de voyage roulait en soulevant des flots de poussière sur la grande route de Blois à Valençay. Ce n'était rien moins que la famille de Villepreux qui approchait de son château avec une imposante rapidité.</p>
         <p>Il n'est besoin de dire que le bouillant économe, en proie depuis huit jours à de fortes émotions, était parti ce jour-là sur son bidet gris de fer pour aller au devant de la famille. Il était vivement contrarié de ce retour annoncé d'abord pour le courant de l'automne, et puis décrété plus récemment pour le commencement de l'été. Il ne comprenait pas que le comte son vieux maître pût lui jouer (c'était son expression) un tour semblable. Rien n'était suffisamment préparé pour le recevoir. Le temps avait manqué ; car il n'eût pas fallu moins de six mois à M. Lerebours pour faire les choses comme il l'entendait, et il n'en avait eu que trois. Aussi était-il en proie à une noire mélancolie, tout en marchant au petit trot à la rencontre de ses maîtres. Sa main laissait flotter les rênes sur le cou de son bidet qui baissait la tête d'un air non moins accablé que lui. -- Hélas ! se disait M. Lerebours, la chapelle n'est pas réparée. Il y a plus de la moitié de l'ouvrage à faire, la maison sera pleine de poussière, M. le comte aura sa toux le matin et son humeur s'en ressentira. Le bruit des ouvriers importunera mademoiselle. Pourra-t-elle seulement travailler dans son cabinet favori ? Et si, du moins, cette maudite porte était réparée ! Mais non, rien ! pas un ouvrier pour la replacer. Il faut que le père Lacrête soit ivre dès le matin, et que le fils Huguenin se soit mis en route pour aller Dieu sait où, un jour comme aujourd'hui ! Ah ! les insouciants manœuvres ! Peuvent-ils se douter seulement des chagrins et des anxiétés qui rongent jour et nuit la cervelle d'un intendant tel que moi ?</p>
         <p>Il était en proie à ces réflexions déchirantes lorsque le galop d'un autre bidet, plus rapide et plus vigoureux que le sien, le tira de sa rêverie. Le bidet gris de fer dressa l'oreille et hennit en reconnaissant les émanations d'un certain bidet noir qui appartenait au fils de son maître. Le front de l'économe s'éclaircit un peu à l'approche de son cher Isidore, l'employé aux ponts-et-chaussées.</p>
@@ -354,9 +342,7 @@
         <p>Il fallut obéir. Raoul de Villepreux entra dans la berline, et Isidore monta sur le siège d'où il eut le loisir de voir courir son cheval dans le lointain. Tout en répondant, comme il pouvait, aux condoléances malignes du valet de chambre, il jetait à la dérobée un regard inquiet dans la voiture. Il s'aperçut alors que mademoiselle de Villepreux se cachait le visage dans son mouchoir. Avait-elle été épouvantée de sa chute au point d'avoir des attaques de nerfs ? On l'eût dit à l'agitation de toute sa personne, jusqu'alors si roide et si calme. Le fait est qu'elle avait été prise d'un fou-rire en le voyant reparaître, et, comme il arrive aux personnes habituellement sérieuses, sa gaieté était convulsive, inextinguible. Le jeune Raoul, qui, malgré sa nonchalance et le peu de ressort de son esprit, était persifleur de sang-froid comme toute sa famille, entretenait l'hilarité de sa sœur par une suite de remarques plaisantes sur la manière ridicule dont Isidore avait fait le plongeon. Le parler lent et monotone de Raoul rendait ces réflexions plus comiques encore. La sensible marquise n'y put tenir, malgré l'effroi qu'elle avait eu d'abord, et le rire s'empara d'elle comme de sa cousine. Le comte, voyant ces trois enfants en joie, renchérit sur les plaisanteries de son petit-fils avec un flegme diabolique. Isidore n'entendait rien, mais il voyait rire Yseult qui, renversée au fond de la voiture, n'avait plus la force de s'en cacher. Il en fut si amèrement blessé, que dès cet instant il jura de l'en punir, et une haine implacable contre cette jeune personne s'alluma dans son âme vindicative et basse.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE VII</label>
-        </p>
+        <head>CHAPITRE VII</head>
         <p>Cependant Pierre Huguenin marchait toujours vers Blois par la traverse, tantôt sur la lisière des bois inclinés au flanc des collines, tantôt dans les sillons bordés de hauts épis. Quelquefois il s'asseyait au bord d'un ruisseau, pour laver et rafraîchir ses pieds brûlants, ou à l'ombre d'un grand chêne, au coin d'une prairie, pour prendre son repas modeste et solitaire. Il était excellent piéton et ne redoutait ni la chaleur ni la fatigue ; et pourtant il abrégeait avec peine ces haltes délicieuses au sein d'une solitude agreste et poétique.</p>
         <p>
           Il ne fallait pas plus de deux journées de marche au jeune menuisier pour se rendre à Blois. Il passa la nuit à Celles, dans une auberge de rouliers, et le lendemain, dès la pointe du jour, il se remit en route. La clarté du matin était encore incertaine et pâle, lorsqu'il vit venir à lui un homme de haute taille, ayant comme lui une blouse et un sac de voyage ; mais à sa longue canne, il reconnut qu'il n'était pas de la même société que lui, qui n'en portait qu'une courte et légère. Il se confirma dans cette pensée, en voyant cet homme s'arrêter à une vingtaine de pas devant lui, et se mettre dans l'attitude menaçante du
@@ -454,9 +440,7 @@
         <p>Ainsi se quittèrent les deux compagnons, chacun emportant la pensée, quoique chacun à un degré différent, que ces distinctions et ces inimitiés du compagnonnage étouffaient bien des lumières et brisaient bien des sympathies.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE VIII</label>
-        </p>
+        <head>CHAPITRE VIII</head>
         <p>
           Vers le soir, Pierre Huguenin arriva sur les bords de la Loire. À la vue de ce beau fleuve qui promenait mollement son cours paisible au milieu des prairies, il se sentit tout à coup comme soulagé de la pesante chaleur du jour, et il marcha quelque temps sur le sable fin, par un sentier tracé dans les oseraies de la rive. Il apercevait déjà, dans le lointain, les noirs clochers de Blois. Mais en vain il doubla le pas ; il vit bientôt qu'il lui serait impossible d'arriver avant l'orage. Le ciel était chargé de lourdes nuées, dont les eaux reflétaient la teinte plombée. Les osiers et les saules du rivage blanchissaient sous le vent, et de larges gouttes de pluie commençaient à tomber, il se dirigea vers un massif d'arbres, afin d'y chercher un abri ; et bientôt, à travers les buissons, il distingua une maisonnette assez pauvre, mais bien tenue, qu'à son bouquet de houx il reconnut pour un de ces gîtes appelés
           <hi>bouchons</hi>
@@ -518,9 +502,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE IX</label>
-        </p>
+        <head>CHAPITRE IX</head>
         <p>Quand la nuit fut tout à fait tombée, Pierre se disposa à partir pour Blois avec Amaury, qui s'y rendait aussi. Il lui tardait de se trouver seul avec son ami. Le Vaudois les supplia tout deux de passer la nuit sous son toit ; mais ils alléguèrent que tous leurs moments étaient comptés. Le Corinthien promit que, s'il s'arrêtait à Blois, comme il en avait le dessein, il reviendrait souvent vider une bouteille de bière sous le Berceau de la sagesse ; et Pierre, qui songeait à reprendre le plus tôt possible le chemin de son village, s'engagea à s'arrêter quelques instants au retour pour serrer, au passage, la main du vieux charpentier. L'orage avait inondé, en plusieurs endroits, l'oseraie où serpente le chemin. L'invalide leur en enseigna un plus sûr, et les guida lui-même pendant un quart de lieue, marchant devant eux avec une agilité et une adresse remarquables. Quand il les eut mis sur la route, il leur souhaita le bonsoir et la bonne chance.</p>
         <p>-- Allons, leur dit-il, je vous reverrai bientôt ; car, certes, vous allez tous deux rester à Blois. J'irai vous y voir, si vous ne venez pas chez moi. Je ne vais pas souvent à la ville, mais il y a des occasions... et celle qui se prépare...</p>
         <p>-- Quelle occasion ? demanda l'Ami-du-trait.</p>
@@ -559,9 +541,7 @@
         <p>À cause de cette candeur qui réside au fond des âmes incultes, la parole de Pierre Huguenin rencontrait peu d'obstacles dans les bons esprits de sa trempe, et celui de son ami le Corinthien ne se révolta point dans une âcre discussion. Il l'écouta longtemps en silence ; puis il lui dit en lui serrant la main : -- Pierre, Pierre, tu en sais plus long que moi sur tout cela, et je ne trouve rien à te répondre. Je me sens triste avec toi, et ne sais aucun remède à notre mal.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE X</label>
-        </p>
+        <head>CHAPITRE X</head>
         <p>
           Il y aurait de curieuses recherches à faire pour découvrir, dans le passé, les causes d'inimitié qui présidèrent à ces dissensions dont se plaignait Pierre Huguenin parmi les différentes associations d'ouvriers. Mais ici règne une profonde obscurité. Les ouvriers, s'ils les connaissent, les cachent bien ; et je crois fort qu'ils ne les connaissent guère mieux que nous. Que signifie, par exemple, entre les deux plus anciennes sociétés, celle de Salomon et celle de Maître Jacques, autrement dites des gavots et des dévorants, autrement dites encore le
           <hi>Devoir</hi>
@@ -613,9 +593,7 @@
         <p>Je crois que cette digression était nécessaire à l'intelligence de mon récit. Maintenant, beaux lecteurs, et vous, bons compagnons, permettez-moi de courir après mes héros, qui ne se sont pas arrêtés ainsi que moi sur la chaussée de la Loire.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XI</label>
-        </p>
+        <head>CHAPITRE XI</head>
         <p>Ils arrivèrent à Blois comme dix heures sonnaient à l'horloge de la cathédrale. Ils s'étaient assez reposés au Berceau de la Sagesse, pour ne ressentir aucune fatigue de cette dernière étape, faite en causant doucement à la clarté des étoiles. Ils dirigèrent leurs pas vers la Mère de leur Devoir.</p>
         <p>
           Par
@@ -725,9 +703,7 @@
         <p>Pierre, attendri par le récit de cette passion naïve et vertueuse, promit à son ami de le servir dans ses amours, et s'engagea à ne pas quitter Blois sans avoir pénétré les desseins de la Savinienne et soulevé le voile qui cachait l'avenir du Corinthien.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XII</label>
-        </p>
+        <head>CHAPITRE XII</head>
         <p>
           Ce fut le lendemain, un dimanche bien entendu ; que tous les compagnons et affiliés du Devoir de liberté de Blois employèrent leur journée à délibérer sur l'affaire du concours. La chambre consacrée aux séances étant livrée aux maçons pour cause d'urgente réparation, l'assemblée eut lieu ce jour-là dans la grange de la Savinienne. Tous les membres s'assirent sans façon sur des bottes de paille. Le Dignitaire avait une chaise, et devant lui une table pour écrire, autour de laquelle étaient assis le secrétaire et les
           <hi>anciens</hi>
@@ -758,9 +734,7 @@
         <p>-- Je serais à la veille d'être son mari, répondit le Corinthien, que pour sauver ton honneur je partirais encore. Mais nous n'en sommes pas là. Je ne peux rester ici. Je ne sais où je prendrais la force de ne jamais dire ce que je pense ; et ce que je pense, une femme en deuil ne doit pas l'entendre. Je manquerais à moi-même, à la mémoire de Savinien ; je perdrais l'estime de la Savinienne, et tout cela malgré moi. Fais-moi partir, Pierre, tu me rendras service, peut-être plus qu'à toi-même.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XIII</label>
-        </p>
+        <head>CHAPITRE XIII</head>
         <p>La séance terminée, les Gavots se mirent à table. Le concours était voté, et le Corinthien était du nombre des concurrents élus. Cette nouvelle lui causa une émotion où la joie eut plus de part que le regret, il faut bien l'avouer. Quoique sincère dans son dévouement pour Pierre Huguenin, et dans ses vertueuses résolutions à l'égard de la Savinienne, son jeune cœur tressaillait, malgré lui, à l'idée de passer plusieurs mois auprès de celle qu'il aimait, et d'être absous, par la volonté du destin, de ce qui eut été un tort en d'autres circonstances. Il faut bien dire aussi que le Corinthien n'était pas sans avoir ressenti plus d'une fois déjà les chatouillements de l'ambition. Il avait trop de talent pour n'être pas un peu sensible à la gloire ; et si, dans un mouvement d'enthousiasme généreux, il revenait aux idées évangéliques dont l'avait nourri la pieuse Savinienne, bientôt après les séductions de l'art et de la renommée reprenaient leur empire naturel sur cette âme d'artiste et d'enfant, candide, ardente, et mobile comme les nuages légers d'un beau ciel au matin.</p>
         <p>Il s'efforça de recevoir la nouvelle de son élection avec une résignation dédaigneuse. Mais, en dépit de lui-même, la gaieté communicative de ses compagnons ranimait peu à peu les roses de son teint, et l'aspect de la Savinienne remplissait son cœur d'un espoir plein d'agitations et de combats. Sa voix ne se mêla pas aux propos enjoués de la table ; mais il y avait dans sa gravité une expression de joie sérieuse et profonde, qui n'échappa point à Pierre. De temps en temps le regard de l'aimable Corinthien semblait demander grâce à son austère ami ; puis ses yeux se reportaient invinciblement vers la Savinienne, et un nuage de volupté passionnée les troublait aussitôt. -- Prends garde à toi, mon enfant ! lui dit Pierre, tandis que le bruit des convives couvrait leurs voix. N'oublie pas que tout à l'heure tu voulais partir pour fuir le danger. Maintenant qu'il faut l'affronter, ne soit pas téméraire.</p>
         <p>-- Ne vois-tu pas que ma main tremble en soutenant mon verre ? répondit le Corinthien. Va, je suis plus à plaindre qu'à blâmer. Je sens le sort plus puissant que moi, et je prie Dieu qu'il me donne un peu de ta force pour me soutenir.</p>
@@ -792,9 +766,7 @@
         <p>Le Dignitaire et ceux des compagnons qui avaient su s'échapper à temps de la scène du combat, vinrent la voir et la rassurer. Plusieurs des blessés étaient hors de danger ; on lui cacha, tant qu'on put, l'agonie et la mort de quelques autres. Mais on craignait l'effet des poursuites judiciaires. On avait déjà fait sauver un compagnon qui, comme Amaury, avait donné la mort à un de ses ennemis, et on conseilla à Pierre de fuir aussi avec le Corinthien. Dès que ce dernier put marcher, c'est-à-dire la nuit suivante, Pierre le conduisit à la cabane du Vaudois, en attendant qu'il put prendre la diligence et se rendre à Villepreux. Le bon charpentier le cacha dans sa soupente, et lui prodigua tous les soins de l'amitié. Il était devenu médecin lui-même, à ce qu'il prétendait, à force d'avoir eu affaire à des médecins. Il se mit en demeure de le médicamenter ; et Pierre, tranquillisé sur son compte, retourna à Blois, décidé à ne point abandonner ses frères captifs tant que ses démarches et son témoignage pourraient servir à leur justification et à leur délivrance.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XIV</label>
-        </p>
+        <head>CHAPITRE XIV</head>
         <p>
           Il courut toute la journée avec le Dignitaire et les principaux membres de la société, de la prison à l'hôpital, et de la demeure des autorités à celle des avocats. Il réussit à faire relâcher quelques-uns de ses compagnons qui avaient été arrêtés sans motifs suffisants. Son activité, son air de franchise et son éloquence naturelle firent une telle impression sur les magistrats qu'ils n'osèrent entraver son zèle. Le lendemain il eut de plus tristes devoirs à remplir : ce fut de rendre les derniers honneurs à un des ses compagnons, mort dans la bataille. Cette cérémonie, à laquelle assistèrent tous les Gavots de Blois et que présida le Dignitaire, s'accomplit selon les rites du Devoir de liberté. Lorsque le cercueil fut descendu dans la fosse, Pierre s'agenouilla, et prononça une courte et belle prière à l'
           <hi>Être-Suprême</hi>
@@ -810,9 +782,7 @@
         <p>-- Donnez-leur votre bénédiction, maître Pierre, dit la Savinienne en se mettant à genoux auprès du berceau dont elle soulevait la courtine : la bénédiction d'un ange comme vous leur portera bonheur.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XV</label>
-        </p>
+        <head>CHAPITRE XV</head>
         <p>
           Le récit de ce qui s'était passé entre la Savinienne et Pierre donna du courage au Corinthien, et hâta sa guérison. Il fixa au jour suivant son départ pour Villepreux, résolu de mériter son bonheur par une année au moins de courage et de résignation. Pierre, sans cesser de s'occuper activement de ses chers prisonniers, dut songer à se procurer un second compagnon pour escorter le Corinthien dans sa route et l'aider à son ouvrage. Il n'était pas absolument nécessaire que ce second associé aux travaux du château de Villepreux fût un artiste distingué ; le talent d'Amaury pouvait compter pour deux. Il ne fallait qu'un ouvrier adroit et diligent pour scier, tailler et débillarder. Le Dignitaire lui présenta un brave enfant du Berry, qui n'était pas beau, quoiqu'on l'appelât, par antithèse sans doute,
           <hi>la Clef-des-cœurs</hi>
@@ -820,9 +790,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XVI</label>
-        </p>
+        <head>CHAPITRE XVI</head>
         <p>L'instruction dirigée contre les fauteurs de la terrible querelle survenue entre les Gavots et les Dévorants eut pour résultat de disculper entièrement les premiers et de les mettre hors d'accusation. Pierre et Romanet, appelés comme témoins principaux, se distinguèrent par leur courage, leur franchise et leur fermeté. La belle figure, l'air distingué et le langage simple et choisi de Pierre Huguenin attirèrent sur lui l'attention des libéraux de la ville, qui assistaient avec leurs journalistes à la séance du tribunal. Mais il ne fut point l'objet de nouvelles avances, car il partit aussitôt qu'il ne se vit plus nécessaire.</p>
         <p>Que faisait et à quoi songeait le père Huguenin pendant l'absence de son fils ? Le bonhomme se dépitait et s'emportait ; mais, plus que tout, il s'inquiétait. Il est si exact et si preste à tout ce qu'il entreprend ! se disait-il. Il faut qu'il lui soit arrivé malheur ! Et alors il se désespérait ; car il ne s'était jamais aperçu de l'amour et de l'estime qu'il portait à son fils autant qu'il le faisait depuis cette dernière séparation.</p>
         <p>Comme Pierre l'avait craint, sa fièvre en augmenta ; et il n'avait pas pu quitter son lit le jour où, par bonheur, Amaury et le Berrichon arrivèrent. Chemin faisant, le Corinthien avait renouvelé à son compagnon la recommandation que Pierre lui avait déjà faite de ménager les préventions du père Huguenin à l'endroit du compagnonnage ; et, comme il lui répugnait un peu de débuter avec un nouveau maître par un mensonge, il chargea le Berrichon de porter la parole le premier. En sautant à bas de la diligence, ils demandèrent la maison du menuisier, et ils y entrèrent, l'un avec l'aisance d'un niais, l'autre avec la réserve d'un homme d'esprit.</p>
@@ -903,9 +871,7 @@
         <p>-- Nous verrons bien, répondit Pierre.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XVII</label>
-        </p>
+        <head>CHAPITRE XVII</head>
         <p>Le courage était revenu au cœur de Pierre Huguenin. La chapelle lui paraissait encore plus belle que lorsqu'il y était entré pour la première fois. La guérison de son père, la douce société et la précieuse assistance de son cher Corinthien, ajoutaient à son bonheur. Il prit son ciseau, et entonna d'une voix fraîche et sonore le chant sur la menuiserie :</p>
         <p>
           <hi>Notre art a puisé sa richesse</hi>
@@ -1009,9 +975,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XVIII</label>
-        </p>
+        <head>CHAPITRE XVIII</head>
         <p>Lorsque Pierre, qui, chez lui, comme en voyage, partageait son lit avec Amaury, à la manière des anciens frères d'armes, raconta à son ami la proposition que le comte lui avait faite, un vif sentiment d'espérance et de joie s'empara du jeune artiste. Il avait toujours senti l'adresse délicate de ses mains et le goût exquis de ses pensées le porter vers la sculpture ; mais ayant commencé l'état de menuisier et s'étant affilié à un compagnonnage de cette profession, il avait craint de se retarder dans sa carrière en embrassant une voie nouvelle. Les encouragements lui avaient manqué. Pierre était le seul qui lui eût conseillé d'aller prendre à Paris les notions de son art de prédilection. Mais à cette époque-là, le Corinthien était retenu à Blois par son amour pour la Savinienne. Il avait donc renoncé à son rêve, et avait rabattu ses prétentions sur les ornements que comporte la menuiserie en bâtiments. De l'aveu de tous les compagnons, il excellait à la partie difficile des calottes ornées dans les niches, et personne ne découpait comme lui les feuilles légères d'un chapiteau grec. C'est à cause de cette spécialité qu'on lui avait donné l'élégant surnom qu'il portait.</p>
         <p>-- Ah ! mon ami, s'écria-t-il, que la destinée est bonne d'envoyer cette diversion à ma tristesse ! Je n'ai pas eu la force de te dire mon admiration pour cette belle boiserie, et l'effet qu'elle a produit sur moi la première fois que je l'ai regardée. Voilà qu'enfin je vais pouvoir dire à mon tour : Et moi aussi je suis artiste ! Je vais faire de la sculpture, je vais créer des êtres, je vais donne la vie ! et mon imagination, qui faisait mon supplice, va faire ma joie et ma puissance !</p>
         <p>Le délire du Corinthien causa quelque surprise à son ami. Pierre ne connaissait pas encore toute l'exaltation de cette jeune tête, qui avait dévoré bien des livres et caressé bien des songes dorés dans ses voyages. Il l'embrassa avec une admiration mêlée d'attendrissement, et l'engagea à se calmer pour prendre un peu de repos. Mais le Corinthien ne put dormir, et il était levé avant le jour. Il ne songea point à déjeuner ; et, quand son ami arriva à l'atelier, il le trouva occupé à sculpter une figure.</p>
@@ -1107,9 +1071,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XIX</label>
-        </p>
+        <head>CHAPITRE XIX</head>
         <p>Quand les jeunes dames se trouvèrent tête à tête, il y eut entre elles une conversation assez singulière.</p>
         <p>-- Vous avez dit une parole bien dure pour ce pauvre jeune homme, dit la marquise en voyant Pierre Huguenin s'éloigner.</p>
         <p>-- Il ne l'a pas entendue, répondit Yseult, et d'ailleurs il n'aurait pas pu la comprendre.</p>
@@ -1181,9 +1143,7 @@
         <p>La marquise ne faisait pas d'autre impression sur Amaury. Il avait bien remarqué qu'elle était jolie, à force de l'entendre dire ; mais il ne voulait pas croire qu'elle fût là pour lui, comme le Berrichon et les apprentis le pensaient. D'ailleurs il n'avait dans l'esprit que la sculpture, et dans le cœur que la Savinienne.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XX</label>
-        </p>
+        <head>CHAPITRE XX</head>
         <p>En peu de temps, le comte de Villepreux se popularisa dans le village d'une manière merveilleuse. Il faisait beaucoup travailler, et payait avec une libéralité qu'on ne lui avait pas connue. Il dominait le curé, et, à force de cadeaux pour sa cave et pour son église, le forçait d'être tolérant et de laisser danser le dimanche. Il tenait tête au préfet pour la conscription, influençant les médecins préposés pour la visite au conseil de révision. Enfin il ouvrait son parc le dimanche à tous les habitants du village, et payait même le ménétrier pour les faire danser dans le rond-point de la garenne, à l'ombre d'un beau vieux chêne appelé le Rosny, comme tous les arbres séculaires honorés de cette illustre origine.</p>
         <p>Les ouvriers du père Huguenin s'habillaient de leur mieux ce jour-là et faisaient danser, de préférence aux paysannes, les pimpantes soubrettes du château. Le Berrichon y déployait toutes ses grâces, et ses entrechats ne manquaient pas de succès. Le Corinthien se livrait aussi à cet amusement, mais sans s'occuper d'une danseuse plus que d'une autre, et seulement peut-être pour satisfaire un peu d'enfantine coquetterie ; car il était si gracieux avec sa blouse de toile grise brodée de vert, et la toque béarnaise qu'il avait rapportée de ses voyages lui allait si bien, que tous les regards s'attachaient sur lui et que les jeunes filles enviaient l'honneur de danser avec lui.</p>
         <p>
@@ -1261,9 +1221,7 @@
         <p>Ils se rendirent sous le chêne afin de voir quelles personnes du château les y avaient devancés. La marquise venait d'arriver avec sa femme de chambre Julie, jeune dindonnière décrassée, comme l'appelait ironiquement le père Lacrête, assez coquette et passablement jolie. Le comte de Villepreux n'y était pas. Sa fille n'y était pas non plus. Cependant ce pouvait bien être elle qui avait traversé les buissons au moment où Pierre prononçait sur elle, sans la nommer, une sorte d'imprécation. Il savait qu'elle s'occupait de botanique, et quelquefois il l'avait vue entrer dans les taillis pour y recueillir des mousses et des jungermanns. Mais ce pouvait être aussi la marquise qui s'était glissée là pour les écouter. Ils en ressentaient quelque perplexité secrète, lorsque le Corinthien, soit pour chercher l'occasion d'éclaircir ce mystère, soit entraîné par un penchant irrésistible, quitta brusquement le bras de son ami, et alla inviter Joséphine. Pierre ne put se défendre d'un sentiment pénible en voyant la puissance de cet attrait réciproque. Il se mit à l'écart pour les observer, et reconnut bientôt qu'un grand danger menaçait la raison et le repos du Corinthien. La marquise ne lui parut guère moins à plaindre. Elle semblait à la fois enivrée et consternée. Lorsque le jeune sculpteur était à ses côtés, elle ne voyait plus que lui ; mais, dès qu'il s'éloignait, elle hasardait autour d'elle des regards effrayés et pleins de confusion. Il faut qu'elle l'aime beaucoup, se disait Pierre, pour venir ici, à peu près seule, danser avec ces braves paysans, qui certes ne sont à ses yeux que des rustres. Pierre se trompait sur ce dernier point. Ces rustres avaient des yeux ; ils admiraient la brillante fraîcheur de Joséphine et la grâce légère de ses mouvements. Ils se le disaient les uns aux autres. Le Corinthien entendait ces éloges naïfs, et Joséphine voyait bien qu'il ne les entendait pas sans émotion. Elle désirait donc de plaire à tous ses danseurs, afin de plaire davantage à celui qu'elle préférait.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XXI</label>
-        </p>
+        <head>CHAPITRE XXI</head>
         <p>Pierre fit de vains efforts pour arracher le Corinthien de la danse. -- Laisse-moi épuiser cette folie, lui répondait le jeune homme. Je t'assure que je suis encore maître de moi-même. D'ailleurs c'est la dernière fois que je braverai ce danger. Mais regarde ; la voilà seule au milieu de tous ces villageois, dont quelques-uns sont avinés. Cette petite Julie n'est pas un porte-respect pour elle ; et si c'était moi, comme tu le penses, qu'elle est venue se risquer dans cette foule un peu brutale, ne serait-ce pas mon devoir de veiller sur elle et de la protéger ? Va, Pierre, une femme est toujours une femme, et l'appui d'un homme, quel qu'il soit, lui est toujours nécessaire.</p>
         <p>L'Ami-du-trait fut forcé d'abandonner le Corinthien à lui-même. Il se sentait devenir de plus en plus triste en assistant au spectacle de ce bonheur plein de périls et d'ivresse qui réveillait douloureusement en lui sa souffrance cachée. Il se demandait alors s'il avait bien le droit de blâmer une faiblesse à laquelle, dans le secret de ses pensées, il s'était vu près de succomber, et dont il n'eût pu sans mentir se dire radicalement guéri. Il s'enfonça dans le parc, dévoré d'une étrange inquiétude.</p>
         <p>Il oublia l'heure qui marchait et le soleil qui, en montant sur l'horizon, lui mesurait sa tâche de travail. Il tomba le visage cotre terre, et se tordit les mains en versant des torrents de larmes.</p>
@@ -1307,9 +1265,7 @@
         <p>Amaury, le Berrichon et les apprentis lui firent un lit de leurs vestes et de leurs blouses, en lui promettant de regagner le temps à sa place, et il s'endormit au bruit de la scie et du marteau qui lui était trop familier pour interrompre son sommeil.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XXII</label>
-        </p>
+        <head>CHAPITRE XXII</head>
         <p>-- Qu'a-t-il donc à dormir ainsi les yeux ouverts ? Il a l'air de rêvasser dans la fièvre. Réveille-toi tout à fait, mon Pierre, cela te vaudra mieux que de trembler et de soupirer comme tu fais.</p>
         <p>Ainsi parlait le père Huguenin, et il secouait son fils pour l'éveiller. Pierre obéit machinalement, et se souleva ; mais les cieux n'étaient pas encore refermés pour lui. Il ne dormait plus ; mais il voyait encore passer autour de lui des formes idéales, et les accords des lyres sacrées résonnaient à ses oreilles. Il était debout et sa vision était à peine dissipée. Il était surtout frappé du parfum des fleurs qui le suivait jusque dans la réalité. -- Est-ce que vous ne sentez pas l'odeur des roses et des lis ? dit-il à son père qui le regardait d'un air inquiet.</p>
         <p>-- Je le crois bien, dit le père Huguenin, tu as des fleurs plein ta chemise ; on dirait que tu as voulu faire de ta poitrine un reposoir de la Fête-Dieu.</p>
@@ -1317,9 +1273,7 @@
         <p>-- Ah ! dit-il en les ramassant, voilà ce qui m'a procuré ce beau rêve ! Et, sans se plaindre d'avoir été interrompu, il se remit à l'ouvrage plein de force et d'ardeur.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XXIII</label>
-        </p>
+        <head>CHAPITRE XXIII</head>
         <p>Ce jour-là la marquise n'avait pas dîné au château. Elle avait été rendre visite à une de ses parentes établie dans une petite ville des environs. Elle était partie le matin dans une légère calèche découverte traînée par un seul cheval, et accompagnée d'un seul domestique qui menait la voiture.</p>
         <p>
           Joséphine fut retenue à dîner par sa cousine, et ne put reprendre le chemin de Villepreux que vers la chute du jour. Elle remarqua avec une certaine inquiétude, en montant en voiture, que Wolf, le cocher, avait la voix haute et le teint fort animé. Cette inquiétude augmenta lorsqu'elle le vit descendre rapidement la rue mal pavée de la ville, frisant les bornes avec cette audace et ce rare bonheur qui accompagnent souvent les gens ivres. Le fait est que Wolf avait
@@ -1429,9 +1383,7 @@
         <p>Pierre lui raconta qu'il avait trouvé la marquise seule dans la voiture, entraînée par le cheval, qui, après avoir couru toute la nuit, revenait au hasard ; que dans le premier moment elle avait eu la force de lui dire comment cet accident était arrivé ; et il fit à cet égard le conte arrangé avec le Corinthien. Puis il aida mademoiselle de Villepreux à transporter sa cousine dans son appartement, tandis que les domestiques examinaient les harnais du cheval, que Pierre avait eu soin de déranger et de rompre en plusieurs endroits pour faire croire à une révolte sérieuse de sa part. Ce pauvre animal fut le seul calomnié de l'aventure. Personne ne soupçonna la vérité. Wolf, qui n'avait rien vu, et qui ne se rappelait pas seulement comment les choses s'étaient passées, ne put se disculper. On l'eût chassé si la marquise, après avoir une attaque de nerfs, n'eût demandé vivement sa grâce. Pierre fut remercié dans les plus beaux termes par le comte de Villepreux. Mais rien ne valait pour lui un mot d'Yseult ; et comme il l'attendait toujours, il allait retourner tristement à l'atelier, lorsqu'elle s'approcha de lui, lui tendit la main, et la lui serra, devant tout le monde, avec une franchise d'amitié dont ses traits confirmaient la rayonnante effusion. C'était un autre bonheur que celui du Corinthien ; mais il n'était peut-être pas moindre.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XXIV</label>
-        </p>
+        <head>CHAPITRE XXIV</head>
         <p>Joséphine était dans une disposition d'esprit à n'oser lever les yeux sur personne. Consternée de sa chute, effrayée de tout, elle se tenait presque toujours dans sa chambre depuis l'aventure des brouillards ; et Amaury, en proie à mille inquiétudes, passant de la reconnaissance au dépit et de l'espoir à la jalousie, ignorait s'il lui serait jamais permis de la revoir. Il ne l'apercevait plus que de loin, à travers les arbres. Après le dîner, la famille prenait le café sur une terrasse couverte d'orangers qu'Amaury pouvait voir de l'atelier. À cette heure, il avait toujours quelque travail à faire aux fenêtres, et, monté sur une échelle, il plongeait sur la terrasse, suivait tous les mouvements de la languissante marquise. Il aurait eu bien besoin d'ouvrir son cœur à son ami Pierre, et de lui demander conseil ; d'autant plus qu'il n'avait rien à lui révéler, puisque le hasard l'avait initié au secret de son amour ; mais Pierre semblait éviter ses confidences. En proie lui-même à un rêve dont il craignait d'être forcé de s'éveiller, il s'enfonçait dans la solitude aussitôt que sa journée de travail était finie. Il errait dans le parc aux mêmes endroits où il avait rencontré Yseult, n'osant espérer l'y rencontrer encore, et l'y rencontrant presque toujours, ayant l'air de ne pas le chercher, et pourtant ne l'évitant pas. Leurs conversations roulaient toujours sur les idées générales. Aucune familiarité extérieure ne s'était établie entre eux ; mais l'intimité du cœur grandissait et prenait de la force. Il y avait une estime et une admiration mutuelles qui trouvaient chaque jour de nouveaux aliments et de nouvelles causes.</p>
         <p>Dans cet endroit du parc la végétation était fort épaisse, et il n'y avait guère de danger d'être troublé par les malignes interprétations des curieux. C'était un quartier fermé d'une petite barrière, et consacré à la culture des belles fleurs qu'Yseult chérissait. Hôtes, parents et domestiques avaient l'habitude de respecter ce parc réservé, et de n'y entrer jamais, que la barrière fût ouverte ou fermée. Il y avait une volière et un jet d'eau au milieu d'un boulingrin parsemé de plates-bandes en corbeilles. Autour de cette pièce de gazon une double rangée d'arbres et d'arbustes formait une allée circulaire. Un treillage en bois fermait le tout. Pierre rencontrait ordinairement mademoiselle de Villepreux à peu de distance de cet enclos. Lorsqu'elle était seule, elle faisait quelques tours de promenade devant la porte d'entrée avec Pierre ; et quand elle jugeait que l'entrevue avait été assez longue, elle entrait dans son parterre, après lui avoir souhaité le bonsoir avec une grâce simple et chaste que Pierre comprenait et respectait jusqu'à l'adoration. Il s'éloignait alors rapidement, et allait attendre sa sortie au bout de l'allée, caché dans un massif. Il était heureux de la voir passer ; et quand la nuit était trop sombre pour qu'il distinguait sa forme légère, il était heureux encore d'entendre le frôlement de sa robe dans les herbes. Pour rien au monde Pierre n'eût voulu, dans ce moment, s'approcher d'elle. Il sentait le prix de la confiance qu'elle lui accordait en l'abordant toujours avec bienveillance, et il comprenait ce qui est convenable et ce qui ne l'est pas, beaucoup mieux que certaines gens à qui l'usage du monde ne donne jamais ni tact ni mesure. Ainsi, il faisait, au sujet de ces promenades et de ces rencontres, des observations aussi délicates qu'eût pu les faire l'homme de mœurs les plus exquises.</p>
         <p>Il y a dans la vie de château des heures d'impunité qui passent toute vraisemblable. Les deux jeunes dames traversaient une de ces phases où tout semble favoriser l'oubli du monde et l'essor de l'imagination. Un soir Joséphine pleurait, le coude appuyé sur le bord de sa fenêtre. Elle désirait revoir le Corinthien, mais elle ne l'osait pas ; elle n'était pas sûre que tout le monde n'eût pas deviné son secret, et se demandait lequel il fallait choisir, ou du mépris de tout le monde, ou de celui de l'homme qu'elle abandonnait après s'être abandonnée à lui. Tout à coup elle entendit un bruit sourd derrière une petite porte pratiquée dans la boiserie de son alcôve, et qui avait peut-être protégé les amours de quelque châtelaine du temps de la Ligue avec quelque heureux page en l'absence de l'époux guerroyant. Cette porte ouvrait un passage qui, dans l'épaisseur des murs, faisait plusieurs détours dans le château et finissait à une impasse. On avait muré cette issue mystérieuse, désormais regardée comme inutile. Mais une trappe située dans les boiseries de la chapelle avait conduit l'ardent Corinthien, de découverte en découverte et de décombres en décombres, jusqu'à cette impasse. À force de calculer et de s'orienter, il avait deviné qu'une certaine porte secrète, située dans l'appartement de la marquise, et dont mademoiselle Julie, sa femme de chambre, parlait quelquefois à l'office comme d'un repaire à revenants, devait aboutir précisément à l'endroit où il s'était arrêté. Il avait pris une lampe, une pince et un marteau, et s'était plongé dans le labyrinthe. Depuis trois jours il travaillait à percer le mur. Le bruit de son marteau était amorti par l'épaisseur de la maçonnerie. C'était une entreprise pénible et palpitante, comme celle d'un prisonnier qui travaille à son évasion. Quand le mur fur percé, le bruit se fit entendre, et la marquise, qui n'était guère moins superstitieuse que sa femme de chambre, fut prise d'une telle frayeur qu'elle s'enfuit jusqu'au bas de l'escalier pour appeler du secours ; mais je ne sais quel instinct de prudence l'empêcha de céder à cette peur et de la raconter au salon, où l'on se réunissait de dix heures à minuit, après la sieste du comte.</p>
@@ -1484,9 +1436,7 @@
         <p>Un beau jour, je remarquai que, tout en mangeant de fort bon appétit, il faisait de gros soupirs toutes les fois que je lui offrais de quelque plat. Je lui demandai s'il était souffrant ; il me répondit qu'il souffrait horriblement, et je me mis à le questionner sur sa santé, sans me douter qu'il venait de me faire une déclaration. Je trouvai le lendemain dans mon rudiment un singulier billet, tout rayé de points d'exclamation ; et je le portai à mon grand-père, qui en rit beaucoup, et me recommanda de ne pas laisser deviner que je l'eusse reçu. Il eut un assez long entretien avec le professeur, et le lendemain celui-ci avait disparu. Je ne sais quelle femme du monde ou quelle femme de chambre inventa un scandale domestique, le renvoi brutal et humiliant du professeur et mon désespoir. Le fait est que mon grand-père avait confié à ce jeune homme une petite mission politique en Espagne, dont il s'acquitta aussi bien qu'un autre, et qu'à son retour il fut reçu dans la maison avec autant de bienveillance que s'il ne se fût jamais rien passé qui eût dû l'en faire bannir. Il ne fut jamais question du billet entre nous, et il n'en écrivit plus.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XXV</label>
-        </p>
+        <head>CHAPITRE XXV</head>
         <p>Le 3 novembre de cette même année 1823, c'est-à-dire environ deux mois après l'aventure du Corinthien et de la marquise, on célébra la fête du comte de Villepreux. Plusieurs personnes des environs furent invitées à dîner. Beaucoup d'autres vinrent rendre hommage au patriarche du libéralisme de Loir-et-Cher. Le comte n'était pas très flatté de ces ovations domestiques. Heureusement il avait un auxiliaire puissant dans la personne de Joséphine. L'amante du Corinthien avait fait ce jour-là une toilette ravissante et elle était d'une beauté à faire tourner la tête à tous les partis. Le comte la mit en relief en la priant de chanter quelque chanson du pays, suivant le vieil usage campagnard et à la manière des pastourelles de la lande. Joséphine, élevée aux champs, ayant une jolie voix et des instincts particuliers de mimique, chantait ces ballades naïves d'une manière très piquante et avec beaucoup de gentillesse. Elle se fit bien prier, mais enfin elle céda. Dès ce moment on ne s'occupa plus que de la séduisante marquise. Les jeunes royalistes, que l'on avait eu soin de placer autour d'elle, se disputèrent ses réponses, ses regards, ses sourires, et jusqu'aux fruits et bonbons que sa main avait touchés. Quand on passa au salon, il s'y trouva un violon ; Raoul savait jouer des contredanses. Le comte pria sa fille de se mettre au piano, et en un instant le bal fut organisé. Pierre Huguenin avait été prié de venir prêter son aide, et on avait été chercher, pour faire nombre (car il y avait peu de dames), la fille de l'adjoint et celles des fermiers qui avaient d'assez belles toilettes pour des dames de village.</p>
         <p>En montant des meubles dans le cabinet de la tourelle, Pierre, conduit par Yseult, ne put se défendre d'une émotion que celle-ci aperçut et partagea.</p>
         <p>-- Cette pièce vous rappelle, ainsi qu'à moi, lui dit-elle avec candeur, un souvenir pénible ; je voudrais l'effacer. Ne vous souvenez-vous pas d'une certaine gravure que vous aviez acceptée et que vous avez méprisée ensuite ? Elle est toujours là ; et tant qu'elle y sera je croirai que nous ne sommes pas bien réconciliés.</p>
@@ -1573,9 +1523,7 @@
         <p>Le Corinthien écrivit pourtant ; il écrivit dans la nuit, sous l'empire d'une indignation et d'un dégoût profonds pour la marquise. Aussitôt que le jour parut, il courut porter sa lettre à la poste, et elle partit avant que Pierre, vaincu par la fatigue, se fût réveillé.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XXVI</label>
-        </p>
+        <head>CHAPITRE XXVI</head>
         <p>Pendant plusieurs jours le Corinthien ne revit pas la marquise ; et comme elle n'avait la conscience d'aucun tort envers lui, la coquetterie étant chez elle une seconde nature, sa surprise fut extrême ; mais son chagrin ne fut pas bien profond d'abord. Son enivrement se prolongea jusqu'à une partie de chasse que les amis de Raoul lui avaient proposée et qu'ils arrangèrent pour elle. Yseult tâcha d'abord de l'en détourner, n'aimant pas la voir entrer en relation avec des gens qu'elle croyait antipathiques à son grand-père, et vers lesquels elle ne se sentait portée par aucun lien d'idées ou de position. Mais le vieux comte n'était pas fâché de voir sa famille se rattacher par quelque bout à la noblesse du pays, et il autorisa sa nièce à se distraire en acceptant l'invitation qu'une élégante et fière comtesse des environs, sœur d'un des plus ardents adorateurs de Joséphine, vint lui faire en personne. Cette visite diplomatique avait pour but, dans la pensée de la noble dame, le mariage de ce frère, le vicomte Amédée, avec la riche Yseult de Villepreux. Yseult s'étonna un peu de ce retour vers elle après l'indignation que ses idées républicaines bien connues avaient excitée chez sa voisine. Elle y répondit assez froidement ; et pourtant, comme Joséphine la conjurait de l'accompagner, elle ne refusa pas ouvertement. Joséphine ne montait pas à cheval : on devait venir la prendre en calèche. Yseult était une très bonne amazone ; elle dirigeait adroitement son cheval, et lui faisait franchir les fossés et les barrières avec ce calme dont on ne la voyait jamais se départir. Ce talent d'équitation était le seul qui lui attirât un peu de considération de la part de son frère et des nobles damoiseaux du voisinage. Elle aimait beaucoup cet exercice ; et comme il était bien difficile qu'elle n'eût pas, sous son grave extérieur, un peu des goûts et des entraînements de l'enfance, elle se laissa vaincre peu à peu. Il y avait quelque temps qu'elle n'était montée à cheval : elle voulu s'exercer seule dans le parc. Pierre, qui la guettait sans cesse, se trouva sur son passage, comme elle fendait l'air avec la rapidité d'une flèche. Elle s'arrêta court devant lui, et lui demanda en riant s'il n'était pas scandalisé de la voir se livrer à un amusement aussi aristocratique. Pierre sourit à son tour, mais avec tant d'effort, et son regard trahissait une tristesse si profonde, qu'Yseult pressentit tout ce qui se passait en lui. Elle voulut s'en assurer : -- Vous savez qu'il y a une grande partie de chasse demain ? lui dit-elle.</p>
         <p>-- Je l'ai entendu dire, répondit Pierre.</p>
         <p>-- Et savez-vous qu'on veut m'y emmener ?</p>
@@ -1652,9 +1600,7 @@
         <p>Elle s'éloigna rapidement, donna l'ordre d'aller avertir Pierre Huguenin, et courut s'enfermer dans sa chambre, où elle resta pendant deux heures, assise devant sa table et la tête dans ses mains. À l'heure du thé, son grand-père la fit appeler. Elle rentra au salon aussi calme que s'il n'était rien survenu de grave dans ses pensées.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XXVII</label>
-        </p>
+        <head>CHAPITRE XXVII</head>
         <p>Pierre accourut auprès de la Savinienne dès qu'il apprit son arrivée au château. Il se flattait d'y trouver Amaury, qui s'était échappé au beau milieu de son souper. Mais il ne l'y trouva pas, et c'est en vain qu'il l'attendit ; c'est en vain qu'il le chercha de tous côtés.</p>
         <p>La soirée s'écoula sans que le Corinthien parût. Pierre, dans ses prévisions sur l'arrivée de la Savinienne, s'était dit que sa première entrevue avec Amaury déciderait de leur sort mutuel, et que, d'après la froideur ou la joie de son amant, elle découvrirait la vérité ou garderait son illusion. Son embarras, à lui, était donc très grand ; car l'absence du Corinthien pouvait avoir un motif indépendant de sa volonté, et Pierre n'avait pas le droit de faire la confession de son ami avant de lui avoir donné le temps de se justifier. D'un autre côté, la Savinienne était si calme, si pleine de foi et d'espoir, et Pierre pressentait tellement l'inévitable déception qui l'attendait, qu'il se reprochait de la confirmer dans son erreur. Elle ne lui faisait pas de questions, une secrète pudeur lui défendant de prononcer la première le nom de celui qu'elle aimait ; mais elle attendait qu'il lui parlât de son ami autrement que pour répéter à chaque instant : « Je ne vois pas venir le Corinthien », ou bien : « J'espère que le Corinthien va venir. »</p>
         <p>
@@ -1699,9 +1645,7 @@
         <p>-- Mon garçon, quand on voit blanchir la main et pousser les ongles d'un ouvrier, on peut dire que c'est mauvais signe ; car ses outils se rouillent et ses planches moisissent.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XXVIII</label>
-        </p>
+        <head>CHAPITRE XXVIII</head>
         <p>
           M. Isidore Lerebours, l'employé aux ponts-et-chaussées, était depuis quelque temps l'habitant à poste du château de Villepreux. Son père prétendait qu'il avait eu
           <hi>quelques désagréments</hi>
@@ -1815,9 +1759,7 @@
         <p>Yseult sourit, et déposa sans rien répondre un long baiser sur le front de sa cousine. Son visage avait une expression sublime.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XXIX</label>
-        </p>
+        <head>CHAPITRE XXIX</head>
         <p>Le soir de ce jour déjà si rempli d'émotions, Pierre et le Corinthien travaillaient à la lumière, agités eux-mêmes d'une sorte de fièvre. Amaury, ennuyé de son entreprise, se hâtait d'achever ses dernières figures sculptées, et aspirait à entamer les ornements plus faciles auxquels Pierre devait l'aider. La partie de pure menuiserie n'avait pas été à beaucoup près aussi vite. Il y avait encore bien des panneaux disjoints, bien des moulures inachevées. Mais le père Huguenin avait été forcé de prendre patience ; car son fils voulait achever avant tout l'escalier de la tribune, qu'il s'était réservé comme le morceau le plus important et le plus difficile. Pierre ne disait pas que, dans le secret de son âme, il chérissait cette partie de l'atelier qui le rapprochait du cabinet de la tourelle, et de la tribune, où quelquefois il n'était séparé d'Yseult que par la porte, souvent entr'ouverte, du cabinet d'étude.</p>
         <p>Retranché dans le fond de l'atelier, Pierre avait depuis quelque temps travaillé sans relâche. Non seulement il voulait que son escalier fût une pièce conforme à toutes les lois de la science, mais il voulait encore en faire une œuvre d'art. Il songeait à lui donner le style, le caractère, le mouvement non seulement facile et sûr, mais encore hardi et pittoresque. Il ne fallait pas que ce fût l'escalier coquet d'un restaurant ou d'un magasin, mais bien l'escalier austère et riche d'un vieux manoir, tel que ceux qu'on voit au fond des intérieurs de Rembrandt, sur lesquels la lumière douteuse et rampante monte et décroît avec tant d'art et de profondeur. La rampe en bois, découpée à jour, et les ornements des pendentifs, devaient aussi être d'un choix particulier. Pierre eut le bon sens et le bon goût d'emprunter le dessin de ces parties aux ornements de l'ancienne boiserie. Il les adapta aux formes et aux dimensions de son escalier, et là ses connaissances en géométrie lui devinrent de la plus grande utilité. C'était un travail d'architecte, de décorateur et de sculpteur en même temps. Pierre était sévère envers lui-même. Il se disait que ce serait peut-être la seule occasion qu'il aurait dans sa vie d'unir sérieusement les conditions de l'utile à celles du beau, et il voulait laisser dans ce monument, où des générations d'ouvriers habiles avaient exécuté de si belles choses, une trace de sa vie, à lui, ouvrier consciencieux, artiste et noble.</p>
         <p>
@@ -1914,9 +1856,7 @@
         <p>Yseult fut forcée de s'interrompre. La surprise, l'indignation, le chagrin, et surtout peut-être la confusion de n'avoir rien à répondre, avaient fait une telle révolution chez le vieux comte qu'il sentit tout d'un coup la force l'abandonner et le sang lui bourdonner dans les oreilles. Il se laissa tomber sur un fauteuil, et devint alternativement écarlate et pâle comme la mort. Yseult, le voyant défaillir, fit un cri et embrassa ses genoux. -- Malheureuse fille ! dit le vieillard avec effort, vous tuez votre père ! Et il perdit connaissance.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>CHAPITRE XXX</label>
-        </p>
+        <head>CHAPITRE XXX</head>
         <p>Le comte eut une congestion cérébrale, qu'on prit d'abord pour une sérieuse attaque d'apoplexie, et qui répandit l'alarme dans le château. Mais au premières gouttes de sang qu'on lui tira, il se sentit soulagé, et tendit la main à sa petite-fille, qui, plus pâle et plus malade que lui, était agenouillée, demi-morte, auprès de son lit. Affaibli de corps et d'esprit, le vieillard ne songea point à revenir sur l'étrange déclaration qu'Yseult lui avait faite. Il s'endormit assez paisiblement vers le point du jour ; et Yseult, brisée de fatigue, toujours à genoux près de lui, s'endormit la face appuyée contre le lit, et les genoux pliés sur un cousin.</p>
         <p>Ce que souffrit Pierre Huguenin durant cette nuit-là dépassa tout ce qu'il avait jamais souffert dans sa vie. D'abord il avait aidé Yseult à transporter son père dans sa chambre et à appeler du secours ; mais quand le médecin eut fait sortir tout le monde, excepté mademoiselle de Villepreux et son frère ; quand il lui fallut quitter l'intérieur du château, où sa présence, à cette heure avancée, n'était plus explicable ni possible, il fut en proie à toutes les angoisses de l'inquiétude et de l'épouvante. Il songeait à ce que devait souffrir Yseult ; il croyait que le comte allait mourir ; et il était livré à des remords affreux, comme s'il eût été coupable de quelque crime. Il erra jusqu'au jour dans le parc, revenant d'heure en heure interroger la Savinienne, qui était accourue auprès d'Yseult, et qui veillait dans la chambre voisine. De temps en temps elle descendait furtivement au jardin pour tranquilliser son ami. Lorsqu'il sut que le comte était tout à fait hors de danger, et que l'accident n'aurait pas de suites sérieuses, il s'enfonça de nouveau dans le parc, et alla rêver aux mêmes lieux où il avait tant rêvé déjà, et qui avaient été témoins des joies chastes de son amour.</p>
         <p>Ramené, au milieu de sa joie et de son ivresse d'amour, au sentiment de ce devoir austère qu'il s'était imposé de chercher la vérité et la justice, il fut épouvanté de cette richesse, qui semblait s'offrir à lui et le convier aux jouissances des privilégiés. Quelle que fût l'opposition du comte aux projets de sa petite-fille, Pierre pouvait l'épouser. Le comte était vieux, Yseult forte et fidèle. Pierre n'avait donc qu'un mot à dire, un serment à accepter ; et ces terres, et ce château, et ce beau parc qui lui avait donné la première idée de la nature vaincue et idéalisée par la main de l'homme, tout cela pouvait être à lui. Il pouvait fermer désormais son cœur à la souffrance de la pitié, s'endormir pour quarante ou cinquante ans dans la vie du siècle, oublier le problème divin, profiter de la loi qui consacre et qui sanctifie presque le bonheur exclusif de certains hommes... Eh ! pourquoi ne pouvait-il accepter ce bonheur sans abjurer ses principes ? Ne pouvait-il donc suivre le flot de la société ? être, comme Amaury, l'homme de son temps, l'heureux parvenu, l'artiste conquérant ou le riche improvisé, sans cesser d'être homme de bien, sans abandonner la recherche de l'idéal ? Ne pouvait-il faire servir sa richesse à la découverte du problème, répandre ses bienfaits sur un certain nombre d'hommes, essayer diverses formes d'exploitation rurale avantageuses au cultivateur prolétaire, fonder des hôpitaux, des écoles ? Ces nobles rêves traversèrent sa pensée. Yseult, à coup sûr, au lieu de l'entraver, le seconderait de toute sa volonté et de toute sa vertu. Sans doute, c'étaient là des grands arguments qu'elle avait en réserve pour vaincre son désintéressement et sa fierté.</p>

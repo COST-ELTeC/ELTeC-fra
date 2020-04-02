@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA04102" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">58842</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -68,9 +68,7 @@
         <p>MADAME THÉRÈSE -- ou -- LES VOLONTAIRES DE 92</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>I</label>
-        </p>
+        <head>I</head>
         <p>Nous vivions dans une paix profonde au village d'Anstatt, au milieu des Vosges allemandes, mon oncle le Dr Jacob Wagner, sa vieille servante Lisbeth et moi. Depuis la mort de sa sœur Christine, l'oncle Jacob m'avait recueilli chez lui.</p>
         <p>J'approchais de mes dix ans ; j'étais blond, rose et frais comme un chérubin. J'avais un bonnet de coton, une petite veste de velours brun, provenant d'une ancienne culotte de mon oncle, des pantalons de toile grise et des sabots garnis au-dessus d'un flocon de laine. On m'appelait le petit Fritzel au village, et chaque soir, en rentrant de ses courses, l'oncle Jacob me faisait asseoir sur ses genoux pour m'apprendre à lire en français dans l'Histoire naturelle de M. de Buffon.</p>
         <p>Il me semble encore être dans notre chambre basse, le plafond rayé de poutres enfumées. Je vois, à gauche, la petite porte de l'allée et l'armoire de chêne ; à droite, l'alcôve fermée d'un rideau de serge verte ; au fond, l'entrée de la cuisine, près du poêle de fonte aux grosses moulures représentant les douze mois de l'année, -- le Cerf, les Poissons, le Capricorne, le Verseau, la Gerbe, etc., -- et, du côté de la rue, les deux petites fenêtres qui regardent à travers les feuilles de vigne sur la place de la Fontaine.</p>
@@ -154,9 +152,7 @@
         <p>Un quart d'heure après, le plus profond silence régnait dans la maison.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II</label>
-        </p>
+        <head>II</head>
         <p>Or, un vendredi soir du mois de novembre 1793, Lisbeth, après le souper, pétrissait la pâte pour cuire le pain du ménage, selon son habitude. Comme il devait en résulter aussi de la galette et de la tarte aux pommes, je me tenais près d'elle dans la cuisine, et je la contemplais en me livrant aux réflexions les plus agréables.</p>
         <p>La pâte faite, on y mit la levure de bière, on gratta le pétrin tout autour, et l'on étendit dessus une grosse couverture en plumes pour laisser fermenter. Après quoi, Lisbeth répandit les braises de l'âtre à l'intérieur du four, et poussa dans le fond, avec la perche, trois gros fagots secs qui se mirent à flamboyer sous la voûte sombre. Enfin, le feu bien allumé, elle plaça la plaque de tôle devant la bouche du four, et me dit :</p>
         <p>-- Maintenant, Fritzel, allons nous coucher ; demain, quand tu te lèveras, il y aura de la tarte.</p>
@@ -268,9 +264,7 @@
         <p>Le commandant se leva, plia la carte et la mit dans sa poche. Puis il s'avança jusqu'à l'une des fenêtres et se mit à regarder le village. L'oncle et moi nous regardions à l'autre fenêtre. Il pouvait être alors cinq heures du matin.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III</label>
-        </p>
+        <head>III</head>
         <p>Toute ma vie je me rappellerai cette rue silencieuse encombrée de gens endormis, les uns étendus, les autres repliés, la tête sur le sac. Je vois encore ces pieds boueux, ces semelles usées, ces habits rapiécés, ces faces jeunes aux teintes brunes, ces vieilles joues rigides, les paupières closes ; ces grands chapeaux, ces épaulettes déteintes, ces pompons, ces couvertures de laine à bordure rouge filandreuse, pleines de trous, ces manteaux gris, cette paille dispersée dans la boue. Et le grand silence du sommeil après la marche forcée, ce repos absolu semblable à la mort ; et le petit jour bleuâtre enveloppant tout cela de sa lumière indécise, le soleil pâle montant dans la brume, les maisonnettes aux larges toitures de chaume, regardant de leurs petites fenêtres noires ; et tout au loin, des deux côtés du village, sur l'Altenberg et le Réepockel, au-dessus des vergers et des chènevières, les baïonnettes des sentinelles scintillant parmi les dernières étoiles, non, jamais je n'oublierai cet étrange spectacle ; j'étais bien jeune alors, mais de tels souvenirs sont éternels.</p>
         <p>À mesure que le jour grandissait, s'animait aussi le tableau : une tête se levait, s'appuyait sur le coude et regardait, puis bâillait et se couchait de nouveau. Ailleurs un vieux soldat se dressait tout à coup, secouait la paille de ses habits, se coiffait de son feutre et repliait son lambeau de couverture ; un autre aussi roulait son manteau et le bouclait sur son sac ; un autre tirait de sa poche un bout de pipe et battait le briquet. Les premiers levés se rapprochaient et causaient entre eux, d'autres venaient les rejoindre en frappant de la semelle, car il faisait froid à cette heure ; les feux allumés dans la rue et sur la place avaient fini par s'éteindre.</p>
         <p>En face de chez nous, sur la petite place, était la fontaine ; un certain nombre de Républicains, rangés autour des deux grandes auges moussues, se lavaient, riant et plaisantant malgré le froid ; d'autres venaient allonger la lèvre au goulot.</p>
@@ -361,9 +355,7 @@
         <p>Je regardai vers la barricade des Républicains ; le feu avait gagné les maisons et montait jusque dans le ciel ; de l'autre côté, un frémissement d'armes remplissait la rue, et déjà, sur les maisons voisines, de longues piques noires sortaient des lucarnes pour renverser l'échafaudage de l'incendie.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV</label>
-        </p>
+        <head>IV</head>
         <p>Après le départ des Républicains, il se passa bien encore un quart d'heure avant que personne ne se montrât de notre côté dans la rue. Toutes les maisons semblaient abandonnées. De l'autre côté de la barricade, le tumulte augmentait ; les cris des gens : « Au feu ! au feu ! » se prolongeaient d'une façon lugubre.</p>
         <p>J'étais sorti sous le hangar, épouvanté de l'incendie. Rien ne bougeait ; on n'entendait que le pétillement du feu et les soupirs d'un blessé assis contre le mur de notre étable ; il avait une balle dans les reins, et s'appuyait sur les deux mains pour se tenir droit : c'était un Croate ; il me regardait avec des yeux terribles et désespérés. Un peu plus loin, un cheval, couché sur le flanc, balançait sa tête au bout de son long cou, comme un pendule.</p>
         <p>Et comme j'étais là, pensant que ces Français devaient être de fameux brigands, pour nous brûler sans aucune raison, un faible bruit se fit entendre derrière moi ; je me retournai, et je vis dans l'ombre du hangar, sous les brindilles de paille tombant des poutres, la porte de la grange entrouverte, et derrière, la figure pâle de notre voisin Spick, les yeux écarquillés. Il avançait la tête doucement et prêtait l'oreille ; puis, s'étant convaincu que les Républicains venaient de battre en retraite, il s'élança dehors en brandissant sa hache comme un furieux, et criant :</p>
@@ -500,9 +492,7 @@
         <p>Enfin, au petit jour, tous ces bruits cessèrent et, je m'endormis profondément.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V</label>
-        </p>
+        <head>V</head>
         <p>C'est le lendemain qu'il aurait fallu voir le village, lorsque chacun voulut reconnaître ce qui lui restait et ce qui lui manquait, et qu'on s'aperçut qu'un grand nombre de Républicains, de uhlans et de Croates avaient passé par derrière dans les maisons, et qu'ils avaient tout vidé ! C'est alors que l'indignation fut universelle, et que je compris combien le mauser avait eu raison de dire : « Maintenant les jours de calme et de paix se sont envolés par ces trous ! »</p>
         <p>Toutes les portes et les fenêtres étaient ouvertes pour voir le dégât, toute la rue était encombrée de meubles, de voitures, de bétail, et de gens qui criaient : « Ah ! les gueux... Ah ! les brigands... ils ont tout pris ! »</p>
         <p>L'un cherchait ses canards, l'autre ses poules ; l'autre, en regardant sous son lit, trouvait une vieille paire de savates à la place de ses bottes ; l'autre, en regardant dans sa cheminée, où pendaient la veille au matin des andouilles et des bandes de lard, la voyait vide, et entrait dans une fureur terrible ; les femmes se désolaient en levant les mains au ciel, et les filles semblaient consternées.</p>
@@ -579,9 +569,7 @@
         <p>Je ne savais que penser de tout cela. Mais après avoir tant couru et m'être crotté jusqu'à l'échine, une fois au lit, je m'endormis si profondément, que le retour des Républicains eux-mêmes, leurs feux de peloton et de bataillon n'auraient pu m'éveiller avant dix heures du matin.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI</label>
-        </p>
+        <head>VI</head>
         <p>Le lendemain du départ des Républicains, tout le village savait déjà qu'une Française était chez l'oncle Jacob, qu'elle avait reçu un coup de pistolet et qu'elle en reviendrait difficilement. Mais comme il fallait réparer les toits des maisons, les portes et les fenêtres, chacun avait bien assez de ses propres affaires sans s'inquiéter de celles des autres, et ce n'est que le troisième jour, quand tout fut à peu près remis en bon état, que l'idée de la femme revint aux gens.</p>
         <p>Alors aussi Joseph Spick répandit le bruit que la Française devenait furieuse, et qu'elle criait : « Vive la République ! » d'une façon terrible.</p>
         <p>Le gueux se tenait sur le seuil de son cabaret, les bras croisés, l'épaule au mur, ayant l'air de fumer sa pipe, en disant aux passants :</p>
@@ -685,9 +673,7 @@
         <p>Et c'était vrai, depuis ce jour le caniche ne refusa plus de m'accompagner ; au contraire, il me suivait gravement dans tout le village, ce qui me rendait encore plus fier que Zaphéri Schmouck avec son pistolet de uhlan ; il s'asseyait près de ma chaise pour lécher mes assiettes, et faisait tout ce que je voulais.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII</label>
-        </p>
+        <head>VII</head>
         <p>La neige ne cessa point de tomber ce jour-là ni la nuit suivante ; chacun pensait que les chemins de la montagne en seraient encombrés, et qu'on ne reverrait plus ni les uhlans ni les Républicains : mais un petit événement vint encore montrer aux gens les tristes suites de la guerre, et les faire réfléchir sur les malheurs de ce bas monde.</p>
         <p>C'était le lendemain du jour où la femme avait repris connaissance, entre huit et neuf heures du matin. La porte de la cuisine restait ouverte, pour laisser entrer la chaleur dans la salle. Je me tenais à côté de Lisbeth, qui battait le beurre auprès de l'âtre. En tournant un peu la tête, je voyais l'oncle assis près de la fenêtre blanche ; il lisait l'almanach, et souriait de temps en temps.</p>
         <p>Le chien Scipio était assis près de moi, fixe et grave, et comme je goûtais à chaque instant la crème qui sortait de la baratte, il bâillait d'un air mélancolique.</p>
@@ -770,9 +756,7 @@
         <p>Je sortis en courant et je mis la lettre à la boîte du village. Mais le journal n'était pas arrivé ; Clémentz avait été retenu par les neiges, ce qui n'étonna pas l'oncle, pareille chose arrivant presque tous les hivers.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII</label>
-        </p>
+        <head>VIII</head>
         <p>En revenant de la poste, j'avais aperçu tout au loin, dans la grande prairie communale, derrière l'église, Hans Aden, Frantz Sépel et bien d'autres de mes camarades qui glissaient sur le guévoir. On les voyait prendre leur élan à la file, et partir comme des flèches, les reins pliés et les bras en l'air pour tenir l'équilibre ; on entendait le bruit prolongé de leurs sabots sur la glace et leurs cris de joie.</p>
         <p>Comme mon cœur galopait en les voyant ! comme j'aurais voulu pouvoir les rejoindre ! Malheureusement l'oncle Jacob m'attendait alors, et je rentrai la tête pleine de ce joyeux spectacle. Pendant tout le dîner, l'idée de courir là-bas ne me quitta pas une seconde ; mais je me gardai bien d'en parler à l'oncle, car il me défendait toujours de glisser sur le guévoir à cause des accidents. Enfin il sortit pour aller faire une visite à M. le curé, qui souffrait de ses rhumatismes.</p>
         <p>J'attendis qu'il fût entré dans la grande rue, puis je sifflai Scipio, et je me mis à courir jusqu'à la ruelle des Houx, comme un lièvre. Le caniche bondissait derrière moi, et ce n'est que dans la petite allée pleine de neige que nous reprîmes haleine.</p>
@@ -900,9 +884,7 @@
         <p>Cela dura bien une heure, jusqu'au moment où Lisbeth vint mettre la nappe. Alors, en nous retournant, nous vîmes que madame Thérèse s'était assoupie. L'oncle ferma le livre et tira les rideaux, pendant que Lisbeth plaçait les couverts.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX</label>
-        </p>
+        <head>IX</head>
         <p>Ce même soir, après le souper, l'oncle Jacob fumait sa pipe en silence derrière le fourneau. Moi, je séchais le bas de mon pantalon, assis devant la petite porte de tôle, la tête de Scipio entre les genoux, et je regardais le reflet rouge de la flamme avancer et reculer sur le plancher. Lisbeth avait emporté la chandelle selon son habitude ; nous étions dans l'obscurité ; le feu bourdonnait comme au temps des grands froids, la pendule marchait lentement, et dehors, dans la cuisine, nous entendions la vieille servante laver les assiettes sur l'évier.</p>
         <p>Que d'idées me passaient alors par la tête ! Tantôt je songeais au soldat mort dans la grange de Réebock, au coq noir de la lucarne ; tantôt au père Schmitt faisant faire l'exercice à Scipio ; puis à l'Altenberg, à la descente de notre traîneau. Tout cela me revenait comme un rêve ; les sifflements plaintifs du feu me paraissaient être la musique de ces souvenirs, et je sentais tout doucement mes yeux se fermer.</p>
         <p>Cela durait depuis environ une demi-heure lorsque je fus réveillé par un bruit de sabots dans l'allée ; en même temps, la porte s'ouvrit, et la voix joyeuse du mauser dit dans la chambre :</p>
@@ -1006,9 +988,7 @@
         <p>Cette nuit-là, j'entendis l'oncle se promener longtemps dans sa chambre ; il allait et venait d'un pas lent et grave, comme un homme qui réfléchit. Enfin, tout bruit cessa, et je m'endormis à la grâce de Dieu.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X</label>
-        </p>
+        <head>X</head>
         <p>Le lendemain, lorsque je m'éveillai, la neige encombrait mes petites fenêtres ; il en tombait encore tellement qu'on ne voyait pas la maison en face. Dehors tintaient les clochettes du traîneau de l'oncle Jacob, son cheval Rappel hennissait ; mais aucun autre bruit ne s'entendait, tous les gens du village ayant eu soin de fermer leurs portes.</p>
         <p>Je pensai qu'il fallait quelque chose d'extraordinaire pour décider l'oncle à se mettre en route par un temps pareil, et, m'étant habillé, je descendis bien vite savoir ce que cela pouvait être.</p>
         <p>L'allée était ouverte ; l'oncle, enfoncé dans la neige jusqu'aux genoux, son gros bonnet de loutre tiré sur la nuque, et le col de sa houppelande relevé, arrangeait à la hâte une botte de paille dans le traîneau.</p>
@@ -1142,9 +1122,7 @@
         <p>Le mauser me reconduisit jusque dehors, et je retournai chez nous, bien content de ce qui venait d'arriver.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XI</label>
-        </p>
+        <head>XI</head>
         <p>Au coin de l'église, je rencontrai le petit Hans Aden, qui revenait de glisser sur le guévoir ; il s'en retournait, les mains dans les poches jusqu'aux coudes, et me cria :</p>
         <p>-- Fritzel ! Fritzel !</p>
         <p>S'étant approché, d'abord il regarda les deux beaux rayons de miel, et me dit :</p>
@@ -1306,9 +1284,7 @@
         <p>Il prit la chandelle, et le front penché, tout rêveur, il monta derrière nous.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII</label>
-        </p>
+        <head>XII</head>
         <p>Le lendemain fut un jour de bonheur pour la maison de l'oncle Jacob.</p>
         <p>Il était bien tard lorsque je m'éveillai de mon profond sommeil ; j'avais dormi douze heures de suite comme une seconde, et la première chose que je vis, ce furent mes petites vitres rondes couvertes de ces fleurs d'argent, de ces toiles transparentes et de ces mille ornements de givre, tels que la main de nul ciseleur ne pourrait en dessiner. Ce n'est pourtant qu'une simple pensée de Dieu, qui nous rappelle le printemps au milieu de l'hiver ; mais c'est aussi le signe d'un grand froid, d'un froid sec et vif qui succède à la neige ; alors toutes les rivières sont prises et même les fontaines, les sentiers humides sont durcis et les petites flaques d'eau couvertes de cette glace blanche et friable qui craque sous les pieds comme des coquilles d'œufs.</p>
         <p>En regardant cela, le nez à peine hors de ma couverture et le bonnet de coton tiré jusqu'au bas de la nuque, je revoyais tous les hivers passés et je me disais : « Fritzel, tu n'oseras jamais te lever, pas même pour aller déjeuner, non, tu n'oseras pas ! »</p>
@@ -1461,9 +1437,7 @@
         <p>Il se baissa près du fourneau pour ramasser une braise, car il éprouvait un grand besoin de fumer. Le vieux Schmitt suivit son exemple, et comme la nuit était venue, ils sortirent tous ensemble, Koffel le dernier, en serrant la main de l'oncle Jacob et saluant Mme Thérèse.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIII</label>
-        </p>
+        <head>XIII</head>
         <p>Le lendemain, Mme Thérèse s'occupait déjà des soins du ménage ; elle visitait les armoires, dépliait les nappes, les serviettes, les chemises, et même le vieux linge tout jaune entassé là depuis la grand-mère Lehnel ; elle mettait à part ce qu'on pouvait encore réparer, tandis que Lisbeth dressait le grand tonneau plein de cendres dans la buanderie. Il fallut faire bouillir l'eau jusqu'à minuit pour la grande lessive. Et les jours suivants ce fut bien autre chose encore, lorsqu'il s'agit de blanchir, de sécher, de repasser et de raccommoder tout cela.</p>
         <p>Mme Thérèse n'avait pas son égale pour les travaux de l'aiguille ; cette femme, qu'on n'avait crue propre qu'à verser des verres d'eau-de-vie et à se trimbaler sur une charrette derrière un tas de sans-culottes, en savait plus, touchant les choses domestiques, que pas une commère d'Anstatt. Elle apporta même chez nous l'art de broder des guirlandes, et de marquer en lettres rouges le beau linge, chose complètement ignorée jusqu'alors dans la montagne, et qui prouve combien les grandes révolutions répandent la lumière.</p>
         <p>De plus, Mme Thérèse aidait Lisbeth à la cuisine, sans la gêner, sachant que les vieux domestiques ne peuvent souffrir qu'on dérange leurs affaires.</p>
@@ -1489,9 +1463,7 @@
         <p>Les choses se poursuivirent ainsi plusieurs jours. Le mauser et Koffel arrivaient tous les soirs, selon leur habitude ; Mme Thérèse était complètement rétablie, et cela semblait devoir durer jusqu'à la consommation des siècles, lorsqu'un événement extraordinaire vint troubler notre quiétude, et pousser l'oncle Jacob aux entreprises les plus audacieuses.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIV</label>
-        </p>
+        <head>XIV</head>
         <p>Un matin l'oncle Jacob lisait gravement le catéchisme républicain derrière le fourneau ; Mme Thérèse cousait près de la fenêtre, et moi j'attendais un bon moment pour m'échapper avec Scipio.</p>
         <p>Dehors, notre voisin Spick fendait du bois ; aucun autre bruit ne s'entendait au village.</p>
         <p>La lecture de l'oncle semblait l'intéresser beaucoup ; de temps en temps il levait sur nous un regard en disant :</p>
@@ -1546,9 +1518,7 @@
         <p>-- Fritzel, tu es un bon enfant, tu as un excellent cœur. Rappelle-toi que ton oncle Jacob a été content de toi en ce jour : c'est une bonne pensée de se dire qu'on a donné de la satisfaction à ceux qui nous aiment !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XV</label>
-        </p>
+        <head>XV</head>
         <p>Depuis cet instant le calme se rétablit chez nous. Chacun songeait au départ de Mme Thérèse, au grand vide que cela ferait dans notre maison, à la tristesse qui succéderait pendant des semaines et des mois aux bonnes soirées que nous avions passées ensemble, à la douleur du mauser, de Koffel et du vieux Schmitt en apprenant cette mauvaise nouvelle ; plus on rêvait, plus on découvrait de nouveaux sujets d'être désolés.</p>
         <p>Moi, ce qui me semblait le plus amer, c'était de quitter mon ami Scipio ; je n'osais pas le dire, mais en pensant qu'il allait partir, que je ne pourrais plus me promener avec lui dans le village, au milieu de l'admiration universelle, que je n'aurais plus le bonheur de lui voir faire l'exercice, et que je serais comme avant, seul à me promener les mains dans les poches et le bonnet de coton tiré sur les oreilles, sans honneur et sans gloire, un tel désastre me semblait le comble de la désolation. Et ce qui finissait de m'abreuver d'amertume, c'est que Scipio, grave et pensif, était venu s'asseoir devant moi, me regardant à travers ses épais sourcils frisés, d'un air aussi chagrin que s'il eût compris qu'il fallait nous séparer dans les siècles des siècles. Oh ! quand je pense à ces choses, encore aujourd'hui je m'étonne que les grosses boucles blondes de mes cheveux ne soient pas devenues toutes grises, au milieu de ces réflexions désolantes. Je ne pouvais pas même pleurer, tant ma douleur était cruelle ; je restais le nez en l'air, mes grosses lèvres retroussées, et mes deux mains croisées autour d'un genou.</p>
         <p>L'oncle, lui, se promenait de long en large, et de temps en temps il toussait tout bas en redoublant de marcher.</p>
@@ -1621,9 +1591,7 @@
         <p>Jusque passé dix heures, il me fut impossible de dormir, en songeant à ma félicité. L'oncle allait et venait chez lui ; je l'entendis ouvrir son secrétaire, puis faire du feu dans le poêle de sa chambre pour la première fois de l'hiver ; je pensai qu'il avait l'idée de veiller, et je finis par m'endormir profondément.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVI</label>
-        </p>
+        <head>XVI</head>
         <p>Neuf heures sonnaient à l'église, lorsque je fus éveillé par un cliquetis de ferraille devant notre maison ; des chevaux piétinaient sur la terre durcie, on entendait des gens parler à notre porte.</p>
         <p>L'idée me vint aussitôt que les Prussiens arrivaient pour prendre Mme Thérèse, et je souhaitai de tout mon cœur que l'oncle Jacob n'eût pas aussi longtemps dormi que moi. Deux minutes après, je descendais l'escalier, et je découvrais au bout de l'allée cinq ou six hussards enveloppés dans leur dolman, la grande sabretache pendant jusqu'au-dessous de l'étrier, et le sabre au poing. L'officier, un petit blond très maigre, les joues creuses, les pommettes plaquées de rose et les grosses moustaches d'un roux fauve, se tenait en travers de l'allée sur un grand cheval noir, et Lisbeth, le balai à la main, répondait à ses questions d'un air effrayé.</p>
         <p>Plus loin, s'étendait un cercle de gens, la bouche béante, se penchant l'un sur l'autre pour entendre. Au premier rang, je remarquai le mauser, les mains dans les poches, et M. Richter qui souriait, les yeux plissés et les dents découvertes, comme un vieux renard en jubilation. Il était venu sans doute pour jouir de la confusion de l'oncle.</p>

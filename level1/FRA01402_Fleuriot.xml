@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01402" xml:lang="fr">
   <teiHeader>
@@ -23,9 +23,9 @@
         --></publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           Bibliothèque électronique du Québec,
-          
+
           <ref target="http://beq.ebooksgratuits.com"/>
-      
+
         </bibl><bibl type="firstEdition">
           <date>1874</date>
             </bibl></sourceDesc>
@@ -52,9 +52,7 @@
   <text>
     <body>
       <div type="chapter">
-        <p>
-          <label>I -- Mes bonnes résolutions. -- La mer ! -- Mes premiers essais de natation.</label>
-        </p>
+        <head>I -- Mes bonnes résolutions. -- La mer ! -- Mes premiers essais de natation.</head>
         <p>Être en congé, quel bonheur ! J'y suis, quelle chance ! Je l'écris, que c'est drôle !</p>
         <p>À douze ans on n'écrit guère sa vie. Pour dire vrai, on a bien assez de gratter le papier, et quand la classe et l'étude se ferment, on met plus volontiers des billes qu'un porte-plume entre ses doigts. Pour moi, qui galope une demi-heure dans notre cour uniquement pour le plaisir de galoper ; pour moi, qui n'ai encore pour l'étude qu'une profonde estime, je suis tout étonné de me voir barbouiller du papier le second jour de mes vacances.</p>
         <p>Cette singulière idée m'est venue hier. On distribuait les prix à Louis-le-Grand, et j'ai si peu travaillé cette année, mais si peu, que ce grand jour me laissait froid. Cependant, quand je me suis trouvé devant l'estrade, il m'est venu je ne sais quel remords, et quand on a prononcé les mots : classe de sixième, je me serais volontiers arraché quelques cheveux.</p>
@@ -117,9 +115,7 @@
         <p>Elle dit cela, et quand j'arrive dans la salle à manger où elle coud, vite elle prend une serviette, essuie le parquet et alors moi, m'élançant sur mes flots de bois, je décris des glac glou sans fin.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II -- Les conséquences d'une révolution. -- Mon cœur balance entre les Batignolles et la Bretagne.</label>
-        </p>
+        <head>II -- Les conséquences d'une révolution. -- Mon cœur balance entre les Batignolles et la Bretagne.</head>
         <p>Je suis d'une humeur massacrante et j'ai quitté le salon pour ne pas montrer plus longtemps ma figure grognon à ma petite mère. Mais aussi quel guignon ! Tout est arrangé, nous partons demain, et voilà que ma tante Lucie s'imagine d'avoir une révolution d'asthme. J'avais entendu parler des révolutions des astres et des révolutions des hommes, mais je ne savais pas qu'il y eût les révolutions de l'asthme. Quand je pense que nous allons être cloués à Paris pendant les vacances ! À Paris ! mais on s'y évaporera, il fait une chaleur à vous roussir ; pas un camarade, pas un jeu, rien, rien que les bateaux de la Seine. Elle est jolie la Seine, et c'est amusant d'aller clapoter au milieu de toutes sortes de gens sur un fond de bois. Je suis littéralement écrasé sous cet obus. Avoir rêvé Enghien, puis la mer, et juste au moment de partir, ni l'un, ni l'autre !</p>
         <milestone type="subChapter" rend="space" unit="newline"/>
         <p>Une voiture ! c'est maman qui va chez ma tante Lucie aux Batignolles. Qu'est-ce que je vais faire ? qu'est-ce que je vais devenir ? Si j'allais couper les oreilles à Griffard, cela ferait bien enrager ma bonne et cela me tirerait peut-être de mon humeur noire.</p>
@@ -172,9 +168,7 @@
         <p>Mère disait cela d'un ton auquel je sais que je n'ai pas à répliquer, et je n'ai rien dit. Elle part avec moi : donc vive le voyage !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III -- Les voyageurs. -- Le chat Griffard et son camarade Fidélio. -- Je fais acte de chef de famille.</label>
-        </p>
+        <head>III -- Les voyageurs. -- Le chat Griffard et son camarade Fidélio. -- Je fais acte de chef de famille.</head>
         <p>Nos malles sont refaites, et j'exécute d'excellents exercices gymnastiques dans notre maison en sautant par-dessus tout ce que je rencontre : c'est un vrai steeple-chase.</p>
         <p>J'aimerais beaucoup les chevaux et les courses ; mais maman préfère ne pas me voir m'occuper trop tôt de ces passe-temps, qui ont tant de dangers, dit-elle. Eh bien, mère, n'en parlons plus, mais par exemple nageons : glac glou, glac glou, glac glou.</p>
         <milestone type="subChapter" rend="space" unit="newline"/>
@@ -215,9 +209,7 @@
         <p>Le moment de m'approcher du guichet est arrivé ; j'ai touché la visière de ma casquette, maman m'ayant recommandé d'être poli partout et toujours, et j'ai demandé d'une voix nette à la dame un peu grognon qui me regardait : « Une première Rennes, deux secondes Auray. » J'ai reçu mes billets, j'ai payé, et me suis rendu au bureau pour reconnaître nos bagages, que j'ai fait enregistrer ; puis j'ai rejoint maman. Prenant ensuite Fidélio à ma bonne, qui, à son grand regret, ne pouvait le dissimuler dans sa poche, je suis allé le conduire au wagon des chiens, où il est entré bien malgré lui. Il est très ennuyeux parfois d'avoir affaire aux bêtes. J'avais beau crier à Fidélio sur tous les tons : « Tu sortiras de là demain », il hurlait aussi lamentablement que si je lui avais dit : « On t'écorchera cette nuit. » Ses aboiements enragés ameutaient les employés ; mais tout lui était indifférent, il n'en glissait pas moins son nez entre les barreaux après les avoir mordus à belles dents. Je l'ai quitté en pensant que c'est un bien beau don que celui de l'intelligence, et je suis allé rejoindre maman, qui était toute triste de m'abandonner, mais qui se sacrifiait pour me rendre possible la séparation du lendemain. Il est de fait que si ma petite mère était souffrante à Rennes, je n'aurais pas le courage de poursuivre mon voyage. L'économie est une chose bien ennuyeuse.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV -- La composition d'un wagon de seconde classe. -- Griffard fait sensation. -- Maudits bavards !</label>
-        </p>
+        <head>IV -- La composition d'un wagon de seconde classe. -- Griffard fait sensation. -- Maudits bavards !</head>
         <p>Me voici en wagon avec Julie et Griffard, ce dernier toujours invisible. Le wagon est éclairé, et deux coins sont déjà pris. Je fais vis-à-vis à ma bonne, qui a le bras passé dans l'anse de son panier, et une main occupée à caresser le chat, afin de l'engager à rester bien tranquille ; dans le troisième angle il y a un monsieur très gros qui bâille déjà comme une carpe, et dans le quatrième une dame petite et maigre, avec une coiffure presque aussi haute qu'elle, une figure blanchâtre et grognon, et tant de musc que ma bonne et Griffard ont éternué violemment en passant devant elle. Heureusement que ma bonne éternue avec une telle force que le petit reniflement de Griffard s'est perdu dans son bruyant : atchoum ! Mais voici de nouveaux compagnons qui nous arrivent. Un jeune frère de la doctrine chrétienne, qui n'a pas plus de barbe que moi, inspecte le wagon ; derrière lui, j'aperçois le visage d'un vieux frère, le plus ridé, le plus vénérable des visages. « Pas de coin », murmure le jeune ignorantin. En l'entendant, je m'étais enfoncé dans mon coin, premier mouvement. Je me suis élancé vers la portière en disant : « Mon frère, en voici un », second mouvement ; donc le premier mouvement n'est pas toujours le bon. Le jeune frère m'a remercié, le vieux frère a fait quelques façons, mais ils sont entrés leur manteau sur le bras, leur grand chapeau à la main. Le gros monsieur et la dame blanchâtre se sont mis à renifler malhonnêtement et à se reculer avec affectation. Après les frères sont entrés très rapidement : un jeune homme très bien et très poli, et deux malappris qui avaient évidemment oublié l'heure au buffet. Leur haleine s'est mêlée au musc de la dame blanchâtre pour empester le wagon ; mais le train s'est mis en marche, et quelques bonnes bouffées d'air nous sont arrivées.</p>
         <p>J'étais très content de penser que maman était restée seule et bien à l'aise dans son wagon de première classe. En supposant qu'il lui vienne des compagnons, ils ne parleront jamais si haut ni si grossièrement que les deux jeunes gens qui parlent d'eux en criant à tue-tête. J'ai causé un peu avec le bon vieux frère, qui s'est intéressé à ce que je lui ai dit de mes études. C'est étonnant comme je n'aime pas à être pris pour un cancre. Je n'aurai plus l'imbécile fanfaronnade de poser pour le dernier. Être dernier, voilà vraiment de quoi se glorifier ! Robert, mon ami, pourquoi donc l'es-tu si souvent ? je ne te croyais pas si bête ! Il y a toujours dans les classes quelques pauvres bons à rien qui, ne pouvant jamais, par le fait de leur dose d'intelligence, devenir les premiers, s'imaginent de trouver beau d'être à la queue, et trouvent superbe de poser pour des cruches vides. « On arrive toujours », disent-ils. Oui, on arrive à se faire battre par les plus forts, et à coiffer des oreilles d'âne. Tiens ! comme j'en pense long ce soir. Allons, bonsoir, ma pensée, il fait nuit, et j'entends mes deux voisins mal élevés qui s'invitent en argot à dormir. Maman trouve que j'aime trop à parler argot ; mais voici des personnages qui m'en dégoûtent ; si jamais je reparle de dormir en argot... Allons, bonsoir tout le monde.</p>
         <p>Je dormais les poings fermés, je rêvais même, je crois, quand un cri affreux m'a réveillé en sursaut. La dame blanchâtre avait jeté ce cri ; toute pelotonnée dans son coin, elle tendait un petit doigt aiguisé vers ma bonne, qui ronflait comme une toupie d'Allemagne. Le wagon s'est rempli de bâillements et de : « Quoi ?... Qu'est-ce ?... Qu'y a-t-il ?</p>
@@ -240,9 +232,7 @@
         <p>J'ai bien dormi. Je dormais à poings fermés quand j'ai cru entendre dire : « Rennes ! » Je me suis secoué et levé ; il faisait grand jour, et maman me regardait. Elle avait fait descendre ma bonne, et elle essayait de me réveiller en me passant la main sur le front et en me disant : « Rennes ! Rennes ! » dans l'oreille. Nous sommes descendus et nous avons gagné le buffet. Mère m'a fait prendre un bouillon, et puis m'a donné ses dernières instructions. J'avais le cœur bien gros de la quitter, pour un rien j'aurais sacrifié mon voyage. Mais elle n'a pas voulu en entendre parler, et elle est venue me remettre en wagon. « Écris-moi ton journal », m'a-t-elle dit. Je le lui ai promis, et... nous nous sommes séparés. Je me suis jeté dans un coin, voulant à toute force me rendormir jusqu'à Auray.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V -- Mes premières impressions. -- L'équipage du père Neptune. -- Voilà la mer ! -- Que c'est beau d'être bronzé !</label>
-        </p>
+        <head>V -- Mes premières impressions. -- L'équipage du père Neptune. -- Voilà la mer ! -- Que c'est beau d'être bronzé !</head>
         <p>Je n'ai fait qu'un somme jusqu'à Auray, mère, et quand je me suis éveillé, je te cherchais, je t'appelais ; mais tu n'étais plus là. Mon bon oncle Alphonse nous attendait à la gare ; je l'ai bien reconnu, bien qu'il soit un peu grossi, qu'il ait une masse de virgules blanches dans sa grande barbe qui a toujours fait mon envie, et un front immense parce que ses cheveux sont tombés. Il a été très affectueux, il m'a beaucoup demandé de tes nouvelles, et il m'a dit que j'étais très impatiemment attendu à Saint-Pierre. Il a bien ri quand ma bonne, soulevant le mouchoir tendu sur son panier, nous a montré la figure effarée de Griffard : il a promis pour ce dernier place au feu et à la table... des bêtes. Pendant que mon oncle avait la bonté d'aller réclamer nos bagages, j'ai couru délivrer Fidélio. J'ai cru qu'il me renverserait de caresses devant tout le monde ; je ne pouvais le calmer. Les bêtes sont quelquefois bien ennuyeuses, et je commence à comprendre pourquoi les parents refusent de se charger partout et toujours des animaux qu'aiment leurs enfants.</p>
         <p>Au sortir de la gare, j'ai accompagné mon oncle dans quelques courses par la ville. J'étais comme tout ahuri du silence ; je n'avais jamais entendu si peu de bruit. Mon oncle m'a sans doute trouvé une drôle de physionomie, car il m'a tout à coup demandé : « Qu'as-tu, Robert ? »</p>
         <p>Je lui ai répondu : « Je n'ai rien, mais je suis étonné, et puis comme l'air sent bon ! »</p>
@@ -286,9 +276,7 @@
         <p>Ils ont tous été bien aimables, et Gaston et moi sommes devenus tout de suite camarades ; les autres garçons, Georges et René, sont encore des mioches : Georges n'a que neuf ans et René sept.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI -- Bêtes et gens. -- Ma peur. -- Les crabes. -- Je brunis.</label>
-        </p>
+        <head>VI -- Bêtes et gens. -- Ma peur. -- Les crabes. -- Je brunis.</head>
         <p>Me voici tout habitué à ma nouvelle vie, maman ; il me semble que je connais depuis longtemps mes cousins et ma cousine. Berthe est très gentille, très intrépide pour une petite fille ; elle joue très bien avec nous et s'est prise d'amitié pour Fidélio, qui la suit parce qu'elle le caresse et qu'elle a toujours des miettes de gâteau à lui donner. Les petites filles sont très caressantes pour ces pauvres animaux que nous, garçons, nous traitons brutalement ; aussi les bêtes les aiment beaucoup.</p>
         <p>Ce matin nous avons fait une visite au père Neptune, ainsi appelé parce qu'il a fait ses principales campagnes sur le Neptune et qu'il a encore un chapeau qui porte le nom de son navire. Il est maintenant pêcheur, commissionnaire, baigneur. Gaston m'a présenté à lui : Neptune ne m'a pas parlé, mais il a souri dans sa grosse barbe grise et fauve.</p>
         <p>Son petit-fils Piérik est le camarade de Gaston, il a mon âge ; il n'est pas aussi grand que moi ; mais il paraît leste comme un chat et il est encore plus cuivré que mon cousin. Il s'est mis à causer et à jouer avec moi comme s'il me connaissait.</p>
@@ -338,9 +326,7 @@
         <p>Te voilà bien contente, mère ; je suis fidèlement les ordonnances du médecin, si bien qu'après nos vacances tu n'auras plus à t'inquiéter de la santé de ton Robert, qui mène la vie la plus hygiénique du monde. Je me lève de grand matin, je me couche de bonne heure, je dors comme une souche et je mange comme un ogre. La mer donne des faims canines. Je suis au mieux avec le soleil, le vent et la brise de mer, et dans huit jours je pourrai ajouter, avec l'Océan. Je suis encore un peu blanc de céruse auprès de Piérik et même auprès de Gaston ; mais patience, cela passera. Ce soir je me suis regardé dans une flaque, je t'assure que j'ai bruni.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII -- Encore les bêtes ! -- Ricoco. -- Le vaillant Krack. -- Le chasseur de souris. -- Nos fortifications de sable. -- Notre bastion.</label>
-        </p>
+        <head>VII -- Encore les bêtes ! -- Ricoco. -- Le vaillant Krack. -- Le chasseur de souris. -- Nos fortifications de sable. -- Notre bastion.</head>
         <p>Mon journal a été forcément suspendu pendant deux jours, ma chère mère ; nous avons tant couru par terre et par mer ! C'est Neptune qui nous conduit toujours : il conduit le char à bancs qu'il loue à l'année comme commissionnaire ; il conduit la barque que mon oncle emprunte à la douane, ou bien son vieux bateau de pêche.</p>
         <p>Nous aimons de plus en plus Piérik et Neptune, et nous nous visitons d'autant plus souvent que leur cabane touche à notre maison, comme je te l'ai dit.</p>
         <p>De mon balcon je vois Neptune fumer sa pipe à son foyer où brûle un feu de goémon ; une cabane touche la sienne, et quand je t'écris, j'entends généralement la voix de la pêcheuse qui dit une masse de tendresses à son tout petit enfant. À cette voix se joignent les criaillements d'un petit porc dont l'étable touche à la maison de Neptune, et de temps en temps un petit cri de Ricoco.</p>
@@ -366,9 +352,7 @@
         <p>J'entends Berthe qui monte très vite l'escalier, elle vient me chercher sans doute. Je te dirai ce soir si nos fortifications ont tenu bon ; je t'enverrai un bulletin de victoire ou je t'enregistrerai notre défaite.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII -- Ce que devient ce qu'on bâtit sur le sable. -- Les pauvres indépendants. -- Paysages et dissertations.</label>
-        </p>
+        <head>VIII -- Ce que devient ce qu'on bâtit sur le sable. -- Les pauvres indépendants. -- Paysages et dissertations.</head>
         <p>Mère, je ne suis pas homme à publier de fausses dépêches, je mentionne donc courageusement notre défaite.</p>
         <p>La mer est une brutale qui a tout envahi et tout renversé. Tantôt nous avons couru, comme je te l'ai dit, à nos travaux de défense, nous avons placé nos travailleurs dans les tranchées et nous avons attendu la mer. Elle venait tout doucement selon son habitude ; mais les lames étaient plus fortes qu'hier, plus larges, car elles se roulaient en dedans. Nos ouvrages avancés ont subi le sort ordinaire, les fossés sont devenus humides, se sont remplis d'écume, d'eau, et les entassements ont croulé. Enfin la vague est venue battre le pied du bastion ; les pierres sont devenues lisses et brillantes, mais ont tenu bon. Cependant peu à peu j'ai vu le sable qui les cimentait se fondre en quelque sorte ; c'est en vain que j'ai fait porter du sable nouveau dans les interstices, l'eau arrivait, se glissait entre les pierres et le dissolvait ; il nous a fallu reculer devant la mer, qui, étant très houleuse, dépassait les bornes que nous lui avions posées. Notre mur apparaissait cependant au-dessus des vagues et restait glorieusement debout. Tout à coup Berthe éclate en sanglots : une grosse vague était accourue et tout s'était subitement écroulé.</p>
         <p>Nous avons emmené vers la tente la désolée Berthe, qui pleurait à chaudes larmes ; Georges et René montraient leurs petits poings à la mer, qui marchait sur nos talons ; Gaston et moi n'étions pas fiers.</p>
@@ -419,9 +403,7 @@
         <p>Comme je pliais ma lettre, elle a ajouté : « En veux-tu pour ta maman ? » et elle m'en a présenté trois. Je les ai glissés dans l'enveloppe et aplatis d'un bon coup de poing, il le fallait bien, et ils sont allés te parler de ton fils.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX -- Le philosophe des flaques. -- Fidélio est héroïque. -- Je me lance dans les descriptions.</label>
-        </p>
+        <head>IX -- Le philosophe des flaques. -- Fidélio est héroïque. -- Je me lance dans les descriptions.</head>
         <p>Aujourd'hui je t'apprends qu'on a baptisé ton Robert ; on l'appelle le philosophe des flaques.</p>
         <p>Que veux-tu ! j'aime les flaques, non pas comme Gaston, qui, en sa qualité de futur officier de marine, fait toujours de la navigation, mais en amateur. J'aime à m'asseoir sur une haute pierre au beau milieu d'une belle flaque d'eau de mer, et je reste des heures à examiner le petit peuple maritime qui l'habite. J'aime à voir les bernard-l'ermite galoper sous l'eau claire, leur maison sur le dos, à voir scintiller les crevettes, à voir apparaître les crabes verts. Parfois du bout du pied je trouble l'eau, et aussitôt les petits émigrants rentrent dans leur coquille, les crevettes bondissent effrayées, les crabes s'enfoncent prudemment sous le goémon.</p>
         <p>
@@ -458,9 +440,7 @@
         <p>Si j'étais un archéologue, je te dirais toutes sortes de choses savantes sur l'église ; mais, hélas ! je distingue à peine le style roman d'un autre style d'architecture, et je ne lis pas plus couramment les hiéroglyphes tracés sur les monuments druidiques que ceux de l'obélisque de Louqsor, sur la place de la Concorde. L'église est très bien située pour prier, voilà ce que je sais. Quand je m'y trouve, que j'entends le flot qui chante, et que je pense que je suis devant le créateur de cet Océan, je me mets à prier comme tu aimes tant à me voir prier à l'église Notre-Dame des Victoires. Du reste notre église a des chapiteaux bizarrement sculptés qui paraissent vieux comme le monde, et au fond du chœur se voit une fresque rustique que j'aime parce qu'elle est simple. La sainte Vierge ressemble comme deux gouttes d'eau à une pêcheuse vulgaire : elle a le teint hâlé, elle est habillée de rouge et de bleu ; mais elle a l'air bon, et l'enfant Jésus a une très gracieuse physionomie sous son épaisse perruque blonde. Ce peintre, qui n'était qu'un barbouilleur, avait quelque peu le sentiment chrétien et maternel, dit mon oncle Alphonse.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X -- Une énigme. -- Mauvaise conduite de Griffard. -- Projets de travail. -- La marchande. -- La première leçon de géographie.</label>
-        </p>
+        <head>X -- Une énigme. -- Mauvaise conduite de Griffard. -- Projets de travail. -- La marchande. -- La première leçon de géographie.</head>
         <p>
           Avant-hier mon oncle a visité l'église en archéologue ; il nous a appris qu'elle datait du treizième siècle, que les chapiteaux étaient romans et couverts d'oves et de fleurs, puis il nous a posé deux énigmes : il nous a dit à Gaston et à moi qui l'accompagnions, qu'il y avait deux choses sublimes dans cette église, l'une pour le sentiment, l'autre pour la pensée. Avons-nous cherché ? Avons-nous mis nos yeux en quête ? Enfin, je me suis arrêté au beau milieu de la nef. Contre le pilier de droite, il y avait une grande statue de la sainte Vierge couronnée d'étoiles d'or, penchée légèrement en avant, et portant sur son bras gauche le divin Enfant, qui a l'air aussi de s'élancer pour marcher. J'ai lu sur le piédestal :
           <hi>Notre-Dame de bon voyage</hi>
@@ -518,9 +498,7 @@
         <p>Ah ! je croyais bien l'avoir enterré sous mon pupitre pendant mes vacances et n'en plus entendre parler que le jour où je rouvrirais mon histoire romaine. Point du tout, il est ici, son regard dominateur a contemplé ces horizons, ses légions victorieuses ont foulé ce sol. Me voilà pris d'un beau zèle pour le suivre dans ses campements militaires ; en définitive un futur saint-cyrien peut s'engouer de César. Ce que mon oncle nous en a dit m'a chauffé à blanc d'enthousiasme, je n'ai plus que César à l'esprit et dans la bouche ; il paraît qu'en me levant de dessus mon pliant, la leçon finie, j'ai dit à Gaston : « Viens-tu, César ? » Il en rit depuis et m'appelle Vercingétorix, afin, dit-il, de ne pas me sortir de mon ordre d'idées. J'accepte ce nom : c'est celui d'un vaincu, mais du plus brave des vaincus.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XI -- Neptune sacristain. -- Un poulain sentimental. -- Le nid de squale. -- Mignonnette touriste.</label>
-        </p>
+        <head>XI -- Neptune sacristain. -- Un poulain sentimental. -- Le nid de squale. -- Mignonnette touriste.</head>
         <p>C'est aujourd'hui grande fête à Saint-Pierre, mère, la fête patronale ; nous avons assisté aux offices dans l'église, très décorée pour la circonstance. Notre-Dame de bon voyage avait tout à fait l'air de partir pour le ciel avec son gros bouquet ; le navire de la nef était pavoisé avec luxe ; les deux petits chérubins du coin de l'autel regardaient les fidèles à travers un voile de tulle richement brodé ; le soleil, qui était de la fête, éclairait les vieux chapiteaux et leurs dessins bizarres. -- Il y avait foule, et cette foule était bien recueillie. J'en excepte le régiment de gamins qui a pris d'assaut le degré de la balustrade : parmi ceux-là il y en avait qui se grattaient la tête avec rage, d'autres qui se pinçaient en dessous, de tout petits qui ne savaient comment se tourner et qui regardaient naïvement du côté de l'assistance. L'office commencé, tout s'est discipliné peu à peu ; ceux qui savaient lire chantaient, les plus ignorants égrenaient leur chapelet, les plus petits ont reconnu qu'il fallait rester tournés vers l'autel : il n'y a que les gratteurs qui n'ont pas complètement laissé de côté leur petit exercice, qui vous donnait des démangeaisons.</p>
         <p>Mon oncle, Gaston et moi étions placés dans le chœur ; j'avais au-dessus de ma tête un de ces vénérables chapiteaux qui ont vu tant de générations d'hommes.</p>
         <p>Neptune et Piérik faisaient partie du personnel des cérémonies. Tu sais que Piérik est enfant de chœur ; en ce grand jour il avait des pantoufles, une petite aube de calicot qui laissait voir son pantalon de gros drap, une ceinture de coton rouge, et il était très sérieux ; il chantait très bien toutes les hymnes. Quant à Neptune, il remplaçait son cousin le bedeau, qui est malade ; j'aimais beaucoup à le voir incliner devant l'autel sa vieille tête grise qu'il ne baisse jamais ; je suis sûr, mère, que Dieu aime beaucoup les prières des gens comme Piérik et Neptune, qui sont si honnêtes et de si bons travailleurs. L'office a été un peu long ; mais je crois avoir bien employé mon temps : je ne te cache pas que je n'ai pas été trop fâché quand Neptune a pressé les mèches des cierges de ses doigts, ce qui est sa manière de les éteindre ; il prend cette mèche enflammée entre le pouce et l'index comme un brin de goémon, et le flambeau est éteint avant que son rude épiderme ait rien senti.</p>
@@ -557,9 +535,7 @@
         <p>À demain.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII -- Dans l'antique jusqu'au cou. -- Salut à César et à ses légions.</label>
-        </p>
+        <head>XII -- Dans l'antique jusqu'au cou. -- Salut à César et à ses légions.</head>
         <p>
           À six heures du matin nous étions debout et à sept heures nous nous dirigions vers la jetée. Notre embarcation, pompeusement baptisée
           <hi>la Brillante</hi>
@@ -578,9 +554,7 @@
         <p>Sais-tu que ce que nous allons visiter est vieux comme le monde !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIII -- Le tumulus de Gavr'inis. -- Encore César. -- Un mastodonte du règne minéral. -- Ma théorie du flot diluvien.</label>
-        </p>
+        <head>XIII -- Le tumulus de Gavr'inis. -- Encore César. -- Un mastodonte du règne minéral. -- Ma théorie du flot diluvien.</head>
         <p>Nous voici arrivés devant Gavr'inis, nous jetons l'ancre ; l'île est charmante, c'est une ferme au milieu de la mer, et il y a des arbres. Nous nous sommes dirigés immédiatement vers le tumulus qui nous était apparu de loin, et nous avons monté vers la grotte dite sépulcrale, entre deux murailles de pierres écroulées.</p>
         <p>Neptune, une grosse clef, une bougie et des allumettes dans les mains, nous précédait en qualité de guide. Nous voici devant la petite porte de fer rouillé qui ferme l'entrée du souterrain. Berthe, qui marchait vaillamment la première, jette un cri et recule jusqu'à mon oncle pour lui prendre la main. Neptune allume la bougie, la grosse clef tourne en grinçant, la porte s'ouvre et nous montre un large trou obscur. J'entre à la suite de Neptune dans une étroite galerie très sombre dont les murs sont formés de pierres bizarrement tatouées. La lumière nous montre des lignes onduleuses, des zigzags, des serpents, des dessins, comme la vague en trace quelquefois sur le sable fin.</p>
         <p>Nous avançons silencieusement dans le sombre corridor : on se sait en plein dans l'inconnu, on a trois mille ans sur les épaules, cela rend grave. La galerie aboutit à une chambre rectangulaire formée de huit grands menhirs dressés verticalement ; le plafond est une table colossale de granit. Là nous nous sommes groupés et nous avons pu respirer. Un trou pratiqué entre deux menhirs et la bougie de Neptune éclairaient suffisamment la grotte, et mon oncle, qui avait Berthe enroulée dans le pan de sa redingote, nous a rapidement rappelé l'exposé scientifique qu'il nous avait fait sur cette grotte célèbre. Il nous a fait étudier les hiéroglyphes tracés sur les pierres.</p>
@@ -612,9 +586,7 @@
         <p>Berthe a désiré que nous fissions une dînette sur cette table fameuse, et le goûter y a été déployé. Nous nous sommes assis en rond et nous avons mangé avec un appétit aiguisé par deux heures de bateau et une heure de marche.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIV -- Le plancher des vaches. -- Les pierres de Carnac. -- Terrible drame.</label>
-        </p>
+        <head>XIV -- Le plancher des vaches. -- Les pierres de Carnac. -- Terrible drame.</head>
         <p>Mère, aujourd'hui Neptune a sa blouse et son chapeau de voiturier, et c'est Krack, le bon petit Krack, qui nous conduit à Carnac. Berthe et Mignonnette sont du voyage. Les pierres druidiques de Carnac ont toute une célébrité, et les petites filles ont été admises.</p>
         <p>Mon oncle et ma tante paraissaient contents de s'éloigner un moment des grèves ; je ne suis pas fâché non plus de voir des arbres et de l'herbe ; Berthe et Mignonnette sont de mon avis ; Gaston et Neptune seuls déclarent qu'ils donneraient tous les paysages du monde pour une vue sur l'Océan : l'Océan ne les lasse jamais.</p>
         <p>Voilà, il me semble, un trait caractéristique de leur vocation maritime. Pour moi, je poussais des hourras chaque fois qu'un pin s'élevait d'un talus, et je saluais les landes couvertes de bruyère rose.</p>
@@ -654,9 +626,7 @@
         <p>Ricoco n'est pas mort, chère maman, il en a été quitte pour un jour de maladie et une large égratignure. Je l'aperçois encore tout somnolent et tout chancelant sur le petit mur. Avec la cravate qui cache le linge dont Berthe a entouré son cou égratigné, il a l'air d'un vieux pédagogue. Berthe, qui aime toutes les bêtes, soigne Ricoco, ce qui fait grand plaisir à Neptune, avec lequel Gaston et moi sommes en froid depuis l'accident. Sa justice a été par trop expéditive, et il sent que nous lui en voulons.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XV -- Nous pardonnons à Neptune. -- L'orage. -- Le sinistre.</label>
-        </p>
+        <head>XV -- Nous pardonnons à Neptune. -- L'orage. -- Le sinistre.</head>
         <p>J'ai pardonné à mon bon vieux Neptune, maman. Ce matin qui est-ce que je vois paraître sur le seuil de ma chambre ? Neptune avec Ricoco sur le poing.</p>
         <p>« Monsieur Robert, vous m'en voulez, m'a-t-il dit sans oser avancer dans l'appartement ; j'ai agi brutalement, le chat étant à vous, qui êtes si bon pour moi. Je ne sais quel diable m'a soufflé d'assommer ce malheureux Griffard. Voyez-vous, monsieur Robert, quand on touche aux gens ou aux choses que j'aime, je ne me connais plus. Ce pauvre Ricoco a fait toutes mes campagnes, je l'ai bien souvent sauvé de la marmite ou de la broche, et je m'y suis attaché, quoi ! Aussi, quand je l'ai cru mort, la colère m'a emporté, et la colère c'est la pire des eaux-de-vie, elle vous grise un homme dans une seconde. Pour lors, monsieur Robert, je regrette bien cet accident, et je viens vous proposer Ricoco à la place de votre chat. Je sais qu'il sera bien soigné, vous avez bon cœur, et de ce jour Ricoco est à vous si vous le voulez. » Il me tendait le perroquet, il avait des larmes dans les yeux ; je me suis jeté à son cou en lui disant : « Je te pardonne, mon vieux Neptune, et je te rends ton Ricoco. » Je suis descendu avec lui, nous avons rencontré ma tante, à qui j'ai raconté tout bas la visite de Neptune et de Ricoco ; elle en a été touchée et elle les a emmenés dans la cuisine. Pendant que Neptune fait un bon dîner qui n'est pas uniquement composé de berniques, je suis venu te raconter notre raccommodement.</p>
         <milestone type="subChapter" rend="space" unit="newline"/>
@@ -697,9 +667,7 @@
         <p>Mère, je rentre tout effrayé. Comme je fermais ma fenêtre, deux feux électriques se sont croisés et j'ai encore cru voir Neptune devant le petit trou qui éclaire sa cabane. Quel frisson m'a pris ! comme j'ai vite clos ma fenêtre, mes volets et baissé mes rideaux ! J'ai l'esprit si plein de l'accident, les yeux si fatigués par la lumière électrique, que je rêve tout éveillé, sans doute. Je vais faire ma prière au galop et tâcher de m'endormir pour oublier ma sotte vision : je sais très bien qu'il n'y a pas de revenants.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVI -- Le naufrage. -- Je deviens couleur d'acajou. -- La tuile.</label>
-        </p>
+        <head>XVI -- Le naufrage. -- Je deviens couleur d'acajou. -- La tuile.</head>
         <p>Maman, ma chère maman, je n'ai pas rêvé hier soir, Neptune est vivant, bien vivant. Il fait grand jour, je le vois assis à son foyer, fumant sa pipe, et j'entends Berthe et Gaston qui m'appellent en criant : « Viens donc, Neptune n'est pas noyé. »</p>
         <p>Quel bonheur ! je n'ai pas eu la berlue, il est bien sauvé. À plus tard les détails, je cours embrasser mon cher vieux matelot.</p>
         <milestone type="subChapter" rend="space" unit="newline"/>
@@ -730,9 +698,7 @@
         <p>Marguerite, Gaston et moi avons baissé les yeux en rougissant comme des jeunes filles.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVII -- Les caprices de Louis. -- Obéliscale. -- Le cabinet de toilette de Piérik. -- La fête. -- Je collectionne.</label>
-        </p>
+        <head>XVII -- Les caprices de Louis. -- Obéliscale. -- Le cabinet de toilette de Piérik. -- La fête. -- Je collectionne.</head>
         <p>Je ne puis plus te dire que je m'amuse à Saint-Pierre. Les caprices de Louis et de sa mère troublent la paix de notre paradis terrestre. Tout est bousculé, les devoirs comme les jeux. Ce qui s'arrange est dérangé, ce qui se commence est enrayé : c'est à la fois comique et dépitant.</p>
         <p>Aujourd'hui on devait passer la journée sur la grève du sémaphore, dont, à notre grande joie, nous allions reprendre les travaux. Les tentes, les pliants, les costumes de bain, les paniers de provisions, sont chargés sur Krack ; Neptune et Piérik portent les outils ; nous marchons pendant dix minutes. On crie : halte ! ma tante avait vu un nuage noir du côté de Larmor, et Louis avait mal au pied. Sitôt qu'une partie lui déplaît, il a un cor qui lui rend la marche impossible. La promenade est remise en question, et une grande hésitation se manifeste. Au moins s'il nous laissait partir ; mais non, Louis s'ennuie comme un mollusque quand il est seul, et ma tante aussi, de sorte que tout en disant : « Allez sans nous, laissez-nous seuls », ils ont un air si agacé, qu'on fait le contraire de ce qu'ils disent. Il nous a fallu replier et entendre ma tante Ludovic murmurer en s'éventant : « C'est pour vous que je reste plus que pour moi ; l'orage qui se prépare eût certainement changé cette partie de plaisir en un désagrément. »</p>
         <p>Louis riait en dessous, car il triomphait : il m'avait confié le matin que toutes nos bâtisses l'ennuyaient et qu'il se faisait fort d'enrayer la promenade. Il a tenu parole, et je t'écris pour tromper mon ennui et oublier ma contrariété, qui est très vive.</p>
@@ -784,9 +750,7 @@
         <p>Je viens d'ajouter un oursin à ma collection. L'oursin, c'est la châtaigne de mer. En l'apercevant sous l'eau j'ai crié : « Une châtaigne ! » Berthe, qui m'a entendu, est accourue, et nous cherchions gravement d'où avait pu tomber cette drôle de châtaigne, les environs ne nous montrant pas l'ombre d'un châtaignier, quand mon oncle est arrivé et m'a appris que ce que je tenais entre les doigts était un zoophyte appelé oursin. Il venait lui-même de ramasser sur la grève un oursin dépouillé de sa coque épineuse, c'est-à-dire une délicate demi-boule d'un blanc verdâtre, régulièrement ornée de lignes formées par de petits globules variant de grosseur. En la plaçant entre la lumière et soi, on voit une étoile dont les rayons sont de mousseline. Sa forme et le charmant pointillé de l'extérieur ont donné envie à Berthe de la transformer en toque pour Mignonnette ; mais nous soutenons que Mignonnette prend là-dessous l'air d'un petit Turc coiffé d'un turban, ce qui déplaît à Berthe.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVIII -- Mon herbier. -- Un souffleur. -- Le serpent. -- Nouvelles découvertes. -- À Lorient. -- Le grand homme.</label>
-        </p>
+        <head>XVIII -- Mon herbier. -- Un souffleur. -- Le serpent. -- Nouvelles découvertes. -- À Lorient. -- Le grand homme.</head>
         <p>Je t'apporte une charmante coquille. J'en ai tout un collier autour de mon herbier, qui s'enrichit tous les jours de quelque plante marine nouvelle. Cet herbier-là sera très curieux pour mes camarades qui ne connaissent pas la mer, et je m'en occupe avec beaucoup de plaisir. Gaston a découvert, dans un livre intéressant intitulé les Plages de France, le moyen de conserver les herbes marines ; il est très simple : les algues sont tassées en paquet jusqu'au moment où je veux les disposer dans mon herbier. Ce moment venu, je les jette dans l'eau douce, je les agite pour les aider à se décoller elles-mêmes ; puis je place une feuille de papier dans un plat creux, je verse de l'eau pure, je lave mon algue, je la plonge dans l'eau jusqu'à ce qu'elle étende bien toutes ses fines dentelures, je l'applique sur le papier au moyen d'une petite baguette, je soulève le papier par les coins et je mets le tout à sécher sous une vitre.</p>
         <milestone type="subChapter" rend="space" unit="newline"/>
         <p>Louis daigne nous accompagner sur la grève ces jours-ci, ma chère maman, et je t'avoue que nous rions beaucoup des mésaventures qui lui arrivent. Très fanfaron en paroles, il est assez poltron en réalité, et il ferait un drôle de soldat et un drôle de marin. Marguerite et Berthe sont moins délicates que lui et font de plus vaillants compagnons de promenade. Aujourd'hui il a fait une scène à Gaston parce qu'il était tombé sur une belle touffe de ces chardons d'un vert bleu qui font un charmant effet dans le sable.</p>
@@ -872,9 +836,7 @@
         <p>Nous avons bataillé une bonne heure là-dessus, mais en pure perte ; quand mon oncle a parlé, c'est fini, autant vaudrait essayer d'attendrir un menhir. Ma tante Ludovic et Louis sont restés seuls à Lorient. Nous avons, nous, rejoint Saint-Pierre..., d'où je t'écris.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIX -- Le ver tout seul et l'autre. -- L'épreuve. -- Le cheval marin. -- Délivrés !</label>
-        </p>
+        <head>XIX -- Le ver tout seul et l'autre. -- L'épreuve. -- Le cheval marin. -- Délivrés !</head>
         <p>Ma chère maman, je ris encore de ce que Berthe vient de nous servir. Berthe répète volontiers ce qu'elle entend.</p>
         <p>Donc ce matin ma tante Ludovic était inquiète de Louis qu'elle a ramené souffrant de Lorient. Le pauvre garçon a très mauvaise mine.</p>
         <p>Gaston et moi nous nous sommes dit plusieurs fois : « c'est le vermout. »</p>
@@ -943,9 +905,7 @@
         <p>Cette grotte n'est pas profonde et ne vaut pas celle de Gavr'inis. Cependant, ce n'est jamais sans intérêt qu'on revoit ces vieilles pierres couvertes de signes mystérieux qui ont recouvert les restes de grands guerriers. Je suis sorti le premier de la grotte, et ai rejoint Berthe qui s'est nichée à mi-côte du galgal avec Mignonnette. Je termine ces notes auprès d'elle avant d'aller entamer la grosse et très appétissante tartine que ma tante me montre de loin. Ma tante, installée au pied du galgal, a ouvert les flancs d'un grand panier qui est notre très cher compagnon de voyage et taille les parts de chacun.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XX -- L'accident. -- Mon secrétaire. -- Mes visites. -- Post-scriptum.</label>
-        </p>
+        <head>XX -- L'accident. -- Mon secrétaire. -- Mes visites. -- Post-scriptum.</head>
         <p>Chère maman, ne t'inquiète en aucune façon, mais c'est de mon lit que je t'écris. Une grosse pierre a roulé du galgal et m'a éraflé le bras et l'épaule. Ces écorchures m'ayant donné un peu de fièvre, ma tante m'oblige à garder la chambre. Tout le monde me tient compagnie à tour de rôle, de sorte que je passe mon temps très agréablement. Nous jouons aux cartes, aux dominos, au loto, à la dînette ; seulement Marguerite me sert de la tisane au lieu de vin. Berthe pousse l'abnégation jusqu'à m'abandonner Mignonnette, et cette belle dame, assise dans son fauteuil, étend ses falbalas au pied de mon lit, et me regarde de ses jolis petits yeux d'émail.</p>
         <milestone type="subChapter" rend="space" unit="newline"/>
         <p>Ne vous étonnez pas de ne pas voir l'écriture de Robert, ma chère tante, je commets l'indiscrétion d'écrire sur son journal. En venant lui dire bonjour, c'était mon heure de garde, je l'ai vu qui regardait du coin de l'œil un petit cahier rouge qui le suit partout. Je sais que ce cahier contient le journal qu'il vous écrit, et je lui ai demandé s'il avait raconté son accident.</p>

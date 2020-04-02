@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03002" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">53382</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -27,10 +27,10 @@
           <date>2004</date>
           ,
           <idno>14251</idno>
-         
+
         </bibl><bibl type="firstEdition">
           <date>1890</date>
-          
+
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
@@ -55,9 +55,7 @@
   <text>
     <body>
       <div type="chapter">
-        <p>
-          <label>I</label>
-        </p>
+        <head>I</head>
         <p>Le docteur Davidoff, d'un air inspiré, tournant vers les convives du prince Patrizzi son visage aux traits rudes et tourmentés, laissa, au milieu de la discussion, tomber ces surprenantes paroles:</p>
         <p>--Et vous, croyez-vous à la puissance d'une suggestion répétée, qui fait entrer une idée dans votre cerveau, aiguë et persistante comme la pointe d'une vrille? Croyez-vous que cette idée puisse influer sur votre état moral, jusqu'à modifier votre état physique, car vous me concéderez bien, n'est-ce pas, que le moral a une action souveraine et décisive sur le physique?...</p>
         <p>--Nous vous le concédons, répondit tranquillement le Napolitain. Maintenant, et c'est là que je vous attends, il faudrait conclure...</p>
@@ -235,9 +233,7 @@
         <p>A quelques centaines de mètres la barque s'était arrêtée. Les fraudeurs avaient disparu dans les broussailles de la colline, et, sur la mer polie comme un miroir, la lune versait sa froide et sereine lumière.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II</label>
-        </p>
+        <head>II</head>
         <p>Au bord de la mer, sur la délicieuse route qui conduit de Monaco à Nice, un peu plus loin que Eze, avant d'arriver à Villefranche, dans une petite baie formée par une brusque coupure de la falaise, s'élève une villa rose et blanche, qui baigne dans l'eau azurée sa terrasse fleurie d'orangers et de mimosas. Des sapins au tronc rouge, aux larges ramures, des genévriers d'un bleu sombre, de noirs thuyas, croissent sur la pente, entre les quartiers de rochers, au milieu des bruyères, encadrant d'un bois sauvage ce vallon tranquille, isolé et silencieux. Un petit port, garanti naturellement par une jetée de récifs, sur lesquels le flot se brise avec des tourbillons d'écume, contient deux barques de promenade, immobiles dans les eaux calmes et transparentes, auxquelles les herbes du fond donnent, par place, une couleur d'un vert d'émeraude. La terre rouge absorbe le soleil et chauffe l'atmosphère de ce coin abrité, où règne, tout le jour, une température de serre. Le soir, l'air y est vif et chargé des senteurs exquises exhalées par les arbres aux feuillages impérissables, par les plantes aux fleurs sans cesse renaissantes. De petits bateaux de pêche, venant de Beaulieu et allant à Monaco, croisent lentement au large et animent l'horizon de leur marche paresseuse. Le chemin de fer, qui passe à mi-côte derrière la villa, trouble seul de ses roulements le silence riant de ce paisible lieu. C'est là que, depuis deux mois, Mme de Vignes est venue se fixer avec son fils et sa fille, loin des agitations du monde parisien, dans le doux et salubre repos de ce pays enchanté.</p>
         <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
         <p>Restée veuve à trente ans, après une existence remplie d'orages par un mari viveur, Mme de Vignes s'était consacrée avec une haute raison et une profonde tendresse à l'éducation de ses enfants. Jacques, grand et beau garçon blond, esprit passionné, caractère ardent, en dépit des prudents conseils quotidiennement reçus, avait promptement prouvé qu'il tenait de son père. Sa soeur Juliette, plus jeune de quatre ans, avait, par un contraste heureux, pris à sa mère toute sa grave sagesse. De sorte que si l'un pouvait préparer à la veuve de sérieux soucis, l'autre paraissait destinée à l'en consoler. Entre ces deux natures si diverses, Mme de Vignes, jusqu'à quarante ans, vécut dans une relative quiétude. Jacques, très intelligent et assez laborieux, avait terminé brillamment ses études. Sa santé, délicate pendant son enfance, s'était consolidée, et, lorsqu'il avait atteint sa majorité, c'était, avec sa haute taille, ses longues moustaches pâles et ses yeux bleus, un des plus séduisants jeunes hommes qu'on pût voir. Il n'avait pas tardé à en abuser.</p>
@@ -386,9 +382,7 @@
         <p>Alors, songeant à Pierre Laurier disparu, à Juliette qui pleurait, le Russe eut un silencieux et sardonique sourire. Il pensa que, pour rendre la vie à cet égoïste jeune homme, c'était beaucoup que le sacrifice de deux êtres. Et mentalement, sur cette belle terrasse, sous ce ciel délicieux, il évoqua un couple amoureux, rayonnant, heureux, passant enlacé dans l'enivrant parfum des orangers en fleurs. Mais les amants rebelles s'enfuirent soudain effarouchés, et Davidoff ne vit plus que Jacques, déjà ranimé par le sang de Pierre et les larmes de Juliette, qui, près de lui, marchait triomphant.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III</label>
-        </p>
+        <head>III</head>
         <p>Pendant qu'il nageait, de toutes ses forces, vers l'homme qui se noyait, Pierre, puissamment éclairé par la lune, à ce moment-là débarrassée de son voile de nuages, avait été aperçu par les douaniers embusqués sur la falaise. Deux détonations, un sifflement aigu à ses oreilles, un peu d'écume sautant sous le coup de fouet d'une balle, lui annoncèrent qu'il était pris pour un fraudeur. Il se dressa sur le sommet d'une vague et jeta un rapide coup d'oeil autour de lui. A dix mètres, dans un remous, une forme noire se débattait; à deux cents mètres, le canot, enlevé par l'effort de ses rameurs, se dirigeait vers le cotre qui louvoyait au large. Quelques brasses vigoureuses mirent Pierre à portée du malheureux qui se débattait aveuglé, étouffé par les flots, inconscient de ses suprêmes efforts. Il le saisit vigoureusement, lui leva la tête hors de l'eau, et, d'une voix puissante, poussa un cri qui, vibrant de lame en lame, parvint jusqu'à la barque. L'homme qui tenait la barre, à cet appel, regarda avec attention et, à la surface des ondes argentées, apercevant ce groupe qui se mouvait, il répondit par un coup de sifflet aigu. Aussitôt les rames cessèrent de frapper la mer, le bateau s'arrêta et le cotre, comme obéissant à des ordres reçus d'avance, mit le cap sur la terre.</p>
         <p>Alourdi par son épave humaine, et rassemblant toutes ses forces, Pierre avançait péniblement. Ses habits, collés à son corps, entravaient le jeu de ses jambes, et la respiration s'embarrassait dans sa poitrine. Maintenant des paquets de mer lui passaient par-dessus la tête, il ne fendait plus, alerte et léger, les vagues, de ses bras dispos. Il lui semblait qu'une puissance irrésistible l'entraînait vers le fond, et que des liens mystérieux garrottaient ses membres appesantis. Des bourdonnements emplissaient ses oreilles, et ses yeux voilés d'ombre ne distinguaient plus nettement le ciel.</p>
         <p>Il pensa: Je n'aurai jamais l'énergie d'aller jusqu'à la barque, et je vais mourir avec ce malheureux. Un désespoir le prit de ne pouvoir sauver cet inconnu qu'il tenait là, étroitement embrassé, comme un frère tendrement aimé. Il ne songeait pas à lui-même, il avait fait le sacrifice de sa vie, et il ressentait une âpre joie de la donner non inutilement, par un absurde et lâche suicide, mais en luttant pour arracher un homme à la mort.</p>
@@ -605,9 +599,7 @@
         <p>Le soleil descendait dans la mer, rouge comme une énorme braise. Pierre se leva, et, le coeur apaisé, regagna le village.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV</label>
-        </p>
+        <head>IV</head>
         <p>C'était le premier dimanche du carnaval et le théâtre de Nice splendidement illuminé, s'ouvrait pour le grand veglione. Depuis la place Masséna au centre de laquelle, sur son trône burlesque, depuis deux jours, avait été solennellement assis le roi Carnaval en habits pailletés, le hochet de la folie à la main jusqu'au péristyle du théâtre, une multitude de curieux, riant, criant, sifflant, regardait circuler les masques. L'orchestre rugissait de tous ses cuivres, et le rythme des valses et des quadrilles arrivait, en bouffées joyeuses, couvert par le murmure bourdonnant de la foule, qui roulait ses vagues, dans le vaste bâtiment livré, pour toute la nuit, aux caprices et aux fantaisies.</p>
         <p>Dès l'entrée, ce n'était que buisson de plantes, sur lesquelles ruisselaient des lumières. Une élégante cohue de dominos multicolores, masqués ou le visage découvert, circulait dans les couloirs, les hommes et les femmes engagés dans de piquantes intrigues, dont les répliques volaient comme des flèches, au milieu des éclats de rire, des poursuites amoureuses et des fuites coquettement retardées. Dans la salle c'était, sur l'emplacement de l'orchestre et du parterre, la danse, comme au bal de l'Opéra. Dans les loges la conversation et la galanterie.</p>
         <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
@@ -790,9 +782,7 @@
         <p>Et il était déjà debout. La force magnétique, qui ramenait Laurier, toujours vaincu, après tant de serments d'être invincible, agissait sur Jacques. Le charme de cette fille, redoutable goule qui anéantissait la volonté de ceux qu'elle voulait séduire, triomphait de l'éloignement, de la sagesse et de la clairvoyance. Jacques discutait encore avec lui-même que déjà son animalité l'emportait victorieuse. Il entra dans la maison, prit son chapeau, son manteau, et, sans dire adieu à sa mère et à sa soeur, il partit.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V</label>
-        </p>
+        <head>V</head>
         <p>La passion que Clémence inspira à Jacques, fut d'autant plus vive qu'elle avait été plus combattue. Un caprice sensuel jetait la jeune femme et le beau garçon dans les bras l'un de l'autre. Ils s'aimèrent avec rage, avec folie, et dans un exclusivisme absolu, qui mettait une infranchissable barrière entre le monde et eux. Ils vécurent, pendant quinze jours, l'un pour l'autre, l'un près de l'autre, dans la riante villa de la route de Menton, sous les orangers en fleurs du jardin, parmi les divans bas, capitonnés de soie, du salon mauresque.</p>
         <p>Le soir, Jacques s'arrachait, à grand'peine, aux séductions de la charmeuse, et rentrait à Beaulieu. Sa mère et sa soeur ne le voyaient plus qu'un instant, le matin, avant son départ. Et, avec une tristesse profonde, Mme de Vignes constatait que le retour inespéré de son fils à la santé avait été le signal de la reprise de sa vie dissipée d'autrefois. Cette vie dévorante, qui l'avait mis si près de sa fin. Elle avait risqué une remontrance, qui avait été accueillie avec un sourire. Jacques, pressé de s'échapper, avait embrassé sa mère, assuré qu'il ne s'était jamais senti plus solide, ce qui était vrai, et qu'il n'y avait point lieu de s'inquiéter. Et, sans plus vouloir écouter ni conseils ni prières, il s'était dirigé vers la gare et avait pris le train pour Monte-Carlo. Les deux femmes restaient donc seules, et leurs journées s'écoulaient silencieuses et mornes.</p>
         <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
@@ -1021,9 +1011,7 @@
         <p>Et il partit pour Paris.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI</label>
-        </p>
+        <head>VI</head>
         <p>La dépêche de Davidoff fut remise à Pierre Laurier le jour même de la noce d'Agostino avec la fille d'un important fermier de San-Pellegrino. Le marin s'était enrichi à écumer les flots de la côte méditerranéenne, et il apportait six mille francs à sa future. Celle-ci, brune et vigoureuse montagnarde de seize ans, possédait une maison et des champs plantés d'oliviers. Les jeunes gens s'aimaient depuis un an, et, sous cette condition qu'Agostino cesserait de naviguer, le mariage avait été conclu.</p>
         <p>
           On sortait de l'église de San-Pellegrino, et, sur le passage des mariés, les coups de fusil, tirés en signe de joie, pétillaient, comme si la vendetta eût jeté une moitié du pays contre l'autre. Les vivats éclataient dans le cortège, les figures rayonnaient de joie, et, sous ce grand soleil, dans la chaleur de l'été, à l'odeur de la poudre, une sorte d'ivresse s'emparait des cerveaux. Pierre donnant le bras à la petite Marietta, avec qui il venait de quêter à l'église, suivait d'un oeil ravi les péripéties de cette fête si originale, si vivante, rêvant déjà le beau tableau qu'il en fit, et qui est devenu populaire sous le titre de
@@ -1153,9 +1141,7 @@
         <p>Alors, prenant par la main celui qu'elle aimait, elle le conduisit à sa mère. Mme de Vignes tendit les bras à l'enfant prodigue, et, en recevant ce baiser, cette fois, Pierre se sentit complètement absous.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII</label>
-        </p>
+        <head>VII</head>
         <p>Il y avait, ce matin-là, grand déjeuner chez Clémence. La semaine des courses commençait. Un arrivage de Parisiens avait eu lieu la veille. Et, rencontrés, le soir même, au casino, ils avaient été invités par la belle fille et par Jacques. C'était la fleur du monde joyeux. Gentlemen triés sur le volet parmi les plus élégants et les plus gais, femmes choisies parmi les plus séduisantes et les plus aimées. Les hommes portaient des noms célèbres dans les arts, la finance et la politique. Les femmes étaient les gradées les plus illustres du bataillon de Cythère.</p>
         <p>Il y avait là le prince Patrizzi; Duverney, le peintre des nudités modernes, spirituel convive gardant de sa jeunesse une bonne humeur de rapin; le petit baron Trésorier, l'agent de change, une des plus fines lames des salles d'armes de Paris; Berneville, sportsman qui monte comme un jockey de profession et s'est cassé sept fois la clavicule dans des steeples; le duc de Faucigny, le plus jeune député de la Chambre, légitimiste intransigeant, qui a fait une profession de foi retentissante en faveur de don Carlos; Burat, l'avocat attitré des théâtres, la langue la plus acérée du palais, grand coureur de premières et passionné collectionneur de tableaux; Sélim Nuño, venu pour voir courir sa jument Mandragore dans la poule des produits, et cachant, sous une gaieté affectée, les angoisses de son amour-propre d'éleveur.</p>
         <p>Les femmes étaient Andrée de Taillebourg, Mariette de Fontenoy, Laure d'Évreux, la blonde Sophie Viroflay, toutes portant des noms empruntés aux plus glorieuses batailles de l'histoire de France ou aux stations les plus connues de l'indicateur des chemins de fer. D'ailleurs, les uns et les autres, aimables et généreux, jolies et parées à souhait.</p>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03901" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">52092</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -24,12 +24,12 @@
         --></publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           Bibliothèque électronique du Québec,
-         
+
           <ref target="http://beq.ebooksgratuits.com"/>
-         
+
         </bibl><bibl type="firstEdition">
           <date>1869</date>
-         
+
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
@@ -54,9 +54,7 @@
   <text>
     <body>
       <div type="chapter">
-        <p>
-          <label>I -- Adalbert était heureux.</label>
-        </p>
+        <head>I -- Adalbert était heureux.</head>
         <p>Rien de plus joli que la demeure où s'écoulait l'enfance du petit Adalbert ; c'était la campagne de la Normandie avec ses haies, ses buissons, ses grands prés, ses champs dorés, tous ses parfums, toutes ses fleurs.</p>
         <p>Ces trésors, Adalbert les partageait avec les enfants du canton, car Dieu a mis pour tous du bonheur dans la plaine ; mais ce dont le petit garçon jouissait seulement avec ses frères et sa sœur, c'était une grande et belle maison dont les fenêtres donnaient sur une jolie pelouse, où l'on admirait deux corbeilles de roses, les plus délicieuses qu'on pût voir. Il y avait de tous côtés des arbres verts, des peupliers, des hêtres, des chênes, des ormes, entre lesquels couraient tantôt des allées capricieuses, tantôt de l'eau bien claire où se plaisaient de beaux poissons.</p>
         <p>Au fond du parc était un labyrinthe formé de lilas et de clématite, où l'on se perdait pour de bon, tant il y avait de détours. Ce labyrinthe semblait avoir été fait tout exprès pour jouer à cache-cache, et Adalbert s'y amusait de tout son cœur à chercher ses frères, Eugène et Frédéric, ou sa sœur Camille.</p>
@@ -99,9 +97,7 @@
         <p>M. et Mme de Valneige trouvaient fort bonne cette surveillance qui rendait la leur plus facile, et les enfants eux-mêmes, tout en craignant un peu les airs fâchés que la vieille savait prendre, l'aimaient néanmoins parce qu'elle était juste, parce qu'elle faisait les confitures, et parce que c'était encore elle qui se prêtait le mieux à leurs innocents caprices, pourvu que ces caprices ne s'avisassent pas de naître avant telle heure, ou après telle autre. Le cadran avant tout.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II -- Adalbert avait un grand défaut.</label>
-        </p>
+        <head>II -- Adalbert avait un grand défaut.</head>
         <p>Adalbert était un bon enfant aux yeux vifs, au sourire fin, bien pris dans sa petite taille, souple comme une gazelle, adroit, léger à la course, et capable de toutes les gentillesses possibles. Sa figure était heureuse, c'est-à-dire qu'elle avait, quand il était sage, cette aimable et fraîche expression qui prévient les étrangers en faveur d'un enfant.</p>
         <p>On était bon pour lui, on se faisait une joie de lui procurer du plaisir, et pourtant, quand on le connaissait bien, on voyait qu'il avait un défaut, un très grand défaut... Il était désobéissant !</p>
         <p>Au lieu de se rappeler que toutes les personnes qui l'entouraient savaient beaucoup plus que lui, il se posait en connaisseur, et prétendait qu'il pouvait sans inconvénient faire telle ou telle chose défendue.</p>
@@ -131,9 +127,7 @@
         <p>Adalbert savait par cœur ces défenses, et bien d'autres. Dès qu'il entendait sa mère résumer le tout par ces simples mots : Obéissez, mes enfants, il aurait voulu boucher ses oreilles de peur de comprendre une fois de plus tout ce qu'il ne fallait pas faire, car c'était justement ce dont il avait le plus envie, et nous verrons bientôt ce qu'il en arriva.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III -- Adalbert avait désobéi.</label>
-        </p>
+        <head>III -- Adalbert avait désobéi.</head>
         <p>Quels que soient les charmes de la vie quotidienne, c'est pour nous une grande jouissance de rompre la monotonie, même dans nos plaisirs. Qu'on juge des transports de bonheur qui éclatèrent en famille lorsque M. de Valneige déclara un beau matin, pendant le déjeuner, qu'il allait mettre à exécution un charmant projet formé depuis longtemps, et tour à tour accepté, combattu, retardé. Ce projet réunissait toutes les conditions qui flattent le désir, car non seulement il était charmant, mais il se faisait attendre, et depuis un an notre petit monde en parlait tout haut et tout bas, disant : Quand donc ferons-nous le grand voyage ? quand verrons-nous Paris, Strasbourg, Vienne, Prague ? des lacs, des montagnes ?... À cette seule pensée, on sautait sur sa chaise, même en achevant sa page d'écriture, ce qui ne manquait pas d'y faire un très regrettable pâté.</p>
         <p>Eh bien oui, c'était décidé, on partait pour l'Allemagne ; on allait voyager lentement, sans fatigue, n'ayant d'autre but que de s'instruire sans livres et de s'amuser. Il est vrai que Mme de Valneige, qui désirait particulièrement ce voyage, avait un but secret ; elle était inquiète de la santé de son mari, et les médecins jugeaient que le remède le plus actif était le changement de lieu et d'habitudes ; on espérait combattre ainsi une sorte de mélancolie nerveuse qui tourmentait M. de Valneige, et qui de temps en temps était accompagnée de quelques accès de fièvre. Son excellente femme cachait soigneusement son inquiétude pour ne pas augmenter le mal. Quant aux enfants, comme leur père n'était pas couché, et s'habillait comme tout le monde, ils trouvaient qu'il se portait à merveille.</p>
         <p>Lorsque la décision fut connue, on battit des mains aux paroles du bon père de famille, et quand il eut dit : -- Nous partons dans huit jours ; -- on lui sauta au cou.</p>
@@ -197,9 +191,7 @@
         <p>« Mon Dieu ! Adalbert ! »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV -- Adalbert était bien loin.</label>
-        </p>
+        <head>IV -- Adalbert était bien loin.</head>
         <p>Tout fait événement au village, même une poule qui imite le chant du coq, et que l'on se hâte de tuer parce qu'on se figure qu'elle porterait malheur. On peut juger de ce qu'avait produit à Valneige la disparition du jeune Adalbert.</p>
         <p>Il n'était question que de cette triste aventure, et chacun se livrait à des suppositions sans fin. Il y avait même du merveilleux dans les suppositions des bonnes gens, car les bonnes gens sont crédules et superstitieux.</p>
         <p>Un jour, une femme vint trouver Rosette pour lui dire :</p>
@@ -266,9 +258,7 @@
         <p>Godinette, un peu piquée, mais nullement convaincue, tira sa révérence, et s'en alla conter à d'autres son rêve et sa boule jaune. Quant à la bonne Rosette, voyant l'entretien terminé, elle fit tranquillement redescendre ses bienheureuses lunettes sur son nez et reprit son éternel tricot.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V -- Adalbert savait enfin où peut mener la désobéissance.</label>
-        </p>
+        <head>V -- Adalbert savait enfin où peut mener la désobéissance.</head>
         <p>Pendant que la famille de Valneige était dans la stupeur et la consternation, pendant qu'on le cherchait de tous côtés, à Prague et aux environs, où était ce cher petit Adalbert ?</p>
         <p>Personne ne le savait, sinon l'être infâme qui l'avait enlevé à l'amour de ses parents. Habitué à désobéir, l'enfant ne pouvait manquer d'arriver tôt ou tard à quelque grand malheur. Le jour de sa disparition, il avait désobéi huit fois ! et comme on ne s'en était pas aperçu, il n'avait pas été puni. Dieu voit tout ce que les pères et mères ne voient pas ; ce fut Lui qui se chargea de punir à la fois, par un châtiment terrible, toutes les désobéissances que le petit garçon avait commises depuis qu'il se rendait compte de ses actions ; or, il avait eu de bonne heure beaucoup de raison.</p>
         <p>Voici comment les choses s'étaient passées :</p>
@@ -303,9 +293,7 @@
         <p>Cependant la nuit s'avançait : la fatigue et le chagrin alourdissaient ses paupières, il s'endormit, et rêva que Philippe, le cocher, lui faisait faire le tour du parc de Valneige en tilbury parce qu'il avait été sage ; que sa maman l'avait embrassé deux fois, et que Rosette lui avait raccommodé la bride de son cheval à bascule avec une bonne ficelle neuve ; puis la scène changeait brusquement, il était assis devant une table, il buvait, et tout tournait ; mais tout à coup, son père venait à lui ! On le voit, Adalbert, même en dormant, avait encore de l'espérance.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI -- Adalbert se demandait si Gella avait un cœur.</label>
-        </p>
+        <head>VI -- Adalbert se demandait si Gella avait un cœur.</head>
         <p>Le lendemain du jour fatal, un air vif et sain soufflait sur la Bohême, et donnait à tous vigueur et entrain. Quand Adalbert se réveilla, il fut d'abord effrayé, puis se rappelant ce qui s'était passé, il se figura que ce temps de misère ne serait pas long, et que bientôt il sortirait de cette maudite voiture.</p>
         <p>Ce n'était nullement un enfant gâté ; il avait été élevé sans mollesse, et avait contracté par conséquent des habitudes énergiques. Il mangeait de tout, il supportait le froid sans se plaindre, savait se gêner, attendre, et avait un grand courage. Lorsqu'à Valneige il lui arrivait de se faire du mal, il ne pleurait qu'à la dernière extrémité parce que son père, quand il le voyait pleurer pour des riens, ne manquait jamais de lui dire : -- Qu'as-tu, ma petite fille ?</p>
         <p>
@@ -398,9 +386,7 @@
         <p>Néanmoins, il n'avait qu'une pensée, tout en regardant la troupe travailler, c'était de trouver un moyen de s'échapper. Comment faire ? Quelquefois il songeait à implorer Gella ; mais la connaissait-il assez ? Si elle allait se moquer de lui ou rapporter ses paroles au chef, et redoubler par conséquent sa méfiance ? Non, impossible de s'arrêter à cette idée. Chaque fois que lui revenait la pensée de fuir, il se rappelait que la fuite était impraticable et dangereuse dans un pays dont il ne connaissait pas la langue. Il en vint à ajourner forcément l'exécution de son projet, car on parlait de quitter les montagnes et de voyager lentement dans la direction du Rhin ; or ce Rhin c'était pour lui une espérance ; il savait que, même bien avant d'y arriver, il trouverait beaucoup d'hommes qui parleraient français. Le pauvre enfant devenu tout à coup craintif, soumis, patient, ne parla donc à personne et se résigna à attendre pour ne pas manquer son coup.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII -- Adalbert écoutait la pendule sonner dans les ténèbres.</label>
-        </p>
+        <head>VII -- Adalbert écoutait la pendule sonner dans les ténèbres.</head>
         <p>Lorsque les bohémiens se remirent en route après avoir passé bien longtemps dans les montagnes, Adalbert vit avec effroi qu'il était l'objet d'une surveillance inquiète et perpétuelle. Le maître, la vieille, le méchant Karik, et même la bonne Gella, voilà les espions dont il était nuit et jour entouré. Plus terrible qu'eux tous, le vieux chien hargneux le regardait avec des yeux flamboyants, et semblait ne devoir faire de lui qu'une bouchée s'il tentait de se sauver. Décidément le moment n'était pas venu, mais quand donc viendrait-il ? On s'arrêtait partout ; on rampait aux abords des villes, le plus souvent sans y entrer, à moins qu'il n'y eût quelque fête populaire ; le pauvre petit français figurait, hélas ! dans ces fêtes ! Quant à la vieille bohémienne, hideuse créature, elle s'en allait disant la bonne aventure tout le long du chemin, à qui voulait l'entendre, et regardant attentivement le dedans de la main des gens superstitieux à qui elle débitait d'absurdes mensonges, dont elle riait aux éclats quand elle se retrouvait en famille. Adalbert, quoiqu'il vît depuis un an tout ce manège, ne s'y habituait pas, il était indigné de cette conduite et avait cette mégère en horreur.</p>
         <p>Son chagrin augmentait quelquefois parce qu'il s'y mêlait une secrète frayeur de ne jamais trouver le moyen de mettre son projet à exécution. On avait beau traverser des pays où le prisonnier pouvait se faire comprendre, à quoi cela lui servait-il puisqu'il était gardé à vue ?</p>
         <p>Cependant, on parlait toujours du Rhin, et il était question de s'arrêter un moment dans le midi de l'Alsace, après quoi on s'acheminerait peut-être du côté de Lyon, où Gella reverrait sa tante, honnête femme qui, en souvenir de sa sœur, morte si jeune et si malheureuse, aimait la pauvre bohémienne et lui voulait du bien. Ces mots qu'Adalbert saisissait au hasard, et que Gella lui répétait volontiers, rendaient du courage au prisonnier, et, gardant pour lui seul son secret, il se promettait de saisir avidement la première occasion favorable.</p>
@@ -477,13 +463,11 @@
         <p>Adalbert ne vit plus son étoile, ni le ciel bleu, ni ses belles pensées d'espérance, mais uniquement le gros rat noir qui venait dans l'ombre comme un traître, et sans que le prisonnier pût se défendre puisqu'il n'osait bouger, ne sachant de quoi il était entouré. Nouvel effroi ! La peine du petit de Valneige n'était plus une peine attendrissante et qui élevait son âme si bien formée par de bons parents, c'était une horreur instinctive pour une bête dangereuse, et il fallait passer ainsi toute la nuit, et la pendule sonna dans les ténèbres onze heures.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>
+          <head>
             VIII --
             <hi>*Adalbert occupait la pensée de M</hi>
             me* Tourtebonne.
-          </label>
-        </p>
+          </head>
         <p>Il y a des gens qui veulent toujours savoir comment finit ce qu'ils ont vu commencer. De ce nombre était l'honnête marchande que nous avons entendue questionner Adalbert. Elle était restée plantée devant sa voiture à bras, suivant des yeux aussi loin que possible le petit coureur.</p>
         <p>Mme Tourtebonne, c'était son nom, éprouvait un besoin continuel d'expansion ; elle disait à chacun ce qu'elle pensait, et comme son occupation unique était de rouler sa voiture dans tous les quartiers, elle avait pour confidente intime la ville entière. Peu importait qu'on lui répondît ou qu'on ne lui répondît pas ; l'essentiel était de communiquer ses pensées ; aussi arrivait-il constamment à Mme Tourtebonne d'achever à la bouchère l'histoire dont l'épicière distraite avait eu les premiers mots. La chère femme était connue de tous, et appréciée parce qu'elle était obligeante, comme le sont en général les personnes qui aiment à se mêler de beaucoup de choses. Elle ne craignait pas de se donner de la peine pour les autres, et, certainement, s'il avait fallu pour rendre un service parler trois heures de suite, elle en eût parlé quatre.</p>
         <p>Comme il y avait quarante-deux ans qu'elle tournait dans la ville, elle en savait par cœur les rues, les maisons et les habitants ; c'était à peu près comme un dictionnaire qu'on n'a qu'à feuilleter pour y trouver son mot avec les indications désirées. Mme Tourtebonne était si bien au courant de ce qui se passait, grâce à son commerce et à sa perspicacité, qu'elle avait été appelée plusieurs fois en témoignage devant la justice. Ces jours-là avaient été des jours de triomphe pour l'excellente femme ; sa mémoire était si fidèle, ses remarques si minutieuses, sa parole si facile, que véritablement, elle avait jeté une grande lumière sur les affaires dont il s'agissait. Aussi, les gens qui ne marchaient pas droit l'évitaient-ils comme le feu ; on se cachait d'elle pour faire du mal comme on se cache de tout instrument de publicité.</p>
@@ -508,182 +492,122 @@
           <hi>oui</hi>
           compromettant. C'était inévitablement : dame !... ça dépend !... pourquoi pas ?... qu'en pensez-vous ?... allons donc !... tout de même.
         </p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Sont-ils frais vos harengs ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
         <p>Je vous le demande ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Sont-ce bien ceux qu'on vous a apportés ce matin ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
         <p>Lesquels donc que ça serait ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Ce sont vos plus frais, n'est-ce pas ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
         <p>Croyez-vous que je vous offrirais de la mauvaise marchandise ? voyons ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Eh bien, donnez-m'en six.</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
         <p>Voilà, et du bon ! À présent, il nous faut du fromage, pas vrai ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Je ne m'en soucie guère.</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
         <p>C'est pourtant bon et digestif ! Celui qui ne mange point de fromage a des pesanteurs.</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Vous croyez ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
         <p>La preuve, c'est que je n'en ai jamais, moi qui suis dans le fromage depuis que je me connais ; ainsi...</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Eh bien, donnez-m'en un peu, pas beaucoup.</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
         <p>Ce que vous voudrez.</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Pas de celui-ci ; il est très fort, n'est-ce pas ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
         <p>Excellent !</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Celui-là doit être meilleur ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
         <p>Parfait !</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Lequel vais-je prendre ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
         <p>Prenez-les tous les deux.</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Oh ! non, il ne m'en faut qu'un, et encore c'est trop.</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
         <p>On le coupe en deux, ça fait qu'on n'en voit que la moitié.</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Celui-ci me paraît plus gras ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
         <p>Il l'est...</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Et l'autre ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
         <p>L'autre aussi.</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Se conservera-t-il ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
         <p>Vous m'en direz des nouvelles.</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LA PRATIQUE.</label>
         </p>
         <p>Vous en répondez ?</p>
-      </div>
-      <div type="chapter">
         <p>
           <label>LE MARCHAND.</label>
         </p>
@@ -739,9 +663,7 @@
         <p>Pendant ce temps-là, notre petit ami était, comme nous l'avons vu, dans un souterrain, et comptait bien tristement les heures de sa captivité.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX -- Adalbert avait faim.</label>
-        </p>
+        <head>IX -- Adalbert avait faim.</head>
         <p>Nous avons laissé le fils de M. de Valneige en proie à une vive agitation dans sa ténébreuse solitude. Cette agitation dura plusieurs heures. Tantôt il croyait que le gros rat était tout près de lui, tantôt il lui semblait le sentir grimper le long de son corps. Son imagination lui créait mille souffrances qui n'existaient pas.</p>
         <p>Il fut distrait de cet état pénible par une autre préoccupation qui, en le détournant de la vilaine bête, le rejeta dans de nouvelles perplexités.</p>
         <p>Il entendait à quelques pas le bruit d'un ouvrier qui travaillait le bois. C'était comme si un menuisier entreprenait de faire un trou à une porte. Il grattait, perçait, raclait, tout cela vite, vite, comme s'il était pressé, puis cessait tout à coup, se reposant apparemment ; mais alors c'était une immobilité absolue, un silence complet ; on n'entendait même pas l'ouvrier respirer.</p>
@@ -813,9 +735,7 @@
         <p>Un peu plus tard, la pluie commença de tomber au dehors, et le vent fit gémir les trembles qui bordaient ce chemin désert. L'enfant, presque évanoui de faim, de peine et de misère, ferma les yeux, et croyant que ce qu'il sentait devait s'appeler mourir, il baissa sa pauvre petite tête, et dit tout bas : Maman !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X -- Adalbert hésitait.</label>
-        </p>
+        <head>X -- Adalbert hésitait.</head>
         <p>Il y avait longtemps que le fils de Mme de Valneige n'avait remué, et il croyait réellement ses forces épuisées. La pendule venait de sonner huit heures. Comme le ciel était tout noir et que la tempête agitait la nature, l'étoile ne revint pas, cette étoile que la veille il avait nommée Adilie ; il était donc là sans consolation, attendant, sans savoir même ce qu'il attendait.</p>
         <p>Tout-à-coup, il entend des pas, puis le frôlement d'une robe sur la barre de fer qui traversait le soupirail, puis une voix très douce qui disait tout bas :</p>
         <p>« Petit, es-tu là ? »</p>
@@ -912,9 +832,7 @@
         <p>Le lendemain, quand il revit l'Hercule, Adalbert se sentit comme écrasé par son serment ; il était non seulement le prisonnier de cet homme barbare, mais encore, et bien davantage, le prisonnier de l'amitié reconnaissante.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XI -- Adalbert avait écrit son nom sur la muraille.</label>
-        </p>
+        <head>XI -- Adalbert avait écrit son nom sur la muraille.</head>
         <p>Rien de plus simplement coquet que cette maison blanche dont on a enfin ouvert les persiennes au retour de la belle saison. Voyez comme la famille qui l'habite est heureuse de la revoir. C'est comme un nid sous une touffe de feuilles, loin du bruit, et loin des méchants. Ce n'est pas la richesse, ce n'est pas la pauvreté ; on y peut vivre paisible, sans se mettre en peine de paraître. Heureux ceux qui se contentent de peu !</p>
         <p>De ce nombre étaient les tranquilles possesseurs de cette maisonnette. Ils avaient été jeunes comme tout le monde, et ils ne l'étaient plus, encore comme tout le monde. En eux, le goût de la campagne était naturel. M. et Mme Deschamps avaient passé leurs premières années de mariage à se dire en se promenant, bon gré, mal gré ; dans les rues d'une grande ville : « Quand nos enfants seront mariés, nous irons planter nos choux ! »</p>
         <p>Or, les enfants n'en étaient qu'à la bouillie et au bourrelet. Il fallut gémir trente ans.</p>
@@ -992,9 +910,7 @@
         <p>Julien qui avait l'esprit exact, et qui, dans une autre position sociale, eût été bon mathématicien, se demandait comment diable s'y était pris le petit garçon pour sortir par le soupirail ? Entrer se comprenait encore, mais sortir ! il conclut à la nécessité d'avoir été aidé par quelqu'un. De plus, comme il était soigneux, il maudissait un vilain rat qui avait rongé la porte de la cave, et, tout en pensant à Adalbert, il songeait aussi à boucher ce trou, et à se procurer dans un court délai de la mort aux rats.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII -- Adalbert était le sujet de tous les entretiens.</label>
-        </p>
+        <head>XII -- Adalbert était le sujet de tous les entretiens.</head>
         <p>« Ah ! vous voilà donc revenus enfin ?</p>
         <p>-- Oui, et nous ramenons le beau temps.</p>
         <p>-- Ce n'est pas dommage ? quel hiver ! A-t-il plu ! j'en avais les jambes raides, à force de piétiner dans le mouillé !</p>
@@ -1040,9 +956,7 @@
         <p>De temps en temps, le bon monsieur se plaignait, sans aucune aigreur, de ce qu'on parlait un peu trop souvent d'Adalbert, et si sa femme s'en attristait, il lui faisait observer qu'une seule de ses démarches, à lui, faite en temps et lieu, avancerait plus les affaires que tous les discours et tous les soupirs imaginables ; ce à quoi la bonne Sidonie n'ayant rien à répondre tirait son aiguille, et parlait d'autre chose.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIII -- Adalbert avait déjà passé dix-huit mois dans la maison roulante.</label>
-        </p>
+        <head>XIII -- Adalbert avait déjà passé dix-huit mois dans la maison roulante.</head>
         <p>Le cher petit exilé de Valneige grandissait loin du toit paternel. L'habitude, en adoucissant ce que sa nouvelle existence avait de trop rude, lui apportait une sorte de soulagement physique, mais son esprit et son cœur se révoltaient.</p>
         <p>Cependant, il ne perdait ni l'espoir, ni le courage, et n'oubliait pas que son père avait répété plusieurs fois devant lui que la seule chose qui rende un homme moins fort que le malheur, c'est le découragement.</p>
         <p>« Moi, pensait-il, je suis un homme comme papa, excepté l'âge et la taille ; il faut que j'aie du courage ! »</p>
@@ -1096,9 +1010,7 @@
         <p>Quand elle avait ainsi exprimé de nobles pensées dans son langage trivial, la fille de l'Hercule poussait un grand soupir ; Adalbert lui savait gré de ces pensées et de ce soupir, et, à la reconnaissance affectueuse qu'il avait pour elle, se mêlait une véritable estime.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIV -- Adalbert eût été le quatorzième.</label>
-        </p>
+        <head>XIV -- Adalbert eût été le quatorzième.</head>
         <p>Les oiseaux chantaient toujours sous les ombrages embaumés de Valneige ; eux seuls n'étaient point attristés, parce qu'ils n'avaient pas connu Adalbert.</p>
         <p>C'était un lieu charmant que ce Valneige. La nature avait revêtu les teintes variées du printemps. L'eau courait sans se presser, ni s'attarder. Un beau soleil dorait la campagne, et les génisses gambadaient dans les prés, joyeuses de voir leurs mères, et de respirer une calme fraîcheur.</p>
         <p>À la ferme, tout s'agitait dans les mille détails d'une grande exploitation. On allait et venait, on labourait, on semait ; c'était encore le travail et l'espérance en la récolte prochaine qu'on préparait de loin. L'année devait être bonne, et l'on était content ; mais au château, quelle distance entre la joie paisible d'autrefois, et la vie anxieuse et triste qu'on y menait à présent.</p>
@@ -1161,9 +1073,7 @@
         </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XV -- Adaldert savait maintenant pourquoi Gella écrivait sur le sable.</label>
-        </p>
+        <head>XV -- Adaldert savait maintenant pourquoi Gella écrivait sur le sable.</head>
         <p>Un jour, dans la matinée, on avait envoyé Gella faire une commission à la ville, c'était près de Nantua qu'on campait en ce moment. Le petit Moustapha accompagnait la jeune ménagère pour l'aider à rapporter les provisions. La seule joie qu'il eût dans sa vie, c'était de loin en loin une course avec la bonne Gella. Ce jour-là, au retour, et pendant qu'il marchait à côté d'elle, sa protectrice lui dit :</p>
         <p>« Tiens, prenons ce chemin détourné d'où l'on ne voit pas la voiture ; nous allons nous asseoir un instant, j'ai quelque chose à te dire.</p>
         <p>-- Quoi donc, bonne Gella ?</p>
@@ -1219,9 +1129,7 @@
         <p>Lorsqu'il ne s'agissait pas d'un mécontentement excité par sa fille elle-même, l'Hercule lui laissait parfois assez de puissance pour pacifier l'intérieur. Cette fille était le rayon de soleil qui seul apparaissait dans ce désert moral où tout ce monde s'agitait. Son père, il est vrai, eût été capable de tout dans un moment de colère, mais pourtant il l'aimait à sa manière, comme elle le disait, et sa belle Andalouse, ainsi qu'il l'appelait dans ses rares instants de bonne humeur, était le bon génie de ce cœur à demi barbare.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVI -- Adalbert était là.</label>
-        </p>
+        <head>XVI -- Adalbert était là.</head>
         <p>Un temps admirable ! Pas question de pluie : un beau jour de printemps.</p>
         <p>Blondine, gentille Alsacienne de treize à quatorze ans, avait terminé sa toilette et mis beaucoup de pommade. Elle triomphait, faisant sonner dans sa poche sa petite fortune de quinze sous, et attendant au seuil de sa maisonnette que les bons amis la prissent en passant, comme ils en étaient convenus. Ces bons amis étaient Mme Tourtebonne et M. Baptiste ; ils allaient à la foire de M...</p>
         <p>L'heure s'avançait. La petite fille n'était pas sans inquiétude sur ce plaisir si longtemps attendu. Cependant, Mme Tourtebonne, à qui ses parents la confiaient, était l'exactitude personnifiée. Il fallait qu'elle eût été retardée par une circonstance indépendante de sa volonté. Effectivement, voici ce qui était arrivé.</p>
@@ -1323,9 +1231,7 @@
         <p>Le cheval, prit le trot, et la malheureuse femme s'adossant à un arbre se laissa tomber sur la terre et perdit connaissance.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVII -- Adalbert retournait dans la cave.</label>
-        </p>
+        <head>XVII -- Adalbert retournait dans la cave.</head>
         <p>On ne peut se figurer la joie de Mme Deschamps lorsqu'on lui amena en triomphe le petit garçon, qui reconnut parfaitement l'aspect de la maison blanche. Elle croyait retrouver un de ses petits enfants, et lui témoignait par ses caresses, vraiment maternelles, un intérêt si affectueux qu'Adalbert se sentit bientôt à l'aise avec elle. Depuis longtemps il ne voyait que grossièreté autour de lui ; qu'on juge de ce qu'il éprouvait en parcourant la maison blanche si proprette, si gentille, et qui enfin ne roulait pas !</p>
         <p>Blondine et sa grosse bonne amie ne le quittèrent qu'en lui promettant de revenir le voir, promesse qu'il accepta de grand cœur, car il sentait pour elles une bien juste et bien vive reconnaissance.</p>
         <p>M. Deschamps, homme positif, avait opposé au premier enthousiasme une certaine incrédulité ; mais le doute ne pouvait subsister devant les réponses si naturelles que faisait le petit garçon aux questions les plus adroitement posées.</p>
@@ -1398,9 +1304,7 @@
         <p>Hélas ! Gella n'était pas la seule à plaindre. La veille au soir, des campagnards, quittant la fête au milieu de la confusion causée par une pluie torrentielle, avaient vu au pied d'un arbre une paysanne évanouie. Elle était grande et pâle, ses mains blanches contrastaient avec la simplicité rustique de son costume. Un homme, qui n'était certainement ni son mari, ni son frère, s'efforçait de la faire revenir à elle-même ; il ne lui parlait pas avec le sans-façon ordinaire à sa classe, mais semblait éprouver pour elle un profond sentiment de respect. Pourquoi ? et quelle était cette femme ?</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVIII -- Adalbert n'était pas un ingrat.</label>
-        </p>
+        <head>XVIII -- Adalbert n'était pas un ingrat.</head>
         <p>Dix jours écoulés avaient changé bien des choses. La vieille Praxède, qui depuis longtemps semblait ne tenir à la vie que par un souffle, mais un souffle méchant, la vieille Praxède avait été emportée par la secousse, et sa disparition de ce monde ne laissait pas de vide. Les deux enfants, Natchès et Tilly, dont Adalbert avait raconté les tristes aventures, se voyaient recueillis provisoirement par les bons habitants de la Maison blanche. Tilly toussait à chaque instant, et tous éprouvaient pour cette jeune enfant une compassion sympathique.</p>
         <p>Des démarches secrètes, mais actives, ayant été faites, on avait tout à coup cessé de poursuivre l'Hercule ; et la bonne Gella, transportée de la prison à l'hospice, était couchée dans un lit bien blanc, et entourée des soins que demandait sa blessure. Son front s'était rasséréné ; elle savait maintenant que la délivrance du prisonnier s'était faite par une voie providentielle. Elle connaissait et s'expliquait cet enchaînement de détails qui avaient préparé la liberté d'Adalbert ; et, rassurée sur l'avenir, elle ne disait plus : ils m'ont trompée !</p>
         <p>Mais que s'était-il passé à Valneige ? Le père n'était-il pas parti en hâte dès qu'il avait eu reçu la lettre de M. Deschamps ? Non.</p>
@@ -1485,9 +1389,7 @@
         <p>« Merci du bien que tu m'as fait ! »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIX -- Adalbert était obéissant.</label>
-        </p>
+        <head>XIX -- Adalbert était obéissant.</head>
         <p>Jamais repas plus joyeux ! On était quinze à table. Tout le monde causait, riait, c'était un entrain, un appétit ! Eugène et Frédéric étaient venus passer deux jours à Valneige, par grande faveur, à cause de l'heureux événement qui ramenait au foyer le repos, la santé, l'allégresse. La vieille Rosette disait que son cher Blondin avait autrefois emporté tout cela dans ses poches, et qu'il n'avait eu qu'à paraître pour chasser le mal et les ennuis.</p>
         <p>Effectivement, M. de Valneige n'avait plus ni fièvre, ni insomnie ; il était pâle et faible, mais son fils lui rendait peu à peu des forces et de la vie. On lui conseillait de voyager, et l'on avait déjà commencé les préparatifs du départ. En attendant, les anciens amis et les jeunes camarades se divertissaient ensemble, et le vin de Champagne égayait les esprits et favorisait l'expansion.</p>
         <p>Christian et ses frères se rappelaient ce dîner, où Adalbert eût été le quatorzième, et comparait la gaieté présente à l'inquiétude qui alors pesait sur chacun.</p>

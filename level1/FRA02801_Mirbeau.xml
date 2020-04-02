@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02801" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">78132</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -66,9 +66,7 @@
     </front>
     <body>
       <div type="group">
-        <p>
-          <label>PREMIÈRE PARTIE</label>
-        </p>
+        <head>PREMIÈRE PARTIE</head>
         <div type="chapter">
           <head>I</head>
           <p>Hormis les jours où mon père avait pratiqué une opération difficile, un accouchement important, et qu'il en expliquait, à table, par des termes techniques, souvent latins, les plus émouvantes phases, mes parents ne se parlaient presque jamais. Non qu'ils se boudassent ; ils s'aimaient beaucoup au contraire, s'entendaient, en toutes choses, le mieux du monde, et l'on ne pouvait rencontrer un ménage plus uni ; mais, habitués à penser la même pensée, à vivre les mêmes impressions, et n'étant point romanesques de leur nature, ils n'avaient rien à se dire. Ils n'avaient rien à me dire non plus, me trouvant ou trop grand pour m'amuser à des chansons, ou trop petit pour m'ennuyer à des questions sérieuses. Et puis, ils étaient très imprégnés de cette idée qu'un enfant bien élevé ne doit ouvrir la bouche que pour manger, réciter ses leçons, faire sa prière. S'il m'arrivait quelquefois de m'insurger contre ce système de pédagogie familiale, mon père, sévèrement, m'imposait silence par cet argument définitif :</p>
@@ -989,9 +987,7 @@
         </div>
       </div>
       <div type="group">
-        <p>
-          <label>DEUXIÈME PARTIE</label>
-        </p>
+        <head>DEUXIÈME PARTIE</head>
         <div type="chapter">
           <head>I</head>
           <p>Deux ans s'étaient écoulés. Le curé Sortais était mort d'une embolie au cœur, et son successeur, l'abbé Blanchard, ancien premier vicaire de Viantais, lequel me donnait, et continua de me donner des répétitions de latin, avait, chez nous, repris sa place, aux dîners de famille et au bog du dimanche. Il arriva même que le bog fut parfois agrémenté de musique, car le nouveau curé possédait un très joli talent sur la flûte, et il aimait, étant bon vivant, à nous régaler de quelques morceaux de sa composition. Ces soirs-là, ma mère offrait le thé avec des tranches de gâteau sablé que le curé dévorait avidement, disant dans un gros rire, et se frictionnant l'estomac :</p>
