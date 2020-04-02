@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00903" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">85692</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -65,9 +65,7 @@
     </front>
     <body>
       <div type="chapter">
-        <p>
-          <label>I -- AUX ARÈNES</label>
-        </p>
+        <head>I -- AUX ARÈNES</head>
         <p>Ce dimanche-là, un dimanche de juillet chauffé à blanc, il y avait, à l'occasion du concours régional, une grande fête de jour aux arènes d'Aps-en-Provence. Toute la ville était venue : les tisserands du Chemin-Neuf, l'aristocratie du quartier de la Calade, même du monde de Beaucaire.</p>
         <p>« Cinquante mille personnes au moins ! » disait le Forum dans sa chronique du lendemain ; mais on doit tenir compte de l'enflure méridionale.</p>
         <p>Le vrai, c'est qu'une foule énorme s'étageait, s'écrasait sur les gradins brûlés du vieil amphithéâtre, comme au beau temps des Antonins, et que la fête des comices n'était pour rien dans ce débordement de peuple. Il fallait autre chose que les courses landaises, les luttes pour hommes et demi-hommes, les jeux de l'étrange-chat et du saut sur l'outre, les concours de flûtets et de tambourins, spectacles locaux plus usés que la pierre rousse des arènes, pour rester deux heures debout sur ces dalles flambantes, deux heures dans ce soleil tuant, aveuglant, à respirer de la flamme et de la poussière à odeur de poudre, à braver les ophtalmies, les insolations, les fièvres pernicieuses, tous les dangers, toutes les tortures de ce qu'on appelle là-bas une fête de jour.</p>
@@ -137,9 +135,7 @@
         <p>Fin du premier chapitre.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II -- L'ENVERS D'UN GRAND HOMME</label>
-        </p>
+        <head>II -- L'ENVERS D'UN GRAND HOMME</head>
         <p>Numa Roumestan avait vingt-deux ans quand il vint terminer à Paris son droit commencé à Aix. C'était à cette époque un bon garçon, réjoui, bruyant, tout le sang à la peau, avec de beaux yeux de batracien, dorés, à fleur de tête, et une crinière noire toute frisée qui lui mangeait la moitié du front comme un bonnet de loutre sans visière. Pas l'ombre d'une idée, d'une ambition, sous cette fourrure envahissante. Un véritable étudiant d'Aix, très fort au billard et au misti, sans pareil pour boire une bouteille de champagne à la régalade, pour chasser le chat aux flambeaux jusqu'à trois heures du matin dans les larges rues de la vieille ville aristocratique et parlementaire, mais ne s'intéressant à rien, n'ouvrant jamais un journal ni un livre, encrassé de cette sottise provinciale qui hausse les épaules à toute chose et pare son ignorance d'un renom de gros bon sens.</p>
         <p>Le quartier Latin l'émoustilla un peu ; il n'y avait pourtant pas de quoi. Comme tous ses compatriotes, Numa s'installait, en arrivant, au café Malmus, haute et tumultueuse baraque, développant ses trois étages de vitres, larges comme celles d'un magasin de nouveautés, au coin de la rue du Four-Saint-Germain, qu'elle remplissait du fracas de ses billards et des vociférations d'une clientèle de cannibales. Tout le Midi français s'épanouissait là, dans ses nuances diverses : Midi gascon, Midi provençal, de Bordeaux, de Toulouse, de Marseille, Midi périgourdin, auvergnat, ariégeois, ardéchois, pyrénéen, des noms en as, en us, en ac, éclatants, ronflants et barbares, Etcheverry, Terminarias, Bentaboulech, Laboulbène, des noms qui semblaient jaillir de la gueule d'une escopette ou partaient comme un coup de mine, dans une accentuation féroce. Et quels éclats de voix, rien que pour demander une demi-tasse, quel fracas de gros rires pareils à l'écroulement d'un tombereau de pierres, quelles barbes gigantesques, trop drues, trop noires, à reflets bleus, des barbes qui déconcertaient le rasoir, montaient jusqu'aux yeux, rejoignaient les sourcils, sortaient en frisons de bourre du nez chevalin large ouvert et des oreilles, mais ne parvenaient pas à dissimuler la jeunesse, l'innocence des bonnes faces naïves blotties sous ces végétations.</p>
         <p>En dehors des cours qu'ils suivaient assidûment, tous ces étudiants passaient leur vie chez Malmus, se groupant par provinces, par clochers, autour de tables désignées de longue date et qui devaient garder l'accent du cru dans l'écho de leur marbre, comme les pupitres gardent les signatures au couteau des collégiens.</p>
@@ -180,9 +176,7 @@
         <p>Elle éleva le flambeau à deux, branches, qu'elle avait pris à une table de jeu, et, la main haute, le buste tendu, elle éclairait le panneau représentant une Diane, le croissant au front, au milieu de ses chasseresses, dans un paysage élyséen. Mais avec ce geste de Canéphore, qui mettait une double flamme au-dessus de sa coiffure simple, de ses yeux clairs, avec son sourire hautain, la svelte envolée de son corps de vierge, elle était plus Diane que la déesse elle-même. Roumestan la regardait, et pris à ce charme pudique, à cette candeur de vraie jeunesse, il oubliait qui elle était, ce qu'il faisait là, ses rêves de fortune et d'ambition. Une folie lui venait de tenir dans ses bras cette taille souple, de baiser ces cheveux fins, dont l'odeur délicate l'étourdissait, d'emporter cette belle enfant, pour en faire le charme et le bonheur de toute sa vie ; et quelque chose l'avertissait que, s'il tentait cela, elle se laisserait faire, qu'elle était à lui, bien à lui, vaincue, conquise le premier jour. Flamme et vent du Midi, vous êtes irrésistibles.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III -- L'ENVERS D'UN GRAND HOMME -- (Suite)</label>
-        </p>
+        <head>III -- L'ENVERS D'UN GRAND HOMME -- (Suite)</head>
         <p>S'il y eut jamais deux êtres peu faits pour vivre ensemble, ce furent bien ces deux-là. Opposés d'instincts, d'éducation, de tempérament, de race, n'ayant la même pensée sur rien, c'était le Nord et le Midi en présence, et sans espoir de fusion possible. La passion vit de ces contrastes, elle en rit quand on les lui signale, se sentant la plus forte ; mais au train journalier de l'existence, au retour monotone des journées et des nuits sous le même toit, la fumée de cette ivresse qui fait l'amour se dissipe, et l'on se voit, et l'on se juge.</p>
         <p>Dans le nouveau ménage, le réveil ne vint pas tout de suite, du moins pour Rosalie. Clairvoyante et sensée sur tout le reste, elle demeura longtemps aveugle devant Numa, sans comprendre à quel point elle lui était supérieure. Lui, eut bientôt fait de se reprendre. Les fougues du Midi sont rapides en raison directe de leur violence. Puis le Méridional est tellement convaincu de l'infériorité de la femme qu'une fois marié, sûr de son bonheur, il s'y installe en maître, en pacha, acceptant l'amour comme un hommage, et trouvant que c'est déjà bien beau ; car enfin, d'être aimé, cela prend du temps, et Numa était très occupé, avec le nouveau train de vie que nécessitaient son mariage, sa grande fortune, la haute situation au Palais du gendre de Le Quesnoy.</p>
         <p>Les cent mille francs de la tante Portal avaient servi à payer Malmus, le tapissier, à passer l'éponge sur cette navrante et interminable vie de garçon, et la transition lui sembla double, de l'humble frichti sur la banquette de velours élimé, près de l'ancienne à tous, à la salle à manger de la rue Scribe, où il présidait, en face de son élégante petite Parisienne, les somptueux dîners qu'il offrait aux princes de la basoche et du chant. Le Provençal aimait la vie brillante, le plaisir gourmand et fastueux ; mais il l'aimait surtout chez lui, sous la main, avec cette pointe de débraillé qui permet le cigare et l'histoire salée. Rosalie accepta tout, s'accommoda de la maison ouverte, de la table mise à demeure, dix, quinze convives tous les soirs, et rien que des hommes, des habits noirs, parmi lesquels sa robe claire faisait tache, jusqu'au moment où, le café servi, les boîtes de havanes ouvertes, elle cédait la place aux discussions politiques, aux rires lippus d'une fin de dîner de garçons.</p>
@@ -241,9 +235,7 @@
         <p>Conseiller général de son département, idole du Midi tout entier, rehaussé encore par la magnifique situation de son beau-père passé premier président à la Cour de cassation depuis la chute de l'empire, Numa était évidemment destiné à devenir ministre un jour ou l'autre. En attendant, grand homme pour tout le monde excepté pour sa femme, il promenait sa jeune gloire entre Paris, Versailles et la Provence, aimable, familier, bon enfant, emportant son auréole en voyage, mais la laissant volontiers dans son carton à chapeau comme un claque de cérémonie.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV -- UNE TANTE DU MIDI -- SOUVENIRS D'ENFANCE</label>
-        </p>
+        <head>IV -- UNE TANTE DU MIDI -- SOUVENIRS D'ENFANCE</head>
         <p>La maison Portal, qu'habite le grand homme d'Aps pendant ses séjours en Provence, compte parmi les curiosités de l'endroit. Elle figure au Guide Joanne avec le temple du Junon, les arènes, le vieux théâtre, la tour des Antonins, anciens vestiges de la domination romaine dont la ville est très fière et qu'elle époussette soigneusement. Mais du vieux logis provincial ce n'est pas la porte charretière, lourde, cintrée, bossuée d'énormes têtes de clous, ni les autres fenêtres hérissées de grilles en broussailles, de fers de lances emphatiques, qu'on fait admirer aux étrangers ; seulement le balcon du premier étage, un étroit balcon aux noires ferrures en encorbellement au-dessus du porche. De là Roumestan parle et se montre à la foule quand il arrive ; et toute la ville pourrait en témoigner, la rude poigne de l'orateur a suffi pour donner ces courbes capricieuses, ce renflement original au balcon jadis droit comme une règle.</p>
         <p>« Té ! vé !... Il a pétri le fer, notre Numa ! »</p>
         <p>Ils vous disent cela, les yeux hors de la tête, avec un roulement d'r -- pétrrri le ferrr -- qui ne permet pas l'ombre d'un doute.</p>
@@ -301,9 +293,7 @@
         <p>-- Si nous montions, Numa... Nous causerions aussi bien en route...</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V -- VALMAJOUR</label>
-        </p>
+        <head>V -- VALMAJOUR</head>
         <p>De la ville d'Aps au mont de Cordoue il ne faut guère plus de deux heures, surtout quand on a le vent arrière. Attelée de ses deux vieux camarguais, la berline allait toute seule, poussée par le mistral qui la secouait, l'enlevait, creusait le cuir de sa capote ou le gonflait à la manière d'une voile. Ici il ne rugissait plus comme autour des remparts, sous les voûtes des poternes ; mais libre, sans obstacle, chassant devant lui l'immense plaine ondulée où quelques mas perdus, une ferme isolée, toute grise dans un bouquet vert, semblaient l'éparpillement d'un village par la tempête, il passait en fumée sur le ciel, en embruns rapides sur les blés hauts, sur les champs d'oliviers dont il faisait papilloter les feuilles d'argent, et avec de grands retours qui soulevaient en flots blonds la poussière craquant sous les roues, il abaissait les files de cyprès serrés, les roseaux d'Espagne aux longues feuilles bruissantes donnant l'illusion d'un ruisseau frais au bord de la route. Quand il se taisait une minute, comme à court de souffle, on sentait le poids de l'été, une chaleur africaine montant du sol, que dissipait bien vite la saine et vivifiante bourrasque étendant son allégresse au plus loin de l'horizon, vers ces petites collines grisâtres, ternes, au fond de tout paysage provençal, mais que le couchant irise de teintes féeriques.</p>
         <p>On ne rencontrait pas grand monde. De loin en loin un fardier venant des carrières avec un chargement d'énormes pierres taillées aveuglantes sous le soleil, une vieille paysanne de la Ville-des-Baux courbée sous un grand couffin d'herbes aromatiques, la cagoule d'un moine mendiant, besace au dos, rosaire aux cuisses, le crâne dur, suant et luisant comme un galet de Durance, ou bien un retour de pèlerinage, une charretée de femmes et de filles en toilette, beaux yeux noirs, chignons hardis, rubans flottants et clairs, arrivant de la Sainte-Baume ou de Notre-Dame-de-Lumière. Eh bien, le mistral donnait à tout cela, au dur labeur, aux misères, aux superstitions de pays le même entrain de santé, de belle humeur, ramassant et secouant dans ses passes les « dia ! hue ! » des charretiers, les grelots, les anneaux de verre bleu de ses bêtes, la psalmodie du moine, les cantiques aigus des pèlerines, et le refrain populaire que Roumestan, mis en verve par l'air natal, entonnait à toute gorge avec de grands gestes lyriques débordant par les deux portières :</p>
         <p>Beau soleil de la Provence,</p>
@@ -345,9 +335,7 @@
         <p>Muette et ravie, Hortense, assise sur le parapet de l'ancien donjon, accoudée à un tronçon de colonnette abritant un grenadier rabougri, écoutait et admirait, laissait voyager sa petite tête romanesque toute pleine des légendes recueillies pendant le chemin. Elle voyait le vieux castel monter de ses décombres, dresser ses tours, arrondir ses poternes, ses arceaux de cloître peuplés de belles au long corsage, au teint mat que la grande chaleur ne colorait pas. Elle-même était princesse des Baux, avec un joli nom de missel ; et le musicien qui lui donnait l'aubade, un prince aussi, le dernier des Valmajour, sous des habits de paysan. « Adonc, la chanson finie, » comme il est dit dans les chroniques des cours d'amour, elle cassait au-dessus de sa tête un brin de grenadier où pendait la fleur trop lourde de pourpre vive et le tendait pour prix de son aubade au beau musicien qui, galamment, l'accrochait aux cordelettes de son tambour.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI -- MINISTRE !</label>
-        </p>
+        <head>VI -- MINISTRE !</head>
         <p>Trois mois ont passé depuis ce voyage au mont de Cordoue.</p>
         <p>Le parlement vient de s'ouvrir à Versailles sous un déluge de novembre qui rejoint les bassins du parc au ciel bas, étouffé de brume, enveloppe les deux Chambres de tristesse humide et d'obscurité, mais ne refroidit pas les colères politiques. La session s'annonce terrible. Des trains de députés, de sénateurs, se croisent, se succèdent, sifflent, grondent, secouent leur fumée menaçante, animés à leur manière des haines et des intrigues qu'ils convoient sous des torrents de pluie ; et, dans cette heure de wagon, dominant le bruit des roues sur le fer, les discussions continuent avec la même âpreté, la même fureur qu'à la tribune. Le plus agité, le plus bruyant de tous, c'est Roumestan. Il a déjà prononcé deux discours depuis la rentrée. Il parle dans les commissions, dans les couloirs, à la gare, à la buvette, fait trembler la toiture en vitrage des salons de photographie où se réunissent toutes les droites. On ne voit que sa silhouette remuante et lourde, sa grosse tête toujours en rumeur, la houle de ses larges épaules redoutées du ministère qu'il est en train de « tomber » selon les règles, en souple et vigoureux lutteur du Midi. Ah ! le ciel bleu, les tambourins, les cigales, tout le décor lumineux des vacances, comme il est loin, fini, démonté ! Numa n'y songe pas une minute, pris dans le tourbillon de sa double vie d'avocat et d'homme politique ; car, à l'exemple de son vieux maître Sagnier, en entrant à la Chambre, il n'a pas renoncé au Palais, et tous les soirs, de six à huit heures, on se presse à la porte de son cabinet de la rue Scribe.</p>
         <p>Vous diriez une légation, ce cabinet de Roumestan. Le premier secrétaire, bras droit du leader, son conseil, son ami, est un excellent avocat d'affaires, appelé Méjean, Méridional comme tout l'entourage de Numa, mais du Midi Cévenol, le Midi des pierres, qui tient plus de l'Espagne que de l'Italie et garde en ses allures, en ses paroles, la prudente réserve et le bon sens pratique de Sancho. Trapu, robuste, déjà chauve, avec le teint bilieux des grands travailleurs, Méjean fait à lui seul toute la besogne du cabinet, déblaie les dossiers, prépare les discours, cherche à mettre des faits sous les phrases sonores de son ami, de son futur beau-frère, disent les bien informés. Les autres secrétaires, MM. de Rochemaure et de Lappara, deux jeunes stagiaires apparentés à la plus ancienne noblesse provinciale, ne sont là que pour la montre, et font chez Roumestan leur noviciat politique.</p>
@@ -428,9 +416,7 @@
         <p>Quelques instants après, Son Excellence roulait vers la gare, oubliant cet incident ridicule dans le mouvement berceur du coupé aux lanternes claires qui l'emportait rapidement vers de hautes et nouvelles destinées. Il préparait déjà les effets de son premier discours, combinait des plans, sa fameuse circulaire aux recteurs, pensait à ce qu'allait dire le pays, l'Europe, le lendemain, en apprenant sa nomination, lorsque à un tournant du boulevard, dans le rayon lumineux du gaz sur l'asphalte mouillée, la silhouette du tambourinaire lui apparut, plantée au bord du trottoir, sa longue caisse battant aux jambes. Assourdi, ahuri, il attendait, pour traverser, un arrêt dans le va-et-vient des voitures, innombrables à cette heure où tout Paris se hâte de rentrer, les petites charrettes à bras filant entre les roues des fiacres, et les omnibus pleins oscillant de l'impériale, pendant que sonnent les cornets à bouquin des tramways. Dans la nuit qui venait, la buée que l'humidité de la pluie dégageait de cette fièvre, dans cette vapeur de foule en activité, le malheureux paraissait si perdu, si dépaysé, aplati sous l'écrasement des hautes parois de ces maisons à cinq étages, il ressemblait si peu au superbe Valmajour donnant avec son tambourin le branle aux cigales sur la porte de son mas, que Roumestan détourna les yeux, se sentit pris d'un remords qui, pendant quelques minutes, jeta comme une ombre attristée sur l'éblouissement de son triomphe.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII -- PASSAGE DU SAUMON</label>
-        </p>
+        <head>VII -- PASSAGE DU SAUMON</head>
         <p>En attendant une installation plus complète qui ne pourrait se faire qu'après l'arrivée de leurs meubles en route par la petite vitesse, les Valmajour s'étaient logés dans ce fameux passage du Saumon, où descendaient de tout temps les voyageurs d'Aps et de la banlieue, et dont la tante Portal avait gardé un si étonnant souvenir. Ils occupaient là sous les toits une chambre et un cabinet, le cabinet sans jour ni air, une sorte de serre-bois dans lequel couchaient les deux hommes, la chambre guère plus grande, mais qui leur semblait superbe avec son acajou attaqué par les tarets, sa carpette miteuse, frippée, sur le carreau dérougi, et la fenêtre mansardée découpant un morceau du ciel, aussi jaune, aussi brouillé que la longue vitrine en dos d'âne du passage. Dans cette niche ils entretenaient le souvenir du pays par une forte odeur d'ail et d'oignon roussi, cuisant eux-mêmes sur un petit poêle leur nourriture exotique. Le père Valmajour, très gourmand, aimant la compagnie, aurait bien préféré descendre à la table d'hôte, dont le linge blanc, les huiliers et les salières de plaqué l'enthousiasmaient, se mêler à la conversation bruyante de MM. les représentants de commerce qu'ils entendaient rire, aux heures des repas, jusqu'à leur cinquième étage. Mais la petite Provençale s'y opposait formellement.</p>
         <p>Très étonnée de ne pas trouver en arrivant la réalisation des belles promesses de Numa, les deux cents francs par soirée qui, depuis la visite des Parisiens, faisaient dans sa petite tête imaginative un écroulement de piles d'écus, épouvantée du prix exorbitant de toutes choses, elle avait été prise, dès le premier jour, de cet affolement que le peuple de Paris appelle « la peur de manquer ». Toute seule, avec des anchois et des olives, elle s'en serait tirée, -- comme en carême, té ! pardi, -- mais ses hommes avaient des dents de loup, bien plus longues ici qu'au pays parce qu'il faisait moins chaud, et il lui fallait à tout instant entr'ouvrir la saquette, grande poche d'indienne cousue par elle-même, dans laquelle sonnaient les trois mille francs, produit de la vente de leur bien. À chaque louis qu'elle changeait, c'était un effort, un arrachement, comme si elle donnait des pierres de son mas, les ceps de la dernière vigne, -- sa rapacité paysanne et méfiante, cette crainte d'être volée qui l'avait décidée à vendre la ferme au lieu de la mettre en location, se doublant de l'inconnu, du noir de Paris, ce grand Paris que de sa chambre là-haut elle entendait gronder sans le voir et dont la rumeur, à ce coin tumultueux des halles, ne s'arrêtait ni jour ni nuit, faisait s'entre choquer continuellement sur un vieux plateau de laque les pièces de son verre d'eau d'hôtel garni.</p>
         <p>Jamais voyageur perdu dans un bois mal hanté ne se cramponna à sa valise plus énergiquement que la Provençale ne serrait contre elle la saquette, quand elle traversait la rue avec sa jupe verte, sa coiffe arlésienne, sur lesquelles se retournaient les passants quand elle entrait chez les marchands où sa démarche de cane, sa façon de donner aux objets des tas de noms baroques, d'appeler les céleris des àpi, les aubergines des mérinjanes, la faisaient elle, Française du Midi, aussi égarée, aussi étrangère, dans la capitale de la France, que si elle fût arrivée de Stockholm ou de Nijnii-Nowgorod.</p>
@@ -481,9 +467,7 @@
         <p>-- Et qu'elle avait bien envie de monter ici... ajouta la Provençale en clignant de l'œil vers son père et tordant son joli visage d'une grimace significative. Toute la face du vieux, sa peau craquée de figue sèche, se resserra pour dire : « Compris... motus !... » Il ne blaguait plus le tambourin. Valmajour, lui, très calme, ne saisissait pas l'allusion perfide de sa sœur. Il ne songeait qu'à ses prochains débuts, et décrochant la caisse, il se mit à repasser tous ses airs, à envoyer en adieu d'un bout à l'autre du passage des trilles en bouquets sur des mesures redondantes.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII -- REGAIN DE JEUNESSE</label>
-        </p>
+        <head>VIII -- REGAIN DE JEUNESSE</head>
         <p>Le ministre et sa femme achevaient de déjeuner dans leur salle à manger du premier étage, pompeuse et trop vaste, que ne parvenaient pas à dégeler l'épaisseur des tentures, les calorifères chauffant tout l'hôtel, ni le fumet d'un copieux repas. Ce matin-là, par hasard, ils étaient seuls. Sur la nappe, parmi la desserte toujours très fournie à la table du Méridional, il y avait sa boîte à cigares, la tasse de verveine qui est le thé des Provençaux, et de grands casiers alignant les fiches multicolores où étaient inscrits les sénateurs, députés, recteurs, professeurs, académiciens, gens du monde, la clientèle ordinaire et extraordinaire des soirées ministérielles, -- quelques cartons plus hauts que les autres, pour les invités privilégiés, imposés à la première série des « petits concerts ». Madame Roumestan les feuillait, s'arrêtait à certains noms, surveillée du coin de l'œil par Numa qui, tout en choisissant son cigare d'après déjeuner, guettait sur cette calme physionomie une désapprobation, un contrôle à la manière un peu hasardée dont ces premières invitations avaient été faites.</p>
         <p>Mais Rosalie ne demandait rien. Tous ces apprêts lui étaient bien indifférents. Depuis leur installation au ministère, elle se sentait encore plus loin de son mari, séparée par des obligations incessantes, un personnel trop nombreux, une largeur d'existence qui détruisait l'intimité. À cela venait s'ajouter le regret toujours navré de n'avoir pas d'enfant, de ne pas entendre autour d'elle ces petits pas infatigables, ces bons rires craquants et sonores qui auraient enlevé à leur salle à manger ce glacial aspect d'une table d'hôtel, où ils semblaient ne s'asseoir qu'en passant, avec l'impersonnalité du linge, mobilier, argenterie, tout le garni somptueux des situations publiques.</p>
         <p>Dans le silence embarrassé de cette fin de repas arrivaient des sons étouffés, des bouffées d'harmonie scandées par des bruits de marteaux, les tentures, l'estrade que l'on clouait en bas pour le concert, pendant que les musiciens répétaient leurs morceaux. La porte s'ouvrit. Le chef de cabinet entra, des papiers à la main :</p>
@@ -661,9 +645,7 @@
         <p>Il eut son coup d'épaule et se rencoigna dans la voiture. « Après tout, Hortense est libre, elle choisira... J'aurai toujours tiré ce garçon d'un mauvais milieu. » En conscience, Roumestan était sûr que ce sentiment seul l'avait fait agir.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX -- UNE SOIRÉE AU MINISTÈRE</label>
-        </p>
+        <head>IX -- UNE SOIRÉE AU MINISTÈRE</head>
         <p>Le faubourg Saint-Germain avait, ce soir-là, une physionomie inaccoutumée. Des petites rues, paisibles d'ordinaire et couchées de bonne heure, s'éveillaient au roulement saccadé des omnibus déroutés de leur itinéraire ; d'autres, au contraire, faites au bruit de flot, à la rumeur ininterrompue des grandes artères parisiennes, s'ouvraient comme le lit d'un fleuve détourné, silencieuses, vides, agrandies, surveillées à leur entrée par la haute silhouette d'un garde de Paris à cheval ou l'ombre morne -- en travers de l'asphalte -- d'un cordon sergents de ville, le capuchon baissé, les mains en manchon dans le caban, faisant signe aux voitures : « On ne passe pas. »</p>
         <p>-- Est-ce qu'il y a le feu ? demandait une tête effarée se penchant à la portière.</p>
         <p>-- Non, monsieur, c'est la soirée de l'Instruction publique.</p>
@@ -760,9 +742,7 @@
         <p>Il ajouta froidement, en posant son verre : « Du reste, il ne fera pas le sou !... »</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X -- NORD ET MIDI</label>
-        </p>
+        <head>X -- NORD ET MIDI</head>
         <p>Entre le président Le Quesnoy et son gendre, il n'y avait jamais eu grande sympathie. Le temps, les rapports fréquents, les liens de parenté n'étaient pas parvenus à diminuer l'écart de ces deux natures, à vaincre le froid intimidant qu'éprouvait le Méridional devant ce grand silencieux à tête hautaine et pâle dont le regard bleu-gris, le regard de Rosalie moins la tendresse et l'indulgence, s'abaissait sur sa verve pour la geler. Numa, flottant et mobile, toujours débordé par sa parole, à la fois ardent et compliqué, se révoltait contre la logique, la droiture, la rigidité de son beau-père ; et tout en lui enviant ses qualités, les mettait sur le compte de la froideur de l'homme du Nord, de l'extrême Nord que lui représentait le président.</p>
         <p>-- Après, il y a l'ours blanc... Puis, plus rien, le pôle et la mort.</p>
         <p>Il le flattait cependant, cherchait à le séduire avec des chatteries adroites, ses amorces à prendre le Gaulois ; mais le Gaulois, plus subtil que lui-même, ne se laissait pas envelopper. Et lorsqu'on causait politique, le dimanche, dans la salle à manger de la place Royale ; lorsque Numa, attendri par la bonne chère, essayait de faire croire au vieux Le Quesnoy qu'en réalité ils étaient bien près de s'entendre voulant tous deux la même chose -- la liberté ; il fallait voir le coup de tête révolté dont le président lui secouait toutes ses mailles.</p>
@@ -883,9 +863,7 @@
         <p>Et contre sa mère, dans cette intimité de cœur où elles se trouvaient rarement ensemble : « Écoute, mais pour toi seule, car personne ne le sait, pas même Numa », elle avoua l'espoir encore bien fragile d'un grand bonheur dont elle avait désespéré, qui la rendait folle de joie et de crainte, l'espoir tout nouveau d'un enfant qui allait peut-être venir.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XI -- UNE VILLE D'EAUX</label>
-        </p>
+        <head>XI -- UNE VILLE D'EAUX</head>
         <p>Arvillard-les-Bains, 2 août 76.</p>
         <p>C'est bien curieux, va, l'endroit d'où je t'écris. Imagine une salle carrée, très haute, dallée, stuquée, sonore, où le jour de deux grandes fenêtres est voilé de rideaux bleus jusqu'aux derniers carreaux, obscurci encore par une sorte de buée flottante, à goût de soufre, qui colle aux habits, ternit les bijoux d'or ; là-dedans, des gens assis contre les murs sur des bancs, des chaises, des tabourets, autour de petites tables, des gens qui regardent leur montre à toute minute, se lèvent, sortent pour céder la place à d'autres, laissant voir chaque fois par la porte entr'ouverte la foule des baigneurs, circulant dans le clair vestibule, et le tablier blanc flottant des femmes de service qui se hâlent. Pas de bruit, malgré tout ce mouvement, un continuel murmure de conversations à voix basse, de journaux déployés, de mauvaises plumes oxydées grinçant sur le papier, un recueillement d'église, baigné, rafraîchi par le grand jet d'eau minérale installé au milieu de la salle et dont l'élan se brise contre un disque métallique, s'émiette, s'éparpille en jaillissements, se pulvérise au-dessus de larges vasques superposées et ruisselantes. C'est la salle d'inhalation.</p>
         <p>Je te dirai, ma chérie, que tout le monde n'inhale pas de la même façon. Ainsi le vieux monsieur que j'ai en face de moi en ce moment suit à la lettre les prescriptions du médecin, je les reconnais toutes. Les pieds sur un tabouret, la poitrine en avant, effaçons les coudes, et la bouche toujours ouverte pour faciliter l'aspiration. Pauvre cher homme ! comme il aspire, avec quelle confiance, quels petits yeux ronds, dévots et crédules qui semblent dire à la source :</p>
@@ -933,9 +911,7 @@
         <p>Oh ! rien qu'un, par exemple. Du reste, quand je danse un peu trop, tout le monde est après moi. On ne sait pas comme je suis robuste avec ma taille de grand fuseau, et qu'une Parisienne n'est jamais malade de trop danser. « Prenez garde... Ne vous fatiguez pas... » L'une m'apporte mon châle ; celui-là ferme les croisées dans mon dos, de peur que je m'enrhume. Mais le plus empressé encore, c'est le jeune homme au ressort, parce qu'il trouve que j'en ai diantrement plus que sa sœur. Ce n'est pas difficile, pauvre fille. Entre nous, je crois que ce jeune monsieur, désespéré des froideurs d'Alice Bachellery, s'est rabattu sur moi et me fait la cour... Mais, hélas ! il perd ses peines, mon cœur est pris, tout à Bompard... Eh bien ! non, ce n'est pas Bompard, et tu t'en doutes, ce n'est pas Bompard le personnage de mon roman. C'est..., c'est... Ah ! tant pis, mon heure est passée. Je te le dirai un autre jour, mademoiselle refréjon.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII -- UNE VILLE D'EAUX -- (Suite)</label>
-        </p>
+        <head>XII -- UNE VILLE D'EAUX -- (Suite)</head>
         <p>Le matin où le Journal des Baigneurs annonça que Son Excellence M. le ministre de l'Instruction publique, Bompard attaché, et leur suite, étaient descendus aux Alpes Dauphinoises, le désarroi fut grand dans les hôtels d'alentour.</p>
         <p>Justement La Laita gardait depuis deux jours un évêque catholique de Genève pour le produire au bon moment, ainsi qu'un conseiller général de l'Isère, un lieutenant-juge à Tahiti, un architecte de Boston, une fournée enfin. La Chevrette attendait aussi un « député du Rhône et famille ». Mais le député, le lieutenant-juge, tout disparut emporté, perdu dans le sillon de flamme glorieuse qui suivait partout Numa Roumestan. On ne parlait, on ne s'occupait que de lui. Tous les prétextes servaient pour s'introduire aux Alpes Dauphinoises, passer devant le petit salon du rez-de-chaussée sur le jardin, où le ministre mangeait entre ses dames et son attaché, le voir faire la partie de boule, chère aux Méridionaux, avec le père Olivieri des Missions, saint homme terriblement velu, qui à force de vivre chez les sauvages avait pris de leurs façons d'être, poussait des cris formidables en pointant et pour tirer brandissait les boules au-dessus de sa tête en tomahawk.</p>
         <p>La belle figure du ministre, la rondeur de ses manières lui gagnèrent les cœurs et surtout sa sympathie pour les humbles. Le lendemain de son arrivée, les deux garçons qui servaient le premier étage annoncèrent à l'office que le ministre les emmenait à Paris pour son service personnel. Comme c'étaient de bons serviteurs, madame Laugeron fit la grimace, mais n'en laissa rien voir à l'Excellence, dont le séjour valait tant d'honneur à son hôtel. Le préfet, le recteur arrivaient de Grenoble, en tenue, présenter leurs hommages à Roumestan. L'Abbé de la Grande-Chartreuse, -- il avait plaidé pour eux contre les Prémontrés et leur élixir, -- lui envoyait en grande pompe une caisse de liqueur extrafine. Enfin le préfet de Chambéry venait prendre ses ordres pour la cérémonie de la première pierre à poser au lycée neuf, l'occasion d'un discours manifeste et d'une révolution dans les mœurs de l'Université. Mais le ministre demandait un peu de répit ; les travaux de la session l'avaient fatigué, il voulait reprendre haleine, s'apaiser au milieu des siens, préparer à loisir ce discours de Chambéry, d'une portée si considérable. Et M. le préfet comprenait bien cela, demandant seulement d'être prévenu quarante-huit heures à l'avance, pour donner l'éclat nécessaire à la cérémonie. La pierre avait attendu deux mois, elle attendrait bien encore le bon vouloir de l'illustre orateur.</p>
@@ -1046,9 +1022,7 @@
         <p>Et sans d'autres paroles, il l'attira, la serra contre sa poitrine avec une tendresse de grand-père et se sauva, les deux mains appuyées sur son cœur qui éclatait.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIII -- LE DISCOURS DE CHAMBERY</label>
-        </p>
+        <head>XIII -- LE DISCOURS DE CHAMBERY</head>
         <p>Non, non, je me fais hironde... e... elle</p>
         <p>Et je m'envo...o...le à tire d'ai...ai...le...</p>
         <p>De sa voix aigrelette qui, ce matin, s'était levée toute limpide et de belle humeur, la petite Bachellery, serrée dans un caban de fantaisie à capuchon de soie bleue pour aller avec une petite toque entortillée d'un grand voile de gaze, chantait devant sa glace en achevant de boutonner ses gants. Sanglée pour l'excursion, sa joyeuse petite personne avait une bonne odeur de toilette fraîche et de costume neuf, strictement ordonné, en contraste avec les gâchis de la chambre d'hôtel, où les restes d'un souper traînaient sur la table au milieu des jetons, des cartes, des bougies, tout près du lit découvert et d'une grande baignoire pleine de cet éblouissant petit-lait d'Arvillard souverain pour calmer les nerfs et satiner la peau des baigneuses.</p>
@@ -1122,9 +1096,7 @@
         <p>Et tandis qu'il citait ces touchantes paroles, une émotion faisait trembler sa main, sa voix, ses larges joues, au souvenir de la grande chambre odorante où, dans l'agitation d'un orage mémorable, avait été composé le discours de Chambéry.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIV -- LES VICTIMES</label>
-        </p>
+        <head>XIV -- LES VICTIMES</head>
         <p>Un matin. Dix heures. L'antichambre du ministre de l'instruction publique, long couloir, mal éclairé, à tentures sombres et lambris de chêne, s'encombre d'une foule de solliciteurs, assis ou piétinants, plus nombreux de minute en minute, chaque nouveau venu donnant sa carte au solennel huissier à chaîne qui la prend, l'inspecte, et religieusement la pose, sans un mot, à côté de lui, sur le buvard de la petite table où il écrit dans le jour blême de la croisée toute ruisselante d'une fine pluie d'octobre.</p>
         <p>Un des derniers arrivants a pourtant l'honneur d'émouvoir cette auguste impassibilité. C'est un gros homme hâlé, brûlé, goudronné, avec deux petites ancres d'argent en boucles d'oreilles, et une voix de phoque enroué comme il en râle, dans la claire vapeur matinale des ports provençaux.</p>
         <p>-- Dites-y que c'est Cabantous le pilote... Il sait ce que c'est... Il m'attend.</p>
@@ -1272,9 +1244,7 @@
         <p>Elle se pencha, s'approcha encore, se rappela l'inexplicable bonté qu'ils avaient tous là-bas pour elle, l'épouvante de sa mère, l'attendrissement du vieux Bouchereau à son départ, et comprit... Enfin elle le tenait, son dénoûment... Il venait tout seul... Il y avait assez longtemps qu elle le cherchait.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVI -- AUX PRODUITS DU MIDI</label>
-        </p>
+        <head>XVI -- AUX PRODUITS DU MIDI</head>
         <p>« MADEMOISELLE est très malade... Madame ne veut voir personne. »</p>
         <p>La dixième fois depuis dix jours qu'Audiberte recevait la même réponse. Immobile devant cette lourde porte cintrée à heurtoir, comme on n en trouve plus guère que sous les arcades de la place Royale, et qui renfermée semblait lui interdire à tout jamais le vieux logis des Le Quesnoy :</p>
         <p>« Va bien..., dit-elle. Je ne reviens plus... C'est eux qui m'appelleront maintenant. »</p>
@@ -1361,9 +1331,7 @@
         <p>Audiberte écoutait sans respirer, ne perdant pas un mot, incrustant dans sa tête nom, adresse ; et ses petits yeux brillaient d'une ivresse diabolique où le vin de Carthagène n'était pour rien.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVII -- LA LAYETTE</label>
-        </p>
+        <head>XVII -- LA LAYETTE</head>
         <p>Au coup léger frappé à la porte de sa chambre, madame Roumestan tressaillit, comme prise en faute, et repoussant le tiroir délicatement contourné de sa commode Louis XV, devant lequel elle se penchait presque agenouillée, elle demanda :</p>
         <p>-- Qui est là ?... Qu'est-ce que vous voulez, Polly ?...</p>
         <p>-- Une lettre pour madame... c'est très pressé...</p>
@@ -1425,9 +1393,7 @@
         <p>« Bompard, monte la brandade !... » répéta la drôlesse, exagérant exprès l'intonation marseillaise. Bompard, c'était sans doute ce marmiton improvisé, surgissant de l'office, la serviette en sautoir, les bras arrondis autour d'un grand plat, et que fit retourner le battant sonore de la porte.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVIII -- LE PREMIER DE L'AN</label>
-        </p>
+        <head>XVIII -- LE PREMIER DE L'AN</head>
         <p>« Messieurs de l'administration centrale !...</p>
         <p>« Messieurs de la direction des Beaux-Arts !...</p>
         <p>« Messieurs de l'Académie de médecine !...</p>
@@ -1545,9 +1511,7 @@
         <p>Il ne dit rien, s'en alla courbant la tête, avec un frisson convulsif de ses hautes épaules. Lui qui dans sa vie avait tant accusé, tant condamné il trouvait un juge à son tour, le premier magistrat de France !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIX -- HORTENSE LE QUESNOY</label>
-        </p>
+        <head>XIX -- HORTENSE LE QUESNOY</head>
         <p>Par un de ces brusques coups de scènes, si fréquents dans la comédie parlementaire, cette séance du 8 janvier, où la fortune de Roumestan semblait devoir s'effondrer, lui valut un éclatant triomphe. Quand il monta à la tribune pour répondre à la verte satire de Rougeot sur la gestion de l'Opéra, le gâchis des Beaux-Arts, l'inanité des réformes trompettées par les gagistes du ministère sacristain, Numa venait d'apprendre que sa femme était partie, renonçant à tout procès, et cette bonne nouvelle, connue de lui seul, donna à sa réplique une assurance rayonnante. Il s'y montra hautain, familier, solennel, fit allusion aux calomnies chuchotées, au scandale attendu :</p>
         <p>-- Il n'y aura pas de scandale, messieurs !...</p>
         <p>Et le ton dont il dit cela désappointa vivement, dans les tribunes bondées de toilettes, toutes les jolies curieuses, avides d'émotions fortes, venues là pour voir dévorer le dompteur. L'interpellation Rougeot fut réduite en miettes, le Midi séduisit le Nord, la Gaule fut encore une fois conquise, et lorsque Roumestan redescendit, moulu, trempé, sans voix, il eut l'orgueil de voir son parti tout à l'heure si froid, presque hostile, ses collègues du cabinet qui l'accusaient de les compromettre, l'entourer d'acclamations, de flatteries enthousiastes. Et dans l'ivresse du succès lui revenait toujours, comme une délivrance suprême, le désistement de sa femme.</p>
@@ -1635,9 +1599,7 @@
         <p>Il saisit sa femme, l'étreignit d'un long sanglot, pendant que tombait la nuit dans la grande chambre, par pitié pour celle qui les avait jetés sur le cœur l'un de l'autre. Ce fut sa dernière manifestation de vie. Elle resta dès lors absorbée, distraite, indifférente à tout ce qui se passait autour d'elle, sans répondre à ces désolations du départ, où il n'y a pas de réponse, gardant sur son jeune visage cette expression de sourde et hautaine rancune de ceux qui meurent trop tôt pour leur ardeur de vivre et à qui les désillusions n'avaient pas dit leur dernier mot.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XX -- UN BAPTÊME</label>
-        </p>
+        <head>XX -- UN BAPTÊME</head>
         <p>Le grand jour, en Aps, c'est le lundi, le jour du marché.</p>
         <p>Bien avant l'aube, les routes qui conduisent à la ville, ces grands chemins déserts d'Arles et d'Avignon où la poussière a l'aspect tranquille d'une tombée de neige, s'agitent au lent grincement des charrettes, aux caquets des poules dans leurs claires-voies, aux abois des chiens galopants, à ce ruissellement d'averse que fait le passage d'un troupeau, avec la longue roulière du berger qui se dresse portée par une houle bondissante. Et les cris des bouviers haletant après leurs bêtes, le son mat des coups de trique sur les flancs rugueux, des silhouettes équestres armées de tridents à taureaux, tout cela s'engouffre à tâtons sous les portails dont les créneaux festonnent le ciel constellé, se répand sur le Cours qui cerne la ville endormie reprenant à cette heure son caractère de vieille cité romaine et sarrasine, aux toits irréguliers, aux pointus moucharabiehs au-dessus d'escaliers ébréchés et branlants. Ce grouillement confus de gens et de bêtes somnolentes s'installe sans bruit entre les troncs argentés des gros platanes, déborde sur la chaussée, jusque dans les cours des maisons, remue des odeurs chaudes de litières, des arômes d'herbes et de fruits mûrs. Puis au réveil, la ville se trouve prise de partout par un marché immense, animé, bruyant, comme si toute la Provence campagnarde, hommes et bestiaux, fruits et semailles, s'était levée, rapprochée dans une inondation nocturne.</p>
         <p>C'est alors un merveilleux coup d'œil de richesse rustique, variant selon la saison. À des places désignées par un usage immémorial, les oranges, les grenades, les coings dorés, les sorbes, les melons verts et jaunes s'empilent aux éventaires, en tas, en meules, par milliers ; les pêches, figues, raisins s'écrasent dans leurs paniers d'expédition, à côté des légumes en sacs. Les moutons, les petits cabris, les porcs soyeux et roses ont des airs ennuyés au bord des palissades de leurs parcs. Les bœufs accouplés sous le joug marchent devant l'acheteur ; les taureaux, les naseaux fumants, tirent sur l'anneau de fer qui les tient au mur. Et plus loin, des chevaux en quantité, des petits chevaux de Camargue, arabes abâtardis, bondissent, mêlent leurs crinières brunes, blanches ou rousses, arrivent à leur nom « Té ! Lucifer... Té ! l'Estérel... » manger l'avoine dans la main des gardiens, vrais gauchos des pampas bottés jusqu'à mi-jambes. Puis les volailles deux par deux, les pattes liées et rouges, poules, pintades, gisant aux pieds de leurs marchandes alignées, avec des battements d'ailes à terre. Puis la poissonnerie, les anguilles toutes vives sur le fenouil, les truites de la Sorgue et de la Durance mêlant des écailles luisantes, des agonies couleur d'arc-en-ciel. Enfin, tout au bout, dans une sèche forêt d'hiver, les pelles de bois, fourches, râteaux, d'un blanc écorcé et neuf, se dressant entre les charrues et les herses.</p>

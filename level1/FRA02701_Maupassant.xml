@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02701" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">111187</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -60,9 +60,7 @@
     </front>
     <body>
       <div type="group">
-        <p>
-          <label>PREMIÈRE PARTIE</label>
-        </p>
+        <head>PREMIÈRE PARTIE</head>
         <div type="chapter">
           <head>-- I --</head>
           <p>Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant.</p>
@@ -2206,9 +2204,7 @@
         </div>
       </div>
       <div type="group">
-        <p>
-          <label>DEUXIÈME PARTIE</label>
-        </p>
+        <head>DEUXIÈME PARTIE</head>
         <div type="chapter">
           <head>-- I --</head>
           <p>Georges Duroy avait retrouvé toutes ses habitudes anciennes.</p>

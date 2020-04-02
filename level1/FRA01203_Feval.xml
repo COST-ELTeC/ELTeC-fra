@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01203" xml:lang="fr">
   <teiHeader>
@@ -16,55 +16,54 @@
       </titleStmt>
       <extent>
         <measure unit="words">80151</measure>
-        
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          ELG,
-          <date/>
-          ,
-          <idno/>
-          ,
-          
-          .
-        </bibl><bibl type="firstEdition">
-          Le Courrier français,
-          <date>1843</date>
-          ,
-          <idno/>
-          ,
-          
-          . Paris : Chlendowski, 1845.
-        </bibl></sourceDesc>
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource"> ELG,
+          <date /> ,
+          <idno /> , . </bibl>
+        <bibl type="firstEdition"> Le Courrier français, <date>1843</date> ,
+          <idno /> , . Paris : Chlendowski, 1845. </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-08-12">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="chapter">
-        <p>
-          <label>I -- La chanson</label>
-        </p>
+
+        <head>I -- La chanson</head>
         <p>Il n'y a pas encore bien longtemps, le voyageur qui allait de Paris à Brest, de la capitale du royaume à la première de nos cités maritimes, s'endormait et s'éveillait deux fois, bercé par les cahots de la diligence, avant d'apercevoir les maigres moissons, les pommiers trapus et les chênes ébranlés de la pauvre Bretagne. Il s'éveillait la première fois dans les fertiles plaines du Perche, tout près de la Beauce, ce paradis des négociants en farine : il se rendormait poursuivi par l'aigrelet parfum du cidre de l'Orne et par le patois nasillard des naturels de la Basse-Normandie. Le lendemain matin, le paysage avait changé ; c'était Vitré, la gothique momie, qui penche ses maisons noires et les ruines chevelues de son château sur la pente raide de sa colline ; c'était l'échiquier de prairies plantées çà et là de saules et d'oseraies où la Vilaine plie et replie en mille détours son étroit ruban d'azur. Le ciel, bleu la veille, était devenu gris ; l'horizon avait perdu son ampleur, l'air avait pris une saveur humide. Au loin, sur la droite, derrière une série de monticules arides et couverts de genêts, on apercevait une ligne noire. C'était la forêt de Rennes.</p>
         <p>La forêt de Rennes est bien déchue de sa gloire antique. Les exploitations industrielles ont fait, depuis ce temps, un terrible massacre de ses beaux arbres.</p>
         <p>MM. de Rohan, de Montbourcher, de Châteaubriant y couraient le cerf autrefois, en compagnie des seigneurs de Laval, invités tout exprès, et de M. l'intendant royal, dont on se serait passé volontiers. Maintenant, c'est à peine si les commis rougeauds des maîtres de forges y peuvent tuer à l'affût, de temps à autre, quelque chétif lapereau ou un chevreuil étique que le spleen porte à braver cet indigne trépas.</p>
@@ -73,49 +72,27 @@
         <p>Quoi qu'il en soit, au lieu de quelques kilomètres carrés, grevés de coupes accablantes, et dont les trois quarts sont à l'état de taillis, la forêt de Rennes avait, il y a cent cinquante ans, onze bonnes lieues de tour, et des tenues de futaie si haut lancées, si vastes et si bien fourrées de plantes à la racine, que les gardes eux-mêmes y perdaient leur chemin.</p>
         <p>En fait d'usines, on n'y trouvait que des saboteries dans les « fouteaux » ; et aussi, dans les châtaigneraies, quelques huttes où l'on faisait des cercles pour les tonneaux. Au centre des clairières, dix à douze loges groupées et comme entassées servaient de demeures aux charbonniers. Il y en avait un nombre fort considérable, et, en somme, la population de la forêt passait pour n'être point au-dessous de quatre à cinq mille habitants.</p>
         <p>C'était une caste à part, un peuple à demi sauvage, ennemi-né de toute innovation, et détestant par instinct et par intérêt tout régime autre que la coutume, laquelle lui accordait tacitement un droit d'usage illimité sur tous les produits de la forêt, sauf le gibier.</p>
-        <p>
-          De temps immémorial, sabotiers, tonneliers, charbonniers et vanniers avaient pu, non seulement ignorer jusqu'au nom d'
-          <hi>impôt,</hi>
-          mais encore prendre le bois nécessaire à leur industrie sans indemnité aucune. Dans leur croyance, la forêt était leur légitime patrimoine : ils y étaient nés ; ils avaient le droit imprescriptible d'y vivre et d'y mourir. Quiconque leur contestait ce droit devenait pour eux un oppresseur.
-        </p>
+        <p> De temps immémorial, sabotiers, tonneliers, charbonniers et vanniers avaient pu, non seulement ignorer jusqu'au nom d' <hi>impôt,</hi> mais encore prendre le bois nécessaire à leur industrie sans indemnité aucune. Dans leur croyance, la forêt était leur légitime patrimoine : ils y étaient nés ; ils avaient le droit imprescriptible d'y vivre et d'y mourir. Quiconque leur contestait ce droit devenait pour eux un oppresseur. </p>
         <p>Or ils n'étaient point gens à se laisser opprimer sans résistance.</p>
         <p>Louis XIV était mort. Philippe d'Orléans, au mépris du testament du monarque défunt, tenait la régence. Bien que ce prince, pour qui l'histoire a eu de sévères condamnations, mît volontairement en oubli la grande politique de son maître, cette politique subsistait par sa force propre, partout où des mains malhabiles ou perfides ne prenaient point à tâche de la miner sourdement.</p>
         <p>En Bretagne, la longue et vaillante résistance des États avait pris fin.</p>
         <p>Un intendant de l'impôt avait été installé à Rennes, et le pacte d'Union, violemment amendé, ne gardait plus ses fières stipulations en faveur des libertés de la province. Le parti breton était donc vaincu ; la Bretagne se faisait France en définitive : il n'y avait plus de frontière.</p>
         <p>Mais autre chose était de consentir une mesure en assemblée parlementaire, autre chose de faire passer cette mesure dans les mœurs d'un peuple dont l'entêtement est devenu proverbial. M. de Pontchartain, le nouvel intendant royal de l'impôt, avait l'investiture légale de ses fonctions ; il lui restait à exécuter son mandat, ce qui n'était point chose facile.</p>
         <p>Partout on accusa les États de forfaiture : on résistait partout.</p>
-        <p>
-          Lors de la conspiration de Cellamare, ce fut en Bretagne que la duchesse du Maine réunit ses plus hardis soldats. Les
-          <hi>Chevaliers de la Mouche à miel</hi>
-          qui se nommaient aussi les
-          <hi>Frères bretons,</hi>
-          formaient une véritable armée dont les chefs, MM. de Pontcallec, de Talhoët, de Rohan-Polduc et autres eurent la tête tranchée sous le Bouffay de Nantes, en 1718.
-        </p>
+        <p> Lors de la conspiration de Cellamare, ce fut en Bretagne que la duchesse du Maine réunit ses plus hardis soldats. Les <hi>Chevaliers de la Mouche à miel</hi> qui se nommaient aussi les <hi>Frères bretons,</hi> formaient une véritable armée dont les chefs, MM. de Pontcallec, de Talhoët, de Rohan-Polduc et autres eurent la tête tranchée sous le Bouffay de Nantes, en 1718. </p>
         <p>Ce fut un rude coup. La conspiration rentra sous terre.</p>
         <p>Mais la ligue des Frères bretons, antérieure à la conspiration, et qui, en réalité, n'avait plus d'objet politique, continua d'exister et d'agir quand la conspiration fut morte.</p>
         <p>C'est le propre des assemblées secrètes de vivre sous terre. Les Frères bretons refusèrent d'abord l'impôt les armes à la main, puis ils cédèrent à leur tour, mais, tout en cédant, ils vécurent.</p>
         <p>Vingt ans après l'époque où se passèrent les événements que nous allons raconter, et qui forment le prologue de notre récit, nous retrouverons leurs traces. Le mystère est dans la nature de l'homme. Les sociétés secrètes meurent cent fois.</p>
         <p>En 1719, presque tous les gentilshommes s'étaient retirés de l'association, mais elle subsistait parmi le bas peuple des villes et des campagnes.</p>
-        <p>
-          Ce qui restait de
-          <hi>frères</hi>
-          nobles était l'objet d'un véritable culte.
-        </p>
-        <p>
-          Les châteaux où se retranchaient ces partisans inflexibles de l'indépendance devenaient des centres autour desquels se groupaient les mécontents. Ceux-ci étaient peut-être impuissants déjà pour agir sur une grande échelle, mais leur
-          <hi>opposition</hi>
-          (qu'on nous passe l'anachronisme) se faisait en toute sécurité.
-        </p>
+        <p> Ce qui restait de <hi>frères</hi> nobles était l'objet d'un véritable culte. </p>
+        <p> Les châteaux où se retranchaient ces partisans inflexibles de l'indépendance devenaient des centres autour desquels se groupaient les mécontents. Ceux-ci étaient peut-être impuissants déjà pour agir sur une grande échelle, mais leur <hi>opposition</hi> (qu'on nous passe l'anachronisme) se faisait en toute sécurité. </p>
         <p>Il eût fallu, pour les réduire, mettre à feu et à sang le pays où ils avaient des attaches innombrables.</p>
         <p>D'après ce que nous avons dit de la forêt de Rennes, on doit penser qu'elle était un des plus actifs foyers de la résistance. Sa population entièrement composée de gens pauvres, ignorants et endurcis aux plus rudes travaux, était dans des conditions singulièrement favorables à cette résistance, dont le fond est une négation pure et simple, soutenue par la force d'inertie. Assez nombreux et assez unis pour combattre si nulle autre ressource ne pouvait être employée, les gens de la forêt attendaient, confiants dans les retraites inaccessibles qu'offrait, à chaque pas, le pays, confiants surtout dans la connaissance parfaite qu'ils avaient de leur forêt, cet immense et sombre labyrinthe dont les taillis reliaient la campagne de Rennes aux faubourgs de Fougères et de Vitré.</p>
         <p>Dans ces trois villes, ils avaient des adhérents. Le premier coup de mousquet tiré sous le couvert devait armer la plèbe déguenillée des basses rues de Rennes, les historiques bourgeois de Vitré, qui portaient encore brassards, hauberts et salades, comme des hommes d'armes, du XVe siècle, et les habiles braconniers de Fougères. Avec tout cela, il était raisonnable d'espérer que les sergents de M. de Pontchartrain pourraient ne point avoir beau jeu.</p>
         <p>Il y avait au monde un homme qu'ils respectaient tant que, si cet homme leur eût dit : payez l'impôt au roi de France, ils auraient peut-être obéi.</p>
         <p>Mais cet homme n'avait garde.</p>
-        <p>
-          Il était justement, cet homme, l'un des plus obstinés débris de l'association bretonne, et sa voix retentissait encore de temps à autre dans la salle des États, pour protester contre l'envahissement de l'ancien domaine des
-          <hi>Riches ducs</hi>
-          par les gens du roi de France.
-        </p>
+        <p> Il était justement, cet homme, l'un des plus obstinés débris de l'association bretonne, et sa voix retentissait encore de temps à autre dans la salle des États, pour protester contre l'envahissement de l'ancien domaine des <hi>Riches ducs</hi> par les gens du roi de France. </p>
         <p>Il avait nom Nicolas Treml de La Tremlays, seigneur de Boüexis-en-Forêt, et possédait, à une demi-lieue du bourg de Liffré, un domaine qui le faisait suzerain de presque tout le pays.</p>
         <p>Son château de La Tremlays était l'un des plus beaux qui fût dans la Haute-Bretagne ; son manoir de Bouëxis n'était guère moins magnifique. Il fallait deux heures pour se rendre de l'un à l'autre, et tout le long du chemin on marchait sur la terre de Treml.</p>
         <p>M. Nicolas, comme on l'appelait, était un vieillard de grande taille et d'austère physionomie. Ses longs cheveux blancs tombaient en mèches éparses sur le drap grossier de son pourpoint coupé à l'ancienne mode. L'âge n'avait point modéré la fougue de son sang. À le voir droit et ferme sur la selle, lorsqu'il chevauchait sous la futaie, les gens de la forêt se sentaient le cœur gaillard et disaient :</p>
@@ -172,21 +149,12 @@
         <p>Mais son cœur se serrait de plus en plus, et lorsque la voix de Jean Blanc, se faisant de nouveau entendre, lui jeta, par-dessus les têtes touffues de grands chênes, les notes lugubres de la complainte d'Arthur de Bretagne, le vieux gentilhomme eut froid à l'âme et prononça en frémissant le nom de son petit-fils.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II -- Le coffret de fer</label>
-        </p>
+
+        <head>II -- Le coffret de fer</head>
         <p>Quand Nicolas Treml de La Tremlays franchit la grand'porte de son beau château, il faisait nuit noire. Il jeta la bride à ses valets sans mot dire, monta le perron d'un air distrait et se rendit tout droit à la chambre de son petit-fils.</p>
         <p>Georges dormait. C'était un joli enfant blanc et rose, dont les cheveux blonds bouclaient gracieusement sur les broderies de l'oreiller. Sans doute un doux songe visitait en ce moment son sommeil, car sa bouche s'entr'ouvrait en un charmant sourire, pendant que ses petites mains s'agitaient et semblaient soutenir une lutte de caresses.</p>
-        <p>
-          Quand les enfants s'ébattent ainsi en de joyeux rêves, les bonnes gens de Rennes disent qu'ils
-          <hi>rient aux anges ;</hi>
-          pensée charmante et poétique, à coup sûr.
-        </p>
-        <p>
-          Mais en Bretagne tout ce qui est poétique et charmant tourne bien vite à la mélancolie : on regarde cette joie du sommeil comme un présage de mort. L'enfant
-          <hi>rit aux anges,</hi>
-          parce que les anges de Dieu sont là autour de son chevet, pour emporter son âme au ciel.
-        </p>
+        <p> Quand les enfants s'ébattent ainsi en de joyeux rêves, les bonnes gens de Rennes disent qu'ils <hi>rient aux anges ;</hi> pensée charmante et poétique, à coup sûr. </p>
+        <p> Mais en Bretagne tout ce qui est poétique et charmant tourne bien vite à la mélancolie : on regarde cette joie du sommeil comme un présage de mort. L'enfant <hi>rit aux anges,</hi> parce que les anges de Dieu sont là autour de son chevet, pour emporter son âme au ciel. </p>
         <p>Nicolas Treml se pencha sur la couche de son petit-fils. Sa lèvre barbue toucha la joue de l'enfant qui ne s'éveilla point.</p>
         <p>-- Arthur de Bretagne ! murmura le vieux gentilhomme qui ne pouvait oublier les paroles de Jean Blanc ; si le dernier rejeton de ma race allait être sacrifié !... Mais non cet homme est un fou, et mon cousin de Vaunoy ne ressemble pas plus à l'Anglais Jean sans Terre qu'un chien fidèle ne ressemble à un loup !</p>
         <p>Il s'assit auprès du chevet de Georges et rendit son esprit à l'idée fixe qu'il poursuivait.</p>
@@ -274,9 +242,8 @@
         <p>Jude fit un signe d'obéissance et emporta la cassette.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III -- Le dépôt</label>
-        </p>
+
+        <head>III -- Le dépôt</head>
         <p>Nicolas Treml ne dormit point cette nuit-là. Le lendemain, avant le jour, il entendit dans la cour le pas du cheval de Jude. Presque au même instant la porte de sa chambre s'ouvrit et Hervé de Vaunoy parut sur le seuil. Maître Hervé n'avait plus cet air humble et craintif dont nous l'avons vu s'affubler en entrant au château pour la première fois. Son sourire s'épanouissait maintenant, joyeux, sur sa lèvre. Il portait le front haut et affectait les dehors d'une franchise brusque, à peine tempérée par le respect.</p>
         <p>-- Saint-Dieu ! dit-il en arrivant, vous êtes matinal, monsieur mon très cher cousin. J'étais encore à mon premier somme lorsqu'on est venu me réveiller de votre part...</p>
         <p>Il s'arrêta tout à coup en apercevant le sévère et pâle visage de Nicolas Treml, dont l'œil perçant tombait d'aplomb sur son œil et semblait vouloir descendre jusqu'au fond de sa conscience.</p>
@@ -368,9 +335,8 @@
         <p>Quelques minutes après, il rejoignait son fidèle serviteur, qui l'attendait, assis sur le coffret de fer.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV -- La Fosse-aux-Loups</label>
-        </p>
+
+        <head>IV -- La Fosse-aux-Loups</head>
         <p>À une demi-heure de chemin de la lisière orientale de la forêt de Rennes, loin de tout village et au centre des plus épais fourrés, se trouve un ravin profond dont la pente raide et rocheuse est plantée d'arbres qui s'étagent, mêlés çà et là d'épais buissons de houx et de touffes d'ajoncs qui atteignent une hauteur extraordinaire.</p>
         <p>Un mince filet d'eau coule pendant la saison pluvieuse au fond du ravin ; l'été, toute trace d'humidité disparaît et le lit du ruisseau est marqué seulement par la ligne verte que trace l'herbe croissant au milieu de la mousse desséchée.</p>
         <p>Ce ravin court du nord au sud. L'un de ses bords, celui qui regarde l'orient, est occupé par une futaie de chênes ; l'autre s'élève presque à pic, boisé vers sa base, puis ras et nu comme une lande, jusqu'à une hauteur considérable. La tête chauve du roc y perce à chaque pas entre les touffes de bruyères. De larges crevasses s'ouvrent çà et là, bordées d'ormeaux nains et de prunelliers au noir feuillage.</p>
@@ -431,9 +397,8 @@
         <p>Voici ce qui s'était passé entre eux :</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V -- Le creux d'un chêne</label>
-        </p>
+
+        <head>V -- Le creux d'un chêne</head>
         <p>Au centre de la Fosse-aux-Loups s'élevait un chêne de dimensions colossales. Il étageait ses hautes et noueuses racines sur le plan incliné de la rampe ; ses branches, grosses comme des arbres ordinaires, radiaient en tous sens et formaient en quelque sorte la clef de la voûte de verdure qui recouvrait cette partie du ravin.</p>
         <p>Il courait, dans le pays, sur cet arbre géant et sur les deux tours qui couronnaient la rampe méridionale du ravin, divers bruits traditionnels. On disait, entre autres choses, que l'arbre s'élevait directement au-dessus d'un vaste souterrain dont l'entrée devait se trouver dans les fondations de l'une des deux tours, ou bien encore sur le versant opposé de la montée, au milieu des tranchées et pans de murailles dont nous avons parlé.</p>
         <p>Personne, et c'est bien là le caractère propre de l'apathie bretonne, n'avait songé jamais à vérifier cet on-dit ; à cause de cela, tout le monde était persuadé de son exactitude.</p>
@@ -456,11 +421,7 @@
         <p>Au moral, Jude était une de ces honnêtes natures façonnées à la soumission passive, et qui ont, dès l'enfance, inféodé leur vouloir à une volonté suzeraine. Jude obéissait ; c'était son rôle et sa vocation ; mais son obéissance était dévouement et non point servilité. On ne conçoit plus guère de nos jours ces contrats tacites et irrévocables qui faisaient du maître et du serviteur un seul tout, possédant deux forces d'hommes au service d'une volonté unique.</p>
         <p>Domesticité emporte l'idée d'abjection, et, juste ou non, cette idée pèse sur toute une classe de notre société ; mais, à ces époques où le vasselage organisé remontait du serf au souverain par tous les échelons d'un système complet et sans lacunes, le valet était à son seigneur ce que son seigneur était au roi. Il y avait proportion, par conséquent comparaison, et toute comparaison exclut le dédain.</p>
         <p>En des temps plus éloignés de nous et lorsque la chevalerie était encore une vérité, les fils de preux ne chaussaient point les éperons de plein droit ; il leur fallait porter la lance d'autrui avant de mettre une devise à leur écu, et c'était par les épreuves d'une domesticité véritable qu'ils devaient passer pour arriver au titre le plus splendide dont jamais vaillant homme ait été revêtu : celui de chevalier.</p>
-        <p>
-          Or, comme nous l'avons dit, les mœurs sont stationnaires en Bretagne et les souvenirs vivaces. Au commencement du siècle qui vit compiler
-          <hi>l'Encyclopédie</hi>
-          et dressa un piédestal à Voltaire, les rites féodaux n'étaient point oubliés en Bretagne, au « pays des pierres et des mers ». Les gentilshommes, qui ne perdaient jamais de vue les cheminées de leurs manoirs, n'avaient pu changer de peau au contact des idées nouvelles. Les vassaux étaient des vassaux dans toute la force du mot, c'est-à-dire des termes de la grande progression féodale.
-        </p>
+        <p> Or, comme nous l'avons dit, les mœurs sont stationnaires en Bretagne et les souvenirs vivaces. Au commencement du siècle qui vit compiler <hi>l'Encyclopédie</hi> et dressa un piédestal à Voltaire, les rites féodaux n'étaient point oubliés en Bretagne, au « pays des pierres et des mers ». Les gentilshommes, qui ne perdaient jamais de vue les cheminées de leurs manoirs, n'avaient pu changer de peau au contact des idées nouvelles. Les vassaux étaient des vassaux dans toute la force du mot, c'est-à-dire des termes de la grande progression féodale. </p>
         <p>Les valets étaient des « petits vassaux[1] ».</p>
         <p>On ne doit point s'étonner si nous faisons une différence entre Jude et un serviteur à gages de notre époque. Nous restons dans la vérité. Jude tout disposé qu'il était à obéir passivement et sans discussion, gardait entière sa dignité d'homme. Son obéissance avait la même source, sinon la même portée, que le dévouement d'un haut baron à la personne du roi.</p>
         <p>Lorsque M. de La Tremlays eut refermé le coffret à double tour, il jeta autour de lui un regard inquiet.</p>
@@ -504,20 +465,15 @@
         <p>-- Ils m'appellent le mouton blanc... Je suis le mouton et cet homme est le loup : mauvaise bataille ! le loup a ses dents : si les dents me poussaient... le mouton se ferait loup pour défendre ou venger ceux qu'il aime. Qui vivra verra !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI -- Le voyage</label>
-        </p>
+
+        <head>VI -- Le voyage</head>
         <p>La dernière voix que Nicolas Treml entendit sur ses domaines fut celle de Jean Blanc, dont le chant mélancolique le saluait au départ comme un menaçant augure. Il fallut au vieux gentilhomme toute sa force d'âme et cette obstination qui est le propre du caractère breton pour vaincre les tristesses qui vinrent assaillir son cœur.</p>
         <p>Il repoussa loin de lui l'image de Georges et continua sa route.</p>
         <p>Il ne voulait point que l'on connût son itinéraire, car, après avoir fait deux lieues dans la direction du Couesnon et de la mer, il revint brusquement sur ses pas, tourna Vitré dont la noire citadelle absorbait les rayons du soleil de midi, et gagna le chemin de Laval, en laissant sur sa droite les belles prairies où serpente le ruisseau qui s'appelle déjà la Vilaine.</p>
         <p>Entre Laval et Vitré, un peu au-dessous du bourg d'Ernée, qui joua, quatre-vingts ans plus tard, un grand rôle dans les guerres de la chouannerie, s'élevaient, sur un petit tertre, deux tronçons de poteaux dont les têtes avaient été coupées.</p>
         <p>Ces deux poteaux se dressaient à six toises l'un de l'autre, séparés par deux tranchées entre lesquelles on voyait encore les débris vermoulus d'une barrière.</p>
         <p>Nicolas Treml arrêta son cheval et se découvrit. Jude Leker l'imita.</p>
-        <p>
-          -- Quelques pas encore, dit M. de La Tremlays, et nous serons sur la terre ennemie, la terre de France. Pendant que nos pieds touchent encore le sol de la patrie, il nous faut dire un
-          <hi>Ave</hi>
-          à Notre-Dame de Mi-Forêt.
-        </p>
+        <p> -- Quelques pas encore, dit M. de La Tremlays, et nous serons sur la terre ennemie, la terre de France. Pendant que nos pieds touchent encore le sol de la patrie, il nous faut dire un <hi>Ave</hi> à Notre-Dame de Mi-Forêt. </p>
         <p>Tous deux récitèrent l'oraison latine.</p>
         <p>-- Autrefois, reprit le vieux gentilhomme, ces poteaux avaient une tête. Celui-ci portait l'écusson d'hermine timbré d'une couronne ducale. L'autre portait d'azur à trois fleurs de lis d'or. De ce côté-ci de la barrière il y avait un homme d'armes breton ; de l'autre, un homme d'armes français. Les soldats se regardaient en face ; les emblèmes se dressaient fièrement à longueur de lance : Dreux et Valois étaient égaux.</p>
         <p>-- C'était un glorieux temps, monsieur Nicolas ! soupira Jude.</p>
@@ -534,64 +490,52 @@
         <p>Hélas ! le veuvage a continué trop longtemps ; les fleurs se sont flétries ; bronzes et marbres ont pris l'austère beauté des œuvres d'un autre âge ; il n'y a plus ni chants, ni joies. C'est au passé qu'il faut dire avec le poète, pleurant les grandeurs de la monarchie :</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Oh ! que Versailles était superbe</label>
-        </p>
+
+        <head>Oh ! que Versailles était superbe</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Dans ces jours purs de tout affront,</label>
-        </p>
+
+        <head>Dans ces jours purs de tout affront,</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Où les prospérités en gerbe</label>
-        </p>
+
+        <head>Où les prospérités en gerbe</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>S'épanouissaient sur son front !</label>
-        </p>
+
+        <head>S'épanouissaient sur son front !</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Là tout faste était sans mesure,</label>
-        </p>
+
+        <head>Là tout faste était sans mesure,</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Là chaque arbre avait sa parure,</label>
-        </p>
+
+        <head>Là chaque arbre avait sa parure,</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Là chaque homme avait sa dorure ;</label>
-        </p>
+
+        <head>Là chaque homme avait sa dorure ;</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Tout du maître suivait la loi</label>
-        </p>
+
+        <head>Tout du maître suivait la loi</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Comme au même but vont cent routes,</label>
-        </p>
+
+        <head>Comme au même but vont cent routes,</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Là les grandeurs abondaient toutes :</label>
-        </p>
+
+        <head>Là les grandeurs abondaient toutes :</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>L'Olympe ne pendait aux voûtes</label>
-        </p>
+
+        <head>L'Olympe ne pendait aux voûtes</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Que pour compléter le grand roi.</label>
-        </p>
+
+        <head>Que pour compléter le grand roi.</head>
         <p>Nicolas Treml et son écuyer n'étaient point gens, il faut le dire, à s'occuper beaucoup de sculptures ou de jets d'eau. Ils jetèrent chemin faisant un regard distrait sur tous ces dieux de pierre qui souriaient, jouaient de la flûte ou dansaient couronnés de raisins, puis ils passèrent.</p>
         <p>Après avoir marché quelques heures encore, ils trouvèrent la Seine.</p>
         <p>-- Paris est-il encore bien loin ? demanda Nicolas Treml à un bourgeois qui, monté sur son bidet, tenait le bas de la chaussée.</p>
@@ -629,9 +573,8 @@
         <p>À ce moment, l'hôte reparut avec un guide.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII -- La forêt de Villers-Cotterets</label>
-        </p>
+
+        <head>VII -- La forêt de Villers-Cotterets</head>
         <p>La magnifique maison de plaisance du régent Philippe d'Orléans avait ce jour-là un aspect plus joyeux encore que d'habitude. On voyait les palefreniers s'empresser autour des carrosses attelés. Les chevaux de selle piaffaient et se démenaient comme pour appeler leurs maîtres, et toute une armée de pages, coureurs et laquais à brillantes livrées encombrait les abords du perron.</p>
         <p>Le régent était encore à table. Dès que le repas fut fini, courtisans et belles dames descendirent à flots de velours et de satin le grand perron du château. Aussitôt les carrosses s'émaillèrent de gracieux visages, les chevaux de selle dansèrent sous leurs cavaliers, et la grande porte de la cour s'ouvrit.</p>
         <p>Par extraordinaire, Philippe d'Orléans n'avait pas pris place dans son carrosse. Il essayait un magnifique cheval que lui avait envoyé la reine Anne d'Angleterre, présent qu'il appréciait surtout à cause de son origine britannique, car le régent était anglais de cœur.</p>
@@ -700,9 +643,8 @@
         <p>C'était l'arrêt de Nicolas Treml et de l'honnête Jude, son écuyer.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII -- Tutelle</label>
-        </p>
+
+        <head>VIII -- Tutelle</head>
         <p>Quelques heures après l'étrange bataille que nous avons rapportée, M. de La Tremlays et son écuyer furent enfermés à la Bastille.</p>
         <p>Il est permis de croire que le vieux Breton fit des réflexions assez tristes lorsqu'il franchit le seuil de la forteresse. Quant à Jude, on peut affirmer qu'il ne réfléchit pas du tout.</p>
         <p>Quelles que fussent ses angoisses secrètes, Nicolas Treml était trop fier et trop fort pour les laisser paraître sur son visage. Il monta en silence les noirs escaliers de la Bastille, et entra dans son cachot comme il entrait jadis au grand salon du château de La Tremlays, le front haut et la tête calme.</p>
@@ -722,16 +664,13 @@
         <p>Vaunoy continua de traiter Georges comme le petit-fils chéri et respecté de son seigneur. Il voulait se faire un appui de l'affection de l'enfant pour le cas redoutable où M. de La Tremlays fût revenu inopinément quelque jour. Un mois, deux mois se passèrent. Hervé avait fait maison nette de tout ce qui portait amour au vieux sang de Treml. Néanmoins il y avait un fidèle serviteur qu'il n'avait point pu chasser : c'était Loup, le chien favori de M. Nicolas.</p>
         <p>En vain les nouveaux valets, armés de fouets, avaient poursuivi Loup jusqu'à une grande distance dans la forêt, il revenait toujours. Au moment où Hervé le croyait bien loin, il le retrouvait, le soir, assis auprès du berceau de Georges endormi. Le chien veillait, et nous ne pouvons point affirmer que, sans la présence de ce vaillant gardien, l'héritier de Treml eût passé ses nuits sans péril, car M. de Vaunoy jetait souvent d'étranges regards sur la couche où reposait son jeune cousin.</p>
         <p>Loup n'était pas seul à veiller sur le petit Georges : un autre protecteur couvrait l'enfant de sa mystérieuse vigilance. Avec la bourse de Nicolas Treml, Jean Blanc avait soulagé les souffrances de son père, il ne travaillait plus : le jour, il dormait ou rôdait autour du château ; la nuit, il montait dans l'un des arbres du parc, dont les longues branches venaient frôler les fenêtres de la chambre où dormait Georges, et là il faisait sentinelle jusqu'au matin.</p>
-        <p>
-          Hervé l'avait bien menacé parfois du fusil de son veneur, mais Jean Blanc savait courir sur la verte couronne des arbres comme un matelot dans les agrès de son navire. Il ne craignait point les balles, seulement, il se garait, ne voulant point mourir, puisqu'il avait dit :
-          <hi>Qui vivra verra !</hi>
+        <p> Hervé l'avait bien menacé parfois du fusil de son veneur, mais Jean Blanc savait courir sur la verte couronne des arbres comme un matelot dans les agrès de son navire. Il ne craignait point les balles, seulement, il se garait, ne voulant point mourir, puisqu'il avait dit : <hi>Qui vivra verra !</hi>
         </p>
         <p>Pour voir, il voulait vivre.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX -- L'étang de La Tremlays</label>
-        </p>
+
+        <head>IX -- L'étang de La Tremlays</head>
         <p>Il y avait six mois que Nicolas Treml était parti. Personne ne savait en Bretagne ce qu'il était devenu. Les gens de la forêt le regrettaient parce qu'il était bon maître, et priaient Dieu pour le repos de son âme.</p>
         <p>Un soir d'automne, Hervé de Vaunoy jeta sa canardière sur son épaule et prit le petit Georges par la main. En cet équipage, il se dirigea vers l'étang de La Tremlays. Loup marchait sur ses talons ; Vaunoy suivait du coin de l'œil le fidèle animal, et ce regard annonçait des dispositions qui n'étaient rien moins que bienveillantes.</p>
         <p>Georges courait dans l'herbe ou cueillait les fleurs d'or des genêts. Ses cheveux blonds flottaient au vent du soir. Il était gracieux et charmant comme la joie de l'enfance.</p>
@@ -789,20 +728,15 @@
         <p>L'enfant avait disparu.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X -- La veillée</label>
-        </p>
+
+        <head>X -- La veillée</head>
         <p>Vingt ans de plus pèsent un poids bien lourd sur la tête d'un homme ; mais, pour l'ensemble des choses créées, mis à part l'homme lui-même, c'est-à-dire pour la portion la plus grande, la plus durable, la plus vivante de la nature, vingt ans passent comme un souffle de brise, qui effleure et n'entame point.</p>
         <p>Vingt ans écoulés ont rendu méconnaissables les personnages de notre récit : l'enfant s'est fait homme, l'homme est devenu vieillard, le vieillard a cessé de vivre.</p>
         <p>Mais le beau château de La Tremlays s'élève toujours, droit et robuste au bout de son avenue de grands chênes. Si quelques arbres sont morts dans la forêt, d'autres jaillissent du sol et s'élancent, pleins de sève, vers le beau soleil qui chauffe la voûte de feuillage. La Fosse-aux-Loups a gardé ses sombres ombrages et le chêne creux soutient vaillamment le pesant fardeau de ses branches colossales. Les deux moulins chancellent et menacent ruine comme autrefois, et c'est à peine si l'on aperçoit que la pauvre loge de Mathieu Blanc s'est affaissée au ras du sol, tant le détail est mince et peu digne d'attention.</p>
         <p>Quant à l'étang de La Tremlays, ce sont toujours les mêmes eaux dormantes et la même moisson de roseaux sous lesquels blanchissent dans la vase les ossements de Loup, le fidèle chien de Nicolas Treml.</p>
         <p>Nous sommes à l'automne de l'année 1740, et il y a veillée dans les cuisines de M. Hervé de Vaunoy de La Tremlays, seigneur de Bouëxis-en-Forêt.</p>
         <p>La cuisine est une grande pièce carrée, percée de quatre fenêtres hautes. Une porte de chêne, garnie de fer, ouvre ses deux battants vis-à-vis de la vaste cheminée dont le manteau, en forme de toiture, peut abriter une compagnie raisonnablement nombreuse. Cinq ou six bûches broient dans l'âtre et mêlent leur rouge lumière à la lueur crépitante de deux résines.</p>
-        <p>
-          Sur la table massive qui occupe le milieu de la pièce, une rangée de
-          <hi>pichets</hi>
-          (cruches), méthodiquement alignés, exhalent une bonne odeur de cidre dur. Des pommes de terre rôtissent sous les cendres, et une demi-douzaine de quartiers de lard montrent, des deux côtés de la crémaillère, leur couenne recouverte de suie.
-        </p>
+        <p> Sur la table massive qui occupe le milieu de la pièce, une rangée de <hi>pichets</hi> (cruches), méthodiquement alignés, exhalent une bonne odeur de cidre dur. Des pommes de terre rôtissent sous les cendres, et une demi-douzaine de quartiers de lard montrent, des deux côtés de la crémaillère, leur couenne recouverte de suie. </p>
         <p>Nous faisons grâce au lecteur des fourneaux, casseroles, cuillers à pots, marmites, écumoires, etc.</p>
         <p>Il y a une quinzaine de personnes assises sous le manteau de la cheminée. La plupart sont serviteurs ou servantes de Vaunoy ; deux ou trois sont étrangères et reçoivent l'hospitalité.</p>
         <p>Pour ne point faire défaut à la galanterie française, nous parlerons d'abord des femmes.</p>
@@ -814,11 +748,7 @@
         <p>Il est charbonnier, cela se voit. Une couche épaisse de noir couvre son visage et s'éclaircit seulement quelque peu aux angles saillants de la face, comme il arrive aux masques de bronze. Ses yeux, dont la paupière est enflammée, semblent craindre l'éclat ardent du foyer et s'abritent derrière sa main noircie ; du reste, vêtu comme les gens de la forêt : bonnet de laine mêlée, veste longue en forme de paletot échancré, culottes courtes, bas bleus et souliers à boucle de fer.</p>
         <p>Il est de taille problématique. Assis, il semble petit, mais lorsqu'il se lève pour saisir un pichet et boire à même, ses longues jambes l'exhaussent tout à coup. Dans l'attitude de son corps, il y a plus de souplesse que de force. Quant à son âge, nul ne saurait le dire. Depuis quinze ans, le charbonnier Pelo Rouan court la forêt. Tel on l'a vu la première fois, tel on le voit encore.</p>
         <p>Nos personnages ainsi posés, nous écouterons leur conversation, car nous sommes fort dépaysés dans ce château où nous n'avons pas mis le pied depuis vingt ans.</p>
-        <p>
-          Renée, la fille de chambre de Mlle Alix de Vaunoy, cause avec Yvon, le valet des chiens, lequel raccommode son fouet et tresse une
-          <hi>soutisse</hi>
-          (mèche), que Mirault, Gerfault, Renault, etc., sentiront plus d'une fois sur leurs flancs savamment amaigris. André, le garde, frotte d'huile le ressort de son fusil à pierre. Corentin taille un battoir pour Anne, la surintendante des vaches ; l'entretien n'a rien encore de général.
-        </p>
+        <p> Renée, la fille de chambre de Mlle Alix de Vaunoy, cause avec Yvon, le valet des chiens, lequel raccommode son fouet et tresse une <hi>soutisse</hi> (mèche), que Mirault, Gerfault, Renault, etc., sentiront plus d'une fois sur leurs flancs savamment amaigris. André, le garde, frotte d'huile le ressort de son fusil à pierre. Corentin taille un battoir pour Anne, la surintendante des vaches ; l'entretien n'a rien encore de général. </p>
         <p>Mais six heures ont sonné à la cloche fêlée du beffroi. Le vieux Simonnet, maître du pressoir, a récité dévotement les versets de l'angélus. Un silence de quelques minutes s'est fait, pendant lequel tout le monde a prié.</p>
         <p>Quand ce silence eut duré suffisamment à son gré, dame Goton fit un signe de croix final et secoua les cendres de sa pipe avec précaution.</p>
         <p>-- Les jours s'en vont petissant ! dit-elle.</p>
@@ -867,9 +797,8 @@
         <p>-- À sa santé !répondirent les serviteurs de La Tremlays.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XI -- Fleur-des-Genêts</label>
-        </p>
+
+        <head>XI -- Fleur-des-Genêts</head>
         <p>Pelo Rouan, avant de poser son pichet sur la table, ajouta, comme complément de son toast :</p>
         <p>-- Et à la confusion du Loup Blanc et de ses louveteaux.</p>
         <p>-- À la bonne heure ! dit la vieille Goton lorsque chacun eut applaudi à ce souhait charitable ; Pelo Rouan est un pauvre homme de la forêt. Il y a pour lui courage à maudire tout haut le Loup Blanc, qui est fort et puissant, et dont mille bras exécutent les ordres car tout à l'heure il va prendre son bâton de houx et affronter la nuit qui est le domaine des Loups : à la bonne heure ! Je ne veux point de mal à Pelo Rouan.</p>
@@ -881,13 +810,7 @@
         <p>Il y avait quinze ou seize ans que Pelo (Pierre) Rouan était venu s'établir dans la forêt de Rennes. Il avait amené avec lui une petite fille au berceau qu'il appelait Marie. Solitaire d'habitude et paraissant fuir la société de ses pareils, il s'était bâti une loge à l'endroit le plus désert de la forêt, avait creusé un four souterrain et faisait depuis lors ce qu'il fallait de charbon pour soutenir son existence et celle de sa fille.</p>
         <p>Marie avait pris la taille d'une femme. En grandissant, elle était devenue bien belle, mais elle l'ignorait. Beaucoup prétendront que ces derniers mots renferment une impossibilité flagrante : nous soutenons néanmoins notre dire.</p>
         <p>Marie, enfant de la solitude, n'avait de hardiesse que contre le danger. La vue de l'homme la troublait et l'effrayait. Lorsque la trompe de chasse criait dans les allées, Marie faisait comme les biches ; elle se cachait dans les buissons.</p>
-        <p>
-          Jamais elle ne mettait de bouquets dans un panier verni pour les porter au château, avec des pommes, des œufs et de la crème, comme cela se pratique de nos jours au théâtre de l'Opéra-Comique. Elle ne dansait ni
-          <hi>sur la fougère</hi>
-          ni même
-          <hi>sous la coudrette ;</hi>
-          en un mot, ce n'était en aucune façon une rosière de Mme de Genlis, se mirant dans le cristal des fontaines, ni une ingénue de M. Marmontel, raisonnant l'Être suprême, la nature et le reste. Ces braves poètes n'ont jamais vu la campagne qu'à Courbevoie !
-        </p>
+        <p> Jamais elle ne mettait de bouquets dans un panier verni pour les porter au château, avec des pommes, des œufs et de la crème, comme cela se pratique de nos jours au théâtre de l'Opéra-Comique. Elle ne dansait ni <hi>sur la fougère</hi> ni même <hi>sous la coudrette ;</hi> en un mot, ce n'était en aucune façon une rosière de Mme de Genlis, se mirant dans le cristal des fontaines, ni une ingénue de M. Marmontel, raisonnant l'Être suprême, la nature et le reste. Ces braves poètes n'ont jamais vu la campagne qu'à Courbevoie ! </p>
         <p>C'était une fille de la forêt, simple et pure, demi-sauvage, mais portant en elle le germe de tout ce qui est noble, gracieux, poétique et bon.</p>
         <p>Elle aimait à prier Dieu, car une foi profonde remplissait cette âme angélique qui ne soupçonnait pas le mal.</p>
         <p>L'expression générale de son visage était un mélange d'exquise gentillesse et de sensibilité exaltée. Elle avait de grands yeux bleus pensifs et doux, dont le sourire échauffait l'âme comme un rayon de soleil. Sa joue pâle l'encadrait d'un double flot de boucles dorées, qui ondoyaient à chaque mouvement de sa tête et se jouaient sur ses épaules modestement couvertes. La nuance de cette chevelure eût embarrassé un peintre, parce que les couleurs dont peut disposer l'art humain sont parfois impuissantes. Cette nuance, dans un tableau, semblerait terne ; ses candides reflets affadiraient le regard ; elle ne repousserait point assez la teinte de la peau.</p>
@@ -897,9 +820,7 @@
         <p>Du reste, on entendait toujours Marie comme on écoute le rossignol, sans la voir. Dès qu'elle apercevait un étranger, son instinct de timidité farouche la portait à fuir. On voyait le taillis s'agiter comme au passage d'un faon, puis plus rien. Marie était alerte et vive. On eût couru longtemps pour l'atteindre.</p>
         <p>Quelques-uns cependant l'avaient vue et le bruit de sa beauté sans rivale s'était répandu dans le pays. On fut du temps avant de savoir son nom, car Pelo Rouan ne souffrait guère de questions, surtout lorsqu'il s'agissait de sa fille, et Marie devenait muette dès qu'un homme lui adressait la parole. À cause de cette ignorance, et par un reste de cette chevaleresque poésie qui a fleuri si longtemps sur la terre de Bretagne, on choisissait pour désigner Marie les noms des plus charmantes fleurs.</p>
         <p>Les jeunes gens de la forêt parlaient d'elle d'autant plus souvent que son existence était plus mystérieuse. À la longue, la coutume effeuilla cette guirlande de jolis sobriquets. Un seul resta, qui faisait allusion à la couleur des cheveux de Marie :</p>
-        <p>
-          On l'appela
-          <hi>Fleur-des-Genêts.</hi>
+        <p> On l'appela <hi>Fleur-des-Genêts.</hi>
         </p>
         <p>Pelo Rouan laissait à sa fille une liberté entière, dont celle-ci usait tout naturellement et comme on respire sans savoir qu'il en pût être autrement. D'ailleurs, le charbonnier, quand même il l'aurait voulu, n'aurait point pu surveiller fort attentivement la jeune fille, car il faisait de longues et fréquentes absences.</p>
         <p>Le motif de ces absences était un secret, même pour Marie.</p>
@@ -926,9 +847,8 @@
         <p>Pelo Rouan recula à son aspect, et, au lieu de sortir, il se glissa prestement dans une embrasure.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII -- Dans la forêt</label>
-        </p>
+
+        <head>XII -- Dans la forêt</head>
         <p>Les nouveaux venus étaient tous deux de haute taille et d'apparence robuste. Celui dont Pelo Rouan avait aperçu la figure était dans toute la force de la jeunesse, beau visage et merveilleusement tourné. L'autre avait sous son feutre une chevelure grise, et plus de soixante ans sur les épaules.</p>
         <p>-- Qui que vous soyez, dit Simonnet employant la digne formule armoricaine, vous êtes les bienvenus. Que demandez-vous ?</p>
         <p>Le plus jeune des deux étrangers rejeta son manteau sur le coude et montra l'uniforme de capitaine des soldats de la maréchaussée.</p>
@@ -964,16 +884,10 @@
         <p>-- Si fait ! quelques centaines de fous furieux. Quand la rébellion se sent faible, vois-tu, elle tourne au brigandage : je viens pour punir des bandits.</p>
         <p>Jude réprima un geste de colère.</p>
         <p>-- De mon temps, murmura-t-il, messieurs de la Frérie bretonne ne méritaient point ce nom.</p>
-        <p>
-          -- C'est vrai : ceux dont tu parles n'étaient que des maniaques entêtés ; mais les
-          <hi>Frères bretons</hi>
-          sont devenus les
-          <hi>Loups.</hi>
+        <p> -- C'est vrai : ceux dont tu parles n'étaient que des maniaques entêtés ; mais les <hi>Frères bretons</hi> sont devenus les <hi>Loups.</hi>
         </p>
         <p>
-          <hi>-- </hi>
-          Les Loups ? répéta Jude sans comprendre.
-        </p>
+          <hi>-- </hi> Les Loups ? répéta Jude sans comprendre. </p>
         <p>-- Ils ont eux-mêmes choisi ce sauvage sobriquet. Ce n'est pas la Bretagne, ce sont les Loups que je viens combattre de par l'ordre du roi.</p>
         <p>Jude ne fut probablement point persuadé par cette subtile distinction car il se borna à répondre :</p>
         <p>-- Je ne sais pas ce que font les Loups, mais ils sont bretons, et vous êtes français !</p>
@@ -992,9 +906,8 @@
         <p>-- Je n'ai jamais vu ce jeune homme, répondit-il.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIII -- Le capitaine Didier</label>
-        </p>
+
+        <head>XIII -- Le capitaine Didier</head>
         <p>Jude demeura un instant comme atterré.</p>
         <p>-- Mon Dieu ! pensait-il, qu'ont-ils fait de notre petit monsieur ?</p>
         <p>Le capitaine était devenu rêveur. Peut-être connaissait-il assez M. de Vaunoy pour qu'un doute s'élevât dans son esprit touchant le sort de l'héritier de Treml.</p>
@@ -1035,76 +948,62 @@
         <p>Marie disait :</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Elle attendait, car pauvre mère</label>
-        </p>
+
+        <head>Elle attendait, car pauvre mère</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Longtemps espère,</label>
-        </p>
+
+        <head>Longtemps espère,</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Elle attendait, le cœur marri,</label>
-        </p>
+
+        <head>Elle attendait, le cœur marri,</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Son fils chéri.</label>
-        </p>
+
+        <head>Son fils chéri.</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Elle mettait son âme entière</label>
-        </p>
+
+        <head>Elle mettait son âme entière</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Dans sa prière</label>
-        </p>
+
+        <head>Dans sa prière</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Et disait : « Rends-moi mon enfant !</label>
-        </p>
+
+        <head>Et disait : « Rends-moi mon enfant !</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Dieu tout-puissant ! »</label>
-        </p>
+
+        <head>Dieu tout-puissant ! »</head>
         <p>Marie n'était plus qu'à quelques pas de Didier, mais ils ne se voyaient point encore, tant le taillis était épais. Le capitaine retenait son souffle.</p>
         <p>Marie poursuivit, répétant, suivant l'usage, les deux derniers vers en guise de refrain :</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Et disait : « Rends-moi mon enfant !</label>
-        </p>
+
+        <head>Et disait : « Rends-moi mon enfant !</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Dieu tout-puissant !</label>
-        </p>
+
+        <head>Dieu tout-puissant !</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Arthur ! Arthur ! Hélas ! absence</label>
-        </p>
+
+        <head>Arthur ! Arthur ! Hélas ! absence</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Brise espérance</label>
-        </p>
+
+        <head>Brise espérance</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Le faible est au pouvoir du fort</label>
-        </p>
+
+        <head>Le faible est au pouvoir du fort</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Jusqu'à la mort ! »</label>
-        </p>
+
+        <head>Jusqu'à la mort ! »</head>
         <p>Le caractère de ce chant est une mélancolie tendre et si profonde que le ménétrier qui le dit à un rustique auditoire est certain d'avance d'un succès de larmes. Il semblait que la pauvre Marie rapportât à elle-même le sens des deux derniers vers, car le chant tomba de ses lèvres comme un harmonieux gémissement.</p>
         <p>-- Fleur-des-Genêts ! murmura Didier.</p>
         <p>Elle entendit et perça d'un bond le fourré.</p>
@@ -1112,13 +1011,10 @@
         <p>Cette âme candide et virginale ignorait les artifices du mensonge ; elle lui raconta ses craintes et ses espérances et combien elle avait prié pour son retour ; ainsi se prolongea longtemps, avec tout le charme et la naïveté de l'innocence, cet entretien touchant qui devait avoir une influence décisive sur leur destinée.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIV -- Où le Loup Blanc montre le bout de son museau</label>
-        </p>
+
+        <head>XIV -- Où le Loup Blanc montre le bout de son museau</head>
         <p>Pendant cela, Jude Leker essayait de trouver son chemin dans le taillis. Il eut d'abord grand'peine à s'orienter, car nul sentier ne traversait l'épaisseur du fourré ; mais au bout d'une centaine de pas, il vit avec surprise qu'une multitude de petites routes se croisaient en tous sens et semblaient néanmoins converger vers un centre commun.</p>
-        <p>
-          Il suivit un de ces sentiers, et arriva bientôt au bord de ce sauvage ravin que nous connaissons déjà sous le nom de la
-          <hi>Fosse-aux-Loups.</hi>
+        <p> Il suivit un de ces sentiers, et arriva bientôt au bord de ce sauvage ravin que nous connaissons déjà sous le nom de la <hi>Fosse-aux-Loups.</hi>
         </p>
         <p>À part ces routes qui n'existaient point autrefois et qui annonçaient très positivement le voisinage d'un lieu de réunion où de nombreux habitués se rendaient de différents côtés, rien n'était changé dans le sombre aspect du paysage. Le même silence régnait autour de la même solitude.</p>
         <p>Jude descendit les bords du ravin en se retenant aux branches et atteignit le fond où s'élevait le chêne creux. La physionomie du bon écuyer était triste et grave. Il songeait sans doute que la dernière fois qu'il avait visité ce lieu, c'était en compagnie de son maître défunt.</p>
@@ -1146,9 +1042,7 @@
         <p>Pelo Rouan le suivit de l'œil pendant qu'il s'éloignait.</p>
         <p>-- C'est bien Jude ! murmura-t-il, Jude l'écuyer du vieux Nicolas Treml ! il n'emporte pas le coffret ; je verrai cette nuit ce qu'il peut contenir. En attendant, il ne faut point que nos gens soupçonnent ce mystère, car ils pourraient revenir avant moi.</p>
         <p>Jude avait disparu. Les deux hommes à masques fauves quittèrent le fourré et s'élancèrent vers le chêne. Ils remuèrent les outils, visitèrent chaque repli de l'écorce et ne trouvèrent rien.</p>
-        <p>
-          Ces deux hommes étaient deux
-          <hi>Loups.</hi>
+        <p> Ces deux hommes étaient deux <hi>Loups.</hi>
         </p>
         <p>Ils s'approchèrent de la touffe d'ajoncs.</p>
         <p>-- Maître, dirent-ils en soulevant leurs bonnets, qu'avez-vous vu ?</p>
@@ -1194,11 +1088,7 @@
         <p>-- C'est cela, nous tâcherons.</p>
         <p>La nuit vint : nos deux voyageurs furent introduits au château, comme nous l'avons vu, et Simonnet, le maître du pressoir, se chargea de les annoncer aux maîtres.</p>
         <p>M. Hervé de Vaunoy et sa fille Alix étaient au salon, en compagnie de Mlle Olive de Vaunoy, sœur cadette d'Hervé, et de M. de Béchameil, marquis de Nointel, intendant royal de l'impôt.</p>
-        <p>
-          Le capitaine était attendu depuis quelques jours déjà, bien qu'on ignorât le nom du nouveau titulaire. Dès que maître Simonnet eut prononcé le mot
-          <hi>capitaine,</hi>
-          tous ces personnages se levèrent et dardèrent leurs regards vers la porte avec une curiosité plus ou moins prononcée.
-        </p>
+        <p> Le capitaine était attendu depuis quelques jours déjà, bien qu'on ignorât le nom du nouveau titulaire. Dès que maître Simonnet eut prononcé le mot <hi>capitaine,</hi> tous ces personnages se levèrent et dardèrent leurs regards vers la porte avec une curiosité plus ou moins prononcée. </p>
         <p>Le capitaine entra, suivi de Jude qui se tint aux environs du seuil, le nez dans le manteau. Didier s'avança le feutre sous le bras, la mine haute, et se portant comme il convenait à un homme rompu aux belles façons de la cour.</p>
         <p>Son aspect parut étonner grandement tout le monde, ce qu'il dut déchiffrer en caractères lisibles, quoique différents, sur les quatre physionomies présentes.</p>
         <p>Mlle Olive pinça ses lèvres en jouant vigoureusement de l'éventail.</p>
@@ -1207,9 +1097,8 @@
         <p>Enfin, M. de Béchameil, marquis de Nointel, exécuta la plus piteuse grimace qui se puisse voir sur visage de financier désagréablement surpris.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XV -- Portraits</label>
-        </p>
+
+        <head>XV -- Portraits</head>
         <p>Didier s'inclina profondément devant les dames, salua un peu moins bas Hervé de Vaunoy, et presque point M. l'intendant royal.</p>
         <p>Vaunoy renforça aussitôt son bénin sourire et fit trois pas au-devant du capitaine.</p>
         <p>-- Saint-Dieu ! mon jeune ami, s'écria-t-il du ton le plus cordial, soyez trois fois le bienvenu ! Quelque chose me disait que je vous reverrais bientôt officier du roi. Touchez là, mon capitaine ! Saint-Dieu ! touchez là !</p>
@@ -1277,9 +1166,8 @@
         <p>La capitaine se jeta sur son lit. Jude continua de veiller.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVI -- Le conseil privé de M. de Vaunoy</label>
-        </p>
+
+        <head>XVI -- Le conseil privé de M. de Vaunoy</head>
         <p>Tout reposait au château, ou du moins c'était l'heure propice.</p>
         <p>Le capitaine Didier dormait, rêvant peut-être de l'humble fille de la forêt qui avait ranimé en lui les souvenirs de l'adolescence, le premier, le plus pur battement de son cœur. Nous ne saurions dire pourtant qu'il eut revu sans émotion aucune cette belle Alix de Vaunoy qui avait autrefois accepté sa recherche, mais notre Didier était un loyal enfant et il n'avait qu'une foi.</p>
         <p>Béchameil dégustait en songe un blanc-manger. Mademoiselle Olive bâtissait un superbe château en Espagne où elle se voyait la dame d'un gentil officier de Sa Majesté le roi Louis XV, à qui la fée protectrice des vieilles demoiselles l'avait unie en légitime mariage.</p>
@@ -1357,9 +1245,8 @@
         <p>-- Demain il fera jour !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVII -- Visite matinale</label>
-        </p>
+
+        <head>XVII -- Visite matinale</head>
         <p>Bien avant le jour, Jude Leker était sur pied. Il se leva sans bruit afin de ne point éveiller son maître qui dormait comme on dort à vingt-cinq ans après un long et fatigant voyage.</p>
         <p>Quoique le crépuscule n'éclairât point encore la nuit des interminables corridors, Jude y trouva son chemin sans tâtonner. Il était né au château et l'avait habité durant quarante années.</p>
         <p>Laissant le grand escalier dont la double rampe desservait le premier étage, il gagna l'office et prit un couloir étroit qui conduisait aux communs.</p>
@@ -1387,11 +1274,7 @@
         <p>Tremblante et empressée, elle courut à tâtons, cherchant son briquet et ne le trouvant point ; elle remua les cendres de son réchaud. Enfin sa résine s'alluma. Elle regarda Jude longtemps et comme en extase.</p>
         <p>-- Et lui, dit-elle, M. Nicolas, le reverrons-nous ?</p>
         <p>-- Mort, répondit Jude.</p>
-        <p>
-          Goton se mit à genoux, joignit ses mains et récita un
-          <hi>De profundis.</hi>
-          De grosses larmes coulaient lentement le long de sa joue ridée. Quiconque l'aurait vue en ce moment se serait senti puissamment attendri, car rien n'émeut comme les larmes qui roulent sur un rude visage, et tel qui passe en souriant devant deux beaux yeux en pleurs pâlit et souffre quand il voit s'humecter la paupière d'un soldat.
-        </p>
+        <p> Goton se mit à genoux, joignit ses mains et récita un <hi>De profundis.</hi> De grosses larmes coulaient lentement le long de sa joue ridée. Quiconque l'aurait vue en ce moment se serait senti puissamment attendri, car rien n'émeut comme les larmes qui roulent sur un rude visage, et tel qui passe en souriant devant deux beaux yeux en pleurs pâlit et souffre quand il voit s'humecter la paupière d'un soldat. </p>
         <p>Jude se tut tant que Goton pria. Il semblait qu'il voulût maintenant prolonger son incertitude et qu'il reculât, effrayé devant la révélation qu'il était venu chercher.</p>
         <p>Lorsqu'il prit la parole, ce fut d'une voix altérée.</p>
         <p>-- Et le petit monsieur ? dit-il enfin avec effort.</p>
@@ -1436,9 +1319,8 @@
         <p>Goton avait plus de désir que d'espérance, car elle secoua tristement la tête en prononçant ces dernières paroles.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVIII -- Rêves</label>
-        </p>
+
+        <head>XVIII -- Rêves</head>
         <p>Lorsque Jude, après avoir traversé les longs corridors, revint à la chambre où il avait passé la nuit, le capitaine dormait encore. Son visage était calme et souriant. Jude le contempla un instant.</p>
         <p>-- C'est un loyal jeune homme, pensa-t-il ; ses traits hardis me rappellent le vieux Treml au temps où sa moustache était noire. Il est heureux, lui ! Oh ! que je donnerais de bon cœur tout mon sang pour voir M. Georges à sa place !</p>
         <p>Jude reprit son manteau de voyage, pour cacher ses traits en cas de rencontre suspecte. Le jour était venu. Les premiers rayons du soleil levant se jouaient dans la soie des rideaux. Au moment où Jude ceignait son épée pour partir, Didier s'agita sur sa couche.</p>
@@ -1484,11 +1366,7 @@
         <p>-- Que dit-on des Loups dans le pays, maître ? demanda Didier pour éviter à Jude l'embarras de répondre.</p>
         <p>-- On dit que ce sont des méchantes bêtes, monsieur le capitaine... N'accepterez-vous pas un verre de cidre, mon camarade ?</p>
         <p>-- Que font les gens de la forêt ? demanda encore Didier.</p>
-        <p>
-          -- Monsieur le capitaine, répondit Alain de mauvaise grâce, ils font le cercle, du charbon et des sabots... Eh bien, mon camarade, ajouta-t-il en exhibant son
-          <hi>vademecum,</hi>
-          c'est-à-dire sa bouteille de fer-blanc, aimez-vous mieux une goutte d'eau-de-vie ?
-        </p>
+        <p> -- Monsieur le capitaine, répondit Alain de mauvaise grâce, ils font le cercle, du charbon et des sabots... Eh bien, mon camarade, ajouta-t-il en exhibant son <hi>vademecum,</hi> c'est-à-dire sa bouteille de fer-blanc, aimez-vous mieux une goutte d'eau-de-vie ? </p>
         <p>Maître Alain fut interrompu par Lapierre, qui amenait le cheval de Jude. Celui-ci se mit aussitôt en selle. Dans le mouvement qu'il fit pour cela, son manteau s'écarta quelque peu. Le majordome put voir une partie de son visage.</p>
         <p>-- Du diable si je connais autre chose que cette figure-là ! grommela-t-il ; où donc l'ai-je vue ? Je me fais vieux !</p>
         <p>-- Tu me rejoindras ce soir à Rennes, mon garçon, s'écria Didier. En route maintenant et bonne chance !</p>
@@ -1508,9 +1386,8 @@
         <p>Seulement au cri qu'il poussa, la statue animée, nymphe vêtue de blanc, tressaillit vivement et se retourna.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIX -- Sous la charmille</label>
-        </p>
+
+        <head>XIX -- Sous la charmille</head>
         <p>L'illusion s'enfuit tambour battant. Dans cette gageure qu'il avait engagée contre lui-même, Didier avait parié pour un berceau et une statue. Le berceau existait, mais ce qu'il venait de prendre pour une statue était une jeune fille en chair et en os, mademoiselle Alix de Vaunoy de La Tremlays.</p>
         <p>La méprise du reste était fort excusable. Au moment où Didier l'avait aperçue, mademoiselle de Vaunoy lui tournait le dos. Elle était debout et immobile au centre du berceau, lisant une lettre froissée et sans doute bien souvent relue. Ses beaux cheveux noirs avaient, ce matin, de la poudre, et une robe de mousseline blanche formait toute sa toilette.</p>
         <p>Au cri poussé par Didier, elle se retourna, comme nous l'avons dit, et le papier qu'elle lisait s'échappa de sa main.</p>
@@ -1563,9 +1440,8 @@
         <p>L'éclat de rire se répéta sous la charmille. Un bruit de voix s'y joignit et bientôt, au tournant de l'allée, débouchèrent MM. de Vaunoy et de Béchameil.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XX -- Avant et après le déjeuner</label>
-        </p>
+
+        <head>XX -- Avant et après le déjeuner</head>
         <p>Vaunoy et l'intendant royal semblaient de fort heureuse humeur. Ils marchèrent avec empressement vers Didier qui avait peine à se remettre et gardait une contenance embarrassée.</p>
         <p>-- Nous arrivons ici, mon cher hôte, dit Vaunoy, guidés par vos éclats de rire. La promenade solitaire vous rend-elle donc si joyeux ?</p>
         <p>-- Ai-je ri ? demanda machinalement Didier.</p>
@@ -1586,14 +1462,10 @@
         <p>-- Sur la proposition de S. A. R. Mgr le comte de Toulouse, gouverneur de Bretagne, dit le capitaine, le roi m'a conféré mission d'escorter les fonds provenant de l'impôt à travers cette contrée qui passe pour dangereuse...</p>
         <p>-- Et qui l'est ! interrompit Vaunoy.</p>
         <p>-- Qui l'est énormément, ajouta Béchameil.</p>
-        <p>
-          -- Le roi m'a chargé en outre, reprit Didier, de veiller à la perception des tailles, et Son Altesse Sérénissime m'a donné mission particulière de poursuivre et détruire, par tous moyens, cette poignée de rebelles qui portent le nom de
-          <hi>Loups.</hi>
+        <p> -- Le roi m'a chargé en outre, reprit Didier, de veiller à la perception des tailles, et Son Altesse Sérénissime m'a donné mission particulière de poursuivre et détruire, par tous moyens, cette poignée de rebelles qui portent le nom de <hi>Loups.</hi>
         </p>
         <p>
-          <hi>-- </hi>
-          Que Dieu vous aide ! dit Vaunoy. C'est là, mon jeune ami, une noble mission.
-        </p>
+          <hi>-- </hi> Que Dieu vous aide ! dit Vaunoy. C'est là, mon jeune ami, une noble mission. </p>
         <p>-- Une mission que je ne vous envie en aucune façon, mon jeune maître ! pensa tout bas Béchameil. Dieu vous assiste ! prononça-t-il à haute voix.</p>
         <p>-- Je vous rends grâces, messieurs. Dieu protège la France, et son aide ne nous manquera point. Je pense que la vôtre ne me fera pas défaut davantage.</p>
         <p>À cette question faite d'un ton de brusque franchise, Vaunoy répondit par un mouvement de tête accompagné d'un diplomatique sourire. Béchameil, malgré sa bonne envie, ne put imiter que le mouvement. Ce gastronome n'était point diplomate.</p>
@@ -1621,22 +1493,14 @@
         <p>-- Dans votre intérêt, monsieur mon ami, insista héroïquement Béchameil, je vous engage à prendre quelque chose. Nous vous ferons raison, le capitaine et moi.</p>
         <p>Vaunoy fit un geste d'impatience, et Béchameil reconnut avec découragement que le déjeuner était désormais indéfiniment retardé.</p>
         <p>-- Je vous disais, reprit Didier qui n'avait prêté à cette scène qu'une attention médiocre, je vous disais que la forêt est pour moi pays de connaissance ; je sais que la position des Loups est inexpugnable, et ne prétends point courir les chances d'une attaque, au moins tant que les deniers de Sa Majesté ne seront point à couvert. Il me faut, à moi aussi, des positions dans la forêt, et je vous demande, à vous, monsieur de Vaunoy, votre château de La Tremlays, à vous, monsieur l'intendant royal, votre maison de plaisance de la Cour-Rose.</p>
-        <p>
-          -- Ma
-          <hi>folie,</hi>
-          s'écria Béchameil ; et qu'en prétendez-vous faire, monsieur ?
-        </p>
+        <p> -- Ma <hi>folie,</hi> s'écria Béchameil ; et qu'en prétendez-vous faire, monsieur ? </p>
         <p>-- Je ne sais : peut-être une place d'armes.</p>
         <p>-- Mais il y a des tapis dans toutes les chambres, monsieur ; il y en a pour vingt mille écus...</p>
         <p>-- Fi ! monsieur de Béchameil, fi ! voulut interrompre Vaunoy.</p>
         <p>Cette fois le financier se montra rétif.</p>
         <p>-- Il y a, continua-t-il, des meubles sculptés, incrustés, dorés. Il y en a pour trente mille écus, monsieur !</p>
         <p>-- Fi !monsieur de Béchameil, fi ! répéta Vaunoy.</p>
-        <p>
-          -- Il y a des porcelaines du Japon, de la faïence d'Italie, des grès de Suisse, des cristaux de Suède. La batterie de cuisine seule vaut quatorze mille cinq cents livres, monsieur. Et vous voulez mettre tout cela au pillage ! Vos soldats dévaliseraient mon garde-manger ; ils boiraient ma cave... ma cave qui est la plus riche de France et de Navarre ! Ils écailleraient mes mosaïques, crèveraient mes tableaux, briseraient mes cristaux, que sais-je ! Une place d'armes ! Morbleu ! monsieur, pensez-vous que j'aie fait bâtir ma
-          <hi>folie</hi>
-          pour héberger vos soudards !
-        </p>
+        <p> -- Il y a des porcelaines du Japon, de la faïence d'Italie, des grès de Suisse, des cristaux de Suède. La batterie de cuisine seule vaut quatorze mille cinq cents livres, monsieur. Et vous voulez mettre tout cela au pillage ! Vos soldats dévaliseraient mon garde-manger ; ils boiraient ma cave... ma cave qui est la plus riche de France et de Navarre ! Ils écailleraient mes mosaïques, crèveraient mes tableaux, briseraient mes cristaux, que sais-je ! Une place d'armes ! Morbleu ! monsieur, pensez-vous que j'aie fait bâtir ma <hi>folie</hi> pour héberger vos soudards ! </p>
         <p>-- Fi ! monsieur de Béchameil ! répéta Vaunoy pour la troisième fois ; Saint-Dieu ! fi ! vous dis-je.</p>
         <p>Le financier s'arrêta essoufflé. Didier regarda l'interruption comme non avenue, et reprit avec le plus grand calme :</p>
         <p>-- Peut-être une place d'armes. En tout cas, je puis vous faire promesse, messieurs, de vous prévenir deux heures à l'avance.</p>
@@ -1666,11 +1530,7 @@
         <p>-- Laissons cela, interrompit Vaunoy.</p>
         <p>-- Permettez ! Je suis, vous me faites, j'espère, l'honneur d'en être persuadé, un sujet fidèle et dévoué de Sa Majesté. Ma pauvre maison est fort à son service, depuis les fondements jusqu'aux combles, y compris, bien entendu, les étages intermédiaires, mais il s'agit de cinq cent mille livres tournois.</p>
         <p>-- Cinq cent mille livres tournois ? répéta lentement le maître de La Tremlays.</p>
-        <p>
-          -- Tout autant, monsieur mon ami, il y a même quelques écus de plus. Si cette somme était enlevée, mon aisance, qui est honnête, serait terriblement réduite. Or, suivez bien : ma
-          <hi>folie</hi>
-          de la Cour-Rose n'est point propre à soutenir un siège, et si les Loups...
-        </p>
+        <p> -- Tout autant, monsieur mon ami, il y a même quelques écus de plus. Si cette somme était enlevée, mon aisance, qui est honnête, serait terriblement réduite. Or, suivez bien : ma <hi>folie</hi> de la Cour-Rose n'est point propre à soutenir un siège, et si les Loups... </p>
         <p>Vaunoy haussa les épaules avec affectation.</p>
         <p>-- Monsieur l'intendant a raison, dit le capitaine qui, depuis dix minutes, n'apportait plus à la discussion qu'une attention fort médiocre.</p>
         <p>-- Permettez, dit encore Béchameil répondant au geste de Vaunoy ; je serais mortifié que vous puissiez croire...</p>
@@ -1712,9 +1572,8 @@
         <p>-- Voici ce qu'on devient au service de Vaunoy ! dit-il ensuite. Jamais de tiroirs ouverts. Quelques pièces d'or pour beaucoup de travail. C'est pitoyable de se damner ainsi au rabais... Il faudra voir.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXI -- Mademoiselle de Vaunoy</label>
-        </p>
+
+        <head>XXI -- Mademoiselle de Vaunoy</head>
         <p>Pendant que maître Alain et Lapierre attendaient, Hervé de Vaunoy arpentait à pas lents le corridor avec sa fille qui s'appuyait à son bras et dont il caressait paternellement la blanche main.</p>
         <p>-- J'ai à vous gronder, Alix, disait-il, de sa voix la plus doucereuse. Vous avez été vis-à-vis de notre hôte, le capitaine Didier, d'une froideur !</p>
         <p>Il appuya sur ce mot et regarda sa fille en dessous. Aucune émotion ne parut sur le calme et beau visage d'Alix.</p>
@@ -1776,9 +1635,8 @@
         <p>-- Le revoir ! oui... souffrir, mais le sauver !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXII -- Deux bons serviteurs</label>
-        </p>
+
+        <head>XXII -- Deux bons serviteurs</head>
         <p>Vaunoy avait souvent avec sa fille des entretiens semblables à celui que nous venons de rapporter. Alix savait à peu de chose près de quel intérêt étaient pour son père les bonnes grâces de M. de Béchameil ; elle avait même deviné que Vaunoy n'avait sur les immenses domaines de Treml qu'un droit de possession douteux et précaire.</p>
         <p>Il va sans dire qu'elle n'abusait jamais de cette connaissance.</p>
         <p>Le caractère de son père, qu'elle eût sincèrement voulu ne point juger, mais dont la bassesse lui sautait aux yeux, lui avait été, dès sa première jeunesse, une cause perpétuelle de chagrin. Son esprit sérieux, loyal et fort s'était habitué à la tristesse, et dans l'empressement qu'elle avait mis autrefois à accepter la recherche de Didier, il faut compter pour une part son désir ou plutôt son besoin d'échapper à l'obsession paternelle.</p>
@@ -1800,14 +1658,10 @@
         <p>-- Qu'en dites-vous ? répéta Vaunoy en fronçant le sourcil.</p>
         <p>-- Hé ! hé ! fit Lapierre d'un air capable.</p>
         <p>-- Voilà ! prononça emphatiquement maître Alain.</p>
-        <p>
-          -- Comment ! s'écria Vaunoy avec colère, vous ne comprenez pas que, dans ces circonstances, sa mort devient un cas fortuit dont je ne puis être responsable ? que les soupçons se détourneront naturellement de moi, et qu'il faudrait folie ou mauvaise foi insigne pour m'accuser d'un pareil
-          <hi>malheur.</hi>
+        <p> -- Comment ! s'écria Vaunoy avec colère, vous ne comprenez pas que, dans ces circonstances, sa mort devient un cas fortuit dont je ne puis être responsable ? que les soupçons se détourneront naturellement de moi, et qu'il faudrait folie ou mauvaise foi insigne pour m'accuser d'un pareil <hi>malheur.</hi>
         </p>
         <p>
-          <hi>-- </hi>
-          Si fait, dit Lapierre ; pour ma part, je comprends cela.
-        </p>
+          <hi>-- </hi> Si fait, dit Lapierre ; pour ma part, je comprends cela. </p>
         <p>Maître Alain exécuta un grave signe d'approbation.</p>
         <p>-- Eh bien ? reprit Hervé de Vaunoy.</p>
         <p>-- Hé ! hé ! fit encore Lapierre.</p>
@@ -1887,16 +1741,11 @@
         <p>-- Bon voyage !</p>
         <p>-- En veux-tu ? lui demanda maître Alain qui lui présenta sa bouteille carrée.</p>
         <p>-- Volontiers, répondit Lapierre ; il est permis de boire après la bataille. J'ai la tête faible, vois-tu, et si j'avais embrassé trop tendrement ton flacon ce matin, peut-être serais-je, à l'heure qu'il est, aux lieu et place de M. de Vaunoy, sur le grand chemin du cimetière. À sa santé !</p>
-        <p>
-          -- 
-          <hi>Requiescat in pace !</hi>
-          prononça gravement le majordome.
-        </p>
+        <p> --  <hi>Requiescat in pace !</hi> prononça gravement le majordome. </p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXIII -- Voyage de Jude Leker</label>
-        </p>
+
+        <head>XXIII -- Voyage de Jude Leker</head>
         <p>Hervé de Vaunoy n'était point, tant s'en fallait, un homme téméraire. La démarche qu'il tentait et qui l'exposait en réalité à un danger terrible était, pour nous servir de l'expression de Lapierre, un coup de partie...</p>
         <p>Une manière de duel à mort, où il jouait sa vie contre celle de Didier.</p>
         <p>Peut-être, aveuglé par son désir passionné de se défaire du jeune homme, se dissimulait-il une partie du péril ; peut-être comptait-il sur des moyens de réussite dont il avait fait mystère à ses deux aides. Quoi qu'il en soit, sa terreur restait grande, et quiconque l'eût rencontré, tremblant et blême sur son cheval n'aurait eu garde de le prendre pour un coureur d'aventures.</p>
@@ -1917,11 +1766,7 @@
         <p>Tout le long des larges et belles allées qui se coupaient en étoile au pied de la croix, on voyait jadis une bordure de loges couvertes en chaume, où travaillaient des tonneliers, des vanniers et des sabotiers.</p>
         <p>Jude trouva ces loges incendiées pour la plupart ; celles qui, çà et là, restaient debout, étaient dévastées et gardaient des traces non équivoques de ravages opérés par la main de l'homme.</p>
         <p>Jude s'arrêta devant ces ruines rustiques et rappelait les souvenirs du passé. Au temps où Treml était seigneur du pays, toutes ces loges étaient habitées et tous leurs habitants étaient heureux.</p>
-        <p>
-          -- Les
-          <hi>gens de France</hi>
-          ont passé par là ! se disait le vieil écuyer. Sous prétexte d'impôts, ils ont demandé la bourse ou la vie, et les hommes de la forêt n'ont pas de bourse.
-        </p>
+        <p> -- Les <hi>gens de France</hi> ont passé par là ! se disait le vieil écuyer. Sous prétexte d'impôts, ils ont demandé la bourse ou la vie, et les hommes de la forêt n'ont pas de bourse. </p>
         <p>Jude devinait juste. Ces ruines étaient l'œuvre des agents du fisc, secondés, il faut le dire, par quelques gentilshommes du pays rennais, parmi lesquels Hervé de Vaunoy se distinguait au premier rang.</p>
         <p>M. de Pontchartrain, premier intendant royal, et, après lui, M. de Béchameil, marquis de Nointel, ayant pris, suivant la coutume, à forfait la levée de l'impôt breton, avaient un intérêt évident à ne laisser aucune partie de la province se prévaloir d'une exception uniquement fondée sur l'usage. Ils voulurent forcer les gens de la forêt à solder leur part des tailles, et ne reculèrent devant aucune extrémité pour en venir à leurs fins.</p>
         <p>C'était ce que Jude appelait demander la bourse ou la vie.</p>
@@ -1937,11 +1782,7 @@
         <p>On fit venir des soldats de Rennes et de toutes les villes environnantes ; mais, à mesure que l'attaque s'opiniâtrait, la résistance s'organisait plus puissante. Il devint évident que les insurgés (car leur nombre et leurs griefs défendaient qu'on les appelât bandits) avaient un chef habile et résolu, dont les ordres, quels qu'ils fussent, étaient suivis avec une aveugle soumission.</p>
         <p>Le moment vint où la défense, conduite avec un ensemble merveilleux déborda l'attaque.</p>
         <p>Les rôles changèrent. Les opprimés devinrent agresseurs, et un beau jour cinq mille paysans en sabots, le visage couvert de masques bizarres, firent irruption jusque dans Rennes et pillèrent l'hôtel de M. le lieutenant du roi.</p>
-        <p>
-          De ce moment, la terreur se mit de la partie. L'insurrection acquit ce prestige qui est à toute entreprise comme un gage assuré de succès. On entoura le chef des révoltés d'une mystérieuse auréole, et chacun eut à raconter sur son compte quelque miraculeux exploit. Les gens de la forêt devinrent populaires à vingt lieues à la ronde. Ils eurent leurs généalogistes, et les savants du cru prirent la peine de rattacher leur association par des liens historiques et d'ailleurs incontestables à la fameuse société politique des
-          <hi>Frères bretons,</hi>
-          qui, au milieu du siècle précédent, avaient failli enlever la Bretagne à la domination française.
-        </p>
+        <p> De ce moment, la terreur se mit de la partie. L'insurrection acquit ce prestige qui est à toute entreprise comme un gage assuré de succès. On entoura le chef des révoltés d'une mystérieuse auréole, et chacun eut à raconter sur son compte quelque miraculeux exploit. Les gens de la forêt devinrent populaires à vingt lieues à la ronde. Ils eurent leurs généalogistes, et les savants du cru prirent la peine de rattacher leur association par des liens historiques et d'ailleurs incontestables à la fameuse société politique des <hi>Frères bretons,</hi> qui, au milieu du siècle précédent, avaient failli enlever la Bretagne à la domination française. </p>
         <p>Dès l'origine du soulèvement, les principaux conjurés s'étaient réunis en sociétés secrètes, sous les ordres de ce chef qui devait bientôt se rendre si redoutable. En ce temps déjà, les hommes de la forêt étaient les partisans naturels de cette association ; mais rien n'était organisé ; les membres affiliés de prime abord avaient tout à craindre.</p>
         <p>Ce fut sans doute ce danger qui leur inspira la pensée d'entourer leurs actions d'un mystère absolu et de ne jamais quitter leur retraite sans avoir le visage couvert d'un masque.</p>
         <p>Ce masque était tout simplement un carré de peau de loup. De là le surnom qu'on leur donna d'abord comme un méprisant sobriquet, et qui, peu de mois après, était prononcé avec terreur dans tout le pays de Rennes.</p>
@@ -1959,18 +1800,10 @@
         <p>On eût dit, tant le châtiment suivait de près l'offense, que le chef des Loups avait au château de La Tremlays des intelligences ou des espions.</p>
         <p>Tout récemment, Vaunoy ayant ouvert l'avis que, pour détruire l'insurrection dans sa racine, il fallait attaquer la Fosse-aux-Loups et sonder le ravin, son manoir de Boüexis fut, vingt-quatre heures après, dévasté de fond en comble.</p>
         <p>En somme, les Loups n'avaient point d'ennemi plus mortel qu'Hervé de Vaunoy, et ils lui rendaient depuis longtemps haine pour haine.</p>
-        <p>
-          Jude savait une partie de ces choses, et devait sous peu apprendre le reste. Dans cette querelle, son choix ne pouvait être douteux. Le souvenir de son maître et ses vieilles sympathies le portaient vers les Loups qui étaient des
-          <hi>Bretons,</hi>
-          comme disait dame Goton avec tant d'emphase.
-        </p>
+        <p> Jude savait une partie de ces choses, et devait sous peu apprendre le reste. Dans cette querelle, son choix ne pouvait être douteux. Le souvenir de son maître et ses vieilles sympathies le portaient vers les Loups qui étaient des <hi>Bretons,</hi> comme disait dame Goton avec tant d'emphase. </p>
         <p>Mais Jude n'avait ni la volonté ni le loisir de prêter l'appui de son bras aux gens de la forêt. Sa mission était définie ; les dernières paroles de Treml mourant retentissaient encore à son oreille, et il eût regardé comme un crime de s'arrêter sur la voie tracée par le suprême commandement de son maître, ou même de s'écarter un instant du droit chemin.</p>
         <p>Il était huit heures du matin à peu près quand Jude arriva en vue de la croix de Mi-Forêt. Ce lieu était en grande vénération dans tout le pays, et les bonnes gens des alentours avaient surtout une dévotion en quelque sorte patriotique pour une petite madone dont la niche était pratiquée dans le bois même de la croix.</p>
-        <p>
-          C'était à cette vierge, connue sous le nom de Notre-Dame de Mi-Forêt, que Nicolas Treml avait dit son dernier
-          <hi>Ave</hi>
-          en quittant la terre de Bretagne qu'il n'espérait plus revoir.
-        </p>
+        <p> C'était à cette vierge, connue sous le nom de Notre-Dame de Mi-Forêt, que Nicolas Treml avait dit son dernier <hi>Ave</hi> en quittant la terre de Bretagne qu'il n'espérait plus revoir. </p>
         <p>Jude mit pied à terre devant le monument rustique, s'agenouilla et pria.</p>
         <p>Quelques minutes après, il apercevait, à travers l'épais branchage d'un bouquet de hêtres, la fumée du toit de Pelo Rouan, le charbonnier.</p>
         <p>La loge de Pelo se cachait au centre du bouquet, et s'élevait, adossée à un petit mamelon couvert de bruyères, au pied duquel il avait bâti ses fours à charbon.</p>
@@ -2000,9 +1833,8 @@
         <p>-- Approche, Jude Leker ! reprit la voix. Sois le bienvenu, bon serviteur de Treml ! Je t'attendais.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXIV -- La loge</label>
-        </p>
+
+        <head>XXIV -- La loge</head>
         <p>Nul obstacle n'empêchait plus Jude Leker de franchir le seuil de la loge. Fleur-des-Genêts, en effet, obéissant à la voix de son père, s'était mise à l'écart. Néanmoins, le vieil écuyer ne se pressait point de profiter de la permission donnée. Il demeurait immobile, à la même place, craignant un piège et se demandant quel pouvait être cet homme qui affectait de prononcer le nom de Treml avec respect.</p>
         <p>La défiance, au reste, était permise en ce temps et en ce lieu. L'intérieur de la loge avait un aspect peu attrayant et fait, au contraire, pour inspirer les soupçons. La lumière n'y pénétrait que par la basse ouverture de la porte, de telle sorte que, du dehors, tout y paraissait plongé dans une obscurité profonde.</p>
         <p>Jude était arrivé de la veille. Vingt années de captivité avaient dû changer son visage, et pourtant il y avait là, dans la nuit de cette sombre loge, un homme qui savait son nom et qui lui disait :</p>
@@ -2117,9 +1949,8 @@
         <p>-- Vous ne savez pas ce que c'est que Jean Blanc, dit le charbonnier avec une légère emphase dans la voix. Je vais vous dire où est sa force et ce qu'il peut pour le fils de Treml.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXV -- Huit hommes et un collecteur</label>
-        </p>
+
+        <head>XXV -- Huit hommes et un collecteur</head>
         <p>Les derniers mots de Pelo Rouan avaient relevé le vieil écuyer de Treml. Quand on désire ardemment, l'espoir perdu revient vite, et la simple possibilité dont parlait le charbonnier remit du courage au cœur de Jude.</p>
         <p>Il s'approcha pour ne pas perdre une parole et attendit impatiemment la confidence de Rouan.</p>
         <p>Mais celui-ci était tombé dans la rêverie et gardait le silence.</p>
@@ -2229,9 +2060,8 @@
         <p>-- Jean Blanc ne tira pas, reprit lentement le charbonnier, parce que le souvenir de Treml traversa son esprit à ce moment, et qu'il ne voulut pas anéantir, même pour venger son père, la dernière chance de connaître le sort du petit monsieur Georges.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXVI -- Un accès de haut mal</label>
-        </p>
+
+        <head>XXVI -- Un accès de haut mal</head>
         <p>La voix de Pelo Rouan avait été rauque et rudement accentuée, pendant qu'il racontait la terrible chasse de Jean Blanc dans la forêt. Sa respiration soulevait péniblement sa poitrine, et ses yeux rouges brillaient d'un effrayant éclat.</p>
         <p>Quand il vint à parler de Treml, sa voix se fit grave, et il perdit la sauvage emphase qui avait mis jusqu'alors tant d'émotion dans son récit.</p>
         <p>-- Si c'est dans l'intérêt du petit monsieur que Jean épargna Hervé de Vaunoy, on ne peut le blâmer, dit Jude ; mais le diable si je comprends comment ce triple traître pourra jamais venir en aide à la race de Treml ?</p>
@@ -2323,9 +2153,8 @@
         <p>Le mot qu'elle avait entendu était le nom de Didier.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXVII -- La première béchamelle</label>
-        </p>
+
+        <head>XXVII -- La première béchamelle</head>
         <p>Ce jour-là, Antinoüs de Béchameil, marquis de Nointel, avait résolu de frapper un coup décisif sur le cœur de sa « belle inhumaine » ; c'était ainsi qu'il appelait mademoiselle de Vaunoy.</p>
         <p>Il ne dormit guère que deux heures après son déjeuner, et gagna ensuite en toute hâte les cuisines du château de La Tremlays, où il demanda le chef à grands cris.</p>
         <p>Il n'est personne qui ne désire se montrer avec tous ses avantages aux yeux de la dame de ses pensées. Béchameil que le hasard avait fait intendant royal de l'impôt, mais qui était né marmiton de génie, s'était mis en tête de subjuguer mademoiselle de Vaunoy définitivement et d'un seul coup, à l'aide d'un blanc-manger du plus parfait mérite ; blanc-manger exquis, original, nouveau, dont Alix goûterait la première, et qui garderait le nom de cette belle personne, en l'immortalisant dans les siècles futurs.</p>
@@ -2407,9 +2236,7 @@
         <p>-- Je ne vous comprends pas ! balbutia Alix qui devint pâle et chancela.</p>
         <p>-- Si fait, mademoiselle, vous me comprenez et parfaitement. Croyez-moi, ne me forcez point à mettre les points sur les *i.*</p>
         <p>
-          <hi>-- </hi>
-          Je veux que vous vous expliquiez, au contraire, dit Alix avec effort.
-        </p>
+          <hi>-- </hi> Je veux que vous vous expliquiez, au contraire, dit Alix avec effort. </p>
         <p>-- À votre volonté. Le bon sens exquis dont vous êtes douée vous avait fait deviner tout d'abord que rien de commun ne pouvait exister entre un honnête garçon tel que moi et un enfant sans père comme le capitaine Didier. Je n'ai point de haine, en effet. Mais le sort a été injuste à mon égard : je ne suis qu'un valet ; la haine d'autrui peut devenir ma haine : et, pour gagner mes gages, je puis avoir à tirer l'épée comme si je haïssais réellement...</p>
         <p>-- Tu mens, misérable ! interrompit la jeune fille exaspérée, car elle comprenait.</p>
         <p>-- Vous savez bien que non. J'ai tué parce qu'on m'a dit : tue.</p>
@@ -2460,9 +2287,8 @@
         <p>-- Un écu pour Vaunoy !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXVIII -- Chez les Loups</label>
-        </p>
+
+        <head>XXVIII -- Chez les Loups</head>
         <p>À l'heure où Pelo Rouan faisait à Jude le récit que nous avons rapporté plus haut, un homme, enveloppé dans son manteau, descendait avec précaution la rampe du ravin de la Fosse-aux-Loups. Il jetait furtivement autour de lui des regards d'inquiétude et semblait avoir conscience d'un danger.</p>
         <p>Néanmoins il avançait toujours.</p>
         <p>Lorsqu'il parvint au fond du ravin, devant le chêne creux où Nicolas Treml avait enfoui jadis son coffret de fer, il s'arrêta pour reprendre haleine.</p>
@@ -2509,9 +2335,7 @@
         <p>Mais au moment où la face du patient passait du violet au noir par l'effet de la strangulation, un cinquième personnage bondit alors des broussailles. C'était encore un Loup.</p>
         <p>-- Arrive donc ! petit Yaumi, lui dirent ses camarades ; viens voir la dernière grimace d'une de tes connaissances.</p>
         <p>
-          <hi>Le petit</hi>
-          Yaumi, que nous avons rencontré tout à l'heure dans la loge de Pelo Rouan, était un énorme gaillard, haut de près de six pieds et membré en proportion. Il jeta un coup d'œil sur Vaunoy et le reconnut malgré la contraction hideuse de ses traits.
-        </p>
+          <hi>Le petit</hi> Yaumi, que nous avons rencontré tout à l'heure dans la loge de Pelo Rouan, était un énorme gaillard, haut de près de six pieds et membré en proportion. Il jeta un coup d'œil sur Vaunoy et le reconnut malgré la contraction hideuse de ses traits. </p>
         <p>-- Méchants blaireaux ! murmura-t-il : ils allaient le tuer comme ça sans crier gare !</p>
         <p>Et d'un revers de son grand couteau de chasse, il coupa la corde. Vaunoy tomba comme une masse et s'affaissa sur le gazon.</p>
         <p>-- Vous faisiez là de la belle besogne, reprit le petit Yaumi. Et qu'aurait dit le Maître ? Ne savez-vous pas qu'il y a quelque chose entre lui et ce vil coquin, pour qui la corde était une mort trop douce ? Le Maître est-il dans la mine ?</p>
@@ -2579,11 +2403,7 @@
         <p>-- C'est impossible ! s'écria Vaunoy, mettant désormais son va-tout sur une seule chance ; tout est manqué si dans deux heures je ne suis pas de retour à La Tremlays.</p>
         <p>-- Deux heures me suffiront, dit Yaumi.</p>
         <p>Les vieillards se consultèrent.</p>
-        <p>
-          Il faut croire que l'autorité de celui qu'on appelait
-          <hi>le Maître,</hi>
-          et qui n'était autre que le Loup Blanc, avait des proportions fort absolues, car, malgré sa violente envie de conquérir les cinq cent mille livres, la foule des Loups vint en aide à Yaumi.
-        </p>
+        <p> Il faut croire que l'autorité de celui qu'on appelait <hi>le Maître,</hi> et qui n'était autre que le Loup Blanc, avait des proportions fort absolues, car, malgré sa violente envie de conquérir les cinq cent mille livres, la foule des Loups vint en aide à Yaumi. </p>
         <p>-- N'y a pas à dire, murmurait-on de tous côtés : faut que le Maître soit averti !</p>
         <p>-- Va donc, dit Toussaint à Yaumi ; mais si, dans deux heures, tu n'es pas revenu, nous ferons à notre idée.</p>
         <p>Yaumi ne s'ébranla point encore.</p>
@@ -2617,9 +2437,8 @@
         <p>-- J'en reviens à ce que je disais, murmura Lapierre : que Dieu ait l'âme du capitaine ! Maître Alain, voici votre écu.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXIX -- Avant la lutte</label>
-        </p>
+
+        <head>XXIX -- Avant la lutte</head>
         <p>Le lendemain, le convoi des deniers de l'impôt partit de Rennes dans la matinée. Il était escorté par la maréchaussée, à la tête de laquelle chevauchait le capitaine Didier, et par une compagnie de sergents à pied.</p>
         <p>Le trajet de Rennes à La Tremlays se fit sans encombre. Tandis que les lourdes charrettes, chargées d'écus de six livres, s'embourbaient dans les fondrières de la forêt, l'attaque aurait été bien facile ; mais nulle figure hostile ou suspecte ne se montra sur la route, et c'est à peine si Jude, qui suivait le capitaine, put conjecturer deux ou trois fois aux mouvements des branches qu'il y avait un être vivant, homme ou gibier, caché sous le couvert.</p>
         <p>Les Loups dormaient ou ne se souciaient pas d'affronter les bons mousquets de la maréchaussée. À moins qu'ils n'eussent encore un autre motif de ne point se montrer.</p>
@@ -2729,9 +2548,8 @@
         <p>-- Saint-Jésus, dit-il, gare à nous ! Je le reconnais, cette fois ; nous ne sommes pas trop de quatre : c'est Jude Leker, l'ancien écuyer de Nicolas Treml !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXX -- Quatre contre un</label>
-        </p>
+
+        <head>XXX -- Quatre contre un</head>
         <p>Jude avait été introduit, comme nous l'avons dit, par la vieille femme de charge, et avait attendu son maître sur le lit de camp qui se trouvait dans un coin de la chambre.</p>
         <p>Il s'était fort étonné lorsqu'il avait vu Didier, endormi, apporté par deux valets, et son inquiétude avait redoublé ; mais il était resté coi, afin de n'être point aperçu.</p>
         <p>À plusieurs reprises, quand les valets furent partis, il appela son maître à voix basse. Celui-ci plongé dans un sommeil de plomb n'eut garde de lui répondre. Le breuvage que lui avait versé maître Alain au souper était une préparation opiacée mêlée à forte dose au vin de Guyenne, si bien apprécié par M. de Béchameil.</p>
@@ -2851,24 +2669,20 @@
         <p>La douce voix de jeune fille, comme si elle eût voulu obéir à cet ordre ironique, reprit cette partie de la complainte qui raconte les douleurs de la duchesse Constance de Bretagne, et chanta d'une voix pleine de larmes :</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Elle cherchait, dans sa détresse,</label>
-        </p>
+
+        <head>Elle cherchait, dans sa détresse,</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>La forteresse</label>
-        </p>
+
+        <head>La forteresse</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Où l'Anglais tenait enfermé</label>
-        </p>
+
+        <head>Où l'Anglais tenait enfermé</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Son bien-aimé.</label>
-        </p>
+
+        <head>Son bien-aimé.</head>
         <p>Puis elle dit encore :</p>
         <p>-- Didier ! Oh ! Didier ! où es-tu ?</p>
         <p>Le vieux majordome, réduit à l'état d'enfance par son ivresse, s'approcha curieusement de la fenêtre pour voir la chanteuse ; mais au même instant, la porte s'ouvrit, et une vive lumière inonda la chambre.</p>
@@ -2878,9 +2692,8 @@
         <p>-- Didier ! Didier !</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXXI -- Alix et Marie</label>
-        </p>
+
+        <head>XXXI -- Alix et Marie</head>
         <p>Alix de Vaunoy entra. Elle était bien changée ; son visage gardait les traces d'une cruelle souffrance. Ses yeux avaient ce regard morne et fixe que laisse après soi la brûlante exaltation de la fièvre.</p>
         <p>Au moment où le maître de La Tremlays avait donné le signal à ses quatre estafiers, Alix était couchée sur son lit de douleur et sommeillait péniblement. Autour d'elle veillaient mademoiselle Olive, sa tante, la fille de chambre Renée et une autre servante. Le fracas de l'attaque des Loups vint réveiller Alix en sursaut et frapper d'épouvante les trois femmes qui la gardaient. Mademoiselle Olive s'évanouit au premier coup de fusil, et les deux servantes s'enfuirent affolées par la frayeur.</p>
         <p>Alix demeura seule.</p>
@@ -2926,45 +2739,37 @@
         <p>Puis elle chantait parmi ses larmes :</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>Elle cherchait, dans sa détresse,</label>
-        </p>
+
+        <head>Elle cherchait, dans sa détresse,</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>La forteresse</label>
-        </p>
+
+        <head>La forteresse</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Où l'Anglais avait enfermé</label>
-        </p>
+
+        <head>Où l'Anglais avait enfermé</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Son bien-aimé.</label>
-        </p>
+
+        <head>Son bien-aimé.</head>
         <p>Alix se précipita vers la fenêtre. La voix continua :</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>La nuit venait dans l'ombre</label>
-        </p>
+
+        <head>La nuit venait dans l'ombre</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>De la tour sombre,</label>
-        </p>
+
+        <head>De la tour sombre,</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Elle disait sous le grand mur :</label>
-        </p>
+
+        <head>Elle disait sous le grand mur :</head>
       </div>
       <div type="chapter">
-        <p>
-          <label>Arthur ! Arthur !</label>
-        </p>
+
+        <head>Arthur ! Arthur !</head>
         <p>Marie ! c'est Marie ! dit Alix dont le cœur battit avec force, c'est Marie, la fiancée de Didier.</p>
         <p>Elle ouvrit la fenêtre.</p>
         <p>-- Marie ! appela-t-elle.</p>
@@ -3031,11 +2836,7 @@
         <p>Maître Alain, cependant, quelque peu dégrisé par l'apparition de la fille de son maître, était allé rendre compte à M. de Vaunoy du résultat négatif de l'attaque nocturne tentée contre la personne de Didier.</p>
         <p>Le vieux majordome eut de la peine à trouver son maître. Celui-ci avait quitté son appartement aux premiers bruits de l'attaque, avait fait seller son cheval, le cheval sur lequel Fleur-des-Genêts et Didier galopent à l'heure qu'il est dans les allées de la forêt ; puis, confiant dans les perfides mesures prises pour réduire les gens du roi à l'impuissance, il s'était rendu au-devant des Loups qu'il avait conduits, de sa personne, au hangar où les voitures chargées d'argent se trouvaient à couvert.</p>
         <p>Cela fait, il comptait enfourcher son cheval et courir d'une traite jusqu'à Rennes.</p>
-        <p>
-          Son plan, pour être extrêmement simple, n'en était que plus adroit. Didier, assassiné pendant l'attaque, passerait naturellement pour avoir succombé en défendant les fonds du fisc qui étaient à sa garde. Les Loups seuls seraient, à coup sûr, accusés de ce meurtre, et lui, Vaunoy arrivant le premier à Rennes pour porter cette nouvelle, ne serait pas le moins désolé de cette
-          <hi>catastrophe</hi>
-          qui enlevait ainsi, à la fleur de l'âge, un jeune officier de si grande espérance.
-        </p>
+        <p> Son plan, pour être extrêmement simple, n'en était que plus adroit. Didier, assassiné pendant l'attaque, passerait naturellement pour avoir succombé en défendant les fonds du fisc qui étaient à sa garde. Les Loups seuls seraient, à coup sûr, accusés de ce meurtre, et lui, Vaunoy arrivant le premier à Rennes pour porter cette nouvelle, ne serait pas le moins désolé de cette <hi>catastrophe</hi> qui enlevait ainsi, à la fleur de l'âge, un jeune officier de si grande espérance. </p>
         <p>Il n'y avait pas jusqu'à l'intrépidité connue de Didier qui ne dût ajouter une probabilité nouvelle à la version du maître de La Tremlays.</p>
         <p>Aussi ce dernier était-il parfaitement sûr de son fait. Sa seule inquiétude ou plutôt son seul désir était désormais de mettre une couple de lieues entre lui et ses récents amis les Loups dont il avait de fortes raisons de suspecter les intentions à son égard.</p>
         <p>Après avoir fait pendant deux heures de vains efforts pour échapper à la surveillance de ces dangereux compagnons, il s'était enfin esquivé et gagnait à tâtons la porte de la cour pour trouver son cheval, lorsque maître Alain et lui se heurtèrent dans l'ombre.</p>
@@ -3073,9 +2874,8 @@
         <p>Quelques minutes après, étendu sur un brancard que portaient quatre hommes, au nombre desquels il crut reconnaître deux de ses propres valets, Yvon et Corentin, masqués de fourrure, Vaunoy faisait route vers la Fosse-aux-Loups.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXXII -- La chambrette</label>
-        </p>
+
+        <head>XXXII -- La chambrette</head>
         <p>Fleur-des-Genêts soutenait de son mieux le capitaine endormi sur la selle. Elle ne voulait point s'avouer à elle-même que la fatigue l'accablait, mais elle n'était qu'une jeune fille, et ses forces défaillaient rapidement.</p>
         <p>Par bonheur, si violent que fût le narcotique administré par maître Alain, son effet ne put résister longtemps au mouvement du cheval. Au bout de quelques minutes, les membres de Didier se raidirent et son corps entier éprouva de légères convulsions.</p>
         <p>-- Didier ! s'écria joyeusement Marie, c'est moi qui vous ai sauvé !</p>
@@ -3202,9 +3002,8 @@
         <p>Il remit son costume de charbonnier, et, baisant une dernière fois la joue décolorée de Marie, il quitta la loge à son tour.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXXIII -- Le tribunal des Loups</label>
-        </p>
+
+        <head>XXXIII -- Le tribunal des Loups</head>
         <p>Deux heures après, les souterrains de la Fosse-aux-Loups présentaient un aspect inusité et vraiment solennel.</p>
         <p>Ce n'était plus ce désordre qui remplissait la caverne, la première fois que nous avons pénétré dans la retraite des Loups.</p>
         <p>Aujourd'hui, rangés avec méthode, masqués et armés comme pour un combat, ils formaient cercle, debout autour de la table des vieillards.</p>
@@ -3244,11 +3043,7 @@
         <p>Le Loup Blanc se leva.</p>
         <p>-- C'est bien, dit-il. Que Yaumi reste auprès de la corde. Vous autres, mes frères, retirez-vous.</p>
         <p>Cet ordre s'exécuta comme par enchantement. La caverne s'illumina au loin laissant d'immenses galeries souterraines et d'interminables voûtes.</p>
-        <p>
-          Les Loups s'éloignèrent de divers côtés, et bientôt leurs torches parurent comme des points lumineux dans le lointain, tandis qu'eux-mêmes, amoindris par la perspective et bizarrement éclairés au milieu de la nuit, semblaient des êtres de forme humaine, mais d'une fantastique petitesse : des
-          <hi>korriganets,</hi>
-          par exemple, les lutins des clairières, ou bien de ces étranges démons qui mènent le bal au clair de lune, sur la lande, autour des croix solitaires, et que les bonnes gens du pays de Rennes apprennent à redouter dès l'enfance sous le nom de
-          <hi>chats courtauds.</hi>
+        <p> Les Loups s'éloignèrent de divers côtés, et bientôt leurs torches parurent comme des points lumineux dans le lointain, tandis qu'eux-mêmes, amoindris par la perspective et bizarrement éclairés au milieu de la nuit, semblaient des êtres de forme humaine, mais d'une fantastique petitesse : des <hi>korriganets,</hi> par exemple, les lutins des clairières, ou bien de ces étranges démons qui mènent le bal au clair de lune, sur la lande, autour des croix solitaires, et que les bonnes gens du pays de Rennes apprennent à redouter dès l'enfance sous le nom de <hi>chats courtauds.</hi>
         </p>
         <p>Vaunoy était toujours à genoux. Le Loup Blanc descendit les marches de son trône et s'approcha de lui.</p>
         <p>-- Lève-toi, dit-il en le touchant du pied.</p>
@@ -3303,9 +3098,8 @@
         <p>Il s'était muni d'un outil pour creuser la terre.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XXXIV -- Jean Blanc</label>
-        </p>
+
+        <head>XXXIV -- Jean Blanc</head>
         <p>Quand Didier arriva au château de La Tremlays, après son entrevue avec Jean Blanc, Hervé de Vaunoy était absent. Le château gardait l'apparence d'une place prise d'assaut, et le jeune capitaine fut étonné d'apprendre ce qui s'était passé la nuit précédente.</p>
         <p>Jean Blanc et Marie ne lui avaient raconté, en effet, que ce qui se rapportait immédiatement à lui ; savoir, l'attaque nocturne, la mort de Jude et la façon dont lui, Didier, avait été sauvé.</p>
         <p>Il ne savait rien du vol des cinq cent mille livres, presque rien de l'attaque des Loups.</p>
@@ -3333,11 +3127,7 @@
         <p>Mais Alix ! Alix qui venait de le sauver ! Alix si noble et si malheureuse !</p>
         <p>Didier repoussa bien loin cette idée.</p>
         <p>Sans y songer, il prit la route de sa chambre. La porte était grande ouverte. Il entra.</p>
-        <p>
-          Sur son lit, le corps du brave écuyer Jude était étendu. Une femme, agenouillée au chevet, priait à voix haute, récitant avec lenteur les versets du
-          <hi>De Profundis.</hi>
-          C'était la dame Goton Rehou qui rendait les derniers devoirs à son vieil ami.
-        </p>
+        <p> Sur son lit, le corps du brave écuyer Jude était étendu. Une femme, agenouillée au chevet, priait à voix haute, récitant avec lenteur les versets du <hi>De Profundis.</hi> C'était la dame Goton Rehou qui rendait les derniers devoirs à son vieil ami. </p>
         <p>Didier se découvrit et continua de marcher. Au bruit des éperons, la femme de charge tourna la tête. Elle n'avait point encore aperçu le capitaine, et sa vue lui causa une émotion dont la cause restait pour elle un mystère.</p>
         <p>Didier s'arrêta près du lit ; il considéra longtemps en silence les traits de Jude auxquels la mort n'avait pu enlever leur expression de fermeté intrépide.</p>
         <p>-- Pauvre Jude ! pensa-t-il tout haut, car il avait oublié déjà la présence de la vieille femme. Dieu n'a point permis qu'il arrivât au but si ardemment souhaité. Il est mort avant d'avoir retrouvé le fils de son maître. Il est mort un jour trop tôt.</p>
@@ -3368,14 +3158,10 @@
         <p>-- Si fait, mais...</p>
         <p>-- Mais quoi ? demanda Georges avec impatience.</p>
         <p>-- Mais quoi ! répéta en aparté la vieille Goton triomphante.</p>
-        <p>
-          Il n'y eut pas jusqu'à M. l'intendant royal, qui, persuadé du bon droit du capitaine, ne se dît
-          <hi>in petto :</hi>
+        <p> Il n'y eut pas jusqu'à M. l'intendant royal, qui, persuadé du bon droit du capitaine, ne se dît <hi>in petto :</hi>
         </p>
         <p>
-          <hi>-- </hi>
-          Mais quoi ?
-        </p>
+          <hi>-- </hi> Mais quoi ? </p>
         <p>Hervé de Vaunoy reprit son sourire.</p>
         <p>-- Mon jeune ami, dit-il, l'emportement nuit parfois et ne sert jamais. À mon âge on ne parle pas à la légère. Croyez-moi : l'héritage de Nicolas Treml, dont Dieu puisse avoir l'âme loyale en son paradis, ne vous fera pas bien riche.</p>
         <p>Le capitaine sentit le rouge de l'indignation lui monter au visage. Il s'approcha de manière à n'être entendu que de Vaunoy.</p>
@@ -3454,11 +3240,7 @@
         <p>M. de Béchameil, marquis de Nointel, supporta la perte des cinq cent mille livres, ce dont le lecteur ne doit point s'affliger outre mesure, attendu que cet intendant royal en retrouvait deux fois autant, chaque année, dans la poche du roi.</p>
         <p>Georges Treml, en devenant breton, ne put perdre les sentiments d'affection et de respect qu'il croyait devoir à son souverain. Il ne fit point d'opposition à la cour de Paris ; mais il aida les pauvres gens à payer l'impôt et protégea leur travail.</p>
         <p>Ce sont des cœurs mauvais, intéressés à mal faire, ceux qui déclarent impossible la réconciliation entre le pauvre et le riche.</p>
-        <p>
-          Deux ou trois ans s'étaient à peine écoulés depuis les événements qui précèdent qu'il n'y avait plus de traces de
-          <hi>Loups</hi>
-          sous le couvert. En revanche, on voyait souvent des troupes de bonnes gens agenouillées au pied de la croix de Mi-Forêt. Ces bonnes gens remerciaient Notre-Dame qui leur avait rendu un fils de Treml, c'est-à-dire un protecteur puissant et un bienfaiteur infatigable.
-        </p>
+        <p> Deux ou trois ans s'étaient à peine écoulés depuis les événements qui précèdent qu'il n'y avait plus de traces de <hi>Loups</hi> sous le couvert. En revanche, on voyait souvent des troupes de bonnes gens agenouillées au pied de la croix de Mi-Forêt. Ces bonnes gens remerciaient Notre-Dame qui leur avait rendu un fils de Treml, c'est-à-dire un protecteur puissant et un bienfaiteur infatigable. </p>
         <p>Georges Treml de La Tremlays n'oublia pas qu'il avait été durant vingt ans Didier tout court.</p>
         <p>Grand seigneur par le sang, mais soldat de fortune, il crut avoir le droit de consulter uniquement son cœur dans le choix d'une compagne.</p>
         <p>Certes, il lui était permis de penser que son union ne souffrirait point d'obstacles. Néanmoins il s'en rencontra un, et des plus sérieux : Jean Blanc refusa péremptoirement la main de sa fille à son jeune seigneur.</p>
@@ -3483,7 +3265,7 @@
       </div>
     </body>
     <back>
-      <div type="notes"/>
+      <div type="notes" />
       <div type="notes">
         <p>[1] Valet, -- vaslet (vasselet).</p>
         <p>[2] Gentilhomme, en ce sens, n'impliquait pas toujours idée de noblesse. Racine, Voltaire lui-même, ont été gentilshommes des rois de France.</p>

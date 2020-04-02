@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA04201" xml:lang="fr">
   <teiHeader>
@@ -17,7 +17,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">41108</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -59,13 +59,13 @@
   <text>
     <body>
       <div type="chapter">
-        <p>
-          <label>I.</label>
-        </p>
+        <head>I.</head>
+        <quote type="epigraph">
         <p>Come, quando i vapori umidi e spessi</p>
         <p>A diradar cominciansi, la spera</p>
         <p>Del sol debilemente entra per essi...</p>
         <p>PURG. XVII.</p>
+        </quote>
         <p>Le grondement du fleuve monte derrière la maison. La pluie bat les carreaux depuis le commencement du jour. Une buée d'eau ruisselle sur la vitre au coin fêlé. Le jour jaunâtre s'éteint. Il fait tiède et fade dans la chambre.</p>
         <p>Le nouveau-né s'agite dans son berceau. Bien que le vieux ait laissé, pour entrer, ses sabots à la porte, son pas a fait craquer le plancher : l'enfant commence à geindre. La mère se penche hors de son lit, afin de le rassurer ; et le grand-père allume la lampe en tâtonnant, pour que le petit n'ait pas peur de la nuit. La flamme éclaire la figure rouge du vieux Jean-Michel, sa barbe blanche et rude, son air bourru et ses yeux vifs. Il vient près du berceau. Son manteau sent le mouillé ; il traîne en marchant ses gros chaussons bleus. Louisa lui fait signe de ne pas s'approcher. Elle est d'un blond presque blanc ; ses traits sont tirés ; sa douce figure mouton est marquée de taches de rousseur ; elle a des lèvres pâles et grosses, qui ne parviennent pas à se rejoindre et qui sourient avec timidité ; elle couve l'enfant des yeux -- des yeux très bleus, très vagues, où la prunelle est un point tout petit, mais infiniment tendre.</p>
         <p>L'enfant s'éveille et pleure. Son regard trouble s'agite. Quelle épouvante ! Les ténèbres, l'éclat brutal de la lampe, les hallucinations d'un cerveau à peine dégagé du chaos, la nuit étouffante et grouillante qui l'entoure, l'ombre sans fond d'où se détachent, comme des jets aveuglants de lumière, des sensations aiguës, des douleurs, des fantômes : ces figures énormes qui se penchent sur lui, ces yeux qui le pénètrent, qui s'enfoncent en lui, et qu'il ne comprend pas !... Il n'a pas la force de crier ; la terreur le cloue immobile, les yeux, la bouche ouverts, soufflant du fond de la gorge. Sa grosse tête boursouflée se plisse de grimaces lamentables et grotesques ; la peau de sa figure et de ses mains est brune, violacée, avec des taches jaunâtres...</p>
@@ -202,9 +202,7 @@
         <p>La vie se chargera vite de le mettre à la raison.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II.</label>
-        </p>
+        <head>II.</head>
         <quote type="epigraph">
           <p>L'alba vinceva l'ora mattutina</p>
           <p>Che fuggia innanzi, si che di lontano</p>
@@ -382,11 +380,11 @@
         <p>Les heures avaient passé, le soir était venu, l'escalier était dans la nuit. Des gouttes de pluie faisaient sur la robe du fleuve des cercles, que le courant entraînait en dansant. Parfois une branche d'arbre, quelques écorces noires passaient sans bruit et s'en allaient. L'araignée meurtrière s'était retirée, repue, dans le coin le plus obscur. -- Et le petit Christophe était toujours penché sur le coin du soupirail, avec sa figure pâle, barbouillée, rayonnante de bonheur. Il dormait.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III.</label>
-        </p>
+        <head>III.</head>
+        <quote type="epigraph">
         <p>E la faccia del sol nascere ombrata.</p>
         <p>PURG. XXX.</p>
+        </quote>
         <p>Il avait fallu céder, Malgré l'obstination d'une résistance héroïque, les coups avaient eu raison de sa mauvaise volonté. Tous les matins, trois heures, et trois heures, tous les soirs, Christophe était placé devant l'instrument de torture. Crispé d'attention et d'ennui, de grosses larmes coulant le long de ses joues et de son nez, il remuait sur les touches blanches et noires ses petites mains rouges, souvent gourdes de froid, sons la menace de la règle qui s'abattait à chaque fausse note, et des vociférations de son maître, qui lui étaient plus odieuses que les coups. Il pensait qu'il haïssait la musique. Il s'appliquait pourtant avec un acharnement, que la peur de Melchior ne suffisait pas à expliquer. Certains mots du grand-père avaient fait impression sur lui. Le vieux, voyant pleurer son petit-fils, lui avait dit avec gravité qu'il valait bien la peine de souffrir un peu pour le plus bel art et le plus noble qui fût donné aux hommes, pour leur consolation et pour leur gloire. Et Christophe, qui était reconnaissant à grand-père de ce qu'il lui parlait comme à un homme, avait été secrètement touché par cette naïve parole qui s'accordait avec son stoïcisme enfantin et son orgueil naissant.</p>
         <p>Mais, plus que tous les arguments, le souvenir profond de certaines émotions musicales l'arracha malgré lui, l'asservit, pour la vie, à cet art détesté, contre lequel il tentait en vain de se révolter.</p>
         <p>Il y avait dans la ville, comme c'est l'habitude en Allemagne, un théâtre qui jouait l'opéra, l'opéra-comique, l'opérette, le drame, la comédie, le vaudeville, et tout ce qui pouvait se jouer, de tous les genres et de tous les styles. Les représentations avaient lieu trois fois par semaine, de six heures à neuf heures du soir. Le vieux Jean-Michel n'en manquait pas une, et témoignait à toutes un intérêt égal. Il emmena une fois avec lui son petit-fils. Plusieurs jours à l'avance, il lui avait raconté longuement le sujet de la pièce. Christophe n'y avait rien compris ; mais il avait retenu qu'il se passerait des choses terribles ; et, tout en brûlant du désir de les voir, il en avait grand'peur. Il savait qu'il y aurait un orage, et il craignait d'être foudroyé. Il savait qu'il y aurait une bataille, et il n'était pas sûr de ne pas être tué. La veille, dans son lit, il en avait une véritable angoisse ; et, le jour de la représentation, il souhaitait presque que grand-père fût empêché de venir. Mais l'heure approchant et grand-père ne venant pas, il commençait à se désoler et regardait à tout instant par la fenêtre. Enfin le vieux parut et ils partirent ensemble. Le cœur lui sautait dans la poitrine. Il avait la langue sèche, il ne pouvait articuler une syllabe.</p>
