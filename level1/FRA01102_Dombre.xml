@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01102" xml:lang="fr">
   <teiHeader>
@@ -16,7 +16,7 @@
       </titleStmt>
       <extent>
         <measure unit="words">24998</measure>
-        
+
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -32,7 +32,7 @@
           .
         </bibl><bibl type="firstEdition">
           <date>1889</date>
-          
+
           .
         </bibl></sourceDesc>
     </fileDesc>
@@ -58,9 +58,7 @@
   <text>
     <body>
       <div type="chapter">
-        <p>
-          <label>I -- En veine de paresse</label>
-        </p>
+        <head>I -- En veine de paresse</head>
         <p>
           Verbe
           <hi>marcher</hi>
@@ -90,10 +88,10 @@
         <p>« C'est heureux, les chiens ! pensa la fillette soudain songeuse ; ça n'apprend rien, ni l'histoire, ni la grammaire, ni surtout le calcul. Oui, c'est bien heureux, les chiens ! » ajouta-t-elle dans un soupir, en jetant un regard d'envie sur la pelouse veloutée où Sapho retournait s'étendre, puis sur les beaux arbres du parc tout verts et touffus depuis quelques semaines, et sur la pièce d'eau où naviguaient les cygnes orgueilleux, leurs longs cous onduleux blancs comme la neige, plongeant gracieusement par intervalle dans l'eau bleue.</p>
         <p>Tout à coup, sous le balcon de la salle d'étude, qui était au rez-de-chaussée, apparut le bonnet de dentelle noire de Mme Milane :</p>
         <p>« Arthur ! cria-t-elle en levant sa tête rouge et animée vers les croisées du premier.</p>
-        <p>-- Qu'est-ce, ma bonne amie ? répondit une voix masculine.</p>
-        <p>-- Du vermicelle ou du riz ?</p>
-        <p>-- Ah ! c'est le jour du bouillon ? Eh bien, va pour le vermicelle, voilà deux fois qu'on nous sert le potage au riz ; et puis la petite l'aime mieux.</p>
-        <p>-- Bien ! » Et le front de la vieille dame s'abaissa et disparut bientôt dans les sous-sols, où Mme Milane élaborait avec sa cuisinière un dîner soigné.</p>
+        <p>– Qu'est-ce, ma bonne amie ? répondit une voix masculine.</p>
+        <p>– Du vermicelle ou du riz ?</p>
+        <p>– Ah ! c'est le jour du bouillon ? Eh bien, va pour le vermicelle, voilà deux fois qu'on nous sert le potage au riz ; et puis la petite l'aime mieux.</p>
+        <p>– Bien ! » Et le front de la vieille dame s'abaissa et disparut bientôt dans les sous-sols, où Mme Milane élaborait avec sa cuisinière un dîner soigné.</p>
         <p>« Bon, se dit Folla, qui avait éclipsé sa mignonne personne derrière la persienne pendant ce court colloque, voilà qu'on parle de bouillon : ça prouve que six heures approchent. Fraülen va ramener Juliette de sa leçon de piano, et je serai grondée ; aussi il n'y a pas de bon sens de me donner à faire un verbe tout entier en une fois. Et mon thème anglais, qui n'est même pas commencé. Voilà qu'on va encore me punir, et c'est demain dimanche ! Je n'ai jamais de chance, moi. Si Juliette pouvait revenir sans Fraülen, elle m'aiderait ; mais elles rentreront ensemble. Si mademoiselle pouvait avoir la migraine !... »</p>
         <p>Folla rougit aussitôt de sa mauvais pensée :</p>
         <p>« Voilà que je deviens méchante, maintenant ! Souhaiter du mal à ma maîtresse ! Je l'aime pourtant bien..., surtout quand elle ne gronde pas. Voyons, écrivons vite. »</p>
@@ -128,7 +126,7 @@
         <p>En même temps ils caressaient les deux mignonnes, surtout la petite Sophie, qui avait les yeux noirs de Mme Kernor et le sourire de son mari.</p>
         <p>Quand Gervaise fut apaisée et capable de parler et d'entendre, la jeune femme lui montra Sophie :</p>
         <p>« C'est la mienne, n'est-ce pas, nounou ? Dire qu'il y a plus d'un an que j'ai quitté mon enfant, et que j'hésite à la reconnaître.</p>
-        <p>-- La vôtre, madame, c'est celle-ci », fit Gervaise en désignant Juliette.</p>
+        <p>– La vôtre, madame, c'est celle-ci », fit Gervaise en désignant Juliette.</p>
         <p>Et elle se couvrit de nouveau le visage pour sangloter de plus belle.</p>
         <p>Vraiment, l'idée qu'on lui enlevait son nourrisson n'était point faite pour tarir ses larmes.</p>
         <p>Mme Kernor lâcha la petite Sophie pour presser Juliette contre son cœur. Celle-ci n'avait rien des Kernor, c'était vrai ; mais elle était plus frêle, plus blanche, et enfin, dans la suite, on retrouverait mieux chez elle les traits de la famille ; même, en la bien considérant, on lui découvrait une vague ressemblance avec un aïeul de M. Kernor.</p>
@@ -136,9 +134,7 @@
         <p>Et son homme ne revint jamais.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>II -- L'enfant de Gervaise</label>
-        </p>
+        <head>II -- L'enfant de Gervaise</head>
         <p>Environ un an après, le grand-père et la grand-mère Milane venaient mélancoliquement s'installer à la Seille, jolie propriété qu'ils possédaient en Dauphiné.</p>
         <p>Ils étaient tristes, car ils adoraient les enfants et ne pouvaient jouir de leur petite-fille ; leur gendre, d'un caractère un peu entier, ne sympathisait pas avec eux, et après quelques discussions pénibles la brouille s'était mise entre les deux ménages.</p>
         <p>Mme Kernor en souffrit beaucoup, mais elle ne put décider son mari à oublier sa rancune.</p>
@@ -148,8 +144,8 @@
         <p>Quand Mme Milane eut équilibré les deux plateaux de la balance et recommandé à sa cuisinière de ne pas laisser s'attacher la gelée au fond du chaudron, la bonne dame alla au vestibule, où l'attendait la visiteuse.</p>
         <p>C'était une villageoise avignonnaise, tenant dans ses bras une petite fille brune et jolie, mais chétive, qui ouvrait de grands yeux effarés.</p>
         <p>« Madame, dit la paysanne avec une brusque franchise, vous souvenez-vous de la Gervaise, qui a nourri votre petite-fille ?</p>
-        <p>-- Certainement. Comment va-t-elle, cette bonne Gervaise ?</p>
-        <p>-- Ah ! madame, faut-y qu'y ait des gens malheureux dans ce monde !... La pauvre femme n'est plus de cette vie à l'heure qu'il est. V'là sa pétioune, qu'est orpheline, péchère ; la Gervaise m'a dit comme ça de vous l'amener, que vous étiez bonne, que vous lui donneriez p't-être bien une place dans votre maison jusqu'à ce qu'elle soit en état de gagner son pain. »</p>
+        <p>– Certainement. Comment va-t-elle, cette bonne Gervaise ?</p>
+        <p>– Ah ! madame, faut-y qu'y ait des gens malheureux dans ce monde !... La pauvre femme n'est plus de cette vie à l'heure qu'il est. V'là sa pétioune, qu'est orpheline, péchère ; la Gervaise m'a dit comme ça de vous l'amener, que vous étiez bonne, que vous lui donneriez p't-être bien une place dans votre maison jusqu'à ce qu'elle soit en état de gagner son pain. »</p>
         <p>Mme Milane fut émue de cette confiance naïve. Elle attira à elle l'enfant, qui lui passa immédiatement ses petits bras autour du cou. Cette marque de tendresse spontanée mit des larmes dans les yeux de la bonne dame, qui songea soudain aux caresses de la petite Juliette, dont elle était privée.</p>
         <p>Elle alla trouver son mari, lui montra Sophie, lui conta l'affaire, et il se trouva que le même soir l'Avignonnaise quittait le château, bien reposée et restaurée, laissant en bonnes mains la fillette qui lui avait confiée.</p>
         <p>C'est ainsi que, par une sorte d'adoption qui devint plus sérieuse à mesure qu'on s'attacha davantage à elle, Sophie, autrement fit Folla ou Follette, devint l'enfant de la maison.</p>
@@ -166,27 +162,27 @@
         <p>Sans Folla, Juliette se fût ennuyée sûrement, surtout l'été, entre Mlle Cayer et ces deux vieillards qui la choyaient à qui mieux mieux, mais ne l'égayaient pas.</p>
         <p>Revenons au fameux samedi où la paresseuse, fort penaude, vit entrer à la salle d'étude son amie Juliette, par bonheur sans Fraülen.</p>
         <p>« Dis donc, Lili, fit-elle en bondissant, j'ai découvert un endroit du parc, du côté de la glacière, où nous pourrons bâtir notre maison sans être dérangées, et bon papa ne dira plus que nous abîmons le terrain.</p>
-        <p>-- Allons-y tout de suite ! Tiens, aide-moi à enfiler mon tablier.</p>
-        <p>-- C'est que... je n'ai pas fini mes devoirs, répondit Folla en baissant la tête.</p>
-        <p>-- Pas fini ? Fraülen va te gronder. »</p>
+        <p>– Allons-y tout de suite ! Tiens, aide-moi à enfiler mon tablier.</p>
+        <p>– C'est que... je n'ai pas fini mes devoirs, répondit Folla en baissant la tête.</p>
+        <p>– Pas fini ? Fraülen va te gronder. »</p>
         <p>Les petits bras nus de la coupable retombèrent le long de son sarreau de toile.</p>
         <p>« Oh ! que je suis malheureuse !</p>
-        <p>-- Et l'on te privera encore de récréation, et nous ne pourrons pas nous amuser. Tu es bête, aussi. Sais-tu que M. Walter n'était pas content de ne pas te voir arriver ? Il a dit que, si tu continues, tu ne seras jamais capable de jouer convenablement un morceau de piano, et que tu perdras tes excellentes dispositions. »</p>
+        <p>– Et l'on te privera encore de récréation, et nous ne pourrons pas nous amuser. Tu es bête, aussi. Sais-tu que M. Walter n'était pas content de ne pas te voir arriver ? Il a dit que, si tu continues, tu ne seras jamais capable de jouer convenablement un morceau de piano, et que tu perdras tes excellentes dispositions. »</p>
         <p>Folla éclata en sanglots.</p>
         <p>« Et si l'on m'enlève ma leçon de musique de mardi ! J'aimerais mieux n'avoir point de récréations jusqu'à après-demain.</p>
-        <p>-- Merci ! fit Juliette en faisant la moue ; et moi donc, avec qui jouerai-je ? Tu sais bien que je n'aime pas à m'amuser seule. Écoute : Fraülen sera longue à se déshabiller, car il fait très chaud ; je vais un peu voir tes devoirs et te dicter la suite. Passe-moi ton verbe d'abord. Mais il y a des fautes à toutes les personnes, ma pauvre Folla ! Fraülen va être en colère. Corrige toi-même, on reconnaîtrait mon écriture. »</p>
+        <p>– Merci ! fit Juliette en faisant la moue ; et moi donc, avec qui jouerai-je ? Tu sais bien que je n'aime pas à m'amuser seule. Écoute : Fraülen sera longue à se déshabiller, car il fait très chaud ; je vais un peu voir tes devoirs et te dicter la suite. Passe-moi ton verbe d'abord. Mais il y a des fautes à toutes les personnes, ma pauvre Folla ! Fraülen va être en colère. Corrige toi-même, on reconnaîtrait mon écriture. »</p>
         <p>Les petites filles se mirent à l'ouvrage, et tout était à peu près terminé et passablement fait quand leur institutrice parut.</p>
         <p>La cloche du dîner les fit s'envoler comme deux hirondelles, et elles allèrent en gazouillant se laver les mains et se faire recoiffer.</p>
         <p>À table Juliette mangea si peu, que Mme Milane s'alarma. Mlle Cayer la rassura.</p>
         <p>« Madame, c'est bien sa faute ; Juliette a mangé une demi-douzaine de gâteaux chez le pâtissier après sa leçon. Je lui ai bien dit que ça lui enlèverait l'appétit pour dîner ; mais elle n'a pas voulu m'écouter.</p>
-        <p>-- Oh ! fit la grand-mère, elle a au moins mangé ce qui lui plaisait, n'est-ce pas, mignonne ? Elle se rattrapera demain sur les choses solides.</p>
-        <p>-- Et tu n'as pas pensé à rapporter à Folla quelques friandises ? demanda M. Milane à Juliette, qui rougit.</p>
-        <p>-- Si, bon papa, j'y avais pensé, répondit-elle, et j'emporterais des biscuits pour elle, seulement... j'avais faim encore en chemin, et je les ai croqués dans la voiture pour m'occuper.</p>
-        <p>-- Voyez-vous la petite gourmande ! dit Mme Milane en embrassant la fillette, toujours placée à sa droite.</p>
-        <p>-- N'est-ce pas un peu le fait d'une égoïste ? fit observer Mlle Cayer.</p>
-        <p>-- Ma foi ! oui, dit M. Milane.</p>
-        <p>-- Bah ! reprit la grand-mère, tous les enfants sont ainsi. D'ailleurs, Folla n'en mourra pas pour se passer de biscuits, elle a tout ce qu'il faut ici ; si elle ne s'était pas fait priver de sa course en ville, cela ne serait pas arrivé.</p>
-        <p>-- Bien sûr que je n'en mourrai pas, dit gaiement Folla ; Lili a bien fait de manger ces gâteaux, si ça lui faisait plaisir. »</p>
+        <p>– Oh ! fit la grand-mère, elle a au moins mangé ce qui lui plaisait, n'est-ce pas, mignonne ? Elle se rattrapera demain sur les choses solides.</p>
+        <p>– Et tu n'as pas pensé à rapporter à Folla quelques friandises ? demanda M. Milane à Juliette, qui rougit.</p>
+        <p>– Si, bon papa, j'y avais pensé, répondit-elle, et j'emporterais des biscuits pour elle, seulement... j'avais faim encore en chemin, et je les ai croqués dans la voiture pour m'occuper.</p>
+        <p>– Voyez-vous la petite gourmande ! dit Mme Milane en embrassant la fillette, toujours placée à sa droite.</p>
+        <p>– N'est-ce pas un peu le fait d'une égoïste ? fit observer Mlle Cayer.</p>
+        <p>– Ma foi ! oui, dit M. Milane.</p>
+        <p>– Bah ! reprit la grand-mère, tous les enfants sont ainsi. D'ailleurs, Folla n'en mourra pas pour se passer de biscuits, elle a tout ce qu'il faut ici ; si elle ne s'était pas fait priver de sa course en ville, cela ne serait pas arrivé.</p>
+        <p>– Bien sûr que je n'en mourrai pas, dit gaiement Folla ; Lili a bien fait de manger ces gâteaux, si ça lui faisait plaisir. »</p>
         <p>Le repas s'acheva sans autre incident. Mme Milane s'occupait exclusivement de sa petite-fille, la servant avant tout le monde et lui choisissant les meilleurs morceaux.</p>
         <p>Après le dessert, les fillettes coururent au jardin, où les jours, très longs à ce moment, leur permettaient de jouer le soir ; elles débattirent la question de l'emplacement de leur construction ; comme toujours, Juliette imposa sa volonté, et Folla céda.</p>
         <p>À huit heures et demie, on les appela au salon. Juliette, qui aimait la lecture, prit un livre amusant, un livre très beau, présent de son bon papa, fournisseur habituel de sa bibliothèque enfantine.</p>
@@ -206,18 +202,18 @@
         <p>Or, ce dimanche, comme la chaleur était supportable, on permit aux deux petites filles d'aller à la messe à pied, tandis que les grands-parents s'y rendaient en voiture. Elles s'amusaient à gambader, leurs petites jambes nues dans leurs chaussettes roses, ou cueillaient les fleurs étiolées des haies, tandis que Mlle Cayer trottait délibérément dans la poussière en causant avec la femme du maire, qu'on avait rencontrée.</p>
         <p>Au milieu de leurs ébats, les fillettes se trouvèrent face à face avec un vieux pauvre qui leur demanda l'aumône en balbutiant des paroles bizarres.</p>
         <p>« Sauvons-nous, il est fou, murmura Juliette à l'oreille de sa sœur de lait.</p>
-        <p>-- Eh ! non, il est infirme seulement, répondit Folla, et il n'est pas du pays. »</p>
+        <p>– Eh ! non, il est infirme seulement, répondit Folla, et il n'est pas du pays. »</p>
         <p>Juliette avait dans sa poche une petite bourse bien garnie ; mais elle ne songea même pas à l'alléger en faveur du mendiant, tandis que Follette, qui n'avait pour tout bien que onze sous, vida son porte-monnaie dans la main du pauvre homme.</p>
         <p>Celui-ci, au milieu de ses bénédictions, laissa tomber son bâton ; il se courba en gémissant pour le relever, car il était perclus de rhumatismes, mais Folla le prévint et le ramassa prestement.</p>
         <p>« Comment as-tu osé toucher cette affreuse canne toute noire ? n'as-tu pas vu que cet homme a les mains très sales ? disait la petite Kernor à sa cousine comme elles couraient sur la route, les cloches sonnant à grande volée. Moi, je ne l'aurais pas touchée pour un empire !</p>
-        <p>-- Mais, Lili, il n'aurait jamais pu relever sa canne tout seul, ou bien il y aurait mis un quart d'heure, et en se faisant mal, encore.</p>
-        <p>-- Tu lui as donné tout ton argent ?</p>
-        <p>-- Oh ! il n'y en avait pas beaucoup. Heureusement que c'est demain lundi.</p>
-        <p>-- Qu'as-tu donc fait de ta semaine ? Moi, j'ai mes dix francs presque intacts.</p>
-        <p>-- Comment t'y prends-tu donc ? fit à son tour Folla, naïvement admirative.</p>
-        <p>-- Je garde mon argent, voilà tout.</p>
-        <p>-- Eh bien, moi, je ne sais pas comment je m'arrange, mais il s'en va toujours trop vite.</p>
-        <p>-- C'est bien simple, dit alors Mlle Cayer, que les enfants avaient rejointe et qui les entendait causer ; Follette dépense son argent non pour son propre agrément, mais parce qu'elle n'est point avare et qu'elle a le cœur généreux. Je sais où passe sa semaine, qui d'ailleurs n'est que de cinq francs, et d'autres pourraient le dire avec moi. Demandez à la mère Rabu comment elle a pu acheter des remèdes pour sa douloureuse maladie. Demandez à la petite Mélie pourquoi elle ne marche plus nu-pieds lorsqu'elle va à l'église, ou dans les champs quand il a beaucoup plu. Et qui est-ce qui a payé l'accordéon du petit garçon infirme qui aime tant la musique, et le châle de la brave Tevré, dont la fille est poitrinaire ? »</p>
+        <p>– Mais, Lili, il n'aurait jamais pu relever sa canne tout seul, ou bien il y aurait mis un quart d'heure, et en se faisant mal, encore.</p>
+        <p>– Tu lui as donné tout ton argent ?</p>
+        <p>– Oh ! il n'y en avait pas beaucoup. Heureusement que c'est demain lundi.</p>
+        <p>– Qu'as-tu donc fait de ta semaine ? Moi, j'ai mes dix francs presque intacts.</p>
+        <p>– Comment t'y prends-tu donc ? fit à son tour Folla, naïvement admirative.</p>
+        <p>– Je garde mon argent, voilà tout.</p>
+        <p>– Eh bien, moi, je ne sais pas comment je m'arrange, mais il s'en va toujours trop vite.</p>
+        <p>– C'est bien simple, dit alors Mlle Cayer, que les enfants avaient rejointe et qui les entendait causer ; Follette dépense son argent non pour son propre agrément, mais parce qu'elle n'est point avare et qu'elle a le cœur généreux. Je sais où passe sa semaine, qui d'ailleurs n'est que de cinq francs, et d'autres pourraient le dire avec moi. Demandez à la mère Rabu comment elle a pu acheter des remèdes pour sa douloureuse maladie. Demandez à la petite Mélie pourquoi elle ne marche plus nu-pieds lorsqu'elle va à l'église, ou dans les champs quand il a beaucoup plu. Et qui est-ce qui a payé l'accordéon du petit garçon infirme qui aime tant la musique, et le châle de la brave Tevré, dont la fille est poitrinaire ? »</p>
         <p>Folla était toute rose de confusion et de plaisir, et Juliette baissait honteusement la tête : elle avait compris la leçon.</p>
         <p>De fait, celle-ci n'était point généreuse, non peut-être par l'amour de l'or, mais parce qu'elle était égoïste, tenait à son bien, et ne se mettait jamais à la place des autres pour songer à leurs besoins.</p>
         <p>À Paris, chaque hiver, on quêtait auprès des enfants riches les vieux jouets et les vêtements hors de service ; il fallait arrêter Folla, qui voulait donner tout ce qu'elle avait, même ses poupées neuves et ses livres les plus beaux.</p>
@@ -225,9 +221,7 @@
         <p>Voilà donc nos fillettes à l'église, priant tantôt avec distraction, tantôt avec piété. Juliette était coquette : elle se savait jolie et admirée, cela ne lui déplaisait point. Quant à Folla, elle ne s'inquiétait guère de ces choses-là ; ce qui venait la distraire n'était pas la pensée que sa robe seyait bien à son petit visage, le ruban rose à ses boucles brunes, mais plutôt une grosse mouche remuante qui entrait dans le bonnet tuyauté d'une paysanne, ou bien les maladresses de l'enfant de chœur ; rien n'échappait à son œil espiègle. Mais, dès qu'elle pensait qu'on se trouvait à l'église, vite elle reprenait son livre et sa gravité.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>III -- Poulets perdus</label>
-        </p>
+        <head>III -- Poulets perdus</head>
         <p>L'après-midi, les petites filles jouaient dehors, le temps étant fort beau. Un peu avant le dîner, elles obtinrent la permission de s'amuser au bout du parc.</p>
         <p>Or, de l'autre côté de la haie, s'élevait une petite ferme appartenant à un pauvre ménage dont les enfants, « pour être moins nombreux à la niche », étaient serviteurs ou bergers dans de plus grandes métairies des environs.</p>
         <p>Ce jour-là, la mère Serriau et « son homme » étaient en violent émoi : un oiseau de proie, buse ou corbeau, on ne savait, avait jeté le désarroi dans la basse-cour ; les volailles, effarées, fuyaient de tous côtés avec des piaillements de désespoir. Cela durait depuis une heure environ. Sur les vingt-deux poulets qui composaient la basse-cour, on n'avait pu en réunir qu'une dizaine. Les autres piaulaient dans la campagne, éperdus, épouvantés.</p>
@@ -255,40 +249,38 @@
         <p>« Mais tu vas le blesser ? cria Folla, qui accourait ; attends, je vais te montrer à le porter comme il faut. »</p>
         <p>Et, enjambant sans façon la mince barrière qui défendait l'entrée du jardinet, elle enleva à l'aînée des enfants le poupon, qui cessa de crier dès qu'il se sentit dans des bras plus vigoureux et surtout plus adroits. Folla s'assit sur une pierre, tandis que le petit garçon la contemplait de ses yeux bleus étonnés, en suçant consciencieusement son pouce.</p>
         <p>« Il est bien pâlot, ton frère ; quel âge a-t-il ? demanda-t-elle à la fillette.</p>
-        <p>-- Je ne sais pas.</p>
-        <p>-- Et toi, quel âge as-tu ?</p>
-        <p>-- Quatre ans, je crois.</p>
-        <p>-- Et on te donne le petit à garder ?</p>
-        <p>-- Faut bien, la mère lave. »</p>
+        <p>– Je ne sais pas.</p>
+        <p>– Et toi, quel âge as-tu ?</p>
+        <p>– Quatre ans, je crois.</p>
+        <p>– Et on te donne le petit à garder ?</p>
+        <p>– Faut bien, la mère lave. »</p>
         <p>Par bonheur, Folla avait des dragées dans sa poche ; elle les distribua aux deux aînées, qui se jetèrent dessus, et elle fit jouer le tout petit, qui se mit à rire.</p>
         <p>« Est-elle allée bien loin, ta maman ? reprit-elle.</p>
-        <p>-- Que non ! elle va revenir. »</p>
+        <p>– Que non ! elle va revenir. »</p>
         <p>La pauvre femme disait bien toujours : « Je vais revenir, soyez sages », pour faire prendre patience aux marmots ; mais il fallait du temps pour savonner le misérable linge de la famille.</p>
         <p>Elle ne reparut qu'au bout de vingt minutes et fit de grands remerciements à la petite demoiselle du château.</p>
         <p>« Votre fille est trop jeune pour soigner un bébé de cet âge, lui dit Folla.</p>
-        <p>-- Eh ! mademoiselle, il le faut pourtant ben ; mais je ne m'absente jamais longtemps. Faut ben que les mioches s'habituent de bonne heure à se rendre utiles, mais une autre fois j'emporterai le petit et l'étendrai sur une couverture à terre, près de moi, pendant que je laverai.</p>
-        <p>-- Il n'a pas bonne mine.</p>
-        <p>-- Ma foi non, le pauvret ! Pensez donc, un enfant que j'ai dû sevrer à quatre mois.</p>
-        <p>-- Sitôt, comment le nourrissez-vous ?</p>
-        <p>-- Je lui donne le biberon, et puis la soupe quand il en veut, et des tisanes. »</p>
+        <p>– Eh ! mademoiselle, il le faut pourtant ben ; mais je ne m'absente jamais longtemps. Faut ben que les mioches s'habituent de bonne heure à se rendre utiles, mais une autre fois j'emporterai le petit et l'étendrai sur une couverture à terre, près de moi, pendant que je laverai.</p>
+        <p>– Il n'a pas bonne mine.</p>
+        <p>– Ma foi non, le pauvret ! Pensez donc, un enfant que j'ai dû sevrer à quatre mois.</p>
+        <p>– Sitôt, comment le nourrissez-vous ?</p>
+        <p>– Je lui donne le biberon, et puis la soupe quand il en veut, et des tisanes. »</p>
         <p>Folla fut prise de pitié pour le malheureux être : « Écoutez, madame Moussard, fit-elle, je dirai à bonne maman de vous donner nos anciens vêtements pour vos enfants, puis de meilleures choses à boire pour ce petit malade.</p>
-        <p>-- Vous êtes ben aimable, mademoiselle, et ça ne sera pas de refus : on a ben de la misère chez nous, et ce sera ben de la charité que de nous venir en aide. »</p>
+        <p>– Vous êtes ben aimable, mademoiselle, et ça ne sera pas de refus : on a ben de la misère chez nous, et ce sera ben de la charité que de nous venir en aide. »</p>
         <p>À son retour, quoiqu'elle eût couru à toutes jambes, Folla fut encore grondée ; car elle arrivait très en retard pour l'étude, et l'on se tourmentait à son sujet.</p>
         <p>Elle ne raconta ce qui avait causé sa fugue qu'à sa cousine, à la récréation suivante (récréation écornée pour elle), et lui fit part de son projet de demander leurs anciens vêtements à bonne maman pour les petits Moussard.</p>
         <p>« C'est que, répondit Juliette, je comptais qu'ils serviraient à nos poupées ; il y a des robes de piqué et de flanelle qui iraient si bien à Lydie, ma grande blonde.</p>
-        <p>-- Mais les petits Moussard en ont bien plus besoin que nos poupées.</p>
-        <p>-- Oui, mais cet hiver bonne maman leur en coudra ou tricotera elle-même de moins jolies.</p>
-        <p>-- Et ils attendront tout ce temps ? Non, par exemple ; garde tes affaires, à toi, pour ta Lydie, si tu veux ; moi, je demanderai les miennes à bonne maman pour les pauvres. Bonne maman a assez à travailler pour les malheureux de Paris dans son hiver.</p>
-        <p>-- Et tu as osé tenir sur tes genoux ce baby malpropre ?</p>
-        <p>-- Tiens ! l'autre lui faisait mal.</p>
-        <p>-- Et tu t'es assise dans cette cour sale, peut-être pleine de puces et de bêtes ?</p>
-        <p>-- Je ne pouvais pas leur demander de la balayer pour moi, bien sûr ! D'ailleurs je me suis lavé les mains. Laisse-moi aller trouver bonne maman. »</p>
+        <p>– Mais les petits Moussard en ont bien plus besoin que nos poupées.</p>
+        <p>– Oui, mais cet hiver bonne maman leur en coudra ou tricotera elle-même de moins jolies.</p>
+        <p>– Et ils attendront tout ce temps ? Non, par exemple ; garde tes affaires, à toi, pour ta Lydie, si tu veux ; moi, je demanderai les miennes à bonne maman pour les pauvres. Bonne maman a assez à travailler pour les malheureux de Paris dans son hiver.</p>
+        <p>– Et tu as osé tenir sur tes genoux ce baby malpropre ?</p>
+        <p>– Tiens ! l'autre lui faisait mal.</p>
+        <p>– Et tu t'es assise dans cette cour sale, peut-être pleine de puces et de bêtes ?</p>
+        <p>– Je ne pouvais pas leur demander de la balayer pour moi, bien sûr ! D'ailleurs je me suis lavé les mains. Laisse-moi aller trouver bonne maman. »</p>
         <p>Non seulement Mme Milane consentit à ce que Folla portât aux Moussard un gros paquet de vêtements encore très bons, mais elle y joignit un peu d'argent, et plusieurs boîtes de farine lactée pour le dernier petit.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IV -- En mer</label>
-        </p>
+        <head>IV -- En mer</head>
         <p>On parla d'aller aux bains de mer : Juliette grandissait beaucoup, était pâlotte ; bref, on partit. Comme M. et Mme Milane craignaient l'air frais du Nord, on s'établit à Montpellier, en dehors de la ville, sur la route de Pallavas, afin de se rendre facilement au bain chaque jour. On s'amusa beaucoup sur cette bonne petite plage méditerranéenne, assez fréquentée et cependant paisible.</p>
         <p>C'était si divertissant de courir dans l'eau salée, vêtu seulement d'un simple costume de bain, les cheveux flottant au vent du large, de s'ébattre dans la vague bleue qui vous roulait, vous emportait et vous rapportait au rivage ; puis d'apprendre à nager avec le baigneur, ce vieux marin qui aimait tant les enfants et qui leur jouait des tours, en les plongeant jusqu'au fond quand ils faisaient la grimace à l'onde froide.</p>
         <p>Et ce beau soleil qui dorait les flots ou les rougissait à l'heure du couchant, qui brunissait la peau et fortifiait le corps !</p>
@@ -305,9 +297,9 @@
         <p>« Ah ! tu pars ? fit languissamment Juliette en rouvrant les yeux au bruit de la porte. Comme je vais m'ennuyer, moi, toute seule, à présent que je n'ai plus mal ! »</p>
         <p>Aussi Mme Milane décida-t-elle que Folla resterait à la maison pour amuser la malade.</p>
         <p>« Mais, madame, dit alors Mlle Cayer outrée, il me semble que si Juliette est souffrante, c'est bien par sa faute ; ni vous ni moi n'avons pu l'empêcher de goûter aussi copieusement hier. La petite Folla, qui a été plus raisonnable, ne doit pas être privée d'un plaisir si longtemps désiré.</p>
-        <p>-- Mon Dieu ! chère mademoiselle, je ne dis pas ; mais Juliette s'ennuiera horriblement sans sa cousine, et, vous comprenez, si elle reprend la fièvre, Folla l'amusera, la distraira, lui fera la lecture.</p>
-        <p>-- Cependant, madame...</p>
-        <p>-- Je vous ferai observer, mademoiselle, que si je garde Folla à la maison, je ne la condamnerai pas à travailler ; elle aura congé et jouera avec Juliette : donc elle n'est pas à plaindre. »</p>
+        <p>– Mon Dieu ! chère mademoiselle, je ne dis pas ; mais Juliette s'ennuiera horriblement sans sa cousine, et, vous comprenez, si elle reprend la fièvre, Folla l'amusera, la distraira, lui fera la lecture.</p>
+        <p>– Cependant, madame...</p>
+        <p>– Je vous ferai observer, mademoiselle, que si je garde Folla à la maison, je ne la condamnerai pas à travailler ; elle aura congé et jouera avec Juliette : donc elle n'est pas à plaindre. »</p>
         <p>Il n'y avait plus à discuter. L'excellente Mlle Cayer embrassa tendrement Folla et partit sans adresser un regard à Juliette.</p>
         <p>Juliette, terriblement égoïste, n'intercéda pas en faveur de la pauvre Folla, privée à cause d'elle de la partie de plaisir, ni ne s'excusa auprès de la pauvre petite de lui avoir causé cette déception.</p>
         <p>Mais Folla était si bonne, qu'elle ne songea pas une minute à lui reprocher son égoïsme. Elle enleva tristement ses vêtements de sortie, et se mit en devoir de rassembler les livres et les jouets que réclamait sa cousine.</p>
@@ -318,19 +310,19 @@
         <p>Ils n'allèrent pas du côté de la mer, et, afin de lire commodément son journal, le grand-père s'assit au pied d'un arbre, sans s'inquiéter de sa petite-fille adoptive, qui courait comme une jeune poulain.</p>
         <p>Au milieu de ses ébats elle aperçut un brave paysan qu'elle connaissait pour l'avoir vu apporter quelques fruits à la maison qu'avait louée Mme Milane pour la saison.</p>
         <p>« Bonjour, père Limousin ! cria Folla de sa petite voix douce. Vous ramassez de l'herbe pour vos lapins ?</p>
-        <p>-- Oui, mam'zelle Sophie. Ça va bien ?</p>
-        <p>-- Oui, merci.</p>
-        <p>-- Et votre sœur, la petite demoiselle blonde, elle n'est pas avec vous ? (Il croyait Juliette la sœur de Sophie.)</p>
-        <p>-- Oh ! non, elle est malade.</p>
-        <p>-- Malade, mam'zelle Kernor ?</p>
-        <p>-- Oui, d'une indigestion terrible ; mais elle va mieux déjà que cette nuit.</p>
-        <p>-- Oh ! si ça n'est que ça ! Les petites demoiselles s'en donnent souvent trop à croquer des sucreries. Ça n'est pas comme ma pauvre femme, qui s'en va du mal de la mort.</p>
-        <p>-- Comment ! père Limousin ! elle est si mal que cela, votre femme ?</p>
-        <p>-- Puis qu'elle souffre rude, et que le docteur a dit comme ça que c'est inutile de lui donner des remèdes, parce que ça n'y ferait rien.</p>
-        <p>-- Comment ? il a osé dire cela ?</p>
-        <p>-- Mais oui, pourquoi pas ? Ce qui tourmente la pauvre vieille, ça n'est pas l'idée de mourir ; faut bien s'en aller un jour, et nous autres gens misérables, ça ne nous fait jamais peur ; mais c'est la pensée que j'ons tout l'ouvrage à faire et que je serons tout seul après.</p>
-        <p>-- Est-ce que je pourrais la voir, votre femme ?</p>
-        <p>-- Mon Dieu ! oui, mademoiselle, que c'est même bien de la bonté de votre part, et que ça va lui faire un plaisir ! C'est c'te maisonnette que vous voyez là, à côté du figuier. »</p>
+        <p>– Oui, mam'zelle Sophie. Ça va bien ?</p>
+        <p>– Oui, merci.</p>
+        <p>– Et votre sœur, la petite demoiselle blonde, elle n'est pas avec vous ? (Il croyait Juliette la sœur de Sophie.)</p>
+        <p>– Oh ! non, elle est malade.</p>
+        <p>– Malade, mam'zelle Kernor ?</p>
+        <p>– Oui, d'une indigestion terrible ; mais elle va mieux déjà que cette nuit.</p>
+        <p>– Oh ! si ça n'est que ça ! Les petites demoiselles s'en donnent souvent trop à croquer des sucreries. Ça n'est pas comme ma pauvre femme, qui s'en va du mal de la mort.</p>
+        <p>– Comment ! père Limousin ! elle est si mal que cela, votre femme ?</p>
+        <p>– Puis qu'elle souffre rude, et que le docteur a dit comme ça que c'est inutile de lui donner des remèdes, parce que ça n'y ferait rien.</p>
+        <p>– Comment ? il a osé dire cela ?</p>
+        <p>– Mais oui, pourquoi pas ? Ce qui tourmente la pauvre vieille, ça n'est pas l'idée de mourir ; faut bien s'en aller un jour, et nous autres gens misérables, ça ne nous fait jamais peur ; mais c'est la pensée que j'ons tout l'ouvrage à faire et que je serons tout seul après.</p>
+        <p>– Est-ce que je pourrais la voir, votre femme ?</p>
+        <p>– Mon Dieu ! oui, mademoiselle, que c'est même bien de la bonté de votre part, et que ça va lui faire un plaisir ! C'est c'te maisonnette que vous voyez là, à côté du figuier. »</p>
         <p>Folla courut, légère comme son nom, à la pauvre masure indiquée, bien indigente, en effet, et composée d'une unique pièce.</p>
         <p>Cette chambre renfermait à la fois le four à pain, le petit poêle où cuisait le dîner, une table, un banc, quelques chaises, deux armoires et un lit aux rideaux de serge.</p>
         <p>Dans un coin, quelques poules se blottissaient dans deux corbeilles chaudement couvertes.</p>
@@ -339,16 +331,16 @@
         <p>« Bonsoir, madame Limousin ! je viens vous voir », dit très doucement Folla en entrant.</p>
         <p>Et elle ouvrit de grands yeux effrayés à l'aspect de ce squelette de vieille femme allongé sous les draps de toile bise ; les bras, absolument décharnés, sortaient du lit, et la tête maigre, étroite, aux tempes enfoncées, aux yeux caves, faisait un trou dans l'oreiller recouvert d'une taie de couleur.</p>
         <p>« Vous êtes bien gentille, ma petite demoiselle, de visiter comme ça une pauvre vieille qui s'en va, même que vous ne me connaissez que pour m'avoir vue les quelques fois que j'ai porté du poisson chez vous. Ça fait du bien d'apercevoir un jeune visage.</p>
-        <p>-- Est-ce que vous souffrez beaucoup ?</p>
-        <p>-- Beaucoup ; c'est la fièvre qui me mange ; je l'ons toujours, toujours. Je ne dormons plus ni le jour ni la nuit.</p>
-        <p>-- Mangez-vous un peu ?</p>
-        <p>-- Que non ; y a ben des petites choses que je verrais sur l'assiette avec plaisir, mais je ne pouvons les acheter, c'est cher. M'en faut pourtant pas gros, mais ça ne me fait encore rien. Y a ben un autre souci qui me tourmente.</p>
-        <p>-- Quoi donc ? votre mal ?</p>
-        <p>-- Que non. Ça m'emmènera un de ces matins ; mais je vois mon pauvre homme qu'est plus vieux que moi, et qu'a tout l'ouvrage à faire, et qui se donne un tintouin ! Faut qu'i porte le manger aux bêtes, qu'i fasse sa soupe, qu'i soigne la vache, les poules, le jardin et le cochon, qu'i balaye ; et qu'encore je me faisons un mauvais sang, parce que ça n'est plus propre comme quand j'étions sur pied.</p>
-        <p>-- Mais c'est encore très propre ici, mère Limousin, et votre mari s'en tire très bien.</p>
-        <p>-- Vous croyez ? I fait bien ce qu'i peut, le pauvre. Ah ! c'est que ma maison elle était renommée dans le temps comme la plus nette du pays. Mais maintenant que je sommes malade...</p>
-        <p>-- Vous guérirez, mère Limousin.</p>
-        <p>-- Que non, ma petite demoiselle ; je sommes asthme ; et j'ons attrapé un froid par-dessus. Sans mon homme que je laissons, je serions ben contente de m'en aller. J'ons peiné toute ma vie ; j'ons supporté la gêne. On n'avait pas la misère, quoi ! mais on n'a jamais été riche ; on a travaillé dur, et on ne doit rien à personne. Le bon Dieu peut m'appeler quand il voudra, je sommes prête. »</p>
+        <p>– Est-ce que vous souffrez beaucoup ?</p>
+        <p>– Beaucoup ; c'est la fièvre qui me mange ; je l'ons toujours, toujours. Je ne dormons plus ni le jour ni la nuit.</p>
+        <p>– Mangez-vous un peu ?</p>
+        <p>– Que non ; y a ben des petites choses que je verrais sur l'assiette avec plaisir, mais je ne pouvons les acheter, c'est cher. M'en faut pourtant pas gros, mais ça ne me fait encore rien. Y a ben un autre souci qui me tourmente.</p>
+        <p>– Quoi donc ? votre mal ?</p>
+        <p>– Que non. Ça m'emmènera un de ces matins ; mais je vois mon pauvre homme qu'est plus vieux que moi, et qu'a tout l'ouvrage à faire, et qui se donne un tintouin ! Faut qu'i porte le manger aux bêtes, qu'i fasse sa soupe, qu'i soigne la vache, les poules, le jardin et le cochon, qu'i balaye ; et qu'encore je me faisons un mauvais sang, parce que ça n'est plus propre comme quand j'étions sur pied.</p>
+        <p>– Mais c'est encore très propre ici, mère Limousin, et votre mari s'en tire très bien.</p>
+        <p>– Vous croyez ? I fait bien ce qu'i peut, le pauvre. Ah ! c'est que ma maison elle était renommée dans le temps comme la plus nette du pays. Mais maintenant que je sommes malade...</p>
+        <p>– Vous guérirez, mère Limousin.</p>
+        <p>– Que non, ma petite demoiselle ; je sommes asthme ; et j'ons attrapé un froid par-dessus. Sans mon homme que je laissons, je serions ben contente de m'en aller. J'ons peiné toute ma vie ; j'ons supporté la gêne. On n'avait pas la misère, quoi ! mais on n'a jamais été riche ; on a travaillé dur, et on ne doit rien à personne. Le bon Dieu peut m'appeler quand il voudra, je sommes prête. »</p>
         <p>Folla s'en alla toute pénétrée de cette grande pensée de la mort qui en épouvante tant d'autres, et que le paysan, l'homme du travail et des privations, souvent voit approcher avec un calme si résigné.</p>
         <p>Et cette vieille qui souffrait tant, qui avait à peine le nécessaire, tandis que Juliette, l'enfant gâtée, pour avoir eu un peu mal au cœur, était comblée de soins et de remèdes, et voyait satisfaire toutes ses fantaisies !</p>
         <p>Son grand-père, la regardant s'asseoir près de lui toute songeuse, lui dit soudain en caressant ses cheveux flottants :</p>
@@ -358,9 +350,7 @@
         <p>« Tenez, cria-t-elle tout essoufflée, mère Limousin, vous pourrez avec cela vous procurer quelques douceurs. » Et elle s'enfuit radieuse. Ainsi elle n'avait point perdu sa journée.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>V -- L'homme qui revient</label>
-        </p>
+        <head>V -- L'homme qui revient</head>
         <p>Et voilà qu'à partir de ce temps un vilain oiseau noir aux ailes déployées, qui a nom le malheur, plana sur la pauvre petite Folla.</p>
         <p>Elle était pourtant bien douce et bien généreuse cette fillette. N'est-ce pas que vous l'aimez bien, notre mignonne héroïne, malgré sa paresse, qui peut-être n'est pas celui de ses défauts qui vous offusque le plus ?</p>
         <p>Un matin, les deux enfants, sous un soleil magnifique, jouaient au bord de la mer, abritées sous leurs grands chapeaux de jonc ornés d'une gaze blanche, leurs jambes nues hâlées par l'air salin.</p>
@@ -368,46 +358,44 @@
         <p>Ce n'était pas l'heure du bain ; aussi la plage était-elle à peu près déserte.</p>
         <p>Deux hommes vinrent à passer près des petites filles ; ils avaient mauvaise mine sous le feutre à larges bords qui cachait le haut de leurs visages ; leurs vêtements étaient sales et usés, et ils marchaient en traînant la jambe d'une façon bizarre.</p>
         <p>L'un d'eux poussa une exclamation soudaine : « Tiens ! fit-il d'un ton gouailleur en dévisageant Juliette Kernor, tout le portrait de la Gervaise quand elle était jeune. Et que c'était un beau brin de fille quand je l'ai épousée ! elle avait seize ans. Un peu plus luronne que ça cependant ; mais elle portait ces yeux-là, ces cheveux-là tout en l'air, et ce minois rose et blanc. Une blonde flambante ! quoi. Faut la voir maintenant ; ah ! ah ! ah ! quelle différence !</p>
-        <p>-- Allons-nous-en, dit tout bas Juliette en tirant Folla par sa robe. Ces hommes me font peur. »</p>
+        <p>– Allons-nous-en, dit tout bas Juliette en tirant Folla par sa robe. Ces hommes me font peur. »</p>
         <p>Mais l'individu de mauvaise mine se mit à rire plus fort et murmura quelques mots à l'oreille de son compagnon.</p>
         <p>« Allons donc ! c'est vrai ? fit l'autre avec une stupéfaction profonde. Mais alors, l'ami, t'as de quoi faire chanter les parents.</p>
-        <p>-- Pas encore, faut d'abord que je rejoigne la Gervaise. Ah ! ah ! on ne m'attend pas. L'homme qui revient de la Nouvelle n'est pas tout à fait tombé dans la dèche. »</p>
+        <p>– Pas encore, faut d'abord que je rejoigne la Gervaise. Ah ! ah ! on ne m'attend pas. L'homme qui revient de la Nouvelle n'est pas tout à fait tombé dans la dèche. »</p>
         <p>Il se rapprocha des deux enfants qui écoutaient sans comprendre, et prit sans façon le menton délicat de Juliette dans sa grosse patte noire et velue.</p>
         <p>« Dites-moi, ma belle petite, vous êtes chez Mme Milane, n'est-ce pas ? »</p>
         <p>Juliette se recula avec dégoût et terreur.</p>
         <p>« Laissez-moi, cria-t-elle, laissez-moi ! »</p>
         <p>L'homme éclata de rire.</p>
         <p>« Eh ! eh ! on est bien fière. De mieux en mieux. Tout à fait le regard de la Gervaise quand elle était en colère, et, ma foi ! elle s'y mettait quelquefois. Cré nom ! si l'enfant est ce que je pense, elle ne peut pas renier son sang.</p>
-        <p>-- Mais l'autre, fit le camarade en montrant Folla du doigt, quelle est-elle ?</p>
-        <p>-- La petite Kernor, parbleu ! » répondit le premier avec un geste insouciant.</p>
+        <p>– Mais l'autre, fit le camarade en montrant Folla du doigt, quelle est-elle ?</p>
+        <p>– La petite Kernor, parbleu ! » répondit le premier avec un geste insouciant.</p>
         <p>Juliette avait pris la fuite ; Folla, plus brave, demeurait, ses grands yeux noirs fixés sur l'inconnu, protégeant de ses petites mains le frêle édifice de sable qu'elle avait érigé à grand-peine.</p>
         <p>« Pourquoi restez-vous là ? qu'est-ce que vous voulez ? dit-elle aux deux individus.</p>
-        <p>-- Vous êtes bien la petite Kernor ? La dame qui est là-bas, et vers qui votre sœur de lait se réfugie en ce moment, est bien Mme Milane, de la Seille ? »</p>
+        <p>– Vous êtes bien la petite Kernor ? La dame qui est là-bas, et vers qui votre sœur de lait se réfugie en ce moment, est bien Mme Milane, de la Seille ? »</p>
         <p>L'enfant hésita, mais ces mots : « Votre sœur de lait », prouvaient que l'homme qui parlait ainsi les connaissait.</p>
         <p>Son petit cœur naïf et confiant lui suggéra l'idée que ces hommes étaient deux malheureux qui voulaient implorer la générosité de Mme Milane, et elle répondit :</p>
         <p>« Que vous importe qui je suis, moi ? Quant à cette dame qui est là-bas, elle s'appelle, en effet, Mme Milane. Si vous avez quelque chose à lui demander, allez la trouver.</p>
-        <p>-- Pas sotte, celle-ci, ma foi ! s'écria l'inconnu en riant. Non, ma mignonne, je n'ai rien à lui dire aujourd'hui. Plus tard je ne dis pas, il se peut qu'elle soit obligée de me donner gros. »</p>
+        <p>– Pas sotte, celle-ci, ma foi ! s'écria l'inconnu en riant. Non, ma mignonne, je n'ai rien à lui dire aujourd'hui. Plus tard je ne dis pas, il se peut qu'elle soit obligée de me donner gros. »</p>
         <p>Et il entraîna son compagnon, avec lequel il se mit à causer et à gesticuler vivement.</p>
         <p>Folla resta songeuse, regardant disparaître à l'horizon la silhouette traînante des deux hommes. Juliette la rejoignit, et elles recommencèrent leurs jeux.</p>
         <p>En septembre on retourna à la Seille. C'étaient encore les vacances ; les vendanges et bien des plaisirs arrivèrent, pauvres joies éphémères qui ne devaient plus revenir.</p>
         <p>En causant avec sa cousine, comme elles le faisaient souvent avant de s'endormir le soir, Juliette posa cette question à Folla :</p>
         <p>« Dis donc, si tu devenais pauvre un jour, tu serais bien malheureuse, n'est-ce pas ?</p>
-        <p>-- Ça dépend, répondit la fillette avec son adorable spontanéité, ça dépend ; si j'étais avec quelqu'un qui m'aimât et que j'aimasse, je ne serais pas à plaindre.</p>
-        <p>-- Ah ! bien moi, reprit Juliette en roulant sa tête blonde sur l'oreiller brodé, je ne pourrais jamais me passer de toutes les belles choses auxquelles je suis habituée, ni vivre dans une vilaine maison, ni manger du pain sec.</p>
-        <p>-- Ça dépend », répéta encore Follette.</p>
+        <p>– Ça dépend, répondit la fillette avec son adorable spontanéité, ça dépend ; si j'étais avec quelqu'un qui m'aimât et que j'aimasse, je ne serais pas à plaindre.</p>
+        <p>– Ah ! bien moi, reprit Juliette en roulant sa tête blonde sur l'oreiller brodé, je ne pourrais jamais me passer de toutes les belles choses auxquelles je suis habituée, ni vivre dans une vilaine maison, ni manger du pain sec.</p>
+        <p>– Ça dépend », répéta encore Follette.</p>
         <p>Et les deux mignonnes s'endormirent sans plus rêver luxe ou misère.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VI -- Ce qu'entendit Folla en dormant</label>
-        </p>
+        <head>VI -- Ce qu'entendit Folla en dormant</head>
         <p>C'était un après-midi d'automne, à cette heure où, les jours diminuant de plus en plus, le soleil décline dans le ciel déjà plus pâle.</p>
         <p>Le château était plongé dans une douce et silencieuse paix. L'air était un peu froid, mais pur et bon à respirer ; le feuillage rougi, à diverses nuances, s'agitait au moindre souffle et tombait feuille à feuille avec un bruit sec.</p>
         <p>M. Milane était allé en ville ; Mlle Cayer à vêpres, car c'était dimanche. Bonne maman gardait les petites filles tout en combinant un remède contre les crampes d'estomac. Nous avons déjà vu que bonne maman était une femme pratique. Les deux petites filles arrosaient d'arnica leur perroquet, qui s'était blessé aux barreaux de sa cage. De temps en temps un rire frais et argentin coupait l'air silencieux. Il faisait chaud dans la salle à manger, où l'on entretenait un bon feu de bois.</p>
         <p>Juliette bâilla.</p>
         <p>« Écoute, dit-elle à sa sœur de lait, Coco est bien assez pansé comme cela. Si nous jouions à autre chose ? Si Fraülen était là, elle nous raconterait une histoire ; mais les vêpres ne sont pas finies, et puis elle causera avec grand-mère en revenant. Veux-tu jouer à cache-cache ?</p>
-        <p>-- Je veux bien, répondit Folla, toujours complaisante.</p>
-        <p>-- Tu commenceras à chercher. Et, tu sais, on cherche jusqu'à ce qu'on trouve. Il n'y a pas de camp. »</p>
+        <p>– Je veux bien, répondit Folla, toujours complaisante.</p>
+        <p>– Tu commenceras à chercher. Et, tu sais, on cherche jusqu'à ce qu'on trouve. Il n'y a pas de camp. »</p>
         <p>Follette se boucha consciencieusement les yeux et les oreilles, et après avoir compté cent elle fureta un peu partout, et finit par découvrir Juliette au haut d'une armoire où bonne maman elle-même l'avait cachée.</p>
         <p>Puis ce fut au tour de Folla.</p>
         <p>« Je vais, se dit-elle, à la bibliothèque ; on ne l'ouvre jamais que pour recevoir les gens et les fermiers qui veulent parler à bon papa. Lili n'aura pas l'idée d'y venir. »</p>
@@ -418,50 +406,50 @@
         <p>Il lui semblait qu'elle avait les bras et les jambes liés, que sa langue était paralysée, et qu'elle ne pouvait sortir de son engourdissement.</p>
         <p>Il lui parut que bonne maman entrait à la bibliothèque, précédant un homme de mine équivoque, semblable à celui qu'elle avait rencontré à la grève de Palavas, sauf le chapeau crasseux, qui ne recouvrait plus son front et qu'il tenait à la main.</p>
         <p>« Que désirez-vous, mon ami ? dit Mme Milane avec complaisance, et croyant avoir affaire à un malheureux venant implorer des secours. Vous vouliez sans doute vous adresser à mon mari, mais il est absent et ne rentrera que pour dîner.</p>
-        <p>-- Ma foi, madame, je crois que vous ferez l'affaire aussi bien. Seulement j'avoue que ce que j'ai à vous dire ne va pas vous causer grand plaisir.</p>
-        <p>-- Qu'est-ce ? Est-il arrivé malheur à quelqu'un de nos amis ?</p>
-        <p>-- Je ne les connais pas, vos amis. Je veux parler d'une petite fille qui doit vivre chez vous, qui n'est pas votre parente, que vous avez adoptée. »</p>
+        <p>– Ma foi, madame, je crois que vous ferez l'affaire aussi bien. Seulement j'avoue que ce que j'ai à vous dire ne va pas vous causer grand plaisir.</p>
+        <p>– Qu'est-ce ? Est-il arrivé malheur à quelqu'un de nos amis ?</p>
+        <p>– Je ne les connais pas, vos amis. Je veux parler d'une petite fille qui doit vivre chez vous, qui n'est pas votre parente, que vous avez adoptée. »</p>
         <p>Mme Milane se troubla.</p>
         <p>« Eh bien, en quoi ce sujet peut-il vous intéresser ?</p>
-        <p>-- Il y a que l'enfant n'est pas orpheline, comme on le croit.</p>
-        <p>-- Comment ! cette bonne Gervaise, dont on m'a appris la mort, est vivante ? Voilà sept ans qu'on n'a entendu parler d'elle. J'ai passé un jour dans son pays, on m'a affirmé que la pauvre femme avait succombé à une violente fièvre.</p>
-        <p>-- La Gervaise vit encore, oui, madame. Elle a résisté au mal terrible qui a failli l'emporter ; dans un accès violent elle s'est sauvée de chez elle, puis un jour elle est revenue, seulement...</p>
-        <p>-- Seulement quoi ?</p>
-        <p>-- Elle est restée folle, complètement folle. »</p>
+        <p>– Il y a que l'enfant n'est pas orpheline, comme on le croit.</p>
+        <p>– Comment ! cette bonne Gervaise, dont on m'a appris la mort, est vivante ? Voilà sept ans qu'on n'a entendu parler d'elle. J'ai passé un jour dans son pays, on m'a affirmé que la pauvre femme avait succombé à une violente fièvre.</p>
+        <p>– La Gervaise vit encore, oui, madame. Elle a résisté au mal terrible qui a failli l'emporter ; dans un accès violent elle s'est sauvée de chez elle, puis un jour elle est revenue, seulement...</p>
+        <p>– Seulement quoi ?</p>
+        <p>– Elle est restée folle, complètement folle. »</p>
         <p>Mme Milane eut comme un soupir de soulagement.</p>
         <p>« Pauvre Gervaise ! reprit-elle ; et vous venez sans doute me prier de lui venir en aide, car sa position doit être bien misérable ? C'est juste. Alors, puisqu'elle a perdu la raison, elle ne se souvient probablement plus qu'elle a un enfant ?</p>
-        <p>-- Que si qu'elle s'en souvient. Elle le pleure tous les jours.</p>
-        <p>-- Elle doit être bien abandonnée. Je ferai des démarches pour la faire entrer dans une maison de santé où elle sera bien soignée.</p>
-        <p>-- C'est inutile, madame, la Gervaise n'est plus seule depuis quelque temps : elle a retrouvé son mari. »</p>
+        <p>– Que si qu'elle s'en souvient. Elle le pleure tous les jours.</p>
+        <p>– Elle doit être bien abandonnée. Je ferai des démarches pour la faire entrer dans une maison de santé où elle sera bien soignée.</p>
+        <p>– C'est inutile, madame, la Gervaise n'est plus seule depuis quelque temps : elle a retrouvé son mari. »</p>
         <p>Mme Milane sursauta sur son fauteuil.</p>
         <p>« Son mari ? mais je la croyais veuve.</p>
-        <p>-- C'est une erreur : elle n'a jamais été veuve, seulement elle a eu honte de son homme et l'a fait passer pour mort.</p>
-        <p>-- Mais alors...</p>
-        <p>-- N'est-ce pas que c'est bizarre ? fit l'homme en ricanant. Deux défunts qui reparaissent !</p>
-        <p>-- Est-ce que cet homme c'est le père... de... ?</p>
-        <p>-- De sa fille, naturellement, madame, de l'enfant que vous avez adoptée.</p>
-        <p>-- Et croyez-vous, reprit Mme Milane, plus hésitante encore, croyez-vous qu'il me laissera l'enfant ?</p>
-        <p>-- Pour ça, je ne puis rien vous en dire ; car c'est un bon père, répliqua l'homme en ricanant. Cependant on ne sait pas... Il n'est guère chançard, et on ne s'enrichit pas dans le pays d'où il revient.</p>
-        <p>-- Quel pays, s'il vous plaît ? demanda la vieille dame en regardant fixement son interlocuteur.</p>
-        <p>-- Ma foi ! faut voyager longtemps avant d'y arriver, mais c'est aux frais du gouvernement. »</p>
+        <p>– C'est une erreur : elle n'a jamais été veuve, seulement elle a eu honte de son homme et l'a fait passer pour mort.</p>
+        <p>– Mais alors...</p>
+        <p>– N'est-ce pas que c'est bizarre ? fit l'homme en ricanant. Deux défunts qui reparaissent !</p>
+        <p>– Est-ce que cet homme c'est le père... de... ?</p>
+        <p>– De sa fille, naturellement, madame, de l'enfant que vous avez adoptée.</p>
+        <p>– Et croyez-vous, reprit Mme Milane, plus hésitante encore, croyez-vous qu'il me laissera l'enfant ?</p>
+        <p>– Pour ça, je ne puis rien vous en dire ; car c'est un bon père, répliqua l'homme en ricanant. Cependant on ne sait pas... Il n'est guère chançard, et on ne s'enrichit pas dans le pays d'où il revient.</p>
+        <p>– Quel pays, s'il vous plaît ? demanda la vieille dame en regardant fixement son interlocuteur.</p>
+        <p>– Ma foi ! faut voyager longtemps avant d'y arriver, mais c'est aux frais du gouvernement. »</p>
         <p>Mme Milane se leva toute droite :</p>
         <p>« Comment !... le mari de Gervaise ! revenir de... de Nouméa !...</p>
-        <p>-- Comme vous le dites. Il ne s'est pas enfui. Sa peine est terminée. Huit ans, Dieu merci ! c'est bien assez, pour une méchante petite affaire. »</p>
+        <p>– Comme vous le dites. Il ne s'est pas enfui. Sa peine est terminée. Huit ans, Dieu merci ! c'est bien assez, pour une méchante petite affaire. »</p>
         <p>Mme Milane ne l'écoutait plus.</p>
         <p>« Folla ! ma pauvre petite Folla, la fille d'un...</p>
-        <p>-- Ça ne lui ôte rien de sa gentillesse, madame. Je l'ai aperçue un jour, et je l'ai reconnue rien qu'à sa ressemblance avec sa mère.</p>
-        <p>-- Sophie ne ressemble pas à Gervaise.</p>
-        <p>-- Pardon, elle est tout son portrait quand la pauvre femme était jeune. Une jolie blondine, ma foi !</p>
-        <p>-- La fille de Gervaise est brune.</p>
-        <p>-- Ah ! fit l'homme interloqué, je me serais donc trompé. Enfin, madame, s'agit pas de la couleur des cheveux de la petite. Que comptez-vous faire ?</p>
-        <p>-- De quel droit cette question ? Avant d'y répondre, je veux savoir qui vous êtes.</p>
-        <p>-- Bien volontiers, madame. Je suis tout simplement Félix Marlioux, le mari de Gervaise et le père de l'enfant que vous avez adoptée. »</p>
+        <p>– Ça ne lui ôte rien de sa gentillesse, madame. Je l'ai aperçue un jour, et je l'ai reconnue rien qu'à sa ressemblance avec sa mère.</p>
+        <p>– Sophie ne ressemble pas à Gervaise.</p>
+        <p>– Pardon, elle est tout son portrait quand la pauvre femme était jeune. Une jolie blondine, ma foi !</p>
+        <p>– La fille de Gervaise est brune.</p>
+        <p>– Ah ! fit l'homme interloqué, je me serais donc trompé. Enfin, madame, s'agit pas de la couleur des cheveux de la petite. Que comptez-vous faire ?</p>
+        <p>– De quel droit cette question ? Avant d'y répondre, je veux savoir qui vous êtes.</p>
+        <p>– Bien volontiers, madame. Je suis tout simplement Félix Marlioux, le mari de Gervaise et le père de l'enfant que vous avez adoptée. »</p>
         <p>Mme Milane était devenue très pâle et très agitée.</p>
         <p>« Écoutez, dit-elle à l'homme, dont elle s'éloigna par un mouvement de répulsion dont elle ne put être maîtresse, écoutez, je ne puis prendre aucun parti avant de m'entretenir avec M. Milane</p>
-        <p>-- Vous savez, reprit grossièrement l'ancien forçat, on s'arrangerait peut-être bien à vous laisser l'enfant pour de l'argent.</p>
-        <p>-- Alors c'est un marché que vous proposez pour votre fille ? Ce n'est pas l'amour paternel qui vous a poussé à venir me trouver, c'est l'âpre désir d'avoir de l'or en nous menaçant de reprendre votre enfant ?</p>
+        <p>– Vous savez, reprit grossièrement l'ancien forçat, on s'arrangerait peut-être bien à vous laisser l'enfant pour de l'argent.</p>
+        <p>– Alors c'est un marché que vous proposez pour votre fille ? Ce n'est pas l'amour paternel qui vous a poussé à venir me trouver, c'est l'âpre désir d'avoir de l'or en nous menaçant de reprendre votre enfant ?</p>
         <p>« Partez, fit Mme Milane avec dégoût, et revenez dans deux jours pour recevoir la réponse. Je vous avoue qu'il m'est pénible de penser que j'ai sous mon toit la fille d'un... galérien ; mais je suis prête à faire un sacrifice d'argent, pourvu que ce soit raisonnable, afin de la garder auprès de moi. À après-demain donc. Veuillez seulement ne pas ébruiter cette histoire, cela vous nuirait considérablement.</p>
-        <p>-- C'est convenu. Faut pas vous fâcher, ma petite dame, si l'on a parlé un peu rondement ; c'est pas là-bas qu'on se forme aux belles manières. »</p>
+        <p>– C'est convenu. Faut pas vous fâcher, ma petite dame, si l'on a parlé un peu rondement ; c'est pas là-bas qu'on se forme aux belles manières. »</p>
         <p>Mme Milane lui montra la porte. Félix Marlioux salua et sortit.</p>
         <p>La vieille dame, très troublée, quitta à son tour la bibliothèque.</p>
         <p>Le petite Folla, restée seule, se frotta les yeux et se secoua.</p>
@@ -481,7 +469,7 @@
         <p>À dîner, par bonheur il y avait du monde : deux ou trois convives ramenés de la ville par M. Milane. On ne fit donc pas attention à Folla, qui avait le cœur trop gros pour manger. Elle retenait ses pleurs à grand-peine, la pauvre mignonne, et se disait tout bas : « Je ne suis qu'une enfant adoptée par charité. Bonne maman, bon papa, que j'ai crus si longtemps mes parents, ne sont que mes bienfaiteurs. Je ne suis que la sœur de lait de Juliette, et non sa cousine. Que dira-t-elle, Juliette, lorsqu'elle apprendra que je suis la fille d'un... forçat et d'une folle ? Elle ne voudra peut-être plus me toucher la main. »</p>
         <p>Le soir, après dîner, Mlle Cayer raconta une histoire aux enfants. Folla l'écouta d'abord distraitement, tout entière à ses tristes pensées ; mais le conte finit par lui frapper l'esprit : il parlait d'un petit garçon trouvé, qui avait plus tard été reconnu par sa famille, et qui de pauvre était devenu riche, de malheureux bien heureux.</p>
         <p>« Mademoiselle, demanda Folla d'une voix troublée, si ç'avait été le contraire, est-ce que Pierre serait quand même retourné à ses parents, si ceux-ci avaient été pauvres et misérables, au lieu de riches et considérés, est-ce qu'il aurait dû quand même changer de position ?</p>
-        <p>-- Certainement, ma petite Folla, répondit Mlle Cayer, qui ne se doutait de rien ; un enfant doit toujours suivre ses parents, aussi bien s'ils sont indigents et méprisés, et sans rougir d'eux, à plus forte raison s'ils sont à plaindre. »</p>
+        <p>– Certainement, ma petite Folla, répondit Mlle Cayer, qui ne se doutait de rien ; un enfant doit toujours suivre ses parents, aussi bien s'ils sont indigents et méprisés, et sans rougir d'eux, à plus forte raison s'ils sont à plaindre. »</p>
         <p>Quand la nuit fut venue et que les fillettes s'étendirent dans leurs petits lits blancs, sous les rideaux soyeux, Folla se releva doucement, et, s'assurant que Juliette dormait profondément, elle souffla la veilleuse et se recoucha toute frileuse.</p>
         <p>Alors elle enfouit sa tête brune dans l'oreiller et pleura de toutes ses forces, étouffant le plus qu'elle le pouvait le bruit de ses sanglots.</p>
         <p>Le lendemain matin elle se leva toute pâle et très grave. Elle embrassa tendrement Juliette comme à l'ordinaire ; mais elle eut beau faire, elle ne put venir à bout de rire avec elle.</p>
@@ -491,9 +479,7 @@
         <p>Et cependant Folla, malgré sa préoccupation, s'était montrée d'une sagesse exemplaire. Elle n'avait ni parlé ni souri pendant la classe : elle avait su ses leçons pour la première fois depuis longtemps, et son institutrice ne savait à quoi attribuer ce changement subit.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VII -- Tes père et mère honoreras</label>
-        </p>
+        <head>VII -- Tes père et mère honoreras</head>
         <p>Il était revenu, l'homme de Pallavas, ce Félicien Marlioux qui réclamait la petite Folla comme son bien légitime, et qui cependant, pour un peu d'or, l'eût cédée volontiers à ceux qui l'avaient adoptée.</p>
         <p>
           C'est qu'il ne demanda pas seulement
@@ -506,44 +492,42 @@
         <p>Ce n'était point tâche facile, et la pauvre femme tremblait fort en attirant sur ses genoux l'enfant qu'elle avait aimée, caressée pendant sept ans, et à laquelle elle allait porter un coup terrible.</p>
         <p>Mais, à sa grande surprise, aux premiers mots qu'elle prononça, Folla l'interrompit d'un petit air tranquille qui ne lui était pas habituel :</p>
         <p>« Bonne maman... non, madame, fit-elle en se reprenant tristement, je sais déjà tout.</p>
-        <p>-- Comment ! tu sais tout ?... Ce... cet homme t'a donc parlé ? »</p>
+        <p>– Comment ! tu sais tout ?... Ce... cet homme t'a donc parlé ? »</p>
         <p>Folla raconta simplement la scène de la grève à Pallavas, puis celle de la bibliothèque, dont elle avait été l'auditrice inconsciente en jouant à cache-cache.</p>
         <p>Mme Milane ne revenait pas de la force d'âme de cette enfant, qui s'était tue pendant deux jours et n'avait rien montré de la peine cuisante qui lui déchirait le cœur.</p>
         <p>« J'ai pourtant bien du chagrin, bonne maman », conclut Folla en fondant en larmes et en cachant sa tête désolée sur l'épaule de la vieille dame.</p>
         <p>Celle-ci fut émue de tant de désespoir, et son cœur se rouvrit à l'enfant qu'elle voyait si aimante et si malheureuse.</p>
         <p>« Ma chérie, lui dit-elle, je te parle comme à une grande personne ; je te le dis tout simplement, ton père a des exigences folles. Cependant je causerai encore de tout cela avec bon papa ; nous trouverons peut-être un moyen de tout arranger.</p>
-        <p>-- Et..., demanda l'enfant en regardant fixement Mme Milane, si vous ne me rendez pas à mon père, que ferez-vous de moi ? »</p>
+        <p>– Et..., demanda l'enfant en regardant fixement Mme Milane, si vous ne me rendez pas à mon père, que ferez-vous de moi ? »</p>
         <p>Mme Milane parut embarrassée.</p>
         <p>« Je ne sais pas encore. Tu auras besoin de beaucoup travailler, ma pauvre petite ; nous te mettrions dans une bonne pension où...</p>
-        <p>-- Je ne serais plus avec Juliette ? plus avec vous ? plus à la Seille ? plus à Paris ?</p>
-        <p>-- Mon Dieu, mon enfant, tu dois comprendre que tu ferais ton éducation bien mieux à la pension qu'au milieu de nous. »</p>
+        <p>– Je ne serais plus avec Juliette ? plus avec vous ? plus à la Seille ? plus à Paris ?</p>
+        <p>– Mon Dieu, mon enfant, tu dois comprendre que tu ferais ton éducation bien mieux à la pension qu'au milieu de nous. »</p>
         <p>Folla baissa la tête ; puis, la relevant d'un air triste, mais déterminé :</p>
         <p>« Bonne maman, ce n'est pas cela qu'il faut faire. Je vous remercie beaucoup de vos généreuses intentions pour la pauvre fille de Gervaise Marlioux ; je me souviendrai toute ma vie que vous avez longtemps remplacé ma mère, que vous m'avez élevée, gâtée, soignée ; mais il ne faut pas que vous cédiez à mon père, il ne faut pas lui donner votre argent. Il ne faut pas non plus que j'aille en pension ; j'y serais très malheureuse. Songez donc, si un jour on apprenait que je suis la fille de... (ici elle baissa la tête confuse) d'un homme qui revient de... là-bas, on me le ferait sentir.</p>
-        <p>-- Mais alors tu retournerais donc volontiers chez ton père ?</p>
-        <p>-- Eh ! oui, madame, c'est ce que je dois faire. Pensez donc que ma pauvre maman est privée de raison, dans la misère peut-être ; qui est-ce qui prend soin d'elle là-bas ? Personne souvent, ou bien des mains étrangères qui ne font pas ce que ferait une parente, une fille surtout. Mon père enfin n'est pas heureux, puisqu'il est sans travail et probablement méprisé. Vous voyez bien, madame, ma place est auprès d'eux. »</p>
+        <p>– Mais alors tu retournerais donc volontiers chez ton père ?</p>
+        <p>– Eh ! oui, madame, c'est ce que je dois faire. Pensez donc que ma pauvre maman est privée de raison, dans la misère peut-être ; qui est-ce qui prend soin d'elle là-bas ? Personne souvent, ou bien des mains étrangères qui ne font pas ce que ferait une parente, une fille surtout. Mon père enfin n'est pas heureux, puisqu'il est sans travail et probablement méprisé. Vous voyez bien, madame, ma place est auprès d'eux. »</p>
         <p>Mme Milane regardait Folla avec de grands yeux stupéfaits.</p>
         <p>« Mon enfant, qui donc t'a appris ces choses-là ?</p>
-        <p>-- Personne, bonne maman ; mais j'ai beaucoup pensé depuis quelques jours. Est-ce que je n'ai pas raison ?</p>
-        <p>-- Certainement, mignonne, tu parles comme une femme ; mais si tu allais souffrir loin de nous ? »</p>
+        <p>– Personne, bonne maman ; mais j'ai beaucoup pensé depuis quelques jours. Est-ce que je n'ai pas raison ?</p>
+        <p>– Certainement, mignonne, tu parles comme une femme ; mais si tu allais souffrir loin de nous ? »</p>
         <p>Folla réfléchit un peu.</p>
         <p>« Bien sûr, bonne maman, je souffrirai, puisque je ne vous verrai plus, ni vous, ni bon papa, ni Juliette, ni Mlle Cayer, ni la Seille. Mais si ma pauvre maman venait à guérir grâce à mes soins, et si mon papa m'aime un peu, je serai bien payée. »</p>
         <p>Mme Milane la regarda avec attendrissement et l'embrassa.</p>
         <p>« Promets-moi, si tu as trop de peine chez tes parents, si l'on méconnaît ton bon cœur, si la vie t'y est trop dure, promets-moi de nous appeler, et nous te secourrons.</p>
-        <p>-- Oui », répondit la petite fille. Et, ne pouvant plus retenir les sanglots qui l'étouffaient, elle pleura avec abandon dans les bras de la vieille dame.</p>
+        <p>– Oui », répondit la petite fille. Et, ne pouvant plus retenir les sanglots qui l'étouffaient, elle pleura avec abandon dans les bras de la vieille dame.</p>
         <p>M. Milane, à qui sa femme raconta, tout émue, l'entretien qu'elle avait eu avec Folla, tenta vainement quelques efforts pour concilier les intérêts de Folla et ceux de Juliette ; il voulut même prémunir la première contre la déception qui l'attendait peut-être, en lui traçant un sombre tableau de l'existence qu'il faudrait mener sous le toit de Marlioux.</p>
         <p>L'enfant soupira, mais elle tint bon ; elle voulait remplir son devoir.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>VIII -- La derniere nuit</label>
-        </p>
+        <head>VIII -- La derniere nuit</head>
         <p>C'était un mardi, à six heures du soir, que Folla devait quitter la Seille.</p>
         <p>Félix Marlioux jura et tempêta longuement lorsqu'il vit échouer son plan, quand M. Milane lui apprit qu'il ne pouvait accepter ses conditions, et que la petite Sophie était toute décidée à rentrer chez ses parents.</p>
         <p>Il ne s'attendait pas à cela.</p>
         <p>« Bah ! pensa-t-il à la fin, emmenons toujours l'enfant, ça ne durera pas longtemps ; elle aura vite assez de sa nouvelle vie, et elle manquera ici ; on me la redemandera, et j'exigerai une plus forte somme encore. »</p>
         <p>En attendant, il joua les sentiments paternels et feignit de prendre bravement son parti. C'était pour le bien de sa fille uniquement qu'il avait parlé de la laisser à la Seille ; car enfin la pauvre petite, élevée jusqu'alors dans le duvet de cygne, allait se trouver bien dépaysée soudainement. Mais quoi ! il était père avant tout, et bien trop heureux de retrouver son enfant ; il allait enfin avoir de la gaieté autour de lui, et une petite ménagère pour faire la soupe.</p>
         <p>« Vous n'allez pas la tuer de travail, au moins, demanda Mme Milane, que ces derniers mots inquiétèrent. Songez qu'elle n'y est pas accoutumée.</p>
-        <p>-- Ah ! ma foi ! madame, riposta l'homme, faut bien qu'elle redescende à son rang. J'ai pas de quoi lui payer une servante. »</p>
+        <p>– Ah ! ma foi ! madame, riposta l'homme, faut bien qu'elle redescende à son rang. J'ai pas de quoi lui payer une servante. »</p>
         <p>Le matin du jour fixé pour le départ de Folla, Juliette et son institutrice partirent pour Paris. On prétexta qu'elles devaient s'y rendre d'avance pour faire préparer l'appartement de la rue Lafayette, M. Milane ayant encore affaire à la Seille avec ses fermiers, Mme Milane restait avec lui et même gardait Folla pour ne point trop s'ennuyer. Cette dernière clause fit bouder Juliette.</p>
         <p>« Je ne m'amuserai guère toute seule ! » murmura-t-elle.</p>
         <p>Mais on recommanda à Mlle Cayer de la conduire au cirque, à la ménagerie, au Luxembourg, bref partout où il lui plairait ; on promit tant de plaisirs à la fillette, qu'elle finit par se réjouir de retourner à Paris, même sans Folla.</p>
@@ -564,9 +548,7 @@
         <p>À la fin, sentant la fatigue la gagner, elle se glissa lentement dans le lit, à côté de sa sœur de lait, et à son tour tomba dans un lourd sommeil.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>IX -- La dernière heure</label>
-        </p>
+        <head>IX -- La dernière heure</head>
         <p>La Seille est plongée dans la mélancolie et le silence. Dans la mélancolie, parce que Juliette est partie avec Mlle Cayer ; dans le silence, parce qu'on est à l'automne, que les oiseaux ne chantent plus, et que le ciel est lugubre et lourd comme une voûte de plomb.</p>
         <p>Il est l'heure de la tombée du jour ; on attend l'arrivée de Félix Marlioux, qui va emmener sa fille.</p>
         <p>Sa fille, elle erre, la pauvre enfant, à travers ces lieux tant aimés, dont le moindre recoin lui garde un souvenir.</p>
@@ -583,34 +565,32 @@
         <p>« Tiens, dit-elle en lui remettant une petite boîte cachetée, mets ceci dans ta poche et ne le montre à personne, surtout à ton père ; conserve-la soigneusement. Si quelque jour le travail lui manque, qu'il soit malade ou qu'il faille plus de soins à ta mère ; bref, si tu te trouves dans l'embarras, tu ouvriras ton petit trésor, et n'oublie pas non plus de nous appeler à ton aide si tu es malheureuse. »</p>
         <p>Folla cacha la boîte dans sa poche ; elle est bien triste et promet de ne jamais oublier ceux qui ont été si longtemps ses parents adoptifs, de rester une bonne petite fille et de ne jamais négliger ses devoirs de chrétienne. Puis elle ajouta après un sanglot :</p>
         <p>« Madame, vous m'aimerez bien encore un peu, quand même je ne serai plus là ?</p>
-        <p>-- Mais certainement, mignonne, toujours.</p>
-        <p>-- Et Juliette ?</p>
-        <p>-- Juliette aussi, elle n'est pas oublieuse.</p>
-        <p>-- Vous ne lui direz jamais que...</p>
-        <p>-- Que... ?</p>
-        <p>-- Que je suis la fille de... de...</p>
-        <p>-- Non, je te le promets », répond Mme Milane, qui devine ce que la bouche de l'enfant n'ose proférer.</p>
+        <p>– Mais certainement, mignonne, toujours.</p>
+        <p>– Et Juliette ?</p>
+        <p>– Juliette aussi, elle n'est pas oublieuse.</p>
+        <p>– Vous ne lui direz jamais que...</p>
+        <p>– Que... ?</p>
+        <p>– Que je suis la fille de... de...</p>
+        <p>– Non, je te le promets », répond Mme Milane, qui devine ce que la bouche de l'enfant n'ose proférer.</p>
         <p>Et voilà Folla trottinant sur la route, tournant le dos au château et n'osant plus le regarder, de peur d'éclater en sanglots.</p>
         <p>L'obscurité du soir descendait lentement sur la campagne ; le vent secouait les arbres échevelés.</p>
         <p>L'homme et l'enfant, qu'il tenait par la main, passèrent devant une grande croix placée à l'angle du chemin.</p>
         <p>Le premier n'y fit point attention, mais la petite fille regarda ces grands bras du Christ ouverts sur la route et sur elle.</p>
         <p>« Mon Dieu, ayez pitié de moi, murmura-t-elle tout bas ; faites que mon papa m'aime un peu, et que maman ne soit plus folle.</p>
-        <p>-- Est-ce que je te fais peur, petite ? » demanda l'ancien forçat d'une voix presque douce.</p>
+        <p>– Est-ce que je te fais peur, petite ? » demanda l'ancien forçat d'une voix presque douce.</p>
         <p>Folla releva sur lui ses grands yeux foncés brillants et tendres :</p>
         <p>« Non, papa.</p>
-        <p>-- Ah ! poursuivit-il, tu ne vas pas trouver là-bas le luxe que tu as connu jusqu'ici.</p>
-        <p>-- Je m'en passerai très volontiers, papa ; même je serai très contente de me rendre utile ; vous verrez que je ferai une bonne petite ménagère. »</p>
+        <p>– Ah ! poursuivit-il, tu ne vas pas trouver là-bas le luxe que tu as connu jusqu'ici.</p>
+        <p>– Je m'en passerai très volontiers, papa ; même je serai très contente de me rendre utile ; vous verrez que je ferai une bonne petite ménagère. »</p>
         <p>Marlioux glissa un coup d'œil malicieux sur la petite fille brune, frêle et mince, qui trottait à côté de lui.</p>
         <p>« Tu as les mains trop fines pour les mettre à la pâte, ma petite, fit-il, et cependant il faudra faire bien des choses par toi-même.</p>
-        <p>-- Je les ferai, papa ; je suis plus forte que je n'en ai l'air, et l'on disait à la Seille que je suis adroite. »</p>
+        <p>– Je les ferai, papa ; je suis plus forte que je n'en ai l'air, et l'on disait à la Seille que je suis adroite. »</p>
         <p>Ils se rendaient à Avignon d'abord, ne devant s'installer à Endoume que la semaine suivante.</p>
         <p>Il faisait nuit noire quand ils arrivèrent à destination.</p>
         <p>Épuisée d'émotions, Folla s'était endormie en chemin de fer. Une voisine complaisante la prit des bras de son père, la déshabilla et la coucha, sans l'éveiller, dans un lit de sangle installé à la hâte dans un étroit cabinet.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>X -- La femme folle</label>
-        </p>
+        <head>X -- La femme folle</head>
         <p>Quand elle rouvrit les yeux le matin suivant, la petite fille se les frotta longuement, croyant rêver. Mais le souvenir de la réalité lui revint. Elle ne pleura point en se trouvant transportée tout à coup d'un nid coquet entre les quatre murs blanchis à la chaux d'un réduit exigu, dans un lit maigre garni de draps grossiers.</p>
         <p>Elle se leva prestement, fit sa toilette et sa prière, natta tant bien que mal sa chevelure prodigue et rebelle, et ouvrit la porte.</p>
         <p>La chambre voisine servait à la fois de cuisine et de salle à manger.</p>
@@ -623,9 +603,9 @@
         <p>Les vêtements de cette femme étaient en désordre comme sa chevelure ; ses lèvres, presque sans remuer, murmuraient une chanson monotone, et ses bras faisaient continuellement le geste de bercer un petit enfant.</p>
         <p>Folla se rapprocha timidement de Félix Marlioux :</p>
         <p>« Père, dit-elle, ce qu'elle pleure, c'est sa fille, n'est-ce pas ?</p>
-        <p>-- Oui, répondit-il machinalement.</p>
-        <p>-- Et... si elle me reconnaît, cela peut la guérir, même subitement.</p>
-        <p>-- Peut-être », fit le père en poussant doucement la fillette du côté de la folle.</p>
+        <p>– Oui, répondit-il machinalement.</p>
+        <p>– Et... si elle me reconnaît, cela peut la guérir, même subitement.</p>
+        <p>– Peut-être », fit le père en poussant doucement la fillette du côté de la folle.</p>
         <p>Lui aussi pensait cela.</p>
         <p>Ma foi ! la femme et l'enfant ne lui étaient qu'un surcroît de dépense, une lourde charge ; si Gervaise recouvrait la raison, au moins il n'aurait plus le souci du ménage.</p>
         <p>Aussi regardait-il avec une certaine anxiété la petite Sophie s'approcher de Gervaise.</p>
@@ -650,7 +630,7 @@
         <p>Il revint heureusement, un peu maussade, un peu de mauvaise humeur ; mais il donna une tape amicale à la joue de sa fille, et apportait de la viande froide, des œufs et une bouteille de vin.</p>
         <p>Folla dressa promptement trois couverts, et fit bouillir de l'eau. Après ce frugal repas, Félix Marlioux bourra sa pipe ; Gervaise retourna s'asseoir à la porte comme à l'ordinaire, en regardant la route.</p>
         <p>« Petite, dit tout à coup l'homme à la fillette, qui arrangeait la vaisselle, tu n'es pas habituée à faire si maigre chair ; tu n'as pas eu de dessert.</p>
-        <p>-- Cela ne fait rien, papa, répondit-elle, et je m'en passe très volontiers. »</p>
+        <p>– Cela ne fait rien, papa, répondit-elle, et je m'en passe très volontiers. »</p>
         <p>L'ancien forçat la regardait aller et venir, adroite et légère comme un papillon.</p>
         <p>« Laisse cela, dit-il encore, la Jantet s'en chargera ; pour trois sous par jour que je lui donne, elle balaye la maison et lave les assiettes. »</p>
         <p>Folla soupira de soulagement ; elle se prêtait bien volontiers à toutes sortes d'ouvrages, même grossiers, mais elle éprouvait une répugnance extrême à plonger ses mains dans l'eau grasse. Cette fille dévouée et courageuse gardait certaines délicatesses inhérentes à sa nature.</p>
@@ -667,9 +647,7 @@
         <p>Sophie sécha ses pleurs, et, en effet, fut si occupée pendant quarante-huit heures, qu'elle n'eut plus le temps de se livrer à sa tristesse.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XI -- Endoume</label>
-        </p>
+        <head>XI -- Endoume</head>
         <p>Le samedi soir, Marlioux emmena sa femme et sa fille. Il fallut beaucoup de peine pour décider la première à quitter la maisonnette, et tout le long du trajet elle demeura sans parole, effarouchée, presque terrifiée.</p>
         <p>Folla, vêtue de son costume le plus simple, voyageait pour la première fois en troisième classe ; certes, elle n'en était ni humiliée ni choquée, mais elle en souffrit. Son père entra en conversation avec de rustiques voyageurs dont les voix rudes sonnaient douloureusement aux oreilles délicates de l'enfant et l'empêchaient de dormir ; puis ils fumèrent, sans se soucier de la femme et de la petite fille, blotties dans leur coin.</p>
         <p>Mais cette impression pénible se dissipa à mesure qu'on approcha de Marseille ; l'aube devint moins pâle, l'atmosphère plus douce, et enfin la jolie ville, toute gaie dans le soleil du matin, sembla sourire à la petite exilée.</p>
@@ -711,9 +689,7 @@
         <p>La pauvre petite devait pourtant subir de plus dures épreuves encore.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XII -- Volée !</label>
-        </p>
+        <head>XII -- Volée !</head>
         <p>Cette vie mélancolique, mais tranquille au fond, dura environ trois mois.</p>
         <p>Intelligent et adroit ouvrier, Félix Marlioux gagnait de quoi suffire aux dépenses du ménage. Au bout de quelques mois, son humeur s'altéra, ses manières devinrent plus brusques, son langage plus cynique, son caractère inégal.</p>
         <p>Folla remarqua que ce changement data du jour où il reçut un ami (l'homme qui accompagnait Félix Marlioux à Pallavas l'an passé). À cet ami vint se joindre un autre, puis un autre.</p>
@@ -745,9 +721,9 @@
         <p>Quand Folla rentra et voulut puiser dans sa boîte pour aller acheter de quoi souper, elle poussa un cri de détresse en trouvant la serrure de sa malle forcée, ses effets éparpillés, jusqu'aux cordes de sa guitare brisées ; quant à l'argent, il avait disparu.</p>
         <p>Gervaise surgit derrière elle.</p>
         <p>« C'est lui ! dit-elle en montrant la porte ouverte.</p>
-        <p>-- Qui, lui ? un voleur ?</p>
-        <p>-- Oui, un voleur, répondit la folle dans un rire sinistre ; c'est lui, te dis-je, lui, Félix...</p>
-        <p>-- Mon père ?... » fit l'enfant avec effroi.</p>
+        <p>– Qui, lui ? un voleur ?</p>
+        <p>– Oui, un voleur, répondit la folle dans un rire sinistre ; c'est lui, te dis-je, lui, Félix...</p>
+        <p>– Mon père ?... » fit l'enfant avec effroi.</p>
         <p>Gervaise se redressa et dit avec force :</p>
         <p>« Il n'est pas ton père ; tu sais bien qu'il n'est pas ton père, et moi, je ne suis pas ta mère, heureusement pour toi, pauvre petite ! » ajouta-t-elle en hochant sa tête grise.</p>
         <p>Et, cette fois encore, dans le cœur de Folla se glissa un doute bizarre.</p>
@@ -770,9 +746,7 @@
         <p>Et cela la désespéra tout à fait.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIII -- Rencontre</label>
-        </p>
+        <head>XIII -- Rencontre</head>
         <p>Un après-midi de mars, Folla n'avait pas été à l'école ; ses vêtements usés lui attiraient trop de quolibets et de méchancetés de ses compagnes ; sa maîtresse ne l'aimait pas, et nul ne prenait intérêt à ses progrès. D'ailleurs elle n'avait pas le cœur au travail, non plus qu'au jeu.</p>
         <p>Elle alla sur la route où passent les tramways, les omnibus et même les équipages ; devant elle, elle avait ce blanc chemin de la Corniche serpentant au bord du golfe bleu, derrière elle la mer d'azur semée de voiles claires.</p>
         <p>Elle s'accouda au parapet de pierre, sa petite tête amaigrie et triste appuyée sur sa main, et elle songea.</p>
@@ -811,9 +785,7 @@
         <p>Certes, toute autre enfant de son âge eût pu franchir cette distance en s'imposant une fatigue ; mais c'était plus pénible encore pour la pauvre fillette, qui était à jeun et fort affaiblie par les privations qu'elle endurait depuis longtemps.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XIV -- En route</label>
-        </p>
+        <head>XIV -- En route</head>
         <p>Elle suivit le bord de la mer jusqu'au rond-point des Catalans, tourna à gauche, puis droit devant elle, boulevard de la Corderie.</p>
         <p>Au carrefour Notre-Dame, elle demanda la route qu'il fallait prendre ; elle était si rarement sortie d'Endoume ! On lui indiqua la rue Grignan.</p>
         <p>Dieu ! qu'elle était lasse ! Ses petits jambes fléchissaient sous elle, la tête lui tournait, et elle fermait les yeux en passant devant les boutiques des boulangers, pour ne pas apercevoir les petits pains dorés alignés dans la montre.</p>
@@ -821,27 +793,27 @@
         <p>Hôtels de Genève, de Rome, de Marseille, on lui répondit négativement. Elle remonta les allées de Meilhan, et, à bout d'énergie, vint échouer au seuil du bel établissement qui commence l'avenue Noailles.</p>
         <p>Le suisse qui gardait la porte repoussa cette fillette mal vêtue, dont l'aspect misérable semblait indiquer une mendiante ; mais elle se redressa suppliante :</p>
         <p>« Laissez-moi entrer au bureau, monsieur ; je veux demander si M. et Mme Milane sont ici.</p>
-        <p>-- M. et Mme Milane ? fit l'homme, un peu radouci ; qui est-ce ?</p>
-        <p>-- Un monsieur un peu gros avec des cheveux blancs, et une dame toujours habillée de noir avec une figure colorée. Ils ont avec eux une petite fille de ma taille à peu près, bien jolie, avec des cheveux blond cendré.</p>
-        <p>-- Attendez ! Est-ce qu'elle ne s'appelle pas Juliette, la petite demoiselle ?</p>
-        <p>-- Oui, justement, répondit Folla, dont les yeux noirs brillaient de joie, et qui eût sauté d'allégresse si elle en eût eu la force. Ils sont ici, alors ?</p>
-        <p>-- Ah ! mais attendez, ma petite, je crois qu'ils sont partis.</p>
-        <p>-- Partis... » Dans son découragement, elle laissa tomber la lettre qu'elle tenait à la main, et deux larmes montèrent lentement à ses paupières.</p>
+        <p>– M. et Mme Milane ? fit l'homme, un peu radouci ; qui est-ce ?</p>
+        <p>– Un monsieur un peu gros avec des cheveux blancs, et une dame toujours habillée de noir avec une figure colorée. Ils ont avec eux une petite fille de ma taille à peu près, bien jolie, avec des cheveux blond cendré.</p>
+        <p>– Attendez ! Est-ce qu'elle ne s'appelle pas Juliette, la petite demoiselle ?</p>
+        <p>– Oui, justement, répondit Folla, dont les yeux noirs brillaient de joie, et qui eût sauté d'allégresse si elle en eût eu la force. Ils sont ici, alors ?</p>
+        <p>– Ah ! mais attendez, ma petite, je crois qu'ils sont partis.</p>
+        <p>– Partis... » Dans son découragement, elle laissa tomber la lettre qu'elle tenait à la main, et deux larmes montèrent lentement à ses paupières.</p>
         <p>Le suisse fut pris de pitié en la voyant si pâle et consternée.</p>
         <p>« Restez là, dit-il, je vais l'en assurer, car je puis me tromper. »</p>
         <p>Il courut au bureau, et en revint promptement.</p>
         <p>« Je faisais erreur, reprit-il, M. et Mme Milane n'ont pas quitté la ville, mais ils sont absents depuis ce matin.</p>
-        <p>-- Alors, mon bon monsieur, vous seriez si obligeant de leur remettre ce papier quand ils rentreront. Vous ne l'oublierez point, n'est-ce pas ?</p>
-        <p>-- Non, fit l'homme en prenant la lettre et en examinant curieusement l'enfant. Où allez-vous donc comme cela ?</p>
-        <p>-- À Endoume.</p>
-        <p>-- Vous savez où l'on prend l'omnibus, là, au bout de la Cannebière.</p>
-        <p>-- Je vous remercie, monsieur, mais je ne le prendrai pas...</p>
-        <p>-- Quoi ! à pied ?</p>
-        <p>-- Oui. »</p>
+        <p>– Alors, mon bon monsieur, vous seriez si obligeant de leur remettre ce papier quand ils rentreront. Vous ne l'oublierez point, n'est-ce pas ?</p>
+        <p>– Non, fit l'homme en prenant la lettre et en examinant curieusement l'enfant. Où allez-vous donc comme cela ?</p>
+        <p>– À Endoume.</p>
+        <p>– Vous savez où l'on prend l'omnibus, là, au bout de la Cannebière.</p>
+        <p>– Je vous remercie, monsieur, mais je ne le prendrai pas...</p>
+        <p>– Quoi ! à pied ?</p>
+        <p>– Oui. »</p>
         <p>L'homme toisa la fillette ; sous ses vêtements usés elle avait bon air, la pauvre mignonne, et son joli petit visage, son corps émacié, gardaient une distinction naturelle.</p>
         <p>Elle rougit sous ce regard ; il lui en coûtait d'avouer qu'elle n'avait pas même cinq sous dans sa poche pour payer l'omnibus.</p>
         <p>« C'est bien loin pour vous, reprit le suisse.</p>
-        <p>-- Aussi vais-je repartir tout de suite, pour ne pas être prise en route par la nuit. Je vous remercie, monsieur, et je vous recommande mon billet. »</p>
+        <p>– Aussi vais-je repartir tout de suite, pour ne pas être prise en route par la nuit. Je vous remercie, monsieur, et je vous recommande mon billet. »</p>
         <p>Elle reprit sa course hâtive ; elle n'avait pu voir ses anciens amis ; mais au moins elle avait découvert leur adresse et pu remettre sa lettre ; c'était une consolation, un espoir pour son pauvre petit cœur meurtri.</p>
         <p>« Viendront-ils ? » se demandait-elle douloureusement. « Et s'ils ne me répondaient pas ? Oh ! je crois que cette fois je mourrais de chagrin. »</p>
         <p>Elle trottait le plus vite possible, car la nuit tombait, et elle aurait peur sur la route d'Endoume, souvent déserte le soir ou fréquentée par les gens de l'endroit, pour la plupart mauvais ouvriers et méchants Italiens.</p>
@@ -859,20 +831,18 @@
         <p>Folla reçut le coup sans pousser un cri ; déjà affaiblie par son long jeûne et par sa course affolée, elle ne put supporter cette dernière émotion et tomba, privée de sentiment. La folle demeura auprès d'elle, murmurant d'incohérentes paroles et tâtonnant dans l'ombre pour retrouver son châle.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XV -- Scène dramatique</label>
-        </p>
+        <head>XV -- Scène dramatique</head>
         <p>Le galop d'un cheval se fit entendre à cet instant.</p>
         <p>« C'est là, ce doit être là », dit une voix.</p>
         <p>La voiture s'arrêta devant la maison des Marlioux ; trois personnages en descendirent.</p>
         <p>« On n'y voit pas, murmura une autre voix. Arthur, entrez donc, je vous prie, vous nous direz s'il y a quelqu'un.</p>
-        <p>-- Personne, ma bonne amie, pas un chat. Ma foi ! ce n'est pas de chance ; à moins que cette pauvre petite Sophie ne soit pas encore de retour, ce qui serait bien possible, car nous sommes partis au reçu de son billet, et notre voiture a dû filer plus vite que le tramway. Au moins devrait-il y avoir Gervaise ou son mari. »</p>
+        <p>– Personne, ma bonne amie, pas un chat. Ma foi ! ce n'est pas de chance ; à moins que cette pauvre petite Sophie ne soit pas encore de retour, ce qui serait bien possible, car nous sommes partis au reçu de son billet, et notre voiture a dû filer plus vite que le tramway. Au moins devrait-il y avoir Gervaise ou son mari. »</p>
         <p>Soudain une exclamation retentit : Mme Milane (car vous avez deviné quels sont les nouveaux venus) avait aperçu, à la lueur des lanternes, la silhouette maigre d'une femme qui surgissait de l'ombre, auprès d'un petit corps allongé à terre.</p>
         <p>Tous trois se précipitèrent de ce côté :</p>
         <p>« Folla ! » s'écrièrent-ils.</p>
         <p>La tête échevelée et pâle de l'enfant était renversée dans la boue, et elle ne donnait pas signe de vie. Juliette la considérait toute tremblante, et sentait un grand remords lui mordre le cœur.</p>
         <p>« Est-ce qu'elle est morte, bonne maman, dit-elle, la voix pleine de larmes, en tirant Mme Milane par sa robe.</p>
-        <p>-- Mon Dieu ! murmurait celle-ci sans répondre à sa petite-fille, voilà donc comme nous la retrouvons ! voilà donc ce qu'ils ont fait de notre pauvre oiseau rieur, si gai, si gentil ! Pauvre ange ! comme elle a dû souffrir ! »</p>
+        <p>– Mon Dieu ! murmurait celle-ci sans répondre à sa petite-fille, voilà donc comme nous la retrouvons ! voilà donc ce qu'ils ont fait de notre pauvre oiseau rieur, si gai, si gentil ! Pauvre ange ! comme elle a dû souffrir ! »</p>
         <p>M. Milane souleva Folla dans ses bras et l'emporta dans la pauvre demeure, où, grâce aux allumettes qui se trouvaient dans sa poche, on put faire de la lumière.</p>
         <p>Alors ils purent voir le dénuement de ce logis misérable : rien sur le poêle, rien dans le garde-manger, presque plus de meubles dans les chambres, car Marlioux avait dépouillé sa demeure au profit du mont-de-piété.</p>
         <p>Dans l'étroit cabinet où couchait Folla se voyait son lit, qui n'avait pas été refait depuis plusieurs jours, et qui, creusé au milieu, gardait la trace du petit corps qui y cherchait vainement un peu de repos et de chaleur.</p>
@@ -894,23 +864,23 @@
         <p>« Un jour (elles étaient bien petites alors les deux mignonnes), dans un accès de colère, mon mari brisa un base de verre dont les éclats blessèrent ma fille au-dessus du pied. J'ai fermé la blessure, mais la marque est restée, et j'en bénis le Ciel, puisqu'elle me permet de reconnaître mon enfant. »</p>
         <p>Folla écoutait avidement, les lèvres entrouvertes, les yeux démesurément agrandis... Si c'était vrai, ce que cette femme disait !</p>
         <p>« Voyons, dit M. Milane en intervenant, il ne faut pas prononcer de telles choses à la légère, madame Gervaise. Ce que vous avancez là est grave ; savez-vous que, pour un rapt d'enfant, car enfin on ne peut guère qualifier autrement votre conduite passée, il y va de la prison ?</p>
-        <p>-- Je le sais, monsieur, répliqua Gervaise avec énergie en se relevant ; qu'on m'envoie en prison si l'on veut, mais qu'on me laisse ma fille, ma Sophie, mon enfant ! Mais regardez donc si elle n'est pas mienne : elle me ressemble ; c'est moi à quinze ans ; la vôtre n'a rien de moi.</p>
-        <p>-- Gervaise a raison, dit tout à coup une voix masculine ; l'enfant avait au pied la cicatrice d'une blessure que je lui avais faite dans un accès de colère, je me le rappelle. Cré nom ! ma femme me l'a-t-elle assez reproché ! Elle ne se doutait pas que cela servirait si bien un jour. Seulement je ferai observer que la petite ne se montre pas très empressée à embrasser ses parents, perdus depuis si longtemps ; l'autre était moins demoiselle, je crains que nous ne perdions à l'échange. »</p>
+        <p>– Je le sais, monsieur, répliqua Gervaise avec énergie en se relevant ; qu'on m'envoie en prison si l'on veut, mais qu'on me laisse ma fille, ma Sophie, mon enfant ! Mais regardez donc si elle n'est pas mienne : elle me ressemble ; c'est moi à quinze ans ; la vôtre n'a rien de moi.</p>
+        <p>– Gervaise a raison, dit tout à coup une voix masculine ; l'enfant avait au pied la cicatrice d'une blessure que je lui avais faite dans un accès de colère, je me le rappelle. Cré nom ! ma femme me l'a-t-elle assez reproché ! Elle ne se doutait pas que cela servirait si bien un jour. Seulement je ferai observer que la petite ne se montre pas très empressée à embrasser ses parents, perdus depuis si longtemps ; l'autre était moins demoiselle, je crains que nous ne perdions à l'échange. »</p>
         <p>Félix Marlioux était entré pendant cette scène sans qu'on fît attention à lui ; il avait tout entendu, et intervenait à son tour.</p>
         <p>On se souvient d'ailleurs qu'il avait trouvé une ressemblance frappante entre Gervaise et Juliette, en la rencontrant à Pallavas.</p>
         <p>« Allons, petite, poursuivit-il en s'adressant à cette dernière, viens tendre la joue à papa. Eh bien ! nous sommes fière ?... tant pis ! »</p>
         <p>Juliette, vers laquelle il s'avançait, poussa un cri de terreur et enfouit sa tête blonde désespérée dans la robe de Mme Milane.</p>
         <p>« À moi ! mais viens donc à moi ! criait Gervaise en lui tendant les bras ; tu ne peux me repousser, moi, tu ne peux avoir peur de ta mère.</p>
-        <p>-- Prenez patience, Gervaise, dit Mme Milane avec autorité, l'enfant a été trop brusquement surprise ; laissez-la reprendre un peu ses esprits.</p>
-        <p>-- Ah ! madame, répliqua Gervaise en s'essuyant les yeux, je crains bien que ma Sophie à moi ne vaille pas votre petite-fille, celle que vous appelez Folla ! Il n'y a pas au monde d'enfant meilleure, plus délicate, plus oublieuse d'elle-même. À présent que la raison m'est revenue, je me souviens ; je puis dire avec quel dévouement elle a pris soin de moi, de moi qu'elle croyait sa mère et qui ne voulais pas l'appeler ma fille. Pauvre ange ! a-t-elle souffert ! Que voulez-vous, madame ! je pensais que ce n'était pas la mienne. Gardez-la bien, soignez-la bien, votre Folla ; vous lui devez beaucoup d'amour, presque une réparation, car elle a bien pâti chez nous. »</p>
+        <p>– Prenez patience, Gervaise, dit Mme Milane avec autorité, l'enfant a été trop brusquement surprise ; laissez-la reprendre un peu ses esprits.</p>
+        <p>– Ah ! madame, répliqua Gervaise en s'essuyant les yeux, je crains bien que ma Sophie à moi ne vaille pas votre petite-fille, celle que vous appelez Folla ! Il n'y a pas au monde d'enfant meilleure, plus délicate, plus oublieuse d'elle-même. À présent que la raison m'est revenue, je me souviens ; je puis dire avec quel dévouement elle a pris soin de moi, de moi qu'elle croyait sa mère et qui ne voulais pas l'appeler ma fille. Pauvre ange ! a-t-elle souffert ! Que voulez-vous, madame ! je pensais que ce n'était pas la mienne. Gardez-la bien, soignez-la bien, votre Folla ; vous lui devez beaucoup d'amour, presque une réparation, car elle a bien pâti chez nous. »</p>
         <p>Et Gervaise se mit à raconter avec feu quelle était la vie de l'enfant pendant les mois passés, et comme elle supportait patiemment toutes sortes de douleurs.</p>
         <p>Enfin on pensa à caresser Folla, à la couvrir de baisers, à lui demander pardon de l'avoir négligée involontairement.</p>
         <p>Mais elle était si affaiblie, qu'elle ne pouvait répondre aux démonstrations affectueuses qui lui étaient prodiguées.</p>
         <p>On s'aperçut alors de sa pâleur et de son silence.</p>
         <p>« Qu'as-tu ? lui demanda Mme Milane inquiète. N'es-tu point heureuse d'entendre ce que dit Gervaise ?</p>
-        <p>-- J'ai faim, répondit l'enfant d'une voix faible, grand-faim !</p>
-        <p>-- Elle a faim, grand Dieu ! qui sait depuis quand elle n'a pas mangé, pauvre ange ! et nous qui... Vite, Gervaise, où pourrons-nous trouver quelque chose de réconfortant pour elle ?</p>
-        <p>-- Je ne sais pas », répondit tristement l'ancienne nourrice. On oubliait qu'elle se laissait servir depuis longtemps, sans faire quoi que ce fût d'elle-même.</p>
+        <p>– J'ai faim, répondit l'enfant d'une voix faible, grand-faim !</p>
+        <p>– Elle a faim, grand Dieu ! qui sait depuis quand elle n'a pas mangé, pauvre ange ! et nous qui... Vite, Gervaise, où pourrons-nous trouver quelque chose de réconfortant pour elle ?</p>
+        <p>– Je ne sais pas », répondit tristement l'ancienne nourrice. On oubliait qu'elle se laissait servir depuis longtemps, sans faire quoi que ce fût d'elle-même.</p>
         <p>« Si vous voulez, j'irai, moi », dit Félix Marlioux en s'approchant humblement.</p>
         <p>Il n'avait pas bu de toute la journée, par la raison qu'on ne lui faisait plus crédit nulle part, et que ses camarades ne lui payaient plus rien. Il avait réfléchi beaucoup, depuis un moment surtout.</p>
         <p>Il prit la pièce qu'on lui tendait, et courut à la première boutique, d'où il put rapporter un peu de bouillon et du pain.</p>
@@ -918,11 +888,11 @@
         <p>Il songeait que Juliette, l'enfant gâtée et personnelle, avait eu jusqu'à ce jour à la place de l'autre toutes les tendresses, toutes les joies : elle en avait profité en égoïste, regrettant tout juste sa sœur de lait pendant les premiers jours, parce qu'elle était seule pour jouer, et se consolant bien vite avec des jouets et des amies nouvelles. Elle n'avait plus parlé de Folla que rarement, ne demandant pas à la revoir, et tout à l'heure encore, sur la route d'Endoume, elle avait détourné la tête pour ne pas la reconnaître dans la fillette pauvre qui l'appelait.</p>
         <p>« Madame Gervaise, dit-il enfin, vous avez raison, votre fille, la voilà ; nous vous la rendons, et reprenons notre petite Folla ; il est bien juste que la chère mignonne jouisse enfin de la famille et des avantages qui lui ont été enlevés injustement.</p>
         <p>« Juliette, viens, ma chérie ! non pas toi, fit-il en voyant la fausse Juliette se diriger vers lui ; toi tu es maintenant et pour toujours Sophie Marlioux, et tu vas rester ici avec tes parents.</p>
-        <p>-- Ici ? mon Dieu ! mon Dieu ! non, jamais, cria l'enfant en se tordant dans une crise de larmes. J'ai peur de cet homme qu'on veut me donner pour père, de cette femme qui veut m'embrasser. J'ai horreur de cette maison froide et noire. J'ai peur de la pauvreté, de la misère. Je ne veux pas être mal vêtue, mal nourrie, obligée de travailler et de salir mes mains à des ouvrages grossiers. Je ne veux pas, j'en mourrais. »</p>
+        <p>– Ici ? mon Dieu ! mon Dieu ! non, jamais, cria l'enfant en se tordant dans une crise de larmes. J'ai peur de cet homme qu'on veut me donner pour père, de cette femme qui veut m'embrasser. J'ai horreur de cette maison froide et noire. J'ai peur de la pauvreté, de la misère. Je ne veux pas être mal vêtue, mal nourrie, obligée de travailler et de salir mes mains à des ouvrages grossiers. Je ne veux pas, j'en mourrais. »</p>
         <p>M. Milane lui jeta un regard méprisant.</p>
         <p>« Vous voyez, ma bonne amie, dit-il à sa femme, ce n'est pas nous qu'elle regrette, ce sont les beaux vêtements, la vie facile. Cette enfant est pétrie d'égoïsme, et elle n'aime que sa petite personne. Dieu la punit, tout est bien.</p>
-        <p>-- Non, Arthur, il ne faut pas nous montrer trop durs, répondit Mme Milane ; songez que le coup est rude pour cette petite, qui ne s'attendait nullement à ce qui arrive. Voilà ce qu'il faut faire : nous allons rentrer à Marseille, emmenant les deux enfants ; vous entendez ? les deux ; pendant qu'elles se remettront de leurs émotions, nous nous concerterons sur la manière d'agir à l'égard de la petite Marlioux.</p>
-        <p>-- Hé quoi ! s'écria Gervaise, qui écoutait, vous allez m'enlever ma Sophie ? »</p>
+        <p>– Non, Arthur, il ne faut pas nous montrer trop durs, répondit Mme Milane ; songez que le coup est rude pour cette petite, qui ne s'attendait nullement à ce qui arrive. Voilà ce qu'il faut faire : nous allons rentrer à Marseille, emmenant les deux enfants ; vous entendez ? les deux ; pendant qu'elles se remettront de leurs émotions, nous nous concerterons sur la manière d'agir à l'égard de la petite Marlioux.</p>
+        <p>– Hé quoi ! s'écria Gervaise, qui écoutait, vous allez m'enlever ma Sophie ? »</p>
         <p>M. et Mme Milane se regardèrent.</p>
         <p>« Emmenons-la aussi », dirent-ils ensemble.</p>
         <p>Quelques instants après, ils remontaient en voiture avec les deux sœurs de lait et Gervaise.</p>
@@ -932,9 +902,7 @@
         <p>Tout le long du trajet elle avait sangloté, et elle continua toute la nuit, au grand désespoir de Gervaise et à la grande indignation de M. Milane. Mme Milane, plus indulgente, l'excusait. Tous les deux passèrent de longues heures à discuter la question concernant l'avenir de l'enfant des Marlioux.</p>
       </div>
       <div type="chapter">
-        <p>
-          <label>XVI -- Épilogue</label>
-        </p>
+        <head>XVI -- Épilogue</head>
         <p>Les Milane n'ont point quitté Marseille et continuent à habiter l'hôtel Noailles. On ne voit plus avec eux la jolie fillette blonde et rose avec laquelle ils s'y étaient installés ; en revanche, une autre petite fille non moins jolie, mais brune et vive, les suit partout.</p>
         <p>Folla est redevenue la Folla d'autrefois, pétulante, espiègle, rieuse, mais toujours gentille, avec un brin de gravité en plus ; car la souffrance mûrit, et Folla a souffert.</p>
         <p>Elle a repris ses costumes élégants, sa douce vie et sa chère musique. Elle avait supplié ses grands-parents de garder avec eux sa sœur de lait, avec Gervaise.</p>
