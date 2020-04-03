@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00201" xml:lang="fr">
   <teiHeader>
@@ -16,46 +16,60 @@
       </titleStmt>
       <extent>
         <measure unit="words">35659</measure>
-        
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2019-06-15
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <ref target="http://beq.ebooksgratuits.com/auteurs/terrail/index.htm">Marie-Claire</ref>
           <publisher>BEQ</publisher>
           <idno type="beq">977</idno>
           <title>Marie-Claire</title>
-          </bibl><bibl type="firstEdition">
-              <title>Marie-Claire</title>
-              <publisher>Eugène Fasquelle</publisher>
-              <pubPlace>Paris</pubPlace>
-              <date>1910</date>
-            </bibl></sourceDesc>
+        </bibl>
+        <bibl type="firstEdition">
+          <title>Marie-Claire</title>
+          <publisher>Eugène Fasquelle</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1910</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
         <!-- Prix Fémina -->
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion to ELTeC level-1 (Christof Schöch)</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="chapter">
+
         <head>PREMIÈRE PARTIE</head>
         <p>Un jour, il vint beaucoup de monde chez nous. Les hommes entraient comme dans une église, et les femmes faisaient le signe de la croix en sortant.</p>
         <p>Je me glissai dans la chambre de mes parents, et je fus bien étonnée de voir que ma mère avait une grande bougie allumée près de son lit. Mon père se penchait sur le pied du lit, pour regarder ma mère, qui dormait les mains croisées sur sa poitrine.</p>
@@ -387,11 +401,7 @@
         <p>Il fallait que cela fût dans le plus grand secret.</p>
         <p>Il fut convenu que ma camarade Sophie serait des nôtres, à cause de sa grande piété. Colette se chargeait d'en parler à quelques grandes qui avaient bon cœur.</p>
         <p>Deux jours après, tout fut réglé.</p>
-        <p>
-          Colette devait jeûner et faire pénitence pendant les neuf jours. Le dixième, qui serait un dimanche, elle irait communier comme d'habitude, en se servant de sa canne, et du bras de l'une de nous ; puis, l'hostie dans son cœur, elle ferait le vœu d'élever ses enfants dans l'amour de la Vierge ; après cela, elle se lèverait toute droite et entonnerait de sa voix magnifique le
-          <hi rend="italic">Te Deum</hi>
-          , que nous reprendrions en chœur.
-        </p>
+        <p> Colette devait jeûner et faire pénitence pendant les neuf jours. Le dixième, qui serait un dimanche, elle irait communier comme d'habitude, en se servant de sa canne, et du bras de l'une de nous ; puis, l'hostie dans son cœur, elle ferait le vœu d'élever ses enfants dans l'amour de la Vierge ; après cela, elle se lèverait toute droite et entonnerait de sa voix magnifique le <title>Te Deum</title>, que nous reprendrions en chœur. </p>
         <p>Pendant les neuf jours, je priai avec une ferveur que je n'avais jamais connue. Les prières ordinaires me semblaient fades. Je récitais les litanies de la Vierge ; je cherchais les plus belles louanges, et les répétais sans me lasser !</p>
         <p>– Étoile du matin, guérissez Colette.</p>
         <p>La première fois, je restai si longtemps à genoux que sœur Marie-Aimée vint me gronder.</p>
@@ -408,11 +418,7 @@
         <p>Colette essaya de se mettre debout, et retomba sur les genoux. Sa main tâtonna pour prendre sa canne, et, ne la trouvant pas, elle fit un nouveau mouvement pour se lever.</p>
         <p>Elle se cramponna à la Sainte Table, et s'accrocha au bras d'une sœur qui communiait près d'elle ; puis, ses épaules balancèrent, et elle s'écroula en entraînant la sœur.</p>
         <p>Deux des nôtres se précipitèrent, et traînèrent la pauvre Colette jusqu'à son banc.</p>
-        <p>
-          Pourtant, j'espérais encore, et, jusqu'à la fin de la messe, j'attendis le
-          <hi rend="italic">Te Deum</hi>
-          .
-        </p>
+        <p> Pourtant, j'espérais encore, et, jusqu'à la fin de la messe, j'attendis le <title>Te Deum</title>.</p>
         <p>Aussitôt que cela me fut possible, je rejoignis Colette.</p>
         <p>Elle était entourée des grandes, qui essayaient de la consoler en lui conseillant de se donner à Dieu pour toujours. Elle pleurait doucement, sans secousses, la tête un peu penchée, et ses larmes tombaient sur ses mains, qu'elle tenait croisées l'une sur l'autre.</p>
         <p>Je m'agenouillai devant elle, et, quand elle me regarda, je lui dis :</p>
@@ -561,11 +567,7 @@
         <p>Elle se leva en me faisant signe de la suivre. Elle m'aida à m'habiller, me remit un petit paquet de linge, et dit tout à coup :</p>
         <p>– C'est demain qu'on le ramène, et tu ne seras plus là.</p>
         <p>Elle reprit en me regardant dans les yeux :</p>
-        <p>
-          -- Jure-moi que tu diras tous les soirs un
-          <hi rend="italic">De Profundis</hi>
-          pour lui.
-        </p>
+        <p>-- Jure-moi que tu diras tous les soirs un <title>De Profundis</title> pour lui. </p>
         <p>Je jurai.</p>
         <p>Alors, elle me serra avec violence sur sa poitrine, et elle se sauva vers sa chambre.</p>
         <p>Puis j'entendis qu'elle disait :</p>
@@ -573,6 +575,7 @@
         <p>Je traversai la cour toute seule, et la fermière, qui m'attendait, m'emmena aussitôt.</p>
       </div>
       <div type="chapter">
+
         <head>DEUXIÈME PARTIE</head>
         <p>Je me trouvai bientôt installée au milieu de paniers vides dans une voiture couverte d'une bâche, et quand le cheval s'arrêta de lui-même dans la cour de la ferme, il y avait déjà longtemps qu'il faisait nuit.</p>
         <p>Le fermier sortit de la maison avec une lanterne qu'il balançait au bout de son bras et qui n'éclairait que ses sabots ; il s'approcha de nous et m'aida à descendre de la voiture, puis il haussa sa lanterne jusqu'à ma figure et il dit en se reculant :</p>
@@ -764,20 +767,12 @@
         <p>Un dimanche que j'avais osé demander un livre à Eugène, il me fit cadeau d'un gros cahier de chansons.</p>
         <p>Pendant tout l'été, je l'emportais aux champs. Je composais des airs aux chansons qui me plaisaient le mieux ; puis je m'en lassai, et, en aidant la fermière au grand nettoyage de la Toussaint, je découvris des almanachs de plusieurs années.</p>
         <p>Pauline me dit de les porter au grenier ; mais je fis semblant de les oublier dans le tiroir où ils étaient, et je les emportai en cachette l'un après l'autre. Ils étaient remplis d'histoires amusantes, et l'hiver passa sans que je me sois aperçue du froid.</p>
-        <p>
-          Le jour où je les montai au grenier, je furetai pour voir si je n'en découvrirais pas d'autres. Je ne trouvai qu'un petit livre sans couverture, dont les feuillets étaient roulés aux coins comme si on l'avait longtemps porté dans la poche. Les deux premières pages manquaient, et la troisième était salie au point que les caractères en étaient tout effacés. Je m'approchai de la lucarne pour avoir plus de clarté, et à l'en-tête des pages, je vis que c'étaient les
-          <hi rend="italic">Aventures de Télémaque</hi>
-          .
-        </p>
+        <p> Le jour où je les montai au grenier, je furetai pour voir si je n'en découvrirais pas d'autres. Je ne trouvai qu'un petit livre sans couverture, dont les feuillets étaient roulés aux coins comme si on l'avait longtemps porté dans la poche. Les deux premières pages manquaient, et la troisième était salie au point que les caractères en étaient tout effacés. Je m'approchai de la lucarne pour avoir plus de clarté, et à l'en-tête des pages, je vis que c'étaient les <title>Aventures de Télémaque</title> . </p>
         <p>Je l'ouvris au hasard et les quelques lignes que je lus me le rendirent si intéressant que je le mis tout de suite dans ma poche.</p>
         <p>Comme j'allais descendre du grenier, il me vint à l'idée que c'était Eugène qui l'avait mis là, et qu'il pouvait venir le reprendre d'un moment à l'autre ; alors je le remis sur la solive noire où il était. Chaque fois que j'avais l'occasion d'aller au grenier, je m'assurais qu'il était toujours à sa place, et j'en lisais autant que je pouvais.</p>
         <p>Dans ce moment-là, j'eus encore un mouton malade. Ses flancs étaient creux, comme s'il n'avait pas mangé depuis longtemps. J'allai demander à la fermière comment il fallait le soigner.</p>
         <p>Elle s'arrêta de plumer une poule pour me demander si le mouton était très tendu.</p>
-        <p>
-          Je ne répondis pas tout de suite. Je me demandais ce que voulait dire le mot
-          <hi rend="italic">tendu</hi>
-          . Puis je pensai que tous les moutons malades devaient être tendus. Alors je dis : oui. Et pour affirmer davantage, je me dépêchai d'ajouter :
-        </p>
+        <p> Je ne répondis pas tout de suite. Je me demandais ce que voulait dire le mot <hi rend="italic">tendu</hi>. Puis je pensai que tous les moutons malades devaient être tendus. Alors je dis : oui. Et pour affirmer davantage, je me dépêchai d'ajouter : </p>
         <p>– Il est tout plat.</p>
         <p>La fermière se mit à rire en se moquant. Elle dit à Eugène qui sifflotait à quelques pas :</p>
         <p>– Venez écouter ça, Eugène. Elle a un mouton qui est tendu et plat tout à la fois.</p>
@@ -818,18 +813,12 @@
         <p>Le soir, il rentrait des champs assis en travers sur un de ses bœufs, et souvent il chantait la même chanson.</p>
         <p>C'était l'histoire d'un soldat s'en retournant à la guerre après avoir retrouvé sa fiancée mariée.</p>
         <p>Il traînait longtemps sur le refrain qui se terminait ainsi :</p>
-        <p>
-          <hi rend="italic">Quand, par un tour de maladresse,</hi>
-        </p>
-        <p>
-          <hi rend="italic">Un boulet m'emportera :</hi>
-        </p>
-        <p>
-          <hi rend="italic">Allons, adieu, chère maîtresse,</hi>
-        </p>
-        <p>
-          <hi rend="italic">Je m'en vais dans les combats.</hi>
-        </p>
+        <quote>
+          <l>Quand, par un tour de maladresse,</l>
+          <l>Un boulet m'emportera :</l>
+          <l>Allons, adieu, chère maîtresse,</l>
+          <l>Je m'en vais dans les combats.</l>
+        </quote>
         <p>Pauline lui parlait toujours d'un ton respectueux. Elle ne comprenait pas comment je pouvais être aussi libre avec lui.</p>
         <p>Le premier soir où elle m'avait vue assise à côté de lui sur le banc de la porte, elle m'avait fait signe de rentrer. Mais Eugène m'avait rappelée en disant :</p>
         <p>– Viens écouter la hulotte.</p>
@@ -882,6 +871,7 @@
         <p>Quand j'eus marché un peu, je me retournai pour les voir encore ; et, malgré la nuit qui augmentait, je vis qu'Eugène et Martine marchaient en se tenant par la main.</p>
       </div>
       <div type="chapter">
+
         <head>TROISIÈME PARTIE</head>
         <p>Les nouveaux fermiers arrivèrent le lendemain. Les laboureurs et la servante étaient venus dès le matin, et, lorsque le soir, les maîtres entrèrent dans la maison, je savais qu'on les appelait M. et Mme Alphonse.</p>
         <p>M. Tirande resta deux jours à Villevieille et partit après m'avoir rappelé que j'étais au service de sa bru, et que je n'aurais plus à m'occuper des travaux de la ferme.</p>
@@ -1135,18 +1125,12 @@
         <p>Oh ! ma mère Marie-Aimée, comme vous étiez belle à côté de cette autre mère, et comme je vous aimais en ce moment ! Comme vos yeux de plusieurs couleurs rayonnaient et illuminaient votre vêtement noir, et comme votre visage était pur dans votre cornette blanche ! Vous étiez aussi visible pour moi, que si vous eussiez été réellement devant moi.</p>
         <p>Je fus toute surprise de me retrouver devant la maison de la colline ; et en même temps, je m'aperçus que la neige tombait en tourmente. J'entrai dans la maison pour m'abriter, et j'allai tout de suite dans la pièce qui donnait sur le jardin.</p>
         <p>Je cherchai à fixer ma pensée ; mais mes idées tournoyaient dans ma tête comme les flocons de neige qui paraissaient monter de la terre et tomber du ciel en même temps ; et chaque fois que je faisais un effort pour penser, ma mémoire ne m'apportait que les bribes d'une chanson que les petites filles chantaient joyeusement dans leurs rondes et qui disait :</p>
-        <p>
-          <hi rend="italic">On a tant fait sauter la vieille,</hi>
-        </p>
-        <p>
-          <hi rend="italic">Qu'elle est morte en sautillant,</hi>
-        </p>
-        <p>
-          <hi rend="italic">Tireli,</hi>
-        </p>
-        <p>
-          <hi rend="italic">Sautons, sautons, la vieille !</hi>
-        </p>
+        <quote>
+          <l>On a tant fait sauter la vieille,</l>
+          <l>Qu'elle est morte en sautillant,</l>
+          <l>Tireli,</l>
+          <l>Sautons, sautons, la vieille !</l>
+        </quote>
         <p>Je me trouvais bien dans cette maison silencieuse.</p>
         <p>La neige s'arrêta de tomber, et les arbres me semblèrent aussi beaux que le jour où je les avais vus tout fleuris ; et brusquement le souvenir de ce qui venait de se passer, se précisa dans mon esprit. Je revis la main aux doigts carrés de Mme Deslois ; un grand frisson me secoua ; quelle vilaine main, et comme elle était grande !</p>
         <p>Puis l'expression du regard de M. Alphonse, quand il me prit le bras. Maintenant que j'y pensais, je me rappelais avoir déjà vu ce regard à une petite fille.</p>
@@ -1304,11 +1288,7 @@
         <p>Je me dressai sur le lit, tout étonnée d'être couchée en plein jour ; mais je ne me levai pas. Le souvenir du petit Jean le Rouge me revint, et pendant des heures et des heures j'essayai d'étouffer mon mal.</p>
         <p>Quand sœur Désirée-des-Anges entra dans la chambre à l'heure du coucher, elle s'assit sur le pied de mon lit. Elle mit encore ses mains comme les saintes, et elle me dit :</p>
         <p>– Parlez-moi de votre peine.</p>
-        <p>
-          Je parlai, et il me sembla que chaque mot que je prononçais emportait un peu de ma souffrance. Lorsque j'eus tout dit, sœur Désirée-des-Anges alla prendre l'
-          <hi rend="italic">Imitation de Jésus-Christ</hi>
-          , et elle se mit à lire tout haut.
-        </p>
+        <p> Je parlai, et il me sembla que chaque mot que je prononçais emportait un peu de ma souffrance. Lorsque j'eus tout dit, sœur Désirée-des-Anges alla prendre l'<title rend="italic">Imitation de Jésus-Christ</title> , et elle se mit à lire tout haut. </p>
         <p>Elle lisait avec un accent doux et résigné, et il y avait des mots qu'elle traînait comme une plainte qui finit.</p>
         <p>Les jours suivants, je revis le petit Jean le Rouge ; il parla encore du Gué Perdu, et pendant qu'il disait le contentement de ses parents, et la bonté du maître pour eux, je revoyais la maison de la colline avec son jardin fleuri et sa source dont le ruisseau descendait jusqu'à la petite rivière en se cachant sous les genêts.</p>
         <p>Je parlais souvent d'elle à sœur Désirée-des-Anges, qui m'écoutait avec recueillement. Elle en connaissait les alentours et les moindres recoins, et un soir qu'elle restait songeuse, et que je lui en demandais la raison, elle répondit en regardant au loin :</p>
@@ -1434,7 +1414,7 @@
     </body>
     <back>
       <div type="liminal">
-        <p/>
+        <p />
       </div>
     </back>
   </text>
