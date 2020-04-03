@@ -61,10 +61,11 @@
     </revisionDesc>
   </teiHeader>
   <text>
+    <front> <div type="titlepage">
+      <p>Comme tout le monde </p><p>Lucie Delarue-Mardrus </p><p>J. Tallandier, Paris</p>
+    </div></front>
     <body>
-      <div type="unrecognized">
-        <p>Comme tout le monde Lucie Delarue-Mardrus J. Tallandier, Paris</p>
-      </div>
+      
       <div type="chapter">
         <head>I</head>
         <head>Le gentil ménage</head>
