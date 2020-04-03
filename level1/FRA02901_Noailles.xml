@@ -65,10 +65,11 @@
     </revisionDesc>
   </teiHeader>
   <text>
+    <front> <div type="titlepage">
+      <p>La Nouvelle Espérance </p><p>Anna de Noailles </p><p>Paris, 1903</p>
+    </div></front>
     <body>
-      <div type="unrecognized">
-        <p>La Nouvelle Espérance Anna de Noailles Paris, 1903</p>
-      </div>
+     
       <div type="chapter">
         <head>Première Partie</head>
         <head>I</head>
