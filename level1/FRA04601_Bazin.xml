@@ -40,7 +40,7 @@
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="medium"/>
-        <e:canonicity xmlns:e="http://distantreading.net/eltec/ns" key="unspecified"/>
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified"/>
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
@@ -771,8 +771,8 @@
       </div>
       <div type="chapter">
         <head> Chapitre    2 </head>
-        <p> La vie morale d’un pauvre </p>
-        <head>GILBERT CLOQUET AVAIT ÉTÉ à l’école chez l’instituteur public de Fonteneilles vers
+        <head> La vie morale d’un pauvre </head>
+        <p>GILBERT CLOQUET AVAIT ÉTÉ à l’école chez l’instituteur public de Fonteneilles vers
           1860, – oh ! que cela était loin ! – il avait appris à lire, à écrire, à compter, et, à
           cinquante ans passés, aujourd’hui, s’il ne savait plus guère écrire, faute d’usage, il
           comptait fort bien, lisait les journaux, les affiches et même « l’écriture moulée » sans
@@ -784,7 +784,7 @@
           et une courte révision du catéchisme avant la première communion, et Gilbert Cloquet avait
           été jugé, par les plus hautes autorités qu’il connût, les seules qui se fussent occupées
           de son âme, suffisamment armé pour vivre honnêtement, résister à tout mal du dehors et du
-          dedans, et conseiller plus tard les enfants qui naîtraient de lui.</head>
+          dedans, et conseiller plus tard les enfants qui naîtraient de lui.</p>
         <p>— Te voilà grand, mon Gilbert, lui dit un jour la mère Cloquet, tes onze ans sont sonnés,
           et il faut commencer à gagner ta vie. Nous irons donc à la louée de Bazolles, bien que
           j’aie le cœur tout en peine de me séparer de toi.</p>
@@ -1642,13 +1642,13 @@
       <div type="chapter">
         <head> Chapitre    3 </head>
         <head> La lecture en forêt </head>
-        <head>POUR ALLER VOIR SA fille, Gilbert Cloquet n’avait pas un long voyage à faire : un
+        <p>POUR ALLER VOIR SA fille, Gilbert Cloquet n’avait pas un long voyage à faire : un
           sentier conduisait sous bois jusqu’à la pointe de l’étang de Vaux, qui est toute voisine
           du hameau du Pas-du-Loup, contournait la berge parmi les prés marécageux, et se perdait en
           montant vers le milieu du premier champ. Ces champs, sur la « bordée » de la forêt, comme
           disait Gilbert, ces douze hectares divisés en une quinzaine de parcelles, la maison située
           à mi-côte, et qui formait l’extrême limite de la commune, c’était le domaine de l’Épine,
-          que les Lureux avaient pris à ferme, grâce à la générosité de Gilbert.</head>
+          que les Lureux avaient pris à ferme, grâce à la générosité de Gilbert.</p>
         <p>Il était de bonne heure ; on entendait encore, tant le silence était grand, le bruit de
           l’eau qui rencontre une pierre dans les fossés. Gilbert avait sa cognée sur son épaule, et
           il mettait sur le manche tantôt la main gauche et tantôt la main droite, à cause du froid.
