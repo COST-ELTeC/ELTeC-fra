@@ -1,4 +1,4 @@
-	filename	xmlid	au-name	title	au-birth	au-death	au-gender	au-ids	copytext-yr	firsted-yr	title-ids	sizeCat	canonicity	time-slot	numwords	language
+#	filename	xmlid	au-name	title	au-birth	au-death	au-gender	au-ids	copytext-yr	firsted-yr	title-ids	sizeCat	canonicity	time-slot	numwords	language
 0	FRA00301_Aimard	FRA00301	Aimard, Gustave	Les Trappeurs de l'Arkansas	1818	1883	M	viaf:9841962	NA	1858	viaf:309322317	medium	NA	T1	90166	fra
 1	FRA01302_Flaubert	FRA01302	Flaubert, Gustave	Madame Bovary	1821	1880	M	viaf:9846192	NA	1857	viaf:186570439	long	NA	T1	120122	fra
 2	FRA02802_Mirbeau	FRA02802	Mirbeau, Octave	La Maréchale	1848	1917	M	viaf:100204602	NA	1883	viaf:unvailable	medium	NA	T3	60935	fra
