@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01902" xml:lang="fr">
   <teiHeader>
@@ -16,53 +16,55 @@
       </titleStmt>
       <extent>
         <measure unit="words">269763</measure>
-        
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          Ebooksgratuits.com,
-          <date/>
-          ,
-          <idno/>
-          ,
-          
-          .
-        </bibl><bibl type="firstEdition">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource"> Ebooksgratuits.com,
+        </bibl>
+        <bibl type="firstEdition">
           <date>1869</date>
-          ,
-          <idno/>
-          ,
-          
-          .
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-14">cf Revised teiHeader.</change>
       <change when="2014-08-06">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="group">
         <div type="chapter">
+
           <head>Chapitre 1</head>
           <p>Le 20 février 18.., un dimanche, qui se trouvait être le dimanche gras, sur les onze heures du soir, une ronde d'agents du service de la sûreté sortait du poste de police de l'ancienne barrière d'Italie.</p>
           <p>La mission de cette ronde était d'explorer ce vaste quartier qui s'étend de la route de Fontainebleau à la Seine, depuis les boulevards extérieurs jusqu'aux fortifications.</p>
@@ -255,6 +257,7 @@
           <p>– C'est-à-dire que j'ordonne… Tu vas rester ici avec celui de tes camarades que tu choisiras… Et si tu trouves quelque chose que je n'aie pas vu, je te permets de me payer une paire de lunettes.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 2</head>
           <p>L'agent auquel Gévrol abandonnait une information qu'il jugeait inutile, était un débutant dans « la partie. »</p>
           <p>Il s'appelait Lecoq.</p>
@@ -309,6 +312,7 @@
           <p>– Maintenant, à nous deux !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 3</head>
           <p>Autorisé par Gévrol à choisir l'agent qui resterait avec lui à la Poivrière, Lecoq s'était adressé à celui qu'il estimait le moins intelligent.</p>
           <p>Ce n'était pas, de sa part, crainte d'avoir à partager les bénéfices d'un succès, mais nécessité de garder sous la main un aide dont il pût, à la rigueur, se faire obéir.</p>
@@ -378,6 +382,7 @@
           <p>– Ce ne sont pas des pieds d'hommes, dit-il, qui ont laissé ces empreintes !… Il y avait des femmes !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 4</head>
           <p>Les entêtés de la trempe du père Absinthe, toujours en garde contre l'opinion d'autrui, sont précisément ceux qui, par la suite, s'en éprennent follement.</p>
           <p>Quand une idée a enfin pénétré dans leur cervelle vide, elle s'y installe magistralement, l'emplit et s'y développe jusqu'à la ravager.</p>
@@ -541,6 +546,7 @@
           <p>– En avant ! ! !</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 5</head>
           <p>Cette nuit-là les vagabonds réfugiés aux environs de la Poivrière dormirent peu, et encore d'un pénible sommeil, coupé de sursauts, trouble par l'affreux cauchemar d'une descente de police.</p>
           <p>Réveillés par les détonations de l'arme du meurtrier, croyant à quelque collision entre des agents de la sûreté et un de leurs camarades, ils restèrent sur pied pour la plupart, l'œil et l'oreille au guet, prêts à détaler comme une bande de chacals à la moindre apparence de danger.</p>
@@ -600,6 +606,7 @@
           <p>– Il s'agit, à présent, de regagner la Poivrière, et vite… Et vous, l'ancien, vous pouvez éteindre votre lanterne.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 6</head>
           <p>Tout en jouant ferme des jambes pour se maintenir à la hauteur de son compagnon qui courait presque, tant il avait hâte d'être de retour à la Poivrière, le père Absinthe songeait, et une lumière toute nouvelle se faisait dans son cerveau.</p>
           <p>Depuis vingt-cinq ans qu'il était à la Préfecture, le bonhomme avait vu, selon son expression, bien des collègues lui passer sur le corps, et conquérir après une année d'emploi une situation qu'on refusait à ses longs services.</p>
@@ -662,6 +669,7 @@
           <p>Enfin, il respira. Le juge d'instruction pouvait venir.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 7</head>
           <p>Il y a loin, de la Poivrière à la rue du Chevaleret, même en prenant par la « plaine » qui évite les détours.</p>
           <p>Il n'avait pas fallu moins de quatre heures à Lecoq et à son vieux collègue, pour recueillir au dehors leurs éléments d'information.</p>
@@ -725,6 +733,7 @@
           <p>– Oui, c'est invraisemblable, répondit-il, incroyable, absurde … Et cependant, nous en verrons bien d'autres, si nous arrivons jamais – ce dont je doute – à déchirer le voile de cette mystérieuse affaire.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 8</head>
           <p>Le jour se levait triste et morne, quand Lecoq et son vieux collègue jugèrent leur information complète.</p>
           <p>Il n'y avait plus dans le cabaret un pouce carré qui n'eût été exploré, scrupuleusement examiné, étudié pour ainsi dire à la loupe.</p>
@@ -821,6 +830,7 @@
           <p>– Oh ! pensait-il, nous verrons bien !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 9</head>
           <p>Jamais consultation au chevet d'un malade mourant de quelque mal inconnu, ne mit en présence deux médecins aussi différents que ceux qui, sur la réquisition du parquet, accompagnaient le commissaire de police.</p>
           <p>L'un, grand, vieux, tout chauve, portait un large chapeau, et sur son vaste habit noir mal coupé, un paletot de forme antique. Celui-là était un de ces savants modestes, comme il s'en rencontre dans les quartiers excentriques de Paris, un de ces guérisseurs dévoués à leur art, qui, trop souvent, meurent ignorés après d'immenses services rendus.</p>
@@ -940,6 +950,7 @@
           <p>Un roulement de voiture devant la porte du cabaret l'interrompit, et l'instant d'après le juge d'instruction entrait.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 10</head>
           <p>Il n'était personne à la Poivrière qui ne connût, au moins de vue, le juge d'instruction qui arrivait, et Gévrol, vieil habitué du Palais de Justice, murmura son nom.</p>
           <p>M. Maurice d'Escorval.</p>
@@ -1008,6 +1019,7 @@
           <p>Et il courait…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 11</head>
           <p>Quand, après vingt minutes de course, Lecoq arriva à l'entrée de la route de Choisy, le chef de poste de la place d'Italie faisait les cent pas, la pipe aux dents, devant son corps de garde.</p>
           <p>À son air soucieux, au coup d'œil inquiet qu'il jetait à chaque instant sur une petite fenêtre munie d'un abat-jour, les passants devaient reconnaître qu'il avait en cage, en ce moment, quelque oiseau d'importance.</p>
@@ -1080,6 +1092,7 @@
           <p>– Ah ! le mâtin est fort !… murmura Lecoq dépité, mais je l'attends à la Préfecture.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 12</head>
           <p>Les portes de la voiture cellulaire étaient exactement refermées, le conducteur fit claquer son fouet et la geôle roulante partit au grand trot de ses deux vigoureux chevaux.</p>
           <p>Lecoq avait pris place dans le cabriolet ménagé sur le devant, entre le conducteur et le garde de Paris de service, et sa préoccupation était si forte, que certes, il n'entendit rien de leur conversation. Elle était des plus joviales, bien que troublée par l'atroce voix de la veuve Chupin qui, enrageant dans son compartiment, chantait où vomissait des injures, alternativement.</p>
@@ -1212,6 +1225,7 @@
           <p>– Mais que s'est-il passé ? murmurait-il. Ce malheureux s'est-il tu, a-t-il tout avoué au juge ?… Pourquoi cet acte de désespoir ?…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 13</head>
           <p>Lecoq ne dormit pas, cette nuit-là !</p>
           <p>Et cependant il y avait plus de quarante heures qu'il était sur pied, et qu'il n'avait pour ainsi dire ni bu ni mangé.</p>
@@ -1282,6 +1296,7 @@
           <p>– Partons !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 14</head>
           <p>Devait-on supposer complètement dénuées d'intelligence les femmes qui s'étaient échappées du cabaret de la veuve Chupin au moment du meurtre ?</p>
           <p>Non !</p>
@@ -1356,6 +1371,7 @@
           <p>– Neuf heures !… dit-il, je serai en retard de plus d'une heure, mais j'apporterai des nouvelles… Conduisez-moi à la morgue, et vite !</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 15</head>
           <p>Les lendemains de crimes mystérieux et de catastrophes dont les victimes n'ont pas été reconnues, sont les grands jours de la Morgue.</p>
           <p>Dès le matin, les employés se hâtent, tout en échangeant des plaisanteries à faire frissonner. Presque tous sont très gais, par suite d'un impérieux besoin de réagir contre l'horrible tristesse de ce qui les entoure.</p>
@@ -1429,6 +1445,7 @@
           <p>– Hier soir en descendant de son coupé, à sa porte, il est tombé si malheureusement qu'il s'est cassé la jambe.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 16</head>
           <p>On est riche, on a voiture, chevaux, cocher…, et quand on passe étalé sur les coussins, on recueille plus d'un regard d'envie.</p>
           <p>Mais voilà que le cocher qui a bu un coup de trop verse l'équipage, ou bien les chevaux s'emportent et brisent tout, ou encore l'heureux maître, en un moment de préoccupation, manque le marche-pied et se fracasse la jambe à l'angle du trottoir.</p>
@@ -1637,6 +1654,7 @@
           <p>– Voici, Goguet, une ordonnance d'extraction pour le directeur du Dépôt. Allez dire qu'on m'amène le meurtrier.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 17</head>
           <p>Arracher des aveux à un homme intéressé à se taire, et persuadé qu'il n'existe pas de preuves contre lui, c'est certes difficile.</p>
           <p>Mais demander, dans de telles conditions, la vérité à une femme, c'est vouloir, dit-on au Palais, c'est prétendre confesser le diable.</p>
@@ -1706,6 +1724,7 @@
           <p>On eût dit qu'il buvait la vie. Il semblait renaître.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 18</head>
           <p>Sur vingt prévenus qui arrivent à l'instruction, dix-huit au moins se présentent armés d'un système complet de défense, conçu et discuté dans le silence des « secrets. »</p>
           <p>Coupables ou innocents, ils ont adopté un rôle qui commence à l'instant où, le cœur battant et la gorge sèche, ils franchissent le seuil du cabinet redoutable où les attend le magistrat instructeur.</p>
@@ -1767,6 +1786,7 @@
           <p>– Ah !… il n'y a pas d'offense, monsieur le juge, gémit-il. Vous me questionnez, je réponds… Vous verriez bien que je dis vrai, si vous me laissiez vous conter ma petite affaire.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 19</head>
           <p>« Prévenu bavard, cause bien instruite, » dit un vieux proverbe du Palais.</p>
           <p>C'est qu'il semble impossible, en effet, qu'un coupable, épié par le juge, puisse parler beaucoup sans que sa langue trahisse son intention ou sa pensée, sans qu'il s'évapore quelque chose du secret qu'il prétend garder.</p>
@@ -1834,6 +1854,7 @@
           <p>Seul, Goguet, le souriant greffier s'amusait…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 20</head>
           <p>Le directeur du Dépôt, ce fonctionnaire à qui vingt ans de pratique des prisons et des détenus donnaient une autorité d'oracle, cet observateur si difficile à surprendre, avait écrit au juge d'instruction :</p>
           <p>« Entourez-vous de précautions, avant d'interroger le prévenu Mai. »</p>
@@ -1979,6 +2000,7 @@
           <p>– Je-vous-le-prou-ve-rai !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 21</head>
           <p>Ces délicates et épineuses questions d'identité qui, à tout moment, se représentent, sont le désespoir de la justice.</p>
           <p>Les chemins de fer, la photographie et le télégraphe électrique ont multiplié les moyens d'investigation ; en vain. Tous les jours encore il arrive que des malfaiteurs habiles réussissent à dérober aux juges leur véritable personnalité, et échappent ainsi aux conséquences de leurs antécédents.</p>
@@ -2097,6 +2119,7 @@
           <p>L'instant d'après, les gardes de Paris qui l'avaient amené, l'entraînaient….</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 22</head>
           <p>Le prévenu sorti, M. Segmuller se laissa tomber sur son fauteuil, épuisé, écrasé, anéanti, comme il arrive après d'exorbitants efforts dépensés en pure perte.</p>
           <p>À l'éréthisme immodéré de toutes les facultés de son esprit et de son âme, une invincible prostration succédait.</p>
@@ -2162,6 +2185,7 @@
           <p>– Allez… et bonne chance.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 23</head>
           <p>Longue, étroite, basse de plafond, percée de quantité de petites portes numérotées, comme le corridor d'un hôtel garni, meublée d'un bout à l'autre d'un grossier banc de chêne noirci par l'usage, telle est la galerie des juges d'instruction.</p>
           <p>Dans le jour, peuplée de ses hôtes habituels, prévenus, témoins et gardes de Paris, elle est d'une tristesse navrante.</p>
@@ -2298,6 +2322,7 @@
           <p>Il sortit, se tenant aux murs, la tête perdue, et on l'entendit trébucher comme un ivrogne dans les escaliers.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 24</head>
           <p>Le mardi gras, cette année-là, fut très gai, ce qui veut dire que le Mont-de-Piété et les bals publics firent des affaires.</p>
           <p>Quand, vers minuit, Lecoq quitta l'hôtel de Mariembourg, les rues étaient bruyantes et peuplées comme en plein midi, et les cafés regorgeaient de consommateurs.</p>
@@ -2361,6 +2386,7 @@
           <p>– Mais ce n'est pas le moment de réfléchir, reprit le jeune policier, je suis écrasé de fatigue ; prenez un matelas au lit, pour vous, l'ancien, et couchons-nous…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 25</head>
           <p>Lecoq était un garçon prévoyant.</p>
           <p>Il avait eu soin, avant de se mettre au lit, de monter un réveil, qu'il possédait, et d'en placer les aiguilles sur six heures.</p>
@@ -2485,6 +2511,7 @@
           <p>– C'est assez, interrompit Lecoq ; maintenant il s'agit, ma bonne, de venir déposer devant le juge. J'ai une voiture en bas. Prenez votre enfant si vous voulez, mais hâtez-vous, venez vite, venez….</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 26</head>
           <p>M. Segmuller était de ces magistrats qui chérissent leur profession d'un amour sans partage, qui s'y donnent corps et âme et mettent à l'exercer tout ce qu'ils ont d'énergie, d'intelligence et de sagacité.</p>
           <p>Juge d'instruction, il apportait à la recherche de la vérité la passion tenace du médecin luttant contre une maladie inconnue, l'enthousiasme de l'artiste s'épuisant à la poursuite du beau.</p>
@@ -2549,6 +2576,7 @@
           <p>– Il faudrait être mon ennemi, prononça-t-il d'un ton farouche, pour prétendre que je connais un nommé Lacheneur !… J'en voudrais à la mort à qui dirait ce mensonge ; oui, à la mort … et je ne pardonnerais jamais !</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 27</head>
           <p>Ayant reçu l'ordre de chercher partout Lecoq, et de le ramener s'il le rencontrait, l'huissier de M. Segmuller s'était mis en campagne.</p>
           <p>La commission ne lui déplaisait pas ; c'était une occasion de quitter son poste, un prétexte de légitime flânerie aux environs.</p>
@@ -2617,6 +2645,7 @@
           <p>– Je le disais bien !… pensait Goguet. Les actions du prévenu sont en hausse. Je parie cent sous pour le prévenu.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 28</head>
           <p>D'un seul mot, Delamorte-Felines a défini l'instruction : « Une lutte. » Lutte terrible, entre la justice qui veut arriver à la vérité et le crime qui prétend garder son secret.</p>
           <p>Mandataire de la société, investi de pouvoirs discrétionnaires, ne relevant que de sa conscience et de la loi, le juge d'instruction dispose du plus formidable appareil.</p>
@@ -2686,6 +2715,7 @@
           <p>– Courez à la Préfecture, lui dit-il, et sachez comment et sous quel prétexte cette femme a obtenu la carte qui lui a permis de voir Polyte Chupin.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 29</head>
           <p>Resté seul, M. Segmuller reprit le chemin de son cabinet, guidé bien plus par l'instinct machinal de l'habitude que par une volonté délibérée.</p>
           <p>Toutes les facultés de son intelligence étaient à « l'affaire, » et telle était sa préoccupation, que lui, la politesse même, il oubliait de rendre les saluts qu'il recueillait sur son passage.</p>
@@ -2743,6 +2773,7 @@
           <p>– Elle demeure au faubourg Saint-Germain, répondit Mme Doisty, près de l'esplanade des Invalides…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 30</head>
           <p>Tant qu'il avait été sous l'œil du bijoutier, Lecoq avait eu la force de garder le secret de ses impressions.</p>
           <p>Mais une fois hors du magasin, et quand il eut fait quelques pas sur le trottoir, il s'abandonna si bien au délire de sa joie, que les passants surpris durent se demander si ce beau garçon n'était pas fou. Il ne marchait pas, il dansait, et tout en gesticulant de la façon la plus comique, il jetait au vent un monologue victorieux.</p>
@@ -2861,6 +2892,7 @@
           <p>Peut-être en était-il arrivé à compter moins sur son habileté que sur le hasard, pour dégager des ténèbres le drame qu'il devinait, qu'il sentait, qu'il respirait…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 31</head>
           <p>Si l'on jette au milieu d'un lac une lourde pierre, elle produit un jaillissement considérable, et la masse de l'eau est agitée jusque sur les bords… Mais le grand mouvement ne dure qu'une minute ; le remous diminue à mesure que ses cercles s'élargissent, la surface reprend son immobilité, et bientôt nulle trace ne reste de la pierre, enfouie désormais dans les vases du fond.</p>
           <p>Ainsi il en est des événements qui tombent dans la vie de chaque jour, si énormes qu'ils puissent paraître. Il semble que leur impression durera des années ; folie ! Le temps se referme au-dessus plus vite que l'eau du lac, et, plus rapidement que la pierre, ils glissent dans les abîmes du passé.</p>
@@ -2920,6 +2952,7 @@
           <p>– Désormais, dit-il à M. Segmuller, je me constitue prisonnier comme lui, et sans qu'il me voie, je ne le perds plus de vue !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 32</head>
           <p>Au-dessus de l'étroite cellule occupée par le prévenu Mai, se trouvait une sorte de soupente, ménagée par les architectes pour le service des toitures.</p>
           <p>Elle était carrelée, mais si basse, qu'un homme de taille moyenne ne pouvait s'y tenir debout. Quelques minces rayons filtrant entre les interstices des ardoises l'éclairaient à peine d'un jour douteux.</p>
@@ -3053,6 +3086,7 @@
           <p>« Je lui ai dit votre volonté, elle se résigne. Notre sécurité est assurée, nous attendons vos ordres pour agir. Espoir ! Courage !… »</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 33</head>
           <p>Quelle déception, que ce laconique et obscur billet, après cette grande fièvre d'anxiété qui avait tenu oppressés et haletants les témoins de cette scène.</p>
           <p>Chiffrée ou traduite, cette lettre n'était-elle pas une arme inutile aux mains de la prévention !</p>
@@ -3180,6 +3214,7 @@
           <p>– Peut-être ! répondit le jeune policier. Il est un dernier moyen d'avoir le secret de cet homme ; il faut le faire évader…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 34</head>
           <p>L'expédient suprême que préparait Lecoq n'était pas de son invention et n'avait rien de précisément neuf.</p>
           <p>De tout temps, la police a su, quand il le fallait, fermer les yeux et entre-bailler la porte d'un cachot.</p>
@@ -3298,6 +3333,7 @@
           <p>– Lui-même, monsieur, et je viens vous dire que si vous voulez bien mander Mai pour l'interroger, toutes les mesures sont prises pour son évasion … Ce sera demain si vous le voulez bien.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 35</head>
           <p>Lorsqu'un juge d'instruction près le tribunal de la Seine veut interroger un prévenu consigné dans l'une des prisons, – le Dépôt excepté, puisqu'il communique directement avec le Palais de Justice, – voici comment les choses se passent.</p>
           <p>Le juge remet à un huissier une ordonnance d'extraction dont la seule formule, impérative et concise, suffirait à donner une idée de la toute-puissance du magistrat instructeur.</p>
@@ -3354,6 +3390,7 @@
           <p>Alors, avec la prestesse et la précision du chat, il sauta à terre, referma sans bruit la portière, et se mit à marcher dans la direction du pont au Change…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 36</head>
           <p>Lecoq respira.</p>
           <p>Il en était à chercher si quelque futile circonstance oubliée ou négligée, n'avait pas disloqué toutes ses combinaisons.</p>
@@ -3548,6 +3585,7 @@
           <p>À ce moment même, comme si le prévenu eût tenu à donner raison à une partie des soupçons de Lecoq, il entra dans un bureau de tabac et en sortit un cigare à la bouche.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 37</head>
           <p>La maîtresse de l'hôtel de Mariembourg avait remis de l'argent à Mai ; l'achat de ce cigare le prouvait péremptoirement.</p>
           <p>Mais s'étaient-ils concertés ? Avaient-ils eu le temps de décider point pour point et par le menu les manœuvres à tenter pour dérouter les poursuites ?…</p>
@@ -3657,6 +3695,7 @@
           <p>L'homme au feutre, resté dans la rue, faisait le guet….</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 38</head>
           <p>L'énigmatique prévenu avait mis à accomplir son étrange, son inconcevable dessein, une telle promptitude, que Lecoq n'eut ni le temps, ni même l'idée de s'y opposer.</p>
           <p>Son entendement avait été ébranlé par ce terrible coup de cloche du pressentiment qui annonce un grand malheur.</p>
@@ -3773,6 +3812,7 @@
           <p>– Mais allons au poste où on l'a conduit, je veux l'interroger.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 39</head>
           <p>Il faisait grand jour alors, il était près de six heures, et quand le jeune policier et le père Absinthe arrivèrent au poste, ils trouvèrent celui qui le commandait assis à une petite table, rédigeant son rapport.</p>
           <p>Il ne se dérangea pas, lorsqu'ils entrèrent, ne pouvant les reconnaître sous leur travestissement.</p>
@@ -3845,6 +3885,7 @@
           <p>– Il est, reprit-il, un homme qui peut nous sauver, un homme qui saura voir ce que je n'ai pas vu, qui comprendra ce que je n'ai pas compris … Allons lui demander conseil ! sa réponse dictera ma conduite … Venez !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 40</head>
           <p>Après une journée et une nuit comme celles qu'ils venaient de traverser, les deux hommes de la Préfecture devaient avoir, ce semble, un irrésistible besoin de sommeil.</p>
           <p>Mais chez Lecoq, l'exaspération de l'amour-propre, la douleur encore vive, l'espoir non abandonné d'une revanche, soutenaient la machine.</p>
@@ -3915,6 +3956,7 @@
           <p>– Voici la chambre de monsieur, ces messieurs peuvent entrer.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 41</head>
           <p>Dans un grand lit à baldaquin, suant et geignant sous ses couvertures, était couché l'oracle à deux visages, Tirauclair rue de Jérusalem, Tabaret rue Saint-Lazare.</p>
           <p>Comment jamais soupçon de ses travaux policiers n'avait effleuré l'esprit de ses voisins les plus proches, on le comprenait en le voyant.</p>
@@ -3976,6 +4018,7 @@
           <p>– Je ne le suppose pas, répondit-il ; j'en suis sûr.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 42</head>
           <p>Certes, la confiance de Lecoq en cet oracle policier qu'il venait consulter était grande, mais enfin le père Tirauclair pouvait se tromper, il s'était trompé déjà plusieurs fois : tous les oracles se trompent, c'est connu.</p>
           <p>Ce qu'il disait paraissait si bien une énormité et s'écartait tellement du cercle des choses admissibles, que le jeune policier ne put dissimuler un geste d'incrédulité.</p>
@@ -4086,6 +4129,7 @@
           <p>« Donc, le meurtrier du cabaret de la Chupin, Mai, le soi-disant saltimbanque, est le duc de Sairmeuse ! »</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 43</head>
           <p>Comment cette idée était-elle venue au père Tabaret ? Voilà ce que Lecoq ne pouvait comprendre.</p>
           <p>Qu'il l'eût eue, lui, Lecoq, lorsque son prévenu s'était pour ainsi dire évanoui, comme un léger brouillard, on le concevait à la rigueur. Le désespoir enfante les plus absurdes chimères, et d'ailleurs quelques mots de Couturier pouvaient servir de prétexte à toutes les suppositions.</p>
@@ -4147,6 +4191,7 @@
       </div>
       <div type="group">
         <div type="chapter">
+
           <head>Chapitre 1</head>
           <p>Le premier dimanche du mois d'août 1815, à dix heures précises, – comme tous les dimanches, – le sacristain de la paroisse de Sairmeuse sonna les « trois coups », qui annoncent aux fidèles que le prêtre monte à l'autel pour la grand'messe.</p>
           <p>L'église était plus d'à-moitié pleine, et de tous côtés arrivaient en se hâtant des groupes de paysans et de paysannes.</p>
@@ -4260,6 +4305,7 @@
           <p>– Vive M. le duc de Sairmeuse ! ! !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 2</head>
           <p>Une route en pente douce, longue de près d'une lieue, ombragée d'un quadruple rang de vieux ormes, conduit du village au château de Sairmeuse.</p>
           <p>Rien de beau comme cette avenue, digne d'une demeure royale, et l'étranger qui la gravité s'explique le dicton naïvement vaniteux du pays :</p>
@@ -4437,6 +4483,7 @@
           <p>– Je crois connaître votre cœur, Maurice, ce soir, je le connaîtrai certainement.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 3</head>
           <p>Peu de gens à Sairmeuse connaissaient autrement que de nom ce terrible duc dont l'arrivée mettait le village en émoi.</p>
           <p>C'est à peine si quelques anciens du pays se rappelaient l'avoir entrevu, autrefois, avant 89, lorsqu'il venait, à de longs intervalles, rendre visite à sa tante, la vieille demoiselle Armande.</p>
@@ -4560,6 +4607,7 @@
           <p>– Monsieur le duc, dit-elle, il y a là M. Lacheneur et sa demoiselle qui désireraient vous parler.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 4</head>
           <p>Ce nom de Lacheneur n'éveillait aucun souvenir dans l'esprit du duc.</p>
           <p>D'abord, il n'avait jamais habité Sairmeuse…</p>
@@ -4634,6 +4682,7 @@
           <p>– Ne le souhaitez pas.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 5</head>
           <p>L'habitation du baron d'Escorval, cette construction de briques à saillies de pierres blanches, qu'on apercevait de l'avenue superbe de Sairmeuse, était petite et modeste.</p>
           <p>Son seul luxe était un joli parterre dont les gazons se déroulaient jusqu'à l'Oiselle, et un parc assez vaste délicieusement ombragé.</p>
@@ -4760,6 +4809,7 @@
           <p>– Non, cela ne sera pas, parce que j'aime Marie-Anne et que je vous la demande pour femme.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 6</head>
           <p>Il y avait bien des années déjà que Maurice et Marie-Anne s'aimaient.</p>
           <p>Enfants, ils avaient joué ensemble sous les ombrages magnifiques de Sairmeuse et dans les allées du parc d'Escorval.</p>
@@ -4878,6 +4928,7 @@
           <p>Marie-Anne lui avait promis qu'elle l'attendrait le lendemain, dans le bois de sapins qui est au bas des landes de la Rêche.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 7</head>
           <p>Lorsqu'il disait quelles démonstrations avaient accueilli M. le duc de Sairmeuse, Chanlouineau restait au-dessous de la vérité.</p>
           <p>Chupin avait trouvé le secret de chauffer à blanc l'enthousiasme de commande des paysans si froids et si calculateurs qui l'entouraient.</p>
@@ -4934,6 +4985,7 @@
           <p>Blanche de Courtomieu… Marie-Anne Lacheneur.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 8</head>
           <p>Ceux-là seuls qui, aux jours radieux de l'adolescence, ont aimé, ont été aimés et ont vu, tout à coup, s'ouvrir entre eux et le bonheur un abîme infranchissable, ceux-là seuls peuvent comprendre la douleur de Maurice d'Escorval.</p>
           <p>Tous les rêves de sa vie, tous ses projets d'avenir reposaient sur son amour pour Marie-Anne.</p>
@@ -4987,6 +5039,7 @@
           <p>– Marie-Anne épouser Chanlouineau ! répétait-il, c'est impossible ! c'est impossible !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 9</head>
           <p>Les landes de la Rèche, où Marie-Anne avait promis à Maurice de le rejoindre, doivent leur nom à la nature de leur sol âpre et rebelle.</p>
           <p>La nature y semble maudite, rien n'y vient. La boue s'y détrempe contre les cailloux, le sable y défie les fumures. Si bien que la patience opiniâtre des paysans s'y est émoussée comme le fer des outils.</p>
@@ -5039,6 +5092,7 @@
           <p>À dix pas, Martial de Sairmeuse était debout, immobile, appuyé sur son fusil de chasse.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 10</head>
           <p>Le duc de Sairmeuse avait peu et mal dormi, la nuit de son retour, la première nuit de sa Restauration, ainsi qu'il disait.</p>
           <p>Si inaccessible qu'il se prétendît aux émotions qui agitent les gens du commun, les scènes de la journée l'avaient profondément remué.</p>
@@ -5106,6 +5160,7 @@
           <p>Martial traversait ce bois, quand il entendit un bruit de voix. Il s'approcha, reconnut Marie-Anne et Maurice d'Escorval, et obéissant à une inspiration de colère, il s'arrêta, laissant tomber lourdement à terre la crosse de son fusil.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 11</head>
           <p>Aux heures décisives de la vie, quand l'avenir tout entier dépend d'une parole ou d'un geste, vingt inspirations contradictoires peuvent traverser l'esprit dans l'espace de temps que brille un éclair.</p>
           <p>À la brusque apparition du jeune marquis de Sairmeuse, la première idée de Maurice d'Escorval fut celle-ci :</p>
@@ -5219,6 +5274,7 @@
           <p>– Saint bon Dieu !… s'écria-t-il, prouvez-moi cela, et je suis à vous, corps et âme… et pour tout ce que vous voudrez.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 12</head>
           <p>– Non, décidément, je n'ai de ma vie rencontré une femme qui se puisse comparer à cette Marie-Anne. Quelle grâce et quelle majesté !… Ah ! sa beauté est divine !…</p>
           <p>Ainsi pensait Martial en regagnant Sairmeuse, après ses propositions à M. Lacheneur.</p>
@@ -5279,6 +5335,7 @@
           <p>– Maintenant, dit-il à son fils, hâtons-nous de nous rendre à Courtomieu, d'où on nous a déjà envoyé chercher deux fois… Il s'agit d'une affaire d'une importance extrême.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 13</head>
           <p>Le château de Courtomieu passe, après Sairmeuse, pour la plus magnifique habitation de l'arrondissement de Montaignac. Si Sairmeuse s'enorgueillit de ses hautes futaies, Courtomieu vante ses prairies et ses eaux jaillissantes.</p>
           <p>On y arrivait alors par une longue et étroite chaussée mal pavée, très laide, et qui gâtait absolument l'harmonie du paysage. Elle avait cependant coûté au marquis les yeux de la tête, à ce qu'il disait, et, pour cette raison, il la considérait comme un chef-d'œuvre.</p>
@@ -5399,6 +5456,7 @@
           <p>– Quoi !… pensait-elle, pour une fois qu'ils se sont rencontrés, ils ont gardé l'un de l'autre une impression si profonde !… S'aimeraient-ils donc déjà ?…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 14</head>
           <p>Si Martial eût rapporté fidèlement à Mlle Blanche tout ce qu'il entendit dans le cabinet du marquis de Courtomieu, il l'eût probablement un peu étonnée.</p>
           <p>Il l'eût, à coup sûr, stupéfiée, s'il lui eût confessé en toute sincérité ses impressions et ses réflexions.</p>
@@ -5466,6 +5524,7 @@
           <p>– Oui-dà !… Eh bien !… marquis, faites-moi le plaisir d'interroger Chupin.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 15</head>
           <p>Il n'y avait pas deux semaines que le duc de Sairmeuse était rentré en France, il n'avait pas encore eu le temps de secouer de ses souliers la poussière de l'exil, et déjà son imagination, troublée par la passion, lui montrait des ennemis partout.</p>
           <p>Il n'était à Sairmeuse que depuis deux jours, et déjà il en était à accueillir sans discernement et de si bas qu'ils vinssent, les rapports envenimés qui caressaient ses rancunes.</p>
@@ -5528,6 +5587,7 @@
           <p>– Je verrai Lacheneur demain, et il faudra bien que ce mystère s'explique.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 16</head>
           <p>La maison où s'était réfugié M. Lacheneur était située tout au haut des landes de la Rèche.</p>
           <p>C'était bien, ainsi qu'il l'avait dit, une masure étroite et basse ; mais elle n'était guère plus misérable que le logis de beaucoup de paysans de la commune.</p>
@@ -5706,6 +5766,7 @@
           <p>Moins préoccupé, il eût aperçu deux ombres le long du bois : Mlle Blanche de Courtomieu, suivie de l'inévitable tante Médie, était venue l'épier.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 17</head>
           <p>M. le marquis de Courtomieu idolâtrait sa fille ; c'était un fait admis, notoire dans le pays, incontestable et incontesté.</p>
           <p>Venait-on à lui parler de Mlle Blanche, on ne manquait jamais de lui dire :</p>
@@ -5880,6 +5941,7 @@
           <p>Il avait cru reconnaître Maurice d'Escorval.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 18</head>
           <p>Les chances favorables qu'il entrevoyait encore, après les confidences de son fils, le baron d'Escorval avait eu la prudence de les taire.</p>
           <p>– Mon pauvre Maurice, pensait-il, est désolé mais résigné ; mieux vaut lui laisser la certitude du malheur que l'exposer à un mécompte…</p>
@@ -6013,6 +6075,7 @@
           <p>– Défiez-vous !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 19</head>
           <p>Ainsi, c'était bien Maurice d'Escorval que le marquis de Sairmeuse avait surpris s'échappant de la maison de M. Lacheneur.</p>
           <p>Martial n'avait aucune certitude, il se pouvait que l'obscurité l'eût trompé, mais le doute seul suffisait à gonfler son cœur de colère.</p>
@@ -6078,6 +6141,7 @@
           <p>On répondait au signal de Lacheneur…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 20</head>
           <p>Ah ! l'ambition est une belle chose !…</p>
           <p>Déjà presque vieillards, éprouvés par tous les orages du siècle, riches à millions, possesseurs des plus somptueuses habitations de la province, le duc de Sairmeuse et le marquis de Courtomieu n'eussent plus dû, ce semble, aspirer qu'au repos du foyer domestique.</p>
@@ -6154,6 +6218,7 @@
           <p>– Diable !… et moi qui attends Blanche ce soir !… Elle a dû quitter Courtomieu après dîner… Pourvu qu'il ne lui arrive pas malheur !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 21</head>
           <p>Le duc de Sairmeuse et le marquis de Courtomieu avaient devant eux plus de temps qu'ils ne croyaient.</p>
           <p>Les paysans s'avançaient, mais non si vite que l'avait dit Chupin.</p>
@@ -6226,6 +6291,7 @@
           <p>Et ils partirent en courant…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 22</head>
           <p>Huit heures sonnaient au clocher de Sairmeuse quand M. Lacheneur et les siens quittèrent la lande de la Rèche.</p>
           <p>Une heure plus tard, au château de Courtomieu, Mlle Blanche finissait de dîner et demandait sa voiture pour aller rejoindre son père à Montaignac.</p>
@@ -6369,6 +6435,7 @@
           <p>La peur, une folle peur, s'empare de tous ces braves gens, et ils s'enfuient éperdus, balayés comme des feuilles sèches par la tempête.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 23</head>
           <p>Les stupéfiantes révélations de Chupin, l'idée que Martial, l'héritier de son nom, conspirait peut-être avec des paysans, l'arrestation si imprévue d'un des conjurés de l'intérieur, toutes ces circonstances avaient bouleversé le duc de Sairmeuse.</p>
           <p>Le sang-froid gouailleur du marquis de Courtomieu rendit à ses facultés leur équilibre.</p>
@@ -6508,6 +6575,7 @@
           <p>– Si Lacheneur était pris, pensait-il, s'il était condamné à mort, et si je le sauvais, Marie-Anne n'aurait rien à me refuser…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 24</head>
           <p>Ayant pénétré le mystère des continuelles absences de Maurice, le baron d'Escorval avait su dissimuler à sa femme son chagrin et ses craintes.</p>
           <p>C'était la première fois qu'il avait un secret pour cette fidèle et vaillante compagne de son existence.</p>
@@ -6687,6 +6755,7 @@
           <p>Marie-Anne resta.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 25</head>
           <p>Le secret que les approches de la mort avaient arraché à Marie-Anne au fort de la fusillade de la Croix-d'Arcy, Mme d'Escorval l'ignorait quand elle joignait sa voix aux prières de son fils pour retenir la malheureuse jeune fille.</p>
           <p>Mais cette circonstance n'inquiétait pas Maurice.</p>
@@ -6809,6 +6878,7 @@
           <p>– Quels ordres traversent l'espace ?… disait-il à l'abbé Midon ; est-ce la vie ? est-ce la mort ?…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 26</head>
           <p>– « Surtout, hâtez-vous ! » avait dit Maurice au messager qu'il chargeait de porter une lettre à sa mère.</p>
           <p>Cet homme n'arriva pourtant à Escorval qu'à la nuit tombante.</p>
@@ -6869,6 +6939,7 @@
           <p>– J'ai vu Chanlouineau… bon espoir… il promet de sauver M. d'Escorval !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 27</head>
           <p>Il y avait à la citadelle de Montaignac, engagée au milieu des fortifications de la seconde enceinte, une vieille construction qu'on appelait « la chapelle. »</p>
           <p>Consacrée jadis au culte, « la chapelle » restait sans destination. Elle était humide à ce point qu'elle ne pouvait même servir de magasin au régiment d'artillerie ; les affûts des pièces y pourrissaient plus vite qu'en plein air. Une mousse noirâtre y couvrait les murs jusqu'à hauteur d'homme.</p>
@@ -7129,6 +7200,7 @@
           <p>Chanlouineau souriait toujours !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 28</head>
           <p>L'abbé Midon avait eu raison de se reposer sur la parole des officiers à demi-solde.</p>
           <p>Voyant que toutes leurs instances ne décideraient pas Maurice à s'éloigner de la citadelle, ces hommes de cœur le saisirent chacun sous un bras, et littéralement l'emportèrent.</p>
@@ -7305,6 +7377,7 @@
           <p>– Allons, adieu, dit-il encore… ne perdez plus une minute. Adieu !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 29</head>
           <p>La perspective de s'emparer de Lacheneur, le chef du mouvement, émoustillait si fort M. le marquis de Courtomieu, qu'il n'avait pas quitté la citadelle, encore que l'heure de son dîner eût sonné.</p>
           <p>Posté à l'entrée de l'obscur corridor qui conduisait au cachot de Chanlouineau, il guettait la sortie de Marie-Anne. En la voyant passer aux dernières clartés du jour, rapide et toute vibrante d'énergie, il douta de la sincérité du soi-disant révélateur.</p>
@@ -7557,6 +7630,7 @@
           <p>– Vous pouvez considérer le baron comme sauvé, poursuivit-il, mais il faut que je m'entende avec un de vos amis… Retournez vite à l'hôtel de France et envoyez le curé de Sairmeuse me rejoindre sur la place d'Armes, où je vais l'attendre…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 30</head>
           <p>Arrêté des premiers au moment de la panique des conjurés devant Montaignac, le baron d'Escorval n'avait pas eu une seconde d'illusions…</p>
           <p>– Je suis un homme perdu !… pensa-t-il.</p>
@@ -7784,6 +7858,7 @@
           <p>Maurice qui en avait examiné le bout, s'écriait avec d'horribles imprécations de vengeance et de haine, qu'ils étaient trahis, qu'on s'était arrangé pour ne leur livrer qu'un cadavre… Que la corde enfin, avait été coupée.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 31</head>
           <p>Chupin avait perdu le sommeil, presque le boire, depuis ce matin funeste où il avait vu flamboyer, sur les murs de Montaignac, l'arrêté de M. le duc de Sairmeuse, promettant à qui livrerait Lacheneur, mort ou vif, une gratification de 20, 000 francs.</p>
           <p>L'odieuse provocation s'adressait à de telles âmes.</p>
@@ -8038,6 +8113,7 @@
           <p>Nul ne semblait s'y douter qu'en ce moment même, M. d'Escorval et le caporal Bavois travaillaient à leur évasion.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 32</head>
           <p>Seul dans son cachot, après le départ de Marie-Anne, Chanlouineau s'abandonnait au plus affreux désespoir.</p>
           <p>Il venait de donner plus que sa vie à cette femme tant aimée.</p>
@@ -8173,6 +8249,7 @@
           <p>Il mourut sans pâlir, comme il se l'était promis, calme et fier, le nom de Marie-Anne sur les lèvres…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 33</head>
           <p>Eh bien !… il y eut une femme, une jeune fille, que n'émurent ni ne touchèrent les lamentables scènes dont Montaignac était le théâtre.</p>
           <p>Mlle Blanche de Courtomieu demeura souriante comme de coutume, au milieu d'une population en deuil ; ses yeux si beaux restèrent secs pendant que coulaient tant de pleurs.</p>
@@ -8280,6 +8357,7 @@
           <p>Et le soir même, des officiers à la demi-solde s'en allaient racontant partout que des récompenses magnifiques venaient d'être accordées au marquis de Courtomieu et au duc de Sairmeuse, et qu'ils allaient marier leurs enfants à la fin de la semaine.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 34</head>
           <p>Que Martial de Sairmeuse épousât Mlle Blanche de Courtomieu, il n'y avait rien là qui dût surprendre les habitants de Montaignac.</p>
           <p>Mais en répandant, comme toute fraîche, cette vieille nouvelle, le soir même de l'exécution de Lacheneur, les officiers à la demi-solde savaient bien tout ce qu'il en rejaillirait d'odieux sur deux hommes qui étaient devenus le point de mire de leur haine.</p>
@@ -8356,6 +8434,7 @@
           <p>Et il passa…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 35</head>
           <p>Étroite était la saillie de rocher où avaient dû prendre pied en fuyant le baron d'Escorval et le caporal Bavois.</p>
           <p>À son point le plus large, elle ne mesurait pas plus d'un mètre et demi.</p>
@@ -8542,6 +8621,7 @@
           <p>– Vous suivre, donc !… répondit le vieux soldat. J'ai droit au feu et à la chandelle chez vous, c'est convenu avec votre père !… Ainsi, pas accéléré, la jeune demoiselle n'a pas l'air bien du tout, et je vois là-bas le clocher de l'étape.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 36</head>
           <p>Femme par la grâce et par la beauté, femme par le dévouement et la tendresse, Marie-Anne savait trouver en elle-même une vaillance virile. Son énergie et son sang-froid, en ces jours désolés, furent l'admiration et l'étonnement de tous ceux qui l'approchèrent.</p>
           <p>Mais les forces humaines sont bornées… Toujours, après des efforts exorbitants, un moment arrive où la chair défaillante trahit la plus ferme volonté.</p>
@@ -8726,6 +8806,7 @@
           <p>Il avait coupé sa moustache.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 37</head>
           <p>C'est entre l'abbé Midon et Martial de Sairmeuse, le soir, sur la place d'Armes de Montaignac, qu'avaient été discutées et arrêtées les conditions de l'évasion du baron d'Escorval.</p>
           <p>Une difficulté tout d'abord s'était présentée qui avait failli rompre la négociation :</p>
@@ -8800,6 +8881,7 @@
           <p>À tous risques, ils entrèrent donc dans le premier bouchon qu'ils rencontrèrent sur leur route, et la provocation fut écrite et confiée à Jean Lacheneur…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 38</head>
           <p>Troubler la fête du château de Sairmeuse, changer en tristesse la joie d'un premier jour de mariage, épouvanter de sinistres présages l'union de Martial et de Mlle Blanche de Courtomieu…</p>
           <p>Voilà, en vérité, tout ce qu'espérait Jean Lacheneur.</p>
@@ -8950,6 +9032,7 @@
           <p>L'une à son père, l'autre à sa jeune femme.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 39</head>
           <p>Si abominable que Martial imaginât le scandale de ses emportements, l'idée qu'il s'en faisait restait encore au-dessous de la réalité.</p>
           <p>La foudre tombant au milieu de la galerie, n'eût pas impressionné les hôtes de Sairmeuse si terriblement que la lecture de la provocation de Maurice d'Escorval.</p>
@@ -9074,6 +9157,7 @@
           <p>– Oh ! cette Marie-Anne ! s'écria-t-elle, cette créature ! je la tuerai !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 40</head>
           <p>Les vingt-quatre mortelles heures passées par Mme Blanche à mesurer l'étendue de son horrible malheur, le duc de Sairmeuse les avait employées à tempêter et à jurer à faire crouler les plafonds.</p>
           <p>Lui non plus, il ne s'était pas couché.</p>
@@ -9135,6 +9219,7 @@
           <p>– Ce n'est pas lui que je crains, murmura-t-il, mais sa fille … ma femme.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 41</head>
           <p>Il faut avoir vécu au fond des campagnes pour savoir au juste avec quelle prestigieuse rapidité une nouvelle s'y propage et vole de bouche en bouche. Parfois, c'est à confondre l'esprit.</p>
           <p>Ainsi, le soir même des scènes du château de Sairmeuse, la rumeur en arrivait aux infortunés cachés à la ferme du père Poignot.</p>
@@ -9293,6 +9378,7 @@
           <p>Personne, dans le pays, n'eut seulement un soupçon.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 42</head>
           <p>Pour quitter Sairmeuse sans violences, noblement et froidement, il avait fallu à Mme Blanche des efforts surhumains et toute l'énergie de sa volonté.</p>
           <p>La plus épouvantable colère grondait en elle, pendant que, drapée de dignité mélancolique, elle murmurait des paroles de mansuétude et de pardon.</p>
@@ -9534,6 +9620,7 @@
           <p>– Bonne nouvelle !… lui cria-t-il dès qu'il l'aperçut, nous tenons enfin la coquine !</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 43</head>
           <p>C'était le surlendemain du jour où, sur l'ordre formel de l'abbé Midon, Marie-Anne était allée s'établir à la Borderie.</p>
           <p>On ne s'entretenait que de cette prise de possession dans le pays, et le testament de Chanlouineau était le texte de commentaires infinis.</p>
@@ -9633,6 +9720,7 @@
           <p>– Ou vous me trahissez, dit-elle, ou vous n'êtes qu'un imbécile… choississez. Hier, Martial et Marie-Anne se sont promenés ensemble un quart d'heure au carrefour de la Croix-d'Arcy.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 44</head>
           <p>C'était un honnête homme, ce vieux médecin de Vigano, qui avait tout quitté pour voler au secours de Marie-Anne. Son intelligence était supérieure, comme son cœur, il connaissait la vie pour avoir aimé et souffert, et il devait à l'expérience deux vertus sublimes : l'indulgence et la charité.</p>
           <p>À un tel homme, une soirée de causerie suffisait pour pénétrer Marie-Anne. Aussi, pendant les quinze jours qu'il resta caché à la Borderie, mit-il tout en œuvre pour rassurer cette infortunée qui se confiait à lui, pour la rassurer, pour la réhabiliter en quelque sorte à ses propres yeux.</p>
@@ -9814,6 +9902,7 @@
           <p>La nuit était noire, Marie-Anne se hâtait… elle n'aperçut pas dans son petit jardin, près d'un massif de lilas, deux ombres immobiles…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 45</head>
           <p>Pris par Mme Blanche en flagrant délit de mensonge ou tout au moins de négligence, Chupin demeura un moment interloqué.</p>
           <p>Il voyait s'évanouir cette perspective tant caressée d'une retraite à Courtomieu ; il voyait se tarir brusquement une source de faciles bénéfices qui lui permettaient d'épargner son trésor et même de le grossir.</p>
@@ -10008,6 +10097,7 @@
           <p>– Oh ! mon Dieu ! comme je souffre !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 46</head>
           <p>Agenouillée à l'entre-bâillure de la porte, le cou tendu, toute vibrante d'anxiété, Mme Blanche épiait les effets du poison qu'elle avait versé.</p>
           <p>Elle était si près de sa victime, qu'elle distinguait jusqu'au battement de ses tempes et que par instants il lui semblait sentir son haleine brûlante comme la flamme…</p>
@@ -10143,6 +10233,7 @@
           <p>Et il expira, sans avoir pu dire aux siens où il avait enfoui le prix du sang de Lacheneur.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 47</head>
           <p>De tous les gens qui avaient été témoins de l'épouvantable chute du baron d'Escorval, l'abbé Midon avait été le seul à ne pas désespérer…</p>
           <p>Il n'était pas médecin, de par le diplôme ; mais il avait en sa vie, toute de dévouement, raccommodé tant de bras et « rebouté » tant de jambes, que les blessures, ainsi qu'il le disait, le connaissaient.</p>
@@ -10421,6 +10512,7 @@
           <p>Mais le marquis de Sairmeuse ne reprit pas la route de Montaignac, c'est vers le château de Courtomieu qu'il galopa…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 48</head>
           <p>La raison de Mme Blanche était déjà affreusement troublée quand Chupin l'emporta hors de la chambre de Marie-Anne.</p>
           <p>Elle perdit toute conscience d'elle lorsqu'elle vit tomber le vieux maraudeur.</p>
@@ -10534,6 +10626,7 @@
           <p>– Bast ! répondit-il avec une assurance singulière, qui sait ?… J'ai idée, au contraire, que l'argent ne me manquera pas, là-bas !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 49</head>
           <p>Ainsi, moins d'un an après ce terrible ouragan de passions qui avait bouleversé la paisible vallée de l'Oiselle, c'est à peine si on en retrouvait des vestiges qui allaient s'effaçant de jour en jour, sous les tombées de neige du temps.</p>
           <p>Que restait-il pour attester la réalité de tous ces événements si récents et cependant déjà presque du domaine de la légende ?…</p>
@@ -10605,6 +10698,7 @@
           <p>– Saint-bon Dieu !… s'écria-t-il, vous avez raison… Mais, laissez faire, je vais gagner de quoi faire le voyage, et on verra…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 50</head>
           <p>Plus encore que Mme Blanche, tante Médie avait été épouvantée de la visite si extraordinaire de Martial de Sairmeuse au château de Courtomieu.</p>
           <p>En dix secondes, il lui passa par la cervelle plus d'idées qu'en dix ans.</p>
@@ -10704,6 +10798,7 @@
           <p>– Tante, nous partons d'aujourd'hui en huit.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 51</head>
           <p>Dévorée d'angoisses, obsédée de soucis poignants, Mme Blanche n'avait pas remarqué que tante Médie n'était plus la même.</p>
           <p>Le changement, à vrai dire, était peu sensible, il ne frappait pas les domestiques, mais il n'en était pas moins positif et réel, et se trahissait par quantité de petites circonstances inaperçues.</p>
@@ -10818,6 +10913,7 @@
           <p>– Il y a en bas un homme qui demande à parler à madame la marquise.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 52</head>
           <p>À demi-couchée sur un canapé, le coude sur les coussins, le front dans la main, Mme Blanche écoutait la lecture d'un livre nouveau que lui faisait tante Médie.</p>
           <p>L'entrée du domestique ne lui fit seulement pas lever la tête.</p>
@@ -11017,6 +11113,7 @@
           <p>Elle souffrait depuis autant d'années bientôt que Marie-Anne avait souffert de minutes, et elle se disait que les tortures du poison ne devaient pas être bien plus intolérables que ses angoisses…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 53</head>
           <p>Comment Martial ne s'aperçut-il, ne se douta-t-il même jamais de rien ?</p>
           <p>La réflexion explique ce fait, extraordinaire en apparence, naturel en réalité.</p>
@@ -11149,6 +11246,7 @@
           <p>– Maintenant, pensait-il, je la tiens !… Dans quels bourbiers dois-je la traîner, avant de la livrer à la vengeance de son mari !…</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 54</head>
           <p>Dix lignes de l'article consacré à Martial de Sairmeuse, par la BIOGRAPHIE GÉNÉRALE DES HOMMES DU SIÈCLE, expliquent son existence après son mariage.</p>
           <p>« Martial de Sairmeuse, y est-il dit, dépensa au service de son parti la plus haute intelligence et d'admirables facultés… Mis en avant au moment où les passions politiques étaient le plus violentes, il eut le courage d'assumer seul la responsabilité des plus terribles mesures…</p>
@@ -11350,6 +11448,7 @@
           <p>Mais il avait lu un volume de soupçons dans les yeux du jeune policier qui l'avait arrêté, et que les autres appelaient Lecoq.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 55</head>
           <p>Le duc de Sairmeuse était de ces hommes qui restent supérieurs à toutes les fortunes, bonnes ou mauvaises. Son expérience était grande, son coup d'œil sûr, son intelligence prompte et féconde en ressources. Il avait, en sa vie, traversé des hasards étranges, et toujours son sang-froid avait dominé les événements.</p>
           <p>Mais, en ce moment, seul dans ce cabanon humide et infect, après les scènes sanglantes du cabaret de la Chupin, il se trouvait sans idées comme sans espérances…</p>
@@ -11415,6 +11514,7 @@
           <p>– Pauvre malheureuse !… murmura-t-il, puisse Dieu te pardonner comme je te pardonne, toi dont le crime a été si effroyablement expié ici bas !</p>
         </div>
         <div type="chapter">
+
           <head>Épilogue : Le Premier Succès</head>
           <p>Libre, dans son hôtel, au milieu de ses gens, rentré en possession de sa personnalité, le duc de Sairmeuse s'était écrié avec l'accent du triomphe :</p>
           <p>– Nous avons joué Lecoq !</p>
@@ -11524,7 +11624,7 @@
           <p>Mme la duchesse étant morte, il ne saurait être question de ce qui a pu se passer à la Borderie.</p>
           <p>Huit jours après, en effet, une ordonnance de non-lieu était rendue par M. Segmuller en faveur du duc de Sairmeuse…</p>
           <p>Nommé au poste qu'il ambitionnait, Lecoq eut le bon goût, – ce dut être un calcul, – de grimer de modestie son triomphe…</p>
-          <p>Mais le jour même, il avait couru au passage des Panoramas, commander à Sterne un cachet portant ses armes parlantes, et la devise à laquelle il est resté fidèle : Semper vigilans.</p>
+          <p>Mais le jour même, il avait couru au passage des Panoramas, commander à Sterne un cachet portant ses armes parlantes, et la devise à laquelle il est resté fidèle : <foreign>Semper vigilans</foreign>.</p>
         </div>
       </div>
     </body>
