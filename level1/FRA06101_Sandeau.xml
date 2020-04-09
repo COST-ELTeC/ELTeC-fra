@@ -33,6 +33,9 @@
           <ref target="http://www.gutenberg.ebooks/34692">http://www.gutenberg.ebooks/34692</ref>
           <ref target="http://www.gutenberg.ebooks/34693">http://www.gutenberg.ebooks/34693</ref>
         </bibl>
+        <bibl type="firstEdition">
+          <date>1848</date>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
