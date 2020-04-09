@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Le blé qui leve : edition ELTeC</title>
-        <author>Bazin, René (1853-1932)</author>
+        <author ref="viaf:24597541;wikidata:Q127539">Bazin, René (1853-1932)</author>
       </titleStmt>
       <extent>
         <!--an upper estimate: includes paratext -->
@@ -30,7 +30,6 @@
         <bibl type="firstEdition">
           <date>1907</date>
         </bibl>
-
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
