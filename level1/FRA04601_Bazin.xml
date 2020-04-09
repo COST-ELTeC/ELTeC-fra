@@ -27,6 +27,10 @@
           <publisher>Bibebook</publisher>
           <ref target="http://www.bibebook.com/search/978-2-8247-1249-9">http://www.bibebook.com/search/978-2-8247-1249-9</ref>
         </bibl>
+        <bibl type="firstEdition">
+          <date>1907</date>
+        </bibl>
+
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
