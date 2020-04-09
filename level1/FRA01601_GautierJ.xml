@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA01601" xml:lang="fr">
   <teiHeader>
@@ -70,7 +70,7 @@
       </langUsage>
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
         <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
