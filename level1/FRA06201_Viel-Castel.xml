@@ -28,7 +28,11 @@
         <bibl type="digitalSource">
           <title>Archambaud de Comborn, par le Cte Horace de Viel-Castel</title>
           <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k5607125s"
-            >http://gallica.bnf.fr/ark:/12148/bpt6k5607125s</ref>    </bibl>
+            >http://gallica.bnf.fr/ark:/12148/bpt6k5607125s</ref>
+          </bibl>
+          <bibl type="firstEdition">
+            <date>1845</date>
+          </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
