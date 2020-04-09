@@ -12,6 +12,7 @@ FRA01601_GautierJ	FRA01601	Gautier, Judith	La Sœur du Soleil	1845	1917	F	viaf:5
 FRA03901_Stolz	FRA03901	Stolz, Madame de [Fanny de Bégon]	La Maison roulante	1820	1898	F	viaf:19850120 wikidata:Q3275360	NA	1869	viaf:309282062	medium	NA	T2	52092	fra
 FRA00401_Allais	FRA00401	Allais, Alphone	Le Captain Cap	1829	1871	M	viaf:302147306	NA	1902	viaf:missing	short	NA	T4	38400	fra
 FRA03401_Reybaud	FRA03401	Reybaud, Fanny [Hippolyte Arnaud]	Mademoiselle de Malepeire	1802	1871	F	viaf:36959845	NA	1855	NA	short	NA	T1	36880	fra
+FRA03201_Blandy	FRA03201	Blandy, Stella	Rouzétou	1836	1925	F	viaf:39410255	NA	1887	NA	medium	NA	T3	80600	fra
 FRA01901_Gaboriau	FRA01901	Gaboriau, Émile	Le crime d'Orcival	1832	1873	M	viaf:100177491	NA	1866	viaf:312348929	long	NA	T2	127326	fra
 FRA01603_GautierJ	FRA01603	Gautier, Judith	Les Princesses d'Amour : courtisanes japonaises	1845	1917	F	viaf:54148064	NA	1900	NA	short	NA	T4	28724	fra
 FRA00503_Balzac	FRA00503	Balzac, Honoré de	Le curé de village	1799	1850	M	viaf:29529595	NA	1841	viaf:177407570	medium	NA	T1	93200	fra
@@ -23,7 +24,6 @@ FRA05702_Maquet	FRA05702	Maquet, Auguste	La Maison du baigneur	1812	1888	M	viaf:
 FRA03101_Ponson	FRA03101	Ponson du Terrail, Pierre Alexis	La baronne trépassée	1829	1871	M	viaf:17228199	NA	1852	viaf:missing	medium	NA	T1	61779	fra
 FRA02701_Maupassant	FRA02701	Maupassant, Guy de	Bel-Ami	1850	1893	M	viaf:29537765	NA	1885	viaf:174771837	long	NA	T3	111187	fra
 FRA05801_Mille	FRA05801	Mille, Pierre	Louise et Barnavaux : edition ELTeC	1864	1941	M	viaf:100905302	NA	NA	NA	short	NA	T4	47585	fr
-FRA03202_Rachilde	FRA03202	Rachilde [Marguerite Vallette-Eymery]	Monsieur Vénus	1860	1953	F	viaf:44304153	NA	1884	NA	short	NA	T3	38584	fra
 FRA04401_Barbusse	FRA04401	Barbusse, Henri	Le Feu : edition ELTeC	1873	1935	M	NA	NA	NA	NA	long	NA	T4	114153	fr
 FRA00602_Boisgobey	FRA00602	Boisgobey, Fortuné du	Rubis sur l'ongle	1821	1891	M	viaf:19720225	NA	1886	viaf:315021495	long	NA	T3	104131	fra
 FRA03102_Ponson	FRA03102	Ponson du Terrail, Pierre Alexis	La résurrection de Rocambole	1829	1871	M	viaf:17228199	NA	1866	viaf:294264533	long	NA	T2	173240	fra
@@ -63,7 +63,6 @@ FRA00901_Daudet	FRA00901	Daudet, Alphonse	Le petit chose	1840	1897	M	viaf:492862
 FRA01102_Dombre	FRA01102	Dombre, Roger [Marguerite Sisson / Marguerite Ligeron]	Folla	1859	1914	F	viaf:37053113	NA	1889	oclc:465119441 viaf:unavailable	short	NA	T3	24998	fra
 FRA00701_Carraud	FRA00701	Carraud, Zulma	La petite Jeanne	1796	1889	F	viaf:66529196	NA	1852	NA	medium	NA	T1	50316	fra
 FRA03701_Sand	FRA03701	Sand, George [Amantine Lucile Aurore Dupin]	Nanon	1804	1876	F	viaf:46766944	NA	1872	viaf:204615801	long	NA	T2	101840	fra
-FRA03201_Rachilde	FRA03201	Rachilde [Marguerite Vallette-Eymery]	La Marquise de Sade	1860	1953	F	viaf:44304153	NA	1887	NA	medium	NA	T3	85847	fra
 FRA04301_Achard	FRA04301	Achard, Amédée	Belle-Rose : edition ELTeC	1814	1875	M	NA	NA	NA	NA	long	NA	T1	168514	fr
 FRA03003_Ohnet	FRA03003	Ohnet, Georges	Le Marchand de Poison	1848	1918	M	viaf:66497284	NA	1892	viaf:308106335	medium	NA	T3	50561	fra
 FRA01501_France	FRA01501	France, Anatole	Les dieux ont soif: ELTeC edition	1844	1924	M	NA	NA	1912	NA	medium	NA	T4	67177	fra
