@@ -34,6 +34,9 @@
           <respStmt><resp>  Produced by</resp> <name>Giovanni Fini, Clarity and the Online  Distributed Proofreading
           Team at http://www.pgdp.net</name></respStmt>
         </bibl>
+        <bibl type="firstEdition">
+          <date>1904</date>
+          </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
