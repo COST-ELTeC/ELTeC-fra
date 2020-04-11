@@ -8,7 +8,7 @@ This is the French novel corpus for the ELTeC, the European Literary Text Collec
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC. 
 
-* Work on the next release is ongoing. 
+* Work on the next release is ongoing: there are now 100 novels in level 1 encoding, but some issues still need to be fixed. 
 * v0.8.0, November 2019: The corpus contains 82 novels encoded at level 1. The corpus composition criteria are not yet fully fulfilled. See: https://github.com/COST-ELTeC/ELTeC-fra/releases/tag/v0.8.0 
 
 ## Contributors
