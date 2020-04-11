@@ -14,7 +14,8 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <measure unit="words">34567</measure>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">21626</measure>
       </extent>
       <publicationStmt>
         <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>

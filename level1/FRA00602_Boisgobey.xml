@@ -15,6 +15,7 @@
         </respStmt>
       </titleStmt>
       <extent>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">104131</measure>
       </extent>
       <publicationStmt>

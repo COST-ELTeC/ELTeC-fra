@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00901" xml:lang="fr">
   <teiHeader>
@@ -15,51 +15,64 @@
         </respStmt>
       </titleStmt>
       <extent>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">87744</measure>
-
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          <date>2004</date>
-          ,
-          <idno/>
-          ,
-          <ref target="http://www.ebooksgratuits.com/"/>
-          .
-        </bibl><bibl type="printSource">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <date>2004</date> ,
+          <idno /> ,
+          <ref target="http://www.ebooksgratuits.com/" /> .
+        </bibl>
+        <bibl type="printSource">
           <date>source</date>
-        </bibl><bibl type="firstEdition">
-          <date>1867</date>
-          (1866-1867)
-        </bibl></sourceDesc>
+        </bibl>
+        <bibl type="firstEdition">
+          <date>1867</date> (1866-1867)
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fra">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-06-02">Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="group">
+
         <head>PREMIÈRE PARTIE</head>
         <div type="chapter">
+
           <head>I -- LA FABRIQUE</head>
           <p>Je suis né le 13 mai 18..., dans une ville du Languedoc où l'on trouve, comme dans toutes les villes du Midi, beaucoup de soleil, pas mal de poussière, un couvent de carmélites et deux ou trois monuments romains.</p>
           <p>Mon père, M. Eyssette, qui faisait à cette époque le commerce des foulards, avait, aux portes de la ville, une grande fabrique dans un pan de laquelle il s'était taillé une habitation commode, tout ombragée de platanes, et séparée des ateliers par un vaste jardin.</p>
@@ -102,6 +115,7 @@
           <p>Je quittai mon île le 30 septembre 18...</p>
         </div>
         <div type="chapter">
+
           <head>II -- LES BABAROTRES</head>
           <p>O CHOSES de mon enfance, quelle impression VOUS m'avez laissée ! Il me semble que c'est hier, ce voyage sur le Rhône. Je vois encore le bateau, ses passagers, son équipage ; j'entends le bruit des roues et le sifflet de la machine. Le capitaine s'appelait Géniès, le maître coq Montélimart. On n'oublie pas ces choses-là.</p>
           <p>La traversée dura trois jours. Je passai ces trois jours sur le pont, descendant au salon juste pour manger et dormir. Le reste du temps, j'allais me mettre à la pointe extrême du navire, près de l'ancre.</p>
@@ -167,6 +181,7 @@
           <p>Alors, Mme Eyssette s'asseyait auprès de lui, avec son tricot, et restait là de longues heures, comptant ses mailles à voix basse, avec un gros soupir de temps en temps. Pauvre Mme Eyssette ! Elle y pensait toujours à ce cher pays qu'elle n'espérait plus revoir... Hélas ! pour notre malheur, pour notre malheur à tous, elle allait le revoir bientôt...</p>
         </div>
         <div type="chapter">
+
           <head>III -- IL EST MORT ! PRIEZ POUR LUI !</head>
           <p>C'ÉTAIT UN LUNDI DU MOIS DE JUILLET.</p>
           <p>Ce jour-là, en sortant du collège, je m'étais laissé entraîner à faire une partie de barres, et lorsque je me décidai à rentrer à la maison, il était beaucoup plus tard que je n'aurais voulu. De la place des Terreaux à la rue Lanterne, je courus sans m'arrêter, mes livres à la ceinture, ma casquette entre les dents.</p>
@@ -206,6 +221,7 @@
           <p>Écouter, je ne mens pas : voilà longtemps que ces choses se sont passées, voilà longtemps qu'il dort dans la terre, mon cher abbé que j'aimais tant ; eh bien, encore aujourd'hui, quand je reçois une dépêche, je ne peux pas l'ouvrir sans un frisson de terreur. Il me semble que je vais lire qu'il est mort, et qu'il faut prier pour lui !</p>
         </div>
         <div type="chapter">
+
           <head>IV -- LE CAHIER ROUGE</head>
           <p>On trouve dans les vieux missels de naïves enluminures, où la Dame des sept douleurs est représentée ayant sur chacune de ses joues une grande ride profonde, cicatrice divine que l'artiste a mise là pour nous dire : « Regardez comme elle a pleuré !... » Cette ride -- la ride des larmes -- je jure que je l'ai vue sur le visage amaigri de Mme Eyssette, lorsqu'elle revint à Lyon, après avoir enterré son fils.</p>
           <p>Pauvre mère, depuis ce jour elle ne voulut plus sourire. Ses robes furent toujours noires, son visage toujours désolé, Dans ses vêtements comme dans son cœur, elle prit le grand deuil, et ne le quitta jamais... Du reste, rien de changé dans la maison Eyssette ; ce fut un peu plus lugubre, voilà tout. Le curé de Saint-Nizier dit quelques messes pour le repos de l'âme de l'abbé. On tailla deux vêtements noirs pour les enfants dans une vieille roulière ? de leur père, et la vie, la triste vie recommença.</p>
@@ -297,6 +313,7 @@
           <p>O douleur ! la fabrique n'est plus la fabrique ; c'est un couvent de carmélites, où les hommes n'entrent jamais.</p>
         </div>
         <div type="chapter">
+
           <head>V -- GAGNE TA VIE</head>
           <p>SARLANDE est une petite ville des Cévennes, bâtie au fond d'une étroite vallée que la montagne enserre de partout comme un grand mur. Quand le soleil y donne, c'est une fournaise ; quand la tramontane souffle, une glacière ...</p>
           <p>Le soir de mon arrivée, la tramontane faisait rage depuis le matin ; et quoiqu'on fût au printemps, le petit Chose, perché sur le haut de la diligence, sentit, en entrant dans la ville, le froid le saisir jusqu'au cœur.</p>
@@ -377,6 +394,7 @@
           <p>«Travaillons, messieurs, travaillons !» C'est ainsi que le petit Chose commença sa première étude.</p>
         </div>
         <div type="chapter">
+
           <head>VI -- LES PETITS</head>
           <p>CEUX-LA n'étaient pas méchants ; c'étaient les autres.</p>
           <p>Ceux-là ne me firent jamais de mal, et moi je les aimais bien, parce qu'ils ne sentaient pas encore le collège et qu'on lisait toute leur âme dans leurs yeux.</p>
@@ -450,6 +468,7 @@
           <p>Pauvre Bamban !.</p>
         </div>
         <div type="chapter">
+
           <head>VII -- LE PION</head>
           <p>Je pris donc possession de l'étude des moyens.</p>
           <p>Je trouvai là une cinquantaine de méchants drôles, montagnards joufflus de douze à quatorze ans, fils de métayers enrichis, que leurs parents envoyaient au collège pour en faire de petits bourgeois, à raison de cent vingt francs par trimestre.</p>
@@ -515,6 +534,7 @@
           <p>D'autres grimpaient dans les chars à banc de famille, à côté de jolies filles riant à belles dents sous leurs coiffes blanches. La fermière conduisait avec sa chaîne d'or autour du cou... Fouette, Mathurine ! On retourne à la métairie ; on va manger des beurrées, boire du vin muscat, chasser à la pipée ! tout le jour et se rouler dans le foin qui sent bon ! Heureux enfants ! Ils s'en allaient, ils partaient tous... Ah ! si j'avais pu partir moi aussi...</p>
         </div>
         <div type="chapter">
+
           <head>VIII -- LES YEUX NOIRS</head>
           <p>MAINTENANT le collège est désert. Tout le monde est parti... D'un bout des dortoirs à l'autre, des escadrons de gros rats font des charges de cavalerie. en plein jour. Les écritoires se dessèchent au fond des pupitres. Sur les arbres des cours, la division des moineaux est en fête ; ces messieurs ont invité tous leurs camarades de la ville, ceux de l'évêché, ceux de la sous-préfecture, et, du matin jusqu'au soir, c'est un pépiage assourdissant.</p>
           <p>De sa chambre, sous les combles, le petit Chose les écoute en travaillant. On l'a gardé par charité, dans la maison, pendant les vacances. Il en profite pour étudier à mort les philosophes grecs. Seulement, la chambre est trop chaude et les plafonds trop bas.</p>
@@ -589,6 +609,7 @@
           <p>Il le garde tout le jour, et le soir, en rentrant, au milieu des chants des élèves, des couacs de la musique et du fracas des tapissières roulant sur les pavés de la ville endormie, le petit Chose entend dans l'ombre, près de lui, les clefs de son rival qui grondent d'un air méchant : « Frinc ! frinc ! frinc ! monsieur le poète, nous vous revaudrons cela !»</p>
         </div>
         <div type="chapter">
+
           <head>IX -- L'AFFAIRE BOUCOYRAN</head>
           <p>Avec la Saint-Théophile, voilà les vacances enterrées.</p>
           <p>Les jours qui suivirent furent tristes ; un vrai lendemain de Mardi gras. Personne ne se sentait en train, ni les maîtres, ni les élèves. On s'installait...</p>
@@ -650,6 +671,7 @@
           <p>Les amis de Roger me reçurent à bras ouverts. Il avait bien raison, c'étaient tous de nobles cœurs ! Quand ils connurent mon histoire avec le marquis et la résolution que j'avais prise, ils vinrent, l'un après l'autre, me serrer la main «Bravo, jeune homme, très bien. » Moi aussi j'étais un noble cœur. Je fis venir un punch, on but à mon triomphe, et il fut décidé entre nobles cœurs que je tuerais le marquis de Boucoyran à la fin de l'année scolaire.</p>
         </div>
         <div type="chapter">
+
           <head>X -- LES MAUVAIS JOURS</head>
           <p>L'hiver était venu, un hiver sec, terrible et noir, comme il en fait dans ces pays de montagnes. Avec leurs grands arbres sans feuilles et leur sol gelé plus dur que la pierre, les cours du collège étaient tristes à voir. On se levait avant le jour, aux lumières ; il faisait froid ; de la glace dans les lavabos...</p>
           <p>Les élèves n'en finissaient plus ; la cloche était obligée de les appeler plusieurs fois. « Plus vite, messieurs ! » criaient les maîtres en marchant de long en large pour se réchauffer... On formait les rangs en silence, tant bien que mal, et on descendait à travers le grand escalier à peine éclairé et les longs corridors où soufflaient les bises mortelles de l'hiver.</p>
@@ -674,6 +696,7 @@
           <p>«Ange qui as consenti à passer une nuit, sur la terre... » Cette lettre, je l'avoue, le petit Chose l'écrivit avec la rage dans le cœur. Heureusement la correspondance s'arrêta là, et pendant quelque temps, je n'entendis plus parler de Cécilia ni de sa haute situation.</p>
         </div>
         <div type="chapter">
+
           <head>XI -- MON BON AMI LE MAITRE D'ARMES</head>
           <p>Ce jour-là, le 18 février, comme il était tombé beaucoup de neige pendant la nuit, les enfants n'avaient pas pu jouer dans les cours. Aussitôt l'étude du matin finie, on les avait casernés tous pèle mêle, dans la salle, pour y prendre leur récréation à l'abri du mauvais temps en attendant l'heure des classes.</p>
           <p>C'était moi qui les surveillais.</p>
@@ -744,6 +767,7 @@
           <p>Que diable pouvaient-ils faire là-bas par un temps pareil ? Je commençais à être fort inquiet ; aussi, sans vouloir accepter une partie de billard qu'on m'offrait, je relevai le bas de mon pantalon et je m'élançai dans la neige, du côté de la Prairie, à la recherche de mon bon ami le maître d'armes.</p>
         </div>
         <div type="chapter">
+
           <head>XII -- L'ANNEAU DE FER</head>
           <p>Des portes de Sarlande à la Prairie il y a bien une bonne demi-lieue ; mais, du train dont j'allais, je dus ce jour-là faire le trajet en moins d'un quart d'heure.</p>
           <p>Je tremblais pour Roger. J'avais peur que le pauvre garçon n'eût, malgré sa promesse, tout raconté au principal pendant l'étude ; je croyais voir encore luire la crosse de son pistolet. Cette pensée lugubre me donnait des ailes.</p>
@@ -826,6 +850,7 @@
           <p>Je vis la grande salle sombre et froide, l'anneau de fer qui reluisait, et ma cravate violette avec son nœud coulant, qui se balançait dans le courant d'air au-dessus de l'escabeau renversé.</p>
         </div>
         <div type="chapter">
+
           <head>XIII -- LES CLEFS DE M. VIOT</head>
           <p>Comme je sortais du collège à grandes enjambées, encore tout ému de l'horrible spectacle que je venais de voir, la loge du portier s'ouvrit brusquement, et j'entendis qu'on appelait :</p>
           <p>« Monsieur Eyssette ! monsieur Eyssette ! » C'étaient le maître du café Barbette et son digne ami M. Cassagne, l'air effaré, presque insolents.</p>
@@ -859,6 +884,7 @@
           <p>J'aurais été heureux de jouir plus longtemps de ce spectacle, mais le clairon de la diligence sonnait sur la place d'Armes, et je ne voulais pas qu'on partît sans moi. Et maintenant, adieu pour toujours, grand collège enfumé, fait de vieux fer et de pierres noires ; adieu, vilains enfants ! adieu, règlement féroce ! Le petit Chose s'envole et ne reviendra plus. Et vous, marquis de Boucoyran, estimez-vous heureux : On s'en va, sans vous allonger ce fameux coup d'épée, si longtemps médité avec les nobles cœurs du café Barbette... Fouette, cocher ! Sonne, trompette ! Bonne vieille diligence, fais feu de tes quatre roues... Emporte le petit Chose au galop de tes trois chevaux... Emporte le bien vite dans sa ville natale, pour qu'il embrasse sa mère chez l'oncle Baptiste, et qu'ensuite il mette le cap sur Paris et rejoigne au plus vite Eyssette (Jacques) dans sa chambre du Quartier latin !...</p>
         </div>
         <div type="chapter">
+
           <head>XIV -- L'ONCLE BAPTISTE</head>
           <p>Un singulier type d'homme que cet oncle Baptiste, le frère de Mme Eyssette ! Ni bon ni méchant, marié de bonne heure à un grand gendarme de femme avare et maigre qui lui faisait peur, ce vieil enfant n'avait qu'une passion au monde : la passion du coloriage. Depuis quelque quarante ans, il vivait entouré de godets, de pinceaux, de couleurs, et passait son temps à colorier des images de journaux illustrés. La maison était pleine de vieilles illustrations, de vieux charivari, de vieux magasins pittoresques, de cartes géographiques, tout cela fortement enluminé. Même dans ses jours de disette, quand la tante lui refusait de l'argent pour acheter des journaux à images, il arrivait à mon oncle de colorier des livres.</p>
           <p>Ceci est historique : j'ai tenu dans mes mains une grammaire espagnole que mon oncle avait mise en couleurs d'un bout à l'autre, les adjectifs en bleu, les substantifs en rose, etc.</p>
@@ -875,8 +901,10 @@
         </div>
       </div>
       <div type="group">
+
         <head>DEUXIÈME PARTIE</head>
         <div type="chapter">
+
           <head>I -- MES CAOUTCHOUCS</head>
           <p>QUAND je vivrais aussi longtemps que mon oncle Baptiste, lequel doit être à cette heure aussi vieux qu'un vieux baobab de l'Afrique centrale, jamais je, n'oublierai mon premier voyage à Paris en wagon de troisième classe.</p>
           <p>C'était dans les derniers jours de février ; il faisait encore très froid. Au-dehors, un ciel gris, le vent, le grésil, les collines chauves, des prairies inondées, de longues rangées de vignes mortes ; au-dedans, des matelots ivres qui chantaient, de gros paysans qui dormaient la bouche ouverte comme des poissons morts, de petites vieilles avec leurs cabas, des enfants, des puces, des nourrices, tout l'attirail du wagon des pauvres avec son odeur de pipe, d'eau-de-vie, de saucisse à l'ail et de paille moisie. Je crois y être encore.</p>
@@ -906,6 +934,7 @@
           <p>En entrant, je poussai un cri de joie. « Du feu ! quel bonheur ! » Et tout de suite je courus à la cheminée présenter mes pieds à la flamme, au risque de fondre les caoutchoucs. Alors seulement, Jacques s'aperçut de l'étrangeté de ma chaussure. Cela le fit beaucoup rire. « Mon cher, me dit-il, il y a une foule d'hommes célèbres qui sont arrivés à Paris en sabots, et qui s'en vantent. Toi, tu pourras dire que tu y es arrivé en caoutchoucs : c'est bien plus original. En attendant, mets ces pantoufles, et entamons le pâté. » Disant cela, le bon Jacques roulait devant le feu une petite table qui attendait dans un coin, toute servie.</p>
         </div>
         <div type="chapter">
+
           <head>II -- DE LA PART DU CURE DE SAINT-NIZIER</head>
           <p>Dieu ! qu'on était bien cette nuit-là dans la chambre de Jacques ! Quels joyeux reflets clairs la cheminée envoyait sur notre nappe ! Et ce vieux vin cacheté, comme il sentait les violettes ! Et ce pâté, quelle belle croûte en or bruni il vous avait ! Ah ! de ces pâtés-là, on n'en fait plus maintenant ; tu n'en boiras plus jamais de ces vins-là, mon pauvre Eyssette ! De l'autre côté de la table, en face, tout en face de moi, Jacques me versait à boire : et, chaque fois que je levais les yeux, je voyais son regard tendre comme celui d'une mère, qui me riait doucement.</p>
           <p>Moi, j'étais si heureux d'être là que j'en avais positivement la fièvre. Je parlais, je parlais ! « Mange donc », me disait Jacques en me remplissant mon assiette ; mais je parlais toujours et je ne mangeais pas. Alors, pour me faire taire, il se mit à bavarder, lui aussi, et me narra longuement, sans prendre haleine, tout ce qu'il avait fait depuis plus d'un an que nous ne nous étions pas vus.</p>
@@ -955,6 +984,7 @@
           <p>« Jusqu'à présent, nous sommes très contents l'un de l'autre ; hier au soir, en apprenant ton arrivée, il a voulu me faire emporter pour toi cette bouteille de vin vieux. On nous en sert une comme cela tous les jours à notre dîner, c'est te dire si l'on dîne bien. Le matin, par exemple, j'apporte mon déjeuner ; et tu rirais de me voir manger mes deux sous de fromage d'Italie dans une fine assiette de Moustiers, sur une nappe à blason. Ce que le bonhomme en fait, ce n'est pas par avarice, mais pour éviter à son vieux cuisinier, M. Pilois, la fatigue de me préparer mon déjeuner... En somme, la vie que je mène n'est pas désagréable. Les mémoires du marquis sont fort instructifs, j'apprends sur M. Decazes et M. de Villèle une foule de choses qui ne peuvent pas manquer de me servir un jour ou l'autre. À huit heures du soir, je suis libre. Je vais lire les journaux dans un cabinet de lecture, ou bien encore dire bonjour à notre ami Pierrotte... Est-ce que tu te rappelles, l'ami Pierrotte ? Tu sais ! Pierrotte des Cévennes, le frère de lait de maman ! Aujourd'hui Pierrotte n'est plus Pierrotte : c'est M. Pierrotte comme les deux bras. Il a un beau magasin de porcelaines au passage du Saumon ; et comme il aimait beaucoup Mme Eyssette, j'ai trouvé sa maison ouverte à tous battants. Pendant les soirées d'hiver, c'était une ressource... Mais maintenant que te voilà, je ne suis plus en peine pour mes soirées... Ni toi non plus, n'est-ce pas, frérot ? Oh ! Daniel, mon Daniel, que je suis content ! Comme nous allons être heureux !...»</p>
         </div>
         <div type="chapter">
+
           <head>III -- MA MERE JACQUES</head>
           <p>Jacques a fini Son Odyssée, maintenant C'est le tour de la mienne. Le feu qui meurt a beau nous faire signe : « Allez vous coucher, mes enfants », les bougies ont beau crier : « Au lit ! au lit ! Nous sommes brûlées jusqu'aux bobèches. » -- « On ne vous écoute pas », leur dit Jacques en riant, et notre veillée continue.</p>
           <p>Vous comprenez ! ce que je raconte à mon frère l'intéresse beaucoup. C'est la vie du petit Chose au collège de Sarlande ; cette triste vie que le lecteur se rappelle sans doute. Ce sont les enfants laids et féroces, les persécutions, les haines, les humiliations, les clefs de M. Viot toujours en colère, la petite chambre sous les combles où l'on étouffait, les trahisons, les nuits de larmes ; et puis aussi -- car Jacques est si bon qu'on peut tout lui dire -- ce sont les débauches du café Barbette, l'absinthe avec les caporaux, les dettes, l'abandon de soi-même, tout enfin, jusqu'au suicide et la terrible prédiction de l'abbé Germane : « Tu seras un enfant toute ta vie. » Les coudes sur la table, la tête dans ses mains, Jacques écoute jusqu'au bout ma confession sans l'interrompre. De temps en temps, je le vois qui frissonne et je l'entends dire : «Pauvre petit ! pauvre petit ! »</p>
@@ -970,6 +1000,7 @@
           <p>« Allons voir Paris ! »</p>
         </div>
         <div type="chapter">
+
           <head>IV -- LA DISCUSSION DU BUDGET</head>
           <p>Ce jour-là plus d'un Parisien a dû dire en rentrant chez lui, le soir, pour se mettre à table : «Quel singulier petit bonhomme j'ai rencontré aujourd'hui !» Le fait est qu'avec ses cheveux trop longs, son pantalon trop court, ses caoutchoucs, ses bas bleus, son bouquet départemental et cette solennité de démarche particulière à tous les êtres trop petits, le petit Chose devait être tout à fait comique.</p>
           <p>C'était justement une journée de la fin de l'hiver, une de ces journées tièdes et lumineuses, qui à Paris, souvent sont plus le printemps que le printemps lui-même. Il y avait beaucoup de monde dehors. Un peu étourdi par le va-et-vient bruyant de la rue, j'allais devant moi, timide, et le long des murs. On me bousculait, je disais « pardon ! » et je devenais tout rouge. Aussi je me gardais bien de m'arrêter devant les magasins et, pour rien au monde, je n'aurais demandé ma route. Je prenais une rue, puis une autre, toujours tout droit. On me regardait.</p>
@@ -1050,6 +1081,7 @@
           <p>– Tu pourras en juger toi-même, mon cher. Un jour ou l'autre, vous vous rencontrerez dans l'escalier. Mais en attendant, dormons vite... sans quoi Coucou-Blanc pourrait bien se fâcher encore. » Là-dessus, Jacques souffle la bougie, et M. Daniel Eyssette (de l'Académie française) s'endort sur l'épaule de son frère comme quand il avait dix ans.</p>
         </div>
         <div type="chapter">
+
           <head>V -- COUCOU-BLANC ET LA DAME DU PREMIER</head>
           <p>Il y a, sur la place de Saint-Germain-des-Prés, dans le coin de l'église, à gauche et tout au bord des toits, une petite fenêtre qui me serre le cœur chaque fois que je la regarde. C'est la fenêtre de notre ancienne chambre ; et, encore aujourd'hui, quand je passe par là, je me figure que le Daniel d'autrefois est toujours là-haut, assis à sa table contre la vitre, et qu'il sourit de pitié en voyant dans la rue le Daniel d'aujourd'hui triste et déjà courbé.</p>
           <p>Ah ! vieille horloge de Saint-Germain, que de belles heures tu m'as sonnées quand j'habitais là-haut, avec ma mère Jacques !... Est-ce que tu ne pourrais pas m'en sonner encore quelques-unes de ces heures de vaillance et de jeunesse ? J'étais si heureux dans ce temps-là... Je travaillais de si bon cœur !...</p>
@@ -1092,6 +1124,7 @@
           <p>– Eh bien, alors, viens... je vais t'acheter tout ce qu'il te faut, nous irons là-bas. » Je le regardai, stupéfait. « C'est la fin du mois, j'ai de l'argent», ajouta-t-il pour me convaincre. J'étais si content de l'idée des nippes fraîches que je ne remarquai pas l'émotion de Jacques ni le ton singulier dont il parlait. Ce n'est que plus tard que je songeai à tout cela. Pour le moment, je lui sautai au cou, et nous partîmes chez Pierrotte, en passant par le Palais-Royal, où je m'habillai de neuf chez un fripier.</p>
         </div>
         <div type="chapter">
+
           <head>VI -- LE ROMAN DE PIERROTTE</head>
           <p>QUAND Pierrotte avait Vingt ans, Si On lui avait prédit qu'un jour il succéderait à M. Lalouette dans le commerce des porcelaines, qu'il aurait deux cent mille francs chez son notaire -- Pierrotte, un notaire ! -- et une superbe boutique à l'angle du passage du Saumon, on l'aurait beaucoup étonné.</p>
           <p>Pierrotte, à vingt ans, n'était jamais sorti de son village, portait de gros esclots en sapin des Cévennes, ne savait pas un mot de français et gagnait cent écus par an à élever des vers à soie ; solide compagnon du reste, beau danseur de bourrée, aimant rire et chanter la gloire, mais toujours d'une manière honnête et sans faire de tort aux cabaretiers. Comme tous les gars de son âge, Pierrotte avait une bonne amie, qu'il allait attendre le dimanche à la sortie des vêpres pour l'emmener danser des gavottes sous les mûriers. La bonne amie de Pierrotte s'appelait Roberte, la grande Roberte. C'était une belle magnanarelle de dix-huit ans, orpheline comme lui, pauvre comme lui, mais sachant très bien lire et écrire, ce qui, dans les villages cévenols, est encore plus rare qu'une dot. Très fier de sa Roberte, Pierrotte comptait l'épouser dès qu'il aurait tiré au sort ; mais, le jour du tirage arrivé, le pauvre Cévenol -- bien qu'il eût trempé trois fois sa main dans l'eau bénite avant d'aller à l'urne -- amena le n° 4... Il fallait partir.</p>
@@ -1153,6 +1186,7 @@
           <p>« Mais non ! rassure-toi, ma mère Jacques. Mlle Pierrotte est aussi loin de mon cœur que je le suis du sien ; ce n'est pas moi que tu as à craindre bien sûr. » Je parlais sincèrement en disant cela, Mlle Pierrotte n'existait pas pour moi... Les yeux noirs, par exemple, c'est différent.</p>
         </div>
         <div type="chapter">
+
           <head>VII -- LA ROSE ROUGE ET LES YEUX NOIRS</head>
           <p>Après cette première visite à l'ancienne maison Lalouette, je restai quelque temps sans retourner là-bas. Jacques, lui, continuait fidèlement ses pèlerinages du dimanche, et chaque fois il inventait quelque nouveau nœud de cravate rempli de séduction...</p>
           <p>C'était tout un poème, la cravate de Jacques, un poème d'amour ardent et contenu, quelque chose comme un sélam d'Orient, un de ces bouquets de fleurs emblématiques que les Bachagas offrent à leurs amoureuses et auxquels ils savent faire exprimer toutes les nuances de la passion.</p>
@@ -1211,6 +1245,7 @@
           <p>« Quand j'aurai fini mon poème !...»</p>
         </div>
         <div type="chapter">
+
           <head>VIII -- UNE LECTURE AU PASSAGE DU SAUMON</head>
           <p>Enfin, je le terminai, ce fameux poème. J'en vins à bout après quatre mois de travail, et je me souviens qu'arrivé aux derniers vers je ne pouvais plus écrire, tellement les mains me tremblaient de fièvre, d'orgueil, de plaisir, d'impatience.</p>
           <p>Dans le clocher de Saint-Germain, ce fut un événement. Jacques, à cette occasion, redevint pour un jour le Jacques d'autrefois, le Jacques du cartonnage et des petits pots de colle. Il me relia un magnifique cahier sur lequel il voulut recopier mon poème de sa propre main ; et c'étaient à chaque vers des cris d'admiration, des trépignements d'enthousiasme...</p>
@@ -1425,6 +1460,7 @@
           <p>La dernière scène se passe dans le cimetière des Papillons. Après que les Nécrophores ont fait leur œuvre, un Hanneton solennel, qui a suivi le convoi, s'approche de la fosse, et, se mettant sur le dos, commence l'éloge du défunt, Malheureusement la mémoire lui manque ; il reste là les pattes en l'air, gesticulant pendant une heure et s'entortillant dans ses périodes... Quand l'orateur a fini, chacun se retire, et alors dans le cimetière désert, on voit la Bête à bon Dieu des premières scènes sortir de derrière une tombe. Tout en larmes, elle s'agenouille sur la terre fraîche de la fosse et dit une prière touchante pour son pauvre petit camarade qui est là.</p>
         </div>
         <div type="chapter">
+
           <head>IX -- TU VENDRAS DE LA PORCELAINE</head>
           <p>Au dernier vers de mon poème, Jacques, enthousiasmé, se leva pour crier bravo ; mais il s'arrêta net en voyant la mine effarée de tous ces braves gens.</p>
           <p>En vérité, je crois que le cheval de feu de l'Apocalypse, faisant irruption au milieu du petit salon jonquille, n'y aurait pas causé plus de stupeur que mon papillon bleu. Les Passajon, les Fougeroux, tout hérissés de ce qu'ils venaient d'entendre, me regardaient avec de gros yeux ronds ; les deux Ferrouillat se faisaient des signes. Personne ne soufflait mot.</p>
@@ -1503,6 +1539,7 @@
           <p>« Je n'irai pas. ».</p>
         </div>
         <div type="chapter">
+
           <head>X -- IRMA BOREL</head>
           <p>C'est Coucou-Blanc qui vint lui ouvrir. -- Car ai-je besoin de vous le dire ! cinq minutes après s'être juré qu'il n'irait pas, ce vaniteux petit Chose sonnait à la porte d'lrma Borel. -- En le voyant, l'horrible Négresse grimaça un sourire d'ogre en belle humeur et lui fit un signe : « Venez !» de sa grosse main luisante et noire. Après avoir traversé deux ou trois salons très pompeux, ils s'arrêtèrent devant une petite porte mystérieuse, à travers laquelle on entendait -- aux trois quarts étouffés par l'épaisseur des tentures -- des cris rauques, des sanglots, des imprécations, des rires convulsifs. La Négresse frappa, et sans attendre qu'on lui eût répondu, introduisit le petit Chose.</p>
           <p>Seule, dans un riche boudoir capitonné de soie mauve et tout ruisselant de lumière, Irma Borel marchait à grands pas en déclamant. Un large peignoir bleu de ciel, couvert de guipures, flottait autour d'elle comme une nuée. Une des manches du peignoir, relevée jusqu'à l'épaule, laissait voir un bras de neige d'une incomparable pureté, brandissant, en guise de poignard un coupe-papier de nacre. L'autre main, noyée dans la guipure, tenait un livre ouvert...</p>
@@ -1546,6 +1583,7 @@
           <p>« Qui est là ? »</p>
         </div>
         <div type="chapter">
+
           <head>XI -- LE CŒUR DE SUCRE</head>
           <p>Voila deux mois que Jacques est parti, et il n'est pas encore au moment de revenir. Mlle d'Hacqueville est morte. Le marquis, escorté de son secrétaire, promène son deuil par toute l'Italie, sans interrompre d'un seul jour la terrible dictée de ses mémoires, Jacques, surmené, trouve à peine le temps d'écrire à son frère quelques lignes datées de Rome, de Naples, de Pise, de Palerme. Mais, si le timbre de ces lettres varie souvent, leur texte ne change guère... «Travailles-tu ?... Comment vont les yeux noirs ?... L'article de Gustave Planche a-t-il paru ?... Es-tu retourné chez Irma Borel ?» À ces questions, toujours les mêmes, le petit Chose répond invariablement qu'il travaille beaucoup, que la vente du livre va très bien, les yeux noirs aussi ; qu'il n'a pas revu Irma Borel, ni entendu parler de Gustave Planche.</p>
           <p>Qu'y a-t-il de vrai dans tout cela ?... Une dernière lettre, écrite par le petit Chose en une nuit de fièvre et de tempête, va nous l'apprendre.</p>
@@ -1662,6 +1700,7 @@
           <p>« Elle vient ici ; j'ai reconnu son pas... Elle est là, tout Près... J'entends son haleine... Son œil collé à la serrure me regarde, me brûle, me... » Cette lettre ne partit pas.</p>
         </div>
         <div type="chapter">
+
           <head>XII -- TOLOCOTOTIGNAN</head>
           <p>Me voici arrivé aux pages les plus sombres de mon histoire, aux jours de misère et de honte que Daniel Eyssette a vécus à côté de cette femme, comédien dans la banlieue de Paris. Chose singulière ! ce temps de ma vie, accidenté, bruyant, tourbillonnant, m'a laissé des remords plutôt que des souvenirs.</p>
           <p>Tout ce coin de ma mémoire est brouillé, je ne vois rien, rien...</p>
@@ -1706,6 +1745,7 @@
           <p>C'est ainsi qu'ils vivaient, non ! qu'ils croupissaient ensemble, rivés au même fer, couchés dans le même ruisseau... C'est cette existence fangeuse, ce sont ces heures misérables qui défilent aujourd'hui devant mes yeux, quand je fredonne le refrain de la Négresse, le bizarre et mélancolique : Tolocototignan !... Tolocototignan !...</p>
         </div>
         <div type="chapter">
+
           <head>XIII -- L'ENLEVEMENT</head>
           <p>C'ÉTAIT un soir, vers neuf heures, au théâtre Montparnasse. Le petit Chose, qui jouait dans la première pièce, venait de finir et remontait dans sa loge. En montant, il se croisa avec Irma Borel qui allait entrer en scène. Elle était rayonnante, tout en velours et en guipure, l'éventail au poing comme Célimène.</p>
           <p>« Viens dans la salle, lui dit-elle en passant, je suis en train... je serai très belle. » Il hâta le pas vers sa loge et se déshabilla bien vite. Cette loge, qu'il partageait avec deux camarades, était un cabinet sans fenêtre, bas de plafond, éclairé au schiste. Deux ou trois chaises de paille formaient l'ameublement. Le long du mur pendaient des fragments de glace, des perruques défrisées, des guenilles à paillettes, velours fanés, dorures éteintes ; à terre, dans un coin, des pots de rouge sans couvercle, des houppes à poudre de riz toutes déplumées.</p>
@@ -1760,6 +1800,7 @@
           <p>Le soir venu, il se rendit au théâtre. Le spectacle était déjà commencé. Il se promena environ une heure sous la galerie, devant la porte, avec les gardes municipaux. De temps en temps, les applaudissements de l'intérieur venaient jusqu'à lui comme un bruit de grêle lointaine, et cela lui serrait le cœur de penser que c'était peut-être les grimaces de son enfant qu'on applaudissait ainsi... Vers neuf heures, un flot de monde se précipita bruyamment dans la rue. Le vaudeville venait de finir ; il y avait des gens qui riaient encore. On sifflait, on s'appelait : « Ohé !... Pilouitt !... Lalaitou !» toutes les vociférations de la ménagerie parisienne... Dame ! ce n'était pas la sortie des Italiens ! Il attendit encore un moment, perdu dans cette cohue ; puis, vers la fin de l'entracte, quand tout le monde rentrait, il se glissa dans une allée noire et gluante à côté du théâtre -- l'entrée des artistes -, et demanda à parler à Mme Irma Borel. « Impossible, lui dit-on. Elle est en scène... » C'était un sauvage pour la ruse, cette mère Jacques ! De son air le plus tranquille, il répondit ! «Puisque je ne peux pas voir Mme Irma Borel, veuillez appeler M. Daniel ; il fera ma commission auprès d'elle. » Une minute après, la mère Jacques avait reconquit son enfant et l'emportait bien vite à l'autre bout de Paris.</p>
         </div>
         <div type="chapter">
+
           <head>XIV -- LE RÊVE</head>
           <p>«REGARDE donc, Daniel, me dit ma mère Jacques quand nous entrâmes dans la chambre de l'hôtel Pilois : c'est comme la nuit de ton arrivée à Paris !» Comme cette nuit-là, en effet, un joli réveillon nous attendait sur une nappe bien blanche : le pâté sentait bon, le vin avait l'air vénérable, la flamme claire des bougies riait au fond des verres... Et pourtant, et pourtant, ce n'était plus la même chose ! Il y a des bonheurs qu'on ne recommence pas. Le réveillon était le même ; mais il y manquait la fleur de nos anciens convives, les belles ardeurs de l'arrivée, les projets de travail, les rêves de gloire, et cette sainte confiance qui fait rire et qui donne faim. Pas un, hélas ! pas un de ces réveillonneurs du temps passé n'avait voulu venir chez M. Pilois. Ils étaient tous restés dans le clocher de Saint-Germain ; même, au dernier moment, l'Expansion, qui nous avait promis d'être de la fête, fit dire qu'elle ne viendrait pas.</p>
           <p>Oh ! non, ce n'était plus la même chose. Je le compris si bien qu'au lieu de m'égayer, l'observation de Jacques me fit monter aux yeux un grand flot de larmes. Je suis sûr qu'au fond du cœur il avait bonne envie de pleurer, lui aussi ; mais il eut le courage de se contenir, et me dit en prenant un petit air allègre : « Voyons ! Daniel, assez pleuré ! Tu ne fais que cela depuis une heure. (Dans la voiture, pendant qu'il me parlait, je n'avais cessé de sangloter sur son épaule.) En voilà un drôle d'accueil ! Tu me rappelles positivement les plus mauvais jours de mon histoire, le temps des pots de colle et de :</p>
@@ -1801,6 +1842,7 @@
           <p>Moi, j'étais d'avis, en attendant, de faire venir Mme Eyssette à l'hôtel Pilois avec nous, mais Jacques ne voulait pas. « Non ! pas encore, disait-il d'un air singulier, pas encore... Attendons !» Et cette réponse, toujours la même, me brisait le cœur. Je me disais : « Il se méfie de moi... Il a peur que je fasse encore quelque folie quand Mme Eyssette sera ici. C'est pour cela qu'il veut attendre encore... » Je me trompais... Ce n'était pas pour cela que Jacques disait : « Attendons ! »</p>
         </div>
         <div type="chapter">
+
           <head>XV -- LECTEUR,</head>
           <p>Si tu as Un esprit fort, Si tes rêves te font sourire, si tu n'as jamais eu le cœur mordu -- mordu jusqu'à crier -- par le pressentiment des choses futures, si tu es un homme positif, une de ces têtes de fer que la réalité seule impressionne et qui ne laissent pas traîner un grain de superstition dans leurs cerveaux, si tu ne veux en aucun cas croire au surnaturel, admettre l'inexplicable, n'achève pas de lire ces mémoires. Ce qui me reste à dire en ces derniers chapitres est vrai comme la vérité éternelle ; mais tu ne le croiras pas.</p>
           <p>C'était le 4 décembre...</p>
@@ -1849,6 +1891,7 @@
           <p>Nous allons, nous allons toujours. Et je suis las, et ma tête est lourde... Enfin, voici le passage du Saumon, l'ancienne maison Lalouette avec ses contrevents peints, ruisselants d'eau verte... Sans entrer dans la boutique, nous montons chez Pierrotte... Au premier étage, les forces me manquent. Je m'assieds sur une marche. Impossible d'aller plus loin ; ma tête est trop lourde... Alors Pierrette me prend dans ses bras ; et tandis qu'il me monte chez lui aux trois quarts mort et grelottant de fièvre, j'entends le grésil qui pétille sur la vitrine du passage et l'eau des gouttières qui tombe à grand bruit dans la cour... Il pleut ! il pleut ! oh ! comme il pleut !</p>
         </div>
         <div type="chapter">
+
           <head>XVI -- LA FIN DU REVE</head>
           <p>LE petit Chose est malade ; le petit Chose va mourir ...</p>
           <p>Devant le passage du Saumon, une large litière de paille qu'on renouvelle tous les deux jours fait dire aux gens de la rue : « Il y a là-haut quelque vieux richard en train de mourir... » Ce n'est pas un vieux richard qui va mourir, c'est le petit Chose... Tous les médecins l'ont condamné, Deux fièvres typhoïdes en deux ans, c'est beaucoup trop pour ce cervelet d'oiseau-mouche ! Allons ! vite, attelez la voiture noire ! Que la grande sauterelle prépare sa baguette d'ébène et son sourire désolé ! le petit Chose est malade ; le petit Chose va mourir.</p>

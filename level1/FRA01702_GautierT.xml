@@ -17,7 +17,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <measure unit="words">45141</measure>
+        <measure unit="words">59638</measure>
       </extent>
       <publicationStmt>
         <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
@@ -58,7 +58,7 @@
       </langUsage>
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
         <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1" />
       </textDesc>

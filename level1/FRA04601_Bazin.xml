@@ -11,8 +11,8 @@
         <author ref="viaf:24597541;wikidata:Q127539">Bazin, René (1853-1932)</author>
       </titleStmt>
       <extent>
-        <!--an upper estimate: includes paratext -->
-        <measure unit="words">82557</measure>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">88367</measure>
       </extent>
       <publicationStmt>
         <p>à fournir</p>

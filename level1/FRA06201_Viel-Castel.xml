@@ -11,8 +11,8 @@
         <author ref="viaf:69051610">Viel-Castel, Horace de (1802-1864)</author>
       </titleStmt>
       <extent>
-        <!--an upper estimate: includes paratext -->
-        <measure unit="words">58998</measure>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">50642</measure>
       </extent>
       <publicationStmt>
         <p>à fournir</p>

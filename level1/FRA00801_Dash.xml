@@ -18,7 +18,8 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <measure unit="words">44767</measure>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">45263</measure>
         <measure unit="pages">332</measure>
         <measure unit="vols">2</measure>
       </extent>

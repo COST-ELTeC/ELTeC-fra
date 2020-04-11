@@ -11,7 +11,8 @@
         <author ref="viaf:19677089">Eekhoud, Georges (1854-1927)</author>
       </titleStmt>
       <extent>
-        <measure unit="words">45672</measure>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">48550</measure>
       </extent>
       <publicationStmt>
         <p>à fournir</p>
