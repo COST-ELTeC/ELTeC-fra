@@ -25,7 +25,7 @@
         </bibl>
         <bibl type="digitalSource">
           <publisher />
-          <ref target="http ://www.gutenberg.org/files/51703/51703-h/51703-h.htm">http ://www.gutenberg.org/files/51703/51703-h/51703-h.htm</ref>
+          <ref target="http://www.gutenberg.org/files/51703/51703-h/51703-h.htm">http ://www.gutenberg.org/files/51703/51703-h/51703-h.htm</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -38,7 +38,7 @@
       </langUsage>
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
-        <e:size xmlns :e="http://distantreading.net/eltec/ns" key="short" />
+        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short" />
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified" />
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
