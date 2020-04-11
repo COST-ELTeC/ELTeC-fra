@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http ://relaxng.org/ns/structure/1.0"?>
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
     <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http ://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http ://www.tei-c.org/ns/1.0" xml:id="FRA05601" xml:lang="fr">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA05601" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,7 +25,7 @@
         </bibl>
         <bibl type="digitalSource">
           <publisher/>
-          <ref target="http ://www.gutenberg.org/ebooks/51659"
+          <ref target="http://www.gutenberg.org/ebooks/51659"
             >http://www.gutenberg.org/ebooks/51659</ref>
         </bibl>
       </sourceDesc>
@@ -39,7 +39,7 @@
       </langUsage>
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="F"/>
-        <e:size xmlns:e="http ://distantreading.net/eltec/ns" key="medium"/>
+        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="medium"/>
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified"/>
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
