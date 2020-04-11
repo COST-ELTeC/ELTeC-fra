@@ -15,8 +15,8 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <measure unit="words">181506</measure>
-
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">181469</measure>
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC

@@ -9,7 +9,8 @@
         <author ref="viaf:66463260;wikidata:Q314957">Barrès, Maurice (1862-1923)</author>
       </titleStmt>
       <extent>
-        <measure unit="words">29313</measure>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">31172</measure>
         <!-- from Gallica record -->
         <measure unit="pages">258</measure>
       </extent>

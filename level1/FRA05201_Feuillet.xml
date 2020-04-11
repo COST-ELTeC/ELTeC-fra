@@ -11,8 +11,8 @@
         <author ref="viaf:68928998">Feuillet, Octave (1821-1890)</author>
       </titleStmt>
       <extent>
-        <!--an upper estimate: includes paratext -->
-        <measure unit="words">29151</measure>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">31143</measure>
       </extent>
       <publicationStmt>
         <p>à fournir</p>

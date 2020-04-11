@@ -11,7 +11,8 @@
         <author ref="viaf:56616138">Sandeau, Jules (1811-1883)</author>
       </titleStmt>
       <extent>
-        <measure unit="words">57349</measure>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">62501</measure>
       </extent>
       <publicationStmt>
         <p>à fournir</p>
