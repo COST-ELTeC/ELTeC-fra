@@ -11,8 +11,8 @@
         <author ref="viaf:49244018">Lermina, Jules (1839-1915)</author>
       </titleStmt>
       <extent>
-        <!--an upper estimate: includes paratext -->
-        <measure unit="words">44188</measure>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">47052</measure>
       </extent>
       <publicationStmt>
         <p>à fournir</p>

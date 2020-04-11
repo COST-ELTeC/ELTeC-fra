@@ -11,8 +11,8 @@
         <author ref="viaf:29530799">Bourget, Paul (1852-1935)</author>
       </titleStmt>
       <extent>
-        <!--an upper estimate: includes paratext -->
-        <measure unit="words">43833</measure>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">47202</measure>
       </extent>
       <publicationStmt>
         <p>à fournir</p>
