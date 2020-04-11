@@ -11,7 +11,8 @@
         <author ref="viaf:51688902">Dumas, Alexandre [pere] (1802-1870)</author>
       </titleStmt>
       <extent>
-        <measure unit="words">214481</measure>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">217375</measure>
         <measure unit="vols">2</measure>
       </extent>
       <publicationStmt>

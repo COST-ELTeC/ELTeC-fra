@@ -11,8 +11,8 @@
         <author ref="viaf:19681833">Moselly, Emile (1870-1918)</author>
       </titleStmt>
       <extent>
-        <!--an upper estimate: includes paratext -->
-        <measure unit="words">74253</measure>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">78099</measure>
       </extent>
       <publicationStmt>
         <p>à fournir</p>

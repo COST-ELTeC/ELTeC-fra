@@ -11,8 +11,8 @@
         <author ref="viaf:66487522">Galopin, Arnould (1865-1934)</author>
       </titleStmt>
       <extent>
-        <!--an upper estimate: includes paratext -->
-        <measure unit="words">47174</measure>
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">50310</measure>
       </extent>
       <publicationStmt>
         <p>à fournir</p>
