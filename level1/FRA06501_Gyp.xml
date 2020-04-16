@@ -4,11 +4,12 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title> Totote : ELTeC edition</title>
-				<author>Gyp [Mirabeau, Sibylle Riquetti de] (1849-1932)</author>
+				<title>Totote : ELTeC edition</title>
+				<author ref="viaf:96218572;wikidata:Q199228">Gyp [Mirabeau, Sibylle Riquetti de] (1849-1932)</author>
 			</titleStmt>
 			<extent>
-				<measure unit="words">38535</measure>
+				<!-- Word count: tokens as counted in text split on "\W+" -->
+				<measure unit="words">44196</measure>
 				<measure unit="pages">252</measure></extent>
 			<publicationStmt>
 				<p/>
