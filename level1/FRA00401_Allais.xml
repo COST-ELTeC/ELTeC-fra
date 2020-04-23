@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00401" xml:lang="fr">
   <teiHeader>
@@ -15,8 +15,8 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <measure unit="words">38400</measure>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">41424</measure>
       </extent>
       <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
           Published as part of ELTeC
@@ -37,7 +37,7 @@
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <language ident="fra">French</language>
+        <language ident="fr">French</language>
       </langUsage>
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
@@ -64,7 +64,7 @@
         <p>Et encore, se méfier de l'hallucination.</p>
         <p>Mais, de ce que les hasards de la vie ne vous ont jamais mis en contact matériel avec un quidam, prétendre et conclure que ce quidam n'existe pas ou n'existe point, c'est pousser trop loin la théorie du regretté saint Thomas.</p>
         <p>Raisonnement pareil à celui de ce gentleman qui disait au président du tribunal correctionnel :</p>
-        <p>-- Trois témoins affirment m'avoir vu commettre ce larcin. Mais je vous en citerai, moi, quinze mille qui ne m'ont pas vu !</p>
+        <p>– Trois témoins affirment m'avoir vu commettre ce larcin. Mais je vous en citerai, moi, quinze mille qui ne m'ont pas vu !</p>
         <p>N'insistons pas.</p>
         <p>Le Captain Cap a donc bien existé.</p>
         <p>C'était un homme charmant, dont les pages qui suivent diront assez le caractère, les idées, la vie.</p>
@@ -107,7 +107,7 @@
           <p>Tout de suite, Cap me plut. Le récit de ses aventures, les petits refrains exotiques qu'il se plaît à fredonner entre temps, ses aperçus toujours neufs, sa haine de la Bureaucratie et de l'Europe, tout en Cap me charma et nous fûmes vite d'excellents amis.</p>
           <p>Il n'y a qu'à gagner à la fréquentation de tels hommes, et les notions que j'ai acquises depuis ma liaison avec Cap, tiennent presque du prodige.</p>
           <p>Le Captain Cap a énormément voyagé. Quand il dit :</p>
-          <p>-- J'ai passé les trois quarts de ma vie sur mer et les deux tiers de mon existence dans les terres vierges, etc., etc..</p>
+          <p>– J'ai passé les trois quarts de ma vie sur mer et les deux tiers de mon existence dans les terres vierges, etc., etc..</p>
           <p>
             Il ne faut voir dans cette assertion aucune exagération, aucun
             <hi rend="italic">bluffage</hi>
@@ -138,8 +138,8 @@
             , quelqu'un a demandé le nivellement de la Butte Montmartre ; Cap s'est engagé à faire niveler la Butte Montmartre.
           </p>
           <p>Cap s'est également engagé à prolonger l'avenue Trudaine jusqu'à la place de la Concorde.</p>
-          <p>-- Par quel bout ? s'informèrent quelques électeurs.</p>
-          <p>-- Par les deux bouts, répondit le Captain.</p>
+          <p>– Par quel bout ? s'informèrent quelques électeurs.</p>
+          <p>– Par les deux bouts, répondit le Captain.</p>
           <p>
             Un artiste dramatique interrogeant le Captain sur la question du
             <hi rend="italic">blanc gras</hi>
@@ -448,7 +448,7 @@
           <p>À ce moment, l'enthousiasme devient si considérable, qu'on dételle le cheval, et que la voiture du candidat est traînée par ses électeurs sur un parcours de 20 mètres.</p>
           <p>Mais le Captain Cap se dérobe aux ovations.</p>
           <p>En moins de temps qu'il n'en faut pour l'écrire, il saute dans un autre fiacre et le chapeau levé, il disparaît en criant :</p>
-          <p>-- Plus de bureaucratie ! Plus de routine européenne ! Plus de sauvages blancs !</p>
+          <p>– Plus de bureaucratie ! Plus de routine européenne ! Plus de sauvages blancs !</p>
           <p/>
           <p>
             <hi rend="italic">Le secrétaire du Comité,</hi>
@@ -660,8 +660,8 @@
           </head>
           <p>Je n'avais pas eu l'heur de rencontrer mon vaillant ami le Captain Cap depuis les élections législatives qui désolèrent la France lors du mois d'août 1893.</p>
           <p>S'en souvient-on ? 176 citoyens du IXe arrondissement (quartier Saint-Georges) affirmèrent sur le nom du Captain Cap leurs convictions résolument anti-européennes.</p>
-          <p>-- Allô, Cap ! fis-je, ravi.</p>
-          <p>-- Allô ! répondit Cap.</p>
+          <p>– Allô, Cap ! fis-je, ravi.</p>
+          <p>– Allô ! répondit Cap.</p>
           <p>
             Et il m'étreignit les mains avec une énergie peu commune. Il m'appela son
             <hi rend="italic">old fellow</hi>
@@ -680,12 +680,12 @@
           <p>Et se délièrent nos langues.</p>
           <p>Je reprochai à l'intrépide Captain le long temps qu'on ne l'avait point vu.</p>
           <p>Froidement :</p>
-          <p>-- J'ai été très occupé, dit-il, depuis deux mois. Pour commencer, le gouvernement du Val d'Andorre m'a chargé d'organiser sa nouvelle flottille de torpilleurs...</p>
+          <p>– J'ai été très occupé, dit-il, depuis deux mois. Pour commencer, le gouvernement du Val d'Andorre m'a chargé d'organiser sa nouvelle flottille de torpilleurs...</p>
           <p>Un signe de mon doigt indiqua à l'homme du bar de renouveler les consommations.</p>
-          <p>-- Ensuite, poursuivit Cap, je suis allé en Afrique où j'ai de gros intérêts.</p>
-          <p>-- Ah bah !</p>
-          <p>-- Oui, je fus désigné par le conseil d'administration pour organiser le service.</p>
-          <p>-- Quel service, Captain ?</p>
+          <p>– Ensuite, poursuivit Cap, je suis allé en Afrique où j'ai de gros intérêts.</p>
+          <p>– Ah bah !</p>
+          <p>– Oui, je fus désigné par le conseil d'administration pour organiser le service.</p>
+          <p>– Quel service, Captain ?</p>
           <p>
             -- Le service de la
             <hi rend="italic">Société générale de Publicité dans les W.-C. du Soudan</hi>
@@ -696,8 +696,8 @@
             <hi rend="italic">Darkest Africa</hi>
             , comme dit Stanley.
           </p>
-          <p>-- Stanley n'a jamais f... les pieds en Afrique.</p>
-          <p>-- Je m'en doutais.</p>
+          <p>– Stanley n'a jamais f... les pieds en Afrique.</p>
+          <p>– Je m'en doutais.</p>
           <p>
             -- Le peu qu'il connaît de ce pays, il l'a appris dans le supplément de la
             <hi rend="italic">Lanterne</hi>
@@ -714,26 +714,26 @@
             <hi rend="italic">Journal</hi>
             , mon cher Alphonse, l'histoire d'un jeune requin qui pleure en reconnaissant, dans un porte-monnaie, la peau de sa mère... Moi, j'ai vu mieux que ça l'autre jour, en Afrique.
           </p>
-          <p>-- Allons donc !</p>
-          <p>-- Parfaitement ! Et si vous croyez que votre squale détient le record du pathétisme vous vous enfoncez le doigt dans l'œil jusqu'au deltoïde.</p>
-          <p>-- Diable !</p>
-          <p>-- Vous savez que dans la région du Haut-Niger, c'est en ce moment, la saison des pluies.</p>
-          <p>-- Ce détail m'échappait.</p>
-          <p>-- La saison des pluies, dans ces parages, correspond assez exactement à de fâcheuses périodes d'humidité.</p>
-          <p>-- Je l'aurais gagé.</p>
-          <p>-- Et qui est-ce qui est bien embêté, par les périodes d'humidité ?</p>
-          <p>-- Ah ! voilà !</p>
-          <p>-- Ce sont les girafes... Vous croyez savoir ce que c'est qu'une girafe, vous ne vous en doutez même pas.</p>
-          <p>-- Ah ! permettez !</p>
-          <p>-- Permettez, vous-même ! Les girafes sont des bêtes auxquelles la nature, cette grande fumiste, a monté le cou à la hauteur du ridicule. D'où, énorme tendance, pour ces animaux, aux maladies de la gorge et des cordes vocales. Si nos théâtres d'opéra, d'opéra-comique et même d'opérette se recrutaient uniquement chez les girafes, nous n'en serions plus à compter les jours de relâche.</p>
-          <p>-- Très juste.</p>
-          <p>-- Eh bien, non ! Nous en serions à les compter, car les girafes qui ne pratiquent le laryngoscope qu'à de rares intervalles, pour qui le chlorate de potasse est mythe et la cocaïne chimère, les girafes, dis-je, quand elles se sentent atteintes, se guérissent vite et à peu de frais.</p>
+          <p>– Allons donc !</p>
+          <p>– Parfaitement ! Et si vous croyez que votre squale détient le record du pathétisme vous vous enfoncez le doigt dans l'œil jusqu'au deltoïde.</p>
+          <p>– Diable !</p>
+          <p>– Vous savez que dans la région du Haut-Niger, c'est en ce moment, la saison des pluies.</p>
+          <p>– Ce détail m'échappait.</p>
+          <p>– La saison des pluies, dans ces parages, correspond assez exactement à de fâcheuses périodes d'humidité.</p>
+          <p>– Je l'aurais gagé.</p>
+          <p>– Et qui est-ce qui est bien embêté, par les périodes d'humidité ?</p>
+          <p>– Ah ! voilà !</p>
+          <p>– Ce sont les girafes... Vous croyez savoir ce que c'est qu'une girafe, vous ne vous en doutez même pas.</p>
+          <p>– Ah ! permettez !</p>
+          <p>– Permettez, vous-même ! Les girafes sont des bêtes auxquelles la nature, cette grande fumiste, a monté le cou à la hauteur du ridicule. D'où, énorme tendance, pour ces animaux, aux maladies de la gorge et des cordes vocales. Si nos théâtres d'opéra, d'opéra-comique et même d'opérette se recrutaient uniquement chez les girafes, nous n'en serions plus à compter les jours de relâche.</p>
+          <p>– Très juste.</p>
+          <p>– Eh bien, non ! Nous en serions à les compter, car les girafes qui ne pratiquent le laryngoscope qu'à de rares intervalles, pour qui le chlorate de potasse est mythe et la cocaïne chimère, les girafes, dis-je, quand elles se sentent atteintes, se guérissent vite et à peu de frais.</p>
           <p>
             Cap s'apercevant à cet instant que la bouteille d'
             <hi rend="italic">extra-dry</hi>
             était vide, eut un rictus de douloureuse stupeur auquel l'homme du bar ne se méprit point : il en rapporta une autre.
           </p>
-          <p>-- Voici comment elle procède, la girafe : elle se couche en exhalant une sorte de plainte mélodieuse qui a la propriété d'attirer le boa constrictor. Ce reptile arrive à pas de loup, si j'ose m'exprimer ainsi, et doucement, sans rien brusquer, s'enroule autour du cou de la jeune malade, du ras des épaules jusqu'au-dessus de la tête. Nos élégantes Parisiennes portent des boas en plume ou en fourrure. Les girafes portent des boas en boa, ce qui est bien plus près de la nature. Quarante-huit heures de ce traitement et la girafe est plus vaillante que jamais ! Hein ! qu'est-ce que vous dites de ça ?</p>
+          <p>– Voici comment elle procède, la girafe : elle se couche en exhalant une sorte de plainte mélodieuse qui a la propriété d'attirer le boa constrictor. Ce reptile arrive à pas de loup, si j'ose m'exprimer ainsi, et doucement, sans rien brusquer, s'enroule autour du cou de la jeune malade, du ras des épaules jusqu'au-dessus de la tête. Nos élégantes Parisiennes portent des boas en plume ou en fourrure. Les girafes portent des boas en boa, ce qui est bien plus près de la nature. Quarante-huit heures de ce traitement et la girafe est plus vaillante que jamais ! Hein ! qu'est-ce que vous dites de ça ?</p>
           <p>Le commodore se chargea de la réponse :</p>
           <p>
             -- J'ai à dire de cela qu'il ne faut pas voir dans l'acte du boa la moindre humanité -- la moindre
@@ -765,13 +765,13 @@
           <p>Derechef il la connut, au sens, bien entendu, biblique du mot.</p>
           <p>Au petit matin, comme Cap se disposait à quitter sa compagne, cette dernière -- la dernière des dernières -- eut-elle pas l'idée d'exiger du Captain des sommes d'argent qui, pour dérisoires qu'elles fussent, n'en créaient pas moins un précédent fâcheux !</p>
           <p>Alors, d'une voix algide, Cap dit :</p>
-          <p>-- Pardon, mademoiselle, il est véridique que j'ai couché avec vous le lundi de la semaine dernière...</p>
-          <p>-- ...</p>
-          <p>-- Ne m'interrompez pas.</p>
-          <p>-- ...</p>
-          <p>-- ... Mais, vous-même, n'avez-vous pas couché avec moi, cette nuit ?</p>
-          <p>-- Et alors ?</p>
-          <p>-- Alors, nous sommes quittes.</p>
+          <p>– Pardon, mademoiselle, il est véridique que j'ai couché avec vous le lundi de la semaine dernière...</p>
+          <p>– ...</p>
+          <p>– Ne m'interrompez pas.</p>
+          <p>– ...</p>
+          <p>– ... Mais, vous-même, n'avez-vous pas couché avec moi, cette nuit ?</p>
+          <p>– Et alors ?</p>
+          <p>– Alors, nous sommes quittes.</p>
           <p>Et Cap regagna son petit hôtel de la rue Julot, en proie à la plus grande quiétude morale.</p>
         </div>
         <div type="chapter">
@@ -846,8 +846,8 @@
         </div>
         <div type="chapter">
           <head>Chapitre IV -- Où apparaît, par l'exemple du Captain Cap, la vanité de la science hypnotique et le néant des influences auto-suggestives.</head>
-          <p>-- Moi, dit le docteur V..., le cas le plus curieux d'autosuggestion que j'aie jamais vu, c'est voilà cinq ou six ans. Extrêmement curieux, même !</p>
-          <p>-- Contez-nous cela, docteur.</p>
+          <p>– Moi, dit le docteur V..., le cas le plus curieux d'autosuggestion que j'aie jamais vu, c'est voilà cinq ou six ans. Extrêmement curieux, même !</p>
+          <p>– Contez-nous cela, docteur.</p>
           <p>V..., qui joint à une science encyclopédique l'aménité la plus parfaite, nous dit cette histoire :</p>
           <p>« On avait pas mal liché, ce jour-là. Nous fêtions la thèse d'un de nos amis et nous la fêtions copieusement, ma foi. Tout le monde était plus ou moins pompette, mais celui qui détenait le record de la cuite, c'était certainement un de nos camarades, paresseux incoercible, et noceur effréné, que je désignerai par l'initiale Y, bien que ce brave garçon n'ait jamais triché de sa vie.</p>
           <p>« Le pauvre Y..., sur le coup de minuit, était gris comme tout un escadron de bourriques à Robespierre. Ses fantaisies, presque toutes d'un goût contestable, nous faisaient expulser des brasseries du Quartier. Heureusement qu'il existe dans ces arrondissements un jeu assez complet de caboulots, de sorte que de très longs laps ne s'écoulaient pas sans que nous bussions des spiritueux variés.</p>
@@ -868,12 +868,12 @@
           <p>« L'image de son regard dans la glace l'avait mis en état d'hypnose et il s'était fait suggérer à lui-même par son propre reflet de ne plus boire et de travailler ! »</p>
           <p/>
           <p>Tous, nous avions écouté cette histoire avec beaucoup d'intérêt. Le Captain Cap, surtout, semblait vivement ému.</p>
-          <p>-- Croyez-vous, demanda-t-il au docteur, que ce procédé me réussirait, à moi ?</p>
-          <p>-- Pourquoi pas ? dit V... Vous pouvez toujours essayer.</p>
+          <p>– Croyez-vous, demanda-t-il au docteur, que ce procédé me réussirait, à moi ?</p>
+          <p>– Pourquoi pas ? dit V... Vous pouvez toujours essayer.</p>
           <p>Cap se leva, se dirigea vers une glace, se lança des regards terribles, et se traita comme le dernier des derniers.</p>
           <p>Toutes les injures des deux continents y passèrent. Tantôt Cap s'insultait en français, tantôt en anglais, et quelquefois en une langue parlée au sein d'une peuplade dont je soupçonne Cap d'être le seul membre.</p>
           <p>Quand le répertoire fut épuisé, Cap prit son chapeau, son pardessus et sortit sans dire un mot.</p>
-          <p>-- Ce serait drôle, fit l'un de nous, si Cap se mettait à travailler dès demain matin et qu'il devînt professeur à la Faculté de médecine de Nancy !</p>
+          <p>– Ce serait drôle, fit l'un de nous, si Cap se mettait à travailler dès demain matin et qu'il devînt professeur à la Faculté de médecine de Nancy !</p>
           <p>
             Malheureusement, cette illusion croula le soir même. Revenant chez moi et passant devant la brasserie Pousset, j'eus l'idée d'entrer voir si la Princesse Pâle, d'aventure, ne m'y attendait point
             <hi rend="italic">*(1)</hi>
@@ -885,22 +885,22 @@
             <hi rend="italic">demi</hi>
             de la meilleure grâce du monde et conclut philosophiquement :
           </p>
-          <p>-- Qu'est-ce que vous voulez ? L'autosuggestion ne réussit pas à tous les tempéraments.</p>
+          <p>– Qu'est-ce que vous voulez ? L'autosuggestion ne réussit pas à tous les tempéraments.</p>
         </div>
         <div type="chapter">
           <head>Chapitre V -- Où s'instance par les soins du Captain Cap une contradictoire expérience d'autosuggestion des moins péremptoires.</head>
           <p>À ce moment le Captain Cap crut devoir prendre un air mystérieux. Et comme, en nos yeux, s'allumait la luisance de l'anxiété :</p>
-          <p>-- Ne m'en blâmez pas, dit le Captain, je ne dirai rien de plus. Mon ORDRE me le défend !</p>
+          <p>– Ne m'en blâmez pas, dit le Captain, je ne dirai rien de plus. Mon ORDRE me le défend !</p>
           <p>Le Captain Cap appartient à un Ordre bien extraordinaire et d'une commodité à nulle autre seconde.</p>
           <p>À toute proposition qui lui répugne le moins du monde, le Captain Cap objecte froidement :</p>
-          <p>-- Je regrette beaucoup, mon cher ami, mais mon Ordre me le défend !</p>
+          <p>– Je regrette beaucoup, mon cher ami, mais mon Ordre me le défend !</p>
           <p>Et il ajoute avec un sourire de lui seul acquis :</p>
-          <p>-- Ne m'en blâmez pas.</p>
+          <p>– Ne m'en blâmez pas.</p>
           <p>Cependant et tout de même, Cap grillait de parler.</p>
           <p>On affecta de s'occuper d'autre chose, et, bientôt, le Captain dit :</p>
-          <p>-- Un sujet épatant !</p>
+          <p>– Un sujet épatant !</p>
           <p>À seule fin de connaître la suite de l'histoire, nul de nous, machiavéliquement, ne s'avisa de sourciller.</p>
-          <p>-- Imaginez-vous... s'obstina Cap.</p>
+          <p>– Imaginez-vous... s'obstina Cap.</p>
           <p>Ennuyés semblâmes-nous de cette insistance.</p>
           <p>Alors Cap lâcha ses écluses.</p>
           <p>Il s'agissait d'une petite bonne femme de Montmartre, jolie comme un cœur, une petite bonne femme épatante !</p>
@@ -914,71 +914,71 @@
           <p>Un, deux, trois... ça y est ! Elle dort.</p>
           <p>Alors Cap sortit de sa poche une pomme de terre crue et une goyave.</p>
           <p>Ayant pelé l'une et l'autre, et présentant au sujet un morceau de pomme de terre crue, il dit d'une voix forte où trépidait la suggestion :</p>
-          <p>-- Mangez cela, c'est de la goyave !</p>
+          <p>– Mangez cela, c'est de la goyave !</p>
           <p>L'enfant n'eut pas plus tôt mastiqué une parcelle du tubercule cher à Parmentier qu'elle en manifesta un grand dégoût.</p>
           <p>Et même elle le cracha, grimaceuse en diable.</p>
           <p>Un sourire sur les lèvres, Cap changea d'expérience.</p>
           <p>Ce fut la goyave qu'il présenta à la jeune personne, en lui disant d'une voix non moins forte :</p>
-          <p>-- Mangez cela, c'est de la pomme de terre crue.</p>
+          <p>– Mangez cela, c'est de la pomme de terre crue.</p>
           <p>L'enfant n'eut pas plus tôt mastiqué une parcelle de ce fruit délicieux qu'elle en redemanda.</p>
           <p>Y passa la totale goyave.</p>
           <p>Si vous vous imaginez que Cap fut le moins du monde désarçonné par ce résultat non prévu vous commettez une erreur grave.</p>
           <p>Et, sortant de la maison, le Captain nous dit sur un ton du plus vif intérêt scientifique :</p>
-          <p>-- Est-ce curieux, hein, le cas de dépravation de cette petite, qui adore la pomme de terre crue et ne peut sentir la goyave ?</p>
+          <p>– Est-ce curieux, hein, le cas de dépravation de cette petite, qui adore la pomme de terre crue et ne peut sentir la goyave ?</p>
         </div>
         <div type="chapter">
           <head>Chapitre VI -- Où le Captain Cap indique un moyen bien simple d'assurer l'équilibre européen.</head>
-          <p>-- Dites-moi, mon cher Allais, vous est-il jamais venu à l'esprit l'idée de faire couver des œufs de hareng saur par une autruche empaillée ?</p>
-          <p>-- Jamais, mon cher Cap, au grand jamais, je vous le jure !</p>
+          <p>– Dites-moi, mon cher Allais, vous est-il jamais venu à l'esprit l'idée de faire couver des œufs de hareng saur par une autruche empaillée ?</p>
+          <p>– Jamais, mon cher Cap, au grand jamais, je vous le jure !</p>
           <p>
             -- Eh bien, c'est exactement l'occupation à laquelle se livre M. Carnot
             <hi rend="italic">*(1)</hi>
             * en ce moment.
           </p>
-          <p>-- M. Carnot ?</p>
-          <p>-- M. Carnot lui-même.</p>
-          <p>-- M. Carnot fait couver des œufs de hareng saur par des autruches empaillées ?</p>
-          <p>-- Parfaitement, mon cher !</p>
-          <p>-- En ce cas, Captain, permettez-moi de vous dire que c'est là un divertissement indigne d'un homme de l'âge et de la situation de M. Carnot !</p>
-          <p>-- Et que voulez-vous que l'Europe pense d'une grande République dont le premier magistrat passe son temps à faire couver des œufs de hareng saur par des autruches empaillées ?</p>
-          <p>-- Ah ! tout cela, mon pauvre Cap, n'est point pour faire reprendre les affaires !</p>
-          <p>-- Ni pour amener le désarmement sans lequel ne pourraient se produire nulle détente et nulle prospérité.</p>
-          <p>-- Bien sûr !</p>
-          <p>-- Quand je dis que M. Carnot fait couver des œufs de hareng saur par des autruches empaillées, il ne faut pas, bien entendu, prendre mon allégation au pied de la lettre. C'est une simple image que j'entends employer, un symbole, dirait Moréas. -- Symbole, priez pour nous !</p>
+          <p>– M. Carnot ?</p>
+          <p>– M. Carnot lui-même.</p>
+          <p>– M. Carnot fait couver des œufs de hareng saur par des autruches empaillées ?</p>
+          <p>– Parfaitement, mon cher !</p>
+          <p>– En ce cas, Captain, permettez-moi de vous dire que c'est là un divertissement indigne d'un homme de l'âge et de la situation de M. Carnot !</p>
+          <p>– Et que voulez-vous que l'Europe pense d'une grande République dont le premier magistrat passe son temps à faire couver des œufs de hareng saur par des autruches empaillées ?</p>
+          <p>– Ah ! tout cela, mon pauvre Cap, n'est point pour faire reprendre les affaires !</p>
+          <p>– Ni pour amener le désarmement sans lequel ne pourraient se produire nulle détente et nulle prospérité.</p>
+          <p>– Bien sûr !</p>
+          <p>– Quand je dis que M. Carnot fait couver des œufs de hareng saur par des autruches empaillées, il ne faut pas, bien entendu, prendre mon allégation au pied de la lettre. C'est une simple image que j'entends employer, un symbole, dirait Moréas. -- Symbole, priez pour nous !</p>
           <p>
             Et pendant que le garçon du bar nous servait, car nous nous sentions très déprimés, chacun un gin-flip
             <hi rend="italic">*(1)</hi>
             *, le Captain Cap reprit :
           </p>
-          <p>-- Nous parlions de désarmement général, tout à l'heure... Savez-vous ce qui l'empêche, le désarmement, encore plus que la question d'Alsace-Lorraine ?</p>
-          <p>-- Dites-le-moi, et, après, je le saurai.</p>
-          <p>-- Ce qui empêche le désarmement, c'est la préoccupation de l'équilibre européen, et l'équilibre européen tient tout entier dans la question des Dardanelles et la question des Balkans.</p>
-          <p>-- C'est mon avis.</p>
-          <p>-- Les croyez-vous insolubles, ces deux questions ?</p>
-          <p>-- Bien délicates à résoudre, tout au moins.</p>
-          <p>-- Pas tant que ça, mon cher Allais, pas tant que ça !</p>
-          <p>-- Je suis persuadé, mon cher Cap, que ce ne serait pour vous qu'un simple jeu d'enfant, mais pour les autres !</p>
-          <p>-- Vous l'avez dit, un simple jeu d'enfant... Et pourtant j'y travaille depuis trois ans, à la solution de ce double problème !</p>
-          <p>-- Trois ans ?</p>
-          <p>-- Oui, trois ans ! Depuis trois ans, grâce à des cartes admirablement dressées par un personnel à moi, je calcule le jaugeage des Dardanelles.</p>
-          <p>-- Le jaugeage ?...</p>
-          <p>-- Oui, le jaugeage, c'est-à-dire, si vous aimez mieux, leur volume intérieur... D'autre part, j'ai calculé le cube à peu près exact des Balkans.</p>
-          <p>-- Tout cela n'est point une petite affaire.</p>
-          <p>-- Je t'écoute !... Je suis arrivé à cette constatation que le cube des Balkans est sensiblement le même que la jauge des Dardanelles.</p>
-          <p>-- En sorte que ?...</p>
-          <p>-- En sorte que, c'est bien simple : Je f... les Balkans dans les Dardanelles, et voilà !</p>
-          <p>-- Et voilà tous mes compliments, Cap !</p>
-          <p>-- Ainsi, les Balkans sont rasés, les Dardanelles comblées, plus de Dardanelles, plus de Balkans ! Plus de ces questions irritantes pour l'équilibre européen ! La paix assurée, le désarmement, la prospérité, le bonheur de tous.</p>
-          <p>-- Et vous croyez bonnement, Cap, que l'Angleterre vous laissera faire ?</p>
-          <p>-- L'Angleterre ?</p>
+          <p>– Nous parlions de désarmement général, tout à l'heure... Savez-vous ce qui l'empêche, le désarmement, encore plus que la question d'Alsace-Lorraine ?</p>
+          <p>– Dites-le-moi, et, après, je le saurai.</p>
+          <p>– Ce qui empêche le désarmement, c'est la préoccupation de l'équilibre européen, et l'équilibre européen tient tout entier dans la question des Dardanelles et la question des Balkans.</p>
+          <p>– C'est mon avis.</p>
+          <p>– Les croyez-vous insolubles, ces deux questions ?</p>
+          <p>– Bien délicates à résoudre, tout au moins.</p>
+          <p>– Pas tant que ça, mon cher Allais, pas tant que ça !</p>
+          <p>– Je suis persuadé, mon cher Cap, que ce ne serait pour vous qu'un simple jeu d'enfant, mais pour les autres !</p>
+          <p>– Vous l'avez dit, un simple jeu d'enfant... Et pourtant j'y travaille depuis trois ans, à la solution de ce double problème !</p>
+          <p>– Trois ans ?</p>
+          <p>– Oui, trois ans ! Depuis trois ans, grâce à des cartes admirablement dressées par un personnel à moi, je calcule le jaugeage des Dardanelles.</p>
+          <p>– Le jaugeage ?...</p>
+          <p>– Oui, le jaugeage, c'est-à-dire, si vous aimez mieux, leur volume intérieur... D'autre part, j'ai calculé le cube à peu près exact des Balkans.</p>
+          <p>– Tout cela n'est point une petite affaire.</p>
+          <p>– Je t'écoute !... Je suis arrivé à cette constatation que le cube des Balkans est sensiblement le même que la jauge des Dardanelles.</p>
+          <p>– En sorte que ?...</p>
+          <p>– En sorte que, c'est bien simple : Je f... les Balkans dans les Dardanelles, et voilà !</p>
+          <p>– Et voilà tous mes compliments, Cap !</p>
+          <p>– Ainsi, les Balkans sont rasés, les Dardanelles comblées, plus de Dardanelles, plus de Balkans ! Plus de ces questions irritantes pour l'équilibre européen ! La paix assurée, le désarmement, la prospérité, le bonheur de tous.</p>
+          <p>– Et vous croyez bonnement, Cap, que l'Angleterre vous laissera faire ?</p>
+          <p>– L'Angleterre ?</p>
           <p>Ici, Cap devint mystérieux. Il explora les alentours, s'assurant que nulle oreille suspecte ne se tendait près de nous.</p>
           <p>
             -- L'Angleterre ? reprit-il. Je sais de source certaine que si l'Angleterre lève seulement le petit doigt, vous entendez, le
             <hi rend="italic">pe-tit-doigt</hi>
             , le Péloponnèse est bien disposé à faire un exemple !
           </p>
-          <p>-- Le Péloponnèse ?</p>
-          <p>-- Allié au Jutland, bien entendu.</p>
+          <p>– Le Péloponnèse ?</p>
+          <p>– Allié au Jutland, bien entendu.</p>
         </div>
         <div type="chapter">
           <head>Chapitre VII -- Où le Captain Cap donne une magistrale leçon de savoir-faire à un barman ignare, européen et ahuri.</head>
@@ -990,10 +990,10 @@
           <p>D'un commun accord, nous eûmes vite défourché notre tandem, cependant que notre regard explorait l'horizon.</p>
           <p>Précisément, un grand café d'aspect très chic se présenta.</p>
           <p>Malgré l'apparence fâcheusement européenne de l'endroit, tout de même nous consentîmes à boire là.</p>
-          <p>-- Envoyez-moi le stewart ! commanda Cap.</p>
-          <p>-- À votre disposition, monsieur ! s'inclina le gérant.</p>
-          <p>-- Donnez-nous deux grands verres.</p>
-          <p>-- Voilà, monsieur.</p>
+          <p>– Envoyez-moi le stewart ! commanda Cap.</p>
+          <p>– À votre disposition, monsieur ! s'inclina le gérant.</p>
+          <p>– Donnez-nous deux grands verres.</p>
+          <p>– Voilà, monsieur.</p>
           <p>
             -- Je vous dis
             <hi rend="italic">deux grands verres</hi>
@@ -1001,24 +1001,24 @@
             <hi rend="italic">deux dés à coudre</hi>
             . Donnez-nous deux grands verres.
           </p>
-          <p>-- Voilà, monsieur.</p>
-          <p>-- Enfin !... Du sucre, maintenant.</p>
-          <p>-- Voilà, monsieur.</p>
-          <p>-- Non, pas de ces burlesques morceaux de sucre... Du sucre en grain.</p>
-          <p>-- Voilà, monsieur.</p>
-          <p>-- Pas, non plus, de ce sucre de la Havane qui empoisonne le tabac.</p>
-          <p>-- Mais, monsieur...</p>
-          <p>-- J'exige du sucre en grain des Barbades. C'est le seul qui convienne au breuvage que je vais accomplir.</p>
-          <p>-- Nous n'en avons pas d'autre que celui-là.</p>
-          <p>-- Triste ! Profondément triste ! Enfin...</p>
+          <p>– Voilà, monsieur.</p>
+          <p>– Enfin !... Du sucre, maintenant.</p>
+          <p>– Voilà, monsieur.</p>
+          <p>– Non, pas de ces burlesques morceaux de sucre... Du sucre en grain.</p>
+          <p>– Voilà, monsieur.</p>
+          <p>– Pas, non plus, de ce sucre de la Havane qui empoisonne le tabac.</p>
+          <p>– Mais, monsieur...</p>
+          <p>– J'exige du sucre en grain des Barbades. C'est le seul qui convienne au breuvage que je vais accomplir.</p>
+          <p>– Nous n'en avons pas d'autre que celui-là.</p>
+          <p>– Triste ! Profondément triste ! Enfin...</p>
           <p>Et Cap jeta au fond de nos verres quelques cuillerées de sucre qu'il arrosa d'un peu d'eau.</p>
-          <p>-- Et maintenant, deux citrons !</p>
-          <p>-- Voilà, monsieur.</p>
+          <p>– Et maintenant, deux citrons !</p>
+          <p>– Voilà, monsieur.</p>
           <p>Cap jeta un regard de profond mépris sur les citrons apportés.</p>
-          <p>-- C'est cela que vous appelez des citrons ?</p>
-          <p>-- Mais monsieur...</p>
-          <p>-- Apportez-moi deux autres citrons.</p>
-          <p>-- Voilà, monsieur.</p>
+          <p>– C'est cela que vous appelez des citrons ?</p>
+          <p>– Mais monsieur...</p>
+          <p>– Apportez-moi deux autres citrons.</p>
+          <p>– Voilà, monsieur.</p>
           <p>Ici, Cap entra dans une réelle fureur :</p>
           <p>
             -- Je vous demande deux
@@ -1035,10 +1035,10 @@
             <hi rend="italic">autres</hi>
             que ceux que vous avez eu le toupet de m'offrir. Vous me f...-là des limons de Sicile ! alors que je rêve uniquement de citrons provenant de l'île de Rhodes... Avez-vous des citrons provenant de l'île de Rhodes ?
           </p>
-          <p>-- Pas pour le moment.</p>
-          <p>-- Ah ! c'est gai ! Enfin...</p>
+          <p>– Pas pour le moment.</p>
+          <p>– Ah ! c'est gai ! Enfin...</p>
           <p>Et Cap exprima dans nos verres le jus des limons de Sicile.</p>
-          <p>-- Du gin, maintenant ! Quel gin avez-vous ?</p>
+          <p>– Du gin, maintenant ! Quel gin avez-vous ?</p>
           <p>
             -- Du
             <hi rend="italic">Anchor gin</hi>
@@ -1051,44 +1051,44 @@
             <hi rend="italic">Anchor</hi>
              ?
           </p>
-          <p>-- Du vrai.</p>
+          <p>– Du vrai.</p>
           <p>
             -- Du vrai
             <hi rend="italic">Old Tom</hi>
              ?
           </p>
-          <p>-- Du vrai.</p>
+          <p>– Du vrai.</p>
           <p>
             -- Et du
             <hi rend="italic">Young Charley gin</hi>
              ? Est-ce que vous en avez ?
           </p>
-          <p>-- Je ne connais pas...</p>
+          <p>– Je ne connais pas...</p>
           <p>
             -- Alors, vous ne connaissez rien. Enfin... Et Cap, à chacun, nous versa une copieuse (ah ! que copieuse !) rasade de
             <hi rend="italic">Old Tom gin</hi>
             .
           </p>
-          <p>-- Remuons ! ajouta-t-il.</p>
+          <p>– Remuons ! ajouta-t-il.</p>
           <p>À l'aide d'une longue cuiller, nous agitâmes ce début de mélange.</p>
-          <p>-- De la glace, maintenant !</p>
-          <p>-- Voilà, monsieur.</p>
-          <p>-- De la glace, ça ?</p>
-          <p>-- Mais parfaitement, monsieur !</p>
-          <p>-- D'où vient cette glace ?</p>
-          <p>-- De l'usine d'Auteuil, monsieur !</p>
-          <p>-- L'usine d'Auteuil ? Elle est peut-être admirablement outillée pour fournir de l'eau bouillante à la population parisienne, mais elle n'a jamais su le premier mot du frigorifisme. Vous pouvez aller lui dire de ma part...</p>
-          <p>-- Mais, monsieur !</p>
-          <p>-- D'ailleurs, je ne connais qu'une glace vraiment digne de ce nom : celle qu'on ramasse l'hiver dans la Barbotte !</p>
-          <p>-- Ah !</p>
-          <p>-- Oui, la Barbotte ! La Barbotte est une petite rivière qui se jette dans le Richelieu, lequel Richelieu se jette dans le Saint-Laurent... Et savez-vous le nom de la petite ville qui se trouve au confluent du Richelieu et du Saint-Laurent ?</p>
-          <p>-- Ma foi, monsieur...</p>
-          <p>-- Ah ! vous n'êtes pas calés en géographie, vous autres Européens ! La petite ville qui se trouve au confluent du Richelieu et du Saint-Laurent s'appelle Sorel... Et surtout, n'allez pas confondre Sorel en Canada avec la très jolie et très séduisante Cécile Sorel ou avec Albert Sorel, l'éminent et très aimable académicien ! ni le fils d'icelui, Albert-Émile Sorel ! Jurez-moi de ne pas confondre !</p>
-          <p>-- Volontiers, monsieur !</p>
-          <p>-- Alors, donnez-moi votre sale glace de l'usine d'Auteuil.</p>
-          <p>-- Voilà, monsieur !</p>
+          <p>– De la glace, maintenant !</p>
+          <p>– Voilà, monsieur.</p>
+          <p>– De la glace, ça ?</p>
+          <p>– Mais parfaitement, monsieur !</p>
+          <p>– D'où vient cette glace ?</p>
+          <p>– De l'usine d'Auteuil, monsieur !</p>
+          <p>– L'usine d'Auteuil ? Elle est peut-être admirablement outillée pour fournir de l'eau bouillante à la population parisienne, mais elle n'a jamais su le premier mot du frigorifisme. Vous pouvez aller lui dire de ma part...</p>
+          <p>– Mais, monsieur !</p>
+          <p>– D'ailleurs, je ne connais qu'une glace vraiment digne de ce nom : celle qu'on ramasse l'hiver dans la Barbotte !</p>
+          <p>– Ah !</p>
+          <p>– Oui, la Barbotte ! La Barbotte est une petite rivière qui se jette dans le Richelieu, lequel Richelieu se jette dans le Saint-Laurent... Et savez-vous le nom de la petite ville qui se trouve au confluent du Richelieu et du Saint-Laurent ?</p>
+          <p>– Ma foi, monsieur...</p>
+          <p>– Ah ! vous n'êtes pas calés en géographie, vous autres Européens ! La petite ville qui se trouve au confluent du Richelieu et du Saint-Laurent s'appelle Sorel... Et surtout, n'allez pas confondre Sorel en Canada avec la très jolie et très séduisante Cécile Sorel ou avec Albert Sorel, l'éminent et très aimable académicien ! ni le fils d'icelui, Albert-Émile Sorel ! Jurez-moi de ne pas confondre !</p>
+          <p>– Volontiers, monsieur !</p>
+          <p>– Alors, donnez-moi votre sale glace de l'usine d'Auteuil.</p>
+          <p>– Voilà, monsieur !</p>
           <p>Et Cap mit en nos breuvages quelques-uns de ces factices icebergs.</p>
-          <p>-- Vous n'avez plus, désormais, qu'à nous apporter deux bouteilles de soda... Quel soda détenez-vous, ici ?</p>
+          <p>– Vous n'avez plus, désormais, qu'à nous apporter deux bouteilles de soda... Quel soda détenez-vous, ici ?</p>
           <p>
             -- Mais... le meilleur ! Du
             <hi rend="italic">schweppes</hi>
@@ -1108,7 +1108,7 @@
             <hi rend="italic">schweppes</hi>
              !
           </p>
-          <p>-- ... Dit mon père, hugolâtrai-je.</p>
+          <p>– ... Dit mon père, hugolâtrai-je.</p>
           <p>
             C'était fait ! Nous n'avions plus qu'à lamper notre
             <hi rend="italic">drink</hi>
@@ -1116,9 +1116,9 @@
           </p>
           <p>... Quand le gérant eut l'à jamais regrettable l'idée de nous apporter des chalumeaux, d'admirables chalumeaux, d'ailleurs.</p>
           <p>La combativité de Cap n'en demandait pas davantage.</p>
-          <p>-- Ça, des pailles ! fit-il avec explosion.</p>
-          <p>-- Mais, monsieur...</p>
-          <p>-- Non, ça, ça n'est pas des pailles ! C'est de la paille, et de la paille périmée, sortant de dessous -- saura-t-on jamais ? -- quelles innommables vaches ! Je n'ai point accoutumé à boire avec des résidus de purin. En allons-nous, mon ami, en allons-nous !</p>
+          <p>– Ça, des pailles ! fit-il avec explosion.</p>
+          <p>– Mais, monsieur...</p>
+          <p>– Non, ça, ça n'est pas des pailles ! C'est de la paille, et de la paille périmée, sortant de dessous -- saura-t-on jamais ? -- quelles innommables vaches ! Je n'ai point accoutumé à boire avec des résidus de purin. En allons-nous, mon ami, en allons-nous !</p>
           <p>Cap jeta sur le marbre de la table une suffisante pièce de cent sous, et nous partîmes vers le prochain mastroquet, où nous nous délectâmes à la joie d'une chopine de vin blanc, un peu de gomme et un demi-siphon !</p>
         </div>
         <div type="chapter">
@@ -1155,11 +1155,11 @@
           <p>Il s'agissait de démontrer que ce singe ridicule ne s'appelait pas Auguste, de toucher les 500 louis et d'aller faire sauter la banque à Monte-Carlo !</p>
           <p>Ah ! mon Dieu, ça n'était pas bien compliqué !</p>
           <p>Et Cap ne cessait de me répéter :</p>
-          <p>-- Je ne sais pas, mais quelque chose me dit que cet orang ne s'appelle pas Auguste.</p>
-          <p>-- Dam !</p>
-          <p>-- Pourquoi dam ? Ce sale gorille n'a pas une tête à s'appeler Auguste.</p>
-          <p>-- Dam !</p>
-          <p>-- Allais, si vous répétez encore une seule fois ce mot dam, je vous f... un coup d'aviron sur la g... !</p>
+          <p>– Je ne sais pas, mais quelque chose me dit que cet orang ne s'appelle pas Auguste.</p>
+          <p>– Dam !</p>
+          <p>– Pourquoi dam ? Ce sale gorille n'a pas une tête à s'appeler Auguste.</p>
+          <p>– Dam !</p>
+          <p>– Allais, si vous répétez encore une seule fois ce mot dam, je vous f... un coup d'aviron sur la g... !</p>
           <p>Tout ce qu'on voudra sur la g..., hormis un aviron ! Telle est ma devise.</p>
           <p>
             Je n'insistai point et nous parlâmes d'autre chose, en savourant le mannhattan cocktail
@@ -1172,13 +1172,13 @@
             , et je demeurai une grande quinzaine sans le revoir.
           </p>
           <p>Un matin, je fus réveillé par de grands éclats de voix dans mon antichambre : le clairon triomphal du Captain ébranlait mes parois.</p>
-          <p>-- Ah ! ah ! proclamait Cap, je les ai, les preuves, je les tiens !</p>
-          <p>-- Les preuves de quoi ? m'étirai-je en ma couche.</p>
-          <p>-- Je savais bien que ce sale chimpanzé ne s'appelait pas Auguste !</p>
-          <p>-- Ah !</p>
-          <p>-- Je viens de recevoir une dépêche de Bornéo, sa ville natale. Non seulement il ne s'appelle pas Auguste, mais encore il s'appelle Charles !</p>
-          <p>-- Diable, c'est grave !... Et dites-moi, mon cher Cap, pensez-vous alors que Charles, l'orang de Nice, soit parent de Charles Laurent, de Paris ?</p>
-          <p>-- Dans votre conduite, mon cher Alphonse, le ridicule le dispute à l'odieux... J'ai reçu de notre consul à Bornéo toutes les pièces établissant, incontestablement, que le grand singe du Pont-Vieux s'appelle Charles. Vite, levez-vous et allons chez un avoué. À nous les 10,000 francs !</p>
+          <p>– Ah ! ah ! proclamait Cap, je les ai, les preuves, je les tiens !</p>
+          <p>– Les preuves de quoi ? m'étirai-je en ma couche.</p>
+          <p>– Je savais bien que ce sale chimpanzé ne s'appelait pas Auguste !</p>
+          <p>– Ah !</p>
+          <p>– Je viens de recevoir une dépêche de Bornéo, sa ville natale. Non seulement il ne s'appelle pas Auguste, mais encore il s'appelle Charles !</p>
+          <p>– Diable, c'est grave !... Et dites-moi, mon cher Cap, pensez-vous alors que Charles, l'orang de Nice, soit parent de Charles Laurent, de Paris ?</p>
+          <p>– Dans votre conduite, mon cher Alphonse, le ridicule le dispute à l'odieux... J'ai reçu de notre consul à Bornéo toutes les pièces établissant, incontestablement, que le grand singe du Pont-Vieux s'appelle Charles. Vite, levez-vous et allons chez un avoué. À nous les 10,000 francs !</p>
           <p>Mon notaire de Nice, M. Pineau, qui passe à juste titre pour l'un des plus éminents jurisconsultes des Alpes-Maritimes, nous donna l'adresse d'un excellent avoué, et notre papier timbré fut rédigé en moins de temps qu'il n'en faut pour l'écrire.</p>
           <p>Mais, hélas ! la petite fête foraine du Pont-Vieux était terminée.</p>
           <p>Le faux Auguste, sa baraque, son barnum, tout déménagé à San-Remo, sur la terre d'Italie ; et l'on n'ignore point que la loi italienne est formelle à cet égard : interdiction absolue de rechercher l'état civil de tout singe haut de 70 centimètres et plus.</p>
@@ -1252,8 +1252,8 @@
           </p>
         </div>
         <div type="chapter">
-          <head>Chapitre X -- Exposé de la méthode employée par le Captain Cap pour établir le record du millimètre et le record du « gnon ». Cap, champion du monde!</head>
-          <p>-- Qu'apprends-je à l'instant, mon cher Cap ; c'est vous qui détenez le record du millimètre ?</p>
+          <head>Chapitre X -- Exposé de la méthode employée par le Captain Cap pour établir le record du millimètre et le record du « gnon ». Cap, champion du monde !</head>
+          <p>– Qu'apprends-je à l'instant, mon cher Cap ; c'est vous qui détenez le record du millimètre ?</p>
           <p>
             -- Parfaitement, mon cher, on ne vous a pas trompé ; c'est bien moi, à l'heure actuelle, qui détiens le
             <hi rend="italic">record du millimètre</hi>
@@ -1300,7 +1300,7 @@
             <hi rend="italic">Les Confessions d'un enfant du cycle</hi>
             .
           </p>
-          <p>-- Je n'y manquerai point.</p>
+          <p>– Je n'y manquerai point.</p>
           <p>
             -- Mais ce record n'est pas le seul que j'émets la prétention de détenir. J'ai pioché sérieusement et réussi, à moins de réclamations ultérieures, celui du
             <hi rend="italic">gnon</hi>
@@ -1311,7 +1311,7 @@
             <hi rend="italic">gnon</hi>
              ?
           </p>
-          <p>-- Parfaitement !</p>
+          <p>– Parfaitement !</p>
           <p>Et Cap s'exprime de la sorte :</p>
           <p>« Pour un cycliste, savoir se tenir sur sa machine est d'une bien petite importance ; mais savoir en tomber en possède une plus grande. Les gens intelligents le comprendront sans peine.</p>
           <p>... Grâce à un entraînement consciencieux et journalier, j'ai obtenu les résultats suivants, sur piste :</p>
@@ -1326,7 +1326,7 @@
           </p>
           <p>Le record du temps pour la descente de l'escalier de six étages serait également détenu, si nous l'en croyons, par notre intrépide et sportif ami.</p>
           <p>Laissons-lui la parole.</p>
-          <p>-- ... Par goût autant que par hygiène, je fais du pédestrianisme à outrance. Le Juif-Errant, dont vous faites votre Dieu, n'est, auprès de moi, qu'un lourdaud cul-de-plomb.</p>
+          <p>– ... Par goût autant que par hygiène, je fais du pédestrianisme à outrance. Le Juif-Errant, dont vous faites votre Dieu, n'est, auprès de moi, qu'un lourdaud cul-de-plomb.</p>
           <p>
             Pas de sport sérieux, n'est-ce pas ? sans entraîneurs. Or, mes minces ressources actuelles
             <hi rend="italic">*(1)</hi>
@@ -1348,8 +1348,8 @@
             <hi rend="italic">*(1)</hi>
             *, voulez-vous ?
           </p>
-          <p>-- Volontiers.</p>
-          <p>-- Hier donc, l'idée me vint de prendre, au lieu d'un entraîneur, une entraîneuse.</p>
+          <p>– Volontiers.</p>
+          <p>– Hier donc, l'idée me vint de prendre, au lieu d'un entraîneur, une entraîneuse.</p>
           <p>Justement, une jolie petite blonde !</p>
           <p>Et allez donc !</p>
           <p>
@@ -1361,8 +1361,8 @@
           <p>Sans rien perdre de mon sang-froid, je consultai ma montre à ce moment précis : il était 5 h. 17 m. 34 s.</p>
           <p>Quand j'arrivai au bas de l'escalier, la curiosité me poussa à me rendre compte de la nouvelle heure qu'il pouvait bien être. Voici exactement : 5 h. 17 m. 41 s.</p>
           <p>Une simple soustraction m'avisa que j'avais dévoré les six étages de la petite blonde en sept secondes, soit un peu plus d'une seconde par étage.</p>
-          <p>-- Ce qui, entre nous, mon cher Cap, est un résultat splendide.</p>
-          <p>-- Que je tâcherai de perfectionner encore.</p>
+          <p>– Ce qui, entre nous, mon cher Cap, est un résultat splendide.</p>
+          <p>– Que je tâcherai de perfectionner encore.</p>
         </div>
         <div type="chapter">
           <head>Chapitre XI -- Nouveau projet du Captain Cap pour communications inter-astrales.</head>
@@ -1406,11 +1406,11 @@
             <hi rend="italic">Australian Wine Store</hi>
             de l'avenue d'Eylau. Est-ce point votre avis ?
           </p>
-          <p>-- J'abonde dans votre sens, Captain.</p>
-          <p>-- Alors, filons !</p>
+          <p>– J'abonde dans votre sens, Captain.</p>
+          <p>– Alors, filons !</p>
           <p>Et nous filâmes.</p>
-          <p>-- Qu'est-ce qu'il faut servir à ces messieurs ? demanda la gracieuse petite patronne.</p>
-          <p>-- Ah ! voilà, fit Cap. Que pourrait-on bien boire ?</p>
+          <p>– Qu'est-ce qu'il faut servir à ces messieurs ? demanda la gracieuse petite patronne.</p>
+          <p>– Ah ! voilà, fit Cap. Que pourrait-on bien boire ?</p>
           <p>
             -- Pour moi, fis-je, il pleure dans mon cœur comme il pleut sur la ville, en sorte que je vais m'envoyer un bon petit
             <hi rend="italic">Angler's cocktail</hi>
@@ -1433,27 +1433,27 @@
           </p>
           <p>Cet étrange fonctionnaire se mit à nous conter des histoires plus étranges encore.</p>
           <p>Il avait passé tout l'été, affirmait-il, à dresser des moules.</p>
-          <p>-- La moule ne mérite aucunement son vieux renom de stupidité. Seulement, voilà, il faut la prendre par la douceur, car c'est un mollusque essentiellement timide. Avec de la mansuétude et de la musique, on en fait ce qu'on veut.</p>
-          <p>-- Allons donc !</p>
-          <p>-- Parole d'honneur ! Moi qui vous parle (et le Captain Cap vous dira si je suis un blagueur), je suis arrivé, jouant des airs espagnols sur la guitare, à me faire accompagner par des moules jouant des castagnettes.</p>
-          <p>-- Voilà ce que j'appelle un joli résultat !</p>
-          <p>-- Entendons-nous !... Je ne dis pas positivement que les moules jouaient des castagnettes ; mais par un petit choc répété de leurs valves, elles imitaient les castagnettes, et très en mesure, je vous prie de le croire. Rien n'était plus drôle, messieurs, que de voir tout un rocher de moules aussi parfaitement rythmiques !</p>
-          <p>-- Je vous concède que cela ne devait pas constituer un spectacle banal.</p>
+          <p>– La moule ne mérite aucunement son vieux renom de stupidité. Seulement, voilà, il faut la prendre par la douceur, car c'est un mollusque essentiellement timide. Avec de la mansuétude et de la musique, on en fait ce qu'on veut.</p>
+          <p>– Allons donc !</p>
+          <p>– Parole d'honneur ! Moi qui vous parle (et le Captain Cap vous dira si je suis un blagueur), je suis arrivé, jouant des airs espagnols sur la guitare, à me faire accompagner par des moules jouant des castagnettes.</p>
+          <p>– Voilà ce que j'appelle un joli résultat !</p>
+          <p>– Entendons-nous !... Je ne dis pas positivement que les moules jouaient des castagnettes ; mais par un petit choc répété de leurs valves, elles imitaient les castagnettes, et très en mesure, je vous prie de le croire. Rien n'était plus drôle, messieurs, que de voir tout un rocher de moules aussi parfaitement rythmiques !</p>
+          <p>– Je vous concède que cela ne devait pas constituer un spectacle banal.</p>
           <p>
             Pendant tout le récit du chef de musique du
             <hi rend="italic">Goubet</hi>
             , Cap n'avait rien proféré, mais son petit air inquiet ne présageait rien de bon.
           </p>
           <p>Il éclata :</p>
-          <p>-- En voilà-t-y pas une affaire, de dresser des moules ! C'est un jeu d'enfant !... Moi j'ai vu dix fois plus fort que ça !</p>
+          <p>– En voilà-t-y pas une affaire, de dresser des moules ! C'est un jeu d'enfant !... Moi j'ai vu dix fois plus fort que ça !</p>
           <p>
             Le chef de musique du
             <hi rend="italic">Goubet</hi>
             ne put réprimer un léger sursaut :
           </p>
-          <p>-- Dix fois plus fort que ça ? Dix fois ?</p>
-          <p>-- Mille fois ! J'ai vu en Californie un bonhomme qui avait dressé des oiseaux à se poser sur des fils télégraphiques selon la note qu'ils représentaient.</p>
-          <p>-- Quelques explications complémentaires nous semblent indiquées.</p>
+          <p>– Dix fois plus fort que ça ? Dix fois ?</p>
+          <p>– Mille fois ! J'ai vu en Californie un bonhomme qui avait dressé des oiseaux à se poser sur des fils télégraphiques selon la note qu'ils représentaient.</p>
+          <p>– Quelques explications complémentaires nous semblent indiquées.</p>
           <p>
             -- Voici : mon bonhomme choisissait une ligne télégraphique composée de cinq fils, lesquels fils représentaient les portées d'une partition. Chacun de ses oiseaux était dressé de façon à représenter un
             <hi rend="italic">ut*, un</hi>
@@ -1471,16 +1471,16 @@
             <hi rend="italic">, et les encore plus petits oiseaux les</hi>
             doubles croches*. Mon homme n'allait pas plus loin.
           </p>
-          <p>-- C'était déjà pas mal !</p>
+          <p>– C'était déjà pas mal !</p>
           <p>
             -- Il procédait ainsi : accompagné d'immenses paniers recelant ses volatiles, il arrivait à l'endroit du spectacle. Après avoir ouvert un petit panier spécial, il indiquait le ton dans lequel s'exécuterait le morceau. Une couleuvre sortait du petit panier spécial, s'enroulait autour du poteau télégraphique et grimpait jusqu'aux fils entre lesquels elle s'enroulait de façon à figurer une clef de
             <hi rend="italic">fa* ou une clef de</hi>
             sol*. Puis l'homme commençait à jouer son morceau sur un trombone à coulisse en osier.
           </p>
-          <p>-- Pardon, Cap, de vous interrompre. Un trombone à coulisse... en quoi ?</p>
-          <p>-- En osier. Vous n'ignorez pas que les paysans californiens sont très experts en l'art de fabriquer des trombones à coulisse avec des brins d'osier ?</p>
-          <p>-- Je n'ai fait que traverser la Californie sans avoir le loisir de m'attarder au moindre détail ethnographique.</p>
-          <p>-- Alors, à chaque note émise par l'instrument, un oiseau s'envolait et venait se placer à la place convenable. Quand tout ce petit monde était placé, le concert commençait, les volatiles émettant leur note chacun à son tour.</p>
+          <p>– Pardon, Cap, de vous interrompre. Un trombone à coulisse... en quoi ?</p>
+          <p>– En osier. Vous n'ignorez pas que les paysans californiens sont très experts en l'art de fabriquer des trombones à coulisse avec des brins d'osier ?</p>
+          <p>– Je n'ai fait que traverser la Californie sans avoir le loisir de m'attarder au moindre détail ethnographique.</p>
+          <p>– Alors, à chaque note émise par l'instrument, un oiseau s'envolait et venait se placer à la place convenable. Quand tout ce petit monde était placé, le concert commençait, les volatiles émettant leur note chacun à son tour.</p>
           <p>
             La petite patronne
             <hi rend="italic">*(1)</hi>
@@ -1503,41 +1503,41 @@
             <hi rend="italic">*(1)</hi>
             * qu'on venait de lui servir, et me dit :
           </p>
-          <p>-- Alors, ça vous embête tant que ça, la pénible incertitude où vous pataugez !</p>
-          <p>-- Quelle pénible incertitude, dites-moi, Captain ?</p>
-          <p>-- De savoir au juste où vont les vieilles lunes ?</p>
-          <p>-- Moi !... Je vous assure bien, Cap, que les vieilles lunes sont parfaitement libres d'aller où bon leur semble, et que jamais je n'irai les y quérir !</p>
+          <p>– Alors, ça vous embête tant que ça, la pénible incertitude où vous pataugez !</p>
+          <p>– Quelle pénible incertitude, dites-moi, Captain ?</p>
+          <p>– De savoir au juste où vont les vieilles lunes ?</p>
+          <p>– Moi !... Je vous assure bien, Cap, que les vieilles lunes sont parfaitement libres d'aller où bon leur semble, et que jamais je n'irai les y quérir !</p>
           <p>Comme si son oreille eût été de granit, Cap persista :</p>
-          <p>-- Et aussi les neiges d'antan, mon pauvre ami ! L'angoisse vous étreint de leurs destinées !</p>
-          <p>-- Ainsi que le poisson d'une pomme, je me soucie des neiges d'antan... Ah ! certes, Cap, je suis torturé par une hantise, mais d'un ordre plus humain, celle-là, et j'en meurs !</p>
+          <p>– Et aussi les neiges d'antan, mon pauvre ami ! L'angoisse vous étreint de leurs destinées !</p>
+          <p>– Ainsi que le poisson d'une pomme, je me soucie des neiges d'antan... Ah ! certes, Cap, je suis torturé par une hantise, mais d'un ordre plus humain, celle-là, et j'en meurs !</p>
           <p>Je croyais que Cap allait s'intéresser à ma peine et m'interroger. Ah ! que non point !</p>
-          <p>-- Et aussi les vieux confetti, n'est-ce pas ? continua-t-il, immuable, vous n'allez pas dire que vous vous en fichez ?</p>
+          <p>– Et aussi les vieux confetti, n'est-ce pas ? continua-t-il, immuable, vous n'allez pas dire que vous vous en fichez ?</p>
           <p>Cette fois, je changeai mes batteries d'épaule et, pour déconcerter son parti pris, je feignis de m'intéresser prodigieusement au sort des vieux confetti.</p>
-          <p>-- Ah ! les vieux confetti ! m'écriai-je, les yeux blancs. Où vont les vieux confetti ?</p>
+          <p>– Ah ! les vieux confetti ! m'écriai-je, les yeux blancs. Où vont les vieux confetti ?</p>
           <p>Cap tenait son homme.</p>
-          <p>-- Je vais vous le dire, moi, où vont les vieux confetti.</p>
+          <p>– Je vais vous le dire, moi, où vont les vieux confetti.</p>
           <p>
             Et pour donner un peu de cœur au ventre de Cap, je priai le garçon de nous servir, car je venais de piger un rhume sérieux, deux
             <hi rend="italic">ale-flips</hi>
             <hi rend="italic">*(1)</hi>
             * bien soignés.
           </p>
-          <p>-- Les vieux confetti ? Il n'y a pas de vieux confetti, ou plutôt, il n'y en aura plus.</p>
-          <p>-- Allons donc ! Et comment ce phénomène ?</p>
+          <p>– Les vieux confetti ? Il n'y a pas de vieux confetti, ou plutôt, il n'y en aura plus.</p>
+          <p>– Allons donc ! Et comment ce phénomène ?</p>
           <p>
             -- À cause de la
             <hi rend="italic">Nouvelle société centrale de lavage des confetti parisiens</hi>
             , dont je préside le conseil d'administration.
           </p>
-          <p>-- Vous m'en direz tant !</p>
-          <p>-- Rien de plus curieux que le fonctionnement de cette industrie. Je sors de l'usine et j'en suis émerveillé.</p>
-          <p>-- Des détails, je vous prie, Cap !</p>
+          <p>– Vous m'en direz tant !</p>
+          <p>– Rien de plus curieux que le fonctionnement de cette industrie. Je sors de l'usine et j'en suis émerveillé.</p>
+          <p>– Des détails, je vous prie, Cap !</p>
           <p>
             -- Voici, en trois mots : Le lendemain du mardi gras et autres jours fous, des employés à nous, munis d'un matériel
             <hi rend="italic">ad hoc</hi>
             , ramassent tous les confetti gisant sur le trottoir parisien et les rapportent au siège social, 237, rue Mazagran.
           </p>
-          <p>-- Bon.</p>
+          <p>– Bon.</p>
           <p>
             -- On les soumet à une opération préalable qui s'appelle le
             <hi rend="italic">triage</hi>
@@ -1545,52 +1545,52 @@
             <hi rend="italic">dépoussiérage</hi>
             .
           </p>
-          <p>-- Je l'aurais parié !</p>
+          <p>– Je l'aurais parié !</p>
           <p>
             -- Ceux-là, il n'y a plus qu'à leur faire subir le
             <hi rend="italic">défroissage</hi>
             , opération qui consiste...
           </p>
-          <p>-- À les défroisser.</p>
-          <p>-- Précisément ! au moyen d'un petit fer à repasser élevé à une certaine température... Restent les confetti mouillés. On les mène, au moyen de larges trémies épicycloïdales, dans de vastes étuves où ils se dessèchent.</p>
+          <p>– À les défroisser.</p>
+          <p>– Précisément ! au moyen d'un petit fer à repasser élevé à une certaine température... Restent les confetti mouillés. On les mène, au moyen de larges trémies épicycloïdales, dans de vastes étuves où ils se dessèchent.</p>
           <p>
             -- C'est ce que vous appelez le
             <hi rend="italic">desséchage</hi>
             , sans doute ?
           </p>
-          <p>-- Précisément !... Une fois desséchés, les confetti sont violemment projetés dans une boîte dont la forme rappelle un peu celle d'un parallélépipède. Cette boîte est munie d'une petite fente imperceptible de laquelle s'échappe, -- un à un, -- chacun des petits disques de papier. À la sortie, le confetti est saisi par une minuscule pince à articulation et soumis à l'action d'une mignonne brosse électrique et vibratile. C'est ce que nous appelons...</p>
+          <p>– Précisément !... Une fois desséchés, les confetti sont violemment projetés dans une boîte dont la forme rappelle un peu celle d'un parallélépipède. Cette boîte est munie d'une petite fente imperceptible de laquelle s'échappe, -- un à un, -- chacun des petits disques de papier. À la sortie, le confetti est saisi par une minuscule pince à articulation et soumis à l'action d'une mignonne brosse électrique et vibratile. C'est ce que nous appelons...</p>
           <p>
             -- Le
             <hi rend="italic">brossage</hi>
             .
           </p>
-          <p>-- Précisément !... Une autre sélection s'impose. Parmi les confetti ainsi brossés, il s'en trouve quelques-uns maculés de matières grasses, phénomène provenant de leur contact avec les ordures ménagères. Ces derniers sont soigneusement séparés des autres.</p>
+          <p>– Précisément !... Une autre sélection s'impose. Parmi les confetti ainsi brossés, il s'en trouve quelques-uns maculés de matières grasses, phénomène provenant de leur contact avec les ordures ménagères. Ces derniers sont soigneusement séparés des autres.</p>
           <p>
             -- C'est ce que vous appelez le
             <hi rend="italic">séparage</hi>
             .
           </p>
-          <p>-- Précisément !... Les confetti gras sont trempés dans une solution de carbonate de potasse qui saponifie les matières grasses et les rend solubles. Il ne reste plus qu'à les laver à grande eau pour les débarrasser de toute réaction alcaline. Nous obtenons ce résultat au moyen du...</p>
+          <p>– Précisément !... Les confetti gras sont trempés dans une solution de carbonate de potasse qui saponifie les matières grasses et les rend solubles. Il ne reste plus qu'à les laver à grande eau pour les débarrasser de toute réaction alcaline. Nous obtenons ce résultat au moyen du...</p>
           <p>
             -- 
             <hi rend="italic">Lavage à grande eau</hi>
             .
           </p>
-          <p>-- Précisément !... Alors, on les remet à l'étuve, on les repasse au fer chaud...</p>
-          <p>-- Et voilà !</p>
-          <p>-- Vous croyez que c'est tout ?</p>
-          <p>-- Dame !</p>
-          <p>-- Eh bien ! vous vous trompez. L'opération est à peine commencée.</p>
+          <p>– Précisément !... Alors, on les remet à l'étuve, on les repasse au fer chaud...</p>
+          <p>– Et voilà !</p>
+          <p>– Vous croyez que c'est tout ?</p>
+          <p>– Dame !</p>
+          <p>– Eh bien ! vous vous trompez. L'opération est à peine commencée.</p>
           <p>Une nuance d'effroi se peignit dans mes yeux.</p>
-          <p>-- Vous n'ignorez pas, reprit Cap, combien il est pénible de recevoir des confetti dans la bouche ou dans l'œil ?</p>
-          <p>-- Croyez-moi, j'ai passé par là.</p>
-          <p>-- Désormais, ce martyre sera des plus salutaires. Les confetti, au moyen d'une imbibition dans des liquides de composition variable, acquièrent des densités différentes. Les plus lourds se dirigent vers la bouche, les plus légers dans l'œil (ce calcul fut, entre parenthèses, d'une détermination assez délicate).</p>
-          <p>-- Nulle peine à le croire.</p>
-          <p>-- Les confetti destinés à la bouche sont imprégnés de principes balsamiques infiniment favorables au bon fonctionnement des voies respiratoires.</p>
-          <p>-- Laissez-moi parier que les confetti destinés aux yeux sont chargés d'éléments tout pleins de sollicitude pour les organes de la vue.</p>
-          <p>-- Ah ! on ne peut rien vous cacher, à vous !</p>
-          <p>-- À la vôtre, mon cher Cap !</p>
-          <p>-- Dieu vous garde, mon vieil Allais.</p>
+          <p>– Vous n'ignorez pas, reprit Cap, combien il est pénible de recevoir des confetti dans la bouche ou dans l'œil ?</p>
+          <p>– Croyez-moi, j'ai passé par là.</p>
+          <p>– Désormais, ce martyre sera des plus salutaires. Les confetti, au moyen d'une imbibition dans des liquides de composition variable, acquièrent des densités différentes. Les plus lourds se dirigent vers la bouche, les plus légers dans l'œil (ce calcul fut, entre parenthèses, d'une détermination assez délicate).</p>
+          <p>– Nulle peine à le croire.</p>
+          <p>– Les confetti destinés à la bouche sont imprégnés de principes balsamiques infiniment favorables au bon fonctionnement des voies respiratoires.</p>
+          <p>– Laissez-moi parier que les confetti destinés aux yeux sont chargés d'éléments tout pleins de sollicitude pour les organes de la vue.</p>
+          <p>– Ah ! on ne peut rien vous cacher, à vous !</p>
+          <p>– À la vôtre, mon cher Cap !</p>
+          <p>– Dieu vous garde, mon vieil Allais.</p>
         </div>
         <div type="chapter">
           <head>Chapitre XIV -- Le Captain Cap et la défense nationale. -- Nouveau mode de transport de dépêches. -- La critique du général Dragomirov.</head>
@@ -1610,40 +1610,40 @@
             <hi rend="italic">Old Tom gin</hi>
             de ce frais petit bar !
           </p>
-          <p>-- Donnez-moi votre main, Cap, que je la serre encore.</p>
-          <p>-- Et aussi la vôtre, vieux lâcheur.</p>
-          <p>-- Ne m'accusez pas, Cap.</p>
-          <p>-- Oui, je sais...</p>
+          <p>– Donnez-moi votre main, Cap, que je la serre encore.</p>
+          <p>– Et aussi la vôtre, vieux lâcheur.</p>
+          <p>– Ne m'accusez pas, Cap.</p>
+          <p>– Oui, je sais...</p>
           <p>Le Captain avait tant de choses à me conter qu'il ne savait par où débuter.</p>
           <p>Je vins à son secours.</p>
-          <p>-- D'où arrivez-vous, Cap, en ce costume de voyage ?</p>
-          <p>-- Des grandes manœuvres de l'Est.</p>
-          <p>-- C'était beau ?</p>
-          <p>-- Oh ! je n'ai pas eu le temps de regarder les troupes !... J'avais d'autres chiens à fouetter !</p>
-          <p>-- Je vois avec plaisir, mon cher Cap, que vous n'avez pas changé ! Car, il n'y a que vous au monde, et quelques aveugles, pour aller aux grandes manœuvres, sans jeter un coup d'œil sur les militaires.</p>
+          <p>– D'où arrivez-vous, Cap, en ce costume de voyage ?</p>
+          <p>– Des grandes manœuvres de l'Est.</p>
+          <p>– C'était beau ?</p>
+          <p>– Oh ! je n'ai pas eu le temps de regarder les troupes !... J'avais d'autres chiens à fouetter !</p>
+          <p>– Je vois avec plaisir, mon cher Cap, que vous n'avez pas changé ! Car, il n'y a que vous au monde, et quelques aveugles, pour aller aux grandes manœuvres, sans jeter un coup d'œil sur les militaires.</p>
           <p>
             -- Je ne fus en contact qu'avec les généralissimes, Zurlinden, Félix Faure et Dragomirov
             <hi rend="italic">*(1)</hi>
             *.
           </p>
-          <p>-- Vous avez de jolies relations, Cap !</p>
-          <p>-- Dites plutôt que ces messieurs furent des plus honorés de me connaître.</p>
-          <p>-- Ont-ils au moins su vous apprécier ?</p>
-          <p>-- Il le fallut bien, mon invention étant de celles qui s'imposent à l'admiration des plus grosses légumes.</p>
-          <p>-- Votre invention, Captain ?</p>
-          <p>-- Mon invention, oui.</p>
-          <p>-- Ah ! ah !</p>
+          <p>– Vous avez de jolies relations, Cap !</p>
+          <p>– Dites plutôt que ces messieurs furent des plus honorés de me connaître.</p>
+          <p>– Ont-ils au moins su vous apprécier ?</p>
+          <p>– Il le fallut bien, mon invention étant de celles qui s'imposent à l'admiration des plus grosses légumes.</p>
+          <p>– Votre invention, Captain ?</p>
+          <p>– Mon invention, oui.</p>
+          <p>– Ah ! ah !</p>
           <p>
             Ce
             <hi rend="italic">Ah ! ah !</hi>
             cachait, de ma part, une intolérable démangeaison de connaître la nouvelle idée de mon prodigieux ami.
           </p>
           <p>Mais lui se cavernait dans l'inexorable cloître du mutisme.</p>
-          <p>-- Voyons, Cap, soyez gentil ! Dites-moi quelques mots de votre invention.</p>
-          <p>-- Impossible !</p>
-          <p>-- Indiquez-moi, seulement, de quoi il s'agit.</p>
-          <p>-- Impossible ! impossible ! ce serait compromettre la défense nationale.</p>
-          <p>-- La défense nationale ! le salut de la Patrie ! c'est vous qui venez me parler de ces sornettes, vous, Cap, l'apôtre de l'anti-européanisme !</p>
+          <p>– Voyons, Cap, soyez gentil ! Dites-moi quelques mots de votre invention.</p>
+          <p>– Impossible !</p>
+          <p>– Indiquez-moi, seulement, de quoi il s'agit.</p>
+          <p>– Impossible ! impossible ! ce serait compromettre la défense nationale.</p>
+          <p>– La défense nationale ! le salut de la Patrie ! c'est vous qui venez me parler de ces sornettes, vous, Cap, l'apôtre de l'anti-européanisme !</p>
           <p>
             -- Le salut de la France m'intéresse autant qu'une partie de
             <hi rend="italic">poker dice</hi>
@@ -1652,22 +1652,22 @@
             poker dice*.
           </p>
           <p>Je me levai, tendis la main à Cap et, d'une voix consternée :</p>
-          <p>-- Au revoir, dis-je, ou plutôt adieu, Cap !</p>
-          <p>-- Adieu ! Pourquoi adieu ?</p>
-          <p>-- Parce que je veux ne plus jamais revoir un ami dont je perdis la confiance.</p>
-          <p>-- Allons, asseyez-vous, grand enfant, je vais tout vous dire !... Mais jurez-moi que pas une de mes paroles ne sortira d'ici.</p>
-          <p>-- Je le jure !</p>
-          <p>-- Mon idée, comme toutes les idées géniales, est d'une simplicité vertigineuse. Elle consiste à remplacer, pour le transport des dépêches militaires, les pigeons par les poissons.</p>
-          <p>-- Des poissons volants ?</p>
-          <p>-- Non, des poissons qui nagent tout bêtement, comme tous les poissons. Mieux que le pigeon (qui, comme son nom l'indique, est un imbécile), le poisson est éminemment éducable. De plus, il est d'une discrétion parfaite... Avez-vous jamais entendu un poisson faire des ragots sur son prochain ?</p>
-          <p>-- Jamais, Cap !</p>
-          <p>-- Le poisson était donc tout indiqué pour jouer le rôle important de messager militaire. Il porte les dépêches d'un général à un autre aussi fidèlement, plus sûrement et plus vite que n'importe quel idiot de pigeon.</p>
-          <p>-- Et dire que personne n'a pensé à cela !</p>
-          <p>-- Les gens sont si bêtes !</p>
-          <p>-- Vos essais aux manœuvres de l'Est ont réussi ?</p>
-          <p>-- Pleinement ! Mon équipe de poissons voyageurs a rendu les plus grands services à Saussier. Félix Faure n'en revenait pas.</p>
-          <p>-- Et Dragomirov, qu'est-ce qu'il a dit ?</p>
-          <p>-- Dragomirov était furieux ! Il prétend que de faire porter des dépêches aux poissons, ça leur abîme le caviar.</p>
+          <p>– Au revoir, dis-je, ou plutôt adieu, Cap !</p>
+          <p>– Adieu ! Pourquoi adieu ?</p>
+          <p>– Parce que je veux ne plus jamais revoir un ami dont je perdis la confiance.</p>
+          <p>– Allons, asseyez-vous, grand enfant, je vais tout vous dire !... Mais jurez-moi que pas une de mes paroles ne sortira d'ici.</p>
+          <p>– Je le jure !</p>
+          <p>– Mon idée, comme toutes les idées géniales, est d'une simplicité vertigineuse. Elle consiste à remplacer, pour le transport des dépêches militaires, les pigeons par les poissons.</p>
+          <p>– Des poissons volants ?</p>
+          <p>– Non, des poissons qui nagent tout bêtement, comme tous les poissons. Mieux que le pigeon (qui, comme son nom l'indique, est un imbécile), le poisson est éminemment éducable. De plus, il est d'une discrétion parfaite... Avez-vous jamais entendu un poisson faire des ragots sur son prochain ?</p>
+          <p>– Jamais, Cap !</p>
+          <p>– Le poisson était donc tout indiqué pour jouer le rôle important de messager militaire. Il porte les dépêches d'un général à un autre aussi fidèlement, plus sûrement et plus vite que n'importe quel idiot de pigeon.</p>
+          <p>– Et dire que personne n'a pensé à cela !</p>
+          <p>– Les gens sont si bêtes !</p>
+          <p>– Vos essais aux manœuvres de l'Est ont réussi ?</p>
+          <p>– Pleinement ! Mon équipe de poissons voyageurs a rendu les plus grands services à Saussier. Félix Faure n'en revenait pas.</p>
+          <p>– Et Dragomirov, qu'est-ce qu'il a dit ?</p>
+          <p>– Dragomirov était furieux ! Il prétend que de faire porter des dépêches aux poissons, ça leur abîme le caviar.</p>
         </div>
         <div type="chapter">
           <head>Chapitre XV -- La question des ours blancs devant le Captain Cap.</head>
@@ -1698,7 +1698,7 @@
             avec trop d'eau n'a presque plus de goût.
           </p>
           <p>Cap connaissait ce gentleman ; il me le présenta :</p>
-          <p>-- Monsieur le baron Labitte de Montripier.</p>
+          <p>– Monsieur le baron Labitte de Montripier.</p>
           <p>J'adore les différentes relations de Cap. Presque toujours, avec elles, j'éprouve une sensation de pittoresque rarement trouvée ailleurs.</p>
           <p>Le baron vient, paraît-il, de prendre un brevet sur lequel il compte édifier une fortune princière.</p>
           <p>Grâce à des procédés tenus secrets jusqu'à présent, le baron a réussi à enlever au caoutchouc cette élasticité qui le fait impropre à tant d'usages. Au besoin, il le rend fragile comme du verre. Où l'industrie moderne s'arrêtera-t-elle, mon Dieu ? Où s'arrêtera-t-elle ?</p>
@@ -1708,42 +1708,42 @@
             <hi rend="italic">brandy cocktail</hi>
             et fit cette réflexion, qui projeta Cap dans une soudaine et sombre ire :
           </p>
-          <p>-- Vous savez, Captain, c'est très mauvais pour l'estomac, de boire tant de glace que ça.</p>
-          <p>-- Mauvais pour l'estomac, la glace ? Mais vous êtes ivre-mort baron, ou dénué de tout sens moral, pour avancer une telle absurdité, aussi blasphématoire qu'irrationnelle !</p>
-          <p>-- Mais...</p>
-          <p>-- Mais... rien du tout ! Connaissez-vous dans la nature un animal aussi vigoureux et aussi bien portant que l'ours blanc des régions polaires ?</p>
-          <p>-- ? ? ?</p>
-          <p>-- Non, n'est-ce pas, vous n'en connaissez pas ? Eh bien, croyez-vous que l'ours blanc s'abreuve trois fois par jour de thé bouillant ?... Du thé bouillant sur les banquises ? Mais vous êtes fou, mon cher baron !</p>
-          <p>-- Pardon, Captain je n'ai jamais dit...</p>
+          <p>– Vous savez, Captain, c'est très mauvais pour l'estomac, de boire tant de glace que ça.</p>
+          <p>– Mauvais pour l'estomac, la glace ? Mais vous êtes ivre-mort baron, ou dénué de tout sens moral, pour avancer une telle absurdité, aussi blasphématoire qu'irrationnelle !</p>
+          <p>– Mais...</p>
+          <p>– Mais... rien du tout ! Connaissez-vous dans la nature un animal aussi vigoureux et aussi bien portant que l'ours blanc des régions polaires ?</p>
+          <p>– ? ? ?</p>
+          <p>– Non, n'est-ce pas, vous n'en connaissez pas ? Eh bien, croyez-vous que l'ours blanc s'abreuve trois fois par jour de thé bouillant ?... Du thé bouillant sur les banquises ? Mais vous êtes fou, mon cher baron !</p>
+          <p>– Pardon, Captain je n'ai jamais dit...</p>
           <p>
             -- Et vous avez bien fait, car vous seriez la risée de tous les gens de bon sens. Les ours blancs des régions polaires ne boivent que de l'eau frappée et ils s'en trouvent admirablement, puisque leur robustesse est passée à l'état de légende. Ne dit-on point :
             <hi rend="italic">Fort comme un ours blanc</hi>
              ?
           </p>
-          <p>-- Évidemment.</p>
-          <p>-- Et, puisque nous en sommes sur cette question des ours blancs, voulez-vous me permettre mon cher Allais, et vous aussi mon cher Labitte de Montripier, de vous révéler un fait d'autant moins connu des naturalistes que je n'en ai encore fait part à personne ?</p>
-          <p>-- C'est une bonne fortune pour nous, Captain, et un honneur.</p>
-          <p>-- Savez-vous pourquoi les ours blancs sont blancs ?</p>
-          <p>-- Dam !</p>
-          <p>-- Les ours blancs sont blancs parce que ce sont de vieux ours.</p>
-          <p>-- Mais, pourtant les jeunes... ?</p>
-          <p>-- Il n'y a pas de jeunes ours blancs. Tous les ours blancs sont de vieux ours, comme les hommes qui ont les cheveux blancs sont de vieux hommes.</p>
-          <p>-- Êtes-vous bien sûr, Captain ?</p>
-          <p>-- Je l'ai expérimenté moi-même. L'ours, en général, est un plantigrade extrêmement avisé et fort entendu pour tout ce qui concerne l'hygiène et la santé. Dès qu'un ours quelconque, brun, noir, gris, se sent vieillir, dès qu'il aperçoit dans sa fourrure les premiers poils blancs, oh ! alors, il ne fait ni une ni deux : il file dans la direction du Nord, sachant parfaitement qu'il n'y a qu'un procédé pour allonger ses jours, c'est l'eau frappée. Vous entendez bien, Montripier, l'eau frappée !</p>
-          <p>-- C'est très curieux ce que vous nous contez là, Captain !</p>
-          <p>-- Et cela est si vrai qu'on ne rencontre jamais de vieux ours ou des squelettes d'ours dans aucun pays du monde. Vous êtes-vous parfois promené dans les Pyrénées ?</p>
-          <p>-- Assez souvent.</p>
-          <p>-- Eh bien ! la main sur la conscience, avez-vous jamais rencontré un vieux ours ou un cadavre d'ours sur votre chemin ?</p>
-          <p>-- Jamais.</p>
-          <p>-- Ah ! vous voyez bien. Tous les ours viennent vieillir et mourir doucement dans les régions arctiques.</p>
+          <p>– Évidemment.</p>
+          <p>– Et, puisque nous en sommes sur cette question des ours blancs, voulez-vous me permettre mon cher Allais, et vous aussi mon cher Labitte de Montripier, de vous révéler un fait d'autant moins connu des naturalistes que je n'en ai encore fait part à personne ?</p>
+          <p>– C'est une bonne fortune pour nous, Captain, et un honneur.</p>
+          <p>– Savez-vous pourquoi les ours blancs sont blancs ?</p>
+          <p>– Dam !</p>
+          <p>– Les ours blancs sont blancs parce que ce sont de vieux ours.</p>
+          <p>– Mais, pourtant les jeunes... ?</p>
+          <p>– Il n'y a pas de jeunes ours blancs. Tous les ours blancs sont de vieux ours, comme les hommes qui ont les cheveux blancs sont de vieux hommes.</p>
+          <p>– Êtes-vous bien sûr, Captain ?</p>
+          <p>– Je l'ai expérimenté moi-même. L'ours, en général, est un plantigrade extrêmement avisé et fort entendu pour tout ce qui concerne l'hygiène et la santé. Dès qu'un ours quelconque, brun, noir, gris, se sent vieillir, dès qu'il aperçoit dans sa fourrure les premiers poils blancs, oh ! alors, il ne fait ni une ni deux : il file dans la direction du Nord, sachant parfaitement qu'il n'y a qu'un procédé pour allonger ses jours, c'est l'eau frappée. Vous entendez bien, Montripier, l'eau frappée !</p>
+          <p>– C'est très curieux ce que vous nous contez là, Captain !</p>
+          <p>– Et cela est si vrai qu'on ne rencontre jamais de vieux ours ou des squelettes d'ours dans aucun pays du monde. Vous êtes-vous parfois promené dans les Pyrénées ?</p>
+          <p>– Assez souvent.</p>
+          <p>– Eh bien ! la main sur la conscience, avez-vous jamais rencontré un vieux ours ou un cadavre d'ours sur votre chemin ?</p>
+          <p>– Jamais.</p>
+          <p>– Ah ! vous voyez bien. Tous les ours viennent vieillir et mourir doucement dans les régions arctiques.</p>
           <p>
             -- De sorte qu'on aurait droit d'appeler ce pays l'
             <hi rend="italic">arctique</hi>
             de la mort.
           </p>
-          <p>-- Montripier, vous êtes très bête !... On pourrait élever une objection à ma théorie de l'ours blanc : c'est la forme de ces animaux, différente de celle des autres ours.</p>
-          <p>-- Ah ! oui.</p>
-          <p>-- Cette objection n'en est pas une. L'ours blanc ne prend cette forme allongée que grâce à son régime exclusivement ichtyophagique.</p>
+          <p>– Montripier, vous êtes très bête !... On pourrait élever une objection à ma théorie de l'ours blanc : c'est la forme de ces animaux, différente de celle des autres ours.</p>
+          <p>– Ah ! oui.</p>
+          <p>– Cette objection n'en est pas une. L'ours blanc ne prend cette forme allongée que grâce à son régime exclusivement ichtyophagique.</p>
           <p>À ce moment, Cap affecta une attitude si triomphante que nous tînmes pour parole d'évangile cette dernière assertion, d'une logique pourtant peu aveuglante.</p>
           <p>
             Et nous dégustâmes sur l'heure un
@@ -1754,25 +1754,25 @@
         </div>
         <div type="chapter">
           <head>Chapitre XVI -- L'anti-filtre du Captain Cap ou un nouveau moyen de traiter les microbes comme ils le méritent.</head>
-          <p>-- Y aurait-il indiscrétion, mon cher Cap, à vous demander en quoi consiste le paquet que vous tenez sous le bras ?</p>
-          <p>-- Nullement, cher ami, nullement.</p>
+          <p>– Y aurait-il indiscrétion, mon cher Cap, à vous demander en quoi consiste le paquet que vous tenez sous le bras ?</p>
+          <p>– Nullement, cher ami, nullement.</p>
           <p>Et avec une complaisance digne des temps chevaleresques, Cap déballa son petit paquet et m'en présenta le contenu, un objet cylindrique, composé de cristal et de nickel, recélant quelques détails assez ténébreux.</p>
-          <p>-- Que pensez-vous que ce soit ? interrogea Cap.</p>
-          <p>-- Ça, c'est un filtre dans le genre du filtre Pasteur.</p>
-          <p>-- Bravo ! s'écria Cap ! vous avez deviné ! vous avez parfaitement deviné, à part ce léger détail, toutefois, qu'au lieu d'être un filtre, cet objet est un anti-filtre.</p>
+          <p>– Que pensez-vous que ce soit ? interrogea Cap.</p>
+          <p>– Ça, c'est un filtre dans le genre du filtre Pasteur.</p>
+          <p>– Bravo ! s'écria Cap ! vous avez deviné ! vous avez parfaitement deviné, à part ce léger détail, toutefois, qu'au lieu d'être un filtre, cet objet est un anti-filtre.</p>
           <p>Une vive stupeur muette se peignit sur ma face, et c'est à grand-peine que je pus articuler :</p>
-          <p>-- Un anti-filtre, Cap ! Un anti-filtre !</p>
-          <p>-- Oui, répondit froidement le Captain, un anti-filtre.</p>
-          <p>-- Qu'ès aco ?</p>
-          <p>-- Oh ! mon Dieu, c'est bien simple ! Grâce à cet appareil, vous pouvez immédiatement muer l'onde la plus pure en un liquide jaunâtre et saturé de microbes. Vous voyez d'ici les avantages de mon ustensile ?</p>
-          <p>-- Je les vois, Cap, mais je ne les distingue pas bien.</p>
-          <p>-- Enfant que vous êtes ! Vous croyez à l'antiseptie ?</p>
-          <p>-- Dame !</p>
-          <p>-- Et à l'aseptie ?</p>
-          <p>-- Dame aussi !</p>
-          <p>-- Pauvre niais ! Vous êtes de la force du major Heitner, lequel ne considère potable que l'eau d'abord transformée en glace, puis longuement bouillie dans une marmite autoclave, cela dans l'espoir que tous les microbes disponibles seront morts d'un chaud et froid.</p>
-          <p>-- D'un froid et chaud, vous voulez plutôt dire, Captain ?</p>
-          <p>-- Tiens, c'est vrai, je n'y avais point songé. Ce major Heitner est encore plus inconséquent que je ne croyais.</p>
+          <p>– Un anti-filtre, Cap ! Un anti-filtre !</p>
+          <p>– Oui, répondit froidement le Captain, un anti-filtre.</p>
+          <p>– Qu'ès aco ?</p>
+          <p>– Oh ! mon Dieu, c'est bien simple ! Grâce à cet appareil, vous pouvez immédiatement muer l'onde la plus pure en un liquide jaunâtre et saturé de microbes. Vous voyez d'ici les avantages de mon ustensile ?</p>
+          <p>– Je les vois, Cap, mais je ne les distingue pas bien.</p>
+          <p>– Enfant que vous êtes ! Vous croyez à l'antiseptie ?</p>
+          <p>– Dame !</p>
+          <p>– Et à l'aseptie ?</p>
+          <p>– Dame aussi !</p>
+          <p>– Pauvre niais ! Vous êtes de la force du major Heitner, lequel ne considère potable que l'eau d'abord transformée en glace, puis longuement bouillie dans une marmite autoclave, cela dans l'espoir que tous les microbes disponibles seront morts d'un chaud et froid.</p>
+          <p>– D'un froid et chaud, vous voulez plutôt dire, Captain ?</p>
+          <p>– Tiens, c'est vrai, je n'y avais point songé. Ce major Heitner est encore plus inconséquent que je ne croyais.</p>
           <p>
             Et pour chasser la mauvaise impression de l'inconséquence excessive du major, nous pénétrâmes, Cap et moi, dans un de ces petits
             <hi rend="italic">american bars</hi>
@@ -1784,32 +1784,32 @@
             <hi rend="italic">*(1)</hi>
             *, Cap reprit :
           </p>
-          <p>-- La guerre stupide que l'homme fait aux microbes va, d'ici peu de temps, coûter cher à l'humanité.</p>
-          <p>-- Dieu nous garde, Cap !</p>
-          <p>-- On tue les microbes, c'est vrai, mais on ne les tue pas tous ! Et comment appelez-vous ceux qui résistent ?</p>
-          <p>-- Je ne les appelle pas, Cap ; ils viennent bien tout seuls.</p>
+          <p>– La guerre stupide que l'homme fait aux microbes va, d'ici peu de temps, coûter cher à l'humanité.</p>
+          <p>– Dieu nous garde, Cap !</p>
+          <p>– On tue les microbes, c'est vrai, mais on ne les tue pas tous ! Et comment appelez-vous ceux qui résistent ?</p>
+          <p>– Je ne les appelle pas, Cap ; ils viennent bien tout seuls.</p>
           <p>
             -- Ah ! vous ne les appelez pas ? Eh bien, moi, je les appelle de
             <hi rend="italic">rudes lapins</hi>
              ! Ceux-là sortent de leurs épreuves plus vigoureux qu'avant et terriblement trempés pour la lutte. Dans la bataille pour la vie, les individus qui ne succombent pas gagnent un entraînement et une vigueur qu'ils transmettent à leur espèce. Gare à nous, bientôt !
           </p>
-          <p>-- À genoux, Cap, et prions !</p>
-          <p>-- Laissons la prière aux enfants et aux femmes. Nous autres, hommes, colletons-nous avec la vérité. Voici ma théorie relative aux microbes : au lieu de combattre ces petits êtres, endormons-les dans l'oisiveté et le bien-être. Offrons-leur des milieux de culture favorables et charmants. Que notre corps devienne la Capoue de ces Annibaux microscopiques.</p>
+          <p>– À genoux, Cap, et prions !</p>
+          <p>– Laissons la prière aux enfants et aux femmes. Nous autres, hommes, colletons-nous avec la vérité. Voici ma théorie relative aux microbes : au lieu de combattre ces petits êtres, endormons-les dans l'oisiveté et le bien-être. Offrons-leur des milieux de culture favorables et charmants. Que notre corps devienne la Capoue de ces Annibaux microscopiques.</p>
           <p>
             -- Très drôle ça, Cap, les
             <hi rend="italic">Annibaux microscopiques</hi>
              !
           </p>
-          <p>-- Alors, qu'arrivera-t-il ? Les microbes s'habitueront à cette fausse sécurité. Ils pulluleront à l'envi ; mais plus ils seront nombreux, moins ils seront dangereux. Bientôt, ils tomberont en pleine dégénérescence...</p>
-          <p>-- Et Max Nordau fera un livre sur eux. Ce sera très rigolo.</p>
-          <p>-- Hein ! Que dites-vous de ma théorie ?</p>
+          <p>– Alors, qu'arrivera-t-il ? Les microbes s'habitueront à cette fausse sécurité. Ils pulluleront à l'envi ; mais plus ils seront nombreux, moins ils seront dangereux. Bientôt, ils tomberont en pleine dégénérescence...</p>
+          <p>– Et Max Nordau fera un livre sur eux. Ce sera très rigolo.</p>
+          <p>– Hein ! Que dites-vous de ma théorie ?</p>
           <p>
             -- Épatante, Cap ! Paix à tous les microbes de bonne volonté ! Et, pour commencer la mise en pratique de votre idée, les microbes aiment-ils l'
             <hi rend="italic">irish cocktail</hi>
             <hi rend="italic">*(1)</hi>
             * ?
           </p>
-          <p>-- Ils l'adorent, Alphonse, n'en doutez point !</p>
+          <p>– Ils l'adorent, Alphonse, n'en doutez point !</p>
           <p>
             -- Alors, garçon, deux
             <hi rend="italic">gin cocktails</hi>
@@ -1842,14 +1842,14 @@
             *.
           </p>
           <p>Quand nous eûmes échangé les préliminaires de la courtoisie courante :</p>
-          <p>-- C'est que, continua sir A. Kashtey, l'aérostation, ça me connaît un peu !... J'en ai fait jadis dans des conditions peut-être uniques au monde !</p>
+          <p>– C'est que, continua sir A. Kashtey, l'aérostation, ça me connaît un peu !... J'en ai fait jadis dans des conditions peut-être uniques au monde !</p>
           <p>
             Je vis Cap lever d'imperceptibles épaules...
             <hi rend="italic">Conditions uniques au monde !...</hi>
             Téméraire étranger !
           </p>
           <p>Sans se laisser démonter, Kashtey ajouta :</p>
-          <p>-- Le particulier de mon ascension, c'est que le ballon, c'était moi-même.</p>
+          <p>– Le particulier de mon ascension, c'est que le ballon, c'était moi-même.</p>
           <p>Sir A. Kashtey, après avoir eu la politesse de faire remplir nos verres, dit encore :</p>
           <p>
             -- Il y a une dizaine d'années de cela... Je commandais le brick
@@ -1858,24 +1858,24 @@
             <hi rend="italic">Dark-Blue Moon Line</hi>
             et nous coulâmes à pic, corps et biens.
           </p>
-          <p>-- Triste !</p>
-          <p>-- Assez triste, en effet ! Moi, j'étais chaussé de mes grosses bottes de mer en peau de loup-phoque, imperméables si vous voulez, mais peu indiquées pour battre le record des grands nageurs. Je fus néanmoins assez heureux pour flotter quelques instants, sur une pâle épave. À la fin, engourdi par le froid, je fis comme mon bateau et comme mes petits camarades : je coulai. Mais... écoutez-moi bien, je n'avais pas perdu une goutte de mon sang-froid, et mon programme était tout tracé dans ma tête.</p>
-          <p>-- Vous êtes vraiment un homme de sang-froid, vous !</p>
-          <p>-- J'en avais énormément dans cette circonstance : la chose se passait fin décembre.</p>
-          <p>-- Très drôle, sir !</p>
-          <p>-- Du talon de ma botte, je détachai de la coque de mon brick un bout de fer, qu'après avoir émietté dans mes mains d'athlète, j'avalai d'un coup. Doué, à cette époque, d'une vigueur peu commune, j'empoignai une des touries naufragées d'acide sulfurique et j'en avalai quelques gorgées.</p>
-          <p>-- Tout ça, au fond de la mer ?</p>
-          <p>-- Oui, monsieur, tout ça au fond de la mer ! On n'est pas toujours dans des conditions qui vous permettent de choisir son laboratoire. Ce qui se passa, vous le devinez, n'est-ce pas ?</p>
-          <p>-- Nous le devinons ; mais expliquez-le tout de même, pour ceux de nos lecteurs qui ne connaissent M. Berthelot que de nom.</p>
-          <p>-- Vous avez raison !... Chaque fois qu'on met en contact du fer, de l'eau et un acide, il se dégage de l'hydrogène... Je n'eus qu'à clore hermétiquement mes orifices naturels, et en particulier ma bouche ; au bout de quelques secondes, gonflé du précieux gaz, je regagnais la surface des flots. Mais voilà !... Comme il est dit dans la complainte de la criminelle famille Fenayrou, j'avais mal calculé la poussée des gaz. Ne me contentant pas de flotter, je m'élevai dans les airs, balancé par une assez forte brise Est qui me poussa en amont de la rivière. Ce sport, nouveau pour moi, d'abord me ravit, puis bientôt me monotona. Au petit jour, j'entrouvris légèrement un coin des lèvres, comme un monsieur qui sourit. Un peu d'hydrogène s'évada ; me rapprochant peu à peu de mon poids normal, bientôt, je mis pied à terre, en un joli petit pays qui s'appelle Tadoussac et qui est situé à l'embouchure du Saguenay. Connaissez-vous Tadoussac ?</p>
-          <p>-- Si je connais Tadoussac ! Et la jolie petite vieille église ! (la première que les Français construisirent au Canada). Et les jeunes filles de Tadoussac qui vendent des photographies dans la vieille petite église au profit de la construction d'une nouvelle basilique !</p>
+          <p>– Triste !</p>
+          <p>– Assez triste, en effet ! Moi, j'étais chaussé de mes grosses bottes de mer en peau de loup-phoque, imperméables si vous voulez, mais peu indiquées pour battre le record des grands nageurs. Je fus néanmoins assez heureux pour flotter quelques instants, sur une pâle épave. À la fin, engourdi par le froid, je fis comme mon bateau et comme mes petits camarades : je coulai. Mais... écoutez-moi bien, je n'avais pas perdu une goutte de mon sang-froid, et mon programme était tout tracé dans ma tête.</p>
+          <p>– Vous êtes vraiment un homme de sang-froid, vous !</p>
+          <p>– J'en avais énormément dans cette circonstance : la chose se passait fin décembre.</p>
+          <p>– Très drôle, sir !</p>
+          <p>– Du talon de ma botte, je détachai de la coque de mon brick un bout de fer, qu'après avoir émietté dans mes mains d'athlète, j'avalai d'un coup. Doué, à cette époque, d'une vigueur peu commune, j'empoignai une des touries naufragées d'acide sulfurique et j'en avalai quelques gorgées.</p>
+          <p>– Tout ça, au fond de la mer ?</p>
+          <p>– Oui, monsieur, tout ça au fond de la mer ! On n'est pas toujours dans des conditions qui vous permettent de choisir son laboratoire. Ce qui se passa, vous le devinez, n'est-ce pas ?</p>
+          <p>– Nous le devinons ; mais expliquez-le tout de même, pour ceux de nos lecteurs qui ne connaissent M. Berthelot que de nom.</p>
+          <p>– Vous avez raison !... Chaque fois qu'on met en contact du fer, de l'eau et un acide, il se dégage de l'hydrogène... Je n'eus qu'à clore hermétiquement mes orifices naturels, et en particulier ma bouche ; au bout de quelques secondes, gonflé du précieux gaz, je regagnais la surface des flots. Mais voilà !... Comme il est dit dans la complainte de la criminelle famille Fenayrou, j'avais mal calculé la poussée des gaz. Ne me contentant pas de flotter, je m'élevai dans les airs, balancé par une assez forte brise Est qui me poussa en amont de la rivière. Ce sport, nouveau pour moi, d'abord me ravit, puis bientôt me monotona. Au petit jour, j'entrouvris légèrement un coin des lèvres, comme un monsieur qui sourit. Un peu d'hydrogène s'évada ; me rapprochant peu à peu de mon poids normal, bientôt, je mis pied à terre, en un joli petit pays qui s'appelle Tadoussac et qui est situé à l'embouchure du Saguenay. Connaissez-vous Tadoussac ?</p>
+          <p>– Si je connais Tadoussac ! Et la jolie petite vieille église ! (la première que les Français construisirent au Canada). Et les jeunes filles de Tadoussac qui vendent des photographies dans la vieille petite église au profit de la construction d'une nouvelle basilique !</p>
           <p>
             (Et même si ces lignes viennent à tomber sous les yeux des jeunes filles de Tadoussac, qu'elles sachent bien que messieurs P. F., E. D., B. de C., A. A. ont gardé d'elles un souvenir imprescriptible à la fois et charmant
             <hi rend="italic">*(1)</hi>
             *.
           </p>
           <p>Sitôt fermée ma parenthèse, le gentleman de Winnipeg termina son récit avec une aisance presque injurieuse pour ce pauvre Cap :</p>
-          <p>-- Dès que j'eus mis pied à terre, j'exhalai le petit restant d'hydrogène qui me restait dans le coffre, et je gagnai la saumonnerie de Tadoussac en chantant à pleine voix cette vieille romance française que j'aime tant :</p>
+          <p>– Dès que j'eus mis pied à terre, j'exhalai le petit restant d'hydrogène qui me restait dans le coffre, et je gagnai la saumonnerie de Tadoussac en chantant à pleine voix cette vieille romance française que j'aime tant :</p>
           <p/>
           <p>
             <hi rend="italic">Laissez les roses aux rosiers</hi>
@@ -1885,7 +1885,7 @@
           </p>
           <p/>
           <p>Visiblement contrarié, Cap haussa les épaules murmurant :</p>
-          <p>-- Ce bonhomme-là ne me fait pas l'effet d'un personnage bien sérieux.</p>
+          <p>– Ce bonhomme-là ne me fait pas l'effet d'un personnage bien sérieux.</p>
         </div>
         <div type="chapter">
           <head>Chapitre XVIII -- Description d'une ingénieuse machine de l'invention de Cap pour faire du deux cent trente-quatre à l'heure.</head>
@@ -1894,8 +1894,8 @@
             <hi rend="italic">Leicester Tavern</hi>
             , je lui dis simplement :
           </p>
-          <p>-- Nous entrons ?</p>
-          <p>-- Oh ! que non pas ! répondit vivement Cap.</p>
+          <p>– Nous entrons ?</p>
+          <p>– Oh ! que non pas ! répondit vivement Cap.</p>
           <p>
             -- Alors au
             <hi rend="italic">Chicago Bar</hi>
@@ -1908,42 +1908,42 @@
             <hi rend="italic">Leicester Tavern</hi>
              !
           </p>
-          <p>-- Vous m'inquiétez, Cap.</p>
+          <p>– Vous m'inquiétez, Cap.</p>
           <p>
             -- Tant que durera le conflit Anglo-Américain, je ne mettrai les pieds en aucun établissement John-Bullesque ni Uncle-Sameux
             <hi rend="italic">*(1)</hi>
             *. Dans la situation que j'occupe, l'intégrale neutralité s'impose à moi.
           </p>
-          <p>-- Et dans les brasseries vénézuéliennes, Cap, y allez-vous ?</p>
-          <p>-- Le moins possible... D'ailleurs, je ne bois plus rien à Paris. Dès que j'ai soif, je vais dans les départements, j'enfourche ma nonuplette...</p>
-          <p>-- Pardon, Cap, de vous interrompre. Votre... quoi enfourchez-vous ?</p>
-          <p>-- Ma nonuplette... Ah ! vous ne connaissez pas ma nonuplette ? Comme son nom l'indique, c'est un cycle monté par neuf personnes comme la sextuplette est montée par six.</p>
-          <p>-- Neuf personnes !</p>
-          <p>-- Ah ! c'est une fameuse machine que ma nonuplette ! Uniquement composée de brins d'osier assemblés et renforcés par des bandes de papier gommé !</p>
-          <p>-- Pas de métal ?</p>
-          <p>-- Pas ça de métal ! Pas ça !</p>
-          <p>-- Et c'est solide ?</p>
-          <p>-- Pourquoi donc pas, je vous prie ? Une panthère, c'est solide ! Un albatros, c'est solide ! Un requin, c'est solide ! Et pourtant, citez-moi une pièce métallique entrant dans la construction de ces organismes !... Le bon Dieu est trop malin pour employer n'importe quel métal dans la confection de ses petits trucs.</p>
-          <p>-- Vous devez aller vite, avec votre nonuplette ?</p>
-          <p>-- Deux cent trente-quatre kilomètres à l'heure.</p>
-          <p>-- Cap, mon vieux Cap, j'ai une peur terrible que vous n'abusiez de mon ingénuité.</p>
-          <p>-- Mais pas du tout, cher ami, je vous jure !</p>
-          <p>-- Deux cent trente-quatre kilomètres à l'heure !</p>
-          <p>-- Pas un millimètre de moins. Je dois d'ailleurs ajouter que ma nonuplette, machine et coureurs, pèse, tout compris, environ un kilo.</p>
-          <p>-- Tout s'explique, alors ! Mais un kilo, y songez-vous, un simple kilo pour tout ce monde là !</p>
-          <p>-- Je dois encore ajouter, pour terrasser vos doutes, que ma nonuplette est allégée par un ballon dont la force ascensionnelle représente, à un kilo près, le poids de la machine et des coureurs.</p>
-          <p>-- Vous m'en direz tant ! Mais la résistance de l'air contre ce ballon ?</p>
-          <p>-- Nulle ! Mon ballon affecte la forme d'un tire-bouchon à deux pointes, une par devant, une par derrière. Il se visse dans l'air comme le tire-bouchon se vrille dans le liège, c'est-à-dire sans résistance appréciable... D'où qu'il souffle, le vent n'arrive même pas à nous faire hausser les épaules.</p>
-          <p>-- Pauvre vent !</p>
-          <p>-- Allons, mon cher Allais, décidez-vous ! Venez avec nous prendre un verre à Dunkerque !</p>
-          <p>-- Volontiers !</p>
+          <p>– Et dans les brasseries vénézuéliennes, Cap, y allez-vous ?</p>
+          <p>– Le moins possible... D'ailleurs, je ne bois plus rien à Paris. Dès que j'ai soif, je vais dans les départements, j'enfourche ma nonuplette...</p>
+          <p>– Pardon, Cap, de vous interrompre. Votre... quoi enfourchez-vous ?</p>
+          <p>– Ma nonuplette... Ah ! vous ne connaissez pas ma nonuplette ? Comme son nom l'indique, c'est un cycle monté par neuf personnes comme la sextuplette est montée par six.</p>
+          <p>– Neuf personnes !</p>
+          <p>– Ah ! c'est une fameuse machine que ma nonuplette ! Uniquement composée de brins d'osier assemblés et renforcés par des bandes de papier gommé !</p>
+          <p>– Pas de métal ?</p>
+          <p>– Pas ça de métal ! Pas ça !</p>
+          <p>– Et c'est solide ?</p>
+          <p>– Pourquoi donc pas, je vous prie ? Une panthère, c'est solide ! Un albatros, c'est solide ! Un requin, c'est solide ! Et pourtant, citez-moi une pièce métallique entrant dans la construction de ces organismes !... Le bon Dieu est trop malin pour employer n'importe quel métal dans la confection de ses petits trucs.</p>
+          <p>– Vous devez aller vite, avec votre nonuplette ?</p>
+          <p>– Deux cent trente-quatre kilomètres à l'heure.</p>
+          <p>– Cap, mon vieux Cap, j'ai une peur terrible que vous n'abusiez de mon ingénuité.</p>
+          <p>– Mais pas du tout, cher ami, je vous jure !</p>
+          <p>– Deux cent trente-quatre kilomètres à l'heure !</p>
+          <p>– Pas un millimètre de moins. Je dois d'ailleurs ajouter que ma nonuplette, machine et coureurs, pèse, tout compris, environ un kilo.</p>
+          <p>– Tout s'explique, alors ! Mais un kilo, y songez-vous, un simple kilo pour tout ce monde là !</p>
+          <p>– Je dois encore ajouter, pour terrasser vos doutes, que ma nonuplette est allégée par un ballon dont la force ascensionnelle représente, à un kilo près, le poids de la machine et des coureurs.</p>
+          <p>– Vous m'en direz tant ! Mais la résistance de l'air contre ce ballon ?</p>
+          <p>– Nulle ! Mon ballon affecte la forme d'un tire-bouchon à deux pointes, une par devant, une par derrière. Il se visse dans l'air comme le tire-bouchon se vrille dans le liège, c'est-à-dire sans résistance appréciable... D'où qu'il souffle, le vent n'arrive même pas à nous faire hausser les épaules.</p>
+          <p>– Pauvre vent !</p>
+          <p>– Allons, mon cher Allais, décidez-vous ! Venez avec nous prendre un verre à Dunkerque !</p>
+          <p>– Volontiers !</p>
           <p>Mon acquiescement parut enchanter Cap, mais le capitaine se rappela bientôt qu'un léger accident était survenu, le matin même, à un brin d'osier de sa nonuplette.</p>
           <p>Finalement, nous entrâmes dans un petit café blanc et or, où un garçon entre deux âges, nous servit deux excellents bocks de bière Tourtel.</p>
         </div>
         <div type="chapter">
           <head>Chapitre XIX -- Ce qu'on peut appeler sans crainte la maison vraiment moderne.</head>
-          <p>-- Eh bien, mon vieux Cap, que pensez-vous de cela ?</p>
-          <p>-- De quoi ?</p>
+          <p>– Eh bien, mon vieux Cap, que pensez-vous de cela ?</p>
+          <p>– De quoi ?</p>
           <p>
             Je tendis au Captain le numéro du
             <hi rend="italic">Journal</hi>
@@ -1953,61 +1953,61 @@
           </p>
           <p>D'un rapide coup d'œil, d'un de ces coups d'œil que l'aigle le plus perspicace n'hésiterait pas à signer, notre vaillant camarade eut bientôt fait de dévorer ladite chronique.</p>
           <p>Puis il haussa les épaules, et d'une attitude qui lui est familière :</p>
-          <p>-- Votre ami Prévost, dit-il, me semble bien ingénu de tant s'effarer pour un monte-charge à ordures ménagères et pour le chauffage des W.-C.</p>
-          <p>-- Vous avez vu mieux que cela, Cap ?</p>
-          <p>-- Enfant !</p>
-          <p>-- Dans les Nouvelles-Galles du Sud, sans doute ?</p>
-          <p>-- Pas si loin, dans la région Nord du Canada, à Winnipeg ; j'ai vu la maison idéalement construite pour ce climat, glacial l'hiver, torride l'été.</p>
-          <p>-- Calorifères ? Ventilateurs ?</p>
-          <p>-- Mieux que cela ! Je vous parle d'un immeuble qui, durant la rude saison, se trouve toujours du côté du soleil...</p>
-          <p>-- Ah ! mon vieux Cap !... On ne me la fait plus, celle-là, je la connais !</p>
-          <p>-- Qu'est-ce que vous connaissez ?</p>
+          <p>– Votre ami Prévost, dit-il, me semble bien ingénu de tant s'effarer pour un monte-charge à ordures ménagères et pour le chauffage des W.-C.</p>
+          <p>– Vous avez vu mieux que cela, Cap ?</p>
+          <p>– Enfant !</p>
+          <p>– Dans les Nouvelles-Galles du Sud, sans doute ?</p>
+          <p>– Pas si loin, dans la région Nord du Canada, à Winnipeg ; j'ai vu la maison idéalement construite pour ce climat, glacial l'hiver, torride l'été.</p>
+          <p>– Calorifères ? Ventilateurs ?</p>
+          <p>– Mieux que cela ! Je vous parle d'un immeuble qui, durant la rude saison, se trouve toujours du côté du soleil...</p>
+          <p>– Ah ! mon vieux Cap !... On ne me la fait plus, celle-là, je la connais !</p>
+          <p>– Qu'est-ce que vous connaissez ?</p>
           <p>
             -- Il y a à San-Remo un hôtel qui, entre autres alléchances, met sur son prospectus cette curieuse indication : « 
             <hi rend="italic">Grâce à une ingénieuse combinaison, toutes les chambres de l'hôtel sont exposées au Midi</hi>
             <hi rend="italic">*(1)</hi>
             **.* » Or, l'ingénieuse combinaison, la voici : L'hôtel, fort mince, ne comporte qu'une épaisseur de chambres, lesquelles, naturellement ont toutes la même orientation, celle du Midi. Si c'est ça que vous appelez la maison idéale !
           </p>
-          <p>-- Quand vous aurez fini de parler, je causerai.</p>
-          <p>-- Allez.</p>
-          <p>-- Semblable à votre hôtel de San-Remo, ma maison de Winnipeg est assez étroite, puisqu'elle ne comporte que l'épaisseur de deux pièces ; mais ce qui fait sa singularité, c'est qu'elle est posée sur un immense chariot qui tourne sur des rails circulaires.</p>
-          <p>-- Je commence à comprendre.</p>
-          <p>-- Ma maison est une maison tournante. Sur le devant, sont placées chambres de maîtres, salles à manger, salons, etc. ; sur le derrière, cuisines, chambres de domestiques, niches à belles-mères, etc. Pendant l'hiver, saison où le moindre rayon de soleil est ardemment béni, ma maison, dès le matin exposée au ponent, tourne jusqu'au soir, où elle se trouve virée vers le plein couchant, pour recommencer le lendemain.</p>
-          <p>-- Très ingénieux.</p>
-          <p>-- Pendant l'été, l'été torride de ces parages, on opère le manège contraire et l'on peut ainsi fuir l'horreur des calcinants midis.</p>
-          <p>-- Admirable !</p>
-          <p>-- Nous voilà loin, n'est-ce pas, mon cher, de la maison moderne de Marcel Prévost, aux tuyaux émaillés qui empêchent les microbes de remonter dans l'appartement !</p>
-          <p>---</p>
+          <p>– Quand vous aurez fini de parler, je causerai.</p>
+          <p>– Allez.</p>
+          <p>– Semblable à votre hôtel de San-Remo, ma maison de Winnipeg est assez étroite, puisqu'elle ne comporte que l'épaisseur de deux pièces ; mais ce qui fait sa singularité, c'est qu'elle est posée sur un immense chariot qui tourne sur des rails circulaires.</p>
+          <p>– Je commence à comprendre.</p>
+          <p>– Ma maison est une maison tournante. Sur le devant, sont placées chambres de maîtres, salles à manger, salons, etc. ; sur le derrière, cuisines, chambres de domestiques, niches à belles-mères, etc. Pendant l'hiver, saison où le moindre rayon de soleil est ardemment béni, ma maison, dès le matin exposée au ponent, tourne jusqu'au soir, où elle se trouve virée vers le plein couchant, pour recommencer le lendemain.</p>
+          <p>– Très ingénieux.</p>
+          <p>– Pendant l'été, l'été torride de ces parages, on opère le manège contraire et l'on peut ainsi fuir l'horreur des calcinants midis.</p>
+          <p>– Admirable !</p>
+          <p>– Nous voilà loin, n'est-ce pas, mon cher, de la maison moderne de Marcel Prévost, aux tuyaux émaillés qui empêchent les microbes de remonter dans l'appartement !</p>
+          <p>–-</p>
           <p>
             -- Un petit
             <hi rend="italic">coffee punch</hi>
             <hi rend="italic">*(1)</hi>
             *, Captain ?
           </p>
-          <p>-- Volontiers ! fit Cap.</p>
+          <p>– Volontiers ! fit Cap.</p>
         </div>
         <div type="chapter">
           <head>Chapitre XX -- Une création du Captain Cap : le Grandiose Billard Club !</head>
           <p>Comme la pluie n'avait pas l'air décidée à ne plus choir, je fis au Captain Cap la proposition de jouer au billard, histoire, ajoutai-je, de tuer le temps.</p>
-          <p>-- Hélas ! répliqua Cap, ce n'est pas nous qui tuons le temps, mais bien le temps qui nous tue !</p>
-          <p>-- Alors, seulement, pour le faire passer.</p>
-          <p>-- Hélas ! insista Cap, ce n'est pas nous qui faisons passer le temps, mais bien le temps qui nous fait passer !</p>
+          <p>– Hélas ! répliqua Cap, ce n'est pas nous qui tuons le temps, mais bien le temps qui nous tue !</p>
+          <p>– Alors, seulement, pour le faire passer.</p>
+          <p>– Hélas ! insista Cap, ce n'est pas nous qui faisons passer le temps, mais bien le temps qui nous fait passer !</p>
           <p>On aurait pu aller loin avec ce système-là ; aussi, crus-je devoir n'insister point.</p>
           <p>Et pourtant, j'insistai tout de même.</p>
-          <p>-- Volontiers, obtempéra le hardi navigateur, mais où ?</p>
-          <p>-- Ici même, Cap, au premier.</p>
+          <p>– Volontiers, obtempéra le hardi navigateur, mais où ?</p>
+          <p>– Ici même, Cap, au premier.</p>
           <p>(Car je dois prévenir le lecteur, s'il en est temps encore, que cette scène se passait dans le petit café blanc de la rue Bleue, bien préférable, selon moi, au petit café bleu de la rue Blanche.)</p>
           <p>Cap haussa les épaules :</p>
-          <p>-- Un billard au premier ! Vous badinez, mon cher !</p>
-          <p>-- Je...</p>
-          <p>-- Un billard qui peut se loger dans un immeuble, si vaste soit cet immeuble, n'est qu'un joujou dérisoire, bon seulement pour garçonnets et fillettes.</p>
-          <p>-- Ah !</p>
-          <p>-- La dernière fois que j'ai joué au billard, tel que vous me voyez, mon cher Alphonse, c'était dans les Nouvelles-Galles du Sud.</p>
-          <p>-- Ah !</p>
-          <p>-- Et sur un tapis dont le petit côté ne mesurait pas moins d'un mille marin et demi (2 kil. 787 m.).</p>
-          <p>-- Peste ! mon cher !</p>
+          <p>– Un billard au premier ! Vous badinez, mon cher !</p>
+          <p>– Je...</p>
+          <p>– Un billard qui peut se loger dans un immeuble, si vaste soit cet immeuble, n'est qu'un joujou dérisoire, bon seulement pour garçonnets et fillettes.</p>
+          <p>– Ah !</p>
+          <p>– La dernière fois que j'ai joué au billard, tel que vous me voyez, mon cher Alphonse, c'était dans les Nouvelles-Galles du Sud.</p>
+          <p>– Ah !</p>
+          <p>– Et sur un tapis dont le petit côté ne mesurait pas moins d'un mille marin et demi (2 kil. 787 m.).</p>
+          <p>– Peste ! mon cher !</p>
           <p>Et ma stupeur, l'avouerai-je, se coupa d'un doigt d'incrédulité.</p>
-          <p>-- Parfaitement ! fit Cap de sa voix la plus tranquille.</p>
+          <p>– Parfaitement ! fit Cap de sa voix la plus tranquille.</p>
           <p>Et quand ce diable d'homme m'eut conté son affaire, je reconnus -- nom d'un chien ! -- que la monstruosité de son dire n'était qu'apparente.</p>
           <p>
             ... En 1888
@@ -2037,12 +2037,12 @@
         </div>
         <div type="chapter">
           <head>Chapitre XXI -- Où le Captain Cap nous donne d'intéressants tuyaux sur le ferrage des chevaux dans les pampas d'Australie.</head>
-          <p>-- Et vous, Cap, qu'est-ce que vous pensez de tout ça ?</p>
-          <p>-- Tout ça... quoi ?</p>
-          <p>-- Tout ça, tout ça...</p>
-          <p>-- Ah ! oui, tout ça ! Eh bien, je ne pense qu'une chose, une seule !</p>
-          <p>-- Laquelle ?</p>
-          <p>-- Oh ! rien.</p>
+          <p>– Et vous, Cap, qu'est-ce que vous pensez de tout ça ?</p>
+          <p>– Tout ça... quoi ?</p>
+          <p>– Tout ça, tout ça...</p>
+          <p>– Ah ! oui, tout ça ! Eh bien, je ne pense qu'une chose, une seule !</p>
+          <p>– Laquelle ?</p>
+          <p>– Oh ! rien.</p>
           <p>Le dialogue dura longtemps sur ce ton. Moi, je me sentais un peu déprimé, cependant que le d'habitude si vivant Captain Cap était totalement aboli.</p>
           <p>
             Cap bâilla, s'étira comme un grand chat fatigué, et je devinai tout de suite ce qu'il allait me proposer : l'inévitable
@@ -2051,19 +2051,19 @@
             <hi rend="italic">*(1)</hi>
             * en quelque bar saxon du voisinage. Je répondis par ces deux monosyllabes froidement émises :
           </p>
-          <p>-- Non, Cap !</p>
+          <p>– Non, Cap !</p>
           <p>Cap aurait reçu sur la tête tout le mont Valérien lancé d'une main sûre, qu'il ne se serait pas plus formellement écroulé.</p>
-          <p>-- Comment, bégaya-t-il, avez-vous dit ?</p>
+          <p>– Comment, bégaya-t-il, avez-vous dit ?</p>
           <p>
             -- J'ai dit :
             <hi rend="italic">Non, Cap</hi>
             .
           </p>
-          <p>-- Alors, je ne comprends plus.</p>
-          <p>-- C'est pourtant bien simple, Cap. Désormais, la débauche, sous quelque forme qu'elle se présente, me cause une indicible horreur. J'ai trouvé mon chemin de Damas. Plus d'excès ! À nous, la norme ! Vivons à même la nature ! Or, la nature ne comporte ni breuvages fermentés, ni spiritueux. Si on n'avait pas inventé l'alcool, mon bien cher Captain, on n'aurait pas été contraint d'imaginer la douche.</p>
+          <p>– Alors, je ne comprends plus.</p>
+          <p>– C'est pourtant bien simple, Cap. Désormais, la débauche, sous quelque forme qu'elle se présente, me cause une indicible horreur. J'ai trouvé mon chemin de Damas. Plus d'excès ! À nous, la norme ! Vivons à même la nature ! Or, la nature ne comporte ni breuvages fermentés, ni spiritueux. Si on n'avait pas inventé l'alcool, mon bien cher Captain, on n'aurait pas été contraint d'imaginer la douche.</p>
           <p>Ce pauvre Cap m'affligeait positivement. Ces propos le déconcertaient tant, émis par son vieux compagnon d'orgie.</p>
           <p>De désespoir, il crut à une plaisanterie.</p>
-          <p>-- Non, Cap, vraiment ! insistai-je d'un pied ferme.</p>
+          <p>– Non, Cap, vraiment ! insistai-je d'un pied ferme.</p>
           <p>Pauvre Cap !</p>
           <p>
             Je perçus qu'il éprouva la sensation, l'horrible sensation
@@ -2076,10 +2076,10 @@
             , j'ai su voir derrière la soi-disant inextricable barrière de votre extérieur le cœur d'or pur qui frissonne en vous.
           </p>
           <p>Timidement, Cap reprit :</p>
-          <p>-- Vous n'avez rien à faire cet après-midi ?</p>
-          <p>-- Rien, jusqu'à six heures.</p>
-          <p>-- Qu'est-ce que vous diriez qu'on allât faire un tour jusqu'au tourne-bride de la Celle-Saint-Cloud ?</p>
-          <p>-- Pourquoi non ?</p>
+          <p>– Vous n'avez rien à faire cet après-midi ?</p>
+          <p>– Rien, jusqu'à six heures.</p>
+          <p>– Qu'est-ce que vous diriez qu'on allât faire un tour jusqu'au tourne-bride de la Celle-Saint-Cloud ?</p>
+          <p>– Pourquoi non ?</p>
           <p>Cap et moi, nous avons tout un passé dans ce tourne-bride.</p>
           <p>
             Que de fois le petit vin tout clair et tout léger qu'on y dégustait trancha drôlement et gaiement sur les redoutables
@@ -2099,21 +2099,21 @@
           <p>Le caboulot où nous stoppâmes s'avoisinait d'une ferrante maréchalerie.</p>
           <p>Des odeurs de corne brûlée nous venaient aux narines, et nos tympans s'affligeaient des trop proches et vacarmeuses enclumes.</p>
           <p>Il y avait trop longtemps que Cap n'avait piétiné l'Europe. Je le laissai dire :</p>
-          <p>-- Il faut vraiment venir dans ce sale pays pour voir ferrer les chevaux aussi ridiculement.</p>
-          <p>-- Vous connaissez d'autres moyens, vous, Cap ?</p>
-          <p>-- D'autres moyens ?... Mille autres moyens, plus expéditifs, plus pratiques et plus élégants.</p>
-          <p>-- Entre autres ?</p>
-          <p>-- Entre autres, celui-ci, couramment employé dans les prairies du centre d'Australie, quand il s'agit de ferrer des chevaux sauvages, des chevaux tellement sauvages qu'il est impossible de les approcher.</p>
-          <p>-- Vous avez vu ferrer des chevaux à distance ?</p>
-          <p>-- Mais, mon pauvre ami, c'est un jeu d'enfant, pour ces gens-là !</p>
-          <p>-- Je ne suis pas curieux, mais...</p>
+          <p>– Il faut vraiment venir dans ce sale pays pour voir ferrer les chevaux aussi ridiculement.</p>
+          <p>– Vous connaissez d'autres moyens, vous, Cap ?</p>
+          <p>– D'autres moyens ?... Mille autres moyens, plus expéditifs, plus pratiques et plus élégants.</p>
+          <p>– Entre autres ?</p>
+          <p>– Entre autres, celui-ci, couramment employé dans les prairies du centre d'Australie, quand il s'agit de ferrer des chevaux sauvages, des chevaux tellement sauvages qu'il est impossible de les approcher.</p>
+          <p>– Vous avez vu ferrer des chevaux à distance ?</p>
+          <p>– Mais, mon pauvre ami, c'est un jeu d'enfant, pour ces gens-là !</p>
+          <p>– Je ne suis pas curieux, mais...</p>
           <p>
             -- Rien de moins compliqué pourtant. Les maréchaux-ferrants de ce pays se servent d'un petit canon à tir rapide (assez semblable au canon Canet dont on devrait bien armer plus vite notre flotte, entre parenthèses). Au lieu d'un obus, ces armes sont chargées de fers à cheval garnis de leurs clous. Avec un peu d'entraînement, quelque application, un coup d'œil sûr, c'est simple comme bonjour. Vous attendez que le cheval galope dans votre axe et vous montre les talons, si j'ose m'exprimer ainsi... À ce moment, pan, pan, pan, pan ! vous tirez vos quatre coups, si j'ose encore m'exprimer ainsi, et vos fers vont s'appliquer aux sabots du coursier. Voilà votre
             <hi rend="italic">mustang</hi>
             ferré ! Alors, il est tellement épaté, ce pauvre animal, qu'il se laisse approcher aussi facilement que le ferait un gigot de mouton aux haricots.
           </p>
-          <p>-- Merveilleux !...</p>
-          <p>-- N'est-ce pas ? Seulement, dam ! il faut de l'adresse.</p>
+          <p>– Merveilleux !...</p>
+          <p>– N'est-ce pas ? Seulement, dam ! il faut de l'adresse.</p>
           <p>À ce moment, la bonne de l'aubergiste rentrait avec, dans un pot, du bon lait crémeux fraîchement trait.</p>
           <p>
             -- Tiens, fit Cap, si on fabriquait un
@@ -2132,7 +2132,7 @@
           <p>Je ne pardonnerai pas de longtemps à ce froid fumiste de Cap l'atroce -- oui atroce ! -- plaisanterie qu'il vient d'exercer à mon détriment.</p>
           <p>Quand il s'en mêle, Cap ne vole pas son nom de Captain et les bateaux qu'il monte sont de vrais bateaux.</p>
           <p>Il y a quelques semaines, un monsieur rencontré au cours de je ne sais quelle débauche et avec lequel nous avions contracté, sur l'heure, les liens d'une inoxydable amitié, nous avait bien recommandé :</p>
-          <p>-- Surtout, si vous allez en Touraine, ne vous avisez pas de quitter le pays sans passer quelques jours chez moi, à B... Je vous mettrai en rapport avec un de ces petits Vouvray !... un de ces petits Bourgueil !... un de ces petits Chinon !... un de ces petits Saint-Avertin !...</p>
+          <p>– Surtout, si vous allez en Touraine, ne vous avisez pas de quitter le pays sans passer quelques jours chez moi, à B... Je vous mettrai en rapport avec un de ces petits Vouvray !... un de ces petits Bourgueil !... un de ces petits Chinon !... un de ces petits Saint-Avertin !...</p>
           <p>Quatre significatifs claquements de langue ponctuaient ces alléchances.</p>
           <p>
             -- Ça vous changera, ajoutait-il, de vos infernaux
@@ -2141,17 +2141,17 @@
             *.
           </p>
           <p>J'avais depuis longtemps oublié l'aimable invitation de M. Laidgency (car tel est son nom) quand Cap, un beau matin, me proposa :</p>
-          <p>-- Tu ne sais pas ? On devrait bien aller goûter aux crus de notre ami de l'autre jour.</p>
-          <p>-- C'est une idée !... Garçon, l'indicateur !</p>
-          <p>---</p>
+          <p>– Tu ne sais pas ? On devrait bien aller goûter aux crus de notre ami de l'autre jour.</p>
+          <p>– C'est une idée !... Garçon, l'indicateur !</p>
+          <p>–-</p>
           <p>Ce fut seulement à la gare de B... que nous constatâmes l'absence sur notre carnet de l'adresse exacte de Laidgency.</p>
-          <p>-- Bah ! fit Cap, le premier cocher d'omnibus venu nous renseignera. Un tel homme doit être populaire dans son endroit.</p>
+          <p>– Bah ! fit Cap, le premier cocher d'omnibus venu nous renseignera. Un tel homme doit être populaire dans son endroit.</p>
           <p>En effet, le premier cocher d'omnibus venu renseigna Cap et le renseigna au moyen de sept ou huit mots à peine, mais qui suffirent à éclairer la religion de Cap.</p>
           <p>J'insiste :</p>
           <p>Je n'avais pas entendu la réponse du cocher, mais, étant donné le laps infinitésimal de la durée du colloque, je pouvais sans crainte d'exagération, évaluer cette réponse à sept ou huit mots au plus, mettons dix, pour être munificent.</p>
           <p>Cap me dit :</p>
-          <p>-- Je sais où c'est. Viens.</p>
-          <p>---</p>
+          <p>– Je sais où c'est. Viens.</p>
+          <p>–-</p>
           <p>
             La petite ville de B... (comme beaucoup de petites villes sur la ligne d'Orléans), possède une gare située dans un faubourg assez lointain de la vraie agglomération citadine, dont elle est séparée par une longue avenue de tilleuls
             <hi rend="italic">*(1)</hi>
@@ -2161,21 +2161,21 @@
           <p>La merveille était que ce damné Captain se dirigeât, par ce dédale, avec l'aisance et la désinvolture qu'il aurait mises à se balader dans Chicago, Québec, ou toute autre de ses villes natales.</p>
           <p>De deux choses l'une, pensais-je, ou Cap est déjà venu à B..., mais je suis sûr du contraire, ou il marche à l'aveuglette au risque de nous égarer.</p>
           <p>De temps en temps, avec l'air d'un augure consultant les oiseaux du ciel, Cap levait au firmament un regard inspiré, puis :</p>
-          <p>-- Prenons à gauche, indiquait-il autoritaire.</p>
-          <p>-- Es-tu bien sûr ?... je commence à être fatigué, tu sais.</p>
+          <p>– Prenons à gauche, indiquait-il autoritaire.</p>
+          <p>– Es-tu bien sûr ?... je commence à être fatigué, tu sais.</p>
           <p>Et mon ami de hausser les épaules.</p>
           <p>Puis bientôt :</p>
-          <p>-- Tu vois cette grande maison en briques ? étendit-il une main triomphale. Eh bien, c'est là.</p>
+          <p>– Tu vois cette grande maison en briques ? étendit-il une main triomphale. Eh bien, c'est là.</p>
           <p>C'était là !</p>
-          <p>---</p>
+          <p>–-</p>
           <p>Comment diable avait-il pu se faire que, grâce au si court, au si furtif renseignement du cocher (dix mots, je l'ai su depuis) il ait su se diriger, avec une telle précision, dans une ville infiniment compliquée où il n'avait jamais fichu les pieds, vers un logis qu'il me désignait à l'avance bien que ne l'ayant jamais considéré jusqu'à ce jour ?</p>
-          <p>---</p>
+          <p>–-</p>
           <p>Laidgency nous reçut royalement, mais je ne pus, de la nuit, clore l'œil, tant j'étais agacé par l'irritante énigme sur laquelle Cap se contentait de dire :</p>
-          <p>-- J'ai le sens de l'orientation poussé au dernier point. Rien de plus.</p>
+          <p>– J'ai le sens de l'orientation poussé au dernier point. Rien de plus.</p>
           <p>Accrue peut-être par l'excessive consommation que nous avions faite au dîner des principaux crus tourangeaux, ma surexcitation ne connaissait plus de bornes.</p>
           <p>Dix fois, vingt fois, pendant le repas, j'avais supplié Cap :</p>
-          <p>-- Tu vois dans quel énervement ridicule, je le confesse, mais réel, tu me jettes avec ton refus d'explication. Ce que tu fais là n'est pas d'un ami.</p>
-          <p>-- Mais, répétait Cap froidement, puisque je te le dis ! Il n'y a dans ce petit événement rien que de fort naturel. Je suis doué au plus haut point du sens de l'orientation !</p>
+          <p>– Tu vois dans quel énervement ridicule, je le confesse, mais réel, tu me jettes avec ton refus d'explication. Ce que tu fais là n'est pas d'un ami.</p>
+          <p>– Mais, répétait Cap froidement, puisque je te le dis ! Il n'y a dans ce petit événement rien que de fort naturel. Je suis doué au plus haut point du sens de l'orientation !</p>
           <p>Impossible d'en tirer un mot de plus !</p>
           <p>Notre gracieux hôte, M. Laidgency, ne réussit pas mieux dans sa tentative de projeter un rayon de lumière sur ce curieux mystère.</p>
           <p>Vers minuit, lorsque nous nous quittâmes pour regagner chacun notre chambre, l'idée me vint, craignant pour le lendemain de supposer, en ma détresse, quelque hallucination provoquée par trop de Vouvray, l'idée me vint, dis-je, avant de me coucher, de rédiger comme un petit procès-verbal de l'aventure qui me préoccupait si fort, et j'écrivis :</p>
@@ -2187,13 +2187,13 @@
           <p>« Cap ne se trompait pas.</p>
           <p>« Diaboliquement ravi de me voir si intrigué, Cap se refuse à la moindre explication.</p>
           <p>« Si demain je n'ai pas le mot de l'énigme, je suis parfaitement disposé à tuer Cap et à périr ensuite, au besoin, sur l'échafaud. »</p>
-          <p>---</p>
+          <p>–-</p>
           <p>Le lendemain matin, toujours lanciné par mon insupportable hantise, je me lève avant tout le monde et je file vers la gare.</p>
           <p>J'ai mon idée.</p>
           <p>Précisément un omnibus arrive, conduit par le cocher consulté hier.</p>
-          <p>-- Pourriez-vous, mon brave, me donner l'adresse de M. Laidgency ?</p>
-          <p>-- M. Laidgency ? La grande maison en briques vis-à-vis la poste...</p>
-          <p>-- Pas un mot de plus, mon brave, merci ! Voici vingt sous pour vous.</p>
+          <p>– Pourriez-vous, mon brave, me donner l'adresse de M. Laidgency ?</p>
+          <p>– M. Laidgency ? La grande maison en briques vis-à-vis la poste...</p>
+          <p>– Pas un mot de plus, mon brave, merci ! Voici vingt sous pour vous.</p>
           <p>Je respire longuement.</p>
           <p>Je suis soulagé.</p>
           <p>Le mot de l'énigme vient de me fulgurer !</p>
@@ -2226,19 +2226,19 @@
             <hi rend="italic">Montre du Vingtième siècle</hi>
             .
           </p>
-          <p>---</p>
+          <p>–-</p>
           <p>M. Mougeot souriait.</p>
-          <p>-- Oui, mon ami, tels seront désormais nos nouveaux almanachs, dont celui que vous tenez dans les mains n'est qu'un fastueux échantillon.</p>
-          <p>-- Étrange !</p>
-          <p>-- On s'y fera. Le public, en France, cher monsieur, se fait à tout et cette innovation le froissera moins encore quand il saura qu'elle rapporte à notre pauvre budget pas mal de rondelets millions.</p>
-          <p>-- Oui, mais la tradition... Ne craignez-vous pas ?...</p>
-          <p>-- Les gens comme moi, mon ami, appuyés d'une main sur l'épaule du progrès et de l'autre écrasant à coups de talon l'hydre de la routine, ne craignent rien.</p>
-          <p>-- Tous mes compliments !</p>
-          <p>-- Aussitôt le budget bouclé, je dépose un projet de loi accordant à l'État le monopole de la confection et de la vente des calendriers. Le gouvernement vend déjà des timbres-poste, du tabac, des allumettes, etc., rien d'extravagant à ce qu'il devienne marchand d'almanachs.</p>
-          <p>-- En effet.</p>
-          <p>-- Le reste, vous le devinez... Ah ! dame, la galette avant tout !</p>
+          <p>– Oui, mon ami, tels seront désormais nos nouveaux almanachs, dont celui que vous tenez dans les mains n'est qu'un fastueux échantillon.</p>
+          <p>– Étrange !</p>
+          <p>– On s'y fera. Le public, en France, cher monsieur, se fait à tout et cette innovation le froissera moins encore quand il saura qu'elle rapporte à notre pauvre budget pas mal de rondelets millions.</p>
+          <p>– Oui, mais la tradition... Ne craignez-vous pas ?...</p>
+          <p>– Les gens comme moi, mon ami, appuyés d'une main sur l'épaule du progrès et de l'autre écrasant à coups de talon l'hydre de la routine, ne craignent rien.</p>
+          <p>– Tous mes compliments !</p>
+          <p>– Aussitôt le budget bouclé, je dépose un projet de loi accordant à l'État le monopole de la confection et de la vente des calendriers. Le gouvernement vend déjà des timbres-poste, du tabac, des allumettes, etc., rien d'extravagant à ce qu'il devienne marchand d'almanachs.</p>
+          <p>– En effet.</p>
+          <p>– Le reste, vous le devinez... Ah ! dame, la galette avant tout !</p>
           <p>En me racontant cette histoire, Cap concluait en soupirant :</p>
-          <p>-- Comme la France a changé depuis les croisades !</p>
+          <p>– Comme la France a changé depuis les croisades !</p>
           <p>
             Et comme le froid venait encore aggraver notre sujet de tristesse, nous nous jetâmes immédiatement sur un
             <hi rend="italic">gin cling</hi>
@@ -2258,13 +2258,13 @@
           <p>Non. Mais dès maintenant, mes chers amis, il s'agit de ne plus faire les poires ; il nous faut abandonner le vieux système barbare de chaufferie par combustion de bois, charbon, coke, etc., etc.</p>
           <p>En un mot, sur cette branche comme sur toutes les autres où s'accrochent les mille problèmes de la vie, déterminons-nous, une bonne fois, à nous montrer scientifiques et à, loin des routines ancestrales, mais bien dans le radieux firmament de la véritable civilisation moderne, chercher le flambeau qui nous guide, je ne dis pas au bonheur parfait, puisque le bonheur parfait ne saurait être de ce monde, assure Machin, mais tout modestement, et ce sera encore bien joli, n'est-ce pas ? au confortable. Ouf !</p>
           <p>Mais assez de préambule. Arrivons au fait !</p>
-          <p>---</p>
+          <p>–-</p>
           <p>C'était de nuit ; nous nous trouvions, le Captain Cap et moi, seuls dans un wagon de la ligne de l'Ouest, quand un brave employé changea nos bouillottes.</p>
           <p>Malheureusement, soit économie de l'administration, soit personnelle erreur, il changea nos deux bouillottes borgnes contre deux autres aveugles, c'est-à-dire, et je crois en être certain, qu'il nous infligea deux de ces ustensiles provenant d'un wagon voisin, cependant que le wagon voisin bénéficiait des nôtres. (Ce n'est pas autrement qu'on fait les bonnes maisons.)</p>
           <p>Moi, je me contentai de hausser les épaules (lié que je suis par les bienfaits de la Compagnie de l'Ouest) ; mais mon compagnon entra dans une colère abominable et accabla tout le personnel de la gare d'une foule opaque d'injures diverses.</p>
           <p>Puis, s'adressant à moi :</p>
-          <p>-- Et dire, s'écria-t-il, qu'il en sera toujours ainsi tant qu'on n'adoptera pas mon système !</p>
-          <p>-- Votre système, Cap ?</p>
+          <p>– Et dire, s'écria-t-il, qu'il en sera toujours ainsi tant qu'on n'adoptera pas mon système !</p>
+          <p>– Votre système, Cap ?</p>
           <p>Aimez-vous les gens à système ? Quoi de plus agréable dans les longs parcours !</p>
           <p>Comme dans presque toutes les inventions, géniales, le hasard fut de beaucoup dans la découverte qui va nous occuper.</p>
           <p>Le hasard, peut-être pas, mais les circonstances, pour dire plus juste.</p>
@@ -2340,7 +2340,7 @@
           <p>La théorie tient donc dans ces trois mots (Edgard) : « Perturbons les nuages en leur tirant dessus des coups de canon ! »</p>
           <p>Le seul défaut de ce séduisant système, c'est l'exigence qu'il implique de pièces, de poudre, d'artilleurs spéciaux, tout le tonnerre de Dieu, en un mot, ou plutôt de l'Homme !</p>
           <p>Que de dépenses pour le budget d'humbles bourgades, et que de soucis !</p>
-          <p>---</p>
+          <p>–-</p>
           <p>Sollicité par maint syndicat agricole, vinicole et autre exploitation en « cole », d'avoir à simplifier la question et d'obtenir à moindre « aria » résultat supérieur, le Captain Cap sentit d'elles-mêmes se hausser ses épaules à l'aisance de la tâche.</p>
           <p>Ne serait-il pas, il vous en fait juge, plus simple, tant qu'à perturber le nuage, de le perturber en son propre sein, grâce à de rustiques mongolfières en papier, chargées d'une simple livre de poudre de chasse qu'enflammerait une pâle mèche, analogue à celle dont se servent nos braves artificiers pour, à distance, allumer de prestigieuses pyrotechnies, le soir du 14 juillet, aux cris mille fois répétés de « Vive la République ! »</p>
           <p>Très simple, en vérité, mais -- ne nous fatiguons pas à le redire -- fallait-il y songer !</p>
@@ -2360,13 +2360,13 @@
         </div>
         <div type="chapter">
           <head>Chapitre XXVII -- Difficulté de la poésie française pour certains étrangers.</head>
-          <p>-- Cap, vous qui touchez à toutes les sciences, à tous les arts, avec une égale supériorité, comment se fait-il que je ne connaisse point de vos poèmes ?</p>
-          <p>-- Des vers, mon cher ami, j'en ai fait quand j'étais jeune, j'en ai fait à remplir des magasins à coton, et des halles à blé ! Quand je me décidai à les brûler, je me trouvais alors à Melbourne, l'atmosphère en fut obscurcie pendant plus de huit jours.</p>
-          <p>-- Peste !</p>
+          <p>– Cap, vous qui touchez à toutes les sciences, à tous les arts, avec une égale supériorité, comment se fait-il que je ne connaisse point de vos poèmes ?</p>
+          <p>– Des vers, mon cher ami, j'en ai fait quand j'étais jeune, j'en ai fait à remplir des magasins à coton, et des halles à blé ! Quand je me décidai à les brûler, je me trouvais alors à Melbourne, l'atmosphère en fut obscurcie pendant plus de huit jours.</p>
+          <p>– Peste !</p>
           <p>Et Cap éclata de rire.</p>
-          <p>-- Connaissez-vous, ajouta-t-il, mon ami Tom Hatt ?</p>
-          <p>-- Nullement.</p>
-          <p>-- Eh bien, écoutez cette petite histoire d'un poète étranger.</p>
+          <p>– Connaissez-vous, ajouta-t-il, mon ami Tom Hatt ?</p>
+          <p>– Nullement.</p>
+          <p>– Eh bien, écoutez cette petite histoire d'un poète étranger.</p>
           <p>Il y a quelques semaines débarquait, porteur à mon adresse d'une lettre de recommandation, un jeune Américain du Kentucky nommé Tom Hatt, appellation qu'il justifie pleinement par le rouge éclatant de son pileux système.</p>
           <p>Mais ce n'est pas grâce à l'écarlate de son poil que le jeune Tom Hatt attire l'examen du connaisseur, c'est plutôt par la folâtre façon qu'il emploie de prononcer votre belle langue française, façon si folâtre que l'oreille la plus exercée aux gutturs yankees ne saurait démêler en la conversation de Tom le moindre compréhensible fétu.</p>
           <p>Beaucoup d'esprits superficiels, écoutant mon jeune ami, jureraient même qu'il profère quelque idiome pahouin.</p>
@@ -2396,12 +2396,12 @@
           </p>
           <p/>
           <p>Etc., etc.</p>
-          <p>-- Mais, mon pauvre ami, ne pus-je m'empêcher de m'écrier, ça ne rime pas !</p>
-          <p>-- Je le sais déjà, répondit Tom, Tony me l'a dit.</p>
-          <p>-- Qu'en peut-il savoir, lui, sourd ?</p>
-          <p>-- C'est avec ses yeux qu'il l'a vu, mon cher. Il m'a reproché l'absence de consonne d'appui avant l'*i*.</p>
-          <p>-- Il a raison.</p>
-          <p>-- Je vais recommencer, voilà tout ! À demain !</p>
+          <p>– Mais, mon pauvre ami, ne pus-je m'empêcher de m'écrier, ça ne rime pas !</p>
+          <p>– Je le sais déjà, répondit Tom, Tony me l'a dit.</p>
+          <p>– Qu'en peut-il savoir, lui, sourd ?</p>
+          <p>– C'est avec ses yeux qu'il l'a vu, mon cher. Il m'a reproché l'absence de consonne d'appui avant l'*i*.</p>
+          <p>– Il a raison.</p>
+          <p>– Je vais recommencer, voilà tout ! À demain !</p>
           <p>Et, le lendemain, en effet, Tom Hatt soumettait à mon examen un second morceau, de haute envolée, de philosophie profonde, mais dont voici le début :</p>
           <p/>
           <p>
@@ -2416,7 +2416,7 @@
           <p/>
           <p>Etc., etc.</p>
           <p>Devant tant de bonne volonté, je n'ai eu -- qu'est-ce que vous voulez ! -- qu'à m'incliner.</p>
-          <p>-- Cette fois-ci, mon vieux, ça y est ! Tous mes compliments !</p>
+          <p>– Cette fois-ci, mon vieux, ça y est ! Tous mes compliments !</p>
           <p>Et de plaisir, alors, la peau de Tom Hatt devint aussi rouge que ses cheveux.</p>
         </div>
         <div type="chapter">
@@ -2469,21 +2469,21 @@
             <hi rend="italic">*(1)</hi>
             *.
           </p>
-          <p>-- Lisez-vous le compte rendu de l'Académie des Sciences ?</p>
-          <p>-- Jamais.</p>
-          <p>-- Prenez-vous parfois connaissance de certaines publications périodiques ?</p>
-          <p>-- Jamais.</p>
-          <p>-- Mais, dans les quotidiens, il vous arrive bien de lire la partie consacrée aux sciences ; par exemple, les chroniques documentaires d'Émile Gautier ?</p>
-          <p>-- Jamais.</p>
+          <p>– Lisez-vous le compte rendu de l'Académie des Sciences ?</p>
+          <p>– Jamais.</p>
+          <p>– Prenez-vous parfois connaissance de certaines publications périodiques ?</p>
+          <p>– Jamais.</p>
+          <p>– Mais, dans les quotidiens, il vous arrive bien de lire la partie consacrée aux sciences ; par exemple, les chroniques documentaires d'Émile Gautier ?</p>
+          <p>– Jamais.</p>
           <p>
             -- Je gage que vous ne détenez pas au meilleur coin de votre bibliothèque ce chef-d'œuvre de vulgarisation de notre ami Georges Claude :
             <hi rend="italic">Électricité à la portée de tout le monde</hi>
             .
           </p>
-          <p>-- Qu'en ferais-je ?</p>
-          <p>-- Allons, je n'insiste pas... Vous êtes un type dans le genre de Brunetière, lequel, non content d'avoir fait déclarer la faillite de la Science, accuse encore la malheureuse de mille méfaits assez saugrenus, celui notamment de gêner les desseins de la Providence.</p>
-          <p>-- Je n'accuse la Science de rien du tout, je me borne à l'ignorer.</p>
-          <p>-- Combien, hélas ! de personnes logées à la même enseigne que vous !</p>
+          <p>– Qu'en ferais-je ?</p>
+          <p>– Allons, je n'insiste pas... Vous êtes un type dans le genre de Brunetière, lequel, non content d'avoir fait déclarer la faillite de la Science, accuse encore la malheureuse de mille méfaits assez saugrenus, celui notamment de gêner les desseins de la Providence.</p>
+          <p>– Je n'accuse la Science de rien du tout, je me borne à l'ignorer.</p>
+          <p>– Combien, hélas ! de personnes logées à la même enseigne que vous !</p>
           <p>Et qu'il faut donc les plaindre !</p>
           <p>Car, que d'inattendues sources de gaieté leur échappent.</p>
           <p>Tenez, sans aller plus loin, faites-moi donc le plaisir de déguster le dernier compte rendu de notre Académie des Sciences.</p>
@@ -2517,7 +2517,7 @@
           <p>Parmentier, lui, n'y regarda pas de si près.</p>
           <p>De là son incontestable notoriété.</p>
           <p>Mais M. Noël Bernard veillait.</p>
-          <p>---</p>
+          <p>–-</p>
           <p>
             Trop de zèle attristant Bernard
             <hi rend="italic">*(1)</hi>
@@ -2528,9 +2528,9 @@
         </div>
         <div type="chapter">
           <head>Chapitre XXX -- Le renard bleu à la portée des plus petites bourses.</head>
-          <p>-- Encore un petit whisky-cocktail, Cap.</p>
-          <p>-- Volontiers, mais sur le pouce, car je suis pressé.</p>
-          <p>-- Où donc courez-vous ?</p>
+          <p>– Encore un petit whisky-cocktail, Cap.</p>
+          <p>– Volontiers, mais sur le pouce, car je suis pressé.</p>
+          <p>– Où donc courez-vous ?</p>
           <p>
             -- C'est aujourd'hui que se réunit sous ma présidence, le conseil d'administration de la
             <hi rend="italic">Société générale des Pelleteries de Paris</hi>
@@ -2554,7 +2554,7 @@
           <p>Vous avez compris à demi-mot, n'est-ce pas !</p>
           <p>Et ne voyez-vous point là, vaillante petite épargne française, le placement de père de famille dont je vous parlais plus haut ?</p>
           <p>Seulement, je le répète, ne point perdre une minute.</p>
-          <p>---</p>
+          <p>–-</p>
           <p>
             <hi rend="italic">P.-S.</hi>
             Comme bien je m'y attendais, le simple et résumé programme de cette magnifique affaire, la « Société générale des Pelleteries de Paris », a suscité dans le monde si intéressant de la petite épargne française une émotion bien légitime.
@@ -2637,7 +2637,7 @@
             <hi rend="italic">*(1)</hi>
             * les âges.
           </p>
-          <p>---</p>
+          <p>–-</p>
           <p>Fiers de cette origine quasi-royale, nos modernes camelots cherchent à susciter un réveil dans leur corporation, un réveil doublé d'une ascension vers profits et honneurs.</p>
           <p>Nul doute que leur congrès ne fourmille d'intéressants détails, mais c'est surtout leur tournoi qui passionnera, je pense, notre capitale.</p>
           <p>Car le Congrès des camelots sera suivi d'un tournoi.</p>
@@ -2676,7 +2676,7 @@
         <div type="chapter">
           <head>Chapitre XXXII -- Le sanatorium de l'avenir.</head>
           <p>De tous côtés, on ne parle que de « sanatoriums ».</p>
-          <p>---</p>
+          <p>–-</p>
           <p>... Messieurs les typographes, veuillez avoir l'obligeance de m'ouvrir une de vos plus confortables parenthèses :</p>
           <p>(Au pluriel, n'en déplaise à certains messieurs, je n'hésite pas à écrire « sanatoriums », et mon attitude, à cet égard, ne changera qu'au jour improbable où, généralisant leur pédanterie, ces certains messieurs diront des « aquaria », des « harmonia », etc.</p>
           <p>Suivez plutôt mon raisonnement :</p>
@@ -2685,7 +2685,7 @@
           <p>Dès qu'un terme exotique entre dans notre langue, à lui d'en subir, sans murmurer, la règle, si tyrannique, si arbitraire puisse-t-elle lui sembler, ou alors qu'il retourne dans son sale patelin et qu'il nous fiche la paix !</p>
           <p>Quand une dame me raconte qu'elle vient d'entendre de magnifiques « soli », je lui demande incontinent comment se portent ses « gigoli ». (Tête généralement de la personne !)</p>
           <p>S'il s'agit, comme en l'espèce, d'une langue morte, engageons alors le pauvre bougre de mot à regagner prestement la paix de son sépulcre, et qu'il n'en soit plus question !)</p>
-          <p>---</p>
+          <p>–-</p>
           <p/>
           <p>De tous côtés, donc, on ne parle que de sanatoriums.</p>
           <p>Et non seulement on en parle, ce qui ne suffirait pas à terrasser la tuberculose, mieux : on en édifie, on en inaugure même.</p>
@@ -2740,14 +2740,14 @@
           </p>
           <p>Cap en était là de son récit quand soudain se présenta devant notre table cet indigent que connaissent si familièrement tous les Parisiens accoutumés à fréquenter de la Madeleine à l'Opéra.</p>
           <p>Je veux parler du sinistre homme roux à cheveux plats dont la marche, l'inlassable marche, n'est que la succession jamais arrêtée des secousses de tout un corps ataxique.</p>
-          <p>-- Tiens, s'écria Cap, le voilà mon pauvre ! Extirpant de sa poche la pièce de cinq francs, mon ami la colla dans le creux agité de la trépidante main.</p>
+          <p>– Tiens, s'écria Cap, le voilà mon pauvre ! Extirpant de sa poche la pièce de cinq francs, mon ami la colla dans le creux agité de la trépidante main.</p>
           <p>Soudain... je n'en croyais pas mes yeux... voilà notre homme qui cessait de flageoler de la tête, et des bras, et des guibolles !</p>
           <p>Sa pièce de cinq francs devant les yeux, il semblait devenu la proie subite d'une immobilité d'airain.</p>
           <p>Cette très curieuse cure, par malheur, ne dépassa pas en durée le laps de temps d'une minute, au bout de laquelle notre infortuné reprenait son agitation coutumière.</p>
           <p>Fort intéressés d'une expérience aussi inattendue, bien décidés à en suivre les phases, nous emboîtâmes le pas, Cap et moi, à notre improvisé sujet.</p>
           <p>Bientôt, il s'arrêtait sous une porte cochère, tirait de sa poche la pièce de cent sous et l'observait longuement sur ses deux faces (ou pour parler plus exactement, sur sa pile et sur sa face) ; puis il entra chez un mastroquet où il absorba, en moins de temps qu'il n'en faut pour l'écrire, une de ces absinthes dans lesquelles la cuiller tient facilement debout.</p>
           <p>Tout le temps que dura cette opération notre malade ne trépida pas.</p>
-          <p>---</p>
+          <p>–-</p>
           <p>Sans rien conclure hâtivement, ne nous est-il pas permis, dès aujourd'hui, de présumer que l'argent est un métal qui n'a pas besoin, ainsi qu'on l'avait cru jusqu'à présent, d'être ingéré pour avoir une action des plus sédatives à l'égard des accidents nerveux ?</p>
         </div>
         <div type="chapter">
@@ -2798,13 +2798,13 @@
           <p>Une foule innombrable d'étrangers s'entasse chaque soir dans nos lieux de plaisir : la politesse française commande de rôtir nos invités en nombre aussi réduit que possible.</p>
           <p>Ce qui constitue le danger dans ces sortes de malheurs, c'est moins encore la flamme elle-même que l'incroyable panique qui se manifeste dès le début du sinistre et vient causer bousculades, encombrements, écrasements.</p>
           <p>Une foule qui, terrifiée, se presse dans les couloirs d'un théâtre, c'est un bouchon qui se gonflerait dans l'étranglé goulot d'une bouteille.</p>
-          <p>---</p>
+          <p>–-</p>
           <p/>
           <p>Tous les naturalistes vous diront que, chez l'anguille, le cas de trépas accidentel par combustion dans un théâtre ou autre endroit de plaisir en flammes, est un fait des plus rares.</p>
           <p>À quoi attribuer cette, en apparence, curieuse immunité ?</p>
           <p>À ceci, tout simplement, que l'anguille, lotie par la nature d'un corps parfaitement lisse et comme lubrifié, peut, dès la première alerte, se glisser, se faufiler et promptement parvenir au dehors sans que nulle aspérité personnelle extérieure ne vienne entraver son cours onduleux.</p>
           <p>L'expérience est facile à faire : remplissez une salle de spectacle avec des anguilles, poussez brusquement un cri d'alarme quelconque, ainsi, par exemple, que : « Voici les Tartares ! », et vous serez positivement émerveillé de la rapidité avec laquelle tout ce souple petit monde aura gagné les parties externes du bâtiment.</p>
-          <p>---</p>
+          <p>–-</p>
           <p>N'y avait-il pas, pour l'humanité, quelque profitable leçon à tirer de cet exemple ?</p>
           <p>De bonne foi, le Captain Cap l'avait cru un instant, et il proposa aux autorités compétentes le projet d'une sorte de vêtement à l'usage des spectateurs, en forme de cache-poussière, avec, remplaçant le tissu, de la peau de pêche, de la simple peau de pêche.</p>
           <p>Ayant, à la suite de longs travaux, remarqué que la peau d'anguille morte ne possède pas les mêmes qualités de glissement que celle de la vivante, il s'était décidé à la remplacer par de la peau de pêche, dont les propriétés, à cet égard, sont si connues et appréciées des amateurs.</p>
@@ -2866,7 +2866,7 @@
           <p>Les machines à bactéries, l'avenir ne saurait se trouver ailleurs, car ce moteur-là ne risquera jamais de s'épuiser ; quand il n'y en a plus, il y en aura encore !</p>
           <p>Et puis, le grand avantage du système Melnikoff consiste surtout dans la facile utilisation du résidu : à peu près un litre de cognac ( ?) pour cinq kilos de glucose employée.</p>
           <p>Chouette, alors ! Y aura du bon !</p>
-          <p>---</p>
+          <p>–-</p>
           <p>Et maintenant, arrachons brutalement à M. N.-P. Melnikoff, d'Odessa, la couronne apothéotique qu'il usurpe !</p>
           <p>M. N.-P. Melnikoff arrive bon second dans cette intéressante question.</p>
           <p>Le premier ne fut autre, une fois de plus, vous l'avez deviné, que notre glorieux ami, le Captain Cap.</p>
@@ -2886,9 +2886,9 @@
           <p>Le Captain Cap que je ne manque jamais de consulter en telles circonstances, me fit à ce sujet une réponse qui dévoile chez cet économiste distingué autant de science approfondie que de solide bon sens :</p>
           <p>« Un livre ne se vend bien qu'à la condition qu'il se présente beaucoup de clients pour en faire l'acquisition.</p>
           <p>« Si le nombre de ces clients est médiocre, la vente du livre s'en ressentira, et le trafic en résultera d'autant plus faible que la quantité d'acheteurs sera moins dense. »</p>
-          <p>-- Parfaitement raisonné, mais le remède ?</p>
-          <p>-- Oh bien simple, le remède ! Accordez-moi quelque attention.</p>
-          <p>-- Je suis tout ouïes.</p>
+          <p>– Parfaitement raisonné, mais le remède ?</p>
+          <p>– Oh bien simple, le remède ! Accordez-moi quelque attention.</p>
+          <p>– Je suis tout ouïes.</p>
           <p>La solution qu'offre le Captain entrera-t-elle bientôt dans la pratique, espérons-le sans nous en réjouir trop tôt :</p>
           <p>À succès égal, une pièce représentée sur un théâtre rapporte infiniment plus d'argent qu'un roman publié en librairie.</p>
           <p>Pourquoi ?</p>
@@ -2911,15 +2911,15 @@
         <div type="chapter">
           <head>Chapitre XXXVIII -- Où le Captain Cap ne badine pas quand on cherche à se payer sa fiole.</head>
           <p>Ayant glissé son décime dans la fente d'un appareil automatique, le Captain Cap conçut une effroyable colère en constatant que rien ne bougeait à l'appareil et que la tablette de chocolat annoncée ne se présentait pas.</p>
-          <p>-- Tas de voleurs ! écuma-t-il.</p>
+          <p>– Tas de voleurs ! écuma-t-il.</p>
           <p>Et il ajouta :</p>
-          <p>-- Je viendrai cette nuit avec une cartouche de dynamite et je ferai sauter leur damnée machine.</p>
-          <p>-- Voilà, fis-je, Captain, une bien excessive vengeance pour une malheureuse pièce de deux sous.</p>
-          <p>-- Ça n'est pas pour les deux sous ! Les deux sous, je m'en fiche ! Mais je ne veux pas qu'on se f... de ma fiole.</p>
+          <p>– Je viendrai cette nuit avec une cartouche de dynamite et je ferai sauter leur damnée machine.</p>
+          <p>– Voilà, fis-je, Captain, une bien excessive vengeance pour une malheureuse pièce de deux sous.</p>
+          <p>– Ça n'est pas pour les deux sous ! Les deux sous, je m'en fiche ! Mais je ne veux pas qu'on se f... de ma fiole.</p>
           <p>Je connais, en effet, peu de gens aussi susceptibles que Cap, à certains moments.</p>
           <p>Prêt à s'imaginer que l'humanité entière s'est liguée pour le dépouiller, il ne décolère pas et rumine sans relâche les plus éclatantes et cruelles revanches.</p>
           <p>S'étant aperçu un jour que son épicier lui avait vendu une livre de sucre de 485 grammes, il revint le lendemain et projeta dans les olives et les pruneaux de l'indélicat boutiquier une pleine poignée de strychnine.</p>
-          <p>-- Ce n'est pas pour les 15 grammes de sucre, s'excusait-il gentiment. Les 15 grammes de sucre, je m'en fiche ! Mais je ne veux pas qu'on se f... de ma fiole !</p>
+          <p>– Ce n'est pas pour les 15 grammes de sucre, s'excusait-il gentiment. Les 15 grammes de sucre, je m'en fiche ! Mais je ne veux pas qu'on se f... de ma fiole !</p>
           <p>En une autre circonstance, les choses allèrent plus loin encore.</p>
           <p>Dans un hôtel de Marseille où il descendait d'habitude, il constata, en faisant sa malle pour le départ, qu'il lui manquait un faux-col.</p>
           <p>Nul doute ! Un garçon de l'hôtel avait, en son absence, ouvert la malle et dérobé l'objet.</p>
@@ -2928,22 +2928,22 @@
           <p>L'homme eut la chance de tomber, tout de suite, sur une véritable occasion : un sale jaguar adulte, dont le mauvais caractère aurait lassé la patience d'un saint et qu'on lui abandonna pour un prix dérisoire.</p>
           <p>Ce jaguar fut introduit dans une forte malle, une de ces fortes malles où la tôle d'acier joue un rôle plus considérable que l'osier ou la toile cirée.</p>
           <p>Un rapide steam-boat ramena vers Marseille le grincheux Captain et son farouche compagnon.</p>
-          <p>---</p>
+          <p>–-</p>
           <p>Le jaguar qui, à l'état libre, n'est déjà pas d'une mansuétude désordonnée, perd encore de sa sociabilité par le séjour d'une semaine dans une malle, même quand son maître a pris la précaution d'enfermer avec lui une dizaine de kilogrammes de viande de cheval premier choix.</p>
           <p>Notre jaguar ne se comporta pas autrement que la plupart de ses congénères.</p>
           <p>Précisément, le garçon de l'hôtel eut la fâcheuse pensée de s'approprier un mouchoir de poche appartenant à notre ami.</p>
           <p>Alors, oh alors... ! le couvercle de la malle se releva plus brusquement que ne s'y attendait l'indélicat serviteur.</p>
           <p>Le pauvre jaguar, heureux enfin de pouvoir détendre ses muscles engourdis, manifesta sa joie par un petit carnage, qui s'étendit au garçon coupable, à deux bonnes, à trois voyageurs, au patron, à la patronne de l'hôtel et à quelques autres seigneurs sans importance.</p>
           <p>Quand un jaguar s'amuse, rien ne saurait l'arrêter.</p>
-          <p>-- Eh bien, monsieur, concluait gaiement le Captain Cap, je suis souvent revenu dans cet hôtel et n'eus plus jamais à déplorer l'absence du moindre bouton de manchettes... Qu'est-ce que vous voulez, moi, je n'aime pas qu'on se f... de ma fiole !</p>
+          <p>– Eh bien, monsieur, concluait gaiement le Captain Cap, je suis souvent revenu dans cet hôtel et n'eus plus jamais à déplorer l'absence du moindre bouton de manchettes... Qu'est-ce que vous voulez, moi, je n'aime pas qu'on se f... de ma fiole !</p>
         </div>
         <div type="chapter">
           <head>Chapitre XXXIX -- L'économie alliée au bien-être.</head>
-          <p>-- Trouvez-vous, nous prévenait simplement un très aimable ingénieur de la Compagnie, trouvez-vous, à dix heures vingt-cinq, à la gare des Batignolles, et vous assisterez à quelque chose de fort curieux.</p>
+          <p>– Trouvez-vous, nous prévenait simplement un très aimable ingénieur de la Compagnie, trouvez-vous, à dix heures vingt-cinq, à la gare des Batignolles, et vous assisterez à quelque chose de fort curieux.</p>
           <p>Vous pensez si nous eûmes garde, le Captain et moi, de manquer pareille occasion !</p>
           <p>À l'heure dite, nous étions au rendez-vous.</p>
           <p>Un train chauffait, tout prêt à partir. Pas mal de personnages bien mis se trouvaient déjà là, dont beaucoup portaient, à la boutonnière, la rosette rouge de la Légion d'honneur.</p>
-          <p>-- En voiture, s'il vous plaît, messieurs ! cria l'ingénieur aimable dont j'ai parlé plus haut.</p>
+          <p>– En voiture, s'il vous plaît, messieurs ! cria l'ingénieur aimable dont j'ai parlé plus haut.</p>
           <p>J'ai oublié de le dire, mais je pense qu'il est temps encore de réparer cette négligence, il faisait excessivement chaud.</p>
           <p>Nous montâmes dans nos wagons.</p>
           <p>Un coup de sifflet déchira l'air, le train s'ébranla.</p>
@@ -2976,7 +2976,7 @@
           </p>
           <p>J'ai égaré le papier sur lequel j'avais pris mes notes, mais je crois me rappeler que la chaleur humaine, ainsi captée et utilisée, représente une économie de 100 grammes de charbon par voyageur et par kilomètre.</p>
           <p>Voilà, je crois, un fait unique dans les fastes des grandes Compagnies : une réforme réunissant dans une commune satisfaction les actionnaires et le public.</p>
-          <p>-- Le voilà, conclut Cap, le bon collectivisme, le voilà bien.</p>
+          <p>– Le voilà, conclut Cap, le bon collectivisme, le voilà bien.</p>
           <p>
             Et nous fêtâmes cette date, par, comme il faisait très chaud, un copieux
             <hi rend="italic">Champagne Julep</hi>
@@ -3086,8 +3086,8 @@
         </div>
         <div type="chapter">
           <head>Chapitre XLII -- Où il est question, pour faire plaisir à la population parisienne, de l'abaissement du prix du gaz.</head>
-          <p>-- Faut-il, s'écria Cap, que les Parisiens soient bêtes pour payer leur gaz six sous le mètre cube, quand ils peuvent s'en procurer excellent, à Londres, pour moins d'un penny.</p>
-          <p>-- Pardon, Cap, et le transport ?</p>
+          <p>– Faut-il, s'écria Cap, que les Parisiens soient bêtes pour payer leur gaz six sous le mètre cube, quand ils peuvent s'en procurer excellent, à Londres, pour moins d'un penny.</p>
+          <p>– Pardon, Cap, et le transport ?</p>
           <p>
             -- Le transport, le transport, c'est là où je vous attendais ! Quand vous avez dit le
             <hi rend="italic">transport</hi>
@@ -3096,8 +3096,8 @@
           <p>Vous ouvrez de grands yeux, lecteurs, et de non moins grandes oreilles.</p>
           <p>Rien pourtant n'est plus exact : non seulement le transport ne coûterait rien, mais il RAP-POR-TE-RAIT !</p>
           <p>Une telle assertion mérite un brin d'explique.</p>
-          <p>-- Mon cher Cap, vous avez la parole :</p>
-          <p>-- Les Compagnies de chemins de fer, comme d'ailleurs les Messageries maritimes et autres, font payer le transport des marchandises, selon le poids desdites denrées.</p>
+          <p>– Mon cher Cap, vous avez la parole :</p>
+          <p>– Les Compagnies de chemins de fer, comme d'ailleurs les Messageries maritimes et autres, font payer le transport des marchandises, selon le poids desdites denrées.</p>
           <p>Or, je vous prie, que pèse le gaz d'éclairage ?</p>
           <p>Ne se contentant pas de peser rien du tout, il pousse la coquetterie jusqu'à peser moins que rien, en vertu du principe d'Archimède.</p>
           <p>
@@ -3128,10 +3128,10 @@
           <p>Tel n'était point l'avis de l'autre.</p>
           <p>On résolut d'attendre.</p>
           <p>Quelques jours passèrent et le premier revint à la rescousse.</p>
-          <p>-- Il est temps de tuer notre cochon.</p>
-          <p>-- Pas encore ! Je m'y connais : la bête n'est pas au mieux de sa forme. Patientons encore.</p>
+          <p>– Il est temps de tuer notre cochon.</p>
+          <p>– Pas encore ! Je m'y connais : la bête n'est pas au mieux de sa forme. Patientons encore.</p>
           <p>L'homme pressé se gratta la tête et, du ton de celui qui a pris une grande résolution, prononça :</p>
-          <p>-- Écoute, mon vieux, tu feras ce que tu voudras de ta moitié de porc, mais, moi, je vais tuer la mienne.</p>
+          <p>– Écoute, mon vieux, tu feras ce que tu voudras de ta moitié de porc, mais, moi, je vais tuer la mienne.</p>
           <p>Et il fit comme il avait dit.</p>
           <p>Inutile d'ajouter qu'en tuant sa part de bête, il causa du même coup le trépas de l'autre fraction.</p>
           <p>... Cette histoire m'est revenue en souvenance à la lecture d'une stupéfiante circulaire qu'a bien voulu me communiquer mon ami le Captain Cap en m'engageant à y mettre toutes mes économies.</p>
@@ -3179,25 +3179,25 @@
             <hi rend="italic">offrira</hi>
             ( ! ! !) 100 kilos de lard par an, soit deux cents francs au minimum. »
           </p>
-          <p>-- Et la Société protectrice des animaux ! Cap qu'est-ce qu'elle dira ?</p>
-          <p>-- Le cas est prévu et un charmant petit post-scriptum répond d'avance à la menace :</p>
+          <p>– Et la Société protectrice des animaux ! Cap qu'est-ce qu'elle dira ?</p>
+          <p>– Le cas est prévu et un charmant petit post-scriptum répond d'avance à la menace :</p>
           <p>« Pour calmer les alarmes des cœurs tendres et donner satisfaction à la Société Protectrice des Animaux, les cochons seront anesthésiés avant de subir les opérations. »</p>
-          <p>-- Attendons-nous à une forte hausse sur le chloroforme, conclut le Captain.</p>
+          <p>– Attendons-nous à une forte hausse sur le chloroforme, conclut le Captain.</p>
         </div>
         <div type="chapter">
           <head>Chapitre XLIV -- Où Cap prouve jusqu'à l'évidence qu'il aime à se rendre compte.</head>
-          <p>-- Oui, mon cher, je suis comme ça, j'aime à me rendre compte par moi-même.</p>
-          <p>-- Vous êtes un sage, Captain.</p>
-          <p>-- Ainsi, on prétend que par les matinées de brouillard, comme celle d'aujourd'hui, l'absorption d'un verre de rhum est éminemment hygiénique ; assurons-nous-en.</p>
+          <p>– Oui, mon cher, je suis comme ça, j'aime à me rendre compte par moi-même.</p>
+          <p>– Vous êtes un sage, Captain.</p>
+          <p>– Ainsi, on prétend que par les matinées de brouillard, comme celle d'aujourd'hui, l'absorption d'un verre de rhum est éminemment hygiénique ; assurons-nous-en.</p>
           <p>Un petit café, précisément, nous tendait les bras :</p>
-          <p>-- Garçon, deux verres de rhum.</p>
-          <p>-- Voilà, messieurs.</p>
+          <p>– Garçon, deux verres de rhum.</p>
+          <p>– Voilà, messieurs.</p>
           <p>Quand nous eûmes dégusté :</p>
-          <p>-- Il n'est pas fameux, garçon, votre rhum.</p>
-          <p>-- Nous en avons du meilleur, monsieur, à soixante centimes le verre.</p>
-          <p>-- Je parie que c'est le même.</p>
-          <p>-- Pour qui monsieur nous prend-il ? s'indigna le garçon.</p>
-          <p>-- Alors, donnez-nous deux verres de ce fameux rhum... J'aime bien me rendre compte.</p>
+          <p>– Il n'est pas fameux, garçon, votre rhum.</p>
+          <p>– Nous en avons du meilleur, monsieur, à soixante centimes le verre.</p>
+          <p>– Je parie que c'est le même.</p>
+          <p>– Pour qui monsieur nous prend-il ? s'indigna le garçon.</p>
+          <p>– Alors, donnez-nous deux verres de ce fameux rhum... J'aime bien me rendre compte.</p>
           <p>Le second rhum ressemblait au premier comme un frère à son jumeau.</p>
           <p>Nous sortîmes, non sans avoir manifesté notre mécontentement par quelques vocables triviaux et désobligeants.</p>
           <p>
@@ -3205,24 +3205,24 @@
             <hi rend="italic">Arrivage direct tous les matins</hi>
             .
           </p>
-          <p>-- Quelle blague ! fit mon ami. Arrivage direct ! Arrivage des halles centrales probablement. Si nous nous rendions compte ?</p>
+          <p>– Quelle blague ! fit mon ami. Arrivage direct ! Arrivage des halles centrales probablement. Si nous nous rendions compte ?</p>
           <p>Rien ne creuse comme deux verres de mauvais rhum absorbés coup sur coup : je consentis.</p>
           <p>Nous arrosâmes les huîtres d'un léger vin blanc assez guilleret, suivi d'un petit vin gris des Ardennes de l'authenticité duquel mon méfiant ami voulut s'assurer.</p>
           <p>Le petit vin gris des Ardennes se laissa déguster avec une telle complaisance que, cinq minutes plus tard, une bouteille de sauterne le remplaçait sur la table.</p>
-          <p>-- Du sauterne ! Ah ! il doit être chouette, son sauterne !... Enfin, nous allons bien voir.</p>
+          <p>– Du sauterne ! Ah ! il doit être chouette, son sauterne !... Enfin, nous allons bien voir.</p>
           <p>Ce système d'investigation se poursuivit ainsi pendant toute la matinée.</p>
           <p>La plupart des apéritifs connus furent l'objet d'une sérieuse enquête personnelle.</p>
-          <p>-- Je vous parie que ce n'est pas du vrai Pernod !... Gageons que ce quinquina n'est pas du vrai Dubonnet !...</p>
+          <p>– Je vous parie que ce n'est pas du vrai Pernod !... Gageons que ce quinquina n'est pas du vrai Dubonnet !...</p>
           <p>Et moi, pour flatter la manie de Cap, je m'informais si le curaçao était du vrai curaçao de Reischoffen, et si la bouteille d'anisette portait bien la signature Béranger.</p>
           <p>Midi sonna.</p>
           <p>Nous nous disposions à prendre mutuellement congé, quand le Captain avisa deux messieurs qui filaient sur leur tandem, tels deux cerfs lancés d'une main sûre.</p>
-          <p>-- Messieurs, messieurs ! arrêtez-vous, cria mon ami.</p>
+          <p>– Messieurs, messieurs ! arrêtez-vous, cria mon ami.</p>
           <p>L'un des deux gentlemen se retourna, interrogatif.</p>
-          <p>-- Oui, vous ! insista Cap. Stoppez tous les deux au plus vite !</p>
+          <p>– Oui, vous ! insista Cap. Stoppez tous les deux au plus vite !</p>
           <p>Les messieurs s'arrêtèrent, descendirent et vinrent à nous.</p>
-          <p>-- Merci, messieurs, d'avoir si gracieusement obéi à ma prière. Maintenant, je vois que vous êtes deux ; vous pouvez continuer votre promenade.</p>
-          <p>-- Mais, monsieur, que signifie ?...</p>
-          <p>-- Oh ! mon Dieu ! c'est bien simple. Je voulais m'assurer que vous étiez deux, parce que, si vous n'aviez été qu'un, c'est que j'aurais été, moi, abominablement gris... J'aime bien me rendre compte.</p>
+          <p>– Merci, messieurs, d'avoir si gracieusement obéi à ma prière. Maintenant, je vois que vous êtes deux ; vous pouvez continuer votre promenade.</p>
+          <p>– Mais, monsieur, que signifie ?...</p>
+          <p>– Oh ! mon Dieu ! c'est bien simple. Je voulais m'assurer que vous étiez deux, parce que, si vous n'aviez été qu'un, c'est que j'aurais été, moi, abominablement gris... J'aime bien me rendre compte.</p>
           <p>Et Cap conclut :</p>
           <p>
             -- Puisque nous ne sommes pas gris, qui nous empêche de prendre un excellent
@@ -3230,11 +3230,11 @@
             <hi rend="italic">*(1)</hi>
             * ?
           </p>
-          <p>-- Rien, Cap, rien au monde ne saurait nous prohiber cette démarche.</p>
+          <p>– Rien, Cap, rien au monde ne saurait nous prohiber cette démarche.</p>
         </div>
         <div type="chapter">
           <head>Chapitre XLV -- Supériorité de la pratique sur la théorie.</head>
-          <p>-- En tout métier, proclama le Captain Cap, en toute profession, en tout art, il faut de la pratique.</p>
+          <p>– En tout métier, proclama le Captain Cap, en toute profession, en tout art, il faut de la pratique.</p>
           <p>Ceux qui viendraient à vous tenir un langage contraire, tenez-les pour sombres niais, tout au moins dangereuses fripouilles.</p>
           <p>La sagesse des nations -- qui n'est pas une moule -- l'a depuis longtemps dit : c'est en forgeant qu'on devient forgeron, et non en consultant des manuels de tissage ou en suivant les cours d'économie politique de notre sympathique camarade Paul Leroy-Beaulieu.</p>
           <p>Le gouvernement a si bien compris cette vérité qu'il n'hésite pas -- par exemple -- à construire de coûteux hôpitaux, où il entretient, à grands frais, un tas de pauvres bougres, à qui il a fait préalablement contracter mille affections diverses, depuis la simple ecchymose jusqu'à l'imminente maternité.</p>
@@ -3270,12 +3270,12 @@
           <p>Cette cuisinière, qui s'appelait Clémence, était une brave cuisinière, sachant son métier sur le bout du doigt et, malgré sa nature fougueuse et tendre, parfaitement correcte en son service.</p>
           <p>Ses patrons se composaient de commerçants bassement nés, louchement enrichis et d'autant plus insolents.</p>
           <p>La femelle, surtout, à gifler.</p>
-          <p>-- Clémence ! ne cessait-elle de piailler, Clémence, votre veau marengo est complètement raté.</p>
+          <p>– Clémence ! ne cessait-elle de piailler, Clémence, votre veau marengo est complètement raté.</p>
           <p>Muette, Clémence se contentait de hausser les épaules.</p>
-          <p>-- Clémence ! insistait la chipie, votre mouton empoisonne le suif.</p>
+          <p>– Clémence ! insistait la chipie, votre mouton empoisonne le suif.</p>
           <p>Même jeu de la part de Clémence.</p>
           <p>Un jour, ce fut à la salade que l'exécrable vieille s'en prit.</p>
-          <p>-- Qu'est-ce que c'est que cette salade ? C'est avec de l'huile à quinquet que vous l'avez accommodée ?</p>
+          <p>– Qu'est-ce que c'est que cette salade ? C'est avec de l'huile à quinquet que vous l'avez accommodée ?</p>
           <p>Et à partir de ce moment, Madame n'arrêta pas de hurler après la salade de la pauvre Clémence.</p>
           <p>Elle acheta son vinaigre elle-même et son huile pareillement, le vinaigre chez le duc d'Orléans lui-même, et l'huile chez Olive en personne.</p>
           <p>La salade n'obtint pas plus de succès.</p>
@@ -3284,8 +3284,8 @@
           <p>La vieille, enfin, décida qu'elle ferait sa salade elle-même.</p>
           <p>... À cette époque, Clémence avait pour amant notre ami Cap, jeune encore et préparateur de chimie à l'École Anormale.</p>
           <p>Informé des tortures de sa bonne amie, Cap proposa :</p>
-          <p>-- Veux-tu rigoler ?</p>
-          <p>-- Je ne demande pas mieux.</p>
+          <p>– Veux-tu rigoler ?</p>
+          <p>– Je ne demande pas mieux.</p>
           <p>
             -- Bon... Je t'apporterai de l'huile et du vinaigre dont tu rempliras les fioles
             <hi rend="italic">ad hoc</hi>
@@ -3335,20 +3335,20 @@
           <p>Un matin que je l'avais rencontré sur la plage, il me proposa un match à la carabine.</p>
           <p>J'acceptai d'autant plus volontiers que je connais les personnes qui tiennent le tir, jeunes et délurées Montmartroises dont la jolie sœur aînée porte un nom fort connu dans l'armorial de la galanterie parisienne.</p>
           <p>Bott, excellent tireur pourtant, dut s'incliner devant mon écrasante supériorité : après un grand nombre de cartons, il renonça à la lutte et paya la note ès mains d'une des jeunes filles, cependant que je complimentais l'autre sur la jolie tournure que prenait sa taille.</p>
-          <p>-- Au revoir, mesdemoiselles.</p>
-          <p>-- Au revoir, messieurs... On vous reverra cet après-midi ?</p>
-          <p>-- Peut-être.</p>
+          <p>– Au revoir, mesdemoiselles.</p>
+          <p>– Au revoir, messieurs... On vous reverra cet après-midi ?</p>
+          <p>– Peut-être.</p>
           <p>Bott avait l'air tout chose.</p>
-          <p>-- Qu'avez-vous, ami Bott ? fis-je.</p>
-          <p>-- J'ai que cette petite Charlotte vient de me tenir des propos auxquels je n'ai rien compris.</p>
-          <p>-- Quels propos ?</p>
+          <p>– Qu'avez-vous, ami Bott ? fis-je.</p>
+          <p>– J'ai que cette petite Charlotte vient de me tenir des propos auxquels je n'ai rien compris.</p>
+          <p>– Quels propos ?</p>
           <p>
             -- Voici textuellement ce qu'elle m'a dit : « 
             <hi rend="italic">Ça ne serait pas à faire que j'en aurais un ! On a déjà bien assez de mal à gagner sa pauvre galette sans la refiler encore à des mectons qui</hi>
             <hi rend="italic">se f... de vous !</hi>
              »
           </p>
-          <p>-- Que lui aviez-vous dit qui amenât cette énigmatique réponse ?</p>
+          <p>– Que lui aviez-vous dit qui amenât cette énigmatique réponse ?</p>
           <p>
             -- Pour lui payer les 17 fr. 50, frais de notre match, je lui donnai un louis et, comme elle se disposait à me rendre la monnaie, je lui offris gracieusement (car elle me plaît beaucoup, cette petite) : « Gardez le tout, mademoiselle, ce sera pour votre
             <hi rend="italic">dot</hi>
@@ -3371,13 +3371,13 @@
             <hi rend="italic">dos</hi>
             .
           </p>
-          <p>-- C'est moi qui ne comprends plus.</p>
+          <p>– C'est moi qui ne comprends plus.</p>
           <p>
             -- 
             <hi rend="italic">Dos</hi>
             est le terme argotique et bien parisien par lequel on désigne les gentlemen qui se font de détestables revenus avec l'inconduite de leurs compagnes.
           </p>
-          <p>-- Horrible ! horrible ! Qu'est-ce que cette fillette va penser de moi ?</p>
+          <p>– Horrible ! horrible ! Qu'est-ce que cette fillette va penser de moi ?</p>
           <p>Et Bott tint à revenir tout de suite au tir, porter ses excuses à la petite Charlotte et lui offrir une jolie bague, pour laquelle la petite citoyenne du dix-huitième arrondissement lui sauta au cou et l'embrassa de grand cœur.</p>
         </div>
         <div type="chapter">
