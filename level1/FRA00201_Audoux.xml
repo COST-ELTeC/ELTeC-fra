@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00201" xml:lang="fr">
   <teiHeader>
@@ -15,54 +15,69 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <measure unit="words">35659</measure>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
+        <measure unit="words">37171</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2019-06-15
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <ref target="http://beq.ebooksgratuits.com/auteurs/terrail/index.htm">Marie-Claire</ref>
           <publisher>BEQ</publisher>
           <idno type="beq">977</idno>
           <title>Marie-Claire</title>
-          </bibl><bibl type="firstEdition">
-              <title>Marie-Claire</title>
-              <publisher>Eugène Fasquelle</publisher>
-              <pubPlace>Paris</pubPlace>
-              <date>1910</date>
-            </bibl></sourceDesc>
+        </bibl>
+        <bibl type="firstEdition">
+          <title>Marie-Claire</title>
+          <publisher>Eugène Fasquelle</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1910</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <language ident="fra">French</language>
+        <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
         <!-- Prix Fémina -->
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion to ELTeC level-1 (Christof Schöch)</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="chapter">
+
         <head>PREMIÈRE PARTIE</head>
         <p>Un jour, il vint beaucoup de monde chez nous. Les hommes entraient comme dans une église, et les femmes faisaient le signe de la croix en sortant.</p>
         <p>Je me glissai dans la chambre de mes parents, et je fus bien étonnée de voir que ma mère avait une grande bougie allumée près de son lit. Mon père se penchait sur le pied du lit, pour regarder ma mère, qui dormait les mains croisées sur sa poitrine.</p>
         <p>Notre voisine, la mère Colas, nous garda tout le jour chez elle. À toutes les femmes qui sortaient de chez nous, elle disait :</p>
-        <p>-- Vous savez, elle n'a pas voulu embrasser ses enfants.</p>
+        <p>– Vous savez, elle n'a pas voulu embrasser ses enfants.</p>
         <p>Les femmes se mouchaient en nous regardant, et la mère Colas ajoutait :</p>
-        <p>-- Ces maladies-là, ça rend méchant.</p>
+        <p>– Ces maladies-là, ça rend méchant.</p>
         <p>Les jours qui suivirent, nous avions des robes à larges carreaux blancs et noirs.</p>
         <p>La mère Colas nous donnait à manger et nous envoyait jouer dans les champs. Ma sœur, qui était déjà grande, s'enfonçait dans les haies, grimpait aux arbres, fouillait dans les mares et revenait le soir les poches pleines de bêtes de toutes sortes qui me faisaient peur et mettaient la mère Colas bien en colère.</p>
         <p>J'avais surtout une grande répugnance pour les vers de terre. Cette chose rouge et élastique me causait une horreur sans nom, et s'il m'arrivait d'en écraser un par mégarde, j'en ressentais de longs frissons de dégoût. Les jours où je souffrais de points de côté, la mère Colas défendait à ma sœur de s'éloigner. Mais ma sœur s'ennuyait et voulait quand même m'emmener. Alors, elle ramassait des vers, qu'elle laissait grouiller dans ses mains, en les approchant de ma figure. Aussitôt, je disais que je n'avais plus mal, et je me laissais traîner dans les champs.</p>
@@ -73,15 +88,15 @@
         <p>Il arriva un matin que la mère Colas nous accabla de reproches, disant que nous étions des enfants de malheur, qu'elle ne nous donnerait plus à manger, et que nous pouvions bien aller retrouver notre père, qui était parti on ne savait où. Quand sa colère fut passée, elle nous donna à manger comme d'habitude ; mais, quelques instants après, elle nous fit monter dans la carriole du père Chicon. La carriole était pleine de paille et de sacs de grains. J'étais placée derrière, dans une sorte de niche, entre les sacs ; la voiture penchait en arrière et chaque secousse me faisait glisser sur la paille.</p>
         <p>J'eus une très grande peur tout le long de la route ; à chaque glissade, je croyais que la carriole allait me perdre, ou bien que les sacs allaient s'écrouler sur moi.</p>
         <p>On s'arrêta devant une auberge. Une femme nous fit descendre, secoua la paille de nos robes, et nous fit boire du lait. Tout en nous caressant, elle disait au père Chicon :</p>
-        <p>-- Alors, vous pensez que leur père les voudra ?</p>
+        <p>– Alors, vous pensez que leur père les voudra ?</p>
         <p>Le père Chicon branla la tête en cognant sa pipe contre la table ; il fit une grimace avec sa grosse lèvre et il répondit :</p>
-        <p>-- Il est peut-être parti encore plus loin. Le fils à Girard m'a dit qu'il l'avait rencontré sur la route de Paris.</p>
+        <p>– Il est peut-être parti encore plus loin. Le fils à Girard m'a dit qu'il l'avait rencontré sur la route de Paris.</p>
         <p>Le père Chicon nous mena ensuite dans une belle maison, où il y avait un perron avec beaucoup de marches.</p>
         <p>Il causa longtemps avec un monsieur qui faisait de grands gestes et qui parlait de tour de France. Le monsieur mit sa main sur ma tête, et il répéta plusieurs fois :</p>
-        <p>-- Il ne m'avait pas dit qu'il avait des enfants.</p>
+        <p>– Il ne m'avait pas dit qu'il avait des enfants.</p>
         <p>Je compris qu'il parlait de mon père, et je demandai à le voir. Le monsieur me regarda sans répondre, puis il demanda au père Chicon :</p>
-        <p>-- Quel âge a donc celle-ci ?</p>
-        <p>-- Dans les cinq ans, dit le vieux.</p>
+        <p>– Quel âge a donc celle-ci ?</p>
+        <p>– Dans les cinq ans, dit le vieux.</p>
         <p>Pendant ce temps, ma sœur jouait sur les marches avec un petit chat.</p>
         <p>La carriole nous ramena chez la mère Colas, qui nous reçut en bougonnant et en nous bousculant ; quelques jours après, elle nous fit monter en chemin de fer, et le soir même nous étions dans une grande maison où il y avait beaucoup de petites filles.</p>
         <p>Sœur Gabrielle nous sépara tout de suite. Elle dit que ma sœur était assez grande pour aller aux moyennes, tandis que moi je resterais aux petites.</p>
@@ -91,36 +106,36 @@
         <p>J'eus tout de suite une amie.</p>
         <p>Je la vis venir vers moi en se dandinant, l'air effronté.</p>
         <p>Elle n'était guère plus haute que le banc sur lequel j'étais assise. Elle appuya ses coudes sans façon sur moi, et elle me dit :</p>
-        <p>-- Pourquoi ne joues-tu pas ?</p>
+        <p>– Pourquoi ne joues-tu pas ?</p>
         <p>Je répondis que j'avais mal au côté.</p>
-        <p>-- Ah oui, reprit-elle ; ta maman était poitrinaire, et sœur Gabrielle a dit que tu mourrais bientôt.</p>
+        <p>– Ah oui, reprit-elle ; ta maman était poitrinaire, et sœur Gabrielle a dit que tu mourrais bientôt.</p>
         <p>Elle grimpa sur le banc, s'assit en faisant disparaître sous elle ses petites jambes ; puis elle me demanda mon nom, mon âge, m'apprit qu'elle s'appelait Ismérie, qu'elle était plus vieille que moi, et que le médecin disait qu'elle ne grandirait jamais. Elle m'apprit aussi que la maîtresse de classe s'appelait sœur Marie-Aimée, qu'elle était très méchante et punissait sévèrement les bavardes.</p>
         <p>Elle sauta tout d'un coup sur ses pieds en criant :</p>
         <p>Augustine !</p>
         <p>Sa voix était comme celle d'un garçon, et ses jambes étaient un peu tordues.</p>
         <p>À la fin de la récréation, je l'aperçus sur le dos d'Augustine, qui la balançait d'une épaule sur l'autre, comme pour la jeter à terre. En passant devant moi, elle me cria de sa grosse voix :</p>
-        <p>-- Tu me porteras aussi, dis ?</p>
+        <p>– Tu me porteras aussi, dis ?</p>
         <p>Je fis bientôt la connaissance d'Augustine.</p>
         <p>Un mal d'yeux que j'avais s'aggrava. La nuit, mes paupières se collaient l'une contre l'autre, de sorte que j'étais complètement aveugle, jusqu'à ce qu'on me les eût baignées. Ce fut elle qui fut chargée de me conduire à l'infirmerie. Tous les matins, elle venait me prendre au petit dortoir. Je l'entendais venir depuis la porte. Ce n'était pas long ; elle me saisissait la main, et m'entraînait du même pas qu'elle était venue, sans s'occuper si je me cognais aux lits.</p>
         <p>Nous traversions les couloirs comme le vent, et descendions les deux étages comme une avalanche ; mes pieds rencontraient une marche de temps en temps ; je descendais comme on tombe dans le vide ; Augustine avait une main ferme qui me tenait solidement.</p>
         <p>Pour aller à l'infirmerie, il fallait passer derrière la chapelle, puis devant une petite maison toute blanche ; là, on redoublait de vitesse.</p>
         <p>Un jour que, n'en pouvant plus, j'étais tombée sur les genoux, elle me releva avec une tape sur la tête, en disant :</p>
-        <p>-- Dépêche-toi donc, on est devant la maison des morts.</p>
+        <p>– Dépêche-toi donc, on est devant la maison des morts.</p>
         <p>Tous les jours ensuite, dans la crainte que je tombe, elle m'avertissait quand nous étions devant la maison des morts.</p>
         <p>J'avais surtout peur de la peur d'Augustine. Puisqu'elle courait si fort, c'est qu'il y avait du danger. J'arrivais à l'infirmerie en nage et sans souffle ; quelqu'un me poussait sur une petite chaise, et mon point de côté était passé depuis longtemps quand on venait me laver les yeux.</p>
         <p>Ce fut encore Augustine qui me conduisit dans la classe de sœur Marie-Aimée. Elle prit une voix timide pour dire :</p>
-        <p>-- Ma Sœur, voilà la nouvelle.</p>
+        <p>– Ma Sœur, voilà la nouvelle.</p>
         <p>Je m'attendais à une rebuffade, mais sœur Marie-Aimée me sourit, m'embrassa plusieurs fois, et dit :</p>
-        <p>-- Tu es trop petite pour être sur un banc. Je vais te mettre ici.</p>
+        <p>– Tu es trop petite pour être sur un banc. Je vais te mettre ici.</p>
         <p>Et elle me fit asseoir sur un petit banc, dans le creux de son pupitre.</p>
         <p>Comme il y faisait bon dans ce creux de pupitre ! Comme la chaleur des jupes de laine caressait mon corps tout meurtri par les escaliers de bois et de pierres !</p>
         <p>Souvent deux pieds se posaient de chaque côté de mon petit banc et je me trouvais étroitement enclavée entre deux jambes nerveuses et chaudes. Une main tâtonnante m'appuyait la tête sur les jupes entre les genoux, et sous cette main douce, et sur cet oreiller chaud, je m'endormais.</p>
         <p>Quand je m'éveillais, l'oreiller se transformait en table. La même main y déposait des débris de gâteaux, de menus morceaux de sucre, et quelques bonbons.</p>
         <p>Autour de moi, j'entendais vivre le monde.</p>
         <p>Une voix pleurait :</p>
-        <p>-- Non, ma Sœur, ce n'est pas moi.</p>
+        <p>– Non, ma Sœur, ce n'est pas moi.</p>
         <p>Des voix criardes disaient :</p>
-        <p>-- Si, ma Sœur, c'est elle.</p>
+        <p>– Si, ma Sœur, c'est elle.</p>
         <p>Au-dessus de ma tête, une voix pleine et chaude imposait silence, en s'accompagnant de coups de règle sur le pupitre, qui résonnaient et faisaient dans mon creux un bruit énorme.</p>
         <p>Parfois, il se faisait un grand mouvement. Les pieds se retiraient de mon petit banc, les genoux se rapprochaient, la chaise remuait, et je voyais se pencher vers mon nid une guimpe blanche, un menton mince, des dents fines et pointues, et enfin deux yeux caressants qui m'apportaient la confiance.</p>
         <p>Aussitôt que mon mal d'yeux fut guéri, un alphabet s'ajouta aux friandises. C'était un petit livre où il y avait des images à côté des mots. Je regardais souvent une grosse fraise que j'imaginais au moins aussi grosse qu'une brioche.</p>
@@ -131,7 +146,7 @@
         <p>Le soir, après la prière, sœur Gabrielle nous annonça son départ. Elle nous embrassa toutes, en commençant par les plus petites. La montée au dortoir se fit en grand désordre : les grandes chuchotaient et se révoltaient à l'avance contre cette sœur Marie-Aimée ; les petites pleurnichaient comme à l'approche d'un danger.</p>
         <p>Ismérie, que je portais sur mon dos, pleurait bruyamment, ses petits doigts m'étranglaient un peu, et ses larmes me tombaient dans le cou.</p>
         <p>Personne ne pensait à rire de sœur Gabrielle, qui montait péniblement en disant : « Chut ! chut ! » sans se lasser, et sans que le bruit diminuât. La bonne du petit dortoir pleurait aussi : elle me secoua un peu en me déshabillant ; elle disait :</p>
-        <p>-- Je suis sûre que tu es contente, toi, d'avoir ta sœur Marie-Aimée.</p>
+        <p>– Je suis sûre que tu es contente, toi, d'avoir ta sœur Marie-Aimée.</p>
         <p>Nous l'appelions Bonne Esther.</p>
         <p>Des trois bonnes que nous avions, c'était elle que je préférais. Elle était un peu bourrue, mais elle nous aimait bien.</p>
         <p>La nuit, elle réveillait celles qui avaient de mauvaises habitudes, afin de leur épargner les verges du lendemain. Quand je toussais, elle se levait et à tâtons me fourrait dans la bouche un morceau de sucre mouillé. Bien des fois aussi, elle m'avait emporté de mon lit, où j'étais glacée, pour me réchauffer dans le sien.</p>
@@ -140,27 +155,27 @@
         <p>Sœur Marie-Aimée entra en laissant la porte ouverte derrière elle ; elle me parut plus grande avec son tablier blanc et ses manches blanches. Elle marchait lentement en regardant tout le monde ; le chapelet qui pendait à son côté faisait entendre un petit bruit, et sa jupe se balançait un peu dans le bas. Elle monta les trois marches de son estrade, et nous fit asseoir d'un geste de la main.</p>
         <p>L'après-midi, elle nous mena dans la campagne.</p>
         <p>Il faisait très chaud. J'allai m'asseoir près d'elle, sur une hauteur ; elle lisait un livre en surveillant d'un coup d'œil les petites filles, qui jouaient dans un champ au-dessous de nous. Elle regarda longtemps le soleil couchant en disant à chaque instant :</p>
-        <p>-- Que c'est beau ! que c'est beau !...</p>
+        <p>– Que c'est beau ! que c'est beau !...</p>
         <p>Le soir même, les verges disparurent du petit dortoir, et au réfectoire la salade fut retournée avec de longues spatules. À part cela, rien ne fut changé. Nous allions en classe de neuf heures à midi, et l'après-midi nous épluchions des noix pour un marchand d'huiles.</p>
         <p>Les plus grandes les cassaient avec un marteau, et les plus petites les séparaient des coquilles. Il était bien défendu d'en manger, et surtout ce n'était pas facile : il s'en trouvait toujours une pour vous dénoncer, par jalousie de gourmandise.</p>
         <p>C'était Bonne Esther qui nous regardait dans la bouche. Quelquefois, elle s'attardait à une incorrigible gourmande. Alors, elle lui faisait les gros yeux, puis elle lui disait en la renvoyant d'une taloche :</p>
-        <p>-- J'ai l'œil sur toi.</p>
+        <p>– J'ai l'œil sur toi.</p>
         <p>Nous étions quelques-unes en qui elle avait grande confiance. Elle nous faisait pivoter en faisant semblant de nous regarder, et elle disait en riant :</p>
-        <p>-- Ferme ton bec.</p>
+        <p>– Ferme ton bec.</p>
         <p>J'avais souvent envie d'en manger, mais les bons yeux de Bonne Esther passaient devant moi, et je rougissais à l'idée de tromper sa confiance.</p>
         <p>À la longue, l'envie devint si forte, que je ne pensais plus qu'à cela : pendant des jours et des jours, je cherchai le moyen d'en manger sans me faire prendre. J'essayai d'en cacher dans mes manches, mais j'étais si maladroite que je les perdais aussitôt ; et puis, j'avais envie d'en manger beaucoup, beaucoup. Il me semblait que j'en aurais mangé un plein sac.</p>
         <p>Un jour enfin, je trouvai l'occasion. Bonne Esther, qui nous menait coucher, glissa sur une coquille, et lâcha sa lanterne, qui s'éteignit. Comme je me trouvais à côté d'une bassine pleine, j'en pris une grosse poignée, que je fourrai dans ma poche.</p>
         <p>Aussitôt que tout le monde fut couché, je sortis les noix de ma poche, et, la tête sous les draps, j'en pris ma pleine bouche ; mais aussitôt il me sembla que tout le dortoir entendait le bruit que faisaient mes mâchoires j'avais beau croquer doucement et lentement, le bruit cognait dans mes oreilles, comme des coups de maillet. Bonne Esther se leva : elle alluma la lampe, regarda sous les lits en se baissant.</p>
         <p>Quand elle fut près de moi, je la regardai épouvantée. Elle dit tout bas :</p>
-        <p>-- Tu ne dors donc pas ?</p>
+        <p>– Tu ne dors donc pas ?</p>
         <p>Puis elle continua ses recherches. Elle alla jusqu'au bout du dortoir, ouvrit et referma la porte, mais à peine était-elle recouchée et la lampe éteinte, que le loquet de la porte tapa comme si on l'ouvrait.</p>
         <p>Bonne Esther ralluma encore la lampe et dit :</p>
-        <p>-- Ça, c'est trop fort ; ce n'est pourtant pas la chatte qui ouvre la porte toute seule.</p>
-        <p>-- Il me semblait qu'elle avait peur : je l'entendais remuer dans son lit, et tout d'un coup elle se mit à crier :</p>
-        <p>-- Mon Dieu ! mon Dieu !</p>
+        <p>– Ça, c'est trop fort ; ce n'est pourtant pas la chatte qui ouvre la porte toute seule.</p>
+        <p>– Il me semblait qu'elle avait peur : je l'entendais remuer dans son lit, et tout d'un coup elle se mit à crier :</p>
+        <p>– Mon Dieu ! mon Dieu !</p>
         <p>Ismérie lui demanda ce qu'elle avait. Elle nous dit qu'une main ouvrait la porte à la chatte, et qu'elle venait de sentir un grand souffle sur son visage.</p>
         <p>Dans la demi-clarté, on voyait la porte entrouverte. J'étais très effrayée. Je pensais que c'était le démon qui venait me chercher. Au bout d'un long moment, on n'entendait plus rien. Bonne Esther demanda si l'une de nous voulait bien se lever pour souffler la lampe, qui n'était cependant pas très loin de son lit. Personne ne répondit. Alors elle m'appela. Je me levai, pendant qu'elle disait :</p>
-        <p>-- Toi qui es si sage, les revenants ne te feront rien.</p>
+        <p>– Toi qui es si sage, les revenants ne te feront rien.</p>
         <p>Elle se tut en même temps que je soufflai la lampe, et tout de suite je vis des milliers de points brillants, pendant que je sentais un grand froid sur les joues. Je devinais sous les lits des dragons verts avec des gueules tout enflammées. Je sentais leurs griffes sur mes pieds, et des lumières sautaient de chaque côté de ma tête. J'éprouvais un grand besoin de m'asseoir, et en arrivant à mon lit, je croyais fermement qu'il me manquait les deux pieds. Quand j'osai m'en assurer, je les trouvai bien froids, et je finis par m'endormir en les tenant dans mes deux mains.</p>
         <p>Au matin, Bonne Esther trouva la chatte sur un lit près de la porte.</p>
         <p>Elle avait fait ses petits pendant la nuit.</p>
@@ -168,28 +183,28 @@
         <p>La semaine suivante, toutes celles qui avaient huit ans descendirent au grand dortoir.</p>
         <p>J'eus un lit placé près d'une fenêtre, tout près de la chambre de sœur Marie-Aimée.</p>
         <p>Marie Renaud et Ismérie restèrent mes voisines. Souvent, quand nous étions couchées, sœur Marie-Aimée venait s'asseoir près de ma fenêtre. Elle me prenait une main qu'elle caressait, tout en regardant dehors. Une nuit, il y eut un grand feu dans le voisinage. Tout le dortoir était éclairé. Sœur Marie-Aimée ouvrit la fenêtre toute grande, puis elle me secoua, en disant :</p>
-        <p>-- Réveille-toi, viens voir le feu !</p>
+        <p>– Réveille-toi, viens voir le feu !</p>
         <p>Elle me prit dans ses bras. Elle me passait la main sur le visage pour me réveiller en me répétant :</p>
-        <p>-- Viens voir le feu. Vois comme c'est beau !</p>
+        <p>– Viens voir le feu. Vois comme c'est beau !</p>
         <p>J'avais si envie de dormir que je laissais tomber ma tête sur son épaule. Alors, elle me donna une bonne gifle, en m'appelant petite brute. Cette fois, j'étais réveillée, et je me mis à pleurer. Elle me prit de nouveau dans ses bras ; elle s'assit et me berça en me tenant serrée contre elle.</p>
         <p>Elle avançait la tête vers la croisée. Son visage était comme transparent, et ses yeux étaient pleins de lumière.</p>
         <p>Ismérie aurait bien voulu que sœur Marie-Aimée ne vînt jamais vers la fenêtre ; cela l'empêchait de bavarder ; elle avait toujours quelque chose à dire ; sa voix était si forte, qu'on l'entendait à l'autre bout du dortoir. Sœur Marie-Aimée disait :</p>
-        <p>-- Voilà encore Ismérie qui parle.</p>
+        <p>– Voilà encore Ismérie qui parle.</p>
         <p>Ismérie répondait :</p>
-        <p>-- Voilà encore sœur Marie-Aimée qui gronde.</p>
+        <p>– Voilà encore sœur Marie-Aimée qui gronde.</p>
         <p>J'étais confondue de son audace. Je pensais que sœur Marie-Aimée faisait semblant de ne pas l'entendre.</p>
         <p>Pourtant, un jour, elle lui dit :</p>
-        <p>-- Je vous défends de répondre, espèce de naine.</p>
+        <p>– Je vous défends de répondre, espèce de naine.</p>
         <p>Ismérie cria :</p>
-        <p>-- Mon gnouf !</p>
+        <p>– Mon gnouf !</p>
         <p>C'était un mot dont nous nous servions entre nous et qui voulait dire : « Regarde mon nez, si je t'écoute. »</p>
         <p>Sœur Marie-Aimée s'élança vers le martinet. Je tremblai pour le petit corps d'Ismérie, mais elle se jeta à plat ventre, en gigotant, et se tordant avec des cris bizarres. Sœur Marie-Aimée la poussa du pied avec dégoût ; elle dit en lançant le martinet au loin :</p>
-        <p>-- Quelle affreuse petite créature !</p>
+        <p>– Quelle affreuse petite créature !</p>
         <p>Dans la suite, elle évitait de la regarder et ne paraissait pas entendre ses insolences. Toutefois, elle nous défendait sévèrement de la porter sur notre dos. Cela n'empêchait pas Ismérie de grimper après moi comme un singe. Je n'avais pas le courage de la repousser, et, en me baissant un peu, je la laissais s'installer sur mon dos.</p>
         <p>Cela se passait surtout en montant au dortoir. Elle avait une grande difficulté à enjamber les marches, elle en riait elle-même, elle disait qu'elle montait comme les poules.</p>
         <p>Comme sœur Marie-Aimée était toujours en avant, je tâchais de me trouver dans les dernières ; il arrivait parfois qu'elle se retournait brusquement ; alors Ismérie glissait le long de moi avec une rapidité et une adresse étonnantes.</p>
         <p>Je restais toujours un peu gênée sous le regard de sœur Marie-Aimée, et Ismérie ne manquait jamais de me dire :</p>
-        <p>-- Tu vois comme tu es bête : tu t'es encore fait prendre.</p>
+        <p>– Tu vois comme tu es bête : tu t'es encore fait prendre.</p>
         <p>Elle n'avait jamais pu grimper sur Marie Renaud, qui la repoussait toujours, en disant qu'elle usait et salissait nos robes.</p>
         <p>Si Ismérie était bavarde, par contre Marie Renaud ne causait jamais.</p>
         <p>Chaque matin, elle m'aidait à faire mon lit ; elle passait soigneusement ses mains sur les draps, pour lisser les cassures ; elle refusait obstinément mon aide pour faire le sien, prétendant que je roulais les draps n'importe comment. J'étais toujours stupéfaite de voir que son lit n'avait aucun désordre à son lever.</p>
@@ -199,9 +214,9 @@
         <p>Elles criaient toutes deux à la fois en se tenant penchées sur moi.</p>
         <p>Je pensais à deux fées braillardes, une noire et une blanche : Bonne Néron si haute et si noire, et Madeleine si blonde et si fraîche avec de grosses lèvres ouvertes, ses dents si écartées et sa langue large et épaisse qui remuait et poussait de la salive au coin de sa bouche.</p>
         <p>Bonne Néron leva la main sur moi et dit :</p>
-        <p>-- Voulez-vous baisser les yeux !</p>
+        <p>– Voulez-vous baisser les yeux !</p>
         <p>Elle ajouta en s'éloignant :</p>
-        <p>-- C'est qu'elle vous fait honte quand elle vous regarde comme cela.</p>
+        <p>– C'est qu'elle vous fait honte quand elle vous regarde comme cela.</p>
         <p>Je savais depuis longtemps que Bonne Néron ressemblait à un taureau, mais il me fut impossible de trouver à quelle bête ressemblait Madeleine. J'y pensais pendant plusieurs jours en repassant dans ma tête le nom de toutes les bêtes que je connaissais, et je finis par y renoncer.</p>
         <p>Elle était grasse et elle marchait en fléchissant les reins ; elle avait une voix perçante qui surprenait tout le monde.</p>
         <p>Elle demanda à chanter à la chapelle, mais comme elle ne savait pas les cantiques, sœur Marie-Aimée me chargea de les lui apprendre. Marie Renaud put recommencer de brosser et plier mes habits sans que personne eût l'air de s'en apercevoir. Elle était si contente qu'elle me fit cadeau d'une épingle double pour attacher mon mouchoir, que je perdais toujours. Deux jours après, j'avais perdu l'épingle et le mouchoir.</p>
@@ -214,34 +229,34 @@
         <p>Elle paraissait très attachée à sœur Marie-Aimée ; elle la servait attentivement, et fondait en larmes au moindre reproche.</p>
         <p>Elle avait des crises de gros sanglots que sœur Marie-Aimée calmait en lui caressant les joues. Alors, elle riait et pleurait tout à la fois. Elle avait un mouvement des épaules qui laissait voir son cou blanc, et qui faisait dire à Bonne Néron qu'elle avait l'air d'une chatte.</p>
         <p>Bonne Néron s'en alla un jour après une scène, au milieu du déjeuner, alors qu'il régnait un grand silence. Elle cria tout à coup :</p>
-        <p>-- Oui, je veux m'en aller, et je m'en irai !</p>
+        <p>– Oui, je veux m'en aller, et je m'en irai !</p>
         <p>Comme sœur Marie-Aimée la regardait tout étonnée, elle lui fit face en baissant la tête, qu'elle secouait et lançait en avant, criant plus fort qu'elle ne souffrirait pas plus longtemps d'être commandée par une morveuse, oui, une morveuse.</p>
         <p>Elle était arrivée à reculons près de la porte ; elle l'ouvrit tout en donnant de furieux coups de tête, et avant de disparaître, elle lança son grand bras dans la direction de sœur Marie-Aimée et, avec un profond mépris, elle dit :</p>
-        <p>-- Ça n'a pas seulement vingt-cinq ans !</p>
+        <p>– Ça n'a pas seulement vingt-cinq ans !</p>
         <p>Quelques petites filles étaient terrifiées ; d'autres éclatèrent de rire. Madeleine eut une véritable crise de nerfs ; elle se jeta aux genoux de sœur Marie-Aimée en lui enlaçant les jambes et en embrassant sa robe. Elle lui prit les mains, qu'elle frotta contre sa grosse bouche humide ; tout cela, en poussant des cris, comme si une catastrophe épouvantable était arrivée.</p>
         <p>Sœur Marie-Aimée n'arrivait pas à se dégager ; elle finit par se fâcher. Alors, Madeleine s'évanouit en tombant sur le dos.</p>
         <p>Tout en la dégrafant, sœur Marie-Aimée fit un signe de mon côté. Croyant qu'elle avait besoin de mes services, j'accourus. Mais elle me renvoya :</p>
-        <p>-- Non, pas toi, Marie Renaud.</p>
+        <p>– Non, pas toi, Marie Renaud.</p>
         <p>Elle lui remit ses clefs, et bien que Marie Renaud ne fût jamais entrée dans la chambre de sœur Marie-Aimée, elle trouva tout de suite le flacon demandé.</p>
         <p>Madeleine se remit très vite, et en prenant la place de Bonne Néron, elle prit de l'autorité. Elle restait timide et soumise devant sœur Marie-Aimée ; mais elle se rattrapait sur nous, en braillant à tout propos qu'elle était notre surveillante, et non pas notre bonne.</p>
         <p>Le jour de son évanouissement, j'avais vu ses seins, qui m'avaient paru si beaux, que je n'avais encore rien imaginé de pareil.</p>
         <p>Mais je la trouvais bête, et ne faisais aucun cas de ses remontrances. Cela la mettait en colère ; elle me criblait de mots grossiers, et finissait toujours par me traiter d'espèce de princesse.</p>
         <p>Elle ne pouvait supporter l'affection que me montrait sœur Marie-Aimée ; et quand elle la voyait m'embrasser, elle rougissait de dépit.</p>
         <p>Je commençais à grandir et j'étais assez bien portante. Sœur Marie-Aimée disait quelle était fière de moi. Elle me serrait si fort en m'embrassant qu'elle me faisait mal. Puis elle disait en posant délicatement ses doigts sur mon front :</p>
-        <p>-- Ma petite fille ! mon petit enfant !</p>
+        <p>– Ma petite fille ! mon petit enfant !</p>
         <p>Pendant les récréations, je restais souvent près d'elle. Je l'écoutais lire : elle lisait d'une voix profonde et mordante, et, quand les personnages lui déplaisaient par trop, elle fermait violemment le livre et se mêlait à nos jeux.</p>
         <p>Elle eût voulu me voir sans défaut. Elle répétait souvent :</p>
-        <p>-- Je veux que tu sois parfaite ; entends-tu ? parfaite.</p>
+        <p>– Je veux que tu sois parfaite ; entends-tu ? parfaite.</p>
         <p>Un jour, elle crut que j'avais menti.</p>
         <p>Nous avions trois vaches qui paissaient quelquefois sur une pelouse au milieu de laquelle se trouvait un énorme marronnier. La vache blanche était méchante, et nous en avions peur, parce qu'elle avait déjà piétiné une petite fille.</p>
         <p>Ce jour-là, je vis les deux vaches rouges et, directement sous le marronnier, une belle vache noire. Je dis à Ismérie :</p>
-        <p>-- Tiens, on a changé la vache blanche, sans doute parce qu'elle était méchante.</p>
+        <p>– Tiens, on a changé la vache blanche, sans doute parce qu'elle était méchante.</p>
         <p>Ismérie, qui était de mauvaise humeur, se mit à crier, disant que je me moquais toujours des autres, en voulant leur faire croire des choses qui n'existaient pas.</p>
         <p>Je lui montrai la vache : elle soutint que c'était la blanche ; moi, je soutenais que c'était une noire.</p>
         <p>Sœur Marie Aimée entendit. Elle paraissait outrée, quand elle dit :</p>
-        <p>-- Comment peux-tu soutenir que cette vache est noire ?</p>
+        <p>– Comment peux-tu soutenir que cette vache est noire ?</p>
         <p>À ce moment, la vache se déplaça ; elle paraissait maintenant noire et blanche, et je compris que c'était l'ombre du marronnier qui m'avait trompée. J'étais si stupéfaite que je ne trouvai rien à répondre ; je ne savais comment expliquer cela. Sœur Marie-Aimée me secoua violemment.</p>
-        <p>-- Pourquoi as-tu menti ? allons ! réponds, pourquoi as-tu menti ?</p>
+        <p>– Pourquoi as-tu menti ? allons ! réponds, pourquoi as-tu menti ?</p>
         <p>Je répondis que je ne savais pas.</p>
         <p>Elle m'envoya en pénitence sous le hangar, en m'assurant que je n'aurais comme nourriture que du pain et de l'eau.</p>
         <p>Comme je n'avais pas menti, la pénitence me laissa indifférente.</p>
@@ -250,7 +265,7 @@
         <p>Je ne savais pas que j'étais assise sur un meuble ; je me croyais encore sur la montagne, et j'étais seulement ennuyée que l'arrivée de sœur Marie-Aimée eût fait disparaître le palais avec tous ses personnages.</p>
         <p>Elle me découvrit au balancement de mes jambes ; et je m'aperçus en même temps qu'elle que j'étais sur une armoire.</p>
         <p>Elle resta un moment les yeux levés vers moi ; puis, elle tira de la poche de son tablier un morceau de pain, un bout de boudin, une petite fiole de vin, me montra chaque chose l'une après l'autre, et, la voix fâchée, elle dit :</p>
-        <p>-- C'était pour toi ; eh bien, voilà !</p>
+        <p>– C'était pour toi ; eh bien, voilà !</p>
         <p>Elle remit le tout dans sa poche, et s'en alla.</p>
         <p>Un instant après, Madeleine m'apporta du pain et de l'eau, et je restai jusqu'au soir sous le hangar.</p>
         <p>Depuis quelque temps, sœur Marie-Aimée devenait triste ; elle ne jouait plus avec nous ; souvent, elle oubliait l'heure de notre dîner. Madeleine m'envoyait la chercher à la chapelle, où je la trouvais à genoux, le visage caché dans ses mains.</p>
@@ -258,28 +273,28 @@
         <p>Pourtant, elle s'occupa activement d'une petite fête que nous faisions tous les ans à Pâques. Elle fit apporter les gâteaux que l'on rangea sur une table, en les recouvrant d'une nappe blanche, pour ne pas donner trop de tentation aux gourmandes.</p>
         <p>Le dîner s'était passé au milieu d'un babillage énorme, à cause de la permission que nous avions de causer à table les jours de fête. Sœur Marie-Aimée nous avait servies avec son bon sourire et une bonne parole pour chacune. Elle se disposait à nous servir les gâteaux en se faisant aider par Madeleine, pour enlever la nappe qui les recouvrait.</p>
         <p>À ce moment, la chatte, qui était dessous, sauta à terre et se sauva. Sœur Marie-Aimée et Madeleine poussèrent ensemble un « ah ! » prolongé, puis Madeleine cria :</p>
-        <p>-- La sale bête, elle a mordu à tous les gâteaux !</p>
+        <p>– La sale bête, elle a mordu à tous les gâteaux !</p>
         <p>Sœur Marie-Aimée n'aimait pas la chatte. Elle resta un moment immobile, puis elle courut prendre un bâton et se lança après la bête.</p>
         <p>Ce fut une course épouvantable : la chatte, affolée, sautait de tous côtés, échappant au bâton, qui ne frappait que les bancs et les murs. Toutes les petites filles, prises de peur, se sauvaient vers la porte. Sœur Marie-Aimée les arrêta d'un mot : Que personne ne sorte !</p>
         <p>Elle avait un visage que je ne connaissais pas : ses lèvres rentrées, ses joues aussi blanches que sa cornette, et ses yeux qui faisaient du feu, me semblèrent si effrayants que je cachai ma figure dans mon bras.</p>
         <p>Malgré moi, je regardai de nouveau. La poursuite continuait : sœur Marie-Aimée, le bâton haut, courait en silence ; ses lèvres s'étaient ouvertes et on voyait ses petites dents pointues ; elle courait dans tous les sens, sautant les bancs, montant sur les tables en relevant rapidement ses jupes ; au moment où elle allait l'atteindre, la chatte fit un bond formidable et s'accrocha après un rideau, tout en haut d'une fenêtre.</p>
         <p>Madeleine, qui avait suivi sœur Marie-Aimée avec des mouvements de jeune chien un peu lourd, voulut aller chercher un bâton plus long, mais sœur Marie-Aimée l'arrêta d'un geste en disant :</p>
-        <p>-- Elle a bien fait de s'échapper !</p>
+        <p>– Elle a bien fait de s'échapper !</p>
         <p>Bonne Justine, qui était près de moi, disait en se cachant les yeux :</p>
-        <p>-- Oh ! c'est honteux ! c'est honteux !</p>
+        <p>– Oh ! c'est honteux ! c'est honteux !</p>
         <p>Moi aussi, je trouvais que c'était honteux : une sorte de déconsidération me venait pour sœur Marie-Aimée, que j'avais toujours crue sans défaut. Je comparais cette scène avec une autre qui s'était passée un jour de grand orage. Combien j'avais trouvé sœur Marie-Aimée au-dessus de tout, ce jour-là ! Je la revoyais, montée sur un banc : elle fermait tranquillement les hautes fenêtres en élevant ses beaux bras dont les larges manches se rabattaient sur ses épaules, et, pendant que nous étions épouvantées par les éclairs et les coups de vent furieux, elle disait d'une voix calme :</p>
-        <p>-- Mais... c'est un ouragan !</p>
+        <p>– Mais... c'est un ouragan !</p>
         <p>Maintenant, sœur Marie-Aimée faisait reculer les petites filles au fond de la salle. Elle ouvrait la porte toute grande à la chatte, qui sortit en trois bonds.</p>
         <p>L'après-midi, je fus bien étonnée de voir que ce n'était pas notre vieux curé qui disait les vêpres.</p>
         <p>Celui-ci était grand et fort. Il chantait d'une voix forte et saccadée. Toute la soirée, on parla de lui. Madeleine disait que c'était un bel homme, et sœur Marie-Aimée trouva qu'il avait la voix jeune, mais qu'il prononçait les mots comme un vieillard. Elle dit aussi qu'il avait la démarche jeune et distinguée.</p>
         <p>Quand il vint nous faire visite deux ou trois jours après, je vis qu'il avait des cheveux blancs qui bouclaient au-dessus de son cou, et que ses yeux et ses sourcils étaient très noirs.</p>
         <p>Il demanda à voir celles qui se préparaient au catéchisme, et voulut savoir le nom de chacune. Sœur Marie-Aimée répondit pour moi. Elle dit en mettant sa main sur ma tête :</p>
-        <p>-- Celle-ci, c'est notre Marie-Claire.</p>
+        <p>– Celle-ci, c'est notre Marie-Claire.</p>
         <p>Ismérie s'approcha à son tour. Il la regarda avec une grande curiosité, la fit tourner le dos et marcher devant lui ; il compara sa taille à celle d'un bébé de trois ans, et comme il demandait à sœur Marie-Aimée si elle était intelligente, Ismérie se retourna brusquement en disant qu'elle était moins bête que les autres.</p>
         <p>Il se mit à rire, et je vis que ses dents étaient très blanches. Quand il parlait, il faisait un mouvement en avant, comme s'il voulait rattraper ses mots, qui semblaient lui échapper malgré lui.</p>
         <p>Sœur Marie-Aimée le reconduisit jusqu'à la porte de la grande cour. Les autres fois, elle n'accompagnait les visiteurs que jusqu'à la porte de la salle.</p>
         <p>Elle reprit sa place sur son estrade et au bout d'un moment, elle dit, sans regarder personne :</p>
-        <p>-- C'est un homme vraiment très distingué.</p>
+        <p>– C'est un homme vraiment très distingué.</p>
         <p>Notre nouveau curé habitait dans une petite maisonnette, tout près de la chapelle. Le soir, il se promenait dans les allées plantées de tilleuls. Il passait très près du carré de pelouse où nous jouions, et il saluait, en se courbant très bas, sœur Marie-Aimée.</p>
         <p>Tous les jeudis après-midi, il venait nous rendre visite : il s'asseyait en s'appuyant au dossier de sa chaise, et, après avoir croisé les jambes l'une sur l'autre, il nous racontait des histoires. Il était très gai, et sœur Marie-Aimée disait qu'il riait de bon cœur.</p>
         <p>Il arrivait parfois que sœur Marie-Aimée était souffrante ; alors, il montait lui faire visite dans sa chambre.</p>
@@ -303,13 +318,13 @@
         <p>Enfin, le grand jour arriva.</p>
         <p>Ma confession générale n'avait pas été trop pénible : cela m'avait donné à peu près la même impression qu'un bon bain. Je me sentais très propre.</p>
         <p>Cependant, je tremblais si fort en recevant l'hostie, que mes dents en gardèrent une partie. J'eus un éblouissement, et il me sembla qu'un rideau noir descendait devant moi. Je crus reconnaître la voix de sœur Marie-Aimée, qui demandait :</p>
-        <p>-- Es-tu malade ?</p>
+        <p>– Es-tu malade ?</p>
         <p>J'eus conscience qu'elle m'accompagnait jusqu'à mon prie-Dieu, qu'elle me mettait mon cierge dans la main, en disant :</p>
-        <p>-- Tiens-le bien.</p>
+        <p>– Tiens-le bien.</p>
         <p>J'avais la gorge si serrée qu'il m'était impossible d'avaler, et je sentis qu'un liquide me coulait de la bouche.</p>
         <p>Alors, une peur folle monta en moi, car Madeleine nous avait bien averties, que s'il nous arrivait de mordre l'hostie, le sang de Jésus coulerait de notre bouche sans que rien pût l'arrêter.</p>
         <p>Sœur Marie-Aimée m'essuyait le visage, et disait tout bas :</p>
-        <p>-- Fais donc attention, voyons ; es-tu malade ?</p>
+        <p>– Fais donc attention, voyons ; es-tu malade ?</p>
         <p>Ma gorge se desserra, et j'avalai brusquement l'hostie avec un flot de salive.</p>
         <p>J'osai alors regarder le sang qui était sur ma robe, mais je ne vis qu'une petite tache pareille à celle qu'aurait pu faire une goutte d'eau.</p>
         <p>Je portai mon mouchoir à mes lèvres et j'essuyai ma langue : il n'y avait pas non plus de sang sur mon mouchoir.</p>
@@ -317,7 +332,7 @@
         <p>Quand M. le curé vint nous voir dans la journée, sœur Marie-Aimée lui dit que j'avais failli m'évanouir pendant la communion. Il me releva la tête, et après m'avoir bien regardée dans les yeux, il se mit à rire, et dit que j'étais une petite fille très sensible.</p>
         <p>Aussitôt que nous avions fait notre première communion, nous n'allions plus en classe. Bonne Justine nous apprenait à faire de la lingerie. Nous faisions des coiffes pour les paysannes. Ce n'était pas très difficile, et comme c'était quelque chose de nouveau, je travaillais avec ardeur.</p>
         <p>Bonne Justine déclara que je ferais une très bonne lingère. Sœur Marie-Aimée dit en m'embrassant :</p>
-        <p>-- Si seulement tu pouvais vaincre ta paresse !</p>
+        <p>– Si seulement tu pouvais vaincre ta paresse !</p>
         <p>Mais quand j'eus fait plusieurs coiffes, et qu'il me fallut toujours recommencer, ma paresse reprit vite le dessus. Je m'ennuyais, et je ne pouvais me décider à travailler.</p>
         <p>Je serais restée des heures et des heures sans bouger, à regarder travailler les autres.</p>
         <p>Marie Renaud cousait en silence ; elle faisait des points si petits et si serrés, qu'il fallait avoir de bons yeux pour les voir.</p>
@@ -341,30 +356,30 @@
         <p>Je pensai qu'elle n'avait pas d'amie. Une grande pitié s'ajouta au sentiment qui m'attirait vers elle, et un jour que les grandes la délaissaient, je lui offris mon bras pour faire le tour de la pelouse.</p>
         <p>J'étais debout, devant elle, un peu intimidée. Je sentais qu'elle ne refuserait pas.</p>
         <p>Elle me fixa, puis elle dit :</p>
-        <p>-- Tu sais que c'est défendu ?</p>
+        <p>– Tu sais que c'est défendu ?</p>
         <p>Je fis signe que oui.</p>
         <p>Elle eut un mouvement de la tête pour me fixer davantage.</p>
-        <p>-- Et tu n'as pas peur d'être punie ?</p>
+        <p>– Et tu n'as pas peur d'être punie ?</p>
         <p>Je fis signe que non.</p>
         <p>J'avais une grande envie de pleurer qui me serrait la gorge. Je l'aidai à se lever. Elle s'appuyait d'une main sur une canne, et malgré cela, elle pesait sur moi de tout son poids.</p>
         <p>Je compris combien la marche lui était pénible ; elle ne me dit pas un mot pendant la promenade, et, quand je l'eus ramenée à son banc, elle dit en me regardant :</p>
-        <p>-- Merci, Marie-Claire.</p>
+        <p>– Merci, Marie-Claire.</p>
         <p>En me voyant avec Colette, Bonne Justine avait levé les bras au ciel, et fait le signe de la croix.</p>
         <p>À l'autre bout de la pelouse, Madeleine braillait en me montrant le poing.</p>
         <p>Le soir, je vis bien que sœur Marie-Aimée savait ce que j'avais fait, mais elle ne m'en fit aucun reproche.</p>
         <p>Pendant la récréation suivante, elle m'attira sur son petit banc, elle prit ma tête dans ses deux mains, et se pencha sur moi. Elle ne me disait rien, mais ses yeux plongeaient dans tout mon visage : il me semblait que j'étais enveloppée dans ses yeux. J'en ressentais comme une chaleur, et j'y étais à mon aise. Elle m'embrassa longuement au front, puis elle me sourit et dit :</p>
-        <p>-- Va, tu es mon beau lis blanc.</p>
+        <p>– Va, tu es mon beau lis blanc.</p>
         <p>Je la trouvai si belle avec ses yeux qui avaient des rayons de plusieurs couleurs que je lui dis :</p>
-        <p>-- Vous aussi, ma Mère, vous êtes une belle fleur.</p>
+        <p>– Vous aussi, ma Mère, vous êtes une belle fleur.</p>
         <p>Elle prit un ton dégagé pour me dire :</p>
-        <p>-- Oui, mais je ne compte plus dans les lis.</p>
+        <p>– Oui, mais je ne compte plus dans les lis.</p>
         <p>Puis elle me demanda brusquement :</p>
-        <p>-- Tu n'aimes donc plus Ismérie ?</p>
-        <p>-- Si, ma Mère.</p>
-        <p>-- Ah ! eh bien, et Colette ?</p>
-        <p>-- Je l'aime bien aussi.</p>
+        <p>– Tu n'aimes donc plus Ismérie ?</p>
+        <p>– Si, ma Mère.</p>
+        <p>– Ah ! eh bien, et Colette ?</p>
+        <p>– Je l'aime bien aussi.</p>
         <p>Elle me repoussa :</p>
-        <p>-- Oh ! toi, tu aimes tout le monde !</p>
+        <p>– Oh ! toi, tu aimes tout le monde !</p>
         <p>Presque chaque jour, j'offrais mon bras à Colette.</p>
         <p>Elle me parlait seulement pour faire quelques remarques sur l'une ou l'autre.</p>
         <p>Quand je m'asseyais près d'elle, elle me regardait curieusement : elle trouvait que j'avais une drôle de figure.</p>
@@ -374,11 +389,11 @@
         <p>Petit à petit, je devenais son amie.</p>
         <p>Elle me confia qu'elle espérait s'en aller pour se marier, comme la grande Nina, qui venait nous voir le dimanche, avec son enfant.</p>
         <p>Elle me tapait sur le bras en me disant :</p>
-        <p>-- Vois-tu, moi, il faut que je me marie.</p>
+        <p>– Vois-tu, moi, il faut que je me marie.</p>
         <p>Elle s'étirait longuement, en tendant tout son corps en avant.</p>
         <p>Il y avait des jours où elle pleurait avec un chagrin si profond que je ne trouvais rien à lui dire.</p>
         <p>Elle regardait ses jambes toutes tortillées, et c'était comme un gémissement quand elle disait :</p>
-        <p>-- Il faudrait un miracle pour que je puisse sortir d'ici.</p>
+        <p>– Il faudrait un miracle pour que je puisse sortir d'ici.</p>
         <p>Il me vint tout d'un coup l'idée que la Vierge pourrait faire le miracle.</p>
         <p>Colette trouva la chose toute simple.</p>
         <p>Elle était tout étonnée de n'y avoir pas encore songé : il était si juste qu'elle eût des jambes comme les autres !</p>
@@ -387,36 +402,28 @@
         <p>Il fallait que cela fût dans le plus grand secret.</p>
         <p>Il fut convenu que ma camarade Sophie serait des nôtres, à cause de sa grande piété. Colette se chargeait d'en parler à quelques grandes qui avaient bon cœur.</p>
         <p>Deux jours après, tout fut réglé.</p>
-        <p>
-          Colette devait jeûner et faire pénitence pendant les neuf jours. Le dixième, qui serait un dimanche, elle irait communier comme d'habitude, en se servant de sa canne, et du bras de l'une de nous ; puis, l'hostie dans son cœur, elle ferait le vœu d'élever ses enfants dans l'amour de la Vierge ; après cela, elle se lèverait toute droite et entonnerait de sa voix magnifique le
-          <hi rend="italic">Te Deum</hi>
-          , que nous reprendrions en chœur.
-        </p>
+        <p> Colette devait jeûner et faire pénitence pendant les neuf jours. Le dixième, qui serait un dimanche, elle irait communier comme d'habitude, en se servant de sa canne, et du bras de l'une de nous ; puis, l'hostie dans son cœur, elle ferait le vœu d'élever ses enfants dans l'amour de la Vierge ; après cela, elle se lèverait toute droite et entonnerait de sa voix magnifique le <title>Te Deum</title>, que nous reprendrions en chœur. </p>
         <p>Pendant les neuf jours, je priai avec une ferveur que je n'avais jamais connue. Les prières ordinaires me semblaient fades. Je récitais les litanies de la Vierge ; je cherchais les plus belles louanges, et les répétais sans me lasser !</p>
-        <p>-- Étoile du matin, guérissez Colette.</p>
+        <p>– Étoile du matin, guérissez Colette.</p>
         <p>La première fois, je restai si longtemps à genoux que sœur Marie-Aimée vint me gronder.</p>
         <p>Personne ne remarqua les petits signes que nous échangions, et la neuvaine se termina dans le plus grand secret.</p>
         <p>Colette était bien pâle, quand elle vint à la messe : ses joues étaient encore plus minces ; elle se tenait les yeux baissés, et ses paupières étaient toutes violettes.</p>
         <p>Je pensai que c'était la fin de son martyre, et une joie profonde me soulevait.</p>
         <p>Tout près de moi, une Vierge vêtue d'une grande robe blanche souriait en me regardant, et dans un élan de toute ma foi, ma pensée lui cria :</p>
-        <p>-- Miroir de Justice, guérissez Colette !</p>
+        <p>– Miroir de Justice, guérissez Colette !</p>
         <p>Et, les tempes serrées par la volonté de ne pas distraire ma pensée, je répétais :</p>
-        <p>-- Miroir de Justice, guérissez Colette !</p>
+        <p>– Miroir de Justice, guérissez Colette !</p>
         <p>Maintenant, Colette s'en allait communier. Sa canne faisait un petit bruit sec sur les dalles.</p>
         <p>Quand elle se fut agenouillée, celle qui l'avait accompagnée revint avec la canne, tant elle était sûre qu'elle serait inutile.</p>
         <p>Ce fut lamentable.</p>
         <p>Colette essaya de se mettre debout, et retomba sur les genoux. Sa main tâtonna pour prendre sa canne, et, ne la trouvant pas, elle fit un nouveau mouvement pour se lever.</p>
         <p>Elle se cramponna à la Sainte Table, et s'accrocha au bras d'une sœur qui communiait près d'elle ; puis, ses épaules balancèrent, et elle s'écroula en entraînant la sœur.</p>
         <p>Deux des nôtres se précipitèrent, et traînèrent la pauvre Colette jusqu'à son banc.</p>
-        <p>
-          Pourtant, j'espérais encore, et, jusqu'à la fin de la messe, j'attendis le
-          <hi rend="italic">Te Deum</hi>
-          .
-        </p>
+        <p> Pourtant, j'espérais encore, et, jusqu'à la fin de la messe, j'attendis le <title>Te Deum</title>.</p>
         <p>Aussitôt que cela me fut possible, je rejoignis Colette.</p>
         <p>Elle était entourée des grandes, qui essayaient de la consoler en lui conseillant de se donner à Dieu pour toujours. Elle pleurait doucement, sans secousses, la tête un peu penchée, et ses larmes tombaient sur ses mains, qu'elle tenait croisées l'une sur l'autre.</p>
         <p>Je m'agenouillai devant elle, et, quand elle me regarda, je lui dis :</p>
-        <p>-- Peut-être qu'on peut se marier malgré qu'on est infirme.</p>
+        <p>– Peut-être qu'on peut se marier malgré qu'on est infirme.</p>
         <p>L'histoire de Colette fut bientôt connue de toute la maison ; il y eut une tristesse générale qui empêcha les jeux d'être bruyants. Ismérie croyait m'apprendre une grande nouvelle en me racontant la chose.</p>
         <p>Ma camarade Sophie me dit qu'il fallait se soumettre aux volontés de la Vierge, parce qu'elle savait mieux que nous ce qui convenait au bonheur de Colette.</p>
         <p>J'aurais bien voulu savoir si sœur Marie-Aimée avait été avertie. Je ne la vis que dans l'après-midi, à l'heure de la promenade. Elle n'avait pas l'air triste ; on aurait plutôt dit qu'elle était contente ; jamais elle ne m'avait paru aussi jolie. Tout son visage resplendissait.</p>
@@ -426,19 +433,19 @@
         <p>Ils avaient l'air grave.</p>
         <p>Je croyais qu'ils parlaient de Colette, et je m'arrêtai à quelques pas d'eux.</p>
         <p>Sœur Marie-Aimée disait, comme si elle répondait à une question :</p>
-        <p>-- Oui, à quinze ans.</p>
+        <p>– Oui, à quinze ans.</p>
         <p>Monsieur le curé dit :</p>
-        <p>-- À quinze ans, on n'a pas la vocation.</p>
+        <p>– À quinze ans, on n'a pas la vocation.</p>
         <p>Je n'entendis pas ce que répondit sœur Marie-Aimée, mais M. le curé reprit :</p>
-        <p>-- À quinze ans, on a toutes les vocations : il suffit d'un geste affectueux ou indifférent, pour vous éloigner ou vous encourager dans une voie.</p>
+        <p>– À quinze ans, on a toutes les vocations : il suffit d'un geste affectueux ou indifférent, pour vous éloigner ou vous encourager dans une voie.</p>
         <p>Il fit une pause, et dit plus bas :</p>
-        <p>-- Vos parents ont été bien coupables.</p>
+        <p>– Vos parents ont été bien coupables.</p>
         <p>Sœur Marie-Aimée répondit :</p>
-        <p>-- Je ne regrette rien.</p>
+        <p>– Je ne regrette rien.</p>
         <p>Ils restèrent longtemps sans parler ; puis sœur Marie-Aimée leva le doigt comme pour une recommandation et dit :</p>
-        <p>-- En tout lieu, malgré tout, et toujours.</p>
+        <p>– En tout lieu, malgré tout, et toujours.</p>
         <p>Monsieur le curé étendit un peu la main en riant, et il dit aussi :</p>
-        <p>-- En tout lieu, malgré tout, et toujours.</p>
+        <p>– En tout lieu, malgré tout, et toujours.</p>
         <p>La cloche du coucher sonna tout à coup, et M. le curé disparut dans les allées de tilleuls.</p>
         <p>Pendant longtemps, je me répétai les mots que j'avais entendus ; mais jamais je ne pus les associer à l'histoire de Colette.</p>
         <p>Colette ne comptait plus sur un miracle pour s'en aller ; et pourtant, elle ne pouvait se résigner à rester dans cette maison.</p>
@@ -447,7 +454,7 @@
         <p>Elle m'expliquait que le mariage, c'était l'amour.</p>
         <p>Sœur Marie-Aimée, qui était souffrante depuis quelque temps, tomba tout à fait malade.</p>
         <p>Madeleine la soignait avec dévouement et nous dirigeait à tort et à travers. Elle s'acharnait particulièrement sur moi ; et quand elle me voyait lasse de coudre, elle disait en essayant de prendre un air hautain :</p>
-        <p>-- Puisque Mademoiselle n'aime pas la couture, elle n'a qu'à prendre le balai.</p>
+        <p>– Puisque Mademoiselle n'aime pas la couture, elle n'a qu'à prendre le balai.</p>
         <p>Elle s'avisa un dimanche de me faire nettoyer les escaliers, pendant l'heure de la messe. Nous étions en janvier ; un froid humide, venant des couloirs, montait les marches et pénétrait sous ma robe.</p>
         <p>Je balayais de toutes mes forces, pour me réchauffer.</p>
         <p>Les sons de l'harmonium venaient de la chapelle jusqu'à moi ; par instants je reconnaissais les notes aigres et perçantes de Madeleine, et les éclats saccadés de M. le curé.</p>
@@ -456,7 +463,7 @@
         <p>Ce jour-là, sœur Marie-Aimée me fit appeler près d'elle. Il y avait bien deux mois qu'elle n'était pas sortie de sa chambre. Elle commençait d'aller mieux, mais je remarquai que ses yeux ne brillaient plus du tout. Ils me faisaient penser à un arc-en-ciel presque fondu.</p>
         <p>Elle me fit raconter les petites histoires drôles qui s'étaient passées ; elle voulait sourire en m'écoutant, mais sa bouche ne se relevait que d'un seul côté. Elle me demanda aussi si je l'avais entendue crier.</p>
         <p>Oh ! oui, je l'avais entendue ; c'était pendant sa maladie. Elle avait poussé des cris si épouvantables au milieu de la nuit, que tout le dortoir en avait été réveillé. Madeleine allait et venait. On l'entendait remuer de l'eau ; et comme je lui demandais ce qu'avait sœur Marie-Aimée, elle m'avait répondu tout en courant :</p>
-        <p>-- Des douleurs.</p>
+        <p>– Des douleurs.</p>
         <p>J'avais aussitôt pensé que Bonne Justine avait aussi des douleurs ; mais jamais elle n'avait crié comme cela, et j'imaginais les jambes de sœur Marie-Aimée trois fois plus enflées que celles de Bonne Justine.</p>
         <p>Les cris étaient devenus de plus en plus forts. Il y en avait eu un si terrible, qu'il semblait lui sortir des entrailles. Ensuite on avait entendu quelques plaintes. Puis, plus rien.</p>
         <p>Au bout d'un moment, Madeleine était venue parler à Marie Renaud. Aussitôt Marie Renaud avait mis sa robe, et je l'avais entendue descendre.</p>
@@ -464,7 +471,7 @@
         <p>Il n'était pas resté longtemps ; mais il s'en était retourné bien moins vite qu'il n'était venu. Il marchait en baissant la tête, et sa main droite ramenait un pan de son manteau sur son bras gauche, comme s'il voulait préserver une chose précieuse.</p>
         <p>Je pensai qu'il remportait les Saintes Huiles, et je n'osai pas lui demander si sœur Marie-Aimée était morte.</p>
         <p>Je n'avais pas oublié non plus le coup de poing que j'avais reçu de Madeleine, lorsque je m'étais accrochée à sa jupe. Elle m'avait renversée, en disant très bas et très vite :</p>
-        <p>-- Elle va mieux.</p>
+        <p>– Elle va mieux.</p>
         <p>Le jour où sœur Marie-Aimée fut guérie, Madeleine perdit son arrogance, et tout rentra dans l'ordre.</p>
         <p>J'avais toujours la même répugnance pour la couture, et sœur Marie-Aimée commençait à s'en inquiéter.</p>
         <p>Elle en parla devant moi à la sœur de M. le curé. C'était une vieille demoiselle qui avait une longue figure, et de grands yeux fanés. Elle s'appelait Mlle Maximilienne.</p>
@@ -479,52 +486,52 @@
         <p>En entrant chez elle, je vis qu'elle était assise dans un grand fauteuil rouge. Des histoires de revenants que j'avais entendu raconter sur elle me revinrent à la mémoire ; et à la voir, toute noire au milieu de tout ce rouge, je la comparai à un monstrueux pavot qui aurait poussé dans un souterrain.</p>
         <p>Elle abaissa et releva plusieurs fois les paupières. Elle avait un sourire qui ressemblait à une insulte. Je sentis que je rougissais très fort et malgré cela je ne détournai pas les yeux.</p>
         <p>Elle eut un petit ricanement, et dit :</p>
-        <p>-- Vous savez pourquoi je vous ai fait appeler ?</p>
+        <p>– Vous savez pourquoi je vous ai fait appeler ?</p>
         <p>Je répondis que je pensais que c'était pour me parler de Mlle Maximilienne.</p>
         <p>Elle ricana encore.</p>
-        <p>-- Ah oui, Mlle Maximilienne ; eh bien ! détrompez-vous. Nous avons décidé de vous placer dans une ferme de la Sologne.</p>
+        <p>– Ah oui, Mlle Maximilienne ; eh bien ! détrompez-vous. Nous avons décidé de vous placer dans une ferme de la Sologne.</p>
         <p>Elle ferma ses yeux à demi pour me dire :</p>
-        <p>-- Vous serez bergère, mademoiselle !</p>
+        <p>– Vous serez bergère, mademoiselle !</p>
         <p>Elle ajouta, en appuyant sur les mots :</p>
-        <p>-- Vous garderez les moutons.</p>
+        <p>– Vous garderez les moutons.</p>
         <p>Je dis simplement :</p>
-        <p>-- Bien, ma Mère.</p>
+        <p>– Bien, ma Mère.</p>
         <p>Elle remonta des profondeurs de son fauteuil, et demanda :</p>
-        <p>-- Vous savez ce que c'est que garder les moutons ?</p>
+        <p>– Vous savez ce que c'est que garder les moutons ?</p>
         <p>Je répondis que j'avais vu des bergères dans les champs.</p>
         <p>Elle avança vers moi sa figure jaune, et reprit :</p>
-        <p>-- Il vous faudra nettoyer les étables. Cela sent très mauvais ; et les bergères sont des filles malpropres. Puis, vous aiderez aux travaux de la ferme, on vous apprendra à traire les vaches, et à soigner les porcs.</p>
+        <p>– Il vous faudra nettoyer les étables. Cela sent très mauvais ; et les bergères sont des filles malpropres. Puis, vous aiderez aux travaux de la ferme, on vous apprendra à traire les vaches, et à soigner les porcs.</p>
         <p>Elle parlait très fort, comme si elle craignait de n'être pas comprise.</p>
         <p>Je répondis comme tout à l'heure :</p>
-        <p>-- Bien, ma Mère.</p>
+        <p>– Bien, ma Mère.</p>
         <p>Elle se haussa sur les bras de son fauteuil ; et, en me fixant de ses yeux luisants, elle dit encore :</p>
-        <p>-- Vous n'êtes donc pas fière ?</p>
+        <p>– Vous n'êtes donc pas fière ?</p>
         <p>Je souris d'un air indifférent.</p>
-        <p>-- Non, ma Mère.</p>
+        <p>– Non, ma Mère.</p>
         <p>Elle parut profondément étonnée ; mais, comme je continuais de sourire avec indifférence, sa voix devint moins dure pour me dire :</p>
-        <p>-- Vraiment, mon enfant ? J'avais toujours cru que vous étiez orgueilleuse.</p>
+        <p>– Vraiment, mon enfant ? J'avais toujours cru que vous étiez orgueilleuse.</p>
         <p>Elle se renfonça dans son fauteuil, cacha ses yeux sous ses paupières, et se mit à parler d'une voix monotone, comme quand elle récitait les prières. Elle disait : qu'on devait obéir à ses maîtres, ne jamais manquer à ses devoirs de religion, et que la fermière viendrait me chercher la veille du jour de la Saint-Jean.</p>
         <p>Je sortis de chez elle avec des sentiments que je n'aurais pu exprimer. Mais ce qui dominait en moi, c'était la crainte de faire de la peine à sœur Marie-Aimée. Comment lui dire cela ?</p>
         <p>Je n'eus guère le temps de la réflexion. Elle m'attendait à l'entrée de notre couloir ; elle me saisit aux épaules, et en baissant son visage vers le mien, elle dit :</p>
-        <p>-- Eh bien ?</p>
+        <p>– Eh bien ?</p>
         <p>Elle avait un regard inquiet qui commandait la réponse. Je dis tout de suite :</p>
-        <p>-- Elle ne veut pas, et je serai bergère.</p>
+        <p>– Elle ne veut pas, et je serai bergère.</p>
         <p>Elle ne comprit pas. Elle fronça les sourcils.</p>
-        <p>-- Comment cela, bergère ?</p>
+        <p>– Comment cela, bergère ?</p>
         <p>Je repris très vite :</p>
-        <p>-- Elle m'a trouvé une place dans une ferme, et puis je trairai les vaches et je soignerai les porcs.</p>
+        <p>– Elle m'a trouvé une place dans une ferme, et puis je trairai les vaches et je soignerai les porcs.</p>
         <p>Sœur Marie-Aimée me repoussa si violemment que je me cognai au mur.</p>
         <p>Elle s'élança vers la porte ; je crus qu'elle courait chez la supérieure, mais elle ne fit que quelques pas dehors ; elle rentra, et se mit à marcher à grands pas dans le couloir. Elle serrait les poings et frappait du pied ; elle tournait sur elle-même et respirait fortement. Puis elle s'adossa contre le mur, laissa tomber ses bras comme si elle était accablée, et, d'une voix qui semblait venir de loin, elle dit :</p>
-        <p>-- Elle se venge, ah oui, elle se venge !</p>
+        <p>– Elle se venge, ah oui, elle se venge !</p>
         <p>Elle revint vers moi, me prit affectueusement les mains et demanda :</p>
-        <p>-- Tu ne lui as donc pas dit que tu ne voulais pas ? Tu ne l'as donc pas suppliée de te laisser aller chez Mlle Maximilienne ?</p>
+        <p>– Tu ne lui as donc pas dit que tu ne voulais pas ? Tu ne l'as donc pas suppliée de te laisser aller chez Mlle Maximilienne ?</p>
         <p>Je secouai la tête pour dire non ; et je répétai tout à la file et avec les mêmes mots tout ce que m'avait dit la supérieure.</p>
         <p>Elle m'écouta sans m'interrompre. Puis elle me recommanda le silence auprès de mes compagnes. Elle pensait que cela s'arrangerait aussitôt que M. le curé serait de retour.</p>
         <p>Le dimanche suivant, comme nous prenions nos rangs pour la messe, Madeleine entra comme une folle dans la salle ; elle leva les bras en criant :</p>
-        <p>-- Monsieur le curé est mort.</p>
+        <p>– Monsieur le curé est mort.</p>
         <p>Et elle s'abattit en travers de la table qui était auprès d'elle.</p>
         <p>Tous les bruits s'arrêtèrent, on courut à Madeleine qui poussait des cris aigus. On voulait tout savoir. Mais elle se berçait sur la table en disant d'une voix désolée :</p>
-        <p>-- Il est mort, il est mort.</p>
+        <p>– Il est mort, il est mort.</p>
         <p>Je ne pensais à rien ; je ne savais pas si j'avais de la peine, et, pendant tout le temps de la messe, la voix de Madeleine sonna comme une cloche à mes oreilles.</p>
         <p>Il ne fut pas question de promenade ce jour-là ; les plus petites même restèrent silencieuses. Je me mis à la recherche de sœur Marie-Aimée. Elle n'avait pas assisté aux offices, et je savais par Marie Renaud qu'elle n'était pas malade.</p>
         <p>Je la trouvai dans le réfectoire. Elle était assise sur son estrade, sa tête était appuyée de côté sur la table, et ses bras pendaient le long de sa chaise.</p>
@@ -535,7 +542,7 @@
         <p>Le lendemain, sœur Marie-Aimée s'occupa de nous comme d'habitude. Elle ne pleurait plus, mais elle ne souffrait pas qu'on lui parlât ; elle marchait en regardant la terre et paraissait m'avoir oubliée.</p>
         <p>Cependant, je n'avais plus qu'un jour à rester ici. D'après ce que m'avait dit la supérieure, la fermière viendrait me chercher demain, puisque c'était après-demain le jour de la Saint-Jean.</p>
         <p>Le soir, à la fin de la prière, lorsque sœur Marie-Aimée eut dit : « Seigneur, prenez en pitié les exilés, et secourez les prisonniers », elle ajouta à voix très haute :</p>
-        <p>-- Nous allons dire une prière pour une de vos compagnes qui s'en va dans le monde.</p>
+        <p>– Nous allons dire une prière pour une de vos compagnes qui s'en va dans le monde.</p>
         <p>Je compris tout de suite qu'il s'agissait de moi, et je me trouvai aussi à plaindre que les exilés et les prisonniers.</p>
         <p>Il me fut impossible de m'endormir ce soir-là. Je savais que je partirais demain ; mais je ne savais pas ce que c'était que la Sologne. J'imaginais un pays très éloigné où il n'y avait que des plaines toutes fleuries. Je me voyais la gardienne d'un troupeau de beaux moutons blancs, et j'avais deux chiens à mes côtés qui n'attendaient qu'un signe pour faire ranger les bêtes. Je n'aurais pas osé le dire à sœur Marie-Aimée, mais en ce moment, je préférais être bergère plutôt que demoiselle de magasin.</p>
         <p>Ismérie, qui ronflait très fort à côté de moi, ramena ma pensée vers mes compagnes.</p>
@@ -550,33 +557,30 @@
         <p>C'était elle qui faisait les pansements.</p>
         <p>Quand on venait la trouver pour un bobo au doigt, elle nous recevait avec des mots drôles ; et, selon qu'on était gourmande ou coquette, elle promettait un gâteau ou un ruban qu'elle désignait d'un vague signe de tête ; et, pendant que le regard cherchait le gâteau ou le ruban, le bobo se trouvait percé, lavé, et pansé.</p>
         <p>Je me souvenais d'une engelure que j'avais eue au pied, et qui ne voulait pas se guérir. Un matin, sœur Agathe m'avait dit d'un air grave :</p>
-        <p>-- Écoute, je vais t'y mettre quelque chose de divin, et si ton pied n'est pas guéri dans trois jours, on sera obligé de te le couper.</p>
+        <p>– Écoute, je vais t'y mettre quelque chose de divin, et si ton pied n'est pas guéri dans trois jours, on sera obligé de te le couper.</p>
         <p>Et pendant trois jours, j'avais évité de marcher pour ne pas déranger cette chose divine qui était sur mon pied. Je pensais à un bout de la vraie croix ou à un morceau du voile de la Vierge.</p>
         <p>Le troisième jour, mon pied était complètement guéri, et quand je demandai le nom de ce remède merveilleux, sœur Agathe me répondit avec un rire malicieux :</p>
-        <p>-- Bête, c'était de l'onguent Arthur Divain.</p>
+        <p>– Bête, c'était de l'onguent Arthur Divain.</p>
         <p>La nuit était très avancée quand je m'endormis, et dès le matin j'attendis la fermière. J'aurais voulu qu'elle vînt, et j'avais peur de la voir venir.</p>
         <p>Sœur Marie-Aimée relevait brusquement la tête chaque fois que quelqu'un ouvrait la porte.</p>
         <p>Comme nous finissions de dîner, la portière vint demander si j'étais prête à partir.</p>
         <p>Sœur Marie-Aimée la renvoya en disant que je serais prête dans un instant.</p>
         <p>Elle se leva en me faisant signe de la suivre. Elle m'aida à m'habiller, me remit un petit paquet de linge, et dit tout à coup :</p>
-        <p>-- C'est demain qu'on le ramène, et tu ne seras plus là.</p>
+        <p>– C'est demain qu'on le ramène, et tu ne seras plus là.</p>
         <p>Elle reprit en me regardant dans les yeux :</p>
-        <p>
-          -- Jure-moi que tu diras tous les soirs un
-          <hi rend="italic">De Profundis</hi>
-          pour lui.
-        </p>
+        <p>-- Jure-moi que tu diras tous les soirs un <title>De Profundis</title> pour lui. </p>
         <p>Je jurai.</p>
         <p>Alors, elle me serra avec violence sur sa poitrine, et elle se sauva vers sa chambre.</p>
         <p>Puis j'entendis qu'elle disait :</p>
-        <p>-- Oh ! c'est trop, mon Dieu, c'est trop !</p>
+        <p>– Oh ! c'est trop, mon Dieu, c'est trop !</p>
         <p>Je traversai la cour toute seule, et la fermière, qui m'attendait, m'emmena aussitôt.</p>
       </div>
       <div type="chapter">
+
         <head>DEUXIÈME PARTIE</head>
         <p>Je me trouvai bientôt installée au milieu de paniers vides dans une voiture couverte d'une bâche, et quand le cheval s'arrêta de lui-même dans la cour de la ferme, il y avait déjà longtemps qu'il faisait nuit.</p>
         <p>Le fermier sortit de la maison avec une lanterne qu'il balançait au bout de son bras et qui n'éclairait que ses sabots ; il s'approcha de nous et m'aida à descendre de la voiture, puis il haussa sa lanterne jusqu'à ma figure et il dit en se reculant :</p>
-        <p>-- Quelle drôle de petite servante !</p>
+        <p>– Quelle drôle de petite servante !</p>
         <p>La fermière me conduisit dans une chambre où il y avait deux lits. Elle me montra le mien et me dit que le lendemain je resterais seule avec le vacher, parce que tout le monde irait à la fête de la Saint-Jean.</p>
         <p>Dès que je fus levée, le lendemain, le vacher m'emmena dans les étables, pour l'aider à donner le fourrage aux bêtes ; il me montra la bergerie et m'apprit que je serais bergère d'agneaux à la place de la vieille Bibiche. Il m'expliqua que chaque année on séparait les agneaux d'avec leur mère et qu'il fallait une deuxième bergère pour les garder. Il m'apprit aussi que la ferme s'appelait Villevieille, et que personne n'était malheureux ici parce que maître Sylvain et Pauline sa femme étaient de braves gens.</p>
         <p>Quand toutes les bêtes furent soignées, le vacher me fit asseoir près de lui dans l'allée des Châtaigniers. De là on voyait le tournant du chemin qui montait vers la route et tout l'intérieur de la ferme. Les bâtiments formaient un carré, et l'énorme fumier qui était au milieu dégageait une odeur chaude qui dominait l'odeur des foins à moitié séchés.</p>
@@ -610,9 +614,9 @@
         <p>J'arrivai bientôt à une grande clairière. La lune l'éclairait de tout son plein, et le vent qui faisait rage soulevait et rejetait les paquets de feuilles qui roulaient et tournaient dans tous les sens.</p>
         <p>Je voulais m'arrêter pour respirer un peu ; mais les grands arbres se balançaient avec un bruit assourdissant. Leurs ombres qui ressemblaient à des bêtes noires s'allongeaient brusquement sur la route, puis elles s'éloignaient en glissant pour se cacher derrière les arbres. Quelques-unes de ces ombres avaient des formes que je reconnaissais. Mais la plupart se balançaient et sautaient devant moi comme si elles voulaient m'empêcher de passer. Il y en avait de si effrayantes que je prenais mon élan pour sauter par-dessus, tant j'avais peur de les sentir sous mes pieds.</p>
         <p>Le vent s'apaisa, et la pluie se mit à tomber à larges gouttes. La clairière finissait, et en passant devant un chemin qui entrait sous bois, il me sembla voir un mur blanc tout au bout ; je m'avançai un peu et je reconnus que c'était une petite maison étroite et haute. Sans plus réfléchir, je cognai à la porte ; je voulais demander que l'on me garde en attendant que la pluie ait cessé. Je cognai une seconde fois, et aussitôt j'entendis remuer dans la maison. Je croyais qu'on allait m'ouvrir la porte, mais ce fut la fenêtre du premier étage qui s'ouvrit. Un homme qui avait un bonnet de coton demanda :</p>
-        <p>-- Qui est là ?</p>
+        <p>– Qui est là ?</p>
         <p>Je répondis :</p>
-        <p>-- Une petite fille.</p>
+        <p>– Une petite fille.</p>
         <p>L'homme reprit d'une voix étonnée : « Une petite fille ! » puis il me demanda d'où je venais, où j'allais, et ce que je voulais.</p>
         <p>Je n'avais pas prévu toutes ces questions, et je nommai la ferme que je venais de quitter ; mais je mentis en disant que j'allais retrouver ma mère qui était malade, et je le priai de vouloir bien me faire entrer dans sa maison pendant la pluie.</p>
         <p>Il me dit d'attendre et je l'entendis causer avec une autre personne ; puis il revint à la fenêtre pour me demander si j'étais seule. Il voulut aussi savoir mon âge, et quand je dis que j'avais treize ans, il trouva que je n'étais pas peureuse d'avoir traversé le bois pendant la nuit.</p>
@@ -623,29 +627,29 @@
         <p>Lorsqu'il fit tout à fait jour, je vis que je n'étais plus éloignée de la ville. Je reconnaissais même les endroits où sœur Marie-Aimée nous conduisait dans nos promenades. Je ne marchais plus que lentement, en traînant les pieds qui me faisaient beaucoup souffrir. J'étais si lasse que je fus obligée de me faire violence pour ne pas m'asseoir sur les tas de cailloux de la route.</p>
         <p>Le bruit d'une voiture allant à fond de train me fit retourner la tête : aussitôt je restai immobile et le cœur battant ; j'avais reconnu la jument rouge et la barbe noire du fermier. Il arrêta sa bête tout contre moi, et en se penchant un peu, il me saisit d'une seule main par la ceinture de ma robe. Il me déposa à côté de lui sur le siège, et après avoir tourné bride la voiture repartit à grand train.</p>
         <p>En rentrant dans la forêt, maître Sylvain mit la jument au pas. Il se retourna vers moi et dit en me regardant :</p>
-        <p>-- C'est heureux pour toi que je t'aie rattrapée ; sans cela on t'aurait ramenée entre deux gendarmes.</p>
+        <p>– C'est heureux pour toi que je t'aie rattrapée ; sans cela on t'aurait ramenée entre deux gendarmes.</p>
         <p>Comme je ne répondais pas, il reprit :</p>
-        <p>-- Tu ne sais peut-être pas qu'il y a des gendarmes pour ramener les petites filles qui se sauvent ?</p>
+        <p>– Tu ne sais peut-être pas qu'il y a des gendarmes pour ramener les petites filles qui se sauvent ?</p>
         <p>Je répondis :</p>
-        <p>-- Je veux aller voir sœur Marie-Aimée.</p>
+        <p>– Je veux aller voir sœur Marie-Aimée.</p>
         <p>Il demanda :</p>
-        <p>-- Tu es donc malheureuse chez nous ?</p>
+        <p>– Tu es donc malheureuse chez nous ?</p>
         <p>Je répondis encore :</p>
-        <p>-- Je veux aller voir sœur Marie-Aimée.</p>
+        <p>– Je veux aller voir sœur Marie-Aimée.</p>
         <p>Il avait l'air de ne pas comprendre, et il continuait ses questions, en nommant chaque personne de la ferme pour savoir de qui j'avais à me plaindre. Et chaque fois je répondais la même chose.</p>
         <p>À la fin il perdit patience, et se redressa en disant :</p>
-        <p>-- Quelle entêtée !</p>
+        <p>– Quelle entêtée !</p>
         <p>Je levai les yeux sur lui pour dire que je me sauverais encore s'il ne voulait pas me conduire vers sœur Marie-Aimée. Je continuai de le regarder en attendant sa réponse, et je vis bien qu'il était embarrassé. Il resta un long moment à réfléchir ; puis, il me dit en mettant sa main sur mon genou :</p>
-        <p>-- Écoutez-moi, ma petite, et tâchez de comprendre ce que je vais vous dire.</p>
+        <p>– Écoutez-moi, ma petite, et tâchez de comprendre ce que je vais vous dire.</p>
         <p>Et quand il eut fini de parler, je sus qu'il avait pris l'engagement de me garder jusqu'à l'âge de dix-huit ans, sans jamais m'emmener à la ville. Je sus aussi que la supérieure avait tous les droits sur moi, et que, si je me sauvais encore, elle ne manquerait pas de me faire enfermer sous prétexte que je courais les bois toute seule pendant la nuit. Il termina en disant qu'il espérait que j'oublierais le couvent, et que je me prendrais d'affection pour lui et sa femme, qui ne voulaient que mon bien.</p>
         <p>J'étais très troublée, et je retenais une grosse envie de pleurer.</p>
-        <p>-- Allons, dit le fermier, en me tendant la main, soyons bons amis, voulez-vous ?</p>
+        <p>– Allons, dit le fermier, en me tendant la main, soyons bons amis, voulez-vous ?</p>
         <p>Je lui donnai ma main, et pendant qu'il la serrait un peu fort, je répondis :</p>
-        <p>-- Je veux bien.</p>
+        <p>– Je veux bien.</p>
         <p>Il fit claquer son fouet, et on eut bientôt dépassé la forêt.</p>
         <p>La pluie tombait toujours, fine comme un brouillard, et les labours paraissaient encore plus noirs.</p>
         <p>Dans une pièce de terre qui touchait à la route, un homme venait vers nous en faisant de grands gestes. Pendant un instant, je crus qu'il me menaçait, mais quand il fut près, je vis qu'il serrait quelque chose dans son bras gauche, pendant que le bras droit faisait le geste de faucher à la hauteur de sa tête. J'étais si intriguée que je regardai maître Sylvain. Au même instant, il dit comme s'il me répondait :</p>
-        <p>-- C'est Gaboret qui fait ses semailles.</p>
+        <p>– C'est Gaboret qui fait ses semailles.</p>
         <p>Quelques instants après, nous arrivions à la ferme.</p>
         <p>La fermière nous attendait sur le pas de la porte. En m'apercevant, elle ouvrit la bouche comme si elle était restée longtemps sans respirer, et son visage sérieux perdit un moment son air inquiet. Je passai devant elle pour prendre mon manteau, et j'allai droit à la bergerie.</p>
         <p>Les moutons sortirent en se bousculant. Ils auraient dû être aux champs depuis longtemps déjà.</p>
@@ -654,31 +658,31 @@
         <p>Le lendemain, maître Sylvain me fit asseoir à table à côté de son frère. Il lui dit en riant qu'il ne fallait pas me laisser jeûner, parce que j'avais bien besoin de grandir.</p>
         <p>Le frère du fermier s'appelait Eugène ; il parlait très peu, mais il regardait toujours ceux qui parlaient, et ses petits yeux avaient souvent l'air de se moquer. Il avait trente ans, mais il n'en paraissait pas beaucoup plus de vingt. Il savait toujours répondre à ce qu'on lui demandait, et je ne sentais aucune gêne près de lui.</p>
         <p>Il se serra près du mur pour me faire plus de place à table, et il répondit seulement au fermier :</p>
-        <p>-- Sois tranquille.</p>
+        <p>– Sois tranquille.</p>
         <p>Maintenant que tous les champs étaient labourés, Martine menait ses brebis très loin sur des pâturages qu'elle appelait « les Communs ». Le vacher et moi, menions nos bêtes le long des prés et dans les bois où il y avait de la bruyère. Je souffrais beaucoup du froid, malgré un grand manteau de laine qui me couvrait jusqu'aux pieds. Le vacher allumait souvent du feu ; il partageait avec moi les pommes de terre et les châtaignes qu'il faisait cuire sur les charbons. Il m'apprenait à connaître de quel côté venait le vent afin de profiter du plus petit abri contre le froid : et tout en nous chauffant, il me chantait la chanson de l'Eau et du Vin.</p>
         <p>C'était une chanson qui avait au moins vingt couplets. L'eau et le vin s'accusaient réciproquement de faire le malheur du genre humain, tout en s'adressant à eux-mêmes les plus grands éloges. Moi, je trouvais que c'était l'eau qui avait raison, mais le vacher disait que le vin n'avait pas tort non plus. Nous restions de longues heures ensemble. Il me parlait de son pays qui était très éloigné de la Sologne. Il me raconta qu'il avait toujours été vacher, et qu'un taureau l'avait roulé et blessé quand il était encore enfant. Il en était resté longtemps malade, avec des douleurs qui le faisaient crier ; puis les douleurs avaient fini par s'en aller, mais il était devenu tout tordu comme je le voyais. Il se souvenait du nom de toutes les fermes où il avait été vacher. Les gens étaient méchants ou bons, mais jamais il n'avait trouvé de si bons maîtres qu'à Villevieille. Il trouvait aussi que les vaches de maître Sylvain ne ressemblaient pas à celles de son pays, qui étaient petites, avec des cornes pointues comme des fuseaux. Celles-ci étaient grandes et fortes, avec des cornes rugueuses et sans finesse. Il les aimait et leur parlait en les nommant par leur nom. Sa préférée était une belle vache blanche que maître Sylvain avait achetée au printemps. À tout instant elle levait la tête et regardait au loin, et tout d'un coup elle partait, le mufle tendu. Le vacher criait à pleine voix :</p>
-        <p>-- Arrête, la Blanche, arrête.</p>
+        <p>– Arrête, la Blanche, arrête.</p>
         <p>Le plus souvent elle s'arrêtait d'elle-même, mais il y avait des moments où il fallait lui envoyer le chien. Il lui arrivait aussi de lutter contre lui pour passer quand même, et c'était seulement quand il la mordait au mufle qu'elle rentrait dans le troupeau.</p>
         <p>Le vacher la plaignait et disait :</p>
-        <p>-- On ne sait pas ce qu'elle regrette.</p>
+        <p>– On ne sait pas ce qu'elle regrette.</p>
         <p>Au mois de décembre, les vaches restèrent tout à fait à l'étable. Je croyais qu'il en serait de même des moutons. Mais le frère du fermier m'expliqua que la Sologne était un pays très pauvre, et que les fermiers ne récoltaient pas assez de fourrages pour nourrir toutes leurs bêtes.</p>
         <p>À présent je m'en allais seule le long des prés et dans les bois. Tous les oiseaux étaient partis. Le brouillard s'étendait sur les terres labourées, et les bois étaient pleins de silence. Il y avait des jours où je me sentais si abandonnée que je croyais que la terre s'était écroulée autour de moi, et quand un corbeau passait en criant dans le ciel gris, sa voix forte et enrouée semblait m'annoncer les malheurs du monde.</p>
         <p>Les moutons eux-mêmes ne sautaient plus. Le marchand avait emmené tous les mâles, et les petites femelles ne savaient plus jouer entre elles. Elles marchaient serrées les unes contre les autres, et même quand elles ne mangeaient pas, elles restaient la tête baissée.</p>
         <p>Quelques-unes me faisaient penser à des petites filles que j'avais connues. Je les caressais en les forçant de lever la tête : mais leurs yeux restaient tournés en bas, et leurs prunelles fixes ressemblaient à du verre sans reflet.</p>
         <p>Un jour, je fus surprise par un brouillard si épais qu'il me fut impossible de reconnaître mon chemin. Je me trouvai tout à coup auprès d'un grand bois qui m'était inconnu. Le haut des arbres se perdait complètement dans le brouillard, et les bruyères paraissaient toutes enveloppées de laine. Des formes blanches descendaient des arbres et glissaient sur les bruyères en longues traînées transparentes.</p>
         <p>Je poussai les moutons vers le pré qui était à côté ; mais ils se tassèrent et refusèrent d'avancer. Je passai devant eux pour voir ce qui les empêchait d'aller plus loin, et je reconnus la petite rivière qui coulait au bas de la colline. C'est à peine si on voyait l'eau ; elle avait l'air de dormir sous une épaisse couverture de laine blanche. Je restai un long moment à la regarder ; puis je ramenai mes moutons le long du bois. Pendant que je cherchais à reconnaître de quel côté se trouvait la ferme, les moutons contournèrent le bois, et ils se trouvèrent bientôt sur un chemin bordé de haies. Le brouillard s'épaissit encore, et il me sembla que je marchais entre deux hautes murailles. Je suivais les moutons sans savoir où ils me menaient. Ils quittèrent brusquement le chemin pour tourner à droite, mais je les arrêtai aussitôt : je venais d'apercevoir l'entrée d'une église. Les portes en étaient grandes ouvertes, et de chaque côté on voyait deux lumières rouges qui éclairaient la voûte grise. D'énormes piliers se rangeaient en lignes droites, et tout au fond on devinait les fenêtres à petits carreaux qu'une lumière éclairait faiblement. J'avais beaucoup de mal à empêcher les moutons d'aller vers cette église, et tout en les repoussant, je m'aperçus qu'ils étaient couverts de petites perles blanches. Ils se secouaient à tout instant, et cela faisait comme un léger bruit de cliquetis. Je ne savais que penser de tout cela ; puis une grande inquiétude me vint à l'idée que maître Sylvain devait m'attendre avec impatience. Je me persuadai qu'en retournant sur mes pas je retrouverais facilement la ferme, et en faisant le moins de bruit possible, je repoussai les moutons sur le chemin qui m'avait amenée. Comme j'entrais dans ce chemin, une voix d'homme s'éleva près de moi. Elle disait :</p>
-        <p>-- Laisse-les donc rentrer, ces pauvres bêtes.</p>
+        <p>– Laisse-les donc rentrer, ces pauvres bêtes.</p>
         <p>Et en même temps, l'homme faisait retourner le troupeau vers l'église. Je reconnus tout de suite Eugène, le frère du fermier. Il passa sa main sur le dos d'un mouton en disant :</p>
-        <p>-- Ils sont jolis avec leurs petites boules de givre, mais ce n'est pas bon pour eux.</p>
+        <p>– Ils sont jolis avec leurs petites boules de givre, mais ce n'est pas bon pour eux.</p>
         <p>Je ne fus pas étonnée de le rencontrer là. Je lui montrai l'église en demandant ce que c'était.</p>
-        <p>-- C'était pour toi, me répondit-il. Je craignais que tu ne retrouves pas l'allée des châtaigniers, et j'avais suspendu une lanterne de chaque côté.</p>
+        <p>– C'était pour toi, me répondit-il. Je craignais que tu ne retrouves pas l'allée des châtaigniers, et j'avais suspendu une lanterne de chaque côté.</p>
         <p>Quelque chose se brouilla dans ma tête ; et ce ne fut qu'au bout d'un instant que je compris que ces gros piliers noircis et délabrés par le temps étaient tout simplement les troncs des châtaigniers. En même temps je reconnus les fenêtres à petits carreaux de la grande salle que le feu de la cheminée éclairait.</p>
         <p>Eugène compta lui-même les moutons. Il m'aida à leur faire une chaude litière de paille, et au moment où je sortais de la bergerie, il me retint pour me demander si vraiment j'ignorais ce qu'étaient devenus les deux agneaux perdus. Je fus prise d'une grande honte en pensant qu'il pouvait croire que je mentais, et je ne pus m'empêcher de pleurer en lui assurant qu'ils avaient disparu sans que je m'en fusse aperçue. Alors il m'apprit qu'il les avait retrouvés noyés dans un trou d'eau.</p>
         <p>Je crus qu'il allait me gronder pour ma négligence. Mais il me dit doucement :</p>
-        <p>-- Va vite te chauffer. Tu rapportes dans tes cheveux tout le givre de la Sologne.</p>
+        <p>– Va vite te chauffer. Tu rapportes dans tes cheveux tout le givre de la Sologne.</p>
         <p>Je me promis d'aller voir le trou d'eau dès le lendemain. Mais, pendant la nuit, la neige tomba si épaisse, qu'il ne fallut pas penser aller aux champs. J'aidai la vieille Bibiche à raccommoder le linge, et Martine se mit à filer son rouet en chantant des complaintes.</p>
         <p>Le soir, pendant la veillée, les chiens ne cessèrent d'aboyer avec fureur. Martine paraissait inquiète. Elle écouta les chiens, puis elle dit en se tournant vers le fermier :</p>
-        <p>-- J'ai bien peur que ce temps-là nous amène des loups.</p>
+        <p>– J'ai bien peur que ce temps-là nous amène des loups.</p>
         <p>Le fermier se leva pour parler aux chiens, et il s'en alla faire le tour des étables avec sa lanterne.</p>
         <p>Pendant les huit jours que dura la neige, il vint des centaines de corbeaux dans la ferme. Ils avaient si faim que rien ne pouvait les effrayer. Ils entraient dans les écuries et dans la grange, et ils dévastaient les meules de blé. Le fermier en tua beaucoup. On en mit cuire quelques-uns avec le lard et les choux. Tout le monde trouva que c'était très bon ; mais les chiens n'en voulurent jamais manger.</p>
         <p>Le premier jour où l'on fit sortir les troupeaux, les sapins étaient encore tout chargés de neige. La colline était toute blanche aussi ; elle paraissait s'être beaucoup rapprochée de la ferme. Tout ce blanc m'éblouissait ; je ne trouvais plus les choses à leur place, et à chaque instant je craignais de ne plus apercevoir la fumée bleue qui montait au-dessus des toits de la ferme.</p>
@@ -695,11 +699,11 @@
         <p>Tout le monde sortit de la maison en courant. J'arrivai la première près de Martine. Elle était baissée, et elle tirait de toutes ses forces sur une brebis qu'un loup venait d'étrangler, et qu'il cherchait à emporter. Il tenait la brebis par le cou ; et il tirait de son côté aussi fort que la bergère.</p>
         <p>Le chien de Martine le mordait férocement aux cuisses, mais il n'avait pas l'air de le sentir, et quand maître Sylvain lui tira un coup de fusil à bout portant, il roula en emportant dans sa gueule une partie du cou de la brebis.</p>
         <p>Les yeux de Martine s'étaient agrandis, et sa bouche était devenue toute blanche. Son bonnet avait glissé de son chignon, et la raie qui séparait ses cheveux me fit penser à un sentier où l'on pouvait se promener sans danger. L'expression ferme de son visage s'était changée en une petite grimace douloureuse, et ses mains s'ouvraient et se fermaient d'un mouvement régulier. Elle cessa de s'appuyer au châtaignier pour se rapprocher d'Eugène qui regardait le loup. Elle resta un moment à le regarder aussi, et elle dit tout haut :</p>
-        <p>-- Pauvre bête, comme il devait avoir faim !</p>
+        <p>– Pauvre bête, comme il devait avoir faim !</p>
         <p>Le fermier mit le loup et la brebis sur la même brouette, pour les ramener à la ferme. Les chiens suivaient en flairant d'un air craintif.</p>
         <p>Pendant plusieurs jours, le fermier et son frère chassèrent dans les environs. Quand Eugène passait près de moi, il s'arrêtait toujours pour me dire un mot affectueux. Il m'affirmait que les coups de fusil éloignaient les loups, et qu'on en voyait rarement dans le pays. Malgré cela, je n'osai plus retourner vers le grand bois. Je préférais aller sur la colline qui était seulement recouverte de genêts et de bruyères.</p>
         <p>Au commencement du printemps, la fermière m'apprit à traire les vaches et à soigner les porcs. Elle disait qu'elle voulait faire de moi une bonne fermière. Je ne pouvais m'empêcher de penser à la supérieure, quand elle m'avait dit d'un ton méprisant :</p>
-        <p>-- Vous trairez les vaches, et vous soignerez les porcs !</p>
+        <p>– Vous trairez les vaches, et vous soignerez les porcs !</p>
         <p>Elle avait l'air de m'infliger une punition en disant cela, et voilà que je n'éprouvais que du contentement à m'occuper des bêtes. Pour me donner de la force, j'appuyais mon front contre le flanc de la vache, et bientôt mon seau s'emplissait. Il se formait au-dessus du lait une écume qui prenait des teintes changeantes, et, quand le soleil passait dessus, elle devenait si merveilleuse que je ne me lassais pas de la regarder.</p>
         <p>Je n'éprouvais aucun dégoût à soigner les porcs. Leur nourriture se composait de pommes de terre cuites et de lait caillé. Je plongeais mes mains dans le seau pour bien mélanger le tout, et j'avais un grand plaisir à leur faire attendre un instant leur nourriture. Leurs cris discordants, et les mouvements si vifs de leurs groins m'amusaient toujours.</p>
         <p>Au mois de mai, maître Sylvain ajouta une chèvre à mon troupeau. Il l'avait achetée pour aider la fermière à nourrir le petit enfant qu'elle venait d'avoir après dix ans de mariage.</p>
@@ -730,7 +734,7 @@
         <p>À la sortie de la messe, elle me quitta pour courir vers une vieille femme qu'elle embrassa tendrement. Puis je la perdis de vue et restai toute seule, ne sachant où aller.</p>
         <p>Pas très loin je voyais l'auberge du Cheval Blanc. Il en sortait un grand bruit de voix et de vaisselle. Les gens y entraient par groupes, et il n'y eut bientôt plus personne sur la place.</p>
         <p>J'allais rentrer dans l'église en attendant que Martine vienne me chercher, lorsque je vis accourir Eugène. Il me prit par la main et dit tout en riant :</p>
-        <p>-- Si ta robe n'avait pas été aussi jaune, je t'aurais sûrement oubliée.</p>
+        <p>– Si ta robe n'avait pas été aussi jaune, je t'aurais sûrement oubliée.</p>
         <p>Il me regardait d'un air moqueur et amusé.</p>
         <p>Il me conduisit chez le maître d'école, en le priant de me faire déjeuner et de me mener promener avec ses enfants.</p>
         <p>Le maître d'école était habillé comme les messieurs de la ville, tandis qu'Eugène avait une blouse bleue, et je fus bien étonnée de les entendre se tutoyer.</p>
@@ -752,9 +756,9 @@
         <p>Le vacher laissa passer le taureau qui sortit comme un fou, et après m'avoir regardée tout surpris, il le suivit en boitant.</p>
         <p>J'avais bien moins peur du taureau que du mouton enflé, et chaque jour j'entrais dans l'étable en prenant des précautions pour ne pas être vue.</p>
         <p>Pourtant Eugène m'avait vue. Il me prit à part, et en plongeant ses petits yeux dans les miens, il dit :</p>
-        <p>-- Pourquoi détaches-tu le taureau ?</p>
+        <p>– Pourquoi détaches-tu le taureau ?</p>
         <p>Je craignais de faire gronder le vacher en disant la vérité ; et je cherchais quelque chose à dire, mais je ne trouvais rien. Je commençais à dire que je ne le détachais pas. Alors Eugène prit son air moqueur pour me dire :</p>
-        <p>-- Est-ce que tu serais menteuse, par hasard ?</p>
+        <p>– Est-ce que tu serais menteuse, par hasard ?</p>
         <p>Aussitôt je lui racontai tout et, le samedi d'après, la bête était vendue.</p>
         <p>J'avais souvent remarqué combien il était bon pour tout le monde. Chaque fois que le fermier avait des différends avec ses ouvriers, il finissait toujours par appeler son frère qui arrangeait les choses en quelques mots.</p>
         <p>Il s'occupait aux mêmes travaux que maître Sylvain. Mais il refusait d'aller au marché : il disait qu'il n'aurait même pas su vendre un fromage.</p>
@@ -764,23 +768,15 @@
         <p>Un dimanche que j'avais osé demander un livre à Eugène, il me fit cadeau d'un gros cahier de chansons.</p>
         <p>Pendant tout l'été, je l'emportais aux champs. Je composais des airs aux chansons qui me plaisaient le mieux ; puis je m'en lassai, et, en aidant la fermière au grand nettoyage de la Toussaint, je découvris des almanachs de plusieurs années.</p>
         <p>Pauline me dit de les porter au grenier ; mais je fis semblant de les oublier dans le tiroir où ils étaient, et je les emportai en cachette l'un après l'autre. Ils étaient remplis d'histoires amusantes, et l'hiver passa sans que je me sois aperçue du froid.</p>
-        <p>
-          Le jour où je les montai au grenier, je furetai pour voir si je n'en découvrirais pas d'autres. Je ne trouvai qu'un petit livre sans couverture, dont les feuillets étaient roulés aux coins comme si on l'avait longtemps porté dans la poche. Les deux premières pages manquaient, et la troisième était salie au point que les caractères en étaient tout effacés. Je m'approchai de la lucarne pour avoir plus de clarté, et à l'en-tête des pages, je vis que c'étaient les
-          <hi rend="italic">Aventures de Télémaque</hi>
-          .
-        </p>
+        <p> Le jour où je les montai au grenier, je furetai pour voir si je n'en découvrirais pas d'autres. Je ne trouvai qu'un petit livre sans couverture, dont les feuillets étaient roulés aux coins comme si on l'avait longtemps porté dans la poche. Les deux premières pages manquaient, et la troisième était salie au point que les caractères en étaient tout effacés. Je m'approchai de la lucarne pour avoir plus de clarté, et à l'en-tête des pages, je vis que c'étaient les <title>Aventures de Télémaque</title> . </p>
         <p>Je l'ouvris au hasard et les quelques lignes que je lus me le rendirent si intéressant que je le mis tout de suite dans ma poche.</p>
         <p>Comme j'allais descendre du grenier, il me vint à l'idée que c'était Eugène qui l'avait mis là, et qu'il pouvait venir le reprendre d'un moment à l'autre ; alors je le remis sur la solive noire où il était. Chaque fois que j'avais l'occasion d'aller au grenier, je m'assurais qu'il était toujours à sa place, et j'en lisais autant que je pouvais.</p>
         <p>Dans ce moment-là, j'eus encore un mouton malade. Ses flancs étaient creux, comme s'il n'avait pas mangé depuis longtemps. J'allai demander à la fermière comment il fallait le soigner.</p>
         <p>Elle s'arrêta de plumer une poule pour me demander si le mouton était très tendu.</p>
-        <p>
-          Je ne répondis pas tout de suite. Je me demandais ce que voulait dire le mot
-          <hi rend="italic">tendu</hi>
-          . Puis je pensai que tous les moutons malades devaient être tendus. Alors je dis : oui. Et pour affirmer davantage, je me dépêchai d'ajouter :
-        </p>
-        <p>-- Il est tout plat.</p>
+        <p> Je ne répondis pas tout de suite. Je me demandais ce que voulait dire le mot <hi rend="italic">tendu</hi>. Puis je pensai que tous les moutons malades devaient être tendus. Alors je dis : oui. Et pour affirmer davantage, je me dépêchai d'ajouter : </p>
+        <p>– Il est tout plat.</p>
         <p>La fermière se mit à rire en se moquant. Elle dit à Eugène qui sifflotait à quelques pas :</p>
-        <p>-- Venez écouter ça, Eugène. Elle a un mouton qui est tendu et plat tout à la fois.</p>
+        <p>– Venez écouter ça, Eugène. Elle a un mouton qui est tendu et plat tout à la fois.</p>
         <p>Eugène rit aussi : il m'appela bergère d'occasion, et il m'apprit que les moutons étaient tendus quand ils avaient le ventre enflé.</p>
         <p>Deux jours après, Pauline me dit qu'elle et maître Sylvain voyaient bien que je ne ferais jamais une bonne bergère, et qu'ils avaient décidé de me garder à la maison. La vieille Bibiche n'était plus bonne à rien, et Pauline ne pouvait suffire à tout depuis qu'elle avait son enfant.</p>
         <p>Aux premiers mots, je compris qu'il me serait facile d'aller souvent au grenier, et je remerciai vivement la fermière.</p>
@@ -792,10 +788,10 @@
         <p>Sans savoir comment cela s'était fait, je me trouvai tout à coup au-dessus du bois avec Télémaque. Il me tenait par la main, et nos têtes touchaient le bleu du ciel. Télémaque ne disait rien ; mais je savais que nous allions dans le soleil.</p>
         <p>La vieille Bibiche m'appelait d'en bas. Je reconnaissais très bien sa voix, malgré la distance. Elle devait être bien en colère pour crier si fort. Je me souciais peu de ses cris. Je ne voyais que le duvet brillant qui entourait le soleil, et qui commençait à s'ouvrir pour nous laisser passer.</p>
         <p>Un choc sur le bras me fit retomber dans le grenier. La vieille Bibiche m'écartait de la lucarne en disant :</p>
-        <p>-- S'il y a du bon sens à me faire crier comme ça ! Voilà plus de vingt fois que je t'appelle pour manger la soupe.</p>
+        <p>– S'il y a du bon sens à me faire crier comme ça ! Voilà plus de vingt fois que je t'appelle pour manger la soupe.</p>
         <p>Peu de temps après, je ne retrouvai plus le livre sur la solive. Mais c'était un ami que je portais dans mon cœur, et j'en gardai longtemps le souvenir.</p>
         <p>Deux jours avant la Noël, maître Sylvain se prépara à tuer le porc. Il aiguisa deux grands couteaux, et après avoir fait une litière de paille fraîche au milieu de la cour, il fit sortir le porc qui se mit à crier comme s'il se doutait de la vérité. Il lui passa des cordes aux quatre pieds ; et pendant qu'il les fixait à de solides piquets, il dit à sa femme :</p>
-        <p>-- Cache les couteaux, Pauline, il ne faut pas qu'il les voie.</p>
+        <p>– Cache les couteaux, Pauline, il ne faut pas qu'il les voie.</p>
         <p>Pauline me remit une sorte de poêle très profonde que je devais tenir avec adresse afin de ne pas perdre une seule goutte du sang que j'allais recueillir.</p>
         <p>Le fermier s'approcha du porc qui était tombé sur le flanc. Il mit un genou en terre devant lui et après l'avoir tâté près du cou, il tendit la main vers sa femme qui lui passa le plus grand couteau. Il en appuya la pointe à l'endroit que marquait son doigt, et il se mit à l'enfoncer lentement.</p>
         <p>À ce moment, les cris que poussait le porc ressemblaient à des cris humains.</p>
@@ -803,13 +799,13 @@
         <p>En voyant ressortir la lame toute rayée de rouge, je sentis que ma bouche devenait froide et que je n'avais plus de salive.</p>
         <p>Mes doigts se desserrèrent aussi, et la poêle pencha toute d'un côté.</p>
         <p>Maître Sylvain le vit : il leva les yeux sur moi, et il cria à sa femme :</p>
-        <p>-- Prends-lui la poêle.</p>
+        <p>– Prends-lui la poêle.</p>
         <p>J'étais incapable de dire une parole, mais je fis signe que non. Le regard si calme du fermier avait chassé mon émotion, et ce fut d'une main ferme que je continuai à tenir la poêle sous le jet qui sortait en bouillonnant.</p>
         <p>Lorsque le porc eut cessé de crier, Eugène s'approcha de nous. Il parut stupéfait de me voir attentive aux dernières gouttes rouges qui roulaient une à une comme des larmes.</p>
-        <p>-- Comment ! dit-il, c'est toi qui as reçu le sang ?</p>
-        <p>-- Mais oui, répondit le fermier ; cela prouve qu'elle n'est pas une poule mouillée comme toi.</p>
-        <p>-- C'est vrai ! dit Eugène en s'adressant à moi. Cela m'est très pénible de voir égorger les bêtes.</p>
-        <p>-- Bah ! dit maître Sylvain, les bêtes sont faites pour nous nourrir comme le bois pour nous chauffer.</p>
+        <p>– Comment ! dit-il, c'est toi qui as reçu le sang ?</p>
+        <p>– Mais oui, répondit le fermier ; cela prouve qu'elle n'est pas une poule mouillée comme toi.</p>
+        <p>– C'est vrai ! dit Eugène en s'adressant à moi. Cela m'est très pénible de voir égorger les bêtes.</p>
+        <p>– Bah ! dit maître Sylvain, les bêtes sont faites pour nous nourrir comme le bois pour nous chauffer.</p>
         <p>Eugène se détournait un peu, comme s'il était honteux de sa faiblesse.</p>
         <p>Il avait les épaules minces, et son cou était aussi rond que celui de Martine.</p>
         <p>Maître Sylvain disait qu'il était tout le portrait de leur mère.</p>
@@ -818,27 +814,21 @@
         <p>Le soir, il rentrait des champs assis en travers sur un de ses bœufs, et souvent il chantait la même chanson.</p>
         <p>C'était l'histoire d'un soldat s'en retournant à la guerre après avoir retrouvé sa fiancée mariée.</p>
         <p>Il traînait longtemps sur le refrain qui se terminait ainsi :</p>
-        <p>
-          <hi rend="italic">Quand, par un tour de maladresse,</hi>
-        </p>
-        <p>
-          <hi rend="italic">Un boulet m'emportera :</hi>
-        </p>
-        <p>
-          <hi rend="italic">Allons, adieu, chère maîtresse,</hi>
-        </p>
-        <p>
-          <hi rend="italic">Je m'en vais dans les combats.</hi>
-        </p>
+        <quote>
+          <l>Quand, par un tour de maladresse,</l>
+          <l>Un boulet m'emportera :</l>
+          <l>Allons, adieu, chère maîtresse,</l>
+          <l>Je m'en vais dans les combats.</l>
+        </quote>
         <p>Pauline lui parlait toujours d'un ton respectueux. Elle ne comprenait pas comment je pouvais être aussi libre avec lui.</p>
         <p>Le premier soir où elle m'avait vue assise à côté de lui sur le banc de la porte, elle m'avait fait signe de rentrer. Mais Eugène m'avait rappelée en disant :</p>
-        <p>-- Viens écouter la hulotte.</p>
+        <p>– Viens écouter la hulotte.</p>
         <p>Souvent nous étions encore sur le banc quand tout le monde était déjà couché.</p>
         <p>La hulotte venait jusque sur le vieil orme qui était près de la porte. Son hululement très doux semblait nous dire bonsoir ; puis elle s'envolait, et ses grandes ailes passaient en silence au-dessus de nous.</p>
         <p>Plusieurs fois, une voix chanta sur la colline.</p>
         <p>J'en restais toute frissonnante. Cette voix pleine qui passait dans la nuit me rappelait celle de Colette.</p>
         <p>Eugène rentrait quand la voix cessait ; mais moi je restais dans l'espoir de l'entendre encore. Alors il me disait :</p>
-        <p>-- Rentre donc, va ; c'est fini.</p>
+        <p>– Rentre donc, va ; c'est fini.</p>
         <p>Et maintenant que l'hiver était revenu et que nous ne pouvions plus nous asseoir devant la porte, il restait entre nous comme une communication secrète. Quand il se moquait de quelqu'un, ses yeux pleins de finesse cherchaient les miens, et s'il donnait son avis dans un cas embarrassant, il se tournait de mon côté comme s'il attendait de moi une approbation.</p>
         <p>Il me semblait que je l'avais toujours connu, et tout au fond de moi-même, je l'appelais mon grand frère.</p>
         <p>Il demandait souvent à Pauline si elle était contente de moi. Pauline répondait qu'il n'y avait pas besoin de me montrer deux fois la même chose ; elle me reprochait seulement de manquer d'ordre dans mon travail. Elle disait que je commençais aussi bien par la fin que par le commencement.</p>
@@ -851,7 +841,7 @@
         <p>Peu après la mort du fermier, le propriétaire de la ferme vint nous rendre visite. C'était un petit homme sec qui ne tenait pas en place, et quand il s'arrêtait un moment, il me semblait toujours qu'il dansait sur un pied.</p>
         <p>Il avait le visage complètement rasé et il s'appelait M. Tirande.</p>
         <p>Il entra dans la salle où je me tenais avec Pauline, il en fit le tour en arrondissant le dos ; puis, il dit en me montrant l'enfant :</p>
-        <p>-- Emportez-le, j'ai besoin de causer avec la fermière.</p>
+        <p>– Emportez-le, j'ai besoin de causer avec la fermière.</p>
         <p>Je sortis dans la cour et, tout en ayant l'air de promener l'enfant, je passai devant la fenêtre ouverte.</p>
         <p>Pauline n'avait pas bougé de sa chaise. Elle tenait les mains jointes sur ses genoux, et elle penchait la tête en avant comme si elle cherchait à comprendre une chose très difficile. M. Tirande parlait sans la regarder. Il marchait de la cheminée à la porte, et le bruit de ses talons sur les carreaux se confondait avec sa voix cassée.</p>
         <p>Il sortit aussi vite qu'il était entré ; et, dans mon inquiétude, je vins demander à Pauline ce qu'il lui avait dit.</p>
@@ -872,16 +862,17 @@
         <p>Je voulus les accompagner jusqu'à la route ; je suivais derrière les bœufs entre Eugène et Martine.</p>
         <p>Nous marchions en silence. De temps en temps, Eugène encourageait ses bœufs en les touchant de la main.</p>
         <p>Nous étions déjà très loin sur la route lorsque Pauline s'aperçut que la nuit venait. Elle arrêta son cheval, et lorsque je fus montée sur le marchepied de la voiture pour l'embrasser, elle me dit tristement :</p>
-        <p>-- Adieu, ma fille ! Conduis-toi bien.</p>
+        <p>– Adieu, ma fille ! Conduis-toi bien.</p>
         <p>Elle ajouta, la voix pleine de larmes :</p>
-        <p>-- Si mon pauvre Sylvain eût vécu, il ne t'aurait jamais abandonnée.</p>
+        <p>– Si mon pauvre Sylvain eût vécu, il ne t'aurait jamais abandonnée.</p>
         <p>Martine m'embrassa en souriant :</p>
-        <p>-- On se reverra peut-être ! me dit-elle.</p>
+        <p>– On se reverra peut-être ! me dit-elle.</p>
         <p>Eugène ôta son chapeau ; il me donna une longue poignée de main en disant lentement :</p>
-        <p>-- Adieu, mon petit compagnon. Je me souviendrai toujours de toi.</p>
+        <p>– Adieu, mon petit compagnon. Je me souviendrai toujours de toi.</p>
         <p>Quand j'eus marché un peu, je me retournai pour les voir encore ; et, malgré la nuit qui augmentait, je vis qu'Eugène et Martine marchaient en se tenant par la main.</p>
       </div>
       <div type="chapter">
+
         <head>TROISIÈME PARTIE</head>
         <p>Les nouveaux fermiers arrivèrent le lendemain. Les laboureurs et la servante étaient venus dès le matin, et, lorsque le soir, les maîtres entrèrent dans la maison, je savais qu'on les appelait M. et Mme Alphonse.</p>
         <p>M. Tirande resta deux jours à Villevieille et partit après m'avoir rappelé que j'étais au service de sa bru, et que je n'aurais plus à m'occuper des travaux de la ferme.</p>
@@ -905,7 +896,7 @@
         <p>Aussitôt après la messe, je revenais par le même chemin. Les enfants de Jean m'entouraient pour avoir le pain bénit que je leur rapportais. Ils étaient six, et l'aîné n'avait pas encore douze ans. Mon pain bénit n'était guère plus gros qu'une bouchée ; aussi, je le remettais à la femme de Jean qui le distribuait en parts égales.</p>
         <p>Pendant ce temps, Jean le Rouge apportait pour moi un escabeau devant le feu, et il s'asseyait lui-même sur une rondelle de bois, qu'il roulait du pied, jusqu'à la cheminée. Sa femme ramenait les brindilles dans le feu avec de lourdes pincettes ; et dans le chaudron pendu à la crémaillère, on voyait cuire de grosses pommes de terre jaunes.</p>
         <p>Dès le premier dimanche, Jean le Rouge m'avait dit :</p>
-        <p>-- Je suis aussi un enfant abandonné.</p>
+        <p>– Je suis aussi un enfant abandonné.</p>
         <p>Et peu à peu, il m'avait appris qu'à l'âge de douze ans on l'avait placé chez le bûcheron qui habitait déjà la maison de la colline. Il avait su très vite grimper au sommet des arbres pour y attacher la corde qui devait les faire pencher ; puis, la journée finie, et son fagot de bois sur le dos, il partait en avant pour arriver plus vite à la maison, où il trouvait la petite fille du bûcheron, en train de faire la soupe.</p>
         <p>Elle était du même âge que lui, et ils étaient devenus tout de suite de bons amis.</p>
         <p>Puis, le malheur arriva, un soir de Noël.</p>
@@ -930,9 +921,9 @@
         <p>Je ne sais si Mme Alphonse entendait ; elle travaillait à sa dentelle avec une grande attention.</p>
         <p>Aussitôt que les deux hommes furent sortis, j'osai parler de Jean le Rouge.</p>
         <p>J'expliquai combien il avait été utile à maître Sylvain : je dis son chagrin de quitter cette maison qu'il habitait depuis si longtemps, et quand je m'arrêtai, tout angoissée de la réponse qui allait venir, Mme Alphonse retira son crochet du fil et dit :</p>
-        <p>-- Je crois que je me suis trompée d'une maille.</p>
+        <p>– Je crois que je me suis trompée d'une maille.</p>
         <p>Elle compta jusqu'à dix-neuf, et elle ajouta :</p>
-        <p>-- C'est ennuyeux, il faut que je défasse tout un rang.</p>
+        <p>– C'est ennuyeux, il faut que je défasse tout un rang.</p>
         <p>Quand je rapportai cela à Jean le Rouge, il eut un mouvement de colère, qui lui fit tendre le poing vers Villevieille. Mais sa femme lui mit la main sur l'épaule en le regardant. Aussitôt Jean se calma.</p>
         <p>Jean le Rouge quitta la maison de la colline à la fin de janvier, et une profonde tristesse entra en moi.</p>
         <p>Maintenant, je n'avais plus d'amis.</p>
@@ -994,35 +985,35 @@
         <p>Il s'était appuyé contre une grosse branche, en face de moi, et il me demanda s'il ne me restait plus de parents.</p>
         <p>Je répondis que non.</p>
         <p>Il fit glisser entre ses doigts une branche couverte de jeunes pousses, et, sans me regarder, il dit encore :</p>
-        <p>-- Alors, vous êtes seule au monde ?</p>
+        <p>– Alors, vous êtes seule au monde ?</p>
         <p>Je répondis vivement :</p>
-        <p>-- Oh, non, j'ai sœur Marie-Aimée !</p>
+        <p>– Oh, non, j'ai sœur Marie-Aimée !</p>
         <p>Et sans lui laisser le temps de me questionner, je dis combien je l'aimais, et avec quelle impatience j'attendais le moment où je pourrais la rejoindre.</p>
         <p>J'étais si heureuse de parler d'elle, que je ne m'arrêtais plus.</p>
         <p>Je disais sa beauté et son intelligence qui me semblaient au-dessus de tout.</p>
         <p>Je disais aussi son chagrin le jour de mon départ, et j'imaginais sa joie le jour où elle me verrait revenir.</p>
         <p>Pendant que je parlais, il avait les yeux fixés sur mon visage, mais son regard semblait voir beaucoup plus loin.</p>
         <p>Après un silence, il me demanda encore :</p>
-        <p>-- Est-ce que vous n'aimez personne ici ?</p>
-        <p>-- Non, dis-je, tous ceux que j'aimais sont partis.</p>
+        <p>– Est-ce que vous n'aimez personne ici ?</p>
+        <p>– Non, dis-je, tous ceux que j'aimais sont partis.</p>
         <p>Et j'ajoutai avec un peu de rancune :</p>
-        <p>-- Jusqu'à Jean le Rouge qu'ils ont chassé !</p>
-        <p>-- Pourtant, dit-il, Mme Alphonse n'est pas méchante ?</p>
+        <p>– Jusqu'à Jean le Rouge qu'ils ont chassé !</p>
+        <p>– Pourtant, dit-il, Mme Alphonse n'est pas méchante ?</p>
         <p>Je répondis qu'elle n'était ni méchante ni bonne, et que je la quitterais sans regret.</p>
         <p>À ce moment, on entendit crier les roues de la voiture de M. Alphonse, qui rentrait, et je me levai pour partir.</p>
         <p>Il s'effaça un peu, pour me laisser passer, et je le laissai seul dans le buisson.</p>
         <p>Le soir, je profitai d'un moment de bonne humeur d'Adèle, pour lui demander si elle connaissait les laboureurs du Gué Perdu. Elle me répondit qu'elle ne connaissait que les plus anciens ; car depuis que Mme Deslois était veuve, les nouveaux ne restaient pas longtemps chez elle.</p>
         <p>Une crainte que je n'aurais pu expliquer m'empêcha de parler du jeune homme à la blouse blanche ; et Adèle ajouta en remuant le menton :</p>
-        <p>-- Heureusement que son fils aîné est revenu de Paris : les laboureurs seront moins malheureux.</p>
+        <p>– Heureusement que son fils aîné est revenu de Paris : les laboureurs seront moins malheureux.</p>
         <p>Le lendemain, pendant que Mme Alphonse travaillait à sa dentelle, je cousais en pensant au laboureur à la blouse blanche.</p>
         <p>Je ne pouvais le séparer d'Eugène dans ma pensée ; il s'exprimait comme lui, et je leur trouvais un air de ressemblance.</p>
         <p>Vers le soir, je crus le voir passer devant les écuries, et la minute d'après, il s'arrêtait sur le seuil de la lingerie.</p>
         <p>Ses yeux passèrent sur moi, pour se poser sur Mme Alphonse ; il tenait la tête haute, et sa bouche fléchissait un peu du côté gauche.</p>
         <p>Mme Alphonse dit, d'une voix traînante, en le voyant :</p>
-        <p>-- Tiens, voilà Henri.</p>
+        <p>– Tiens, voilà Henri.</p>
         <p>Elle se laissa embrasser sur les deux joues ; puis elle indiqua une chaise à côté d'elle. Mais lui, s'assit un peu de travers sur la table, en repoussant la toile.</p>
         <p>Comme Adèle passait, Mme Alphonse lui dit :</p>
-        <p>-- Si vous voyez mon mari, dites-lui que mon frère est ici.</p>
+        <p>– Si vous voyez mon mari, dites-lui que mon frère est ici.</p>
         <p>Je mis quelques instants à comprendre ; puis je devinai brusquement que c'était lui le fils aîné de Mme Deslois.</p>
         <p>Une honte que je n'avais pas encore connue me fit rougir violemment, et un immense regret me vint d'avoir parlé de sœur Marie-Aimée.</p>
         <p>Il me sembla que je venais de jeter au vent la plus belle chose que je possédais, et malgré tous mes efforts, je ne pus retenir deux larmes qui s'accrochèrent à ma bouche, avant de tomber sur la toile fine que j'ourlais.</p>
@@ -1032,11 +1023,11 @@
         <p>En le voyant assis sur le houx, il me vint une grande faiblesse dans les jambes, et je m'arrêtai.</p>
         <p>Il se leva aussitôt pour me céder la place, mais je restai à le regarder.</p>
         <p>Il avait dans les yeux la même douceur que la première fois, et, comme s'il attendait que je lui raconte une nouvelle histoire, il demanda :</p>
-        <p>-- N'avez-vous rien à me dire, ce soir ?</p>
+        <p>– N'avez-vous rien à me dire, ce soir ?</p>
         <p>Toutes les paroles qui me vinrent à l'esprit me semblèrent inutiles et je fis « non » de la tête ; il reprit :</p>
-        <p>-- J'étais votre ami, l'autre jour.</p>
+        <p>– J'étais votre ami, l'autre jour.</p>
         <p>Ce souvenir augmenta mon regret, et je répondis seulement :</p>
-        <p>-- Vous êtes le frère de Mme Alphonse.</p>
+        <p>– Vous êtes le frère de Mme Alphonse.</p>
         <p>Je le quittai, et n'osai plus retourner dans le buisson.</p>
         <p>Il revint souvent à Villevieille.</p>
         <p>J'évitais de le regarder, mais sa voix me causait toujours un profond malaise.</p>
@@ -1070,7 +1061,7 @@
         <p>Deux arbres seulement nous séparaient ; il fit encore un pas, il prit d'une main le tout jeune arbre qui était devant lui, et les branches fleuries firent comme un bouquet au-dessus de sa tête. La clarté était si grande, qu'il me semblait que l'écorce des arbres brillait et que chaque fleur rayonnait, et, dans les yeux d'Henri Deslois, il y avait une douceur si profonde, que je m'avançai vers lui sans aucune honte.</p>
         <p>Il ne fit pas un mouvement, mais quand je m'arrêtai devant lui, son visage devint plus blanc que sa blouse, et sa bouche trembla.</p>
         <p>Il prit mes deux mains, qu'il appuya fortement contre ses tempes, et il dit d'une voix très basse :</p>
-        <p>-- Je suis comme un avare qui a retrouvé son trésor.</p>
+        <p>– Je suis comme un avare qui a retrouvé son trésor.</p>
         <p>En ce moment, la cloche de l'église de Sainte-Montagne se mit à sonner. Les sons montaient la colline en courant, et après s'être reposés un instant au-dessus de nous, s'en allaient se perdre plus haut.</p>
         <p>Les heures passèrent avec le jour, les troupeaux disparurent un à un de la plaine : une vapeur blanche se leva de la petite rivière ; puis le soleil passa derrière la barrière de peupliers, et les fleurs des genêts commencèrent à devenir plus sombres.</p>
         <p>Henri Deslois me ramena sur le chemin de la ferme ; il marchait devant moi, dans le sentier étroit, et quand il me quitta un peu avant l'allée des châtaigniers, je sentis que je l'aimais plus que sœur Marie-Aimée.</p>
@@ -1078,44 +1069,44 @@
         <p>Chaque dimanche j'y retrouvais Henri Deslois, et, comme au temps de Jean le Rouge, je rapportais le pain bénit que nous partagions en riant.</p>
         <p>Il y avait en nous comme une folie de liberté, qui nous faisait courir autour du jardin, et mouiller nos souliers dans le ruisseau de la source.</p>
         <p>Henri Deslois disait :</p>
-        <p>-- Le dimanche, j'ai aussi dix-sept ans !</p>
+        <p>– Le dimanche, j'ai aussi dix-sept ans !</p>
         <p>Parfois, nous faisions de longues promenades dans les bois qui entouraient la colline.</p>
         <p>Henri Deslois ne se lassait pas de m'entendre raconter mon enfance avec sœur Marie-Aimée. Nous parlions aussi d'Eugène, qu'il connaissait. Il disait qu'il était de ceux qu'on aime à avoir pour amis.</p>
         <p>Je lui dis aussi combien j'avais été mauvaise bergère ; et tout en pensant qu'il allait se moquer de moi, je racontai l'histoire du mouton enflé. Il ne se moqua pas, il passa seulement un doigt sur mon front, en disant :</p>
-        <p>-- Il faut beaucoup d'amour pour guérir ça !</p>
+        <p>– Il faut beaucoup d'amour pour guérir ça !</p>
         <p>Il nous arriva un jour de nous arrêter près d'un immense champ de blé, dont on ne voyait pas la fin. Des milliers de papillons blancs voltigeaient au-dessus des épis. Henri Deslois ne parlait pas, et moi je regardais les épis qui se ployaient et se redressaient comme s'ils voulaient prendre leur élan pour fuir. On eût dit que les papillons leur apportaient des ailes pour les aider ; mais les épis avaient beau s'agiter, ils ne parvenaient pas à quitter la terre.</p>
         <p>Je le dis à Henri Deslois, qui regarda longtemps le blé ; puis, comme s'il parlait pour lui-même, il dit en traînant sur les mots :</p>
-        <p>-- Il en est de même pour l'homme ; parfois une douce créature vient à lui ; elle est semblable aux papillons blancs de la plaine ; il ne sait si elle monte de la terre, ou si elle descend d'en haut ; il sent qu'avec elle il pourrait vivre du vent qui passe et du miel des fleurs. Mais, pareil à la racine qui retient l'épi à la terre, un lien mystérieux l'attache à son devoir qui est fort comme la terre.</p>
+        <p>– Il en est de même pour l'homme ; parfois une douce créature vient à lui ; elle est semblable aux papillons blancs de la plaine ; il ne sait si elle monte de la terre, ou si elle descend d'en haut ; il sent qu'avec elle il pourrait vivre du vent qui passe et du miel des fleurs. Mais, pareil à la racine qui retient l'épi à la terre, un lien mystérieux l'attache à son devoir qui est fort comme la terre.</p>
         <p>Il me sembla que sa voix avait un accent de souffrance, et que sa bouche fléchissait davantage. Mais presque aussitôt ses yeux s'arrêtèrent sur moi, et il dit d'une voix plus ferme :</p>
-        <p>-- Ayons confiance en nous !</p>
+        <p>– Ayons confiance en nous !</p>
         <p>L'été passa, puis l'automne ; et malgré le mauvais temps de décembre, nous ne pouvions nous décider à quitter la maison de la colline.</p>
         <p>Henri Deslois apportait des livres que nous lisions, assis sur les rondelles de bois, dans la pièce qui donnait sur le jardin. Je rentrais à la ferme quand la nuit venait, et Adèle, qui croyait que je passais mon temps à la danse du village, s'étonnait toujours de mon air triste.</p>
         <p>Presque chaque jour, Henri Deslois venait à Villevieille. Je l'entendais venir de loin ; il montait sans bride ni selle une grande jument blanche qui trottait lourdement, et qui le portait à travers les labours et les sentiers. C'était une bête patiente et douce. Son maître la laissait en liberté dans la cour, pendant qu'il entrait dire bonjour à Mme Alphonse. Aussitôt que M. Alphonse l'entendait, il entrait dans la lingerie.</p>
         <p>Tous deux parlaient de l'amélioration des terres ou des gens qu'ils connaissaient ; mais il y avait toujours dans la conversation un mot ou une tournure de phrase qui venait à moi comme la pensée visible d'Henri Deslois.</p>
         <p>Je rencontrais souvent le regard de M. Alphonse, et je ne pouvais pas toujours m'empêcher de rougir.</p>
         <p>Un après-midi qu'Henri Deslois entrait tout souriant, M. Alphonse lui cria.</p>
-        <p>-- Vous savez que j'ai vendu la maison de la colline.</p>
+        <p>– Vous savez que j'ai vendu la maison de la colline.</p>
         <p>Les deux hommes se regardèrent ; ils devinrent si pâles tous les deux que j'eus peur de les voir mourir sur place. Puis M. Alphonse se leva de sa chaise pour s'adosser à la cheminée, pendant qu'Henri Deslois poussait la porte, sans pouvoir arriver à la fermer.</p>
         <p>Mme Alphonse posa sa dentelle sur ses genoux ; et elle dit comme si elle répétait une leçon :</p>
-        <p>-- Cette maison ne servait à rien, et je suis bien contente qu'elle soit vendue.</p>
+        <p>– Cette maison ne servait à rien, et je suis bien contente qu'elle soit vendue.</p>
         <p>Henri Deslois vint s'asseoir sur la table, si près de moi qu'il aurait pu me toucher. Il dit d'une voix assez ferme :</p>
-        <p>-- Je regrette que vous l'ayez vendue sans m'en avoir parlé, car j'avais l'intention de l'acheter.</p>
+        <p>– Je regrette que vous l'ayez vendue sans m'en avoir parlé, car j'avais l'intention de l'acheter.</p>
         <p>M. Alphonse se tortilla comme un ver. Il faisait des efforts pour rire aux éclats, et, à travers son rire, il disait :</p>
-        <p>-- L'acheter, l'acheter, mais qu'en auriez-vous fait ?</p>
+        <p>– L'acheter, l'acheter, mais qu'en auriez-vous fait ?</p>
         <p>Henri Deslois posa sa main sur le dossier de ma chaise, et il répondit :</p>
-        <p>-- Je l'aurais habitée comme Jean le Rouge.</p>
+        <p>– Je l'aurais habitée comme Jean le Rouge.</p>
         <p>M. Alphonse se mit à aller et venir devant la cheminée ; son visage était devenu d'un jaune terreux ; il tenait ses mains dans les poches de son pantalon, et ses pieds se soulevaient si vite qu'on eût dit qu'il les remontait avec une ficelle qu'il tenait dans chaque main.</p>
         <p>Puis il vint s'appuyer à la table en face de nous, et en nous regardant l'un après l'autre de ses yeux qui luisaient, il dit avec un mouvement de tout son buste en avant :</p>
-        <p>-- Eh bien ! je l'ai vendue, et comme cela, tout est fini !</p>
+        <p>– Eh bien ! je l'ai vendue, et comme cela, tout est fini !</p>
         <p>Pendant le silence qui suivit, on entendit la jument blanche gratter le seuil avec son sabot, comme si elle appelait son maître.</p>
         <p>Henri Deslois se dirigea vers la porte ; puis il revint près de moi pour ramasser mon ouvrage qui avait glissé de mes mains sans que je m'en fusse aperçue.</p>
         <p>Il embrassa sa sœur, et, avant de partir, il dit en me regardant :</p>
-        <p>-- À demain !</p>
+        <p>– À demain !</p>
         <p>Le lendemain, dans la matinée, ce fut Mme Deslois qui entra dans la lingerie. Elle vint droit à moi avec des mots insultants.</p>
         <p>Mais M. Alphonse la fit taire d'un geste sec ; puis, s'adressant à moi d'une voix adoucie, il dit :</p>
-        <p>-- Mme Alphonse m'envoie vous dire qu'elle tient beaucoup à vous garder près d'elle. Elle désire seulement que dorénavant vous veniez à la messe avec nous.</p>
+        <p>– Mme Alphonse m'envoie vous dire qu'elle tient beaucoup à vous garder près d'elle. Elle désire seulement que dorénavant vous veniez à la messe avec nous.</p>
         <p>Il essaya de sourire en ajoutant :</p>
-        <p>-- Vous ferez le voyage en voiture.</p>
+        <p>– Vous ferez le voyage en voiture.</p>
         <p>C'était la première fois qu'il me parlait directement. Sa voix me parut un peu voilée, comme s'il éprouvait une gêne à me dire ces choses.</p>
         <p>Je ne sais pas pourquoi je pensai que Mme Alphonse n'avait rien dit de tout cela, et qu'il mentait. Puis, en ce moment, il ressemblait tellement à la supérieure, que je ne pus m'empêcher de le braver.</p>
         <p>Je répondis que je n'aimais pas aller en voiture, et que je continuerais d'aller à Sainte-Montagne.</p>
@@ -1126,32 +1117,26 @@
         <p>Ses cris rauques m'épouvantaient.</p>
         <p>Je voulus sortir de la lingerie ; mais M. Alphonse s'était mis devant la porte comme pour la garder, et je revins en face de Mme Deslois, de l'autre côté de la table.</p>
         <p>Elle parlait maintenant d'une voix étranglée. Elle disait des mots dont le sens m'échappait. Je trouvais seulement que ses paroles avaient une odeur insupportable. Elle cessa, après avoir crié de toutes ses forces :</p>
-        <p>-- Je suis sa mère, entendez-vous ?</p>
+        <p>– Je suis sa mère, entendez-vous ?</p>
         <p>M. Alphonse revint vers moi ; il dit en me prenant le bras :</p>
-        <p>-- Voyons ! écoutez-moi.</p>
+        <p>– Voyons ! écoutez-moi.</p>
         <p>Je me dégageai en le repoussant, et je sortis de la maison en courant.</p>
         <p>Les derniers mots de Mme Deslois entraient dans ma tête comme un marteau pointu :</p>
         <p>« Je suis sa mère, entendez-vous ? »</p>
         <p>Oh ! ma mère Marie-Aimée, comme vous étiez belle à côté de cette autre mère, et comme je vous aimais en ce moment ! Comme vos yeux de plusieurs couleurs rayonnaient et illuminaient votre vêtement noir, et comme votre visage était pur dans votre cornette blanche ! Vous étiez aussi visible pour moi, que si vous eussiez été réellement devant moi.</p>
         <p>Je fus toute surprise de me retrouver devant la maison de la colline ; et en même temps, je m'aperçus que la neige tombait en tourmente. J'entrai dans la maison pour m'abriter, et j'allai tout de suite dans la pièce qui donnait sur le jardin.</p>
         <p>Je cherchai à fixer ma pensée ; mais mes idées tournoyaient dans ma tête comme les flocons de neige qui paraissaient monter de la terre et tomber du ciel en même temps ; et chaque fois que je faisais un effort pour penser, ma mémoire ne m'apportait que les bribes d'une chanson que les petites filles chantaient joyeusement dans leurs rondes et qui disait :</p>
-        <p>
-          <hi rend="italic">On a tant fait sauter la vieille,</hi>
-        </p>
-        <p>
-          <hi rend="italic">Qu'elle est morte en sautillant,</hi>
-        </p>
-        <p>
-          <hi rend="italic">Tireli,</hi>
-        </p>
-        <p>
-          <hi rend="italic">Sautons, sautons, la vieille !</hi>
-        </p>
+        <quote>
+          <l>On a tant fait sauter la vieille,</l>
+          <l>Qu'elle est morte en sautillant,</l>
+          <l>Tireli,</l>
+          <l>Sautons, sautons, la vieille !</l>
+        </quote>
         <p>Je me trouvais bien dans cette maison silencieuse.</p>
         <p>La neige s'arrêta de tomber, et les arbres me semblèrent aussi beaux que le jour où je les avais vus tout fleuris ; et brusquement le souvenir de ce qui venait de se passer, se précisa dans mon esprit. Je revis la main aux doigts carrés de Mme Deslois ; un grand frisson me secoua ; quelle vilaine main, et comme elle était grande !</p>
         <p>Puis l'expression du regard de M. Alphonse, quand il me prit le bras. Maintenant que j'y pensais, je me rappelais avoir déjà vu ce regard à une petite fille.</p>
         <p>C'était un jour que je venais de voler un fruit tombé ; elle s'était précipitée sur moi, en disant :</p>
-        <p>-- Donne-m'en la moitié, et je ne le dirai pas.</p>
+        <p>– Donne-m'en la moitié, et je ne le dirai pas.</p>
         <p>Une grande répugnance m'était venue de partager avec elle, et, au risque de me faire voir par sœur Marie-Aimée, j'étais allée reporter le fruit sous l'arbre.</p>
         <p>Et voilà qu'à penser à ces choses un désir violent me venait de revoir sœur Marie-Aimée. J'aurais voulu partir tout de suite. Mais, en même temps, je pensai qu'Henri Deslois avait dit hier en partant : « À demain ! »</p>
         <p>Peut-être était-il déjà à la ferme, m'attendant et s'inquiétant de ce que je pouvais être devenue.</p>
@@ -1162,15 +1147,15 @@
         <p>La jument s'arrêta devant moi.</p>
         <p>Son maître se pencha, et saisit mes deux mains que je levais vers lui.</p>
         <p>Il y avait sur son visage quelque chose de tourmenté que je n'y avais jamais vu. Je remarquai aussi que ses sourcils se rejoignaient comme ceux de Mme Deslois. Il dit un peu essoufflé :</p>
-        <p>-- Je savais que je vous retrouverais ici.</p>
+        <p>– Je savais que je vous retrouverais ici.</p>
         <p>Il ouvrit encore la bouche, et je fus tout de suite sûre que ses paroles allaient me donner de la joie.</p>
         <p>Il serra davantage mes mains, et dit de la même voix essoufflée :</p>
-        <p>-- N'ayez pas de haine contre moi.</p>
+        <p>– N'ayez pas de haine contre moi.</p>
         <p>Il détourna les yeux des miens :</p>
-        <p>-- Je ne peux plus être votre ami.</p>
+        <p>– Je ne peux plus être votre ami.</p>
         <p>Aussitôt, je crus que quelqu'un me donnait un coup violent sur la tête.</p>
         <p>Il se fit dans mes oreilles un grand bruit de scie. Je vis Henri Deslois frissonner longuement, et j'entendis encore qu'il disait :</p>
-        <p>-- Oh ! comme j'ai froid !</p>
+        <p>– Oh ! comme j'ai froid !</p>
         <p>Puis, je ne sentis plus sur mes mains la chaleur des siennes ; et quand je compris que je restais seule sur le chemin, je ne vis plus qu'une masse d'un blanc gris, qui paraissait glisser sans bruit sur la neige du sentier.</p>
         <p>Je descendis lentement l'autre versant de la colline.</p>
         <p>Je marchai longtemps dans la neige qui crissait sous mes pieds.</p>
@@ -1178,37 +1163,37 @@
         <p>Je sonnai, et tout de suite la portière m'examina par le judas.</p>
         <p>Je la reconnus. C'était toujours Bel-Œil.</p>
         <p>Nous l'avions surnommée ainsi parce qu'elle avait un gros œil blanc. Elle ouvrit après m'avoir reconnue aussi. Elle me fit entrer, mais avant de refermer la porte derrière moi, elle me dit :</p>
-        <p>-- Sœur Marie-Aimée n'est plus ici.</p>
+        <p>– Sœur Marie-Aimée n'est plus ici.</p>
         <p>Je ne répondis pas ; alors elle répéta :</p>
-        <p>-- Sœur Marie-Aimée n'est plus ici.</p>
+        <p>– Sœur Marie-Aimée n'est plus ici.</p>
         <p>J'entendais bien, mais je n'y apportais aucune attention ; c'était comme dans les rêves où les choses les plus extraordinaires vous arrivent, sans que cela ait de l'importance.</p>
         <p>Je regardais son œil blanc, et je dis simplement.</p>
-        <p>-- Je reviens.</p>
+        <p>– Je reviens.</p>
         <p>Elle ferma la porte derrière moi, et elle me laissa debout sous l'auvent, pendant qu'elle allait prévenir la supérieure.</p>
         <p>Elle revint en disant que la supérieure voulait parler à sœur Désirée-des-Anges avant de me recevoir.</p>
         <p>À un coup de sonnette, Bel-Œil se leva, en me faisant signe de la suivre.</p>
         <p>La neige s'était remise à tomber.</p>
         <p>L'obscurité était presque complète chez la supérieure.</p>
         <p>Je ne vis tout d'abord que le feu qui flambait en sifflant. Une voix me fit regarder plus près. La supérieure disait :</p>
-        <p>-- Alors vous revenez ?</p>
+        <p>– Alors vous revenez ?</p>
         <p>J'essayai de fixer mes idées ; je ne savais pas bien si je revenais. Elle reprit :</p>
-        <p>-- Sœur Marie-Aimée n'est plus ici.</p>
+        <p>– Sœur Marie-Aimée n'est plus ici.</p>
         <p>Je crus que c'était le mauvais rêve qui continuait, et je toussai pour me réveiller ; puis je regardai le feu, et je tâchai de savoir pourquoi il sifflait. La supérieure dit encore :</p>
-        <p>-- Est-ce que vous êtes malade ?</p>
+        <p>– Est-ce que vous êtes malade ?</p>
         <p>Je répondis :</p>
-        <p>-- Non.</p>
+        <p>– Non.</p>
         <p>La chaleur me ranimait, et je me sentais mieux.</p>
         <p>Je comprenais enfin que j'étais revenue, et que je me trouvais chez la supérieure. Je rencontrai ses yeux fixes et me rappelai tout.</p>
         <p>Elle disait en se moquant :</p>
-        <p>-- Vous n'avez pas beaucoup changé ; quel âge avez-vous donc ?</p>
+        <p>– Vous n'avez pas beaucoup changé ; quel âge avez-vous donc ?</p>
         <p>Je répondis que j'avais dix-huit ans.</p>
-        <p>-- Eh bien, reprit-elle, cela ne vous a pas beaucoup fait grandir, d'aller dans le monde.</p>
+        <p>– Eh bien, reprit-elle, cela ne vous a pas beaucoup fait grandir, d'aller dans le monde.</p>
         <p>Elle mit un coude sur la table, et me demanda pourquoi je revenais.</p>
         <p>Je voulais répondre que c'était pour voir sœur Marie-Aimée ; mais j'eus peur de l'entendre encore me dire que sœur Marie-Aimée n'était plus ici, et je restai silencieuse.</p>
         <p>Elle tira d'un tiroir une lettre qu'elle glissa sous sa main ouverte, et dit de l'air ennuyé d'une personne que l'on dérange pour peu de chose :</p>
-        <p>-- Cette lettre m'avait déjà appris que vous étiez devenue une fille orgueilleuse et hardie.</p>
+        <p>– Cette lettre m'avait déjà appris que vous étiez devenue une fille orgueilleuse et hardie.</p>
         <p>Elle repoussa la lettre d'un geste las, et après avoir respiré longuement, elle dit encore :</p>
-        <p>-- On va vous envoyer aux cuisines, en attendant qu'on vous trouve une autre place.</p>
+        <p>– On va vous envoyer aux cuisines, en attendant qu'on vous trouve une autre place.</p>
         <p>Le feu sifflait sans relâche. Je continuais de le regarder sans parvenir à reconnaître laquelle des trois bûches faisait entendre ce sifflement.</p>
         <p>La supérieure haussa sa voix monotone pour attirer mon attention. Elle me prévenait que sœur Désirée-des-Anges me surveillerait étroitement, et qu'il ne me serait pas permis de parler à mes anciennes compagnes.</p>
         <p>Je la vis faire un geste vers la porte, et je sortis dans la neige.</p>
@@ -1223,10 +1208,10 @@
         <p>Je voulais me lever du banc ; je pensais : « Bel-Œil va m'ouvrir la porte. »</p>
         <p>Mais mon corps était comme écrasé, et il me semblait que des mains larges et dures se posaient lourdement sur ma tête, et toujours ces mots revenaient comme si je les avais prononcés tout haut : « Bel-Œil va m'ouvrir la porte. »</p>
         <p>Mais voilà qu'une voix pleine de pitié disait près de moi :</p>
-        <p>-- Je vous en prie, Marie-Claire, ne restez pas ainsi dans la neige !</p>
+        <p>– Je vous en prie, Marie-Claire, ne restez pas ainsi dans la neige !</p>
         <p>Je relevai la tête : j'avais devant moi une toute jeune religieuse dont le visage était si beau, que je ne me souvenais pas d'en avoir jamais vu de pareil.</p>
         <p>Elle se pencha pour m'aider à me lever, et comme j'avais de la peine à me tenir debout, elle passa mon bras sous le sien pendant qu'elle disait :</p>
-        <p>-- Appuyez-vous sur moi.</p>
+        <p>– Appuyez-vous sur moi.</p>
         <p>Je vis aussitôt qu'elle me conduisait vers les cuisines, dont la large porte vitrée était tout éclairée.</p>
         <p>Je ne pensais plus à rien. La neige, qui tombait fine et dure, me piquait le visage, et je sentais de violentes brûlures aux paupières. En entrant dans les cuisines, je reconnus les deux jeunes filles qui se tenaient devant le grand fourneau carré.</p>
         <p>C'étaient Véronique la pimbêche et la grosse Mélanie, et il me sembla entendre sœur Marie-Aimée quand elle les nommait ainsi.</p>
@@ -1236,34 +1221,34 @@
         <p>Un peu après, la grosse Mélanie, et Véronique la pimbêche entrèrent pour mettre du linge propre au petit lit de fer qui était à côté de moi.</p>
         <p>Quand elles eurent fini, Véronique, qui avait évité de me regarder, se tourna vers moi pour me dire qu'on n'aurait jamais cru que je serais revenue. Elle avait un air méprisant comme si elle me reprochait une chose honteuse.</p>
         <p>La grosse Mélanie joignit ses mains sous son menton. Elle penchait toujours la tête de côté, comme quand elle était petite fille. Elle me dit avec un sourire affectueux :</p>
-        <p>-- Je suis bien contente qu'on t'ait mise aux cuisines.</p>
+        <p>– Je suis bien contente qu'on t'ait mise aux cuisines.</p>
         <p>Puis, elle tapota un peu le lit.</p>
-        <p>-- Tu prends ma place, c'est moi qui couchais ici.</p>
+        <p>– Tu prends ma place, c'est moi qui couchais ici.</p>
         <p>Elle montra du doigt le rideau en baissant la voix :</p>
-        <p>-- Sœur Désirée-des-Anges couche là.</p>
+        <p>– Sœur Désirée-des-Anges couche là.</p>
         <p>Quand elles furent sorties en fermant la porte derrière elles, je me rapprochai du lit de fer.</p>
         <p>Ce grand rideau blanc m'impressionnait. Il me semblait voir remuer des ombres dans le creux des plis que la veilleuse n'éclairait pas.</p>
         <p>Mon attention fut détournée par la cloche du dîner. J'en reconnaissais le son, et, malgré moi, j'en comptais les coups.</p>
         <p>Puis le silence se fit, et la jeune sœur entra de nouveau dans la chambre. Elle m'apportait un bol de bouillon tout fumant.</p>
         <p>Elle fit glisser le grand rideau sur sa tringle ; et elle eut presque le même geste que Mélanie quand elle dit :</p>
-        <p>-- Voici votre chambre, et voici la mienne !</p>
+        <p>– Voici votre chambre, et voici la mienne !</p>
         <p>Je fus tout de suite rassurée en voyant que son petit lit de fer était pareil au mien. Je commençais à penser que j'avais devant moi sœur Désirée-des-Anges, mais je n'osais pas y croire et je le lui demandai.</p>
         <p>Elle fit « oui » de la tête, et tout en approchant sa chaise de la mienne, elle dit en mettant son visage dans la lumière :</p>
-        <p>-- On dirait que vous ne me reconnaissez pas !</p>
+        <p>– On dirait que vous ne me reconnaissez pas !</p>
         <p>Je la regardai sans répondre.</p>
         <p>Non, je ne la reconnaissais pas : j'étais même sûre de ne l'avoir jamais vue, car je n'imaginais pas qu'on pût oublier ses traits lorsqu'on les avait vus une seule fois.</p>
         <p>Elle fit une petite moue comique en disant :</p>
-        <p>-- Je vois bien que vous ne vous souvenez plus de cette pauvre Désirée Joly.</p>
+        <p>– Je vois bien que vous ne vous souvenez plus de cette pauvre Désirée Joly.</p>
         <p>Désirée Joly ?... ah ! si je m'en souvenais ! c'était une jeune fille qui faisait son noviciat, elle avait un visage plus rose que les roses, elle avait aussi une taille fine, et elle était rieuse et aimante. Elle sautait si fort, quand elle jouait à la ronde avec nous, que sœur Marie-Aimée lui disait souvent :</p>
-        <p>-- Voyons, mademoiselle Joly, pas si haut, on voit vos genoux.</p>
+        <p>– Voyons, mademoiselle Joly, pas si haut, on voit vos genoux.</p>
         <p>Et maintenant, j'avais beau regarder sœur Désirée-des-Anges, il m'était impossible de faire le plus petit rapprochement. Elle dit :</p>
-        <p>-- Oui, le vêtement de religieuse nous change beaucoup !</p>
+        <p>– Oui, le vêtement de religieuse nous change beaucoup !</p>
         <p>Elle releva ses manches d'un geste vif, et avec la même petite moue de tout à l'heure, elle dit encore :</p>
-        <p>-- Oubliez que je suis sœur Désirée-des-Anges, et rappelez-vous que Désirée Joly vous aimait bien autrefois.</p>
+        <p>– Oubliez que je suis sœur Désirée-des-Anges, et rappelez-vous que Désirée Joly vous aimait bien autrefois.</p>
         <p>Elle reprit avec vivacité :</p>
-        <p>-- Oh ! moi, je vous ai reconnue tout de suite. Vous avez toujours votre figure de petite fille.</p>
+        <p>– Oh ! moi, je vous ai reconnue tout de suite. Vous avez toujours votre figure de petite fille.</p>
         <p>Quand je lui dis que j'avais imaginé une sœur Désiré-des-Anges bien vieille et bien méchante, elle répondit :</p>
-        <p>-- Nous nous étions trompées toutes les deux ; on vous avait montrée à moi comme une fille vaniteuse et arrogante. Mais quand je vous ai vue pleurer au milieu de toute cette neige, j'ai pensé que vous aviez surtout de la peine et je suis allée vers vous.</p>
+        <p>– Nous nous étions trompées toutes les deux ; on vous avait montrée à moi comme une fille vaniteuse et arrogante. Mais quand je vous ai vue pleurer au milieu de toute cette neige, j'ai pensé que vous aviez surtout de la peine et je suis allée vers vous.</p>
         <p>Après m'avoir aidée à me mettre au lit, elle sépara la chambre avec le rideau, et je m'endormis aussitôt.</p>
         <p>Mais c'était un mauvais sommeil. Je me réveillais à tout instant ; j'avais toujours une grosse pierre sur la poitrine, et quand je réussissais à la rejeter, elle se partageait en plusieurs morceaux, qui retombaient sur moi, et m'écrasaient les membres.</p>
         <p>Puis je rêvai que je me trouvais sur une route pleine de pierres coupantes. J'y marchais avec une extrême difficulté ; de chaque côté de la route, il y avait des champs, des vignes, des maisons.</p>
@@ -1279,17 +1264,17 @@
         <p>Ce fut encore Mélanie qui m'apprit à sonner la lourde cloche du réveil : elle me montra comment on cambrait les reins pour tirer la corde. Je saisis vite le balancement du son régulier, et chaque matin, malgré le froid ou la pluie, j'avais un grand plaisir à sonner le réveil.</p>
         <p>La cloche avait un son clair que le vent augmentait ou diminuait, et je ne me lassais pas de l'entendre.</p>
         <p>Il y avait des jours où je sonnais si longtemps, que sœur Désirée-des-Anges ouvrait la fenêtre et me disait avec une moue suppliante :</p>
-        <p>-- Assez ! Assez !</p>
+        <p>– Assez ! Assez !</p>
         <p>Depuis que j'étais aux cuisines, Véronique la pimbêche affectait de regarder de côté en me parlant, et si je me renseignais près d'elle pour connaître la place d'un objet, elle me l'indiquait seulement d'un geste.</p>
         <p>Sœur Désirée-des-Anges la suivait des yeux en faisant une petite grimace du coin de la bouche.</p>
         <p>Elle n'avait plus sa pétulance de jeune novice, mais elle restait enjouée et moqueuse.</p>
         <p>Chaque soir, nous nous retrouvions dans notre chambre. Elle me forçait à rire par quelques remarques plaisantes sur ce qui s'était passé dans la journée.</p>
         <p>Il arrivait, parfois, que mon rire finissait en sanglots douloureux ; alors, elle appuyait ses mains l'une contre l'autre comme les saintes, et elle disait en regardant en haut :</p>
-        <p>-- Oh ! comme je voudrais que votre chagrin s'en aille !</p>
+        <p>– Oh ! comme je voudrais que votre chagrin s'en aille !</p>
         <p>Puis, elle s'agenouillait par terre pour prier et souvent je m'endormais avant de l'avoir vue se relever.</p>
         <p>Le travail des cuisines m'était très pénible. J'aidais Mélanie au récurage des marmites au lavage des dalles.</p>
         <p>C'était elle qui en faisait la plus grande partie ; elle était forte comme un homme et toujours prête à rendre service. Aussitôt qu'elle me voyait fatiguée, elle m'asseyait de force sur une chaise, et elle disait avec une autorité souriante :</p>
-        <p>-- Prends ta récréation.</p>
+        <p>– Prends ta récréation.</p>
         <p>Dès les premiers jours de mon arrivée, elle m'avait rappelé la difficulté qu'elle avait eu à apprendre son catéchisme. Elle n'avait pas oublié que pendant toute une saison j'avais passé toutes mes récréations à essayer de le lui faire retenir par cœur. Et maintenant, c'était une joie pour elle de me faire reposer un instant.</p>
         <p>Véronique était chargée de préparer les légumes et de recevoir la viande de boucherie.</p>
         <p>Elle se tenait raide et pincée, près de la bascule où les garçons déposaient la viande.</p>
@@ -1303,26 +1288,22 @@
         <p>Je sentis encore que sœur Désirée-des-Anges venait à mon secours, mais déjà une bête s'était accrochée à ma poitrine. Il sortait d'elle un bruit qui m'était très douloureux à entendre. C'était comme un horrible sanglot qui s'arrêtait toujours au même endroit. Puis le jour revint, et j'aperçus au-dessus de moi le visage de sœur Désirée-des-Anges, et celui de Mélanie. Elles souriaient toutes deux du même sourire inquiet, et le visage large de Mélanie avait une grande ressemblance avec le visage fin et décoloré de sœur Désirée-des-Anges.</p>
         <p>Je me dressai sur le lit, tout étonnée d'être couchée en plein jour ; mais je ne me levai pas. Le souvenir du petit Jean le Rouge me revint, et pendant des heures et des heures j'essayai d'étouffer mon mal.</p>
         <p>Quand sœur Désirée-des-Anges entra dans la chambre à l'heure du coucher, elle s'assit sur le pied de mon lit. Elle mit encore ses mains comme les saintes, et elle me dit :</p>
-        <p>-- Parlez-moi de votre peine.</p>
-        <p>
-          Je parlai, et il me sembla que chaque mot que je prononçais emportait un peu de ma souffrance. Lorsque j'eus tout dit, sœur Désirée-des-Anges alla prendre l'
-          <hi rend="italic">Imitation de Jésus-Christ</hi>
-          , et elle se mit à lire tout haut.
-        </p>
+        <p>– Parlez-moi de votre peine.</p>
+        <p> Je parlai, et il me sembla que chaque mot que je prononçais emportait un peu de ma souffrance. Lorsque j'eus tout dit, sœur Désirée-des-Anges alla prendre l'<title rend="italic">Imitation de Jésus-Christ</title> , et elle se mit à lire tout haut. </p>
         <p>Elle lisait avec un accent doux et résigné, et il y avait des mots qu'elle traînait comme une plainte qui finit.</p>
         <p>Les jours suivants, je revis le petit Jean le Rouge ; il parla encore du Gué Perdu, et pendant qu'il disait le contentement de ses parents, et la bonté du maître pour eux, je revoyais la maison de la colline avec son jardin fleuri et sa source dont le ruisseau descendait jusqu'à la petite rivière en se cachant sous les genêts.</p>
         <p>Je parlais souvent d'elle à sœur Désirée-des-Anges, qui m'écoutait avec recueillement. Elle en connaissait les alentours et les moindres recoins, et un soir qu'elle restait songeuse, et que je lui en demandais la raison, elle répondit en regardant au loin :</p>
-        <p>-- L'été va finir, et je pense que les arbres du jardin sont chargés de fruits !</p>
+        <p>– L'été va finir, et je pense que les arbres du jardin sont chargés de fruits !</p>
         <p>Pendant le mois de septembre, beaucoup de religieuses vinrent rendre visite à la supérieure.</p>
         <p>Bel-Œil les annonçait par un coup de cloche. À chaque coup, Véronique sortait pour s'assurer de celle qui entrait ; elle avait un mot désagréable pour chacune des religieuses qu'elle reconnaissait.</p>
         <p>Vers le soir, il y eut encore un coup de cloche ; Véronique, qui se trouvait sur la porte, cria :</p>
-        <p>-- Par exemple, en voilà une que personne n'attendait.</p>
+        <p>– Par exemple, en voilà une que personne n'attendait.</p>
         <p>Et en rentrant seulement sa tête dans les cuisines, elle nous dit :</p>
-        <p>-- C'est sœur Marie-Aimée.</p>
+        <p>– C'est sœur Marie-Aimée.</p>
         <p>La grosse cuillère à pot m'échappa des doigts et glissa jusqu'au fond de la marmite.</p>
         <p>Je me précipitai vers la porte, en bousculant Véronique qui voulait m'empêcher de passer.</p>
         <p>Mélanie courut derrière moi pour me retenir :</p>
-        <p>-- Reviens, disait-elle, la supérieure te voit.</p>
+        <p>– Reviens, disait-elle, la supérieure te voit.</p>
         <p>Mais j'avais déjà rejoint sœur Marie-Aimée. Je m'étais jetée contre elle avec une si grande force que nous avions manqué de tomber ensemble.</p>
         <p>Elle m'entoura à pleins bras. Elle était toute frémissante, et comme transportée.</p>
         <p>Elle me prit la tête, et comme si j'eusse été un tout petit enfant, elle m'embrassa par tout le visage.</p>
@@ -1331,26 +1312,26 @@
         <p>Sœur Marie-Aimée la vit ; elle cessa de m'embrasser pour poser sa main sur mon épaule, tandis que je passais vivement mon bras autour de sa taille, dans la crainte qu'elle ne m'éloignât d'elle.</p>
         <p>Toutes deux, maintenant, nous regardions venir la supérieure. Elle passa devant nous sans lever les yeux, et elle ne parut pas avoir vu le salut plein de gravité que lui fit sœur Marie-Aimée.</p>
         <p>Aussitôt qu'elle nous eut dépassées, j'entraînai sœur Marie-Aimée sur le vieux banc. Elle hésita, et dit avant de s'asseoir :</p>
-        <p>-- On dirait que les choses nous attendent.</p>
+        <p>– On dirait que les choses nous attendent.</p>
         <p>Elle s'assit, sans s'adosser au tilleul, et je m'agenouillai dans l'herbe à ses pieds.</p>
         <p>Ses yeux n'avaient plus de rayons ; on eût dit que les couleurs s'étaient mélangées, et tout son visage, si fin, s'était comme rapetissé, et retiré au fond de sa cornette. Sa guimpe ne s'arrondissait plus comme autrefois sur sa poitrine, et ses mains laissaient voir leurs veines bleues.</p>
         <p>Son regard se posa à peine sur la fenêtre de sa chambre ; il passa sur les allées de tilleuls, il fit le tour de la grande cour carrée, et pendant qu'il s'arrêtait sur la maison de la supérieure, elle laissa échapper ces paroles comme un murmure :</p>
-        <p>-- Il faut bien pardonner aux autres, si nous voulons qu'on nous pardonne !</p>
+        <p>– Il faut bien pardonner aux autres, si nous voulons qu'on nous pardonne !</p>
         <p>Elle ramena son regard sur moi, et elle dit :</p>
-        <p>-- Tes yeux sont tristes.</p>
+        <p>– Tes yeux sont tristes.</p>
         <p>Elle passa ses paumes sur mes yeux, comme si elle voulait y effacer une chose qui lui déplaisait ; et, en les retenant fermés, elle dit de la même voix murmurante :</p>
-        <p>-- Tant de souffrances passent sur nous !</p>
+        <p>– Tant de souffrances passent sur nous !</p>
         <p>Elle retira ses mains pour les mêler aux miennes, et sans me quitter du regard, avec un accent plein de prière, elle me parla :</p>
-        <p>-- Ma douce fille, écoute-moi : ne deviens jamais une pauvre religieuse !</p>
+        <p>– Ma douce fille, écoute-moi : ne deviens jamais une pauvre religieuse !</p>
         <p>Elle eut comme un long soupir de regret, et elle reprit :</p>
-        <p>-- Notre habit noir et blanc annonce aux autres que nous sommes des créatures de force et de clarté, et toutes les larmes s'étalent devant nous, et toutes les souffrances veulent être consolées par nous ; mais pour nous, personne ne s'inquiète de nos souffrances, et c'est comme si nous n'avions pas de visage.</p>
+        <p>– Notre habit noir et blanc annonce aux autres que nous sommes des créatures de force et de clarté, et toutes les larmes s'étalent devant nous, et toutes les souffrances veulent être consolées par nous ; mais pour nous, personne ne s'inquiète de nos souffrances, et c'est comme si nous n'avions pas de visage.</p>
         <p>Puis elle parla d'avenir ; elle disait :</p>
-        <p>-- Je m'en vais où vont les missionnaires. Je vivrai là-bas dans une maison pleine d'épouvante ; j'aurai sans cesse devant les yeux toutes les laideurs, et toutes les pourritures !</p>
+        <p>– Je m'en vais où vont les missionnaires. Je vivrai là-bas dans une maison pleine d'épouvante ; j'aurai sans cesse devant les yeux toutes les laideurs, et toutes les pourritures !</p>
         <p>J'écoutai sa voix profonde ; il y avait au fond comme une ardeur : on eût dit qu'elle pouvait prendre pour elle seule toutes les souffrances de la terre.</p>
         <p>Ses doigts cessèrent de s'entre-croiser aux miens. Elle les passa sur mes joues, et sa voix se fit très douce pour me dire :</p>
-        <p>-- La pureté de ton visage restera gravée dans ma pensée.</p>
+        <p>– La pureté de ton visage restera gravée dans ma pensée.</p>
         <p>Et pendant que son regard passait au-dessus de moi, elle ajouta :</p>
-        <p>-- Dieu nous a donné le souvenir, et il n'est au pouvoir de personne de nous le retirer.</p>
+        <p>– Dieu nous a donné le souvenir, et il n'est au pouvoir de personne de nous le retirer.</p>
         <p>Elle se leva du banc, je l'accompagnai jusqu'à la sortie, et, quand Bel-Œil eut refermé sur elle la lourde porte, j'en écoutai un long moment le bruit sourd et prolongé.</p>
         <p>Ce soir-là, sœur Désirée-des-Anges vint plus tard dans la chambre. Elle avait assisté à des prières particulières, pour le départ de sœur Marie-Aimée, qui s'en allait soigner les lépreux.</p>
         <p>L'hiver revint encore une fois.</p>
@@ -1360,24 +1341,24 @@
         <p>Peu à peu une douce amitié nous avait liées ; le rideau blanc ne séparait plus nos lits pendant la nuit ; la gêne s'en était allée d'entre nous, et toutes nos pensées nous étaient communes.</p>
         <p>Elle avait une gaieté fine, qui ne s'altérait jamais.</p>
         <p>Une seule chose lui paraissait ennuyeuse dans la vie : c'était son costume de religieuse. Elle le trouvait lourd et incommode ; elle disait avec une expression de lassitude :</p>
-        <p>-- Quand je m'habille, il me semble que je me mets dans une maison où il fait toujours noir.</p>
+        <p>– Quand je m'habille, il me semble que je me mets dans une maison où il fait toujours noir.</p>
         <p>Elle s'en débarrassait très vite le soir, et elle était tout heureuse de marcher dans la chambre en costume de nuit.</p>
         <p>Elle disait avec sa petite moue :</p>
-        <p>-- Je commence à m'y faire, mais dans les premiers temps la cornette m'écorchait les joues, et la robe me tirait les épaules en bas.</p>
+        <p>– Je commence à m'y faire, mais dans les premiers temps la cornette m'écorchait les joues, et la robe me tirait les épaules en bas.</p>
         <p>Au printemps, elle se mit à tousser.</p>
         <p>Elle avait une petite toux sèche qui ne se faisait entendre que de temps en temps.</p>
         <p>Son corps long et fin parut encore plus fragile. Elle gardait toute sa gaieté ; elle se plaignait seulement que sa robe devenait de plus en plus lourde.</p>
         <p>Pendant une nuit du mois de mai, elle ne cessa de s'agiter et de rêver tout haut.</p>
         <p>J'avais lu toute la nuit, et je m'aperçus tout à coup que le jour venait. Je soufflai la veilleuse, et j'essayai de dormir un peu.</p>
         <p>Je commençais à sommeiller, lorsque sœur Désirée-des-Anges se mit à dire :</p>
-        <p>-- Ouvrez la fenêtre, c'est aujourd'hui qu'il vient !</p>
+        <p>– Ouvrez la fenêtre, c'est aujourd'hui qu'il vient !</p>
         <p>Je crus qu'elle rêvait encore, mais elle reprit d'une voix claire :</p>
-        <p>-- Ouvrez la fenêtre, afin qu'il entre !</p>
+        <p>– Ouvrez la fenêtre, afin qu'il entre !</p>
         <p>Je me dressai pour m'assurer qu'elle dormait, et je la vis assise sur son lit. Elle avait rejeté ses couvertures, et elle défaisait les cordons de sa cornette de nuit. Elle la retira pour la lancer au pied du lit ; puis elle secoua la tête, en faisant rouler ses cheveux courts et bouclés sur son front, et aussitôt je reconnus Désirée Joly.</p>
         <p>Je me levai un peu effrayée ; elle répéta :</p>
-        <p>-- Ouvrez la fenêtre, afin qu'il entre !</p>
+        <p>– Ouvrez la fenêtre, afin qu'il entre !</p>
         <p>J'ouvris la fenêtre toute grande, et quand je me retournai, sœur Désirée-des-Anges tendait ses mains jointes vers le soleil levant, et d'une voix soudainement affaiblie elle disait :</p>
-        <p>-- J'ai ôté ma robe, je n'en pouvais plus.</p>
+        <p>– J'ai ôté ma robe, je n'en pouvais plus.</p>
         <p>Elle s'étendit tranquillement, et plus rien ne bougea sur son visage.</p>
         <p>Je retins longtemps ma respiration pour écouter la sienne ; puis, j'aspirai longuement, comme si mon souffle devait en même temps entrer dans sa poitrine.</p>
         <p>Mais en la regardant de plus près, je compris que le dernier souffle était déjà sorti d'elle. Ses yeux grands ouverts semblaient regarder un rayon de soleil qui s'avançait comme une longue flèche.</p>
@@ -1390,42 +1371,42 @@
         <p>« Assez ! assez ! »</p>
         <p>Mélanie m'arracha brusquement la corde. La cloche, qui était lancée, retomba à faux, et fit entendre une sorte de plainte.</p>
         <p>Mélanie me dit :</p>
-        <p>-- Es-tu folle, voilà plus d'un quart d'heure que tu sonnes !</p>
+        <p>– Es-tu folle, voilà plus d'un quart d'heure que tu sonnes !</p>
         <p>Je répondis :</p>
-        <p>-- Sœur Désirée-des-Anges est morte.</p>
+        <p>– Sœur Désirée-des-Anges est morte.</p>
         <p>Véronique entra avec nous dans la chambre ; elle remarqua que le rideau blanc ne séparait pas les deux lits ; et avec un geste de mépris, elle trouva que c'était honteux pour une religieuse de laisser voir ses cheveux.</p>
         <p>Mélanie passait son doigt sur chaque larme qui coulait sur ses joues. Sa tête se penchait davantage de côté ; et elle me dit tout bas :</p>
-        <p>-- Elle est encore plus jolie qu'avant.</p>
+        <p>– Elle est encore plus jolie qu'avant.</p>
         <p>Le soleil s'étalait maintenant sur le lit, et recouvrait complètement la morte.</p>
         <p>Toute la journée, je restai près d'elle.</p>
         <p>Quelques religieuses vinrent la voir. L'une d'elles lui recouvrit le visage avec un linge ; mais aussitôt qu'elle fut sortie, je retirai le linge.</p>
         <p>Mélanie vint passer la veillée de nuit avec moi. Quand elle eut fermé la fenêtre, elle alluma la grosse lampe, afin, dit-elle, que sœur Désirée-des-Anges ne regardât pas encore dans le noir.</p>
         <p>Huit jours après, Bel-Œil entra dans les cuisines. Elle venait m'avertir de me tenir prête à partir le jour même. Elle tenait dans le creux de sa main deux pièces d'or, qu'elle mit l'une à côté de l'autre sur le coin du fourneau, et en les touchant du bout du doigt elle dit :</p>
-        <p>-- Notre Mère Supérieure vous donne quarante francs.</p>
+        <p>– Notre Mère Supérieure vous donne quarante francs.</p>
         <p>Je ne voulais pas partir sans dire adieu à Colette et à Ismérie, que j'avais souvent aperçues de l'autre côté de la pelouse.</p>
         <p>Mais Mélanie m'assura qu'elles n'avaient que du mépris pour moi.</p>
         <p>Colette ne comprenait pas que je ne sois pas encore mariée, et Ismérie ne me pardonnait pas d'aimer sœur Marie-Aimée.</p>
         <p>Mélanie m'accompagna jusqu'à la porte.</p>
         <p>En passant devant le vieux banc, je vis qu'un des pieds avait cédé, et qu'il était tombé dans l'herbe par un bout.</p>
         <p>À la porte, je trouvai une femme aux yeux durs. Elle me dit avec autorité :</p>
-        <p>-- Je suis ta sœur.</p>
+        <p>– Je suis ta sœur.</p>
         <p>Je ne la reconnus pas.</p>
         <p>Douze ans avaient passé depuis notre séparation.</p>
         <p>À peine dehors, elle m'arrêta par le bras, et d'une voix aussi dure que ses yeux, elle me demanda combien j'avais d'argent.</p>
         <p>Je lui montrai les deux pièces d'or que je venais de recevoir.</p>
-        <p>-- En ce cas, dit-elle, tu feras mieux de rester dans la ville, où tu trouveras plus facilement à te placer.</p>
+        <p>– En ce cas, dit-elle, tu feras mieux de rester dans la ville, où tu trouveras plus facilement à te placer.</p>
         <p>Tout en continuant d'avancer, elle m'apprit qu'elle était mariée à un cultivateur des environs, et qu'elle ne voulait pas se créer des ennuis pour moi.</p>
         <p>Nous étions arrivées devant la gare.</p>
         <p>Elle m'entraîna sur le quai, pour l'aider à porter quelques paquets ; elle me dit adieu, quand son train s'ébranla, et je restai là, à le regarder s'éloigner.</p>
         <p>Presque aussitôt, un autre train s'arrêta. Les employés couraient sur le quai en criant :</p>
-        <p>-- Les voyageurs pour Paris, traversez !</p>
+        <p>– Les voyageurs pour Paris, traversez !</p>
         <p>Dans l'instant même, je vis Paris avec ses hautes maisons toutes semblables à des palais, et dont les toits étaient si hauts qu'ils se perdaient dans les nuages.</p>
         <p>Un jeune employé me heurta ; il s'arrêta devant moi en disant :</p>
-        <p>-- Est-ce que vous allez à Paris, mademoiselle ?</p>
+        <p>– Est-ce que vous allez à Paris, mademoiselle ?</p>
         <p>J'hésitai à peine pour répondre :</p>
-        <p>-- Oui, mais je n'ai pas mon billet.</p>
+        <p>– Oui, mais je n'ai pas mon billet.</p>
         <p>Il tendit la main.</p>
-        <p>-- Donnez, dit-il, je vais aller vous le chercher.</p>
+        <p>– Donnez, dit-il, je vais aller vous le chercher.</p>
         <p>Je lui remis une de mes deux pièces, et il partit en courant.</p>
         <p>Je mis pêle-mêle dans ma poche le billet et les quelques sous de monnaie qu'il me rapportait, et, conduite par lui, je traversai la voie, montai vivement dans le train.</p>
         <p>Le jeune employé resta un moment devant la portière, puis il s'éloigna en se retournant. Il avait, comme Henri Deslois, des yeux pleins de douceur, et un air grave.</p>
@@ -1434,7 +1415,7 @@
     </body>
     <back>
       <div type="liminal">
-        <p/>
+        <p />
       </div>
     </back>
   </text>
