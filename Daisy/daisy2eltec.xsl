@@ -6,7 +6,7 @@
     xmlns:t="http://www.tei-c.org/ns/1.0" 
     
     xmlns="http://www.tei-c.org/ns/1.0" 
-    version="2.0">
+    version="1.0">
 
 <xsl:param name="textId">FRA00000</xsl:param>
 <xsl:param name="sexKey">M</xsl:param>
@@ -20,10 +20,12 @@
     />
 </xsl:variable>
     <xsl:variable name="sizeKey">
+        <xsl:message><xsl:value-of select="number($wordCount)"/></xsl:message>
         <xsl:choose>
-            <xsl:when test="xs:integer($wordCount) le 50000">short</xsl:when>
-            <xsl:when test="xs:integer($wordCount) le 100000">medium</xsl:when>
-            <xsl:when test="xs:integer($wordCount) gt 100000">long</xsl:when>
+            
+            <xsl:when test="number($wordCount) &lt; 50001">short</xsl:when>
+            <xsl:when test="number($wordCount) &lt; 100001">medium</xsl:when>
+            <xsl:when test="number($wordCount) &gt; 100000">long</xsl:when>
         </xsl:choose>
     </xsl:variable>
 
@@ -36,10 +38,10 @@
     
     <xsl:variable name="timeKey">
             <xsl:choose>
-                <xsl:when test="$date le '1859'">T1</xsl:when>
-                <xsl:when test="$date le '1879'">T2</xsl:when>
-                <xsl:when test="$date le '1899'">T3</xsl:when>
-                <xsl:when test="$date le '1920'">T4</xsl:when>
+                <xsl:when test="number($date) &lt; 1860">T1</xsl:when>
+                <xsl:when test="number($date) &lt; 1880">T2</xsl:when>
+                <xsl:when test="number($date) &lt; 1900">T3</xsl:when>
+                <xsl:when test="number($date) &lt; 1921">T4</xsl:when>
             </xsl:choose>
     </xsl:variable>
  
@@ -121,7 +123,7 @@
     
     <xsl:template match="d:pagenum">
         <pb>
-            <xsl:if test="string-length(.) ge 1"><xsl:attribute name="n"><xsl:value-of select="."/></xsl:attribute></xsl:if>
+            <xsl:if test="string-length(.) &gt; 1"><xsl:attribute name="n"><xsl:value-of select="."/></xsl:attribute></xsl:if>
         </pb>
     </xsl:template>
     <xsl:template match="d:imggroup">
