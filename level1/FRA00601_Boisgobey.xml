@@ -26,16 +26,16 @@
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
         <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource"> Ebookslibres, <date>2006</date> ,
-          <idno /> , . </bibl>
-        <bibl type="firstEdition"> Plon, <date>1881</date> ,
-          <idno /> , . </bibl>
+        <bibl type="digitalSource">
+          <publisher>Ebooks libres et gratuits</publisher>
+          <date>2006</date>
+        </bibl>
+        <bibl type="firstEdition">
+          <publisher>Plon</publisher>
+          <date>1881</date>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">

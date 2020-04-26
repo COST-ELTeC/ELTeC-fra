@@ -32,13 +32,13 @@
         -->
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource"> Bibliothèque électronique du Québec,
-          <date /> ,
-          <idno /> ,
-          <ref target="http://beq.ebooksgratuits.com" /> . </bibl>
+        <bibl type="digitalSource">
+          <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
+          <ref target="https://www.ebooksgratuits.com/details.php?book=953" />
+          <date>2005</date>
+        </bibl>
         <bibl type="firstEdition">
-          <date>1858</date> ,
-          <idno /> , .
+          <date>1858</date>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -78,6 +78,7 @@
 
     <body>
       <div type="group">
+
         <head>Prologue -- Le maudit</head>
         <div type="chapter">
 
@@ -176,7 +177,8 @@
         </div>
         <div type="chapter">
 
-          <head>II -- <foreign>L'hacienda del milagro</foreign></head>
+          <head>II -- <foreign>L'hacienda del milagro</foreign>
+          </head>
           <p>Les environs d'Hermosillo sont de véritables déserts.</p>
           <p> Le chemin qui conduit de cette ville à l' <foreign>hacienda del Milagro</foreign> -- ferme du Miracle -- est des plus tristes et des plus arides. </p>
           <p>L'on ne voit, à de rares intervalles, que des arbres à bois de fer, des gommiers, des arbres du Pérou aux grappes rouges et pimentées, des nopals et des cactus, seuls arbres qui peuvent croître dans un terrain calciné par les rayons incandescents d'un soleil perpendiculaire.</p>
@@ -425,6 +427,7 @@
         </div>
       </div>
       <div type="group">
+
         <head>Première partie -- Le Cœur-Loyal</head>
         <div type="chapter">
 
