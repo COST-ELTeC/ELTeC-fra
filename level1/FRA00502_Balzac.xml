@@ -26,15 +26,19 @@
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
         <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource"> Éfélé, <date>2014</date> , <idno>000067</idno> ,
-          <ref target="http://efele.net/ebooks/livres/000067" /> . </bibl>
-        <bibl type="printSource"> Paris: Furne, J.-J. Dubochet et Cie, J. Hetzel et Paulin, <date>1842</date> -1848. </bibl>
+        <bibl type="digitalSource">
+          <publisher>Éfélé</publisher>
+          <date>2014</date>
+          <idno>000067</idno>
+          <ref target="http://efele.net/ebooks/livres/000067" />
+        </bibl>
+        <bibl type="printSource">
+          <pubPlace>Paris</pubPlace>
+          <publisher>Furne, J.-J. Dubochet et Cie, J. Hetzel et Paulin</publisher>
+          <date>1842-1848</date>
+        </bibl>
         <bibl type="firstEdition">
           <date>1847</date>
         </bibl>
