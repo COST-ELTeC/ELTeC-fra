@@ -33,10 +33,10 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <ref target="http://beq.ebooksgratuits.com/auteurs/terrail/index.htm">Marie-Claire</ref>
-          <publisher>BEQ</publisher>
-          <idno type="beq">977</idno>
           <title>Marie-Claire</title>
+          <ref target="http://beq.ebooksgratuits.com/auteurs/terrail/index.htm">Marie-Claire</ref>
+          <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
+          <idno type="beq">977</idno>
         </bibl>
         <bibl type="firstEdition">
           <title>Marie-Claire</title>

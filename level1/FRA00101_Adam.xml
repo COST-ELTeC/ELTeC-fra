@@ -7,9 +7,16 @@
       <titleStmt>
         <title>Mon Village : ELTeC edition</title>
         <author ref="viaf:64000638">Adam, Juliette (1836-1936)</author>
-        <respStmt> <resp>encoded by</resp> <name>Pia Geißel</name>
+        <respStmt>
+          <resp>encoded by</resp>
+          <name>Pia Geißel</name>
         </respStmt>
-        <respStmt> <resp>Original data capture</resp> <name>Wikisource</name> <name>*j*jac</name> <name>Sixdegrés</name> <name>Hsarrazin</name>
+        <respStmt>
+          <resp>Original data capture</resp>
+          <name>Wikisource</name>
+          <name>*j*jac</name>
+          <name>Sixdegrés</name>
+          <name>Hsarrazin</name>
         </respStmt>
       </titleStmt>
       <extent>
@@ -18,29 +25,46 @@
       </extent>
       <publicationStmt>
         <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/>
-        <availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- First ElTeC edition 2019-09-30 --></publicationStmt>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" /><!-- First ElTeC edition 2019-09-30 -->
+      </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource"> <title>Mon village</title> <author>Juliette Lamber (Madame Adam)</author> <ref target="https://fr.wikisource.org/wiki/Mon_village/Texte_entier"/> <date>2019-02-10</date>
+        <bibl type="digitalSource">
+          <title>Mon village</title>
+          <author>Juliette Lamber (Madame Adam)</author>
+          <ref target="https://fr.wikisource.org/wiki/Mon_village/Texte_entier" />
+          <publisher>Wikisource</publisher>
+          <date>2019</date>
         </bibl>
-        <bibl type="printSource"> <title>MON VILLAGE</title> <author>JULIETTE LAMBER</author> <publisher>Michel Lévy Frères, Libraries Éditeurs, Rue Vivienne 2</publisher> <pubPlace>Paris</pubPlace> <date>1868</date>
+        <bibl type="printSource">
+          <title>MON VILLAGE</title>
+          <author>JULIETTE LAMBER</author>
+          <publisher>Michel Lévy Frères, Libraries Éditeurs, Rue Vivienne 2</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1868</date>
         </bibl>
-        <bibl type="firstEdition"> <!-- best guess: BNF says: " [1863?] " but the other sources say 1868 as first edition. --> <date>1868</date>
+        <bibl type="firstEdition">
+          <!-- best guess: BNF says: " [1863?] " but the other sources say 1868 as first edition. -->
+          <date>1868</date>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -72,9 +96,12 @@
         <p>Pour finir, je fais savoir que j'ai toujours été tisserand de mon état, et que je reste dans la maison où restait mon père, à Saint-Brunelle, près Morlincourt, Oise ; de plus, que Fructueux Cellier est mon nom.</p>
       </div>
     </front>
+
     <body>
       <div type="chapter">
+
         <head>I</head>
+
         <head>UNE VEILLÉE.</head>
         <p>Depuis un nombre innombrable d'hivers, c'est dans la maison de Norine Duclos qu'ont lieu les plus égayantes veillées de notre village. Adonc, certain soir, comme j'entrais chez Norine, je la trouvai en train de prêcher ses trois petiotes.</p>
         <p>— Hé ! Mandine, criait-elle, dépêche-toi de balayer la maison ; plus vite que ça ! Surtout n'oublie pas le coin où la femme de Jean-Claude a épluché une pomme ce matin. Toi, la Rose, prends mon couvet et emplis-le. Habile <ref target="#FRA00101N02">[2]</ref> , habile.</p>
@@ -121,7 +148,30 @@
         <p>— Non, dit le fieu de Toinon, son promis ; si c'est trop fort, tu te boucheras les oreilles. Reste.</p>
         <p>— Méchante bigote, dit Jean-Claude, tu en écoutes bien d'autres en latin.</p>
         <p>Voilà donc, s'il vous plaît de l'apprendre, la chanson du vieux berger :</p>
-        <quote> <l>Jeanneton prend sa faucille</l> <l>Et s'en va couper du jonc,</l> <l>Mais quand sa botte fut faite Elle s'endormit tout du long.</l> <l>Las ! pourquoi s'endormit-elle, La petiote Jeanneton ?</l> <l>Las ! pourquoi s'endormit-elle, La petiote Jeanneton ?</l> <l>Mais quand sa botte fut faite, Elle s'endormit tout du long.</l> <l>Voilà qu'il passe près d'elle Trois cavaliers de renom.</l> <l>Las ! pourquoi s'endormit-elle, La petiote Jeanneton ?</l> <l>Voilà qu'il passe près d'elle Trois cavaliers de renom.</l> <l>Le premier mit pied à terre Et regarda son pied mignon.</l> <l>Las ! pourquoi s'endormit-elle,</l> <l>La petiote Jeanneton ?</l> <l>Le premier mit pied à terre Et regarda son pied mignon.</l> <l>Le second fut moins timide,</l> <l>Il l'embrassa sous le menton.</l> <l>Las ! pourquoi s'endormit-elle,</l> <l>La petiote Jeanneton ?</l> <l>Le second fut moins timide,</l> <l>Il l'embrassa sous le menton.</l> <l>Mais ce que fit le troisième...</l> <l>N'est pas dit dans la chanson !</l> <l>Las ! pourquoi s'endormit-elle,</l> <l>La petiote Jeanneton ?</l>
+        <quote>
+          <l>Jeanneton prend sa faucille</l>
+          <l>Et s'en va couper du jonc,</l>
+          <l>Mais quand sa botte fut faite Elle s'endormit tout du long.</l>
+          <l>Las ! pourquoi s'endormit-elle, La petiote Jeanneton ?</l>
+          <l>Las ! pourquoi s'endormit-elle, La petiote Jeanneton ?</l>
+          <l>Mais quand sa botte fut faite, Elle s'endormit tout du long.</l>
+          <l>Voilà qu'il passe près d'elle Trois cavaliers de renom.</l>
+          <l>Las ! pourquoi s'endormit-elle, La petiote Jeanneton ?</l>
+          <l>Voilà qu'il passe près d'elle Trois cavaliers de renom.</l>
+          <l>Le premier mit pied à terre Et regarda son pied mignon.</l>
+          <l>Las ! pourquoi s'endormit-elle,</l>
+          <l>La petiote Jeanneton ?</l>
+          <l>Le premier mit pied à terre Et regarda son pied mignon.</l>
+          <l>Le second fut moins timide,</l>
+          <l>Il l'embrassa sous le menton.</l>
+          <l>Las ! pourquoi s'endormit-elle,</l>
+          <l>La petiote Jeanneton ?</l>
+          <l>Le second fut moins timide,</l>
+          <l>Il l'embrassa sous le menton.</l>
+          <l>Mais ce que fit le troisième...</l>
+          <l>N'est pas dit dans la chanson !</l>
+          <l>Las ! pourquoi s'endormit-elle,</l>
+          <l>La petiote Jeanneton ?</l>
         </quote>
         <p>— Retiens celle-là, hé ! petiote Perpétue, dit le père Roux, berger ; tu la chanteras au mois de Marie.</p>
         <p>— Avez-vous bientôt fini ? dit la mère Remblay. Dans notre pays, on ne vous laisserait pas détruire comme ça la religion.</p>
@@ -131,7 +181,15 @@
         <p>— Chantez, chantons, qu'on chante ! dit le dragon en refermant la porte. Bonsoir à un chacun.</p>
         <p> — Bonsoir, Pierre <ref target="#FRA00101N05">[5]</ref> , dit la compagnie :</p>
         <p>La mère Remblay se mit à chanter, d'une belle voix perçante, une chanson. En voilà le refrain ; comprenez si vous pouvez :</p>
-        <quote> <l>Ch' solé y r'luit, ch' moinet y cainte,</l> <l>Ch' mouguet flourit, ch' lépène s'épanouit ;</l> <l>V'nez, m'tiote caille, v'nez, n'eussiez pau de crainte,</l> <l>V'nez dans nos bous, tout y sourit,</l> <l>V'nez dans nos bous sous leu n'ombrache,</l> <l>V'nez donc bachelette, v'nez aveu nous ;</l> <l>Eussiez une tiote miette d'courache,</l> <l>   Y foët rud'ment dous dans ché bous   <ref target="#FRA00101N06">[6]</ref>   . </l>
+        <quote>
+          <l>Ch' solé y r'luit, ch' moinet y cainte,</l>
+          <l>Ch' mouguet flourit, ch' lépène s'épanouit ;</l>
+          <l>V'nez, m'tiote caille, v'nez, n'eussiez pau de crainte,</l>
+          <l>V'nez dans nos bous, tout y sourit,</l>
+          <l>V'nez dans nos bous sous leu n'ombrache,</l>
+          <l>V'nez donc bachelette, v'nez aveu nous ;</l>
+          <l>Eussiez une tiote miette d'courache,</l>
+          <l> Y foët rud'ment dous dans ché bous <ref target="#FRA00101N06">[6]</ref> . </l>
         </quote>
         <p>C'est pourtant de cette manière-là qu'ils devisent du côté de Saint-Quentin ; mais fût-ce !</p>
         <p>La retraite sonne, pour bien dire, neuf heures. Les bonnets blancs tirent de leurs poches des noix, des pommes et puis du pain. Filles et garçons, à qui mieux mieux, font claquer leurs mâchoires.</p>
@@ -201,7 +259,9 @@
         <p>— Je vois à mes étoiles qu'il est déjà tard, allons-nous-en, dit le vieux berger. Quant à toi, la Rose, je souhaite que le mot de Jeacquet ne te porte pas malheur !</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
+
         <head>LA ROSE.</head>
         <p> À force, à force de payer ses galants, « d'écoute s'il pleut <ref target="#FRA00101N07">[7]</ref> »</p>
         <p>et de les voir accourir tout de même, la Rose devenait un brin trop acrimonieuse ; fière comme Artaban, elle s'illusionnait au point de croire qu'elle serait toujours pareillement festoyée.</p>
@@ -265,9 +325,10 @@
         <p>— Pierre, laisse-moi, va-t-en... !</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
-        <head> LES PARIGOTS [8] .
-        </head>
+
+        <head> LES PARIGOTS [8] . </head>
         <p>Le parigot de Thérèse, la femme à Jean-Claude, avait toussé la nuit d'une toux qui ne semblait pas naturelle.</p>
         <p>Dès le fin matin, le frère de Norine s'habilla pour aller quérir le médecin.</p>
         <p>— Hé ! cousin, lui cria Toinon, l'épicière, en le voyant passer.</p>
@@ -334,7 +395,9 @@
         <p>Madame la mairesse nous a prévenus de la modestie de notre médecin, et Jean-Claude dit que le mot de madame la mairesse signifie qu'il ne faut jamais donner de louanges à M. Céran.</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
+
         <head>MONSIEUR LE CURÉ.</head>
         <p>La Rose a été bien malade. Un chacun dit que c'est le départ de Pierre qui lui a donné cette maladie-là. Toinon, une mauvaise langue à faire battre ensemble des montagnes, raconte à ceux qui veulent l'entendre qu'il y a dans ce chagrin-là quelque chose de plus, assuré, qu'un simple chagrin. Tout de même, la Rose a bien pâti.</p>
         <p>Je ne veux point me faire ce qu'on appelle l'écho des méchancetés débitées en catimini sur le compte de la fille à</p>
@@ -377,7 +440,9 @@
         <p>Ne riez pas, quand bien même Mlle Dorothée tirerait par devant, à la longe, son frère et son baudet ; ne riez pas !</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
+
         <head>L'AVOCAT DE PIGNON.</head>
         <p>Pour un simple paysan, Jean-Claude en sait long tout de même ; il vous explique la feuille si bel et si bien, que souvent nous voyons plus clair qu'on ne pourrait le croire aux affaires de notre gouvernement.</p>
         <p>Quoiqu'à vrai dire, dans la politique, chez nous, le plus grand nombre ne voie jamais que la question des impositions.</p>
@@ -425,7 +490,9 @@
         <p>cinq feuilles, et Manot s'en alla en sifflotant regarder sur sa porte si j'y étais.</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
+
         <head>MADAME LA MAIRESSE.</head>
         <p>Gaspard traîne partout la grande Jacqueline ; devinez pourquoi ? Vous ne pouvez l'ignorer plus longtemps, quoique ça me coûte de vous le dire : la Rose est enceinte !</p>
         <p>Un chacun tombe d'accord quand on avance que cet enfant-là</p>
@@ -483,7 +550,9 @@
         <p>on ne peut jamais savoir...</p>
       </div>
       <div type="chapter">
+
         <head>VII</head>
+
         <head>LA CONSCRIPTION.</head>
         <p>Je vas vous parler là d'une chose qui n'est pas fort gaie, mais fût-ce ! puisque je vous dis tout, écoutez :</p>
         <p>Dans les villes, vous êtes braves peut-être. Pourtant, ne vous pressez trop de nous traiter de lâches ! Pensez, à part vous, combien doit être dur le moment où on quitte le pays, l'ouvrage, les parents, les amis, ses amours... Pensez-y. Adonc, ne nous accusez jamais, quand, dans le but d'échapper au sort, nous faisons tant et plus.</p>
@@ -520,7 +589,9 @@
         <p>Ah ! voilà encore une conscription de passée ! Comprenez : un assaut, une calamité.</p>
       </div>
       <div type="chapter">
+
         <head>VIII</head>
+
         <head>UN REVENANT.</head>
         <p>Il s'agit bien des noces, ma foi ! vous allez voir. Voilà une aventure, en voilà une ! Je m'en vas vous conter comment ça s'est passé.</p>
         <p>Avez-vous entendu parler du pré Brugnon, un pré qu'il faut traverser pour entrer dans notre cimetière ? Non, peut-être.</p>
@@ -581,7 +652,9 @@
         <p>Je suppose, elle aura servi à quelque chose. J'opine qu'au jour d'aujourd'hui on ne sera plus si craintif en traversant le chemin des Hommes-sans-Têtes ; qu'on ne rabâchera pas tant de bêtises quand on rencontrera, par hasard, un lapin blanc ; que quelques-uns se risqueront à sauter de nuit, au lieu de faire un détour de trois quarts de lieue, les fossés Poulains ; et qu'à réserve des furolles qui mènent les ivrognes dans les fossés, on ne croira plus chez nous, en tout, en tout, à rien de diabolique ni de surnaturel.</p>
       </div>
       <div type="chapter">
+
         <head>IX</head>
+
         <head>LES NOCES.</head>
         <p>Chez Norine, chez la grande Jacqueline, chez Perpétue, tout terluit du haut jusqu'en bas.</p>
         <p> Les commères de notre village se sont partagé la besogne sous les ordres des trois grands cordons <ref target="#FRA00101N10">[10]</ref> .</p>
@@ -682,7 +755,9 @@
         <p>— C'est ça, que je dis, et nous voterons des deux mains, afin que ça fasse plus d'unanimité.</p>
       </div>
       <div type="chapter">
+
         <head>X</head>
+
         <head>CE QU'IL VOUS PLAIRA.</head>
         <p>L'hiver a passé.</p>
         <p>D'autres et moi nous avons fait de la toile dans nos caves ; d'aucuns ont battu en grange et semé les mars.</p>
@@ -723,7 +798,9 @@
         <p>— Bien ! cria Jean-Claude, tu as joliment répondu ! Fallait prouver aux Parisiens qu'on n'est pas si bête qu'on est mal habillé ; et tu l'as prouvé, père Roux, mon camarade !</p>
       </div>
       <div type="chapter">
+
         <head>XI</head>
+
         <head>LA MOISSON.</head>
         <p>Les blés sont mûrs, l'épi, dit-on, grainera bien.</p>
         <p>Sortez des maisons, gais moissonneurs, sortez des maisons pour aller aux champs.</p>
@@ -763,7 +840,7 @@
         <p>Reviendront-ils vivants ? et dans quel état ? Pourvu qu'ils ne nous rapportent pas encore quelque épidémie ! Fût-ce ! M. Céran nous guérira.</p>
         <p>Le père Roux, berger, soutient que la lune a un grain ou deux, les pluies vont venir. J'ai vu dans les champs deux pièces de blé encore debout : l'une est à Jean-Claude et l'autre à Cadet Lambin, tous les deux sont à la France. S'il pleut, leur pauvre blé va germer.</p>
         <p> Chaque année, on se fait une fête du retour des franciers <ref target="#FRA00101N12">[12]</ref> , et c'est presque toujours un enterrement...</p>
-        <milestone unit="subchapter" rend="dot"/>
+        <milestone unit="subchapter" rend="dot" />
         <p>Les voilà ! les voilà ! Voilà les franciers revenus !</p>
         <p>— Où sont-ils ? — Sur la place ! — Courons les embrasser !</p>
         <p>— Depuis quinze longs jours et quinze longues nuits qu'ils étaient partis ! — Mon pauvre fieu ! — Mon pauvre homme !</p>
@@ -775,7 +852,9 @@
         <p>— Qu'une bonne âme aille chercher le médecin, redit Jean-Claude d'une voix de mourant.</p>
       </div>
       <div type="chapter">
+
         <head>XII</head>
+
         <head>L'ÉPIDÉMIE.</head>
         <p>— Cette bonne âme-là, ça sera moi, Cellier, que je répondis à</p>
         <p>Jean-Claude.</p>
@@ -826,7 +905,9 @@
         <p> Quand nous trouvons notre chanvre suffisamment égoutté, nous le mâchons <ref target="#FRA00101N14">[14]</ref> ; plus tard les bonnets blancs le filent. C'est avec ce fil-là que nous autres tisserands nous faisons la toile.</p>
       </div>
       <div type="chapter">
+
         <head>XIII</head>
+
         <head>UNE PÉTITION.</head>
         <p>Chaque année, vers le mois d'octobre, nous recommençons les veillées.</p>
         <p>Pour lors, à la première, pendant que nous devisions, comme à</p>
@@ -835,7 +916,16 @@
         <p>— Sois la bienvenue, dit Jean-Claude. Qu'est-ce qu'il y a pour son service ? Parle vite ; quoi qu'elle nous demande, nous serons toujours les obligés de notre mairesse.</p>
         <p>— Je vous apporte une pétition que tous les franciers doivent signer ; lisez-la hautement, mon oncle, dit la Rose en donnant son papier à Jean-Claude.</p>
         <p>Voilà ce que la pétition disait ; je l'ai récrite dans le but de n'en pas omettre un seul mot :</p>
-        <quote> <p>« Messieurs les administrateurs des chemins de fer du Nord.</p> <p>« Messieurs,</p> <p>« Depuis l'invention des trains de plaisir tout Parisien connaît les beautés de la province, tout provincial a vu Paris. Rien de mieux. Les voyages sont favorables au développement intellectuel.</p> <p>« Mais combien seraient plus utiles encore des trains qu'on pourrait facilement organiser !</p> <p>« À l'époque de la moisson, les faucheurs du Nord, belges, picards, descendent dans le centre de la France ; les pauvres gens font à pied, les uns cinquante à quatre-vingts lieues, les autres cent à deux cents.</p> <p>« Il résulte de ce déplacement une fatigue extrême, une perte de temps considérable à une époque où les bras des travailleurs manquent partout.</p> <p>« Les franciers reviennent malades, développent des épidémies, et font courir à la santé publique un danger réel.</p> <p>« Il s'agirait de transporter sur des points donnés, à des prix équivalents à ceux des trains de plaisir, moindres même s'il se pouvait, les moissonneurs qui descendent du Nord à l'époque de la moisson.</p> <p>   « Puisque vous avez su, Messieurs, trouver moyen de gagner aux trains de plaisir, il serait triste de penser que vous dussiez perdre.  <title>AUX TRAINS DE TRAVAIL</title>   . </p>
+        <quote>
+          <p>« Messieurs les administrateurs des chemins de fer du Nord.</p>
+          <p>« Messieurs,</p>
+          <p>« Depuis l'invention des trains de plaisir tout Parisien connaît les beautés de la province, tout provincial a vu Paris. Rien de mieux. Les voyages sont favorables au développement intellectuel.</p>
+          <p>« Mais combien seraient plus utiles encore des trains qu'on pourrait facilement organiser !</p>
+          <p>« À l'époque de la moisson, les faucheurs du Nord, belges, picards, descendent dans le centre de la France ; les pauvres gens font à pied, les uns cinquante à quatre-vingts lieues, les autres cent à deux cents.</p>
+          <p>« Il résulte de ce déplacement une fatigue extrême, une perte de temps considérable à une époque où les bras des travailleurs manquent partout.</p>
+          <p>« Les franciers reviennent malades, développent des épidémies, et font courir à la santé publique un danger réel.</p>
+          <p>« Il s'agirait de transporter sur des points donnés, à des prix équivalents à ceux des trains de plaisir, moindres même s'il se pouvait, les moissonneurs qui descendent du Nord à l'époque de la moisson.</p>
+          <p> « Puisque vous avez su, Messieurs, trouver moyen de gagner aux trains de plaisir, il serait triste de penser que vous dussiez perdre. <title>AUX TRAINS DE TRAVAIL</title> . </p>
         </quote>
         <p> « Agréez, Messieurs <ref target="#FRA00101N18">[15]</ref> ... »</p>
         <p>— Les politesses d'usage ! dit Jean-Claude. Hein ! la compagnie, et qu'est-ce que vous pensez de cette pétition-là ?</p>
@@ -851,12 +941,15 @@
     </body>
     <back>
       <div type="liminal">
+
         <head>PRIÈRE ET SOUHAITS</head>
+
         <head>PRIÈRE.</head>
         <p>Je vous serais bien obligé, gens des villes, une supposition que vous auriez dans le nombre de vos connaissances quelque employé de chemin de fer, de lui recommander notre pétition.</p>
         <p>Tout de même, si nous arrivions à ne pas payer plus cher, pour nous rendre en moisson, que le père Roux, berger, lors de son voyage dans Paris, nous en serions rudement facilités.</p>
       </div>
       <div type="liminal">
+
         <head>SOUHAITS.</head>
         <p>Premièrement, je vous souhaite de rencontrer, dans les pays où</p>
         <p>vous placerez vos petiots enfants en nourrice, une mairesse pareille à la nôtre.</p>
@@ -871,7 +964,17 @@
         <note xml:id="FRA00101N03">Rester à la maison.</note>
         <note xml:id="FRA00101N04">Tous les bergers du pays tricotent.</note>
         <note xml:id="FRA00101N05">Pierre-Louis Gosseu.</note>
-        <note xml:id="FRA00101N06"> <quote>   <l>Le soleil luit, l'oiseau chante,</l>   <l>Le muguet fleurit, l'épine s'épanouit ;</l>   <l>Venez ma petite caille, n'ayez nulle crainte,</l>   <l>Venez dans nos bois, tout y sourit,</l>   <l>Venez dans nos bois, sous leur ombrage,</l>   <l>Venez donc bachelette, venez avec nous ;</l>   <l>Ayez un petit peu de courage,</l>   <l>Il fait tellement doux dans les bois.</l> </quote>
+        <note xml:id="FRA00101N06">
+          <quote>
+            <l>Le soleil luit, l'oiseau chante,</l>
+            <l>Le muguet fleurit, l'épine s'épanouit ;</l>
+            <l>Venez ma petite caille, n'ayez nulle crainte,</l>
+            <l>Venez dans nos bois, tout y sourit,</l>
+            <l>Venez dans nos bois, sous leur ombrage,</l>
+            <l>Venez donc bachelette, venez avec nous ;</l>
+            <l>Ayez un petit peu de courage,</l>
+            <l>Il fait tellement doux dans les bois.</l>
+          </quote>
         </note>
         <note xml:id="FRA00101N07">Locution qui correspond à « Va voir dehors si j'y suis. »</note>
         <note xml:id="FRA00101N08">Nourrissons de Paris, sortant pour la plupart des bureaux de nourrices.</note>
