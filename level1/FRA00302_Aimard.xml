@@ -26,19 +26,14 @@
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
         <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource"> Bibliothèque électronique du Québec,
-          <date /> ,
-          <idno /> ,
-          <ref target="http://beq.ebooksgratuits.com" /> . </bibl>
+        <bibl type="digitalSource">
+          <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
+          <ref target="http://beq.ebooksgratuits.com/vents-epub/Aimard-riviere.epub" />
+        </bibl>
         <bibl type="firstEdition">
-          <date>1874</date> ,
-          <idno /> , .
+          <date>1874</date>
         </bibl>
       </sourceDesc>
     </fileDesc>
