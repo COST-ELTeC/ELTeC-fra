@@ -18,11 +18,6 @@
         <p>à fournir</p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="printSource">
-          <author>Moselly, Emile (1870-1918)</author>
-          <title>Terres lorraines</title>
-          <date>1907</date>
-        </bibl>
         <bibl type="digitalSource">
           <publisher>Bibebook</publisher>
           <ref target="http://www.bibebook.com/search/978-2-8247-1132-4">http://www.bibebook.com/search/978-2-8247-1132-4</ref>
@@ -35,6 +30,11 @@
             <name> Justus Erich Walbaum </name>
             <name>Khunrath</name>
           </respStmt>
+        </bibl>
+        <bibl type="printSource">
+          <author>Moselly, Emile (1870-1918)</author>
+          <title>Terres lorraines</title>
+          <date>1907</date>
         </bibl>
         <bibl type="firstEdition">
           <date>1907</date>

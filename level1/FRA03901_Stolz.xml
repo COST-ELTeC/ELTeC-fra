@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03901" xml:lang="fr">
   <teiHeader>
@@ -18,85 +18,72 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">52092</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          Bibliothèque électronique du Québec,
-
-          <ref target="http://beq.ebooksgratuits.com"/>
-
-        </bibl><bibl type="firstEdition">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
+          <ref target="http://beq.ebooksgratuits.com" />
+        </bibl>
+        <bibl type="firstEdition">
           <date>1869</date>
-
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="chapter">
+
         <head>I -- Adalbert était heureux.</head>
         <p>Rien de plus joli que la demeure où s'écoulait l'enfance du petit Adalbert ; c'était la campagne de la Normandie avec ses haies, ses buissons, ses grands prés, ses champs dorés, tous ses parfums, toutes ses fleurs.</p>
         <p>Ces trésors, Adalbert les partageait avec les enfants du canton, car Dieu a mis pour tous du bonheur dans la plaine ; mais ce dont le petit garçon jouissait seulement avec ses frères et sa sœur, c'était une grande et belle maison dont les fenêtres donnaient sur une jolie pelouse, où l'on admirait deux corbeilles de roses, les plus délicieuses qu'on pût voir. Il y avait de tous côtés des arbres verts, des peupliers, des hêtres, des chênes, des ormes, entre lesquels couraient tantôt des allées capricieuses, tantôt de l'eau bien claire où se plaisaient de beaux poissons.</p>
         <p>Au fond du parc était un labyrinthe formé de lilas et de clématite, où l'on se perdait pour de bon, tant il y avait de détours. Ce labyrinthe semblait avoir été fait tout exprès pour jouer à cache-cache, et Adalbert s'y amusait de tout son cœur à chercher ses frères, Eugène et Frédéric, ou sa sœur Camille.</p>
-        <p>
-          À cinquante pas du château, on voyait sur une pièce d'eau une barque coquette peinte des plus riantes couleurs. Cette barque était le point de mire de tout ce petit monde. Une promenade sur l'eau, au clair de lune, voilà quel était le plus désiré des divertissements à Valneige. Cela venait sans doute de ce que les enfants n'obtenaient cette faveur qu'après l'avoir gagnée par des bons points, des
-          <hi>très bien</hi>
-          , et des
-          <hi>parfaitement bien</hi>
-          à n'en plus finir. Il n'y a pas de meilleur plaisir que celui dont l'accomplissement du devoir est la cause.
-        </p>
+        <p> À cinquante pas du château, on voyait sur une pièce d'eau une barque coquette peinte des plus riantes couleurs. Cette barque était le point de mire de tout ce petit monde. Une promenade sur l'eau, au clair de lune, voilà quel était le plus désiré des divertissements à Valneige. Cela venait sans doute de ce que les enfants n'obtenaient cette faveur qu'après l'avoir gagnée par des bons points, des <hi>très bien</hi> , et des <hi>parfaitement bien</hi> à n'en plus finir. Il n'y a pas de meilleur plaisir que celui dont l'accomplissement du devoir est la cause. </p>
         <p>Tout près de la pièce d'eau, il y avait une grande et belle ferme appartenant aux parents d'Adalbert : une douzaine de vaches dans une longue étable, plus un taureau qui faisait peur, tout en vous regardant avec des yeux bien doux.</p>
         <p>Plus loin une grande écurie occupée car sept ou huit chevaux de labour, hauts et robustes. En face, quatre cents moutons se serrant les uns contre les autres, vivant heureux, tranquilles comme des moutons ! Dans la cour, dans l'écurie, dans les étables, sur le fumier, sous les hangars, partout, des poules, des poulets, des coqs, des oies, des canards, tout un peuple de petits êtres voltigeant, pondant, se baignant, se battant, et se moquant du monde avec un sans-façon incroyable.</p>
         <p>La mère Barru était la reine de ce paisible empire, autrement dit la fermière ; elle avait bonne tête, et sa belle humeur ne cessait qu'en deux occasions : quand un garçon de ferme se grisait, et quand une poule perdait ses œufs au loin. Dans ces deux cas, jugés pendables, le garçon et la poule étaient grondés pendant toute la saison ; s'il y avait récidive, on mettait à la porte le garçon, et dans la marmite la poule.</p>
-        <p>
-          On peut se figurer combien douces étaient les premières années d'Adalbert, s'écoulant entre les jeux et de faciles travaux, sous les yeux d'un bon père et d'une bonne mère. Eugène et Frédéric, tous deux plus âgés que lui, allaient partir pour le collège au grand désespoir d'Adalbert qui les aimait beaucoup, tout en se disputant avec eux le plus souvent possible. Les
-          <hi>grands</hi>
-          , comme on disait à Valneige savaient qu'on ne doit jamais abuser de sa force, et comme ils eussent certainement terrassé Adalbert, si petit et si mince, ces bons enfants consentaient, suivant le conseil de leur excellente mère, à céder dans ces rencontres journalières où l'on se cherche querelle, à propos d'une bille ou d'une toupie.
-        </p>
-        <p>
-          Quant à la bonne Camille, c'était la douceur même, et, quoiqu'elle eût près de quatorze ans, elle voulait bien jouer souvent aux dames avec son petit frère qui, sans doute à cause de ses huit ans, confondait plus d'une fois ses pions avec ceux de son adversaire. Camille avait l'extrême patience de sa mère, et le caractère sérieux de son père. M. et Mme de Valneige, lui donnant un très grand témoignage de confiance, avaient permis qu'elle s'occupât de la première éducation d'Adalbert, qui l'appelait volontiers
-          <hi>petite maman</hi>
-          . La chère enfant, à la faveur des verbes et des dictées, l'appelait quelquefois, elle,
-          <hi>mon fils</hi>
-          , en prenant un air très grave qui faisait rire aux larmes M. de Valneige.
-        </p>
-        <p>
-          Tout était réglé à la campagne, les heures des repas, celles de l'étude, et celles des récréations. Comme la régularité en tout est une excellente chose, il y avait au château deux horloges : une
-          <hi>sonnante</hi>
-          et une
-          <hi>vivante</hi>
-          . La première était suspendue au fond du vestibule ; la seconde montait et descendait l'escalier trente ou quarante fois par jour ; elle entrait dans les chambres, allait, venait, trottait, grondait, elle savait tout, et voyait tout. Ah ! quelle horloge ! On l'appelait Rosette. Ce joli petit nom lui avait été donné sans doute par une marraine qui pensait que sa filleule ne vieillirait pas ; néanmoins, comme il y avait de cela soixante-dix ans, la filleule avait des rides, les mains maigres et les joues creuses. C'était une toute petite bonne femme bien leste, un peu roide, mais très bonne et toute dévouée à la famille et à la maison. Il y avait si longtemps qu'elle était là, que personne ne se figurait Valneige sans Rosette, ou Rosette hors de Valneige. La vieille bonne avait gardé ses cotillons courts d'autrefois, ses bonnets plats par devant et plissés par derrière, son grand fichu blanc à fleurs rouges ; enfin ce qu'elle appelait le costume de
-          <hi>chez nous.</hi>
+        <p> On peut se figurer combien douces étaient les premières années d'Adalbert, s'écoulant entre les jeux et de faciles travaux, sous les yeux d'un bon père et d'une bonne mère. Eugène et Frédéric, tous deux plus âgés que lui, allaient partir pour le collège au grand désespoir d'Adalbert qui les aimait beaucoup, tout en se disputant avec eux le plus souvent possible. Les <hi>grands</hi> , comme on disait à Valneige savaient qu'on ne doit jamais abuser de sa force, et comme ils eussent certainement terrassé Adalbert, si petit et si mince, ces bons enfants consentaient, suivant le conseil de leur excellente mère, à céder dans ces rencontres journalières où l'on se cherche querelle, à propos d'une bille ou d'une toupie. </p>
+        <p> Quant à la bonne Camille, c'était la douceur même, et, quoiqu'elle eût près de quatorze ans, elle voulait bien jouer souvent aux dames avec son petit frère qui, sans doute à cause de ses huit ans, confondait plus d'une fois ses pions avec ceux de son adversaire. Camille avait l'extrême patience de sa mère, et le caractère sérieux de son père. M. et Mme de Valneige, lui donnant un très grand témoignage de confiance, avaient permis qu'elle s'occupât de la première éducation d'Adalbert, qui l'appelait volontiers <hi>petite maman</hi> . La chère enfant, à la faveur des verbes et des dictées, l'appelait quelquefois, elle, <hi>mon fils</hi> , en prenant un air très grave qui faisait rire aux larmes M. de Valneige. </p>
+        <p> Tout était réglé à la campagne, les heures des repas, celles de l'étude, et celles des récréations. Comme la régularité en tout est une excellente chose, il y avait au château deux horloges : une <hi>sonnante</hi> et une <hi>vivante</hi> . La première était suspendue au fond du vestibule ; la seconde montait et descendait l'escalier trente ou quarante fois par jour ; elle entrait dans les chambres, allait, venait, trottait, grondait, elle savait tout, et voyait tout. Ah ! quelle horloge ! On l'appelait Rosette. Ce joli petit nom lui avait été donné sans doute par une marraine qui pensait que sa filleule ne vieillirait pas ; néanmoins, comme il y avait de cela soixante-dix ans, la filleule avait des rides, les mains maigres et les joues creuses. C'était une toute petite bonne femme bien leste, un peu roide, mais très bonne et toute dévouée à la famille et à la maison. Il y avait si longtemps qu'elle était là, que personne ne se figurait Valneige sans Rosette, ou Rosette hors de Valneige. La vieille bonne avait gardé ses cotillons courts d'autrefois, ses bonnets plats par devant et plissés par derrière, son grand fichu blanc à fleurs rouges ; enfin ce qu'elle appelait le costume de <hi>chez nous.</hi>
         </p>
         <p>Rosette avait un esprit exact jusqu'à la minutie ; elle reconnaissait l'heure au chant du coq, à l'ombre des arbres, au cri des oiseaux, à des tiraillements d'estomac qu'elle avait à certains moments, et à des inquiétudes dans les jambes qui lui prenaient un peu plus tard. De là, une incroyable sévérité dans l'observance de toute règle établie. Si Rosette eût mené le monde, on aurait fini par se plaindre tant il eût marché droit, tout comme on se plaint tant il marche de travers.</p>
-        <p>
-          À cause de cet esprit rigide, on avait surnommé la vieille Rosette
-          <hi>l'horloge vivante</hi>
-          de Valneige, et vraiment on aurait pu à la rigueur se passer de l'autre horloge qui ne savait que sonner comme une vraie machine qu'elle était. Un coup d'œil de Rosette envoyait au travail tous les petits paresseux qui flânaient dans l'escalier à l'heure des leçons ; un geste faisait accourir les plus mutins du fond du parc ; enfin, dans les circonstances qui en valaient la peine, sa voix impérative forçait chacun à rentrer dans le devoir, quel que pût être l'entraînement présent. Au lieu de dire : l'horloge va sonner ; on disait : Rosette va passer ; et le régiment défilait l'arme au bras, sans souffler mot.
-        </p>
+        <p> À cause de cet esprit rigide, on avait surnommé la vieille Rosette <hi>l'horloge vivante</hi> de Valneige, et vraiment on aurait pu à la rigueur se passer de l'autre horloge qui ne savait que sonner comme une vraie machine qu'elle était. Un coup d'œil de Rosette envoyait au travail tous les petits paresseux qui flânaient dans l'escalier à l'heure des leçons ; un geste faisait accourir les plus mutins du fond du parc ; enfin, dans les circonstances qui en valaient la peine, sa voix impérative forçait chacun à rentrer dans le devoir, quel que pût être l'entraînement présent. Au lieu de dire : l'horloge va sonner ; on disait : Rosette va passer ; et le régiment défilait l'arme au bras, sans souffler mot. </p>
         <p>M. et Mme de Valneige trouvaient fort bonne cette surveillance qui rendait la leur plus facile, et les enfants eux-mêmes, tout en craignant un peu les airs fâchés que la vieille savait prendre, l'aimaient néanmoins parce qu'elle était juste, parce qu'elle faisait les confitures, et parce que c'était encore elle qui se prêtait le mieux à leurs innocents caprices, pourvu que ces caprices ne s'avisassent pas de naître avant telle heure, ou après telle autre. Le cadran avant tout.</p>
       </div>
       <div type="chapter">
+
         <head>II -- Adalbert avait un grand défaut.</head>
         <p>Adalbert était un bon enfant aux yeux vifs, au sourire fin, bien pris dans sa petite taille, souple comme une gazelle, adroit, léger à la course, et capable de toutes les gentillesses possibles. Sa figure était heureuse, c'est-à-dire qu'elle avait, quand il était sage, cette aimable et fraîche expression qui prévient les étrangers en faveur d'un enfant.</p>
         <p>On était bon pour lui, on se faisait une joie de lui procurer du plaisir, et pourtant, quand on le connaissait bien, on voyait qu'il avait un défaut, un très grand défaut... Il était désobéissant !</p>
@@ -118,15 +105,14 @@
         <p>Pour nous, qui ne gardons pas les enfants, nous pouvons convenir que ces parties étaient fort amusantes. Mme de Valneige mettait à la disposition de la jeunesse tout ce qu'elle avait de raquettes, de volants, de toupies, de ballons, de quilles, de cerceaux, plus un jeu de tonneau, et je ne sais quoi encore. On commençait à midi ces joyeux ébats, et la bonne mère apparaissait de temps en temps, comme une puissance protectrice qui cause tout le bien possible, et garde de tout mal. Elle disait d'un air grave et doux :</p>
         <p>« Allons, amusez-vous, faites tout ce qui vous plaira, je ne vous demande qu'une chose, obéissez, mes bons enfants.</p>
         <p>– N'ayez pas peur, chère maman, disait avec un gros éclat de rire le bon Eugène, à la mine éveillée, aux joues rouges, au franc sourire, voyez-vous, nous nous amusons si bien que nous n'aurions même pas le temps de penser à désobéir. »</p>
-        <p>
-          Sur ce, Eugène prenait le mors aux dents quand il était cheval, et faisait claquer son fouet quand il était cocher. Son heureuse mère avait à peine jeté sur lui un regard confiant qu'il était déjà loin. Quant à Frédéric, l'espèce de gravité qui lui était naturelle, même en jouant, rassurait Mme de Valneige. Mais il y avait un petit monsieur, blondin et fort gentil qui ne répondait jamais au doux avertissement de sa mère ; il se nommait bien entendu Adalbert, et on le surnommait
-          <hi>le désobéissant !</hi>
+        <p> Sur ce, Eugène prenait le mors aux dents quand il était cheval, et faisait claquer son fouet quand il était cocher. Son heureuse mère avait à peine jeté sur lui un regard confiant qu'il était déjà loin. Quant à Frédéric, l'espèce de gravité qui lui était naturelle, même en jouant, rassurait Mme de Valneige. Mais il y avait un petit monsieur, blondin et fort gentil qui ne répondait jamais au doux avertissement de sa mère ; il se nommait bien entendu Adalbert, et on le surnommait <hi>le désobéissant !</hi>
         </p>
         <p>Quand on attaquait par un mot son défaut capital, il prenait un air distrait, cherchait à attraper une mouche, s'arrangeant de manière à entendre le moins possible ce qu'on disait, et pourtant le comprenant fort bien.</p>
         <p>Obéissez, mes enfants. Cela voulait dire : N'allez point jouer au bord de l'eau et surtout, gardez-vous de jamais toucher à la barque ! Je veux qu'on n'entre dans l'écurie qu'accompagné de Philippe, qu'on ne se mette jamais derrière les chevaux parce qu'ils pourraient lancer un coup de pied, qu'on ne s'avise point de monter sur un cheval, à moins que Philippe n'ait le temps et la complaisance de se prêter à ce jeu. Qu'on n'imagine pas de se pencher sur le bord d'un puits, ni de franchir la grille qui sépare la cour de la route, ni de courir au loin pendant la promenade, ni de s'aventurer trop près d'un moulin à vent, etc., etc., etc.</p>
         <p>Adalbert savait par cœur ces défenses, et bien d'autres. Dès qu'il entendait sa mère résumer le tout par ces simples mots : Obéissez, mes enfants, il aurait voulu boucher ses oreilles de peur de comprendre une fois de plus tout ce qu'il ne fallait pas faire, car c'était justement ce dont il avait le plus envie, et nous verrons bientôt ce qu'il en arriva.</p>
       </div>
       <div type="chapter">
+
         <head>III -- Adalbert avait désobéi.</head>
         <p>Quels que soient les charmes de la vie quotidienne, c'est pour nous une grande jouissance de rompre la monotonie, même dans nos plaisirs. Qu'on juge des transports de bonheur qui éclatèrent en famille lorsque M. de Valneige déclara un beau matin, pendant le déjeuner, qu'il allait mettre à exécution un charmant projet formé depuis longtemps, et tour à tour accepté, combattu, retardé. Ce projet réunissait toutes les conditions qui flattent le désir, car non seulement il était charmant, mais il se faisait attendre, et depuis un an notre petit monde en parlait tout haut et tout bas, disant : Quand donc ferons-nous le grand voyage ? quand verrons-nous Paris, Strasbourg, Vienne, Prague ? des lacs, des montagnes ?... À cette seule pensée, on sautait sur sa chaise, même en achevant sa page d'écriture, ce qui ne manquait pas d'y faire un très regrettable pâté.</p>
         <p>Eh bien oui, c'était décidé, on partait pour l'Allemagne ; on allait voyager lentement, sans fatigue, n'ayant d'autre but que de s'instruire sans livres et de s'amuser. Il est vrai que Mme de Valneige, qui désirait particulièrement ce voyage, avait un but secret ; elle était inquiète de la santé de son mari, et les médecins jugeaient que le remède le plus actif était le changement de lieu et d'habitudes ; on espérait combattre ainsi une sorte de mélancolie nerveuse qui tourmentait M. de Valneige, et qui de temps en temps était accompagnée de quelques accès de fièvre. Son excellente femme cachait soigneusement son inquiétude pour ne pas augmenter le mal. Quant aux enfants, comme leur père n'était pas couché, et s'habillait comme tout le monde, ils trouvaient qu'il se portait à merveille.</p>
@@ -145,22 +131,10 @@
         <p>On se réjouissait fort d'entrer en Bohême. Ce nom, disait Camille, avait quelque chose de bien étranger, d'intéressant, et même d'un peu effrayant ; il lui semblait qu'il ne devait y avoir dans ce pays que ce qu'on appelle des diseuses de bonne aventure.</p>
         <p>M. de Valneige, qui ne perdait pas une occasion d'instruire ses enfants, leur fit en quelques mots l'historique de ce plateau élevé, qui est comme enfermé dans une ceinture de montagnes, et sillonné lui-même par des rameaux de ces montagnes.</p>
         <p>Il leur apprit à ne pas confondre les Bohèmes et les Bohémiens.</p>
-        <p>
-          Les Bohèmes sont les habitants du pays, qui mènent notre vie à tous. Les Bohémiens forment un peuple à part qui a conservé les traits caractéristiques d'une peuplade vagabonde qu'on vit au quinzième siècle se répandre en Europe, et particulièrement en Bohême, en Hongrie, en Italie, en France et en Espagne ; il y a de ces tribus nomades dans tous ces pays ; le nom change, mais les mœurs ne changent pas. En France on les appelle
-          <hi>Bohémiens </hi>
-          ; en Espagne
-          <hi>Gitanos</hi>
-           ; en Italie
-          <hi>Zingari</hi>
-          , en Angleterre
-          <hi>Gypsies.</hi>
+        <p> Les Bohèmes sont les habitants du pays, qui mènent notre vie à tous. Les Bohémiens forment un peuple à part qui a conservé les traits caractéristiques d'une peuplade vagabonde qu'on vit au quinzième siècle se répandre en Europe, et particulièrement en Bohême, en Hongrie, en Italie, en France et en Espagne ; il y a de ces tribus nomades dans tous ces pays ; le nom change, mais les mœurs ne changent pas. En France on les appelle <hi>Bohémiens </hi> ; en Espagne <hi>Gitanos</hi>  ; en Italie <hi>Zingari</hi> , en Angleterre <hi>Gypsies.</hi>
         </p>
         <p>Ce peuple offre un très singulier spectacle au milieu de notre vieux monde. Méprisé, pourchassé, pendant trois cents ans, et néanmoins toujours debout, toujours errant, dérobant sur son passage, et disant la bonne aventure. On conçoit que, précisément à cause de leurs habitudes étranges, ils se marient entre eux. Ainsi se perpétue cette race indépendante, redoutée non sans raison, et vivant au milieu de la foule sans se mêler à elle, si ce n'est pour lui débiter des folies et des mensonges, l'amuser un moment, et en tirer le peu qu'il faut pour subvenir à des besoins très restreints.</p>
-        <p>
-          En certains endroits néanmoins, les Bohémiens ne sont pas errants ; ceux qu'en Espagne on nomme
-          <hi>Gitanos</hi>
-          habitent des quartiers séparés dans Cordoue et dans Séville ; mais partout ils parlent la même langue ; cette langue est douce, harmonieuse, et dérive du slave.
-        </p>
+        <p> En certains endroits néanmoins, les Bohémiens ne sont pas errants ; ceux qu'en Espagne on nomme <hi>Gitanos</hi> habitent des quartiers séparés dans Cordoue et dans Séville ; mais partout ils parlent la même langue ; cette langue est douce, harmonieuse, et dérive du slave. </p>
         <p>Ce qu'il y a de remarquable, c'est le respect profond que ces hommes indépendants ont pour leur propre chef. Leur entêtement, leur obstination tombe devant l'autorité de celui d'entre eux qui les commande, et il faut convenir qu'en cela du moins, ils font mieux que nous. On fait remonter leur origine aux anciens Perses qui vinrent s'établir en Égypte lorsque Cambyse, l'indigne fils de Cyrus, s'empara de cette belle contrée ; on sait que ce fut au moyen des chiens et des chats qu'il mit en tête de son armée, et sur lesquels les Égyptiens n'osèrent lancer leurs flèches parce que, à leurs yeux, ces animaux étaient sacrés. À l'appui de cette opinion sur l'origine de ce peuple singulier, la physionomie belle et expressive de la plupart des Bohémiens rappelle le type persan. Certains chants anciens, qui se sont perpétués dans cette race, donnent aussi à penser que l'Égypte les a vus jadis, entre autres une sorte de complainte dans laquelle ils célèbrent les beautés du Nil, et lui envoient de plaintifs regrets.</p>
         <p>Les Bohémiens ont en général les membres nerveux et bien faits, et sont doués d'une grande souplesse de corps. Leurs femmes ont la taille mince, flexible, les mouvements gracieux, et, il faut le dire à leur louange, chez elles a persisté, à travers leur demi-sauvagerie, un respect admirable pour leur honneur : elles sont remarquables surtout en Espagne, par la sévérité de leurs mœurs.</p>
         <p>Voilà donc nos voyageurs en Bohême. Prague les enchanta par ses maisons disposées en terrasse, soit dans la plaine, soit sur les collines, par son palais royal, ses tours, ses tourelles, ses clochetons, et par les hauteurs qui dominent les deux rives de la Moldau. Cet aspect est en effet très frappant, et quand on est en face de ces beautés, on se sent réellement bien loin de la Seine, ce qui charme toujours les Français en voyage, bien qu'ils reviennent au pays avec une joie sans pareille.</p>
@@ -179,7 +153,7 @@
         <p>« Sont-ils jolis ! oh ! ce rouge ! Et ce vert ! oh ! la belle queue ! »</p>
         <p>Malheureusement, deux charmants petits oiseaux venaient de se déclarer la guerre ; notre futur militaire, sans avoir étudié la question politique du moment, prit le plus vif intérêt à l'action. L'un portait une huppe, l'autre n'en portait pas ; ils paraissaient de forces égales, et comme aucune puissance étrangère n'intervenait, l'affaire pouvait durer longtemps et coûter la vie à l'un des combattants, peut-être à tous les deux. C'était plus qu'il n'en fallait pour charmer notre petit officier ; il se déclara intérieurement pour la huppe, et se mit à juger gravement les coups de bec qui pleuvaient sur le champ de bataille. La huppe fut un moment victorieuse, mais n'ayant pas su garder la défensive, elle devint la victime d'une retraite simulée, et eut littéralement le dessous, car elle tomba, pauvre huppe, sur le sable fin qui garnissait le sol de la cage, et Adalbert se rappelant tout à coup, en face de cette gloire déchue, qu'il était resté seul en arrière, s'éloigna précipitamment du lieu de la tentation.</p>
         <p>Mais l'oiseleur occupait l'entrée d'un carrefour ; quelle rue prendre ? L'enfant s'engage dans celle de droite et, n'apercevant pas de suite son père et ses frères, il revient sur ses pas et entre dans une rue voisine, mais sans plus de succès. Alors il veut s'adresser aux passants, leur demander son chemin. Comment faire ? Arrivé seulement le matin, il n'a rien remarqué, et ne se souvient même pas du nom bien difficile que porte son hôtel. Dans cet embarras, il interroge les ouvriers des fabriques qui, plus heureux que lui, retournent à leur maison ; ces braves gens ne le comprennent pas. Il se rappelle avec une inquiétude réelle qu'il est en pays étranger, tout à fait étranger ! Son cœur se serre, il a envie de pleurer et ne pleure pas ; il marche, marche, jusqu'à ce qu'enfin, brisé de fatigue, il rencontre un homme d'une haute stature qui le regarde très attentivement, s'approche, et lui parle bas en mauvais français. Cet homme écoute sa réponse, et l'on voit le petit garçon arrêter sur lui son regard confiant, et mettre sa main dans celle de l'inconnu qui l'emmène vite, vite, vite.</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>Pendant ce temps-là, M. de Valneige, en proie à une inconcevable agitation, parcourait les rues adjacentes ; il n'aurait pas tardé à retrouver Adalbert, si celui-ci ne se fût pas engagé sans le savoir dans une direction tout opposée. Le malheureux père allait, venait, cherchait. Ses enfants le secondaient avec une anxiété facile à comprendre. M. de Valneige savait peu d'allemand, juste assez pour les nécessités prévues de tout voyage ; mais quelle difficulté pour parler d'autre chose, pour échanger vivement ces demi-mots qui pourraient indiquer la trace d'un enfant perdu ! À force d'être inquiet, il éprouva le besoin de croire que son fils avait su se faire reconduire à l'hôtel, et qu'il y était tranquillement entre sa mère et sa sœur. On s'achemina donc vers l'hôtel, marchant à grands pas et en silence.</p>
         <p>Une fois arrivé, M. de Valneige n'osait pas monter l'escalier ; il ne savait comment se présenter devant sa femme. Elle se leva toute droite quand son mari pâle et défait entrouvrit la porte de sa chambre, et, comprenant la question avant qu'elle ne lui eût été faite, elle répondit avec l'accent d'un désespoir subit : « Il est perdu ! »</p>
         <p>Il y a des moments de la vie qui ne peuvent se décrire. Il faut être père, il faut être mère, pour se représenter la douleur profonde, immense, causée par la disparition d'un enfant que Dieu n'a pas ôté lui-même du foyer de famille. Du moins, ceux qui le voient mourir savent où le chercher par le souvenir ; toute la peine est pour eux, mais lui ne peut plus souffrir, ses parents le savent bien, et leurs larmes ne sont point sans consolation ; mais perdu ! et perdu sur la terre ! sur la terre où il y a du mal et des méchants, oh ! c'est affreux !</p>
@@ -191,6 +165,7 @@
         <p>« Mon Dieu ! Adalbert ! »</p>
       </div>
       <div type="chapter">
+
         <head>IV -- Adalbert était bien loin.</head>
         <p>Tout fait événement au village, même une poule qui imite le chant du coq, et que l'on se hâte de tuer parce qu'on se figure qu'elle porterait malheur. On peut juger de ce qu'avait produit à Valneige la disparition du jeune Adalbert.</p>
         <p>Il n'était question que de cette triste aventure, et chacun se livrait à des suppositions sans fin. Il y avait même du merveilleux dans les suppositions des bonnes gens, car les bonnes gens sont crédules et superstitieux.</p>
@@ -258,6 +233,7 @@
         <p>Godinette, un peu piquée, mais nullement convaincue, tira sa révérence, et s'en alla conter à d'autres son rêve et sa boule jaune. Quant à la bonne Rosette, voyant l'entretien terminé, elle fit tranquillement redescendre ses bienheureuses lunettes sur son nez et reprit son éternel tricot.</p>
       </div>
       <div type="chapter">
+
         <head>V -- Adalbert savait enfin où peut mener la désobéissance.</head>
         <p>Pendant que la famille de Valneige était dans la stupeur et la consternation, pendant qu'on le cherchait de tous côtés, à Prague et aux environs, où était ce cher petit Adalbert ?</p>
         <p>Personne ne le savait, sinon l'être infâme qui l'avait enlevé à l'amour de ses parents. Habitué à désobéir, l'enfant ne pouvait manquer d'arriver tôt ou tard à quelque grand malheur. Le jour de sa disparition, il avait désobéi huit fois ! et comme on ne s'en était pas aperçu, il n'avait pas été puni. Dieu voit tout ce que les pères et mères ne voient pas ; ce fut Lui qui se chargea de punir à la fois, par un châtiment terrible, toutes les désobéissances que le petit garçon avait commises depuis qu'il se rendait compte de ses actions ; or, il avait eu de bonne heure beaucoup de raison.</p>
@@ -293,20 +269,15 @@
         <p>Cependant la nuit s'avançait : la fatigue et le chagrin alourdissaient ses paupières, il s'endormit, et rêva que Philippe, le cocher, lui faisait faire le tour du parc de Valneige en tilbury parce qu'il avait été sage ; que sa maman l'avait embrassé deux fois, et que Rosette lui avait raccommodé la bride de son cheval à bascule avec une bonne ficelle neuve ; puis la scène changeait brusquement, il était assis devant une table, il buvait, et tout tournait ; mais tout à coup, son père venait à lui ! On le voit, Adalbert, même en dormant, avait encore de l'espérance.</p>
       </div>
       <div type="chapter">
+
         <head>VI -- Adalbert se demandait si Gella avait un cœur.</head>
         <p>Le lendemain du jour fatal, un air vif et sain soufflait sur la Bohême, et donnait à tous vigueur et entrain. Quand Adalbert se réveilla, il fut d'abord effrayé, puis se rappelant ce qui s'était passé, il se figura que ce temps de misère ne serait pas long, et que bientôt il sortirait de cette maudite voiture.</p>
         <p>Ce n'était nullement un enfant gâté ; il avait été élevé sans mollesse, et avait contracté par conséquent des habitudes énergiques. Il mangeait de tout, il supportait le froid sans se plaindre, savait se gêner, attendre, et avait un grand courage. Lorsqu'à Valneige il lui arrivait de se faire du mal, il ne pleurait qu'à la dernière extrémité parce que son père, quand il le voyait pleurer pour des riens, ne manquait jamais de lui dire : -- Qu'as-tu, ma petite fille ?</p>
-        <p>
-          Ce seul mot valait un long discours, et lui rappelait qu'il était comme il disait
-          <hi>un homme !</hi>
+        <p> Ce seul mot valait un long discours, et lui rappelait qu'il était comme il disait <hi>un homme !</hi>
         </p>
         <p>Notre petit ami, ayant donc en lui la force de caractère et l'énergie physique que donne une bonne éducation, se garda bien du découragement qui ne mène à rien, et ne sert qu'à rendre les maux insupportables. D'ailleurs, il avait toutes les illusions du jeune âge, et il lui semblait impossible qu'il fût malheureux longtemps.</p>
         <p>Comme il ne pouvait être encore qu'un embarras, ainsi que le disait la vieille Bohémienne, on le laissa tranquille tant qu'il voulut ; mais lui, qui s'était réveillé de bonne heure, faisait semblant de dormir et ne bougeait point, gagnant ainsi du temps, et apercevant à la dérobée quelques scènes d'intérieur.</p>
-        <p>
-          La vieille Praxède semblait n'avoir plus qu'un souffle de vie, mais ce qui lui restait de force se mêlait à une agitation nerveuse qui la tourmentait, elle et les autres. Aigrie par la fatigue, la misère, et les incommodités de l'âge, elle était le vrai tyran de la troupe. Praxède en voulait à tout le monde. Elle s'en prenait à son gendre qu'elle appelait
-          <hi>l'homme de fer</hi>
-          , et qu'elle détestait ; à Gella qui n'avait pour elle aucun respect ; à son petit-fils Karik qui lui résistait en jurant déjà comme son père. Quand tous avaient crié plus fort qu'elle, et lui avaient prouvé qu'ils la considéraient bien plus comme une servante que comme une mère, elle allait s'en prendre au chien, au hideux Wolf.
-        </p>
+        <p> La vieille Praxède semblait n'avoir plus qu'un souffle de vie, mais ce qui lui restait de force se mêlait à une agitation nerveuse qui la tourmentait, elle et les autres. Aigrie par la fatigue, la misère, et les incommodités de l'âge, elle était le vrai tyran de la troupe. Praxède en voulait à tout le monde. Elle s'en prenait à son gendre qu'elle appelait <hi>l'homme de fer</hi> , et qu'elle détestait ; à Gella qui n'avait pour elle aucun respect ; à son petit-fils Karik qui lui résistait en jurant déjà comme son père. Quand tous avaient crié plus fort qu'elle, et lui avaient prouvé qu'ils la considéraient bien plus comme une servante que comme une mère, elle allait s'en prendre au chien, au hideux Wolf. </p>
         <p>Wolf, habitué aux coups et aux duretés de tout genre, ne se laissait jamais intimider. À chaque menace de la vieille, il répondait par un grognement, et peu s'en fallait qu'il ne la mordît quand elle lui lançait un coup de pied. Elle le respectait donc jusqu'à un certain point, parce qu'elle était forcée de le craindre.</p>
         <p>Mais il y avait dans cet étroit logis deux êtres qu'elle ne craignait point, car ils étaient sans défense, et c'était sur eux que se rejetait ordinairement sa mauvaise humeur. La pauvre Tilly était si pâle, si souffreteuse, qu'on n'osait trop la battre, de peur qu'elle ne tombât malade, et qu'il ne fallût la soigner. Praxède se contentait de lui par1er brutalement, comme on ne devrait pas parler à un animal. Elle exigeait de cette enfant de huit ans une attention continuelle pour obéir au moindre geste. Quand la pauvre petite avait manqué de vigilance ou de promptitude, elle mangeait moins, c'était hélas ! sa punition.</p>
         <p>Quant à Natchès, c'était un vrai souffre-douleur. Ce bel enfant de dix ans, dont la robuste nature avait triomphé des mauvais traitements, menait une vie digne de pitié. Praxède surtout ne cessait de lui faire sentir qu'il n'était rien, rien qu'un gagne-pain. Sa douceur naturelle, devenue de l'inertie par l'asservissement, ne la désarmait point, et souvent l'irritait. Il était battu pour la moindre négligence, battu pour avoir répondu, et battu pour n'avoir rien dit.</p>
@@ -336,11 +307,7 @@
         <p>Donc, c'est naturel d'avoir de la peine en voyant souffrir, quand on a un cœur, pensait Adalbert. Pourquoi Gella n'était-elle pas malheureuse lorsqu'on frappait Natchès ? C'est peut-être qu'à force de voir du mal, le cœur s'en va ?</p>
         <p>Quand se fut apaisé le courroux de la grand- mère, elle songea qu'il était temps de mettre au pas le nouveau venu, et de lui donner un nom et des habits, ce qui voulait dire un sobriquet et de misérables haillons. Elle ne s'occupait de lui qu'avec un ennui visible, ne cessant de dire à son gendre qu'il aurait bien pu le laisser où il était, car il lui faisait l'effet de n'être bon à rien.</p>
         <p>« Pas sûr », répondit l'homme de fer en balançant sa tête chevelue sur ses larges épaules. Dans cette pose qu'il prenait souvent, il ressemblait aux statues d'Hercule se reposant de ses travaux. Comme il ne parlait presque jamais, sa présence n'ajoutait rien aux contestations ; il semblait au contraire que devant lui on fût moins irrité les uns contre les autres dans cette maudite voiture.</p>
-        <p>
-          Le fait est que
-          <hi>l'Hercule</hi>
-          était craint de tous, sinon respecté ; on l'appelait le père, et plus souvent le maître ; sa parole faisait loi, parce qu'il représentait une autorité absolue ; mais il avait dans les détails cette largeur qui accompagne souvent la certitude d'être obéi. Il ne parlait pas sans nécessité, toutefois sa volonté s'imposait comme la borne s'impose ; on ne pouvait ni passer outre, ni la faire reculer. Sombre roi de ce triste séjour, il y commandait par sa seule présence, et il est probable que s'il eût jamais employé sa force, doublée par sa colère, il eût tout écrasé.
-        </p>
+        <p> Le fait est que <hi>l'Hercule</hi> était craint de tous, sinon respecté ; on l'appelait le père, et plus souvent le maître ; sa parole faisait loi, parce qu'il représentait une autorité absolue ; mais il avait dans les détails cette largeur qui accompagne souvent la certitude d'être obéi. Il ne parlait pas sans nécessité, toutefois sa volonté s'imposait comme la borne s'impose ; on ne pouvait ni passer outre, ni la faire reculer. Sombre roi de ce triste séjour, il y commandait par sa seule présence, et il est probable que s'il eût jamais employé sa force, doublée par sa colère, il eût tout écrasé. </p>
         <p>Aussi la vieille, pour ne pas le mécontenter, se mit en devoir, tout en grondant comme à l'ordinaire, de faire prendre au pauvre Adalbert les vêtements qui désormais devaient être les siens. Elle chercha dans les vieux habits de Karik et de Natchès, et trouva un pantalon trop court et un par-dessus trop long, c'était selon elle un habillement complet.</p>
         <p>« Allons, cria-t-elle bien aigrement, arrive ici, polisson. Faut pourtant lui donner un nom : voyons, comment t'appelleras-tu ?</p>
         <p>– Je m'appellerai toujours Adalbert de Valneige, dit l'enfant en relevant la tête.</p>
@@ -386,6 +353,7 @@
         <p>Néanmoins, il n'avait qu'une pensée, tout en regardant la troupe travailler, c'était de trouver un moyen de s'échapper. Comment faire ? Quelquefois il songeait à implorer Gella ; mais la connaissait-il assez ? Si elle allait se moquer de lui ou rapporter ses paroles au chef, et redoubler par conséquent sa méfiance ? Non, impossible de s'arrêter à cette idée. Chaque fois que lui revenait la pensée de fuir, il se rappelait que la fuite était impraticable et dangereuse dans un pays dont il ne connaissait pas la langue. Il en vint à ajourner forcément l'exécution de son projet, car on parlait de quitter les montagnes et de voyager lentement dans la direction du Rhin ; or ce Rhin c'était pour lui une espérance ; il savait que, même bien avant d'y arriver, il trouverait beaucoup d'hommes qui parleraient français. Le pauvre enfant devenu tout à coup craintif, soumis, patient, ne parla donc à personne et se résigna à attendre pour ne pas manquer son coup.</p>
       </div>
       <div type="chapter">
+
         <head>VII -- Adalbert écoutait la pendule sonner dans les ténèbres.</head>
         <p>Lorsque les bohémiens se remirent en route après avoir passé bien longtemps dans les montagnes, Adalbert vit avec effroi qu'il était l'objet d'une surveillance inquiète et perpétuelle. Le maître, la vieille, le méchant Karik, et même la bonne Gella, voilà les espions dont il était nuit et jour entouré. Plus terrible qu'eux tous, le vieux chien hargneux le regardait avec des yeux flamboyants, et semblait ne devoir faire de lui qu'une bouchée s'il tentait de se sauver. Décidément le moment n'était pas venu, mais quand donc viendrait-il ? On s'arrêtait partout ; on rampait aux abords des villes, le plus souvent sans y entrer, à moins qu'il n'y eût quelque fête populaire ; le pauvre petit français figurait, hélas ! dans ces fêtes ! Quant à la vieille bohémienne, hideuse créature, elle s'en allait disant la bonne aventure tout le long du chemin, à qui voulait l'entendre, et regardant attentivement le dedans de la main des gens superstitieux à qui elle débitait d'absurdes mensonges, dont elle riait aux éclats quand elle se retrouvait en famille. Adalbert, quoiqu'il vît depuis un an tout ce manège, ne s'y habituait pas, il était indigné de cette conduite et avait cette mégère en horreur.</p>
         <p>Son chagrin augmentait quelquefois parce qu'il s'y mêlait une secrète frayeur de ne jamais trouver le moyen de mettre son projet à exécution. On avait beau traverser des pays où le prisonnier pouvait se faire comprendre, à quoi cela lui servait-il puisqu'il était gardé à vue ?</p>
@@ -454,20 +422,13 @@
         <p>« C'est le bon Dieu tout seul qui a fait cette étoile, et comme il sait tout d'avance, il savait en la faisant qu'un pauvre petit garçon la verrait par un soupirail, quand il aurait eu perdu son papa, sa maman, et tout le monde. »</p>
         <p>Ce souvenir, mêlé à l'attendrissement que lui causait la belle et solitaire étoile, lui fit verser des larmes dont il ne connaissait pas encore la douceur, et qui déchargèrent sa poitrine oppressée. Il se sentait une créature bénie qui, pour être à huit pieds sous terre, n'en était pas moins présente aux yeux du Créateur. Tout en versant, malgré lui, des pleurs qui le soulageaient réellement, il disait au bon Dieu les mots les plus doux, les plus confiants ; ce fut sa prière du soir, et quand il l'eut finie, il continua de regarder l'étoile, et, malgré le froid qui le gagnait, malgré la peine qui remplissait son cœur, il aurait peut-être pu s'endormir en face de ce petit coin de ciel bleu, s'il n'avait été comme forcé de tourner à chaque instant les yeux vers l'angle pour surveiller l'objet noir qui était toujours là, et dont l'extrémité remuait de temps en temps, laissant au prisonnier un doute qui lui était insupportable.</p>
         <p>La pendule sonna dix heures. Il semblait à l'enfant qu'il y avait déjà bien longtemps qu'il vivait dans ce souterrain, et vraiment, sans l'étoile, il se serait découragé ; mais elle était là, toute belle et brillante, comme un joyau tombé pour lui de la main du grand Roi, et Adalbert lui disait :</p>
-        <p>
-          « Reste là, ma belle étoile, oh ! reste là, ne t'en vas pas, ne me laisse pas tout seul ! Tu es mon étoile, à moi ; et comme les savants donnent des noms à tout ce qui brille là-haut, moi qui ne suis pas savant, je te donne un nom, le meilleur que je sache, je t'appelle, comme maman,
-          <hi>Adilie</hi>
-          , parce que tu me fais du bien. Tant que je te verrai, j'aurai du courage ; et puis quand je serai sorti d'ici, et que j'aurai retrouvé mes parents, je te chercherai encore, et tu verras, je te regarderai toute ma vie ! »
-        </p>
+        <p> « Reste là, ma belle étoile, oh ! reste là, ne t'en vas pas, ne me laisse pas tout seul ! Tu es mon étoile, à moi ; et comme les savants donnent des noms à tout ce qui brille là-haut, moi qui ne suis pas savant, je te donne un nom, le meilleur que je sache, je t'appelle, comme maman, <hi>Adilie</hi> , parce que tu me fais du bien. Tant que je te verrai, j'aurai du courage ; et puis quand je serai sorti d'ici, et que j'aurai retrouvé mes parents, je te chercherai encore, et tu verras, je te regarderai toute ma vie ! » </p>
         <p>Tout en parlant à sa nouvelle amie, il se tourne vers l'angle de la muraille par un mouvement qui était devenu convulsif, que voit-il ?... l'objet mystérieux avait changé de place, il avait marché et marchait encore : il venait du côté de l'enfant Plus de doute, c'était un gros rat noir, un de ceux dont à Valneige les chats avaient peur, un de ceux que Gervais s'efforçait de prendre au piège disant que ces bêtes-là mordaient.</p>
         <p>Adalbert ne vit plus son étoile, ni le ciel bleu, ni ses belles pensées d'espérance, mais uniquement le gros rat noir qui venait dans l'ombre comme un traître, et sans que le prisonnier pût se défendre puisqu'il n'osait bouger, ne sachant de quoi il était entouré. Nouvel effroi ! La peine du petit de Valneige n'était plus une peine attendrissante et qui élevait son âme si bien formée par de bons parents, c'était une horreur instinctive pour une bête dangereuse, et il fallait passer ainsi toute la nuit, et la pendule sonna dans les ténèbres onze heures.</p>
       </div>
       <div type="chapter">
-          <head>
-            VIII --
-            <hi>*Adalbert occupait la pensée de M</hi>
-            me* Tourtebonne.
-          </head>
+
+        <head> VIII -- <hi>*Adalbert occupait la pensée de M</hi> me* Tourtebonne. </head>
         <p>Il y a des gens qui veulent toujours savoir comment finit ce qu'ils ont vu commencer. De ce nombre était l'honnête marchande que nous avons entendue questionner Adalbert. Elle était restée plantée devant sa voiture à bras, suivant des yeux aussi loin que possible le petit coureur.</p>
         <p>Mme Tourtebonne, c'était son nom, éprouvait un besoin continuel d'expansion ; elle disait à chacun ce qu'elle pensait, et comme son occupation unique était de rouler sa voiture dans tous les quartiers, elle avait pour confidente intime la ville entière. Peu importait qu'on lui répondît ou qu'on ne lui répondît pas ; l'essentiel était de communiquer ses pensées ; aussi arrivait-il constamment à Mme Tourtebonne d'achever à la bouchère l'histoire dont l'épicière distraite avait eu les premiers mots. La chère femme était connue de tous, et appréciée parce qu'elle était obligeante, comme le sont en général les personnes qui aiment à se mêler de beaucoup de choses. Elle ne craignait pas de se donner de la peine pour les autres, et, certainement, s'il avait fallu pour rendre un service parler trois heures de suite, elle en eût parlé quatre.</p>
         <p>Comme il y avait quarante-deux ans qu'elle tournait dans la ville, elle en savait par cœur les rues, les maisons et les habitants ; c'était à peu près comme un dictionnaire qu'on n'a qu'à feuilleter pour y trouver son mot avec les indications désirées. Mme Tourtebonne était si bien au courant de ce qui se passait, grâce à son commerce et à sa perspicacité, qu'elle avait été appelée plusieurs fois en témoignage devant la justice. Ces jours-là avaient été des jours de triomphe pour l'excellente femme ; sa mémoire était si fidèle, ses remarques si minutieuses, sa parole si facile, que véritablement, elle avait jeté une grande lumière sur les affaires dont il s'agissait. Aussi, les gens qui ne marchaient pas droit l'évitaient-ils comme le feu ; on se cachait d'elle pour faire du mal comme on se cache de tout instrument de publicité.</p>
@@ -475,23 +436,9 @@
         <p>« A-t-on jamais vu chose pareille ? Un petit bonhomme que j'allais remettre dans son chemin, et qui me file entre les doigts ! qu'en dites-vous, monsieur Baptiste ? »</p>
         <p>Le lourd Baptiste, qui n'en disait rien, parce que ce n'était ni du hareng, ni du fromage, fit hum ! bien fort et d'une voix enrouée. C'était une manière honnête de se tirer de toutes les affaires qui ne concernaient point son double commerce.</p>
         <p>M. Baptiste ne s'intéressait absolument qu'à la vente et à sa pipe, qui était pour lui le symbole d'une immortelle tranquillité. Se déranger d'un pas, regarder ce qui se passe, chercher à tirer des conséquences d'un fait, tout cela lui paraissait un inutile accroissement de besogne ; aussi tenait-il bien peu de place dans la ville de cinq mille âmes qu'il habitait, où les commères en particulier le considéraient comme un zéro.</p>
-        <p>
-          Mme Tourtebonne était pourtant de force à donner de la valeur à un zéro si elle le précédait, c'est-à-dire si elle parvenait à l'adapter à un sujet choisi par elle. Ce fameux
-          <hi>hum</hi>
-          que le bonhomme mettait à toute sauce ne la satisfit nullement, et elle reprit d'un ton pressant :
-        </p>
+        <p> Mme Tourtebonne était pourtant de force à donner de la valeur à un zéro si elle le précédait, c'est-à-dire si elle parvenait à l'adapter à un sujet choisi par elle. Ce fameux <hi>hum</hi> que le bonhomme mettait à toute sauce ne la satisfit nullement, et elle reprit d'un ton pressant : </p>
         <p>« Vous l'avez vu, n'est-ce pas, monsieur Baptiste, ce petit nigaud qui regardait à droite et à gauche, et à qui j'ai parlé ? vous l'avez vu ? dites ? »</p>
-        <p>
-          Comme le
-          <hi>hum</hi>
-          n'était pas un vain son chez M. Baptiste, et que n'employant guère que cela il savait très bien s'en servir, ce fut encore sa réponse, mais cette fois accompagné d'un signe de tête affirmatif. Le tout ensemble faisait
-          <hi>oui</hi>
-          autant que possible, car M. Baptiste ne disait jamais carrément oui, étant originaire d'un canton de la Normandie où les traditions s'étaient conservées intactes depuis le célèbre Rollon. Lorsqu'il s'agissait de la vente, il fallait bien donner à la pratique autre chose que des
-          <hi>hum !</hi>
-          On faisait alors usage de circonlocutions habiles, d'interjections expressives, mais jamais n'arrivait le
-          <hi>oui</hi>
-          compromettant. C'était inévitablement : dame !... ça dépend !... pourquoi pas ?... qu'en pensez-vous ?... allons donc !... tout de même.
-        </p>
+        <p> Comme le <hi>hum</hi> n'était pas un vain son chez M. Baptiste, et que n'employant guère que cela il savait très bien s'en servir, ce fut encore sa réponse, mais cette fois accompagné d'un signe de tête affirmatif. Le tout ensemble faisait <hi>oui</hi> autant que possible, car M. Baptiste ne disait jamais carrément oui, étant originaire d'un canton de la Normandie où les traditions s'étaient conservées intactes depuis le célèbre Rollon. Lorsqu'il s'agissait de la vente, il fallait bien donner à la pratique autre chose que des <hi>hum !</hi> On faisait alors usage de circonlocutions habiles, d'interjections expressives, mais jamais n'arrivait le <hi>oui</hi> compromettant. C'était inévitablement : dame !... ça dépend !... pourquoi pas ?... qu'en pensez-vous ?... allons donc !... tout de même. </p>
         <p>
           <label>LA PRATIQUE.</label>
         </p>
@@ -613,19 +560,11 @@
         </p>
         <p>Si vous ne le trouvez pas bon, rapportez-le moi.</p>
         <p>Ainsi le gros Baptiste avait réponse à tout, et la pratique, se lassant toujours la première, achetait harengs et fromage, qui, il faut le dire, avaient toutes les qualités voulues, puisqu'on ne leur demande pas de sentir bon.</p>
-        <p>
-          Tel était M. Baptiste, ne parlant volontiers que pour ses affaires, et silencieux sur tout le reste. De là le
-          <hi>hum.</hi>
-          Mais quand Mme Tourtebonne vous tenait, on n'en était pas quitte à si bon marché ; aussi continua-t-elle, avec une vive émotion, et dans l'intérêt de la morale :
-        </p>
+        <p> Tel était M. Baptiste, ne parlant volontiers que pour ses affaires, et silencieux sur tout le reste. De là le <hi>hum.</hi> Mais quand Mme Tourtebonne vous tenait, on n'en était pas quitte à si bon marché ; aussi continua-t-elle, avec une vive émotion, et dans l'intérêt de la morale : </p>
         <p>« Vraiment, il n'y a plus d'enfants ! conçoit-on ça ? Un marmot qui ne vous répond pas quand on cherche à lui rendre service ? Ah ! si le papa était venu par ici, je lui aurais fait mon compliment. Faut être poli, et quand le monde vous parle, faut pas lui tourner le dos. »</p>
         <p>Ces mots furent dits juste au moment où M. Baptiste avait déjà fait un demi-tour à gauche pour rentrer dans sa boutique ; il s'en fit donc l'application, et la politesse française, que les Normands ont adoptée comme les autres, le cloua malgré lui sur le pas de sa porte.</p>
         <p>« Mais peut-on imaginer une chose pareille : un enfant qui cherche son chemin devrait être content qu'on quitte la pomme pour s'occuper de lui. Pas du tout ! Pendant que je lui montre la rue Verte, voilà-t-il pas qu'il enfile la rue Bleue ?... Après ça, dame, faut tout dire, il y a des parents qui battent les enfants comme plâtre, ça ne les attache pas à la maison. Avec les enfants, faut ce qu'il faut, mais faut pas les assommer. Ce pauvre petit, il est peut-être malheureux comme les pierres. Tout à l'heure il était à la porte du charbonnier avec sa grande sœur et deux autres enfants, un petit garçon et une petite fille. Les avez-vous vus, monsieur Baptiste ? »</p>
-        <p>
-          Quoique la question fût directe, le marchand de fromage s'en tira encore cette fois avec ce
-          <hi>hum !</hi>
-          qu'il préférait à tout, et fit en même temps trois signes de tête de haut en bas, ce qui valait à
-          <hi>oui, oui, oui.</hi>
+        <p> Quoique la question fût directe, le marchand de fromage s'en tira encore cette fois avec ce <hi>hum !</hi> qu'il préférait à tout, et fit en même temps trois signes de tête de haut en bas, ce qui valait à <hi>oui, oui, oui.</hi>
         </p>
         <p>« Ah ! vous les avez vus ! Eh bien ! voulez-vous que je vous dise ? moi, je n'ai pas bonne opinion de ce monde-là. La petite est toute maigrelette, elle a une mine de papier mâché ; le garçon est un gros joufflu, mais il a l'air bête comme tout ; c'est qu'on l'aura trop battu. La grande fille a l'air d'un tambour-major ; elle est belle, mais elle me fait l'effet d'une danseuse de foire, avec son jupon court, et ses cheveux mal peignés. Ce pauvre petit, c'est peut-être un enfant volé ? Dame, ça s'est vu. Avec ça qu'il est gentil malgré ses vilains habits. Ah ! s'il est à eux, il n'a toujours pas d'air de famille. Il est blond, mince, il a des petits poignets de mauviette, la peau fine et blanche, on dirait d'un enfant qui a été élevé dans le grand... Tenez, tenez, monsieur Baptiste, voilà le papa... faut l'appeler.</p>
         <p>– Eh ! dites-donc, là-bas ! par ici ! C'est-y pas votre petit que vous cherchez, avec un bandeau doré dans les cheveux ? »</p>
@@ -644,18 +583,12 @@
         <p>Mme Tourtebonne, en disant ces mots, et toute remuée à la pensée d'Adalbert, se mit à pleurer comme elle faisait de temps en temps, sur les enfants qu'elle n'avait jamais eus. Puis, ayant tiré de sa poche un grand mouchoir à carreaux, elle s'essuya les yeux, et se remit à sourire. Tout était vrai dans la bonne femme, mais les impressions se succédaient rapidement.</p>
         <p>« Voilà qu'il est tard, dit-elle, il faut pourtant aller se coucher. Si nous faisions auparavant une déclaration à la police ? Dites, qu'en pensez-vous, monsieur Baptiste ? vous qui aimiez tant votre pauvre petit Auguste ? hein ! si l'on vous l'avait pris ?</p>
         <p>– Allons chez le commissaire, répondit le brave homme, que l'émotion de la marchande, jointe à ses propres souvenirs, éveillait presque tout à fait ; laissez-moi seulement fermer mes volets, et je suis à vous. »</p>
-        <p>
-          Les volets fermés, le marchand remisa pour un moment la petite voiture de Mme Tourtebonne dans sa cour, salua, demanda excuse, et offrit courtoisement son bras à sa plus ancienne connaissance ; c'était ainsi qu'on l'appelait, car dans la ville de G\
-          <hi>\*\</hi>
-          , elle était en effet la plus ancienne connaissance de presque tous ceux qui la voyaient passer depuis quarante-deux ans. Son cœur chaud, sa parole vive, ses manières aimables lui avaient concilié cette espèce d'affection qui se base sur un fond d'estime, et sur la longue habitude de sentir quelqu'un tourner autour de soi. Quand on voit une personne tous les jours, il faut nécessairement l'aimer un peu, ou la prendre en grippe ; et nul n'avait garde de prendre en grippe cette bonne figure bien rouge, entourée d'un bonnet bien blanc, et qui souriait à toute la ville comme à une amie d'enfance.
-        </p>
+        <p> Les volets fermés, le marchand remisa pour un moment la petite voiture de Mme Tourtebonne dans sa cour, salua, demanda excuse, et offrit courtoisement son bras à sa plus ancienne connaissance ; c'était ainsi qu'on l'appelait, car dans la ville de G\ <hi>\*\</hi> , elle était en effet la plus ancienne connaissance de presque tous ceux qui la voyaient passer depuis quarante-deux ans. Son cœur chaud, sa parole vive, ses manières aimables lui avaient concilié cette espèce d'affection qui se base sur un fond d'estime, et sur la longue habitude de sentir quelqu'un tourner autour de soi. Quand on voit une personne tous les jours, il faut nécessairement l'aimer un peu, ou la prendre en grippe ; et nul n'avait garde de prendre en grippe cette bonne figure bien rouge, entourée d'un bonnet bien blanc, et qui souriait à toute la ville comme à une amie d'enfance. </p>
         <p>Les pauvres, et surtout les petits mendiants, la rencontraient avec grand plaisir parce qu'au lieu de laisser ses fruits se gâter, elle les donnait le long du chemin quand elle n'avait pas pu les vendre, et elle disait :</p>
         <p>« Tiens, mon petit, prends cette pomme, elle est à moitié pourrie ; si j'étais riche, je t'en donnerais de la bonne, mais tu ôteras le mauvais, et ça ira encore. »</p>
         <p>Et quand le pauvre enfant disait merci, elle répondait :</p>
         <p>« De rien, mon bichon, ça me fait plaisir de te la voir croquer. »</p>
-        <p>
-          On arriva chez le commissaire de police. Mme Tourtebonne parla longtemps pour ne pas dire grand-chose, et M. Baptiste dit tout en quatre mots et quelques
-          <hi>hum !</hi>
+        <p> On arriva chez le commissaire de police. Mme Tourtebonne parla longtemps pour ne pas dire grand-chose, et M. Baptiste dit tout en quatre mots et quelques <hi>hum !</hi>
         </p>
         <p>M. le commissaire enregistra la déclaration, et fit espérer que ces dépositions pourraient aider tôt ou tard le malheureux enfant à retrouver sa famille.</p>
         <p>M. Baptiste et Mme Tourtebonne se retirèrent bras dessus, bras dessous, comme ils étaient venus, et pour clore cette soirée d'émotion, la petite voiture se remit en marche jusqu'au logis de l'excellente femme, qui demeurait précisément dans une des dernières maisons de la ville, du côté où Adalbert avait gagné la plaine.</p>
@@ -663,6 +596,7 @@
         <p>Pendant ce temps-là, notre petit ami était, comme nous l'avons vu, dans un souterrain, et comptait bien tristement les heures de sa captivité.</p>
       </div>
       <div type="chapter">
+
         <head>IX -- Adalbert avait faim.</head>
         <p>Nous avons laissé le fils de M. de Valneige en proie à une vive agitation dans sa ténébreuse solitude. Cette agitation dura plusieurs heures. Tantôt il croyait que le gros rat était tout près de lui, tantôt il lui semblait le sentir grimper le long de son corps. Son imagination lui créait mille souffrances qui n'existaient pas.</p>
         <p>Il fut distrait de cet état pénible par une autre préoccupation qui, en le détournant de la vilaine bête, le rejeta dans de nouvelles perplexités.</p>
@@ -682,13 +616,7 @@
         <p>Il voyait en lui même jusqu'à l'alliance qu'elle portait, et qui avait toujours été une des grandes joies d'Adalbert. Cette alliance offrait cela de particulier que, étant un peu plus large que ces sortes de bagues ne le sont d'ordinaire, Mme de Valneige s'était plu à faire graver dans l'intérieur les initiales de ses enfants par ordre de naissance. Quand Adalbert était petit, et qu'il avait été bien sage, il obtenait de sa maman la faveur d'ouvrir lui-même l'alliance et d'y regarder la lettre A qui représentait son nom. Avant même de savoir son alphabet sans faute, le petit garçon, quand la fameuse bague s'entrouvrait, ne manquait jamais de s'écrier :</p>
         <p>« Ça c'est un C, ça veut dire Camille ; ça c'est un E, ça veut dire Eugène ; ça c'est une F, ça veut dire Frédéric, et ça c'est un A, ça veut dire Adalbert ! »</p>
         <p>Quand il en arrivait là, il se donnait deux ou trois petits coups sur la poitrine pour s'assurer que c'était bien lui ; puis il battait des mains, et sa maman l'embrassait ; cela finissait toujours ainsi.</p>
-        <p>
-          Cette bague jouait un grand rôle dans l'éducation maternelle du jeune enfant, et même un jour qu'il avait commis une énorme faute, c'est-à-dire qu'il avait dit
-          <hi>non</hi>
-          quand il pensait
-          <hi>oui</hi>
-          , qu'il avait en un mot menti, Mme de Valneige lui avait déclaré en le regardant très sévèrement, que si jamais pareille chose lui arrivait encore, elle enverrait sa bague chez le bijoutier pour qu'il effaçât la lettre A. Et le bon petit enfant n'avait jamais menti depuis ce jour-là.
-        </p>
+        <p> Cette bague jouait un grand rôle dans l'éducation maternelle du jeune enfant, et même un jour qu'il avait commis une énorme faute, c'est-à-dire qu'il avait dit <hi>non</hi> quand il pensait <hi>oui</hi> , qu'il avait en un mot menti, Mme de Valneige lui avait déclaré en le regardant très sévèrement, que si jamais pareille chose lui arrivait encore, elle enverrait sa bague chez le bijoutier pour qu'il effaçât la lettre A. Et le bon petit enfant n'avait jamais menti depuis ce jour-là. </p>
         <p>Lorsque, dans ce triste caveau, le prisonnier cessait de penser à sa maman, il ne trouvait en son esprit que des sujets de crainte. Ce reste de ténèbres l'empêchait de suivre les mouvements du gros rat noir. Et puis, il se demandait avec anxiété où en était l'ouvrier mystérieux ? S'il s'était endormi là tout près, ou bien s'il était parti ? Non, aucune porte ne s'était ouverte, et Adalbert ne pouvait douter que, excepté le balancier de la pendule, tout dans cette maison fût immobile.</p>
         <p>Il évitait de penser au menuisier, mais alors revenait l'Hercule. Oh ! quel effroi ! s'il fallait le revoir, être repris par ses larges mains qui l'auraient broyé en le touchant ! Le petit garçon tremblait à cette seule idée. Et la vieille ? oh ! la vieille, elle lui faisait encore plus peur ; l'impression qu'elle produisait sur son cerveau fatigué, et sur ses nerfs malades, était à peu près la même que l'impression produite par le gros vilain rat qui s'agitait dans l'ombre.</p>
         <p>Et Gella ? ah ! Gella ! elle aurait été bonne peut-être ! Pourquoi l'enfant n'avait-il pas répondu quand elle avait dit si doucement :</p>
@@ -735,6 +663,7 @@
         <p>Un peu plus tard, la pluie commença de tomber au dehors, et le vent fit gémir les trembles qui bordaient ce chemin désert. L'enfant, presque évanoui de faim, de peine et de misère, ferma les yeux, et croyant que ce qu'il sentait devait s'appeler mourir, il baissa sa pauvre petite tête, et dit tout bas : Maman !</p>
       </div>
       <div type="chapter">
+
         <head>X -- Adalbert hésitait.</head>
         <p>Il y avait longtemps que le fils de Mme de Valneige n'avait remué, et il croyait réellement ses forces épuisées. La pendule venait de sonner huit heures. Comme le ciel était tout noir et que la tempête agitait la nature, l'étoile ne revint pas, cette étoile que la veille il avait nommée Adilie ; il était donc là sans consolation, attendant, sans savoir même ce qu'il attendait.</p>
         <p>Tout-à-coup, il entend des pas, puis le frôlement d'une robe sur la barre de fer qui traversait le soupirail, puis une voix très douce qui disait tout bas :</p>
@@ -797,11 +726,7 @@
         <p>– Oui, quoi donc ?</p>
         <p>– Ne m'appelez jamais de ce vilain nom-là quand nous sommes seuls ; dites comme on disait à la maison : Adalbert.</p>
         <p>– Oh ! mon enfant, qu'est-ce tu me demandes là ? c'est impossible !</p>
-        <p>
-          -- Eh bien, appelez-moi comme tout à l'heure quand vous disiez tout bas :
-          <hi>Petit</hi>
-          , es-tu là ?
-        </p>
+        <p> -- Eh bien, appelez-moi comme tout à l'heure quand vous disiez tout bas : <hi>Petit</hi> , es-tu là ? </p>
         <p>– Je le veux bien. Je te disais donc que le père était furieux. Il s'est mis à te chercher par la ville ; une femme l'a arrêté, et lui a parlé du commissaire de police. Alors il a dit qu'il t'apercevait et il s'est sauvé. Quand nous nous sommes rejoints, lui et moi, et sans t'avoir retrouvé, il est tombé sur moi, et m'a donné des coups ! oh ! mais des coups ! si bien que moi, qui ai toujours eu peur de lui, je me suis mise en colère et je lui ai tenu tête.</p>
         <p>– Comment ! vous avez osé ?</p>
         <p>– Oui, je me sentais hors de moi. Je lui ai dit que j'étais bien aise de t'avoir perdu parce qu'on était trop malheureux avec lui, et j'ai ajouté : « Je sais où il est, mais je n'irai pas le chercher de peur que tu ne l'assommes. S'il parle, tant pis pour toi. »</p>
@@ -832,15 +757,14 @@
         <p>Le lendemain, quand il revit l'Hercule, Adalbert se sentit comme écrasé par son serment ; il était non seulement le prisonnier de cet homme barbare, mais encore, et bien davantage, le prisonnier de l'amitié reconnaissante.</p>
       </div>
       <div type="chapter">
+
         <head>XI -- Adalbert avait écrit son nom sur la muraille.</head>
         <p>Rien de plus simplement coquet que cette maison blanche dont on a enfin ouvert les persiennes au retour de la belle saison. Voyez comme la famille qui l'habite est heureuse de la revoir. C'est comme un nid sous une touffe de feuilles, loin du bruit, et loin des méchants. Ce n'est pas la richesse, ce n'est pas la pauvreté ; on y peut vivre paisible, sans se mettre en peine de paraître. Heureux ceux qui se contentent de peu !</p>
         <p>De ce nombre étaient les tranquilles possesseurs de cette maisonnette. Ils avaient été jeunes comme tout le monde, et ils ne l'étaient plus, encore comme tout le monde. En eux, le goût de la campagne était naturel. M. et Mme Deschamps avaient passé leurs premières années de mariage à se dire en se promenant, bon gré, mal gré ; dans les rues d'une grande ville : « Quand nos enfants seront mariés, nous irons planter nos choux ! »</p>
         <p>Or, les enfants n'en étaient qu'à la bouillie et au bourrelet. Il fallut gémir trente ans.</p>
         <p>On ne vit jamais époux mieux assortis. Le désir réciproque de se rendre heureux avait fondu les nuances au point que Monsieur, qui détestait la crème au chocolat, avait fini par en manger. Bien plus, Madame, qui avait de l'éloignement pour les chiens, supportait volontiers le brave Tom que son mari aimait.</p>
         <p>M. et Mme Deschamps donnaient l'hiver à leurs filles mariées, vivant de leur vie, et les aidant de leurs soins, de leurs conseils et de leur amour. L'été venu, ils faisaient dix lieues en diligence pour se retirer dans la maison qu'un parent leur avait léguée, avec un bosquet plein d'ombre, un parterre plein de fleurs, un petit étang plein de poissons, et partout du soleil, des parfums, la campagne enfin, ce qu'ils rêvaient jadis tout éveillés. L'isolement de ce lieu en était le plus grand charme. Il fallait faire au moins deux cents pas pour entendre dire du mal de quelqu'un.</p>
-        <p>
-          Tout s'aimait dans cette maison, à commencer par les maîtres. Ils étaient servis par une femme estimable nommée Sophie, qui justifiait son nom par la prudence, l'ordre et l'économie qu'elle apportait en toute chose. On n'aurait pas su dire si elle était cuisinière, femme de chambre, fille de basse-cour, ou femme de charge. C'était selon les heures et les circonstances. Pour se tirer d'affaire, on l'appelait
-          <hi>la bonne.</hi>
+        <p> Tout s'aimait dans cette maison, à commencer par les maîtres. Ils étaient servis par une femme estimable nommée Sophie, qui justifiait son nom par la prudence, l'ordre et l'économie qu'elle apportait en toute chose. On n'aurait pas su dire si elle était cuisinière, femme de chambre, fille de basse-cour, ou femme de charge. C'était selon les heures et les circonstances. Pour se tirer d'affaire, on l'appelait <hi>la bonne.</hi>
         </p>
         <p>Son mari, l'honnête Julien, était avant tout jardinier, puis frotteur, domestique, en un mot factotum. Le personnel de la maison s'arrêtait là : deux bons ménages en tout.</p>
         <p>Quant au reste, il y avait donc Tom, excellent au fond, plus de cœur que de tête ; des talents ordinaires, mais une fidélité à toute épreuve, et une sobriété ! Comme sous ce toit l'on vivait deux à deux et de bon accord, Tom, ne voyant aucun être à peu près semblable à lui, avait fini, comme pis aller, par aimer le chat. Celui-ci d'ailleurs recommandable sous tous les rapports, bien élevé, ne griffant point, ayant horreur du vol, suivant sa tranquille maîtresse dans les allées de son jardin, et s'arrêtant par amitié autant de fois qu'elle s'arrêtait, ce qui causait à la chère dame une sorte d'attendrissement perpétuel.</p>
@@ -857,20 +781,18 @@
         <p>Là-dessus, elle rêvait en épluchant ses carottes à ce qu'elle pourrait donner à son mari pour ses étrennes ou pour sa fête, pendant que Mme Deschamps étalait sur le lit de l'enragé pêcheur du linge blanc, de bonnes chaussettes, et des vêtements bien chauds, afin qu'il pût changer de tout en rentrant. Elle avait remarqué que ce cher Raymond, comme tous les Raymonds imaginables, prenait plus volontiers les choses qu'on lui mettait dans la main que celles qu'il aurait fallu chercher dans une armoire ; elle prévoyait donc jusqu'au mouchoir de poche.</p>
         <p>Vous pensez peut-être que cette excellente dame maudissait l'étang qui portait ombre à son bonheur ? Non, c'eût été une de ces oppositions vulgaires qu'on voit partout, et qui tiennent autant d'un esprit taquin que d'un cœur dévoué. Mme Deschamps faisait nettoyer les abords de ce lieu enchanté ; elle y avait elle-même planté un saule pleureur, haut comme elle tout au plus, qui en peu d'années, à force de soins, était venu à bout de grandir, de grossir et de pleurer comme les autres en jetant sa jolie image dans l'eau, ce qui faisait un délicieux effet de paysage.</p>
         <p>Tous les jours, après le dîner, on voyait Mme Deschamps se diriger vers la pièce d'eau, et appeler d'une voix caressante les heureux habitants de ces ondes. Ce n'était pas qu'ils lui plussent, avec leur air bête et leurs yeux de poisson ; mais enfin c'était le plaisir de son mari, sa distraction, innocente s'il en fut ! C'est pourquoi elle jetait invariablement dans l'eau, à la même heure, les miettes de sa table, y joignant, par largeur de vues, un petit morceau de pain coupé tout exprès. Il en résultait que les poissons, sans trop savoir le fond des choses, fuyaient Monsieur qui les cherchait toujours, et venaient au-devant de Madame qui ne les aimait pas du tout.</p>
-        <p>
-          On peut juger, d'après cet aperçu, si la vie était douce et facile dans cette modeste habitation qu'on appelait la Maison blanche, parce qu'effectivement sa blancheur se détachait dans l'isolement sur le fond vert des prés, et sur les diverses teintes des peupliers et des trembles. À vrai dire, il y avait si longtemps que les gens du pays l'appelaient ainsi que si l'on avait eu la lugubre fantaisie de la faire peindre en noir des quatre côtés, il est probable qu'on eût continué de dire,
-          <hi>la Maison blanche.</hi>
+        <p> On peut juger, d'après cet aperçu, si la vie était douce et facile dans cette modeste habitation qu'on appelait la Maison blanche, parce qu'effectivement sa blancheur se détachait dans l'isolement sur le fond vert des prés, et sur les diverses teintes des peupliers et des trembles. À vrai dire, il y avait si longtemps que les gens du pays l'appelaient ainsi que si l'on avait eu la lugubre fantaisie de la faire peindre en noir des quatre côtés, il est probable qu'on eût continué de dire, <hi>la Maison blanche.</hi>
         </p>
         <p>Le corps se reposait, et l'âme était à l'aise entre ces murs, si rapprochés pourtant, et sous les ombrages de ce petit domaine. Un enfant, petit-fils ou petit-neveu, venait souvent égayer l'intérieur. On voyait courir avec Tom dans les allées du parterre, et dans celles du potager, tantôt François, tantôt Victor, tantôt Geneviève, ou une autre. On n'en invitait qu'un, c'était juste la mesure pour apporter de la vie, de l'entrain. Deux à la fois cassaient la tête à tout ce monde si tranquille entre les choux et les petits pois.</p>
         <p>Ah ! le potager ! quel lieu de délices ! Aidé de Julien, M. Deschamps retournait la terre à plaisir et s'en trouvait aussi bien que les fils du laboureur de La Fontaine ; les poireaux étaient beaux, les épinards superbes ; les radis venaient partout, pourvu qu'on en semât, et les mâches poussaient même où l'on n'en semait pas. Il n'était pas grand, ce potager : deux allées en croix, cent pas en tout sens, et les petits neveux pouvaient dire comme dans la chanson :</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>
           <hi>Il y a quat' carrés</hi>
         </p>
         <p>
           <hi>Dans l'jardin d'ma tante...</hi>
         </p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>La joie des deux ménages était en grande partie dans le potager. Monsieur dirigeait et partageait la besogne avec Julien, ayant soin bien entendu de laisser la plus grosse part au voisin ; madame arrachait les mauvaises herbes avant qu'elles ne fussent à peu près sorties de terre ; et Sophie coupait tout ce qu'elle pouvait, et le mettait dans ses casseroles. Ainsi chacun se trouvait content à bon marché.</p>
         <p>On conçoit que les heureux propriétaires vissent chaque année revenir le mois de mai avec un plaisir sensible. Cette année-là, Mme Deschamps avait empaqueté et poivré ses vêtements d'hiver avec un empressement qui sentait encore la jeunesse. C'est que le cœur reste jeune bien longtemps lorsqu'il n'est point balloté par la tempête, mais solidement amarré à quelque rive bien paisible. Mme Deschamps savait qu'à la campagne son mari se portait mieux, et que recevant assez souvent la visite de ses filles, il n'enviait rien à son séjour d'hiver. D'ailleurs il avait des amis dans la petite ville voisine, et pouvait assez souvent leur offrir un bon dîner et la petite partie, ou bien aller lui-même avec sa femme s'égayer chez eux. L'heureuse Sidonie, à cause de ce bien-être, dans lequel chaque année son mari se plongeait, faisait ses préparatifs de départ avec plaisir.</p>
         <p>La gentille maisonnette n'était point abandonnée pendant la mauvaise saison. Un jardinier venait en temps voulu préparer les quatre carrés, semer des pommes de terre hâtives, appelées quarantaines, et tout ce qui pouvait être utile au ménage dès l'arrivée.</p>
@@ -910,6 +832,7 @@
         <p>Julien qui avait l'esprit exact, et qui, dans une autre position sociale, eût été bon mathématicien, se demandait comment diable s'y était pris le petit garçon pour sortir par le soupirail ? Entrer se comprenait encore, mais sortir ! il conclut à la nécessité d'avoir été aidé par quelqu'un. De plus, comme il était soigneux, il maudissait un vilain rat qui avait rongé la porte de la cave, et, tout en pensant à Adalbert, il songeait aussi à boucher ce trou, et à se procurer dans un court délai de la mort aux rats.</p>
       </div>
       <div type="chapter">
+
         <head>XII -- Adalbert était le sujet de tous les entretiens.</head>
         <p>« Ah ! vous voilà donc revenus enfin ?</p>
         <p>– Oui, et nous ramenons le beau temps.</p>
@@ -946,16 +869,13 @@
         <p>L'émotion fut si soudaine que Mme Tourtebonne recula de trois pas, et faillit tomber sur les bouteilles vides.</p>
         <p>« Prenez garde ! » dit Sophie.</p>
         <p>À ce mot qui révélait un danger, la bonne femme se précipita en sens inverse, et mit ses deux énormes pieds dans la poussière de charbon qui, n'ayant jamais plié sous un pareil poids, rebondit jusque sur le tablier blanc de la marchande. Elle, si propre, si soigneuse, ne s'en mit pas en peine, et répéta tant de fois : « C'est lui ! c'est lui ! » que Sophie crut qu'elle perdait la tête. Elle vit bientôt qu'il n'en était rien ; sa vieille connaissance tira son mouchoir de sa poche, et, tout en s'essuyant les yeux, car elle était fort attendrie, elle raconta comment cet hiver, en novembre, un joli petit blondin, d'une apparence frêle et délicate, lui avait filé entre les doigts ; c'était son expression favorite. En dix minutes, Sophie sut tout ce qu'on pouvait savoir, y compris les regards sombres du prétendu père, son horreur pour le commissaire de police, les mots arrachés à M. Baptiste, qui avait été témoin, et leur commune déclaration faite le soir même.</p>
-        <p>
-          Si la charrette pleine de marchandises n'avait pas été là-haut, et si un beau carré de veau sur le feu n'avait pas réclamé les soins de la cuisinière, on ne sait pas combien de temps les deux femmes auraient pu rester dans la cave. Mme Tourtebonne ne tarissait pas en suppositions ; son imagination, aidant son cœur chaleureux, entourait l'enfant de chimères ; elle en était venue à l'aimer au point que, entre intimes, elle disait volontiers :
-          <hi>Mon</hi>
-          petit garçon.
-        </p>
+        <p> Si la charrette pleine de marchandises n'avait pas été là-haut, et si un beau carré de veau sur le feu n'avait pas réclamé les soins de la cuisinière, on ne sait pas combien de temps les deux femmes auraient pu rester dans la cave. Mme Tourtebonne ne tarissait pas en suppositions ; son imagination, aidant son cœur chaleureux, entourait l'enfant de chimères ; elle en était venue à l'aimer au point que, entre intimes, elle disait volontiers : <hi>Mon</hi> petit garçon. </p>
         <p>Sophie ayant prévenu ses maîtres, ils interrogèrent Mme Tourtebonne avec le plus vif intérêt. Celle-ci, trop heureuse de voir l'affaire en bonnes mains, dit tout ce qu'elle savait, et même davantage. M. Deschamps vit dans ses discours, bien qu'il n'en acceptât que la moitié, des indices dont on pourrait peut-être tirer parti. Mme Deschamps sentit redoubler son espoir, car, depuis la découverte, elle n'avait jamais cessé de rêver au jour qui réunirait l'enfant et sa mère. Bien plus, elle finissait par y rêver sans dormir, c'était un moyen d'arranger elle-même des circonstances commodes pour arriver avec plus de facilité au dénouement.</p>
         <p>Le croirait-on ? malgré ses cinquante-cinq ans, et son glorieux titre de grand-mère, la bonne Sidonie se laissait envahir par une foule d'idées, de projets, de châteaux en Espagne, dont l'enfant de la cave, comme disait Sophie, faisait tous les frais. De tout cela, elle disait peu de chose à son mari, car il eût bien sûr plaisanté sa femme ; or, le cœur a ses enfantillages, et il n'aime pas que la raison d'un autre en fasse justice. M. Deschamps, si bon mari, n'entendait absolument rien aux rêveries, aux suppositions, et aux commentaires. Dès qu'il se trouvait autre part qu'au bord de son étang un jour de pluie, il était positif au dernier point ; c'est pourquoi il appréciait Julien qui faisait tout avec méthode.</p>
         <p>De temps en temps, le bon monsieur se plaignait, sans aucune aigreur, de ce qu'on parlait un peu trop souvent d'Adalbert, et si sa femme s'en attristait, il lui faisait observer qu'une seule de ses démarches, à lui, faite en temps et lieu, avancerait plus les affaires que tous les discours et tous les soupirs imaginables ; ce à quoi la bonne Sidonie n'ayant rien à répondre tirait son aiguille, et parlait d'autre chose.</p>
       </div>
       <div type="chapter">
+
         <head>XIII -- Adalbert avait déjà passé dix-huit mois dans la maison roulante.</head>
         <p>Le cher petit exilé de Valneige grandissait loin du toit paternel. L'habitude, en adoucissant ce que sa nouvelle existence avait de trop rude, lui apportait une sorte de soulagement physique, mais son esprit et son cœur se révoltaient.</p>
         <p>Cependant, il ne perdait ni l'espoir, ni le courage, et n'oubliait pas que son père avait répété plusieurs fois devant lui que la seule chose qui rende un homme moins fort que le malheur, c'est le découragement.</p>
@@ -964,11 +884,7 @@
         <p>Il ne trouvait aucun plaisir dans la compagnie du bon Natchès, en qui ne restait que l'intelligence nécessaire pour obéir, et qui était par le fait moins malheureux qu'il ne paraissait l'être, parce qu'il ne sentait en rien l'horreur de sa situation.</p>
         <p>Adalbert éprouvait un touchant intérêt pour la petite Tilly, si faible et si souffrante. Toussant presque en toute saison, la délicatesse de sa poitrine eût éveillé la sollicitude d'une mère ; mais Tilly ne savait même pas ce que c'est qu'une mère. Comme elle était jolie, adroite et douce, on n'avait presque jamais de reproches à lui faire ; cependant, cette vieille harpie qui menait le ménage trouvait encore des prétextes aux querelles. S'il se préparait une parade, et que la pauvre enfant eût mauvaise mine, elle était grondée. Aussi mettait-elle tous ses soins à cacher les progrès de ce qu'elle appelait son rhume. Ce rhume était un malaise général, souvent accompagné d'un peu de fièvre, et elle était quelquefois prête à pleurer sans savoir précisément pourquoi. C'est alors qu'elle disait tristement à Adalbert, toujours si bon pour sa faiblesse :</p>
         <p>« J'ai mal partout, mais, moi, ça ne fait rien. »</p>
-        <p>
-          Les deux enfants causaient rarement. Depuis son escapade, Adalbert était surveillé de près, non seulement pour éviter un second essai de fuite, mais de peur que sa parole hardie ne trahît l'irritation que faisait naître en lui son esclavage. Cependant il apprit de cette intéressante malade qu'il ne lui restait aucun souvenir de sa première enfance, et que la maison roulante était la seule habitation qu'elle connût. Bien que n'ayant jamais vu d'autre intérieur que celui des saltimbanques, elle repoussait d'instinct tout ce qui s'y disait et s'y faisait. On sentait à son aspect que son origine était tout autre, et elle-même le sentait si bien qu'elle évitait le plus possible de rien demander à la vieille Praxède, tant il lui était pénible de l'appeler
-          <hi>Bonne maman.</hi>
-          Cette chère petite fut tout étonnée quand elle vit dans le jeune de Valneige un cœur doux, mais énergique, un esprit qui savait plier sans servilité. Dans leurs rares entretiens, elle apprit de lui qu'elle avait une âme, et qu'il y a un ciel.
-        </p>
+        <p> Les deux enfants causaient rarement. Depuis son escapade, Adalbert était surveillé de près, non seulement pour éviter un second essai de fuite, mais de peur que sa parole hardie ne trahît l'irritation que faisait naître en lui son esclavage. Cependant il apprit de cette intéressante malade qu'il ne lui restait aucun souvenir de sa première enfance, et que la maison roulante était la seule habitation qu'elle connût. Bien que n'ayant jamais vu d'autre intérieur que celui des saltimbanques, elle repoussait d'instinct tout ce qui s'y disait et s'y faisait. On sentait à son aspect que son origine était tout autre, et elle-même le sentait si bien qu'elle évitait le plus possible de rien demander à la vieille Praxède, tant il lui était pénible de l'appeler <hi>Bonne maman.</hi> Cette chère petite fut tout étonnée quand elle vit dans le jeune de Valneige un cœur doux, mais énergique, un esprit qui savait plier sans servilité. Dans leurs rares entretiens, elle apprit de lui qu'elle avait une âme, et qu'il y a un ciel. </p>
         <p>« Crois-tu que j'irai dans le ciel, demandait-elle naïvement ?</p>
         <p>– Oui, tu iras parce que maman dit qu'on y va bien sûr, quand on a bonne volonté, qu'on ne fait pas de mal exprès, et qu'on aime le bon Dieu de tout son cœur.</p>
         <p>– Si je ne l'aimais pas, vois-tu, c'est que je ne le connaissais pas ; mais, dis-moi, crois-tu que ce soit dans bien longtemps, bien longtemps que j'irai dans le ciel ?</p>
@@ -986,13 +902,7 @@
         <p>Le bon petit garçon avait dans l'âme tant de sincérité, et dans la voix tant de caresses, que la pauvre fille était souvent à demi-persuadée, et que sa misère morale l'humiliait en présence de l'enfant captif.</p>
         <p>Une chose, depuis quelque temps, étonnait singulièrement Adalbert, c'était le désir que Gella lui témoignait de savoir écrire, ou du moins écrire certains mots, toujours les mêmes. Ces mots ne paraissaient avoir entre eux aucune liaison, et pourtant Gella avait certainement une idée sérieuse qu'elle cachait avec le plus grand soin. Souvent, quand elle se trouvait seule avec le prisonnier, elle prenait un bâton, et traçait grossièrement sur la terre les lettres dont il lui donnait le modèle.</p>
         <p>« Mais pourquoi toujours les mêmes mots ? demandait le petit professeur.</p>
-        <p>
-          -- Tais-toi, mon maître, répondait en riant Gella. Voyons, fais-moi des
-          <hi>o*, des</hi>
-          a
-          <hi>, ce qu'il faut pour que j'écrive</hi>
-          père... vous... je...* etc., etc., j'ai mes raisons. »
-        </p>
+        <p> -- Tais-toi, mon maître, répondait en riant Gella. Voyons, fais-moi des <hi>o*, des</hi> a <hi>, ce qu'il faut pour que j'écrive</hi> père... vous... je...* etc., etc., j'ai mes raisons. » </p>
         <p>L'enfant, sans y rien comprendre, traçait ces mots sur la terre du chemin avec un petit bâton ; puis l'élève essayait de copier, et l'instituteur disait que c'était fort mal, et effaçait tout, en marchant dessus. Ces leçons mystérieuses étaient presque des récréations pour le pauvre enfant de Valneige.</p>
         <p>En échange, Adalbert apprenait de Gella beaucoup de choses. C'était elle qui lui faisait faire tous les jours ce qu'on appelait ses exercices ; c'est-à-dire des mouvements mesurés, des jetés, des pliés, des battements, tout ce qui peut assouplir le corps. L'enfant avait une extrême facilité à comprendre, à exécuter ; c'était un garçon d'espérance, disait le maître en envoyant bien haut la fumée de sa grosse pipe, ce qui chez lui indiquait le parfait contentement. Ces dispositions naturelles, jointes à l'attention qu'il mettait à satisfaire Gella, le firent avancer promptement dans la seule étude qu'on exigeât de lui, et bientôt il fut en état de figurer avec avantage dans les parades, aux grandes foires et aux fêtes de village. C'était un triste métier ! Être habillé en sauteur de corde, faire des gambades, danser la polka, se trémousser jusqu'à l'extrême fatigue ; puis aller présenter la sébile à deux cents personnes pour avoir quelques sous. Voilà pourtant ce que devait faire l'enfant du château, et quand il avait figuré, son cœur était gros, il avait envie de pleurer. Son costume, quoique très gracieux, l'humiliait, et les applaudissements de tout ce peuple lui faisaient honte.</p>
         <p>Il avait été élevé dans des idées tout autres ; ses parents avaient pour principe qu'un enfant ne doit jamais occuper de lui les étrangers ; que la bonne éducation consiste à répondre quand on est interrogé, sans adresser le premier la parole ; à ne point se faire remarquer, à ne pas faire valoir ses petits talents, à moins qu'on n'y soit positivement autorisé. Voilà quel était le système adopté à Valneige, et, malgré son étourderie, ces excellents principes avaient imprimé des traces profondes dans l'esprit d'Adalbert. C'est pourquoi il lui avait été très pénible de monter sur les planches devant un public grossier dont il devenait le jouet.</p>
@@ -1000,16 +910,13 @@
         <p>On ne peut se figurer l'agitation, l'empressement des saltimbanques un jour de grande parade. L'Hercule ôtait enfin sa vieille redingote roussâtre, et revêtait un juste-au-corps couleur de chair, et un costume de fantaisie qui probablement ne ressemblait guère à celui d'Hercule. Quand il avait démêlé et rejeté en arrière son épaisse chevelure, et que ses habits collants dessinaient les formes colossales de son corps, l'homme à la main de fer ne manquait pas d'une sorte de beauté sauvage. Cette beauté toutefois n'était nullement sympathique ; c'était celle de ces lions superbes qu'on admire, à condition qu'une bonne grille de fer les tient à distance.</p>
         <p>Quant à Karik, il s'affublait du costume le plus grotesque et n'y perdait rien. Le jeune garçon, une fois lancé, trouvait dans son humeur triviale quantité de grosses plaisanteries, plus sottes les unes que les autres, qui obtenaient de la foule de longs éclats de rire. Le petit de Valneige finissait lui-même par rire quelquefois, non pas des bons mots de Karik, auxquels son esprit innocent ne comprenait rien, mais du spectacle de tant de figures hébétées qui, la bouche ouverte, applaudissaient aux énormes sottises qu'on leur débitait, et donnait un sou par-dessus le marché.</p>
         <p>La petite Tilly était extrêmement jolie quand elle devait figurer. La tête couronnée de roses, les bras ornés de bracelets, le cou entouré de perles, un corsage décolleté, une jupe blanche et or, très courte, des bas couleur de chair, des petits souliers bleu de ciel, telle était sa parure. Elle avait beaucoup de distinction naturelle, et, la délicatesse de sa complexion ajoutant encore du charme à l'ensemble, le maître était ravi quand il la voyait danser la polka avec Adalbert, pendant que Karik et Natchès faisaient une épouvantable musique qui n'était que du vacarme bien en mesure.</p>
-        <p>
-          La fin de toute représentation, le plus beau du programme, c'était la danse de Gella. Quand elle apparaissait dans son costume de velours noir soutaché d'argent, qu'elle saluait le public, et qu'avec de beaux mouvements des bras, elle attirait la foule et la massait autour du théâtre, Adalbert ne manquait jamais de tomber dans un étonnement voisin de l'admiration. Les cheveux noirs de Gella, entremêlés de fleurs de grenadiers, encadraient son visage brun ; ses yeux animés lançaient des éclairs ; elle avait quelque chose d'imposant dans toute sa personne, et une extrême bonté dans le sourire. Son aspect était alors celui d'une belle Espagnole, et on l'intitulait aux jours de fêtes populaires : Gella,
-          <hi>l'Andalouse.</hi>
-          Elle savait jouer habilement des castagnettes, et dansait à ravir la cachoucha, au grand ébahissement des spectateurs qui l'applaudissaient de la voix et du geste ; quelquefois même, on lui jetait des fleurs. Adalbert la contemplait avec une affectueuse surprise, mêlée d'un peu de honte. Comme il l'aimait à cause de la bonté qu'elle lui témoignait, il aurait voulu la voir toujours occupée de travaux d'aiguille ou de ménage, plutôt que de servir ainsi à l'amusement d'une populace grossière qui ne la respectait pas.
-        </p>
+        <p> La fin de toute représentation, le plus beau du programme, c'était la danse de Gella. Quand elle apparaissait dans son costume de velours noir soutaché d'argent, qu'elle saluait le public, et qu'avec de beaux mouvements des bras, elle attirait la foule et la massait autour du théâtre, Adalbert ne manquait jamais de tomber dans un étonnement voisin de l'admiration. Les cheveux noirs de Gella, entremêlés de fleurs de grenadiers, encadraient son visage brun ; ses yeux animés lançaient des éclairs ; elle avait quelque chose d'imposant dans toute sa personne, et une extrême bonté dans le sourire. Son aspect était alors celui d'une belle Espagnole, et on l'intitulait aux jours de fêtes populaires : Gella, <hi>l'Andalouse.</hi> Elle savait jouer habilement des castagnettes, et dansait à ravir la cachoucha, au grand ébahissement des spectateurs qui l'applaudissaient de la voix et du geste ; quelquefois même, on lui jetait des fleurs. Adalbert la contemplait avec une affectueuse surprise, mêlée d'un peu de honte. Comme il l'aimait à cause de la bonté qu'elle lui témoignait, il aurait voulu la voir toujours occupée de travaux d'aiguille ou de ménage, plutôt que de servir ainsi à l'amusement d'une populace grossière qui ne la respectait pas. </p>
         <p>L'enfant remarquait d'ailleurs avec grand plaisir que, s'il arrivait à Gella d'avoir eu ce qu'on appelait un succès, elle n'en paraissait pas plus heureuse. Au contraire, une insurmontable fatigue alourdissait ses membres ; elle devenait maussade, et souvent, après avoir repris ses vêtements de pauvre fille, elle disait à Adalbert :</p>
         <p>« Moi, vois-tu, mon petit, je me démène, c'est le métier qui veut ça ; mais si tu crois que je m'amuse, tu te trompes. J'aimerais bien mieux être comme tant d'autres femmes, qui vivent tout bonnement dans une maison, sans être toujours à rouler d'un côté et d'un autre, pour faire des grâces à un tas de badauds qui sont plus bêtes que des choux ! »</p>
         <p>Quand elle avait ainsi exprimé de nobles pensées dans son langage trivial, la fille de l'Hercule poussait un grand soupir ; Adalbert lui savait gré de ces pensées et de ce soupir, et, à la reconnaissance affectueuse qu'il avait pour elle, se mêlait une véritable estime.</p>
       </div>
       <div type="chapter">
+
         <head>XIV -- Adalbert eût été le quatorzième.</head>
         <p>Les oiseaux chantaient toujours sous les ombrages embaumés de Valneige ; eux seuls n'étaient point attristés, parce qu'ils n'avaient pas connu Adalbert.</p>
         <p>C'était un lieu charmant que ce Valneige. La nature avait revêtu les teintes variées du printemps. L'eau courait sans se presser, ni s'attarder. Un beau soleil dorait la campagne, et les génisses gambadaient dans les prés, joyeuses de voir leurs mères, et de respirer une calme fraîcheur.</p>
@@ -1029,11 +936,7 @@
         <p>– Comment les prix ?</p>
         <p>– Oui, les prix. Vous n'êtes que deux, vous avez admirablement lutté, et avec une adresse souvent égale. Votre père a fait le relevé des coups ; l'un de vous a l'avantage, mais l'autre le suit de si près que, en vérité, je ne puis le laisser partir sans un témoignage honorable. Il y aura donc un premier prix, et un second prix, et des camarades, et un bon dîner, et du vin de Champagne !... »</p>
         <p>Ici, ce furent des battements de mains, et des cris de joie. Une petite fête à Valneige ! Depuis dix-huit mois, c'était la première fois que Frédéric et Eugène voyaient se préparer un plaisir qui ressemblât à ceux d'autrefois. On s'amusait, mais toujours entre enfants. Il était question pour le lendemain d'invitations. Cela voulait dire trois bons amis du voisinage : Paul, Édouard et Christian. Ces trois-là étaient les plus intimes, et de fameux garçons ! Ils riaient toujours, c'est un grand point ! ces petits messieurs n'avaient encore compris parfaitement qu'un seul mot parmi ceux qui nous viennent des anciens : « À demain les affaires sérieuses ! »</p>
-        <p>
-          Ils allaient donc venir, et leurs parents aussi ; il y aurait un grand dîner ! Le mot
-          <hi>grand</hi>
-          voulait dire en cette circonstance beaucoup de personnes s'aimant bien, autour d'une table couverte de mets excellents. Quant à l'étiquette, à la froideur, et aux autres attributs des vrais grands dîners, il n'en était pas question à Valneige, où l'on avait, comme disait Rosette, le cœur sur la main.
-        </p>
+        <p> Ils allaient donc venir, et leurs parents aussi ; il y aurait un grand dîner ! Le mot <hi>grand</hi> voulait dire en cette circonstance beaucoup de personnes s'aimant bien, autour d'une table couverte de mets excellents. Quant à l'étiquette, à la froideur, et aux autres attributs des vrais grands dîners, il n'en était pas question à Valneige, où l'on avait, comme disait Rosette, le cœur sur la main. </p>
         <p>Le lendemain, il se passa mille scènes bruyantes et joyeuses dans le parc. Les voisins de campagne avaient envoyé dès le matin Paul, Édouard et Christian. On était cinq, plus qu'il n'en fallait pour faire les cent coups ! Au début, Rosette essaya d'intervenir pour faire ses petites recommandations, et prévenir les contusions et les dégâts. Autant aurait valu haranguer les Vandales quand ils s'abattaient sur une contrée. Rosette le comprit et mit dans sa retraite une certaine dignité. Elle se fit de l'arrière-cuisine une sorte de retranchement, d'où l'on ne voyait pas l'ennemi, ce qui pouvait conduire peut-être à l'oublier. Prenant en main le fameux tricot obligé, elle commença à tricoter avec fureur et sans désemparer.</p>
         <p>Les garçons mirent Philippe à contribution pour faciliter leurs plaisirs et, comme le maître avait donné le mot au cocher, celui-ci fut d'une complaisance à toute épreuve. Il laissa atteler le cheval noir, et permit qu'on fît le tour du parc ayant pour cocher Frédéric, pour laquais Eugène, et trois messieurs dans la voiture.</p>
         <p>D'autres inventions succédèrent à celle-ci. Philippe fut bon enfant, et il organisa une promenade en barque, bonheur suprême ! à la condition que les petits jeunes gens lui accorderaient assez d'autorité pour qu'il les empêchât d'aller au fond de la rivière. Ces plaisirs, interrompus seulement par un beau goûter, menèrent les enfants jusqu'à cinq heures. Alors arrivèrent en voitures les parents des trois camarades. M. et Mme de Valneige les reçurent avec cordialité, et à six heures on entra dans la salle à manger au nombre de treize personnes. Le dîner fut élégamment servi ; les domestiques étaient contents de revoir un peu d'entrain au château.</p>
@@ -1058,7 +961,7 @@
         <p>M. de Valneige, très frappé du trouble de la vieille bonne, prit de ses mains une lettre mal pliée, écrite sur de gros papier avec une espèce d'encre rouge à peine lisible, pas d'ordre, pas d'orthographe.</p>
         <p>Mme de Valneige était immobile, les convives attendaient dans l'anxiété, et Rosette restait là, la bouche ouverte.</p>
         <p>M. de Valneige lut à haute voix :</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>
           <hi>Vot peti va bien ces moi que jsui la file de lomme qui la si voum doné vot parol donor que voun frè padmala mon père jvoul frè ravoir.</hi>
         </p>
@@ -1073,6 +976,7 @@
         </p>
       </div>
       <div type="chapter">
+
         <head>XV -- Adaldert savait maintenant pourquoi Gella écrivait sur le sable.</head>
         <p>Un jour, dans la matinée, on avait envoyé Gella faire une commission à la ville, c'était près de Nantua qu'on campait en ce moment. Le petit Moustapha accompagnait la jeune ménagère pour l'aider à rapporter les provisions. La seule joie qu'il eût dans sa vie, c'était de loin en loin une course avec la bonne Gella. Ce jour-là, au retour, et pendant qu'il marchait à côté d'elle, sa protectrice lui dit :</p>
         <p>« Tiens, prenons ce chemin détourné d'où l'on ne voit pas la voiture ; nous allons nous asseoir un instant, j'ai quelque chose à te dire.</p>
@@ -1129,16 +1033,13 @@
         <p>Lorsqu'il ne s'agissait pas d'un mécontentement excité par sa fille elle-même, l'Hercule lui laissait parfois assez de puissance pour pacifier l'intérieur. Cette fille était le rayon de soleil qui seul apparaissait dans ce désert moral où tout ce monde s'agitait. Son père, il est vrai, eût été capable de tout dans un moment de colère, mais pourtant il l'aimait à sa manière, comme elle le disait, et sa belle Andalouse, ainsi qu'il l'appelait dans ses rares instants de bonne humeur, était le bon génie de ce cœur à demi barbare.</p>
       </div>
       <div type="chapter">
+
         <head>XVI -- Adalbert était là.</head>
         <p>Un temps admirable ! Pas question de pluie : un beau jour de printemps.</p>
         <p>Blondine, gentille Alsacienne de treize à quatorze ans, avait terminé sa toilette et mis beaucoup de pommade. Elle triomphait, faisant sonner dans sa poche sa petite fortune de quinze sous, et attendant au seuil de sa maisonnette que les bons amis la prissent en passant, comme ils en étaient convenus. Ces bons amis étaient Mme Tourtebonne et M. Baptiste ; ils allaient à la foire de M...</p>
         <p>L'heure s'avançait. La petite fille n'était pas sans inquiétude sur ce plaisir si longtemps attendu. Cependant, Mme Tourtebonne, à qui ses parents la confiaient, était l'exactitude personnifiée. Il fallait qu'elle eût été retardée par une circonstance indépendante de sa volonté. Effectivement, voici ce qui était arrivé.</p>
         <p>Il faut savoir d'abord que la foire de M... tenait une large place dans la tête de Mme Tourtebonne. Depuis quarante-cinq ans et plus, elle ne se rappelait pas l'avoir manquée. Elle faisait des affaires toute l'année, mais cette foire, qui durait trois jours, la trouvait immanquablement dans une disposition d'esprit toute joviale. Elle entendait s'amuser, et, par le fait, elle s'amusait beaucoup. C'était une de ces bonnes natures qu'un rien distrait, qui rient parce qu'on rit, qui sont contentes parce qu'on est content.</p>
-        <p>
-          Tous les ans, elle s'arrangeait avec quelques voisins pour aller de compagnie et en voiture, car le lieu de la fête était éloigné de dix kilomètres. Cette année, elle avait un excellent moyen de transport : la carriole de M. Baptiste. On était bien secoué par exemple, et la vieille Manon ne manquait pas une occasion de faire un faux pas, mais enfin on arrivait. Le brave homme, qui n'avait rien de plaisant, allait tout bonnement à la foire dans l'intérêt de ses fromages et de ses harengs, comptant rencontrer quelques gros fermiers avec lesquels on pourrait se mettre en rapport. Cette année, hélas ! il y allait surtout parce qu'il avait depuis trois semaines des rages de dent qui l'empêchaient de dormir, et qu'on assurait qu'un certain arracheur de dents, bien connu à la foire de M..., les arrachait
-          <hi>sans douleur.</hi>
-          Ce mot a un pouvoir magique sur les esprits campagnards ; mais le brave homme, qui certes n'avait rien pris de l'élégance des villes, avait néanmoins perdu un peu de sa candeur native au contact des citadins. C'est pourquoi il ne croyait qu'à moitié au prodigieux talent dont on lui parlait.
-        </p>
+        <p> Tous les ans, elle s'arrangeait avec quelques voisins pour aller de compagnie et en voiture, car le lieu de la fête était éloigné de dix kilomètres. Cette année, elle avait un excellent moyen de transport : la carriole de M. Baptiste. On était bien secoué par exemple, et la vieille Manon ne manquait pas une occasion de faire un faux pas, mais enfin on arrivait. Le brave homme, qui n'avait rien de plaisant, allait tout bonnement à la foire dans l'intérêt de ses fromages et de ses harengs, comptant rencontrer quelques gros fermiers avec lesquels on pourrait se mettre en rapport. Cette année, hélas ! il y allait surtout parce qu'il avait depuis trois semaines des rages de dent qui l'empêchaient de dormir, et qu'on assurait qu'un certain arracheur de dents, bien connu à la foire de M..., les arrachait <hi>sans douleur.</hi> Ce mot a un pouvoir magique sur les esprits campagnards ; mais le brave homme, qui certes n'avait rien pris de l'élégance des villes, avait néanmoins perdu un peu de sa candeur native au contact des citadins. C'est pourquoi il ne croyait qu'à moitié au prodigieux talent dont on lui parlait. </p>
         <p>À cause de cette demi-incrédulité, il retardait de minute en minute, trouvant toujours qu'il était trop tôt pour atteler, que sa montre avançait, qu'il fallait laisser manger la jument, et puis qu'elle devait avoir soif... Enfin, que voulez-vous ? Les autres allaient s'amuser, et lui, au bout du compte, il allait chez le dentiste ; or, nous savons bien tous qu'on n'est jamais pressé.</p>
         <p>Blondine, après deux heures d'attente, crut entendre le trot inégal de la vieille Manon. Vite, elle embrasse sa bonne maman et la voilà dans la carriole.</p>
         <p>« Nous voici donc partis ! quel bonheur ! ah ! que je suis contente ! Va-t-on s'amuser ! »</p>
@@ -1147,43 +1048,21 @@
         <p>Quant à son maître, il était absorbé par sa rage de dents, et cela se conçoit ; rien n'est plus absorbant.</p>
         <p>Il s'est trouvé jadis des philosophes qui ont nié la douleur. Oh ! croyez bien qu'ils avaient de bonnes dents ! M. Baptiste avait beaucoup trop de bon sens pour ressembler à ces messieurs ; aussi ne niait-il pas le moins du monde la douleur. Au contraire, il ne laissait pas passer cinq minutes sans faire « Ouff ! » ou bien « Aie ! » quelque chose enfin qui attestât la présence de l'ennemi. Comme il était par nature extrêmement laconique, il n'en disait pas plus, mais ce qui se voyait de sa figure disait le reste. Il ne ressortait de l'échafaudage, ouate, foulard et compagnie, qu'une joue qui paraissait plus morte que vive, un œil presque éteint, un demi-nez sans expression, et un coin de la bouche qui s'abaissait d'un air piteux, symbole d'une tristesse éternelle. Plus question de cette bienheureuse pipe, qui avec le fromage et son confrère le hareng faisait le charme de cette tranquille existence ; enfin plus rien dans l'univers que ces tiraillements, ces élancements !... Ah ! pauvre homme !</p>
         <p>Blondine, malgré ses envies de rire, avait un bon petit cœur et plaignait beaucoup M. Baptiste. Quant à la voisine, elle aurait volontiers pris la moitié de ce terrible mal pour soulager d'autant le voisin. Elle le lui dit neuf ou dix fois ; mais comme la chose était impossible, le brave homme saluait par politesse, et gardait pour lui sa rage tout entière.</p>
-        <p>
-          On arrive en plein champ de foire. Blondine ouvrait les yeux trois fois plus qu'à l'ordinaire. La bonne petite passait une grande partie de son temps au beau milieu d'un pré, gardant les vaches de sa bonne maman ; sa vie était douce, mais un peu monotone. Donc elle appréciait vivement le plaisir, et ce champ de foire était si beau ! si beau ! On y faisait tant de bruit ! le bruit, c'est la base de toutes les joies populaires, on était servi. Les chevaux, les bœufs, les vaches, les moutons, les chèvres, les porcs, tout cela hennissait, mugissait, bêlait et grognait sans vouloir se taire. Les chiens aboyaient sur tous les tons, et les coqs, faisant le premier dessus, lançaient à chaque instant de longs et magnifiques
-          <hi>koquéricot !...</hi>
-          Ces animaux semblaient s'être donné le mot pour casser la tête à la foule, qui, pour ne pas perdre sa supériorité, criait plus fort que tous ensemble. Ah ! c'était bien beau, bien beau !
-        </p>
+        <p> On arrive en plein champ de foire. Blondine ouvrait les yeux trois fois plus qu'à l'ordinaire. La bonne petite passait une grande partie de son temps au beau milieu d'un pré, gardant les vaches de sa bonne maman ; sa vie était douce, mais un peu monotone. Donc elle appréciait vivement le plaisir, et ce champ de foire était si beau ! si beau ! On y faisait tant de bruit ! le bruit, c'est la base de toutes les joies populaires, on était servi. Les chevaux, les bœufs, les vaches, les moutons, les chèvres, les porcs, tout cela hennissait, mugissait, bêlait et grognait sans vouloir se taire. Les chiens aboyaient sur tous les tons, et les coqs, faisant le premier dessus, lançaient à chaque instant de longs et magnifiques <hi>koquéricot !...</hi> Ces animaux semblaient s'être donné le mot pour casser la tête à la foule, qui, pour ne pas perdre sa supériorité, criait plus fort que tous ensemble. Ah ! c'était bien beau, bien beau ! </p>
         <p>Par ici, un charlatan appelant le monde entier pour le délivrer de ses cors ; par là, une somnambule voyant plus clair que personne, de près, de loin, à volonté ; sans lunettes, et même avec un bandeau sur les yeux. À droite, des chiens savants faisant l'exercice d'un air attrapé ; à gauche, des singes donnant envie de rire aux humains, en les imitant de leur mieux. À chaque pas, une buvette en plein air, toujours entourée d'amateurs, vraie tentation pour M. Baptiste en temps ordinaire : un verre de vin ne nuit jamais ; il le savait, et, pour suivre le dicton, il en buvait un très souvent ; mais aujourd'hui ! Oh ! Ouff ! Aie !..</p>
-        <p>
-          Parmi tous ces plaisirs, toutes ces distractions, au-dessus de tous ces bruits, il y avait quelque chose qui occupait constamment l'esprit de la jeune Blondine ; c'était le tumultueux appel des divers bateleurs qui se donnaient rendez-vous en ce lieu. Cette année, il y en avait plus encore que de coutume, et la gentille fillette écoutait avec une joie naïve ces admirables et ronflants
-          <hi>boumm ! boumm !</hi>
-          mille fois répétés par la grosse caisse, et signifiant : Venez, hâtez-vous, on va commencer !
-        </p>
+        <p> Parmi tous ces plaisirs, toutes ces distractions, au-dessus de tous ces bruits, il y avait quelque chose qui occupait constamment l'esprit de la jeune Blondine ; c'était le tumultueux appel des divers bateleurs qui se donnaient rendez-vous en ce lieu. Cette année, il y en avait plus encore que de coutume, et la gentille fillette écoutait avec une joie naïve ces admirables et ronflants <hi>boumm ! boumm !</hi> mille fois répétés par la grosse caisse, et signifiant : Venez, hâtez-vous, on va commencer ! </p>
         <p>Il avait été bien convenu qu'on prendrait place au premier rang afin de voir, sans en rien perdre, les jeux, les danses et les culbutes. Blondine se promettait un plaisir des plus vifs ; mais il fallait se contenter de ce qui était sur son chemin, car M. Baptiste, au milieu des merveilles du jour, ne voyait bien entendu que sa rage de dents ; tout le monde en est là.</p>
         <p>Mme Tourtebonne, en femme de bon conseil, disait : « Mon cher monsieur Baptiste, si vous vouliez me croire, nous chercherions tout de suite la voiture peinte en rouge, avec un tambour par devant, une trompette par derrière et des drapeaux aux quatre coins. Une fois la chose faite, vous n'y penserez plus, et vous pourrez du moins avoir un peu de bon temps ; qu'en dites-vous ? »</p>
-        <p>
-          Le bonhomme se gardait de désapprouver sa voisine ; elle avait tellement raison ! Il ne faisait donc que répondre :
-          <hi>Hum !</hi>
-          d'un certain ton qui voulait dire :
-          <hi>Amen !</hi>
-          Néanmoins, il s'arrangeait de manière à voir le plus tard possible cette maudite voiture peinte en rouge, qui se voyait de partout quand on n'avait pas mal aux dents. Si l'on disait : « Tenez, la voilà ! » il éprouvait à l'instant un souverain plaisir à faire tirer des macarons à Blondine, et se pâmait d'aise un moment après devant un lapin albinos, ou quelque illustre ventriloque.
-        </p>
+        <p> Le bonhomme se gardait de désapprouver sa voisine ; elle avait tellement raison ! Il ne faisait donc que répondre : <hi>Hum !</hi> d'un certain ton qui voulait dire : <hi>Amen !</hi> Néanmoins, il s'arrangeait de manière à voir le plus tard possible cette maudite voiture peinte en rouge, qui se voyait de partout quand on n'avait pas mal aux dents. Si l'on disait : « Tenez, la voilà ! » il éprouvait à l'instant un souverain plaisir à faire tirer des macarons à Blondine, et se pâmait d'aise un moment après devant un lapin albinos, ou quelque illustre ventriloque. </p>
         <p>Blondine était impitoyable ; elle savait qu'on ne se regarderait comme installés à la foire qu'après l'opération faite. Donc elle ne pensait qu'à cela, et plongeait du regard dans cette masse remuante qui couvrait la campagne. Quand on cherche, on trouve ; un moment arriva où il fut impossible de ne pas apercevoir à vingt pas la voiture rouge avec son cercle de badauds, la plupart ornés d'une mentonnière et d'un visage en compote, comme si c'eût été le costume de rigueur pour être admis aux réceptions.</p>
         <p>Le quart de joue qui se voyait encore dans le visage du brave homme devint terreux au lieu de jaune.</p>
         <p>« Allons, il le faut, monsieur Baptiste, et d'ailleurs, vous êtes un homme. »</p>
         <p>Ces mots prononcés avec fermeté par Mme Tourtebonne rendirent au patient toute son énergie, et, avec l'entrain de commande d'un poltron révolté, il s'avança vers la voiture et attendit son tour. Dès lors la fameuse dent cessa de le faire souffrir, et il eut la pensée de s'en retourner comme il était venu ; mais il s'était trop engagé, le point d'honneur le retint.</p>
         <p>Bien que le charlatan ne cessât de déclarer avec emphase qu'il arrachait sans douleur, on ne sortait de ses mains que la figure bouleversée, les larmes aux yeux ou le murmure aux lèvres. Évidemment, tout ce monde trouvait qu'il y avait eu douleur, mais le programme n'en avait pas moins raison, et la clientèle seule était en faute. L'un avait remué la tête, l'autre le pied ; celui-ci était mal disposé, celui-là avait eu le tort de manger un quart d'heure avant l'opération ; ceux-ci avaient depuis longtemps les gencives malades, et tous les autres avaient les dents barrées. Ces justifications, que n'acceptait jamais le dernier client, laissaient néanmoins au suivant un reste d'espérance.</p>
         <p>M. Baptiste monta dans la voiture, il y eut un moment de silence. L'opérateur célèbre, mis comme un prince d'un pays inconnu, chapeau à plumes, manchettes retroussées, s'abstint cette fois de paroles oiseuses, et, d'un air superbe, s'apprêta à tirer de toutes ses forces ce qui opposerait résistance ; c'était le secret de son art. M. Baptiste fut bientôt fixé sur le genre du talent. Il ressentit l'impression ordinaire en pareil cas. Vous n'avez pas un mot à dire ; votre dent arrive parce qu'il le faut, et il vous semble que la tête vient aussi.</p>
-        <p>
-          Le tambour et la trompette s'unirent spontanément pour apprendre au monde que M. Baptiste était le plus heureux des mortels ; et en effet on n'avait pas entendu le cri perçant du bonhomme, mais seulement un rrrrrran ! rataplan ! plan ! plan ! plus la fanfare, plus un orgue de barbarie qui, à dix pas de là, jouait depuis l'aurore le
-          <hi>Galop de Gustave</hi>
-          . M. Baptiste paya et descendit vite, vite, tant l'opérateur était pressé.
-        </p>
+        <p> Le tambour et la trompette s'unirent spontanément pour apprendre au monde que M. Baptiste était le plus heureux des mortels ; et en effet on n'avait pas entendu le cri perçant du bonhomme, mais seulement un rrrrrran ! rataplan ! plan ! plan ! plus la fanfare, plus un orgue de barbarie qui, à dix pas de là, jouait depuis l'aurore le <hi>Galop de Gustave</hi> . M. Baptiste paya et descendit vite, vite, tant l'opérateur était pressé. </p>
         <p>La dent était partie ; sur ce point on s'entendait, mais partie sans douleur, non. M. Baptiste, enclin à l'indulgence, pensa qu'il avait probablement remué sans s'en apercevoir. Il ne dit pas un mot, ne proféra pas une plainte, mais, d'un air pénétré, il se consola de cette déception en crachant tout le long du chemin : c'était la seule chose qu'il y eût à faire.</p>
-        <p>
-          Cependant l'émotion, la secousse, et le
-          <hi>galop de Gustave</hi>
-          par-dessus, tout cela finissait par l'étourdir, et Mme Tourtebonne le fit asseoir, en femme prudente qu'elle était.
-        </p>
+        <p> Cependant l'émotion, la secousse, et le <hi>galop de Gustave</hi> par-dessus, tout cela finissait par l'étourdir, et Mme Tourtebonne le fit asseoir, en femme prudente qu'elle était. </p>
         <p>Blondine, à cause de ses petits quatorze ans, fut tout étonnée. Elle avait cru réellement que, l'affaire terminée, le bon voisin passerait à l'état d'un homme enchanté, et même que l'échafaudage n'étant plus nécessaire, on le retirerait. Comme elle se trompait ! M. Baptiste y ajouta son mouchoir de poche qu'il tint persévéramment sur sa bouche, et déclara qu'il avait en plus un mal de tête fou.</p>
         <p>Quel désappointement ! Blondine eut un moment la frayeur de remonter dans la carriole ; il n'en fut rien heureusement ! Le brave marchand de fromage s'installa chez un petit restaurant de circonstance, établi pour trois jours sous une tente grise, et là, au lieu de se livrer à la consommation, se livra pour le même prix aux ennuis d'un profond malaise.</p>
         <p>Quoique d'une apparence très froide, l'excellent homme n'était point égoïste ; il exigea donc que ses compagnes de voyage fissent comme s'il n'était pas là. Blondine trouva l'idée parfaite ; mais Mme Tourtebonne se promit de ne prendre que ce qu'on appelle le vol du chapon, et de revenir souvent demander au bonhomme où il en était, quitte à partir au beau milieu du jour si le mal devenait insupportable.</p>
@@ -1200,11 +1079,7 @@
         <p>« Il est peut-être là ! qui sait ? »</p>
         <p>Tout à coup, au milieu de la foule, on aperçoit les bons amis, Julien et sa femme, que leurs excellents maîtres avaient envoyés à la fête pour qu'ils s'amusassent un peu. Cette rencontre fut un coup de théâtre ; on se promit de ne pas se quitter ; et le brave Baptiste, heureux de voir que ces dames avaient un cavalier, et fatigué du tintamarre universel qui charmait Blondine, profita de la circonstance pour battre en retraite. Julien s'était assuré un moyen de transport pour le retour ; il fut donc convenu qu'on partirait tous les quatre ensemble, et l'on commença à jouir tranquillement, pendant que M. Baptiste se sauvait avec l'intention d'oublier dans un bon petit somme ce monsieur qui faisait tant de mal en arrachant les dents sans douleur.</p>
         <p>On se donna du plaisir, beaucoup de plaisir. Blondine dépensa ses quinze sous. Elle acheta de la galette et en offrit poliment à la société, but du coco deux fois, gagna à la loterie et du premier coup un coquetier, donna un sou à un aveugle, la bonne petite, et en garda deux pour faire la généreuse quand viendrait l'heure fortunée du spectacle.</p>
-        <p>
-          Cette heure vint. On fut saturé de tours d'adresse, de danses, de pantomimes. Blondine sautillait d'aise, mais sous sa joie perçait une continuelle préoccupation. Dans chaque petit bateleur, elle aurait voulu retrouver Adalbert. Mme Tourtebonne et Sophie ne cessaient pas non plus de penser à
-          <hi>l'enfant de la cave</hi>
-          , mais la jeune paysanne, avec l'enthousiasme de son âge, ne doutait pas de sa présence, et il lui paraissait impossible qu'il ne fût pas là. Ces quatre personnes avaient au fond la même idée. Sophie eût donné beaucoup pour amener à sa chère maîtresse l'enfant dont elle ne cessait de déplorer le sort. Mme Tourtebonne se figurait la joie qu'éprouverait la pauvre maman de l'enfant de la cave lorsqu'on lui rendrait le cher petit ; Blondine désirait ardemment un événement, une aventure, une émotion : c'eût été non seulement très heureux pour tous, mais encore très amusant pour elle ; le grave Julien, ami zélé de la justice, et ponctuel avant tout, ne voyait, lui, qu'une chose, c'était de désigner aux gendarmes la troupe infâme, et de faire mettre la main dessus afin que les brigands payassent par la honte et la prison le crime commis ; c'était du reste l'avis de son maître.
-        </p>
+        <p> Cette heure vint. On fut saturé de tours d'adresse, de danses, de pantomimes. Blondine sautillait d'aise, mais sous sa joie perçait une continuelle préoccupation. Dans chaque petit bateleur, elle aurait voulu retrouver Adalbert. Mme Tourtebonne et Sophie ne cessaient pas non plus de penser à <hi>l'enfant de la cave</hi> , mais la jeune paysanne, avec l'enthousiasme de son âge, ne doutait pas de sa présence, et il lui paraissait impossible qu'il ne fût pas là. Ces quatre personnes avaient au fond la même idée. Sophie eût donné beaucoup pour amener à sa chère maîtresse l'enfant dont elle ne cessait de déplorer le sort. Mme Tourtebonne se figurait la joie qu'éprouverait la pauvre maman de l'enfant de la cave lorsqu'on lui rendrait le cher petit ; Blondine désirait ardemment un événement, une aventure, une émotion : c'eût été non seulement très heureux pour tous, mais encore très amusant pour elle ; le grave Julien, ami zélé de la justice, et ponctuel avant tout, ne voyait, lui, qu'une chose, c'était de désigner aux gendarmes la troupe infâme, et de faire mettre la main dessus afin que les brigands payassent par la honte et la prison le crime commis ; c'était du reste l'avis de son maître. </p>
         <p>Mus par ces sentiments divers, on passa de longues heures à piétiner sur le champ de foire. Une belle journée favorisait les promeneurs, mais pourtant certains connaisseurs avaient des idées noires et s'en allaient répétant :</p>
         <p>« Nous aurons de l'eau ! »</p>
         <p>Blondine trouvait que c'était très mal de dire cela, et d'ailleurs personne ne faisait attention à de pareils discours.</p>
@@ -1231,6 +1106,7 @@
         <p>Le cheval, prit le trot, et la malheureuse femme s'adossant à un arbre se laissa tomber sur la terre et perdit connaissance.</p>
       </div>
       <div type="chapter">
+
         <head>XVII -- Adalbert retournait dans la cave.</head>
         <p>On ne peut se figurer la joie de Mme Deschamps lorsqu'on lui amena en triomphe le petit garçon, qui reconnut parfaitement l'aspect de la maison blanche. Elle croyait retrouver un de ses petits enfants, et lui témoignait par ses caresses, vraiment maternelles, un intérêt si affectueux qu'Adalbert se sentit bientôt à l'aise avec elle. Depuis longtemps il ne voyait que grossièreté autour de lui ; qu'on juge de ce qu'il éprouvait en parcourant la maison blanche si proprette, si gentille, et qui enfin ne roulait pas !</p>
         <p>Blondine et sa grosse bonne amie ne le quittèrent qu'en lui promettant de revenir le voir, promesse qu'il accepta de grand cœur, car il sentait pour elles une bien juste et bien vive reconnaissance.</p>
@@ -1240,13 +1116,7 @@
         <p>Une demi-heure avait passé dans ces premières émotions. M. Deschamps, qui savait par Adalbert l'adresse de ses parents, se disposait déjà à écrire à son père afin que la lettre partît le lendemain matin, lorsque sa femme pensa que son cher petit protégé devait avoir faim. Il eut beau dire que tout le long du voyage, Blondine lui avait fait manger de la galette, des noix et des pommes, la chère dame trouva qu'il tombait d'inanition.</p>
         <p>Comme Julien, tout à ses poursuites, n'était pas encore rentré, et que Sophie, mouillée jusqu'aux os, avait été changer de vêtements, Mme Deschamps voulut préparer elle-même le repas de l'enfant. Il y avait à l'office de la viande froide, des confitures, des fruits ; mais, par instinct maternel, elle imagina un potage bien chaud et un œuf à la coque pondu dans la journée, que l'on ferait suivre d'une tranche de veau froid et de toutes sortes de bonnes choses. C'était pour elle une joie de faire chauffer ce bouillon, et cette eau pour cuire un œuf ; elle était empressée, souriante, active. Après chaque mouvement que nécessitaient ces soins de ménagère, l'excellente femme rentrait au salon une seconde, seulement pour dire une trentième fois :</p>
         <p>« Oh ! mon cher enfant, comme votre mère va être heureuse ! »</p>
-        <p>
-          Adalbert prit avec plaisir un potage et un œuf, mais ne put manger rien de plus. Ce qui le charmait surtout, c'était sa petite installation, sa serviette blanche, son joli couteau, son couvert d'argent. Il y avait si longtemps qu'il vivait au milieu de gens misérables que tout lui était jouissance. Comme on lui faisait sans cesse de nouvelles questions, il répondait à toutes avec volubilité, et racontait, non sans un plaisir infini, tout ce qu'on disait et faisait à Valneige. À mesure qu'il parlait il lui semblait que la
-          <hi>maison roulante</hi>
-          se perdait dans le lointain, qu'il avait fait un mauvais rêve, et qu'il connaissait depuis longtemps les maîtres de la
-          <hi>Maison blanche</hi>
-          . Quelquefois cependant il soupirait et s'écriait :
-        </p>
+        <p> Adalbert prit avec plaisir un potage et un œuf, mais ne put manger rien de plus. Ce qui le charmait surtout, c'était sa petite installation, sa serviette blanche, son joli couteau, son couvert d'argent. Il y avait si longtemps qu'il vivait au milieu de gens misérables que tout lui était jouissance. Comme on lui faisait sans cesse de nouvelles questions, il répondait à toutes avec volubilité, et racontait, non sans un plaisir infini, tout ce qu'on disait et faisait à Valneige. À mesure qu'il parlait il lui semblait que la <hi>maison roulante</hi> se perdait dans le lointain, qu'il avait fait un mauvais rêve, et qu'il connaissait depuis longtemps les maîtres de la <hi>Maison blanche</hi> . Quelquefois cependant il soupirait et s'écriait : </p>
         <p>« Ah ! Gella ! bonne Gella !</p>
         <p>– Vous l'aimez donc réellement, cette pauvre fille, demanda M. Deschamps ?</p>
         <p>– Eh ! comment ne l'aimerais-je pas ? Elle a été si bonne ! si bonne ! »</p>
@@ -1256,19 +1126,15 @@
         <p>Avant de se coucher, le petit de Valneige demanda à M. Deschamps la permission d'écrire une ligne au bas de la lettre qu'on allait envoyer à son père.</p>
         <p>« Je lui écrirai demain pour de bon, dit le cher enfant, mais je voudrais qu'il vit plus tôt mon écriture. »</p>
         <p>On trouva la pensée délicate, et l'enfant, qui depuis près de deux ans n'avait pas tenu une plume, traça tout de travers ces mots :</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>« Mes chers parents,</p>
         <p>« C'est moi ; je vous aime de tout mon cœur.</p>
         <p>« Votre fils ADALBERT. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>Aussitôt après, il monta dans la chambre de Mme Deschamps. Elle avait mis à dessein en évidence le bandeau doré trouvé dans la cave ; Adalbert l'aperçut, et par un sentiment de répugnance invincible, il le saisit brusquement et le jeta au bout de la chambre. Son affectueuse protectrice courut à lui, les bras ouverts, et l'embrassa comme pour réparer et effacer cette souffrance.</p>
         <p>Le petit garçon fit alors sa prière qu'il n'avait pas oubliée, et il sentit du bonheur en se voyant à genoux devant un christ d'ivoire pareil à celui qu'il avait toujours vu à Valneige, dans la chambre de sa maman. Il se coucha et dormit, chose presque incroyable, jusqu'à onze heures du matin ! On respecta ce long et bienfaisant sommeil après de si vives émotions. Mme Deschamps ne voulut même pas qu'on ouvrît les persiennes ; elle sortit bien doucement de sa chambre, et passa dans celle de son mari, qui causait avec Julien revenu au milieu de la nuit.</p>
         <p>Le bruit de ces voix qui se croisaient avec vivacité éveilla enfin le dormeur, et il eut le chagrin d'entendre, sans même prêter l'oreille, une partie de la conversation.</p>
-        <p>
-          Julien, d'un ton rude et inflexible, parlait, non sans jurer un peu, vu la circonstance, de gendarmes, de fuite, de poursuites ; il racontait l'indignation de la foule, les malédictions lancées par toutes les mères au chef de la troupe. Enfin, ce qu'Adalbert put comprendre, c'est qu'on avait arrêté une vieille femme,
-          <hi>l'Andalouse</hi>
-          , et deux jeunes enfants, et que tous les quatre étaient en prison. Quant au chef, il avait pris la fuite ainsi que son fils, mais on avait donné des ordres, et l'on espérait prendre les brigands tôt ou tard.
-        </p>
+        <p> Julien, d'un ton rude et inflexible, parlait, non sans jurer un peu, vu la circonstance, de gendarmes, de fuite, de poursuites ; il racontait l'indignation de la foule, les malédictions lancées par toutes les mères au chef de la troupe. Enfin, ce qu'Adalbert put comprendre, c'est qu'on avait arrêté une vieille femme, <hi>l'Andalouse</hi> , et deux jeunes enfants, et que tous les quatre étaient en prison. Quant au chef, il avait pris la fuite ainsi que son fils, mais on avait donné des ordres, et l'on espérait prendre les brigands tôt ou tard. </p>
         <p>Adalbert se mit à pleurer à chaudes larmes, d'autant que Julien ajoutait avec assez d'indifférence que l'Andalouse, pour défendre son père et favoriser sa fuite, s'était exposée sur des planches mal jointes, et qu'en tombant elle s'était blessée.</p>
         <p>Une chose attristait Adalbert par-dessus tout. Il avait un cœur loyal et délicat ; il se disait :</p>
         <p>« Cette pauvre Gella a eu confiance en papa à cause de sa parole d'honneur. Maintenant qu'elle est en prison, et que l'Hercule est poursuivi, elle va croire que nous l'avons trompée, que moi je suis un ingrat, et que mon père ne tient pas sa parole. Ah ! quel malheur ! mon Dieu, quel malheur ! »</p>
@@ -1280,7 +1146,7 @@
         <p>– Excusez ! Vous avez de la bonté de reste. La demoiselle, passe encore puisqu'elle est bonne fille ; la vieille, elle a fait son temps ; mais le chef ? c'est un monstre, et si j'étais dans le gouvernement au lieu d'être dans la pomme, je ferais couper la tête à tous les voleurs d'enfants. »</p>
         <p>Ces mots firent frissonner Adalbert, mais il se rassura en pensant que la brave femme était bien réellement dans la pomme.</p>
         <p>Pour combattre cette tristesse inattendue, l'excellente Mme Deschamps emmena Adalbert au jardin. Un regard qu'il jeta sur l'étang lui fit présumer que la pêche serait pour lui une distraction. Elle en parla aussitôt à son mari, qui organisa la plus jolie petite partie de pêche qu'on pût voir. Il donna sa meilleure ligne à son hôte, lui montrant avec bonhomie toutes les finesses de l'art, il l'amena, par un bonheur inouï, à un véritable succès. Chaque petit maladroit qui se laissait prendre causait au pêcheur un plaisir tel que sa tête fatiguée de pensées pénibles se reposait visiblement. Des heures s'écoulèrent dans cet utile délassement, et le mal de tête dont le petit garçon s'était plaint étant complètement passé, il demanda du papier, une plume, de l'encre et se mit à écrire :</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>« Mon cher papa et ma chère maman,</p>
         <p>« Je ne sais presque plus écrire, juste assez pour vous dire que je vous aime par-dessus tout, et que j'ai bien envie de vous revoir et de vous embrasser, ainsi que ma sœur et mes frères. J'ai tant de choses à vous dire que je ne vous dirai rien du tout, ce serait trop long. Ah ! qu'il y a longtemps que je ne vous ai vus ! Je suis chez un monsieur très bon et un dame très bonne, je couche dans la chambre de cette dame. Elle m'a donné un pantalon comme tout le monde, avec une veste pareille. Son mari m'a fait pêcher et j'ai pris cinq poissons ; on les fera frire. Ah ! quel bonheur quand je vous embrasserai ! Quel malheur d'avoir désobéi ! Tout ce qui m'est arrivé, c'est par ma faute ; j'avais mérité d'être puni, mais si vous saviez comme j'ai été malheureux ! Gella était bien bonne ; je l'aime bien. Mon cher papa, empêchez qu'on lui fasse du mal, et qu'on mette son père en prison. Elle a mal au pied ! Il y a ici des personnes qui veulent faire condamner son père. Oh ! venez vite, je vous en supplie, à cause de ce que vous savez, et qu'on ne peut dire. Je n'ose pas vous parler de cela parce que c'est un secret, et j'ai peur que ce soit mal de mettre les secrets à la poste. Ce monsieur et cette dame savaient que j'étais tombé dans leur cave, il y a bientôt six mois. Je vous raconterai tout, mais ma petite maman va pleurer, bien sûr. Il y a de bien drôles de choses : De bonnes personnes qui ne me connaissaient pas m'aimaient beaucoup tout de même. C'est une petite fille qui m'a tiré par le bras en me disant mon nom, quand je faisais le tour avec ma sébile. J'ai cru qu'elle était envoyée par vous, je suis venu tout de suite ; il pleuvait, j'étais tout étourdi. On m'a poussé, poussé jusqu'à la voiture. Il y a une femme qui a crié :</p>
         <p>« Est-ce toi ? »</p>
@@ -1288,14 +1154,10 @@
         <p>« Adieu, cher papa et chère maman, je suis très bien ici, mais je voudrais bien m'en aller pour retourner à la maison. J'embrasse bien fort, bien fort Camille, Eugène et Frédéric. Oh ! comme nous allons être heureux ! J'embrasse aussi Rosette, que je n'ai jamais oubliée. J'aime tout le monde à Valneige, dites-le à Philippe, à Gervais, et aux autres.</p>
         <p>« Ah ! comme je serai content quand je vous reverrai ! Mais tâchez qu'on ne mette pas ce vilain homme en prison, afin que Gella ne soit pas malheureuse à cause de moi.</p>
         <p>« Votre petit ADALBERT. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>M. Deschamps cacheta la lettre de l'enfant devant lui et sans la lire, puis il envoya Julien à la poste.</p>
         <p>En traversant la petite ville, celui-ci rencontra Mme Tourtebonne, car elle tournait tant et si bien qu'on la rencontrait toujours. La brave femme ne manqua pas de lui parler d'Adalbert, et comme Julien souhaitait vivement que la justice eût son cours, elle s'unit à lui pour hâter de ses vœux le moment où, appelée en témoignage, ainsi que le lourd Baptiste, elle pourrait enfin dire devant les juges tout ce qu'elle savait.</p>
-        <p>
-          Une chose lui était fort désagréable, c'est que M. Baptiste avait une fluxion, et que cette fluxion l'absorbait à ce point qu'il lui restait à peine assez d'entrain pour nuancer ses fameux
-          <hi>hum !</hi>
-          La seule idée de figurer dans un procès lui faisait avancer de deux doigts sa mentonnière, en sorte que le visage tendait encore une fois à disparaître comme il avait fait la veille. Ami du repos en tout temps, l'honnête homme en devenait fanatique en présence de cette malencontreuse fluxion ; et quand sa vieille connaissance le poussait à l'action, il lui répondait par un effort suprême :
-        </p>
+        <p> Une chose lui était fort désagréable, c'est que M. Baptiste avait une fluxion, et que cette fluxion l'absorbait à ce point qu'il lui restait à peine assez d'entrain pour nuancer ses fameux <hi>hum !</hi> La seule idée de figurer dans un procès lui faisait avancer de deux doigts sa mentonnière, en sorte que le visage tendait encore une fois à disparaître comme il avait fait la veille. Ami du repos en tout temps, l'honnête homme en devenait fanatique en présence de cette malencontreuse fluxion ; et quand sa vieille connaissance le poussait à l'action, il lui répondait par un effort suprême : </p>
         <p>« Puisque le petit est retrouvé, c'est tout ce qu'il faut.</p>
         <p>– Non pas, non pas », répliquait Mme Tourtebonne en roulant sa voiture.</p>
         <p>En même temps, une autre scène se passait dans un autre lieu. Gella en prison se tordait les mains de désespoir. Elle qui n'avait fait que du bien au petit de Valneige, elle qui avait favorisé sa fuite en se remettant à la foi jurée, elle se croyait perdue par l'enfant même qu'elle avait tant aimé, et dans son étonnement et sa douleur, elle s'écriait :</p>
@@ -1304,48 +1166,33 @@
         <p>Hélas ! Gella n'était pas la seule à plaindre. La veille au soir, des campagnards, quittant la fête au milieu de la confusion causée par une pluie torrentielle, avaient vu au pied d'un arbre une paysanne évanouie. Elle était grande et pâle, ses mains blanches contrastaient avec la simplicité rustique de son costume. Un homme, qui n'était certainement ni son mari, ni son frère, s'efforçait de la faire revenir à elle-même ; il ne lui parlait pas avec le sans-façon ordinaire à sa classe, mais semblait éprouver pour elle un profond sentiment de respect. Pourquoi ? et quelle était cette femme ?</p>
       </div>
       <div type="chapter">
+
         <head>XVIII -- Adalbert n'était pas un ingrat.</head>
         <p>Dix jours écoulés avaient changé bien des choses. La vieille Praxède, qui depuis longtemps semblait ne tenir à la vie que par un souffle, mais un souffle méchant, la vieille Praxède avait été emportée par la secousse, et sa disparition de ce monde ne laissait pas de vide. Les deux enfants, Natchès et Tilly, dont Adalbert avait raconté les tristes aventures, se voyaient recueillis provisoirement par les bons habitants de la Maison blanche. Tilly toussait à chaque instant, et tous éprouvaient pour cette jeune enfant une compassion sympathique.</p>
         <p>Des démarches secrètes, mais actives, ayant été faites, on avait tout à coup cessé de poursuivre l'Hercule ; et la bonne Gella, transportée de la prison à l'hospice, était couchée dans un lit bien blanc, et entourée des soins que demandait sa blessure. Son front s'était rasséréné ; elle savait maintenant que la délivrance du prisonnier s'était faite par une voie providentielle. Elle connaissait et s'expliquait cet enchaînement de détails qui avaient préparé la liberté d'Adalbert ; et, rassurée sur l'avenir, elle ne disait plus : ils m'ont trompée !</p>
         <p>Mais que s'était-il passé à Valneige ? Le père n'était-il pas parti en hâte dès qu'il avait eu reçu la lettre de M. Deschamps ? Non.</p>
         <p>La mère, du moins, n'avait-elle pas écrit pour témoigner sa reconnaissance ? Non. Cependant, on avait reçu une réponse de Valneige, mais elle était de Camille, et ainsi conçue :</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>« Monsieur,</p>
         <p>« Je vous écris de la part de mon père, malade depuis un mois, et réduit par la fièvre à la plus extrême faiblesse. Votre lettre le guérira bien sûr, car c'est le chagrin qui lui fait du mal depuis que nous avons perdu mon petit frère. Maman serait partie de suite si elle avait été ici ; mais une affaire très grave l'a obligée de quitter mon père, et d'entreprendre un long voyage, suivie d'un de nos domestiques. Je lui ai écrit ce matin, et j'ai mis dans ma lettre la vôtre, monsieur, qui lui dira tout. Pauvre mère, qu'elle va être heureuse après avoir versé tant de larmes ! Elle sera chez vous dans peu de jours, et vous pourrez vous dire que vous avez rendu la vie à mon père, comblé de joie ma chère maman, et donné le bonheur à toute une famille.</p>
         <p>« Mon père me charge de vous faire savoir, monsieur, que mon petit frère lui parlant dans sa lettre d'une fille, nommée Gella, qu'on a arrêtée, et qui a toujours été très bonne pour lui, nous désirons tous qu'elle ne soit point inquiétée puisque en effet ce n'est pas elle qui a fait le mal, et qu'au contraire elle a rendu le sort de mon frère beaucoup moins dur. À cause de cela, mon père veut qu'on ne lui fasse aucun chagrin et que cette fille, étant malade, soit portée à l'hospice. Un de nos amis, magistrat demeurant dans nos environs, a écrit aujourd'hui même aux autorités sous la dictée de mon père, pour demander de ne pas donner de suite à l'affaire en ce qui concerne Gella.</p>
         <p>« Veuillez, monsieur, exprimer à Mme Deschamps ce que nous voudrions lui dire nous-mêmes, et la remercier de ses soins maternels qui font oublier à notre bon Adalbert ce qu'il a souffert au milieu des méchants.</p>
         <p>« Recevez, monsieur, l'assurance de mon profond respect,</p>
         <p>« CAMILLE DE VALNEIGE. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>Sous la même enveloppe, il y avait un billet cacheté à l'adresse de l'enfant.</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
-        <p>
-          « Cher petit bien-aimé, je t'aime ! je t'aime ! Maman est partie, il y a huit jours, habillée en paysanne, et accompagnée par notre fidèle Gervais. Elle comptait suivre toutes les foires indiquées par \
-          <hi>\*\</hi>
-          . Cette chère maman était certainement là avant-hier ; mais de loin, et dans le tumulte, elle ne t'aura pas aperçu, ou ne t'aura pas reconnu.
-        </p>
+        <milestone type="subChapter" rend="space" unit="newline" />
+        <p> « Cher petit bien-aimé, je t'aime ! je t'aime ! Maman est partie, il y a huit jours, habillée en paysanne, et accompagnée par notre fidèle Gervais. Elle comptait suivre toutes les foires indiquées par \ <hi>\*\</hi> . Cette chère maman était certainement là avant-hier ; mais de loin, et dans le tumulte, elle ne t'aura pas aperçu, ou ne t'aura pas reconnu. </p>
         <p>« Papa est bien malade ; cependant il commence à guérir depuis hier. Oh ! si tu l'avais vu ! Il m'a demandé vingt fois la lettre de M. Deschamps, dans laquelle tu avais écrit une ligne et signé ton nom ; il relisait toujours cette ligne, et pleurait, tout comme maman aurait pleuré si elle avait été là.</p>
         <p>« Ne te tourmente pas, tout s'arrangera. On ne fera de mal à personne, et l'on tâchera de faire du bien à cette bonne fille.</p>
         <p>« Je t'embrasse vingt fois, quarante fois ! je vais écrire à Eugène et à Frédéric, qui sont au collège. Notre vieille Rosette est folle de joie, tout le monde t'aime et te désire. Ah ! quel bonheur quand tu seras là, à côté de moi, dans notre Valneige, au milieu de nous tous.</p>
         <p>« Ta sœur, CAMILLE. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
-        <p>
-          Adalbert fut on ne peut pas plus joyeux en lisant cette lettre ; mais il se garda bien de la montrer. Il ne fallait pas qu'on sût que sa mère, déguisée en paysanne, le cherchait dans les foires, et sur les indications de quelqu'un. C'eût été trahir le secret de Gella, c'eût été manquer à la
-          <hi>parole d'honneur</hi>
-          demandée et donnée ; or il est impossible de manquer à sa parole sans
-          <hi>se déshonorer.</hi>
-          Le bon petit garçon fit preuve d'une grande prudence, et ceux qui l'entouraient pensèrent qu'un sentiment généreux, en dehors de toute promesse, portait la famille de Valneige à pardonner à cause de Gella, si bonne pour l'enfant, et si à plaindre d'être la fille d'un brigand.
-        </p>
+        <milestone type="subChapter" rend="space" unit="newline" />
+        <p> Adalbert fut on ne peut pas plus joyeux en lisant cette lettre ; mais il se garda bien de la montrer. Il ne fallait pas qu'on sût que sa mère, déguisée en paysanne, le cherchait dans les foires, et sur les indications de quelqu'un. C'eût été trahir le secret de Gella, c'eût été manquer à la <hi>parole d'honneur</hi> demandée et donnée ; or il est impossible de manquer à sa parole sans <hi>se déshonorer.</hi> Le bon petit garçon fit preuve d'une grande prudence, et ceux qui l'entouraient pensèrent qu'un sentiment généreux, en dehors de toute promesse, portait la famille de Valneige à pardonner à cause de Gella, si bonne pour l'enfant, et si à plaindre d'être la fille d'un brigand. </p>
         <p>Comme on peut se le figurer, ces sentiments généreux, dont on ne connaissait pas le vrai motif, causèrent un certain étonnement. Mme Tourtebonne fut au moment de se mettre en colère. M. Deschamps assurait qu'il n'aurait pas poussé si loin les égards, et que, tout en protégeant Gella, comme elle méritait d'être protégée, il aurait fait poursuivre son père jusqu'aux frontières ; Julien ajoutait jusqu'au bout du monde.</p>
         <p>Mme Deschamps prenait facilement son parti, et ne pensait qu'à amuser l'enfant, à soigner ses beaux cheveux que sa maman aimait, à faire préparer les viandes qu'il préférait, de bons potages, de bonnes côtelettes, tout ce qui pouvait le fortifier. Elle causait souvent avec lui, et lui faisait lire tout haut de jolies petites histoires dans lesquelles une morale très pure se cachait sous l'enfantillage des mots. Enfin, c'était une mère, gardant avec amour le fils d'une autre mère.</p>
         <p>Quant à Sophie, elle ne voyait qu'une chose : L'enfant de la cave était maigre et très pâle ; elle prétendait le rendre gras et rouge ; et, persuadée que l'art culinaire est un médecin fort savant, elle inventait de petits plats tout gentils pour Adalbert, afin qu'il mangeât plus volontiers, et qu'il engraissât sur-le-champ. Comme on n'avait que quatre ou cinq jours pour cette grosse besogne, elle le poussait vivement à la consommation, épiçait un peu ses sauces pour exciter son appétit, et lui offrait entre les repas une demi-douzaine de jolis goûters.</p>
-        <p>
-          Adalbert, privé de tout depuis bien longtemps, fut sensible à la tentation, et, suivant les insinuations de Sophie, il mangea à peu près toute la journée pour achever d'oublier les éternelles nouilles de la maison roulante. Cependant, il se ressouvint des bonnes et belles traditions de Valneige : « 
-          <hi>Un enfant bien élevé</hi>
-          , lui avait-on dit cent fois,
-          <hi>ne doit jamais manger entre ses repas</hi>
-           ; c'est de la gourmandise, et la gourmandise rend l'homme matériel, c'est-à-dire favorise en lui les instincts de la bête. »
-        </p>
+        <p> Adalbert, privé de tout depuis bien longtemps, fut sensible à la tentation, et, suivant les insinuations de Sophie, il mangea à peu près toute la journée pour achever d'oublier les éternelles nouilles de la maison roulante. Cependant, il se ressouvint des bonnes et belles traditions de Valneige : «  <hi>Un enfant bien élevé</hi> , lui avait-on dit cent fois, <hi>ne doit jamais manger entre ses repas</hi>  ; c'est de la gourmandise, et la gourmandise rend l'homme matériel, c'est-à-dire favorise en lui les instincts de la bête. » </p>
         <p>Donc, le troisième jour, Adalbert dit à Mme Julien qu'il la remerciait de ses attentions, mais qu'ayant si bien mangé depuis qu'il était dans la Maison blanche, il ne se rappelait plus du tout les soupes de la vieille Praxède, et qu'il ne voulait plus faire que quatre repas comme chez sa maman.</p>
         <p>« Mais votre maman n'est pas là ?</p>
         <p>– C'est égal ; manger sans nécessité entre mes repas, ce serait lui désobéir, et jamais, jamais, je ne désobéirai plus à mes parents. »</p>
@@ -1389,17 +1236,14 @@
         <p>« Merci du bien que tu m'as fait ! »</p>
       </div>
       <div type="chapter">
+
         <head>XIX -- Adalbert était obéissant.</head>
         <p>Jamais repas plus joyeux ! On était quinze à table. Tout le monde causait, riait, c'était un entrain, un appétit ! Eugène et Frédéric étaient venus passer deux jours à Valneige, par grande faveur, à cause de l'heureux événement qui ramenait au foyer le repos, la santé, l'allégresse. La vieille Rosette disait que son cher Blondin avait autrefois emporté tout cela dans ses poches, et qu'il n'avait eu qu'à paraître pour chasser le mal et les ennuis.</p>
         <p>Effectivement, M. de Valneige n'avait plus ni fièvre, ni insomnie ; il était pâle et faible, mais son fils lui rendait peu à peu des forces et de la vie. On lui conseillait de voyager, et l'on avait déjà commencé les préparatifs du départ. En attendant, les anciens amis et les jeunes camarades se divertissaient ensemble, et le vin de Champagne égayait les esprits et favorisait l'expansion.</p>
         <p>Christian et ses frères se rappelaient ce dîner, où Adalbert eût été le quatorzième, et comparait la gaieté présente à l'inquiétude qui alors pesait sur chacun.</p>
         <p>Oui, Adalbert eût été le quatorzième, et pourtant on était quinze à table. Il y avait auprès de Camille une enfant d'une beauté maladive, dont le regard doux et caressant disait encore, dans les intervalles d'une toux saccadée :</p>
         <p>« C'est peut-être mourir qui vient, et puis le ciel. »</p>
-        <p>
-          On a reconnu Tilly, la petite amie d'Adalbert. Mme de Valneige avait reçu les aveux de Gella ; ce que cette fille n'aurait pas dit à la justice, elle l'avait dit à l'amitié. Tilly était réellement une enfant volée, et volée dès le plus bas âge, dans un jardin public. On n'avait aucune connaissance de sa famille, elle était perdue pour
-          <hi>toujours</hi>
-          , et ce toujours ne pouvait être long. La poitrine délicate de cette aimable petite fille avait manqué de soins. Les savants consultés avaient dit :
-        </p>
+        <p> On a reconnu Tilly, la petite amie d'Adalbert. Mme de Valneige avait reçu les aveux de Gella ; ce que cette fille n'aurait pas dit à la justice, elle l'avait dit à l'amitié. Tilly était réellement une enfant volée, et volée dès le plus bas âge, dans un jardin public. On n'avait aucune connaissance de sa famille, elle était perdue pour <hi>toujours</hi> , et ce toujours ne pouvait être long. La poitrine délicate de cette aimable petite fille avait manqué de soins. Les savants consultés avaient dit : </p>
         <p>« Pas d'avenir ! »</p>
         <p>Et M. et Mme de Valneige avaient répondu :</p>
         <p>« Pas d'isolement ! pas d'angoisses ! pas de froideur ! »</p>
@@ -1425,11 +1269,7 @@
         <p>Le père s'inquiéta, fit tout bas quelques questions, et son fils répondit, glacé par une terreur soudaine :</p>
         <p>« C'est l'homme ! »</p>
         <p>Il y eut un soulèvement d'horreur dans l'âme de M. de Valneige. Il était là devant le bourreau de son fils. Le hasard le livrait à la juste vengeance d'un père qui pouvait le faire prendre, juger, condamner ; il avait des témoins, des preuves : le bouton, la tache d'encre, le bandeau, les mots écrits dans la cave, la déposition de Baptiste et de la marchande ; Julien, Sophie, Blondine, tout lui revenait en mémoire, tout le poussait à poursuivre ; mais il avait aussi dans son portefeuille une lettre de la pauvre Gella, qui se fiait à sa parole. Sans doute ses prévisions ne s'étaient pas réalisées ; mais elle avait donné des indications en échange d'une promesse. M. de Valneige regarda cet homme, et, tremblant sous le poids de cette promesse sacrée, éternelle, il dit à Adalbert :</p>
-        <p>
-          « Ô mon fils ! qu'il te souvienne qu'une parole d'honneur est un serment qu'un homme ne peut violer
-          <hi>sous aucun prétexte, et dans aucune circonstance</hi>
-          . »
-        </p>
+        <p> « Ô mon fils ! qu'il te souvienne qu'une parole d'honneur est un serment qu'un homme ne peut violer <hi>sous aucun prétexte, et dans aucune circonstance</hi> . » </p>
         <p>En même temps, M. de Valneige, encore convalescent, ferma les yeux ; ce fut à son tour de pâlir ; ses lèvres devinrent toutes blanches, et Adalbert jeta un cri. L'évanouissement ne dura qu'un instant ; de bonnes voisines baissèrent les vitres pour donner de l'air au malade. Tous les voyageurs le regardèrent, lui et son enfant. Cette grande émotion passa. À la première station le père et son fils descendirent. L'homme de fer descendit aussi, et ne remonta point.</p>
         <p>Après avoir longuement parlé de ce sombre incident, dans le wagon de famille, on arriva à la Maison blanche.</p>
         <p>Tout sens dessus dessous ! les lits dédoublés, les petits plats dans les grands ! Du mouvement, de la joie partout, et, dans la cuisine, un coup de feu, car Sophie s'était surpassée.</p>

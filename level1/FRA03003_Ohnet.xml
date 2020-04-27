@@ -31,12 +31,17 @@
         -->
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource"> PG, <date>2009</date> , <idno>18073</idno> , . </bibl>
-        <bibl type="printSource"> Ollendorff, <date>1903</date> ,
-          <idno /> , . </bibl>
+        <bibl type="digitalSource">
+          <publisher>Project Gutenberg</publisher>
+          <date>2009</date>
+          <idno>18073</idno>
+        </bibl>
+        <bibl type="printSource">
+          <publisher>Ollendorff</publisher>
+          <date>1903</date>
+        </bibl>
         <bibl type="firstEdition">
-          <date>1892</date> -1894,
-          <idno /> , .
+          <date>1894</date> <!-- 1892-1894 -->
         </bibl>
       </sourceDesc>
     </fileDesc>

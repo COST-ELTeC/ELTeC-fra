@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA02901" xml:lang="fr">
   <teiHeader>
@@ -26,53 +26,74 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">56757</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           First ElTeC edition
           2019-10-02
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <title>La Nouvelle Espérance</title>
           <author>Anna de Noailles</author>
-          <ref target="https://fr.wikisource.org/wiki/La_Nouvelle_Esp%C3%A9rance"/>
-          <date>2015-04-18</date>
-        </bibl><bibl type="printSource">
+          <publisher>Wikisource</publisher>
+          <ref target="https://fr.wikisource.org/wiki/La_Nouvelle_Esp%C3%A9rance" />
+          <date>2015</date>
+        </bibl>
+        <bibl type="printSource">
           <title>LA NOUVELLE ESPÉRANCE</title>
           <author>Comptesse Mathieu de Noailles</author>
-          <publisher>Calmann-Lévy, 3 rue Auber</publisher>
-          <pubPlace>Paris</pubPlace>
+          <publisher>Calmann-Lévy</publisher>
+          <pubPlace>Paris, 3 rue Auber</pubPlace>
           <date>1903</date>
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="firstEdition">
           <!-- best guess -->
           <date>1903</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-11-01">Conversion to level 1 encoding.</change>
       <change when="2019-10-02">File created</change>
     </revisionDesc>
   </teiHeader>
   <text>
-    <front> <div type="titlepage">
-      <p>La Nouvelle Espérance </p><p>Anna de Noailles </p><p>Paris, 1903</p>
-    </div></front>
-    <body>
+    <front>
+      <div type="titlepage">
+        <p>La Nouvelle Espérance </p>
+        <p>Anna de Noailles </p>
+        <p>Paris, 1903</p>
+      </div>
+    </front>
 
+    <body>
       <div type="chapter">
+
         <head>Première Partie</head>
+
         <head>I</head>
         <p>Le matin était sec et craquant de froid. L'air glacé et contracté semblait souffrir, comme portant en soi de l'oppression, une fêlure. Le silence occupait les allées, s'y tenait mystérieusement ; il n'était pas l'absence de bruit, il était quelque chose lui-même.</p>
         <p>Par instants le vent salubre et triste de la campagne d'hiver balayait ce coin de la Muette et de Passy, cette entrée provinciale du Bois de Boulogne. Dans le beau décharnement du chemin, près d'une haie de buissons nus, deux femmes passaient, allaient et revenaient, parcourant et reprenant la même route, se plaisant là.</p>
@@ -170,6 +191,7 @@
         <p>Enfin, l'accueil que lui fit Marie de Fontenay acheva d'incliner mademoiselle de Rozée à ce mariage, où elle abandonnait une âme lasse et combattue...</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>C'est à ces choses de son passé que Sabine repensait doucement ce jour-là, étant couchée sur le divan de couleur orangée, au milieu de coussins qui gonflaient autour d'elle leurs étoffes de soie d'un jaune de citron, étoffes de soie anglaise, qui donnent au toucher et au regard la sensation d'être molles et éraillées.</p>
         <p>En face d'elle, la cheminée où la flamme, prise entre les bûches mourantes, montait et baissait. Tout autour de la pièce des bibliothèques légères et vitrées ; en biais contre un des angles de la muraille un piano ouvert avec des partitions traînant au pupitre.</p>
@@ -278,6 +300,7 @@
         <p>— Tu sais, Marie, dit-elle, à propos de ce que nous discutions tout à l'heure, je crois que c'est toi qui as raison, l'amour n'est pas une chose si importante dans la vie...</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p>L'hiver passa doucement, portant ses plaisirs de gel et de réclusion, et le printemps revint au glissement du temps, insensible d'abord, mêlant la tiédeur et le froid. Ensuite, ce furent les jours d'avril, avec les dures tombées de soleil jaune et les crépuscules longs et blancs.</p>
         <p>Sabine avait un peu changé. Elle était plus forte et plus vive et se détendait à l'aspiration de la saison nouvelle.</p>
@@ -361,13 +384,10 @@
         <p>» Nous aimions l'amour, et quelques-unes d'entre nous l'ont pratiqué avec une sombre sauvagerie. Les soupirs de la pauvre Lespinasse font encore trembler sur la terre les mains qui tournent les pages de son livre.</p>
         <p>» Nous avons laissé de nous au monde une odeur fine, irritante et profonde. Les robes de soie qui ont pressé nos jambes dansantes s'étalent noblement sur les divans des belles demeures.</p>
         <p>Les estampes où nous sommes représentées, tressant des guirlandes champêtres et lâchant des oiseaux de leur cage d'osier, rendent folles les âmes sensuelles. Nos chapeaux de paille et de feuilles sur nos têtes étaient plus impudiques et blessaient mieux le désir que les hanches nues des nymphes anciennes.</p>
-        <p>
-          » Ah ! tu ne sais pas comme nous avons ri et joué dans les bosquets, au son des musettes de Rameau, par les soirs roses, cependant que Watteau, triste à cause de nous toutes, pleurait du bruit de nos jupes de soie crissante... »
+        <p> » Ah ! tu ne sais pas comme nous avons ri et joué dans les bosquets, au son des musettes de Rameau, par les soirs roses, cependant que Watteau, triste à cause de nous toutes, pleurait du bruit de nos jupes de soie crissante... » <emph>_</emph>
           <emph>_</emph>
           <emph>_</emph>
-          <emph>_</emph>
-          <emph>_</emph>
-          Sabine se réveilla tard au matin, surprise par le grincement d'une voiture s'arrêtant devant le perron.
+          <emph>_</emph> Sabine se réveilla tard au matin, surprise par le grincement d'une voiture s'arrêtant devant le perron.
         </p>
         <p>Elle se pencha à sa fenêtre, et ne voyant rien, elle descendit dans une robe de chambre hâtivement mise qu'elle tenait enroulée autour d'elle.</p>
         <p>C'était Jérôme Hérelle qui arrivait ; elle avait oublié qu'il était attendu pour ce matin-là. Elle eut du plaisir à le revoir, il lui apportait l'air de Paris, le souvenir de chez elle, mais elle était fâchée de se trouver ainsi vêtue ; elle éprouvait une sorte de pudeur et de confusion de son visage matinal si proche encore du sommeil et du lever.</p>
@@ -448,6 +468,7 @@
         <p>Et, comme le jeune homme, le visage renversé vers le soir, fredonnait faiblement, Sabine, alléguant la fraîcheur de l'air, se leva, partit, pour ne pas saisir cette main appuyée sur le banc près d'elle et ne pas la presser éperdument sur son visage...</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
         <p>Jamais madame de Fontenay n'avait été si active que depuis son retour à Paris.</p>
         <p>Pierre Valence se moquait d'elle pour la manie qu'elle avait maintenant de dire : « Tout ce que j'ai à faire demain ! je n'aurai jamais le temps de tout faire... »</p>
@@ -486,6 +507,7 @@
         <p>Mademoiselle de Fontenay soupirait ; elle eût voulu que les conversations fussent des livres et qu'elle pût, les laissant ouverts sur ses genoux, en suivre lentement les dangereux passages. Jérôme, qu'on tenait à l'écart de ces entretiens, qu'on repoussait quand il s'en mêlait, ne se fâchait pas, gardait sa quiétude courtoise, car il savait bien que ce qu'on cherche au travers de la vie était ce qu'il possédait justement : le contentement de soi-même.</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
         <p>Sur les conseils de madame de Fontenay, encouragé par le compositeur Eugène Marsan qui était son professeur, Jérôme Hérelle s'était mis au travail d'une partition d'opéra dont il espérait faire jouer quelques morceaux dans des concerts.</p>
         <p>Il pria un jour Sabine de vouloir bien venir chez lui où il lui ferait entendre son œuvre au piano, devant son maître Marsan.</p>
@@ -524,6 +546,7 @@
         <p>Elle pensait que l'amitié qu'il avait pour Henri de Fontenay lui imposait de la réserve ; mais elle voyait aussi que le sentiment du devoir, le goût de l'ordre social, sa conscience n'étaient que la limite et les contours naturels de ses passions.</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
         <p>La fin de juillet approchant, monsieur et madame de Fontenay s'occupèrent de leur départ pour le Dauphiné. Sabine flânait tristement dans la maison qu'elle allait abandonner. Elle s'effrayait de quitter Jérôme qui ne la rejoindrait que plus tard, et de s'en aller sans qu'il lui eût dit qu'il l'aimait.</p>
         <p>Ce soir-là, qui était la veille de leur départ, monsieur et madame de Fontenay avaient réuni chez eux quelques-uns de leurs amis. Jérôme Hérelle et Pierre Valence étaient là.</p>
@@ -564,6 +587,7 @@
         <p>Et elle écoutait tomber, sur le petit toit de zinc qui avançait sous sa fenêtre, le bruit des gouttes d'eau disparates.</p>
       </div>
       <div type="chapter">
+
         <head>VII</head>
         <p>Henri de Fontenay, dirigé par Pierre Valence qui venait d'arriver, préparait, dans la partie du Dauphiné qu'il habitait, sa candidature à la députation. Pierre avait déjà renoncé à cette carrière pour lui-même. Il comptait fonder une revue socialiste et faire des conférences le prochain hiver. Dissertant et bousculeur, il mettait son ami au courant des manœuvres habiles, lui dévoilait en de longues soirées tout ce qu'il savait du cœur de la province, et l'ayant convaincu sur certains points précis et matériels où aucune idée n'entrait en jeu, – car Henri oscillait du goût de la dictature à un radicalisme attendri, – il l'entraînait chez le sous-</p>
         <p>préfet, chez les maires, où l'on parlait de syndicats agricoles et des prospérités futures.</p>
@@ -623,13 +647,10 @@
         <p>— Oui... oui... gentiment amoureux.</p>
         <p>Sabine se leva, elle n'avait plus rien à lui dire, elle sentait sa pâleur affreuse.</p>
         <p>— Maintenant allez-vous-en, fit-elle, – nettement et pressée, comme quelqu'un qui se rappelle une besogne urgente, – si vous saviez ce que j'ai à faire, les lettres à écrire...</p>
-        <p>
-          Et elle se mit à rire ; quel rire ! de quel clavier cassé de la joie venait ce rire...
+        <p> Et elle se mit à rire ; quel rire ! de quel clavier cassé de la joie venait ce rire... <emph>_</emph>
           <emph>_</emph>
           <emph>_</emph>
-          <emph>_</emph>
-          <emph>_</emph>
-          Elle resta seule, elle s'assit, elle ne savait plus rien... Elle regardait obstinément un petit paysage japonais dans un cadre de bois noir accroché au mur ; elle remarqua que , sur le papier de riz d'un ton d'ivoire, les nuages qui représentaient un ciel du soir étaient comme une fumée de cigarette ; elle regardait cela avec pitié et douceur comme si cette image lui était devenue fraternelle d'avoir assisté à toute l'horreur qu'elle venait de vivre...
+          <emph>_</emph> Elle resta seule, elle s'assit, elle ne savait plus rien... Elle regardait obstinément un petit paysage japonais dans un cadre de bois noir accroché au mur ; elle remarqua que , sur le papier de riz d'un ton d'ivoire, les nuages qui représentaient un ciel du soir étaient comme une fumée de cigarette ; elle regardait cela avec pitié et douceur comme si cette image lui était devenue fraternelle d'avoir assisté à toute l'horreur qu'elle venait de vivre...
         </p>
         <p>Quelque chose dans son être était si cassé, si rompu en deux, qu'elle pensait avoir le corps brisé aussi, ne plus pouvoir marcher si elle essayait de se lever. Et, par besoin de ne plus voir ce qu'elle voyait, elle se leva, fit quelques pas. Ces seuls mouvements dressèrent en elle sa pensée qui se mit à revivre avec une musculature terrible.</p>
         <p>Elle sentit cela, en eut une peur affreuse. Elle se prit la tête, ses mains retombaient et remontaient à son front, elle disait à haute voix :</p>
@@ -666,6 +687,7 @@
         <p>— Qu'y a-t-il d'autre que l'amour ?...</p>
       </div>
       <div type="chapter">
+
         <head>VIII</head>
         <p>Si lasse qu'elle fût, madame de Fontenay se contraignit à assister au dîner ; elle se forçait à un air d'insouciance, et l'application qu'elle y mettait retirait un peu de force à sa douleur. Cette soirée fut plus supportable qu'elle ne l'avait pensé. Elle ne regardait pas Jérôme, ne lui parlait pas, ou lui adressait la parole en même temps qu'aux autres, en distrayant de lui ses yeux. Elle éprouvait cette sûreté, ce calme tendu que donne le contentement d'une attitude volontaire, mais elle entendait la voix du jeune homme et elle ne pouvait rien contre cela... Il disait n'importe quoi, de pauvres choses, de cette voix qu'elle aimait. Et, à l'entendre, il semblait à Sabine qu'elle regoûtait cette âme prise au réseau des cordes vocales délicieuses...</p>
         <p>Elle s'en alla, se mit au lit comme au tombeau et dormit longuement, de toute sa fatigue, de toute sa volonté, pressentant atrocement le réveil. Et quand elle fut éveillée, le lendemain, elle vit bien qu'elle ne se libérerait pas de sa passion. Elle la portait en elle, comme la femme porte l'enfant futur, dans sa chair vive, contre son cœur.</p>
@@ -690,6 +712,7 @@
         <p>Force du rêve, tristesse exaltée comme la lune d'été, comment la raison prévaudrait-elle contre vous, et quel espoir vous opposer, autre que celui d'une vieillesse hâtive, d'une imagination enfin lasse, d'un sang faible et ralenti ?...</p>
       </div>
       <div type="chapter">
+
         <head>IX</head>
         <p>Les jours se suivaient sans que l'idée vînt nettement à madame de Fontenay que c'était fini, qu'elle eût à retirer de sa vie le souvenir de cette aventure et le singulier espoir qui lui restait.</p>
         <p>Elle se fatiguait le cerveau à penser, comme on se fatigue les jambes à la course.</p>
@@ -744,6 +767,7 @@
         <p>Et en ce moment, son cœur s'emplissait de douceur, de pardon infini, de larmes et de sainteté.</p>
       </div>
       <div type="chapter">
+
         <head>X</head>
         <p>Marie, de temps en temps, quand elle se promenait avec sa belle-sœur, lui parlait de ce projet. Elle s'y accoutumait, l'acceptait tranquillement, sans ardeur, mais comme si c'était le plus agréable et le plus sage de ce qu'il y avait à faire.</p>
         <p>— Jérôme est très intelligent, n'est-ce pas ? demandait-elle, et bon, il est bon pour ma mère. L'autre jour il a été très bon pour l'enfant du jardinier qu'une abeille avait piqué ; il l'a pris par la main et l'a fait entrer chez le pharmacien.</p>
@@ -812,7 +836,9 @@
         <p>Elle entrait dans une autre vie.</p>
       </div>
       <div type="chapter">
+
         <head>Seconde Partie</head>
+
         <head>I</head>
         <p>Elle voyait plus souvent maintenant Pierre Valence.</p>
         <p>Ils passaient des fins de journée ensemble, Henri, Pierre et elle.</p>
@@ -1010,6 +1036,7 @@
         <p>Et Sabine comprenait. À présent, il était, comme dans le passé, l'ami d'Henri et de Marie, leur ami sûr, familier et fidèle ; pour elle, il n'était rien. Il avait tout à fait oublié l'année qui venait de s'écouler : pour les autres, il partait, mais d'elle, il s'en allait, il s'en allait véritablement...</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>Madame de Fontenay, tranquille et lasse, se disposait, vers la fin de juillet, à quitter Paris pour le Dauphiné, avec son mari, lorsqu'elle reçut un mot de son père qui lui disait qu'il était malade, qu'il passerait l'été en Suisse et qu'il désirait la voir.</p>
         <p>Depuis le mariage de M. de Rozée avec cette jeune fille viennoise qu'elle refusait de connaître, Sabine s'était retrouvée avec son père à Paris plusieurs fois ; mais, hostiles et fermés, ils n'avaient eu rien à se dire. Maintenant, elle se sentait changée : avait-on le droit de juger, de haïr, et le temps de se fâcher pour ce que faisaient les autres ? D'ailleurs, n'était-ce pas naturel que cette seconde femme de son père l'eût épousé probablement pour sa fortune et le nom qu'il portait.</p>
@@ -1079,7 +1106,9 @@
         <p>Elle perdait avec Sabine la plus douce joie de sa vie, mais elle ne se plaignait pas. Et gagnée par cet exemple, quand l'heure de l'adieu fut venue, madame de Fontenay s'en alla simplement, comme si elle pouvait revenir le lendemain...</p>
       </div>
       <div type="chapter">
+
         <head>Troisième Partie</head>
+
         <head>I</head>
         <p>... Si l'on songe à leur timidité naturelle et à la peur extrême qu'elles ont de la mort. MICHELET.</p>
         <p>Lorsque monsieur et madame de Fontenay se retrouvèrent à Paris, la vie recommença plus douce pour l'un et l'autre.</p>
@@ -1168,6 +1197,7 @@
         <p>Et puis elle le quitta, avec une grande difficulté.</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>Un samedi soir, vers cinq heures, elle alla au Collège de France et entra, par une porte que le vent referma, dans une salle chaude et grise où l'on respirait mal un air lourd et populaire.</p>
         <p>Par-dessus des têtes de jeunes gens, elle vit Philippe Forbier qui dessinait sur un tableau noir le réseau des nerfs.</p>
@@ -1217,6 +1247,7 @@
         <p>Elle restait, comprenant qu'elle pourrait passer toute la vie à ne pas quitter cet homme. Et puis elle s'en alla, étonnée de tout...</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p>Madame de Fontenay ne devait point partir pour la campagne ; mais dans son désarroi elle avait trouvé ce mensonge, qui lui donnait l'air, devant Philippe Forbier, d'avoir tout de même une vie établie qu'elle ne dérangeait pas à cause de lui, et en même temps, cela lui fixait à elle-même un délai un peu long.</p>
         <p>De retour chez elle, elle ne s'inquiéta pas de ce qui s'était passé, de cet étourdissement auprès de cet homme.</p>
@@ -1282,6 +1313,7 @@
         <p>Philippe, la tête cachée en elle, balbutiant et passionné, l'entraînait ; elle ne regardait pas où. Elle avait, du fond de son âme et de sa destinée, une confiance absolue, désormais, en tout ce qu'il pouvait vouloir...</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
         <p>Sabine passa simplement la soirée qui suivit, pendant laquelle, rentrée chez elle, elle dut s'habiller en hâte et recevoir les amis qui venaient dîner.</p>
         <p>Pas un instant pendant son trajet en voiture, au tintement des vitres cahotées, ni maintenant, au milieu des choses habituelles, elle ne se dit qu'elle avait un amant.</p>
@@ -1350,6 +1382,7 @@
         <p>Tout son être se creusait d'un désir infini. Elle aspirait le souvenir des baisers de Philippe ainsi qu'une admirable boisson acide et glacée. Par moments la musique trop forte la tuait ; alors elle soupirait ardemment. Elle buvait le vertige comme ceux qui se noient boivent la vague : du cri de toute la bouche et des poumons.</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
         <p>Madame de Fontenay, chez elle, parlait de Philippe Forbier à tout propos, ayant remarqué que son mari prenait ainsi l'habitude de considérer cet homme qu'il ne rencontrait pas comme un ami invisible et dévoué. Il s'amusait de ce que Philippe donnât des leçons de sculpture à Sabine et lui prêtât des livres trop sérieux.</p>
         <p>Il riait de la voir lire assidûment ; il semblait qu'il l'eût surprise appliquée à des jeux ennuyeux.</p>
@@ -1434,6 +1467,7 @@
         <p>— Mon petit, mon petit, ne demande rien... Va-t'en !...</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
         <p>Quelques jours après, Philippe Forbier, occupé chez lui à terminer un article qu'il destinait à la Revue Philosophique, entendit, à l'heure du déjeuner, sa femme l'appeler doucement et ouvrir la porte. Elle lui dit :</p>
         <p>— Il est tard, Jacques va être prêt tout de suite. Viens, tu te rends malade à ne jamais déjeuner à l'heure.</p>
@@ -1492,6 +1526,7 @@
         <p>Maintenant elle ne le jugeait plus, elle le guérissait.</p>
       </div>
       <div type="chapter">
+
         <head>VII</head>
         <p>Un mois se passa sans que Sabine et Philippe se parlassent de ce qui les avait inquiétés.</p>
         <p>Tous deux semblaient ne plus s'en souvenir.</p>
@@ -1557,6 +1592,7 @@
         <p>— N'est-ce pas, ce sont vraiment les deux choses qu'ont méritées les âmes comme la mienne : la tendresse et la mort...</p>
       </div>
       <div type="chapter">
+
         <head>VIII</head>
         <p>Après des plaintes et des résignations et de finales insistances, après des heures passées ensemble, les mains et les âmes moites et adhérentes, le départ de Philippe fut fixé au lendemain.</p>
         <p>Il devait prendre un train du soir, et de bonne heure Sabine fut chez lui. Elle avait ce jour-là son visage et ses gestes d'activité, son regard précis et gai. Philippe traînait d'une chaise à l'autre dans la bibliothèque, où il déplaçait ses livres. Il menait naturellement deux sentiments à la fois, et, quoiqu'il fît avec ordre et netteté ce dont il s'occupait, la tristesse qui enveloppait ses actes leur donnait l'apparence de la négligence et de l'importunité.</p>
@@ -1629,6 +1665,7 @@
         <p>Elle pensa que, dans les frais dortoirs, les religieuses qui font vœu d'ordre et de chasteté devaient avoir de telles soirées blanches, sans frisson et sans ferment. Elle s'endormit dans une paix qui ne lui était pas coutumière, ayant laissé tomber la vie autour d'elle comme un vêtement défait...</p>
       </div>
       <div type="chapter">
+
         <head>IX</head>
         <p>Au réveil, le lendemain, tout engourdie encore, comme on ouvrait les volets de ses fenêtres, elle demanda son courrier.</p>
         <p>Depuis l'aube qui grisonnait sa chambre, en plein sommeil, elle songeait à cela, qu'elle allait avoir une lettre de Philippe. Parmi les papiers qu'on lui tendit, elle reconnut vite sur l'enveloppe l'écriture de Philippe Forbier, nerveuse et violente, elliptique et résumée, qui donnait bien le mouvement de la pensée rapide et du temps volé. Elle lut, avec un regard embué, cette lettre vivante et ardente, qui lui laissait ensuite sur le visage, pendant toute la journée, ce sourire suspendu et retenu, ces coins de bouche énigmatiques que lui donnaient les longs plaisirs de la mémoire, et que Pierre, autrefois, comparait aux troubles sourires des Vinci, qui continuent de goûter sur leurs propres lèvres les demeurantes saveurs des voluptés...</p>
@@ -1684,6 +1721,7 @@
         <p>Elle partit ce même soir.</p>
       </div>
       <div type="chapter">
+
         <head>X</head>
         <p>« Mon Dieu, – pensait-elle, assise dans son wagon, que la nuit, venant aux deux vitres, fermait comme une boîte, – mon Dieu, que tout cela, autrefois, m'eût embarrassée, ce retour à Paris dans une maison qui n'est pas installée, et cette fatigue, cette faiblesse, ce serrement du cœur et des tempes ! J'aurais pleuré ; maintenant je suis pratique ; comme la vie est facile au fond, il suffit seulement d'être très malheureuse... »</p>
         <p>Après quelques heures de trajet, elle descendit, portant son sac un peu lourd, dans la gare où le froid et la fumée simulaient le brouillard d'hiver. En voiture, à présent, au travers des rues noires et clinquantes, elle se sentait doucement s'assoupir, gagnée par cette fatigue profonde, ce sommeil d'ouate, où le coup du cœur s'amortit.</p>

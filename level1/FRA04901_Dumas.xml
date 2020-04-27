@@ -19,14 +19,14 @@
         <p>à fournir</p>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Atramenta</publisher>
+          <ref target="https://www.atramenta.net" />
+        </bibl>
         <bibl type="printSource">
           <author>Dumas, Alexandre [pere] (1802-1870)</author>
           <title>La Reine Margot - Tome I</title>
           <date>1845</date>
-        </bibl>
-        <bibl type="digitalSource">
-          <publisher>Atramenta (www.atramenta.net)</publisher>
-          <ref target="#unknownSource">#unknownSource</ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1845</date>
@@ -57,9 +57,10 @@
       <div type="group">
 
         <head>La Reine Margot - Tome I</head>
-        <head>Alexandre Dumas père</head>
 
+        <head>Alexandre Dumas père</head>
         <div type="chapter">
+
           <head>I-Le latin de M. de Guise</head>
           <p>Le lundi, dix-huitième jour du mois d'août 1572, il y avait grande fête au Louvre. Les fenêtres de la vieille demeure royale, ordinairement si sombres, étaient ardemment éclairées ; les places et les rues attenantes, habituellement si solitaires, dès que neuf heures sonnaient à Saint-Germain-l'Auxerrois, étaient, quoiqu'il fût minuit, encombrées de populaire. Tout ce concours menaçant, pressé, bruyant, ressemblait, dans l'obscurité, à une mer sombre et houleuse dont chaque flot faisait une vague grondante ; cette mer, épandue sur le quai, où elle se dégorgeait par la rue des Fossés-Saint-Germain et par la rue de l'Astruce, venait battre de son flux le pied des murs du Louvre et de son reflux la base de l'hôtel de Bourbon qui s'élevait en face. Il y avait, malgré la fête royale, et même peut-être à cause de la fête royale, quelque chose de menaçant dans ce peuple, car il ne se doutait pas que cette solennité, à laquelle il assistait comme spectateur, n'était que le prélude d'une autre remise à huitaine, et à laquelle il serait convié et s'ébattrait de tout son cœur. La cour célébrait les noces de madame Marguerite de Valois, fille du roi Henri II et sœur du roi Charles IX, avec Henri de Bourbon, roi de Navarre. En effet, le matin même, le cardinal de Bourbon avait uni les deux époux avec le cérémonial usité pour les noces des filles de France, sur un théâtre dressé à la porte de Notre-Dame.</p>
           <p>Ce mariage avait étonné tout le monde et avait fort donné à songer à quelques-uns qui voyaient plus clair que les autres ; on comprenait peu le rapprochement de deux partis aussi haineux que l'étaient à cette heure le parti protestant et le parti catholique : on se demandait comment le jeune prince de Condé pardonnerait au duc d'Anjou, frère du roi, la mort de son père assassiné à Jarnac par Montesquiou. On se demandait comment le jeune duc de Guise pardonnerait à l'amiral de Coligny la mort du sien assassiné à Orléans par Poltrot du Méré. Il y a plus : Jeanne de Navarre, la courageuse épouse du faible Antoine de Bourbon, qui avait amené son fils Henri aux royales fiançailles qui l'attendaient, était morte il y avait deux mois à peine, et de singuliers bruits s'étaient répandus sur cette mort subite. Partout on disait tout bas, et en quelques lieux tout haut, qu'un secret terrible avait été surpris par elle, et que Catherine de Médicis, craignant la révélation de ce secret, l'avait empoisonnée avec des gants de senteur qui avaient été confectionnés par un nommé René, Florentin fort habile dans ces sortes de matières. Ce bruit s'était d'autant plus répandu et confirmé, qu'après la mort de cette grande reine, sur la demande de son fils, deux médecins, desquels était le fameux Ambroise Paré, avaient été autorisés à ouvrir et à étudier le corps, mais non le cerveau. Or, comme c'était par l'odorat qu'avait été empoisonnée Jeanne de Navarre, c'était le cerveau, seule partie du corps exclue de l'autopsie, qui devait offrir les traces du crime.</p>

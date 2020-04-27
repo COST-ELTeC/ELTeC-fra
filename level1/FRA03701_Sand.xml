@@ -32,15 +32,17 @@
         -->
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource"> Bibliothèque électronique du Québec,
-          <date /> ,
-          <idno /> ,
-          <ref target="http://beq.ebooksgratuits.com" /> . </bibl>
-        <bibl type="printSource"> Paris, Actes Sud, <date>2005</date> ,
-          <idno /> , . </bibl>
+        <bibl type="digitalSource">
+          <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
+          <ref target="http://beq.ebooksgratuits.com" />
+        </bibl>
+        <bibl type="printSource">
+          <pubPlace>Paris</pubPlace>
+          <publisher>Actes Sud</publisher>
+          <date>2005</date>
+        </bibl>
         <bibl type="firstEdition">
-          <date>1872</date> ,
-          <idno /> , .
+          <date>1872</date>
         </bibl>
       </sourceDesc>
     </fileDesc>

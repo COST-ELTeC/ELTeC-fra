@@ -18,11 +18,6 @@
         <p>à fournir</p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="printSource">
-          <author>Georges Eekhoud</author>
-          <title>L'Autre vue</title>
-          <date>1904</date>
-        </bibl>
         <bibl type="digitalSource">
           <publisher>Bibebook</publisher>
           <ref target="http://www.bibebook.com/ebook/libre/georges_eekhoud-lautre_vue.epub">http://www.bibebook.com/ebook/libre/georges_eekhoud-lautre_vue.epub</ref>
@@ -31,9 +26,14 @@
             <name>Gabriel Cabos </name>
             <name>Fontes : David Rakowski's Manfred Klein Dan Sayers Justus Erich Walbaum - Khunrath</name>
           </respStmt>
-          <bibl type="firstEdition">
-            <date>1904</date>
-          </bibl>
+        </bibl>
+        <bibl type="printSource">
+          <author>Georges Eekhoud</author>
+          <title>L'Autre vue</title>
+          <date>1904</date>
+        </bibl>
+        <bibl type="firstEdition">
+          <date>1904</date>
         </bibl>
       </sourceDesc>
     </fileDesc>

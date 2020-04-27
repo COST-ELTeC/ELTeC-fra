@@ -34,12 +34,11 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
+          <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
+          <ref target="http://beq.ebooksgratuits.com" />
           <date>2007</date> ,
-          <idno /> ,
-          <ref target="http://www.ebooksgratuits.com/" /> .
         </bibl>
         <bibl type="printSource">
-          <date>source</date>
         </bibl>
         <bibl type="firstEdition">
           <date>1912</date>

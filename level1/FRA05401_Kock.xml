@@ -18,14 +18,14 @@
         <p>à fournir</p>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Project Gutenberg</publisher>
+          <ref target="http://www.gutenberg.org/files/32113/32113-h/32113-h.htm">http ://www.gutenberg.org/files/32113/32113-h/32113-h.htm</ref>
+        </bibl>
         <bibl type="printSource">
           <author>Kock, Paul de (1793-1871)</author>
           <title>Madeleine</title>
           <date>1850</date>
-        </bibl>
-        <bibl type="digitalSource">
-          <publisher />
-          <ref target="http://www.gutenberg.org/files/32113/32113-h/32113-h.htm">http ://www.gutenberg.org/files/32113/32113-h/32113-h.htm</ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1850</date>
