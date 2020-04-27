@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01101" xml:lang="fr">
   <teiHeader>
@@ -18,51 +18,57 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">50336</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          Bibliothèque électronique du Québec,
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="http://beq.ebooksgratuits.com"/>
-          .
-        </bibl><bibl type="firstEdition">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Bibliothèque électronique du Québec</publisher>
+          <ref target="http://beq.ebooksgratuits.com" />
+        </bibl>
+        <bibl type="firstEdition">
           <date>1890</date>
-          ,
-          <idno/>
-          ,
-
-          .
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="group">
+
         <head>Première partie</head>
         <div type="chapter">
+
           <head>I</head>
           <p>Jacques Simiès ouvrit un œil, puis l'autre, bâilla, s'étira et demanda à son valet de chambre, Lazare, qui venait écarter les persiennes :</p>
           <p>– Lazare, quelle heure est-il ?</p>
@@ -85,13 +91,7 @@
           <p>– Ces s... rhumatismes ! gémit-il.</p>
           <p>C'est que celui qu'on appelait jadis le beau Simiès avait soixante ans, et bien heureux encore était-il d'en être quitte à si bon marché avec les infirmités de cet âge.</p>
           <p>Il attira à lui son binocle qu'il ajusta sur son nez et prit dans la masse une carte bleutée sur laquelle courait une écriture élégante.</p>
-          <p>
-            -- Bon ! dit-il avec ennui, une demande d'argent ; je connais ça, mais cette fois encore je ferai la sourde oreille, car j'ai pour principe qu'il ne faut pas prêter aux autres, surtout à ceux qui, selon toute probabilité, ne peuvent rendre ce qu'ils ont emprunté. Qu'est-ce encore ? Ah ! Cathellin qui m'invite à dîner : ma foi, ce ne sera pas drôle, des jeunes mariés ! Quelle idée aussi lui a pris d'épouser cette veuve ?... Quant aux journaux, voyons... voici
-            <hi>le Figaro, l'Intransigeant</hi>
-            ... Tiens,
-            <hi>le Quotidien</hi>
-            qui manque à l'appel ? Ces gredins l'auront gardé à la cuisine pour le déguster avant moi, je vais leur laver la tête d'importance... Par le diable, qu'est-ce que cette épître sur papier d'affaires, qui s'est glissée sous les gazettes ?... Bien ! maître Briant, le notaire de Léo !... qu'est-ce qu'il peut avoir à m'apprendre ?... Pourvu que cet imbécile de Léo n'ait pas commis encore quelque bévue ! il n'a jamais réussi en rien. Et moi qui ai des capitaux dans sa plantation des Antilles ; pas lourds, heureusement ; la perte ne serait pas grande. Diable ! quatre pages de thème ; il est épistolier, le notaire ! voyons ce qu'il me veut.
-          </p>
+          <p> -- Bon ! dit-il avec ennui, une demande d'argent ; je connais ça, mais cette fois encore je ferai la sourde oreille, car j'ai pour principe qu'il ne faut pas prêter aux autres, surtout à ceux qui, selon toute probabilité, ne peuvent rendre ce qu'ils ont emprunté. Qu'est-ce encore ? Ah ! Cathellin qui m'invite à dîner : ma foi, ce ne sera pas drôle, des jeunes mariés ! Quelle idée aussi lui a pris d'épouser cette veuve ?... Quant aux journaux, voyons... voici <hi>le Figaro, l'Intransigeant</hi> ... Tiens, <hi>le Quotidien</hi> qui manque à l'appel ? Ces gredins l'auront gardé à la cuisine pour le déguster avant moi, je vais leur laver la tête d'importance... Par le diable, qu'est-ce que cette épître sur papier d'affaires, qui s'est glissée sous les gazettes ?... Bien ! maître Briant, le notaire de Léo !... qu'est-ce qu'il peut avoir à m'apprendre ?... Pourvu que cet imbécile de Léo n'ait pas commis encore quelque bévue ! il n'a jamais réussi en rien. Et moi qui ai des capitaux dans sa plantation des Antilles ; pas lourds, heureusement ; la perte ne serait pas grande. Diable ! quatre pages de thème ; il est épistolier, le notaire ! voyons ce qu'il me veut. </p>
           <p>Simiès se mit à lire attentivement : le soleil, pâlot et terne, joua cependant un instant sous les rideaux aux teintes douces, arrachant une étincelle d'argent aux aciers des chenets, au bronze doré des candélabres, aux socles des coupes ; baisant au passage le visage rieur d'un faune de marbre.</p>
           <p>Simiès l'épicurien lisait toujours ; autour de lui tout respirait non seulement le bien-être, mais le luxe absolu épanoui là sans lourdeur, avec goût, avec art, selon le caprice du possesseur égoïste et raffiné.</p>
           <p>Lorsque Lazare reparut, portant en équilibre sur sa main le plateau où fumait le chocolat vanillé et onctueux accompagné de rôties toutes chaudes, il faillit reculer à la vue de son maître : soulevé sur sa couche moelleuse, celui-ci, furieux, montrait le poing au ciel de lit qui n'en pouvait mais et froissait dans ses doigts une lettre lacérée. Son visage, ordinairement rose et empreint d'une expression railleuse, était devenu jaune, marbré de taches foncées ; ses yeux verdâtres flamboyaient ; ses cheveux gris se hérissaient de colère sur le crâne légèrement dépouillé au sommet du front.</p>
@@ -140,12 +140,9 @@
           <p>Rentré en grâce, Lazare habilla son maître, puis il alla conter à la cuisine l'événement qui survenait à la maison et qui fit ouvrir de grands yeux à Philippe, à Césarine et à Mme Dutel, la femme de charge.</p>
         </div>
         <div type="chapter">
+
           <head>II</head>
-          <p>
-            Simiès lisait
-            <hi>le Quotidien</hi>
-            au coin d'un magnifique feu de bois, les pieds sur les chenets, chaussé de bonnes pantoufles, vêtu d'une splendide robe de chambre fourrée, et tout en fumant un cigare exquis il applaudissait aux inepties de son journal préféré.
-          </p>
+          <p> Simiès lisait <hi>le Quotidien</hi> au coin d'un magnifique feu de bois, les pieds sur les chenets, chaussé de bonnes pantoufles, vêtu d'une splendide robe de chambre fourrée, et tout en fumant un cigare exquis il applaudissait aux inepties de son journal préféré. </p>
           <p>La porte s'ouvrit et Mme Dutel poussa devant elle une mignonne fillette en s'écriant d'une voix nasillarde :</p>
           <p>– Voilà l'enfant, monsieur ; le voyage s'est bien accompli, mais la petite demoiselle a dû avoir un peu froid, car elle est pâle et elle n'a pas voulu manger en route.</p>
           <p>– C'est bien, madame Dutel, à présent laissez-nous.</p>
@@ -233,6 +230,7 @@
           <p>Gilberte dormit comme dorment les enfants de son âge, d'un sommeil profond et doux, et sa mère, remontée là-haut, dut laisser tomber une larme sur ce front d'ange qui allait perdre sous ce toit impie la divine candeur et la piété naïve qui semblaient jusqu'à présent innées en sa petite âme.</p>
         </div>
         <div type="chapter">
+
           <head>III</head>
           <p>– Non, je n'aime pas mon oncle, disait Gilberte en secouant sa tête blonde avec mélancolie.</p>
           <p>– Pourquoi ? demanda à son tour Lazare en frottant énergiquement son argenterie tandis que la petite fille le regardait faire avec distraction.</p>
@@ -274,11 +272,7 @@
           <p>– Si vous ne mangez pas cela tout de suite, lui dit Simiès avec rudesse, je fais étrangler aujourd'hui même votre chien Néro que vous aimez tant.</p>
           <p>Entre son fidèle ami et les œufs brouillés, Gilberte ne balança point et se mit en devoir d'obéir, mais son petit cœur se soulevait bien fort et elle pensait :</p>
           <p>« Comme il est méchant, mon oncle ! »</p>
-          <p>
-            Pendant ce temps Simiès se félicitait
-            <hi>in petto</hi>
-            , se disant :
-          </p>
+          <p> Pendant ce temps Simiès se félicitait <hi>in petto</hi> , se disant : </p>
           <p>« Décidément je suis fait pour élever et mâter les petites filles indisciplinées ; mon système est parfait. »</p>
           <p>Le repas terminé à la grande satisfaction de Gilberte, il l'envoya s'habiller pour sa promenade quotidienne ; mais au bout d'un quart d'heure Mme Dutel vint prévenir son maître que l'enfant, tout à fait malade, ne pouvait sortir ; il fallut la coucher et la nourrir de thé pendant quarante-huit heures. Comme elle eut un peu de fièvre et que Simiès, effrayé des conséquences de sa dureté, fit venir le médecin, celui-ci déclara que ce n'était qu'un accident, mais que la petite fille était d'une constitution délicate qui exigeait de grands ménagements.</p>
           <p>– Elle va entrer en pension la semaine prochaine, dit le terrible oncle qui aspirait à cet instant de toutes les puissances de son âme.</p>
@@ -319,6 +313,7 @@
           <p>Heureusement que Dieu a des grâces réservées à ceux qu'il expose ainsi aux griffes du démon, et souvent la lutte des premières années prépare l'âme et la trempe fortement pour l'avenir.</p>
         </div>
         <div type="chapter">
+
           <head>IV</head>
           <p>Ce soir-là c'étaient des épinards.</p>
           <p>Nous savons que Gilberte était loin d'en raffoler ; mais elle avait son petit plan tout dressé.</p>
@@ -397,6 +392,7 @@
           <p>Et pour clore cet entretien qui devait être une leçon de calcul, Simiès raconta une histoire à la fillette, qui préférait infiniment cela aux problèmes annoncés.</p>
         </div>
         <div type="chapter">
+
           <head>V</head>
           <p>– Quelle tuile, mon pauvre ami, quelle tuile !...</p>
           <p>– Eh ! pas tant que cela.</p>
@@ -444,6 +440,7 @@
           <p>– Voilà qu'elle le mène déjà par le bout du nez !... s'écria Mme Dutel en levant ses grands bras au ciel. Qu'est-ce que ça sera alors dans un an ou deux ?</p>
         </div>
         <div type="chapter">
+
           <head>VI</head>
           <p>Ainsi fut modifiée l'existence de Gilberte Mauduit : l'enfant douce, pieuse et soumise devint une petite fille indomptée, incroyante et capricieuse. Mais Simiès l'aimait ainsi.</p>
           <p>Elle avait en germe dans sa petite âme beaucoup de qualités exquises : il les étouffa ; elle avait aussi beaucoup de défauts, non grossiers ni vulgaires, mais dangereux pour cette jeune nature ; Simiès les développa.</p>
@@ -457,7 +454,7 @@
           <p>– Je te l'accorde ; mais aimerais-tu, toi, à leur ressembler ? Elles ne savent que chanter des cantiques ou réciter des poésies où ciel rime avec fiel.</p>
           <p>– C'est vrai ; et puis elles se sont scandalisées l'autre jour parce que, jouant au croquet, j'ai manqué mon coup et crié : « Sapristi ! » et puis parce que je fredonnais la chanson que vous m'avez apprise, vous savez bien, mon oncle ?</p>
           <p>Et Gilberte chantonna de sa petite voix claire :</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>
             <hi>C'était pendant l'horreur d'une profonde nuit,</hi>
           </p>
@@ -473,7 +470,7 @@
           <p>
             <hi>De profundis, sur l'air du tra la la la...</hi>
           </p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>– Aussi, reprit l'enfant, boudeuse à ce ressouvenir, Mlle Maudrey, leur institutrice, m'a ordonné de me taire, comme si elle avait le droit de me faire des observations. Je ne l'aime pas, Mlle Maudrey.</p>
           <p>– Tu préfères ta fräulen Frida, n'est-ce pas ? Tu en fais tout ce que tu veux.</p>
           <p>– Oh ! Fräulen, répliqua Gilberte, allongeant ses fines lèvres roses dans une moue dédaigneuse, je ne l'aime pas non plus.</p>
@@ -488,11 +485,7 @@
           <p>Aussi, après avoir jeté sa pointe à l'adresse de ses petites compagnes de jeux, s'empressait-elle de témoigner de leurs bonnes qualités.</p>
           <p>Gilberte grandissait donc entre cet athée intelligent, mais horriblement dévoyé, et une gouvernante qui lui enseignait fort bien l'allemand, l'anglais, l'italien et la géographie, mais fort mal ce que tout enfant doit savoir touchant la vérité et la justice.</p>
           <p>Gilberte apprenait vite et retenait ce qu'elle apprenait ; son oncle lui donna les meilleurs professeurs pour le piano, le chant, le dessin, l'équitation, etc. Il se chargea de la philosophie et de l'histoire ; aussi fit-il de sa nièce une libre penseuse comme il l'avait désiré, d'ailleurs.</p>
-          <p>
-            De plus, la fillette jouait du billard assez habilement ainsi qu'au lawn-tennis et au cricket ; elle montait tous les chevaux de l'écurie des Marnes et conduisait
-            <hi>four in hand</hi>
-            , ce qui, pour Simiès et ses amis, était le comble de la bonne éducation ; enfin elle dansait à ravir et n'avait pas sa pareille dans les sauteries ou les matinées qu'elle pouvait seulement aborder, aspirant de toute son âme au temps où les grands bals lui seraient ouverts.
-          </p>
+          <p> De plus, la fillette jouait du billard assez habilement ainsi qu'au lawn-tennis et au cricket ; elle montait tous les chevaux de l'écurie des Marnes et conduisait <hi>four in hand</hi> , ce qui, pour Simiès et ses amis, était le comble de la bonne éducation ; enfin elle dansait à ravir et n'avait pas sa pareille dans les sauteries ou les matinées qu'elle pouvait seulement aborder, aspirant de toute son âme au temps où les grands bals lui seraient ouverts. </p>
           <p>Elle nageait comme un poisson, faisant le désespoir des jeunes filles de Trouville ou de Royan ; de plus, elle était déjà fort entourée malgré son âge encore enfantin, car ses saillies originales étaient très goûtées et, selon l'expression des jeunes gens, elle n'avait pas froid aux yeux.</p>
           <p>Simiès jouissait orgueilleusement des précoces succès de sa nièce, et, afin de mieux s'en parer pour ainsi dire, et la faire admirer, il lui permettait quelquefois de trôner en face de lui dans les dîners qu'il donnait à ses amis, pourvu qu'elle allât se coucher au dessert.</p>
           <p>Ainsi de bonne heure il déclassait la pauvrette dans une compagnie de mauvais ton où la religion, le prêtre et la vertu étaient dénigrés à qui mieux mieux.</p>
@@ -504,16 +497,12 @@
           <p>Lorsque, après le dîner, Gilberte avait joué son morceau de piano, servi le café et chanté quelque leste chansonnette, le sommeil de son âge la gagnait ; alors elle secouait à la ronde la main des invités de son oncle, à l'anglaise, c'est-à-dire par ce mouvement gracieux qui détache l'avant-bras de l'épaule, et elle allait se coucher en faisant à part soi ses petites remarques :</p>
           <p>« Un tel était moins bien teint aujourd'hui que jeudi dernier. Le jeune D... posait pour le spleen ; X... buvait trop, cela nuisait à son intelligence ; oh ! il baissait, il baissait depuis quelque temps ! M. Simiès n'avait pas l'air de s'en apercevoir. »</p>
           <p>Parfois Fräulen croyait de son devoir de faire quelques observations à sa caustique élève.</p>
-          <p>
-            -- Oh ! miss Gilberte, lui disait-elle en anglais, la fillette préférant cet idiome à celui, plus dur, d'Outre-Rhin,
-            <hi>young misses must never speak so boldly as you do ; it is shocking !</hi>
+          <p> -- Oh ! miss Gilberte, lui disait-elle en anglais, la fillette préférant cet idiome à celui, plus dur, d'Outre-Rhin, <hi>young misses must never speak so boldly as you do ; it is shocking !</hi>
           </p>
           <p>– Les jeunes demoiselles ne doivent pas parler hardiment comme je le fais ?... Ah ! Fräulen ! s'écriait la petite folle, n'avez-vous donc jamais entendu mon oncle dire que tout m'est permis ?</p>
           <p>– *Ya*, miss Gilberte.</p>
           <p>– Tout m'est permis parce que je suis jolie et spirituelle ; ces messieurs aussi disent la même chose.</p>
-          <p>
-            -- Miss Gilberte,
-            <hi>you are proud.</hi>
+          <p> -- Miss Gilberte, <hi>you are proud.</hi>
           </p>
           <p>– Orgueilleuse ? et après, n'en ai-je pas le droit ?</p>
           <p>– *No*.</p>
@@ -530,24 +519,19 @@
           <p>En revanche, Gilberte ne savait tenir ni une aiguille, ni un crochet.</p>
           <p>– Le travail manuel m'assomme ! disait-elle à Fräulen Frida qui gémissait sur cette lacune dans l'éducation de son élève.</p>
           <p>– Bah ! s'écriait alors le vieil oncle, qu'est-ce que cela fait ? elle n'aura jamais besoin de raccommoder elle-même ses nippes.</p>
-          <p>
-            Et regardant avec un tendre orgueil cette adorable tête de linotte posée sur des épaules mignonnes, mais déjà charmantes, il ajoutait
-            <hi>in petto :</hi>
+          <p> Et regardant avec un tendre orgueil cette adorable tête de linotte posée sur des épaules mignonnes, mais déjà charmantes, il ajoutait <hi>in petto :</hi>
           </p>
           <p>– Quand elle sera une femme, elle tournera tous les cerveaux masculins et fera le désespoir de ses pareilles ; elle sera coquette comme une petite tigresse, si toutefois on ne la blase pas trop vite sur la louange.</p>
           <p>Le malheureux encourageait ses faiblesses ; si parfois il la trouvait assise au petit salon, un peu songeuse, regardant le feu, il s'écriait :</p>
           <p>– Pour Dieu ! ne sois pas si tranquille. Casse plutôt quelque chose, mais ris ; tu as l'air malade comme cela.</p>
           <p>C'est que, sans qu'il s'en doutât, ce petit cheval échappé pensait quelquefois, ou plutôt elle essayait de ressaisir un peu de la petite Gilberte d'autrefois, celle qu'aimait sa mère ; mais, hélas ! c'était chose difficile à présent.</p>
-          <p>
-            Cependant le souvenir demeurait vivace dans cette tête folle ; elle revoyait toujours cette scène navrante : le vaisseau
-            <hi>l'Ohio</hi>
-            entrant au Havre son pavillon baissé et voilé en signe de deuil, pendant qu'elle se tordait de douleur entre les bras du capitaine, un brave homme qui essayait de la consoler avec sa grosse voix de marin ; en bas, dans une cabine de premières, Maïa, la négresse fidèle, priait avec quelques passagers charitables, auprès du corps d'une jeune femme que la mort avait frappée presque subitement.
-          </p>
+          <p> Cependant le souvenir demeurait vivace dans cette tête folle ; elle revoyait toujours cette scène navrante : le vaisseau <hi>l'Ohio</hi> entrant au Havre son pavillon baissé et voilé en signe de deuil, pendant qu'elle se tordait de douleur entre les bras du capitaine, un brave homme qui essayait de la consoler avec sa grosse voix de marin ; en bas, dans une cabine de premières, Maïa, la négresse fidèle, priait avec quelques passagers charitables, auprès du corps d'une jeune femme que la mort avait frappée presque subitement. </p>
           <p>Gilberte voyait toujours ce tableau.</p>
           <p>Maïa la négresse, seul souvenir de ce passé, avait dû quitter l'enfant et retourner aux Antilles.</p>
           <p>Et la morte avait été enterrée au Havre, bien loin, là-bas, et l'oncle Simiès n'avait jamais offert à Gilberte de l'emmener visiter cette tombe.</p>
         </div>
         <div type="chapter">
+
           <head>VII</head>
           <p>Une après-midi d'hiver, Gilberte revenait de la promenade avec Fräulen Frida, lorsque celle-ci s'arrêta devant la boutique d'un pâtissier :</p>
           <p>– Miss Gilberte, dit-elle, nous n'avons pas encore lunché, entrons ici.</p>
@@ -590,6 +574,7 @@
           <p>De retour à la maison, Gilberte affirma à son oncle qu'elle avait un besoin urgent de jupons, de chemises et de mouchoirs de batiste ; pour le mieux prouver, elle eût volontiers mis en pièces son petit trousseau de fillette, mais son oncle lui donna carte blanche pour le faire augmenter ou renouveler où il lui plairait.</p>
         </div>
         <div type="chapter">
+
           <head>VIII</head>
           <p>Entre sa treizième et sa dix-septième année trois incidents, malheureusement trop rapides, amenèrent une diversion salutaire dans la vie dissipée de Gilberte Mauduit.</p>
           <p>Mais ils s'effacèrent trop vite de sa mémoire et, grâce à la funeste influence de Simiès, ne lui laissèrent aucun souvenir bienfaisant.</p>
@@ -816,6 +801,7 @@
           <p>Mais ce n'était encore qu'une fillette, et, retournant sur l'oreiller son joli visage ensommeillé, elle s'endormit profondément pour rêver de l'Amérique et des de Carcanne.</p>
         </div>
         <div type="chapter">
+
           <head>IX</head>
           <p>Le lendemain, Gilberte apparut, ravissante dans un petit costume d'automne, mais fort grave, et ce jour-là on ne l'entendit ni chanter ni rire.</p>
           <p>À peine à déjeuner eut-elle un éclair de sa gaieté mordante habituelle, en trempant sa lèvre rose dans le champagne mousseux.</p>
@@ -856,6 +842,7 @@
           <p>Pendant quelque temps les jeunes filles entretinrent une correspondance assez assidue, puis, un beau jour, Simiès détourna les lettres des petites de Carcanne et Gilberte, voyant les siennes demeurer sans réponses, s'en blessa et ne donna plus signe de vie à ses amies.</p>
         </div>
         <div type="chapter">
+
           <head>X</head>
           <p>Simiès éprouva du désappointement en retrouvant Gilberte grave et posée.</p>
           <p>Comme elle était la franchise même, elle ne voulut rien cacher à son tuteur et lui raconta qu'elle était revenue à la foi et qu'elle désirait continuer à accomplir ses devoirs religieux.</p>
@@ -900,31 +887,19 @@
           <p>Elle avait cependant des jours de mélancolie, de lassitude intense, comme si un ange miséricordieux fût venu toucher son front d'une pensée plus haute au milieu du tourbillon mondain dans lequel s'égrenaient ses années de jeunesse.</p>
           <p>Aux bains de mer, Gilberte contracta, un été, une de ces liaisons éphémères, mais assez intimes pour laisser un souvenir au cœur : elle s'était attachée à une famille espagnole dont les jeunes filles, Mercédès, Sixta, Callista, toutes gentilles et aimantes, menaient à la fois joyeuse existence et pieuses pratiques de religion ; un matin elles entraînèrent Gilberte avec elles à l'église : on y célébrait un service funèbre pour un de leurs parents mort peu auparavant.</p>
           <p>Gilberte n'avait jamais assisté à semblable cérémonie depuis qu'elle avait perdu sa mère, et à ce moment-là elle était si jeune et elle pleurait tant qu'elle n'en avait gardé aucune mémoire. Cette fois-ci elle fut étonnée et profondément impressionnée de la beauté de cette fête triste. Au retour, comme son oncle lui proposait gaiement une partie folle à San Sebastian, elle lui dit pour toute réponse, le regard perdu dans le vague :</p>
-          <p>
-            -- Mon oncle, lorsque je mourrai, je veux que l'on m'enterre chrétiennement et je veux qu'on chante le
-            <hi>Dies irae</hi>
-            à ...
-          </p>
+          <p> -- Mon oncle, lorsque je mourrai, je veux que l'on m'enterre chrétiennement et je veux qu'on chante le <hi>Dies irae</hi> à ... </p>
           <p>– Est-ce que tu deviens folle ? s'écria Simiès en se retournant brusquement.</p>
           <p>Le lendemain, il emmenait Gilberte à Arcachon, avec une troupe folle de Parisiens rencontrés à Bayonne.</p>
-          <p>
-            Mais, souvent, une vision plus grave passa devant les yeux de la jeune fille dans ses heures solitaires, heures bien rares, il est vrai, et, tandis que le chant du
-            <hi>Dies irae</hi>
-            et la douce plainte du
-            <hi>Pie Jesu</hi>
-            revenait à son oreille, elle murmurait :
-          </p>
+          <p> Mais, souvent, une vision plus grave passa devant les yeux de la jeune fille dans ses heures solitaires, heures bien rares, il est vrai, et, tandis que le chant du <hi>Dies irae</hi> et la douce plainte du <hi>Pie Jesu</hi> revenait à son oreille, elle murmurait : </p>
           <p>– Je ne veux pas, si je meurs, que l'on m'enterre civilement, je veux que ce soit comme pour ma mère.</p>
-          <p>
-            Mais le lendemain un plaisir nouveau venait s'offrir à elle, et dans son esprit mobile la romance amoureuse d'un opéra en vogue remplaçait le
-            <hi>Pie Jesu</hi>
-            .
-          </p>
+          <p> Mais le lendemain un plaisir nouveau venait s'offrir à elle, et dans son esprit mobile la romance amoureuse d'un opéra en vogue remplaçait le <hi>Pie Jesu</hi> . </p>
         </div>
       </div>
       <div type="group">
+
         <head>Deuxième partie</head>
         <div type="chapter">
+
           <head>I</head>
           <p>On était aux Marnes, dans la riante propriété que possédait M. Simiès en Dauphiné ; le château, de style tout à fait moderne, était une construction plus gracieuse qu'imposante, étagée au milieu d'un parc fleuri ; plus loin, s'apercevaient les champs, et les vignes tristement rongées par le phylloxera.</p>
           <p>Gilberte Mauduit n'avait pas la passion de la campagne, mais son oncle tenait à y passer une partie de l'été, et, ma foi, le temps finissait toujours par s'y écouler gaiement.</p>
@@ -960,11 +935,7 @@
           <p>Gilberte y posa la sienne une seconde et se sentit intérieurement reconnaissante de ce que le jeune homme n'usât point de l'autorisation.</p>
           <p>– Il est bien élevé au moins, celui-là, pensa-t-elle.</p>
           <p>M. Simiès présenta son neveu à ses hôtes, puis le fit conduire à l'appartement qui lui était destiné.</p>
-          <p>
-            Le dîner fut gai ; personne n'eut à railler
-            <hi>in petto</hi>
-            ou en commun le nouveau venu ; il ne jugea pas à propos d'afficher ses habitudes pieuses devant cette société antireligieuse qui se faisait gloire de son impiété.
-          </p>
+          <p> Le dîner fut gai ; personne n'eut à railler <hi>in petto</hi> ou en commun le nouveau venu ; il ne jugea pas à propos d'afficher ses habitudes pieuses devant cette société antireligieuse qui se faisait gloire de son impiété. </p>
           <p>Après le repas, on se promena dans le parc ; l'orage s'était dissipé sans éclater sur les Marnes.</p>
           <p>Mêlé au groupe où se trouvait Mlle Mauduit, Albéric Daltier causait tranquillement ; on l'écoutait, tout étonné de ce que la parole d'un homme « qui n'était pas de son siècle » eût tant de charmes, de profondeur et même d'esprit. Albéric Daltier pouvait toucher à tous les sujets et se montrer captivant sur chacun d'eux.</p>
           <p>Quand la nuit devint trop sombre, l'air trop frais, on rentra au salon ; une jeune femme fut priée de chanter, ce qu'elle fit avec beaucoup de brio, disant hardiment une chansonnette à la mode et fort leste qui fut vivement applaudie.</p>
@@ -999,11 +970,7 @@
           <p>– C'est convenu. Ma nièce a de l'esprit comme un ange, conclut M. Simiès.</p>
           <p>Et l'on se sépara.</p>
           <p>« Quel imbécile que ce garçon ! pensait le châtelain en remontant chez lui. Il a été élevé dans les stupides principes de l'ancien régime par sa bigote de mère. Ah ! si on l'avait mis quelques jours sous mon égide, je vous l'aurais dégourdi ! C'est grand dommage, car ce blanc-bec ferait sa trouée dans la vie, il est intelligent. Mais aussi, je vous demande un peu, un ingénieur qui va à la messe ! non, c'est désopilant. »</p>
-          <p>
-            « Quel malheur que ce jeune homme ne soit pas dans nos eaux ! se disaient
-            <hi>in petto</hi>
-            les mères de famille ; que cela ferait un gendre agréable ! tandis que les mauvais sujets qui nous restent sur les bras sont à regarder à deux fois. Un beau-fils léger et dissipateur est inquiétant, mais un beau-fils sermonneur est ennuyeux. »
-          </p>
+          <p> « Quel malheur que ce jeune homme ne soit pas dans nos eaux ! se disaient <hi>in petto</hi> les mères de famille ; que cela ferait un gendre agréable ! tandis que les mauvais sujets qui nous restent sur les bras sont à regarder à deux fois. Un beau-fils léger et dissipateur est inquiétant, mais un beau-fils sermonneur est ennuyeux. » </p>
           <p>Une blonde fillette, très lancée malgré ses dix-sept ans, aidait Gilberte à détacher ses beaux cheveux soyeux, tout en lui disant :</p>
           <p>– Tu sais, ma chère, ton cousin Daltier a beau être un clérical enragé, il a au moins le courage de son opinion, vertu qui ne court pas les rues à l'heure qu'il est. Et puis, il est très séduisant, vraiment.</p>
           <p>– Tu le trouves ?</p>
@@ -1024,6 +991,7 @@
           <p>Au même étage, dans une chambre spacieuse et riche, un vieillard à la bouche railleuse dormait aussi, et il faut croire que le sommeil du juste n'est pas le seul excellent, car celui de Simiès le voltairien était plein de béatitude.</p>
         </div>
         <div type="chapter">
+
           <head>II</head>
           <p>On se trouvait en pleins champs à l'ombre des ormeaux lorsqu'on vit venir Albéric Daltier.</p>
           <p>Il avait vraiment fière mine, ce cavalier arrivant au trop de son cheval jusqu'à l'endroit où l'on avait dételé. Il mit pied à terre, vint saluer les dames et prit part à la conversation générale.</p>
@@ -1163,11 +1131,11 @@
           <p>Quelques ricanements s'étouffèrent sous les éventails.</p>
           <p>– Mais très volontiers, mon oncle, répondit le jeune ingénieur sans rien perdre de son gracieux sang-froid.</p>
           <p>Il se leva avec son aisance de grand seigneur, déployant sa riche taille, et s'assit au clavier ; il préluda par quelques accords graves et entonna ces couplets si connus et si beaux :</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>
             <hi>Minuit, Chrétiens, c'est l'heure solennelle.</hi>
           </p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>On s'apprêtait à rire, on bâillait d'avance, le plus poliment qu'on pouvait... et voilà que tous firent silence, pris soudain sous le charme de cette splendide voix de baryton, mâle et sonore, dont les notes avaient un velouté et une expression délicieuse.</p>
           <p>La surprise fut générale et de sincères applaudissements éclatèrent quand le chanteur termina l'hymne chrétienne. Il reçut les louanges froidement, un fin sourire errant sur sa bouche fière.</p>
           <p>Se retournant vers Gilberte qui, elle, ne parlait pas, il lui dit avec une pointe de raillerie :</p>
@@ -1231,6 +1199,7 @@
           <p>Et, entrant au salon, il laissa Mlle Mauduit toute songeuse.</p>
         </div>
         <div type="chapter">
+
           <head>III</head>
           <p>Autour de la table somptueusement servie sur laquelle étincelaient l'argenterie et les cristaux et que décorait au centre un surtout de fleurs délicates, une demi-douzaine d'hommes devisaient et discutaient, pour la plupart grisonnants ou chauves ; ils vidaient prestement les fins verres de Bohême alignés devant eux, gravés au chiffre du maître de la maison et à chaque instant remplis des vins les plus exquis. L'atmosphère était chaude, les mets savamment élaborés, la causerie animée ; et cependant sur le front de ces convives il y avait comme un signe mystérieux, marque diabolique qui leur enlevait cette majesté naturelle à l'âge mûr.</p>
           <p>Ils sonnait dans ces voix mordantes quelque chose de pénible à entendre, dans cette gaieté un écho railleur, métallique ; ils avaient à la lèvre un rictus sceptique qui faisait mal à voir.</p>
@@ -1306,6 +1275,7 @@
           <p>Gilberte ne savait pas prier.</p>
         </div>
         <div type="chapter">
+
           <head>IV</head>
           <p>Elle avait demandé à voir Gilberte Mauduit et Gilbert y avait couru ; c'était celle de ses amies qu'elle préférait, quoique ce ne fût encore qu'une enfant. Et voilà que cette jolie Odette, ayant pris froid au sortir du bal, se mourait d'une phtisie galopante.</p>
           <p>Gilberte vint la voir plusieurs fois, mais, à la fin, Odette la reconnaissait à peine et criait, désespérée, qu'elle ne voulait pas mourir. C'était navrant à voir et à entendre.</p>
@@ -1346,6 +1316,7 @@
           <p>Puis, comme à cet âge et sur les natures peu éprouvées, le chagrin glisse sans laisser de traces, Gilberte reprit bientôt ses plaisirs, et les succès qu'elle remporta dans le monde, de même que l'existence frivole et dorée qu'elle menait, effacèrent de son cœur le souvenir de la journée où elle avait vu mourir son amie.</p>
         </div>
         <div type="chapter">
+
           <head>V</head>
           <p>Un matin que Gilberte entrait à la salle à manger, fraîche et souriante dans son négligé de peluche, elle trouva M. Simiès qui dégustait savamment son déjeuner. Après lui avoir serré la main, elle versait le chocolat bouillant dans sa petite tasse d'argent niellé, quand son oncle, qui la regardait en dessous, dit soudain :</p>
           <p>– Combien y a-t-il de tes invités qui ont répondu ?</p>
@@ -1461,6 +1432,7 @@
           <p>Elle n'arriva à Marseille que le lendemain matin.</p>
         </div>
         <div type="chapter">
+
           <head>VI</head>
           <p>Après l'algarade très vive qu'il avait fait subir à sa nièce, Simiès, rouge encore de sa colère, se rendit au cercle où il joua, perdit et gagna, ce qui le mit en meilleure humeur. Il écouta la conversation que tenaient quelques habitués assez près de lui ; on parlait de l'australien Mahoni et ce que l'on disait n'était pas à son avantage.</p>
           <p>Simiès dîna au cercle et ne rentra que le soir, un peu penaud des propos qu'il venait de recueillir sur celui qu'il désirait tant pour neveu.</p>
@@ -1515,6 +1487,7 @@
           <p>Mais ce vieillard devait avoir le châtiment de sa vie inutile : après avoir goûté à toutes les ivresses, l'ennui allait le surprendre ; il avait gâché sa jeunesse, il devait mourir seul, sans un parent, sans un ami sincère pour lui rendre la mort douce.</p>
         </div>
         <div type="chapter">
+
           <head>VII</head>
           <p>Ce soir-là, le salon des Daltier présentait un gracieux tableau d'intérieur ; on y voyait encore suffisamment pour se passer de lumière, malgré les rideaux de dentelle épaisse abaissés devant les fenêtres pour garantir du mistral qui soufflait avec rage.</p>
           <p>Sur un divan, Albéric, le fils aîné, causait avec abandon avec sa mère ; un autre jeune homme d'une quinzaine d'années, Henri, racontait une histoire à deux petites filles, ses nièces, car la fille aînée de Mme Daltier était mariée et avait, ce jour-là, laissé ses enfants rue Montgrand. Au piano, deux jeunes filles de dix-huit à vingt ans jouaient à quatre mains, tandis que, derrière elles, Gustave, le jumeau d'Henri, battait la mesure à tour de bras, comme s'il se fût agi de diriger un orchestre complet.</p>
@@ -1611,6 +1584,7 @@
           <p>La santé revint vite à celle-ci ; elle retrouva ses fraîches couleurs et sa gaieté, mais non plus cette gaieté mordante et sceptique qu'elle avait chez M. Simiès.</p>
         </div>
         <div type="chapter">
+
           <head>VIII</head>
           <p>Il y a plus de six mois que Mlle Mauduit fait pour ainsi dire partie de la famille Daltier. Ce n'est plus la jeune fille athée, railleuse et frivole qu'a élevée M. Simiès.</p>
           <p>Gilberte est croyante, Gilberte est presque fervente ; le miracle s'est opéré doucement, lentement, dans ce milieu adorablement bon et pur.</p>
@@ -1662,7 +1636,7 @@
           <p>À cette plaisanterie, Gilberte fronça le sourcil et répondit, évitant les yeux d'Albéric qui cherchaient les siens :</p>
           <p>– Je ne veux pas me marier encore.</p>
           <p>Le même soir, assise au piano, elle chantait, d'une voix lente, cette naïve, mais expressive romance tirée de l'opérette d'Offenbach : « Robinson Crusoé » :</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>
             <hi>S'il fallait qu'aujourd'hui</hi>
           </p>
@@ -1684,7 +1658,7 @@
           <p>
             <hi>Si c'est aimer, je l'aime.</hi>
           </p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>
             <hi>Je sens que s'il partait</hi>
           </p>
@@ -1706,10 +1680,11 @@
           <p>
             <hi>Si c'est aimer, je l'aime.</hi>
           </p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>Quand elle abandonna le piano, elle rougit en voyant fixés sur elle les yeux étincelants de son cousin.</p>
         </div>
         <div type="chapter">
+
           <head>IX</head>
           <p>Elle avait dit cela, Edmée, en l'air, sans y attacher d'importance !</p>
           <p>Elle avait confié à Gilberte que son frère Albéric pouvait bien un de ces jours obtenir la main de Midia, cette jolie Égyptienne rencontrée à Nice et qui lui faisait les yeux doux. Et, certes, Albéric avait toutes les chances pour être accepté ; il était beau, riche et si aimé ! Dans son enthousiasme fraternel, Edmée ne pouvait douter que ce frère chéri et admiré ne fût le point de mire de toutes les jeunes filles et de toutes les mamans en quête d'un gendre.</p>
@@ -1767,19 +1742,15 @@
           <p>Après le repas, pendant lequel Gilberte ne desserra les dents ni pour parler ni pour manger, on passa comme à l'ordinaire au salon.</p>
           <p>Edmée et Marie s'assirent au piano, les hommes prirent leur journal, Mme Daltier son tricot ; Gilberte exhiba un des fameux volumes au titre scabreux, qu'elle se mit à lire tranquillement.</p>
           <p>Leur galop à quatre mains achevé, les musiciennes appelèrent Gilberte.</p>
-          <p>
-            -- À ton tour, chérie, dirent-elles, chante-nous
-            <hi>Robinson Crusoé</hi>
-            , tu sais, la romance que tu dis si bien :
-          </p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <p> -- À ton tour, chérie, dirent-elles, chante-nous <hi>Robinson Crusoé</hi> , tu sais, la romance que tu dis si bien : </p>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>
             <hi>S'il fallait qu'aujourd'hui</hi>
           </p>
           <p>
             <hi>Quelqu'un mourût pour lui...</hi>
           </p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>– Oh ! non, pas cela, répondit la jeune fille dont un sourire sarcastique plissait la lèvre rouge. J'ai ici de la musique plus nouvelle.</p>
           <p>Et elle choisit, parmi les feuilles qu'elle avait achetées récemment, quelques couples tirés d'une opérette en vogue.</p>
           <p>Pendant ce temps, Albéric attirait à lui, nonchalamment, le livre que sa cousine venait d'abandonner sur son siège.</p>
@@ -1833,6 +1804,7 @@
           <p>Étouffant un soupir, Mme Daltier se leva, baisa sa nièce au front et quitta la chambre.</p>
         </div>
         <div type="chapter">
+
           <head>X</head>
           <p>Cela dura quinze jours pendant lesquels une gêne visible pesa sur la famille Daltier.</p>
           <p>Tous, ils aimaient trop Gilberte pour ne pas souffrir de l'état dans lequel ils la voyaient.</p>
@@ -1933,6 +1905,7 @@
           <p>Par cet instinct de mère qui ne trompe jamais, elle devinait que son fils bien-aimé souffrait de voir Gilberte sortir à la fois de sa vie, de sa maison et de son cœur.</p>
         </div>
         <div type="chapter">
+
           <head>XI</head>
           <p>« Ma chère tante,</p>
           <p>« Merci d'abord pour votre affectueuse lettre et pour votre gracieux envoi auquel ont participé mes cousines.</p>
@@ -1951,7 +1924,7 @@
           <p>« Pardonnez-moi cette lettre couleur feuille morte, et faites-moi la surprise d'une visite, si c'est possible ; Nice n'est pas si éloigné de Marseille.</p>
           <p>« Embrassez pour moi mes cousines ; je vous tends, comme autrefois, mon front toujours nuageux.</p>
           <p>« GILBERTE. »</p>
-          <milestone type="subChapter" rend="space" unit="newline"/>
+          <milestone type="subChapter" rend="space" unit="newline" />
           <p>À quelque temps de là, Mme Daltier alla voir sa nièce à Nice ; on lui fit les plus grands éloges de Gilberte qui était vraiment aimée chez les Métaxo et qui brillait incontestablement dans la petite société grecque que l'on voyait dans la ville et aux environs.</p>
           <p>Cependant Mme Daltier revint soucieuse chez elle. Son mari et son fils aîné l'interrogèrent avec empressement sur Mlle Mauduit.</p>
           <p>Elle répondit :</p>
@@ -2052,6 +2025,7 @@
           <p>D'ailleurs, c'était là qu'il voulait attendre Gilberte.</p>
         </div>
         <div type="chapter">
+
           <head>XII</head>
           <p>C'était par une furieuse tempête d'équinoxe ; la mer faisait rage dans les cinq ports de Marseille et passait jusque par-dessus les jetées.</p>
           <p>Les bateaux de pêche ou de plaisance demeuraient amarrés au quai le plus solidement possible, et les capitaines de vaisseaux regardaient d'un œil inquiet les énormes câbles qui retenaient aux anneaux les navires monumentaux que l'on chargeait ou déchargeait au milieu d'un tapage assourdissant.</p>
@@ -2059,11 +2033,7 @@
           <p>Le chapeau enfoncé sur les yeux, bien serré dans son paletot pour défier le mistral, Albéric Daltier passait devant la Bourse pour se rendre quai du Vieux-Port ; en traversant la petite rue qui contourne les premières maisons de la Canebière, il aperçut la forme svelte d'une jeune femme en costume de voyage, qui discutait avec un homme âgé devant le bureau du rez-de-chaussée portant pour enseigne : « Compagnie générale de navigation, etc. »</p>
           <p>Cette jeune femme avait la tournure fine et distinguée de Mlle Mauduit.</p>
           <p>L'ingénieur, au lieu de poursuivre sa route, tourna la petite rue et s'arrêta net devant le bureau, et put entendre la voix claire de Gilberte prononcer ces mots :</p>
-          <p>
-            -- Ainsi je n'aurai à m'occuper de rien ? Je vous confie mes bagages, et demain matin je n'ai qu'à prendre possession de ma cabine sur le
-            <hi>Guadiana</hi>
-            . Combien de temps mettrons-nous à toucher Barcelone ?
-          </p>
+          <p> -- Ainsi je n'aurai à m'occuper de rien ? Je vous confie mes bagages, et demain matin je n'ai qu'à prendre possession de ma cabine sur le <hi>Guadiana</hi> . Combien de temps mettrons-nous à toucher Barcelone ? </p>
           <p>– Oh ! oh ! cela dépend, car nous voilà aux équinoxes et la mer est mauvaise, surtout dans ce maudit golfe du Lion où les tempêtes sont incessantes. Je ne dis pas cela pour vous effrayer, ma petite dame, ce ne serait pas dans l'intérêt de notre Compagnie, mais vous paraissez brave et...</p>
           <p>Tandis que l'homme parlait, la voyageuse, touchée légèrement à l'épaule, se retournait vivement, prête à foudroyer du regard le passant assez osé pour se permettre cette familiarité.</p>
           <p>Mais elle pâlit sous son voile de gaze grise.</p>
@@ -2164,11 +2134,7 @@
           <p>Il avait senti ce front se glacer sous ses lèvres ; il voyait ces prunelles se voiler, ce visage se décomposer.</p>
           <p>– Ne crains rien, la joie ne tue pas, répondit Mme Daltier en portant secours à la malade.</p>
           <p>Ce ne fut qu'une courte faiblesse et Gilberte rouvrit les yeux pour jouir avec ivresse de son bonheur.</p>
-          <p>
-            De ce jour, la convalescence marcha rapidement, et Gilberte ne regretta pas d'avoir échangé le pont mobile du
-            <hi>Guadiana</hi>
-            contre le toit béni des Daltier.
-          </p>
+          <p> De ce jour, la convalescence marcha rapidement, et Gilberte ne regretta pas d'avoir échangé le pont mobile du <hi>Guadiana</hi> contre le toit béni des Daltier. </p>
           <p>.................................</p>
           <p>On revient d'une messe d'action de grâces à Saint-Charles où toute la famille, y compris Gilberte, a fait la communion pour remercier Dieu d'avoir non seulement guéri le corps, mais encore ramené à lui la brebis égaré.</p>
           <p>Après le déjeuner égayé par une douce causerie et de joyeux projets d'avenir, Gilberte et Albéric s'entretiennent dans le petit salon qui a vu les premières joies pures et les premières désolations de la jeune fille.</p>
