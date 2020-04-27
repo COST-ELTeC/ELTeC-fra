@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02202" xml:lang="fr">
   <teiHeader>
@@ -18,40 +18,52 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">43357</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          Bibliothèque électronique du Québec,
-          <date/>
-              <ref target="http://beq.ebooksgratuits.com"/>
-          .
-        </bibl><bibl type="firstEdition">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
+          <date />
+          <ref target="http://beq.ebooksgratuits.com" />
+        </bibl>
+        <bibl type="firstEdition">
           <date>1867</date>
-             .
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="chapter">
         <p>
@@ -127,7 +139,8 @@
         <p>Dès le lendemain elle prépara les meilleurs vêtements de ses enfants, les habilla de son mieux, et placée sur la porte de la maison, elle les vit partir se tenant par la main : après avoir levé les yeux au ciel, un sourire doux et triste erra sur ses lèvres.</p>
       </div>
       <div type="chapter">
-          <head>II</head>
+
+        <head>II</head>
         <p>Pierre et Christine marchaient, et s'arrêtaient de temps à autre pour glaner un fruit de haie échappé à l'oiseau. On touchait à la fin d'octobre Les champs n'étaient pas encore déserts et les deux enfants saluaient le laboureur qui travaillait réjoui par leur gracieuse apparition.</p>
         <p>Pierre, je le suppose, préparait son discours et ne se sentait peut-être plus si sûr de réussir car il laissait babiller Christine, se contentant de lui répondre oui ou non et encore ne tombait-il pas toujours juste ; mais Christine n'était pas susceptible, il lui suffisait de donner la main à Pierre pour être satisfaite. Christine avait à peine neuf ans, petite et mignonne elle était l'objet de tous les soins de son frère. Et quand, arrivés à moitié chemin, elle dit : « Pierre, je suis lasse. » Pierre la prit sur ses épaules avec empressement. Sans douter du bon cœur de Pierre, nous ne serions pas étonnés que le futur petit marchand ambulant ait saisi l'occasion d'essayer ses forces en songeant à ses futurs exploits.</p>
         <p>Avant d'entrer dans le bourg de Reichshoffen, Pierre remit Christine sur ses pieds, ramena son fichu soulevé par le vent, lissa ses cheveux, donna également un coup d'œil à sa toilette et enfin se moucha. Il marcha résolument alors jusqu'à la porte du château.</p>
@@ -233,11 +246,7 @@
         <p>Christine avait plus ou moins suivi la conversation, elle était bouche béante devant une belle sainte Vierge qui faisait partie de la fenêtre. Jamais la petite fille n'avait vu de si beaux tableaux, tant de gros livres et un monsieur travailler à de l'écriture. Il fallut que la comtesse lui prît la main et l'emmenât à l'office où elle servit elle-même un bon goûter au frère et à la sœur. Petit Pierre était rouge de bonheur et Christine ouvrait les yeux sans dire un mot, mais elle mordait à belles dents dans un morceau de gâteau où se montraient à sa grande satisfaction de petits grains de raisin.</p>
         <p>Hâtons-nous de rendre justice à Petit Pierre : Il avait eu une bien bonne idée. C'est ce qu'il dit à Christine, dès qu'ils furent sortis de la cour du château.</p>
         <p>Je vous laisse à penser quels longs et beaux récits les enfants firent à leur mère en arrivant. Ils ne se possédaient pas de joie. Pierre frissonnait en songeant qu'il aurait pu entrer à la papeterie ou à la forge et passer des années sans rien gagner.</p>
-        <p>
-          L'imagination du petit garçon battait la campagne. Dans son impatience il alla annoncer à ses amis son prochain départ ; il demandait des conseils principalement à Constant Winkel qui passait pour l'homme le plus sage. De quels transports de joie fut saisi Pierre en entendant le vieillard lui dire : « Tu réussiras parce que tu as du courage, sois toujours honnête, ne te presse pas de gagner,
-          <hi>souviens-toi que les petits ruisseaux font les grandes rivières.</hi>
-           »
-        </p>
+        <p> L'imagination du petit garçon battait la campagne. Dans son impatience il alla annoncer à ses amis son prochain départ ; il demandait des conseils principalement à Constant Winkel qui passait pour l'homme le plus sage. De quels transports de joie fut saisi Pierre en entendant le vieillard lui dire : « Tu réussiras parce que tu as du courage, sois toujours honnête, ne te presse pas de gagner, <hi>souviens-toi que les petits ruisseaux font les grandes rivières.</hi>  » </p>
         <p>Madeleine ne causa pas mal, aussi elle, avec ses voisines. La majorité des avis fut que le parti pris était bon, que plus d'un gros marchand avait commencé par vendre dans les campagnes avant d'avoir boutique en ville.</p>
         <p>L'intérêt qu'inspirait la veuve Lipp était sincère. Partout elle reçut des encouragements. Le maire en délivrant un passeport au petit voyageur n'épargna pas les conseils et les recommandations. Il dit à l'enfant ce qu'un marchand peut gagner honnêtement, et ce qu'il serait malhonnête de gagner, quoiqu'il n'y ait point à vrai dire de tarif. Petit Pierre devait viser à se faire une clientèle, il devait passer ici et là à certaines époques de l'année. On lui donnerait la préférence une fois qu'il serait bien connu de ses pratiques.</p>
         <p>Ces discours n'étaient pas seulement d'une douceur infinie aux oreilles de Pierre, il les méditait, se promettant bien d'être digne de la protection de ses bienfaiteurs.</p>
@@ -250,14 +259,13 @@
         <p>Il fut arrêté que le surlendemain Madeleine accompagnerait son fils au château, sa première étape, que Petit Pierre étalerait sa marchandise et qu'on verrait de quoi il était capable.</p>
         <p>Vous le croirez sans peine, dès que la voiture eût disparu les marchandises furent de nouveau inspectées, estimées, quoiqu'on sût déjà qu'il y en avait pour soixante francs.</p>
         <p>Christine voulait tout essayer. Malgré la résistance de Pierre, la petite fille parvint à s'emparer d'une paire de lunettes qu'elle mit sur son nez, et trouva grâce par ses espiègleries.</p>
-        <p>
-          Petit Pierre s'était dit : nos amis vont m'étrenner. Personne ne vint et lorsque l'enfant en témoigna de l'étonnement à sa mère, celle-ci lui répondit : Mon fils,
-          <hi>nul n'est prophète dans son pays.</hi>
+        <p> Petit Pierre s'était dit : nos amis vont m'étrenner. Personne ne vint et lorsque l'enfant en témoigna de l'étonnement à sa mère, celle-ci lui répondit : Mon fils, <hi>nul n'est prophète dans son pays.</hi>
         </p>
         <p>Le soir, Madeleine et ses enfants, agenouillés devant le vieux crucifix de la famille, rendirent grâces à Dieu et après s'être dit bonsoir, ils s'endormirent pleins de confiance dans le lendemain.</p>
       </div>
       <div type="chapter">
-          <head>III</head>
+
+        <head>III</head>
         <p>Petit Pierre, malgré son courage et son enthousiasme pour les voyages, avait pourtant le cœur serré ; heureusement que le soleil perçant peu à peu les nuages vint éclairer la vallée et donner un air de fête aux préparatifs du départ. D'ailleurs sa mère et sa sœur l'accompagnaient.</p>
         <p>Madeleine n'était pas la seule à présumer de la bonne fortune de son fils en le voyant partir bien équipé, la balle sur le dos, son bâton à la main. Les voisins auxquels il dit adieu lui prédirent un glorieux avenir.</p>
         <p>Le fait est que l'heureuse physionomie de Pierre prévenait en sa faveur : un air d'honnêteté et d'intelligence, une allure décidée, tout cela plaisait à ses amis et devait inspirer la confiance aux chalands.</p>
@@ -320,9 +328,7 @@
         </p>
         <p>Des bonnets de coton ! mon idée fixe depuis trois mois ! Il n'y a pas un marchand qui ait eu l'idée d'en apporter. Tous vous disent d'un air dédaigneux : « On n'en porte plus. »</p>
         <p>Petit Pierre, ajouta Rose avec une sorte d'enthousiasme, vous ferez fortune, parce que vous avez des idées. Je vous demande un peu, s'il y a pareille coiffure pour un homme qui s'en va dehors avant le point du jour ? D'ailleurs, ça me rappelle mon père et mon grand-père.</p>
-        <p>
-          « C'est le moment de déballer », pensa Petit Pierre, car élevé à la bonne école des proverbes, il savait qu'
-          <hi>il ne faut jamais remettre au lendemain.</hi>
+        <p> « C'est le moment de déballer », pensa Petit Pierre, car élevé à la bonne école des proverbes, il savait qu' <hi>il ne faut jamais remettre au lendemain.</hi>
         </p>
         <p>Le couvert fut enlevé et notre petit marchand étala sur la table les objets contenus dans le ballot. Rose mit aussitôt la main sur les bonnets de coton, les examina, les détira : « Combien la pièce ? »</p>
         <p>
@@ -332,16 +338,10 @@
         <p>
           <label>ROSE</label>
         </p>
-        <p>
-          Vous êtes un mauvais marchand, Pierre, il fallait me demander cinq sous de plus, justement, parce que c'est ma fantaisie ; mais n'importe, je vous prends au mot, donnez m'en une demi-douzaine, et, comme
-          <hi>les bons comptes font les bons amis</hi>
-          , voilà d'abord sept francs vingt-cinq centimes.
-        </p>
+        <p> Vous êtes un mauvais marchand, Pierre, il fallait me demander cinq sous de plus, justement, parce que c'est ma fantaisie ; mais n'importe, je vous prends au mot, donnez m'en une demi-douzaine, et, comme <hi>les bons comptes font les bons amis</hi> , voilà d'abord sept francs vingt-cinq centimes. </p>
         <p>De tous les proverbes connus de Petit Pierre, celui-ci lui parut le plus juste, le plus fort et le plus gracieux.</p>
         <p>Rose ne s'en tint pas là, elle acheta des bas pour elle, des mitaines pour ses enfants, et, si Charles Müller n'eût pas toussé d'une façon significative, la boutique du petit marchand serait entrée tout entière dans l'armoire de sa femme.</p>
-        <p>
-          À peine Petit Pierre fut-il dans son lit, qu'il s'endormit profondément, et, bien avant le jour, il était sur pied. Il considéra son calepin et sourit de satisfaction en voyant que le gain de sa journée s'élevait à trois francs. Profit tout net, puisque la bonne Rose lui avait donné l'hospitalité. Ma fortune sera bientôt faite, dit tout haut Petit Pierre, si les choses vont de ce train-là ; mais, ajouta-t-il en baissant la voix :
-          <hi>les jours se suivent et ne se ressemblent pas !</hi>
+        <p> À peine Petit Pierre fut-il dans son lit, qu'il s'endormit profondément, et, bien avant le jour, il était sur pied. Il considéra son calepin et sourit de satisfaction en voyant que le gain de sa journée s'élevait à trois francs. Profit tout net, puisque la bonne Rose lui avait donné l'hospitalité. Ma fortune sera bientôt faite, dit tout haut Petit Pierre, si les choses vont de ce train-là ; mais, ajouta-t-il en baissant la voix : <hi>les jours se suivent et ne se ressemblent pas !</hi>
         </p>
         <p>Dès que le brave enfant entendit la porte de la maison s'ouvrir, il descendit. Le son de la cloche lui rappela sa mère : « Elle prie pour moi, j'en suis sûr, pensa Petit Pierre, je vais aller prier pour elle et pour Christine. »</p>
         <p>Il disparut et revint chez Rose qui voulut se fâcher, parce que le café avait trop attendu ; mais quand elle sut que son jeune hôte venait de l'église, elle se calma : « C'est bien, mon enfant, n'oubliez jamais les bons exemples que vous avez reçus de vos parents ; allez votre petit train dans le sentier de la vertu ; évitez les méchants, et je vous réponds, moi, Rose Müller, que la Providence vous protégera. »</p>
@@ -359,18 +359,15 @@
         <p>Le chien tomba dans le piège ; il marchait résolument à côté de son nouveau maître qui ne pouvait détacher les yeux de son compagnon de voyage.</p>
       </div>
       <div type="chapter">
-          <head>IV</head>
+
+        <head>IV</head>
         <p>Nos deux voyageurs gagnèrent la grande route et marchèrent résolument pour arriver à Haguenau, charmante petite ville près de la forêt de ce nom.</p>
         <p>Le chien, qui allait et venait sans cesse, aboyait au moindre bruit ; le souvenir des bontés de Charles et de la bonne Rose, les bénéfices qu'il comptait déjà, occupaient tellement Petit Pierre, qu'il arriva à Haguenau sans s'être aperçu de la longueur de la route, sans même avoir remarqué s'il y avait des maisons où il pût faire quelques affaires.</p>
         <p>La nuit était close, lorsque Petit Pierre entrait à l'auberge du Cheval-Blanc ; sa présence surprit l'hôtelier, mais au nom de Charles Müller, le jeune garçon fut accueilli avec empressement. On l'engagea à s'approcher du poêle, car, dans la journée, le vent d'est s'était élevé et le voyageur en avait souffert.</p>
         <p>Pierre demanda le plus modeste des soupers, et ce fut encore avec une sorte d'embarras, qui aurait pu faire hésiter à le servir, si sa physionomie et son ballot n'eussent répondu pour lui.</p>
         <p>C'était une grande affaire pour ce pauvre enfant d'arriver seul à l'auberge, de demander à souper, un gîte, et enfin de tirer sa bourse pour payer.</p>
         <p>Cependant tout se passa pour le mieux : on servit à Pierre un bon morceau de lard aux choux, du pain et un verre de bière.</p>
-        <p>
-          La maîtresse de l'auberge ne perdit pas de temps pour lui demander d'où il venait et où il allait. À peine Pierre eut-il dit son nom, que la brave femme lui témoigna le plus vif intérêt. Elle se rappela avoir vu Madeleine et ses enfants après le malheur arrivé à la forge. « Comme le temps passe ! Vous voilà maintenant le soutien de la famille. Ayez bon courage ! D'ailleurs, nous autres Alsaciens, nous savons nous tirer d'affaire. Quand nous avons pris l'auberge, nous n'avions que
-          <hi>vingt francs</hi>
-          en poche, et aujourd'hui... » elle n'acheva pas.
-        </p>
+        <p> La maîtresse de l'auberge ne perdit pas de temps pour lui demander d'où il venait et où il allait. À peine Pierre eut-il dit son nom, que la brave femme lui témoigna le plus vif intérêt. Elle se rappela avoir vu Madeleine et ses enfants après le malheur arrivé à la forge. « Comme le temps passe ! Vous voilà maintenant le soutien de la famille. Ayez bon courage ! D'ailleurs, nous autres Alsaciens, nous savons nous tirer d'affaire. Quand nous avons pris l'auberge, nous n'avions que <hi>vingt francs</hi> en poche, et aujourd'hui... » elle n'acheva pas. </p>
         <p>Après avoir donné à souper à Fox qui s'étalait près du poêle, notre Petit Pierre prit possession d'un mauvais grabat, et, comme le couvre-pied était un peu mince, il engagea Fox à prendre place sur le lit. « Pauvre Pierre ! Si Rose voyait son chien faire l'office de couverture, elle serait joliment contente ! »</p>
         <p>La dureté du matelas, les fenêtres mal jointes d'une chambre qui n'est guère habitée que dans la belle saison, n'empêchèrent point le voyageur de dormir jusqu'au point du jour.</p>
         <p>Pierre fut bientôt prêt et dès que la porte de l'église fut ouverte, il s'y rendit avec empressement, voulant demander à Dieu de nouvelles forces pour réussir dans son entreprise. Il admira les trois autels en bois sculpté qui font le principal ornement de cette belle église.</p>
@@ -433,11 +430,7 @@
         </p>
         <p>Mon enfant, ne perdez pas courage ; mais croyez-moi, à votre âge, c'est imprudent d'entrer dans des maisons comme les nôtres. Ayez vos petites provisions et n'entrez que pour boire un verre de bière ; car vous avez pris un état bien dangereux, mon ami. Êtes-vous sans parents ?</p>
         <p>Et, sur l'invitation de l'hôtesse, Pierre s'assit et lui raconta son histoire.</p>
-        <p>
-          « Après tout, dit la bonne femme, vous pouvez réussir !... on a vu cela ; mais, puisque vous allez à Strasbourg, je vais vous indiquer les bons endroits : vous entrerez par la porte de pierre ; allez à la
-          <hi>Haute-Montée</hi>
-          . Ce sont de braves gens qui ménageront votre bourse ; vous vous laisserez guider par eux pour vos achats, et surtout, lorsque vous repasserez, ne manquez pas d'entrer chez nous ? »
-        </p>
+        <p> « Après tout, dit la bonne femme, vous pouvez réussir !... on a vu cela ; mais, puisque vous allez à Strasbourg, je vais vous indiquer les bons endroits : vous entrerez par la porte de pierre ; allez à la <hi>Haute-Montée</hi> . Ce sont de braves gens qui ménageront votre bourse ; vous vous laisserez guider par eux pour vos achats, et surtout, lorsque vous repasserez, ne manquez pas d'entrer chez nous ? » </p>
         <p>Ce cordial discours fut terminé par l'achat d'un cent d'aiguilles et d'une paire de bas blancs. C'était plus que n'avait osé espérer Petit Pierre.</p>
         <p>Bischwillers ne manque pas de boutiques, et notre voyageur avait remarqué, en traversant la ville, plus d'un marchand lui lançant un regard de pitié.</p>
         <p>Petit Pierre suivit le conseil de l'hôtesse ; il mit dans sa poche quelques provisions, et bien il fit, car trois lieues de plaines arides le séparaient de Hert où il devait faire sa prochaine étape.</p>
@@ -460,15 +453,12 @@
           <label>LE VIEILLARD</label>
         </p>
         <p>Adieu donc : que le chemin te soit facile ! Puisse le souvenir de ta bonne action rendre ton fardeau léger !</p>
-        <p>
-          Peut-être êtes-vous surpris, comme le fut Pierre, de tant de bénédictions pour un morceau de pain donné de bon cœur. Il ne faut pas vous en étonner :
-          <hi>La plus petite aumône porte avec elle sa récompense</hi>
-          . Si vous aviez vu Pierre rouge d'émotion, regardant le vieillard reprendre le chemin de la maison, vous eussiez envié son bonheur. N'attendez pas d'être grand pour faire l'aumône ; donnez ce que vous avez, et certes, vous possédez beaucoup plus que ne possédait notre petit voyageur.
-        </p>
+        <p> Peut-être êtes-vous surpris, comme le fut Pierre, de tant de bénédictions pour un morceau de pain donné de bon cœur. Il ne faut pas vous en étonner : <hi>La plus petite aumône porte avec elle sa récompense</hi> . Si vous aviez vu Pierre rouge d'émotion, regardant le vieillard reprendre le chemin de la maison, vous eussiez envié son bonheur. N'attendez pas d'être grand pour faire l'aumône ; donnez ce que vous avez, et certes, vous possédez beaucoup plus que ne possédait notre petit voyageur. </p>
         <p>Le souvenir de cette rencontre contribua beaucoup à distraire le fils de Madeleine, et il arriva frais et dispos. Il ne tarda pas à faire des connaissances. Pierre était si honnête, sa physionomie inspirait une si grande confiance, que plus d'une ménagère se laissa prendre à ses discours. Il y avait tant de sincérité dans sa voix ! Aussi fit-il de bonnes affaires à Hert. Il s'y reposa largement et se remit en route le cœur tout joyeux.</p>
       </div>
       <div type="chapter">
-          <head>V</head>
+
+        <head>V</head>
         <p>En quittant Hert, Pierre eut trois lieues à faire à travers des plaines arides. Il faisait froid, car on était à la fin de novembre, et l'Alsace, dont je n'ai nulle envie de dire du mal, est un pays froid.</p>
         <p>La neige tombait, Petit Pierre bénissait la comtesse en sentant ses jambes si bien emprisonnées dans ses guêtres ; il contemplait avec une certaine philosophie la neige qui formait déjà une couche épaisse sur son manteau de toile cirée. Puis de temps à autre, il faisait disparaître son vêtement blanc, en donnant de bons coups de coudes.</p>
         <p>Ces journées étaient pénibles, et Pierre supportait le présent en songeant à l'avenir : « Quand je reviendrai, les haies et les prairies seront vertes. Combien aurai-je gagné ? D'abord, j'irai au château porter un petit à-compte, comme c'est convenu, et le reste sera mis dans l'armoire, juste dans le sac où mon père mettait l'argent qu'il rapportait tous les samedis ! que de choses j'aurai à conter ! »</p>
@@ -476,11 +466,7 @@
         <p>Nous ne suivrons pas Pierre dans toutes ses courses, il nous suffira de savoir que la vente allait si bien, que c'était devenu une nécessité d'aller s'approvisionner à Strasbourg. Strasbourg ! terme de l'ambition de Petit Pierre.</p>
         <p>La veille de Noël, notre cher petit voyageur n'était plus qu'à une lieue de la capitale de l'Alsace ; la campagne était couverte de neige. Des jeux bruyants avaient lieu dans un parc : des enfants riaient, gambadaient sur la neige, se réjouissant de la belle fête dont le jour approchait.</p>
         <p>« Oh ! dit une petite fille, en apercevant Pierre, s'il avait quelque chose de joli pour mettre à l'arbre de Noël ! Maman l'achèterait, car elle n'a pas voulu que Brigitte allât à Strasbourg pour acheter des surprises, et ma bonne m'a dit que notre arbre ne serait pas aussi beau que celui de l'année dernière. » La petite Cécile parlait avec une conviction qui passa dans l'âme des frères et sœurs. « Petit marchand, attendez un peu ! » Et toute la bande s'envola, comme une nuée d'oiseaux vers un sillon aux épis d'or.</p>
-        <p>
-          La pensée de Cécile fut très appréciée par la famille. Brigitte alla chercher le petit marchand. À en croire ces messieurs et ces demoiselles, il fallait sans tarder que Pierre déballât ; mais cet enfant était déjà pour Mme Franck l'objet d'une tendre sollicitude. Son passage devant le château devait lui porter bonheur. Brigitte fut chargée de prendre soin de lui, et, certes la brave femme s'en acquitta bien ! Elle conduisit Pierre au poêle
-          <hi>*(1)</hi>
-          *, l'aida à se débarrasser de son manteau, et le fit causer.
-        </p>
+        <p> La pensée de Cécile fut très appréciée par la famille. Brigitte alla chercher le petit marchand. À en croire ces messieurs et ces demoiselles, il fallait sans tarder que Pierre déballât ; mais cet enfant était déjà pour Mme Franck l'objet d'une tendre sollicitude. Son passage devant le château devait lui porter bonheur. Brigitte fut chargée de prendre soin de lui, et, certes la brave femme s'en acquitta bien ! Elle conduisit Pierre au poêle <hi>*(1)</hi> *, l'aida à se débarrasser de son manteau, et le fit causer. </p>
         <p>
           <label>BRIGITTE</label>
         </p>
@@ -533,15 +519,11 @@
         <p>Tout à coup, un Noël populaire vint réjouir son cœur. Petit Pierre avait une belle voix ; il se mit à chanter, et à chanter si bien, que Cécile, endormie dans les bras de sa bonne, se réveilla et ne s'endormit plus.</p>
         <p>Jamais, non jamais cette douce hospitalité ne s'effacera du souvenir de Pierre.</p>
         <p>Profitant de la bienveillance dont il se voyait l'objet, et s'apercevant qu'il avait vendu toutes ses plumes, il s'adressa à Brigitte pour la prier de lui en procurer une, car il voulait écrire à sa mère ; mais Brigitte n'en avait point, par l'excellente raison qu'elle ne savait pas écrire : « C'est égal, dit-elle, asseyez-vous là ? » Et Petit Pierre vit venir Cécile avec plume, encre et papier. La petite fille resta près de Pierre tout le temps qu'il écrivit. Elle était émerveillée du savoir de son protégé ; debout, la tête penchée, Cécile suivait avec intérêt la main de Pierre, disant à chaque minute : « Qu'est-ce que tu lui écris ? » Un sourire était la réponse. Plus heureux que Cécile, lisons la lettre que Petit Pierre écrivait à sa mère :</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>Dans un beau château, 25 décembre.</p>
         <p>« Ma bonne mère.</p>
         <p>« La date de cette lettre ne te surprendra pas plus que je ne suis surpris moi-même. Ah ! quand on voyage, il arrive toutes sortes d'histoires ! Jusqu'ici, les miennes sont charmantes. Figure-toi qu'il ne me restait plus qu'une lieue à faire pour arriver à Strasbourg, lorsque, passant près d'un beau parc où des enfants faisaient des boules de neige, on m'a appelé, fait entrer, et une petite Cécile âgée de six ans qui a les yeux noirs et les cheveux blonds comme ma sœur, m'a conduit en triomphe chez sa maman. Oh ! mère, qu'il y a de bons riches en ce monde 1 Mme Frank la mère de Cécile m'a acheté tout ce qui restait dans mon ballot. Elle m'a remis deux pièces d'or. Oui, tu ne te trompes pas, ni moi non plus : deux pièces d'or. Il y avait un arbre de Noël magnifique, et Petit Pierre a été posté au haut de l'arbre avec toutes ses marchandises. Quel bel effet je devais faire au milieu des petites bougies bleues et roses, des fleurs et de la verdure ! J'ai été adjugé à ma petite protectrice qui a distribué tous les objets dont elle était maîtresse.</p>
-        <p>
-          « Mme Frank m'a engagé à rester. Je crois bien, mère, que j'étais ce qu'on appelle, le jour des rois,
-          <hi>la part du bon Dieu</hi>
-          , et je t'avoue que j'en suis fier.
-        </p>
+        <p> « Mme Frank m'a engagé à rester. Je crois bien, mère, que j'étais ce qu'on appelle, le jour des rois, <hi>la part du bon Dieu</hi> , et je t'avoue que j'en suis fier. </p>
         <p>« J'ai assisté à la messe de minuit. Je me disais : « Bien sûr, ma mère y est allée, Christine aussi. » Il me semblait être à côté de vous et que nous priions tous les trois ensemble. J'étais content, tranquille au milieu de ce bon monde, lorsqu'on s'est mis à chanter le Noël que tu aimes tant, et que le père nous chantait, quand nous étions petits. Alors, sans faire attention aux larmes que je sentais rouler sur mes joues, moi, qui ne suis pas hardi, j'ai entonné.</p>
         <p>« J'ai dormi dans un bon lit. Déjà j'ai bien déjeuné, et, après avoir achevé la lettre que je t'écris en compagnie de Mlle Cécile, très étonnée de ma science, j'irai remercier d'abord les maîtres, ensuite les domestiques et je me mettrai en route pour la grande ville.</p>
         <p>« Mère, ne te tourmente pas ; tu vois que le ciel me protège. Encore un peu de patience et je reviendrai, et nous travaillerons ensemble à notre petit champ.</p>
@@ -550,7 +532,7 @@
       <div type="chapter">
         <p>« PETIT PIERRE »</p>
         <p>P. S. Mes respects à nos dignes protecteurs et aux bons voisins. Je n'ai pas encore d'engelures, c'est peut-être, parce que j'ai pris pour mon compte une bonne paire de gants. Ce n'est pas, je t'assure, par câlinerie, mais je ne voudrais pas déplaire au monde, avec mes vilaines mains. »</p>
-        <milestone type="subChapter" rend="other" unit="other"/>
+        <milestone type="subChapter" rend="other" unit="other" />
         <p>Petit Pierre s'éloigna le cœur plein de reconnaissance et fit la promesse de ne jamais passer devant le château sans y entrer.</p>
         <p>Il trouva bientôt un bureau de poste, il affranchit sa lettre, et la jeta dans la boîte avec un sentiment de fierté.</p>
         <p>Il faisait grand froid, les chevaux tiraient péniblement leur fardeau, car le sol était glissant ; Pierre voyait qu'il approchait d'une grande ville. Le cœur lui battait. « Comment allait-il s'en tirer ? »</p>
@@ -587,7 +569,8 @@
         <p>La Robertsau, la brasserie, tout s'effaça du souvenir de Pierre. Il ne pouvait s'expliquer la hardiesse avec laquelle il avait agi. Comment avait-il osé faire un coup pareil ? Son cœur lui répondit.</p>
       </div>
       <div type="chapter">
-          <head>VI</head>
+
+        <head>VI</head>
         <p>Le jeune paysan perdait chaque jour de sa timidité ; son allure devenait de plus en plus assurée et, passant quelques heures plus tard devant la brasserie du Dauphin, il entra et prit intérêt à tout ce qui se faisait autour de lui.</p>
         <p>Un garçon de seize à dix-huit ans vint s'asseoir près de Pierre et le questionna. « Car, dit-il, vous êtes étranger comme moi. » À ce mot d'étranger, Pierre réclama, et il se mit à parler de son pays et à raconter son histoire.</p>
         <p>
@@ -646,11 +629,7 @@
         <p>Pierre refusa ; il se disposait à partir, lorsque l'inconnu lui tendit la main : « Touchez là, vous êtes un brave garçon. Maintenant, un petit conseil. Si vous voulez faire un gain qui en vaille la peine, traversez le Rhin, allez dans les villes d'Eaux pendant la belle saison. Vous trouverez là des gens qui dépensent plus d'argent dans un mois que toute l'année chez eux. Nous sommes de véritables distractions pour ce beau monde ; le tout est de savoir s'y prendre. Bon voyage ! »</p>
         <p>Jamais Pierre n'avait entendu un pareil langage ! Ce jeune homme paraissait honnête, pourtant il faisait la contrebande et il lui avait conseillé de la faire. À l'en croire, c'était le seul moyen de s'enrichir.</p>
         <p>Pierre était soucieux, mal à son aise ; il fut tout étonné de se trouver dans la rue des Grandes-Arcades. La vue du Munster le rappela à lui-même, il dirigea ses pas de ce côté. Cette fois-ci, la curiosité n'était pour rien dans la démarche de Petit Pierre. Il avait besoin de prier, de raffermir son cœur.</p>
-        <p>
-          « Et pourquoi faire fortune si vite ? se disait le brave enfant, j'en ai bien le temps. Je gagnerais un peu chaque année, je n'en demande pas davantage. D'ailleurs je n'ai aucun goût pour ce vilain métier de contrebandier ; je suis sûr que je me laisserais prendre, comme un oiseau dans le filet de l'oiseleur. Ce n'est pas seulement parce que j'ai promis à M. le comte de ne pas faire la contrebande ; mais je me suis promis à moi-même d'être toujours honnête. Pourvu que ma bonne étoile se maintienne, j'apporterai au moins
-          <hi>cent francs ! cent francs !</hi>
-          Dame ! j'aurai fait bien des pas aussi ! »
-        </p>
+        <p> « Et pourquoi faire fortune si vite ? se disait le brave enfant, j'en ai bien le temps. Je gagnerais un peu chaque année, je n'en demande pas davantage. D'ailleurs je n'ai aucun goût pour ce vilain métier de contrebandier ; je suis sûr que je me laisserais prendre, comme un oiseau dans le filet de l'oiseleur. Ce n'est pas seulement parce que j'ai promis à M. le comte de ne pas faire la contrebande ; mais je me suis promis à moi-même d'être toujours honnête. Pourvu que ma bonne étoile se maintienne, j'apporterai au moins <hi>cent francs ! cent francs !</hi> Dame ! j'aurai fait bien des pas aussi ! » </p>
         <p>Pierre rentra à l'auberge de la Haute-Montée, il trouva l'aubergiste sur la porte : « Savez-vous, Pierre, que je commençais à m'inquiéter de vous ? Il y a tant de monde dans ce Strasbourg ! Et, un dimanche surtout, un garçon comme vous peut être entraîné par une mauvaise connaissance. Entrez donc vous chauffer ? »</p>
         <p>Pierre était toujours heureux, quand une bonne mère de famille lui témoignait de l'intérêt ; il se sentait moins loin de son village. Il obéit et raconta sa journée en passant l'épisode de la Robertsau.</p>
         <p>« Voyez les vauriens ! dit Mme Knops, vouloir engager l'innocence dans le commerce frauduleux ! Eh ! bien, c'est moi qui le leur prophétise, ils retourneront chez eux plus pauvres qu'ils n'en sont partis. Faire la contrebande ! être traqué comme un lièvre ! ça ne vous irait pas ! cependant il ne faut rien exagérer, Pierre. Un supposé qu'un jour ou l'autre vous seriez dans des pays de dentelles, vous pensez à moi, et vous mettez trois mètres de dentelles dans votre soulier : c'est de l'amitié ça ! »</p>
@@ -774,9 +753,7 @@
         <p>Après avoir donné à la conversation le temps nécessaire pour ne pas mériter le nom d'ingrat, il embrassa Mme Knops, prit son ballot et se dirigea vers le Breuil, suivi de Fox.</p>
         <p>La domestique était prévenue de cette visite. Elle sourit en voyant Pierre, l'introduisit dans une cuisine dont le fourneau brillait comme l'or, et le fit asseoir, pendant qu'elle allait avertir sa maîtresse. Celle-ci vint sans tarder : sur son invitation, Pierre la suivit dans la salle à manger où il étala ses marchandises. Mme Fritz essaya vainement de l'empêcher de sortir de son ballot tous les objets, le petit marchand disposa sur la table un étalage plein d'ordre et de goût.</p>
         <p>Pierre revit ses marchandises avec un plaisir qu'il n'essayait pas de dissimuler. Je ne suis pas sûre que, dans son esprit, ses rubans d'or et d'argent, ses bas de laine et ses fichus noirs à petits pois blancs ne l'emportassent sur la vue de la plate-forme de la cathédrale.</p>
-        <p>
-          Mme Fritz fit des emplettes sérieuses. Pierre n'en revenait pas, il baissait les yeux et semblait intimidé de sa fortune ! La cuisinière et une autre fille achetèrent aussi quelques petits objets. Enfin Pierre mit dans sa bourse
-          <hi>vingt-deux francs.</hi>
+        <p> Mme Fritz fit des emplettes sérieuses. Pierre n'en revenait pas, il baissait les yeux et semblait intimidé de sa fortune ! La cuisinière et une autre fille achetèrent aussi quelques petits objets. Enfin Pierre mit dans sa bourse <hi>vingt-deux francs.</hi>
         </p>
         <p>Il replia tout avec un ordre parfait, sans se hâter. Chaque fois qu'il mettait de l'argent dans sa bourse, il pensait à sa mère. Le vieillard lui revenait aussi en mémoire.</p>
         <p>Enhardi par tant de bonté, le petit marchand consulta Mme Fritz sur le chemin qu'il devait prendre.</p>
@@ -786,7 +763,8 @@
         <p>Il partit, et lorsqu'il eut fait quelques pas, il se retourna et considéra longtemps la maison où il avait eu tant de bonheur.</p>
       </div>
       <div type="chapter">
-          <head>VII</head>
+
+        <head>VII</head>
         <p>L'intérêt que nous inspire le fils de Madeleine ne nous permet cependant pas de le suivre d'étape en étape, de séjourner avec lui dans chaque village et d'assister à la vente plus ou moins heureuse de ses marchandises. Disons toutefois que Pierre ne se ressentait plus de sa chute, qu'il faisait, sans trop de fatigue, ses deux ou trois lieues par jour.</p>
         <p>Le voici arrivé dans la vallée de Saverne, au pied des Vosges ; la fonte des neiges avait grossi la rivière et tous les ruisseaux. Dans la belle saison, cette contrée est une des plus gracieuses de la France ; le voyageur qui la traverse une fois s'en souvient toujours. Là, ce sont des collines où s'échelonnent des vignes soigneusement cultivées ; plus loin, des prés dont une rivière entretient la fraîcheur ; çà et là, de petites villes dans des plaines coupées de ruisseaux, qu'ombragent des saules et des peupliers.</p>
         <p>Au moment où nous rejoignons Pierre dans la vallée de Saverne, rien de tout cela n'existait. Cependant de même que les traits de l'homme rappellent dans l'âge mûr les charmes de la jeunesse, les ruisseaux, les prairies, les sentiers de la colline ont encore le pouvoir de fixer l'attention du voyageur : il pressent les beautés du printemps.</p>
@@ -815,7 +793,8 @@
         <p>Le maître d'école le regardait avec une sorte d'admiration : « Espère, dit-il, en posant la main sur la tête de son jeune ami. Dieu bénira ta courageuse confiance. Non, ajouta-t-il en soupirant, tous les hommes ne sont pas méchants ; mais ne te fie qu'à ceux qui craignent Dieu. »</p>
       </div>
       <div type="chapter">
-          <head>VIII</head>
+
+        <head>VIII</head>
         <p>Le lendemain, au point du jour, Pierre embrassait son respectable hôte. Par les soins de celui-ci, de bonnes provisions avaient été préparées pour le voyageur. Son ballot, devenu léger, lui rendait la marche facile. D'ailleurs, il était parfaitement remis de la terrible secousse qu'il avait éprouvée.</p>
         <p>C'était en avril : il fait encore froid en Alsace à cette époque de l'année ; mais pourtant, il y a un commencement de végétation qui réjouit le cœur. L'air était pur ; les oiseaux prenaient possession de leur nid, tout était gai autour de Pierre, qui ne se sentait pas d'aise de marcher librement vers Strasbourg, où le maître d'école lui avait conseillé de retourner.</p>
         <p>Il éprouva une joie d'enfant à la vue d'un nid de cigognes, perché sur le haut d'une ruine abandonnée. C'était de bonne augure. Les beaux jours n'étaient pas loin ! Pierre en savait bien long sur les cigognes. Quand il était petit, sa mère lui racontait des merveilles sur le compte de ces oiseaux et, tout en marchant, il repassait dans son esprit ce qui l'avait tant amusé autrefois : « Oui, pensait-il, c'est de bonne augure de les voir revenues à leur nid ; il n'y a pas de danger qu'elles aillent ailleurs ; elles sont fidèles, quoique voyageuses. Mesdames les cigognes n'aiment que le beau temps ; c'est comme le monsieur de la forge, qui va dans les pays chauds, quand il neige chez nous, et ne revient qu'en été ! Sont-elles adroites ! C'est incroyable ! Dire que des oiseaux bâtissent leur nid avec des morceaux de bois et des herbes de marais, sans doute parce que ces herbes sont plus solides. »</p>
@@ -897,7 +876,8 @@
         <p>Comment dire ce qui se passa dans le cœur de Pierre, à la première rencontre qu'il fit ? au premier bonjour de connaissance qu'il échangea ? Autrefois, ce garçon qui passe, lui était indifférent ; mais à ce moment, il se rappelle que la maison qu'il habite au village est près de celle de sa mère ; et c'est assez pour qu'il tressaille de joie en l'apercevant. Il l'interroge : les nouvelles sont bonnes ! Alors il redouble le pas et il est bientôt au terme de sa course.</p>
       </div>
       <div type="chapter">
-          <head>IX</head>
+
+        <head>IX</head>
         <p>La vallée de Niederbronn, encaissée dans la montagne, conserve longtemps une température froide et humide ; la porte de la chaumière ne s'ouvre pas aux premiers rayons de soleil et le soir, quand le travail des champs est fini, le foyer s'anime.</p>
         <p>Cependant, au moment où Pierre arrivait, la fenêtre de la chaumière de sa mère était ouverte, et une petite fille que le voyageur reconnut bien vite pour être Christine, était montée sur une chaise et nettoyait les vitres avec un zèle qui eût attiré l'attention du premier passant.</p>
         <p>Pierre resta longtemps en admiration devant la petite ménagère, puis, s'avançant, il vit sa mère au coin du feu. Il approche, souffle sur un carreau. Aussitôt Christine, leste comme l'oiseau, saute à terre, cherchant le téméraire qui a osé commettre un acte pareil, car c'était la première fois qu'elle venait d'accomplir ce travail de ménage.</p>
@@ -941,7 +921,8 @@
         <p>Cette fois le jeune Lipp devait monter sur l'impériale d'une voiture du pays et se rendre directement à Strasbourg. Sa mère et Christine vinrent avec lui sur la route attendre la voiture qu'ils aperçurent enfin dans un nuage de poussière ; et, les derniers embrassements étant donnés et reçus, Pierre grimpa lestement sur l'impériale. Le cocher fouetta ses chevaux. La veuve et sa fille restèrent à la même place, répondant aussi longtemps que possible aux signes du voyageur.</p>
       </div>
       <div type="chapter">
-          <head>X</head>
+
+        <head>X</head>
         <p>Nous ne cacherons point au lecteur que Pierre, assis sur l'impériale d'une mauvaise diligence en compagnie des pommes de terre et des prunes, se faisait beaucoup d'effet à lui-même. Il n'était donc déjà plus ce pauvre enfant marchant un bâton à la main ! Et qui aurait pu dire que l'année suivante il n'entrerait pas dans la voiture, si bon lui semblait ?</p>
         <p>Sans perdre de vue le paysage, notre voyageur faisait ses ballots de ceci de cela, calculait ses débours et ses profits, et cette fois il consentait à profiter du crédit que lui avaient offert plusieurs marchands de la ville.</p>
         <p>L'aubergiste de la Haute-Montée l'accueillit comme son enfant ; la brave femme voulut que le premier repas pris chez elle fût celui de l'hospitalité.</p>
@@ -969,11 +950,7 @@
         <p>Pierre devenait touriste sans cesser d'être marchand. M. Vincent eût été vraiment heureux, s'il avait pu le voir s'arrêtant pour contempler un joli village éclairé par le soleil couchant, grimper sur la montagne pour mieux voir le pays dont la beauté était un adoucissement à ses fatigues.</p>
         <p>Cependant la saison s'annonçait favorable aux voyageurs. Bade, cette ville si vantée par son vieil ami, verrait bientôt arriver les étrangers et, quoique Lipp n'eût pas de marchandises à offrir au monde élégant, il espérait, en s'y prenant bien, ne pas perdre son temps.</p>
         <p>Il mit bon ordre à ses admirations et avança rapidement vers Offenhourg ; il arriva par la forêt Noire à Gernsbach, et, au bout de quelques jours, il faisait son entrée à Bade.</p>
-        <p>
-          Le pauvre Pierre crut rêver en voyant de tous côtés des jardins remplis de fleurs et une foule de personnes qui se promenaient semblant n'avoir à faire que cela ; jamais il n'avait vu pareilles toilettes ! Au lieu d'aller à l'auberge, il s'avança dans la grande allée et resta stupéfait devant une grande maison à colonnes, sur laquelle il lut :
-          <hi>Conversation</hi>
-          . Ce mot l'intrigua beaucoup : « Si M. Vincent était ici, il me dirait certainement ce que cela signifie. » Il fut tiré de ses réflexions par le son d'une musique ravissante. Il resta cloué à sa place, oubliant le poids dont ses épaules étaient chargées, et ne se retira que sur l'avis qui lui en fut donné.
-        </p>
+        <p> Le pauvre Pierre crut rêver en voyant de tous côtés des jardins remplis de fleurs et une foule de personnes qui se promenaient semblant n'avoir à faire que cela ; jamais il n'avait vu pareilles toilettes ! Au lieu d'aller à l'auberge, il s'avança dans la grande allée et resta stupéfait devant une grande maison à colonnes, sur laquelle il lut : <hi>Conversation</hi> . Ce mot l'intrigua beaucoup : « Si M. Vincent était ici, il me dirait certainement ce que cela signifie. » Il fut tiré de ses réflexions par le son d'une musique ravissante. Il resta cloué à sa place, oubliant le poids dont ses épaules étaient chargées, et ne se retira que sur l'avis qui lui en fut donné. </p>
         <p>À l'hôtel où il entra, Pierre ne trouva point la sympathie qu'on lui avait témoignée à la Haute-Montée. À Bade, on spécule sur tout étranger. La saison des eaux fait la fortune des habitants, et l'on compte rigoureusement avec les voyageurs, quelle que soit leur condition.</p>
         <p>Petit Pierre avait du bon sens : il se dit que sans doute ses dépenses seraient proportionnées à ses profits. Il commença par souper, puis il dormit jusqu'au lendemain.</p>
         <p>Avant de prendre sa caisse sur ses épaules, il voulut se promener un peu pour son propre compte, et il fut bien autrement émerveillé que la veille, en apercevant l'église et le château s'élevant au-dessus de la vieille ville, les hôtels et les beaux monuments de la nouvelle ville, la promenade, appelée le Graben sous laquelle descend un torrent qui va se jeter dans une rivière.</p>
@@ -985,11 +962,7 @@
         <p>– Alsacien.</p>
         <p>– Nous aimons beaucoup l'Alsace et ses habitants. »</p>
         <p>Ce compliment était accompagné de bonnes pièces que Pierre mettait dans sa bourse.</p>
-        <p>
-          Encouragé par de tels résultats, le petit marchand résolut de rester à Bade tant que les affaires iraient bien. Il ne tarda pas à être connu sous le nom de
-          <hi>l'Alsacien</hi>
-          . On l'appelait ; on lui voulait du bien.
-        </p>
+        <p> Encouragé par de tels résultats, le petit marchand résolut de rester à Bade tant que les affaires iraient bien. Il ne tarda pas à être connu sous le nom de <hi>l'Alsacien</hi> . On l'appelait ; on lui voulait du bien. </p>
         <p>Ce qui mettait le comble à son bonheur c'était de voir les marchandises d'Alsace filer avec les autres, selon son expression.</p>
         <p>Le dimanche, il fermait boutique et se promenait, comme un rentier. Il flânait aux sources et se divertissait beaucoup de voir les dames et les messieurs déguster de l'eau claire. Au bout de trois semaines, il connaissait tout le pays et il aurait pu se proposer comme guide aux étrangers, lorsqu'il quitta Bade deux mois plus tard.</p>
         <p>Le petit colporteur avait renouvelé plusieurs fois son fonds, il avait rempli ses engagements, et, tous comptes faits, quinze beaux louis étaient la récompense de son active industrie et de ses peines.</p>
@@ -1003,7 +976,8 @@
         <p>Le lendemain, dès que la porte s'ouvrit, il sortit de la ville, entra dans la forêt, et ne s'arrêta qu'à Eberstein. La solitude et la beauté de la campagne firent une heureuse impression sur son âme, il se sentit moins malheureux, lorsqu'il eut pleuré. Mais cette pensée revenait sans cesse : « J'ai joué, j'ai perdu vingt francs ! M. Vincent ne m'avait-il pas fait promettre de ne jamais entrer dans une salle de jeu ? J'ai manqué à ma parole ! vingt francs ! Que de choses utiles j'aurais pu acheter pour la maison ! »</p>
       </div>
       <div type="chapter">
-          <head>XI</head>
+
+        <head>XI</head>
         <p>Le soleil s'était levé radieux, la forêt embaumait, et déjà les promeneurs se montraient sur la route, Pierre ne bougeait pas. Il fut tiré de sa rêverie par la présence d'une jeune personne qui était accompagnée de son frère. L'un et l'autre regardèrent beaucoup le colporteur, ils s'éloignaient et revenaient sur leurs pas. Enfin la jeune fille lui dit :</p>
         <p>Est-ce que vous êtes malade ?</p>
         <p>
@@ -1142,7 +1116,8 @@
         <p>Il s'achemina ensuite rapidement vers Carlsruhe par la forêt.</p>
       </div>
       <div type="chapter">
-          <head>XII</head>
+
+        <head>XII</head>
         <p>Pierre marchait depuis quelque temps, lorsqu'il crut entendre des pleurs d'enfant. Il écoute... et ne peut douter de la réalité. Quel homme eût continué son chemin ?</p>
         <p>Le voilà donc, cherchant à s'orienter, appelant, allant à gauche, à droite, revenant sur ses pas. Enfin il aperçut une petite fille d'environ cinq ans étendue par terre : sa robe blanche était déchirée et sale, un mouchoir attaché sur ses yeux n'empêchait pas de voir couler ses larmes en abondance.</p>
         <p>Pierre hâta le pas, en dépit des obstacles. Au bruit qu'il fit, l'enfant dit : « Monsieur, ne me tuez pas, je vous en prie, papa et maman auraient trop de chagrin ! » et elle se releva en cherchant à fuir.</p>
@@ -1320,12 +1295,9 @@
         <p>Nous plaindrions le lecteur qui s'aviserait de trouver exagérée la reconnaissance de M. et de Mme de Vernes ; car nous n'hésitons pas pour notre part à déclarer que bien des statues ont été élevées à des hommes qui n'avaient pas mieux mérité que notre Petit Pierre : il n'est pas une mère, pas un père qui ne soit de notre avis.</p>
       </div>
       <div type="chapter">
-          <head>XIII</head>
-        <p>
-          Les adieux sont faits : Petit Pierre (nous aimons à l'appeler encore ainsi) est installé dans un wagon de 2e classe, car en Allemagne il n'y a guère que les princes qui abordent la 1re classe, et notre voyageur n'était pas encore un prince. Toutefois, il avait bien bon air ! Un sac de nuit à monture de cuivre fermé par un cadenas, et bien rempli était entre ses jambes. Maître Pierre n'avait point de
-          <hi>guide Joanne</hi>
-          à la main, il se contentait de regarder par la portière et de lire tant bien que mal le nom des stations. De temps à autre il croisait ses bras et disait tout haut : C'est incroyable !
-        </p>
+
+        <head>XIII</head>
+        <p> Les adieux sont faits : Petit Pierre (nous aimons à l'appeler encore ainsi) est installé dans un wagon de 2e classe, car en Allemagne il n'y a guère que les princes qui abordent la 1re classe, et notre voyageur n'était pas encore un prince. Toutefois, il avait bien bon air ! Un sac de nuit à monture de cuivre fermé par un cadenas, et bien rempli était entre ses jambes. Maître Pierre n'avait point de <hi>guide Joanne</hi> à la main, il se contentait de regarder par la portière et de lire tant bien que mal le nom des stations. De temps à autre il croisait ses bras et disait tout haut : C'est incroyable ! </p>
         <p>Le colporteur fut obligé de convenir avec lui-même qu'il n'était pas fâché d'être bien assis et de voyager sans le secours de ses jambes. Il était tout surpris de se voir en compagnie de belles dames qui ouvraient et fermaient d'élégants sacs de voyage et en tiraient une foule d'objets utiles et inutiles. Il en prit note et se promit bien de se mettre en mesure de satisfaire à toutes les exigences des voyageurs.</p>
         <p>En chemin de fer on lie aisément connaissance ; une étude préparatoire est nécessaire cependant ; on examine son vis-à-vis, son voisin, en cherchant à deviner ce qu'ils sont, d'où ils viennent et quel peut être le but de leur voyage.</p>
         <p>Pierre n'éprouvait aucune difficulté de ce genre ; il voyait bien que les personnes présentes étaient des gens riches qui se promenaient dans ce pays. Mais lui, piquait au vif la curiosité des autres : ce n'était ni un paysan ni un monsieur, comment se trouvait-il à cette place ? Sa bonne tenue et sa physionomie honnête et charmante prévenaient en sa faveur ; on le regardait beaucoup. Deux jeunes personnes chuchotaient, prenaient leur livre et chuchotaient encore. Un petit incident rompit la glace : une d'elles ouvrait une orange par la portière, elle laissa tomber son couteau d'argent. L'intérêt fut général et Pierre crut pouvoir se permettre d'offrir un couteau. La dame accepta ; la conversation prit un tour cordial auquel il eut été difficile de résister.</p>
@@ -1450,15 +1422,14 @@
         <p>Un beau matin, Pierre partit pour Manheim. Cette fois-ci, il monta en troisième, se disant qu'il ne fallait pas prendre au mot les conseils pleins de générosité de M. de Vernes. À mesure que Pierre s'éloignait de Carlsruhe, il reprenait ses allures d'autrefois.</p>
         <p>En moins d'une heure il se trouva transporté à Manheim. Il avait pris du goût aux promenades de touriste, et il regrettait la société de M. Letourneurs et de ses filles.</p>
         <p>Pierre se plaisait cependant beaucoup à Manheim : le jardin public sur une île du fleuve était son lieu de prédilection : il s'y reposait souvent en buvant de la bière.</p>
-        <p>
-          Manheim fait un grand commerce d'orfèvrerie et de bijouterie en similor, dit or de Manheim. Pierre fit donc quelques achats de ce genre, en se disant que toutes ces vanités faisaient dépenser de l'argent bien mal à propos, mais que le commerçant n'est pas tenu d'être philosophe. Il n'oublia pas l'anisette, spécialité du pays, qui s'appelle
-          <hi>eau de Manheim.</hi>
+        <p> Manheim fait un grand commerce d'orfèvrerie et de bijouterie en similor, dit or de Manheim. Pierre fit donc quelques achats de ce genre, en se disant que toutes ces vanités faisaient dépenser de l'argent bien mal à propos, mais que le commerçant n'est pas tenu d'être philosophe. Il n'oublia pas l'anisette, spécialité du pays, qui s'appelle <hi>eau de Manheim.</hi>
         </p>
         <p>Pierre ne pouvait se lasser d'admirer le Rhin : « La mer peut-elle être plus belle, plus majestueuse ? »</p>
         <p>La cloche sonne, un bateau à vapeur va partir... Où va-t-il ? À Strasbourg ! Pierre éprouva une sorte de défaillance, lorsqu'il vit le bateau s'éloigner, et il resta longtemps sur le rivage, comme s'il y était retenu par un secret espoir de s'embarquer aussi. Cependant, fidèle à son itinéraire, il partit le soir même pour Spire.</p>
       </div>
       <div type="chapter">
-          <head>XIV</head>
+
+        <head>XIV</head>
         <p>Notre Alsacien étant arrivé à Spire déjeunait tranquillement et se disposait à circuler dans la ville, lorsqu'il se frappa le front, courut à sa chambre et y chercha en vain un petit paquet qu'il avait eu l'imprudence de mettre à part. Pierre était donc obligé de retourner à Manheim ; heureusement que la distance n'est pas grande.</p>
         <p>Sur la demande de Pierre, le garçon de l'auberge de Manheim lui remit le paquet oublié.</p>
         <p>Le jeune marchand courut sur le rivage pour revoir encore le Rhin : « Qu'il est beau, se disait-il, on l'aime, comme si c'était quelqu'un ! Pourquoi ne prendrais-je pas le bateau à vapeur ? Après tout, l'itinéraire de M. Vincent n'est pas un arrêté de par l'empereur ! Et un marchand doit connaître tous les moyens de transport. Je ne ferai pas une promenade de douze jours sur l'Océan, mais je prendrai un petit air de bateau : ce sera le nouveau monde pour moi. »</p>
@@ -1469,9 +1440,7 @@
         <p>Vraiment notre voyageur avait du bonheur. Le ciel était sans nuage, pas de vent, circonstance assez rare sur les bords du Rhin ; de sorte qu'à la grande surprise du petit marchand, on dressa une tente sur le pont et en quelques instants un couvert de cent personnes fut disposé. L'invitation s'adressait à tous ceux qui voudraient payer un florin pour faire un bon dîner.</p>
         <p>Pierre éprouva une sorte de confusion à la pensée qu'il pouvait s'asseoir à cette table abondamment couverte de mets dont la vue excitait son appétit. Le fils de Madeleine avait le gousset bien garni ; peut-être allait-il s'asseoir à côté d'un millionnaire, d'une princesse ! Un garçon lui offrirait de tous les plats (et ils étaient nombreux), changerait son assiette, l'appellerait Monsieur ! Certes ! il fallait une forte tête pour résister à tant d'émotions nouvelles.</p>
         <p>Cependant Pierre s'assit à cette table imposante. Il se trouva entre deux dames anglaises, la mère et la fille. Il s'était dit qu'après tout, il ferait un bon dîner avec modestie, écouterait, observerait pour éviter les gaucheries que son inexpérience lui faisait craindre. « Ah ! si ma mère et Christine me voyaient ! Seraient-elles surprises ! »</p>
-        <p>
-          Pierre ignorait que les Anglais, sachant quelques mots de français, sont résolus à les placer courageusement et à profiter de toute occasion pour en apprendre quelques-uns de plus. Il fut donc très étonné, lorsque la jeune personne lui demanda s'il était
-          <hi>un Français.</hi>
+        <p> Pierre ignorait que les Anglais, sachant quelques mots de français, sont résolus à les placer courageusement et à profiter de toute occasion pour en apprendre quelques-uns de plus. Il fut donc très étonné, lorsque la jeune personne lui demanda s'il était <hi>un Français.</hi>
         </p>
         <p>Il répondit : « Oui », avec une fierté qu'eût certainement blâmée M. Vincent.</p>
         <p>Alors la jeune Anglaise entama une conversation à laquelle sa mère prit part aussitôt.</p>
@@ -1483,11 +1452,7 @@
         <p>Le capitaine fut obligé d'intervenir pour que tous les passagers ne se portassent pas du même côté, ce qui n'aurait pas manqué d'occasionner un accident.</p>
         <p>Petit Pierre n'avait pas prévu un pareil succès et, si nous avons dévoilé le sentiment de vanité qui s'était emparé de lui, presque à son insu, nous devons dire qu'il était, en ce moment, fort embarrassé de sa personne.</p>
         <p>Il n'est sorte de commentaires auxquels ne donnât lieu ce récit. Et que de questions !</p>
-        <p>
-          Ce fut bien autre chose, lorsque la jeune Anglaise, ayant perdu toute timidité, dit à Pierre : « 
-          <hi>Monsieur le petite marchand, vous êtes une illustration, et je serais très fort bien aise d'avoir le portrait de vô dans ma petite album pour le montrer en Angleterre.</hi>
-           »
-        </p>
+        <p> Ce fut bien autre chose, lorsque la jeune Anglaise, ayant perdu toute timidité, dit à Pierre : «  <hi>Monsieur le petite marchand, vous êtes une illustration, et je serais très fort bien aise d'avoir le portrait de vô dans ma petite album pour le montrer en Angleterre.</hi>  » </p>
         <p>Un tonnerre de bravos appuya la proposition de miss Laura, et Pierre, sentant que toute résistance était inutile, ne songea plus qu'à se soumettre de bonne grâce.</p>
         <p>Toute circonstance heureuse ou malheureuse de notre vie nous rapproche de ceux que nous aimons. Pierre assis, la tête haute, le regard fixé sur le riche paysage, pensait : « Oh ! si ma mère et ma sœur me voyaient en ce moment, elles croiraient rêver ! »</p>
         <p>Miss Laura avait du talent, la galerie déclara que l'esquisse était bonne, charmante.</p>
@@ -1503,7 +1468,8 @@
         <p>La conversation fut longue et intéressante : toutefois nous sommes décidés à ne point y assister, pas plus que nous ne suivrons notre marchand dans ses allées et venues. Tout ce qu'il nous est permis, c'est de l'accompagner sur la route de Saverne où son cœur l'a conduit malgré toutes les bonnes raisons qu'il avait de hâter son retour.</p>
       </div>
       <div type="chapter">
-          <head>XV</head>
+
+        <head>XV</head>
         <p>Pierre avait à peine marché une heure, lorsqu'il rencontra sur la route une vieille paysanne, conduisant par la bride un coursier au poil luisant, la jambe fine et les oreilles... longues. Le voyageur la salua. Ce salut fut comme une parole d'espérance qui illumina tout à coup le visage attristé de la pauvre femme.</p>
         <p>
           <label>LA PAYSANNE</label>
@@ -1601,7 +1567,8 @@
         <p>Il m'invite à m'asseoir sur son dos. Pauvre Pacha, tu ne me verras plus ! Laissez-moi vous parler de mon âne, tout au long, maintenant que j'ai accepté son invitation. Cadette, sa mère, n'était pas moins remarquable. Pacha avait quelques mois, lorsque le feu prit dans notre étable. Eh ! bien, monsieur, moi, Catherine Lefranc, j'ai vu Cadette s'élancer au milieu des flammes, pour aller retrouver son ânon. Le fait est que rien n'était plus joli que lui. Quelle gaieté ! quels bonds ! quelles courses dans notre champ ! Jamais ce cher petit n'a eu besoin de se rouler sur l'herbe pour remplacer l'étrille ; Michel le soignait comme on soigne un cheval anglais. Ah ! jeune homme ! ceux qui disent du mal des ânes ne les connaissent pas. Est-il un animal plus ami de nous autres, pauvres gens ? Il est sobre sur la qualité et la quantité de la nourriture ; il se contente des herbes les plus dures, les plus désagréables que le cheval et les autres animaux lui laissent et dédaignent. Par exemple, il est fort difficile pour l'eau, il ne veut boire que la plus claire, et aux ruisseaux qui lui sont connus. Si les hommes étaient aussi difficiles pour la bière et le vin, il n'y aurait pas tant de tapage dans les bourgs et les villes. Il boit aussi sobrement qu'il mange. On dit qu'il n'enfonce point son nez dans l'eau, parce qu'il a peur de l'ombre de ses oreilles. Et, qu'en sait-on ? Pacha est propre, comme tous ceux de son espèce ; jamais il ne se vautre, et le soin avec lequel il évite de se mouiller les pieds, n'est point de l'entêtement, comme le disent les mauvaises langues ; c'est qu'il craint de se les mouiller. Pacha est âgé de six ans, monsieur ; si vous le ménagez, il vivra vingt-cinq ou trente ans. » Pierre, qui avait fait preuve de patience et de bonté en écoutant l'éloge de Pacha, crut enfin le moment arrivé de mettre un terme au flot de paroles de la bonne vieille, et il eut la satisfaction de la voir s'éloigner avec Pacha. Il continua sa route en méditant sur le bonheur que lui causait le parti qu'il venait de prendre.</p>
       </div>
       <div type="chapter">
-          <head>XVI</head>
+
+        <head>XVI</head>
         <p>En arrivant chez M. Vincent, Pierre frappa légèrement un petit coup à la vitre. Personne ne répondit : les écoliers étaient en vacance. Il frappa à la porte, et, à l'invitation qui lui fut faite d'entrer, il reconnut la voix du maître d'école.</p>
         <p>M. Vincent était au coin du feu, enveloppé d'une grosse veste de molleton gris : un bonnet de soie noire cachait complètement ses oreilles.</p>
         <p>À la vue de Petit Pierre, le vieillard poussa une exclamation de joie, et toute sa figure fut comme illuminée.</p>
@@ -1731,20 +1698,12 @@
         <p>
           <label>CHRISTINE</label>
         </p>
-        <p>
-          Beaucoup de dames et de messieurs sont venus cet été boire de
-          <hi>l'eau jaune</hi>
-          à Niederbronn. Les marchands ont fait de bonnes affaires. M. le Comte veut que tu aies une boutique.
-        </p>
+        <p> Beaucoup de dames et de messieurs sont venus cet été boire de <hi>l'eau jaune</hi> à Niederbronn. Les marchands ont fait de bonnes affaires. M. le Comte veut que tu aies une boutique. </p>
         <p>Pierre n'entend plus rien. Il voit le clocher de Niederbronn, la forêt de Jœgerthal avec ses beaux ombrages, il entend le bruit de la forge. Tous ses souvenirs d'enfance se pressent dans sa mémoire... Voici sa chaumière.</p>
         <p>Les voisins sont aux portes : « Bonjour ! Petit Pierre, disent les plus anciennes connaissances. -- Bonjour, monsieur Pierre, disent les autres, en considérant Pacha et le char couvert.</p>
         <p>– Bonjour ! Bonjour ! et Pierre laissant à Christine la garde de Pacha et le soin de satisfaire la curiosité des voisines, entre dans la chaumière et voit sa mère souriante et émue. Il court et se jette dans ses bras ; puis, lorsqu'il fut remis, il s'assit près d'elle et commença aussitôt le récit de son voyage pour suspendre l'émotion du retour.</p>
         <p>Les traits de Madeleine n'étaient point altérés, et la joie qu'elle éprouvait de revoir son fils donnait à sa physionomie une expression de bonheur sans mélange.</p>
-        <p>
-          Pierre se disait : « Christine a peut-être raison, tout n'est pas perdu ! » Sur la demande de sa sœur, il vint dételer Pacha, les paquets furent déposés au grenier et le
-          <hi>coffre-fort</hi>
-          précieusement mis dans l'armoire : la chaumière prenait un aspect tout nouveau.
-        </p>
+        <p> Pierre se disait : « Christine a peut-être raison, tout n'est pas perdu ! » Sur la demande de sa sœur, il vint dételer Pacha, les paquets furent déposés au grenier et le <hi>coffre-fort</hi> précieusement mis dans l'armoire : la chaumière prenait un aspect tout nouveau. </p>
         <p>Pacha fut logé provisoirement, tant bien que mal, chez la mère Nicole. Le char eut pour remise l'ombrage d'un gros chêne ; mais la semaine était à peine écoulée que le coursier avait son écurie.</p>
         <p>Christine, le jupon soigneusement relevé, faisait les apprêts du souper. Il fallait voir la gentille ménagère soulever la marmite, la découvrir et, armée d'une longue cuiller de bois, tourner et retourner un ragoût objet de toutes ses espérances.</p>
         <p>Madeleine faisait des signes d'admiration, elle appelait l'attention de Pierre sur les moindres actions de sa sœur. Rien n'était plus facile que de persuader au bon frère que Christine était admirable, unique dans son dévouement filial.</p>
@@ -1769,7 +1728,8 @@
         <p>Cependant l'hiver étant venu Pierre songea à faire sa tournée, mais il avait à cœur de réaliser un projet auquel les circonstances s'étaient opposées jusqu'alors.</p>
       </div>
       <div type="chapter">
-          <head>XVII</head>
+
+        <head>XVII</head>
         <p>À droite de la vallée de Niederbronn, se trouve celle de Baerenthal qui conduit vers Bitch. Un vieux parent de Madeleine demeurait à l'extrémité de cette vallée. La pauvre femme n'avait pu songer à aller le voir depuis qu'elle était veuve, et maintenant tout déplacement était devenu impossible.</p>
         <p>Pierre, dont l'humeur voyageuse ne reculait devant aucun obstacle, trouvait charmant de se promener le bâton à la main et les épaules légères.</p>
         <p>Bien souvent lui et Christine avaient entendu parler de la vallée de Baerenthal (vallée des Ours) et le nom seul leur causait de l'effroi.</p>
@@ -1854,12 +1814,8 @@
         <p>Non, le bonheur n'est pas banni de la terre, souvent il est près de nous : le courage, la persévérance nous y conduisent lentement mais sûrement. La présence de Pierre, une boutique à Niederbronn, un bon fauteuil pour la mère paralytique, quelques écus dans l'armoire : voilà ce qui constituait le bonheur des Lipp. Ils avaient le cœur content comme tous ceux qui travaillent et espèrent.</p>
         <p>Ce fut un moment solennel lorsque la famille quitta Wasembourg. Pacha attelé au char fut chargé de transporter le modeste mobilier. Il fit son entrée dans la ville de Niederbronn par un beau soleil de mai : ce fut un événement véritable.</p>
         <p>L'installation fut promptement faite et le lendemain même une calèche s'arrêtait devant la boutique : le Comte et la Comtesse venaient trancher une grave question : celle de l'enseigne que devait adopter le jeune marchand. Le Comte qui avait l'expérience du monde n'ignorait pas qu'il faut attirer l'attention des oisifs.</p>
-        <p>
-          Il fut décidé que petit Pierre, sa balle sur le dos, devait rester dans les annales du pays comme le modèle de la piété filiale. En conséquence l'artiste choisi pour exécuter l'enseigne monta aussitôt à l'échelle et esquissa au-dessus de la boutique une sorte de tableau représentant un jeune Alsacien de bonne mine dont les épaules semblaient oublier le poids qu'elles portaient. Au-dessous, le nom de
-          <hi>petit</hi>
-          <hi>Pierre</hi>
-          écrit en grosses lettres rouges ne pouvait échapper aux regards des passants les plus distraits.
-        </p>
+        <p> Il fut décidé que petit Pierre, sa balle sur le dos, devait rester dans les annales du pays comme le modèle de la piété filiale. En conséquence l'artiste choisi pour exécuter l'enseigne monta aussitôt à l'échelle et esquissa au-dessus de la boutique une sorte de tableau représentant un jeune Alsacien de bonne mine dont les épaules semblaient oublier le poids qu'elles portaient. Au-dessous, le nom de <hi>petit</hi>
+          <hi>Pierre</hi> écrit en grosses lettres rouges ne pouvait échapper aux regards des passants les plus distraits. </p>
         <p>
           <label>PIERRE</label>
         </p>
@@ -1872,7 +1828,8 @@
         <p>Le Comte avait raison : l'enseigne fut un véritable talisman. Les étrangers adoptèrent la boutique de petit Pierre et bientôt on vit d'énormes ballots de marchandises entrer dans la maison.</p>
       </div>
       <div type="chapter">
-          <head>XVIII</head>
+
+        <head>XVIII</head>
         <p>Douze années sont écoulées. Pierre Lipp est devenu un gros marchand de Niederbronn. Il a épousé la fille aînée de Rose de Walbourg. L'état de Madeleine s'est amélioré, la brave femme marche à l'aide de béquilles. Elle a eu la joie d'assister au mariage de son fils, terme de son ambition.</p>
         <p>Les relations de Pierre avec la famille du ministre de Carlsruhe n'avaient point été interrompues. Il y avait cependant plus d'une année qu'il n'avait reçu des nouvelles de Mlle Lolotte.</p>
         <p>Un jour une voiture de promenade s'arrêta devant la boutique du colporteur. Une jeune femme et son mari en descendirent et achetèrent plusieurs objets.</p>
@@ -1934,13 +1891,7 @@
           <label>PIERRE</label>
         </p>
         <p>Oh maintenant, il n'y a plus de danger, milord est là. D'abord, madame, si vous voulez procéder avec ordre, il faut voir la forge de Niederbronn. Je suis obligé de vous prévenir que nous coulons entre autres choses des boulets pour les canons ; mais je vous jure, milord, que le voisinage de la forge ne m'a pas rendu belliqueux et que, si je suis consulté, la France ne fera point la guerre à l'Angleterre. Puisque madame demeure à Reichshoffen... elle ne manquera pas de faire la promenade du Jægerthal, une des plus belles du pays. Vous aurez des surprises de paysage qui vous raviront. Plus loin les ruines du Windstein se mirant dans l'étang qui sert à alimenter les machines à vapeur de la forge. Quand Christine était petite, elle croyait que cet étang était de l'encre parce que les hêtres et les sapins qui couvrent la montagne donnent à ces eaux une couleur sombre.</p>
-        <p>
-          Si milord et milady font des courses à cheval, ils pourront le même jour suivre le chemin qui longe l'étang, et arrivés au moulin de Windstein, ils prendront à droite un sentier qui les conduira jusqu'à la ruine. Vous dire ce qu'on raconte sur ce vieux château ce n'est pas mon affaire, seulement je sais qu'il est très vieux. M. le Comte vous dira toutes ces histoires qu'il sait mieux que moi. Je ne connais que le plaisir de grimper et de regarder devant moi. Pendant que vous serez sur le chemin je vous engage à aller jusqu'au nouveau Windstein qui n'est pourtant pas neuf, non plus lui. Il y a encore les ruines de Hohenfels, de Windeck et bien d'autres que je ne connais pas. Un savant comme M. le Comte vous dira quand et comment ces châteaux ont été attaqués et détruits. Ma ruine favorite, milady, c'est le
-          <hi>Schoeneck</hi>
-           : ça n'est pas malin après tout, puisque
-          <hi>Schoeneck</hi>
-          veut dire joli coin. Ah ! quand milady sera perchée là-haut, qu'elle verra les montagnes voisines couvertes de châteaux en ruines, toute la vallée de Dambach et encore celle d'Oberstenbach jusqu'à la Bavière Rhénane elle dira : « Vraiment Petit Pierre à bon goût ! »
-        </p>
+        <p> Si milord et milady font des courses à cheval, ils pourront le même jour suivre le chemin qui longe l'étang, et arrivés au moulin de Windstein, ils prendront à droite un sentier qui les conduira jusqu'à la ruine. Vous dire ce qu'on raconte sur ce vieux château ce n'est pas mon affaire, seulement je sais qu'il est très vieux. M. le Comte vous dira toutes ces histoires qu'il sait mieux que moi. Je ne connais que le plaisir de grimper et de regarder devant moi. Pendant que vous serez sur le chemin je vous engage à aller jusqu'au nouveau Windstein qui n'est pourtant pas neuf, non plus lui. Il y a encore les ruines de Hohenfels, de Windeck et bien d'autres que je ne connais pas. Un savant comme M. le Comte vous dira quand et comment ces châteaux ont été attaqués et détruits. Ma ruine favorite, milady, c'est le <hi>Schoeneck</hi>  : ça n'est pas malin après tout, puisque <hi>Schoeneck</hi> veut dire joli coin. Ah ! quand milady sera perchée là-haut, qu'elle verra les montagnes voisines couvertes de châteaux en ruines, toute la vallée de Dambach et encore celle d'Oberstenbach jusqu'à la Bavière Rhénane elle dira : « Vraiment Petit Pierre à bon goût ! » </p>
         <p>
           <label>LOLOTTE</label>
         </p>
@@ -1971,7 +1922,7 @@
       </div>
     </body>
     <back>
-      <div type="notes"/>
+      <div type="notes" />
       <div type="liminal">
         <p>1  On appelle poêle, en Alsace, l'endroit bien chauffé où mangent les domestiques.</p>
       </div>

@@ -18,14 +18,14 @@
         <p>à fournir</p>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Project Gutenberg</publisher>
+          <ref target="http://www.gutenberg.org/ebooks/51659">http://www.gutenberg.org/ebooks/51659</ref>
+        </bibl>
         <bibl type="printSource">
           <author>Lesueur, Daniel (1854-1921)</author>
           <title>Le droit à la force</title>
           <date>1909</date>
-        </bibl>
-        <bibl type="digitalSource">
-          <publisher />
-          <ref target="http://www.gutenberg.org/ebooks/51659">http://www.gutenberg.org/ebooks/51659</ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1909</date>

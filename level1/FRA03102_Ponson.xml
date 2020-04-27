@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03102" xml:lang="fr">
   <teiHeader>
@@ -19,53 +19,58 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">173741</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          Ebooksgratuits.com,
-          <date/>
-          ,
-          <idno/>
-          ,
-
-          .
-        </bibl><bibl type="firstEdition">
-          Le Petit Journal -- 31 octobre 1865 au 10 juin 1866, 223 épisodes.
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Ebooks libres et gratuits</publisher>
+        </bibl>
+        <bibl type="firstEdition">
+          <!--  Le Petit Journal, 31 octobre 1865 au 10 juin 1866, 223 épisodes. -->
           <date>1866</date>
-          ,
-          <idno/>
-          ,
-
-          .
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-14">cf Revised teiHeader.</change>
       <change when="2014-08-25">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="group">
+
         <head>SAINT-LAZARE</head>
         <div type="chapter">
+
           <head>I</head>
           <p>Comment se faisait-il que M. Agénor de Morlux, que nous avons laissé à six heures du soir quittant Antoinette sur le seuil de sa porte en lui disant : À demain ! était parti deux heures après pour la Bretagne ? C'est ce que nous allons expliquer.</p>
           <p>Le vicomte Karle de Morlux avait admirablement dressé ses batteries, de concert avec maître Timoléon, et il n'était pas homme à compromettre la partie qu'il jouait par une négligence quelconque. Or, en faisant disparaître Antoinette, il eût été de la dernière imprudence de laisser Agénor à Paris, attendu que les personnes qui s'inquiéteraient de cette disparition ne manqueraient pas de courir chez lui.</p>
@@ -142,6 +147,7 @@
           <p>Et il conduisit Karle de Morlux à Chaillot dans la rue où était le commissariat de police.</p>
         </div>
         <div type="chapter">
+
           <head>II</head>
           <p>Tandis qu'Agénor partait pour la Bretagne, tandis que les voleurs soudoyés par Timoléon parvenaient à faire passer Antoinette pour leur complice et étaient dirigés avec elle sur le dépôt de la préfecture de police, le major Avatar, c'est-à-dire Rocambole, et Milon avaient trouvé la cassette aux millions, pris connaissance du manuscrit laissé par la baronne Miller, et quittaient au petit jour la maison de la rue de Grenelle au Gros-Caillou, pour s'en aller à la recherche des orphelines. Milon, si ses souvenirs ne le trompaient pas, croyait fermement que le pensionnat où sa malheureuse maîtresse avait conduit ses deux filles, devait être situé à Auteuil. Mais il ne se rappelait ni le nom de la rue, ni celui de la maîtresse de pension, ni enfin l'enseigne du pensionnat.</p>
           <p>– Tout cela est bien vague, dit Rocambole. Mais enfin, allons toujours !</p>
@@ -206,6 +212,7 @@
           <p>– Ah ! très bien, dit l'huissier, dont la nature reprit aussitôt le dessus.</p>
         </div>
         <div type="chapter">
+
           <head>III</head>
           <p>– Monsieur, dit Rocambole en regardant l'huissier entre les deux yeux, vous avez poursuivi une femme qui nous intéresse vivement, monsieur et moi.</p>
           <p>– C'est fort possible, répondit M. Boisdureau d'un air aimable, j'ai poursuivi beaucoup de femmes en ma vie, des femmes légères surtout.</p>
@@ -298,6 +305,7 @@
           <p>Rocambole, qui était l'homme des heures critiques, la prit dans ses bras et la porta dans la loge, car les locataires de la maison commençaient à se mettre aux fenêtres.</p>
         </div>
         <div type="chapter">
+
           <head>IV</head>
           <p>La mère Philippe avait éprouvé un tel saisissement en revoyant Milon, qu'elle avait presque perdu connaissance. Son mari, qui n'avait jamais vu Milon, ne comprenait rien à ces deux mots de cousin et de cousine qu'ils avaient échangés.</p>
           <p>Mais Rocambole lui dit :</p>
@@ -395,6 +403,7 @@
           <p>Le docteur reprit la plume et Rocambole continua à dicter.</p>
         </div>
         <div type="chapter">
+
           <head>V</head>
           <p>M. le baron Philippe de Morlux n'avait pas revu son frère Karle depuis la veille. Ce dernier l'avait bien prévenu de ce qui arriverait, c'est-à-dire que quelqu'un de la maison de la rue d'Anjou ne manquerait pas de venir réclamer Antoinette, et il lui avait fait sa leçon. Le baron avait donc jeté des hauts cris en apprenant que Mlle Antoinette avait disparu, et comme on lui montrait une lettre signée de son nom, il s'était écrié que cette lettre n'était pas de lui et constituait un faux. Ce qui était vrai, du reste, car cette lettre avait été écrite par Timoléon, sous la dictée de M. Karle de Morlux.</p>
           <p>La concierge de la rue d'Anjou partie, M. Philippe de Morlux avait tranquillement attendu la visite de son frère, lequel allait sans doute avoir beaucoup de choses à lui raconter. Mais avant que M. Karle de Morlux arrivât, un homme se présenta à l'hôtel.</p>
@@ -466,6 +475,7 @@
           <p>Rocambole s'approcha près du lit et le baron lui tendit les vingt mille francs. Il donna un reçu avec une loyauté niaise, salua avec un profond respect et sortit à reculons. Comme il allait franchir le seuil de la porte, il éternua et sortit un grand mouchoir à carreaux bleus de la poche de son tablier, dans lequel il s'enveloppa toute la figure. Maître Timoléon était dans le salon d'attente.</p>
         </div>
         <div type="chapter">
+
           <head>VI</head>
           <p>Rocambole passa auprès de Timoléon. Un homme qui a été de la police ou qui a eu maille à partir avec elle ne laisse jamais passer qui que ce soit auprès de lui sans le dévisager, comme on dit. C'est une habitude, et c'est à cette habitude, devenue presque machinale, qu'on a dû quelquefois l'arrestation d'un grand coupable, parvenu jusque-là à se soustraire à toutes les recherches. Timoléon regarda donc Rocambole.</p>
           <p>Mais Rocambole se moucha bruyamment et hâta le pas. D'ailleurs, M. de Morlux ayant la jambe cassée, il était tout naturel qu'un homme portant le tablier d'uniforme des hôpitaux sortît de chez lui. Rocambole traversa donc l'antichambre sans avoir éveillé l'attention de Timoléon. Il arriva jusqu'à l'escalier.</p>
@@ -547,6 +557,7 @@
           <p>Milon tournoyait sur lui-même, anéanti par ce terrible mot de Saint-Lazare.</p>
         </div>
         <div type="chapter">
+
           <head>VII</head>
           <p>Qu'était-ce que cette vieille dame qui était venue chercher Mme Raynaud ? C'est ce que nous allons expliquer succinctement.</p>
           <p>Timoléon, en mettant à exécution le plan d'enlèvement qu'il avait conçu, avait tout prévu. Le témoignage des voleurs affirmant qu'ils connaissaient Antoinette, la prétendue mère venant la réclamer, tout cela était bien suffisant pour le commissaire de police. Mais, aucun inculpé n'est dirigé du dépôt de la préfecture sur une prison quelconque sans être interrogé par le juge d'instruction, et il était possible que devant ce magistrat Antoinette donnât de tels détails, en indiquant son domicile et les personnes qui pouvaient répondre d'elle, que sa liberté fût ordonnée sur-le-champ. Il allait donc parer à cette éventualité.</p>
@@ -612,6 +623,7 @@
           <p>– Mon petit Timoléon, murmura Rocambole, tu te repentiras du jeu que tu as voulu jouer.</p>
         </div>
         <div type="chapter">
+
           <head>VIII</head>
           <p>Antoinette avait donc été dirigée, en pleine nuit, pêle-mêle avec les voleurs, sur le dépôt de la préfecture de police. Ce fut une nuit infernale que celle qu'y passa la jeune fille.</p>
           <p>Madeleine la Chivotte chantait des refrains obscènes, la belle Marton insultait la jeune fille et lui prédisait qu'elle serait condamnée à cinq ans. Le vieux voleur, celui qu'on appelait papa, fut obligé plusieurs fois d'intervenir pour protéger Antoinette. Antoinette se tordait les mains de désespoir, et elle ne put fermer l'œil de la nuit, on lui avait assigné pour lit un grabat dressé sur des planches devant lequel s'effacent, pour les prisonniers, toutes les distinctions sociales.</p>
@@ -668,6 +680,7 @@
           <p>– Continuez, dit le magistrat.</p>
         </div>
         <div type="chapter">
+
           <head>IX</head>
           <p>Pendant quelques minutes, la vieille dame pleura si abondamment qu'il lui fut impossible de parler. Mais enfin elle étouffa ses sanglots, contint ses larmes et poursuivit : -- Durant les premiers mois qu'Antoinette est demeurée chez moi, je n'ai pas eu à me plaindre d'elle. Elle était fort douce et paraissait m'aimer beaucoup. Elle sortait, il est vrai, presque toute la journée, et quelquefois le soir ; mais elle avait tant de leçons ! disait-elle. Enfin un soir, elle ne rentra pas. Le lendemain, elle prétendit qu'elle avait passé la nuit auprès d'une de ses élèves qui était moribonde. Je la crus sur parole.</p>
           <p>« Huit jours après, un samedi, elle attendit que je fusse couchée, puis elle s'esquiva, et je ne la revis que le lundi matin. Alors je lui dis que j'allais avertir sa mère et que je ne voulais plus la garder. Mais elle se mit à pleurer, et m'avoua tout. Elle avait une liaison... un assez mauvais sujet... nommé Polyte.</p>
@@ -741,6 +754,7 @@
           <p>Ce ne fut qu'avec l'aide des guichetiers que, presque inconsciente d'elle-même, elle put monter dans la voiture cellulaire qui devait la transporter à Saint-Lazare.</p>
         </div>
         <div type="chapter">
+
           <head>X</head>
           <p>JOURNAL D'ANTOINETTE</p>
           <p>À Monsieur Agénor de Morlux.</p>
@@ -772,6 +786,7 @@
           <p>– Si vous avez de l'argent, cachez-le...</p>
         </div>
         <div type="chapter">
+
           <head>XI</head>
           <p>La belle Marton avait raison, mon ami. On nous a laissées dans le dépôt jusqu'au lendemain matin. C'est une salle de douze ou quinze pieds carrés, dans laquelle il y a quatre, six ou huit lits, dont l'un est plus élevé que les autres. Celui-là est celui de la surveillante.</p>
           <p>N'allez pas croire que cette surveillante est une religieuse ; non, c'est une détenue, et, qui mieux est, une condamnée. Mais il y a en prison, comme dans le monde, des honneurs et des distinctions. Avec le temps et la bonne conduite, les prisonnières finissent par avoir des fonctions qui impliquent, les unes plus de bien-être, les autres une certaine autorité. Il y a des infirmières qui sont détenues et portent le costume de la prison ; on en voit quelques-unes à la lingerie. D'autres sont parvenues à être surveillantes. Celles-là n'ont plus que peu de temps à faire. Obséquieuses, d'une obéissance servile envers les sœurs, le directeur ou les gardiens, elles se souviennent du temps où elles étaient rudoyées, et quelques-unes en ont gardé rancune et se vengent, non sur leurs anciens persécuteurs, mais sur les prisonnières qui leur sont confiées. Ce sont des employées qui font ce qu'on appelle du zèle. Celle qui avait mission de surveiller le dépôt était une femme âgée.</p>
@@ -827,6 +842,7 @@
           <p>J'ai senti mes yeux s'emplir de larmes.</p>
         </div>
         <div type="chapter">
+
           <head>XII</head>
           <p>Saint-Lazare a trois cours, c'est-à-dire trois préaux. Je n'en connais qu'un, il est sans arbres et dominé de tous côtés par les hauts bâtiments de la prison. Ce dernier est fréquenté tour à tour par les jeunes filles soumises à la correction paternelle, les détenues par prévention et les voleuses condamnées. La quatrième catégorie de prisonnières, celle qu'on appelle la deuxième section, a une cour à part, qui se trouve derrière la cour de la chapelle, une infirmerie à part et des dortoirs séparés. Le réfectoire seul est commun à toutes les détenues ; mais on a soin que ces femmes-là et nous, nous ne nous rencontrions jamais.</p>
           <p>La belle Marton, qui a été dans la deuxième section autrefois, m'a donné tous ces détails. Elle connaît la prison dans ses moindres détails. Les jeunes filles en correction sont soumises, paraît-il, la nuit au régime cellulaire.</p>
@@ -876,6 +892,7 @@
           <p>– C'est bien, lundi matin il aura votre lettre. Et la belle Marton se mit à faire le ménage d'Antoinette.</p>
         </div>
         <div type="chapter">
+
           <head>XIII</head>
           <p>Revenons maintenant à un personnage que nous avons à peine entrevu depuis le prologue de cette histoire. Nous voulons parler de Vanda la Russe, la maîtresse du Cocodès, la femme étrangère qui s'était donné pour mission d'arracher une victime à l'échafaud. Vanda était devenue l'esclave du major Avatar. Pour elle, l'homme qui avait arrêté dans sa course le jeu de la guillotine était aussi puissant que Dieu, et elle aimait et vénérait cet homme et lui disait chaque jour : -- Quand donc auras-tu besoin de moi ?</p>
           <p>Et Rocambole répondait :</p>
@@ -947,6 +964,7 @@
           <p>Noël était seul dans la loge. Le maître y entra, et, en quelques minutes, le major Avatar faisait place à un de ces hommes à mine douteuse, qui portent beaucoup de breloques, beaucoup de bagues, des gilets de velours rouge, des cravates éclatantes, un pantalon à grands carreaux, une casquette dite melon et font tournoyer une grosse canne à pomme d'argent doré. Puis Noël et lui se dirigèrent vers la rue du Petit-Carreau.</p>
         </div>
         <div type="chapter">
+
           <head>XIV</head>
           <p>Les femmes de l'espèce de Madeleine la Chivotte, belles de nuit s'il en fut, sortent peu le jour et on les trouve au logis généralement occupées à jouer au bésigue sur un tapis graisseux. Elles quittent rarement leur quartier où, pour la plupart, elles sont connues depuis de longues années. Il y avait dix ans que Noël dit Cocorico n'avait vu la Chivotte, mais il était certain qu'elle n'avait point abandonné, sinon la rue du Petit-Carreau, au moins les environs. Madeleine avait toujours été plus ou moins affiliée à une bande de voleurs ou poivriers. Le soir, on la voyait chez les marchands de vin agacer les ivrognes et les détrousser ensuite en sortant. Mais ces sortes de vols sont très difficiles à prouver, et Madeleine se tirait presque toujours d'affaire. Quand elle ne parvenait pas à prouver son innocence, elle s'en tirait au plus bas prix, c'est-à-dire avec une condamnation de quatre à six mois de prison.</p>
           <p>Cette femme que nous avons entrevue en compagnie du beau Polyte, de Papa et des autres misérables qui avaient fait arrêter Antoinette, vivait depuis de longues années avec un homme de force herculéenne, forgeron de son état, qu'il n'exerçait guère, du reste, et qu'on appelait le beau Jean-Joseph. Il avait été condamné à dix ans de réclusion pour tentative de meurtre ; mais, d'après les calculs de Noël dit Cocorico, il devait être sorti, et tout laissait supposer qu'il avait renoué avec la Chivotte, car l'attachement de ces sortes de femmes est quelquefois éternel.</p>
@@ -1042,6 +1060,7 @@
           <p>– Alors c'est parfait, dit Rocambole en continuant son chemin.</p>
         </div>
         <div type="chapter">
+
           <head>XV</head>
           <p>Ce soir-là, à onze heures, le major Avatar, qui commençait à être un des lions du jour, grâce à la popularité qu'on lui avait faite au club des Asperges, entra au café Anglais, demanda le cabinet 29, qu'il avait retenu dans la journée, et attendit Vanda. Celle-ci arriva quelques minutes après. Elle était si bien encapuchonnée, que les garçons ne purent voir son visage.</p>
           <p>– Ma chère enfant, dit Rocambole, j'ai trouvé ce que je cherchais depuis ce matin.</p>
@@ -1100,6 +1119,7 @@
           <p>Une fois revêtue du costume de la prison, Vanda fut conduite au réfectoire où on lui donna une portion de légumes et de là à l'atelier de travail.</p>
         </div>
         <div type="chapter">
+
           <head>XVI</head>
           <p>Camélia s'était jetée dans la dévotion depuis que ses charmes s'étaient évanouis. Qu'était-ce que Camélia ? On vous eût dit, il y a trente ans, au bal du Vaux-Hall, que c'était une piqueuse de bottines célèbre par sa danse équivoque. Sept ou huit ans plus tard, on eût songé à une courtisane de bas étage, mais belle encore, en entendant prononcer ce nom. Plus tard, il avait été répété à la huitième chambre de la police correctionnelle comme le sobriquet de la fille Adélaïde Montain, reprise de justice et voleuse à la carte émérite.</p>
           <p>Maintenant, l'être qui répondait à ce nom de guerre était une vieille et hideuse créature qui, ne trouvant plus à gagner sa vie autrement, s'était résignée à devenir servante dans cette maison où elle avait été si longtemps prisonnière. Camélia était la détenue volontaire dont la belle Marton avait parlé à Antoinette, et qui devait se charger de sa lettre pour M. Agénor, la faire tenir à Malvina, qui, à son tour, la donnerait à un certain Auguste, au parloir, le dimanche après la messe. Cette femme, qui avait été belle, était maintenant horrible. Elle avait eu, à quarante ans sonnés, la petite vérole, qui l'avait défigurée complètement et lui avait fait perdre un œil. En outre, ses cheveux, jadis d'un blond magnifique, avaient blanchi par places et lui donnaient une expression étrange. On eût dit la crinière emmêlée d'un vieux lion. Cette femme s'était jetée dans la dévotion -- mais à la façon de ses pareilles, avec une bonne foi qui pactisait avec tous ses mauvais instincts. Elle avait conservé ses relations avec ses pareilles, se chargeait de leurs commissions, les aidait à tromper la surveillance et à frauder les règlements. Cependant, comme elle conciliait très habilement tout cela avec ses patenôtres, elle avait su capter la confiance des religieuses et on lui permettait le dimanche de rester à la chapelle une partie de la matinée, et d'y entendre les deux messes qui s'y célèbrent à une heure de distance, car la chapelle est trop petite pour contenir toutes les prisonnières à la fois. Saint-Lazare a deux aumôniers. La belle Marton savait tout cela lorsqu'elle avait assuré à Antoinette que sa lettre pourrait sortir de Saint-Lazare.</p>
@@ -1162,6 +1182,7 @@
           <p>Le sous-brigadier referma la porte, et se retourna vers le parloir, mais il n'avait rien vu.</p>
         </div>
         <div type="chapter">
+
           <head>XVII</head>
           <p>Tandis que la lettre d'Antoinette sortait de Saint-Lazare dans la poche de M. Auguste, une scène d'un autre genre avait lieu au préau de la prévention, où les détenues venaient de se rendre. Madeleine la Chivotte pérorait au milieu d'un groupe de voleuses.</p>
           <p>– Voici maintenant, disait Chivotte, que Saint-Lazare va devenir une maison d'aristos.</p>
@@ -1239,6 +1260,7 @@
           <p>À ces mots, la belle Marton se précipita sur les mains de Vanda et les porta à ses lèvres.</p>
         </div>
         <div type="chapter">
+
           <head>XVIII</head>
           <p>Vanda posa un doigt sur sa bouche :</p>
           <p>– Chut ! dit-elle.</p>
@@ -1325,6 +1347,7 @@
           <p>La belle Marton entendit ce sarcasme, bondit vers la Simonne, se déchaussa et, brandissant son sabot comme une massue au-dessus de la tête de cette petite vieille, elle lui dit : -- Je vais faire de toi de la purée de marrons !</p>
         </div>
         <div type="chapter">
+
           <head>XIX</head>
           <p>La Simonne avait toujours redouté Madeleine, mais elle avait bien plus peur encore de la belle Marton, qui passait pour avoir un poignet de fer. Aussi se tut-elle comme par enchantement, après avoir balbutié quelques excuses.</p>
           <p>– Tu as eu de la chance, dit la belle Marton, que j'aie peur en ce moment d'aller au cachot, car je t'aurais mise en miettes ; mais fais bien attention à ce que tu dis. Si toi ou l'une de vous a le malheur de mal parler à l'une de ces dames qui sont là-bas, je me sers de mon sabot comme d'un casse-tête, et je vous assomme toutes.</p>
@@ -1396,6 +1419,7 @@
           <p>Le docteur, stupéfait, prit les deux mains d'Antoinette, la fit asseoir sur son séant, et se prit à l'examiner avec une attention pleine d'inquiétude.</p>
         </div>
         <div type="chapter">
+
           <head>XX</head>
           <p>Tandis qu'Antoinette était atteinte de cette maladie singulière produite par les grains de poudre blanche et qui devait la faire conduire à l'infirmerie, sa lettre avait franchi les murs de Saint-Lazare, dans la poche d'Auguste. Qu'était-ce qu'Auguste ? On devine qu'un homme qui vient à Saint-Lazare visiter une femme du genre de Malvina ne peut appartenir qu'au rebut de la société.</p>
           <p>Auguste était un garçon de vingt-huit ans, charpentier de son état, mais ne travaillant plus depuis longtemps et ayant fait à peu près tous les métiers, sauf un métier honorable. Cependant, jusque-là, il ne s'était point assis sur les bancs de la police correctionnelle, mais il avait dû son salut à plusieurs hasards heureux. La seule chose qui relevait un peu cet homme tombé dans la pire espèce, c'était cet amour même qui avait commencé par l'avilir. Auguste était un honnête ouvrier quand il avait connu Malvina. Cette femme avait su lui inspirer une de ces passions d'autant plus profondes qu'elles sont calmes et sans accès de fièvre. Elle avait acquis sur lui un empire absolu, et, le bien comme le mal, il le faisait sur un signe d'elle. Or, Malvina lui avait dit : « Tu porteras cette lettre rue de Surène, 21, et tu la remettras en mains propres à M. Agénor. » En présence des galères et même de l'échafaud, Auguste aurait rempli sa mission.</p>
@@ -1542,6 +1566,7 @@
           <p>Timoléon laissa échapper un juron et se précipita au-dehors de l'hôtel ; mais il eut beau regarder dans tous les sens, Auguste avait disparu.</p>
         </div>
         <div type="chapter">
+
           <head>XXI</head>
           <p>Que s'est-il passé ? C'est ce que nous allons expliquer en deux mots.</p>
           <p>Une fois Vanda à Saint-Lazare, Rocambole ne s'était pas endormi. Il avait fait surveiller par Noël la rue de l'Université, c'est-à-dire l'hôtel de M. le baron Philippe de Morlux, et la rue de la Pépinière, où demeurait le vicomte Karle, par un autre homme à lui. Or, cet homme n'était autre que Jean le Boucher, ce malheureux qui remplissait au bagne les terribles et odieuses fonctions d'exécuteur des hautes œuvres, et que Rocambole avait arraché à son horrible métier pour le rendre au grand air de la liberté.</p>
@@ -1603,6 +1628,7 @@
           <p>– Voilà celle qu'il faut porter rue de Surène à celui qui prétend être M. Agénor.</p>
         </div>
         <div type="chapter">
+
           <head>XXII</head>
           <p>Jean le Boucher et son neveu avaient regardé Rocambole avec un étonnement profond. Ce dernier crut devoir leur donner une explication sommaire de sa conduite : et ce fut à Auguste qu'il s'adressa : -- Mon garçon, dit-il, la lettre dont tu étais porteur, et que voici, était adressée non point au cocher de M. le baron Agénor de Morlux, mais à M. Agénor lui-même. Cela te paraît singulier, n'est-ce pas ? qu'un homme qui est baron, qui a des chevaux et habite une belle maison dans un quartier comme celui-ci ait des relations avec une femme détenue à Saint-Lazare ? Mais lorsque je t'aurai dit que cette femme est une jeune fille honnête, mais sans le sou, que M. Agénor aime et veut épouser et que la famille de M. Agénor, c'est-à-dire son oncle qui demeure rue de la Pépinière, l'a fait enfermer pour empêcher le mariage, tu comprendras, n'est-ce pas ?</p>
           <p>– Parfaitement, répondit Auguste.</p>
@@ -1688,6 +1714,7 @@
           <p>Et Timoléon reprit la lettre sur le bureau.</p>
         </div>
         <div type="chapter">
+
           <head>XXIII</head>
           <p>– Monsieur, reprit Timoléon, le jeune homme qu'on appelle Auguste était porteur, il y a une heure, d'une lettre véritablement écrite par Antoinette.</p>
           <p>– Et ce n'est pas celle-là ?</p>
@@ -1767,6 +1794,7 @@
           <p>Mais, vers dix heures du soir, on apporta un billet à M. Karle de Morlux. L'enveloppe portait ce mot : Pressé...</p>
         </div>
         <div type="chapter">
+
           <head>XXIV</head>
           <p>Pour savoir ce que Timoléon écrivait à M. de Morlux, il est nécessaire de revenir sur nos pas et de suivre le neveu de Jean le Boucher, c'est-à-dire Auguste, au moment où il quittait la rue de Surène.</p>
           <p>L'agent aposté à tout hasard par Timoléon tout près de la maison d'Agénor, sur un signe de son chef, s'était mis à suivre le jeune homme... Il était nuit, et cette fois Auguste n'avait plus besoin de tuer le temps. Cet homme était jeune, il n'était pas encore complètement perverti, et ce qui venait de se passer, ce qu'il venait de voir et surtout d'entendre, lui avait fait faire un retour sur lui-même. Rocambole, qui, jadis, lorsqu'il était dans la voie du crime, avait néanmoins un charme presque irrésistible et exerçait sur ses complices une véritable fascination -- Rocambole prenant en main une cause juste avait non seulement conservé son mystérieux pouvoir, mais encore il l'avait pour ainsi dire développé.</p>
@@ -1830,6 +1858,7 @@
           <p>L'ivrogne se mit en marche en décrivant de fantastiques arabesques ; et Auguste ne reconnut point en lui le fileur qui ne le quittait pas depuis cinq heures de l'après-midi.</p>
         </div>
         <div type="chapter">
+
           <head>XXV</head>
           <p>Un homme ivre inspire peu de défiance. Celui à qui Jean le Boucher donnait le bras paraissait si peu maître de sa raison, il tenait des propos si incohérents en marchant et trébuchant à chaque pas, que l'oncle et le neveu avaient continué à causer à voix basse. Arrivés à la barrière Blanche, Auguste dit : -- Mon oncle, je vais vous laisser. Quand vous reverrai-je ?</p>
           <p>– Le maître m'a dit que, lorsque tu aurais la lettre pour là-bas, tu ne manques pas de me l'apporter.</p>
@@ -1904,6 +1933,7 @@
           <p>– Si c'est la maison que je crois, nous y avons des intelligences. Peu après, le fiacre s'arrêta un moment.</p>
         </div>
         <div type="chapter">
+
           <head>XXVI</head>
           <p>Timoléon, soulevant un peu le store de la portière qu'il avait baissé par prudence, regardait attentivement. La rue du Chemin-des-Dames n'a qu'un côté bordé de maisons, et encore sont-elles semées de distance en distance, séparées qu'elles sont par des terrains veufs de toute bâtisse et clos par des palissades formées de vieilles planches grossièrement assemblées. L'autre côté est le mur du cimetière.</p>
           <p>Au moment où le fiacre s'arrêta, il était devant une maison haute de six étages, aux murs noircis, aux fenêtres dépourvues de volets, et qui ressemblait à une véritable ruche. Une population misérable devait pulluler là, entassée dans de petits logements bas de plafond et insalubres.</p>
@@ -1989,6 +2019,7 @@
           <p>– Maintenant, ajouta Timoléon, avec une échelle que nous allons appliquer contre le mur du jardin, le tour sera fait, et Rocambole est à nous.</p>
         </div>
         <div type="chapter">
+
           <head>XXVII</head>
           <p>Pénétrons maintenant dans cette maison isolée au milieu du Chemin-des-Dames, et qu'habitait une misérable population de chiffonniers, d'ouvriers carriers et d'employés des pompes funèbres. Il y avait deux mois qu'un nouvel hôte s'y était installé.</p>
           <p>Cet hôte n'était autre que notre ancienne connaissance de Toulon, le bonnet vert, ce malheureux qui avait failli périr sur l'échafaud pour avoir tué le meurtrier de son chien, et que Rocambole avait si miraculeusement arraché à la mort.</p>
@@ -2025,6 +2056,7 @@
           <p>Le cocher de M. de Morlux s'y trouvait et racontait que son maître, rentrant du club à trois heures du matin, avait trouvé son secrétaire forcé et constaté le vol d'un portefeuille renfermant 10 000 francs. Une échelle trouvée dans le jardin, et de nombreuses empreintes de pas, désignaient suffisamment le chemin qu'avaient pris les voleurs. Le Merle but un canon sur le comptoir et, apprenant du cocher que son maître avait couru faire sa déclaration à la police, il prit le chemin de la préfecture.</p>
         </div>
         <div type="chapter">
+
           <head>XXVIII</head>
           <p>À dix heures du soir, la veille, voici ce qu'on aurait pu voir dans cette pistole de Saint-Lazare où se trouvaient à la fois Marceline, la femme du croque-mort Rigolo, Antoinette, la pure et belle jeune fille jetée au milieu des femmes, et Vanda, la hardie compagne de Rocambole.</p>
           <p>Vanda, plus forte de constitution, plus nerveuse, plus énergique de caractère qu'Antoinette, avait résisté davantage à l'effet presque foudroyant de cette pilule qui avait le fatal pouvoir de développer les premiers symptômes d'un mal inconnu en Europe. Antoinette avait été comme brisée pendant quatre ou cinq heures ; mais enfin les souffrances s'étaient apaisées peu à peu, et, vers dix heures, elle avait cessé de se tordre dans les convulsions.</p>
@@ -2094,6 +2126,7 @@
           <p>– La sainte ne le veut pas !</p>
         </div>
         <div type="chapter">
+
           <head>XXIX</head>
           <p>Tandis que le croque-mort Rigolo s'en allait à Saint-Lazare -- mais la nature a des retours imprévus sur lesquels la science ne peut pas compter ; d'ailleurs, Antoinette avait eu l'heureuse inspiration de faire avaler à l'enfant une partie de sa potion à elle, et la membrane muqueuse qui étouffait le pauvre petit être s'était dégonflée : il était sauvé --, où il ne s'attendait guère à retrouver son fils vivant, une scène toute différente avait lieu à la préfecture de police dans le cabinet du chef de la sûreté. Les voleurs ont eu leurs héros et leurs historiens. Depuis Fra-Diavolo jusqu'à Cartouche, on a célébré en vers, en prose et en musique ces hommes qui se placent en dehors de la société et lui déclarent une guerre sans merci. Personne, jusqu'à ce jour, n'a écrit un livre sur ces hommes honnêtes, dévoués à l'ordre social, braves sans forfanterie, intrépides et même téméraires sans bruit, sans emphase, et qui veillent à toute heure sur la société en péril. La police moderne ne se recrute plus, comme autrefois, parmi les hommes qui ont eu des comptes difficiles à rendre à la justice. Les chefs sont des magistrats estimés et respectés ; les agents sont d'anciens soldats, pour la plupart. Il n'est pas un ministère, une administration publique quelconque où l'on rencontre une plus grande politesse que dans les bureaux de la préfecture de police.</p>
           <p>Ce matin-là, vers dix heures, M. le vicomte Karle de Morlux, riche propriétaire de la rue de la Pépinière, homme honorable pour tous, et dont la ténébreuse existence n'avait jamais éveillé l'attention publique, M. le vicomte Karle de Morlux, disons-nous, se présenta chez le chef de la police de sûreté. Un procès-verbal du commissaire de police avait déjà prévenu le magistrat de cette visite. M. de Morlux avait été volé pendant la nuit précédente.</p>
@@ -2165,6 +2198,7 @@
           <p>Et il s'en alla chez son frère, le baron Philippe de Morlux.</p>
         </div>
         <div type="chapter">
+
           <head>XXX</head>
           <p>M. le baron Philippe de Morlux avait quitté son lit pour une chaise longue. Son état n'avait plus rien d'alarmant ; d'ailleurs le vicomte Karle lui avait dit :</p>
           <p>– Vous n'avez réellement pas le temps d'être malade en ce moment-ci.</p>
@@ -2236,6 +2270,7 @@
           <p>Timoléon prit familièrement le bras de M. de Morlux et l'entraîna.</p>
         </div>
         <div type="chapter">
+
           <head>XXXI</head>
           <p>À l'entrée de la rue du Chemin-des-Dames, près de l'avenue de Saint-Ouen, se trouve un marchand de vin. Seulement la porte est dans l'avenue et une portion seule de la devanture se prolonge sur cette ruelle obscure où Rocambole devait venir. Un réverbère est à l'angle même, projetant un rayon lumineux de deux ou trois mètres de circonférence autour de lui. L'avenue est triste, peu éclairée, la ruelle est noire ; mais la brusque transition de ce rayon lumineux permet de voir d'autant plus distinctement tout ce qui se passe dans l'intérieur.</p>
           <p>Timoléon conduisit M. Karle de Morlux chez le marchand de vin. Celui-ci le salua comme on salue un homme que non seulement on connaît mais pour lequel encore on a une respectueuse estime, et, sans même lui adresser la parole, il lui fit signe qu'il pouvait monter. Timoléon enfila le petit escalier à balustrade recouverte d'une toile algérienne, qui se trouvait à la gauche du comptoir. M. de Morlux le suivit.</p>
@@ -2311,6 +2346,7 @@
           <p>Et Timoléon, se tournant vers M. de Morlux, lui dit d'une voix joyeuse : -- Cette fois, Rocambole est pris !...</p>
         </div>
         <div type="chapter">
+
           <head>XXXII</head>
           <p>Faisons maintenant un pas en arrière. Le Bonnet vert, c'est-à-dire le cocher qui avait, grâce à Noël, trouvé un asile chez Rigolo le croque-mort, était revenu à Montmartre à l'entrée de la nuit. À mesure qu'il approchait, le vieux forçat se sentait pris d'une indicible émotion. Il s'attendait à trouver la femme revenue et le pauvre ménage tout en larmes.</p>
           <p>Quel ne fut pas son étonnement de retrouver la clé sur la porte du logement vide ! Rigolo n'était pas rentré. Cependant il était nuit, et dès le matin Rigolo avait dû apprendre la mort de son enfant ! Sa femme avait fini son temps ; elle était libre depuis quarante-huit heures et, à moins qu'elle n'eût obtenu la permission de garder le pauvre petit mort jusqu'à l'heure des funérailles, il était inexplicable pour le Bonnet vert qu'elle ne fût pas revenue.</p>
@@ -2387,6 +2423,7 @@
           <p>En ce moment on frappa à la porte. Alors Rocambole reprit ses pistolets sur la table.</p>
         </div>
         <div type="chapter">
+
           <head>XXXIII</head>
           <p>Résumons en quelques mots la situation posée dans le chapitre précédent.</p>
           <p>On se rappelle le traquenard tendu par Timoléon à Rocambole et à ses deux fidèles, Jean le Boucher et le Bonnet vert. Ils doivent être le soir arrêtés par la police qui veille autour de la maison où le croque-mort leur donne asile en sa chambre, chambre où se trouve le lit dans lequel Timoléon a fait cacher par le traître chiffonnier Le Merle le portefeuille volé chez M. de Morlux. À l'heure dite, Rocambole arrive, transformé en mulâtre.</p>
@@ -2455,6 +2492,7 @@
           <p>Et Timoléon prit la fuite, suivi par M. de Morlux.</p>
         </div>
         <div type="chapter">
+
           <head>XXXIV</head>
           <p>Une véritable terreur semblait s'être emparée de Timoléon. Il fuyait à toutes jambes, comme si Rocambole lui-même eût été à ses trousses. Cependant, M. de Morlux finit par le rejoindre et lui mit la main sur l'épaule en lui disant : -- Mais est-ce donc que vous devenez fou ?</p>
           <p>– Non, dit Timoléon, mais j'ai peur.</p>
@@ -2523,6 +2561,7 @@
           <p>– Et, dit Timoléon froidement, vous ne paieriez qu'après la constatation du décès.</p>
         </div>
         <div type="chapter">
+
           <head>XXXV</head>
           <p>La proposition de Timoléon avait été, comme on dit, faite à brûle-pourpoint. M. de Morlux en fut si abasourdi qu'il garda un moment le silence. Mais Timoléon reprit : -- Ce que je vous propose là est à prendre ou à laisser. Si un meurtre vous répugne, n'en parlons plus... Vous êtes un homme d'esprit et d'intelligence, vous ferez face tout seul à l'orage ; mais, à présent, je ne veux pas me mesurer plus longtemps avec Rocambole.</p>
           <p>– Comment ! fit M. de Morlux, vous m'abandonneriez ?</p>
@@ -2599,6 +2638,7 @@
           <p>Cet homme, c'était Rocambole !</p>
         </div>
         <div type="chapter">
+
           <head>XXXVI</head>
           <p>Un siècle passa dans une minute pour Timoléon, un siècle de tortures et d'agonie. Terrifié, fasciné moins par les pistolets que par le regard flamboyant de Rocambole, cet homme qui n'avait plus de voix pour crier et dont le sang semblait figé tout à coup, tomba à genoux.</p>
           <p>– Rassure-toi, dit Rocambole, ta fille n'est pas morte. Mais elle dort... elle dormira même plusieurs heures...</p>
@@ -2675,6 +2715,7 @@
           <p>Rocambole, à son tour, éprouva un frisson par tout le corps.</p>
         </div>
         <div type="chapter">
+
           <head>XXXVII</head>
           <p>M. Karle de Morlux était un homme de résolution et d'énergie avant tout. Il avait bien, un moment, subi le contrecoup de la panique éprouvée par Timoléon ; mais, lorsque celui-ci l'eut abandonné à l'angle de l'église des Petits-Pères et de la rue Notre-Dame-des-Victoires, il retrouva son calme habituel.</p>
           <p>– Que m'importe ce Rocambole, après tout ! se dit-il. Quand Antoinette sera morte, il ne la ressuscitera pas.</p>
@@ -2757,6 +2798,7 @@
           <p>M. de Morlux s'en alla tranquille et rentra chez lui. Le poison était en route pour Saint-Lazare.</p>
         </div>
         <div type="chapter">
+
           <head>XXXVIII</head>
           <p>M. de Morlux avait gardé son fiacre à la porte du restaurant Baratte. Il laissa Rigolo rentrer dans cet établissement et s'en alla, sous prétexte de rassurer le patron.</p>
           <p>En réalité, il se fit conduire boulevard Malesherbes, renvoya le fiacre et rentra chez lui, vers une heure du matin, par la petite porte du boulevard Haussmann. M. Karle de Morlux, en dépit de ses cheveux blancs, menait encore une joyeuse vie, et cette petite porte lui était indispensable. Aussi quand ses gens entendaient cette porte s'ouvrir ou se fermer, ne bougeaient-ils pas de leurs lits.</p>
@@ -2827,6 +2869,7 @@
           <p>Alors Rocambole éprouva un léger frémissement des narines, qui indiquait chez lui une violente émotion.</p>
         </div>
         <div type="chapter">
+
           <head>XXXIX</head>
           <p>Retournons maintenant à la prison de Saint-Lazare.</p>
           <p>Il était huit heures du matin. La voiture cellulaire venait d'arriver. Parmi les détenues envoyées au dépôt se trouvait Philippette, la femme qui, pour cinq louis, avait consenti à se faire arrêter.</p>
@@ -2878,6 +2921,7 @@
           <p>Une minute après l'interne arriva et détourna pour une seconde l'attention des deux religieuses. Mais cette seconde avait suffi. La Chivotte venait de laisser tomber la capsule mortelle dans le bol de tisane destiné à Antoinette.</p>
         </div>
         <div type="chapter">
+
           <head>XL</head>
           <p>C'était donc à peu près l'heure où Philippette, messagère de mort sans le savoir, entrait à Saint-Lazare, que Timoléon, effaré, éperdu, avait rejoint Rocambole.</p>
           <p>Timoléon, après l'enlèvement de sa fille, comprenant que la vie de cette dernière dépendait de la vie d'Antoinette, car Rocambole tiendrait sa parole, en cas de malheur, Timoléon n'avait plus eu qu'une seule préoccupation ardente : trouver Lolo assez à temps pour que son horrible message n'arrivât point à destination. Deux choses le rassuraient cependant. La première, c'est que, selon toute probabilité, M. de Morlux attendrait au lendemain matin pour aller trouver Lolo. La seconde, c'est que, quoi qu'il arrivât, Lolo ne pourrait entrer à Saint-Lazare que vers midi.</p>
@@ -2951,6 +2995,7 @@
           <p>Et les deux forçats, consternés, virent alors une larme rouler sur la joue livide de Rocambole.</p>
         </div>
         <div type="chapter">
+
           <head>XLI</head>
           <p>Rigolo, pendant le trajet du faubourg Saint-Honoré à Saint-Lazare, eut de terribles battements de cœur. Quand il voyait sur le trottoir des rues qu'il parcourait un sergent de ville ou un de ces hommes vêtus en bourgeois qui paraissaient appartenir à la police, il se rejetait en arrière et se tenait coi dans le fond du fiacre. Ce n'était pourtant pas pour lui qu'il tremblait, mais pour Antoinette, dont la vie était en péril, lui avait dit Rocambole, s'il n'arrivait pas à Saint-Lazare avant midi. Enfin le fiacre s'arrêta devant la prison. Le factionnaire vit Rigolo en descendre et le laissa passer. Au lieu de payer le cocher et de le renvoyer, Rigolo lui dit :</p>
           <p>– Attendez-moi.</p>
@@ -3028,6 +3073,7 @@
           <p>– Je vous sauve d'une mort horrible, répondit froidement Vanda, tandis qu'Antoinette frissonnait...</p>
         </div>
         <div type="chapter">
+
           <head>XLII</head>
           <p>La lettre que Rocambole avait fait parvenir à Vanda, par l'entremise de Rigolo le croque-mort, était ainsi conçue : « Timoléon, l'agent des persécuteurs d'Antoinette, vient de faire passer à la Chivotte du poison destiné à la jeune fille. Ne la laisse plus ni boire ni manger et agis ! »</p>
           <p>C'était laconique, comme on le voit, et Rocambole ne prenait ni le temps ni la peine d'expliquer à Vanda comment il avait su par Timoléon lui-même qu'Antoinette était en danger de mort, et que, maître de la fille de ce dernier, il le tenait en respect.</p>
@@ -3130,6 +3176,7 @@
           <p>– Mais elle est morte ! s'écria-t-il.</p>
         </div>
         <div type="chapter">
+
           <head>XLIII</head>
           <p>Revenons à Timoléon, à qui nous avons vu Rocambole tourner le dos le matin après l'avoir traité d'imbécile.</p>
           <p>Timoléon avait passé une journée terrible. Il savait le poison à Saint-Lazare, et il n'avait aucun moyen de faire défendre promptement à la Chivotte de s'en servir. Rocambole avait eu beau lui dire de se tenir tranquille, Timoléon était livré à des angoisses qui devenaient plus poignantes d'heure en heure. Cette Antoinette qu'il avait persécutée, fait enlever par des bandits, confondue avec des voleurs et des femmes perdues, il aurait voulu maintenant lui sauver la vie au prix de la sienne, car la vie d'Antoinette, c'était la vie de sa fille. Il savait bien que, si Antoinette mourait, Rocambole tuerait sa fille à lui. Et cet homme, qui n'avait reculé devant rien, qui avait trahi les uns, volé les autres, et créé ce honteux métier qu'à Paris on appelle le chantage, mais dans le cœur de qui Dieu avait mis un sentiment honnête, comme une fleur parmi des ronces ; cet homme désespéré erra toute la journée de rue en rue, comme un corps sans âme, comme une âme en peine de son corps, regardant tout et ne voyant rien, écoutant sans entendre et oubliant même de manger.</p>
@@ -3173,6 +3220,7 @@
           <p>Et sur ces mots, Rocambole s'éloigna.</p>
         </div>
         <div type="chapter">
+
           <head>XLIV</head>
           <p>Tout ce que le journal racontait était rigoureusement vrai. Une espèce de révolte avait éclaté à Saint-Lazare, et après que la nouvelle de la mort d'Antoinette se fut répandue, la Chivotte fut presque assommée. Quand on la transporta à l'infirmerie, elle était dans un tel état que les médecins ne pouvaient répondre de sa vie.</p>
           <p>La surexcitation des détenues ne s'était pas calmée après cet acte de justice sommaire. Dans une prison d'hommes, on eût fait venir de la troupe, baïonnette en avant ; mais un tel moyen répugne lorsqu'il s'agit d'une prison de femmes, et le directeur, homme fort sage, préféra suivre les bons conseils de sœur Marie. Sœur Marie était, on s'en souvient, cette religieuse qui s'était montrée si bonne pour Antoinette, et que la jeune fille, dans sa lettre à Agénor, disait être, selon elle, une femme du monde que quelque violent orage avait jeté dans la vie du cloître. Sœur Marie avait dit au directeur : -- Toutes ces femmes, la plupart sans éducation et que le vice amène ici, sont portées naturellement à la superstition. Que demandent-elles ? À voir sur son lit de mort celle qu'elles prétendent être une sainte : pourquoi leur refuser cette satisfaction ? Je réponds de les calmer et de les faire rentrer dans l'obéissance et le devoir si cette permission leur est accordée.</p>
@@ -3245,6 +3293,7 @@
           <p>– Si vous criez, je vous étrangle ! dit Vanda qui avait un poignet de fer.</p>
         </div>
         <div type="chapter">
+
           <head>XLV</head>
           <p>L'infirmière était une vieille religieuse qu'on appelait sœur Léocadie. Elle avait plus de soixante ans, et n'avait plus cette énergie que la jeunesse prête au sentiment du devoir. Grande, maigre, d'une blancheur presque diaphane : elle avait le visage uni et sans rides, et sans ses cheveux blancs et sa taille voûtée, on aurait pu la croire jeune. Sœur Léocadie, qui était à Saint-Lazare avant que les religieuses y fussent un moment remplacées par des dames laïques, y était revenue lorsque ces dernières furent dépossédées de leurs fonctions. Elle jouissait dans la prison d'une foule de libertés et d'immunités que n'avaient jamais demandées les autres religieuses, qui sortent rarement et ne franchissent jamais la porte du greffe.</p>
           <p>Ainsi, elle avait, comme on dit, la clé maîtresse, c'est-à-dire celle qui ouvre non seulement les différentes portes de communication dans l'intérieur de la prison, mais encore celle qui permet d'arriver au greffe où commence le service des employés mâles. Sœur Léocadie ne relevait de personne, elle allait tout droit au directeur pour la moindre réclamation, sans jamais vouloir obéir à ce qu'on appelle la loi de la filière.</p>
@@ -3288,6 +3337,7 @@
           <p>Puis elle prit Marton dans ses bras et se posa avec elle sur le filet étendu. Après quoi elle tira la cordelette une seconde fois. Alors la grosse corde remonta peu à peu, le filet s'arrondit comme un sac autour des deux femmes, les couvrant jusque sous l'aisselle. Puis le filet quitta le sol et les deux prisonnières prirent dans les airs le chemin de la liberté.</p>
         </div>
         <div type="chapter">
+
           <head>XLVI</head>
           <p>Il est temps de revoir un des principaux personnages de notre histoire que nous avons perdu de vue depuis longtemps -- Agénor.</p>
           <p>Le jeune baron de Morlux, que nous avons laissé à la gare de l'Ouest, se mettant en route pour Rennes, où sa grand-mère, lui disait-on, l'attendait avec impatience, s'était bien en effet pris de querelle avec un officier durant le trajet et était descendu à Angers pour se battre avec lui. Agénor était brave ; en outre, il se trouvait dans une disposition d'esprit assez fâcheuse, et sa colère de quitter ainsi Paris à l'improviste et sans revoir Antoinette avait besoin de tomber sur quelqu'un.</p>
@@ -3355,6 +3405,7 @@
           <p>Agénor poursuivit sa lecture, jeta un nouveau cri et murmura : -- Mon père !... Ô mon père !...</p>
         </div>
         <div type="chapter">
+
           <head>XLVII</head>
           <p>Le baron Philippe de Morlux n'avait jamais beaucoup vécu avec son fils, dont il s'était séparé complètement pour retourner à ses plaisirs, aussitôt que le jeune homme avait atteint sa majorité. Cependant, Agénor aimait son père. Il l'aimait tendrement, avec ce respect que les gens de race ont coutume de se transmettre pour les ascendants.</p>
           <p>La lecture du manuscrit tracé par la baronne Miller fut pour lui un coup de foudre. Ainsi, Antoinette était sa cousine, et la fortune d'Antoinette, c'étaient son père et son oncle qui l'avaient volée ! Et le vol n'était pas leur unique crime, car la baronne Miller était morte empoisonnée, ainsi que l'attestait une lettre signée du docteur Vincent -- lettre que Rocambole mit sous les yeux d'Agénor.</p>
@@ -3427,6 +3478,7 @@
           <p>– Venez, dit Rocambole, qui le prit par la main et fit signe à Rigolo le croque-mort...</p>
         </div>
         <div type="chapter">
+
           <head>XLVIII</head>
           <p>Rocambole entraîna Agénor hors de la maison. Le jeune homme était soutenu par une sorte d'énergie fiévreuse. Rocambole l'avait pris sous le bras, et Milon marchait à côté de lui tout frissonnant.</p>
           <p>Au bout du Chemin-des-Dames, à droite, le mur du cimetière avait une crevasse ou plutôt une brèche d'environ deux mètres de largeur. Le terrain du cimetière est un argileux dans lequel l'eau séjourne quelquefois en abondance durant l'hiver. Il en résulte de graves dégâts pour les murs, qui sont parfois complètement déchaussés. Alors on jette par terre la portion de mur avariée pour la reconstruire à neuf. Rigolo marchait en avant, et ce fut par cette brèche qu'il fit entrer Rocambole, Agénor et Milon.</p>
@@ -3480,6 +3532,7 @@
           <p>– Et si elle n'était pas morte, en effet ? dit-il.</p>
         </div>
         <div type="chapter">
+
           <head>XLIX</head>
           <p>Agénor jeta un cri. Puis il demeura comme pétrifié, sans voix, sans haleine, regardant Rocambole d'un œil stupide. Milon, lui aussi, avait poussé un cri, mais c'était un cri de soulagement. Car le colosse, même en voyant la jeune fille étendue dans son cercueil, n'avait pu croire tout à fait que le maître, celui qui pouvait tout, l'eût laissée mourir.</p>
           <p>– Oui, répéta Rocambole, si elle n'était pas morte, que feriez-vous ?</p>
@@ -3545,6 +3598,7 @@
           <p>Et il recula encore, ses cheveux hérissés, son œil désespéré fixé sur Antoinette endormie du sommeil suprême...</p>
         </div>
         <div type="chapter">
+
           <head>L</head>
           <p>L'éternité passa dans les trois minutes qui suivirent.</p>
           <p>Rigolo soutenait Agénor dans ses bras. Milon s'était laissé tomber à genoux ; un flot de larmes un moment contenues jaillissait maintenant des deux yeux de Marton, qui répétait d'une voix déchirante :</p>
@@ -3622,8 +3676,10 @@
         </div>
       </div>
       <div type="group">
+
         <head>L'AUBERGE MAUDITE</head>
         <div type="chapter">
+
           <head>I</head>
           <p>Il y avait trois jours que M. le baron Philippe de Morlux n'avait pas vu son frère Karle. Il y en avait cinq qu'il n'avait eu de nouvelles de son fils Agénor. Le baron était en proie à une vive inquiétude. Cependant, comme toutes les natures faibles qui redoutent le danger et n'osent aller à sa rencontre, il hésitait à envoyer chez le vicomte. Il hésitait plus encore à répondre à sa belle-mère qui n'avait pas vu Agénor, bien que celui-ci fût parti pour Rennes.</p>
           <p>Enfin, le matin du quatrième jour, comme M. de Morlux, qui ne pouvait encore quitter son lit, demandait ses journaux, le valet de chambre les lui apporta en disant : -- Si Monsieur le baron veut lire le journal du soir, il y trouvera une chose intéressante, et dont tout le monde parle depuis hier soir dans Paris.</p>
@@ -3714,6 +3770,7 @@
           <p>Une heure après, M. Karle de Morlux montait en wagon, et murmurait : -- À Madeleine, maintenant !</p>
         </div>
         <div type="chapter">
+
           <head>II</head>
           <p>Maintenant rétrogradons d'une quinzaine de jours, et franchissons un espace considérable. Quittons la France pour la Russie -- Paris pour Moscou.</p>
           <p>La plaine est neigeuse ; les traîneaux sillonnent les vastes champs de l'Empire russe ; la bise est glacée. Une téléga de poste, attelée de trois chevaux garnis de clochettes, glisse et bondit sur le sol couvert de neige, et se dirige vers Moscou, passant au travers des forêts de sapins à demi ensevelis, changeant de chevaux à chaque relais solitaire et continuant sa course avec une rapidité vertigineuse. Le ciel est sombre, couvert de lourds nuages gris aux flancs chargés de neige. De la neige au ciel, de la neige sur la terre, sur les toits des maisons, sur la coupole dorée des églises, partout !</p>
@@ -3789,6 +3846,7 @@
           <p>« Et maintenant, ajouta-t-il avec un sourire qui donna le frisson à la comtesse : À l'œuvre !</p>
         </div>
         <div type="chapter">
+
           <head>III</head>
           <p>Or, la scène que nous venons d'esquisser à grands traits avait eu lieu, on le devine, la veille même du jour où Madeleine devait écrire à sa sœur Antoinette et lui raconter ce grand déchirement de son âme.</p>
           <p>Lorsque le comte Potenieff était revenu à Moscou, Madeleine était encore en proie à mille rêves de bonheur et d'avenir. Yvan l'aimait. Il le lui avait dit à genoux ; il lui avait juré qu'il n'épouserait pas la comtesse Vasilika, et qu'il n'aurait d'autre femme qu'elle. Et Yvan lui avait dit vrai : Yvan l'aimait ardemment, et, quand il paraissait certain du consentement de sa famille, il ne croyait pas mentir, car jusque-là, sa famille avait fait de lui son idole. Or, en apprenant l'arrivée de son père, Yvan qui passait une grande partie de ses journées hors de l'hôtel, en compagnie de quelques officiers, ses camarades du corps des cadets, s'empressa d'accourir.</p>
@@ -3839,6 +3897,7 @@
           <p>Il y eut entre ces deux hommes un regard échangé qui fut un poème d'infamie, et la téléga partit au galop.</p>
         </div>
         <div type="chapter">
+
           <head>IV</head>
           <p>La téléga de poste roule depuis huit jours. En Russie, la voiture fermée est inconnue. Tout véhicule est découvert. Et malgré le froid, malgré le vent qui fouette le visage, souvent chargé de cette poussière humide qu'il arrache à la neige, le voyageur continue sa route, les pieds et le corps enveloppés de chaudes fourrures. Madeleine et la vieille dame qui l'accompagne ne se sont arrêtées que pour prendre un peu de repos et de nourriture. Elles ont continué, changeant de moujik et de chevaux à chaque poste, ce voyage à travers les neiges et une nature si triste, que l'homme qui la contemple songe involontairement à la mort. La vieille dame est occupée de son chien ; elle ne pense qu'à lui et ne s'occupe que de lui. Ce chien -- un roquet affreux --, engourdi par le froid, repose sur ses genoux, couvert d'un triple édredon de fourrures. Madeleine voyage comme un corps sans âme ; mais la vieille dame n'y prend garde : elle est tout à son chien que le froid pourrait tuer.</p>
           <p>Quelquefois Madeleine ne peut retenir ses larmes, qui descendent lentement et silencieusement le long de ses joues pâlies. Mais la vieille dame ne les voit pas. Quelquefois aussi, le chien pousse un cri plaintif ; et la vieille dame répond par un cri d'angoisse. « Il a froid ! » murmure-t-elle éperdue. Madeleine ne répond pas. Madeleine songe à son cher Yvan qu'elle ne reverra jamais !</p>
@@ -3901,6 +3960,7 @@
           <p>L'Allemand accepte. La téléga continue à dévorer l'espace, et les clochettes tintent bruyamment. Elle traverse une plaine encore, puis une forêt de pins, puis une plaine encore, puis une forêt, et s'arrête... Alors Madeleine sort de son engourdissement, et, ouvrant les yeux, elle voit devant elle une maison d'apparence sinistre, au milieu d'un paysage plus sinistre encore. C'est l'auberge du Sava, la maison qui porte malheur !</p>
         </div>
         <div type="chapter">
+
           <head>V</head>
           <p>L'auberge du Sava était située au milieu d'une allée neigeuse fermée de tous côtés par des forêts impénétrables de sapins. C'était une maison à deux étages, construite en bois, peinte en rouge, avec son enseigne se détachant en noir sur un fond blanc. Cette enseigne, comme on le devine, représentait un grand duc, c'est-à-dire cet oiseau sinistre dont chaque cri annonce un malheur, auquel les Russes ont donné le nom de Sava. C'était l'heure crépusculaire qui, dans les régions australes, n'a que la durée d'un éclair. Les étoiles ne brillaient point encore au ciel, et cependant il ne faisait plus jour. Mais la clarté indécise que le ciel laissait arriver à la terre, comme une lueur suprême, permit à Madeleine de sortir de sa torpeur, de voir et d'examiner ce site sauvage et cette maison, qui ressemblait à un sépulcre. Pourtant, à travers le papier huilé qui tenait lieu de vitres, on voyait le rouge éclat d'un feu de sapins, et les strophes avinées d'une chanson cosaque arrivèrent aux oreilles de la jeune fille.</p>
           <p>Elle eut un geste d'effroi et un signe à Pierre, le faux muet, qui remplissait auprès d'elle, depuis le départ, les fonctions de valet de chambre. Pierre s'approcha. Le comte Potenieff l'avait donné pour muet à la jeune fille, mais il ne lui avait pas dit qu'il fût sourd.</p>
@@ -3957,6 +4017,7 @@
           <p>Pierre eut un sourire que Madeleine surprit, et soudain les dents de la jeune fille s'entrechoquèrent d'effroi.</p>
         </div>
         <div type="chapter">
+
           <head>VI</head>
           <p>Pour la première fois depuis huit jours peut-être, Madeleine semblait revenir tout à fait au sentiment de la vie réelle et à l'instinct du danger. Depuis huit jours, corps privé de son âme, elle avait voyagé machinalement, endormie en un léthargique sommeil de toute son intelligence. La vieille dame, le chien, le moujik, et Pierre le valet de chambre à la livrée du comte Potenieff, tout cela lui avait paru comme autant d'ombres projetées sur le mur désolé de sa vie. Yvan seul était vivant dans son cœur, dans sa pensée, devant ses yeux même, car il lui semblait qu'il était là, auprès d'elle agenouillé et lui disant : -- Tu as fait un horrible rêve, ô ma Madeleine adorée ! Je t'aime toujours et n'aimerai jamais que toi.</p>
           <p>Mais voici que tout à coup Madeleine se sentait arrachée à sa torture morale. La téléga s'arrêtait dans un lieu sinistre ; une volonté dominait tout à coup la volonté de Madeleine, et cette volonté c'était celle d'un valet. Quel était cet homme ? Depuis deux années qu'elle vivait dans Potenieff, Madeleine ne l'avait jamais vu ; elle n'avait jamais entendu dire que le comte eût un serviteur muet ; et voici qu'on lui donnait un homme pour l'accompagner, et voici que cet homme, tout à coup, devenait le maître de la situation, et c'était à lui qu'on obéissait. Alors Madeleine se souvint que durant le trajet, cet homme qui ne parlait pas, mais dont le regard avait une singulière éloquence, s'était pris à fixer les yeux sur elle, et que chaque fois elle avait éprouvé un singulier malaise. Que voulait cet homme ? Un moment, Madeleine avait compté sur l'appui de cette vieille idiote, dont le cœur, l'esprit et l'intelligence étaient tout entiers absorbés par un horrible carlin. Mais elle avait bien vite compris que cette femme ne lui serait d'aucun secours. Elle était seule, par le fait ! seule dans cette maison hideuse, rendez-vous des cosaques échappés à leur régiment, en face d'une hôtesse dont le sinistre visage ne lui présageait rien de bon... exposée aux brutalités d'un laquais qui semblait maintenant vouloir être le maître. Et Madeleine, à huit cents lieues de son pays, se retrouva soudain française. C'est-à-dire que la jeune fille se souvint que les filles du pays de France ont parfois l'énergie d'un homme, et qu'elles font face au danger avec la bravoure du soldat.</p>
@@ -4005,6 +4066,7 @@
           <p>Et à demi folle, elle alla ouvrir la porte.</p>
         </div>
         <div type="chapter">
+
           <head>VII</head>
           <p>La porte ouverte, Madeleine se trouva face à face avec Pierre le moujik. D'abord, elle s'imagina que celui dont elle avait cru entendre la voix, c'est-à-dire son époux bien-aimé, était derrière cet homme, muet pour elle jusque-là. Et comme elle demeurait sur le seuil, Pierre la poussa à l'intérieur de l'auberge.</p>
           <p>– Yvan, où es-tu ? fit-elle.</p>
@@ -4087,6 +4149,7 @@
           <p>Madeleine jeta un cri terrible, et d'un bond, se réfugia derrière la table.</p>
         </div>
         <div type="chapter">
+
           <head>VIII</head>
           <p>Cette table, rempart d'une minute, fut comme la ligne de démarcation tracée entre deux armées ennemies avant la bataille. Madeleine et le moujik s'observèrent alors pendant dix secondes, comme doivent se regarder le bourreau et la victime au moment suprême... Le bourreau résolu à tuer... La victime songeant à se défendre... Pierre avait les yeux injectés, la face violette, les lèvres agitées par un tremblement convulsif. Il était horrible à voir. Madeleine, la frêle et blonde jeune fille, était devenue d'une pâleur mortelle. Mais ses yeux presque noirs, tant ils étaient d'un bleu foncé, étincelaient d'indignation, et sa fierté révoltée lui donna, en ce moment, le courage d'un homme.</p>
           <p>– Ah ! misérable esclave ! dit-elle.</p>
@@ -4107,6 +4170,7 @@
           <p>Elle marcha ainsi, à travers la nuit, tombant à chaque minute, se relevant et invoquant Dieu. La plaine paraissait s'allonger et l'horizon s'éloigner. Les grands bois avaient l'air de fuir devant elle. Tout à coup elle s'arrêta. Était-ce une vision du délire, était-ce une de ces illusions que donne la fièvre ? Il lui semblait que là-bas, tout là-bas dans le lointain, au bord de la forêt, une lumière se mouvait. Il lui avait semblé qu'un léger bruit traversant l'espace était venu mourir à ses oreilles. Cette lumière, n'était-ce pas le fanal d'une téléga ? Ce bruit, le carillon des clochettes que les chevaux russes secouent en dévorant l'espace ? Madeleine fit quelques pas encore, le cou tendu, l'oreille interrogeant le souffle du vent, l'œil désespérément fixé sur l'horizon... puis encore quelques pas... Puis ses forces la trahirent, elle tomba sans connaissance, et ferma les yeux en murmurant le nom de sa chère Antoinette et le nom de son Yvan bien-aimé.</p>
         </div>
         <div type="chapter">
+
           <head>IX</head>
           <p>Madeleine semble maintenant dormir du sommeil de la mort. Étendue sur la neige, raidie par le froid, elle a la fièvre brûlante qui précède la dernière heure. Ses yeux se sont fermés ; ses lèvres crispées ne laissent plus échapper ni un cri ni une plainte... Et cependant elle est en proie à un délire intérieur, et elle rêve... Comme ces malheureux qui manquent de pain et à qui le sommeil apporte des rêves remplis d'opulence, la malheureuse enfant, dont le cœur est brisé, fait un rêve de bonheur. Le drame d'il y a huit jours, cet horrible drame qui a son départ de Moscou pour dénouement, n'existe pas pour elle. Non, à l'heure où elle songe, Madeleine est heureuse. Elle est heureuse et fière de l'amour d'Yvan. Le rêve a déployé pour elle ses féeries et son décor le plus gracieux. Madeleine est dans ce château de la Russie méridionale où elle a connu Yvan. Le ciel est bleu, la steppe est en fleurs, l'alouette chante au-dessus des blés mûrs, qui tombent sous la faucille du moissonneur. La varanda, ou salon d'été du château, est ouverte sur les jardins aux bosquets de lauriers-roses. Au-delà des jardins, perdue dans la brume, une chaîne de collines bleue ; au bout des collines, la mer, unie et calme comme un lac. Madeleine est assise sous les touffes de chèvrefeuilles qui grimpent autour des colonnes de marbre et sur les murs de la varanda. Mlle Olga Potenieff est près d'elle et lui donne le nom de sœur. Toutes deux, l'œil fixé sur la steppe, suivent du regard un droski attelé à la russe et dont les trois chevaux sont rapides comme le vent du sud. Un homme conduit le droski avec une légèreté de main, une audace et une adresse merveilleuses. C'est Yvan. Et Mlle Olga dit à Madeleine :</p>
           <p>– Chère belle, comme vous paraissez impatiente de revoir votre cher mari...</p>
@@ -4115,6 +4179,7 @@
           <p>Le château, la varanda, Olga qui l'appelait ma « sœur » tout cela n'était qu'un rêve. Le réveil, c'est la plaine déserte, la plaine neigeuse au milieu de laquelle elle est tombée épuisée. Madeleine se dresse sur ses genoux et regarde... Au loin, elle aperçoit toujours cette clarté mobile, ce point lumineux qu'elle a pris pour le fanal d'un traîneau. Elle entend même vaguement des clochettes que les chevaux sonnent en courant. Et Madeleine, pleine de courage, se relève pour aller au-devant de cette téléga de poste qui, peut-être, est le salut pour elle. Mais tout à coup, elle s'arrête interdite, anxieuse... Le point lumineux qui s'agitait à l'horizon semble s'être doublé. Plus près, beaucoup plus près, Madeleine aperçoit quelque chose qui brille et ressemble à un charbon ardent tombé sur le sol. Puis une autre clarté s'allume à sa gauche et encore une autre à sa droite. La lumière qui brille au lointain est claire, celles-là sont mornes et sombres ; mais mobiles comme la première, elles se rapprochent peu à peu. On dirait des étoiles détachées de la voûte du ciel et se jouant sur la neige. Madeleine s'est arrêtée, prise à la gorge par l'angoisse d'une singulière épouvante. Les charbons ardents se multiplient et se rapprochent, formant autour de la jeune fille comme un cercle de feu. Il y en a dix, vingt, trente et de tous les points de l'horizon il en accourt de nouveaux. Est-ce encore une hallucination ? Madeleine, en proie à la fièvre, a-t-elle été replongée dans le monde fantastique des songes ? Non, car là-bas, à l'horizon, le fanal de la téléga grandit, et maintenant le son des clochettes de l'attelage arrive distinct à son oreille. Et Madeleine a bien les yeux ouverts !... Et les tempes baignées d'une sueur glacée, les cheveux hérissés, la jeune fille essaie en vain de compter ces rouges étoiles qui, deux par deux, viennent sur elle et l'entourent. Non, ce n'est pas une hallucination... ce n'est pas un rêve... Et Madeleine qui, tout à l'heure, se remettait en marche et allait à la rencontre de la diligence, Madeleine recule à présent, pas à pas, lentement, et faisant appel à tout son courage... à tous ses souvenirs... à tous les récits qu'elle a souvent entendus depuis qu'elle est en Russie. Car ce cercle de feu, qui va toujours se rétrécissant autour d'elle, Madeleine l'a reconnu, elle ne peut s'y tromper. C'est une de ces terribles bandes de loups qui désolent les campagnes russes et que la neige fait sortir affamés du fond des bois. Les terribles carnassiers ont flairé une proie, et ils sont accourus de tous les points de l'horizon. Madeleine les voit maintenant par corps, comme disent les chasseurs ; le point lumineux part d'une masse noirâtre qui s'agite sur la neige. Et la téléga est loin encore, malgré le son des clochettes qui devient de plus en plus distinct. Et les loups rétrécissent toujours le cercle... Et cependant aucun d'eux n'ose encore bondir sur la jeune fille. Madeleine a entendu dire que certains paysans russes ont été dévorés pour avoir pris la fuite ; que d'autres ayant fait un faux pas ont été mis en pièces ; mais que celui qui recule lentement, opposant à l'œil sanglant des redoutables carnassiers le rayonnement fascinateur de l'œil humain a pu leur échapper. Et Madeleine qui, sous sa frêle enveloppe, cache un cœur d'acier, Madeleine se met à reculer lentement, peu à peu... regardant toujours les loups qui la suivent dans l'ombre. Madeleine sait que si elle fait un faux pas, elle est perdue... Aussi marche-t-elle avec précaution, n'osant cependant détourner la tête pour choisir son chemin, car si elle cesse de fasciner les loups, les loups se jetteront sur elle. Tout à coup elle heurte quelque chose de flasque et d'inerte qui gît sur le sol, et elle ne peut réprimer un cri. À ce cri les loups s'arrêtent, un grognement se fait entendre... Et l'objet qu'elle a heurté s'agite sur le sol. Madeleine se détourne et continue à marcher. Elle a compris, elle a deviné, plutôt qu'elle n'a vu. Ce qu'elle a heurté, c'est le cosaque. Le cosaque qui la poursuivait tout à l'heure, et que l'ivresse cloue maintenant sur le sol. Tiré par ce choc de son sommeil, le malheureux veut se lever... Il se dresse sur ses genoux, pousse un horrible blasphème et retombe. Mais aussitôt un hurlement épouvantable se fait entendre et la bande de loups tout entière se jette sur le cosaque, oubliant un moment Madeleine. Madeleine, saisie d'horreur, s'est arrêtée à dix pas, et entend les cris d'agonie du malheureux dont les os craquent un à un sous la dent des loups. Et Madeleine se dit qu'après le cosaque, son tour viendra. Et, cette fois, l'épouvante a paralysé ses mouvements, et elle n'a plus la force de reculer !</p>
         </div>
         <div type="chapter">
+
           <head>X</head>
           <p>Peterhoff est un bourg de deux cents maisons, le plus près de la frontière polonaise. Il n'a qu'une seule rue. La dernière maison du côté de la Pologne est le poste de police. La première, en entrant par la route de Moscou, est un relais de poste. Cette nuit-là, à peu près à l'heure où Madeleine était en butte aux obsessions de Pierre le moujik, une téléga relayait à Peterhoff. Tandis qu'on changeait les chevaux, deux voyageurs étaient restés dans la maison du relais et se chauffaient auprès du poêle. L'un était un homme de cinquante ans, aux cheveux blancs, mais à la tournure encore jeune et dont le regard accusait un reste de virilité énergique. Les membres du club des Asperges, à Paris, eussent reconnu en lui M. le vicomte Karle de Morlux. L'autre était un petit homme sec, maigre, aux traits anguleux, au regard indécis et fuyant. Son costume était celui que portent les bourgeois polonais, c'est-à-dire la redingote à brandebourgs, le bonnet fourré d'astrakan et les demi-bottes, également garnies de fourrures. Cet homme, ancien valet de chambre de M. de Morlux, était établi depuis quinze ans à Varsovie comme marchand de pelleteries. C'était lui qui, jadis, avait eu pour mission de suivre en Allemagne la malheureuse baronne Miller, et d'organiser contre elle ces tentatives de mort auxquelles elle n'avait échappé que par miracle. Bien qu'il n'eût pas réussi, le vicomte tenait son homme pour habile, intelligent et capable de tout. Aussi l'avait-il largement payé. Hermann s'était retiré d'abord en Allemagne, puis à Varsovie, et là, grâce aux libéralités de son maître et complice, il avait entrepris un commerce qui prospérait, lorsque, un matin, M. de Morlux, descendant d'une chaise de poste, était entré chez lui. Hermann avait eu peine à reconnaître son ancien maître, tant il était vieilli.</p>
           <p>– J'ai besoin de toi, lui avait dit le vicomte.</p>
@@ -4163,6 +4228,7 @@
           <p>Et il montrait les loups qui s'étaient jetés sur le loup blessé et le déchiraient tout vivant encore.</p>
         </div>
         <div type="chapter">
+
           <head>XI</head>
           <p>Tandis que la téléga du vicomte de Morlux dévorait l'espace, escortée par la bande de loups qui, de temps en temps, s'arrêtait pour dévorer celui qui tombait frappé d'une balle, car Hermann et son ancien maître, une fois la partie commencée, s'étaient mis à faire feu presque sans relâche, Madeleine saisie d'épouvante assistait à la mort du cosaque. La lutte n'avait pas été longue en réalité, mais en apparence elle avait duré un siècle. Le cosaque s'était débattu : il avait essayé de repousser les horribles carnassiers ; il en avait même saisi un à la gorge, et, dans un effort désespéré, il l'avait étranglé. Mais ce n'était qu'un ennemi de moins ; et il y en avait plus de trente. Madeleine l'entendit hurler comme une bête fauve ; mais ses hurlements confus s'éteignirent par degrés ; puis elle ne vit plus qu'une masse informe et sanglante qui pantelait sous la dent des loups. Les os craquèrent et l'horrible festin commença. Madeleine regardait toujours, clouée au sol par l'épouvante.</p>
           <p>Tout à coup, le silence de la nuit, qui n'avait été troublé jusqu'ici que par les cris d'agonie du cosaque et par le bruit lointain des clochettes, qui déjà avait frappé l'oreille de Madeleine, fut brusquement interrompu par un bruit formidable. C'était une série de détonations qui se succédaient avec rapidité, une véritable fusillade. Le fanal rouge de la téléga était maintenant tout proche de Madeleine et, de minute en minute, il disparaissait un moment dans un nuage de fumée. Les loups continuaient paisiblement à dévorer le cosaque et ne s'inquiétaient pas des coups de fusil. Mais qu'était-ce qu'une semblable proie pour tant de gueules affamées ? Madeleine se retrouva bientôt entourée par ceux qui ne trouvaient pas de place au festin. Cependant elle était debout, et la fièvre, l'épouvante donnaient à ses regards une telle animation que les plus hardis, ceux qui s'étaient le plus approchés, n'osaient se jeter sur elle. La téléga arrivait rapidement avec son escorte terrible, qui semait, en courant, la plaine de cadavres. Madeleine jeta un cri. Un cri si perçant, si aigu qu'il fut entendu de la téléga. Cependant elle passa auprès d'elle comme la foudre, tandis qu'une triple décharge répandait la mort au milieu des loups. Une fois encore Madeleine fut oubliée.</p>
@@ -4186,6 +4252,7 @@
           <p>Décidément, l'auberge du Sava était bien nommée. C'était bien la maison qui porte malheur, car Madeleine n'avait échappé au moujik, au cosaque et à la dent des loups que pour tomber aux mains de M. de Morlux, son plus cruel ennemi.</p>
         </div>
         <div type="chapter">
+
           <head>XII</head>
           <p>Laissons un moment Madeleine aux mains de M. de Morlux, l'homme qui a juré sa perte, et transportons-nous à quelques lieues de l'auberge du Sava le lendemain de cette nuit terrible dont nous avons raconté les émouvantes péripéties. Studianka est un village fameux dans l'histoire. C'est là que Napoléon a bivouaqué pendant la nuit qui a précédé le passage de la Bérésina. C'est à Studianka que le général Éblé et ses héroïques pontonniers jetèrent ce pont de bateaux gigantesque sur lequel s'engagea l'armée française. Aujourd'hui que de longues années de paix ont passé, Studianka est une petite ville, une bourgade si l'on veut, qui possède un gouverneur militaire et une garnison, car les maisons baignent leurs pieds dans le fleuve, et en font une véritable position stratégique. Studianka n'a qu'une rue. Au milieu de cette rue est une place, et sur la place un monument carré d'un aspect imposant : c'est à la fois la forteresse, le logis du gouverneur, la caserne et la prison. Le jour du marché, les paysans des environs se réunissent sur cette place et y traitent de leurs affaires. C'est là aussi que s'arrêtent les voyageurs ; sur une face de la forteresse, il y a une auberge, et cette auberge est en même temps le relais de la poste aux chevaux.</p>
           <p>Or ce jour-là était un jeudi, et le jeudi est jour de marché. Il était dix heures du matin. Le ciel était pur, et le soleil arrachait des myriades d'étincelles à la neige cristallisée qui couvrait les toits des maisons et le sol des rues. La place était encombrée d'une foule compacte qui se pressait devant la forteresse. Il y avait du monde aux fenêtres, du monde sur le seuil de l'auberge et notamment en cet endroit, deux personnages qui paraissaient étrangers et qui questionnaient les personnes dont ils étaient entourés, car ce mouvement populaire leur paraissait inusité. C'étaient un homme et une femme. La femme parlait correctement le russe, mais l'homme n'en balbutiait que quelques mots, et cela avec un accent allemand des plus prononcés. Ils étaient arrivés la veille au soir et s'étaient arrêtés à Studianka. C'étaient, on n'en pouvait douter, le mari et la femme, et l'hôtelier de Studianka, curieux comme tous les gens de son métier, avait bientôt su que c'étaient de riches commerçants de la Pologne prussienne qui se rendaient à la grande foire de Moscou. Le mari était un homme de trente-six à trente-huit ans, la femme paraissait avoir la trentaine. Elle était blonde et fort belle, sous son pittoresque costume national. Et comme l'hôtelier s'étonnait de la pureté avec laquelle elle parlait la langue russe, elle s'était mise à rire, en disant :</p>
@@ -4232,6 +4299,7 @@
           <p>L'hôtelier fut interrompu dans son intéressante narration par un nouveau tumulte. La jeune femme regardait avidement la porte de la prison qui venait de s'ouvrir. Et sur le seuil de cette porte, entre deux soldats, apparaissait le bourreau, son terrible fouet à la main.</p>
         </div>
         <div type="chapter">
+
           <head>XIII</head>
           <p>Ce criminel à qui était dévolu l'office de bourreau avait un type étrange. C'était un homme de quarante ans, sec, maigre, aux traits anguleux, mais dont la charpente osseuse annonçait la constitution vigoureuse et presque herculéenne. Non point que la force soit nécessaire pour appliquer le knout. Il est des bourreaux qui frappent à tour de bras ; ils sont moins à craindre que d'autres. Donner le knout est une véritable affaire d'adresse. Le knout est un fouet : semblable à celui des postillons qui conduisent à l'allemande. Le manche est très court ; la lanière est très longue et se termine par une mèche de cuir bouilli qui, séché ensuite dans le four, devient dur et tranchant comme la lame d'un rasoir. Cette mèche se ramollit bien vite, et le bourreau la change tous les trois ou quatre coups. Le bourreau habile trace du premier coup une croix sur le dos du patient. Il a la permission de frapper sur les reins, sur le côté droit, sur les épaules, mais non sur le côté gauche. Un coup frappé à la hauteur du cœur pourrait amener la mort.</p>
           <p>Celui que la femme blonde contemplait en ce moment était donc un homme d'environ quarante ans. À le voir sur le seuil de la prison, immobile, les narines dilatées, aspirant l'air à pleins poumons, promenant comme émerveillé un regard d'envie sur la foule, on devinait bien vite que le supplice lui était indifférent, que ce qui excitait en lui cette joie sauvage qui brillait dans ses yeux, c'était cette heure de soleil et de liberté dont il allait jouir. Il n'avait pas même regardé le patient. Ce dernier promenait sur la foule un regard investigateur. On eût dit qu'il cherchait un visage ami au milieu de toutes ces figures avides d'émotions qui venaient se repaître de son supplice. Tout à coup son visage pâle se colora légèrement, ses yeux brûlèrent. Une femme fendait la foule, et, comme elle murmurait à chacun une parole caressante et pleine de prière, on s'écartait pour la laisser passer. Elle arriva ainsi jusqu'aux soldats qui faisaient la haie autour du poteau. Les soldats la repoussèrent d'abord ; mais elle les supplia tant et tant qu'ils la laissèrent parvenir jusqu'au condamné. C'était une belle jeune fille de vingt ans tout au plus, aux yeux noirs, à la chevelure épaisse et bouclée, d'un châtain clair. Elle se dressa sur la pointe des pieds, et de ses lèvres effleura le front du condamné.</p>
@@ -4264,6 +4332,7 @@
           <p>– Pauvres gens ! murmura l'hôtelier qui avait entendu ces dernières paroles ; les grandes routes sont plus sûres pour vous que la maison de ce bandit !</p>
         </div>
         <div type="chapter">
+
           <head>XIV</head>
           <p>Plus de six heures après, l'intendant Nicolas Arsoff et ses convives étaient encore à table. La jeune femme riait, coquetait et se prêtait d'assez bonne grâce aux galanteries du Tatar. L'Allemand fumait, enveloppé dans un nuage de fumée, et ne paraissait pas se soucier beaucoup de sa femme. Quant à Nicolas Arsoff, il était ivre et son ivresse était communicative.</p>
           <p>– Belle dame, disait-il à la jolie Allemande, la foire de Moscou n'ouvre pas encore, et vous avez bien le temps d'arriver dans la grande ville. Vous ne me refuserez pas de venir passer une huitaine de jours dans mon château ?</p>
@@ -4344,6 +4413,7 @@
           <p>Et il arma son pistolet... et le moujik épouvanté cingla ses trois chevaux d'un vigoureux coup de fouet.</p>
         </div>
         <div type="chapter">
+
           <head>XV</head>
           <p>– En vérité, maître, vous avez eu la main aussi malheureuse que le cœur bien placé, disait, le matin de ce jour-là, l'ancien valet de chambre Hermann à M. le vicomte Karle de Morlux...</p>
           <p>Ils étaient en traîneau et retournaient sur Peterhoff. Mais ils emmenaient Madeleine. Madeleine, l'œil brillant de folie, s'était assise à l'arrière de la téléga, promenant autour d'elle un regard égaré, on devinait qu'elle n'avait plus conscience de ce qui s'était passé. Le vicomte et son ancien serviteur parlèrent allemand.</p>
@@ -4416,6 +4486,7 @@
           <p>– Aussi vrai, ajouta l'Allemand, que je m'appelle Rocambole !...</p>
         </div>
         <div type="chapter">
+
           <head>XVI</head>
           <p>Le château du comte Potenieff était une résidence au milieu des bois et des marais qui couvrent cette partie de l'empire moscovite qu'on appelle la Russie noire. Cette résidence, car ce n'était pas un château dans l'acception occidentale du mot, était un vaste bâtiment carré à deux étages, défendu au nord et à l'est par un étang bordé d'ajoncs, au sud par une forêt impénétrable. On n'y arrivait facilement que par une chaussée construite au milieu de l'étang, très profond en de certains endroits, et glacé huit mois de l'année, mais non point d'une façon assez complète pour qu'on osât s'y aventurer en traîneau. Le comte Potenieff, nous l'avons dit, préférait ses terres de la Russie méridionale et ne venait jamais à Lifrou, c'était le nom de ce domaine. Aussi la maison se ressentait-elle de cet abandon du maître.</p>
           <p>Nicolas Arsoff, homme paresseux, ivrogne et débauché, prisait peu le confortable intérieur ; il vivait beaucoup au-dehors, toujours en route pour quelque ville voisine ou quelqu'un des villages qui dépendaient, terres et serfs, du domaine de Lifrou. Les paysans qui lui étaient soumis étaient les plus malheureux de tous, à vingt lieues à la ronde, et Nicolas, presque toujours ivre, ne recouvrait son sang-froid et sa raison que lorsqu'il fallait faire payer les taxes et les redevances, ou fournir des soldats au gouvernement. Alors, comme le choix des hommes dépendait de lui, malheur à celui dont il convoitait la fiancée ; malheur à cet autre qui avait reçu le knout en murmurant !...</p>
@@ -4480,6 +4551,7 @@
           <p>Et Rocambole s'éloigna, enjoignant à Vanda de retourner sur-le-champ auprès de la jeune fille.</p>
         </div>
         <div type="chapter">
+
           <head>XVII</head>
           <p>Vanda, la veille au soir, avait quitté trop tôt cet angle obscur de la grande salle, où elle avait surpris la conversation de M. de Morlux et d'Hermann. Elle avait cru tout savoir, et en remontant auprès de Madeleine, elle ne se doutait pas de ce qui allait arriver.</p>
           <p>– Dites donc, maître, fit Hermann, que pensez-vous de ces deux Allemands qui sont ici ?</p>
@@ -4562,6 +4634,7 @@
           <p>Et, comme Timoléon, quinze jours auparavant, M. de Morlux eut peur.</p>
         </div>
         <div type="chapter">
+
           <head>XVIII</head>
           <p>En Russie, le service de la poste aux chevaux est mieux organisé que celui de la poste aux lettres. Les neiges, qui n'interrompent que rarement le premier, sont quelquefois un sérieux obstacle au second. Le château de Lifrou n'avait pas de service postal régulier avec Studianka. Seulement, quand une lettre arrivait dans le bureau de cette petite ville ou dans celui de Peterhoff, à l'adresse de maître Nicolas Arsoff ou de quelqu'un de ses paysans, le directeur envoyait un moujik dans un traîneau, et le moujik apportait le message. Or, en quittant Paris, M. de Morlux avait recommandé à ses gens de lui expédier ses lettres à Varsovie, poste restante. Arrivé à Varsovie, il avait, sur le conseil de son valet de chambre Hermann, recommandé qu'on lui adressât tout ce qui arrivait pour lui au château de Lifrou, district de Studianka, en Russie.</p>
           <p>Après sa conversation avec Hermann et les révélations que l'ivrogne Arsoff avaient faites dans son sommeil, on le devine, le vicomte avait passé une assez mauvaise nuit. Il était sous le même toit que Rocambole, et Rocambole n'était pas homme à être venu si loin pour faire un simple voyage d'agrément. Jusqu'au jour, M. de Morlux avait médité, la main sur ses pistolets, qu'il avait glissés sous son traversin. Mais le jour était venu avec un gai rayon de soleil, et M. de Morlux, le visage collé aux vitres de sa fenêtre, avait attendu avec impatience le moment où il apercevrait son ennemi. L'Allemand, c'est-à-dire Rocambole, était resté, comme nous l'avons déjà dit, chez Madeleine, auprès de laquelle Vanda avait passé la nuit. Puis il était sorti avec Vanda et l'avait emmenée sur la chaussée de l'étang pour causer plus librement en plein air. M. de Morlux l'avait donc vu partir, son fusil sur l'épaule, et il s'était dit :</p>
@@ -4609,6 +4682,7 @@
           <p>Et tous deux se regardèrent alors comme deux démons prêts à signer un pacte infâme et terrible.</p>
         </div>
         <div type="chapter">
+
           <head>XIX</head>
           <p>Il y eut, après ces paroles de M. de Morlux, un moment de silence entre Nicolas Arsoff et lui. L'intendant dit enfin : -- Mon cher monsieur, vous voulez me tenter ?...</p>
           <p>Il n'était point dépourvu d'une certaine astuce, et il se défiait.</p>
@@ -4690,6 +4764,7 @@
           <p>– S'il fume celui-là, dit alors l'intendant, nous pourrons sans danger l'envoyer au gouverneur militaire de Studianka.</p>
         </div>
         <div type="chapter">
+
           <head>XX</head>
           <p>Nous avons laissé Rocambole causant avec Vanda sur la chaussée de l'étang et lui disant ces derniers mots : -- Non, il ne faut pas que cet homme soit puni ici. C'est à Paris que je lui réserve le juste châtiment de ses crimes.</p>
           <p>Vanda s'en allait à petits pas vers le château, tandis que Rocambole s'éloignait. Tout à coup, celui-ci s'arrêta et se retourna. Vanda s'était arrêtée aussi. Ils n'étaient guère qu'à cent pas l'un de l'autre, et Rocambole lui fit un signe. Vanda comprit qu'il avait encore quelque chose à lui dire. Elle revint donc sur ses pas. Rocambole s'assit sur un tronc d'arbre, posa son fusil auprès de lui et dit à la jeune femme : -- Cela t'étonne, n'est-ce pas, dit-il, que lorsqu'il me serait si facile de me débarrasser de M. de Morlux d'un coup de carabine ou d'un coup de poignard, je ne le fasse point ?</p>
@@ -4759,6 +4834,7 @@
           <p>En même temps, Rocambole mit la main dans la coupe, y prit un de ses cigares, le porta à ses lèvres et l'alluma avec le papier enflammé que lui tendit Nicolas Arsoff.</p>
         </div>
         <div type="chapter">
+
           <head>XXI</head>
           <p>Quelques heures auparavant, Vanda, obéissant aux ordres de Rocambole, était restée dans la chambre de Madeleine. La jeune fille était plus calme ; ses crises nerveuses avaient disparu, et les folles terreurs auxquelles elle avait été en proie s'étaient peu à peu dissipées. Mais restait la douleur profonde ; cette douleur qui veillait muette sur son âme blessée. Madeleine aimait Yvan, et elle en était séparée pour toujours...</p>
           <p>Pour elle, jusqu'à cette heure, Vanda n'était autre chose qu'une amie de hasard, une étrangère qui, émue de compassion, s'était intéressée à elle et lui avait prodigué ses soins. Jusque-là, Madeleine ne lui avait parlé ni de sa sœur, ni de sa triste situation, et Vanda s'était tenue sur la réserve. Aussi, la jeune fille fut-elle stupéfaite lorsque Vanda, revenant s'asseoir à son chevet, après avoir poussé le verrou de la porte, lui dit : -- Mademoiselle, savez-vous que j'ai fait six cents lieues tout exprès pour vous ?</p>
@@ -4815,6 +4891,7 @@
           <p>Et elle lui montrait un point lumineux qui venait de surgir dans le lointain. C'était le fanal du traîneau conduit sans doute par Alexis et sa jeune femme Catherine. Le point lumineux dévorait l'espace ; il approchait, et il vint bientôt s'arrêter derrière un bouquet d'arbres, à cent mètres des murs du château. Rocambole ne remontait pas. Vanda et Madeleine attendirent anxieuses, comme attendait le traîneau. Une heure s'écoula. Le château était devenu silencieux ; et les pas des valets et des paysans qui composaient le nombreux domestique de Nicolas Arsoff s'étaient éteints. Rocambole était toujours dans la grande salle du poêle. Vanda entrouvrit la porte de la chambre. Le corridor était plongé dans l'obscurité. Elle prêta l'oreille... et n'entendit aucun bruit. Alors, inquiète, elle se décida à descendre. Le poêle ne projetait plus qu'une lueur incertaine autour de lui. Cependant, Vanda, qui s'était arrêtée sur le seuil de la grande salle, aperçut auprès du poêle un fauteuil. Et, dans ce fauteuil, Rocambole endormi !... Et l'heure de la fuite était venue, et Rocambole dormait. Vanda eut un froid au cœur et pressentit une terrible catastrophe.</p>
         </div>
         <div type="chapter">
+
           <head>XXII</head>
           <p>Vanda s'approcha du fauteuil et appela tout bas Rocambole. Mais Rocambole n'ouvrit pas les yeux. Alors elle le secoua fortement et cette fois, il s'éveilla. Mais il ne quitta point son fauteuil et se borna à murmurer :</p>
           <p>– Est-ce qu'on ne va pas me laisser dormir ?</p>
@@ -4878,6 +4955,7 @@
           <p>Vanda jeta un cri d'indignation et d'épouvante et attacha sur Rocambole un regard désespéré. Mais Rocambole riait comme un idiot : et, brisée, éperdue, Vanda s'affaissa sur elle-même en se tordant les mains.</p>
         </div>
         <div type="chapter">
+
           <head>XXIII</head>
           <p>Le soldat russe est un esclave de la discipline. On commande et il obéit ; il est flegmatique comme un Allemand, et ne recule jamais d'une semelle. Le sous-officier, à qui M. de Morlux venait de dénoncer Vanda comme recherchée par la police russe, lui répondit avec calme : -- Il est possible que ce que vous dites soit vrai ; mais je n'ai pas été envoyé pour cela. Mes chefs m'ont dit de venir ici chercher trois hommes pour le contingent, et non point pour arrêter madame.</p>
           <p>Mais M. de Morlux ne se tint pas pour battu.</p>
@@ -4936,6 +5014,7 @@
           <p>Elle monta résolument sur l'entablement de la croisée, et, tandis qu'elle saisissait la corde à nœuds d'une main, elle passa son autre bras autour de la taille de Madeleine, répétant : -- Fuyons !...</p>
         </div>
         <div type="chapter">
+
           <head>XXIV</head>
           <p>La nuit était noire. On n'entendait maintenant d'autre bruit que les gémissements du vent sous lequel les arbres se courbaient en craquant. Cependant, avant de descendre, Vanda hésita un moment. Il lui avait semble qu'au bas de la fenêtre, sur la neige, il y avait un point noir. Mais comme cet objet était immobile, elle le prit pour un de ces arbres nains dont abonde la végétation russe.</p>
           <p>– À la garde de Dieu ! murmura-t-elle.</p>
@@ -4979,6 +5058,7 @@
           <p>Tout était perdu !...</p>
         </div>
         <div type="chapter">
+
           <head>XXV</head>
           <p>Suivons maintenant M. de Morlux. C'était trop d'émotion et de terreur pour Madeleine. La jeune fille avait fermé les yeux et s'était évanouie. Le froid de la nuit, au lieu de la ranimer, acheva de l'engourdir. La téléga glissait sur la neige avec la rapidité d'une mouette effleurant les vagues de la mer. Les chevaux, ferrés à glace, secouaient leurs clochettes, et le moujik à qui M. de Morlux avait promis une forte récompense si on arrivait à Studianka avant le jour, ne cessait de les exciter de la voix et du fouet.</p>
           <p>Au bout d'une heure de cette course insensée, Hermann, qui, on se le rappelle, s'était assis à côté du moujik, se retourna. M. de Morlux avait attiré sur ses genoux la tête pâle de Madeleine, qui paraissait en proie déjà au sommeil de la mort. Le fanal de la téléga était à double face, et il éclairait à la fois l'intérieur du traîneau et la route que l'on parcourait. Hermann vit M. de Morlux contempler avec un sombre enthousiasme cette femme dont il avait juré la perte et pour laquelle cependant il s'était épris d'une passion féroce. Et un sourire vint aux lèvres du valet, et il dit à son maître d'un ton moqueur : -- Vous l'aimez donc bien ?</p>
@@ -5063,6 +5143,7 @@
           <p>Et il posa le canon de l'un de ses pistolets sur la tempe de Madeleine endormie...</p>
         </div>
         <div type="chapter">
+
           <head>XXVI</head>
           <p>Déjà le doigt de M. de Morlux s'appuyait sur la détente. Le coup allait partir et la balle brisant la tempe eût fait un cadavre de cette belle jeune fille qui avait à peine vingt ans. Un miracle seul pouvait sauver Madeleine, et ce miracle, Dieu le fit... Madeleine rouvrit les yeux. Et M. de Morlux épouvanté laissa tomber l'arme meurtrière au fond du traîneau. Ses cheveux venaient de se hérisser et un tremblement convulsif parcourait tout son corps. Il est des gens qui reviennent à eux après un évanouissement plus ou moins long, avec le cerveau troublé, l'esprit chargé de vapeurs et qui ont peine à se souvenir... Il en est d'autres qui lient instantanément le moment où ils ont fermé les yeux à celui où ils les rouvrent et dont la mémoire revient nette et précise avec une foudroyante rapidité. Madeleine était de ceux-là. Elle vit M. de Morlux et elle le reconnut. Elle se sentit emportée par la téléga, et elle comprit qu'on l'enlevait... Et joignant les mains, elle s'écria : -- Monsieur, n'aurez-vous pas pitié de moi ?</p>
           <p>Cette voix suppliante acheva de bouleverser M. de Morlux, qui se prit à balbutier. Hermann, sur le siège du moujik, murmurait avec colère : -- Voilà mon maître qui va faire des bêtises.</p>
@@ -5103,6 +5184,7 @@
           <p>Mais soudain, au cri de Madeleine, un autre cri répondit : un cri terrible, un cri d'agonie... C'était le moujik qui, saisissant Hermann à la gorge, l'avait précipité du siège sur la neige. Et M. de Morlux, abandonnant Madeleine qui se débattait avec l'énergie du désespoir, vit un groupe informe qui se roulait sur la neige, les loups et leur victime Hermann qui criait comme avait crié le cosaque, et dont les loups se disputaient le corps lambeau par lambeau, en poussant de féroces hurlements.</p>
         </div>
         <div type="chapter">
+
           <head>XXVII</head>
           <p>Nous avons laissé Rocambole en proie à l'ivresse étrange que procure l'opium, et jeté, les mains liées derrière le dos, sur le traîneau qui emportait les soldats et les prisonniers. Nous nous servons de ce mot de prisonnier parce que tout paysan russe livré par son seigneur au service militaire, n'obéissant jamais de bonne grâce, est presque toujours emmené de force et garrotté. Le froid éteignit chez Rocambole cette surexcitation nerveuse qui s'était traduite, comme on l'a vu, par des paroles incohérentes.</p>
           <p>Les soldats chantaient, Alexis pleurait, car on l'avait séparé de sa jeune femme au moment même où il touchait à la liberté, et le troisième paysan livré par Nicolas Arsoff était absorbé par cette ivresse bestiale que procure au serf russe l'eau-de-vie de grain. Les hallucinations du haschis(11) se calment presque instantanément, surtout chez les natures nerveuses. Le froid qui saisit Rocambole opéra sur lui une révolution après l'avoir un moment plongé dans une espèce de sommeil. Il s'était endormi ivre et fou ; il rouvrit les yeux comme il avait l'habitude de les rouvrir, c'est-à-dire avec le calme de son esprit et le merveilleux sang-froid qui, jusque-là, ne l'avait jamais abandonné. Il eut bien un moment d'indécision et d'étonnement ; rattachant son réveil à ses derniers souvenirs, il se rappela s'être assis dans un fauteuil de cuir, auprès du poêle, dans la grande salle du château. Maintenant la téléga de poste l'entraînait en pleine nuit, et dans cette téléga il y avait dix ou douze hommes qui parlaient, riaient, chantaient ou pleuraient. Quels étaient ces hommes ? Comment se trouvait-il parmi eux ? Malgré sa perspicacité ordinaire, il était impossible à Rocambole de le deviner. Où allaient-ils ? Pourquoi lui avait-on attaché les mains ? Mystère encore ! La téléga était un traîneau grossier, construit différemment de ceux qui sont employés par les voyageurs de distinction. Il était muni d'une caisse reposant sur l'essieu de derrière, assez semblable à nos charrettes françaises. C'était dans cette partie du véhicule que les trois prisonniers, solidement liés, avaient été entassés, tandis que le sous-officier et les soldats, assis sur le devant, entouraient le moujik conducteur. Dans cette téléga, le fanal n'était pas à deux faces ; par conséquent Rocambole et ses deux compagnons d'infortune étaient plongés dans l'obscurité et ne pouvaient se voir.</p>
@@ -5147,6 +5229,7 @@
           <p>– Tâche de te coucher sur le ventre et d'approcher tes poignets de mes dents, dit Rocambole.</p>
         </div>
         <div type="chapter">
+
           <head>XXVIII</head>
           <p>Les soldats et le moujik étaient entrés dans l'auberge et avaient rallumé le poêle, dans lequel il n'y avait plus que des cendres chaudes. Puis ils avaient allumé les torches de résine qui, chez le paysan russe, remplacent ordinairement la chandelle. Alors ils avaient pu voir un homme couché sur le poêle, au-dessus duquel était un lit -- le lit que la vieille hôtesse cédait ordinairement au voyageur qui s'aventurait chez elle. Pierre avait survécu à sa blessure. Yvanowska, attirée vers lui par cette mystérieuse sympathie du crime que le crime attire, l'avait soigné comme son enfant, et était parvenue à le sauver. Pierre était malade encore, mais il était probable que dans quelques jours il serait sur pied. Quand les soldats furent entrés, la vieille leur dit : -- Je ne voulais pas ouvrir d'abord, parce que je craignais que vous ne fussiez des cosaques du régiment de Peterhoff.</p>
           <p>– Non, dit le sous-officier, qui se nommait Gogloff ; nous appartenons au corps d'infanterie de la garnison de Studianka.</p>
@@ -5207,6 +5290,7 @@
           <p>– Maître, demanda Alexis, que voulez-vous donc faire ? Rocambole lui montra le postillon qui devait partir avec les chevaux retenus et qui, couché sur une botte de foin, dormait d'un lourd sommeil : -- Tu vas le savoir, dit-il.</p>
         </div>
         <div type="chapter">
+
           <head>XXIX</head>
           <p>Le moujik dormait, comme dorment les gens de sa profession. Vous souvient-il du bon temps des diligences qui entraient dans les villes de province, le soir, au bruit joyeux du cornet à piston ? Et ce gros conducteur au visage réjoui et rubicond qui, au troisième relais, était devenu votre meilleur ami et dont vous étanchiez la soif à chaque poste, quand vous aviez l'honneur de voyager avec lui, c'est-à-dire d'avoir une place de banquette ? Quand la nuit venait, le conducteur tirait sa casquette sur ses yeux, s'enfonçait dans un coin de la banquette et ronflait deux minutes après. Le canon du Palais-Royal ne l'eût point éveillé. Mais tout à coup la diligence arrivait au relais.</p>
           <p>Soudain le conducteur s'arrêtait, dégringolait du haut de l'impériale, aidait à atteler les chevaux, remontait et se rendormait jusqu'au relais suivant, tout cela avec la régularité inflexible d'un chronomètre. Eh bien ! le postillon russe est comme le conducteur français, seulement, ce n'est pas l'heure qui l'éveille, c'est le cri particulier, sorte de roucoulement, que pousse le moujik en arrivant au relais de poste. Ce cri, pour le dormeur, domine tous les cris et tous les bruits, on eût tiré auprès de lui un coup de pistolet qu'il n'eût pas ouvert les yeux. Mais le cri retentit, le postillon est sur pied. Les chevaux sont garnis, il est botté : il est couvert de sa pelisse en fourrure commune.</p>
@@ -5266,6 +5350,7 @@
           <p>Et il continua à fouetter ses chevaux.</p>
         </div>
         <div type="chapter">
+
           <head>XXX</head>
           <p>Qu'était devenue Vanda ? Nous avons laissé la courageuse femme garrottée, réduite à l'impuissance et rejetée dans un coin de la chambre de Madeleine comme une chose inerte, au moment ou M. de Morlux et son âme damnée, Hermann, emportaient la jeune fille évanouie. Vanda était désormais au pouvoir de Nicolas Arsoff. Ce dernier, bête stupide et féroce, s'était jeté sur sa victime, l'écume à la bouche, l'œil brillant. Mais cet œil rencontra le regard de Vanda. Vanda garrottée, Vanda réduite à l'impuissance, était demeurée forte par le regard. À moitié de sa course de bête fauve, Arsoff s'arrêta. Le regard de Vanda le brûlait. Cependant il fit un effort sur lui-même et se remit en marche. Mais alors, elle joignit la voix au regard : -- Esclave, dit-elle, tu n'as pas même le courage de ton infamie. Tu veux être aimé d'une femme noble et tu as si peur que le ciel ne tombe sur la tête et ne t'écrase que tu laisses cette femme enchaînée. Tu es un homme, pourtant ! et je ne suis qu'une femme... Lâche ! Lâche ! dit-elle.</p>
           <p>Ces paroles produisirent l'effet que Vanda en attendait. Arsoff s'arrêta, plus indécis que jamais.</p>
@@ -5331,6 +5416,7 @@
           <p>– Où est ton or ?</p>
         </div>
         <div type="chapter">
+
           <head>XXXI</head>
           <p>Un souvenir traversa l'esprit de Nicolas Arsoff comme il s'avançait vers Vanda avec l'intention de la désarmer. Il se rappela que trois heures auparavant elle s'était jetée sur M. de Morlux avec la souplesse et la foudroyante rapidité d'une tigresse, et que M. de Morlux n'avait dû son salut qu'à un hasard. Or Nicolas Arsoff avait bu et, quand il avait bu, le digne intendant n'était pas solide sur ses jambes... Il s'arrêta donc en chemin et se remit à rire de ce gros rire hébété qu'il avait dans l'ivresse.</p>
           <p>– Je crois, balbutia-t-il, que vous vous moquez de moi.</p>
@@ -5430,6 +5516,7 @@
           <p>Et il déroula une corde qu'il avait autour des reins, comme la plupart des serfs russes, et il en fixa une extrémité au robinet de l'étuve. Alors les yeux de Vanda brillèrent d'une flamme étrange.</p>
         </div>
         <div type="chapter">
+
           <head>XXXII</head>
           <p>L'intendant se dépouilla alors de sa pelisse qui aurait pu le gêner dans ses mouvements, et saisissant la corde d'une main, il se laissa glisser au fond du bassin. Mais à peine s'était-il baissé pour passer sa main dans cet anneau de fer qui devait lui permettre de soulever la dalle sous laquelle se trouvait son trésor, qu'un jet d'eau lui tomba sur la tête. Il se releva vivement et fut comme aveuglé. Vanda avait ouvert le robinet de l'étuve et l'eau coulait de l'épaisseur d'une cuisse d'homme. Cette eau était presque tiède. Arsoff ne comprit pas tout d'abord ; il crut que c'était en tirant sur la corde qui lui avait servi à descendre dans le bassin, qu'il avait lui-même ouvert le robinet. Aussi cria-t-il à Vanda, qui se trouvait debout et immobile sur le bord :</p>
           <p>– Fermez le robinet !</p>
@@ -5471,6 +5558,7 @@
           <p>– En France, répondit Rocambole, en France, maintenant !...</p>
         </div>
         <div type="chapter">
+
           <head>XXXIII</head>
           <p>Avant de suivre Rocambole et Vanda, qui ramenaient Madeleine en France, il nous faut revenir à un personnage de cette histoire que nous avons quelque peu perdu de vue. Nous voulons parler d'Yvan Potenieff, que nous avons laissé revenant de chez le prince X... et arrêté aux portes de Moscou par ordre du chef de la police. En Russie, on ne discute pas. Depuis le plus humble des serfs jusqu'au plus grand seigneur, chacun obéit. Yvan, qui ne pouvait soupçonner son père d'avoir provoqué son arrestation, après avoir vainement demandé qu'il lui fût permis de le faire prévenir, se résigna à monter dans le traîneau qui devait le conduire à Saint-Pétersbourg.</p>
           <p>La route lui parut longue ; elle dura plusieurs jours qui lui semblèrent des siècles. Chaque verste nouvelle qu'il franchissait ne le séparait-elle pas de sa chère Madeleine ?... Au fond, Yvan n'était pas très inquiet sur son propre sort. Il avait beaucoup d'amis dans le corps des cadets, et l'on y connaissait ses opinions. Yvan était sincèrement attaché à l'empereur, qui représentait les idées nouvelles, et il n'était nullement enthousiaste du vieux parti russe. Seulement, dans un pays où la police tient le rôle principal, il était tout naturel que les autorités de Moscou se fussent effarouchées de voir un officier de la garde assister aux réunions du prince X..., qui faisait ouvertement de l'opposition. Yvan comprenait tout cela si parfaitement qu'il se disait en route : « Je n'aurai qu'à écrire à l'empereur pour obtenir ma grâce et une prolongation de congé. Je repartirai alors sur-le-champ pour Moscou, et il faudra bien que mon honoré père, qui est cause de toute ma mésaventure, répare ses torts en me donnant tout de suite ma chère Madeleine. »</p>
@@ -5526,6 +5614,7 @@
           <p>– À nous deux, comtesse Vasilika, murmurait-il.</p>
         </div>
         <div type="chapter">
+
           <head>XXXIV</head>
           <p>La comtesse Vasilika Wasserenoff était veuve. C'était une femme de vingt-six ans, fort belle, blanche comme un lis et blonde comme un épi mûr. Elle était grande, et son œil noir plein de feu, son nez hardi, sa lèvre dédaigneuse annonçaient un caractère fortement trempé, uni à une vigoureuse constitution physique. La comtesse Vasilika possédait une immense fortune ; elle était maîtresse absolue de sa main, et si elle avait songé à épouser Potenieff, c'est que celui-ci, l'hiver précédent, avant qu'il ne vît Madeleine, avait fait à la belle veuve une cour assidue. Et puis les Potenieff et les Wasserenoff étaient cousins, et, en acceptant la main d'Yvan, la comtesse savait qu'elle relevait une maison tombée. Pendant les cinq mois qu'il avait passés loin de Pétersbourg, Yvan avait écrit plusieurs lettres à la comtesse. Les premières étaient brûlantes, les dernières un peu tièdes. Mais Vasilika se croyait aimée, et elle avait répondu naguère au comte Potenieff qu'elle était prête à épouser Yvan. Ce dernier entra donc comme un fou chez la comtesse. L'intendant de cette dernière vint à sa rencontre et lui dit : -- Madame est un peu souffrante, et monsieur vient la voir de bien bonne heure.</p>
           <p>– Je veux la voir sur-le-champ, dit Yvan en bousculant l'intendant.</p>
@@ -5592,6 +5681,7 @@
           <p>Le valet eut un sourire mystérieux et Yvan monta dans le droski, ne se doutant pas que la vengeance de l'implacable Vasilika Wasserenoff allait voyager avec lui.</p>
         </div>
         <div type="chapter">
+
           <head>XXXV</head>
           <p>Yvan a voyagé nuit et jour, n'ayant d'autre compagnon de voyage que le valet de chambre de la comtesse Vasilika. Cet homme, Italien d'origine, ne s'est pas vanté. Il parle à peu près couramment toutes les langues européennes. Il a voyagé partout ; il sait par avance qu'en tel pays on trouve des moyens de transport difficiles ou des hôtelleries commodes et des hôtes empressés. Yvan veut voyager vite. Yvan est pressé. Il a accepté sans trop de façon le portefeuille et la lettre de crédit de l'opulente comtesse Vasilika et il sème les roubles sur son chemin, tant il a hâte d'arriver. D'ailleurs, le passeport dont il est muni ne le rassure qu'à moitié. Si le comte Potenieff est instruit de sa fuite, il obtiendra peut-être l'autorisation de le faire arrêter aux frontières. Yvan est du reste un assez joyeux compagnon, il boit bien, mange avec appétit et fume de très bons cigares qu'il a trouvés dans le droski. C'est une attention de la comtesse Vasilika. Le valet de chambre, qui se nomme Beruto, est un beau parleur ; il sait mille anecdotes, il raconte au jeune officier une foule d'histoires qui abrègent singulièrement les ennuis du chemin. Car les routes sont à peu près les mêmes partout, en Russie. De grandes plaines neigeuses ; des forêts de pins et de bouleaux ; un village de loin en loin ; une maison de poste isolée. Tout cela finit et recommence, puis cesse avec une désespérante monotonie.</p>
           <p>Au bout de huit jours Yvan est arrivé précisément au milieu de cette province où son père a de vastes domaines, hélas ! grevés de nombreuses hypothèques. La route de Pétersbourg est celle de Moscou à Varsovie, et Yvan Potenieff fait un léger détour à la seule fin d'aller rançonner un peu l'intendant Nicolas Arsoff au château de Lifrou. Si le paysan russe tremble devant l'intendant, celui-ci tremble plus encore devant son seigneur. Or Yvan, sur les conseils de Beruto, qui est un homme ingénieux, s'est dit :</p>
@@ -5612,6 +5702,7 @@
           <p>– Eh bien ! moi, je sais qui c'est, dit le maître de poste qui s'approcha en ce moment.</p>
         </div>
         <div type="chapter">
+
           <head>XXXVI</head>
           <p>Yvan regarda le maître de poste avec curiosité.</p>
           <p>– Oui, reprit celui-ci, je sais quel est cet homme, c'est un Français, un noble, qui voyageait avec un Allemand. Ils ont passé ici, il y a six jours, allant au château de Lifrou.</p>
@@ -5682,6 +5773,7 @@
           <p>Beruto était entré dans l'auberge, et s'était arrêté stupéfait à deux pas du poêle en entendant Pierre le moujik parler. Yvan seul ne s'était pas aperçu de cette étrange ressemblance de voix.</p>
         </div>
         <div type="chapter">
+
           <head>XXXVII</head>
           <p>Il est nécessaire, avant d'aller plus loin, de donner quelques éclaircissements sur cet étrange récit fait par un stanwitsch du prince Maropoulof dans le relais de poste de Peterhoff. Il est parfaitement vrai que le grand seigneur russe, chasseur de loups passionné, fût parti, l'avant-veille au soir, de son château dans un traîneau de chasse, et en compagnie de quatre de ses amis. Il était vrai encore que, quelques heures plus tard, il eût sauvé la vie à un homme qui allait périr sous la dent des loups ; et, en ceci, la version du stanwitsch était d'une scrupuleuse exactitude. Le sauvetage du Français au moyen d'une corde qu'on lui avait jetée était vrai encore. Mais là où sans doute l'imagination du postillon avait pris part au récit, c'était lorsqu'il avait prétendu que l'homme ainsi miraculeusement sauvé était devenu fou.</p>
           <p>Cet homme, on l'a deviné, n'était autre que M. de Morlux. En lui jetant ses pistolets, Rocambole avait voulu lui laisser un moyen, non de se sauver, mais de reculer l'heure d'une mort épouvantable. Il n'avait pas voulu que cet homme, traduit aux grandes assises de la Providence, le fût sans avoir un moyen de défense, et, en s'éloignant, Rocambole s'était dit : -- Si cet homme venait à survivre, c'est que la main vengeresse de Dieu trouverait le châtiment trop doux et le réserverait à celui que je lui ai préparé en France pour le cas où il reviendrait jamais.</p>
@@ -5728,6 +5820,7 @@
           <p>Il se prit à écouter attentivement.</p>
         </div>
         <div type="chapter">
+
           <head>XXXVIII</head>
           <p>Le prince Maropoulof continua :</p>
           <p>– Vraiment ! ce pauvre Kourof est en cet état ?</p>
@@ -5808,6 +5901,7 @@
           <p>Et l'espoir revint au cœur de M. de Morlux.</p>
         </div>
         <div type="chapter">
+
           <head>XXXIX</head>
           <p>Nous avons laissé Yvan à l'auberge du Sava, disant à Pierre le moujik : -- Fais-moi ta confession, car tu vas mourir !</p>
           <p>Pierre était lâche. Il lui avait suffi de regarder Yvan pour deviner le sort qui l'attendait. En effet, Yvan était pâle et tout son corps était agité de ce frémissement nerveux que les gens du Nord ont désigné sous le nom pittoresque de colère blanche.</p>
@@ -5874,6 +5968,7 @@
           <p>À ce nom, le prince Maropoulof et ses amis échangèrent un sourire d'incrédulité et de compassion. Un sourire qui signifiait : « Le comte Kourof disait vrai, ce pauvre Yvan est bien réellement fou ! »</p>
         </div>
         <div type="chapter">
+
           <head>XL</head>
           <p>Le prince Maropoulof, au comte Kourof,</p>
           <p>à Paris</p>
@@ -5937,6 +6032,7 @@
           <p>C'était de la meilleure foi du monde que le jeune prince russe avait écrit cette lettre. Comme on le voit, M. de Morlux triomphait une fois encore !</p>
         </div>
         <div type="chapter">
+
           <head>XLI</head>
           <p>Ainsi que le prince Maropoulof l'a écrit à son ami le comte Kourof, M. de Morlux voyage en compagnie d'Yvan. Le jeune officier, qui ne peut se douter qu'on le veuille faire passer pour fou, continue à entretenir le vicomte de son amour pour Madeleine. Leur traîneau court sans relâche. Il a traversé la Bérésina, il a franchi la frontière de la Russie proprement dite. Maintenant, le voici en Pologne, et le matin du troisième jour, il entre à Varsovie. M. de Morlux, qui ne peut restituer Hermann à sa femme et à ses enfants, et n'a cependant nulle envie d'aller leur conter que Rocambole l'a jeté aux loups comme un quartier de porc ou de chevreau, M. de Morlux se dispenserait bien, au besoin, de s'arrêter à Varsovie. Cependant, il espère trouver des lettres de France à la poste, et il y court, laissant Yvan dans un hôtel.</p>
           <p>En effet, deux lettres attendent M. de Morlux dans les bureaux. L'une est de son frère. L'autre lui arrache un tressaillement, car il a reconnu l'écriture de Timoléon. Or, Timoléon lui a écrit qu'il s'embarquait pour l'Amérique, et pourtant cette lettre est timbrée de Paris.</p>
@@ -5978,8 +6074,10 @@
         </div>
       </div>
       <div type="group">
+
         <head>LA MAISON DE FOUS</head>
         <div type="chapter">
+
           <head>I</head>
           <p>Il est nécessaire, pour comprendre les événements qui vont suivre, de savoir dans quelles conditions Rocambole et Vanda, allant au secours de Madeleine, avaient quitté Paris. M. de Morlux était parti ; son frère, déjà bourrelé par le remords -- Rocambole le savait --, n'agissait qu'avec répugnance et sous l'influence fatale qu'il exerçait sur lui. Timoléon, sous le coup d'un mandat d'amener, avait dû quitter Paris et la France.</p>
           <p>Antoinette ne courait donc aucun danger sérieux. Cependant Rocambole n'avait pas cru pouvoir quitter Paris sans prendre les précautions les plus minutieuses. Quand la jeune fille fut revenue à elle et sortie de son long et léthargique sommeil, Rocambole envoya chercher une voiture par Milon. Cette voiture, du reste, arrêtée d'avance, attendait depuis longtemps dans l'avenue de Saint-Ouen. On y transporta Antoinette, trop faible encore pour pouvoir marcher. C'était un fiacre à quatre places. En se serrant, on y pouvait tenir six. Vanda et la belle Marton s'assirent auprès de la jeune fille. Milon monta à côté du cocher. Rocambole et Agénor se placèrent sur la banquette du devant, au rebours, comme on dit. Et le fiacre partit. Où allait-il ? C'était Milon qui guidait le cocher par ses indications. Le fiacre prit le boulevard extérieur, gagna la barrière de l'Étoile et descendit à Auteuil par l'avenue de Saint-Cloud. Agénor et Antoinette se tenaient les mains et ne se préoccupaient pas de la route qu'on leur faisait suivre. N'étaient-ils pas réunis ? Enfin, le fiacre s'arrêta. Agénor mit alors sa tête à la portière et vit une petite maison isolée au milieu d'un grand jardin, dans une rue déserte ou à peu près. Les premières lueurs de l'aube glissaient dans le ciel, et Rocambole, tirant sa montre, dit en souriant : -- Nous avons l'air de gens qui reviennent de soirée.</p>
@@ -6038,6 +6136,7 @@
           <p>Or, à quatre heures du matin, les gens qui viennent attendre les voyageurs sont rares. En descendant de wagon, Rocambole chercha Milon des yeux, sous la gare d'abord, puis dans les salles d'attente, puis au-dehors... Milon n'y était pas. Et de vagues et sinistres pressentiments assaillirent alors Rocambole.</p>
         </div>
         <div type="chapter">
+
           <head>II</head>
           <p>Donc, Rocambole et Vanda arrivaient à Paris, ramenant Madeleine, et croyant trouver Milon à la gare. Mais Milon n'y était pas. L'inquiétude de Rocambole, quelque soin qu'il prît pour la dissimuler, n'échappa point à Vanda. Cependant, Milon pouvait être en retard, et pour tromper son angoisse, Rocambole mit une certaine lenteur à réclamer ses bagages, espérant ainsi donner à son vieux compagnon le temps d'arriver. Mais Milon ne vint pas, et le train était cependant arrivé depuis trois quarts d'heure. Alors Rocambole, qui ne voulait pas effrayer Madeleine, dit tout bas à Vanda : -- Il est arrivé un malheur.</p>
           <p>Vanda tressaillit.</p>
@@ -6101,6 +6200,7 @@
           <p>– Je n'ai pas écrit ce télégramme ! dit-il.</p>
         </div>
         <div type="chapter">
+
           <head>III</head>
           <p>Il y eut entre ces trois hommes un moment de stupeur, de folie et de vertige. Rocambole lui-même, l'homme fort par excellence, et qui opposait d'ordinaire un front calme à l'orage, Rocambole se fit mentalement les deux raisonnements suivants : évidemment, d'abord, Antoinette était tombée une seconde fois au pouvoir de ses ennemis. Mais ces ennemis, quels étaient-ils ? Était-ce le père d'Agénor ou M. Karle de Morlux ? Était-ce Timoléon ? M. Karle de Morlux était mort, c'était chose à peu près certaine pour Rocambole. Le baron Philippe de Morlux, homme sans initiative, et qui n'avait jamais agi que sous l'influence diabolique de son frère, était-il bien homme à faire disparaître Antoinette ? Restait Timoléon... Mais Timoléon n'avait pu revenir en France sans courir le risque d'être arrêté. Et puis, Timoléon était-il homme à se mesurer de nouveau avec Rocambole ? Ce dernier, en se posant ces diverses questions en présence du père Philippe consterné et d'Agénor qui se demandait s'il n'était pas le jouet d'un rêve -- ce dernier, disons-nous, examinait le télégramme. Les timbres étaient authentiques. La dépêche avait bien été expédiée de Cologne. Agénor et le père Philippe regardaient Rocambole, muet et sombre, comme l'accusé regarde le juge qui va prononcer une sentence. Mais Rocambole se taisait. Enfin Agénor eut une explosion de douleur !</p>
           <p>– Ah ! dit-il, Antoinette est morte !</p>
@@ -6176,6 +6276,7 @@
           <p>– D'être un forçat évadé du bagne de Toulon, où il était inscrit sous le numéro Cent dix-sept, répondit l'officier de paix, et de vous appeler, non pas le major Avatar, mais Rocambole.</p>
         </div>
         <div type="chapter">
+
           <head>IV</head>
           <p>Rocambole ne sourcilla pas.</p>
           <p>– Monsieur, dit-il à l'officier de paix, on ne discute pas avec un homme porteur d'un mandat de dépôt. Je vous prouverais, clair comme le jour, que vous vous trompez que vous n'en seriez pas moins obligé de me conduire à la Conciergerie. Par conséquent, je ne perdrai pas un temps utile à des inutilités. Seulement, j'ai une grâce à vous demander, et vous ne me la refuserez pas.</p>
@@ -6230,6 +6331,7 @@
           <p>Et il se laissa conduire dans le cachot des prisonniers qu'on met au secret. Alors, quand il fut seul, son calme tomba, et il prit sa tête à deux mains et murmura avec désespoir : -- Milon est un imbécile... s'il est arrêté, tout est perdu !</p>
         </div>
         <div type="chapter">
+
           <head>V</head>
           <p>Rocambole avait deviné juste en se disant que Timoléon avait dû racheter sa liberté, provisoirement du moins, en offrant de le livrer, lui Rocambole. Voici ce qui s'était passé. Timoléon était un bandit sans foi ni loi. Semblable au chien qui mord la main qui le flatte, il n'avait su aucun gré à Rocambole de lui avoir rendu sa fille. Sa haine pour l'ancien chef des Valets de cœur s'était décuplée, au contraire, au souvenir des angoisses qu'il avait endurées pendant trois jours. La peur, qui l'avait maîtrisé d'abord, avait puissamment réagi sur lui, et s'était changée en fureur. Il avait été joué par Rocambole, joué et roulé comme un enfant. Les gens qui, après avoir été voleurs, se sont faits agents de la police, ont un orgueil semblable à celui d'un grand général. Ils ne pardonnent pas un échec. Et Timoléon, au moment de s'embarquer et de quitter l'Europe, avait eu comme un regret poignant de partir sans être vengé. Tandis qu'il faisait à Liverpool ses derniers préparatifs, un homme à lui présentait à Paris la traite de cinquante mille francs souscrite par M. de Morlux, apprenait que le vicomte Karle avait pris la route d'Allemagne, que Rocambole courait après lui. Deux heures plus tard, Timoléon recevait un télégramme ainsi conçu : « Morlux parti. Argent touché. Rocambole quitté Paris. »</p>
           <p>Cette dernière nouvelle opéra une révolution complète dans les idées et les résolutions de Timoléon. Pendant son séjour à Liverpool, il avait fait connaissance avec une famille irlandaise aux mœurs patriarcales, pauvre comme tous ceux qui sont nés dans la verte Érin, et ne dédaignant pas, au besoin, de faire un petit bénéfice. Timoléon confia sa fille à ces braves gens en leur payant d'avance une pension assez large ; mais, au lieu de s'embarquer, il prit le chemin de fer et revint à Douvres. Là, il engagea, par le télégraphe, une correspondance avec le chef de la Sûreté, à Paris. Le résultat de cette correspondance fut que Timoléon reçut l'autorisation de venir à Paris sans y être arrêté, à la condition qu'il livrerait Rocambole dans le délai d'un mois. Quarante-huit heures plus tard, l'ancien agent de police descendait rue de Londres, chez M. et Mlle Guépin. Qu'étaient-ce que ces gens-là ? M. Guépin était un homme d'environ soixante ans, aux moustaches taillées en brosse à dents, aux cheveux droits et courts, toujours boutonné jusqu'au menton et portant à sa boutonnière un ruban de fantaisie que l'homme le plus versé dans les chancelleries de l'Europe aurait eu toutes les peines du monde à classifier. M. Guépin jouait le rôle de colonel dans les tables d'hôte de Montmartre et des Batignolles, où il conduisait chaque soir Mlle Guépin, sa fille. Celle-ci était une belle brune piquante, aux allures masculines, au ton hardi et délibéré. De quoi vivaient-ils ? C'était un mystère, bien que le colonel, c'était ainsi qu'on le nommait, prétendît avoir une retraite de deux mille francs. Seulement, on ne l'avait jamais rencontré allant émarger un trimestre. Mlle Guépin donnait des leçons de piano, recevait chez elle beaucoup de messieurs, et dans la rue de Londres on prétendait qu'il se faisait chez elle des baccaras monstrueux. Ce fut donc chez ce couple bizarre que Timoléon descendit. En voyage il s'était un peu métamorphosé, s'était fait des favoris roux, des cheveux roux, un teint d'Anglais et un accent tout à fait britannique. M. et Mlle Guépin ne le reconnurent pas facilement. Cependant ils le reconnurent.</p>
@@ -6257,6 +6359,7 @@
           <p>Et sur les indications minutieuses de Timoléon le télégramme suivant fut expédié au commissaire de police de la gare de Valenciennes : « Arrêtez un homme -- suivait le signalement exact --, voyageant en coupé, en compagnie d'une jeune fille, d'un ancien colonel et d'une autre jeune personne. Cet homme a un passeport au nom de Baldoni. C'est un forçat évadé appelé Milon. Écrouez-le à Valenciennes et attendez de nouveaux ordres. »</p>
         </div>
         <div type="chapter">
+
           <head>VI</head>
           <p>Antoinette était peu communicative, comme la plupart des gens qui ont souffert, et elle se liait difficilement. Néanmoins la perspective de douze heures de wagon adoucit les humeurs les moins sociables, et l'on cause volontiers pour peu qu'on en ait le prétexte et l'occasion. C'est ce qui arriva à Antoinette. Mademoiselle Guépin était peut-être un peu masculine, un peu hardie pour une personne de son sexe ; mais elle causait bien et avec aisance. Elle savait un peu de tout, et elle avait ce vernis que donne la fréquentation des hommes riches. Ces soirées de jeu qu'elle donnait chez elle n'avaient pas été inutiles à son éducation. À Creil, première station de l'express allemand, on échangea quelques mots pendant les cinq minutes d'arrêt. Milon causait familièrement déjà avec le colonel. Celui-ci avait deux vêtements, un pardessus orné de ce ruban énigmatique qui eût fait le désespoir des chancelleries, et une redingote dont la boutonnière était ornée d'une rosette multicolore, mais dans laquelle le rouge dominait. Au reste, un domestique en livrée, fourni sans doute par Timoléon pour la circonstance, avait, à la gare de Paris, en lui remettant son châle de voyage et son sac de nuit, appelé l'habitué de la table d'hôte de Mlle Paquita, monsieur le colonel. Il n'en fallait pas tant pour éblouir Milon. Antoinette elle-même se laissa prendre à la rosette.</p>
           <p>Et puis à eux quatre ils occupaient le coupé. À minuit on était à Valenciennes. Le train s'arrêta dix minutes.</p>
@@ -6306,6 +6409,7 @@
           <p>Antoinette songeait à sa sœur, malade à Cologne, à Milon, qui allait coucher en prison ; à Agénor qui était loin de se douter des angoisses qu'elle éprouvait. Agénor ! Si Agénor n'eût été à Paris, peut-être eût-elle hésité à revenir sur ses pas, en dépit des belles promesses du colonel Guépin. Mais Agénor ne se joindrait-il pas à ce dernier pour sauver Milon ? Et Antoinette n'hésita pas. Et elle monta dans le train qui partait pour Paris en compagnie de cette fille d'aventures et de ce colonel de table d'hôte qui étaient les véritables provocateurs de l'arrestation du malheureux Milon.</p>
         </div>
         <div type="chapter">
+
           <head>VII</head>
           <p>– Ah ! mademoiselle, que vous êtes bonne pour moi, murmurait Antoinette, quatre heures après, en serrant avec effusion les mains de Mlle Guépin.</p>
           <p>Elle avait les yeux pleins de larmes ; mais son cœur débordait d'espoir. Le colonel parlait avec un rare aplomb de ses hautes influences. Les ministères s'ouvraient devant lui ; les ministres l'appelaient « cher ami ». Mlle Guépin avait émis sur-le-champ cette opinion :</p>
@@ -6352,6 +6456,7 @@
           <p>Le faux colonel et sa fille avaient disparu.</p>
         </div>
         <div type="chapter">
+
           <head>VIII</head>
           <p>Laissons Antoinette au fond du jardin de la rue de Bellefond, dans le pavillon où elle est gardée par ces êtres indignes, la Chivotte et Polyte, et revenons à Vanda. Vanda était bien la femme que Rocambole avait devinée. Énergique, patiente, intelligente. Un corps de séraphin, une âme d'acier. Quand elle s'était mise à la croisée et avait vu Rocambole avec l'officier de paix et les deux agents, elle avait tout deviné, tout compris avant qu'il parlât. Alors elle était descendue, disant à Madeleine : -- Attendez-moi, je reviens !</p>
           <p>Dans la pièce voisine, qui était le cabinet de Rocambole, était une boîte qui renfermait une demi-douzaine de pilules, brunes, grosses comme la tête d'une épingle et dures comme le diamant. Quel était leur pouvoir ? Vanda ne le savait pas au juste ; mais un jour Rocambole lui avait dit : -- Si jamais je suis arrêté, tâche, par tous les moyens possibles, de me faire parvenir une de ces pilules. Le reste me regarde !</p>
@@ -6441,6 +6546,7 @@
           <p>Et sans entrer dans le pavillon, Vanda emmena la belle Marton avec elle.</p>
         </div>
         <div type="chapter">
+
           <head>IX</head>
           <p>Transportons-nous maintenant rue de la Pépinière, à l'hôtel de Morlux, deux jours après les événements que nous venons de raconter. Il est sept heures du matin. Une voiture vient d'entrer dans la cour, suivie d'un fourgon de chemin de fer portant des bagages. Dans le fourgon, deux domestiques en livrée. Dans la voiture, deux hommes en costume de voyage. Les domestiques ne sont autres que Pierre le moujik et l'Italien Beruto, le valet de chambre de la comtesse Vasilika. Les deux voyageurs qui descendent de voiture sont, on le devine, M. le vicomte Karle de Morlux et son compagnon inséparable, Yvan Potenieff. Pendant la route -- une route de huit jours --, le gentilhomme français et l'officier russe se sont liés intimement. Yvan a une confiance illimitée en M. de Morlux.</p>
           <p>En revanche, M. de Morlux a promis à Yvan qu'on retrouverait Madeleine.</p>
@@ -6483,6 +6589,7 @@
           <p>Beruto, le valet fidèle, fronce alors le sourcil. L'échafaudage habile de la vengeance de Vasilika va-t-il donc s'écrouler tout à coup ?</p>
         </div>
         <div type="chapter">
+
           <head>X</head>
           <p>L'Italien Beruto, le fidèle valet de chambre de la comtesse Vasilika, eut une nouvelle et véritable angoisse. Beruto n'avait jamais vu Madeleine, mais aussi bien que M. de Morlux, Beruto savait qu'elle existait. Or, tout à coup Yvan s'écria : -- Voilà Madeleine !</p>
           <p>Ce fut l'affaire d'une minute, mais dans cette minute il y eut tout un drame. Voici comment. La Victoria dans laquelle était la jeune blonde était menée en demi-daumont par un jockey à veste rayée noir et blanc. Le jockey, voyant que le Russe étendait les bras et paraissait connaître sa maîtresse, arrêta brusquement son porteur et son cheval de main.</p>
@@ -6537,6 +6644,7 @@
           <p>Beruto, dans le vestibule, riait d'un rire de démon.</p>
         </div>
         <div type="chapter">
+
           <head>XI</head>
           <p>M. de Morlux avait hâte que le Dr Lambert fût parti, emmenant avec lui son futur pensionnaire Yvan. Le vicomte avait bien autre chose à faire, vraiment ! À peine la Victoria emportant le docteur et le jeune Russe eut-elle franchi le seuil de la cour, que M. de Morlux prit son chapeau, traversa le jardin et sortit de son hôtel par la petite porte qui donnait sur le boulevard Haussmann. Là, il se jeta dans une voiture de place et dit au cocher : -- Rue de Londres, et très vite !</p>
           <p>M. de Morlux était pressé de revoir Timoléon, ou plutôt d'avoir de ses nouvelles ; car celui-ci, dans sa lettre disait : « Vous demanderez à voir Mlle Guépin. »</p>
@@ -6624,6 +6732,7 @@
           <p>Le vicomte attacha un étrange regard sur Timoléon, et il y eut entre ces deux bandits une éloquente minute de silence. C'était le sort des deux orphelines qui était en jeu.</p>
         </div>
         <div type="chapter">
+
           <head>XII</head>
           <p>Que devenait Antoinette ? Nous avons vu la jeune fille conduite dans le pavillon isolé au fond d'un jardin de la rue Bellefond, enfermée par Mlle Guépin, esclave docile des volontés de Timoléon ; puis s'effrayant en reconnaissant que la fenêtre était murée, les murs capitonnés, et appelant au secours. Nous avons vu enfin l'horrible Chivotte et le hideux Polyte faire irruption dans la chambre. Antoinette se crut perdue. Cette femme qu'elle avait devant elle avait voulu l'empoisonner à Saint-Lazare. Cet homme avait osé lui parler un langage ignoble. Aussi, à leur vue, Antoinette tomba-t-elle à genoux, murmurant :</p>
           <p>– Mon Dieu ! mon Dieu ! ayez pitié de moi.</p>
@@ -6668,6 +6777,7 @@
           <p>Une nuit -- elle calculait que ce devait être la nuit, car il était toujours nuit pour elle dans ce sépulcre --, il lui sembla entendre un bruit singulier, étrange... Il lui sembla que derrière ces murs voûtés et sans échos, quelque chose grattait sans relâche, et elle prêta l'oreille, et son cœur se prit à battre violemment, et elle espéra la délivrance...</p>
         </div>
         <div type="chapter">
+
           <head>XIII</head>
           <p>La veille du jour où, pour la première fois, Antoinette prêtait l'oreille à ce bruit singulier et plein d'espérance pour elle, comme tout ce qui est anormal et insolite dans la vie des prisonniers, une scène bizarre se passait au premier étage du pavillon. Ce pavillon, demeure isolée, avait eu des destinées diverses depuis quinze ou vingt ans. D'abord la maison, de laquelle dépendait le jardin au bout duquel il était situé, avait été un hôtel avant d'être une maison à locataires. À cette époque, le pavillon était une sorte d'habitation réservée au jardinier. Puis, l'hôtel devenu maison, un peintre s'en était épris et y avait installé ses pénates. Après le peintre, était venue une famille polonaise, réfugiée en France à la suite des événements politiques de 1832. Cette famille se composait du père, de la mère et d'une jeune fille de dix-neuf ou vingt ans, atteinte d'une maladie épouvantable, en dépit de sa rare beauté. Ce mal, inconnu à la science, consistait en des convulsions affreuses pendant lesquelles la pauvre enfant poussait de véritables hurlements de bête féroce. C'était pour étouffer les clameurs, pour empêcher ces cris déchirants de parvenir au-dehors que la chambre d'en bas avait été capitonnée et qu'on en avait condamné la fenêtre. Les gens de police savent tout, Timoléon avait connaissance depuis longtemps de ce pavillon et de cette pièce qui serviraient merveilleusement ses plans de séquestration. Aussi avait-il loué le pavillon et acheté la discrétion et la fidélité des concierges, gens de pire espèce, qui eussent vendu leur âme pour dix écus. Comme Antoinette s'y était laissé conduire, huit jours auparavant, sans défiance, nul, dans la maison voisine, ne soupçonna la vérité. Or, à cette époque-là même, la rue de Bellefond et ses jardins apparurent, un matin, suspendus à mi-côte, ainsi qu'une ville mauresque ou méridionale. On venait de percer la rue La Fayette et de démolir le commencement de la rue Montholon. La butte, presque alors couverte de vieilles maisons, avait disparu, et la rue de Bellefond semblait être exhaussée dans les airs. Le pavillon dont nous parlons apparaissait d'en bas comme une tour avancée au bord des remparts d'une forteresse, tandis que de l'autre côté, il était au niveau du jardin. Cette description topographique un peu longue était nécessaire pour expliquer les événements qui vont suivre. Or donc, la veille vers onze heures et demie du matin, Timoléon, qui n'avait point quitté son costume d'Anglais, entra dans le pavillon, son cache-nez sur le visage et le collet de son habit relevé. Il monta tout droit au premier étage, et entra dans une pièce où se trouvaient la Chivotte et Polyte. Ainsi qu'il le leur avait dit le premier jour de la captivité d'Antoinette, Timoléon avait obtenu la mise en liberté provisoire de ces deux misérables, bien qu'ils fussent sous l'inculpation de vol. Il avait donné pour raison, au chef de la Sûreté, que si on voulait qu'il livrât Rocambole, il fallait qu'on lui en fournît les moyens. La police est obligée parfois d'avoir de ces tolérances ; mais tout en remettant les individus provisoirement en liberté, elle les surveille et sait bien qu'elle pourra les reprendre quand bon lui semblera. La vérité était que Timoléon avait besoin de Polyte et de la Chivotte, non pour arrêter Rocambole, mais pour garder Antoinette. Quand il entra, tous deux étaient assis mornes et sombres comme des chiens de garde qui rongent leur chaîne inutilement et ne peuvent se ruer sur les passants pour les déchirer.</p>
           <p>– Hé ! hé ! mes agneaux, dit Timoléon en entrant, nous commençons à la trouver mauvaise, n'est-ce pas ?</p>
@@ -6709,6 +6819,7 @@
           <p>Et Vanda se plaça sur le seuil pour couper toute retraite à Polyte. Polyte avait eu tort de casser son couteau et d'en jeter les deux tronçons.</p>
         </div>
         <div type="chapter">
+
           <head>XIV</head>
           <p>Polyte était ivre ; mais il se dégrisa un moment à la vue de ces deux femmes qui arrivaient ainsi chez lui à l'improviste et dont l'attitude n'avait rien de fort rassurant.</p>
           <p>– Qu'est-ce que tu veux, toi ? fit-il en regardant la belle Marton.</p>
@@ -6797,6 +6908,7 @@
           <p>Vanda était sur les traces d'Antoinette désormais, et Vanda allait vite en besogne.</p>
         </div>
         <div type="chapter">
+
           <head>XV</head>
           <p>La fausse blanchisseuse, c'est-à-dire Vanda, avait refermé la porte de la loge avec un petit air impertinent.</p>
           <p>– Insolente, va, murmura la concierge.</p>
@@ -6875,6 +6987,7 @@
           <p>Heureusement la rue Serpente est déserte à midi comme à minuit.</p>
         </div>
         <div type="chapter">
+
           <head>XVI</head>
           <p>Noël avait conduit Madeleine rue Serpente, comme nous l'avons dit. La mère de Cocorico avait installé la jeune fille dans un petit logement qu'elle louait ordinairement tout meublé à des étudiants. Vanda y monta. La jeune fille lui sauta au cou en s'écriant : -- Ah ! madame, Yvan est à Paris. Je l'ai vu... j'en suis certaine...</p>
           <p>Elle lui raconta sa rencontre aux Champs-Élysées avec la Victoria qui montait l'avenue au pas ; son émotion, qui ne lui avait pas permis de jeter un cri... Et tout cela avec des larmes et des transports que Vanda calma d'un mot : -- Il faut songer à votre sœur, dit-elle.</p>
@@ -6917,6 +7030,7 @@
           <p>– Allons chercher mon marteau, murmura-t-elle, et à la grâce de Dieu ! En même temps, elle s'élança en avant, les jambes pliées, de façon à retomber sur ses pieds, ne sachant pas si elle n'allait pas faire quelque effroyable chute dans les ténèbres. Elle tomba d'une dizaine de pieds de haut. Mais elle tomba sur ses pieds, et ses pieds rencontrèrent un sol mou et pour ainsi dire élastique. Elle était sur du sable. Dans la poche de son pantalon se trouvaient une boîte d'allumettes et un rat-de-cave. Vanda, remise de la secousse qu'elle avait éprouvée en tombant, chercha la boîte d'allumettes et se procura de la lumière. Son marteau était à ses pieds. Alors, l'ayant ramassé, elle regarda autour d'elle pour se rendre compte du lieu où elle était.</p>
         </div>
         <div type="chapter">
+
           <head>XVII</head>
           <p>Vanda reconnut alors qu'elle se trouvait dans une sorte de caveau de sept ou huit pieds de large. À première vue, on n'y voyait d'autre issue que le soupirail par lequel elle venait d'entrer. Cependant, à force de regarder, elle aperçut dans un coin une portion de mur qui paraissait plus noire. Vanda reconnut que ce n'était plus le mur, mais bien une porte, et que cette porte, qui paraissait être en chêne d'une forte épaisseur, était garnie de grands verrous et d'une grosse serrure. Vanda avait bien une lime. Mais combien de temps lui faudrait-il pour entamer les gonds et les scier ! D'un autre côté, si elle voulait appeler Noël, il fallait qu'elle fît sauter un second barreau du soupirail afin qu'il pût entrer. Elle y songea un moment ; mais deux difficultés matérielles l'arrêtèrent, dont la première lui parut tout à fait insurmontable. Le soupirail était à huit ou dix pieds au-dessus de sa tête. Il n'y avait dans le caveau ni une futaille, ni une planche, ni rien qui pût l'aider à y atteindre. La seconde difficulté, en admettant que cette première eût pu être vaincue, était presque aussi grande. Comment, du dehors, Noël atteindrait-il lui aussi le soupirail ? Quand elle eut pesé tout cela, Vanda résolut d'attaquer la porte. Elle avait un marteau, elle avait une lime. Avec le marteau, elle pouvait essayer de briser la serrure. Avec la lime, elle pouvait couper les gonds. Mais la besogne du marteau est bruyante ; celle de la lime est sourde. Les geôliers d'Antoinette entendraient les coups de marteau ; ils n'entendraient peut-être pas les grincements de la lime. Vanda se mit bravement à l'ouvrage.</p>
           <p>Son rat-de-cave était assez long pour durer environ deux heures. Cependant, quand la lime eut tracé une rainure dans l'un des gonds, et qu'elle s'y trouva pour ainsi dire emboîtée, Vanda souffla le rat-de-cave et se mit à travailler dans les ténèbres, par prudence d'abord, par économie ensuite ; car il pouvait se faire que cette porte ne fût pas la seule dont elle eût à franchir le seuil avant d'arriver jusqu'à Antoinette. Il lui fallut plus de deux heures pour scier le premier gond. Quand celui-ci fut détaché, elle ralluma le rat-de-cave et introduisit le manche de son marteau entre la porte et la pierre, puis elle donna une secousse. La porte céda, s'inclina un peu en arrière, et par ce mouvement fit sortir de la gâche le pêne de la serrure qui n'était fermé qu'à un tour. Le pêne dégagé, plus n'était besoin de scier l'autre gond, la porte tourna et s'ouvrit. Alors Vanda se trouva au seuil d'un escalier, un véritable escalier de cave, étroit, humide, tournant et fait de marches usées et glissantes. Elle avait remis son marteau et sa lime dans la poche de son pantalon d'où elle avait tiré un revolver, objet plus utile, comme on le pense, pour cette expédition de découverte qu'elle entreprenait. Le rat-de-cave à la main gauche, le revolver au poing droit, elle monta. L'escalier avait un repos. Vanda vit une sorte d'encadrement et reconnut une porte murée, mais murée grossièrement avec une simple bâtisse de planches de sapin sur lesquelles on avait passé un lit de chaux et de plâtre. L'humidité avait fait tomber le plâtre. Les planches étaient disjointes çà et là. À un endroit on y pouvait passer le doigt. Vanda y colla son œil d'abord et ne vit rien. Elle avait espéré qu'un rayon de lumière filtrerait au travers. Elle passa ensuite son doigt. Le doigt rencontra quelque chose de mou comme une draperie clouée sur un mur. Elle ne poussa pas plus loin ses investigations de ce côté. L'escalier montait encore. Vanda le suivit et atteignit la dernière marche. Là, non plus une porte murée, mais une trappe. La trappe était fermée. Cependant la Russe allait peut-être essayer de la soulever avec ses épaules lorsqu'elle entendit du bruit. Ce bruit était un pas d'homme, un pas qui allait et venait au-dessus de la tête de Vanda. Une seconde fois elle éteignit son rat-de-cave, et, plongée dans une obscurité profonde, elle écouta. Or, le pas que Vanda avait entendu était celui de Timoléon. Timoléon venait de rentrer. Il était deux heures du matin. La Chivotte attendait patiemment et ne s'était point couchée. Elle regarda son maître d'un œil interrogateur. Timoléon paraissait radieux.</p>
@@ -6957,6 +7071,7 @@
           <p>Et elle serra plus fort... Antoinette se débattit, s'arracha un moment à cette horrible étreinte, appela au secours... Mais les doigts de la Chivotte la reprirent et s'enfoncèrent dans la chair comme les griffes d'une bête féroce. Tout à coup, et comme Antoinette ne pouvait plus se débattre ni crier, il se fit un grand bruit... Le mur s'effondra et s'entrouvrit... C'était Vanda qui, d'un vigoureux coup d'épaule, avait jeté bas le bâti en planches qui en tombant arracha le capiton qui le couvrait. Et au seuil de cette brèche Vanda apparut comme un ange libérateur. En même temps un éclair se fit, suivi d'une détonation... Et la Chivotte, frappée d'une balle en pleine poitrine, tomba et se tordit en blasphémant sur le parquet !</p>
         </div>
         <div type="chapter">
+
           <head>XVIII</head>
           <p>Pendant que Vanda délivrait Antoinette, que devenait Rocambole ? Rocambole était au secret. Conduit à la Conciergerie d'abord, il n'y était demeuré que deux heures. On l'avait, le jour même, transféré à Mazas(15). Cela tenait à ce que, ainsi que le lui avait annoncé le chef du greffe, il ne serait interrogé que le surlendemain, c'est-à-dire le mardi. Rocambole avait donc passé quarante-huit heures dans une cellule de Mazas. Le système cellulaire est peut-être le plus terrible de tous les systèmes pénitenciers. Toujours seul, le prisonnier a bientôt perdu sa force morale et son énergie physique. Lorsqu'il arrive à l'instruction, il est à moitié vaincu par avance. Mais Rocambole était de trempe à supporter les plus grandes épreuves. L'homme qui était demeuré dix ans au bagne sans laisser échapper son secret, sans vouloir s'évader, alors que son évasion était facile et habilement préparée par ceux qui, comme Noël, lui étaient dévoués jusqu'à la mort, un tel homme, disons-nous, pouvait-il se laisser abattre par quarante-huit heures de secret ? Pourtant, celui qui eût pénétré à l'improviste dans sa cellule, eût été frappé de sa pâleur et de son abattement. La nuit du dimanche au lundi avait été mauvaise ; Rocambole n'avait pas dormi. Un de ces orages qui annoncent le retour du printemps, et qui éclatent avec une violence inouïe, avait inondé Paris, de minuit à six heures du matin. Les éclairs multipliés, le bruit du tonnerre, étaient parvenus jusqu'au prisonnier. Il avait eu mal aux nerfs ; il avait même pleuré... Cependant Rocambole ne craignait ni le bagne ni l'échafaud. Que lui importait une dernière expiation, à lui que le repentir avait touché ? Pourquoi donc pleurait-il ? pourquoi s'était-il agenouillé pendant ce terrible orage, demandant à Dieu d'apaiser l'orage bien autrement violent qui grondait au fond de son cœur ? Et à la fin de sa prière, Rocambole avait murmuré :</p>
           <p>– Mon Dieu ! je ne me suis soustrait au long châtiment que les hommes m'infligeaient que parce que j'entrevoyais la possibilité de réparer en partie mes crimes par un peu de bien. Faites-moi la grâce de mener mon œuvre à bout, de sauver les deux orphelines, de voir une dernière fois la femme que j'aimais comme une sœur, et je retournerai au bagne et j'y attendrai l'heure de votre justice suprême. Mais d'ici là, permettez-moi de mentir une dernière fois à la justice humaine et de lui échapper, si faire se peut, car les deux jeunes filles ont encore besoin de moi.</p>
@@ -6989,6 +7104,7 @@
           <p>Vanda avait disparu.</p>
         </div>
         <div type="chapter">
+
           <head>XIX</head>
           <p>Le municipal avait eu raison. Le rôle de l'instruction n'était pas chargé ce jour-là, ou plutôt, il n'y avait que Rocambole à interroger. Si Timoléon avait dit vrai, si le major n'était autre que cet audacieux bandit appelé Rocambole, qui s'était évadé de Toulon avec un sang-froid et une habileté extraordinaires, un tel inculpé méritait bien de n'être pas interrogé à la hâte. Rocambole fut donc conduit sur-le-champ dans le cabinet du juge d'instruction. Il se trouva alors en présence d'un homme jeune encore, bien qu'un peu chauve, au regard clair, au front intelligent, sévère d'aspect sans dureté, et qui lui dit avec une courtoisie parfaite : -- Je vais vous interroger, monsieur.</p>
           <p>Rocambole s'inclina. Il avait aperçu sur le bureau du juge d'instruction une liasse de papiers. Ces papiers étaient les siens. C'étaient pour la plupart des lettres venant de Russie, à l'adresse du major Avatar. Il y avait, en outre, les états de service de l'officier russe et un brevet de major signé Nicolas.</p>
@@ -7059,6 +7175,7 @@
           <p>– Imbécile ! répondit Rocambole, tu viens de nous livrer !... Et il dit en souriant au juge : -- Monsieur, je ne nie plus, je suis bien réellement Rocambole !</p>
         </div>
         <div type="chapter">
+
           <head>XX</head>
           <p>Les derniers mots de Rocambole avaient amené sur les lèvres du juge d'instruction un sourire de satisfaction. Jean le Boucher, ivre encore une minute auparavant, était tombé à genoux, complètement dégrisé. Il venait de trahir l'homme à qui il devait la liberté.</p>
           <p>Aussi son désespoir fut immense. Mais le juge n'était pas d'humeur à entendre les lamentations. Il donna l'ordre qu'on l'emmenât. Puis, quand il fut seul avec Rocambole, il lui dit : -- Voulez-vous signer l'aveu que vous venez de me faire ? Un sourire vint aux lèvres de Rocambole.</p>
@@ -7135,6 +7252,7 @@
           <p>Or, c'était le surlendemain qu'il avait choisi pour le jour de son évasion.</p>
         </div>
         <div type="chapter">
+
           <head>XXI</head>
           <p>Rocambole avait calculé juste. On le laissa toute la journée du lendemain dans sa cellule sans qu'il eût de nouvelles du juge d'instruction. Pendant la nuit, cette tristesse mortelle qui l'avait gagné depuis son entrée en prison augmenta et le tint les yeux ouverts. À quoi songeait-il ? À son évasion ? Non. Rocambole avait arrêté son plan. Une seule chose pouvait le faire avorter, et depuis quelque temps le hasard le servait trop fidèlement pour qu'il eût cette crainte. Rocambole avait un autre souci, une autre douleur, pour dire le mot. Il se tourna et se retourna sur son lit sans pouvoir dormir. Un nom, que les murs de sa cellule convertis en échos n'auraient pu répéter, tant il le prononça à voix basse, erra souvent sur ses lèvres. Quand le jour vint -- ce jour blafard et sinistre auquel sont éternellement condamnés les prisonniers --, Rocambole avait la fièvre : un rire dédaigneux et sarcastique agitait convulsivement ses lèvres et il posait une main fiévreuse sur son front sillonné de rides imperceptibles. Cet homme revenu au bien, ce bandit converti, eut même un rire féroce, à un certain moment, et, se parlant à lui-même : -- Je ne sais pas, murmura-t-il, si je n'étais pas plus heureux quand j'étais criminel. Après la justice des hommes, est-ce donc celle de Dieu qui commence pour moi ?</p>
           <p>Et, nous le répétons, Rocambole accablé, Rocambole, en proie à une torture mystérieuse, ne se préoccupait guère de son évasion. À huit heures, on vint le chercher. Et ce qu'il avait prévu arrivait : le juge d'instruction, friand de révélations, se hâtait de le faire venir. La voiture cellulaire était dans la cour. Le bon garde municipal, l'homme à la tabatière, salua Rocambole, l'appelant « mon commandant » de plus belle. Pour tous les employés de Mazas, car l'instruction garde scrupuleusement ses secrets, Rocambole était le major Avatar, un homme qui avait trempé dans quelque conspiration politique. Le bon municipal se serait jeté dans le feu pour lui ; il aurait tout fait -- sauf une chose pourtant, le laisser évader. Le soldat est incorruptible et Rocambole le savait si bien qu'il n'avait pas même eu la pensée de le sonder adroitement. Pendant le trajet, Rocambole parla de Sébastopol et du fameux général Totdleben. Le municipal, ravi, l'écoutait. On arriva. Un homme se promenait dans la cour de la Sainte-Chapelle, regardant tout d'un air étonné et curieux, au moment où Rocambole sortit de la voiture cellulaire. Cet homme avait une belle barbe blonde, un teint mat, de grands favoris et des yeux bleus. Son col raide et haut, sa cravate longue attachée par une épingle en diamants, son habit bleu, son gilet blanc, son pantalon gris clair, une lorgnette de course qu'il portait en bandoulière, enfin un guide Joanne sortant à demi de sa poche disaient suffisamment que c'était un de ces Anglais voyageurs qui promènent leur curiosité ennuyée d'un bout du monde à l'autre. Il s'extasiait sur les rosaces et les clochetons de la Sainte-Chapelle, et marchait à reculons, de telle façon qu'il vint se heurter au municipal. Celui-ci avait pris Rocambole par le bras et se dirigeait avec lui vers l'escalier du parquet.</p>
@@ -7173,6 +7291,7 @@
           <p>– Chez Maire ! boulevard Saint-Denis, au coin de celui de Strasbourg.</p>
         </div>
         <div type="chapter">
+
           <head>XXII</head>
           <p>Il est un restaurant, à Paris, cher aux comédiens, aux gens de lettres, aux artistes en général. Ne vous fiez pas à l'enseigne. C'est celle d'un marchand de vins. Mais si vous voulez boire des crus authentiques et de grands vins de Bourgogne et de Bordeaux, allez-y. Cela s'appelle le restaurant Maire, successeur Chalais(17). La police a l'œil sur les restaurants à la mode. Elle surveille les cafés élégants où le grec et le filou coudoient l'homme irréprochable de mœurs et de tenue. Elle ne songera jamais à aller chez Maire. Maire est la maison hospitalière où vient le comédien.</p>
           <p>Ouvrez les livres de recensement pénitentiaire, ils vous répondront : On n'a jamais vu un comédien au bagne ! Il résulte de ceci que cette profession jadis excommuniée est la plus honnête de toutes. Nous avions besoin de dire tout cela, pour expliquer pourquoi Noël dit Cocorico avait crié au cocher : -- Chez Maire, boulevard Saint-Denis !</p>
@@ -7258,8 +7377,9 @@
       </div>
     </body>
     <back>
-      <div type="notes"/>
+      <div type="notes" />
       <div type="liminal">
+
         <head>Notes</head>
         <p>1 Le premier-Paris, dit encore « filet de bœuf », est le principal article de fond d'un journal.</p>
         <p>2 Ce revirement de Marton et son dévouement sont inspirés du personnage de la Louve dans Les Mystères de Paris.</p>

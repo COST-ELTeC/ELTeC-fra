@@ -18,15 +18,15 @@
         <p>à fournir</p>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Ebooks libres et gratuits</publisher>
+          <ref target="#unknownSource">#unknownSource</ref>
+        </bibl>
         <bibl type="printSource">
           <author>Bourget, Paul (1852-1935)</author>
           <title>Laurence Albani</title>
           <publisher>Plon-Nourrit</publisher>
           <date>1919</date>
-        </bibl>
-        <bibl type="digitalSource">
-          <publisher>Ebooks libres et gratuits</publisher>
-          <ref target="#unknownSource">#unknownSource</ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1919</date>

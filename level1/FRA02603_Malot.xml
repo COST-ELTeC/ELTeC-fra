@@ -32,13 +32,12 @@
         -->
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource"> Bibliothèque électronique du Québec,
-          <date /> ,
-          <idno /> ,
-          <ref target="http://beq.ebooksgratuits.com" /> . </bibl>
+        <bibl type="digitalSource">
+          <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
+          <ref target="http://beq.ebooksgratuits.com" />
+        </bibl>
         <bibl type="firstEdition">
-          <date>1888</date> ,
-          <idno /> , .
+          <date>1888</date>
         </bibl>
       </sourceDesc>
     </fileDesc>

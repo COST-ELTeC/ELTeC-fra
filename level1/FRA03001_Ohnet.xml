@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03001" xml:lang="fr">
   <teiHeader>
@@ -18,50 +18,58 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">115270</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          PG,
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Project Gutenberg</publisher>
           <date>2007</date>
-          ,
           <idno>20950</idno>
-
-          .
-        </bibl><bibl type="printSource">
-          Ollendorff,
+        </bibl>
+        <bibl type="printSource">
+          <publisher>Ollendorff</publisher>
           <date>1907</date>
-
-        </bibl><bibl type="firstEdition">
-          Ollendorff,
-          <date>1885</date>
-
-          .
-        </bibl></sourceDesc>
+        </bibl>
+        <bibl type="firstEdition"> Ollendorff, <date>1885</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-08-15">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="chapter">
+
         <head>I</head>
         <p>Dans un de ces charmants chemins creux de Normandie, serpentant entre les levées, plantées de grands arbres, qui entourent les fermes d'un rempart de verdure impénétrable au vent et au soleil, par une belle matinée d'été, une amazone, montée sur une jument de forme assez médiocre, s'avançait au pas, les rênes abandonnées, rêveuse, respirant l'air tiède, embaumé du parfum des trèfles en fleurs. Avec son chapeau de feutre noir entouré d'un voile de gaze blanche, son costume de drap gris fer à longue jupe, elle avait fière tournure. On eût dit une de ces aventureuses grandes dames qui, au temps de Stofflet et de Cathelineau, suivaient hardiment l'armée royaliste, dans les traînes du Bocage, et éclairaient de leur sourire la sombre épopée vendéenne.</p>
         <p>Élégante et svelte, elle se laissait aller gracieusement au mouvement de sa monture, fouettant distraitement de sa cravache les tiges vertes des genêts. Un lévrier d'Écosse au poil rude et rougeâtre l'accompagnait, réglant son allure souple sur la marche lassée du cheval, et levant, de temps en temps, vers sa maîtresse, sa tête pointue, éclairée par deux yeux noirs qui brillaient sous des sourcils en broussailles. L'herbe courte et grasse, qui poussait sous la voûte sombre des hêtres, étendait devant la promeneuse un tapis moelleux comme du velours. Dans les herbages, les vaches appesanties tendaient vers la fraîcheur du chemin leurs mufles tourmentés par les mouches. Pas un souffle de vent n'agitait les feuilles. Sous les feux du soleil l'air vibrait embrasé, et une torpeur lourde pesait sur la terre.</p>
@@ -97,13 +105,13 @@
         <p>–Vous avez tort, Rose, fit l'amazone, de laisser le Roussot se familiariser ainsi avec vous... Qui sait ce qui peut se passer dans cette cervelle malade ?</p>
         <p>–Oh ! il n'est pas méchant, dit la belle Rose, il est seulement un peu taquin, et il est venu pour m'aguicher... Mais je ne le crains pas, dà, et j'aurais bien su m'en débarrasser toute seule... Je ne vous en remercie pas moins...</p>
         <p>Et posant une camisole sur la planche qui était devant elle, elle se mit à la battre à grands coups, en chantant d'une voix claire :</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk" />
         <p>Tapez ferme, la lavandière,</p>
         <p>Tapez ferme et rincez itou.</p>
         <p>À la mare l'iau n'est, pas chère,</p>
         <p>À c'matin il a plu beaucoup !</p>
         <p>Tapez ! tapez !</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk" />
         <p>Et elle rythmait sa chanson du claquement sourd de son battoir sur le linge mouillé, ne pensant déjà plus à son aventure, gaie et insouciante comme une alouette des champs, tandis qu'au bord de la lande, découpant sa silhouette grise sur l'azur du ciel, l'idiot, faisant claquer son fouet, riait toujours de son mauvais rire.</p>
         <p>L'amazone et l'étranger avaient repris leur marche : ils approchaient d'un petit bois dont l'entrée était défendue par une large barrière peinte en blanc. Ils le tournèrent et, soudain, arrivés au bord du plateau, la vallée de la Thelle s'ouvrit devant eux.</p>
         <p>Sur la hauteur à droite s'élevait un château de style Louis XIII, entouré d'un beau parc, s'arrondissant jusqu'à la rivière qui coulait, dans le fond, brillante entre les saules de ses rives, serpentait au milieu des prés d'un vert émeraude et, après avoir passé sous un joli pont de pierre, se perdait derrière les murs des vergers. Abritée par la colline contre les vents du Nord, La Neuville s'étalait coquette et blanche, dressant fièrement, au-dessus des toits des maisons, la flèche dentelée de son église et les hautes cheminées de ses fabriques. Un chemin en lacets descendait vers la ville, laissant à gauche de profondes et hautes hêtraies dont les troncs gris et les feuillages noirs donnaient un aspect sévère au paysage. À mi-côte, un monticule blanc, semblable à une énorme taupinière, émergeait de la futaie. Tout autour de la ville la campagne était cultivée, et les blés jaunes, les avoines d'un beau ton vert-de-gris, les trèfles violets ondulaient jusqu'aux enclos des faubourgs. Un ciel bleu s'étendait sur cet admirable panorama, que le soleil dorait de sa lumière, et une impression de tranquillité douce se dégageait de ce lieu plaisant, où il semblait que le bonheur devait habiter.</p>
@@ -124,13 +132,7 @@
         <p>Il la suivit du regard, cloué à sa place, oubliant le dédain de la jeune fille pour ne se souvenir que de sa beauté. Elle s'en allait fière et méprisante, après être restée auprès de lui, pendant une demi-heure, dans une sorte d'intimité charmante, et peut-être il ne pourrait plus jamais approcher d'elle. Il voyait à chaque pas la distance grandir ; déjà il ne distinguait plus nettement sa silhouette élégante, au milieu de la poussière soulevée par les pas du cheval. La traîne de la longue robe grise et le voile blanc du chapeau flottaient, le lévrier gambadait sur le bas côté de la route. Soudain, au tournant de la barrière qui coupait l'entrée du petit bois, l'amazone, le chien, tout disparut, et le chemin demeura vide.</p>
         <p>Pascal Carvajan resta un instant immobile, puis, frappant les cailloux avec sa canne en bois de fer :</p>
         <p>–Quelle fierté ! murmura-t-il. Quand elle a su qui j'étais, elle ne m'a même pas fait l'aumône du regard qu'elle jetterait au mendiant qui passe... Comme elle m'a bien fait comprendre que je n'existais pas pour elle ! Allons ! la destinée nous a voulus ennemis, et, en toutes circonstances, elle nous place en face les uns des autres. Clairefont ou Carvajan. Entre nous, c'est la guerre... C'est dommage ! Elle est bien belle !</p>
-        <p>
-          Il tira sa montre, et vit qu'il n'était encore que onze heures. Marchant lentement, il prit pour descendre un petit raidillon qui courait entre deux bordures de genêts. À mi-côte, un peu encaissé dans un creux de la colline, ce raccourci était exposé en plein au soleil. Une chaleur violente, absorbée par les ajoncs tordus et desséchés, bourdonnait comme à la bouche d'une fournaise. Pascal chercha des yeux un abri. À la lisière d'un maigre bouquet de bouleaux il aperçut un toit rouge, et, au-dessus de la porte, la branche de houx, enseigne des cabarets rustiques. Il se dirigea de ce côté et parvint, après avoir traversé une cailloutière, à un assez mauvais chemin d'exploitation, au bord duquel s'élevait une maison aux murs nouvellement crépis, aux volets peints fraîchement en vert. Les auvents étaient décorés de trois boules en pyramide et de deux queues de billard croisées. Autour, en grandes lettres:
-          <hi>Vins, café, liqueurs. Repas de sociétés</hi>
-          . Sur l'enseigne deux hommes étaient représentés, assis devant une table et trinquant, pendant que d'une bouteille un jet de liquide mousseux sortait avec violence. Au-dessous, en lettres jaunes:
-          <hi>Au rendez-vous des bons enfants. Pourtois, débitant.</hi>
-          Derrière le cabaret un jardinet s'étendait, divisé en tonnelles. L'allée du milieu servait de jeu de quilles, et, au fond, se dressait une balançoire.
-        </p>
+        <p> Il tira sa montre, et vit qu'il n'était encore que onze heures. Marchant lentement, il prit pour descendre un petit raidillon qui courait entre deux bordures de genêts. À mi-côte, un peu encaissé dans un creux de la colline, ce raccourci était exposé en plein au soleil. Une chaleur violente, absorbée par les ajoncs tordus et desséchés, bourdonnait comme à la bouche d'une fournaise. Pascal chercha des yeux un abri. À la lisière d'un maigre bouquet de bouleaux il aperçut un toit rouge, et, au-dessus de la porte, la branche de houx, enseigne des cabarets rustiques. Il se dirigea de ce côté et parvint, après avoir traversé une cailloutière, à un assez mauvais chemin d'exploitation, au bord duquel s'élevait une maison aux murs nouvellement crépis, aux volets peints fraîchement en vert. Les auvents étaient décorés de trois boules en pyramide et de deux queues de billard croisées. Autour, en grandes lettres: <hi>Vins, café, liqueurs. Repas de sociétés</hi> . Sur l'enseigne deux hommes étaient représentés, assis devant une table et trinquant, pendant que d'une bouteille un jet de liquide mousseux sortait avec violence. Au-dessous, en lettres jaunes: <hi>Au rendez-vous des bons enfants. Pourtois, débitant.</hi> Derrière le cabaret un jardinet s'étendait, divisé en tonnelles. L'allée du milieu servait de jeu de quilles, et, au fond, se dressait une balançoire. </p>
         <p>C'était là que le dimanche, pendant l'été, la population ouvrière de La Neuville se réunissait. Au premier étage un violon et un piston faisaient danser la jeunesse, et, par les fenêtres ouvertes, la voix enrouée de l'avertisseur retentissait, au milieu des éclats joyeux, criant: En place pour la poule ! Et le bruit des lourds souliers marquant la mesure roulait comme un tonnerre sur la tête des consommateurs attablés au rez-de-chaussée.</p>
         <p>En quelques années, Pourtois, gros homme apoplectique, abruti par la boisson, mais tenu en bride par sa femme, brune commère à la main leste et à l'œil vif, avait donné une si grande vogue à son établissement, que les cafetiers de la ville se plaignaient amèrement de la concurrence. Situé hors barrière, n'avait pas d'octroi à payer, et vendait ses redoutables liquides moins cher que ses rivaux. Et puis son jardin offrait aux buveurs l'abri verdoyant de ses berceaux couverts de pampres et de liserons, et les jeunes gens de la société ne dédaignaient point d'y venir déjeuner en partie fine.</p>
         <p>Au moment de l'assemblée, Pourtois faisait dresser, dans une prairie voisine de sa maison, une tente de toile, pouvant contenir deux ou trois cents personnes, et y donnait un bal. L'entrée était libre, mais les consommations se payaient en conséquence. Depuis deux ans, des influences politiques avaient même amené la municipalité de La Neuville à honorer cette réunion suburbaine de sa présence. Pourtois, agent électoral à ménager, avait tenu à mettre le comble à son triomphe en obtenant cette consécration officielle. Et dans l'intérêt de leur popularité, les représentants de l'autorité n'avaient pas cru devoir la lui refuser.</p>
@@ -144,11 +146,7 @@
         <p>Son adversaire était un homme d'une cinquantaine d'années, taillé en force, très rouge de visage, et le poil grisonnant. De petites boucles en or pendaient au lobe de ses oreilles. Une paire de guêtres en cuir fauve lui montait jusqu'aux genoux ; il était vêtu d'une blouse de roulier brodée de fil blanc aux épaules, au cou et aux poignets. Sur une chaise, près de lui, il avait posé une casquette de drap bleu à oreillettes, qu'il portait été comme hiver. Ses mains étaient presque aussi épaisses que longues, et faites pour assommer un bœuf. Il riait, d'un rire violent qui lui rendait les joues violettes et finissait par un étranglement. On l'appelait le père Tondeur. Était-ce son nom véritable, ou un sobriquet, venant de son habituelle façon de traiter les gens avec qui il faisait des affaires ? Jamais Pascal, depuis son enfance, ne l'avait entendu nommer autrement. Il se souvenait de l'avoir vu autrefois venir bien souvent chez son père. Quand il s'en allait, il disait toujours: Entendu. Ce qui prouvait le bon accord qui existait entre lui et Carvajan. Tondeur était marchand de bois, et occupait deux cents bûcherons, d'un bout de l'année à l'autre, dans les coupes qu'il soumissionnait aux adjudications du gouvernement ou des particuliers.</p>
         <p>Pascal s'assit à une table écartée. Un silence profond régnait dans la salle, troublé seulement par les bourdonnements des mouches qui voletaient au plafond en noirs essaims, et par le claquement sec des dominos sur le marbre. De temps à autre cependant, Tondeur et Fleury poussaient de sourdes exclamations, et laissaient échapper des lambeaux de phrases, agrémentées de plaisanteries en usage parmi les joueurs:</p>
         <p>–Blanc partout... preuve d'innocence.</p>
-        <p>
-          --Et du six...
-          <hi>tème</hi>
-          décimal...
-        </p>
+        <p> --Et du six... <hi>tème</hi> décimal... </p>
         <p>–Pour le coup, je pose le gros...</p>
         <p>–Et domino !... Sept et trois dix et sept dix-sept... qui ajoutés à quatre-vingt-trois font cent... Père Tondeur, vous avez votre compte...</p>
         <p>–A-t-il une chance, ce Fleury ! Il n'y en a que pour lui...</p>
@@ -246,6 +244,7 @@
         <p>–Non. Ce sera à force de dévouement !</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>Celui qui avait osé se faire de Carvajan un ennemi si acharné et si dangereux était maintenant un vieillard au front ridé, aux cheveux blancs comme la neige, aux épaules voûtées et à la démarche chancelante. On l'avait autrefois appelé le beau Clairefont, et le point de départ de cette haine implacable, à laquelle il était en butte, avait été une aventure d'amour.</p>
         <p>Au jour de sa naissance, en 1816, la Restauration était dans toute sa force et tout son éclat. Son père, riche de la fortune de sa femme, charmante Anglaise épousée pendant l'émigration, avait racheté le château patrimonial, et s'était constitué un domaine qui lui rapportait chaque année cent vingt mille livres. La faveur de Louis XVIII, dont il avait fait le whist pendant vingt-cinq ans, de Coblentz à Vérone et de Hartwel à Paris, en suivant toutes les étapes de l'exil, lui avait valu d'être nommé gentilhomme de la chambre et commandeur de Saint-Louis. Bien des fidèles qui s'étaient prodigués à la gueule des canons républicains en Vendée n'obtinrent pas autant, pour leur héroïsme, que M. de Clairefont pour ses robbers.</p>
@@ -260,13 +259,9 @@
         <p>Le marquis était mort un peu trop tôt. S'il eût vu Honoré souper, jouer, et le reste, il eût emporté la conviction consolante que le nom de Clairefont n'était point tombé à un grimaud. Le jeune homme fut du Jockey-Club, alors à son origine ; il fit courir, eut un pied dans les coulisses de l'Opéra, et, son revenu ne lui suffisant pas, entama gaillardement le capital.</p>
         <p>Il allait passer tous les étés deux ou trois mois à Clairefont, à l'époque des chasses, et stupéfiait La Neuville par le luxe de ses équipages et la splendeur de ses réceptions. Les bruits les plus extraordinaires circulaient sur les fêtes que donnait à ses amis le jeune seigneur du pays. On racontait qu'il s'était bu, dans un seul dîner, quatre-vingts bouteilles de vin de Champagne, et que des femmes habillées en hommes prenaient part aux battues du château. L'une d'elles avait même logé une charge de plomb dans les mollets d'un traqueur, en tirant un chevreuil. Et le blessé avait été gratifié de deux mille francs pour sa peine ; une petite fortune ! Tous les paysans en rêvaient, et, maintenant, s'aventuraient imprudemment les jours de chasse, pour tâcher d'avoir même aubaine.</p>
         <p>Honoré était un beau garçon, de moyenne taille, blond, avec des yeux bleus très doux. Quand il traversait la petite ville, conduisant son tilbury, et faisant, au trot sonore de ses deux chevaux, vibrer les carreaux des maisons, plus d'une femme risquait un œil à la fenêtre. Bien des cœurs battaient pour lui en secret. Mais qu'espérer d'un élégant qui passait pour avoir à Paris des bonnes fortunes miraculeuses, et retenir, par les mêmes chaînes de fleurs, les comédiennes célèbres et les fières grandes dames ? Cependant un événement se préparait, qui devait avoir un grand retentissement dans le pays, et exercer sur la destinée du marquis une influence considérable.</p>
-        <p>
-          Dans la rue du Marché, auprès de la fontaine publique, dont le rejaillissement continuel piquait la pierre des murs d'une moisissure verdâtre, s'élevait une étroite maison basse, à pignon aigu et penchant, aux fenêtres à guillotine garnies de carreaux verts, bossués, au centre, d'un cul de bouteille. Au-dessus de la porte, sur un tableau noir, étaient écrits ces mots:
-          <hi>Gâtelier, marchand de fourrages, sons, recoupes et avoines</hi>
-          . La petite boutique, au rez-de-chaussée, était encombrée de sacs de grains, et, dans un vaste casier, appliqué à la muraille, des bocaux d'échantillons rarement remués rancissaient sous la poussière. Cet humide et triste réduit, où le soleil n'entrait jamais, parut cependant lumineux au marquis. C'était un jour de marché : sa voiture avait été arrêtée par un encombrement ; il laissa tomber un regard distrait sur cet intérieur sombre, et resta ébloui. Assise auprès de la fenêtre relevée, travaillant à un ouvrage de broderie, une jeune fille, blonde comme une madone de Raphaël, le teint blanc, la bouche rêveuse et tendre, des yeux bleus ombragés par de longs cils châtains, lui apparut pleine de la grâce délicate et charmante d'une fleur qui languit sans air et sans soleil.
-        </p>
+        <p> Dans la rue du Marché, auprès de la fontaine publique, dont le rejaillissement continuel piquait la pierre des murs d'une moisissure verdâtre, s'élevait une étroite maison basse, à pignon aigu et penchant, aux fenêtres à guillotine garnies de carreaux verts, bossués, au centre, d'un cul de bouteille. Au-dessus de la porte, sur un tableau noir, étaient écrits ces mots: <hi>Gâtelier, marchand de fourrages, sons, recoupes et avoines</hi> . La petite boutique, au rez-de-chaussée, était encombrée de sacs de grains, et, dans un vaste casier, appliqué à la muraille, des bocaux d'échantillons rarement remués rancissaient sous la poussière. Cet humide et triste réduit, où le soleil n'entrait jamais, parut cependant lumineux au marquis. C'était un jour de marché : sa voiture avait été arrêtée par un encombrement ; il laissa tomber un regard distrait sur cet intérieur sombre, et resta ébloui. Assise auprès de la fenêtre relevée, travaillant à un ouvrage de broderie, une jeune fille, blonde comme une madone de Raphaël, le teint blanc, la bouche rêveuse et tendre, des yeux bleus ombragés par de longs cils châtains, lui apparut pleine de la grâce délicate et charmante d'une fleur qui languit sans air et sans soleil. </p>
         <p>Les charrettes qui barraient la rue s'étaient éloignées, les paysans qui débattaient le prix d'une vente, à grand renfort de cris et de tapes dans la main, avaient gagné le cabaret voisin, le passage était libre, les chevaux du marquis, ne voyant plus d'obstacle, piaffaient d'impatience, et cependant il restait là, les yeux fixés sur cette fenêtre où rayonnait cette exquise beauté, oubliant où il était, se souciant peu d'être observé, méprisant les commentaires des bourgeois de la ville, tout à son admiration, et pris d'un ardent désir de descendre, pour se rapprocher de celle qui venait de le troubler si profondément. Une aigre sonnette, mise en mouvement par l'huisserie, l'arracha désagréablement à son extase. Il jeta un regard chagrin sur la rue sale, sur la maison vieille et noire, se demandant par quelle ironie de la destinée cette perle se trouvait dans ce bourbier. Il ressentit alors une sorte de commotion magnétique. Un homme venait de paraître sur le seuil, s'était appuyé au chambranle de la porte, et, de là, faisait peser sur le marquis le regard provocant de ses prunelles jaunes. M. de Clairefont, du haut de son siège, dévisagea cet audacieux. Il le vit petit, maigre, avec une figure chafouine éclairée par des yeux d'une vivacité extraordinaire. Il était vêtu comme un ouvrier, d'une veste de ratine grise et d'un pantalon de velours vert usé aux genoux. Au même moment, la jeune fille leva la tête, et aperçut Honoré arrêté devant la boutique. Elle rougit, se détourna, affecta un air indifférent, et, quittant sa chaise, elle s'enfonça dans les profondeurs obscures de la boutique. Le marquis l'entendit qui disait d'une voix douce et chantante :</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk" />
         <p>–Carvajan, au lieu de regarder dans la rue, terminez donc vos expéditions...</p>
         <p>Le commis secoua son front basané comme pour en chasser de pénibles pensées, tourna une fois encore vers le jeune homme son visage sombre et menaçant, puis, lentement, il laissa aller la porte qui retomba avec un bruit de carreaux ébranlés. Honoré toucha ses chevaux, et, se tournant vers son domestique qui était assis impassible, les bras croisés, sur le siège de derrière :</p>
         <p>–Quelle est donc cette jolie fille ? dit-il en affectant un air insouciant.</p>
@@ -423,6 +418,7 @@
         <p>Le lendemain Pascal s'éloigna, laissant dans la petite maison de la rue du Marché Carvajan seul avec sa haine.</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p>En quittant Pascal sur le plateau qui domine la vallée de La Neuville, Mlle de Clairefont avait pressé l'allure de son cheval. Elle était désireuse de s'éloigner de cet homme qui, au premier abord, lui avait été sympathique et dans lequel, avec ennui, elle venait de découvrir un Carvajan. Elle eût voulu le chasser de sa pensée comme elle venait de l'éloigner de sa personne, mais, malgré elle, le visage de son compagnon de route, avec son large front, ses yeux clairs et sa bouche sérieuse lui apparaissait obstinément. Elle se disait: Il a pourtant la physionomie d'un homme loyal et sincère, et voilà qu'il est le fils d'un scélérat. Elle fit cette concession étrange : Peut-être est-il très bon néanmoins, et très honnête... Mais, s'élevant aussitôt contre cette indulgence inexplicable : En somme, ce n'est pas probable. Bon chien chasse de race. D'ailleurs il a eu l'air penaud et confus quand il a su qui j'étais... Et il a baissé la tête... D'où vient-il, celui-là, pour nous faire du mal ?</p>
         <p>Un Carvajan, pour Antoinette, ne pouvait avoir d'autre but dans la vie que de faire du mal à des Clairefont. Hélas ! du mal, en restait-il à leur faire ? Quel coup nouveau pouvait-on porter à cette famille qui, dans sa décadence progressive, était arrivée à une pauvreté voisine de la gêne ? Et, avec une profonde mélancolie, la jeune fille, qui n'avait que vingt-trois ans, se reportait dans le passé et marquait les étapes de la ruine lente mais assurée.</p>
@@ -454,7 +450,7 @@
         <p>–S'il n'épouse pas, c'est qu'apparemment il peut faire autrement. Du reste, c'est de tradition dans la famille. On sait qu'autrefois la tante Isabelle a fait ses farces !</p>
         <p>Jour de Dieu ! Si Mlle de Saint-Maurice avait eu vent de ces propos, quelle algarade, et comme elle eût riposté par des soufflets ! Mais les Clairefont vivaient loin de tout, et la calomnie mourait sur le seuil de leur château morose et silencieux.</p>
         <p>Depuis un assez long temps Antoinette, emportée au courant de ses souvenirs, était arrêtée devant les talus blancs de la Grande Marnière. Elle avait tout oublié ; sa singulière rencontre, l'heure qui la pressait ; et, laissant flotter les rênes sur le cou de son cheval, elle restait immobile. À ses pieds les charpentes des puits d'extraction pourrissaient inutiles, les hangars s'ouvraient, vides d'ouvriers, les wagons restaient immobiles entre les rails conduisant aux fours à chaux éteints. Toute cette exploitation, poussée pendant des années fiévreusement, avait cessé. Les immenses travaux commencés n'avaient pas été achevés. Et les amoncellements de calcaire improductif représentaient la fortune de la noble maison, les espérances de bonheur de la jeune fille, la sécurité des vieux jours du père de famille. Tout le passé, le présent et l'avenir, compromis sans rémission. Et pourtant que de fois Antoinette avait entendu le marquis s'écrier, en montrant la colline : Ici est la fortune de la maison !</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk" />
         <p>Il avait fait faire des expériences qui toutes avaient été concluantes: la chaux de Clairefont pouvait défier toute concurrence. Pendant plusieurs années la vente avait été considérable. Mais le marquis, pour perfectionner son outillage, s'était mis à inventer des machines. Il avait expérimenté des moyens de calcination nouveaux. Et dans ses tentatives il avait gaspillé le bénéfice de son entreprise. Toujours le manque de suite dans les idées. La folle du logis s'égarant à la recherche du mieux, quand le bien existait, facile et sûr ; le génie diabolique de l'inventeur sans cesse en quête d'un progrès à réaliser. Alors, au lieu de la réussite pure et simple, par le droit et ordinaire chemin, l'insuccès par des voies détournées et ardues. Et la ruine succédant à la fortune.</p>
         <p>Cependant, malgré l'amer désenchantement que lui causaient tant d'échecs successifs, au fond de l'esprit de la jeune fille une dernière espérance fleurissait encore. Elle avait en son père une foi superstitieuse. Elle pensait: Il finira par trouver, comme il le dit si souvent ; et ce jour-là, comme dans un prodigieux conte de fées, les blocs crayeux de la colline se changeront en or.</p>
         <p>La cloche qui annonçait le déjeuner sonnant dans le lointain tira Antoinette de ses rêves. Elle donna un coup de cravache à sa monture, partit au galop, et vivement arriva à la grille. Elle secoua sa tête pensive, prit un air riant, traversa la cour immense, entre les pavés de laquelle l'herbe poussait haute, sauta toute seule à terre, ouvrit la porte d'une écurie, et, débridant sa bête, la laissa aller vers la stalle garnie de paille fraîche Puis, retroussant sa longue jupe sur son bras, elle se dirigea, suivie de son chien, vers la salle à manger.</p>
@@ -645,6 +641,7 @@
         <p>Il se mit à rire en agitant sa tête blanche, et, faisant un geste d'adieu à Malézeau, qui se demandait avec trouble si ce n'était pas un fou qu'il avait devant lui, il remonta dans son laboratoire.</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
         <p>Ce n'avait pas été sans une émotion profonde que Pascal avait revu La Neuville. Parti étant presque un enfant, il revenait un homme. Dans les longues méditations de sa vie solitaire à l'étranger, il avait beaucoup discuté avec lui-même les causes qui avaient amené son départ, et pas une fois il ne s'était senti troublé par un regret. Il avait fait ce qu'il devait faire. Conduit par les circonstances à juger son père, il s'était enfui, comme pour se punir de son manque de respect, et s'était jeté à corps perdu dans le travail.</p>
         <p>Peu à peu il avait senti en lui un grand apaisement. L'éloignement avait étendu des voiles propices entre son souvenir et la terrible figure de Carvajan. Il en était venu à ne la plus voir qu'effacée et adoucie.</p>
@@ -698,7 +695,7 @@
         <p>–En vieillissant il s'est humanisé. Qui sait s'il ne ferait pas vraiment beaucoup pour me plaire ?</p>
         <p>Il eut la pensée de profiter des bonnes dispositions où il le voyait, et de tout lui avouer. Il était temps encore peut-être de détourner le coup suspendu sur Clairefont. Si la rentrée de l'enfant, pendant si longtemps errant à travers le monde, pouvait être le signal d'une pacification heureuse ? Oh ! de quelle tendresse il paierait son père, si, par condescendance pour lui, il consentait à épargner ses ennemis vaincus ! Il se figurait Antoinette débarrassée de ses soucis, libre de sourire. Et ce serait à lui que la jeune fille devrait la sécurité de la vie pour son père, et le calme du cœur pour elle. Un grand attendrissement s'empara de Pascal. Sans retard, il voulut tenter l'épreuve.</p>
         <p>–Mon père, depuis que je suis rentré chez vous, dit-il, j'admire comme tout a changé. Je vous ai retrouvé le premier de la ville... Vous avez une grande situation, et je comprends qu'elle n'est pas encore ce qu'elle peut être...</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk" />
         <p>Carvajan baissa la tête en signe d'affirmation. Un rire muet passa sur son visage basané.</p>
         <p>–Je vois cependant un point noir à l'horizon : c'est l'état d'hostilité dans lequel vous vivez avec les habitants de Clairefont... Croyez-vous qu'il soit digne de vous de prolonger une lutte qui jette du trouble dans le pays ? Car, vraiment, tous ceux qui ne sont pas pour vous sont pour eux... Et c'est une véritable discorde que vous entretenez.</p>
         <p>Le banquier baissa le nez, comme lorsqu'il ne voulait pas s'expliquer et, avec une sourde ironie :</p>
@@ -782,6 +779,7 @@
         <p>L'air était calme et doux. Dans le ciel transparent, les étoiles brillaient. Il s'assit sur un banc de pierre, auprès de la fontaine qui coulait avec un léger murmure ; tout se taisait, et, dans cette solitude de la ville endormie, ne trouvant que tristesse dans son passé, n'attendant que tristesse de son avenir, maudissant le marquis, rougissant de son père, résolu à chasser de son cœur le souvenir d'Antoinette, Pascal désespéré laissa tomber sa tête entre ses mains, et se mit à pleurer.</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
         <p>L'assemblée de La Neuville, cette année-là, fut particulièrement brillante. La récolte s'annonçait bien, les branches des pommiers pliaient sous les fruits, les pluies du printemps avaient rendu les foins savoureux et abondants. Le marché aux bestiaux avait vu ses cours très soutenus, et les génisses se payaient couramment vingt-cinq pistoles. Un vent de gaieté passait sur la ville, une animation inusitée mettait en branle ses habitants lourdauds et casaniers. Les rues étaient encombrées, les boutiques s'ouvraient hospitalières, les paysans, d'un pas traînant, le nez en l'air, la blouse neuve, d'un bleu noir, ballonnant sur le dos, s'en allaient le long des trottoirs, suivis de leur femme et de leurs filles, en bonnet de fête à grandes aiguilles d'or.</p>
         <p>À l'entrée du faubourg, devant l'auberge du Cygne d'argent, un cercle de cabriolets et de tapissières, les brancards en l'air, s'élargissait d'heure en heure, pendant que, dans une petite prairie, attachés à des piquets, les chevaux, leurs harnais sur le dos, le mors défait et pendant, broutaient l'herbe, se fouettant les flancs de leur queue pour chasser les mouches. À chaque instant, une charrette ou un bog sonnant la ferraille arrivait, couvert de poussière, conduit par un fermier, la casquette sur l'oreille, le cigare mâchonné à la bouche. Et c'étaient des appels et des exclamations.</p>
@@ -894,7 +892,7 @@
         <p>La petite Bihorel, qui avait la cinquantaine, fit une révérence de dévote et conduisit les deux dames du château jusqu'à la porte de la sacristie. À peine la tante et la nièce furent-elles seules dans l'église, que Mlle de Saint-Maurice, regardant Antoinette avec des yeux pétillants de curiosité :</p>
         <p>–Ah ça, ma belle, je suppose que tu as reconnu ton donateur au portrait que le curé a tracé de lui ? C'est assurément le jeune sire de Carvajan, en personne.</p>
         <p>–Tante ! murmura la jeune fille avec ennui.</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk" />
         <p>–Eh bien ! quoi donc ? Le fils de ce vieux coquin, pris de remords peut-être, rend un peu de l'argent volé par son père, et se sert de ta main pour faire cette restitution agréable aux hommes et à Dieu. C'est fort moral, et du dernier galant !... Tu vas voir que nous aurons, sans nous en douter, un allié dans la maison du monstre.</p>
         <p>–Je vous en prie, tante, ne plaisantez pas sur un pareil sujet ! dit Mlle de Clairefont d'une voix troublée.</p>
         <p>–Qu'est-ce donc ? Je ne comprends pas ton émotion, s'écria la vieille fille avec étonnement.</p>
@@ -902,11 +900,7 @@
         <p>–Eh là! comme tu t'animes ! Le sujet, à vrai dire, n'en vaut pas la peine. Voilà un gaillard qui, pour cent francs, aura trouvé moyen de faire parler de lui. Et les oreilles ont dû lui «clocher»! S'il a fait un calcul, il n'est déjà pas si bête !... Mais avant de laisser de côté le personnage, un dernier mot: je ne le crois pas un diable si noir que tu te l'imagines. Il a eu autrefois des démêlés avec son père. Il est vrai que le voilà rentré dans la maison. Mais est-ce une raison pour qu'il soit d'accord avec le vieux scélérat ? Moi, mon rêve serait de les voir se dévorer l'un l'autre... Carvajan contre Carvajan... À corsaire, corsaire «ennemi». Serait-ce amusant !</p>
         <p>–Vous ne jouirez pas de ce spectacle, tante, dit Antoinette avec une dédaigneuse amertume. Le moment venu, soyez sûre qu'ils se trouveront unis pour nous accabler... Quoi qu'il en soit, ne parlons plus jamais de ce qui vient de se passer.</p>
         <p>Elles sortirent de l'église. M. de Croix-Mesnil, très occupé à déchiffrer une épitaphe sur la pierre qui servait de seuil, se tourna vers elles en souriant. C'était un très joli garçon de trente ans, aux yeux noirs et à la moustache blonde, d'une charmante distinction de manières, et d'une exquise aménité de caractère. Il avait donné des preuves de brillante valeur pendant la guerre, sous les ordres du général de Charette. On le citait comme un de ces hommes doux qui vont au danger sans fracas, et qui, d'une voix tranquille, donnent des ordres mortels.</p>
-        <p>
-          --Je fais appel à tous mes souvenirs classiques pour arriver à comprendre cette inscription latine... Il y est question, si je ne me trompe, d'un abbé de Clairefont, qui a été enterré là, voulant que le pied des fidèles, en entrant dans le temple, foulât sa dépouille terrestre...
-          <hi>Calcabunt fidelium pedes</hi>
-          ...
-        </p>
+        <p> --Je fais appel à tous mes souvenirs classiques pour arriver à comprendre cette inscription latine... Il y est question, si je ne me trompe, d'un abbé de Clairefont, qui a été enterré là, voulant que le pied des fidèles, en entrant dans le temple, foulât sa dépouille terrestre... <hi>Calcabunt fidelium pedes</hi> ... </p>
         <p>–Parfaitement, dit la tante de Saint-Maurice... C'est Foulque de Clairefont, prieur de Jumiège. Si cela peut vous être agréable, le marquis vous contera son histoire... Il commença par être mousquetaire, fut un grand sacripant, devint un modèle de piété, et finit comme un saint... C'est la gloire religieuse de la maison... Son portrait est dans l'oratoire.</p>
         <p>–Voici mon père et Robert qui viennent à notre rencontre, interrompit Antoinette.</p>
         <p>Le marquis, marchant lentement, appuyé sur le bras de son fils, s'avançait le long de l'avenue de tilleuls qui conduit du village à la grille du château. Robert, quittant pour un jour les habits de chasse qu'il portait habituellement, était vêtu d'un costume de drap bleu qui faisait valoir la robuste élégance de sa taille. Il causait gaiement avec son père, et, de la main gauche, tenait en laisse le lévrier d'Antoinette. En apercevant sa sœur, il lâcha le chien qui, partant comme un trait, avec des jappements caressants, se roula aux pieds de la jeune fille.</p>
@@ -981,6 +975,7 @@
         <p>Elle adressa à M. de Croix-Mesnil un tendre sourire, et, lui serrant la main, elle s'efforça de lui faire partager sa vaillance et sa résignation.</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
         <p>Il était huit heures, et dans la salle de danse construite par Pourtois, une foule animée et bruyante se pressait. Sur une longueur de cinquante mètres, et sur une largeur égale, le gazon avait été couvert d'un plancher par les soins de Tondeur. Des poutres soutenant une immense couverture en toile goudronnée se dressaient, supportant des écussons en carton peint, décorés à leur centre du chiffre R.F. et ornés de drapeaux. Cinq lustres en fer-blanc, garnis de lampes à réflecteurs, répandaient une violente clarté. Des banquettes couvertes de housses en calicot rouge entouraient ce vaste espace. À l'un des bouts, sur une étroite estrade, se tenaient les musiciens, attendant qu'un geste de Pourtois leur donnât le signal des danses. À l'autre, séparée du reste de la salle par une balustrade, une tribune, faisant face à l'entrée, avait été réservée pour les autorités. Trois fauteuils de velours entourés de chaises étaient rangés sous un buste en plâtre de la République, logé dans une niche faite de branchages verts. Des portes ouvertes dans la partie gauche de la tente mettaient la salle en communication avec le jardin du cabaret, éclairé par des lanternes vénitiennes dont la chaleur faisait crépiter les bois des tonnelles.</p>
         <p>La maison, les bosquets, tout était plein, un cercle de buveurs entourait chacune des tables, la fumée des cigares et des pipes montait dans la clarté des illuminations, et le vacarme, commencé dès le matin, continuait, avec un peu plus d'enrouement des braillards, et un peu plus d'abrutissement des ivrognes.</p>
@@ -1150,7 +1145,7 @@
         <p>Dans la salle de danse, l'émotion causée par l'intervention de Mlle de Clairefont n'était pas encore calmée. La tante de Saint-Maurice, d'abord pétrifiée, avait fini par reprendre ses esprits et, la figure fulgurante :</p>
         <p>–Ah ! çà, mais qu'est-ce que tout cela signifie ? gronda-t-elle... Deviens-tu folle, ma fille ? Tu fais des politesses à ce jeune «maltôtier», quand il méritait une bonne leçon pour son impertinence...</p>
         <p>–Non ! tante, non, c'est nous qui avons eu tous les torts... Il fallait ne pas venir ici, où nous savions que nous n'avions rien que de mauvais à attendre... Il fallait surtout ne pas provoquer ce jeune homme...</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk" />
         <p>–Mais tu n'as donc pas vu le vieux sacripant de père, riant d'avance de la bonne plaisanterie qu'il faisait, en t'exposant à te trouver nez à nez avec son fils ?...</p>
         <p>Antoinette hocha la tête avec tristesse.</p>
         <p>–Ne nous attaquons pas à cet homme : nous ne serions pas les plus forts... Cédons le terrain, c'est ce que nous avons de mieux à faire.</p>
@@ -1271,6 +1266,7 @@
         <p>Ils soulevèrent la pauvre fille, dont les mains devenaient froides, et, dans la demi-clarté du jour naissant, ils descendirent vers le cabaret.</p>
       </div>
       <div type="chapter">
+
         <head>VII</head>
         <p>Il était sept heures du matin, et Carvajan, fidèle à ses habitudes matineuses, marchait déjà depuis longtemps dans son cabinet comme un ours en cage. Le silence s'étendait encore sur la ville, engourdie par le sommeil d'un lendemain de fête. Le soleil montait éclatant dans le ciel. Enfilant obliquement la rue étroite et haute, un de ses rayons dorait la fenêtre du vieux logis et traçait sur le plancher une raie lumineuse. Dans la traînée blonde qui perçait le rideau, des atomes poudreux dansaient comme des sylphes ailés. Et malgré cette clarté joyeuse et chaude, Carvajan, sombre, le front lourd, tournait et retournait dans son esprit des pensées amères.</p>
         <p>Ainsi, au moment où il croyait toucher au but et n'avoir plus qu'à étendre la main pour recevoir le prix de trente ans de luttes, il se produisait des à-coups violents qui le ramenaient en arrière. Tenir dans sa main ses adversaires, n'avoir qu'à serrer pour les écraser, et sentir cependant encore la pointe de leurs dents enfoncées dans une morsure suprême.</p>
@@ -1414,7 +1410,7 @@
         <p>À l'indignation des premiers moments, lorsque la tante de Saint-Maurice s'écriait superbement: «Mais il est impossible qu'on soupçonne un Clairefont !», avait succédé une terreur vague faite d'ignorance : celle des enfants qui s'éloignent de l'ombre peuplée par leur imagination de fantômes effrayants. En somme, on ne savait rien de ce qui se passait ni de ce qu'on pouvait craindre ; mais ce mystère-là était plus formidable que ne l'eût été la connaissance de ce qu'il fallait redouter. Sur les faits s'étendait une obscurité dans laquelle les malheureux se débattaient impuissants.</p>
         <p>Leur préoccupation principale était de faire le silence autour du marquis. Ils ne pouvaient supporter la pensée que le père fût instruit de l'accusation portée contre son fils. À tout prix, ils étaient résolus à l'empêcher de la connaître. La tranquillité du vieillard devait avant tout être sauvegardée. Depuis trente ans, la famille avait subi son despotisme, et s'était pliée à ses caprices les plus déraisonnables. Tout faire pour ne point tourmenter le marquis avait été le mot d'ordre à Clairefont. Les enfants et la tante de Saint-Maurice s'étaient conformés à cette règle : Antoinette et Robert avec un tendre respect, la vieille fille avec des accès de mauvaise humeur réprimés à grand'peine. On avait tout accepté, même les menaces de ruine. Plutôt mourir que de révéler la menace du déshonneur. Le premier mot de la tante Isabelle avait été :</p>
         <p>–Emmenons le marquis à Saint-Maurice !...</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk" />
         <p>Mais Antoinette, toujours sage, au milieu même du désespoir, avait répondu aussitôt:</p>
         <p>–Il ne saurait nulle part être mieux qu'à Clairefont. Dans son appartement séparé, il est à mille lieues du monde. Ce sera à nous de veiller à ce qu'on ne pénètre pas jusqu'à lui... Il ne lit aucun journal, il ne sort jamais... Il restera, quoi qu'il arrive, dans une quiétude complète. S'il faut absolument lui dire quelque chose, eh bien, nous choisirons au moins le moment, et nous serons juges de l'étendue de l'aveu.</p>
         <p>Et tous trois, réunis dans le petit salon du rez-de-chaussée, les fenêtres ouvertes sur la terrasse, ils attendaient, dans une anxiété plus intolérable que le mal lui-même, l'oreille ouverte aux mille bruits du dehors, les yeux fixés sur la montée de Clairefont qui cheminait poudreuse et nue dans la verdure de la colline. C'était par cette route, qu'ils interrogeaient, que pouvait leur venir le danger. Et dans les yeux de la tante de Saint-Maurice éclatait le désir mal contenu de la résistance.</p>
@@ -1517,6 +1513,7 @@
         <p>Le soir même, il était conduit à Rouen et écroué à la prison de Bonne-Nouvelle.</p>
       </div>
       <div type="chapter">
+
         <head>VIII</head>
         <p>Ainsi que l'avait fait pressentir la tante Isabelle, il lui aurait été impossible de ne pas suivre son Benjamin. Après une soirée passée à se ronger les poings dans des accès de fureur contenue et une nuit pendant laquelle elle parut près de devenir folle, la vieille fille avait sauté en chemin de fer. Antoinette, restée seule avec son père, dut, pour expliquer l'absence de son frère et de sa tante, forger de toutes pièces une histoire.</p>
         <p>Mlle de Saint-Maurice avait eu des difficultés avec son fermier et elle était partie pour quelques jours avec Robert. Pour quelques jours ! Le marquis n'avait point remarqué le sourire navrant dont Antoinette avait accompagné ce mensonge. Il n'était point exigeant, le bon Honoré, et pourvu qu'on ne le tourmentât pas au sujet de ses inventions, il passait volontiers condamnation sur le reste. Il se suffisait, d'ailleurs, admirablement à lui-même.</p>
@@ -1651,7 +1648,7 @@
         <p>–Ce sera bien difficile...</p>
         <p>–Et pourtant, tout lui dire, c'est le tuer ! Il ne supportera pas un pareil coup... L'entretien sérieux que j'ai eu avec lui ce matin l'a bouleversé... Il souffre... Que voulez-vous ? Il n'est pas habitué aux contrariétés... Nous les avons jusqu'à présent gardées pour nous seuls. Il pouvait se livrer paisiblement aux travaux qui sont sa joie et son existence même. Il était si confiant dans ses découvertes !... J'espérais toujours... S'il avait enfin trouvé ce qu'il cherche, ne serait-ce pas un crime de le priver de ce résultat si laborieusement obtenu ?</p>
         <p>–Ne pensons plus à cela, pour le moment, Mademoiselle... Il s'agit de savoir ce que vous voulez faire... Vous êtes sous le coup d'une expropriation par voie de saisie immobilière... Jugement rendu, signifié, délais obtenus grâce à des oppositions successives, qui n'ont abouti qu'à vous procurer du temps, en augmentant les frais... Aujourd'hui, je puis encore user de moyens dilatoires, pour vous maintenir pendant quelques jours en possession... Nous continuerons la bataille du papier timbré... Mais il faudra toujours en arriver à la chute finale. Et ces atermoiements n'auront pour résultat que d'exaspérer Carvajan. D'un autre côté, si nous laissons saisir, nous avons chance, avant la vente, de voir aboutir l'affaire de votre frère. Dégagés de tout souci, nous portons tous nos efforts sur sa défense. Nous prions quelque avocat éminent du barreau de Paris de soutenir sa cause, et nous pouvons arriver à l'arracher des mains de vos ennemis. Une fois hors de danger, oh ! alors, nous n'avons plus rien à ménager, et nous tâchons de tirer de nos biens-fonds tout le parti possible. Nous envoyons des annonces aux notaires du département et de la capitale, afin de trouver des acquéreurs importants pour le château et le domaine. Nous nous adressons aux fabricants de chaux de Senonches, nous leur faisons valoir le péril de la concurrence, nous les engageons à pousser pour obtenir l'enchère, afin d'unifier les tarifs. Carvajan, qui devient enragé, pousse de son côté, et, grâce à cette rivalité, les adjudications sont faites à des prix inespérés. Si bien qu'une fois la cloche fondue, nous trouvons pour M. le marquis, toutes les dettes payées, un reliquat de deux ou trois cent mille francs, lesquels, habilement placés par mes soins, lui permettent de vivre honorablement à Saint-Maurice. Voilà, ma chère demoiselle, le plan que j'ai conçu et que je venais vous proposer.</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk" />
         <p>Le bon Malézeau, entraîné par la chaleur de son débit, ne bredouillait plus et ne hachait plus son discours de ses habituels Monsieur, Madame, ou Mademoiselle, mais le tic de ses yeux avait redoublé et, derrière ses lunettes d'or, son regard papillotait terrible.</p>
         <p>–Oui, c'est là ce qu'il faut faire, dit Antoinette, voilà ce que la raison conseille... Oh ! Dieu, à force de tourments et de tristesse, j'en viendrai à quitter cette maison presque sans regrets: j'y aurai trop souffert... Je m'en remets à vous, cher monsieur Malézeau ; voyez mon père, raisonnez-le, obtenez de lui qu'il se repose sur vous et sur moi du soin d'arranger ses affaires. Faisons le vide autour de lui, jusqu'à ce que mon frère soit revenu... Après le péril, nous pourrons lui laisser soupçonner nos inquiétudes. Il y aura assez de joie pour les lui faire oublier.</p>
         <p>Elle eut un doux et triste sourire :</p>
@@ -1794,16 +1791,13 @@
         <p>Tous deux, pieusement, ils soulevèrent entre leurs bras le vieillard qui se plaignait comme un enfant, et, lugubre cortège, descendirent l'escalier de pierre.</p>
       </div>
       <div type="chapter">
+
         <head>IX</head>
         <p>Les heures qui suivirent furent affreuses. Croix-Mesnil se multipliait, mais ne pouvait rassurer Antoinette sur l'état de son père. Le docteur Margueron, parti, dès le matin, pour une tournée dans les environs, ne vint qu'à sept heures du soir. Il trouva le marquis très agité avec un côté de la face convulsé. Il prescrivit des sinapismes appliqués aux jambes, et des sangsues à la base du crâne, si la congestion augmentait. Il ne dissimula pas la gravité de la situation, et promit de revenir le lendemain matin.</p>
         <p>Installée au chevet de son père avec le baron, la jeune fille passa les instants les plus douloureux de sa vie. Dans l'obscurité de la chambre, elle écoutait la respiration saccadée du malade, entrecoupée par des paroles sans suite. Assise près de la table, éclairée par une lampe, elle regardait l'ami dévoué qui, à la première nouvelle du malheur, n'avait pas hésité à accourir. Ils se taisaient tous deux. Navrée jusqu'au fond de l'âme, le corps anéanti, Antoinette était obsédée par des idées désolantes. Elle ne pouvait même pas concentrer uniquement sa préoccupation sur ce pauvre homme qui gémissait sourdement, en proie à un violent délire. La moitié d'elle-même s'en allait vers son frère dont le danger moins immédiat était cependant plus grand encore. Quel calvaire elle avait à gravir, la pauvre fille, et combien pesante était sa croix ! Tous ses nerfs étaient détendus, elle se sentait sans force. Sa tête lui paraissait lourde et brûlante : elle eût donné beaucoup pour pleurer. Il lui semblait que, si la source de ses larmes s'était ouverte, elle s'y serait rafraîchie et calmée. Mais ses yeux restaient secs, enfoncés sous ses sourcils, comme tirés à l'intérieur par l'effort de la pensée.</p>
         <p>À dix heures, le vieux Bernard entra sur la pointe du pied, et demanda si on ne voudrait pas souper. Antoinette secoua négativement la tête. Alors Croix-Mesnil la supplia de descendre avec lui. Elle n'avait pas mangé depuis le matin, il fallait qu'elle conservât des forces pour soigner son père. Elle se laissa arracher la promesse de prendre un potage, mais elle demeura dans la chambre de son malade.</p>
         <p>Revenu auprès d'elle, le baron essaya de la soustraire à sa sombre méditation. Ils causèrent tout bas, précaution inutile, car le marquis était hors d'état de rien comprendre, et les mots qui frappaient son oreille n'éveillaient plus aucun écho dans son esprit. Le calme de Mlle de Clairefont effraya le jeune homme. Il eût préféré la trouver exaltée. Elle raisonnait sur les événements qui venaient de se produire avec une lucidité et un sang-froid absolus. Elle n'avait plus aucun espoir et voyait la situation désespérée. Elle interrogea elle-même le baron sur l'effet produit par l'arrestation de Robert. Enfermée dans la solitude et le silence de Clairefont, elle ignorait complètement ce qu'on pensait et ce qu'on disait au dehors. Elle savait seulement par le billet de la tante Isabelle que les journaux avaient divulgué l'affaire.</p>
-        <p>
-          Du reste, c'était ainsi que Croix-Mesnil avait été informé. Un officier lui avait apporté le
-          <hi>Courrier de l'Eure</hi>
-          , et, avec un affreux saisissement, il avait lu le récit du meurtre et appris l'arrestation du prétendu meurtrier. Il avait aussitôt demandé une permission de vingt-quatre heures et était parti en toute hâte. Les autres journaux du département l'avaient renseigné sur les tendances de l'opinion publique.
-        </p>
+        <p> Du reste, c'était ainsi que Croix-Mesnil avait été informé. Un officier lui avait apporté le <hi>Courrier de l'Eure</hi> , et, avec un affreux saisissement, il avait lu le récit du meurtre et appris l'arrestation du prétendu meurtrier. Il avait aussitôt demandé une permission de vingt-quatre heures et était parti en toute hâte. Les autres journaux du département l'avaient renseigné sur les tendances de l'opinion publique. </p>
         <p>Deux courants s'établissaient déjà: l'un favorable à Robert, l'autre contraire. Malheureusement, le second était beaucoup plus puissant que le premier. La passion politique, habilement excitée par les partisans de Carvajan, était en jeu. Les journaux radicaux débordaient d'imprécations lancées contre «les gaietés sanguinaires de ces derniers représentants de la féodalité, qui croyaient pouvoir encore disposer, suivant leur monstrueux caprice, de l'honneur et de la vie des prolétaires». Chassevent, appelé «vénérable vieillard» et «honnête travailleur», était représenté pleurant la fille, appui de sa vieillesse. Le tout se terminait par un chaleureux appel à la fermeté des magistrats et à la rigueur du jury, car le crime abominable méritait un châtiment exemplaire.</p>
         <p>Croix-Mesnil se garda bien de laisser soupçonner à Antoinette ces excitations basses et ces fangeuses colères. Il ne dit pas non plus qu'au moment de quitter Évreux il avait reçu de son père une dépêche le mettant en garde contre l'ardeur irréfléchie d'un premier mouvement, et l'engageant à se tenir à l'écart de la famille de Clairefont. «La rupture n'est pas venue de toi, disait le prudent magistrat, profite de la situation qui t'est faite, et ne te compromets pas. Toutes les preuves matérielles accablent le malheureux Robert. Il n'y a pour lui que des présomptions morales, et bien faibles.» Le capitaine mit la dépêche dans sa poche et partit tout courant. Il avait un de ces cœurs simples qui croient ne pas faire assez quand ils ne font pas trop. Antoinette était malheureuse, son frère accusé, calomnié : ce n'était pas le moment de se tenir à l'écart, comme le lui télégraphiait son père, mais bien de se rapprocher. Et il était venu.</p>
         <p>L'un près de l'autre, lui très triste, elle bien pâle, ils parlaient dans la demi-clarté de la lampe baissée, comme pour la veillée d'un mourant. Par instants ils s'arrêtaient pour écouter le vieillard qui, dans son délire, prononçait des phrases menaçantes et riait lugubrement. Et ces paroles douloureuses, marmottées entre les dents serrées, avec un frisson les ramenaient impitoyablement à l'affreuse réalité.</p>
@@ -1905,7 +1899,7 @@
         <p>Carvajan dressa l'oreille. Dans l'accent de son fils il avait découvert une sonorité singulière. Il l'observa et lui trouva la contenance embarrassée.</p>
         <p>–Eh bien ! allons fumer dans mon cabinet, dit-il en se levant.</p>
         <p>Ils passèrent dans la grande pièce sombre, éclairée seulement par une lampe placée sur le bureau du banquier. Et, avec une ivresse délicieuse, Pascal retrouva flottant, affaibli dans l'air, le parfum qu'Antoinette avait laissé, trace subtile de son séjour dans la maison de l'ennemi. Carvajan avait un odorat de sauvage ; il respira avec force, mais ne sonna mot. Il marchait à grands pas, suivant son habitude. Les soupçons qu'il avait formés sur le compte de son fils tendaient à se préciser, et lui causaient une sourde inquiétude : Serait-il de connivence avec les gens de Clairefont ? se demandait-il. Mais comment, par quelle entremise ? Absorbé dans la recherche de ce problème, il allongeait ses enjambées, allant de la fenêtre au bureau, lorsque, sur la console en vieil acajou empire, qui garnissait le trumeau du côté de la rue, un morceau de tissu noir attira son attention. Il s'approcha machinalement, le regarda, reconnut une voilette de femme, et, avec une exclamation, s'en emparant:</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk" />
         <p>–Qui est-ce qui a laissé ça ici ? cria-t-il. Qui donc est venu en mon absence ? Sacredié ! J'avais bien reniflé, en entrant, une odeur qui n'était pas catholique !...</p>
         <p>Il mit la voilette sous le nez de Pascal.</p>
         <p>–Tu dois être informé, toi, monsieur le casanier, qui n'es pas sorti de la journée ? Cet objet de toilette n'appartient pas à une des dames de La Neuville... Dieu merci, elles ne se cachent pas le visage !... Est-ce que ?...</p>
@@ -1977,6 +1971,7 @@
         <p>Et, laissant le vieillard ivre de rage impuissante, il sortit.</p>
       </div>
       <div type="chapter">
+
         <head>X</head>
         <p>Le lendemain, avec une surprise et une satisfaction à peu près égales, la population de La Neuville apprit que la querelle entre Clairefont et Carvajan allait prendre une face nouvelle, grâce à la rupture qui venait de se produire entre le maire et son fils. On avait vu d'une part Fleury, Tondeur et Dumontier accourir dès le matin à la rue du Marché et, au bout d'un temps très long, sortir affairés, discutant et gesticulant. D'autre part, Pascal s'était installé provisoirement chez Me Malézeau, qui, brûlant bravement ses vaisseaux, se déclarait pour la famille de Clairefont.</p>
         <p>Quelle aubaine pour la petite ville dont la plate existence se traînait dans la monotonie, et qui, subitement, se trouvait agitée par des émotions violentes ! Les langues marchaient bon train, et les commérages prenaient des proportions à la fois effrayantes et risibles.</p>
@@ -2151,7 +2146,7 @@
         <p>–Tu ne sais ce que tu fais. Tu attires sur toi des colères, dont je ne pourrai peut-être pas toujours te préserver... Ne passe plus jamais par ici !... Quand tu iras là-haut, prends la grande route... Adieu !</p>
         <p>Il partit, presque en courant, dans la direction de l'auberge de Pourtois. Pascal rentra chez Malézeau. Il pensa: Mon père a voulu m'effrayer... Qu'ai-je à craindre ?</p>
         <p>Il continua à suivre, pour aller à Clairefont, le sentier de la Grande Marnière. Deux jours plus tard, comme il regagnait La Neuville, vers six heures, arrivé au détour du sentier, il entendit une détonation, et une branche de bouleau, brisée à un pied de sa tête, tomba sur le chemin. D'un bond, le jeune homme se jeta derrière le talus de la route, et, à l'abri, il attendit, regardant au loin. Dans les rougeurs du soleil couchant, une petite fumée blanche monta, mais la lande resta déserte. Celui qui avait tiré ne parut pas. Il s'était enfui au travers des genêts, ou se cachait dans un trou de marne. Pascal demeura là, quelques instants, puis, se courbant pour ne pas être vu, il s'éloigna.</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk" />
         <p>–Il n'y a pas à s'y tromper : c'était Chassevent, se dit-il. Mais comment n'a-t-il pas tiré son second coup ?... Il avait le temps... Peut-être se proposait-il seulement de me faire peur ?... Cependant la balle a passé bien près.</p>
         <p>Les recommandations de son père lui revinrent à la mémoire. Évidemment il se doutait des projets du braconnier. Ne pouvant se faire obéir de cette brute, il avait au moins essayé de protéger son fils. Allons ! toute tendresse n'était pas morte en lui.</p>
         <p>À Clairefont Pascal garda le silence sur l'incident ; seulement il prit un autre chemin.</p>
@@ -2180,6 +2175,7 @@
         <p>–Va, mon enfant, et du courage.</p>
       </div>
       <div type="chapter">
+
         <head>XI</head>
         <p>Il était trois heures, et dans la salle des assises le jour commençait à baisser. Une foule énorme se pressait sur les bancs, s'amassait dans les couloirs, refluait jusque dans les tribunes réservées aux avocats et aux journalistes. Dans un recoin, au premier rang, isolées cependant et à l'abri des regards curieux, Antoinette et la tante Isabelle assistaient, depuis le matin, à l'affreux débat dans lequel était engagé tout ce qu'elles avaient de plus cher au monde : l'honneur et la vie de Robert.</p>
         <p>Devant elles s'étendait l'espace vide au milieu duquel se dressait la barre, et, plus loin, la table supportant les pièces à conviction : une écharpe de laine et un mouchoir de soie. Tout au fond, la Cour impassible et effrayante siégeait dans sa sévère gravité. À gauche était le jury, et à droite le banc des accusés où, entre deux gendarmes, se trouvait un Clairefont. Aux pieds de son client, assis au banc de la défense, Pascal, vêtu de la robe noire, avec l'hermine blanche sur l'épaule. Tout l'auditoire était tendu dans une attention passionnée. La lutte se développait vive entre l'accusation et la défense.</p>
@@ -2388,10 +2384,11 @@
         <p>–Il grimpe dans le clocher !</p>
         <p>Et, à la clarté de la lune, l'idiot se montra à une des ogives de la plate-forme. Les pas de l'agent, qui le poursuivait, résonnaient à l'intérieur. Le Roussot gravit les échelons qui conduisaient à la charpente supportant la cloche. Il se dressa, apparition fantastique, la figure grimaçante, les cheveux hérissés, livide d'épouvante.</p>
         <p>L'agent parut au-dessous de lui, montant toujours. Le berger regarda le faîte du clocher, et, avec une agilité et une force de gorille, grimpa le long des poutres. Il se tint un instant debout sur un étroit rebord, puis il parut pris de vertige, se balança, comme attiré par le vide, poussa un horrible éclat de rire, et, perdant son point d'appui, il fila dans l'espace.</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk" />
         <p>Robert, Pascal et le magistrat n'eurent que le temps de se jeter en arrière. Le corps du Roussot, tournant sur lui-même dans sa chute, décrivit une courbe effrayante, et vint s'abattre, avec un bruit mat, sur la tombe même de Rose, éclaboussant de son sang la pierre encore trempée de ses larmes.</p>
       </div>
       <div type="chapter">
+
         <head>XII</head>
         <p>Trois jours plus tard, dans le salon du château, devant la famille rassemblée, Me Malézeau rendait compte de diverses opérations dont il avait été chargé. Le passif du marquis était complètement liquidé, et un acte d'association, entre Pascal et M. de Clairefont, assurait l'exploitation de la Grande Marnière. Le fils de Carvajan, devenu commanditaire, mettait à la tête de l'établissement un directeur de son choix et constituait le fonds de roulement. Un partage égal des bénéfices éventuels devait avoir lieu entre lui et le marquis, l'un ayant apporté son argent, l'autre ayant donné son établissement.</p>
         <p>Robert, pris d'un beau zèle, avait demandé à s'employer dans l'affaire, et Pascal lui avait désigné un poste où il pourrait, au grand air, dépenser utilement sa puissante activité de corps. Chassevent, mandé à l'étude, après avoir gémi sur le malheur qui l'avait privé de sa chère bonne petite fille, avait consenti, moyennant le payement d'une somme de deux mille francs, à quitter le pays. Comme le vagabond se lamentait sur la modicité du prix, le notaire lui avait dit rudement, en le regardant dans le blanc des yeux :</p>
@@ -2454,22 +2451,14 @@
         <p>Derrière la persienne, Antoinette se tenait debout, immobile. Les jeunes gens s'étaient éloignés qu'elle restait encore là, comme si le son de leurs paroles vibrait encore à son oreille. Elle se retourna, vit la chambre qui s'étendait obscure devant elle, et, avec un tressaillement, se rappela ce jour si triste où elle s'était enfermée là pour lire la première lettre de la tante Isabelle. Elle retrouva toutes ses impressions, toutes ses craintes, toutes ses espérances. À cette table, elle s'était accoudée, dans un complet anéantissement moral et physique. Le papier de ce buvard gardait la trace de ses larmes. L'horizon était bien noir alors, et maintenant il était bleu et riant ! En quelques semaines, par la toute-puissante volonté d'un homme amoureux, tout avait été sauvé. Comme un écho des soupirs passés, un vague murmure se fit entendre dans l'ombre, et, avec une ardente reconnaissance, Mlle de Clairefont, joignant les mains, s'écria d'une voix étouffée :</p>
         <p>–Mon Dieu ! combien je vous remercie !...</p>
         <p>Elle passa son mouchoir sur son visage, et sortit. Quand elle revint dans le salon, la tante Isabelle, qui avait le regard perçant, remarqua que la jeune fille avait les yeux rouges comme si elle venait de pleurer. Elle en fut presque heureuse. L'impassibilité de sa nièce la confondait.</p>
-        <p>
-          Le dîner se traîna morne, malgré les tentatives de Robert pour animer la conversation. Chacun des convives était absorbé par de graves préoccupations, et ne prêtait aux propos échangés qu'une oreille distraite. Pendant la soirée, Antoinette se mit au piano, et, pour la première fois, chanta devant Pascal. Elle avait une voix de mezzo-soprano, aux notes puissantes et pures. Elle choisit, comme au hasard, l'admirable air de la
-          <hi>Reine de Saba</hi>
-          , et fit frissonner le jeune homme par l'expression triomphante et passionnée qu'elle mit dans la reprise :
-        </p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+        <p> Le dîner se traîna morne, malgré les tentatives de Robert pour animer la conversation. Chacun des convives était absorbé par de graves préoccupations, et ne prêtait aux propos échangés qu'une oreille distraite. Pendant la soirée, Antoinette se mit au piano, et, pour la première fois, chanta devant Pascal. Elle avait une voix de mezzo-soprano, aux notes puissantes et pures. Elle choisit, comme au hasard, l'admirable air de la <hi>Reine de Saba</hi> , et fit frissonner le jeune homme par l'expression triomphante et passionnée qu'elle mit dans la reprise : </p>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk" />
         <p>Plus grand dans son obscurité</p>
         <p>Qu'un roi paré du diadème,</p>
         <p>Il semblait porter en lui-même</p>
         <p>Sa noblesse et sa majesté !</p>
-        <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
-        <p>
-          Elle lui adressa visiblement ces paroles. Elle l'en enveloppa comme d'un manteau de pourpre, et l'en orna comme d'une couronne. Pendant une minute, leurs deux âmes furent en contact, et il parut que quelque chose d'elle allait vers lui. Un nuage passa sur les yeux de Pascal. Quand il put regarder et voir, la jeune fille avait attaqué, avec un brio plein d'indifférence, l'air célèbre du
-          <hi>Barbier</hi>
-          : «Una voce poco fa...» et elle vocalisait avec une sûreté qui démentait toute émotion.
-        </p>
+        <milestone type="subChapter" rend="asterisk" unit="asterisk" />
+        <p> Elle lui adressa visiblement ces paroles. Elle l'en enveloppa comme d'un manteau de pourpre, et l'en orna comme d'une couronne. Pendant une minute, leurs deux âmes furent en contact, et il parut que quelque chose d'elle allait vers lui. Un nuage passa sur les yeux de Pascal. Quand il put regarder et voir, la jeune fille avait attaqué, avec un brio plein d'indifférence, l'air célèbre du <hi>Barbier</hi> : «Una voce poco fa...» et elle vocalisait avec une sûreté qui démentait toute émotion. </p>
         <p>Pascal eut un accès de désespoir. Il se dit: «Je suis lâche de rester là à me faire déchirer le cœur, comme à plaisir. M. de Croix-Mesnil se trompe, et moi-même je perds la raison. Allons ! une minute de résolution. Partons, et que ce soit à jamais fini !» Il se leva vivement, et, allant à la tante de Saint-Maurice :</p>
         <p>–Je vous prie de m'excuser, Mademoiselle : j'ai encore beaucoup de préparatifs à faire... Il faut que je me retire...</p>
         <p>–Comment ! déjà? demanda la vieille fille. Mais, au moins, nous vous verrons encore demain ?</p>
@@ -2507,7 +2496,7 @@
       </div>
     </body>
     <back>
-      <div type="notes"/>
+      <div type="notes" />
       <div type="liminal">
         <p>FIN</p>
       </div>

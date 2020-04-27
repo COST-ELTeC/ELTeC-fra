@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA01602" xml:lang="fr">
   <teiHeader>
@@ -15,9 +15,7 @@
         </respStmt>
         <respStmt>
           <resp>Original data capture</resp>
-          <name>
-            Wikisource
-            <ref>http://fr.wikisource.org</ref>
+          <name> Wikisource <ref>http://fr.wikisource.org</ref>
           </name>
           <name>ManuD</name>
           <name>Shaihulud</name>
@@ -37,53 +35,76 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">51537</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           First ElTeC edition
           2019-09-29
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <title>Fleurs d'Orient</title>
           <author>Judith Gautier</author>
-          <date>2001-06-29</date>
-          <ref target="https://fr.wikisource.org/wiki/Fleurs_d%E2%80%99Orient"/>
-        </bibl><bibl type="printSource">
+          <publisher>Wikisource</publisher>
+          <date>2001</date>
+          <ref target="https://fr.wikisource.org/wiki/Fleurs_d%E2%80%99Orient" />
+        </bibl>
+        <bibl type="printSource">
           <title>FLEURS D'ORIENT</title>
           <author>Judith Gautier</author>
           <publisher>Armand Collin et Cie. Éditeurs 5, Rue de Mézèries</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1893</date>
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="firstEdition">
           <!-- best guess -->
           <date>1893</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-11-01">Conversion to level 1 encoding.</change>
       <change when="2019-09-29">File created</change>
     </revisionDesc>
   </teiHeader>
   <text>
-    <front> <div type="titlepage">
-      <p>Fleurs d'Orient </p><p>Judith Gautier</p><p> Armand Colin, </p><p>Paris, 1893 </p><p>FLEURS D'ORIENT</p>
-    </div></front>
-    <body>
+    <front>
+      <div type="titlepage">
+        <p>Fleurs d'Orient </p>
+        <p>Judith Gautier</p>
+        <p> Armand Colin, </p>
+        <p>Paris, 1893 </p>
+        <p>FLEURS D'ORIENT</p>
+      </div>
+    </front>
 
+    <body>
       <div type="chapter">
+
         <head>ZULEÏKA</head>
+
         <head>I</head>
         <p>Le Nil coulait lentement, dans le silence de la nuit, entraînant le reflet brisé des larges étoiles qui tachaient l'éther obscur du ciel.</p>
         <p>Et, pareille à un autre fleuve, une caravane, profitant de la fraîcheur nocturne, cheminait en bon ordre sur l'une des rives.</p>
@@ -110,6 +131,7 @@
         <p>— Dieu de mes pères ! s'écria-t-il, extasié, jamais pareille merveille n'a frappé mes yeux. Mon chagrin s'adoucit devant cette splendeur. Je me confie à toi, Dieu d'Abraham ! Et j'entre sans crainte dans cette ville où je serai esclave, car tes desseins sont impénétrables.</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>Quelques heures plus tard, l'étranger fut vendu sur la place publique, et celui qui l'acheta était Putiphar, ministre du Pharaon.</p>
         <p>— Comment te nommes-tu ? demanda-t-il à son nouvel esclave, en l'emmenant avec lui dans son char.</p>
@@ -125,6 +147,7 @@
         <p>Un mois s'était à peine écoulé, et Joseph était devenu l'intendant de Putiphar ; tout prospérait sous sa direction ; le Maître avait pris son esclave en grande amitié et lui donnait toute sa confiance.</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p>Dans l'appartement des femmes, délicieusement frais et embaumé, ouvrant sur une cour intérieure, dont le centre creusé en bassin est plein d'une eau limpide, Zuleïka, l'épouse de Putiphar, a réuni tout un groupe caquetant de nobles amies.</p>
         <p>Les piliers trapus aux chapiteaux fleuris, peints de couleurs alternées, jettent leurs ombres ; l'eau baise doucement les marches de marbre noir et reflète, en frissonnant, les peintures de la colonnade et des hautes corniches.</p>
@@ -183,6 +206,7 @@
         <p>Le jeune homme se recula dans l'ombre de la porte, et la draperie retomba.</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
         <p>À quelque temps de là, un jour de chaleur accablante, Joseph se reposait dans le jardin de son maître, sous une touffe de mimosas, près d'un bassin de marbre rose. Il regardait, rêveusement, un ibis immobile au bord du bassin et qui semblait taillé dans la pierre, tant la couleur de son plumage se confondait avec le ton de chair du marbre.</p>
         <p>Tout à coup il fut tiré de sa rêverie par un pas léger qui froissait le sable.</p>
@@ -205,6 +229,7 @@
         <p>Et le jeune esclave s'éloigna, sans vouloir entendre davantage la femme de Putiphar.</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
         <p>Depuis ce jour, Joseph évita soigneusement de se trouver seul avec Zuleïka. Lorsqu'il était obligé d'être en sa présence, il ne la regardait jamais, bien qu'elle ne le quittât pas des yeux et poussât des soupirs déchirants.</p>
         <p>Une fois, il se croisa avec elle sur un escalier du palais ; elle descendait, lui montait.</p>
@@ -213,6 +238,7 @@
         <p>Putiphar parut au pied de l'escalier ; alors elle laissa Joseph et continua à descendre.</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
         <p>Un jour de moisson, tous les serviteurs étaient hors du palais.</p>
         <p>Joseph entra dans une chambre pour prendre un papyrus qu'il y avait laissé.</p>
@@ -236,6 +262,7 @@
         <p>En entendant cela, Putiphar entra dans une colère égale à celle de sa femme ; il brisa plusieurs objets et maudit cent fois sa confiance. Puis il fit rechercher Joseph et, sans vouloir l'entendre, le fit jeter en prison.</p>
       </div>
       <div type="chapter">
+
         <head>VII</head>
         <p>Trois ans après cet événement, la femme de Putiphar se promenait tristement au bord du Nil avec ses femmes et quelques eunuques.</p>
         <p>Elle songeait à Joseph, disparu de sa vie, mais qui était sa pensée constante. Elle ne pouvait revenir sur sa vengeance, car il eût fallu avouer qu'elle était la seule coupable ; et elle avait le regret amer de ce temps où du moins elle pouvait le voir tous les jours, respirer le même air que lui.</p>
@@ -253,8 +280,11 @@
         <p>Tandis, qu'affaissée au bord de la route, elle regardait s'éloigner celui qui triomphait sans orgueil, qui avait brillé, aux yeux de tous, comme un flambeau dans la nuit, l'esclave inconnu devenu le maître de l'Égypte, parce qu'il n'avait marché que vers la perfection, elle comprit enfin l'amour véritable ; l'amour hors de la chair, hors de la vie, hors du temps. Elle comprit que si le bien-aimé la fuyait, c'était pour lui montrer la voie, l'entraîner vers les hauteurs célestes, où seulement elle pourrait le joindre, peut-être, après d'innombrables siècles d'efforts, de larmes et de prières, quand elle serait devenue tout clarté et tout amour, qu'elle mériterait enfin de s'abîmer, goutte de lumière, dans l'infinie lumière, parcelle d'amour dans l'amour illimité, qui est le ciel.</p>
       </div>
       <div type="chapter">
+
         <head>LE LIVRE DE THOT</head>
+
         <head>CONTE MAGIQUE</head>
+
         <head>I</head>
         <p>Le beau jeune homme courait le long du Nil, évitant les obstacles, écartant brusquement ceux qui gênaient son passage, soulevant des murmures, poursuivi quelquefois même par une injure, qu'il ne semblait pas entendre.</p>
         <p>Il était entré à Memphis au moment où le soleil levant faisait toutes roses, au loin, les pyramides, et il suivait la berge, encombrée de marchandises, de bestiaux, de volailles, d'énormes tas de légumes et de fruits, que l'on débarquait, pour les distribuer, ensuite, aux différents marchés de la grande ville.</p>
@@ -291,6 +321,7 @@
         <p>Alors la princesse descendit et, suivie des cent jeunes filles, pénétra dans le temple.</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>Horus se glissa jusqu'à un des obélisques qui précédaient le parvis, n'osant pas se croire vraiment invisible ; mais, comme nul ne le remarquait, il s'avança alors sans hésiter et s'adossa à un pilier, tout près de la porte principale du temple. Là, il attendit que, sa prière finie, Tantyris, s'en retournant, passât devant lui.</p>
         <p>Le cœur gonflé d'émotion, il se remémorait le discours que son frère Aménâa venait de lui apprendre, et, si proche du moment décisif de sa vie, il lui semblait que les minutes tantôt étaient longues comme des années, tantôt s'envolaient dans un vertige.</p>
@@ -313,6 +344,7 @@
         <p>Il s'éloigna, tournant la tête pour la voir encore, tandis qu'elle oubliait de descendre les degrés et le suivait des yeux, en se disant : — Celui-là, certes, emporte mon cœur, et ce n'est pas le Livre de Thot que je vais attendre avec angoisse et espérance.</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p>La nuit bleue et la scintillation des étoiles éclairaient à demi les gorges arides de la nécropole de Memphis, et, bondissant par-dessus les roches éboulées, les chacals s'enfuyaient en faisant claquer leurs mâchoires faméliques, les oreilles dressées à un bruit vivant, au milieu du silence funèbre.</p>
         <p>Depuis bien des heures déjà, Horus et son frère Aménâa, le Scribe Excellent, erraient dans la ville des morts, lesquels, redoutant par-dessus tout la visite des vivants, cachent leurs demeures.</p>
@@ -359,6 +391,7 @@
         <p>Horus s'empara de l'éblouissant trésor, et s'enfuit, emportant avec lui toute la clarté, tandis qu'avec des soupirs rauques et des râles, le vivant combattait contre le mort, dans les ténèbres du tombeau.</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
         <p>Le palais du pharaon était comme une ville dans la grande ville, une merveille parmi les splendeurs.</p>
         <p>C'était l'heure où le roi se divertissait, égayait son cœur et son esprit, en compagnie des femmes les plus belles du monde. Et, ce jour-là, on avait choisi, pour s'y réunir, les bords d'un lac ravissant, tout fleuri de lotus, aux rives ombreuses et dont l'eau limpide était couleur d'opale, d'ambre et d'émeraude.</p>
@@ -376,6 +409,7 @@
         <p>Pendant ce temps, les beaux fiancés, ne sachant plus dans quel lieu du monde ils se trouvaient, se regardaient avidement, dans une telle plénitude de joie, que le souvenir seul de cette joie aurait suffi à enchanter toute leur existence.</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
         <p>Le pharaon avait donné à Horus un palais digne d'un prince royal, avec tous les serviteurs, tous les dignitaires, soldats et richesses que ce rang exige.</p>
         <p>Dès le lendemain, en grande pompe, on devait lui amener la divine Tantyris, l'épouse qu'il avait conquise. Et ce jour-là s'acheva au milieu des préparatifs des noces, que le roi voulait magnifiques.</p>
@@ -390,6 +424,7 @@
         <p>Sous une rafale, la large fenêtre venait de s'ouvrir toute grande, et, dans les lueurs d'éclairs, une cohue d'êtres, blafards et effrayants, assiégeait l'ouverture et s'engouffrait dans la chambre. Glacée, comme morte, elle sentit qu'on l'enlevait de son lit, qu'on l'emportait à travers l'espace, et, subitement, elle perdit toute conscience d'elle-même.</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
         <p>En s'éveillant, elle était encore émue par l'horrible rêve qui avait troublé son sommeil. Mais elle pensa à Horus, au jour heureux qui se levait et, en souriant, regarda autour d'elle.</p>
         <p>Ô stupeur ! elle était couchée dans le sable, aux pieds d'un colosse de granit, et, tout alentour : le désert !...</p>
@@ -407,6 +442,7 @@
         <p>Il prit les couffes sur son dos, installa Tantyris sur l'âne et, le guidant par la bride, se hâta vers la grande ville.</p>
       </div>
       <div type="chapter">
+
         <head>VII</head>
         <p>— Voilà le palais du roi. Vie ! Santé ! Force ! dit le paysan, après avoir cheminé plus d'une heure, mais une foule énorme se presse à l'entour ; je ne puis approcher davantage.</p>
         <p>Tantyris, pleine d'impatience, sauta à terre.</p>
@@ -454,6 +490,7 @@
         <p>Sachons nous contenter de ces dons, et n'éveillons pas les divines colères, en portant une main audacieuse sur le voile de l'inconnu, qu'il n'est permis à nul vivant de soulever.</p>
       </div>
       <div type="chapter">
+
         <head>BILKIS</head>
         <p>Saba, qui donna son nom au pays des Sabéens, dans l'Arabie méridionale, était arrière-petit-fils de Katan et troisième arrière-</p>
         <p>petit-fils de Noé. Il fut le quatrième aïeul du roi Zou-Chark, père de la rayonnante Bilkis, la plus illustre des princesses.</p>
@@ -493,6 +530,7 @@
         <p>Et Salomon épousa Bilkis.</p>
       </div>
       <div type="chapter">
+
         <head>L'ÉTOILE AUX CHEVEUX D'OR</head>
         <p>Sous le firmament, qui resplendit d'étoiles, la vieille cité de Madian s'étend massive et sombre tout endormie. Quelques hautes tours, de blanches coupoles, ébauchent de vagues rondeurs pâles ; un palais, aux murailles puissantes, domine la ville, et autour de lui tremble une musique.</p>
         <p>Le musicien c'est le vent du nord, effleurant les harpes suspendues aux fenêtres ; les harpes dont les cordes frêles luisent, çà et là, prolongeant les rayons d'astres : l'on croit entendre les scintillements frémir.</p>
@@ -620,6 +658,7 @@
         <p>↑ Orion.</p>
       </div>
       <div type="chapter">
+
         <head>LES QUATRE SAGES DE L'ARABIE</head>
         <p>Au temps où les tribus, libres et vagabondes, dressaient leurs tentes sur les sables dorés de l'Arabie, les filles sauvages du désert étaient fières et intrépides, douces et tendres cependant, estimées et adorées des hommes ; elles étaient leurs égales, et jouissaient des mêmes droits qu'eux. Ainsi il leur était permis de répudier leur époux, et il suffisait à la femme, pour faire entendre à son mari qu'il était libre, de changer l'orientation de la tente conjugale. Lorsqu'il s'en approchait le soir, ne trouvant plus l'entrée à la place accoutumée, il comprenait qu'il ne lui était plus permis de franchir le seuil, et il s'éloignait sans demander d'explications.</p>
         <p>Ces femmes savaient défendre leur vertu et elles estimaient que c'était le plus précieux de leur bien. Souvent elles préféraient la mort au déshonneur ; témoin cette illustre Fatimé, qui, faite prisonnière, se jeta la tête la première, du haut de la chamelle qu'elle montait, et se tua ainsi, pour échapper à l'amour de son vainqueur.</p>
@@ -667,6 +706,7 @@
         <p>Cette noble colère éveilla un écho dans l'âme ulcérée des Djadis ; le frère et le fiancé d'Ofaira se mirent à la tête d'un complot : on attira Imlyk dans un piège, et il fut massacré avec tous ses courtisans.</p>
       </div>
       <div type="chapter">
+
         <head>LEÏLA</head>
         <p>C'était un fier adolescent, au beau visage, au bras fort, au cœur de héros, que Keïs, fils d'un khan illustre de la tribu des Amerites ; bien des jeunes filles le suivaient du regard, avec de tendres soupirs, lorsqu'il lançait son cheval ardent vers la plaine, s'exerçant à décocher des flèches ou à manier la lance ; mais il demeurait froid et indifférent, ne prenait nullement garde aux émotions qu'il faisait naître.</p>
         <p>Mais, un jour, il entendit ses compagnons d'armes parler d'une jeune fille appartenant à une tribu campée dans une plaine voisine. Une émotion extraordinaire, alors, s'empara de lui, à tel point qu'elle le fit pâlir. Il s'éloigna et se répéta le nom qu'il avait entendu :</p>
@@ -754,6 +794,7 @@
         <p>Ainsi finirent le Roméo et la Juliette de l'Orient. On ensevelit les deux amants dans un tombeau magnifique, ombragé par un bosquet de rosiers.</p>
       </div>
       <div type="chapter">
+
         <head>TOUMADIR LA SOLAMIDE</head>
         <p>Un jour, une réunion littéraire avait lieu chez le khalife Abd-</p>
         <p>el-Melik, qui régnait juste un siècle avant Haroun-el-Rachid ; un poète fameux, nommé Cha-by, était présent.</p>
@@ -831,6 +872,7 @@
         <p>— Certes, reprit Abou-Bekr, tu justifies ces paroles, que Dieu a révélées dans son saint Koran : « Nous n'avons pas appris à notre Prophète la versification ; il n'en a pas besoin. Le Koran n'est qu'un enseignement, une lecture simple et claire. »</p>
       </div>
       <div type="chapter">
+
         <head>LA FAVORITE DE MAHOMET</head>
         <p>Le prophète revenait victorieux d'une expédition contre les Mostalik ; on avait campé, le dernier soir, à peu de distance de Médine, et l'on s'était remis en marche avant le jour.</p>
         <p>Au moment où le soleil glissa du bord du ciel ses premiers rayons sur la campagne, il fit étinceler la cotte de mailles et la lance d'un retardataire, qui pressait l'allure de son chameau en l'excitant de la voix. C'était un jeune guerrier, bien fait et de bonne mine sous le léger casque damasquiné ; mais il paraissait fort contrarié d'être resté en arrière : dans son profond sommeil, il n'a pas entendu le signal du départ, et vient de s'éveiller seul, dans le camp abandonné. Il fait tous ses efforts pour rattraper l'armée. Houp ! houp ! le chameau allonge le cou et jette en avant et en arrière ses jambes noueuses, qui semblent vouloir quitter son corps : mais, brusquement, le jeune homme tire sur la bride, arrête l'animal avec un cri de surprise.</p>
@@ -899,6 +941,7 @@
         <p>Cet oracle fit cesser les propos. Les accusateurs confondus devinrent l'objet de la réprobation générale, après avoir subi la punition. Aucune médisance ne vint plus ternir la réputation d'Aïchah, et le Prophète éprouva jusqu'à la mort la plus vive tendresse pour son épouse préférée.</p>
       </div>
       <div type="chapter">
+
         <head>LES SÉVÉRITÉS DU KHALIFE</head>
         <p>À travers le bazar, plein d'animation et de bruit, entre les étalages des bouchers, des marchands de fruits, des confiseurs, un homme, vêtu d'une robe rapiécée et coiffé d'un turban d'étoffe sombre, circulait, tenant à la main une baguette flexible avec laquelle il jouait nerveusement, tapotant les plis de sa robe, cinglant l'air, de-ci, de-là, comme s'il infligeait des corrections à d'invisibles coupables. Deux jeunes hommes, très simples dans leur costume, suivaient le premier, d'un air grave et respectueux.</p>
         <p>La foule s'écartait devant les trois promeneurs, les suivait d'un regard craintif, et, tant qu'ils étaient en vue, marchands et acheteurs faisaient silence. C'est que chacun reconnaissait le khalife Omar, venant, selon sa coutume, faire lui-même, incognito, la police du bazar et de la ville, accompagné de ses deux fils.</p>
@@ -1005,7 +1048,9 @@
         <p>— Que la bénédiction d'Allah soit sur toi ! dit Omar, en faisant un geste d'adieu.</p>
       </div>
       <div type="chapter">
+
         <head>ALY LE JUSTE</head>
+
         <head>I</head>
         <p>— Que veux-tu, femme ? le Mauvais marche avec celle-là qui court hors du harem, après le soleil couché, et l'épaisseur du voile ne remplace pas la pudeur perdue.</p>
         <p>Aly avait un visage sévère, mais la femme se jeta à genoux, les mains jointes, se tordant les bras, les coudes sur le divan.</p>
@@ -1037,6 +1082,7 @@
         <p>Et, reprenant le calam séché, il se rassit à l'angle du divan et continua à tracer, sur le Gefr, de mystérieuses choses.</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>À quelques mois de là, la ville de Médine était pleine de rumeurs ; partout la foule bourdonnait, irritée ; on maudissait le nom d'Othman, le khalife ; on l'accusait confusément ; c'était presque une émeute.</p>
         <p>Aïchah, la veuve de Mahomet, celle qu'on appelait maintenant : la Prophétesse, avait fait venir Aly, et elle lui parlait, avec agitation et colère, de la conduite du khalife et du mécontentement du peuple.</p>
@@ -1071,6 +1117,7 @@
         <p>— Pauvre femme !</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p>Des jours et des ans sont tombés dans l'éternité. Les colères éteintes se sont rallumées, et Othman a été égorgé.</p>
         <p>Depuis longtemps Aly est Émir-al-Moumenin, Commandeur des Croyants ; et lui aussi, il a vu son règne agité par des troubles et des convulsions. Aïchah, devenue guerrière, a marché contre lui, à la tête d'un parti. La prophétie s'est accomplie : elle a été aboyée des chiens au village de Zikâr, l'épouse du Prophète, et comme, en les entendant, elle voulait rebrousser chemin, on a retenu son chameau par la bride et cinquante témoins lui ont juré que le village portait un autre nom. Ce fut là, pour les Islamites, le premier faux témoignage. Quel carnage, pendant cette journée du chameau où la Prophétesse fut vaincue par Aly ! Pour la punir, il voulait d'abord prononcer, entre elle et Mahomet, un divorce posthume ; puis il lui a pardonné.</p>
@@ -1106,6 +1153,7 @@
         <p>— Va, ma fille ! dit-il, laisse ton cœur refleurir, aime ton fils, vis sans remords : Dieu t'a pardonné !</p>
       </div>
       <div type="chapter">
+
         <head>L'ENTÊTEMENT DE ZOBEÏDE</head>
         <p>Le khalife Haroun-el-Raschid joue aux échecs avec la sultane Zobeïde.</p>
         <p>La partie est extraordinairement sérieuse, car les deux époux, profondément absorbés, le regard fixe, le sourcil froncé, n'échangent pas un mot. L'on n'entend d'autre bruit, autour d'eux, que celui d'une fontaine dont l'eau de rose s'égrène dans une vasque de marbre.</p>
@@ -1200,6 +1248,7 @@
         <p>Allah-Mamoun, le fils d'Haroun-el-Raschid et de cette humble négresse, qu'avec une si folle obstination, Zobeïde a jetée, un soir, dans le lit royal !</p>
       </div>
       <div type="chapter">
+
         <head>DJÉMILA</head>
         <p>Le soleil verse des flammes sur le champ bien cultivé, et les malheureux esclaves qui, harcelés par le fouet des gardiens, travaillent, haletants, exténués, brûlés, peuvent se croire vraiment en enfer.</p>
         <p>Un jeune homme surtout, si gracieux qu'on le prendrait pour une femme, semble à bout de forces, prêt à mourir. Et voici que tout à coup il chancelle, ses mains blanches lâchent la lourde pioche, et avec un sanglot il se jette sur le sol. Le fouet levé, un surveillant s'élance ; mais quelqu'un qui passe sur la route, l'arrête d'un cri impérieux.</p>
@@ -1289,6 +1338,7 @@
         <p>Et Djémila, cachant son visage dans ses mains, s'abandonna au serpent, qui bientôt l'engloutit tout entière.</p>
       </div>
       <div type="chapter">
+
         <head>LE TAPIS DES MILLE ET UNE NUITS</head>
         <p>[1]</p>
         <p>« Allahou Akbar ! Allahou Akbar ! Achadou an lâ ilâha'illâ llah ! »</p>
@@ -1325,13 +1375,11 @@
         <p>Celui-ci est tourneur. Le voici qui étend les bras, couche sa tête sur une épaule et se met à tourner sur lui-même, d'abord lentement, puis de plus en plus vite, jusqu'à ce qu'il soit arrivé à une rapidité de toupie. Il ne s'arrête que lorsqu'il a atteint l'étourdissement extatique qui plaît à Dieu.</p>
         <p>Pour nous, ce tournoiement insensé nous a donné un peu de vertige. Afin de nous remettre, nous allons reprendre le tapis des Mille et une Nuits, ou plutôt le chemin de fer Decauville, qui, en moins de cinq minutes, nous mènera du Caire à Tunis. Là nous verrons les almées, les Oued-Naïls et les danseuses noires.</p>
         <p>1. ↑ Souvenir de l'exposition universelle de 9, à Paris.</p>
-        <p>
-          2. ↑ La rue du Caire était une des artères les plus fréquentées et les plus
-          curieuses
-        </p>
+        <p> 2. ↑ La rue du Caire était une des artères les plus fréquentées et les plus curieuses </p>
         <p>de l'Exposition.</p>
       </div>
       <div type="chapter">
+
         <head>LES DANSEUSES DU SULTAN DE DJOGYAKARTA</head>
         <p>[1]</p>
         <p>Le Kampong javanais est tout enfermé dans une palissade de paille, et deux tourelles, coiffées de chaume, s'élèvent de chaque côté de la porte.</p>
@@ -1362,6 +1410,7 @@
         <p>1. ↑ Souvenir de l'Exposition universelle de 1889 à Paris.</p>
       </div>
       <div type="chapter">
+
         <head>LES SEIZE ANS DE LA PRINCESSE</head>
         <p>Comme c'est l'hiver et qu'il fait froid, on a fermé, autour du prince, les panneaux de bois précieux, menuisés avec une minutie et un art incomparables, et cela rend toute petite la salle dans laquelle il est assis, rêveur, le bras posé sur un accoudoir revêtu de nacre.</p>
         <p>Plusieurs belles robes, ouatées d'un duvet de soie, superposent et croisent leurs collets, de différentes couleurs, sur la poitrine du Daïmio, et l'on voit, près de l'épaule, brodée en or sur la manche, une espèce d'étoile formée de cinq boules en entourant une sixième. C'est là le blason bien connu de la très illustre famille de Kanga, qui n'a d'égale en puissance, dans toutes les îles du Japon, que celles de Shendaï et de Satsouma.</p>
@@ -1456,6 +1505,7 @@
         <p>— Tiens, dit-il, voici la clé de mes trésors, prends ce que tu voudras et ne t'avise pas d'être discret.</p>
       </div>
       <div type="chapter">
+
         <head>KOMATI</head>
         <p>C'était au temps où Komati, la poétesse illustre, s'était exilée de la cour, abandonnant ses titres, ses biens, sa famille, pour s'en aller errer par les chemins, en vivant d'aumônes.</p>
         <p>Un soir d'été, qu'elle était assise à quelques pas de la pagode d'Alaziyama, les regards fixés sur le flamboiement du crépuscule, elle vit, presque malgré elle, car il se trouvait dans le rayon de sa vue, un cavalier immobile, sur la route de Kioto.</p>
@@ -1536,6 +1586,7 @@
         <p>Et, comme une vision s'évapore, elle disparut à leurs yeux.</p>
       </div>
       <div type="chapter">
+
         <head>L'ÉVENTAIL DE DEUIL</head>
         <p>Le philosophe Tchouan-Tse, un soir, rentra chez lui, très soucieux, et tenant à la main un éventail blanc.</p>
         <p>Ce Tchouan-Tse avait été un des disciples favoris du grand Lao-Tse, celui que l'on appelait l'Enfant Vieillard, parce qu'il était né avec des cheveux blancs. Le maître avait révélé à l'élève le sens mystérieux des cinq mille mots du Tao-Te-King et ne lui avait rien caché, d'ailleurs, des arcanes de la bonne doctrine.</p>
@@ -1681,7 +1732,9 @@
         <p>Et il prit un tesson qu'il lança dans le feuillage. L'oiseau s'envola en jetant un cri moqueur, et il emporta, peut-être, avec lui, la raison du philosophe, qui continua à danser et à chanter, en tapant sur les potiches.</p>
       </div>
       <div type="chapter">
+
         <head>UNE FAVORITE DU FILS DU CIEL</head>
+
         <head>I</head>
         <p>On avait établi le camp aux pieds de la Grande-Muraille de Chine, cette prodigieuse folie de six cents lieues de long, œuvre d'un empereur qui s'est illustré par le plus monstrueux des crimes : l'incendie des livres.</p>
         <p>L'armée qui campait là était une armée victorieuse. Elle revenait des confins de la Perse, où elle avait écrasé les guerriers de Kachgar, d'Aksou, de Yarkand, et soumis jusqu'aux sauvages hordes Kirghiz.</p>
@@ -1729,6 +1782,7 @@
         <p>L'auteur ne sourcille pas, n'entend rien ; son lourd regard pèse toujours sur Ominah, qui se tient debout au fond de la tente, les yeux baissés, divinement beau, et pâle comme l'albâtre.</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>Khien-Long est revenu dans sa capitale.</p>
         <p>Le jour même de l'entrée triomphale de l'empereur, Ominah a été inscrit au nombre des eunuques du palais impérial. Mais il habite seul, inoccupé, entouré d'égards, tandis que les joailliers de la cour se hâtent de graver, en or sur une plaque de jade, un nom que l'empereur lui-même a choisi : Rêve-Céleste.</p>
@@ -1740,6 +1794,7 @@
         <p>Elle ne doit avoir aucune autre parure, aucun autre vêtement que sa beauté. L'un des eunuques l'enveloppe dans un ample manteau de satin rouge, l'autre la prend sur son dos, l'emporte dans l'appartement du Fils du Ciel.</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p>Khien-Long était follement épris de cette captive musulmane, si cruellement ravie par lui au victorieux guerrier, qui en séchait de chagrin. Il la trouvait plus belle qu'aucune des femmes de son palais, et belle d'une beauté si différente !</p>
         <p>Tout d'abord, dans l'ivresse des premiers jours, l'empereur avait été heureux jusqu'au délire. La jeune fille, vaincue et résignée, ne résistait pas. Elle était pénétrée de son impuissance et de l'inutilité de tout effort. Mais bientôt il reconnut qu'il ne serrait dans ses bras qu'une esclave inerte, dont le cœur, peut-</p>
@@ -1771,6 +1826,7 @@
         <p>Cette fois, Ominah est vaincue : un sanglot jaillit de sa poitrine ; mais c'est sur le cœur de l'amant qu'elle pleure, de l'amant enivré, qui boit ces larmes avec délices.</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
         <p>Chaque jour, à l'heure de la prière, la jeune musulmane venait maintenant dans ce pavillon, s'agenouillait à la voix de l'akhoum et priait avec ferveur. Puis longuement, elle laissait errer ses regards, par-dessus le mur rouge à crête de faïence jaune de la ville impériale, sur cette cité créée pour elle, si douce à son cœur.</p>
         <p>Une animation continuelle y régnait. Les artisans s'occupaient à leurs métiers. On tissait des étoffes, on découpait le cuir, on le teignait en bleu ou en pourpre, on brodait des tapis, on ciselait des bijoux. Des femmes voilées, par troupe, se rendaient aux bains. Ominah les entendait jacasser et rire. Elles étaient donc heureuses, ne regrettaient rien ?...</p>
@@ -1795,6 +1851,7 @@
         <p>Quelquefois pourtant la jeune femme, qui avait peine à soutenir l'intensité de ce regard, y voyait luire un éclat dur, terrible même : l'implacable vouloir de l'homme tout-puissant, accoutumé à tout dompter ou à tout briser. Palpitante, elle abaissait ses lourdes paupières, et, quand elle les relevait, de nouveau l'invincible tendresse noyait les yeux de l'amant.</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
         <p>Une nuit, dans la chambre de l'empereur, Ominah aperçut des ciseaux d'or, dont les pointes aiguisées brillaient. Ses yeux, comme fascinés, s'élargirent, arrêtés sur cette arme.</p>
         <p>Khien-Long avait suivi ce regard, deviné la pensée criminelle, et la lame enfoncée dans sa chair ne lui eût certes pas fait aussi mal que cette certitude, pénétrant dans son esprit, qu'elle voulait le tuer. Un éclair sinistre avait jailli de ses prunelles, mais s'était éteint aussitôt, sous la montée brusque de quelques larmes, les seules qui aient jamais troublé l'éclat et l'orgueil de cet impérieux regard.</p>
@@ -1809,6 +1866,7 @@
         <p>aimée, il pourrait donc encore souffrir de cet amour, dont la torture, il le savait bien, était le meilleur de sa vie !</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
         <p>La 21 e nuit de la 4 e lune, les eunuques de service sortirent, un peu avant la troisième veille, de l'appartement de l'empereur. Ils emportaient à pas lents un corps inerte, enveloppé dans un manteau rouge, hors duquel pendait une tête livide, aux longs cheveux, le cou serré par un cordon de soie jaune.</p>
         <p>Le lendemain, à l'aube, selon un antique usage, le chef des eunuques alla faire son rapport aux censeurs impériaux. Il leur présenta le registre sur lequel on marque le temps dérobé par l'empereur au soin des affaires et consacré à ses plaisirs.</p>
@@ -1823,10 +1881,7 @@
         <p>Dans l'enceinte même du palais, sur la colline, le pavillon de la belle captive se dresse toujours, et semble regarder, de ses fenêtres béantes, par-dessus le mur rouge à crête jaune, la ville qui s'émiette et la mosquée à jamais déserte. On a suspendu la tablette de jade dans le pavillon, où les belles étoffes tombent en poussière. Tout à l'entour, les arbres et les broussailles se sont resserrés, formant un rempart autour du kiosque en ruines, que l'on respecte comme un tombeau.</p>
         <p>Peut-être l'ombre de la morte y revient-elle, quelquefois, pour lire, à la lueur pâle de la lune, gravé dans le jade indestructible, le nom que l'impérial amant avait choisi pour elle : Rêve-</p>
         <p>Céleste !</p>
-        <p>
-          1. ↑ Cette poésie et quelques autres, traduites en français, valurent à
-          l'empereur
-        </p>
+        <p> 1. ↑ Cette poésie et quelques autres, traduites en français, valurent à l'empereur </p>
         <p>Khien-Long la fameuse épître de Voltaire : Reçois mes compliments, charmant roi de la Chine.</p>
         <p>Ton trône est donc placé sur la double colline.</p>
         <p>·····················</p>

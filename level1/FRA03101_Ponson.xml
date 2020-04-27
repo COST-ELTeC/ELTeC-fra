@@ -31,18 +31,13 @@
           <ref target="https://github.com/cligs/romandixneuf/blob/master/master/rd0010.xml">La baronne trépassée</ref>
           <publisher>CLiGS</publisher>
           <idno type="CLiGS">rd0010</idno>
-          <bibl type="digitalSource">
-            <title>La baronne trépassée</title>
-            <ref target="http://beq.ebooksgratuits.com/auteurs/terrail/index.htm">La baronne trépassée</ref>
-            <publisher>BEQ</publisher>
-            <idno type="beq">977</idno>
-          </bibl>
-          <bibl type="firstEdition">
-            <title>La baronne trépassée</title>
-            <publisher>Baudry</publisher>
-            <pubPlace>Paris</pubPlace>
-            <date>1852</date>
-          </bibl>
+          <!-- Originally: Bibliothèque électronique du Québec (BEQ), id 977 -->
+        </bibl>
+        <bibl type="firstEdition">
+          <title>La baronne trépassée</title>
+          <publisher>Baudry</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1852</date>
         </bibl>
       </sourceDesc>
     </fileDesc>

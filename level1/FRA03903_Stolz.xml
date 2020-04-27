@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03903" xml:lang="fr">
   <teiHeader>
@@ -18,49 +18,54 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">49150</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          Bibliothèque électronique du Québec,
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="http://beq.ebooksgratuits.com"/>
-          .
-        </bibl><bibl type="firstEdition">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Bibliothèque électronique du Québec</publisher>
+          <ref target="http://beq.ebooksgratuits.com" />
+        </bibl>
+        <bibl type="firstEdition">
           <date>1878</date>
-          ,
-          <idno/>
-          ,
-
-          .
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="chapter">
+
         <head>I -- L'enfant pâle.</head>
         <p>Avez-vous connu, lecteur, les embarras de la rue du Bac, la grande artère du faubourg Saint-Germain avant l'existence du boulevard ? Tous les jours d'hiver, à quatre heures, on eût dit que Boileau, par une vue prophétique, avait fait poser devant lui les charrettes, les voitures, les cavaliers et les piétons qui s'y disputaient le passage. Quand il pleuvait, les obstacles s'augmentaient de tous les parapluies, doublés de la mauvaise humeur de ceux qui les portaient. On se choquait, on s'accrochait, on se fâchait. Cela durait jusqu'à sept heures, moment fortuné où chacun oubliait son voisin dans les douceurs d'un excellent potage.</p>
         <p>Un jour donc, par un temps pluvieux et détestable, une jeune femme, d'un gracieux aspect, entra vers cinq heures chez un grand papetier de la rue du Bac, c'était une marquise. Elle apparut sans bruit, sans grands airs, sans flux de paroles, avec une assurance modeste, et demanda tout simplement un paquet d'enveloppes. Elle avait un costume de fort bonne compagnie, n'attirant les yeux ni par la couleur, ni par la forme, et portant ce qu'on appelle le cachet du faubourg Saint-Germain ; rien de prétentieux, rien de trop hardi, ni de trop nouveau. Le gris de lin se mariait au noir et au blanc ; de fines dentelles se jouaient également sur une espèce de je ne sais quoi, chef-d'œuvre de goût destiné, paraît-il, à couvrir la tête et qui ne la couvrait pas. Elle avait le pied mince, la main étroite, les doigts longs, les attaches fines, un visage régulier où se peignait la bonté, une bonté de grande dame qui a trop d'esprit pour être fière.</p>
@@ -94,11 +99,7 @@
         <p>L'enfant pâle leva sur la jeune dame ses grands yeux calmes, et le plus pur sourire vint illuminer son visage souffrant. Elle accepta, tout étonnée, une belle carte de visite, sur laquelle étaient écrits le nom et l'adresse de sa protectrice, puis on se sépara. L'enfant rentra dans sa maison, par la petite porte verte, et la marquise prenant sur la droite la rue de Varenne, regagna son hôtel.</p>
         <p>On sentait le bien-être d'une existence facile rien qu'en entrant dans la cour de cette antique et splendide demeure. Le péristyle à colonnes, l'escalier de pierre à la rampe sévère, au tapis moelleux ; la vestale voilée, soutenant de son bras de bronze une torche, tout accusait la gravité des pères et le confort moderne. Peut-être la marquise habituée à cette largeur ne la remarquait-elle pas ; cependant elle soupira en montant l'escalier ; ce soupir pouvait se traduire ainsi : Comme elle est pâle ! Et combien elle et ses parents se trouveraient heureux à ma place !</p>
         <p>C'était le premier étage que la jeune femme occupait. Antichambre vaste et bien éclairée, salle à manger, le salon, la chambre à coucher principale, dont les rideaux et les fauteuils étaient couleur havane et bleu de ciel ; et, tout à côté, le plus délicieux boudoir. Chaque objet y était élégant, choisi. La Chine et le Japon avaient fait presque tous les frais ; la grâce parisienne, le reste.</p>
-        <p>
-          On voyait dans l'embrasure de la fenêtre un bureau. Sur ce bureau un buvard fermé portant, écrit en lettres d'or, ce nom sympathique :
-          <hi>Espérance</hi>
-          . Les enveloppes sortirent alors de la poche qui leur avait servi de retraite ; leur résidence devait être désormais celle que la jeune femme aimait de préférence, c'est-à-dire le boudoir havane. Hors de là, la marquise se prêtait seulement, et c'était avec une entière nonchalance qu'elle parcourait le reste de son appartement, complété par quelques pièces sur les jardins. Tout cela n'avait plus le même charme que huit ans plus tôt, époque joyeuse où Espérance acceptait de son père le nom du jeune marquis. Il l'avait rendue heureuse, et la mort les avait séparés, sans les désunir. Elle était bien résolue à ne former jamais de nouveaux liens.
-        </p>
+        <p> On voyait dans l'embrasure de la fenêtre un bureau. Sur ce bureau un buvard fermé portant, écrit en lettres d'or, ce nom sympathique : <hi>Espérance</hi> . Les enveloppes sortirent alors de la poche qui leur avait servi de retraite ; leur résidence devait être désormais celle que la jeune femme aimait de préférence, c'est-à-dire le boudoir havane. Hors de là, la marquise se prêtait seulement, et c'était avec une entière nonchalance qu'elle parcourait le reste de son appartement, complété par quelques pièces sur les jardins. Tout cela n'avait plus le même charme que huit ans plus tôt, époque joyeuse où Espérance acceptait de son père le nom du jeune marquis. Il l'avait rendue heureuse, et la mort les avait séparés, sans les désunir. Elle était bien résolue à ne former jamais de nouveaux liens. </p>
         <p>Toutefois, son malheur n'était point de ceux que nulle affection ne console. Son père, homme excellent, habitait le rez-de-chaussée de l'hôtel, et une petite fille de sept ans habitait l'hôtel tout entier, tenant de la nature une rapidité de mouvements qui lui permettait d'être à peu près partout en même temps.</p>
         <p>La marquise, après avoir ôté sa jolie toque fantaisiste, jouant le chapeau, prit ses enveloppes, les regarda complaisamment, et les compta ; elles étaient en petit nombre : cinq seulement. À ce moment, le général entra, suivi de sa petite-fille, suivie elle aussi de son joli épagneul. Ayant appris d'Espérance les bruyantes aventures de la rue du Bac, il s'intéressa aux enveloppes sauvées du naufrage, en prit deux et dit gaiement à sa fille :</p>
         <p>« Je t'écrirai deux lettres et je te dirai dans ces lettres le fond de ma pensée. »</p>
@@ -115,14 +116,14 @@
         <p>Qu'y avait-il sous cette enveloppe ? Ah ! bien des secrets se cachent sous ces discrètes messagères. Les caractères de l'alphabet, tracés dans un certain ordre, au moyen d'une liqueur noire, sur une feuille de papier blanc, ce peu suffit pour envoyer joie ou douleur, haine ou amour, au-delà de l'Océan. Et c'est sous une enveloppe que l'on cache cette feuille, reflet d'une âme. Ne dirait-on pas que ces voyageuses, amies du mystère, sentent la hauteur de leur mission ? Elles ne livrent jamais leur secret sans qu'il y ait eu brisement, déchirure. Elles semblent redouter l'œil de l'étranger, du mercenaire, du traître ; et c'est après avoir résisté, jusqu'à l'immolation, qu'elles nous laissent arracher par la force cette parole écrite, destinée à passer d'un cœur dans un autre. Un peu de gomme, qui de l'Arabie vient toucher leurs lèvres, c'est ordinairement leur défense contre l'attaque ; et pour assurer leur discrétion il n'est besoin ni de cire bouillante, ni de fastueux emblèmes.</p>
         <p>La marquise avait des mouvements très doux. Sans empressement, sans brusquerie, elle avisa un charmant couteau d'ivoire et s'y prit si adroitement que, sans défigurer la belle enveloppe qu'avait aimée Marie, elle lui fit livrer passage à une feuille de papier, dont l'origine plébéienne contrastait avec la physionomie toute patricienne de la blanche messagère.</p>
         <p>Espérance fut saisie d'une aimable curiosité à la vue de ce papier, sur lequel deux de ces énormes taches, si improprement appelées pâtés, figuraient très honteuses. Appuyant légèrement son coude sur le bureau, elle lut, non sans hésiter, car l'écriture et l'orthographe laissaient beaucoup à désirer.</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>« Madame,</p>
         <p>« Je n'osais pas vous obéir parce que j'écris trop mal, et parce que j'avais peur de faire de la peine à papa et à maman qui ne disent jamais à personne pourquoi nous sommes pâles. Mais quand je suis allée à l'école, rue Saint-Guillaume, j'ai raconté à ma sœur Euphrasie ce qui m'est arrivé et elle a dit que c'était la Providence qui avait fait un embarras d'omnibus exprès, et qu'il fallait vous écrire tout de suite et vous dire la vérité. La Sœur m'a permis de faire ma lettre pendant la classe, à la place de ma page.</p>
         <p>« Voilà : papa n'est pas un pauvre, mais il est bien pauvre tout de même. C'est un ouvrier menuisier ; il ne travaille que quand il n'a pas mal dans le dos, et il a presque toujours mal dans le dos : alors maman, qui coud pour un magasin, ne peut pas faire assez pour que nous mangions toujours à notre appétit. Et puis elle est si fatiguée ! Moi, je suis trop petite ! je leur coûte beaucoup, et je ne leur gagne rien.</p>
         <p>Quand je serai grande, ils ne seront plus pauvres ; mais je n'ai que neuf ans, et ma sœur Euphrasie dit que si je continue à être trop mal nourrie, je ne ferai pas une bonne ouvrière. Elle m'aime bien et je l'aime bien aussi.</p>
         <p>« J'ai fini mon papier, adieu, madame, je suis bien fâchée des pâtés.</p>
         <p>« MARIE DUBREUIL. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>La marquise posa sur le bureau la lettre de l'enfant pâle et, cachant son visage dans ses mains, elle se demanda comment il pouvait y avoir si près d'elle une famille aussi affligée, tandis qu'elle-même osait se plaindre de son sort ? C'étaient donc ce qu'on appelle des pauvres honteux, de ceux qui se dérobent aux regards, parce que le passé de leur famille ne leur montre que d'honorables labeurs, et non une main tendue à l'étranger. Il y avait là quelque chose à faire. Espérance le sentait. Elle relut la lettre de l'enfant pâle, et loin de la laisser errer à l'aventure comme un papier insignifiant, elle entrouvrit le tiroir intime, et y glissa la lettre de Marie, toujours dans son enveloppe.</p>
         <p>Revenons un moment sur nos pas pour faire connaissance avec Marie Dubreuil, et savoir en même temps par quelles circonstances avait passé l'enveloppe avant de tomber dans le mystérieux tiroir.</p>
         <p>Nous avons déjà vu l'enfant pâle entrer par une porte basse dans une maison d'assez pauvre apparence. Elle traversa la cour et pénétra dans un local assez laid, qu'elle appelait l'atelier de son père, et où se trouvait un établi et des outils de menuisier. C'était là, dans cette espèce de remise, que Dubreuil travaillait, quand il en avait la force. La chère petite se hâta de raconter à ses parents une partie de ce qu'elle venait de voir et d'entendre, et à la fin de son discours, elle étala pompeusement ses trois jolies enveloppes, presque sans les toucher, de peur de nuire à leur fraîcheur.</p>
@@ -164,22 +165,14 @@
         <p>Le général se leva et salua très respectueusement sa petite fille, qui éclata de rire, la félicitant de l'honneur qu'on allait lui faire ; puis il la prit dans ses bras, et, pour clore dignement la cérémonie, lui donna quantité de pastilles de chocolat. C'était ainsi que tout finissait dans le cabinet de l'aïeul, et Alice avait toujours pensé que tout finissait bien.</p>
         <p>Elle aperçut sur la cheminée une lettre. Cette lettre lui fut confiée par son grand-père, et elle s'écria joyeusement : Oh ! c'est une des jolies enveloppes ! Le message intime était adressé à la jeune femme, et Alice reçut la mission de le lui porter dans son boudoir, en lui faisant remarquer qu'il était écrit avant la grande et heureuse décision qu'elle venait de prendre. L'enfant galopa plutôt qu'elle ne courut, pour arriver plus vite au boudoir.</p>
         <p>Espérance lut avec étonnement.</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>« Très chère fille,</p>
         <p>« Je t'ai promis de te dire deux fois ma pensée, à la faveur des deux enveloppes que j'ai confisquées. Sache-le, cette lettre n'est pas autre chose qu'une déclaration de guerre, mais guerre à outrance ; non pas à toi, certes, mais à cette petite folle qu'on appelle ton imagination, qui a établi ses quartiers d'hiver dans ton boudoir, et dont tu as épousé la querelle. Il est temps de l'exterminer, ou du moins de la réduire. Jusqu'ici, on s'est borné aux escarmouches ; mais les puissances sont liguées et résolues à en finir.</p>
         <p>« Ma fille, qui te dira la vérité si ce n'est ton père ? Écoute bien ! La solitude n'est bonne que si l'esprit y trouve le travail, que si le cœur y met la charité.</p>
-        <p>
-          « Que fais-tu dans ton boudoir ? Rien ou des riens. Ta vie est-elle utile ou non ? Ton imagination te trompe : être seule, rêveuse, taciturne, inoccupée, c'est moins de la douleur que de
-          <hi>l'égoïsme voilé</hi>
-          . Je te voudrais plus de vigueur. Travaille, agis, fatigue-toi. Au dehors, il y a des malheureux ; au dedans, ta petite Alice qui sait à peine lire.
-        </p>
+        <p> « Que fais-tu dans ton boudoir ? Rien ou des riens. Ta vie est-elle utile ou non ? Ton imagination te trompe : être seule, rêveuse, taciturne, inoccupée, c'est moins de la douleur que de <hi>l'égoïsme voilé</hi> . Je te voudrais plus de vigueur. Travaille, agis, fatigue-toi. Au dehors, il y a des malheureux ; au dedans, ta petite Alice qui sait à peine lire. </p>
         <p>« Donc, guerre à l'imagination ! Adieu, belle marquise, tu n'es pas moins, malgré tes intelligences avec l'ennemie, la plus aimée des filles. »</p>
         <p>Espérance fut frappée de la coïncidence de cette lettre avec l'ébranlement qu'avait causé en elle la rencontre de Marie. Elle était trop loyale, et au fond trop raisonnable, pour ne pas recevoir la vérité. À l'instant elle descendit chez son père et lui donna la joie de la voir quitter le camp de l'ennemie pour entrer dans celui où se trouvaient son père, son enfant, ses amies, et Marie, représentant la classe indigente que la classe aisée a mission de secourir. Le général fut enchanté d'avoir pour alliée l'aimable marquise, et il augura favorablement de l'expédition.</p>
-        <p>
-          La jeune mère était à peine remontée dans son appartement particulier qu'on y vit apparaître, non sans beaucoup de bruit et de petits embarras, une visiteuse d'un aspect singulier. C'était une femme mise à la dernière mode, et dans le goût le plus excentrique. Elle faisait
-          <hi>la jeune</hi>
-          et pourtant douze lustres et plus avaient passé sur sa tête, y pesant d'un bon poids. Les années, en s'accumulant, ne lui avaient pas fait grâce d'une ride : les cheveux étaient noirs, mais au prix de quels soins, de quels ingénieux procédés ! Elle portait un nom héraldique, mais dans l'intimité, elle s'intitulait volontiers Rosella tout simplement, afin de persuader, s'il se pouvait, aux générations suivantes qu'elle était leur contemporaine. On ne s'y trompait point.
-        </p>
+        <p> La jeune mère était à peine remontée dans son appartement particulier qu'on y vit apparaître, non sans beaucoup de bruit et de petits embarras, une visiteuse d'un aspect singulier. C'était une femme mise à la dernière mode, et dans le goût le plus excentrique. Elle faisait <hi>la jeune</hi> et pourtant douze lustres et plus avaient passé sur sa tête, y pesant d'un bon poids. Les années, en s'accumulant, ne lui avaient pas fait grâce d'une ride : les cheveux étaient noirs, mais au prix de quels soins, de quels ingénieux procédés ! Elle portait un nom héraldique, mais dans l'intimité, elle s'intitulait volontiers Rosella tout simplement, afin de persuader, s'il se pouvait, aux générations suivantes qu'elle était leur contemporaine. On ne s'y trompait point. </p>
         <p>Ce jour-là, elle arrivait plus que jamais coquette et pimpante, frappant le parquet de ses hauts talons, au péril de ses jours. Dès qu'on l'eut introduite, d'après ses instances réitérées, dans le secret du boudoir, ce qui ne s'était pas encore vu, elle se jeta au cou de la jeune veuve, l'appela ma mie, lui dit les plus charmantes choses, dans les termes les plus chaleureux, et finit par avouer que rien ne la touchait autant que la lettre du général, lettre si bonne, si cordiale, et qui attestait une si absolue confiance !</p>
         <p>Espérance se demandait ce que signifiait cette entrée en scène, car son père, la franchise même, était l'antagoniste impitoyable de toute prétention et ne parlait jamais de Rosella sans rire, la regardant comme un des plus excellents types du ridicule et de l'importunité. Son humeur gauloise trouvait un fin plaisir à déjouer les plans de la vieille coquette, en dépit de ses pompons roses, et à refaire après elle l'addition de ses années, sûr d'arriver à un total plus exact, sinon plus satisfaisant.</p>
         <p>Mme de V..., qui se plaisait tant à se faire appeler Rosella, était une de ces personnes dont on voudrait se débarrasser, et dont on ne se débarrasse point ; qui font deux pas en avant quand vous en faites un en arrière ; une de ces personnes qu'on retrouve partout, qui, connaissant tout le monde, sont intimes avec toutes les sommités, et se mêlent de tout. Inutile de chercher à leur faire sentir qu'elles gênent, elles ne sentent rien, et leur eussiez-vous dit en bon français : Allez-vous en, elles reviendraient la semaine suivante avec le même regard, le même sourire, n'ayant pas du tout compris que vous les trouvez insupportables.</p>
@@ -197,6 +190,7 @@
         <p>La première visite de l'importune Rosella, si bien pomponnée et coloriée, fut pour la marquise un ennui profond, présageant beaucoup d'autres ennuis encore plus profonds.</p>
       </div>
       <div type="chapter">
+
         <head>II -- C'est moi.</head>
         <p>Pour mieux entendre ce qui suit, il est nécessaire de se transporter en esprit aux environs de Paimbœuf, et d'y faire connaissance avec des Bretons, fort estimables. C'est dans ces campagnes que chaque année revient la jeune veuve avec son père et son enfant. C'est là que s'élève, adossé à une colline élégamment boisée, le château d'assez riant aspect, tout environné de chaumières.</p>
         <p>Parmi ces chaumières, il en est une que le malheur a touchée, c'est celle de la veuve Benoît.</p>
@@ -321,17 +315,14 @@
         <p>Que de bien avait déjà produit la lettre de l'enfant pâle ! À cette lettre, Espérance était redevable d'un trait de lumière, qui l'avait éclairée sur l'inutilité de sa vie. Elle commençait à s'oublier en pratiquant la charité, et d'abord en s'acquittant des sérieux et multiples devoirs qu'imposent une grande fortune et une position élevée. Jusque-là, pourvu que le service fût exact, elle paraissait trouver que tout était bien. Maintenant, d'après les ravages faits en si peu de temps dans l'esprit d'un campagnard, attiré par elle à Paris, elle comprenait qu'elle avait à prendre, s'il était possible, une influence délicate sur ceux des serviteurs dont la jeunesse demandait une direction, un secours.</p>
         <p>Sans presque s'en douter, Espérance venait d'entrer dans la vie positive, secouant le joug de l'imagination, et concevant l'idée du dévouement continuel et inaperçu.</p>
         <p>Tout cela, c'était l'œuvre de la pauvre et innocente Marie. La marquise, après avoir revêtu à la hâte un joli négligé du matin, sortit dans l'intention d'aller demander rue Saint-Guillaume quelques renseignements sur la famille Dubreuil.</p>
-        <p>
-          Elle entendit avec grand intérêt tout le bien qui lui fut dit sur cet intérieur, puis elle remit à la supérieure le billet restitué par le jeune valet de pied, et il fut convenu qu'on aiderait les Dubreuil, en fournissant peu à peu aux dépenses les plus nécessaires, et en leur disant simplement que la Providence les assistait par un don particulier qu'avait fait
-          <hi>une bonne dame</hi>
-          entre les mains de sœur Nathalie, alors l'image de cette secourable Providence. Cette sage et compatissante supérieure qui s'était faite par choix la servante des pauvres, elle était grande Dame, elle aussi, de la noble famille des Nariskin, elle passait inconnue, comme la plus humble des Filles de Saint-Vincent de Paul. Depuis, elle a reçu sa récompense de Celui qui seul pouvait la faire assez grande.
-        </p>
+        <p> Elle entendit avec grand intérêt tout le bien qui lui fut dit sur cet intérieur, puis elle remit à la supérieure le billet restitué par le jeune valet de pied, et il fut convenu qu'on aiderait les Dubreuil, en fournissant peu à peu aux dépenses les plus nécessaires, et en leur disant simplement que la Providence les assistait par un don particulier qu'avait fait <hi>une bonne dame</hi> entre les mains de sœur Nathalie, alors l'image de cette secourable Providence. Cette sage et compatissante supérieure qui s'était faite par choix la servante des pauvres, elle était grande Dame, elle aussi, de la noble famille des Nariskin, elle passait inconnue, comme la plus humble des Filles de Saint-Vincent de Paul. Depuis, elle a reçu sa récompense de Celui qui seul pouvait la faire assez grande. </p>
         <p>Lorsque la marquise rentra à l'hôtel, la petite Alice était déjà installée dans le boudoir. Assise devant une petite table, entourée de cahiers, de plumes, de livres, on eût dit, à son air sérieux et affairé, qu'elle allait se livrer à de profondes études. Sa mère lui sourit en entrant, et la chère enfant prit sa première leçon avec une docilité charmante.</p>
         <p>Rien de plus négligé que la mémoire d'Alice, rien d'inculte comme son intelligence ; et cependant une extrême lucidité, un grand désir de s'instruire et de plaire à ses parents, tout cela présageait de bien doux succès à la mère-institutrice.</p>
         <p>Le grand-père avait déclaré se réserver le droit de récompense. Quant aux punitions, il avait été établi que, l'étude étant un des meilleurs moyens de grandir l'intelligence, tout acte d'insoumission ou de négligence entraînerait un retour passager à la vie uniquement matérielle du petit épagneul, de si joyeuse mine. On ne prendrait de leçons que si l'on se montrait digne de progresser. Alice était parfaitement en état de sentir toute l'humiliation d'une semblable pénitence.</p>
         <p>Le soir de ce même jour, Laurent, brisé des graves émotions de la matinée, reposa son cœur converti en remettant sous ses yeux la chère enveloppe qui renfermait les secrets de Marie Dubreuil. C'était un véritable trésor, puisque toutes les bonnes et saintes pensées étaient revenues par ce moyen. Il se demandait comment on pourrait sauver ce trésor des regards indiscrets, et en même temps le préserver de tout accident ? Alors il avisa un vieux portefeuille, que le général avait jeté, et dont lui, Laurent, avait fait son profit, le destinant à conserver les lettres qu'on lui enverrait du pays ; il y en avait déjà trois, toutes trois de sa mère. Dans la poche la plus secrète de ce vieux portefeuille, il cacha la lettre de la petite Marie, mit le tout dans sa malle, qui avait une bonne serrure, et il lui sembla avoir enfoui là toute une fortune.</p>
       </div>
       <div type="chapter">
+
         <head>III -- En Bretagne.</head>
         <p>Voyez-vous cette petite dame, serrée dans sa ceinture, gênée dans ses entournures, et pincée dans ses bottines, qui se promène sous les arbres de ce beau parc, parlant toilette, racontant les plaisirs de l'hiver et ses petits succès de salon ? C'est Rosella.</p>
         <p>La malheureuse enveloppe si blanche, si fine, avait eu la déplorable destinée d'attirer en Bretagne cette beauté passée qui posait encore, qui minaudait, qui grimaçait, et dont chacun plaisantait. La vicomtesse était tombée un beau matin à Kerniou, comme fût tombée la grêle, sans prévenir, et s'appuyant sur la lettre du général lui-même pour se dire : « Je suis toujours attendue. » Bien résolue à remplir sa prétendue mission, elle avait dit tout bas : Me voici ; vous voyez, général, que je ne perds pas de vue notre petite marquise ; j'ai entrepris, d'après vos désirs, de la distraire, et j'y parviendrai.</p>
@@ -350,11 +341,7 @@
         <p>– C'est héroïque en vérité, marquise ! À votre âge, et jolie comme vous l'êtes, vous soumettre à pareille épreuve ? chère Espérance, je voudrais vous voir jouir de tous les avantages de la jeunesse et de la fortune. Pourquoi donc sacrifier à d'obscurs devoirs les succès, les distractions ? Le bonheur est devant vous, et vous n'en voulez pas. Il faut absolument que je vous présente, l'hiver prochain, à une famille anglaise dont je suis l'amie intime ; c'est une maison délicieuse ; on y reçoit le soir tous les lundis ; j'y suis absolument comme chez moi. On y fait beaucoup de toilette. Il y a des concerts superbes, des bals ravissants ; nous nous amusons énormément !</p>
         <p>À ces paroles, Pauline ne pouvait s'empêcher de sourire, s'étonnant que l'on pût entreprendre de distraire une femme affligée en lui offrant des moyens aussi insuffisants.</p>
         <p>Ainsi le trio féminin passait le temps sans plaisir, car il n'en n'est pas dans le voisinage des importuns.</p>
-        <p>
-          Alice n'aimait pas du tout la vicomtesse. On dit que la sympathie est toujours réciproque ; c'était une preuve à l'appui de cette assertion, car la vieille dame ne supportait l'enfant que par politesse. Comme à tout attrait et à toute répulsion il y a un point de départ, chacun se rappelait une circonstance qui avait été décisive entre les antagonistes. Un jour, la vicomtesse, parée de toutes les couleurs de l'arc-en-ciel, en dépit des injures des ans, avait demandé à la petite fille de lui chanter une chanson ; ceci se passait dans un cercle d'amis. Alice, alors âgée de six ans tout au plus, fort naïve, et incapable, comme le sont les enfants, d'apprécier les âges, avait cherché dans sa jeune mémoire quelques refrains heureux, et avait précisément rencontré celui qui finissait ainsi :
-          <hi>Requinquez-vous, vieille, requinquez-vous donc !</hi>
-          Il était question de rubans roses, de blanc jasmin, de frais lilas ; puis on retombait sur le terrible refrain :
-          <hi>Requinquez-vous, vieille, requinquez-vous donc !</hi>
+        <p> Alice n'aimait pas du tout la vicomtesse. On dit que la sympathie est toujours réciproque ; c'était une preuve à l'appui de cette assertion, car la vieille dame ne supportait l'enfant que par politesse. Comme à tout attrait et à toute répulsion il y a un point de départ, chacun se rappelait une circonstance qui avait été décisive entre les antagonistes. Un jour, la vicomtesse, parée de toutes les couleurs de l'arc-en-ciel, en dépit des injures des ans, avait demandé à la petite fille de lui chanter une chanson ; ceci se passait dans un cercle d'amis. Alice, alors âgée de six ans tout au plus, fort naïve, et incapable, comme le sont les enfants, d'apprécier les âges, avait cherché dans sa jeune mémoire quelques refrains heureux, et avait précisément rencontré celui qui finissait ainsi : <hi>Requinquez-vous, vieille, requinquez-vous donc !</hi> Il était question de rubans roses, de blanc jasmin, de frais lilas ; puis on retombait sur le terrible refrain : <hi>Requinquez-vous, vieille, requinquez-vous donc !</hi>
         </p>
         <p>En frappant sans le savoir un coup mortel, Alice avait eu, bien entendu, les rieurs de son côté, car on savait qu'il y avait eu en elle, non pas malice, mais ignorance. Néanmoins, la principale intéressée ne lui pardonnait pas la chansonnette, et en toute occasion se dressait une pointe d'inimitié puérile contre la pauvre petite. Celle-ci sentait vaguement cette répulsion et disait à sa mère :</p>
         <p>« Je voudrais savoir pourquoi je n'aime pas du tout cette dame.</p>
@@ -455,11 +442,7 @@
         <p>– Heureuse femme ! Que ne puis-je en dire autant au sujet de ma goutte ! Mais quelles sont donc ces fameuses substances, si ce n'est pas une indiscrétion ? Voyons ? quinine ? thériaque ? laudanum ? perles d'éther ? lactucarium ? aconit ?...</p>
         <p>– À d'autres ! grand merci, général. En deux mots, je vais vous dire ce que j'ai coutume de faire quand je me sens dominée par les idées chagrines, les souvenirs néfastes ; car enfin, chacun a ses peines dans cette vie et, on a beau faire, on ne parvient presque jamais à les oublier entièrement. »</p>
         <p>Un très gros soupir servit de point final ; ce soupir avait pour objet, moins les peines, que la difficulté de les oublier entièrement.</p>
-        <p>
-          La marquise s'étonnait toujours devant cette nature d'enfant au déclin de l'âge. Elle comprenait qu'on pût, avec beaucoup de force de caractère, ne point fatiguer les autres du récit ou du spectacle de ses peines ; mais
-          <hi>faire exprès d'oublier !</hi>
-          Oh ! elle ne comprenait pas cela !
-        </p>
+        <p> La marquise s'étonnait toujours devant cette nature d'enfant au déclin de l'âge. Elle comprenait qu'on pût, avec beaucoup de force de caractère, ne point fatiguer les autres du récit ou du spectacle de ses peines ; mais <hi>faire exprès d'oublier !</hi> Oh ! elle ne comprenait pas cela ! </p>
         <p>Cependant, on se demandait où allait en venir la vicomtesse ? Elle fit la déclaration suivante d'un air fort grave, et sans même remarquer que l'envie de rire du général menaçait de prendre un tour contagieux.</p>
         <p>« Quand l'âme se sent pour ainsi dire enveloppée d'une atmosphère nébuleuse, elle doit, mes chers amis, s'efforcer de se surmonter elle-même, et elle y parvient en quittant l'ornière, en s'élevant à des régions supérieures.</p>
         <p>– Mais ce que vous nous dites-là, c'est de l'ascétisme pur !</p>
@@ -467,20 +450,12 @@
         <p>– Je m'en garde ! Vous me voyez tout confit d'admiration. Je crains seulement de ne pas comprendre la fin, tant les débuts me semblent au-dessus de moi. Poursuivons, je vous en prie.</p>
         <p>– Vous n'avez pas l'air de prendre la chose au sérieux, et pourtant je ne plaisante pas.</p>
         <p>– Ni moi, certes ! Comment donc ? La médecine d'expérience est la meilleure ; c'était celle des anciens, qui se portaient mieux que nous.</p>
-        <p>
-          -- Eh bien, voici en quoi consiste mon traitement dans ces états de crises nerveuses. Distraire le fond même de l'être, ce qu'il y a en nous de plus
-          <hi>intime</hi>
-          , c'est une nécessité absolue en certains cas.
-        </p>
+        <p> -- Eh bien, voici en quoi consiste mon traitement dans ces états de crises nerveuses. Distraire le fond même de l'être, ce qu'il y a en nous de plus <hi>intime</hi> , c'est une nécessité absolue en certains cas. </p>
         <p>– Je n'en doute point ; mais trouver ce qui distrait le fond même de l'être, ce qu'il y a en nous de plus intime, c'est précisément là le hic, reprit le général, qui s'amusait volontiers à taquiner la vicomtesse par des citations latines, ce qu'elle avait en horreur.</p>
         <p>– Ayez la bonté de me parler français.</p>
         <p>– Pardon ; je voulais dire la difficulté.</p>
         <p>– La difficulté ?... je l'ai cherchée, je l'ai combattue, je l'ai vaincue !</p>
-        <p>
-          -- Cela revient au
-          <hi>Veni, vidi, vici</hi>
-          , de César.
-        </p>
+        <p> -- Cela revient au <hi>Veni, vidi, vici</hi> , de César. </p>
         <p>– Point de César le moins du monde. Pour une femme, un des plus grands intérêts de ce monde, c'est la toilette ; vous en convenez avec moi ?</p>
         <p>– Vous m'avez fait l'honneur de me le dire souvent.</p>
         <p>– Oui, c'est par la toilette que l'esprit se détend, que l'équilibre se rétablit. Vous avez l'air de ne pas le croire ?</p>
@@ -492,12 +467,8 @@
         <p>– Simple, mais infaillible.</p>
         <p>– Supérieur en ce cas à bien d'autres, qui sont pourtant compliqués.</p>
         <p>– Ma femme de chambre est au courant. Elle sait que c'est ma manière de me soigner. Elle est fort adroite, Francine, et entre assez dans mes idées pour créer des modes qui m'avantagent ; seulement, elle a un grand défaut ; la pauvre fille n'a que deux mains, et il m'en faudrait six qui chiffonneraient sous mes ordres.</p>
-        <p>
-          La marquise et son amie eurent la politesse de ne pas rire, bien qu'elles se rappelassent le terrible refrain d'Alice : « 
-          <hi>Requinquez-vous,</hi>
-          <hi>vieille, requinquez-vous donc !</hi>
-           » Par une condescendance, pleine de grâce et d'urbanité, elles proposèrent chacune l'aide de leur femme de chambre.
-        </p>
+        <p> La marquise et son amie eurent la politesse de ne pas rire, bien qu'elles se rappelassent le terrible refrain d'Alice : «  <hi>Requinquez-vous,</hi>
+          <hi>vieille, requinquez-vous donc !</hi>  » Par une condescendance, pleine de grâce et d'urbanité, elles proposèrent chacune l'aide de leur femme de chambre. </p>
         <p>« Voilà vos six mains trouvées ! Quand commencera la cure ?</p>
         <p>– Demain matin, général, puisqu'on s'y prête avec tant d'amabilité. Dans mon état, plus tôt on se soigne et mieux l'on fait.</p>
         <p>– C'est mon avis.</p>
@@ -505,20 +476,14 @@
         <p>– Comment ? les dames seulement seront admises à faire galerie ? Cela, c'est une injustice ? »</p>
         <p>La vieille coquette prit un air digne, tout à fait amusant, et finit par accorder au vieux général la faveur insigne qu'il briguait.</p>
         <p>« Allons, dit-elle avec un laisser-aller charmant, quand on aura composé la plus jolie toilette, on vous fera prévenir. »</p>
-        <p>
-          Ce fut dès lors une espèce de charade en action jouée dans le château : tout le monde savait le mot d'avance, et ce mot était :
-          <hi>Ridicule.</hi>
+        <p> Ce fut dès lors une espèce de charade en action jouée dans le château : tout le monde savait le mot d'avance, et ce mot était : <hi>Ridicule.</hi>
         </p>
         <p>Le lendemain, dès l'aube, les trois jeunes femmes de chambre, Francine, Elvire et Léontine, se réunirent dans l'appartement de la vicomtesse et, tandis que celle-ci sommeillait encore, elles se mirent en devoir, fort gaiement, d'étaler sur les fauteuils du salon, sur les tables et sur les chaises, tout ce qui avait été apporté de Paris à Kerniou. C'était le contenu de huit caisses ! Les trois filles rirent de bon cœur, entre elles, de l'étrangeté de la cure, et ce fut récréation complète.</p>
         <p>Qui s'amusait plus que toute autre ? Alice. Ses parents étaient enchantés de cette forte diversion qui mettait en son esprit le comique à la place des effrayants souvenirs d'une navigation malheureuse. En d'autres circonstances, on eût sauvegardé la vieillesse du rire de l'enfant ; mais il était avéré que Rosella voulait être jeune à ses propres yeux et aux yeux de tous, et qu'elle refusait le respect ; elle était donc, par là même, abandonnée à la plaisanterie, et sa vue suffisait pour guérir de la vanité les jeunes et les vieux.</p>
         <p>Alice s'était assise sur une chaise basse, devant la cheminée, dès que la vicomtesse l'avait fait appeler dans sa chambre. Elle n'aimait guère la petite fille ; mais c'étaient pourtant deux yeux qui regardaient. De la place qu'occupait Alice, on voyait, non seulement la dame campée devant une armoire à glace, mais encore son image ; double plaisir.</p>
         <p>Rosella, agréablement agitée, appelait, l'une après l'autre, ou toutes à la fois, les trois chambrières.</p>
         <p>Francine se trouvait, de droit, préposée au soin des coiffures. Or, ce que Rosella appelait pompeusement ses coiffures, c'était tout bonnement trois perruques. La première d'un négligé heureux, jouait les rôles d'intérieur. La seconde offrait un vaste ensemble de boucles, de coques, de nattes, capricieusement contournées. Cela était fort naturel et pourtant ne trompait personne, à cause des rides du visage accusant une date de beaucoup antérieure à celle de la moderne chevelure. Quant à la troisième, c'était une perruque à sensation. Elle frappait pour toujours les heureux témoins de ses charmes. La brune Rosella avait passé sa longue vie à désirer d'être blonde. Impossible. Mais depuis que ses rares cheveux étaient devenus, bien malgré eux, d'un gris compromettant, elle avait décidé, avec son coiffeur et Francine, deux familiers complaisants, qu'on pouvait parfaitement varier la nuance de son couvre-chef. Devenir blonde, c'eût été pour le coup manquer de couleur locale ; on devenait de temps en temps châtain clair.</p>
-        <p>
-          Alice n'avait encore rien vu d'aussi singulier que cette petite vieille en face d'un grand miroir, revêtant
-          <hi>pour s'amuser</hi>
-          robes de velours, robes de soie, robes de tulle, peignoirs brodés, corsage décolletés ou montants, trois ou quatre colliers l'un après l'autre, des douzaines de bracelets, des fleurs, des rubans, des pompons, des perruques !
-        </p>
+        <p> Alice n'avait encore rien vu d'aussi singulier que cette petite vieille en face d'un grand miroir, revêtant <hi>pour s'amuser</hi> robes de velours, robes de soie, robes de tulle, peignoirs brodés, corsage décolletés ou montants, trois ou quatre colliers l'un après l'autre, des douzaines de bracelets, des fleurs, des rubans, des pompons, des perruques ! </p>
         <p>La vieille dame avisa tout à coup une robe de bal fort jolie, mais dont les garnitures n'étaient pas, disait-elle, disposées selon son goût et à son avantage. Saisie aussitôt de la fièvre du perfectionnement, elle se tourna vers ses trois ouvrières et, prenant d'un air capable la haute direction de cette vigoureuse entreprise, elles les fit tailler, rogner, coudre et découdre sans désemparer, indiquant du regard, du geste et de la voix, les suaves conceptions de son hardi cerveau.</p>
         <p>C'était, fort heureusement, non le temps des étuis, mais celui des larges et bouffantes jupes ; on pouvait jeter à profusion fleurs, rubans et dentelles ; on ne s'en fit pas faute : ce fut ravissant, admirable, inimitable !</p>
         <p>Après chaque manœuvre, habilement exécutée, Rosella s'écriait :</p>
@@ -539,12 +504,11 @@
         <p>– C'est vrai. La toilette, voyez-vous, c'est le remède le plus approprié aux maux du corps et de l'esprit. Je me sens alerte et fraîche, comme à vingt ans !... »</p>
         <p>Un petit éclat de rire échappa à la pauvre Alice ; sa mère la regarda sérieusement.</p>
         <p>« Ne vous fâchez pas maman, dit-elle ; ce n'est pas ma faute. Vous m'aviez bien défendu de rire, et je me suis retenue toute la journée. »</p>
-        <p>
-          Rosella lança un regard perçant à Alice, et le général dit à demi-voix, prévoyant l'effet :
-          <hi>Inde iræ !</hi>
+        <p> Rosella lança un regard perçant à Alice, et le général dit à demi-voix, prévoyant l'effet : <hi>Inde iræ !</hi>
         </p>
       </div>
       <div type="chapter">
+
         <head>IV -- Marie Dubreuil.</head>
         <p>Est-il un être plus intéressant que l'enfant du pauvre, qui souffre déjà de la vie, qui se résigne, ne se plaint pas, et essaye, selon ses forces, de diminuer la somme des privations et des douleurs que supportent ses parents ? Telle était Marie Dubreuil.</p>
         <p>Nous l'avons vue, à l'âge de neuf ans, charmer et consoler son père, entretenir doucement les illusions du cher malade, afin de le rendre moins malheureux. Dubreuil était, à juste titre, très fier de sa fille, et souvent il disait à Marguerite ?</p>
@@ -582,11 +546,7 @@
         <p>La marquise, dont le cœur véritablement bon n'oubliait pas, n'avait jamais perdu de vue la famille du menuisier ; et c'était par elle que venait le secours dans les moments de crise. Cette douce et tutélaire puissance qui, à l'heure dite, agissait sans paraître, n'était plus une force mystérieuse pour la bonne Marguerite. Elle était descendue par degrés, la pauvre femme, jusqu'à celui où toute honnête fierté doit plier à son tour devant le malheur et la nécessité, où l'âme éprouvée doit consentir à être, en toute circonstance, redevable aux autres. Marie lui avait dit un soir, pendant que son père sommeillait :</p>
         <p>« Maman, ne sois pas fâchée si je t'ai caché quelque chose. »</p>
         <p>En même temps, elle avait jeté avec tendresse ses bras autour du cou de sa mère, et il y avait eu, de part et d'autre, un affectueux attendrissement. Le nom de la marquise avait été prononcé, l'histoire des trois enveloppes racontée sans en passer ; et pour finir, la chère enfant avait ouvert sa petite caisse et cherché tout au fond les deux enveloppes qui restaient.</p>
-        <p>
-          « La belle dame m'a dit : Vous m'écrirez trois fois. -- Chère maman, si j'ai écrit pour la première fois sans te le dire, il y a quelques années, c'est parce que nous étions trop pâles, tu sais ? Depuis ce temps, nous avons toujours été aidés soit par un peu d'ouvrage, souvent payé d'avance, soit par un peu d'argent que me donnait sœur Euphrasie. Tout cela venait de la marquise. Elle s'appelle, de son petit nom :
-          <hi>Espérance</hi>
-          . Oh ! comme cela lui va bien !
-        </p>
+        <p> « La belle dame m'a dit : Vous m'écrirez trois fois. -- Chère maman, si j'ai écrit pour la première fois sans te le dire, il y a quelques années, c'est parce que nous étions trop pâles, tu sais ? Depuis ce temps, nous avons toujours été aidés soit par un peu d'ouvrage, souvent payé d'avance, soit par un peu d'argent que me donnait sœur Euphrasie. Tout cela venait de la marquise. Elle s'appelle, de son petit nom : <hi>Espérance</hi> . Oh ! comme cela lui va bien ! </p>
         <p>– Que ce nom soit béni ! avait répondu la mère de Marie ; et, depuis ce jour-là, il y avait eu, entre elle et son enfant, de fréquents entretiens à voix basse, sur la marquise et sur la délicatesse de ses bienfaits.</p>
         <p>– Maman, disait Marie, elle est bien bonne, bien aimable, bien généreuse. Pourquoi donc y a-t-il tant de personnes qui voudraient rendre les riches pauvres ?</p>
         <p>– Parce que ces personnes-là ne comprennent pas que l'égalité des fortunes est impossible. Ce sont les riches qui font travailler les pauvres, et les aident à vivre.</p>
@@ -625,22 +585,14 @@
         <p>Cinq ans écoulés changent bien des choses ; c'est pourquoi nous ne nous étonnerons pas de retrouver le général toujours d'aussi bonne humeur, mais beaucoup plus goutteux. Le vieillard prenait en bloc, sans les compter, tous les petits inconvénients de la vieillesse, se disant avec beaucoup de philosophie : C'est l'âge.</p>
         <p>Cet argument fort simple lui suffisait. Il consentait à se regarder vieillir ; et c'était, nous le croyons, une supériorité. On ne peut pas, disait-il, être et avoir été. Mes jambes valaient tout autant, sinon mieux, que celles de nos petits crevés ; mais elles ont fait leur temps, et je leur sais gré d'être encore dans mes bottes ; car enfin la plupart de leurs contemporaines sont restées en chemin. Si ma mémoire est moins fidèle, j'ai peut-être, par compensation, le jugement plus sûr à force d'expérience. Si mes yeux ne me servent plus que secondés par mes lunettes, je vois peut-être plus clair qu'autrefois quand je regarde les hommes et les choses tout au fond. Donc, tout est bien. Pourquoi se fâcher de ce que la dernière étape est plus rude que les autres ? Celui qui m'a donné ma feuille de route en sait plus long que moi. Oui, tout est bien. Je suis vieux, je le serai de plus en plus, c'est à merveille ; je ne le cache ni à moi, ni aux autres, et je rends grâce au ciel de tout ce qu'il m'a laissé.</p>
         <p>Le sage et aimable vieillard, malgré les affaiblissements, les déceptions, et les mécomptes qui accompagnent la sénilité, était néanmoins plus heureux que cinq ans auparavant. Sa fille, le point de l'univers en qui se résumait tout le reste, sa fille avait été transformée ; c'était une autre femme.</p>
-        <p>
-          Aidée par tous ceux qui lui voulaient du bien, elle avait renoncé à ce que son père appelait
-          <hi>l'égoïsme voilé</hi>
-           ; elle s'était prêtée à la vie commune. Son existence, brisée il est vrai, mais pleine et utile, s'était animée de cette activité calme qui est celle des femmes de devoir. Elle conduisait sa maison avec intelligence, veillait à ce que le fardeau ne fût trop lourd pour personne, à ce que nulle injustice ne fût commise en son nom. Elle veillait encore au paiement des salaires, car on lui avait appris que le retard d'une somme, trop longtemps attendue par l'ouvrier, lui porte préjudice.
-        </p>
+        <p> Aidée par tous ceux qui lui voulaient du bien, elle avait renoncé à ce que son père appelait <hi>l'égoïsme voilé</hi>  ; elle s'était prêtée à la vie commune. Son existence, brisée il est vrai, mais pleine et utile, s'était animée de cette activité calme qui est celle des femmes de devoir. Elle conduisait sa maison avec intelligence, veillait à ce que le fardeau ne fût trop lourd pour personne, à ce que nulle injustice ne fût commise en son nom. Elle veillait encore au paiement des salaires, car on lui avait appris que le retard d'une somme, trop longtemps attendue par l'ouvrier, lui porte préjudice. </p>
         <p>Tout le monde avait gagné au retour de la jeune veuve à des idées plus saines et plus chrétiennes ; mais Alice surtout. La jolie enfant était grande et souple comme un roseau ; son visage expressif reflétait la gaieté de l'aïeul, et son caractère s'était empreint de la maligne bonhomie du vieillard et du penchant sérieux de la marquise. Sa vie était tout à la fois studieuse et animée par les plaisirs de son âge ; mais le plaisir lui était donné comme récompense, et non comme une redevance obligatoire. Ceci sauvait l'enfant de cet amour très personnel qu'un fort grand nombre ont pour leurs parents, sans même s'en douter. Elle chérissait sa mère, comme une puissance d'où émanait pour elle joie ou tristesse, et non comme une aimante esclave sacrifiée aux caprices de l'idole.</p>
         <p>Quant au cher bon papa, il s'amusait à faire le bonheur de sa petite-fille. L'entendre rire et folâtrer avec quelques petites amies, répondre à ses interminables questions, lui raconter des histoires, faire patiemment avec elle une partie de jonchets, ou de dames, voire même de loto, c'était le programme des joies paternelles. Alice était heureuse et méritait de l'être, car on n'avait rien à lui reprocher, sinon ses fous rires quand la vicomtesse mettait plus de rouge d'un côté que de l'autre, ou se plaignait de sa couturière qui lui faisait des robes trop longues par devant, et s'allongeant de plus en plus, disait-elle.</p>
         <p>La guerre sourde et sans trêve continuait entre Rosella et Alice. Du côté de la petite fille, les hostilités consistaient simplement en envies de rire, assez mal réprimées quelquefois, malgré les gros yeux de tout le monde. Du côté de la vicomtesse, c'était une suite d'allusions piquantes, de remarques peu bienveillantes, d'éloges ironiques, tout un arsenal de projectiles, destinés à éclater, mais dont les éclats trop légers, ou lancés de trop près, n'avaient jamais pour effet que de déterminer ces malencontreux fous-rires qui désespéraient la rue de Varenne et Kerniou.</p>
         <p>Aussi comment résister ? Héraclite seul se fût tiré de ce mauvais pas. Rosella n'avait pas reçu de la nature une de ces fortes complexions qui laissent à la vieillesse la forme amoindrie de l'âge mur. Ayant droit par son âge à tous les respects, à tous les égards, et n'en voulant point elle s'armait bravement pour la conquête, et empruntait à la jeunesse ses riantes couleurs, les derniers caprices de ses modes, les légèretés de son langage, de ses allures. Or, tout cela n'étant pas de saison devenait ridicule ; et la pauvre Alice, si disposée pourtant par la hauteur de son éducation à vénérer la vieillesse, bornait tous ses soins à étouffer ses petits éclats de rire. Hélas ! Rosella avait gardé mémoire de celui qui, à Kerniou, avait suivi le fameux traitement destiné à combattre le spleen. De ce jour s'était accru l'éloignement de la vieille dame pour l'enfant ; et, en toute circonstance, elle en donnait des preuves, toujours à demi-voilées, par l'urbanité dont on ne se départait point dans ce cercle aux formes polies.</p>
         <p>Rosella n'en poursuivait pas moins, avec un zèle insupportable, sa prétendue mission et, par le plus risible quiproquo, elle attribuait à son adresse, à ses insinuations, à ses exemples surtout, le changement progressif que l'on constatait dans la marquise, son retour gradué aux joies intimes de la famille et de l'amitié.</p>
         <p>– Général, nous triomphons ! disait-elle avec un sérieux comique ; notre petite marquise n'a pu résister à nos attaques. Mon plan était bien arrêté. Je savais comment il fallait s'y prendre, et je ne doutais point de la victoire. Pourtant il y a encore des ombres sur ce front charmant ; je les vois à regret. À moi de les faire disparaître ; donnez-moi seulement du temps. Voyez-vous, je ne croirai pas avoir répondu complètement à votre confiance illimitée, tant que je n'aurai pas décidé Espérance à se laisser présenter par moi dans cette société étrangère où je trouve moi-même tant d'agrément ! Ce sont des gens charmants ! Elle verrait chez eux des toilettes véritablement ravissantes ! et comme elle a une taille d'ange, un cou de cygne, des yeux célestes et des cheveux splendides, elle y ferait tourner les têtes !... Vous voyez, ajoutait Rosella, avec un léger balancement de tête et une grimace des plus humbles, que je m'efface complètement et que je ne cherche qu'à faire briller notre marquise ?</p>
-        <p>
-          À ce dernier trait, le général perdait contenance ; et, la politesse lui défendant de dire le quart de ce qu'il pensait, il devenait nerveux, s'agitait sur place, et, tout en s'agitant, jetait
-          <hi>in petto</hi>
-          mille imprécations à l'heure fatale où, se trompant d'enveloppe et d'adresse, il avait dit à Rosella ce que devait seule entendre Pauline. Alors, de plus en plus irrité contre l'intimité forcée qu'il avait lui-même fait naître, il se vengeait à petit bruit, et sans coup férir, par quelques expressions latines qui mettaient la vicomtesse au désespoir.
-        </p>
+        <p> À ce dernier trait, le général perdait contenance ; et, la politesse lui défendant de dire le quart de ce qu'il pensait, il devenait nerveux, s'agitait sur place, et, tout en s'agitant, jetait <hi>in petto</hi> mille imprécations à l'heure fatale où, se trompant d'enveloppe et d'adresse, il avait dit à Rosella ce que devait seule entendre Pauline. Alors, de plus en plus irrité contre l'intimité forcée qu'il avait lui-même fait naître, il se vengeait à petit bruit, et sans coup férir, par quelques expressions latines qui mettaient la vicomtesse au désespoir. </p>
         <p>Pendant que celle-ci perdait ses dernières années en futilités, la sage et aimable Pauline jetait sur Espérance les trésors d'une amitié véritable. Les deux femmes se cherchaient partout, et se retrouvaient chaque jour à Paris ; déversant l'une dans l'autre ces riens d'une existence féminine, qu'une bonne et constante affection revêt d'un intérêt quotidien. De plus en plus, les nuances se fondaient. Pauline sérieuse sans tristesse, et gaie sans légèreté, avait sur son amie cette influence que donne la sagesse quand la sagesse a su rester aimable.</p>
         <p>Par le secours de Pauline se réformait ainsi, dans l'existence de la marquise, tout ce qui accusait le caprice, l'exaltation, la personnalité ; et le bon père disait :</p>
         <p>« Ah ! si nous n'avions pas la société de ton amie Pauline pour faire contrepoids à celle de cette vieille enfant, je crois que j'en perdrais mon latin !</p>
@@ -663,61 +615,38 @@
         <p>Rosella se contourna d'une façon tout aimable, comme une jeune beauté qu'on intimide.</p>
         <p>« Vous me flattez, général, ce n'est pas bien ; vous savez que je n'aime pas cela, vous mériteriez d'être grondé. Que vous dirai-je ? J'apporte... j'apporte mes toilettes fraîches et mes agréments personnels. »</p>
         <p>Alice qui travaillait à l'aiguille, se piqua le doigt pour ne pas rire ; les deux jeunes femmes baissèrent la tête et le bon papa se remit tout à coup en joyeuse humeur, devant la naïve coquetterie de cette tête sans cervelle, qui n'acceptait pas la vieillesse.</p>
-        <p>
-          « Comment donc, demanda-t-il, avez-vous fait connaissance avec ce milieu ? Voyons ? contez-nous cela ? prenons les choses
-          <hi>ab ovo.</hi>
+        <p> « Comment donc, demanda-t-il, avez-vous fait connaissance avec ce milieu ? Voyons ? contez-nous cela ? prenons les choses <hi>ab ovo.</hi>
         </p>
         <p>– Parlons français, général.</p>
-        <p>
-          -- Vous voulez que je dise
-          <hi>de l'œuf ?</hi>
+        <p> -- Vous voulez que je dise <hi>de l'œuf ?</hi>
         </p>
         <p>– Je déteste votre latin.</p>
         <p>– Peste ! la langue de Cicéron !</p>
         <p>– Et Cicéron aussi.</p>
-        <p>
-          -- Mais vous vous fâchez ? c'est bien sévère ; car enfin, avoir dit
-          <hi>ab ovo</hi>
-          , ce n'est pas un
-          <hi>casus belli.</hi>
+        <p> -- Mais vous vous fâchez ? c'est bien sévère ; car enfin, avoir dit <hi>ab ovo</hi> , ce n'est pas un <hi>casus belli.</hi>
         </p>
         <p>– Encore ?</p>
-        <p>
-          -- Quoi donc ? Il faut bien que je réponde
-          <hi>ad rem.</hi>
+        <p> -- Quoi donc ? Il faut bien que je réponde <hi>ad rem.</hi>
         </p>
         <p>– Assez, assez, général.</p>
-        <p>
-          -- Ah ! madame, quel regard ! En vérité, c'est trop m'écraser pour un
-          <hi>lapsus linguæ !</hi>
+        <p> -- Ah ! madame, quel regard ! En vérité, c'est trop m'écraser pour un <hi>lapsus linguæ !</hi>
         </p>
         <p>– Pour un ?...</p>
-        <p>
-          -- 
-          <hi>Lapsus linguæ.</hi>
-          Je soutiens que je n'ai point voulu vous offenser, et je le soutiendrai
-          <hi>mordicus !</hi>
+        <p> --  <hi>Lapsus linguæ.</hi> Je soutiens que je n'ai point voulu vous offenser, et je le soutiendrai <hi>mordicus !</hi>
         </p>
         <p>– Encore une fois, j'ai en horreur votre latin.</p>
         <p>– Punissez-moi, belle dame, si je le mérite ; mais ne me condamnez pas sans m'entendre.</p>
         <p>– Je vous entends fort bien.</p>
         <p>– J'ai la malheureuse habitude d'honorer et d'aimer Cicéron.</p>
         <p>– Encore Cicéron qui revient ?</p>
-        <p>
-          -- Oui, madame ; permettez-moi de me justifier ? On me voit souvent en main un petit livre contenant ses admirables Catilinaires ! ce livre, c'est mon
-          <hi>Vade mecum.</hi>
+        <p> -- Oui, madame ; permettez-moi de me justifier ? On me voit souvent en main un petit livre contenant ses admirables Catilinaires ! ce livre, c'est mon <hi>Vade mecum.</hi>
         </p>
         <p>– Votre ?...</p>
-        <p>
-          -- 
-          <hi>Vade mecum</hi>
-          . Il en résulte que certaines expressions, à l'usage des latins, reviennent facilement sur mes lèvres. C'est un tort, je le reconnais, puisque vous l'avez dit. Je suis prêt à vous accepter pour juge et par conséquent à baisser pavillon devant vous ; car, disait le grand orateur :
-          <hi>Cedant arma togæ</hi>
-          . »
-        </p>
+        <p> --  <hi>Vade mecum</hi> . Il en résulte que certaines expressions, à l'usage des latins, reviennent facilement sur mes lèvres. C'est un tort, je le reconnais, puisque vous l'avez dit. Je suis prêt à vous accepter pour juge et par conséquent à baisser pavillon devant vous ; car, disait le grand orateur : <hi>Cedant arma togæ</hi> . » </p>
         <p>La pauvre Alice n'y tenait plus. Espérance et Pauline n'osaient regarder ni l'enfant, ni l'aïeul, encore moins Rosella qui avait été prise, de par Cicéron, d'un tic nerveux, un clignement de l'œil gauche, indiquant à n'en point douter, que son impatience n'était plus retenue que par un fil, et que ce fil pourrait bien se casser. La situation était tendue, et l'on avait les plus sérieuses raisons de craindre qu'Alice, à bout de moyens préservatifs, ne partît d'un éclat de rire, tout comme autrefois à Kerniou. La porte du salon s'ouvrit ; c'était Laurent qui apportait, toujours sur le même plat d'argent, une des jolies enveloppes, fines, blanches, satinées, contenant la lettre de Marie Dubreuil.</p>
       </div>
       <div type="chapter">
+
         <head>V -- L'Albanaise.</head>
         <p>Se voir souvent ne constitue pas toujours l'intimité, sinon les importuns seraient nos intimes amis. Aussi la marquise, ayant demandé poliment à Rosella la permission de décacheter la lettre qu'on lui apportait, l'avait-elle parcourue rapidement sans oser communiquer l'impression qu'elle en ressentait. La confiance est un sentiment très délicat, et la vicomtesse était loin de comprendre les rapports qui existaient entre la jeune veuve et Marie. Si l'on avait lu cette lettre devant elle, on l'aurait entendue s'écrier :</p>
         <p>« Voyez-vous cette petite effrontée ? Ces gens-là sont incroyables ! quelle indiscrétion ! J'espère que vous allez lui répondre comme elle le mérite, ou plutôt ne pas lui répondre du tout. C'est le parti que je prendrais. »</p>
@@ -746,7 +675,7 @@
         <p>La marquise n'ajouta rien aux paroles de son père. Recueillie en elle-même, on eût dit qu'elle méditait. Sans doute elle se sentait heureuse d'avoir choisi, pour une première faute, la clémence au lieu de la justice.</p>
         <p>Pendant qu'on causait, Laurent très ému entrait dans le boudoir pour remplir la mission de confiance dont on l'avait chargé. Tout tremblant, il s'approcha du bureau. Ses mouvements étaient exactement les mêmes qu'à cette heure maudite, dont le souvenir devait le poursuivre toujours ! Quand il entrouvrit le tiroir, une grande tristesse le suivit. Oui, c'était bien ainsi qu'il avait fait autrefois, le cœur plein des plus mauvais instincts. Il aperçut du premier regard une enveloppe toute pareille à celle qu'il gardait si soigneusement dans son vieux portefeuille. C'était bien celle qu'il avait apportée la veille au soir à sa maîtresse. Il la prit avec une sorte de respect. Cette écriture était donc encore celle de la petite Marie ; mais formée, posée, bien ferme. Il lisait et relisait l'adresse, tout en redescendant à la salle à manger ; mille pensées lui étaient rendues par ces caractères.</p>
         <p>Ce ne fut pas sans prendre beaucoup sur lui qu'il retomba dans son flegme officiel pour présenter la lettre à la marquise. Celle-ci affecta de la recevoir d'un air distrait et la fit passer à Alice, qui la lut tout haut. Laurent allait se retirer par discrétion ; mais son maître lui fit signe de continuer son service sans bruit, pendant cette lecture.</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>« Madame la marquise,</p>
         <p>« Vous avez été si bonne pour moi, depuis cinq ans, que j'ose vous écrire une seconde fois, en me servant de ma seconde enveloppe. Je viens vous apprendre la mort de mon bon père, qui languissait depuis si longtemps, et à qui vous avez fait tant de bien, en vous cachant toujours de peur de lui causer quelque chagrin.</p>
         <p>« Me voilà toute seule avec ma chère maman. J'ai le plus grand désir de gagner ma vie en ne la quittant pas, et de gagner aussi la sienne, car elle est bien fatiguée ; le médecin dit que ce n'est pas une maladie, que c'est de l'épuisement. Ah ! Madame, si j'avais une machine à coudre, même la plus simple de toutes, il me semble que je pourrais travailler à la maison. J'ai quatorze ans et demi, bientôt quinze ; je suis moins pâle à présent, grâce à vous, ma chère protectrice ; mais nous sommes trop pauvres pour acheter autre chose que ce qu'il nous faut tous les jours, car maman a fait tout ce qu'elle a pu pour papa, et il est allé avec le bon Dieu tout doucement et sans manquer de rien.</p>
@@ -755,7 +684,7 @@
         <p>« Adieu, Madame la marquise, je suis avec le plus profond respect.</p>
         <p>Votre petite servante.</p>
         <p>MARIE DUBREUIL.</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>« Pauvre petite fille, s'écria le Général. Oui, oui, elle l'aura, sa machine à coudre ! Espérance, nous ferons cela à nous deux, et tu lui achèteras une silencieuse afin que sa pauvre mère n'ait pas la tête cassée par ce bruit insupportable.</p>
         <p>– Je vous remercie, mon père. Je vais m'en occuper dès aujourd'hui.</p>
         <p>– Oui, oui, le plus tôt sera le mieux.</p>
@@ -766,20 +695,10 @@
         <p>– Quel bonheur ! dit Alice en battant des mains. Voilà déjà deux maisons qui la feront travailler tout l'hiver. »</p>
         <p>On se leva de table en parlant de Marie, avec un désir bien réel de lui être utile, et de seconder sa piété filiale.</p>
         <p>La marquise seule remarqua l'étrange expression du visage de Laurent. Il pensait certainement à l'humble enfant qu'il appelait son ange gardien, et se réjouissait à l'idée de la voir venir à l'hôtel tous les lundis pour rapporter l'ouvrage.</p>
-        <p>
-          Les cœurs charitables ont des tressaillements soudains, dont ne se doutent même pas ceux qui se détournent, de peur de voir souffrir. Espérance et Pauline trouvèrent, comme Alice, que la promenade projetée pouvait se remettre à un autre jour, et qu'il serait beaucoup plus agréable d'aller acheter
-          <hi>une silencieuse</hi>
-          , et de se rendre ensuite toutes les trois au logis de la jeune ouvrière pour lui dire : « Nous vous offrons un travail régulier qui vous sera payé chaque semaine. » C'était une si bonne nouvelle ! Et les bonnes nouvelles font tant de bien aux affligés ! Ainsi le sentait la marquise, depuis que son existence était remplie par l'éducation d'Alice, par les bonnes œuvres et par les relations de famille et d'amitié.
+        <p> Les cœurs charitables ont des tressaillements soudains, dont ne se doutent même pas ceux qui se détournent, de peur de voir souffrir. Espérance et Pauline trouvèrent, comme Alice, que la promenade projetée pouvait se remettre à un autre jour, et qu'il serait beaucoup plus agréable d'aller acheter <hi>une silencieuse</hi> , et de se rendre ensuite toutes les trois au logis de la jeune ouvrière pour lui dire : « Nous vous offrons un travail régulier qui vous sera payé chaque semaine. » C'était une si bonne nouvelle ! Et les bonnes nouvelles font tant de bien aux affligés ! Ainsi le sentait la marquise, depuis que son existence était remplie par l'éducation d'Alice, par les bonnes œuvres et par les relations de famille et d'amitié. </p>
+        <p> Espérance était la première étonnée de la largeur de vie que lui laissait son imagination, désormais contenue et employée utilement. Tout avait changé de face. Sa tristesse, un peu sauvage, qui pesait sur les autres, avait fait place à cette gravité douce et habituelle qui sied à une veuve. Son penchant pour la solitude avait été réglé, combattu par la sagesse ; son père, son enfant, son entourage, tous s'en trouvaient bien, et la cause première de ces améliorations était la rencontre de la petite Marie. On monta en voiture et l'on alla <hi>s'amuser à faire du bien.</hi>
         </p>
-        <p>
-          Espérance était la première étonnée de la largeur de vie que lui laissait son imagination, désormais contenue et employée utilement. Tout avait changé de face. Sa tristesse, un peu sauvage, qui pesait sur les autres, avait fait place à cette gravité douce et habituelle qui sied à une veuve. Son penchant pour la solitude avait été réglé, combattu par la sagesse ; son père, son enfant, son entourage, tous s'en trouvaient bien, et la cause première de ces améliorations était la rencontre de la petite Marie. On monta en voiture et l'on alla
-          <hi>s'amuser à faire du bien.</hi>
-        </p>
-        <p>
-          La
-          <hi>silencieuse</hi>
-          ayant été achetée, on donna ordre de la porter aussitôt chez Mme Dubreuil, et l'on se dirigea vers la modeste demeure.
-        </p>
+        <p> La <hi>silencieuse</hi> ayant été achetée, on donna ordre de la porter aussitôt chez Mme Dubreuil, et l'on se dirigea vers la modeste demeure. </p>
         <p>Les deux femmes n'habitaient plus le rez-de-chaussée, attenant à la remise qui servait d'atelier à Dubreuil ; on s'était empressé de donner congé de ce logement, jugé trop grand et trop cher.</p>
         <p>On avait eu l'heureuse chance de trouver dans la même maison une chambre unique, mais spacieuse et bien éclairée, que l'on payait cent francs par an, et qui suffisait à tout. De la fenêtre en se penchant un peu, on apercevait l'atelier. C'était triste, mais on aimait cette tristesse, qui laissait plus présente la mémoire du pauvre menuisier.</p>
         <p>La marquise, précédant son amie et sa fille, monta cinq étages, et frappa doucement à la porte qui faisait face à l'escalier. Marie vint ouvrir, bien intimidée en voyant ces trois personnes.</p>
@@ -790,16 +709,8 @@
         <p>Tout en répondant aux questions pressées que lui adressait Alice, Marie regardait souvent la marquise, avec l'expression d'une confiance naïve et entière, fondée sur la bonté soutenue de sa protectrice.</p>
         <p>Espérance et la pauvre veuve parlaient ensemble du cher défunt. La femme du monde trouvait de bonnes paroles pour adoucir une plaie encore vive. Elle ne disait pas à cette infortunée qu'il valait bien mieux que son mari fût mort puisqu'il était toujours malade, qu'il ne pouvait plus travailler, et qu'il n'était pour elle qu'une charge. Non, elle savait trop que, dans toutes les conditions, le cœur a ses susceptibilités, et que le langage de la froide raison irrite ses blessures. Ses paroles étaient mesurées, et sa compassion ne l'était pas. Elle mêlait ses larmes à celles de la pauvre affligée ; c'est encore une manière de faire du bien.</p>
         <p>Pendant ce temps, Alice causait avec Marie. Rien de joli à voir comme Marie en deuil écoutant Alice, et recevant d'elle autant de joie que son cœur d'orpheline en pouvait recevoir. Pauline, qui aimait à observer, regardait la jeune ouvrière avec un intérêt marqué, et lui parlait de manière à l'encourager et à lui donner de l'espoir.</p>
-        <p>
-          On frappa à la porte. C'était
-          <hi>la silencieuse</hi>
-          qu'on apportait. Quelle surprise ! Mère et fille se regardèrent avec étonnement.
-        </p>
-        <p>
-          « Ah ! madame la marquise, vous avez été bien au-delà des désirs de Marie ! Comment ! Une
-          <hi>silencieuse !</hi>
-          Nous n'aurions jamais osé espérer un tel bienfait.
-        </p>
+        <p> On frappa à la porte. C'était <hi>la silencieuse</hi> qu'on apportait. Quelle surprise ! Mère et fille se regardèrent avec étonnement. </p>
+        <p> « Ah ! madame la marquise, vous avez été bien au-delà des désirs de Marie ! Comment ! Une <hi>silencieuse !</hi> Nous n'aurions jamais osé espérer un tel bienfait. </p>
         <p>C'est mon père qui a voulu vous assurer le repos, Mme Dubreuil, et vous laisser jouir pleinement de la présence de Marie.</p>
         <p>– Monsieur votre père est donc comme vous ? demanda naïvement Marie.</p>
         <p>– Oui, ma chère enfant ; mon père aime les bonnes ouvrières, et les filles toutes dévouées à leurs parents.</p>
@@ -834,11 +745,7 @@
         <p>Marie, qui était à cent lieues de se douter de cette émotion, lui dit tout simplement :</p>
         <p>« Vous êtes fatigué d'avoir monté si longtemps ? assoyez-vous donc un peu. »</p>
         <p>Laurent accepta une chaise et aperçut seulement alors une belle jeune fille assise devant une machine à coudre, dans l'embrasure de la fenêtre. Tout un édifice de cheveux, d'un noir d'ébène, couronnait son front hardi ; une robe à la dernière mode faisait valoir l'élégance de sa taille. À l'instant ses doigts cessèrent de travailler, et ses grands yeux jetèrent un regard assuré sur Laurent, à qui elle rendit à peine le salut qu'il lui adressa.</p>
-        <p>
-          « Je viens, dit-il enfin, de la part de Mme la marquise \
-          <hi>\*\</hi>
-          apporter de l'ouvrage à Mlle Marie. »
-        </p>
+        <p> « Je viens, dit-il enfin, de la part de Mme la marquise \ <hi>\*\</hi> apporter de l'ouvrage à Mlle Marie. » </p>
         <p>Dès qu'il eut prononcé le nom de sa bienfaitrice, Marie se sentit à l'aise avec Laurent. Il est de la maison, pensa-t-elle ; il doit être bon comme les maîtres, puisqu'on dit : tel maître, tel valet.</p>
         <p>Toute à sa reconnaissance, elle dit avec beaucoup de bonhomie :</p>
         <p>« Oh ! qu'elle est donc généreuse, votre maîtresse ! Voyez ? c'est elle qui m'a donné cette machine à coudre, et je vais gagner ma vie auprès de maman.</p>
@@ -884,47 +791,29 @@
         <p>– C'est précisément cette position qu'il faut changer. Ma chère, ne me donnez pas d'excuses, je n'en accepterai pas. Je sais fort bien ce que vous pensez des costumes riches et dispendieux. Vous trouvez que c'est de l'argent perdu ?</p>
         <p>– Certainement.</p>
         <p>– Eh bien, rassurez-vous, belle dame ; j'ai, à moi, deux costumes délicieux qui n'ont encore paru dans aucun salon ; je vous prête le plus élégant des deux, trop heureuse, ma chère, de vous faire valoir, ainsi vous voyez... »</p>
-        <p>
-          Le général fort en peine, et voulant pourtant tenir son sérieux, but un second verre de vin de Malaga ; mais comme la vicomtesse l'ennuyait plus que de coutume, il recourut à l'innocent moyen de défense qui lui réussissait quelquefois, et s'écria :
-          <hi>Bonum vinum lœtificat cor hominis.</hi>
+        <p> Le général fort en peine, et voulant pourtant tenir son sérieux, but un second verre de vin de Malaga ; mais comme la vicomtesse l'ennuyait plus que de coutume, il recourut à l'innocent moyen de défense qui lui réussissait quelquefois, et s'écria : <hi>Bonum vinum lœtificat cor hominis.</hi>
         </p>
         <p>Rosella se boucha les oreilles en faisant quelques minauderies.</p>
         <p>« Encore cet affreux latin ; je n'y comprends rien.</p>
-        <p>
-          -- C'est pourtant bien facile à traduire.
-          <hi>Bonum</hi>
-          bon,
-          <hi>vinum</hi>
-          vin,
-          <hi>lœtificat...</hi>
+        <p> -- C'est pourtant bien facile à traduire. <hi>Bonum</hi> bon, <hi>vinum</hi> vin, <hi>lœtificat...</hi>
         </p>
         <p>– Ne me traduisez pas ! Il ne manquerait plus que cela ! Parlez français, je vous en prie. Je disais donc, ma très chère, que je vous prête un costume splendide ! Votre Elvire, qui ne manque ni de goût, ni d'adresse, a quatre heures devant elle pour corriger ce qui pourrait ne pas s'adapter parfaitement à votre taille ; et nous arrivons à minuit, vous en Napolitaine, et moi en Albanaise ! »</p>
         <p>Laurent, qui servait, laissa tomber du vin sur la nappe ; mais son maître excusa sa maladresse, car il comprenait qu'on se troublât. Lui-même ne savait plus trop ce qu'il faisait, depuis que la terrible vision de l'Albanaise s'était dressée levant lui,</p>
         <p>Quant à Alice, mise à une trop rude épreuve, elle disparut sous la table, cherchant une bague qui venait de tomber de son doigt, avec un remarquable à-propos. La marquise seule tenait tête à l'Albanaise. Elle exposa, avec la plus grande politesse, les motifs bien arrêtés de son refus et se montra très positive.</p>
         <p>« C'est donc vrai ? Vous voulez vivre en anachorète ? Général, mon allié, unissons nos efforts, nous partagerons les honneurs du triomphe.</p>
-        <p>
-          -- Je sais, Madame, que la société brillante où vous voulez, depuis longtemps, présenter ma fille est une société pleine de charmes ; vous m'en avez souvent chanté
-          <hi>Mirabilia !</hi>
+        <p> -- Je sais, Madame, que la société brillante où vous voulez, depuis longtemps, présenter ma fille est une société pleine de charmes ; vous m'en avez souvent chanté <hi>Mirabilia !</hi>
         </p>
         <p>– Moi, je n'ai rien chanté du tout ! Et certes, je n'aurais pas commencé ma chanson par ce vilain mot-là ! Encore une fois, général, unissons nos efforts pour vaincre la résistance de cette petite femme.</p>
-        <p>
-          -- Madame, s'il faut vous l'avouer, ma fille étant en âge de se conduire elle-même, et de prendre ses distractions et ses plaisirs
-          <hi>ad libitum</hi>
-          , je ne me reconnais pas le droit de lui faire la guerre à ce propos.
-        </p>
+        <p> -- Madame, s'il faut vous l'avouer, ma fille étant en âge de se conduire elle-même, et de prendre ses distractions et ses plaisirs <hi>ad libitum</hi> , je ne me reconnais pas le droit de lui faire la guerre à ce propos. </p>
         <p>– Alors, c'est à moi que vous la faites ? Eh bien Monsieur ! nous nous battrons !</p>
-        <p>
-          -- 
-          <hi>Alea jacta est !</hi>
+        <p> --  <hi>Alea jacta est !</hi>
         </p>
         <p>– Qu'est-ce que c'est que cela encore ?</p>
         <p>– C'est le premier coup de canon.</p>
         <p>– Général, vous plaisantez, mais moi, je parle sérieusement.</p>
         <p>– Diable ! cela devient piquant !</p>
         <p>– Je triompherai sans vous. Mais c'est fort mal ; vous poussez votre fille au marasme ; il vous plairait qu'elle fût toujours seule ?...</p>
-        <p>
-          -- Loin de là. Je connais, tout comme vous, ce mot de l'Écriture :
-          <hi>Vœ Soli !</hi>
+        <p> -- Loin de là. Je connais, tout comme vous, ce mot de l'Écriture : <hi>Vœ Soli !</hi>
         </p>
         <p>– Je n'ai jamais trouvé ce mot-là dans l'Écriture ; et d'ailleurs, je l'aurais passé ; je n'aime pas le latin. Mais laissez-moi parler. Notre jolie marquise ne saurait être insensible à ce qui doit doubler ses charmes. Je vous dirai, ma belle, que, ne doutant pas du succès de ma démarche, je me suis fait suivre par les costumes en question, pensant, ma chère, que nous nous habillerions ensemble, ce qui nous amuserait beaucoup, et que nous donnerions au général, alors mon allié, la jouissance de regarder tout à son aise l'Albanaise et la Napolitaine. Eh bien, voilà encore Alice sous la table ?</p>
         <p>– Ma bague est retombée, madame ; et cette fois-ci, je ne la retrouve plus. »</p>
@@ -947,35 +836,21 @@
         <p>« Quel bonheur ! dit-elle comme une enfant, je vais donc bien m'amuser ! Chère Espérance, vous ne savez pas ce que vous refusez. Il y aura quantité de costumes, presque aussi ravissants que le mien !</p>
         <p>– Est-ce que tout le monde sera costumé ? demanda le général.</p>
         <p>– Oui, tout le monde.</p>
-        <p>
-          -- Ah ! c'est une condition
-          <hi>sine qua non ?</hi>
-           »
-        </p>
+        <p> -- Ah ! c'est une condition <hi>sine qua non ?</hi>  » </p>
         <p>La figure de l'Albanaise s'allongea d'un centimètre ; mais se laissant distraire par les grâces de sa personne, elle reprit :</p>
         <p>« La maîtresse de maison est une femme charmante, délicieuse ! Nous avons fait nos études ensemble.</p>
         <p>– Quelle ancienne amitié !</p>
         <p>– Oui, cela commence à dater. Elle est encore fort jolie femme. Elle a beaucoup d'esprit et une santé de fer.</p>
-        <p>
-          -- C'est fort beau.
-          <hi>Mens sana in corpore sano</hi>
-          .
-        </p>
+        <p> -- C'est fort beau. <hi>Mens sana in corpore sano</hi> . </p>
         <p>– Encore votre ennuyeux Cicéron ?</p>
         <p>– Je vous demande pardon, ceci est tiré de la dixième satire de Juvénal.</p>
         <p>– Pour moi, c'est tout un. Cicéron, Virgile, Horace, Juvénal, c'est toujours...</p>
-        <p>
-          -- 
-          <hi>Ejusdem farinœ.</hi>
+        <p> --  <hi>Ejusdem farinœ.</hi>
         </p>
         <p>– Général, je vous en supplie !Votre latin me porte sur les nerfs ! Je vous disais donc que mon amie est une femme délicieuse ! Des yeux bleus et des cheveux noirs, c'est une rareté.</p>
         <p>– Et une habileté !</p>
         <p>– Je suis intimement liée avec elle.</p>
-        <p>
-          -- Enfin, c'est votre
-          <hi>Alter Ego</hi>
-           ? »
-        </p>
+        <p> -- Enfin, c'est votre <hi>Alter Ego</hi>  ? » </p>
         <p>Rosella finit par être déconcertée devant tant de latin à la fois. Elle trouva qu'il était tard, et comme on entendait ses chevaux piaffer dans la cour, elle prit congé de l'ennemi, jeta un regard de regret sur la marquise et fit exprès de ne pas dire bonsoir à Alice.</p>
         <p>On s'égaya un moment sur le comique de la situation et chacun se retira.</p>
         <p>Alors se fit le silence dans la vaste demeure. Laurent remonta dans sa chambre, où se détournant sans peine des scènes ridicules auxquelles il avait assisté, il retourna au cinquième étage de la rue du Bac, et revit en lui-même cette femme respectable et cette candide enfant qui allaient désormais occuper une place dans sa vie. La chambre unique, où se passaient tous les petits événements de ces deux existences, lui était présente ; il voyait la silencieuse, don généreux de ses maîtres ; il faisait disparaître la belle et coquette Amanda qui n'avait ni sur le front, ni dans le regard, cette pudeur de l'âme, très supérieure à la beauté. Il mettait à sa place celle qu'il appelait encore en sa pensée la petite Marie, bien qu'elle eût presque la taille d'une femme.</p>
@@ -989,6 +864,7 @@
         <p>Dans ces douces pensées le sommeil trouva le paysan breton qui, à travers les dangers de la grande ville, et malgré son premier entraînement avait su rester vraiment chrétien, vraiment breton.</p>
       </div>
       <div type="chapter">
+
         <head>VI -- Laurent n'oubliait pas.</head>
         <p>La suprême consolation des vieillards, c'est de voir grandir les enfants. Le général se complaisait à voir grandir sa petite-fille, à surprendre sur son front cette nuance, à peine sensible, qui est le passage de l'enfance à l'adolescence.</p>
         <p>Tandis qu'Espérance avait gagné, par l'esprit de devoir et par la charité, un calme d'imagination dont sa nature rêveuse semblait incapable, Alice formée par la tendresse intelligente de sa mère était devenue une jeune fille, non seulement brillante, mais instruite ; ce qui est, de notre temps, beaucoup plus rare. Trop supérieure pour se laisser surprendre par la vanité que le talent inspire aux esprits vulgaires, elle cultivait soigneusement les dons de Dieu, et la richesse de son organisation n'empêchait pas l'épanouissement de cette fleur de jeunesse qui n'a qu'une saison : le printemps.</p>
@@ -1024,9 +900,7 @@
         <p>– Oh Madame, c'est ça qui serait un malheur, répondit l'enfant en souriant, car elle ne croyait pas que cela pût arriver.</p>
         <p>– Allons, promettez-moi que vous m'écrirez ; je vous promets de vous répondre. »</p>
         <p>Marie hésita, et finit par s'engager à obéir.</p>
-        <p>
-          Elle retira de cette visite, d'abord la joie d'avoir vu sa protectrice dans l'intimité du boudoir havane, ensuite un petit présent : Alice lui avait donné, pour lire le Dimanche, un livre destiné à former de plus en plus son cœur et son jugement : ce joli livre était intitulé :
-          <hi>Le pain quotidien.</hi>
+        <p> Elle retira de cette visite, d'abord la joie d'avoir vu sa protectrice dans l'intimité du boudoir havane, ensuite un petit présent : Alice lui avait donné, pour lire le Dimanche, un livre destiné à former de plus en plus son cœur et son jugement : ce joli livre était intitulé : <hi>Le pain quotidien.</hi>
         </p>
         <p>Rentrée au logis, Marie dit à sa mère :</p>
         <p>« Maman, Mme la marquise veut que je lui écrive une troisième fois, en me servant de ma dernière enveloppe, et que je lui dise ce qui me fait de la peine en ce moment.</p>
@@ -1063,7 +937,7 @@
         <p>Lorsque la lettre de Marie Dubreuil parvint à destination, la marquise travaillait à l'aiguille entre son père et Alice, qui peignait à l'aquarelle.</p>
         <p>« Maman, s'écria la jeune fille, voilà votre troisième enveloppe. »</p>
         <p>La mère parcourut d'abord des yeux la missive, car elle n'aurait pas voulu trahir le secret de l'ouvrière, s'il eût eu un caractère personnel ; mais bientôt elle voulut lire à haute voix, afin de faire aimer Marie davantage.</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>« Madame la marquise,</p>
         <p>« Vous m'avez dit que vous vous fâcheriez si je ne vous avouais pas tout ! Je vais donc vous obéir. Si je n'ai pas osé vous parler plus tôt de ma peine, c'est parce que je trouvais que c'était vraiment abuser de votre bonté. Voilà ce qui m'attriste et me tourmente.</p>
         <p>« Il y a une ouvrière que je connais depuis l'enfance, qui a trois ans de plus que moi, et qui est devenue bien malheureuse. Ma pauvre amie ne s'était pas bien conduite ; mais cela vient de ce qu'elle n'avait pas, comme moi, une bonne mère pour la préserver de tout ce qui est mal. Elle a fini par tomber malade, très malade. C'est la poitrine ; et les médecins disent qu'elle ne peut pas guérir. Oh ! Madame, elle est bien à plaindre ! Il n'y a que moi qui aille la voir à l'hôpital ; toutes les autres personnes, qui avaient tant l'air de l'aimer, l'ont abandonnée. C'est bien mal !</p>
@@ -1076,7 +950,7 @@
         <p>« J'ai l'honneur d'être avec respect,</p>
         <p>« Votre servante,</p>
         <p>« MARIE DUBREUIL. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>« Voilà donc, dit Espérance, voilà où sont allées ses petites économies. Elle avait amassé, à force de temps et d'ordre, une somme destinée à s'acheter une robe blanche et un voile pour entrer dans la confrérie de la Sainte-Vierge, et elle n'y est pas entrée ; en voilà la raison. Et pourtant, je l'ai su par sa mère, c'était l'objet de tous ses vœux. Elle se tenait humblement dans un coin de l'église, regardant de loin l'autel tout en feux, suivant des yeux la procession dont elle ne pouvait faire partie, n'ayant point le costume d'usage ! Elle l'aura ; je veux le lui donner, tout en secourant son amie.</p>
         <p>– C'est une admirable enfant, dit le général. Combien, à son âge et dans sa situation, feraient juste assez pour leur mère, et consacreraient la plus grande partie de leur gain, non certes à un voile de vierge, mais à ces toilettes exagérées qui attirent le regard des passants ? Il n'y a pas beaucoup d'ouvrières plus jolies que Marie Dubreuil, et de plus sages il n'y en a point.</p>
         <p>La marquise, dans ses élans de bonté, aimait à ne pas faire attendre.</p>
@@ -1123,13 +997,13 @@
         <p>Laurent, interdit par cette parole cordiale, n'osa pas répondre. Il salua, se retira, et pendant qu'il descendait l'escalier, il jeta un profond et triste soupir. La mère qui l'entendit en fut tout étonnée.</p>
         <p>« Maman, dit Marie, avec un empressement bien naturel, je vais te lire la lettre de la marquise.</p>
         <p>– Ah ! voyons un peu ce qu'elle te dit, celle bonne dame ?</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>« Vous avez eu confiance en moi, ma bonne Marie, je vous en remercie, et veux vous procurer la joie triste de consoler une amie dont le malheur vous a rapprochée. Vous ne serez plus seule à veiller sur cette pauvre malade ; vous viendrez me prendre dimanche prochain et nous irons ensemble à l'Hôtel-Dieu.</p>
         <p>« Vous avez sacrifié pour cette pauvre fille toutes vos économies, et la tirelire est vide ; je veux avoir le plaisir de vous donner un voile blanc et tout ce qu'il vous faut pour vous mêler à vos compagnes aux fêtes de Vierge. Quand vous ferez votre prière, sous votre parure blanche, vous penserez à nous. C'est mon père qui vous envoie le livre ; demandez à Dieu pour lui une longue et heureuse vieillesse.</p>
         <p>« Marie, je vous ai dit, il y a neuf ans : « Vous m'écrirez trois fois. » Maintenant je vous dis, au cas où quelque peine vous surviendrait : « Vous m'écrirez toujours. »</p>
         <p>« Adieu, ma chère enfant, continuez d'être, sous les yeux de votre bonne mère, bien travailleuse et bien modeste.</p>
         <p>« Mme de... »</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>– Eh bien, ma fille, vois ce que c'est que d'avoir de la conduite. Amanda aurait-elle jamais trouvé une pareille protection, quand elle se faisait gloire de n'avoir pas l'air d'une ouvrière ?</p>
         <p>– Maman, elle sera visitée, secourue, quel bonheur !</p>
         <p>– Tu vois bien qu'elle mentait quand elle disait devant toi, qui n'avais alors que quatorze ans : « Les riches sont tous des égoïstes. »</p>
@@ -1142,6 +1016,7 @@
         <p>Une foule recueillie remplissait l'Église, écoutant les voix de l'orgue et les refrains des cantiques. On eût pu voir, dans cette foule chrétienne, un jeune garçon en livrée, religieusement incliné. Lui aussi priait, mais avec une défiance de lui-même qui était de l'humilité. À peine s'il osait demander une grâce, dont il se jugeait trop indigne. Qu'était-ce donc ?... que de cet essaim virginal, le vent du ciel laissât venir à lui une abeille laborieuse, et que, s'il se pouvait, cette abeille fût Marie ! Mais non, se disait-il, non jamais ! Elle si pure ! Et moi ? qui suis-je ? Ah ! si elle le savait ! Est-ce que je puis, moi, misérable, espérer une aussi grande faveur ? Mon Dieu, vous gardez Marie pour un autre, et c'est justice. Moi, je ne la mérite pas !</p>
       </div>
       <div type="chapter">
+
         <head>VII -- Maison nette.</head>
         <p>Alice avait à son tour dix-huit ans, et son éducation, aussi complète que possible à cet âge, lui laissait plus de temps à donner à la famille, à la lecture, aux arts d'agrément. Sa mère jouissait de son œuvre. Son amie Pauline avait eu raison de lui dire autrefois :</p>
         <p>« Ce qui abîme la vie, c'est moins la douleur que le vide. » </p>
@@ -1167,60 +1042,36 @@
         <p>En entrant dans son boudoir, la marquise trouva une lettre et reconnut l'écriture de son père.</p>
         <p>« Il ne sera pas dit, chère fille, que, faute d'une enveloppe, je ne t'écrirai pas une seconde fois pour faire la paix, après t'avoir écrit, il y a onze ans, pour déclarer la guerre.</p>
         <p>« Tu as été une alliée fidèle, et c'est à toi surtout que nous devons la victoire. Ton imagination, contre laquelle étaient dirigées toutes nos attaques, a consenti elle-même aux négociations. En d'autres termes, tu es la plus raisonnable femme de la terre. Ta vie est utile et pleine ; notre charmante Alice est ton ouvrage, et ton vieux père est le plus heureux des hommes.</p>
-        <p>
-          « Ce serait peut-être le moment pour lui de dire son
-          <hi>Nunc dimittis</hi>
-          , mais il n'en a pas le courage, et c'est tout au plus s'il en arrive au
-          <hi>Fiat,</hi>
-          tant la vie lui est devenue douce par toi chère fille.
-        </p>
+        <p> « Ce serait peut-être le moment pour lui de dire son <hi>Nunc dimittis</hi> , mais il n'en a pas le courage, et c'est tout au plus s'il en arrive au <hi>Fiat,</hi> tant la vie lui est devenue douce par toi chère fille. </p>
         <p>« Mon auxiliaire, la bonne Pauline, mérite assurément d'être mise à l'ordre du jour. Mais que dire de l'Albanaise ? et de mon insigne maladresse ?... et de mon enveloppe sacrifiée ?... Rien. »</p>
         <p>Espérance trouva la plus douce récompense dans la joie de son père. Elle regretta une fois de plus les années perdues à chercher la consolation dans la négligence des devoirs ordinaires, et dans l'occupation de soi-même.</p>
         <p>Le soir de ce jour, on' vit arriver, toujours empressée, toujours coquette, la fameuse Rosella. Comme à l'ordinaire son entrée au salon jeta du sombre dans l'esprit du vieux général ; mais comme elle était encore un peu plus prétentieuse et plus ridicule que de coutume, cela le mit en joie et il finit par se dire : Au fait, puisqu'elle vient si souvent nous ennuyer, il faut du moins que je me venge.</p>
         <p>Sur ce, il sortit de son mutisme, pour dire à la visiteuse, qui semblait en veine de raconter ses pérégrinations et ses prétendus succès de Casino :</p>
-        <p>
-          « Voyons ? Nous écoutons. Donnez-nous votre Odyssée,
-          <hi>in extenso.</hi>
+        <p> « Voyons ? Nous écoutons. Donnez-nous votre Odyssée, <hi>in extenso.</hi>
         </p>
         <p>– Toujours ce malheureux latin ! Comment est-il possible, Mesdames, que vous, dont la puissance est connue, vous n'ayez pas fait perdre au général cette mauvaise habitude ?</p>
         <p>– Allons ! voilà qu'on va recommencer la petite guerre ! Je suis un homme perdu ! De grâce, Madame, un peu d'indulgence, je vous le demande en souvenir de l'Albanie ! »</p>
         <p>Rosella sourit à l'allusion.</p>
-        <p>
-          « Dites-nous quelque chose de vos excursions, parlez
-          <hi>de visu</hi>
-          . La jeunesse, comme la vieillesse, aime les récits, et je suis sûr qu'Alice s'intéresse autant que moi aux aventures lointaines. N'est-ce pas, Alice ?
-        </p>
+        <p> « Dites-nous quelque chose de vos excursions, parlez <hi>de visu</hi> . La jeunesse, comme la vieillesse, aime les récits, et je suis sûr qu'Alice s'intéresse autant que moi aux aventures lointaines. N'est-ce pas, Alice ? </p>
         <p>– Oui, bon papa.</p>
-        <p>
-          -- Voyez-vous ? Je le savais bien.
-          <hi>Talis pater, talis filius.</hi>
+        <p> -- Voyez-vous ? Je le savais bien. <hi>Talis pater, talis filius.</hi>
         </p>
         <p>– Pourquoi ne pas dire cela en français ?</p>
         <p>– Excusez-moi. Vous avez fait un voyage magnifique ?</p>
         <p>– Délicieux !</p>
-        <p>
-          -- Qu'avez-vous parcouru ? L'Angleterre ? l'Espagne ? l'Italie ? Rome
-          <hi>intra muros et extra muros.</hi>
+        <p> -- Qu'avez-vous parcouru ? L'Angleterre ? l'Espagne ? l'Italie ? Rome <hi>intra muros et extra muros.</hi>
         </p>
         <p>– Rien de tout cela.</p>
         <p>– Alors la Chine ? puis le Japon ?</p>
         <p>– Non, j'ai passé mon temps fort agréablement aux eaux, où j'ai rencontré un monde fou !</p>
-        <p>
-          -- Je comprends le charme. Vous avez l'esprit jeune ; vous aimez le changement d'entourage, le mouvement. Ce que vous craignez c'est le
-          <hi>statu quo.</hi>
+        <p> -- Je comprends le charme. Vous avez l'esprit jeune ; vous aimez le changement d'entourage, le mouvement. Ce que vous craignez c'est le <hi>statu quo.</hi>
         </p>
         <p>– Du français ?</p>
-        <p>
-          -- Je veux dire qu'à la ville vous désirez la campagne
-          <hi>et vice versa</hi>
-          . Enfin, vous avez horreur de l'immobilité.
-        </p>
+        <p> -- Je veux dire qu'à la ville vous désirez la campagne <hi>et vice versa</hi> . Enfin, vous avez horreur de l'immobilité. </p>
         <p>– Pas tant que du latin. Je vous dirai que j'ai trouvé aux eaux un entrain, une gaieté !...</p>
         <p>– Quoi ! les malades étaient plaisants ?</p>
         <p>– Il s'agit bien de malades ! des gens charmants ! chantant, riant, dansant.</p>
-        <p>
-          -- Dansant ? voilà un moyen curatif ! du reste, les Romains faisaient grand cas des eaux thermales. Plus d'un riche patricien y trouvait, dans ses maux, un remède
-          <hi>ad hoc.</hi>
+        <p> -- Dansant ? voilà un moyen curatif ! du reste, les Romains faisaient grand cas des eaux thermales. Plus d'un riche patricien y trouvait, dans ses maux, un remède <hi>ad hoc.</hi>
         </p>
         <p>– Je ne sais ce que vos ennuyeux Romains y trouvaient ; je sais que je m'y suis fort amusée !</p>
         <p>– Pour quelle affection envoie-t-on là ? Peut-être pour une espèce de spleen, dans le genre de celui dont vous avez failli être victime à Kerniou ?</p>
@@ -1229,25 +1080,15 @@
         <p>– Définitivement.</p>
         <p>– Vous deviez sentir le besoin de reprendre le flot ?</p>
         <p>– Oui, vraiment. Il se passe tant de choses dans ce Paris pendant qu'on n'y est pas !</p>
-        <p>
-          -- Eh bien ?
-          <hi>quid novi ?</hi>
+        <p> -- Eh bien ? <hi>quid novi ?</hi>
         </p>
         <p>– Qu'est-ce que cela ?</p>
         <p>– Ah ! toujours cette mauvaise habitude ! je voulais dire quoi de nouveau ?</p>
         <p>– Les formes de nos chapeaux sont absolument changées. C'est désolant ! Il faudrait avoir douze chapeaux par an !</p>
-        <p>
-          -- 
-          <hi>Au minimum</hi>
-          . Madame, vous me permettrez de vous dire, avec tout le respect que je dois... à votre chapeau, que c'est tout simplement de la folie, que c'en est le
-          <hi>nec plus ultra.</hi>
+        <p> --  <hi>Au minimum</hi> . Madame, vous me permettrez de vous dire, avec tout le respect que je dois... à votre chapeau, que c'est tout simplement de la folie, que c'en est le <hi>nec plus ultra.</hi>
         </p>
         <p>– Quoi ? voulez-vous que je mette mon chapeau de l'année dernière ? Impossible ! j'aurais l'air d'une vieille !</p>
-        <p>
-          -- Je sais, Madame, de quelle importance est le chapeau dans la toilette d'une femme. C'est surtout du chapeau qu'on peut dire en tout temps : « 
-          <hi>Finis coronat opus.</hi>
-           »
-        </p>
+        <p> -- Je sais, Madame, de quelle importance est le chapeau dans la toilette d'une femme. C'est surtout du chapeau qu'on peut dire en tout temps : «  <hi>Finis coronat opus.</hi>  » </p>
         <p>– Je ne sais pas ce qu'on en a pu dire quand on parlait latin ; mais de nos jours, mon chapeau est un point capital. »</p>
         <p>Le tic nerveux si connu venait d'apparaître, le fameux clignement de l'œil gauche, indiquant que la mesure d'irritation était au comble ; ce que voyant Espérance, elle détourna sans effort la conversation, se mit en tiers, et rendit service à tout le monde.</p>
         <p>Au bout d'un instant, le tic nerveux disparut, et Rosella, revenant au sourire juvénile qu'elle avait parfois, dit en changeant absolument de ton :</p>
@@ -1268,9 +1109,7 @@
         <p>– Oui, beaucoup.</p>
         <p>– Je le sais, et j'ai plus d'une fois pensé que nous aurions le droit d'être jaloux.</p>
         <p>– Allons, allons, pas de susceptibilité, j'aime tous les gens aimables, et vous aussi, quand vous ne parlez pas latin. Mais je vois avec plaisir que depuis quelques instants vous vous en abstenez.</p>
-        <p>
-          -- Je crois bien ! avec vos regards sévères, pauvre malheureux que je suis, vous m'avez réduit
-          <hi>a quia !</hi>
+        <p> -- Je crois bien ! avec vos regards sévères, pauvre malheureux que je suis, vous m'avez réduit <hi>a quia !</hi>
         </p>
         <p>– Quel quia ? Chut ! chut ! écoutez donc mon histoire.</p>
         <p>– Ah ! voyons le gentilhomme suédois ? Parlait-il bien français au moins, celui-là ?</p>
@@ -1311,11 +1150,7 @@
         <p>– Vous avez la main heureuse ! Moi je ne vois guère dans le peuple que des menteurs et des coquins. Un tas de paresseux qui ont besoin de nous, et qui nous envient notre fortune. Au bout du compte, s'ils sont malheureux, ce n'est pas notre faute, et c'est nous qui sommes obligés de les secourir.</p>
         <p>– Que diable ! c'est tout clair, puisque c'est nous qui avons en main les capitaux.</p>
         <p>– Je ne trouve pas cela si clair. Toujours des quêtes pour Pierre et pour Paul ! Je déchire ces lettres de quête sans les lire. D'ailleurs, sait-on seulement où va l'argent qu'on nous soutire !</p>
-        <p>
-          -- On le sait, Madame. Il ne faut pas parler ainsi
-          <hi>ab hoc</hi>
-          et
-          <hi>ab hac.</hi>
+        <p> -- On le sait, Madame. Il ne faut pas parler ainsi <hi>ab hoc</hi> et <hi>ab hac.</hi>
         </p>
         <p>– Je parle français, me semble-t-il ?</p>
         <p>– Vous parlez français ; mais permettez-moi de vous le dire : vous ne connaissez pas les choses que vous jugez si légèrement.</p>
@@ -1360,19 +1195,16 @@
         <p>Le jeune serviteur aurait dû se sentir heureux de l'estime de ses maîtres, et pourtant il était de plus en plus triste, et il maigrissait. Depuis que Mme Dubreuil avait été placée à la tête de la lingerie, à Paris et à Kerniou, et que Marie était auprès de la marquise, Laurent semblait accablé d'un poids que bientôt il ne pourrait plus porter.</p>
       </div>
       <div type="chapter">
+
         <head>VIII -- Deux larmes.</head>
         <p>On continuait à vivre paisiblement à l'hôtel de la rue de Varenne, et Marie s'y trouvait heureuse, voyant le sort de sa bonne mère assuré par un travail proportionné à ses forces. Alice ayant appris que Marie conservait précieusement l'enveloppe jaunie contenant le billet de la marquise, se mit à songer au sort de chacune des enveloppes échappées au désastre, et se rappela qu'elle-même en avait conservé une. Un instant elle rêva à l'emploi qu'elle pourrait en faire, car c'était presque une relique d'un passé déjà lointain et elle voulait la consacrer à quelque mission du cœur. Il lui sembla que la plus délicate serait d'aller porter une joie de plus à sa mère et, se recueillant, dans le calme de ses souvenirs, elle écrivit :</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>« Ma chère maman,</p>
         <p>« J'ai cherché ce que je pourrais confier à la jolie enveloppe que vous m'avez donnée, quand j'avais sept ans, et désirant aujourd'hui fixer son sort, je ne trouve à lui confier qu'un mot, un cri, sortant de mon cœur pour aller dans le vôtre : Merci !... Oui, merci, car vous avez pris soin de m'élever vous-même, et vous avez dit que votre unique enfant a comblé en partie le vide laissé dans votre existence par la mort de mon père. Merci ! car vous m'avez fait aimer tout ce que vous aimez, Dieu, la famille, les pauvres. Merci, car s'il y a en moi quelque chose de bon, c'est vous qui l'y avez mis. Je vous ai causé bien des ennuis et des fatigues, et vous ne m'avez fait que du bien ! Bonne mère, je vous dis, je vous répète, du fond de mon âme : Merci !</p>
         <p>« Permettez-moi de vous embrasser avec la plus vive et la plus respectueuse tendresse.</p>
         <p>« ALICE. »</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
-        <p>
-          Elle mit ce billet dans la précieuse enveloppe, qui comptait onze ans de date ; elle écrivit pour souscription :
-          <hi>À maman</hi>
-          , et le tout fut déposé sur le petit bureau du boudoir.
-        </p>
+        <milestone type="subChapter" rend="space" unit="newline" />
+        <p> Elle mit ce billet dans la précieuse enveloppe, qui comptait onze ans de date ; elle écrivit pour souscription : <hi>À maman</hi> , et le tout fut déposé sur le petit bureau du boudoir. </p>
         <p>Espérance, une heure après, entra dans sa jolie solitude, y trouva la pensée de son enfant, et, le cœur plein des sentiments les plus doux, se dit que, au moyen de quelques enveloppes semblables, elle avait mieux connu son devoir. Le soir, elle montra au général la lettre d'Alice qu'elle avait réunie à celle de son père dans un des compartiments de son buvard. Là aussi se trouvaient les deux lettres de l'enfant pâle, dans leurs jolies enveloppes satinées.</p>
         <p>« Mais tu n'as pas ton compte ? dit le vieillard, Marie t'a écrit trois fois. »</p>
         <p>La marquise qui avait si bien gardé le secret de Laurent répondit :</p>
@@ -1398,35 +1230,23 @@
         <p>– On prétend que tisonner est le plaisir des vieux ; cela doit vous séduire, puisque vous vous trouvez vieux ?</p>
         <p>– Hélas ? je ne suis pas le seul de mon avis ! Personne ne me le dit, mais tout le monde le pense.</p>
         <p>– Donc, les tisons.</p>
-        <p>
-          -- Les tisons ? seulement les tisons ? Non, non, il me faut mon monde. En vieillissant, je deviens égoïste.
-          <hi>Primo mihi.</hi>
+        <p> -- Les tisons ? seulement les tisons ? Non, non, il me faut mon monde. En vieillissant, je deviens égoïste. <hi>Primo mihi.</hi>
         </p>
         <p>– Je vous ai entendu dire mainte fois pourtant qu'il faut se dévouer aux siens, s'oublier pour eux. C'est une fort belle théorie, mais je vois qu'en pratique vous faiblissez.</p>
         <p>– Je ne vous dis pas que j'aie raison ; je vous dis au contraire que j'ai tort.</p>
         <p>– Assurément. Vous devriez en cette circonstance vous unir à moi, pour décider Espérance à partir. Un si joli voyage ! fait ensemble ! quelle distraction !</p>
-        <p>
-          -- Madame, ce que vous dites est plein de sens ; je le reconnais, je me sens coupable ; mais que voulez-vous ?
-          <hi>Primo mihi.</hi>
+        <p> -- Madame, ce que vous dites est plein de sens ; je le reconnais, je me sens coupable ; mais que voulez-vous ? <hi>Primo mihi.</hi>
         </p>
         <p>– Du français, je vous en prie ? Voyez quelle inconséquence ? vous dites que vous vous reconnaissez coupable, et vous ne vous corrigez pas.</p>
         <p>– C'est pourquoi je deviens plus coupable encore. Vous voyez que je m'avoue vaincu ?</p>
         <p>– Général, trêve de plaisanterie. Il faut que je vous dise la vérité une bonne fois. Si Espérance n'a pas retrouvé, par mes soins assidus, tout l'entrain qu'elle doit avoir, c'est vous qui en êtes cause.</p>
-        <p>
-          -- Ah ! madame, vous m'accablez ! Ceci, c'est le
-          <hi>Vœ victis</hi>
-          du Brenn gaulois !
-        </p>
+        <p> -- Ah ! madame, vous m'accablez ! Ceci, c'est le <hi>Vœ victis</hi> du Brenn gaulois ! </p>
         <p>– Allons ! Bon ! voilà les Gaulois maintenant ! »</p>
         <p>Rosella, depuis l'imprudente exclamation d'Alice, avait été reprise de son tic nerveux. Ce latin et ces gaulois achevaient de la désespérer. Elle dit avec aigreur :</p>
         <p>« Enfin je n'insiste pas sur mon charmant projet de voyage en commun ; je n'en parlerai plus. D'ailleurs, si je me suis permis de faire cette proposition, c'est parce que, autrefois, vous m'avez vous-même confié Espérance. Vous en souvenez-vous ?</p>
         <p>– Ah Madame ! Je n'ai garde de l'oublier.</p>
         <p>– Oui, vous me l'avez confiée par une lettre, et non point par des paroles en l'air.</p>
-        <p>
-          -- Vous avez bien raison, madame...
-          <hi>Verba volant ; Scripta manent</hi>
-          . Hélas !
-        </p>
+        <p> -- Vous avez bien raison, madame... <hi>Verba volant ; Scripta manent</hi> . Hélas ! </p>
         <p>– Hélas ! Pourquoi hélas ? que signifie ce latin ? »</p>
         <p>Le général aurait donné beaucoup pour reprendre son interjection.</p>
         <p>« Madame, di-il, vous n'aimez pas qu'on traduise, ordinairement.</p>

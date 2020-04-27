@@ -27,6 +27,14 @@
         <p>à fournir</p>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Gallica (BnF)</publisher>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6484819g" />
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6483281f" />
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6483275q" />
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6479941x" />
+          <date>2014</date>
+        </bibl>
         <bibl type="printSource">
           <author>Claire de Chandeneux</author>
           <title>Les Ménages militaires</title>
@@ -34,14 +42,6 @@
           <publisher>E. Plon</publisher>
           <!-- Deuxième édition -->
           <date>1876-1878</date>
-        </bibl>
-        <bibl type="digitalSource">
-          <publisher>Gallica</publisher>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6484819g" />
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6483281f" />
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6483275q" />
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6479941x" />
-          <date>2014</date>
         </bibl>
         <bibl type="firstEdition">
           <date>1876</date>
