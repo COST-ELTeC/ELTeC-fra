@@ -32,11 +32,13 @@
         -->
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource"> Ebooks libres et gratuits,
-          <date /> ,
-          <idno /> , . </bibl>
-        <bibl type="firstEdition"> Dentu, <date>1868</date> ,
-          <idno /> , . </bibl>
+        <bibl type="digitalSource">
+          <publisher>Ebooks libres et gratuits</publisher>
+        </bibl>
+        <bibl type="firstEdition">
+          <publisher>Dentu</publisher>
+          <date>1868</date> ,
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">

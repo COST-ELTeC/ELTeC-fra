@@ -35,18 +35,19 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="printSource">
+          <bibl type="digitalSource">
+            <title>Le château de Pinon. VOL 1: Gallica edition</title>
+            <author>Comptesse Dash</author>
+            <publisher>Gallica (BnF)</publisher>
+            <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k54963878"/>
+            <date>2009</date>
+          </bibl>
           <title>Le château de Pinon I</title>
           <author>Competesse Dash</author>
           <publisher>Desessart 22, RUE DES GRANDS-AUGUSTINS</publisher>
           <pubPlace>Paris</pubPlace>
           <!-- Gallica entered wrong date. Original date for print source according to scan : 1843 -->
           <date>1844</date>
-        </bibl>
-        <bibl type="digitalSource">
-          <title>Le château de Pinon. VOL 1: Gallica edition</title>
-          <author>Comptesse Dash</author>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k54963878"/>
-          <date>2009-24-02</date>
         </bibl>
         <bibl type="firstEdition">
           <!-- best guess -->
