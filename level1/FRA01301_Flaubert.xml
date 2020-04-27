@@ -32,9 +32,11 @@
         -->
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>(unspecified)</publisher>
+        </bibl>
         <bibl type="printSource">
           <publisher>(unspecified)</publisher>
-          <date>source</date>
         </bibl>
         <bibl type="firstEdition">
           <date>1869</date>
