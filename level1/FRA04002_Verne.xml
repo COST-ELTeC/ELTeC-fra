@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA04002" xml:lang="fr">
   <teiHeader>
@@ -18,47 +18,59 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">55614</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
+          <ref target="http://beq.ebooksgratuits.com" />
           <date>2005</date>
-          ,
-          <idno/>
-          ,
-          <ref target="http://www.ebooksgratuits.com/"/>
-          .
-        </bibl><bibl type="printSource">
-          <date>source</date>
-          , texte écrit par Jules Verne en 1898, version modifiée par Michel Verne, publiée en 1910.
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="printSource">
+          <!-- Texte écrit par Jules Verne en 1898, version modifiée par Michel Verne, publiée en 1910. -->
+        </bibl>
+        <bibl type="firstEdition">
           <date>1898</date>
-          (version de 1910)
-        </bibl></sourceDesc>
+          <!-- (version de 1910) -->
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-06-02">Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="chapter">
+
         <head>I</head>
         <p>« ... Et arrive le plus tôt que tu pourras, mon cher Henri. Je t'attends avec impatience. D'ailleurs, le pays est magnifique, et cette région de la Basse Hongrie est de nature à intéresser un ingénieur. Ne serait-ce qu'à ce point de vue, tu ne regretteras pas ton voyage.</p>
         <p>« À toi de tout cœur,</p>
@@ -129,6 +141,7 @@
         <p>Là-dessus, et sans m'inquiéter autrement de cette information, je serrai cordialement la main du lieutenant de police, et je rentrai chez moi achever mes préparatifs de départ.</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>Je quittai Paris le 14 avril, à sept heures du matin, dans une berline attelée en poste. En une dizaine de jours, je serais arrivé dans la capitale de l'Autriche.</p>
         <p>Je glisserai rapidement sur cette première partie de mon voyage. Elle ne fut marquée d'aucun incident, et les contrées que je parcourais commencent à être trop connues pour mériter une description en règle.</p>
@@ -228,6 +241,7 @@
         <p>Et c'est bien ce que je fis, en effet, en me frayant avec peine un passage au milieu de la foule assourdissante qui encombrait l'appontement.</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p>Marc m'attendait, comme je l'avais pensé, au débarcadère et me tendait les bras. Nous nous serrâmes cœur contre cœur.</p>
         <p>« Henri... mon cher Henri ! répétait-il, la voix émue, les yeux humides, bien que toute sa physionomie exprimât le bonheur.</p>
@@ -339,6 +353,7 @@
         <p>Je me redressai tout à coup d'une secousse. Rêve ?... Cauchemar ?... Obsession ?... Les paroles que j'avais cru entendre à bord de la Dorothée, je crus les entendre encore dans mon demi-sommeil, ces paroles qui menaçaient Marc et Myra Roderich !</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
         <p>Le lendemain -- grand jour -- je rendis officiellement visite à la famille Roderich.</p>
         <p>L'habitation du docteur s'élève à l'extrémité du quai Batthyani, à l'angle du boulevard Tékéli, lequel, sous différents noms, fait le tour de la ville. C'est un hôtel moderne, d'une ornementation riche et sévère à l'intérieur, meublé avec un goût qui témoigne d'un sens artiste très affiné.</p>
@@ -397,6 +412,7 @@
         <p>Là-dessus, nous gagnâmes nos lits, sans qu'aucun nuage eût assombri cette heureuse et paisible journée.</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
         <p>Je commençai, dès le lendemain, à visiter Ragz en compagnie du capitaine Haralan. Pendant ce temps, Marc s'occupait de diverses démarches relatives à son mariage dont la date venait d'être fixée au 1er juin, soit dans une vingtaine de jours. Le capitaine Haralan tenait à me faire les honneurs de sa ville natale, à me la montrer dans tous ses détails. Je n'aurais pu trouver un guide plus consciencieux, plus érudit et d'une plus complète obligeance.</p>
         <p>Bien que le souvenir m'en revînt parfois avec une obstination qui ne laissait pas de m'étonner, je ne lui parlai point de ce Wilhelm Storitz dont j'avais dit un mot à mon frère. De son côté, il resta muet à cet égard. Il était donc probable qu'il n'en serait plus jamais question.</p>
@@ -497,6 +513,7 @@
         <p>– Oui... mon cher capitaine, et je n'ignore pas que je viens de voir Wilhelm Storitz, le fils d'Otto Storitz, l'illustre chimiste de Spremberg. »</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
         <p>Deux jours se passèrent, pendant lesquels je consacrai toutes mes heures libres à courir la ville. Je faisais aussi de longues stations sur le pont qui unit les deux rives du Danube à l'île Svendor, et ne me lassais pas d'admirer ce magnifique fleuve.</p>
         <p>Je l'avouerai, le nom de Wilhelm Storitz me revenait malgré moi fréquemment à l'esprit. C'était donc à Ragz qu'il demeurait d'habitude, et, ainsi que je l'appris bientôt, avec un seul serviteur connu sous le nom d'Hermann, ni plus sympathique, ni plus abordable, ni plus communicatif que son maître. Il me sembla même que cet Hermann rappelait par sa tournure et sa démarche l'homme qui, le jour de mon arrivée, avait paru nous suivre, mon frère et moi, tandis que nous longions le quai Batthyani.</p>
@@ -595,6 +612,7 @@
         <p>Cet attentat stupide fit marcher les langues quelques instants, puis on n'y pensa plus. Mais le docteur Roderich, capitaine Haralan et moi, lui accordâmes plus sérieuse attention. Nous ne mîmes pas un instant en doute que ce fût là le premier acte des hostilités annoncées, comme une escarmouche d'avant-garde, en quelque sorte, de la guerre que nous avait déclarée Wilhelm Storitz.</p>
       </div>
       <div type="chapter">
+
         <head>VII</head>
         <p>Cet acte inqualifiable, qui pouvait en être l'auteur, en effet, si ce n'est celui-là seul qui avait intérêt à le commettre ? Cette première attaque serait-elle suivie d'autres actes plus graves ? N'était-ce, comme nous le pensions, que le commencement des représailles contre la famille Roderich ?</p>
         <p>Le docteur Roderich fut informé de l'incident dès la première heure par son fils, qui vint aussitôt après à l'hôtel Temesvar.</p>
@@ -695,6 +713,7 @@
         <p>Le capitaine Haralan s'était évidemment trompé en accusant Wilhelm Storitz... Wilhelm Storitz n'avait pas quitté sa maison, puisque c'est lui-même qui nous ouvrait la porte, puisqu'il était en personne devant nous.</p>
       </div>
       <div type="chapter">
+
         <head>VIII</head>
         <p>Dès les premières heures du jour, le bruit des incidents dont l'hôtel Roderich venait d'être le théâtre se répandit par la ville. Tout d'abord, ainsi que je m'y attendais, le public ne voulut pas admettre que ces phénomènes fussent naturels. Cependant, ils l'étaient, ils ne pouvaient pas ne pas l'être. Quant à en donner une explication acceptable, c'était autre chose.</p>
         <p>Je n'ai pas besoin de dire que la soirée avait pris fin après la scène que j'ai racontée. Marc et Myra en avaient paru désolés. Ce bouquet de fiançailles piétiné, ce contrat déchiré, cette couronne nuptiale volée sous leurs yeux !... À la veille du mariage quel mauvais augure !</p>
@@ -789,6 +808,7 @@
         <p>Et tous deux, quittant la Maison de Ville, nous descendîmes vers le quai Batthyani.</p>
       </div>
       <div type="chapter">
+
         <head>IX</head>
         <p>La direction prise par M. Stepark le faisait passer par le nord de la ville, tandis que ses agents, deux à deux, traversaient les quartiers du centre. Le capitaine Haralan et moi, après avoir atteint l'extrémité de la rue Étienne-1er, nous suivîmes le quai le long du Danube.</p>
         <p>Le temps était couvert. Les nuages grisâtres et boursouflés chassaient rapidement de l'Est. Sous la fraîche brise, les embarcations donnaient une forte bande, en sillonnant les eaux jaunâtres du fleuve. Des couples de cigognes et de grues, faisant tête au vent, jetaient des cris aigus. Il ne pleuvait pas, mais les hautes vapeurs menaçaient de se résoudre en averses torrentielles.</p>
@@ -909,6 +929,7 @@
         <p>La couronne nuptiale enlevée pendant la soirée des fiançailles à l'hôtel Roderich.</p>
       </div>
       <div type="chapter">
+
         <head>X</head>
         <p>Ainsi, plus de doute sur l'intervention de Wilhelm Storitz. Nous étions en possession d'une preuve matérielle, et nous n'étions plus réduits à de simples présomptions. Que lui ou un autre fût le coupable, c'était, en tout cas, à son profit qu'avait été accompli ce vol bizarre, dont le mobile et l'explication nous échappaient d'ailleurs.</p>
         <p>« Doutez-vous toujours, mon cher Vidal ? » s'écria le capitaine Haralan, dont la voix tremblait de colère.</p>
@@ -971,6 +992,7 @@
         <p>Ces mesures étaient de nature à rassurer le docteur, sa famille, ses amis. Mais nous étions loin d'avoir pénétré les secrets de cette affaire, et plus loin encore d'imaginer les péripéties qu'elle nous réservait.</p>
       </div>
       <div type="chapter">
+
         <head>XI</head>
         <p>La date du mariage approchait. Bientôt, le soleil du 1er juin, date définitivement choisie, se lèverait sur l'horizon de Ragz.</p>
         <p>Je constatais, non sans une vive satisfaction, que Myra, si impressionnable qu'elle fût, semblait n'avoir pas gardé souvenir de ces inexplicables incidents. Il est vrai que le nom de Wilhelm Storitz n'avait jamais été prononcé ni devant elle, ni devant sa mère.</p>
@@ -1075,6 +1097,7 @@
         <p>Maintenant, que ce sorcier surfait le voulût ou non, Myra Roderich serait la femme de Marc Vidal, ou elle ne le serait de personne.</p>
       </div>
       <div type="chapter">
+
         <head>XII</head>
         <p>Nous étions au 1er juin. Cette date si impatiemment attendue, il avait semblé qu'elle n'arriverait jamais !</p>
         <p>Nous y étions enfin. Quelques heures encore, et la cérémonie du mariage allait s'accomplir à la cathédrale de Ragz.</p>
@@ -1133,6 +1156,7 @@
         <p>À cette malédiction qui semblait venir de l'au-delà, un souffle d'épouvante passa sur la foule. De toutes les poitrines, une sourde clameur jaillit, et Myra, qui se redressait, poussant un cri déchirant, retomba évanouie entre les bras de Marc terrifié.</p>
       </div>
       <div type="chapter">
+
         <head>XIII</head>
         <p>Les phénomènes auxquels nous avions assisté à la cathédrale de Ragz et ceux dont l'hôtel Roderich avait été le théâtre tendaient au même but. Leur origine était la même. C'est Wilhelm Storitz, lui seul, qui en était l'auteur. Admettre qu'ils fussent dus à quelque tour d'adresse ?... J'étais bien obligé de me répondre négativement. Non, ni le scandale de l'église, ni l'enlèvement de la couronne nuptiale ne pouvaient être attribués à un escamotage. J'en arrivais à supposer sérieusement que cet Allemand tenait de son père quelque secret scientifique, celui d'une découverte ignorée qui lui aurait donné le pouvoir de se rendre invisible... Pourquoi pas, après tout ?... Pourquoi certains rayons lumineux n'auraient-ils pas la propriété de traverser les corps opaques, comme si ces corps étaient translucides ?... Mais où allais-je m'égarer !... Billevesées que tout cela, billevesées dont je me gardai de rien dire à personne.</p>
         <p>Nous avions ramené Myra sans qu'elle eût repris connaissance. On la transporta dans sa chambre, on la déposa sur son lit, mais les soins qui lui furent prodigués ne réussirent pas à la ranimer. Elle restait inerte, insensible, malgré les efforts du docteur impuissant. Toutefois, elle respirait, elle vivait. J'en étais à me demander comment elle avait pu survivre à tant d'épreuves, comment cette dernière émotion ne l'avait pas tuée.</p>
@@ -1191,6 +1215,7 @@
         <p>Mais en vain visitèrent-ils cet étage de la tour et la galerie supérieure... Personne ! Personne !... Lorsque les agents étaient entrés dans la cage où les cloches muettes achevaient de se balancer, les invisibles sonneurs avaient déjà disparu.</p>
       </div>
       <div type="chapter">
+
         <head>XIV</head>
         <p>Ainsi donc, mes craintes se réalisaient. Wilhelm Storitz n'avait pas quitté Ragz et il était entré sans difficulté dans l'hôtel Roderich. Qu'il eût manqué son coup, soit ! Mais cela ne garantissait nullement l'avenir. Ce qu'il avait essayé vainement de faire une première fois, il essaierait de le refaire, et peut-être avec un meilleur succès. Il importait donc d'arrêter un plan de conduite qui nous garantît contre les attaques ultérieures de ce misérable.</p>
         <p>Il ne me fut pas très difficile d'imaginer ce plan de conduite. Je résolus tout d'abord de réunir les diverses personnes menacées à un titre quelconque et d'organiser un système de défense tel qu'il fût impossible à personne de les approcher. J'étudiai soigneusement les moyens d'atteindre cet idéal, et, dès qu'ils furent trouvés, je les mis sans tarder à exécution.</p>
@@ -1273,6 +1298,7 @@
         <p>Peut-être valait-il mieux, en somme, qu'elle fût détruite. Qui sait s'il ne s'ensuivrait pas une détente des esprits, si la population ragzienne n'en arriverait pas à croire que Wilhelm Storitz, tout invisible qu'il fût, avait péri dans les flammes ?</p>
       </div>
       <div type="chapter">
+
         <head>XV</head>
         <p>Après la destruction de la maison Storitz, il m'a semblé que la surexcitation de Ragz s'était quelque peu calmée. On se rassurait en ville. Ainsi que je l'avais supposé, un certain nombre d'habitants inclinaient à croire que le « sorcier » se trouvait réellement dans sa demeure au moment où elle était envahie par la foule, et qu'il avait péri au milieu des flammes.</p>
         <p>La vérité est qu'en fouillant les décombres, en remuant les cendres, on ne découvrit rien qui fût de nature à justifier cette opinion. Si Wilhelm Storitz avait assisté à l'incendie, c'était de quelque endroit où le feu ne pouvait l'atteindre.</p>
@@ -1365,6 +1391,7 @@
         <p>Frappés d'épouvante, ils s'arrêtèrent sur le seuil. Le lit était vide. Myra avait disparu !</p>
       </div>
       <div type="chapter">
+
         <head>XVI</head>
         <p>Myra disparue !...</p>
         <p>Lorsque ce cri retentit dans l'hôtel, il sembla qu'on n'en comprît pas d'abord la signification. Disparue ? Cela n'avait pas de sens. C'était invraisemblable.</p>
@@ -1478,6 +1505,7 @@
         <p>Mais il n'y a plus là qu'un cadavre, la figure convulsée, les yeux ouverts, le regard encore menaçant, le cadavre visible de l'étrange personnage qui fut Wilhelm Storitz !</p>
       </div>
       <div type="chapter">
+
         <head>XVII</head>
         <p>Ainsi périt tragiquement Wilhelm Storitz. Hélas ! sa mort survenait trop tard. Bien que la famille Roderich n'eût désormais plus rien à craindre, cette mort aggravait la situation plutôt qu'elle ne l'améliorait, puisqu'elle nous faisait perdre l'espoir de retrouver Myra.</p>
         <p>Accablé par la responsabilité qui pesait sur lui, le capitaine Haralan contemplait d'un air morne son ennemi abattu. Enfin, prenant son parti de ce malheur irréparable, il eut un geste de désespoir et s'éloigna à pas lents dans la direction de l'hôtel Roderich, afin de mettre les siens au courant de ces déplorables événements.</p>
@@ -1563,6 +1591,7 @@
         <p>Oui, cette scène, nous l'avons vue, ces paroles, nous les avons entendues. Et nous restions là, les yeux fixes, immobiles, retenant le souffle, terrifiés par cette pensée que celui-là seul qui aurait pu nous rendre Myra sous sa forme visible était mort en emportant son secret !</p>
       </div>
       <div type="chapter">
+
         <head>XVIII</head>
         <p>Cette situation, dont nous n'étions plus les maîtres, se terminerait-elle par un dénouement heureux ? Qui aurait pu le croire ? Comment ne pas se dire que Myra était à jamais rayée du monde visible ? Aussi, à cet immense bonheur de l'avoir retrouvée, se mêlait cette immense douleur qu'elle ne fût pas rendue à nos regards dans toute sa grâce et sa beauté.</p>
         <p>On imagine ce qu'allait être dans ces conditions l'existence de la famille Roderich.</p>
@@ -1615,6 +1644,7 @@
         <p>Entre la double haie de cette foule quelque peu craintive, les époux, leurs témoins, leurs amis se rendent à la sacristie. Là, sur les registres de la fabrique, à la signature de Marc Vidal vient se joindre un nom, celui de Myra Roderich, un nom tracé par une main qu'on ne peut voir, par une main qu'on ne verra jamais !</p>
       </div>
       <div type="chapter">
+
         <head>XIX</head>
         <p>Tel fut, ce jour-là, 2 juillet, le dénouement de l'histoire étrange qu'il m'a pris fantaisie de raconter. Je conçois qu'elle paraisse incroyable. Il ne faudrait, dans ce cas, en accuser que l'insuffisance de l'auteur. L'histoire n'est malheureusement que trop vraie, bien qu'elle soit unique dans les annales du passé, bien qu'elle doive, je l'espère fermement, rester unique dans les annales de l'avenir.</p>
         <p>Il va sans dire que mon frère et Myra avaient abandonné leurs projets d'autrefois. Il ne pouvait plus être question d'un voyage en France. Je prévoyais même que Marc ne ferait plus à Paris que de rares apparitions, et qu'il se fixerait définitivement à Ragz. Gros chagrin, pour moi, auquel je devais me résigner.</p>

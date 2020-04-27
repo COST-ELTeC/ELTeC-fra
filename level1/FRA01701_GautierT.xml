@@ -1,42 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"    schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"    schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"    schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA01701" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Militona : ELTeC edition</title>
         <author ref="viaf:96428598">Gautier, Théophile (1800-1872)</author>
-        <respStmt> <resp>encoded by</resp> <name>Pia Geißel</name>
+        <respStmt>
+          <resp>encoded by</resp>
+          <name>Pia Geißel</name>
         </respStmt>
-        <respStmt> <resp>Original data capture</resp> <name>Wikisource</name>
+        <respStmt>
+          <resp>Original data capture</resp>
+          <name>Wikisource</name>
         </respStmt>
       </titleStmt>
       <extent>
         <measure unit="words">40222</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- First ElTeC edition 2019-10-03
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource"> <title>Militona</title> <author>Théophile Gautier</author> <ref target="https://fr.wikisource.org/wiki/Militona"/> <date>2007-03-30</date>
-        </bibl><bibl type="printSource"> <title>Militona: troisième édition</title> <author>Théophile Gautier</author> <publisher>Hachette</publisher> <pubPlace>Paris</pubPlace> <date>1860</date>
-        </bibl><bibl type="firstEdition"> <!-- best guess. There may be some editions that were published in earlier volumes with other novels from this author. --> <date>1847</date>
-        </bibl></sourceDesc>
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!-- First ElTeC edition 2019-10-03
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <title>Militona</title>
+          <author>Théophile Gautier</author>
+          <publisher>Wikisource</publisher>
+          <ref target="https://fr.wikisource.org/wiki/Militona" />
+          <date>2007</date>
+        </bibl>
+        <bibl type="printSource">
+          <title>Militona: troisième édition</title>
+          <author>Théophile Gautier</author>
+          <publisher>Hachette</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1860</date>
+        </bibl>
+        <bibl type="firstEdition">
+          <!-- best guess. There may be some editions that were published in earlier volumes with other novels from this author. -->
+          <date>1847</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-10-03">File created</change>
       <change when="2019-10-19">Upgrade to ELTeC-1</change>
     </revisionDesc>
@@ -58,8 +88,10 @@
         <p>Droit de traduction réservé</p>
       </div>
     </front>
+
     <body>
       <div type="chapter">
+
         <head>I</head>
         <p> Un lundi du mois de juin de 184., dia de toros, comme on dit en Espagne, un jeune homme de bonne mine, mais qui paraissait d'assez mauvaise humeur, se dirigeait vers une maison de la rue San-Bernardo, dans la très-noble et très-héroïque cité de Madrid.</p>
         <p> D'une des fenêtres de cette maison s'échappait un clapotis de piano qui augmenta d'une manière sensible le mécontentement peint sur les traits du jeune homme : il s'arrêta devant la porte comme hésitant à entrer ; mais cependant il prit une détermination violente, et, surmontant sa répugnance, il souleva le marteau, au fracas duquel répondit dans l'escalier le bruit des pas lourds et gauchement empressés du gallego qui venait ouvrir.</p>
@@ -139,6 +171,7 @@
         <p> Le hasard, par une galanterie de bon goût, avait distribué les numéros des stalles de façon que don Andrès se trouvât assis précisément à côté de la jeune manola.</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p> Pendant que le public envahissait tumultueusement la place, et que le vaste entonnoir des gradins se noircissait d'une foule de plus en plus compacte, les toreros arrivaient les uns après les autres par une porte de derrière dans l'endroit qui leur sert de foyer, et où ils attendent l'heure de la funcion.</p>
         <p> C'est une grande salle blanchie à la chaux, d'un aspect triste et nu. Quelques petites bougies y font trembloter leurs étoiles d'un jaune fade devant une image enfumée de Notre-Dame suspendue à la muraille ; car, ainsi que tous les gens exposés par état à des périls de mort, les toreros sont dévots, ou tout tout au moins superstitieux ; chacun possède une amulette, à laquelle il a pleine confiance ; certains présages les abattent ou les enhardissent ; ils savent, disent-ils, les courses qui leur seront funestes. Un cierge offert et brûlé à propos peut cependant corriger le sort et prévenir le péril. Il y en avait bien, ce jour-là, une douzaine d'allumés, ce qui prouvait la justesse de la remarque de don Andrès sur la force et la férocité des taureaux de Gaviria qu'il avait vus la veille à l'Arroyo, et dont il décrivait avec tant d'enthousiasme les qualités à sa fiancée Feliciana, médiocre appréciatrice de semblables mérites.</p>
@@ -231,6 +264,7 @@
         <p> « Bon, se dit Andrès, qui vit d'une allée du Prado où il était déjà parvenu, passer le calesin à toute vitesse avec le muchacho hissé par derrière, je saurai ce soir l'adresse de cette charmante créature, et que le duo de Bellini me soit léger ! »</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p> Le jeune garçon devait venir rendre compte de sa mission à don Andrès, qui l'attendait en fumant un cigare dans une allée du Prado, aux environs du monument élevé aux victimes du 2 mai.</p>
         <p> Tout en poussant devant lui les bouffées de tabac qui se dissipaient en bleuâtres spirales, Andrès faisait son examen de conscience, et ne pouvait guère s'empêcher de reconnaître qu'il était sinon amoureux, du moins très vivement préoccupé de la belle manola. Quand même la beauté de la jeune fille n'eût pas suffi pour mettre en feu le cœur le moins inflammable, l'espèce de mystère que semblait annoncer son effroi quand Andrès lui avait adressé la parole après l'accident arrivé à Juancho, ne pouvait manquer de piquer la curiosité de tout jeune homme un peu aventureux : à vingt-cinq ans, sans être don Quichotte de la Manche, l'on est toujours prêt à défendre les princesses que l'on suppose opprimées.</p>
@@ -298,6 +332,7 @@
         <p> « Cavalier, dit l'enfant, elle demeure dans la rue del Povar, la troisième maison à droite. Je l'ai vue tantôt à sa fenêtre, qui prenait la jarre à rafraîchir l'eau. »</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
         <p> « Ce n'est pas le tout de connaître le nid de la colombe, se dit don Andrès en s'éveillant après un sommeil que l'image de Militona avait traversé plus d'une fois de sa gracieuse apparition, il faut encore arriver jusqu'à elle. Comment s'y prendre ? Je ne vois guère d'autre moyen que de m'aller établir en croisière devant sa maison, et d'observer les tenants et les aboutissants. Mais si je vais dans ce quartier, habillé comme je suis, c'est-à-dire comme la dernière gravure de mode de Paris, j'attirerai l'attention, et cela me gênerait dans mes opérations de reconnaissance. Dans un temps donné, elle doit sortir ou rentrer ; car je ne suppose pas qu'elle ait sa chambrette approvisionnée pour six mois de dragées et de noisettes ; je l'accosterai au passage avec quelque phrase galamment tournée, et je verrai bien si elle est aussi farouche à la conversation qu'elle l'était à la place des Taureaux. Allons au Rastro acheter de quoi nous transformer de fashionable en manolo ; ainsi déguisé, je n'éveillerai les soupçons d'aucun jaloux et d'aucun frère féroce, et je pourrai, sans faire semblant de rien, prendre des informations sur ma belle. »</p>
         <p> Ce projet arrêté, Andrès se leva, avala à la hâte une tasse de chocolat à l'eau, et se dirigea vers le Rastro, qui est comme le Temple de Madrid, l'endroit où l'on trouve tout, excepté une chose neuve. Il se sentait tout heureux et tout gai ; l'idée que la jeune fille ne pouvait pas l'aimer ou en aimer un autre ne lui était pas venue : il avait cette confiance qui trompe rarement, car elle est comme la divination de la sympathie ; l'ancien esprit d'aventure espagnol se réveillait en lui. Ce travestissement l'amusait, et, quoique l'infante à conquérir ne fût qu'une manola, il se promettait du plaisir à se promener sous sa fenêtre en manteau couleur de muraille ; le danger que l'effroi de la jeune fille faisait pressentir ôtait à cette conquête ce qu'elle pouvait avoir de vulgaire.</p>
@@ -346,7 +381,55 @@
         <p> La rue était tout à fait déserte, et Andrès se retirait à pas lents, lorsque l'apparition d'un homme enveloppé dans un manteau, sous lequel le manche d'une guitare dessinait un angle aigu, éveilla sa curiosité et le fit se blottir dans un coin obscur.</p>
         <p> L'homme rejeta les pans de son manteau sur ses épaules, ramena sa guitare par devant, et commença à tirer des cordes ce bourdonnement rythmé qui sert de basse et d'accompagnement aux mélodies des sérénades et des séguidilles.</p>
         <p> Il était évident que ces préludes bruyants avaient pour but d'éveiller la belle en l'honneur de qui ce bruit se commettait ; et, comme la fenêtre de Militona restait fermée, l'homme réduit à se contenter d'un auditoire invisible, malgré ce dicton espagnol qui prétend qu'il n'est pas de femme si bien endormie à qui le frémissement d'une guitare ne fasse mettre le nez à la fenêtre, après deux hum ! hum ! profondément sonores, commença à chanter les couplets suivants avec un fort accent andalou :</p>
-        <quote> <l>Enfant aux airs d'impératrice,</l> <l>Colombe au regard de faucon,</l> <l>Tu me hais, mais c'est mon caprice</l> <l>De me planter sous ton balcon.</l> <l>Là, je veux, le pied sur la borne,</l> <l>Pinçant les nerfs, tapant le bois,</l> <l>Faire luire à ton carreau morne</l> <l>Ta lampe et ton front à la fois.</l> <l>Je défends à toute guitare</l> <l>De bourdonner aux alentours.</l> <l>Ta rue est à moi. Je la barre</l> <l>Pour y chercher seul mes amours.</l> <l>Et je coupe les deux oreilles</l> <l>Au premier racleur de jambon</l> <l>Qui devant la chambre où tu veilles</l> <l>Braille un couplet mauvais ou bon.</l> <l>Dans sa gaine mon couteau bouge ;</l> <l>Allons ! qui veut de l'incarnat ?</l> <l>A son jabot qui veut du rouge</l> <l>Pour faire un bouton de grenat ?</l> <l>Le sang dans les veines s'ennuie,</l> <l>Car il est fait pour se montrer ;</l> <l>Le temps est noir, gare la pluie !</l> <l>Poltrons, hâtez-vous de rentrer.</l> <l>Sortez, vaillants, sortez, bravaches,</l> <l>L'avant-bras couvert du manteau.</l> <l>Que sur vos faces de gavaches</l> <l>J'écrive des croix au couteau !</l> <l>Qu'ils s'avancent ! Seuls ou par bande,</l> <l>De pied ferme je les attends.</l> <l>À ta gloire il faut que je fende</l> <l>Les naseaux de ces capitans.</l> <l>Au ruisseau qui gêne ta marche</l> <l>Et pourrait salir tes pieds blancs,</l> <l>Corps du Christ ! je veux faire une arche</l> <l>Avec les côtes des galants.</l> <l>Pour te prouver combien je t'aime,</l> <l>Dis, je tuerai qui tu voudras ;</l> <l>J'attaquerai Satan lui-même,</l> <l>Si pour linceul j'ai tes deux draps.</l> <l>Porte sourde ! Fenêtre aveugle !</l> <l>Tu dois pourtant ouïr ma voix ;</l> <l>Comme un taureau blessé je beugle,</l> <l>Des chiens excitant les abois !</l> <l>Au moins plante un clou dans ta porte :</l> <l>Un clou pour accrocher mon cœur.</l> <l>A quoi sert que je le remporte</l> <l>Fou de rage, mort de langueur ?</l>
+        <quote>
+          <l>Enfant aux airs d'impératrice,</l>
+          <l>Colombe au regard de faucon,</l>
+          <l>Tu me hais, mais c'est mon caprice</l>
+          <l>De me planter sous ton balcon.</l>
+          <l>Là, je veux, le pied sur la borne,</l>
+          <l>Pinçant les nerfs, tapant le bois,</l>
+          <l>Faire luire à ton carreau morne</l>
+          <l>Ta lampe et ton front à la fois.</l>
+          <l>Je défends à toute guitare</l>
+          <l>De bourdonner aux alentours.</l>
+          <l>Ta rue est à moi. Je la barre</l>
+          <l>Pour y chercher seul mes amours.</l>
+          <l>Et je coupe les deux oreilles</l>
+          <l>Au premier racleur de jambon</l>
+          <l>Qui devant la chambre où tu veilles</l>
+          <l>Braille un couplet mauvais ou bon.</l>
+          <l>Dans sa gaine mon couteau bouge ;</l>
+          <l>Allons ! qui veut de l'incarnat ?</l>
+          <l>A son jabot qui veut du rouge</l>
+          <l>Pour faire un bouton de grenat ?</l>
+          <l>Le sang dans les veines s'ennuie,</l>
+          <l>Car il est fait pour se montrer ;</l>
+          <l>Le temps est noir, gare la pluie !</l>
+          <l>Poltrons, hâtez-vous de rentrer.</l>
+          <l>Sortez, vaillants, sortez, bravaches,</l>
+          <l>L'avant-bras couvert du manteau.</l>
+          <l>Que sur vos faces de gavaches</l>
+          <l>J'écrive des croix au couteau !</l>
+          <l>Qu'ils s'avancent ! Seuls ou par bande,</l>
+          <l>De pied ferme je les attends.</l>
+          <l>À ta gloire il faut que je fende</l>
+          <l>Les naseaux de ces capitans.</l>
+          <l>Au ruisseau qui gêne ta marche</l>
+          <l>Et pourrait salir tes pieds blancs,</l>
+          <l>Corps du Christ ! je veux faire une arche</l>
+          <l>Avec les côtes des galants.</l>
+          <l>Pour te prouver combien je t'aime,</l>
+          <l>Dis, je tuerai qui tu voudras ;</l>
+          <l>J'attaquerai Satan lui-même,</l>
+          <l>Si pour linceul j'ai tes deux draps.</l>
+          <l>Porte sourde ! Fenêtre aveugle !</l>
+          <l>Tu dois pourtant ouïr ma voix ;</l>
+          <l>Comme un taureau blessé je beugle,</l>
+          <l>Des chiens excitant les abois !</l>
+          <l>Au moins plante un clou dans ta porte :</l>
+          <l>Un clou pour accrocher mon cœur.</l>
+          <l>A quoi sert que je le remporte</l>
+          <l>Fou de rage, mort de langueur ?</l>
         </quote>
         <p> « Peste, quelle poésie farouche ! pensa Andrès, voilà de petits couplets qui ne pèchent pas par la fadeur. Voyons si Militona, car c'est en son honneur qu'a lieu ce tapage nocturne, est sensible à ces vers élégiaques, composés par Matamore, don Spavento, Fracasse ou Tranchemontagne. C'est probablement là le terrible galant qui lui inspire tant de peur. On s'effrayerait à moins. »</p>
         <p> Don Andrès, ayant un peu avancé la tête hors de l'ombre où il s'abritait, fut atteint par un rayon de lune et dénoncé aux regards vigilants de Juancho.</p>
@@ -368,6 +451,7 @@
         <p> Andrès tomba à la renverse, et sa chute fit ouvrir la porte mal fermée de la maison de Militona, devant laquelle avait lieu la bataille. Juancho s'éloigna d'un pas tranquille. Le sereno qui passait au bout de la rue cria : « Rien de nouveau, onze heures et demie, temps étoilé et serein. »</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
         <p> Juancho s'était éloigné, à la voix du garde de nuit, sans s'assurer si Andrès était mort ou seulement blessé : il croyait l'avoir tué, tant il était sûr de ce coup pour ainsi dire infaillible. La lutte avait été loyale, et il ne se sentait aucun remords : le sombre plaisir d'être débarrassé de son rival dominait chez lui toute autre considération.</p>
         <p> L'anxiété de Militona pendant cette lutte, dont le bruit sourd l'avait attirée à la fenêtre, ne saurait se peindre : elle voulait crier, mais sa langue s'attachait à son palais, la terreur lui serrait la gorge de sa main de fer ; chancelante, éperdue, à demi folle, elle descendit l'escalier au hasard, ou plutôt elle se laissa glisser sur la rampe comme un corps inerte. Elle arriva juste au moment où Andrès tombait et repoussait par sa chute le battant mal clos de la porte.</p>
@@ -415,6 +499,7 @@
         <p>« M. Andrès de Salcedo n'a pas paru chez lui depuis hier. »</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
         <p> Le lendemain se passa sans apporter de nouvelles d'Andrès. On alla chez tous ses amis. Personne ne l'avait vu depuis deux jours.</p>
         <p> Cela commençait à devenir étrange. On supposa quelque voyage subit pour affaire d'importance. Les domestiques, interrogés par don Geronimo, répondirent que leur jeune maître était sorti l'avant-veille, à six heures du soir, après avoir dîné comme à l'ordinaire, sans avoir fait aucun préparatif, ni rien dit qui pût faire soupçonner un départ. Il était habillé d'une redingote noire, d'un gilet jaune de piqué anglais, et d'un pantalon blanc, comme pour aller au Prado.</p>
@@ -511,6 +596,7 @@
         <p> Prenant une résolution suprême, il entra dans la maison et commença à gravir l'escalier d'un pas lourd et plus sinistrement sonore que celui de la statue du commandeur.</p>
       </div>
       <div type="chapter">
+
         <head>VII</head>
         <p> Arrivé au palier du premier étage, Juancho, chancelant, éperdu, s'arrêta et demeura comme pétrifié ; il avait peur de lui-même et des choses terribles qui allaient se passer. Cent mille idées lui traversèrent la tête en une minute. Se contenterait-il de trépigner son rival et de lui faire rendre ce qui lui restait de son souffle abhorré ? Tuerait-il Militona ou mettrait-il le feu à la maison ? Il flottait dans un océan de projets horribles, insensés, tumultueux. Pendant un court éclair de raison, il fut sur le point de descendre, et avait même déjà fait une demi-conversion de corps ; mais la jalousie lui enfonça de nouveau son épine empoisonnée dans le cœur, et il recommença à gravir la rude échelle.</p>
         <p> Certes, il eût été difficile de trouver une nature plus robuste que celle de Juancho : un col rond comme une colonne et fort comme une tour, rattachait sa tête puissante à ses épaules athlétiques ; des nerfs d'acier s'entrecroisaient sur ses bras invincibles ; sa poitrine eût défié les pectoraux de marbre des gladiateurs antiques ; d'une main il aurait arraché la corne d'un taureau ; et pourtant la violence de la douleur morale brisait toute cette force physique. La sueur baignait ses tempes, ses jambes se dérobaient sous lui, le sang montait à sa tête par folles vagues, et il lui passait des flammes dans les yeux. A plusieurs reprises il fut obligé de s'accrocher à la rampe pour ne pas tomber et rouler comme un corps inerte à travers l'escalier, tant il souffrait atrocement de l'âme.</p>
@@ -568,6 +654,7 @@
         <p>— Volontiers, ma fille, répondit le bonhomme ; j'allais te le proposer. »</p>
       </div>
       <div type="chapter">
+
         <head>VIII</head>
         <p> Grâce à la force de sa constitution et aux bons soins de Militona, Andrès fut bientôt en voie de guérison : il put parler et s'asseoir un peu sur son séant ; le sentiment de sa situation lui revint : elle était assez embarrassante.</p>
         <p> Il présumait bien que sa disparition devait avoir jeté Feliciana, don Geronimo et ses autres amis dans une inquiétude qu'il se reprochait de ne pas faire cesser ; et pourtant il ne se souciait guère de faire savoir à sa novia qu'il était dans la chambre d'une jolie fille, pour le compte de laquelle il avait reçu un coup de navaja. Cette confession était difficile, et cependant il était impossible de ne pas la faire.</p>
@@ -624,6 +711,7 @@
         <p>« Tiens, Feliciana, une lettre de ton fiancé. »</p>
       </div>
       <div type="chapter">
+
         <head>IX</head>
         <p> Feliciana prit d'un air assez dédaigneux le papier que lui tendait son père, fit la remarque qu'il n'était nullement glacé et dit :</p>
         <p> « Une lettre sans enveloppe et fermée avec un pain à cacheter ! Quelle faute de savoir-vivre ! mais il faut pardonner quelque chose à la rigueur de la situation. Pauvre Andrès ! quoi ! pas même un cahier de papier à lettres Victoria ! pas même un bâton de cire d'Alcroft Regents'-quadrant ! Qu'il doit être malheureux ! A-t-on idée d'une feuille de chou pareille, sir Edwards ? ajouta-t-elle en passant, après l'avoir lue, la lettre au jeune gentleman du Prado, fort assidu dans la maison depuis l'absence d'Andrès.</p>
@@ -725,6 +813,7 @@
         <p> Le jour baissait, les jolis nuages roses du couchant pommelaient le ciel. Dans le lointain l'on entendait bourdonner les guitares, ronfler les panderos sous les pouces des danseuses, frissonner les plaques de cuivre des tambours de basque, et babiller les castagnettes. Les aye ! et les ola ! des couplets de fandango jaillissaient par bouffées harmonieuses du coin des rues et des carrefours, et tous ces bruits joyeux et nationaux formaient comme un vague épithalame au bonheur des deux amants. La nuit était venue tout à fait, et la tête de Militona reposait toujours sur l'épaule d'Andrès.</p>
       </div>
       <div type="chapter">
+
         <head>X</head>
         <p> Nous avons un peu perdu de vue notre ami Juancho. Il serait convenable d'aller à sa recherche, car il était sorti de la chambre de Militona dans un état d'exaspération qui touchait à la démence. En grommelant des malédictions et en faisant des gestes insensés, il avait gagné, sans savoir où il allait, la porte de Hierro, et ses pieds l'avaient mené au hasard à travers la campagne.</p>
         <p> Les environs de Madrid sont arides et désolés, une couleur terreuse revêt les murailles des misérables constructions clairsemées le long des routes, et qui servent à ces industries suspectes et malsaines que les grandes villes rejettent hors de leur sein. Ces terrains décharnés sont constellés de pierres bleuâtres qui grossissent à mesure qu'on approche du pied de la Sierra de Guadarrama, dont les cimes, neigeuses encore au commencement de l'été, apparaissaient à l'horizon comme de petits nuages blancs pelotonnés. À peine voit-on çà et là quelque trace de végétation. Les torrents desséchés rayent le sol d'affreuses cicatrices ; les pentes et les collines n'offrent aucune verdure et forment un paysage en harmonie avec tous les sentiments tristes. La gaieté s'y éteindrait, mais au moins le désespoir ne s'y sent raillé par rien.</p>
@@ -797,6 +886,7 @@
         <p> En sortant de l'église, tout le monde disait de Feliciana : « Quelle belle robe ! » et de Militona : « Quelle charmante personne ! »</p>
       </div>
       <div type="chapter">
+
         <head>XI</head>
         <p> Non loin de l'ancien couvent de Santo-Domingo, dans le quartier de l'Antequerula de Grenade, sur le penchant de la colline, s'élevait une maison d'une blancheur étincelante, qui brillait comme un bloc d'argent entre le vert foncé des arbres qui l'entouraient.</p>
         <p> Par-dessus les murailles du jardin débordaient, comme d'une urne trop pleine, de folles guirlandes de vigne et de plantes grimpantes qui retombaient en larges nappes du côté de la rue.</p>

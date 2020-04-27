@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02502" xml:lang="fr">
   <teiHeader>
@@ -18,38 +18,48 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">57949</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Ebooks libres et gratuits</publisher>
           <date>2003</date>
-          ,
-          <idno/>
-          ,
-          <ref target="http://www.ebooksgratuits.com/"/>
-          .
-        </bibl><bibl type="printSource">
-          <date>source</date>
-        </bibl><bibl type="firstEdition">
+          <ref target="http://www.ebooksgratuits.com/" />
+        </bibl>
+        <bibl type="printSource">
+        </bibl>
+        <bibl type="firstEdition">
           <date>1897</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-06-02">Initial TEI version.</change>
     </revisionDesc>
@@ -65,10 +75,13 @@
         <p>Ascain (Basses-Pyrenées), Novembre 1896.</p>
       </div>
     </front>
+
     <body>
       <div type="group">
+
         <head>PREMIÈRE PARTIE</head>
         <div type="chapter">
+
           <head>I</head>
           <p>Les tristes courlis, annonciateurs de l'automne, venaient d'apparaître en masse dans une bourrasque grise, fuyant la haute mer sous la menace des tourmentes prochaines. A l'embouchure des rivières méridionales, de l'Adour, de la Nivelle, de la Bidassoa qui longe l'Espagne, ils erraient au-dessus des eaux déjà froidies, volant bas, rasant de leurs ailes le miroir des surfaces. Et leurs cris, à la tombée de la nuit d'octobre, semblaient sonner la demi-mort annuelle des plantes épuisées.</p>
           <p>Sur les campagnes pyrénéennes, toutes de broussailles ou de grands bois, les mélancolies des soirs pluvieux d'arrière-saison descendaient lentement, enveloppantes comme des suaires, tandis que Ramuntcho (1) cheminait par le sentier de mousse, sans bruit, chaussé de semelles de cordes, souple et silencieux dans sa marche de montagnard.</p>
@@ -121,6 +134,7 @@
           <p>Franchita, avant de les laisser partir, appuya encore la tête un peu longuement contre le cou de son fils ; puis, elle accompagna les deux hommes jusqu'au seuil de sa porte, ouverte sur le noir immense, -- et récita pieusement le Pater pour eux, tandis qu'ils s'éloignaient dans l'épaisse nuit, dans la pluie, dans le chaos des montagnes, vers la ténébreuse frontière...</p>
         </div>
         <div type="chapter">
+
           <head>II</head>
           <p>Quelques heures plus tard, à la pointe incertaine de l'aube, à l'instant où s'éveillent les bergers et les pêcheurs.</p>
           <p>Ils s'en revenaient joyeusement, les contrebandiers, leur entreprise terminée.</p>
@@ -135,6 +149,7 @@
           <p>Il adorait sa terre basque, Ramuntcho, -- et ce matin-là était une des fois où cet amour entrait plus profondément en lui-même. Dans la suite de son existence, pendant les exils, le souvenir de ces retours délicieux à l'aube, après les nuits de contrebande, devait lui causer d'indéfinissables et très angoissantes nostalgies Mais son amour pour le sol héréditaire n'était pas aussi simple que celui de ses compagnons d'aventure. Comme à tous ses sentiments, comme à toutes ses sensations, il s'y mêlait des éléments très divers. D'abord l'attachement instinctif et non analysé des ancêtres maternels au terroir natal, puis quelque chose de plus raffiné provenant de son père, un reflet inconscient de cette admiration d'artiste qui avait retenu ici l'étranger pendant quelques saisons et lui avait donné le caprice de s'allier avec une fille de ces montagnes pour en obtenir une descendance basque...</p>
         </div>
         <div type="chapter">
+
           <head>III</head>
           <p>Onze heures maintenant, les cloches de France et d'Espagne sonnant à toute volée et mêlant par-dessus la frontière leurs vibrations des religieuses fêtes.</p>
           <p>Baigné, reposé et en toilette, Ramuntcho se rendait avec sa mère à la grand-messe de la Toussaint. Par le chemin jonché de feuilles rousses, ils descendaient tous deux vers leur paroisse, sous un chaud soleil qui donnait l'illusion de l'été.</p>
@@ -150,6 +165,7 @@
           <p>Faire les mêmes choses que depuis des âges sans nombre ont faites les ancêtres, et redire aveuglément les mêmes paroles de foi, est une suprême sagesse, une suprême force. Pour tous ces croyants qui chantaient là, il se dégageait de ce cérémonial immuable de la messe une sorte de paix, une confuse mais douce résignation aux anéantissements prochains. Vivants de l'heure présente, ils perdaient un peu de leur personnalité éphémère pour se rattacher mieux aux morts couchés sous les dalles et les continuer plus exactement, ne former, avec eux et leur descendance encore à venir, qu'un de ces ensembles résistants et de durée presque indéfinie qu'on appelle une race.</p>
         </div>
         <div type="chapter">
+
           <head>IV</head>
           <p>« Ite missa est ! » La grand-messe est terminée et l'antique église se vide. Dehors, dans le préau, parmi les tombes, les assistants se répandent. Et toute la joie d'un midi ensoleillé les accueille, au sortir de la nef sombre où ils avaient plus ou moins entrevu, chacun suivant ses facultés naïves, le grand mystère et l'inévitable mort.</p>
           <p>Recoiffés tous de l'uniforme béret national, les hommes descendent par l'escalier extérieur ; les femmes, plus lentes à se reprendre au leurre du ciel bleu, gardant encore sous leur voile de deuil un peu du rêve de l'église, sortent en groupes tout noirs par les portiques d'en bas ; autour d'une fosse fraîchement fermée, quelques-unes s'attardent et pleurent.</p>
@@ -236,6 +252,7 @@
           <p>Ils savent bien, ces gens si ardents tout à l'heure aux humbles plaisirs de la journée que dans les villes il y a d'autres fêtes plus brillantes, plus belles et moins vite finies ; mais ceci, c'est quelque chose d'à part ; c'est la fête du pays, de leur propre pays, et rien ne leur remplace ces furtifs instants, auxquels, tant de jours à l'avance, ils avaient songé... Des fiancés, des amoureux, qui vont repartir, chacun de son côté, vers les maisons, éparses au flanc des Pyrénées, des couples, qui demain reprendront leur vie monotone et rude, se regardent avant de se séparer, se regardent au soir qui tombe, avec des yeux de regret qui disent : « Alors, c'est déjà fini ? Alors, c'est tout ?... »</p>
         </div>
         <div type="chapter">
+
           <head>V</head>
           <p>Huit heures du soir. Ils ont dîné à la cidrerie, tous les joueurs, sauf le vicaire, sous le patronage d'Itchoua ; ils ont flâné longuement ensuite, alanguis dans la fumée des cigarettes de contrebande et écoutant les improvisations merveilleuses des deux frères Iragola, de la montagne de Mendiazpi -- tandis que dehors, dans la rue, les filles, par petits groupes se donnant le bras, venaient regarder aux fenêtres, s'amuser à suivre, sur les vitres enfumées, les ombres rondes de toutes ces têtes d'hommes coiffés de bérets pareils...</p>
           <p>Maintenant, sur la place, l'orchestre de cuivre joue les premières mesures du fandango, et les jeunes garçons, les jeunes filles, tous ceux du village et quelques-uns aussi de la montagne qui sont restés pour danser, accourent par bandes impatientes. Il y en a qui dansent déjà dans le chemin, pour ne rien perdre, qui arrivent en dansant.</p>
@@ -271,6 +288,7 @@
           <p>Et, jusqu'au couvre-feu sonné à l'église, ce petit bal sous les branches d'automne, ces petites lanternes, cette petite fête dans ce recoin fermé du monde, jetèrent un peu de lumière et de bruit joyeux au milieu de la vaste nuit, que faisaient plus sourde et plus noire les montagnes dressées partout comme des géants d'ombre.</p>
         </div>
         <div type="chapter">
+
           <head>VI</head>
           <p>Il s'agit d'une grande partie de paume pour dimanche prochain, à l'occasion de la Saint-Damase, au bourg d'Hasparitz.</p>
           <p>Arrochkoa et Ramuntcho, compagnons de continuelles courses à travers le pays d'alentour, cheminent le jour entier, dans la petite voiture des Detcharry, pour organiser cette partie-là, qui représente à leurs yeux un événement considérable.</p>
@@ -292,6 +310,7 @@
           <p>Et la tristesse de Raymond est dissipée comme un peu de poussière sur laquelle on a soufflé. Il trouve le souper délicieux, l'auberge gaie. Il se sent bien plus le fiancé de Gracieuse, à présent que quelqu'un est dans la confidence, et quelqu'un de la famille qui ne le repousse pas. Il avait cru pressentir qu'Arrochkoa ne lui serait pas hostile, mais ce concours si nettement offert dépasse de beaucoup ses espoirs. -- Pauvre petit abandonné, si conscient de l'humilité de sa situation, que l'appui d'un autre enfant, un peu mieux établi dans la vie, suffit à lui rendre courage et confiance !...</p>
         </div>
         <div type="chapter">
+
           <head>VII</head>
           <p>A l'aube incertaine et un peu glacée, il s'éveilla dans sa chambrette d'auberge, avec une impression persistante de sa joie d'hier, au lieu de ces confuses angoisses qui, si souvent, accompagnaient chez lui le retour progressif des pensées. Dehors, on entendait des sonnailles de troupeaux partant pour les pâturages, des vaches qui beuglaient au jour levant, des cloches d'églises, -- et déjà, contre le mur de la grande place, les coups secs de la pelote basque : tous les bruits d'un village pyrénéen qui recommence sa vie coutumière pour un jour nouveau. Et cela semblait à Raymond une aubade de fête.</p>
           <p>De bonne heure ils remontèrent, Arrochkoa et lui, dans leur petite voiture, et, enfonçant leurs bérets pour le vent de la course, partirent au galop de leur cheval, sur les routes un peu saupoudrées de gelée blanche.</p>
@@ -319,6 +338,7 @@
           <p>Alors, on entendit sonner leurs deux rires, qui, en des intonations différentes, avaient la même fraîcheur et la même jeunesse. Ramuntcho, d'un geste de brusquerie et de grâce qui lui était familier, changea sa veste d'épaule, tira son béret de côté, et, sans autre adieu qu'un petit signe de tête, ils se séparèrent, parce que Dolorès arrivait là-bas au bout du chemin.</p>
         </div>
         <div type="chapter">
+
           <head>VIII</head>
           <p>Minuit, une nuit d'hiver noire comme l'enfer, par grand vent et pluie fouettante. Au bord de la Bidassoa, au milieu d'une étendue confuse au sol traître qui éveille des idées de chaos, parmi des vases où leurs pieds s'enfoncent, des hommes charrient des caisses sur leurs épaules et, entrant dans l'eau jusqu'à mi-jambe, viennent tous les jeter dans une longue chose, plus noire que la nuit, qui doit être une barque, -- une barque suspecte et sans fanal, amarrée près de la berge.</p>
           <p>C'est encore la bande d'Itchoua, qui cette fois va opérer par la rivière. On a dormi quelques moments, tout habillés, dans la maison d'un receleur qui habite près de l'eau, et, à l'heure voulue, Itchoua, qui ne ferme jamais qu'un seul de ses yeux, a secoué son monde ; puis, on est sorti à pas de loup, dans les ténèbres, sous l'ondée froide propice aux contrebandes.</p>
@@ -355,6 +375,7 @@
           <p>Et puis, il a senti ce soir une fois de plus combien était incertain et changeant son seul appui au monde, l'appui de cet Arrochkoa sur qui il aurait pourtant besoin de pouvoir compter comme sur un frère ; ses audaces et ses succès au jeu de paume le lui rendront sans doute, mais une défaillance, un rien, peut à tout moment le lui faire perdre. Alors il lui semble que l'espoir de sa vie n'a plus de base, que tout s'évanouit comme une inconsistante chimère.</p>
         </div>
         <div type="chapter">
+
           <head>IX</head>
           <p>C'était le soir de la Saint-Sylvestre.</p>
           <p>Toute la journée, s'était maintenu ce ciel sombre qui est si souvent le ciel du pays basque -- et qui va bien d'ailleurs avec les âpres montagnes, avec la mer bruissante et mauvaise, en bas, au fond du golfe de Biscaye.</p>
@@ -381,6 +402,7 @@
           <p>Et Ramuntcho, oubliant l'Uruguay et l'oncle mystérieux, redevint enfant, dans son plaisir de les suivre et de chanter avec eux le long des chemins obscurs, ravi surtout de penser qu'on entrerait chez les Detcharry et qu'il reverrait un instant Gracieuse.</p>
         </div>
         <div type="chapter">
+
           <head>X</head>
           <p>Le changeant mois de mars était arrivé, et avec lui l'enivrement du printemps, joyeux pour les jeunes, mélancolique pour ceux qui déclinent.</p>
           <p>Et Gracieuse avait recommencé de s'asseoir, au crépuscule des jours déjà allongés, sur le banc de pierre devant sa porte.</p>
@@ -394,6 +416,7 @@
           <p>Elle s'attardait toujours davantage à cette place qu'elle aimait, sous l'abri du laurier-rose près de fleurir, et, quelquefois même, sortait sans bruit par la fenêtre, comme une petite sournoise, pour venir là respirer longuement, après que sa mère était couchée. Or, Ramuntcho le savait, et, chaque soir, la pensée de ce banc troublait son sommeil.</p>
         </div>
         <div type="chapter">
+
           <head>XI</head>
           <p>Un clair matin d'avril, ils cheminaient tous deux vers l'église, Gracieuse et Raymond. Elle, d'un air demi-grave, demi-moqueur, d'un petit air particulier et très drôle, le menant là pour lui faire faire une pénitence qu'elle lui avait commandée.</p>
           <p>Dans le saint enclos, les parterres des tombes refleurissaient, comme aussi les rosiers des murailles. Une fois de plus les sèves nouvelles s'éveillaient, au-dessus du long sommeil des morts. Ils entrèrent ensemble, par la porte d'en bas, dans l'église vide, où la vieille benoîte en mantille noire était seule, époussetant les autels.</p>
@@ -415,6 +438,7 @@
           <p>« Mais oui, bien sûr !... Demain et tous les soirs !... Tous les soirs où nous n'aurons pas de travail pour l'Espagne..., je viendrai... »</p>
         </div>
         <div type="chapter">
+
           <head>XII</head>
           <p>Le logis de Raymond était, dans la maison de sa mère et juste au-dessus de l'étable, une chambre très nettement badigeonnée à la chaux ; il avait là son lit, toujours propre et blanc, mais où la contrebande lui laissait maintenant peu d'heures pour dormir. Des livres de voyages ou de cosmographie, que lui prêtait le curé de sa paroisse, posaient sur sa table, -- inattendus dans cette demeure. Les portraits encadrés de différents saints ornaient les murailles, et plusieurs gants de joueur de pelote pendaient aux poutres du plafond, -- de ces longs gants d'osier et de cuir, qui semblent plutôt des engins de chasse ou de pêche.</p>
           <p>Franchita, à son retour au pays, avait racheté cette maison, qui était celle de ses parents défunts, avec une partie de la somme donnée par l'étranger à la naissance de son fils. Elle avait placé le reste ; puis elle travaillait à faire des robes ou à repasser du linge pour les personnes d'Etchézar, et louait, à des fermiers d'une terre environnante, deux chambres d'en bas, avec l'étable où ceux-ci mettaient leurs vaches et leurs brebis.</p>
@@ -424,6 +448,7 @@
           <p>Les réveils de Ramuntcho s'imprégnaient, à cette fenêtre, de paix et d'humble sérénité. D'ailleurs, ils étalent pleins de joie, ses réveils de fiancé, depuis qu'il avait l'assurance de retrouver le soir Gracieuse au rendez-vous promis. Les vagues inquiétudes, les tristesses indéfinies, qui accompagnaient en lui jadis le retour quotidien des pensées, avaient fui pour un temps, chassées par le souvenir et l'attente de ces rendez-vous-là ; sa vie en était toute changée ; sitôt que ses yeux se rouvraient, il avait l'impression d'un mystère et d'un enchantement immense, l'enveloppant au milieu de ces verdures et de ces fleurs d'avril. Et cette paix printanière, ainsi revue chaque matin, lui semblait toutes les fois une chose nouvelle, très différente de ce qu'elle avait été les autres années, infiniment douce à son cœur et voluptueuse à sa chair, ayant des dessous insondables et ravissants...</p>
         </div>
         <div type="chapter">
+
           <head>XIII</head>
           <p>On est au soir de Pâques, après que se sont tues les cloches des villages, après qu'ont fini de se mêler dans l'air tant de saintes vibrations, venues d'Espagne et de France...</p>
           <p>Assis au bord de la Bidassoa, Raymond et Florentino guettent l'arrivée d'une barque. Un grand silence à présent, et les cloches dorment. Le crépuscule attiédi s'est prolongé beaucoup et, rien qu'en respirant, on sent l'été venir.</p>
@@ -438,6 +463,7 @@
           <p>Alors, pour aller chercher ce phosphore prohibé, ils prennent leurs longs bâtons de pêche et entrent tous deux silencieusement dans l'eau...</p>
         </div>
         <div type="chapter">
+
           <head>XIV</head>
           <p>Il y avait une grande partie de paume arrangée pour dimanche prochain à Erribiague, un village très éloigné, du côté des hautes montagnes. Ramuntcho, Arrochkoa et Florentino y joueraient contre trois célèbres d'Espagne ; ils devaient ce soir s'exercer, se délier les bras sur la place d'Etchézar, et Gracieuse, avec quelques autres petites filles de son âge, était venue s'asseoir sur les bancs de granit, pour les regarder faire. Jolies, toutes ; des airs élégants, avec leurs corsages de couleurs pâles, taillés d'après les plus récentes fantaisies de la saison. Et elles riaient, ces petites, elles riaient ! Elles riaient parce qu'elles avaient commencé de rire et sans savoir de quoi. Un rien, un demi-mot de leur vieille langue basque, dit sans le moindre à-propos par l'une d'elles, et les voilà toutes pâmées... Ce pays est vraiment un des coins du monde où le rire des filles éclate le mieux, sonnant le cristal clair, sonnant la jeunesse et les gorges fraîches.</p>
           <p>Arrochkoa était là depuis longtemps, le gant d'osier au bras, lançant seul la pelote, que, de temps à autre, des enfants lui ramassaient. Mais Raymond, Florentino, à quoi donc pensaient-ils ? Comme ils étaient en retard !...</p>
@@ -453,6 +479,7 @@
           <p>Oh ! qui dira pourquoi il y a sur terre des soirs de printemps, et de si jolis yeux à regarder, et des sourires de jeunes filles, et des bouffées de parfums que les jardins vous envoient quand les nuits d'avril tombent, et tout cet enjôlement délicieux de la vie, puisque c'est pour aboutir ironiquement aux séparations, aux décrépitudes et à la mort...</p>
         </div>
         <div type="chapter">
+
           <head>XV</head>
           <p>Le lendemain vendredi, le départ s'organise pour ce village où la fête aura lieu le dimanche suivant. Il est situé très loin, dans une ombreuse région, au tournant d'une gorge profonde, au pied de très hautes cimes. Arrochkoa y est né et y a passé les premiers mois de sa vie, au temps où son père habitait là comme brigadier des douanes françaises ; mais il en est parti trop enfant pour en garder le moindre souvenir.</p>
           <p>Dans la petite voiture des Detcharry, Gracieuse, Pantchika et, un long fouet à la main, Mme Dargaignararz, sa mère, qui doit conduire, partent ensemble à l'angélus de midi, pour se rendre directement là-bas par les routes de montagne.</p>
@@ -479,6 +506,7 @@
           <p>Sur ce, l'hôtesse étant venue avertir qu'il est l'heure d'éteindre la lampe, -- la dernière lampe encore allumée dans le village, -- ils s'en vont, les vieux fraudeurs. Raymond et Arrochkoa montent dans leurs chambres, se couchent et s'endorment, toujours au chant des grillons, toujours au bruit des eaux fraîches qui courent ou qui tombent. Et Ramuntcho, comme dans sa maison d'Etchézar, perçoit vaguement pendant son sommeil des tintements de clochettes, au cou des vaches qui s'agitent en rêve, au-dessous de lui, dans l'étable.</p>
         </div>
         <div type="chapter">
+
           <head>XVI</head>
           <p>Maintenant ils ouvrent, au beau matin d'avril, les volets de leurs étroites fenêtres, percées comme des sabords dans l'épaisseur de la très vieille muraille.</p>
           <p>Et tout à coup, c'est de la lumière à flots, dont leurs yeux s'éblouissent. Dehors, le printemps resplendit. Jamais encore ils n'avaient vu, surplombant leur tête, des cimes tellement hautes et proches. Mais le long des pentes feuillues, le long des montagnes garnies d'arbres, le soleil descend pour rayonner dans ce fond de vallée sur les blancheurs du village, sur la chaux des maisonnettes anciennes, aux contrevents verts.</p>
@@ -514,6 +542,7 @@
           <p>Alors il recommence, éperdu tout à fait, et, dans cet air languide et chaud, ils se donnent, pour la première fois de leur vie, les longs baisers des amants...</p>
         </div>
         <div type="chapter">
+
           <head>XVII</head>
           <p>Le lendemain dimanche, ils étaient allés religieusement, tous ensemble, entendre une des messes du clair matin, pour pouvoir rentrer à Etchézar le jour même, aussitôt après la grande partie de paume. Or, c'était ce retour, plus encore que le jeu, qui intéressait Gracieuse et Raymond, car, suivant leur espérance, Pantchika et sa mère resteraient à Erribiague, et eux s'en iraient, serrés l'un contre l'autre, dans la très petite voiture des Detcharry, sous la surveillance indulgente et légère d'Arrochkoa : cinq ou six heures de voyage, tous trois seuls, par les routes de printemps, sous les verdures nouvelles, avec des haltes amusantes dans des villages inconnus.</p>
           <p>Dès 11 heures du matin, ce beau dimanche, les abords de la place s'encombrèrent de montagnards, descendus de tous les sommets, accourus de tous les sauvages hameaux d'alentour. C'était une partie internationale, trois joueurs de France contre trois d'Espagne, et, dans l'assistance, les Basques espagnols dominaient ; on y voyait même quelques larges sombreros, des vestes et des guêtres du vieux temps.</p>
@@ -540,6 +569,7 @@
           <p>Quant à Ramuntcho, lui, à l'approche de ce tiède crépuscule, il songeait surtout au rendez-vous du soir, au baiser qu'il oserait recommencer, pareil à celui d'hier, en reprenant la lèvre de Gracieuse entre ses lèvres à lui, comme une cerise...</p>
         </div>
         <div type="chapter">
+
           <head>XVIII</head>
           <p>Mai ! l'herbe monte, monte de partout comme un tapis somptueux, Comme du velours à longue soie spontanément émané de la terre.</p>
           <p>Pour arroser cette région des Basques, qui tout l'été demeure humide et verte comme une sorte de Bretagne plus chaude, les vapeurs errantes sur la mer de Biscaye s'assemblent toutes dans ce fond de golfe, s'arrêtent aux cimes pyrénéennes et se fondent en pluies. De longues averses tombent, qui sont décevantes un peu, mais après lesquelles la terre sent les fleurs et le foin nouveau.</p>
@@ -566,6 +596,7 @@
           <p>C'était pour lui une joie de plus, que de savoir sa maison acceptée par Gracieuse, d'être sûr qu'elle viendrait apporter le rayonnement de sa présence dans ce vieux logis aimé, et qu'ils feraient là leur nid pour la vie...</p>
         </div>
         <div type="chapter">
+
           <head>XIX</head>
           <p>Voici venir les longs crépuscules pâles de juin, un peu voilés comme ceux de mai, moins incertains cependant et plus tièdes encore. Dans les jardins, les lauriers-roses de pleine terre, qui commencent de fleurir à profusion, deviennent des gerbes magnifiquement rosées. A la fin de chaque journée de labeur, les bonnes gens s'asseyent dehors devant les portes, pour regarder la nuit tomber, -- la nuit qui bientôt embrume et confond, sous les voûtes de platanes, leurs groupes assemblés pour de bienfaisants repos. Et de tranquilles mélancolies descendent sur les villages, pendant ces interminables soirs...</p>
           <p>Pour Ramuntcho, c'est l'époque où la contrebande devient un métier presque sans peine, avec des heures charmantes : marcher vers les sommets, à travers les nuages printaniers ; franchir des ravins, errer dans des régions de sources et de figuiers sauvages ; dormir, pour attendre l'heure convenue avec les carabiniers complices, sur des tapis de menthes et d'œillets... La bonne senteur des plantes imprégnait ses habits, sa veste jamais mise qui ne lui servait que d'oreiller ou de couverture ; -- et Gracieuse quelquefois lui disait le soir : « Je sais la contrebande que vous avez faite la nuit dernière, car tu sens les menthes de la montagne au-dessus de Mendiazpi », -- ou bien : « Tu sens les absinthes du marais de Subernoa ».</p>
@@ -576,6 +607,7 @@
           <p>D'ailleurs, si l'enivrement qu'ils se donnaient ainsi était bien un peu trop charnel, il y avait entre eux cette tendresse absolue, infinie, unique, par laquelle toutes choses sont élevées et purifiées.</p>
         </div>
         <div type="chapter">
+
           <head>XX</head>
           <p>Ramuntcho, ce soir-là, était venu au rendez-vous plus tôt que de coutume, -- avec plus d'hésitation aussi dans sa marche et son escalade, car l'on risque, par ces soirs de juin, de trouver des filles attardées le long des chemins, ou bien des garçons, derrière les haies, en maraude d'amour.</p>
           <p>Et, par hasard, elle était déjà seule en bas, regardant au-dehors, sans cependant l'attendre.</p>
@@ -608,6 +640,7 @@
           <p>Fini, leur entretien grave ! Fini jusqu'à quand ? Jusqu'à demain ou jusqu'à toujours ?... Sur leurs adieux, brusques ou prolongés, épouvantés ou paisibles, chaque fois, chaque nuit, pesait la même incertitude de se revoir...</p>
         </div>
         <div type="chapter">
+
           <head>XXI</head>
           <p>La cloche d'Etchézar, la même chère vieille cloche, celle des tranquilles couvre-feu, celle des fêtes et celle des agonies, sonnait joyeusement, au beau soleil de juin. Le village était tendu partout de draps blancs, de broderies blanches, et la procession de la Fête-Dieu défilait très lente, sur une verte jonchée de fenouils et de roseaux coupés dans les marais d'en bas.</p>
           <p>Les montagnes paraissaient proches et sombres, un peu farouches avec leurs tons bruns et leurs tons fauves, au-dessus de cette blanche théorie de petites filles cheminant sur un tapis de feuilles et d'herbes fauchées.</p>
@@ -616,6 +649,7 @@
           <p>Gracieuse, en tenant haut la bannière de la Vierge, devenait à cette heure une petite illuminée ; elle se croyait en marche, comme après la mort, vers les célestes tabernacles. Et quand, par instants, le souvenir des lèvres de Raymond traversait son rêve, elle avait l'impression, au milieu de tout ce blanc, d'une souillure cuisante, bien que délicieuse. Vraiment, à mesure que ses pensées de jour en jour s'élevaient, ce qui la ramenait sans cesse vers lui, c'était moins les sens, susceptibles chez elle d'être domptés, que de plus en plus la tendresse, la vraie, la profonde, celle qui résiste au temps et aux déceptions de la chair. Et cette tendresse-là, d'ailleurs, s'augmentait encore de ce que Raymond était moins fortuné qu'elle-même et plus abandonné dans la vie, n'ayant pas eu de père...</p>
         </div>
         <div type="chapter">
+
           <head>XXII</head>
           <p>« Eh bien, Gatchutcha, tu lui en as enfin parlé, à ta maman, de l'oncle Ignacio ? » demandait Raymond, très tard, le même soir, dans l'allée du jardin, sous des rayons de lune.</p>
           <p>« Pas encore, non, je n'ai pas osé... C'est que, vois-tu, comment lui expliquer que je sais toutes ces choses, moi, puisque je suis censée ne plus causer avec toi jamais, et qu'elle m'en a fait défense ?... Songe un peu, si j'allais lui donner soupçon !... Après, ce serait fini, nous ne pourrions plus nous voir ! J'aimerais mieux remettre à plus tard, à quand tu auras quitté le pays, car alors tout me sera égal...</p>
@@ -625,6 +659,7 @@
           <p>Cette séparation de trois années, ils la contemplaient d'ailleurs avec une confiance absolue dans l'avenir, tant ils se croyaient sûrs l'un de l'autre, et d'eux-mêmes, et de leur impérissable amour. Mais c'était cependant une attente qui déjà leur serrait le cœur étrangement ; cela jetait une mélancolie imprévue sur les choses même les plus indifférentes d'ordinaire, sur la fuite des journées, sur les moindres indices de la saison prochaine, sur l'éclosion de certaines plantes, sur l'épanouissement de certaines espèces de fleurs, sur tout ce qui présageait l'arrivée et la marche si rapide de leur dernier été.</p>
         </div>
         <div type="chapter">
+
           <head>XXIII</head>
           <p>Déjà les feux de la Saint-Jean ont flambé, joyeux et rouges dans une claire nuit bleue, -- et la montagne espagnole, là-bas, semblait ce soir-là brûler comme une gerbe de paille, tant il y en avait de ces feux de joie, allumés sur ses flancs. La voici donc commencée, la saison de lumière, de chaleur et d'orage, vers la fin de laquelle Raymond doit partir.</p>
           <p>Et les sèves, qui au printemps montaient si vite, déjà s'alanguissent dans le développement complet des verdures, dans l'épanouissement large des fleurs. Et le soleil, toujours plus brûlant, surchauffe toutes les têtes, de bérets coiffées, exalte les ardeurs et les passions, fait lever partout, dans ces villages basques, des ferments d'agitation bruyante et de plaisir. Tandis qu'en Espagne commencent les grandes courses sanglantes, c'est ici l'époque de tant de fêtes, de tant de parties de paume, de tant de fandangos dansés le soir, de tant d'alanguissements d'amoureux dans la tiède volupté des nuits !</p>
@@ -637,6 +672,7 @@
           <p>Il s'énervait dangereusement, Raymond, à ces contacts prolongés qu'elle ne défendait pas. D'ailleurs, il la devinait assez abandonnée à lui maintenant, et confiante, pour tout permettre ; mais il ne voulait pas tenter d'aller jusqu'à la communion suprême, par pudeur d'enfant, par respect de fiancé, par excès et par profondeur d'amour. Et il lui arrivait par fois de se lever brusquement pour se détendre, -- à la manière d'un chat qui s'étire, disait-elle comme jadis à Erribiague, -- quand il se voyait pris d'un tremblement dangereux et d'une plus impérieuse tentation de se fondre en elle, pour une minute d'ineffable mort...</p>
         </div>
         <div type="chapter">
+
           <head>XXIV</head>
           <p>Cependant Franchita s'étonnait de l'attitude inexpliquée de son fils, qui, semblait-il, ne voyait plus jamais Gracieuse et qui pourtant n'en parlait même pas. Alors, tandis que s'amassait en elle-même la tristesse de ce départ si prochain pour le service militaire, elle observait, avec son mutisme et sa patience de paysanne.</p>
           <p>Un soir donc, un des derniers soirs, comme il partait, mystérieux et empressé, bien avant l'heure de la contrebande nocturne elle se dressa devant lui, le regard dans le sien : « Où vas-tu, mon fils ? »</p>
@@ -651,6 +687,7 @@
           <p>Alors, devant cette jeune volonté en révolte, la mère, enfermant en elle-même le tumulte de ses pensées contradictoires, baissa la tête et, sans un mot, s'écarta pour le laisser passer.</p>
         </div>
         <div type="chapter">
+
           <head>XXV</head>
           <p>C'était leur dernier soir, car avant-hier, à la mairie de Saint-Jean-de-Luz, il avait, d'une main un peu tremblante, signé son engagement de trois années pour le 2e d'infanterie de marine, qui tient garnison dans un port militaire du Nord.</p>
           <p>C'était leur dernier soir, -- et ils s'étaient dit qu'ils le prolongeraient plus que de coutume, -- jusqu'à minuit, avait décidé Gracieuse : minuit, qui est dans les villages une heure indue et noire, une heure après laquelle, on ne sait pourquoi, tout semblait à la petite fiancée plus grave et plus coupable.</p>
@@ -665,6 +702,7 @@
           <p>A minuit, elle voulut qu'il partît, ainsi qu'elle l'avait décidé d'avance dans sa petite tète réfléchie et obstinée. Donc, après s'être embrassés longuement, ils se quittèrent, comme si la séparation était, à cette minute précise, une chose inéludable et impossible à retarder. Et tandis qu'elle rentrait dans sa chambre, avec tout à coup des sanglots qui vinrent jusqu'à lui, il enjamba le mur et, au sortir de l'obscurité des feuillages, se trouva sur la route déserte, toute blanche de rayons lunaires. A cette première séparation, il souffrait moins qu'elle, parce que c'était lui qui partait, lui qu'attendaient les lendemains remplis d'inconnu. En s'en allant sur ce chemin poudreux et clair, il était comme insensibilisé par le puissant charme des changements, des voyages ; presque sans aucune pensée suivie ni précise, il regardait marcher devant lui son ombre que la lune faisait nette et dure. Et la grande Gizune dominait impassiblement les choses, de son air froid et spectral dans tout ce rayonnement blanc de minuit.</p>
         </div>
         <div type="chapter">
+
           <head>XXVI</head>
           <p>Le jour du départ. Des adieux à des amis, çà et là ; des souhaits joyeux d'anciens soldats revenus du régiment. Depuis le matin, une sorte de griserie ou de fièvre, et, en avant de lui, tout l'imprévu de la vie.</p>
           <p>Arrochkoa, très gentil ce dernier jour, s'était offert avec instances pour le conduire avec sa voiture à Saint-Jean-de-Luz et avait combiné qu'on partirait au déclin du soleil, de façon à arriver là-bas juste au passage du train de nuit.</p>
@@ -681,6 +719,7 @@
           <p>Maintenant ils s'éloignaient l'un de l'autre, Franchita et son fils. En sens inverse, ils cheminaient sur cette route d'Etchézar, -- à la splendeur du soleil couchant, dans une région de bruyères roses et de fougères jaunies. Elle remontait : lentement vers son logis, rencontrant quelques groupes isolés de laboureurs, quelques troupeaux menés travers le soir d'or par de petits pâtres en bérets. -- Et lui descendait toujours, et très vite, par des vallées bientôt obscures, vers le bas pays où le chemin de fer passe...</p>
         </div>
         <div type="chapter">
+
           <head>XXVII</head>
           <p>Au crépuscule donc, elle s'en revenait, Franchita, de conduire son fils, et s'efforçait de reprendre sa figure habituelle, son air de hautaine indifférence, pour traverser le village.</p>
           <p>Mais, arrivée devant la maison Detcharry, elle vit Dolorès qui, près de rentrer chez elle, se retournait et se campait sur sa porte pour la regarder passer. Il fallait bien quelque chose de nouveau, quelque révélation subite, pour qu'elle prît cette attitude de défi agressif, cette expression de provocante ironie, -- et Franchita alors s'arrêta, elle aussi, tandis que cette phrase presque involontaire jaillissait entre ses dents serrées :</p>
@@ -705,8 +744,10 @@
         </div>
       </div>
       <div type="group">
+
         <head>DEUXIÈME PARTIE</head>
         <div type="chapter">
+
           <head>I</head>
           <p>Trois ans ont passé, rapides.</p>
           <p>Franchita est seule chez elle, malade et couchée, au déclin d'un jour de novembre. -- Et c'est le troisième automne, depuis le départ de son fils.</p>
@@ -719,6 +760,7 @@
           <p>Donc, maintenant, pour attendre le retour de ce fils, elle était là, étendue sur son lit, et brûlante d'une grande fièvre.</p>
         </div>
         <div type="chapter">
+
           <head>II</head>
           <p>Il revenait, lui, Raymond, après ses trois années d'absence, congédié de l'armée dans cette ville du Nord où son régiment tenait garnison. Il revenait le cœur en désarroi, le cœur en tumulte et en détresse.</p>
           <p>Son visage de vingt-deux ans avait bruni sous les ardents soleils ; sa moustache, maintenant très longue, lui donnait un air de noblesse fière. Et, sur le parement du costume civil qu'il venait d'acheter, s'étalait le ruban glorieux de sa médaille.</p>
@@ -777,6 +819,7 @@
           <p>Sa phrase s'achève en un gémissement et elle joint les mains pour essayer d'une prière...</p>
         </div>
         <div type="chapter">
+
           <head>III</head>
           <p>Raymond, le lendemain matin, errait dans le village et aux abords, sous un soleil qui avait percé les nuages de la nuit, encore radieux comme le soleil d'hier. Soigné dans sa toilette, la moustache bien retroussée, l'allure fière, élégant, grave et beau, il allait au hasard, pour voir et pour être vu, un peu d'enfantillage se mêlant à son sérieux, un peu de bien-être à sa détresse. Sa mère lui avait dit au réveil :</p>
           <p>« Je suis mieux, je t'assure. C'est dimanche aujourd'hui ; va, promène-toi, je t'en supplie... »</p>
@@ -819,6 +862,7 @@
           <p>C'est que, depuis quelques minutes, son départ pour les Amériques vient de beaucoup reculer dans son esprit... Non !..., demeurer au pays plutôt, reprendre la vie d'autrefois, réfléchir et obstinément attendre. Du reste, à présent qu'il sait où elle est, ce village d'Amezqueta, à cinq ou six heures d'ici, le hante d'une façon dangereuse, et il caresse toute sorte de projets sacrilèges, que, jusqu'à ce jour, il aurait à peine osé concevoir.</p>
         </div>
         <div type="chapter">
+
           <head>IV</head>
           <p>A midi, il remonta vers sa maison isolée pour retrouver sa mère.</p>
           <p>Le mieux fébrile et un peu artificiel du matin s'était continué. Gardée par la vieille Doyamburu, elle lui affirma qu'elle se sentait guérir, et, dans sa crainte de le voir inoccupé et songeur, le fit redescendre vers la place pour assister à la partie de pelote du dimanche.</p>
@@ -841,6 +885,7 @@
           <p>Et, quand il eut allumé dans la chambre, loin d'elle, une lampe discrète, elle lui parut plus changée qu'hier par la fièvre ; la possibilité se présenta, plus affreuse, à son esprit, de la perdre, d'être seul, de ne plus jamais, jamais sentir sur la joue la caresse de cette tète appuyée... En outre, pour la première fois elle lui parut vieille, et, au souvenir de tant de déceptions qu'elle avait eues à cause de lui, il sentit surtout une pitié pour elle, une pitié tendre et infinie, devant ses rides qu'il n'avait pas encore vues, devant ses cheveux blancs encore nouveaux à ses tempes. Oh ! une pitié désolée et sans aucune espérance, avec la conviction que c'était trop tard à présent pour arranger mieux la vie... Et quelque chose de douloureux, qui était sans résistance possible, commença de secouer sa poitrine, contracta son jeune visage ; les objets devinrent troubles à sa vue, et, dans un besoin irréfléchi d'implorer, de demander grâce, il se laissa tomber à genoux, le front sur ce lit de sa mère, pleurant enfin, pleurant à chaudes larmes...</p>
         </div>
         <div type="chapter">
+
           <head>V</head>
           <p>« Et qui as-tu vu au village, mon fils ? » interrogeait-elle, le lendemain matin, pendant ce mieux qui revenait chaque fois, aux premières heures du jour, après la fièvre tombée. » Et qui as-tu vu au village, mon fils ?... »</p>
           <p>En causant, elle s'efforçait de garder un air un peu enjoué, de dire des choses quelconques, dans la frayeur d'aborder les sujets graves et de provoquer d'inquiétantes réponses.</p>
@@ -861,6 +906,7 @@
           <p>Mais Raymond savait maintenant que, même après la mort, elle ne le maudirait pas pour avoir tenté cela ou pour l'avoir commis : or, ce pardon lui suffisait, et, maintenant qu'il se sentait sûr de l'obtenir, la plus grande barrière, entre sa fiancée et lui, était comme tombée tout à coup.</p>
         </div>
         <div type="chapter">
+
           <head>VI</head>
           <p>Le soir, au redoublement de la fièvre, elle semblait déjà beaucoup plus dangereusement atteinte.</p>
           <p>Sur son corps robuste, la maladie avait eu prise avec violence, -- la maladie reconnue trop tard, et insuffisamment soignée à cause de ses entêtements de paysanne, à cause de son dédain incrédule pour les médecins et les remèdes.</p>
@@ -876,6 +922,7 @@
           <p>Quant à Ramuntcho, après cette tentative pour savoir, après ce grand effort qui lui avait presque semblé profanateur, il courba la tête devant la volonté de sa mère et n'interrogea plus.</p>
         </div>
         <div type="chapter">
+
           <head>VII</head>
           <p>Cela marchait très vite maintenant, entre les fièvres desséchantes qui lui faisaient des joues rouges, des narines pincées, ou bien les épuisements dans des bains de sueur, le pouls battant à peine.</p>
           <p>Et Ramuntcho n'avait plus d'autre pensée que sa mère ; l'image de Gracieuse cessait de le visiter pendant ces funèbres jours.</p>
@@ -888,6 +935,7 @@
           <p>Et le soir, Ramuntcho se trouva seul, à côté de cette chose couchée et refroidie que l'on conserve et regarde quelques heures encore, mais qu'il faut se hâter d'en fouir dans la terre...</p>
         </div>
         <div type="chapter">
+
           <head>VIII</head>
           <p>Huit jours après.</p>
           <p>A la tombée du soir, tandis qu'une mauvaise rafale de montagne tordait les branches des arbres, Raymond rentrait dans sa maison déserte où le gris de la mort semblait épandu partout. Un peu d'hiver avait passé sur le pays basque, une petite gelée, brûlant les fleurs annuelles, mettant fin à l'illusoire été de décembre. Devant la porte de Franchita, les géraniums, les dahlias venaient de mourir, et le sentier d'arrivée, qu'on ne soignait plus, disparaissait sous l'entassement des feuilles jaunies.</p>
@@ -909,6 +957,7 @@
           <p>Donc, son destin venait d'être fixé ce soir à tout jamais. Il resterait le Ramuntcho d'autrefois, le « fils de Franchita », joueur de pelote et contrebandier, libre, affranchi de tout, ne devant ni ne demandant rien à personne. Et il se sentait rasséréné, sans remords, sans frayeur non plus, dans cette maison mortuaire, d'où les ombres venaient de disparaître, apaisées maintenant et amies...</p>
         </div>
         <div type="chapter">
+
           <head>IX</head>
           <p>A la frontière, dans un hameau de montagne. Nuit noire, vers une heure du matin ; nuit d'hiver inondée d'une pluie froide et torrentielle. Au pied d'une sinistre maison qui ne jette aucune lueur dehors, Ramuntcho charge ses épaules d'une pesante caisse de contrebande, sous la ruisselante averse, au milieu d'une obscurité de sépulcre. La voix d'Itchoua commande en sourdine, -- comme si l'on frôlait de l'archet les dernières cordes d'une basse, -- et autour de lui, dans ces ténèbres absolues, on devine d'autres contrebandiers pareillement chargés prêts à partir pour l'aventure.</p>
           <p>C'est maintenant plus que jamais la vie de Ramuntcho, ces courses-là, sa vie de presque toutes les nuits, surtout des nuits nuageuses et sans lune où l'on n'y voit rien, où les Pyrénées sont un immense chaos d'ombre. Amassant le plus d'argent possible pour sa fuite, il est de toutes les contrebandes, aussi bien de celles qui rapportent un salaire convenable que des autres où l'on risque la mort pour cent sous. Et d'ordinaire, Arrochkoa l'accompagne, sans nécessité, lui, par fantaisie plutôt et par jeu.</p>
@@ -951,6 +1000,7 @@
           <p>Ils n'ont d'ailleurs aucune illusion, les carabiniers de veille, sur ce que sont venus faire chez eux, à une heure si noire, ces hommes si mouillés...</p>
         </div>
         <div type="chapter">
+
           <head>X</head>
           <p>L'hiver, le vrai hiver s'étendit par degrés sur le pays basque, après ces quelques jours de gelée qui étaient venus anéantir les plantes annuelles, changer l'aspect trompeur des campagnes, préparer le suivant renouveau.</p>
           <p>Et Ramuntcho prit tout doucement ses habitudes d'abandonné ; dans sa maison, qu'il habitait encore, sans personne pour le servir, il s'arrangeait seul, comme aux colonies ou à la caserne, connaissant les mille petits détails d'entretien que pratiquent les soldats soigneux. Il conservait l'orgueil de sa tenue extérieure, s'habillait proprement et bien, le ruban des braves à la boutonnière, la manche toujours entourée d'un large crêpe.</p>
@@ -967,6 +1017,7 @@
           <p>Ainsi les jours passaient et bientôt allait fermenter le hâtif printemps. Déjà les primevères jaunes et les gentianes bleues, en avance ici de plusieurs semaines, fleurissaient dans les bois et le long des chemins, aux derniers soleils de janvier...</p>
         </div>
         <div type="chapter">
+
           <head>XI</head>
           <p>On est cette fois dans la cidrerie du hameau de Gastelugaïn, près de la frontière, attendant le moment de sortir avec des caisses de bijouterie et d'armes.</p>
           <p>Et c'est Itchoua qui parle :</p>
@@ -985,6 +1036,7 @@
           <p>Mais les scrupules religieux, voilà, c'était tout ce qui le tenait encore. Cela demeurait toujours, inexplicablement, au fond de son âme en déroute : instinctive horreur des profanations ; croyance quand même à quelque chose de surnaturel enveloppant, pour les défendre, les églises et les cloîtres...</p>
         </div>
         <div type="chapter">
+
           <head>XII</head>
           <p>L'hiver venait de finir.</p>
           <p>Ramuntcho, -- qui avait dormi quelques heures, d'un mauvais sommeil de fatigue, dans une petite chambre de la nouvelle maison de son ami Florentino, à Ururbil, -- s'éveillait maintenant, tandis que naissait le jour.</p>
@@ -1003,6 +1055,7 @@
           <p>C'était cela qu'elles disaient, dans le blême demi-jour, les choses si mornes et si fatiguées. Et Raymond, qui avait bien entendu, se prit en pitié d'avoir hésité si longtemps pour des raisons imaginaires. A lui-même il se jura, avec une plus âpre désespérance, que, à partir de ce matin, il était décidé ; qu'il le ferait, au risque de tout ; que rien ne l'arrêterait plus.</p>
         </div>
         <div type="chapter">
+
           <head>XIII</head>
           <p>Des semaines encore ont passé, en préparatifs, en indécisions inquiètes sur la manière d'agir, en changements brusques de plans et d'idées.</p>
           <p>Entre-temps la réponse de l'oncle Ignacio est parvenue à Etchézar. Si son neveu avait parlé plus tôt, a-t-il écrit, il aurait été content de le recevoir chez lui ; mais, voyant ses hésitations, il s'est décidé à prendre femme, bien que déjà sur le retour de l'âge, et, depuis deux mois, un enfant lui est né. Alors, plus aucune protection à attendre de ce côté-là ; l'exilé, en arrivant là-bas, ne trouvera même pas de gîte...</p>
@@ -1108,7 +1161,7 @@
       </div>
     </body>
     <back>
-      <div type="notes"/>
+      <div type="notes" />
       <div type="liminal">
         <p>FIN</p>
       </div>

@@ -18,13 +18,6 @@
         <p>à fournir</p>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="printSource">
-          <author>Sandeau, Jules</author>
-          <title>Mademoiselle de la Seiglière</title>
-          <date>1848</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5699005s" />
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k56998400" />
-        </bibl>
         <bibl type="digitalSource">
           <publisher>Project Gutenberg</publisher>
           <respStmt>
@@ -33,6 +26,13 @@
           </respStmt>
           <ref target="http://www.gutenberg.ebooks/34692">http://www.gutenberg.ebooks/34692</ref>
           <ref target="http://www.gutenberg.ebooks/34693">http://www.gutenberg.ebooks/34693</ref>
+        </bibl>
+        <bibl type="printSource">
+          <author>Sandeau, Jules</author>
+          <title>Mademoiselle de la Seiglière</title>
+          <date>1848</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5699005s" />
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k56998400" />
         </bibl>
         <bibl type="firstEdition">
           <date>1848</date>

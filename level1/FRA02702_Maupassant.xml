@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02702" xml:lang="fr">
   <teiHeader>
@@ -18,49 +18,59 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">77338</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          Feedbooks
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="http://www.feedbooks.com/"/>
-          via Ebooksgratuits.
-        </bibl><bibl type="printSource">
-          <date>source</date>
-        </bibl><bibl type="firstEdition">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Ebooks libres et gratuits</publisher>
+          <!-- originally Feedbooks -->
+        </bibl>
+        <bibl type="printSource">
+        </bibl>
+        <bibl type="firstEdition">
           <date>1883</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2014-03-22">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <front>
-      <div type="liminal"/>
+      <div type="liminal" />
     </front>
+
     <body>
       <div type="chapter">
+
         <head>I</head>
         <p>Jeanne, ayant fini ses malles, s'approcha de la fenêtre, mais la pluie ne cessait pas.</p>
         <p>L'averse, toute la nuit, avait sonné contre les carreaux et les toits. Le ciel, bas et chargé d'eau, semblait crevé, se vidant sur la terre, la délayant en bouillie, la fondant comme du sucre. Des rafales passaient, pleines d'une chaleur lourde. Le ronflement des ruisseaux débordés emplissait les rues désertes où les maisons, comme des éponges, buvaient l'humidité qui pénétrait au-dedans et faisait suer les murs de la cave au grenier.</p>
@@ -199,6 +209,7 @@
         <p>Comme le gros poisson fatiguait Jeanne, elle lui passa dans les ouïes la canne de son père, dont chacun d'eux prit un bout ; et ils allaient gaiement en remontant la côte, bavardant comme deux enfants, le front au vent et les yeux brillants, tandis que la barbue, qui lassait peu à peu leurs bras, balayait l'herbe de sa queue grasse.</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>Une vie charmante et libre commença pour Jeanne. Elle lisait, rêvait et vagabondait, toute seule, aux environs. Elle errait à pas lents le long des routes, l'esprit parti dans les rêves ; ou bien, elle descendait, en gambadant, les petites vallées tortueuses, dont les deux croupes portaient, comme une chape d'or, une toison de fleurs d'ajoncs. Leur odeur forte et douce, exaspérée par la chaleur, la grisait à la façon d'un vin parfumé ; et, au bruit lointain des vagues roulant sur une plage, une houle berçait son esprit.</p>
         <p>Une mollesse, parfois, la faisait s'étendre sur l'herbe drue d'une pente ; et parfois, lorsqu'elle apercevait tout à coup, au détour du val, dans un entonnoir de gazon, un triangle de mer bleue étincelante au soleil, avec une voile à l'horizon, il lui venait des joies désordonnées, comme à l'approche mystérieuse de bonheurs planant sur elle.</p>
@@ -247,6 +258,7 @@
         <p>Et il rentra prendre congé des dames.</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p>Le dimanche suivant, la baronne et Jeanne allèrent à la messe, poussées par un délicat sentiment de déférence pour leur curé.</p>
         <p>Elles l'attendirent après l'office, afin de l'inviter à déjeuner pour le jeudi. Il sortit de la sacristie avec un grand jeune homme élégant qui lui donnait le bras familièrement. Dès qu'il aperçut les deux femmes, il fit un geste de joyeuse surprise et s'écria : « Comme ça tombe ! Permettez-moi, madame la baronne et mademoiselle Jeanne, de vous présenter votre voisin, M. le vicomte de Lamare. »</p>
@@ -361,6 +373,7 @@
         <p>Elle baissa encore la tête ; et comme il balbutiait : « Répondez, je vous en supplie ! » elle releva ses yeux vers lui, tout doucement ; et il lut la réponse dans son regard.</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
         <p>Le baron, un matin, entra dans la chambre de Jeanne avant qu'elle fût levée, et s'asseyant sur les pieds du lit : « M. le vicomte de Lamare nous a demandé ta main. »</p>
         <p>Elle eut envie de cacher sa figure sous les draps.</p>
@@ -510,6 +523,7 @@
         <p>Elle ne se montra qu'à l'heure du déjeuner. Et la journée s'écoula ainsi qu'à l'ordinaire comme si rien de nouveau n'était survenu. Il n'y avait qu'un homme de plus dans la maison.</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
         <p>Quatre jours plus tard arriva la berline qui devait les emporter à Marseille.</p>
         <p>Après l'angoisse du premier soir, Jeanne s'était habituée déjà au contact de Julien, à ses baisers, à ses caresses tendres, bien que sa répugnance n'eût pas diminué pour leurs rapports plus intimes.</p>
@@ -653,6 +667,7 @@
         <p>Huit jours plus tard, ils se mirent en route pour rentrer aux Peuples.</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
         <p>Devant la barrière blanche aux piliers de brique, la famille et les domestiques attendaient. La chaise de poste s'arrêta, et les embrassades furent longues. Petite mère pleurait ; Jeanne, attendrie, essuya deux larmes ; père, nerveux, allait et venait.</p>
         <p>Puis, pendant qu'on déchargeait les bagages, le voyage fut raconté devant le feu du salon. Les paroles abondantes coulaient des lèvres de Jeanne ; et tout fut dit, tout, en une demi-heure, sauf peut-être quelques petits détails oubliés dans ce récit rapide.</p>
@@ -775,6 +790,7 @@
         <p>Et le lendemain, père et petite mère étant partis, Jeanne et Julien restèrent seuls.</p>
       </div>
       <div type="chapter">
+
         <head>VII</head>
         <p>Les cartes entrèrent alors dans la vie des jeunes gens. Chaque jour, après le déjeuner, Julien, tout en fumant sa pipe et se gargarisant avec du cognac dont il buvait peu à peu six à huit verres, faisait plusieurs parties de bésigue avec sa femme. Elle montait ensuite en sa chambre, s'asseyait près de la fenêtre et, pendant que la pluie battait les vitres ou que le vent les secouait, elle brodait obstinément une garniture de jupon. Parfois, fatiguée, elle levait les yeux et contemplait au loin la mer sombre qui moutonnait. Puis, après quelques minutes de ce regard vague, elle reprenait son ouvrage.</p>
         <p>Elle n'avait d'ailleurs rien autre chose à faire, Julien ayant repris toute la direction de la maison, pour satisfaire pleinement ses besoins d'autorité et ses démangeaisons d'économie. Il se montrait d'une parcimonie féroce, ne donnait jamais de pourboires, réduisait la nourriture au strict nécessaire ; et comme Jeanne, depuis qu'elle était venue aux Peuples, se faisait faire chaque matin par le boulanger une petite galette normande, il supprima cette dépense et la condamna au pain grillé.</p>
@@ -997,6 +1013,7 @@
         <p>Comme il sortait, il rencontra tante Lison qui venait voir sa malade. Elle ne s'aperçut de rien ; on ne lui dit rien et elle ne sut rien, comme toujours.</p>
       </div>
       <div type="chapter">
+
         <head>VIII</head>
         <p>Rosalie avait quitté la maison et Jeanne accomplissait la période de sa grossesse douloureuse. Elle ne se sentait au cœur aucun plaisir à se savoir mère, trop de chagrins l'avaient accablée. Elle attendait son enfant sans curiosité, courbée encore sous des appréhensions de malheurs indéfinis.</p>
         <p>Le printemps était venu tout doucement. Les arbres nus frémissaient sous la brise encore fraîche, mais dans l'herbe humide des fossés, où pourrissaient les feuilles de l'automne, les primevères jaunes commençaient à se montrer. De toute la plaine, des cours de ferme, des champs détrempés, s'élevait une senteur d'humidité, comme un goût de fermentation. Et une foule de petites pointes vertes sortaient de la terre brune et luisaient aux rayons du soleil.</p>
@@ -1097,6 +1114,7 @@
         <p>Julien fit une scène terrible, qui abrégea le séjour de ses beaux-parents aux Peuples. Jeanne les vit repartir sans une tristesse trop profonde, Paul étant devenu pour elle une source inépuisable de bonheur.</p>
       </div>
       <div type="chapter">
+
         <head>IX</head>
         <p>Jeanne étant tout à fait remise de ses couches, on se résolut à aller rendre leur visite aux Fourville et à se présenter aussi chez le marquis de Coutelier.</p>
         <p>Julien venait d'acheter, dans une vente publique, une nouvelle voiture, un phaéton ne demandant qu'un cheval, afin de pouvoir sortir deux fois par mois.</p>
@@ -1290,6 +1308,7 @@
         <p>Quand le comte de Fourville revint chercher sa femme, il pleurait lui-même comme s'il avait perdu sa propre mère.</p>
       </div>
       <div type="chapter">
+
         <head>X</head>
         <p>Les jours furent bien tristes qui suivirent, ces jours mornes dans une maison qui semble vide par l'absence de l'être familier disparu pour toujours, ces jours criblés de souffrance à chaque rencontre de tout objet que maniait incessamment la morte. D'instant en instant, un souvenir vous tombe sur le cœur et le meurtrit. Voici son fauteuil, son ombrelle restée dans le vestibule, son verre que la bonne n'a point serré ! Et dans toutes les chambres on retrouve des choses traînant : ses ciseaux, un gant, le volume dont les feuillets sont usés par ses doigts alourdis, et mille riens qui prennent une signification douloureuse parce qu'ils rappellent mille petits faits.</p>
         <p>Et sa voix vous poursuit ; on croit l'entendre ; on voudrait fuir n'importe où, échapper à la hantise de cette maison. Il faut rester parce que d'autres sont là qui restent et souffrent aussi.</p>
@@ -1488,6 +1507,7 @@
         <p>Elle ne vit rien de l'enterrement de Julien ; elle n'en sut rien. Elle s'aperçut seulement au bout d'un jour ou deux que tante Lison était revenue ; et, dans les cauchemars fiévreux qui la hantaient, elle cherchait obstinément à se rappeler depuis quand la vieille fille était repartie des Peuples, à quelle époque, dans quelles circonstances. Elle n'y pouvait parvenir, même en ses heures de lucidité, sûre seulement qu'elle l'avait vue après la mort de petite mère.</p>
       </div>
       <div type="chapter">
+
         <head>XI</head>
         <p>Elle demeura trois mois dans sa chambre, devenue si faible et si pâle qu'on la croyait et qu'on la disait perdue. Puis peu à peu elle se ranima. Petit père et tante Lison ne la quittaient pas, installés tous deux aux Peuples. Elle avait gardé de cette secousse une maladie nerveuse ; le moindre bruit la faisait défaillir, et elle tombait en de longues syncopes provoquées par les causes les plus insignifiantes.</p>
         <p>Jamais elle n'avait demandé de détails sur la mort de Julien. Que lui importait ? N'en savait-elle pas assez ? Tout le monde croyait à un accident, mais elle ne s'y trompait pas ; et elle gardait en son cœur ce secret qui la torturait : la connaissance de l'adultère, et la vision de cette brusque et terrible visite du comte, le jour de la catastrophe.</p>
@@ -1669,6 +1689,7 @@
         <p>Le soleil se leva comme elles causaient encore.</p>
       </div>
       <div type="chapter">
+
         <head>XII</head>
         <p>Rosalie, en huit jours, eut pris le gouvernement absolu des choses et des gens du château. Jeanne, résignée, obéissait passivement. Faible et traînant les jambes comme jadis petite mère, elle sortait au bras de sa servante qui la promenait à pas lents, la sermonnait, la réconfortait avec des paroles brusques et tendres, la traitant comme une enfant malade.</p>
         <p>Elles causaient toujours d'autrefois, Jeanne avec des larmes dans la gorge, Rosalie avec le ton tranquille des paysans impassibles. La vieille bonne revint plusieurs fois sur les questions d'intérêts en souffrance, puis elle exigea qu'on lui livrât les papiers que Jeanne, ignorante de toute affaire, lui cachait par honte pour son fils.</p>
@@ -1748,6 +1769,7 @@
         <p>Le jeune homme enfin reparut portant en ses bras la grosse bête informe et pelée qu'il déposa entre les jupes des deux femmes.</p>
       </div>
       <div type="chapter">
+
         <head>XIII</head>
         <p>La voiture s'arrêta deux heures plus tard devant une petite maison de briques bâtie au milieu d'un verger planté de poiriers en quenouilles, sur le bord de la grand-route.</p>
         <p>Quatre tonnelles en treillage habillées de chèvrefeuilles et de clématites formaient les quatre coins de ce jardin disposé par petits carrés à légumes que séparaient d'étroits chemins bordés d'arbres fruitiers.</p>
@@ -1884,6 +1906,7 @@
         <p>Et Jeanne repartit pour Batteville, un matin qu'il neigeait, et qu'il faisait grand froid.</p>
       </div>
       <div type="chapter">
+
         <head>XIV</head>
         <p>Alors elle ne sortit plus, elle ne remua plus. Elle se levait chaque matin à la même heure, regardait le temps par sa fenêtre, puis descendait s'asseoir devant le feu dans la salle.</p>
         <p>Elle restait là des jours entiers, immobile, les yeux plantés sur la flamme, laissant aller à l'aventure ses lamentables pensées et suivant le triste défilé de ses misères. Les ténèbres, peu à peu, envahissaient la petite pièce sans qu'elle eût fait d'autre mouvement que pour remettre du bois au feu. Rosalie alors apportait la lampe et s'écriait : « Allons, madame Jeanne, il faut vous secouer ou bien vous n'aurez pas encore faim ce soir. »</p>

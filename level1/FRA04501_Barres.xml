@@ -18,17 +18,15 @@
         <p>à fournir</p>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Ebooks gratuits (Yahoo Group)</publisher>
+          <ref target="http://fr.groups.yahoo.com/group/ebooksgratuits" />
+        </bibl>
         <bibl type="printSource">
           <author>Barrès, Maurice</author>
           <title>Colette Baudoche: histoire d'une jeune fille de Metz</title>
           <date>1909</date>
           <ref target="ark:/12148/bpt6k6267092r" />
-        </bibl>
-        <bibl type="digitalSource">
-          <ref target="#unknown">unknownSource" </ref>
-          <publisher>
-            <ref target="http://fr.groups.yahoo.com/group/ebooksgratuits"> ebooksgratuits</ref>
-          </publisher>
         </bibl>
         <bibl type="firstEdition">
           <date>1909</date>

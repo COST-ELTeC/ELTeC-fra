@@ -16,14 +16,14 @@
         <p>à fournir</p>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Belenus</publisher>
+          <ref target="#unknownSource">#unknownSource</ref>
+        </bibl>
         <bibl type="printSource">
           <author>Barbusse, Henri (1873-1935)</author>
           <title>Le Feu</title>
           <date>1916</date>
-        </bibl>
-        <bibl type="digitalSource">
-          <publisher>BELENUS</publisher>
-          <ref target="#unknownSource">#unknownSource</ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1916</date>

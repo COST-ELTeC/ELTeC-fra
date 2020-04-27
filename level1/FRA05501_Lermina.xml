@@ -18,14 +18,14 @@
         <p>à fournir</p>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Bibebook</publisher>
+          <ref target="http://www.bibebook.com/search/978-2-8247-0851-5">http://www.bibebook.com/search/978-2-8247-0851-5</ref>
+        </bibl>
         <bibl type="printSource">
           <author>Lermina, Jules (1839-1915)</author>
           <title>L'effrayante aventure</title>
           <date>1910</date>
-        </bibl>
-        <bibl type="digitalSource">
-          <publisher>Bibebook</publisher>
-          <ref target="http://www.bibebook.com/search/978-2-8247-0851-5">http://www.bibebook.com/search/978-2-8247-0851-5</ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1910</date>

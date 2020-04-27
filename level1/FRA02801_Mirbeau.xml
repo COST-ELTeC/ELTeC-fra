@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02801" xml:lang="fr">
   <teiHeader>
@@ -18,38 +18,48 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">78137</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Ebooks libres et gratuits</publisher>
           <date>2007</date>
-          ,
-          <idno/>
-          ,
-          <ref target="http://www.ebooksgratuits.com/"/>
-          .
-        </bibl><bibl type="printSource">
-          <date>source</date>
-        </bibl><bibl type="firstEdition">
+          <ref target="http://www.ebooksgratuits.com/" />
+        </bibl>
+        <bibl type="printSource">
+        </bibl>
+        <bibl type="firstEdition">
           <date>1888</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-06-02">cf Initial TEI version.</change>
     </revisionDesc>
@@ -64,10 +74,13 @@
         <p>O. M.</p>
       </div>
     </front>
+
     <body>
       <div type="group">
+
         <head>PREMIÈRE PARTIE</head>
         <div type="chapter">
+
           <head>I</head>
           <p>Hormis les jours où mon père avait pratiqué une opération difficile, un accouchement important, et qu'il en expliquait, à table, par des termes techniques, souvent latins, les plus émouvantes phases, mes parents ne se parlaient presque jamais. Non qu'ils se boudassent ; ils s'aimaient beaucoup au contraire, s'entendaient, en toutes choses, le mieux du monde, et l'on ne pouvait rencontrer un ménage plus uni ; mais, habitués à penser la même pensée, à vivre les mêmes impressions, et n'étant point romanesques de leur nature, ils n'avaient rien à se dire. Ils n'avaient rien à me dire non plus, me trouvant ou trop grand pour m'amuser à des chansons, ou trop petit pour m'ennuyer à des questions sérieuses. Et puis, ils étaient très imprégnés de cette idée qu'un enfant bien élevé ne doit ouvrir la bouche que pour manger, réciter ses leçons, faire sa prière. S'il m'arrivait quelquefois de m'insurger contre ce système de pédagogie familiale, mon père, sévèrement, m'imposait silence par cet argument définitif :</p>
           <p>– Eh bien ! qu'est-ce que c'est ?... Et les trappistes, est-ce qu'ils parlent, eux ?</p>
@@ -145,6 +158,7 @@
           <p>– Mais qu'a-t-il pu fabriquer à Paris ?</p>
         </div>
         <div type="chapter">
+
           <head>II</head>
           <p>Les maisons de Viantais sont bâties, au versant d'un petit coteau, de chaque côté de la route de Mortagne, qui débouche de la forêt, à un kilomètre de là, par une belle trouée dans la futaie, maisons propres et riantes, la plupart de briques, avec des toits hauts et des fenêtres gaiement ornées, l'été, de pots de fleurs et de plantes grimpantes. Quelques-unes attiennent à des jardins symétriquement disposés en plates-bandes et dont le mur qui les enclôt se couvre d'espaliers et s'encadre de vignes. Des venelles, ouvrant de brusques horizons sur les champs, aboutissent à l'unique rue, qui, vers le milieu du bourg, s'élargit en une vaste place, au centre de laquelle une fontaine se dresse ; puis la rue continue de descendre jusqu'à la vallée et la grand'route, franchissant la rivière sur un pont de granit rose, reprend son cours paisible à travers les prés, les cultures et les boqueteaux. Dans le haut du pays, et reliée à lui par une vaste allée d'ormes -- rendez-vous des gamins qui jouent à la marelle -- l'église apparaît, vieille, tassée, coiffée d'un clocher pointu, en forme de bonnet de coton. À droite, sont les écoles et notre habitation ; à gauche, le presbytère, séparé du cimetière par un mur démoli, creusé en brèches, de-ci, de-là, au-dessus desquelles l'on voit les croix qui se démantibulent et les tombes qui verdissent. Au milieu de l'allée d'ormes, un calvaire s'élève, dont le christ de bois peint, pourri par l'humidité, n'a plus qu'une jambe et qu'un bras, ce qui n'empêche pas les dévotes de venir s'agenouiller au pied de la croix, et de marmotter des oraisons, en égrenant leur chapelet.</p>
           <p>À cette époque Viantais comptait deux mille cinq cents habitants, et ne renfermait pas plus de vingt familles bourgeoises et ménages de fonctionnaires. On s'y voyait très peu, même entre parents qui, presque tous, se trouvaient divisés pour de féroces et mesquines considérations de vanité, ou brouillés par des affaires de succession. Nos relations, à nous, se bornaient aux Servière, dont le luxe gênait mes parents, les inquiétait, les mettait en méfiance ; au curé Sortais, vieillard excellent, charitable et compromettant, à cause de l'excessive candeur de son âme, qui l'incitait à commettre sans cesse les plus lourdes bévues ; enfin, aux Robin, devenus tout de suite les intimes de la maison. Nous recevions bien, de loin en loin, la visite du cousin Debray, ancien capitaine d'infanterie, original fieffé, qui passait son temps, mangeait l'argent de sa retraite à empailler des belettes et des putois dans des attitudes comiques et prétentieuses, mais on lui faisait mauvais accueil, parce qu'il ne pouvait prononcer deux mots sans jurer, et qu'il « sentait la bête morte », disait ma mère. Les Robin, dès leur arrivée -- ils n'habitaient le pays que depuis quatre ans -- s'étaient étroitement liés avec nous. À la première entrevue, nous nous étions reconnus pour des êtres de même race. Comme il n'existait, entre les Robin et ma famille, aucune rivalité d'intérêt ou d'ambition, qu'ils avaient les mêmes instincts, les mêmes goûts, une compréhension pareille de la vie, l'amitié s'établit durable ; amitié d'ailleurs restreinte à la facile observance d'un égoïsme cordial, qui n'eût point résisté aux plus légères secousses du sacrifice et du dévouement.</p>
@@ -247,6 +261,7 @@
           <p>– Non... non !... répondait mon père... Il doit y avoir autre chose !... Qu'a-t-il pu fabriquer à Paris ?</p>
         </div>
         <div type="chapter">
+
           <head>III</head>
           <p>Avant de poursuivre mon récit, on me permettra de faire un retour dans le passé de l'abbé Jules, et d'évoquer cette étrange figure, d'après les souvenirs personnels que j'en ai, d'après les recherches passionnées auxquelles je me livrai chez les personnes qui le connurent et dans les divers milieux qu'il habita.</p>
           <p>Ma grand'mère était certainement la femme la plus aimée, la plus respectée de toutes les femmes de Viantais. Je puis dire, sans exagération, qu'on la vénérait comme une sainte. Elle se montrait d'une infinie douceur envers tout le monde ; sa charité pour les pauvres était inépuisable. Fille de paysans, elle avait fidèlement conservé la tenue des paysannes, bien que son mariage lui donnât un rang dans la bourgeoisie du pays. Mais c'était une nature modeste, d'une rare délicatesse de sentiments et d'un rare bon sens -- un peu trop dévote, peut-être. Je la vois encore, assise dans son immense fauteuil à coussins de toile écrue, toute petite et tassée, et ridée sous son large bonnet de linge blanc qui donnait, à son visage de vieille, des tons de cire délicate. Elle tricotait, tricotait sans cesse des bas, des gilets, des jupons pour les malheureux. Comme elle était active et preste, malgré l'âge qui la courbait, et la maladie qui lui nouait les doigts ! Tous les matins, j'allais la voir -- ou plutôt, ma bonne me conduisait près d'elle -- et, avant que de l'embrasser, je regardais, sur la cheminée, un petit chien de bois, sous la queue duquel je trouvais, chaque fois, une pièce de cinquante centimes. Elle faisait l'étonnée, riait, s'écriait en brandissant son aiguille :</p>
@@ -866,6 +881,7 @@
           <p>– Mais que peut-il fabriquer à Paris ?</p>
         </div>
         <div type="chapter">
+
           <head>IV</head>
           <p>– Eh bien ! il arrive... s'écria mon père qui, très essoufflé et agitant une lettre, entra dans la chambre, où ma mère achevait de m'habiller... Il arrive demain... par le train de trois heures.</p>
           <p>– Demain ! fit ma mère, d'un air résigné... Allons !...</p>
@@ -987,8 +1003,10 @@
         </div>
       </div>
       <div type="group">
+
         <head>DEUXIÈME PARTIE</head>
         <div type="chapter">
+
           <head>I</head>
           <p>Deux ans s'étaient écoulés. Le curé Sortais était mort d'une embolie au cœur, et son successeur, l'abbé Blanchard, ancien premier vicaire de Viantais, lequel me donnait, et continua de me donner des répétitions de latin, avait, chez nous, repris sa place, aux dîners de famille et au bog du dimanche. Il arriva même que le bog fut parfois agrémenté de musique, car le nouveau curé possédait un très joli talent sur la flûte, et il aimait, étant bon vivant, à nous régaler de quelques morceaux de sa composition. Ces soirs-là, ma mère offrait le thé avec des tranches de gâteau sablé que le curé dévorait avidement, disant dans un gros rire, et se frictionnant l'estomac :</p>
           <p>– Ce qui vient de la flûte, retourne au tambour.</p>
@@ -1145,6 +1163,7 @@
           <p>Quant à moi, je ne pensais ni à l'oncle Jules, ni au cousin Debray. Encore sous l'impression des paroles de Georges, je sentais se dévoiler devant moi des choses confuses, redoutables ; et mes yeux allaient de Mme Robin, qui me semblait moins laide, au lit d'acajou, au-dessus duquel un mystère planait, sous les draperies blanches.</p>
         </div>
         <div type="chapter">
+
           <head>II</head>
           <p>Le cousin Debray, à l'exception de ses vieux souvenirs de caserne et de sa connaissance plastique des mœurs du putois, n'avait pas beaucoup d'idées dans la tête. Depuis qu'il avait quitté le régiment, il n'en avait eu qu'une, et encore dut-il y renoncer. Le brave cousin s'était imaginé de doter le pays d'une compagnie de sapeurs-pompiers, dont il eût été le commandant ; il avait écrit, à ce propos, rapports sur rapports, mémoires sur mémoires, dressé des plans, des statistiques d'incendie, établi d'admirables règlements. Mais il s'était heurté sans cesse à l'obstination du conseil municipal qui refusa de charger la commune déjà obérée d'un surcroît de dépenses. Le capitaine en conçut un vif ressentiment et, bien que bonapartiste enragé, il se jeta dans l'opposition, -- opposition, je m'empresse de le dire, qui se restreignait à des « nom de Dieu ! » poussés contre les autorités locales. Grâce à sa qualité d'ancien capitaine, il occupait à Viantais une situation en vue. D'abord, il figurait en grand uniforme dans les cortèges officiels, et puis, il rendait de nombreux services aux mères de famille qui avaient des fils à l'armée. S'agissait-il d'obtenir un congé, une exemption, une faveur quelconque, c'est au capitaine Debray qu'on s'adressait ; il indiquait la marche à suivre, rédigeait les suppliques en termes du métier, accablait les bureaux de recrutement et le ministère de la guerre de ses recommandations. Très obligeant, il jouissait donc d'une petite popularité et il finit par se consoler de n'être pas pompier en empaillant avec rage et conviction tous les putois et belettes tués dans les taillis d'alentour. Chaque famille possédait au moins un spécimen du talent de notre cousin, et l'on ne pouvait entrer à cette époque dans une maison sans y voir à la place d'honneur un de ces animaux assis sur une planchette de bois et se livrant à des gesticulations badines, généralement empruntées à la mimique des écureuils. Par une tendance vers l'idéal qu'ont généralement les vieux militaires retraités, le cousin corrigeait, dans la zoologie des bêtes carnassières, ce que celles-ci ont de trop répugnant et de trop féroce. Il vivait très retiré avec sa domestique, Mélanie, une grosse femme de quarante-cinq ans, qu'il appelait familièrement : « Ma poule. » Les intimes relations du maître et de la servante étaient connues de tous. Ils ne s'en cachaient ni l'un ni l'autre, et un jour qu'ils s'étaient disputés tous les deux devant plusieurs personnes, le capitaine avait dit : « Crie, crie, ma poule... Tu sais bien que l'oreiller raccommode tout. » C'était clair. Aussi, dans la société bourgeoise on ne pouvait pas le recevoir, à cause de « la poule » ; mais on continuait de l'estimer à cause des putois dont il était si facilement prodigue.</p>
           <p>Après l'incident de la place, ma mère jugea qu'il ne fallait point se faire un ennemi du cousin Debray. Il était préférable de l'amadouer, de l'inciter discrètement à des pensées, à des actions généreuses, de s'en servir comme d'un moyen inconscient de communication entre l'abbé et nous, et, plus tard, comme d'un instrument de réconciliation. On revit donc plus souvent le capitaine à la maison, on l'invita même à dîner. Sans trop s'étonner de ce revirement subit et n'ayant point coutume de chercher la raison des choses, il accepta. Alors, on le gava de bonne chère et du meilleur vin de la cave. Ce fut une amère déception. Le cousin buvait, mangeait et il disait : « Ah ! ce Jules, c'est un nom de Dieu de gaillard ! » Le vocabulaire de ses enthousiasmes, la curiosité de ses observations s'arrêtaient là. Ce « nom de Dieu de gaillard ! » en marquait la hauteur suprême. Il fut impossible d'en tirer autre chose. Non qu'il y mît de la malice, il était sincère, comme une brute, le bon capitaine. Et il revenait à ce « nom de Dieu de gaillard ! » à propos de tout, modifiant le ton de cette exclamation suivant qu'il éprouvait plus ou moins d'enthousiasme, mais n'en changeant jamais la forme. Ma mère avait beau lui suggérer des idées, lui tracer des réponses, il n'entendait rien, ne comprenait rien, il s'obstinait à ce « nom de Dieu de gaillard ». Elle soupirait, demandant à son regard une complicité :</p>
@@ -1240,6 +1259,7 @@
           <p>Ce fut ma première leçon.</p>
         </div>
         <div type="chapter">
+
           <head>III</head>
           <p>– Qu'est-ce que tu dois chercher dans la vie ?... Le bonheur... Et tu ne peux l'obtenir qu'en exerçant ton corps, ce qui donne la santé, et en te fourrant dans la cervelle le moins d'idées possible, car les idées troublent le repos et vous incitent à des actions inutiles toujours, toujours douloureuses, et souvent criminelles... Ne pas sentir ton moi, être une chose insaisissable, fondue dans la nature, comme se fond dans la mer une goutte d'eau qui tombe du nuage, tel sera le but de tes efforts... Je t'avertis que ce n'est point facile d'y atteindre, et l'on arrive plus aisément à fabriquer un Jésus-Christ, un Mahomet, un Napoléon, qu'un Rien... Écoute-moi donc... Tu réduiras tes connaissances du fonctionnement de l'humanité au strict nécessaire : 1° L'homme est une bête méchante et stupide ; 2° La justice est une infamie ; 3° L'amour est une cochonnerie ; 4° Dieu est une chimère... Tu aimeras la nature ; tu l'adoreras même, si cela te plaît, non point à la façon des artistes ou des savants qui ont l'audace imbécile de chercher à l'exprimer avec des rythmes, ou de l'expliquer avec des formules ; tu l'adoreras d'une adoration de brute, comme les dévotes, le Dieu qu'elles ne discutent point. S'il te prend la fantaisie orgueilleuse d'en vouloir pénétrer l'indévoilable secret, d'en sonder l'insondable mystère... adieu le bonheur ! Tu seras la proie sans cesse torturée du doute et de l'inassouvi... Malheureusement, tu vis dans une société, sous la menace de lois oppressives, parmi des institutions abominables, qui sont le renversement de la nature, et de la raison primitive. Cela te crée des obligations multiples, obligations envers le pouvoir, envers la patrie, envers ton semblable -- obligations qui, toutes, engendrent les vices, les crimes, les hontes, les sauvageries qu'on t'apprend à respecter, sous le nom de vertus et de devoirs... Je te conseillerais bien de t'y soustraire... mais il y a le gendarme, les tribunaux, la prison, la guillotine... Le mieux est donc de diminuer le mal, en diminuant le nombre des obligations sociales et particulières, en t'éloignant le plus possible des hommes, en te rapprochant des bêtes, des plantes, des fleurs ; en vivant, comme elles, de la vie splendide, qu'elles puisent aux sources mêmes de la nature, c'est-à-dire de la Beauté... Et puis, ayant vécu sans les remords qui attristent, sans les passions d'amour ou d'argent qui salissent, sans les inquiétudes intellectuelles qui tuent, tu mourras sans secousse... Et tout le monde, ignorant ta vie, ignorera ta mort... Tu seras pareil à ces jolis animaux des forêts, dont on ne retrouve jamais la carcasse, et qui disparaissent, volatilisés dans les choses !... Vois-tu, mon garçon, si j'avais connu autrefois ces vérités, je n'en serais pas où j'en suis aujourd'hui. Car je suis une canaille, un être malfaisant, l'abject esclave de sales passions... Enfin, je te dirai peut-être cela plus tard... Et sais-tu pourquoi ? Parce que, dès que j'ai pu articuler un son, on m'a bourré le cerveau d'idées absurdes, le cœur de sentiments surhumains. J'avais des organes, et l'on m'a fait comprendre en grec, en latin, en français, qu'il est honteux de s'en servir... On a déformé les fonctions de mon intelligence, comme celles de mon corps, et, à la place de l'homme naturel, instinctif, gonflé de vie, on a substitué l'artificiel fantoche, la mécanique poupée de civilisation, soufflée d'idéal... l'idéal d'où sont nés les banquiers, les prêtres, les escrocs, les débauchés, les assassins et les malheureux... Tiens, tout à l'heure, je te disais que Dieu était une chimère... Eh bien ! je ne sais pas... je ne sais rien... car la conséquence de notre éducation et le résultat de nos études sont de nous apprendre à ne rien savoir, et à douter de tout... Il y a peut-être un Dieu... il y en a peut-être plusieurs... Je ne sais pas... Maintenant, va courir !... Non, attends !... Ce matin, j'ai encore trouvé un lacet, tendu aux merles... Je te défends de chasser les oiseaux... La vie des oiseaux est respectable... Sais-tu ce que tu détruis en eux ?... Tu détruis une musique, un frémissement, de la vie, enfin, qui vaut mieux que la tienne... As-tu regardé l'œil des oiseaux ?... Non... Eh bien ! regarde-le... et tu ne tueras point... Maintenant, va jouer... Monte aux arbres... Rue des pierres... Va !...</p>
           <p>C'est par ces tirades d'un anarchisme vague et sentimental que mon oncle me préparait au baccalauréat futur, ambition de mes parents.</p>
@@ -1384,6 +1404,7 @@
           <p>Je regardais la fumée qui montait dans l'air, en spirales bleuâtres, s'évanouissait, et je suivais les petits morceaux de papier brûlé, qui voletaient, chassés par le vent, comme des feuilles mortes.</p>
         </div>
         <div type="chapter">
+
           <head>IV</head>
           <p>Le soir allait venir ; c'était la fin d'une douce journée d'avril. Mon oncle et moi, accoudés à la fenêtre de sa chambre, nous regardions. Il faisait grand jour encore, mais une lumière plus fine, plus décolorée, plus éteinte s'épandait sur la terre. Derrière le bois, léger, poudré de cendre verte, le soleil descendait ; et le ciel était sans un nuage, calme comme une mer d'été, d'une pâleur charmante qui s'avivait de rose au couchant. La vie renaissait, gonflait les branches de bourgeons prêts à éclater. Les arbres semblaient heureux d'étendre leurs ramures fécondées. Déjà un gainier étalait le rouge décor de ses fleurettes ; un marronnier, plus loin, poussait ses larges feuilles d'un vert attendri. Une senteur forte de germes montait du sol en travail d'amour ; sur un poirier, en face de nous, deux moineaux se poursuivaient, s'accouplaient, plumes emmêlées, ailes palpitantes.</p>
           <p>– Sais-tu ce qu'ils font ?... me demanda mon oncle, tout à coup.</p>
@@ -1530,6 +1551,7 @@
           <p>Durant toute la soirée, tandis que mon père, retourné aux Capucins, veillait sur le malade, ma mère passa en revue tous nos vêtements noirs, avec le soin calme et méticuleux d'une bonne ménagère.</p>
         </div>
         <div type="chapter">
+
           <head>V</head>
           <p>Ma mère, installée depuis trois jours au chevet de l'abbé, venait de sortir. Elle allait à Viantais où elle avait, disait-elle, des commissions à faire. Et je restai seul, dans la chambre, avec mon oncle. La maladie avait encore ravagé son visage, creusé, de ses impitoyables griffes, des rigoles nouvelles sur la peau écharnée et toute sèche. La fièvre tachait ses pommettes saillantes de deux plaques pourprées, et ses yeux agrandis brillaient, au milieu d'un grand cerne bleuâtre, d'un éclat déjà surhumain. De temps en temps, de sa main tremblante, nouée d'exostoses, il portait à ses lèvres une tasse pleine d'un breuvage rafraîchissant, et sa langue empâtée faisait contre son palais un bruit pénible et continu ; il respirait difficilement. Sur la marbre de la commode, des fioles, symétriquement rangées, dégageaient des odeurs pharmaceutiques, et la bouilloire chantait, posée dans les cendres chaudes de la cheminée.</p>
           <p>– Petit, me dit mon oncle, ferme la porte, afin que personne n'entre... et viens ici, près de moi... J'ai à te parler, à toi seul, à toi tout seul... Car, tu es le seul être qui m'ait réellement aimé.</p>
@@ -1668,6 +1690,7 @@
           <p>– Faut qu'on mette les scellés !...</p>
         </div>
         <div type="chapter">
+
           <head>VI</head>
           <p>La famille Dervelle était réunie dans le cabinet du notaire, pour la lecture du testament de mon oncle. Le notaire montra d'abord et fit circuler une grande enveloppe jaune, carrée, fermée de cinq cachets très larges de cire verdâtre sur laquelle étaient écrits ces mots : « Ceci est mon testament. » Puis il observa que les cachets étaient intacts, les rompit, et retirant de l'enveloppe une feuille de papier timbré, pliée en deux, il lut, d'une voix lente et solennelle, l'étrange document suivant :</p>
           <p>Les Capucins, le 27 septembre 1868.</p>
@@ -1725,7 +1748,7 @@
       </div>
     </body>
     <back>
-      <div type="notes"/>
+      <div type="notes" />
       <div type="liminal">
         <p>Kérisper. Juillet 1887, janvier 1888.</p>
       </div>

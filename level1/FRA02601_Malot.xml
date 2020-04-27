@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02601" xml:lang="fr">
   <teiHeader>
@@ -18,43 +18,51 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">70236</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          Bibliothèque électronique du Québec,
-
-          <ref target="http://beq.ebooksgratuits.com"/>
-          .
-        </bibl><bibl type="printSource">
-          La présente édition de
-          <hi>Romain Kalbris</hi>
-          reprend l'édition dite
-          <hi>nouvelle</hi>
-          , de la Librairie Ch. Delagrave, Paris, publiée en 1884.
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
+          <ref target="http://beq.ebooksgratuits.com" />
+        </bibl>
+        <bibl type="printSource">
+          <!-- "édition nouvelle" -->
+          <pubPlace>Paris</pubPlace>
+          <publisher>Librairie Ch. Delagrave</publisher>
           <date>1884</date>
-             .
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="firstEdition">
           <date>1869</date>
-             .
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
     </revisionDesc>
@@ -62,52 +70,27 @@
   <text>
     <front>
       <div type="liminal">
+
         <head>Hector Malot vu par Jules Vallès</head>
         <p>C'est un romancier qui, sans attacher de cocarde rouge à son chapeau, a fait œuvre de révolutionnaire. Voici qu'on commence la publication de son œuvre sous la forme populaire, en livraisons à deux sous.</p>
         <p>Je conseille aux camarades de donner leurs deux sous.</p>
-        <p>
-          Le premier livre publié s'appelle
-          <hi>Les Victimes d'amour.</hi>
-          Sous d'autres titres, ce sera, dans les volumes à venir, l'histoire de toutes les victimes qui perdent leur sang dans l'obscurité, un sang pur et clair, et qui ne devait pas couler sous l'ongle du crime.
-        </p>
+        <p> Le premier livre publié s'appelle <hi>Les Victimes d'amour.</hi> Sous d'autres titres, ce sera, dans les volumes à venir, l'histoire de toutes les victimes qui perdent leur sang dans l'obscurité, un sang pur et clair, et qui ne devait pas couler sous l'ongle du crime. </p>
         <p>Goncourt, Zola, Daudet, se ressemblent tous trois, tant soit peu, et il eût suffi, au besoin, qu'un seul d'entre eux fût né pour que le genre eût son état civil, sa marque de fabrique, son estampille. On pourrait dire qu'ils se sont donné la main pour peindre la grande névrose de Paris ; tous leurs personnages, hommes ou femmes, ont dans leurs veines du sang d'Emma, et dans la caboche un grain de sa folie de misère et d'amour. C'est une race spéciale, maladive et bizarre, dont ils ont étudié la vie ou plutôt l'agonie --impitoyables, avec Goncourt et Zola, comme les médecins en tablier d'opérateur, chariteux et doux, avec Daudet, comme les sœurs de Saint-Vincent à coiffe blanche. Mais si la portée de leur œuvre est puissante, le champ de leur observation est, de parti pris, limité : il tient entre l'Assommoir et Lourcine.</p>
         <p>On n'avait pas encore trépané comme cela les gens, pour lire dans un cerveau mis à nu sa fièvre et son mal. Mais on a pratiqué l'opération sur des têtes choisies, et c'est encore la Bohème qui a fait les frais de la nouvelle chirurgie.</p>
         <p>Or, il n'y a pas que la Bohème sous la calotte des cieux, et il est bien temps de laisser l'état-major des détraqués qui tient toute la place dans les livres des romanciers en vogue depuis dix ans, et a caché le gros de l'armée.</p>
         <p>Il y a une classe qui s'appelle la Bourgeoisie et un pays qui s'appelle la Province. Ce pays et cette classe représentent des millions d'hommes et il se passe là-dedans, à toute heure que le bon Dieu fait, des drames autrement émouvants et terribles que ceux de la grande ou basse vie.</p>
-        <p>
-          Cette race meurt de mille morts affreuses, dans des convulsions terribles ; mais elle cache son mal, comme ses crimes, et les romanciers en sont encore à bafouer ses ridicules plutôt qu'à fouiller dans ses plaies et à dénoncer ceux des
-          <hi>dirigeants</hi>
-          qui chourinent le monde, sans se mettre de sang aux doigts.
-        </p>
+        <p> Cette race meurt de mille morts affreuses, dans des convulsions terribles ; mais elle cache son mal, comme ses crimes, et les romanciers en sont encore à bafouer ses ridicules plutôt qu'à fouiller dans ses plaies et à dénoncer ceux des <hi>dirigeants</hi> qui chourinent le monde, sans se mettre de sang aux doigts. </p>
         <p>Or, à l'ombre des privilèges qui ont aidé la Bourgeoisie à vivre, il y a des bourgeois qui tuent, des bourgeois qui crèvent -- tuteurs, héritiers, médecins et malades, avocats et clients, syndics et faillis, déshonorés et décorés, qui ont la rage et se dévorent dans une obscure mêlée. Ce sont des assassinats d'arrière-boutique, des étranglements de coulisse, les coups sont sourds !</p>
-        <p>
-          Eh bien ! lisez
-          <hi>Les Victimes d'amour,</hi>
-          lisez
-          <hi>Le Beau-Frère,</hi>
-          lisez
-          <hi>Le Docteur Claude,</hi>
-          lisez
-          <hi>Une</hi>
-          <hi>Bonne affaire,</hi>
-          lisez
-          <hi>La Belle-Mère</hi>
-          et vous aurez une idée de cette classe, et vous en voudrez presque aux glorieux d'avoir toujours auréolisé des réfractaires du journal, du lupanar ou de l'atelier, alors qu'il y avait à trancher dans le gras de la vie commune.
-        </p>
-        <p>
-          Malot, lui, a taillé là-dedans, les manches retroussées, l'œil tendu : dans les milieux honnêtes et étouffés où l'on parle de décence, de justice et de vertu, il nous montre comment
-          <hi>On peut tuer un homme avec tranquillité</hi>
-          et ce que cache de viols ignobles le manteau de la Loi !
-        </p>
+        <p> Eh bien ! lisez <hi>Les Victimes d'amour,</hi> lisez <hi>Le Beau-Frère,</hi> lisez <hi>Le Docteur Claude,</hi> lisez <hi>Une</hi>
+          <hi>Bonne affaire,</hi> lisez <hi>La Belle-Mère</hi> et vous aurez une idée de cette classe, et vous en voudrez presque aux glorieux d'avoir toujours auréolisé des réfractaires du journal, du lupanar ou de l'atelier, alors qu'il y avait à trancher dans le gras de la vie commune. </p>
+        <p> Malot, lui, a taillé là-dedans, les manches retroussées, l'œil tendu : dans les milieux honnêtes et étouffés où l'on parle de décence, de justice et de vertu, il nous montre comment <hi>On peut tuer un homme avec tranquillité</hi> et ce que cache de viols ignobles le manteau de la Loi ! </p>
         <p>C'est là ce qui le met à part et hors de pair.</p>
         <p>Mais il est né au pays du cidre et non au pays du vin ; il est de Normandie, non de Provence. Il lui eût fallu la pourpre d'un talent du Midi. Il n'y a pas l'éclaboussement du soleil dans ses œuvres ; son style n'a point les fleurs vives de Zola ou les fleurs pâles de Daudet. Il est parfois habillé de gris et a les cheveux ras, comme un puritain.</p>
         <p>On peut répondre que s'il est habillé de gris, c'est qu'il fait besogne d'infirmier, quelquefois, et qu'il se frotte à d'autres gens vêtus de sombre aussi comme les gardiens d'asile ou les gardiens de prison. Il a la couleur de son arme, comme les chasseurs à pied qui sont couleur de pré.</p>
         <p>D'ailleurs, il a moins la soif de la gloire que la faim du travail, et il ne s'est jamais préoccupé de nouer des rubans au manche de sa charrue. Il a labouré, semé -- ayant plus la peur que l'amour des coquelicots, parce qu'ils mangent la place d'un grain de blé, tout en égayant le peuple des épis.</p>
         <p>Disons qu'il n'a pas non plus appelé la renommée comme les paysans rappellent l'essaim, en faisant un charivari de casseroles dans le voisinage de la ruche abandonnée. C'est à ceux qui savent tout ce qu'il vaut de le dire et d'appeler l'attention sur la vertu sourde de son œuvre, si on ne l'a pas remarquée dans le tapage que soulevaient, d'un autre côté, des livres que l'actualité portait sur ses épaules, comme un Hercule porte sur sa tête un clown qu'on voit de tous les coins de la place et qui, ainsi juché, a toute la mine d'un géant.</p>
         <p>
-          <hi>Le Cri du Peuple</hi>
-          , 17 novembre 1884.
-        </p>
+          <hi>Le Cri du Peuple</hi> , 17 novembre 1884. </p>
       </div>
       <div type="liminal">
         <p>
@@ -119,8 +102,10 @@
         <p>HECTOR MALOT.</p>
       </div>
     </front>
+
     <body>
       <div type="chapter">
+
         <head>I</head>
         <p>De ma position présente, il ne faut pas conclure que j'ai eu la Fortune pour marraine. Mes ancêtres, si le mot n'est pas bien ambitieux, étaient des pêcheurs ; mon père était le dernier de onze enfants, et mon grand-père avait eu bien du mal à élever sa famille, car dans ce métier-là plus encore que dans les autres, le gain n'est pas en proportion du travail ; compter sur de la fatigue, du danger, c'est le certain ; sur un peu d'argent, le hasard.</p>
         <p>À dix-huit ans, mon père fut pris par l'inscription maritime ; c'est une espèce de conscription, au moyen de laquelle l'État peut se faire servir par tous les marins pendant trente-deux ans... de dix-huit à cinquante. Il partit ne sachant ni lire ni écrire. Il revint premier maître, ce qui est le plus beau grade auquel parviennent ceux qui n'ont point passé par les écoles du gouvernement.</p>
@@ -129,7 +114,7 @@
         <p>Me prédire des aventures et des voyages, c'était reconnaître que j'étais bien un enfant de la famille, car de père en fils tous les Kalbris avaient été des marins, et même, si la légende est vraie, ils l'étaient déjà au temps de la guerre de Troie. Ce n'est pas nous, bien entendu, qui nous donnons cette origine, mais des savants qui prétendent qu'il y a au Port-Dieu une centaine de familles, précisément celle des marins, qui descendent d'une colonie de Phéniciens. Ce qu'il y a de certain, c'est qu'avec nos yeux noirs, notre teint bistré, notre nez fin, nous n'avons rien du type normand ou breton et que nos barques de pêche sont la reproduction exacte du bateau d'Ulysse tel que nous le montre Homère : un seul mât avec une voile carrée ; ce gréement, très commun dans l'Archipel, est unique dans la Manche.</p>
         <p>Pour nous, nos souvenirs remontaient moins loin, et même leur uniformité les rendait assez confus ; quand on parlait d'un parent, l'histoire n'était guère variée : tout enfant il avait été à la mer ou au-delà des mers, chez des peuples dont les noms sont difficiles à retenir, et il était mort dans un naufrage, dans des batailles, sur les pontons anglais ; les croix portant le nom d'une fille ou d'une veuve étaient nombreuses dans le cimetière, celles portant le nom d'un garçon ou d'un homme l'étaient peu ; ceux-là ne mouraient pas au pays. Comme dans toutes les familles pourtant, nous avions nos héros : l'un était mon grand-père maternel, qui avait été le compagnon de Surcouf ; l'autre était mon grand-oncle Flohy. Aussitôt que je compris ce qui se disait autour de moi, j'entendis son nom dix fois par jour ; il était au service d'un roi de l'Inde qui avait des éléphants ; il commandait des troupes contre les Anglais, et il avait un bras d'argent ; des éléphants, un bras d'argent, ce n'était pas un rêve.</p>
         <p>Ce fut le besoin d'aventures inné dans tous les Kalbris qui fit prendre à mon père un nouvel embarquement peu d'années après son mariage ; il eût pu commander comme second une des goélettes qui partent tous les ans au printemps pour la pêche d'Islande ; mais il était fait au service de l'État et il l'aimait.</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>Je ne me rappelle pas son départ. Mes seuls souvenirs de cette époque se rapportent aux jours de tempête, aux nuits d'orage et aux heures que j'allais passer devant le bureau de poste.</p>
         <p>Combien de fois, la nuit, ma mère m'a-t-elle fait prier devant un cierge qu'elle allumait ! Pour nous, la tempête au Port-Dieu c'était la tempête partout, et le vent qui secouait notre maison nous semblait secouer en même temps le navire de mon père. Quelquefois il soufflait si fort, qu'il fallait se relever pour attacher les fenêtres, car notre maison était une maison de pauvres gens ; bien qu'elle fût abritée d'un côté par un éboulement de la falaise, et de l'autre, par un rouf qui avait autrefois été le salon d'un trois-mâts naufragé, elle résistait mal aux bourrasques d'équinoxe. Une nuit d'octobre, ma mère me réveilla : l'ouragan était terrible, le vent hurlait, la maison gémissait, et il entrait des rafales qui faisaient vaciller la flamme du cierge jusqu'à l'éteindre ; dans les moments d'apaisement, on entendait la bataille des vagues contre les galets, et, comme des détonations, les coups de mer dans les trous de la falaise. Malgré ce bruit formidable, je ne tardai pas à me rendormir à genoux : tout à coup la fenêtre fut arrachée de ses ferrures, jetée dans la chambre où elle se brisa en mille pièces, et il sembla que j'étais enlevé dans un tourbillon.</p>
         <p>« Ah ! mon Dieu, s'écria ma mère, ton père est perdu ! »</p>
@@ -137,16 +122,11 @@
         <p>Au temps dont je parle, le service des lettres ne se faisait pas comme aujourd'hui ; on les distribuait tout simplement au bureau, et quand ceux auxquels elles étaient adressées tardaient trop à venir les prendre, on les leur envoyait par un gamin de l'école. Le jour où le courrier arrivait de Terre-Neuve, le bureau était assiégé, car, du printemps à l'automne, tous les marins sont embarqués pour la pêche de la morue, et un étranger qui arriverait au pays pourrait croire qu'il est dans cette île dont parle l'Arioste et d'où les hommes étaient exclus ; aussi les femmes étaient-elles pressées d'avoir des nouvelles. Leurs enfants dans les bras, elles attendaient qu'on fît l'appel des noms. Les unes riaient en lisant, les autres pleuraient. Celles qui n'avaient pas de lettres interrogeaient celles qui en avaient reçu ; ce n'est pas quand les marins sont à la mer qu'on peut dire : « Pas de nouvelles, bonnes nouvelles. »</p>
         <p>Il y avait une vieille femme qui venait tous les jours depuis six ans, et qui depuis six ans n'avait pas reçu une lettre : on la nommait la mère Jouan, et l'on racontait qu'un canot monté par son mari et ses quatre garçons avait disparu dans un grain, sans qu'en eût retrouvé ni le canot ni les hommes. Depuis que ce bruit s'était répandu, elle venait chaque matin à la poste. « Il n'y a encore rien pour vous, disait le buraliste, ce sera pour demain. » Elle répondait tristement : « Oui, pour demain. » Et elle s'en retournait pour revenir le lendemain. On disait qu'elle avait la tête dérangée ; si folle elle était, je n'ai depuis jamais vu folie triste et douce comme la sienne.</p>
         <p>Presque toutes les fois que j'allais au bureau, je la trouvais déjà arrivée. Comme le buraliste était à la fois épicier et directeur de la poste, il commençait naturellement par s'occuper de ceux qui lui demandaient du sel ou du café, et nous donnait ainsi tout le temps de causer ; méthodique et rigoureux sur les usages de sa double profession, il nous allongeait encore ce temps par toutes sortes de cérémonies préparatoires : épicier, il portait un tablier bleu et une casquette ; directeur de la poste, une veste de drap et une toque en velours. Pour rien au monde, il n'eût servi de la moutarde la toque sur la tête, et, sachant qu'il avait entre les mains une lettre de laquelle dépendait la vie de dix hommes, il ne l'eût pas remise sans ôter son tablier.</p>
-        <p>
-          Tous les matins, la mère Jouan me recommençait son récit : « Ils étaient à pêcher, un grain est arrivé si fort, qu'ils ont été obligés de fuir vent arrière au lieu de regagner le
-          <hi>Bien-Aimé ;</hi>
-          ils ont passé à côté de la
-          <hi>Prudence</hi>
-          sans pouvoir l'accoster. Mais tu comprends bien qu'avec un matelot comme Jouan il n'y avait pas de danger. Ils auront trouvé quelque navire au large qui les aura emmenés : ça s'est vu bien des fois ; c'est comme ça qu'est revenu le garçon de Mélanie. On les a peut-être débarqués en Amérique. Quand ils reviendront, c'est Jérôme qui aura grandi ! il avait quatorze ans ; quatorze ans et puis six ans, combien que ça fait ? -- Vingt ans. -- Vingt ans ! ça sera un homme. »
-        </p>
+        <p> Tous les matins, la mère Jouan me recommençait son récit : « Ils étaient à pêcher, un grain est arrivé si fort, qu'ils ont été obligés de fuir vent arrière au lieu de regagner le <hi>Bien-Aimé ;</hi> ils ont passé à côté de la <hi>Prudence</hi> sans pouvoir l'accoster. Mais tu comprends bien qu'avec un matelot comme Jouan il n'y avait pas de danger. Ils auront trouvé quelque navire au large qui les aura emmenés : ça s'est vu bien des fois ; c'est comme ça qu'est revenu le garçon de Mélanie. On les a peut-être débarqués en Amérique. Quand ils reviendront, c'est Jérôme qui aura grandi ! il avait quatorze ans ; quatorze ans et puis six ans, combien que ça fait ? -- Vingt ans. -- Vingt ans ! ça sera un homme. » </p>
         <p>Elle n'admit jamais qu'ils étaient perdus. Elle mourut elle-même sans les croire morts, et elle avait confié peu de jours auparavant au curé trois louis pour qu'il les remît à Jérôme quand il reviendrait : malgré le besoin et la misère, elle les avait toujours gardés pour son petit dernier.</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>L'embarquement de mon père devait durer trois années, il en dura six : l'état-major fut successivement remplacé, mais l'équipage tout entier resta dans le Pacifique jusqu'au jour où la frégate menaça de couler bas.</p>
         <p>J'avais dix ans lorsqu'il revint au pays.</p>
@@ -167,16 +147,13 @@
         <p>Par ce moyen, elle espérait nous garder à terre pendant la saison d'hiver, alors que les navires qui font la pêche rentrent au port pour désarmer. Mais que peuvent les combinaisons et les prévisions humaines contre la destinée ?</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p>Mon père était revenu en août ; au mois de septembre, le temps, qui avait été beau pendant plus de trois mois, se mit au mauvais ; il y eut une série d'ouragans comme il y avait eu une série de calme. On ne parlait que de naufrages sur nos côtes ; un vapeur s'était perdu corps et biens dans le raz Blanchard ; plusieurs barques de Granville avaient disparu, et l'on disait que la mer aux alentours de Jersey était couverte de débris ; à terre, les chemins étaient encombrés de branches rompues ; les pommes, encore vertes, couvraient le sol, aussi drues que si elles avaient été gaulées ; bien des pommiers étaient les racines en l'air ou tordus par le milieu du tronc, et les feuilles pendaient aux branches, roussies comme si elles avaient été exposées à un feu de paille.</p>
         <p>Tout le monde vivait dans la crainte, car c'était le moment du retour des Terreneuviers.</p>
         <p>Cela dura près de trois semaines, puis un soir il se fit une accalmie complète à la fois sur la terre et sur la mer : je croyais la tempête passée, mais au souper mon père se moqua de moi quand je lui demandai si nous n'irions pas le lendemain relever les filets qui étaient tendus depuis le commencement du mauvais temps.</p>
         <p>« Demain, dit-il, la bourrasque se mettra en plein à l'ouest ; le soleil s'est couché dans un brouillard roux, il y a trop d'étoiles au ciel, la mer gémit, la terre est chaude ; tu verras plus fort que tu n'as encore vu. »</p>
-        <p>
-          Aussi le lendemain, au lieu d'aller à la mer, nous nous mîmes à charrier des pierres sur le toit du
-          <hi>rouf</hi>
-          . Le vent d'ouest s'était élevé avec le jour ; pas de soleil, un ciel sale, éclairé de place en place par de longues lignes vertes, et bien que la mer fût basse, au loin, un bruit sourd semblable à un hurlement.
-        </p>
+        <p> Aussi le lendemain, au lieu d'aller à la mer, nous nous mîmes à charrier des pierres sur le toit du <hi>rouf</hi> . Le vent d'ouest s'était élevé avec le jour ; pas de soleil, un ciel sale, éclairé de place en place par de longues lignes vertes, et bien que la mer fût basse, au loin, un bruit sourd semblable à un hurlement. </p>
         <p>Tout à coup mon père, qui était sur le toit du rouf, s'arrêta dans son travail, je montai auprès de lui. Au large, à l'horizon, on apercevait un petit point blanc sur le ciel sombre : c'était un navire.</p>
         <p>« S'ils n'ont point d'avaries, ils veulent donc se perdre », dit mon père.</p>
         <p>En effet, par les vents d'ouest, le Port-Dieu est inabordable.</p>
@@ -209,101 +186,44 @@
         <p>– Rien, dit le père Housard, ce n'est pas pour vous ; mais si j'y reste et que ma vieille vous demande deux sous le dimanche, ne la refusez pas.</p>
         <p>– Kalbris, dit M. Leheu, j'adopterai ton gars.</p>
         <p>– Ce n'est pas tout ça ; il nous faut le bateau à Gesseaume. »</p>
-        <p>
-          Ce bateau, qu'on appelait le
-          <hi>Saint-Jean,</hi>
-          était célèbre sur toute la côte pour bien porter la toile par n'importe quel temps.
-        </p>
+        <p> Ce bateau, qu'on appelait le <hi>Saint-Jean,</hi> était célèbre sur toute la côte pour bien porter la toile par n'importe quel temps. </p>
         <p>« Je veux bien, dit Gesseaume, cédant à tous les yeux ramassés sur lui, mais c'est à Kalbris que je le prête, il faut qu'il me le ramène. »</p>
-        <p>
-          Mon père m'avait pris par la main ; nous nous mîmes à courir vers la cale où le
-          <hi>Saint-Jean</hi>
-          était à sec : en une minute il fut appareillé de sa voile et de son gouvernail.
-        </p>
+        <p> Mon père m'avait pris par la main ; nous nous mîmes à courir vers la cale où le <hi>Saint-Jean</hi> était à sec : en une minute il fut appareillé de sa voile et de son gouvernail. </p>
         <p>Outre mon père et le pilote, il fallait un troisième marin, un de nos cousins se présenta : on voulut le retenir.</p>
         <p>« Kalbris y va bien », dit-il.</p>
         <p>Mon père me prit dans ses bras, et d'une voix dont je me rappelle encore l'accent :</p>
         <p>« On ne sait pas, dit-il en m'embrassant, tu diras à ta mère que je l'embrasse. »</p>
-        <p>
-          Sortir du port avec ce vent debout était la grande difficulté ; les haleurs qui tiraient sur l'amarre du
-          <hi>Saint-Jean</hi>
-          n'avancèrent pas, il y avait des secousses qui leur faisaient lâcher prise et les éparpillaient en les bousculant. La pointe extrême de la jetée était balayée par les vagues ; il fallait cependant que le
-          <hi>Saint-Jean</hi>
-          fût halé en dehors de cette pointe pour prendre le vent. Le gardien du phare se noua autour des reins un grelin, et, pendant que les haleurs maintenaient tant bien que mal le
-          <hi>Saint-Jean</hi>
-          dans le chenal, il se baissa le long du parapet et s'avança en tenant à deux mains la rampe en fer qui y est fixée. Il n'avait pas la prétention, vous le sentez bien, de sortir à lui tout seul la barque, que cinquante bras pouvaient à peine entraîner, mais seulement, et c'était un rude travail, de passer l'amarre autour de la poulie de bronze qui est à l'extrémité de la jetée, de telle sorte que la barque, trouvant là son point d'appui, pût s'avancer en sens contraire des haleurs revenant sur leurs pas. Trois fois il fut couvert par la vague, mais il avait l'habitude de ces avalanches d'eau ; il résista et parvint à enrouler le grelin. Le
-          <hi>Saint-Jean</hi>
-          recommença à avancer lentement en plongeant si lourdement dans les lames que c'était à croire qu'elles allaient l'emplir. Tout à coup l'amarre mollit et vint d'elle-même ; elle avait été larguée et le
-          <hi>Saint-Jean</hi>
-          doublait la jetée.
-        </p>
+        <p> Sortir du port avec ce vent debout était la grande difficulté ; les haleurs qui tiraient sur l'amarre du <hi>Saint-Jean</hi> n'avancèrent pas, il y avait des secousses qui leur faisaient lâcher prise et les éparpillaient en les bousculant. La pointe extrême de la jetée était balayée par les vagues ; il fallait cependant que le <hi>Saint-Jean</hi> fût halé en dehors de cette pointe pour prendre le vent. Le gardien du phare se noua autour des reins un grelin, et, pendant que les haleurs maintenaient tant bien que mal le <hi>Saint-Jean</hi> dans le chenal, il se baissa le long du parapet et s'avança en tenant à deux mains la rampe en fer qui y est fixée. Il n'avait pas la prétention, vous le sentez bien, de sortir à lui tout seul la barque, que cinquante bras pouvaient à peine entraîner, mais seulement, et c'était un rude travail, de passer l'amarre autour de la poulie de bronze qui est à l'extrémité de la jetée, de telle sorte que la barque, trouvant là son point d'appui, pût s'avancer en sens contraire des haleurs revenant sur leurs pas. Trois fois il fut couvert par la vague, mais il avait l'habitude de ces avalanches d'eau ; il résista et parvint à enrouler le grelin. Le <hi>Saint-Jean</hi> recommença à avancer lentement en plongeant si lourdement dans les lames que c'était à croire qu'elles allaient l'emplir. Tout à coup l'amarre mollit et vint d'elle-même ; elle avait été larguée et le <hi>Saint-Jean</hi> doublait la jetée. </p>
         <p>Je sautai sur le glacis de la batterie et j'embrassai si solidement de mes bras et de mes jambes le mât des signaux, que je pus m'y cramponner ; il ployait et craquait comme si, vivant encore, il se fût balancé sur ses racines dans la forêt natale.</p>
-        <p>
-          J'aperçus mon père au gouvernail, auprès de lui les deux hommes étaient appuyés contre le bordage, le dos au vent. Le
-          <hi>Saint-Jean</hi>
-          s'avançait par saccades ; tantôt il s'arrêtait, tantôt il filait comme un boulet qui ricoche dans des flots d'écume ; tantôt il disparaissait entièrement dans cette poussière d'eau que les marins nomment des embruns.
-        </p>
-        <p>
-          Le brick, dès qu'il le vit, changea sa route et gouverna en plein sur le phare ; aussitôt que le
-          <hi>Saint-Jean</hi>
-          se fut assez élevé dans le vent, il changea aussi sa bordée et gouverna pour couper le brick ; en quelques minutes ils se joignirent : la barque passa sous le beaupré du grand navire et presque aussitôt pivota sur elle-même ; ils étaient attachés l'un à l'autre.
-        </p>
+        <p> J'aperçus mon père au gouvernail, auprès de lui les deux hommes étaient appuyés contre le bordage, le dos au vent. Le <hi>Saint-Jean</hi> s'avançait par saccades ; tantôt il s'arrêtait, tantôt il filait comme un boulet qui ricoche dans des flots d'écume ; tantôt il disparaissait entièrement dans cette poussière d'eau que les marins nomment des embruns. </p>
+        <p> Le brick, dès qu'il le vit, changea sa route et gouverna en plein sur le phare ; aussitôt que le <hi>Saint-Jean</hi> se fut assez élevé dans le vent, il changea aussi sa bordée et gouverna pour couper le brick ; en quelques minutes ils se joignirent : la barque passa sous le beaupré du grand navire et presque aussitôt pivota sur elle-même ; ils étaient attachés l'un à l'autre. </p>
         <p>« La remorque ne tiendra pas, dit une voix. -- Quand elle tiendrait, ils ne pourront jamais s'affaler le long du brick », dit une autre.</p>
-        <p>
-          Il paraissait, en effet, impossible que le
-          <hi>Saint-Jean</hi>
-          pût s'approcher assez du brick pour permettre au père Housard d'y grimper : ou le
-          <hi>Saint-Jean</hi>
-          devait être broyé ou le père Housard devait tomber à la mer.
-        </p>
+        <p> Il paraissait, en effet, impossible que le <hi>Saint-Jean</hi> pût s'approcher assez du brick pour permettre au père Housard d'y grimper : ou le <hi>Saint-Jean</hi> devait être broyé ou le père Housard devait tomber à la mer. </p>
         <p>Joints l'un à l'autre, emportés dans la même rafale, poussés par la même vague, le navire et la barque approchaient. Quand le beaupré plongeait, on voyait le pont se dresser et l'équipage, incapable de tenir pied, s'accrocher où il pouvait.</p>
         <p>« Monte donc, monte donc », criait M. Leheu.</p>
-        <p>
-          Trois ou quatre fois déjà le père Housard avait essayé de s'élancer, mais les deux navires s'étaient violemment séparés : la barque, lancée à vingt ou trente mètres au bout de la remorque, allait, devant, derrière, au hasard des lames qui l'emportaient. Enfin, le brick fit une embardée du côté du
-          <hi>Saint-Jean,</hi>
-          et, quand la vague qui l'avait soulevé s'abaissa, le pilote se cramponnait à son bord sur le porte-haubans.
-        </p>
+        <p> Trois ou quatre fois déjà le père Housard avait essayé de s'élancer, mais les deux navires s'étaient violemment séparés : la barque, lancée à vingt ou trente mètres au bout de la remorque, allait, devant, derrière, au hasard des lames qui l'emportaient. Enfin, le brick fit une embardée du côté du <hi>Saint-Jean,</hi> et, quand la vague qui l'avait soulevé s'abaissa, le pilote se cramponnait à son bord sur le porte-haubans. </p>
         <p>Il semblait que le vent avait vaincu toute résistance, nivelé, démoli, emporté les obstacles : il passait sur nous et au travers de nous irrésistiblement, sans ces intervalles de repos et de reprise qui laissent au moins un moment pour respirer. On ne sentait plus qu'une violente poussée, toujours dans le même sens ; on n'entendait plus qu'un soufflement qui rendait sourd. Sous cet aplatissement, les vagues étaient soulevées avant de se former ; elles s'écroulaient les unes sur les autres en tourbillons.</p>
         <p>Le brick arrivait rapide comme la tempête elle-même, portant seulement tout juste ce qu'il fallait de toile pour gouverner. Bien que la mer parût aplatie, il avait des mouvements de roulis et de tangage dans lesquels il s'abattait furieusement de côté et d'autre comme s'il allait virer : au milieu d'une de ces secousses, on ne vit plus que des lambeaux de toile ; son hunier avait été emporté ; n'ayant plus de point d'appui pour gouverner, il vint par le travers : il était à peine à deux ou trois cents mètres de l'entrée.</p>
         <p>Un même cri sortit de toutes les poitrines.</p>
-        <p>
-          Le
-          <hi>Saint-Jean,</hi>
-          à bord duquel étaient restés mon père et mon cousin, suivait le brick à une petite distance ; pour ne pas se heurter contre cette masse, il prit au large, mais au même moment une trinquette fut hissée à bord du brick ; celui-ci revint dans la passe, en coupant une fois encore la route à la barque, qu'il masqua entièrement de sa masse noire. Deux secondes après, il donnait dans le chenal.
-        </p>
+        <p> Le <hi>Saint-Jean,</hi> à bord duquel étaient restés mon père et mon cousin, suivait le brick à une petite distance ; pour ne pas se heurter contre cette masse, il prit au large, mais au même moment une trinquette fut hissée à bord du brick ; celui-ci revint dans la passe, en coupant une fois encore la route à la barque, qu'il masqua entièrement de sa masse noire. Deux secondes après, il donnait dans le chenal. </p>
         <p>C'était la barque que je suivais bien plus que le brick : quand je la cherchai, celui-ci entré, je ne la vis plus. Puis presque aussitôt je l'aperçus en dehors de la jetée ; gênée par la manœuvre du grand navire, elle avait manqué la passe trop étroite, et elle courait vers une sorte de crique à droite de la jetée, ou ordinairement, dans les jours d'orage, on trouvait une mer moins tourmentée.</p>
-        <p>
-          Mais ce jour-là, comme partout, à perte de vue, la mer y était furieuse, et il fallait une impossibilité absolue de remonter dans le vent pour s'y laisser affaler ; la voile fut amenée, une ancre fut mouillée, et aux vagues qui se précipitaient du large le canot présenta l'avant ; entre lui et la plage se dressait une ligne de rochers qui ne devaient pas être couverts d'eau avant une demi-heure. L'ancre tiendrait-elle ? La corde ne serait-elle pas coupée ? Le
-          <hi>Saint-Jean</hi>
-          pourrait-il toujours s'élever à la lame sans plonger ?
-        </p>
+        <p> Mais ce jour-là, comme partout, à perte de vue, la mer y était furieuse, et il fallait une impossibilité absolue de remonter dans le vent pour s'y laisser affaler ; la voile fut amenée, une ancre fut mouillée, et aux vagues qui se précipitaient du large le canot présenta l'avant ; entre lui et la plage se dressait une ligne de rochers qui ne devaient pas être couverts d'eau avant une demi-heure. L'ancre tiendrait-elle ? La corde ne serait-elle pas coupée ? Le <hi>Saint-Jean</hi> pourrait-il toujours s'élever à la lame sans plonger ? </p>
         <p>Je n'étais qu'un enfant, mais j'avais assez l'expérience des choses de la mer pour calculer l'horrible longueur de cette attente.</p>
         <p>Autour de moi, j'entendais aussi se poser ces questions, car nous avions couru sur la grève et nous étions groupés en tas pour résister au vent :</p>
-        <p>
-          « S'ils tiennent encore, ils pourront échouer ; si le
-          <hi>Saint-Jean</hi>
-          vient au plein, il sera brisé en miettes.
-        </p>
+        <p> « S'ils tiennent encore, ils pourront échouer ; si le <hi>Saint-Jean</hi> vient au plein, il sera brisé en miettes. </p>
         <p>– Kalbris est un rude nageur.</p>
         <p>– Ah ! oui, nager ! »</p>
         <p>Une planche elle-même eût été engloutie dans ces tourbillons d'eau, d'herbe, de cailloux, d'écume, qui s'abattaient sur la plage, où ils creusaient des trous. Les vagues, repoussées par les rochers, produisaient un ressac qui, en reculant, rencontrait celles venant du large, et ainsi pressées elles montaient les unes par-dessus les autres et s'écroulaient en cascades.</p>
-        <p>
-          Tandis que je restais haletant, les yeux sur le
-          <hi>Saint-Jean,</hi>
-          je me sens saisir à deux bras ; je me retournai ; c'était ma mère qui accourait à moi, éperdue ; elle avait tout vu du haut de la falaise.
-        </p>
+        <p> Tandis que je restais haletant, les yeux sur le <hi>Saint-Jean,</hi> je me sens saisir à deux bras ; je me retournai ; c'était ma mère qui accourait à moi, éperdue ; elle avait tout vu du haut de la falaise. </p>
         <p>On vint nous entourer, le capitaine Houel et quelques autres ; on nous parlait, on tâchait de nous rassurer : sans répondre à personne, ma pauvre mère regardait au large.</p>
         <p>Tout à coup un grand cri domina le bruit de la tempête :</p>
         <p>« L'ancre a lâché ! »</p>
         <p>Ma mère tomba à genoux et m'entraîna avec elle.</p>
-        <p>
-          Quand je relevai les yeux, je vis le
-          <hi>Saint-Jean</hi>
-          arriver par le travers sur la crête d'une vague immense ; soulevé, porté par elle, il passa par-dessus la barrière de rochers ; mais la vague se creusa pour s'abattre ; la barque se dressa tout debout en tournoyant, et je ne vis plus qu'une nappe d'écume.
-        </p>
+        <p> Quand je relevai les yeux, je vis le <hi>Saint-Jean</hi> arriver par le travers sur la crête d'une vague immense ; soulevé, porté par elle, il passa par-dessus la barrière de rochers ; mais la vague se creusa pour s'abattre ; la barque se dressa tout debout en tournoyant, et je ne vis plus qu'une nappe d'écume. </p>
         <p>Ce fut seulement deux jours après qu'on retrouva le corps de mon père horriblement mutilé ; on ne retrouva jamais celui de mon cousin.</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
         <p>Pendant six années, la place de mon père avait été vide au bout de la table, mais ce n'était pas le vide effrayant et morne qui suivit cette catastrophe.</p>
         <p>Sa mort ne nous réduisit pas absolument à la misère, car nous avions notre maison et un peu de terre ; cependant ma mère dut travailler pour vivre.</p>
@@ -332,20 +252,10 @@
         <p>– Tu as neuf ans, continua-t-il en me posant la main sur la tête et en plongeant ses yeux dans les mains, c'est aujourd'hui vendredi, il est midi, tu fais l'école buissonnière.</p>
         <p>Je baissai les yeux en rougissant.</p>
         <p>– Tu fais l'école buissonnière, poursuivit-il, ceci n'est pas bien difficile à deviner ; maintenant je vais te dire pourquoi. Ne tremble pas, petit nigaud, je ne suis pas sorcier. Allons, regarde-moi. Tu veux profiter de la marée pour pêcher.</p>
-        <p>
-          -- Oui, monsieur, et pour voir la
-          <hi>Tête de chien.</hi>
+        <p> -- Oui, monsieur, et pour voir la <hi>Tête de chien.</hi>
         </p>
-        <p>
-          La
-          <hi>Tête de chien</hi>
-          est un rocher qui ne découvre que très rarement.
-        </p>
-        <p>
-          -- Hé bien ! moi aussi, je vais à la
-          <hi>Tête de chien</hi>
-           ; prends mon filet et suis-moi.
-        </p>
+        <p> La <hi>Tête de chien</hi> est un rocher qui ne découvre que très rarement. </p>
+        <p> -- Hé bien ! moi aussi, je vais à la <hi>Tête de chien</hi>  ; prends mon filet et suis-moi. </p>
         <p>Je le suivis sans souffler mot, j'étais abasourdi qu'il m'eût si facilement deviné. Quoique je le connusse bien, c'était la première fois que j'échangeais autant de paroles avec lui, et je ne savais pas que son plaisir était de chercher le mobile secret des actions de ceux avec lesquels il se trouvait ; une grande finesse et une longue expérience le faisaient souvent toucher juste, et, comme il ne craignait personne, il disait toujours son impression quelle qu'elle fût, gracieuse ou blessante.</p>
         <p>Bien que j'en eusse peu envie, il me fallut parler, tout au moins répondre aux questions qu'il ne cessa de me poser. Il n'y avait pas un quart d'heure que je marchais derrière lui qu'il savait tout ce que je pouvais lui apprendre sur moi-même, sur mon père, sur ma mère, sur ma famille. Ce que je lui racontai de mon oncle l'Indien parut l'intéresser.</p>
         <p>– Curieux, disait-il, esprit d'aventure, sang normand mêlé au sang phénicien ; d'où peut venir Calbris ou Kalbris.</p>
@@ -361,11 +271,7 @@
         <p>Dans un trou plein d'eau, je pris une petite raie : elle avait enfoui ses ailerons dans le sable pour se cacher, mais ses taches brunes et blanches me la firent apercevoir ; je la portai à M. de Bihorel.</p>
         <p>– Tu as trouvé cette raie, me dit-il, parce qu'elle a des marbrures, et ce qui te l'a fait découvrir la dénonce aussi aux poissons voraces ; or, comme au fond des mers règne une guerre générale dans laquelle on se tue les uns les autres, ainsi que cela arrive trop souvent sur la terre, simplement pour le plaisir et la gloire, ces pauvres raies, qui nagent mal, ne tarderaient pas à être exterminées si la nature n'y avait pourvu ; regarde la queue de ta raie, elle est hérissée d'épines et de dards, si bien que, quand elle se sauve, elle ne peut être attaquée par là, et que les ennemis que ses taches attirent doivent s'arrêter devant sa cuirasse. Il y a là une loi d'équilibre universel que tu peux remarquer aujourd'hui et que tu comprendras plus tard.</p>
         <p>J'étais émerveillé ; vous pouvez comprendre quel effet produisait cette leçon démonstrative sur un enfant naturellement curieux et questionneur, qui n'avait jamais trouvé personne pour lui répondre. La crainte, qui tout d'abord m'avait clos la bouche, s'était promptement dissipée.</p>
-        <p>
-          Suivant toujours la marée qui se retirait, nous arrivâmes à la
-          <hi>Tête de chien.</hi>
-          Combien y restâmes-nous, je n'en sais rien. Je n'avais plus conscience du temps. Je courais de rocher en rocher, et je rapportais à M. de Bihorel les coquilles ou les plantes que je voyais pour la première fois. J'emplissais mes poches d'un tas de choses qui me semblaient très curieuses au moment où je les trouvais et que bientôt je jetais pour les remplacer par d'autres qui avaient l'incontestable supériorité d'être nouvelles.
-        </p>
+        <p> Suivant toujours la marée qui se retirait, nous arrivâmes à la <hi>Tête de chien.</hi> Combien y restâmes-nous, je n'en sais rien. Je n'avais plus conscience du temps. Je courais de rocher en rocher, et je rapportais à M. de Bihorel les coquilles ou les plantes que je voyais pour la première fois. J'emplissais mes poches d'un tas de choses qui me semblaient très curieuses au moment où je les trouvais et que bientôt je jetais pour les remplacer par d'autres qui avaient l'incontestable supériorité d'être nouvelles. </p>
         <p>Tout à coup, en levant les yeux, je ne vis plus la côte ; elle avait disparu dans un léger brouillard ; le ciel était uniformément d'un gris pâle ; la mer était si calme que c'était à peine si nous l'entendions derrière nous.</p>
         <p>J'aurais été seul que je serais rentré, car je savais combien il est difficile, par un temps de brouillard, de retrouver son chemin au milieu des grèves ; mais M. de Bihorel ne disant rien, je n'osai rien dire non plus.</p>
         <p>Cependant le brouillard, qui enveloppait toute la côte, s'avança vers nous comme un nuage de fumée montant de la terre droit au ciel.</p>
@@ -374,35 +280,19 @@
         <p>– La mer est là, dit M. de Bihorel sans s'inquiéter, nous n'avons qu'à aller droit devant nous.</p>
         <p>Aller droit devant nous sur le sable, sans rien pour nous guider, ni ornière, ni trace quelconque, ni pente même pour indiquer si nous descendions ou nous montions, c'était jouer sérieusement le jeu du tapis vert de Versailles, dans lequel il s'agit d'aller les yeux bandés du parterre de Latone au bassin d'Apollon sans dévier et sans marcher sur le sable ; avec cette circonstance aggravante pour nous que nous avions au moins une demi-lieue à faire avant de trouver les falaises.</p>
         <p>Il n'y avait pas dix minutes que nous marchions, quand nous fûmes arrêtés par un amas de rochers.</p>
-        <p>
-          -- C'est les
-          <hi>Pierres vertes</hi>
-          , dis-je.
-        </p>
+        <p> -- C'est les <hi>Pierres vertes</hi> , dis-je. </p>
         <p>– C'est le Pouldu, dit M. de Bihorel.</p>
-        <p>
-          -- C'est les
-          <hi>Pierres vertes</hi>
-          , monsieur.
-        </p>
+        <p> -- C'est les <hi>Pierres vertes</hi> , monsieur. </p>
         <p>Il me donna une petite tape sur la joue :</p>
         <p>– Ah ! ah ! il paraît que nous avons une bonne petite caboche, dit-il.</p>
-        <p>
-          Si c'étaient les
-          <hi>Pierres vertes</hi>
-          , nous devions les longer en allant à droite et nous rapprocher ainsi du Port-Dieu ; si, au contraire, c'était le Pouldu, nous devions prendre à gauche, sous peine de tourner le dos au village.
-        </p>
+        <p> Si c'étaient les <hi>Pierres vertes</hi> , nous devions les longer en allant à droite et nous rapprocher ainsi du Port-Dieu ; si, au contraire, c'était le Pouldu, nous devions prendre à gauche, sous peine de tourner le dos au village. </p>
         <p>En plein jour, rien n'est plus facile que de distinguer ces deux rochers ; même la nuit, à la clarté de la lune, je les aurais facilement reconnus ; mais, dans le brouillard, nous voyions les pierres couvertes de varech et voilà tout.</p>
         <p>– Écoutons, dit M. de Bihorel, le bruit de la côte nous guidera.</p>
         <p>Nous n'entendîmes rien, ni le bruit de la côte, ni le bruit de la mer. Il ne faisait pas un souffle de vent. Nous étions comme plongés dans une ouate blanche qui nous bouchait les oreilles aussi bien que les yeux.</p>
         <p>– C'est le Pouldu, dit M. de Bihorel.</p>
         <p>Je n'osai le contredire davantage et le suivis en tournant comme lui à gauche.</p>
         <p>– Viens près de moi, mon enfant, me dit-il d'une voix douce, donne-moi la main, que nous ne nous séparions point ; une, deux, marchons au pas.</p>
-        <p>
-          Nous marchâmes encore environ dix minutes, puis je sentis sa main qui serrait la mienne. On entendait un faible clapotement. Nous nous étions trompés, c'étaient les
-          <hi>Pierres vertes</hi>
-           ; nous nous dirigions droit vers la mer et nous n'en étions plus qu'à quelques pas.
-        </p>
+        <p> Nous marchâmes encore environ dix minutes, puis je sentis sa main qui serrait la mienne. On entendait un faible clapotement. Nous nous étions trompés, c'étaient les <hi>Pierres vertes</hi>  ; nous nous dirigions droit vers la mer et nous n'en étions plus qu'à quelques pas. </p>
         <p>– Tu avais raison, dit-il, il fallait prendre à droite ; retournons.</p>
         <p>Retourner où ? Comment nous diriger ? Nous savions où était la mer parce que nous entendions le flot se briser doucement, mais en nous éloignant nous n'entendions plus rien, et nous ne savions plus si nous tournions le dos à la côte ou si nous donnions sur elle.</p>
         <p>L'obscurité devenait de plus en plus opaque, car à l'épaisseur du brouillard s'ajoutait l'approche de la nuit. Nous ne voyions plus depuis quelques instants déjà le bout de nos pieds, et ce fut à peine si M. de Bihorel put distinguer l'heure à sa montre. Il était six heures ; la marée allait commencer à remonter.</p>
@@ -443,18 +333,10 @@
         <p>– La marée monte depuis plus d'une heure.</p>
         <p>– Alors, monsieur, vous voyez bien que nous nous sommes rapprochés de la côte.</p>
         <p>Comme pour donner une confirmation à mon raisonnement, nous entendîmes derrière nous un ronflement sourd ; il n'y avait pas à s'y tromper, c'était la marée montante qui arrivait.</p>
-        <p>
-          -- C'était une
-          <hi>nau</hi>
-          que nous avons devant nous, dit-il.
-        </p>
+        <p> -- C'était une <hi>nau</hi> que nous avons devant nous, dit-il. </p>
         <p>– Je le crois bien, monsieur.</p>
         <p>Ces plages, précisément, parce qu'elles sont formées d'un sable mouvant, ne restent pas parfaitement planes. Il s'y forme ça et là de petits monticules séparés les uns des autres par de petites vallées ; tout cela à peu près plat pour l'œil, tant les différences de niveau sont légères, mais parfaitement sensible pour l'eau, si bien qu'à la marée montante ce sont les vallées qui se remplissent les premières et les monticules restent à sec, formant des îles, battues d'un côté par le flot montant, entourées de tous les autres par l'eau qui court dans les vallées comme dans le lit d'une rivière. Nous étions en face d'une de ces rivières. Était-elle profonde ? Toute la question était là.</p>
-        <p>
-          -- Il faut passer la
-          <hi>nau</hi>
-          , dit M. de Bihorel ; tiens-moi bien.
-        </p>
+        <p> -- Il faut passer la <hi>nau</hi> , dit M. de Bihorel ; tiens-moi bien. </p>
         <p>Et comme j'hésitais :</p>
         <p>– As-tu pas peur de te mouiller, dit-il, les pieds ou la tête ? choisis ; moi, j'aime mieux les pieds.</p>
         <p>– Non, monsieur, nous allons nous perdre dans l'eau.</p>
@@ -467,7 +349,7 @@
         <p>Il n'y avait pas de temps à perdre, la mer arrivait rapidement ; de seconde en seconde on entendait son soufflement plus fort. Il entra dans l'eau et je commençai à crier.</p>
         <p>– Ne crie pas, dit M. de Bihorel, que je ne voyais plus, chante plutôt si tu peux.</p>
         <p>– Oui, monsieur, et je me mis à chanter :</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>
           <hi>Il est né en Normandie ;</hi>
         </p>
@@ -483,11 +365,11 @@
         <p>
           <hi>Tra la, la, tra la, la.</hi>
         </p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>Je m'interrompis.</p>
         <p>– Avez-vous pied, monsieur ?</p>
         <p>– Oui, mon enfant, il me semble que je commence à remonter ; chante.</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>
           <hi>Ses lèvres étaient vermeilles</hi>
         </p>
@@ -503,7 +385,7 @@
         <p>
           <hi>Tra la, la, tra la, la.</hi>
         </p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>J'allais chanter le troisième couplet de cette ronde.</p>
         <p>– À ton tour, me cria M. de Bihorel, je n'ai plus d'eau que jusqu'aux genoux, viens !</p>
         <p>Et il entonna un air sans paroles qui était triste comme une chanson de mort.</p>
@@ -518,11 +400,7 @@
         <p>Le brouillard semblait s'être encore épaissi ; la nuit était venue, et, bien que nous fussions plus rapprochés de la falaise, nous n'entendions aucun bruit de ce côté qui nous dît : « La terre est là, » ni le beuglement d'une vache, ni un coup de fouet, ni le grincement d'un essieu, rien : un silence lourd devant nous ; derrière, le grondement sourd et continu de la mer qui montait.</p>
         <p>C'était là notre seule boussole maintenant, mais bien incertaine et bien perfide. Si nous avancions trop vite, nous pouvions nous perdre ; si nous n'avancions pas assez vite, la marée menaçait de nous atteindre et de nous engloutir avant que nous fussions arrivés au galet, où la pente plus rapide ralentirait sa course.</p>
         <p>Nous recommençâmes donc à marcher en nous tenant par la main ; souvent je me baissais pour tâter le sable, mais je ne trouvais plus d'eau courante : nous étions sur un banc coupé de petites rides, et l'eau y restait stagnante dans les creux, ou bien, en petits filets, elle se répandait parallèlement au rivage.</p>
-        <p>
-          L'espoir que j'avais eu, la
-          <hi>nau</hi>
-          traversée, nous abandonnait, lorsque subitement nous nous arrêtâmes tous les deux en même temps. Le son d'une cloche avait déchiré l'atmosphère qui nous enveloppait.
-        </p>
+        <p> L'espoir que j'avais eu, la <hi>nau</hi> traversée, nous abandonnait, lorsque subitement nous nous arrêtâmes tous les deux en même temps. Le son d'une cloche avait déchiré l'atmosphère qui nous enveloppait. </p>
         <p>Après un intervalle de deux ou trois secondes, nous entendîmes un deuxième, puis bientôt un troisième coup.</p>
         <p>C'était l'Angélus au Port-Dieu ; nous n'avions plus qu'à marcher du côté d'où venait le son, nous étions sauvés.</p>
         <p>Sans rien nous dire, et d'un commun accord, nous nous mîmes à courir.</p>
@@ -531,19 +409,11 @@
         <p>Elle cessa ; nous étions toujours sur le sable. Peut-être le galet n'était-il qu'à quelques mètres ; peut-être n'avions-nous que la jambe à allonger pour le toucher ; mais comment savoir de quel côté ? Le pas que nous allions faire en avant pouvait aussi bien nous rapprocher du salut que nous en éloigner, et dans ce cas nous rejeter au milieu des dangers que nous venions de courir.</p>
         <p>– Arrêtons-nous, dit M. de Bihorel, et ne faisons plus un seul pas à l'aventure ; tâte le sable, mon enfant.</p>
         <p>Je tâtai ; je collai mes deux mains sur la grève, j'attendis ; je les relevai sèches toutes les deux.</p>
-        <p>
-          -- As-tu compté combien nous passions de
-          <hi>naus</hi>
-           ?
-        </p>
+        <p> -- As-tu compté combien nous passions de <hi>naus</hi>  ? </p>
         <p>– Non, monsieur.</p>
         <p>– Alors, tu ne sais pas s'il nous en reste encore à traverser ; si nous les avons toutes passées, nous n'avons qu'à attendre ; quand la mer arrivera, nous marcherons doucement en la précédant.</p>
         <p>– Oui, mais si nous ne les avons pas toutes passées ?</p>
-        <p>
-          Il ne répondit pas, car il n'avait à me répondre que ce que je savais aussi bien que lui ; c'est-à-dire que, si nous avions encore une
-          <hi>nau</hi>
-          entre nous et le galet, et si nous restions sans avancer, la mer l'emplirait doucement ; il nous faudrait la passer à la nage et nous exposer à être entraînés par le courant, jetés peut-être dans des rochers d'où nous ne pourrions jamais sortir.
-        </p>
+        <p> Il ne répondit pas, car il n'avait à me répondre que ce que je savais aussi bien que lui ; c'est-à-dire que, si nous avions encore une <hi>nau</hi> entre nous et le galet, et si nous restions sans avancer, la mer l'emplirait doucement ; il nous faudrait la passer à la nage et nous exposer à être entraînés par le courant, jetés peut-être dans des rochers d'où nous ne pourrions jamais sortir. </p>
         <p>Nous eûmes un moment d'anxiété terrible, restant là, ne sachant que faire, n'osant nous décider à avancer, à reculer, à aller à droite, à aller à gauche, car en demeurant immobiles dans la position même où nous avions cessé d'entendre la cloche, nous étions sûrs au moins que le pays était là devant nous, comme si nous l'avions vu dans une éclaircie, tandis que, si nous faisions un seul pas, nous nous retrouvions livrés à toutes les angoisses de l'incertitude.</p>
         <p>Notre seul espoir était désormais dans un coup de vent qui, balayant le brouillard, nous laisserait voir le phare, car d'entendre le bruit de la côte, il n'y fallait pas compter ; nous estimions être au sud du village, en face d'une falaise déserte, d'où à pareille heure ne pouvait venir aucun bruit ; mais l'atmosphère était si calme, si lourde, le brouillard était si compacte, si solide, que pour croire à une brise il fallait être dans une position comme la nôtre, où l'on en arrive à espérer l'impossible et à attendre un miracle.</p>
         <p>Ce miracle se fit ; la cloche qui avait cessé de sonner reprit en carillonnant.</p>
@@ -574,6 +444,7 @@
         <p>– Si, mon enfant, c'est pour ton bien ; M. de Bihorel a trop raison, il faut accepter.</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
         <p>Ma réception chez M. de Bihorel justifia pour moi sa réputation d'originalité, dont j'avais tant entendu parler.</p>
         <p>En arrivant, je le trouvai devant la porte de la maison, car, m'ayant vu de loin, il était venu au-devant de moi.</p>
@@ -586,9 +457,7 @@
         <p>– Je pensais que ça va changer tout ici.</p>
         <p>– En quoi ?</p>
         <p>– Monsieur déjeune vers midi ; moi, je prends ma goutte le matin : l'enfant attendra-t-il midi pour manger, ou bien boira-t-il la goutte avec moi ?</p>
-        <p>
-          -- Tu es fou avec
-          <hi>ta goutte.</hi>
+        <p> -- Tu es fou avec <hi>ta goutte.</hi>
         </p>
         <p>– Dame ! je n'ai jamais pris d'enfants en nourrice.</p>
         <p>– Tu as été enfant, n'est-ce pas ? Eh bien ! souviens-toi de ce temps-là et traite-le comme on te traitait toi-même.</p>
@@ -602,11 +471,7 @@
         <p>– Cela sert encore à autre chose : cela sert à recommencer notre vie quand elle a dévoyé ; cela sert à réussir ce que nous avons manqué.</p>
         <p>Presque aussitôt il rentra.</p>
         <p>– Tu ne sais rien, dit-il en lisant ma lettre, tant mieux ; il n'y aura pas à arracher avant de planter. Maintenant, va te promener.</p>
-        <p>
-          C'était vraiment une singulière habitation que cette île, qu'on nommait la
-          <hi>Pierre-Gante</hi>
-          , et telle que jamais je n'ai rien vu qui lui ressemblât.
-        </p>
+        <p> C'était vraiment une singulière habitation que cette île, qu'on nommait la <hi>Pierre-Gante</hi> , et telle que jamais je n'ai rien vu qui lui ressemblât. </p>
         <p>Du rivage, l'île se présente en amphithéâtre sous la forme d'un triangle allongé dont la pointe la plus longue et la plus basse n'est séparé de la terre ferme que par un petit bras d'eau large à peine de quatre cents mètres. Tout ce qui est incliné vers la côte est couvert de verdure, herbe et arbustes que crèvent seulement çà et là quelques aiguilles grises de granit ; tout ce qui regarde la mer est dénudé, pelé, brûlé par les vents et le sel.</p>
         <p>La maison est située au sommet de l'île, à l'endroit même où les pentes se réunissent pour former un petit plateau, et si, par le fait de sa position, elle jouit d'une vue circulaire qui embrasse l'horizon aussi bien sur terre que sur mer, elle est, par contre, exposée à toute la violence des vents, de quelque côté qu'ils soufflent. Mais les vents ne peuvent rien contre elle, car, bâtie sous le ministère de Choiseul pour s'opposer aux débarquements des Anglais et se relier aux nombreux corps de garde de la côte, elle a des murailles en granit de plusieurs pieds d'épaisseur, et un toit à l'épreuve de la bombe. Quand M. de Bihorel avait acheté cette vieille bicoque, il l'avait, à l'extérieur, entourée d'une galerie qui l'égayait en l'agrandissant, et, à l'intérieur, transformée en maison habitable, au moyen de cloisons et de portes. Il ne l'avait rendue ainsi ni commode ni élégante, mais il ne lui avait rien enlevé de sa qualité indispensable, qui était d'être aussi solide sous le vent que le rocher lui-même dont elle faisait partie.</p>
         <p>Ces vents terribles, qui sont l'ennemi contre lequel il faut sans cesse se défendre, sont cependant en même temps un bienfait pour l'île. Ils lui donnent en hiver une température plus douce que dans l'intérieur des terres, si bien que, dans les creux du terrain, à l'abri des rochers ou des éboulements, on rencontre des plantes et des arbustes qui, sous des climats moins rudes, ont besoin de la protection d'une serre : des lauriers-roses, des fuchsias, des figuiers.</p>
@@ -628,20 +493,10 @@
         <p>Après deux journées passées autour de la fourmilière, je vis qu'il y avait des fourmis qui ne faisaient absolument rien, tandis qu'il y en avait d'autres qui travaillaient sans cesse et qui même donnaient à manger aux paresseuses.</p>
         <p>– C'est bien, me dit-il quand je lui communiquai le résultat de mes observations ; tu as vu le principal, cela suffit. Ces fourmis qui ne font rien ne sont pas des malades ou des invalides, comme tu crois ; ce sont les maîtres de celles qui travaillent et qui sont des esclaves. Sans le secours de ces esclaves, elles seraient incapables d'aller chercher leur nourriture. Cela te surprend ; il en est pourtant de même dans notre monde ; il est encore quelques pays où il y a des hommes ne faisant rien qui sont nourris par ceux qui travaillent. Si cette oisiveté avait pour cause l'infirmité chez les maîtres, rien ne serait plus explicable que le travail des uns et le repos des autres : il faut bien s'entraider ; mais il n'en est pas ainsi. Les maîtres, chez les fourmis, sont précisément ceux qui sont les plus aptes aux choses qui demandent la force et le courage, -- à la guerre. Nous retournerons observer ensemble ces fourmis, et nous les verrons sans doute se livrer entre elles quelque grande bataille. Ce sont les maîtres seuls qui y prennent part, et leur but est de conquérir des esclaves. En attendant que tu sois témoin de ces luttes, je vais te donner à lire, dans le livre d'un savant qui se nomme Huber, le récit d'un de ces combats qui eut lieu précisément au moment même où une autre grande bataille, bien plus terrible, se livrait à cinq cents lieues de là entre les hommes. Les hommes avaient-ils, ce jour-là, de meilleures raisons pour s'entre-tuer, je ne le sais pas, mais je sais que le massacre fut épouvantable. Moi-même, si je ne suis pas resté sur ce champ de mort, il s'en est fallu de bien peu. Nous marchions le long d'une rivière qu'on nomme l'Elbe, et de l'autre côté, sur la rive droite, les Russes avaient en batterie une formidable artillerie dont nous entendions les détonations, mais dont nous ne voyions pas les ravages, parce que nous étions abrités par un coude de la rivière et par un mouvement de terrain. Tout en marchant je n'avais qu'une idée, c'est que ce jour, qui pouvait être le jour de ma mort, car il fallait passer sous le feu de cette artillerie, était aussi celui de la fête de ma femme. Je pensais combien j'aurais été heureux de la lui souhaiter. Tout à coup, j'aperçois à mes pieds, dans le fossé humide où je marchais, toute une traînée de myosotis en pleine fleur. Il ne faut pas croire que dans les batailles les choses se passent comme le représentent les tableaux, avec une parfaite régularité d'alignement. Nous étions déployés en tirailleurs, c'est-à-dire libres de nos mouvements. En dépit du sérieux de la position, les petites fleurs bleues m'attiraient. Je me baissai pour cueillir quelques brins de myosotis, et au même moment je sentis au-dessus de moi un vent terrible qui me passait à quelques pouces de la tête, puis j'entendis une détonation épouvantable et je reçus sur le dos une bourrée de branches de saule. Nous étions arrivés en face de la batterie, et c'était elle qui venait de faucher autour de moi tous mes camarades. Si j'étais resté debout, sans mon petit bouquet par conséquent, j'étais mort comme eux. Avoue que j'avais bien fait de penser à ma femme. Quand je parvins à sortir de dessous les saules, le maréchal Ney avait fait taire les canons russes.</p>
         <p>Tout pénétré encore de ce récit de la bataille de Friedland, le soir même, je lisais celui du combat des fourmis dans Huber. Huber était aveugle, il regardait par les yeux du plus dévoué et du plus intelligent des domestiques, et lui dictait ensuite le plus charmant livre qu'on ait écrit sur les abeilles et les fourmis. Si M. de Bihorel n'eût point ainsi amené cette lecture, et s'il me l'eût imposée comme un devoir au lieu de me la donner comme une récompense, quel effet eût-elle produit sur un enfant de mon âge, ignorant de tout comme je l'étais ? Grâce à la façon dont il me la présenta, elle entra si pleinement dans mon esprit préparé qu'aujourd'hui encore, malgré les années écoulées, j'en retrouve le souvenir plus sensible et plus net que pour le livre que je lisais hier.</p>
-        <p>
-          Il n'aimait pas beaucoup les livres. Il y en eut un pourtant qu'il me mit tout de suite entre les mains, mais celui-là était à ses yeux ce qu'est la
-          <hi>Bible</hi>
-          pour les protestants, l'
-          <hi>Imitation</hi>
-          pour un catholique ; c'était sur ce livre qu'il avait modelé sa vie, c'était lui qui avait créé la Pierre-Gante et les merveilles de travail qu'on y voyait ; c'était lui qui avait donné l'idée du grand parapluie, lui qui avait baptisé Samedi que, par respect pour Robinson, il n'avait pas voulu nommer Vendredi, -- c'était le
-          <hi>Robinson Crusoé.</hi>
+        <p> Il n'aimait pas beaucoup les livres. Il y en eut un pourtant qu'il me mit tout de suite entre les mains, mais celui-là était à ses yeux ce qu'est la <hi>Bible</hi> pour les protestants, l' <hi>Imitation</hi> pour un catholique ; c'était sur ce livre qu'il avait modelé sa vie, c'était lui qui avait créé la Pierre-Gante et les merveilles de travail qu'on y voyait ; c'était lui qui avait donné l'idée du grand parapluie, lui qui avait baptisé Samedi que, par respect pour Robinson, il n'avait pas voulu nommer Vendredi, -- c'était le <hi>Robinson Crusoé.</hi>
         </p>
         <p>– Tu apprendras là-dedans, me dit-il en me le remettant, ce que peut chez un homme la force morale ; tu apprendras aussi que si l'homme peut à lui seul, par la volonté, recommencer toutes les inventions humaines, il ne doit pas trop s'enorgueillir de sa puissance, car au-dessus de lui il y a Dieu. Tu ne sens peut-être pas en ce moment ce que je te dis là, mais ça te reviendra plus tard, et il était nécessaire que cela te fût dit. Au reste, si tu n'es pas frappé par ce grand enseignement, tu feras comme tous les lecteurs, tu prendras dans le livre ce qui te plaira.</p>
-        <p>
-          Je ne sais pas s'il est des enfants qui peuvent lire
-          <hi>Robinson</hi>
-          de sang-froid ; pour moi je fus transporté.
-        </p>
+        <p> Je ne sais pas s'il est des enfants qui peuvent lire <hi>Robinson</hi> de sang-froid ; pour moi je fus transporté. </p>
         <p>Il faut avouer pourtant que ce qui me toucha, ce ne fut pas le côté philosophique qui m'avait été indiqué, mais bien le côté romanesque, -- les aventures sur mer, le naufrage, l'île déserte, les sauvages, l'effroi, l'inconnu. Mon oncle l'Indien eut un rival.</p>
         <p>Je trouvai là comme une justification de mes désirs. Qui de nous ne s'est pas mis à la place du héros de de Foë, et ne s'est pas demandé :</p>
         <p>– Pourquoi ne m'en arriverait-il pas autant ? Pourquoi n'en ferais-je pas autant ?</p>
@@ -655,11 +510,7 @@
         <p>Samedi écoutait en se grattant le nez, puis, avec la résignation d'une foi aveugle :</p>
         <p>– Puisque c'est écrit, disait-il, je veux bien ; mais c'est égal, j'y ai été, à la côte d'Afrique, et je n'ai jamais vu de lions venir à la nage attaquer les navires. Enfin !</p>
         <p>Il avait surtout été dans les mers du Nord, et il avait gardé de ces voyages des souvenirs avec lesquels il payait mes récits.</p>
-        <p>
-          Une année, surpris par les glaces, ils avaient été obligés d'hiverner : pendant six mois ils avaient vécu sous la neige, plus de la moitié de l'équipage était restée ensevelie sous cette neige ; les chiens eux-mêmes étaient morts, non de froid ou de privation de nourriture, mais de privation de lumière ; si on avait eu assez d'huile pour tenir toujours les lampes allumées, ils auraient vécu. C'était presque aussi beau que
-          <hi>Robinson</hi>
-          , quelquefois cependant c'était trop beau pour ma crédulité.
-        </p>
+        <p> Une année, surpris par les glaces, ils avaient été obligés d'hiverner : pendant six mois ils avaient vécu sous la neige, plus de la moitié de l'équipage était restée ensevelie sous cette neige ; les chiens eux-mêmes étaient morts, non de froid ou de privation de nourriture, mais de privation de lumière ; si on avait eu assez d'huile pour tenir toujours les lampes allumées, ils auraient vécu. C'était presque aussi beau que <hi>Robinson</hi> , quelquefois cependant c'était trop beau pour ma crédulité. </p>
         <p>– Est-ce écrit ?</p>
         <p>Samedi était bien alors obligé de convenir qu'il ne l'avait pas lu ; mais il l'avait vu.</p>
         <p>– Qu'est-ce que cela fait, puisque ce n'est pas écrit ?</p>
@@ -706,6 +557,7 @@
         <p>– Tu es un bon garçon, dit-il ; tu iras quelquefois à la Pierre-Gante, et tu porteras une poignée de sel à la vache noire, elle t'aimait bien aussi.</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
         <p>J'avais un oncle chez qui le sang des Kalbris n'avait pas parlé, et qui, à la mer, avait préféré la terre ferme ; il était huissier à Dol, et passait pour très riche.</p>
         <p>Ma mère, bien embarrassée de moi, lorsque je rentrai à la maison, lui écrivit pour lui demander conseil. Un mois après, nous le vîmes arriver au Port-Dieu.</p>
@@ -873,6 +725,7 @@
         <p>– Vraiment ! Eh bien, tu ne t'en iras pas, attendu que tu m'appartiens pour cinq ans et que je veux te garder. Je veux aller chez maman, maman, maman : grand niais !</p>
       </div>
       <div type="chapter">
+
         <head>VII</head>
         <p>J'étais depuis longtemps tourmenté d'une idée qui me revenait toutes les fois que j'avais faim ou que mon oncle m'avait trop rudement secoué, c'est-à-dire tous les jours ; c'était de m'échapper de Dol et de m'en aller au Havre m'embarquer. Pendant les heures d'absence de mon oncle, je m'étais bien souvent amusé à me tracer mon itinéraire sur une grande carte de la Normandie qui était accrochée dans l'escalier ; à défaut de compas, je m'en étais fabriqué un en bois, et j'avais mesuré les distances comme M. de Bihorel m'avait appris à le faire. De Dol, en passant par Pontorson, j'irais coucher à Avranches ; d'Avranches j'irais à Villedieu, Villers-Bocage, Caen, Dozulé, Pont-l'Évêque, Honfleur. C'était huit jours de marche au plus ; le pain coûtait alors trois sous la livre ; si je pouvais amasser vingt-quatre sous, vingt sous seulement, j'étais sûr de ne pas mourir de faim en chemin. Mais comment réunir ce capital de vingt sous ? Je m'étais toujours arrêté devant cette impossibilité.</p>
         <p>Le Paillot me la fit franchir. Enfermé dans ma chambre, après m'être lavé la tête sous la pompe et avoir arrêté le sang tant bien que mal, je ne vis plus les difficultés de mon projet. Les mûres commençaient à noircir dans les fossés, le long des bois ; il y avait des œufs dans les nids des oiseaux ; on trouve quelquefois des sous perdus dans la poussière, et puis pourquoi n'aurais-je pas la chance de rencontrer quelque roulier qui me laisserait monter sur sa voiture et me donnerait un morceau de pain pour me payer d'avoir conduit ses chevaux pendant qu'il dormirait ? Cela n'était pas impossible, on l'avait vu. Au Havre, je ne doutais pas que tous les capitaines ne me prissent comme mousse ; une fois en mer, bon voyage, j'étais marin ; quand je reviendrais, j'irais au Port-Dieu, ma mère m'embrasserait et je lui donnerais ma paye. Si nous faisions naufrage, eh bien ! tant mieux : une île déserte, des sauvages, un perroquet ! Ô Robinson !</p>
@@ -920,11 +773,11 @@
         </l>
         <p>Il me semblait que je ne pouvais pas être, aux yeux de Dieu, moins que les oiseaux qui voltigeaient de branche en branche avec de petits cris joyeux.</p>
         <p>Depuis longtemps je répétais machinalement ces vers qui m'étaient une musique, une sorte de marche plutôt qu'une espérance, lorsque j'entrai dans un bois, le premier que j'eusse encore trouvé. Tout à coup mes yeux furent attirés, sur le talus couronné de genêts jaunes, par de petits points rouges qui brillaient dans l'herbe : des fraises, c'étaient des fraises ! Je ne sentis plus ma fatigue ; et d'un bond je franchis le fossé ; le revers était chargé de fruits comme l'eût été une planche de jardin ; sous bois et dans les clairières il y en avait par milliers qui formaient un tapis rouge. J'en ai mangé depuis de plus belles et de plus grosses, jamais de meilleures : c'était de la force, de la gaieté, de l'espérance. Décidément on pouvait aller au bout du monde :</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>
           <hi>Dieu laissa-t-il jamais ses enfants au besoin ?</hi>
         </p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>Les fraises des bois ne se cueillent pas vite ; il faut aller de ci de là et se baisser à chaque fruit. Ma faim un peu calmée, sinon assouvie, je voulus faire ma provision pour la route. Je me disais que, si j'en avais assez, je pourrais peut-être les échanger contre un morceau de pain.</p>
         <p>Un morceau de pain, c'était mon rêve ! Mais l'heure me pressait ; il était plus de midi, j'avais encore cinq ou six lieues avant d'arriver au Port-Dieu ; et je sentais, à mes jambes, que ce seraient les plus longues et les plus lentes. Je ne pus donc pas emplir mon mouchoir garni de feuilles de frêne, autant que je l'aurais voulu, et je revins sur le grand chemin, plus dispos et plus courageux que lorsque je l'avais quitté.</p>
         <p>La lassitude ne tarda pas à me prendre, et au lieu de faire une demi-lieue d'une seule traite, je me reposai à tous les kilomètres, m'asseyant sur la borne même. Il faut croire que cette lassitude était visible, car, pendant que j'étais ainsi assis dans une côte, je fus rejoint par un mareyeur qui marchait à pied devant ses chevaux. Il s'arrêta devant moi en me regardant.</p>
@@ -964,20 +817,21 @@
         <p>Ah ! comment à cet instant n'ai-je pas sauté près d'elle ?</p>
       </div>
       <div type="chapter">
+
         <head>VIII</head>
         <p>Je m'endormis en pleurant ; mon sommeil fut moins calme sous le toit maternel qu'il ne l'avait été la nuit précédente dans les prairies de Dol.</p>
         <p>Avant l'aube et dès que j'entendis la mer battre son plein sous la falaise, je sortis du rouf avec précaution.</p>
         <p>La veille, lorsque j'étais arrivé à quatre heures, la marée commençait à descendre, la pleine mer me disait donc que le jour allait bientôt paraître, et je ne voulais pas être vu par quelque voisin matinal.</p>
         <p>Dans mon plan de voyage, je n'avais pas prévu combien il est difficile de quitter la maison natale ; car, arrivé à la haie d'ajoncs qui sépare notre cour de la lande, je m'arrêtai malgré moi et me retournai. Mon cœur battait à se rompre. Le coq chantait dans notre poulailler, et les chiens du voisinage, éveillés par le bruit de mes pas, s'étranglaient à aboyer. J'entendais leurs chaînes sonner à chaque secousse qu'ils donnaient pour s'élancer de mon côté. L'aurore commençait à poindre et, dans une étroite bande de lumière blanche qui descendait du sommet de la falaise, la maison se découpait en noir.</p>
         <p>Mon enfance, depuis le jour où j'avais eu le sentiment de la vie, me revint tout entière au souvenir : les nuits où, pour m'empêcher de pleurer, mon père me promenait dans la chambre en chantant :</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>
           <hi>Les cailloux touchent à la terre,</hi>
         </p>
         <p>
           <hi>Tire lire, lire...</hi>
         </p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>la première mouette que j'avais pu prendre vivante, et qui, l'aile cassée, venait manger dans ma main ; les réveils anxieux de ma mère pendant les nuits de tempête, alors que mon père était en voyage, et mes prières devant le cierge tremblant. Les inquiétudes, les tourments dont je l'avais vue tant souffrir, elle allait après mon départ les souffrir encore : l'abandonner, n'était-ce pas un crime ?</p>
         <p>Le phare s'éteignit, et la mer parut lumineuse sous le ciel encore sombre ; au-dessus des cheminées du village, des colonnes de fumée jaune s'élevèrent droit en l'air, et un bruit de sabots résonnant sur le galet des rues monta jusqu'à moi ; on s'éveillait.</p>
         <p>Cependant, sur la crête du talus, accroupi au milieu des ajoncs, je restais hésitant, impatient, malheureux, mécontent de moi et désolé. L'esprit de hasard, l'espoir vague de faire fortune sans être à charge à personne, ma nature, l'inconnu vertigineux, me tiraient du côté de la lande ; l'habitude, la timidité de mon âge, mes épreuves de la veille, la pensée de ma mère surtout, raidissaient les liens qui m'attachaient à la maison.</p>
@@ -1137,20 +991,16 @@
         <p>– Eh bien, marchons ; si monsieur le maire est dans votre genre, la journée sera complète ; viens, Romain, et prends le sac. Gendarme !</p>
         <p>– Qu'est-ce qu'il y a ?</p>
         <p>– Attachez-moi les mains et tirez votre sabre ; puisque je me paye une arrestation, je la veux de première classe.</p>
-        <p>
-          J'étais bien éloigné de partager cette gaieté. Je trouvais que Lucien Hardel aurait mieux fait de se taire. « 
-          <hi>Et celui-là, on verra qui il est</hi>
-           »,* *avait dit le gendarme. Cette parole me retentissait dans les oreilles. On allait chercher, trouver, et bien certainement me renvoyer à mon oncle.
-        </p>
+        <p> J'étais bien éloigné de partager cette gaieté. Je trouvais que Lucien Hardel aurait mieux fait de se taire. «  <hi>Et celui-là, on verra qui il est</hi>  »,* *avait dit le gendarme. Cette parole me retentissait dans les oreilles. On allait chercher, trouver, et bien certainement me renvoyer à mon oncle. </p>
         <p>Lucien Hardel marchait en chantant :</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>
           <hi>Le pauvre prisonnier</hi>
         </p>
         <p>
           <hi>Que l'on conduisait pendre...</hi>
         </p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>Le gendarme le suivait à longueur du bras et je venais ensuite à quatre ou cinq pas. Une demi-lieue à peu près nous séparait du village, et avant d'y arriver nous devions traverser un bois. Le hasard voulut que la route fût droite et qu'à ce moment on n'y vit venir personne. À peine fûmes-nous avancés d'une centaine de mètres dans le bois que, cédant à l'inspiration subite de mes terreurs, mon parti fut pris. Mieux valait m'exposer à tout, pensai-je, que d'être reconnu et conduit à Dol. Je n'avais pas bouclé le sac sur mes épaules, je le portais à la main, je ralentis insensiblement ma marche, puis jetant le sac à terre, je franchis le fossé d'un bond.</p>
         <p>Au bruit que fit le sac en tombant, le gendarme se retourna ; déjà j'étais dans le bois.</p>
         <p>– Arrêtez ! cria-t-il.</p>
@@ -1161,6 +1011,7 @@
         <p>Voici comment je raisonnai : Lucien Hardel consigné chez le maire, le gendarme allait prévenir ses camarades, et tous ensemble aussitôt se mettraient à ma recherche. Si je ne voulais pas être pris, il fallait donc partir immédiatement et gagner un peu d'avance. L'idée ne me vint même pas que chez le maire tout aurait pu s'arranger, que le peintre remis en liberté, nous aurions pu continuer notre voyage jusqu'au Havre, comme il avait été convenu. J'étais dans un état où les résolutions extrêmes se présentent seules à l'esprit, parce que seules elles sont en rapport avec notre exaltation. Pour ne pas être repris par les gendarmes et reconduit à Dol, j'aurais, je crois, passé à travers le feu. Sans doute, je demandais pardon, dans mon cœur, à Lucien Hardel de l'avoir abandonné ; mais n'étaient-ce pas ses charges saugrenues qui avaient rendu notre séparation nécessaire ?</p>
       </div>
       <div type="chapter">
+
         <head>IX</head>
         <p>Deux heures après, j'atteignais les premières maisons de Sourdeval ; mais de peur d'être remarqué, je ne traversai pas la ville, je la tournai vers les derrières, de manière à rejoindre la route de Vire.</p>
         <p>La marche avait calmé mon exaltation, mais je n'étais pas rassuré sur les difficultés de mon voyage jusqu'à Honfleur : je n'avais plus ma casserole, mon petit paquet était resté à Mortain, et au milieu des campagnes j'allais me retrouver dans la même position que le premier jour de ma fuite : la faim ne se faisait pas encore sentir, parce que j'avais bien déjeuné, mais elle ne tarderait pas !</p>
@@ -1248,28 +1099,15 @@
         <p>Dans ma position je n'avais pas le choix d'un état. Je ne pouvais me montrer difficile. J'acceptai comme un bienfait l'étrange ressource qui m'était offerte.</p>
       </div>
       <div type="chapter">
+
         <head>X</head>
         <p>Me voici donc saltimbanque, ou, pour parler avec moins de vanité, domestique des chevaux de la caravane de M. le comte de Lapolade.</p>
-        <p>
-          Mon patron n'était point, comme on aurait le droit de le supposer, un comte de fantaisie ; il avait des parchemins parfaitement authentiques qu'il exhibait volontiers dans les grandes occasions et qui lui donnaient le droit de porter ce titre. Après une vie troublée par tous les vices et toutes les passions, il en était descendu là. Pour mettre le comble à sa dégradation, il avait, dans une heure suprême de détresse, épousé la grande femme qui m'avait si mal accueilli. Célèbre dans toutes les foires de l'Europe sous le nom de la
-          <hi>forte Bordelaise,</hi>
-          bien qu'elle fût auvergnate de naissance, elle avait dans sa jeunesse occupé la haute position de phénomène, c'est-à-dire de femme colosse. Une toile la représentait en robe rose, posant délicatement sur un tabouret sa jambe immense chaussée d'un bas blanc ; une autre la montrait en spencer de velours bleu, un fleuret à la main, ayant pour adversaire un brigadier de carabiniers moins grand qu'elle, avec cette inscription en lettres d'or :
-          <hi>*« </hi>
-          À vous, monsieur le militaire.* »
-        </p>
-        <p>
-          Elle avait, à ce métier, gagné une assez belle somme qui avait tenté de Lapolade. Celui-ci n'avait pour fortune que son talent
-          <hi>d'aboyeur,</hi>
-          mais ce talent était remarquable ; personne, dans la banque, n'était de sa force pour faire à la porte un boniment irrésistible ; sa réputation égalait celle de Mangin et de Turquetin. La forte Bordelaise et lui s'étaient associés, et ce beau couple avait acheté une ménagerie qui, pendant les premières années, avait rivalisé avec celle du célèbre Huguet de Massilia. Mais ce qui faisait la force de Lapolade faisait aussi sa faiblesse : sa bouche lui coûtait cher, il était ivrogne et gourmand.
-        </p>
+        <p> Mon patron n'était point, comme on aurait le droit de le supposer, un comte de fantaisie ; il avait des parchemins parfaitement authentiques qu'il exhibait volontiers dans les grandes occasions et qui lui donnaient le droit de porter ce titre. Après une vie troublée par tous les vices et toutes les passions, il en était descendu là. Pour mettre le comble à sa dégradation, il avait, dans une heure suprême de détresse, épousé la grande femme qui m'avait si mal accueilli. Célèbre dans toutes les foires de l'Europe sous le nom de la <hi>forte Bordelaise,</hi> bien qu'elle fût auvergnate de naissance, elle avait dans sa jeunesse occupé la haute position de phénomène, c'est-à-dire de femme colosse. Une toile la représentait en robe rose, posant délicatement sur un tabouret sa jambe immense chaussée d'un bas blanc ; une autre la montrait en spencer de velours bleu, un fleuret à la main, ayant pour adversaire un brigadier de carabiniers moins grand qu'elle, avec cette inscription en lettres d'or : <hi>*« </hi> À vous, monsieur le militaire.* » </p>
+        <p> Elle avait, à ce métier, gagné une assez belle somme qui avait tenté de Lapolade. Celui-ci n'avait pour fortune que son talent <hi>d'aboyeur,</hi> mais ce talent était remarquable ; personne, dans la banque, n'était de sa force pour faire à la porte un boniment irrésistible ; sa réputation égalait celle de Mangin et de Turquetin. La forte Bordelaise et lui s'étaient associés, et ce beau couple avait acheté une ménagerie qui, pendant les premières années, avait rivalisé avec celle du célèbre Huguet de Massilia. Mais ce qui faisait la force de Lapolade faisait aussi sa faiblesse : sa bouche lui coûtait cher, il était ivrogne et gourmand. </p>
         <p>Quelques animaux mal soignés, plus mal nourris, étaient morts, d'autres avaient été vendus ; et, au moment de mon entrée dans la caravane, elle ne se composait que d'un vieux lion, de deux hyènes, d'un serpent, d'un cheval savant, qui le jour traînait la voiture, et le soir disait quelle était la personne la plus bête de la société.</p>
         <p>Au souper, je fis la connaissance du personnel humain : outre monsieur et madame de Lapolade, il se composait de Cabriole, le pitre, de la Bouillie, du second enfant que j'avais déjà vu et qu'on appelait Filasse, de deux Allemands, l'un jouant de la clarinette, Hermann, l'autre du tambour, Carolus ; enfin de l'illustre Diélette, qui était une petite fille de onze à douze ans, à l'apparence frêle et nerveuse, avec des grands yeux d'un bleu de pervenche.</p>
         <p>Bien que simple domestique, je fus admis à la table de ces fameux personnages.</p>
-        <p>
-          Le mot
-          <hi>table</hi>
-          n'est peut-être pas très exact pour désigner la chose sur laquelle le couvert était mis : c'était une longue et large caisse en bois blanc, qui occupait le milieu de la voiture ; elle servait à un triple usage ; dedans, on serrait les costumes ; dessus, à l'heure des repas, on posait les assiettes, la nuit un matelas qui était le lit à Diélette ; autour de cette caisse, deux autres plus étroites étaient alignées : c'étaient des bancs pour la troupe, car seuls, monsieur et madame de Lapolade avaient des chaises.
-        </p>
+        <p> Le mot <hi>table</hi> n'est peut-être pas très exact pour désigner la chose sur laquelle le couvert était mis : c'était une longue et large caisse en bois blanc, qui occupait le milieu de la voiture ; elle servait à un triple usage ; dedans, on serrait les costumes ; dessus, à l'heure des repas, on posait les assiettes, la nuit un matelas qui était le lit à Diélette ; autour de cette caisse, deux autres plus étroites étaient alignées : c'étaient des bancs pour la troupe, car seuls, monsieur et madame de Lapolade avaient des chaises. </p>
         <p>Ainsi meublé, ce premier compartiment de la voiture avait pourtant bon air, et beaucoup de logements parisiens n'ont point une aussi grande salle à manger. Une porte vitrée à deux vantaux ouvrait sur la galerie extérieure, et, par deux petites fenêtres garnies de rideaux rouges, drapés, on apercevait les arbres de la route.</p>
         <p>Il me fallut recommencer le récit de mon histoire ; ce que je fis en ne nommant toutefois ni ma mère, ni mon oncle, ni mon véritable pays. Quand j'arrivai à l'épisode du gendarme, Diélette déclara que j'étais un nigaud, et qu'à ma place elle se serait bien amusée : les deux musiciens approuvèrent cette crânerie, non en paroles, -- ils ne parlaient jamais, -- mais par trois éclats de rire, à l'unisson, de ce rire formidable qui n'appartient qu'aux Bavarois.</p>
         <p>Lorsque le souper fut terminé, il restait encore quelques lueurs lumineuses au ciel.</p>
@@ -1298,9 +1136,7 @@
         <p>Je n'avais jamais fumé ; je ne savais même pas s'il fallait aspirer ou souffler, mais ce n'était pas le moment d'entrer dans des explications : d'une main Cabriole me tirait le menton, de l'autre, il me relevait le nez, et, dans ma bouche ouverte, Lapolade introduisait subitement son cigare. Assurément mes grimaces étaient fort comiques, car les paysans se tenaient les côtes.</p>
         <p>Le général leva son chapeau empanaché ; le silence se fit.</p>
         <p>
-          <hi>-- </hi>
-          Vous voyez devant vous, dit-il, le célèbre Lapolade. -- Qui ça, Lapolade ? Ce charlatan en habit de général ? -- Lui-même. -- Et pourquoi, vous demandez-vous, un homme si illustre s'habille-t-il d'une façon si ridicule ? -- Pour vous plaire, mes seigneurs, et parce que, si vous êtes tous, pris en particulier, d'honnêtes gens, réunis en public, vous pouvez n'être que des imbéciles.
-        </p>
+          <hi>-- </hi> Vous voyez devant vous, dit-il, le célèbre Lapolade. -- Qui ça, Lapolade ? Ce charlatan en habit de général ? -- Lui-même. -- Et pourquoi, vous demandez-vous, un homme si illustre s'habille-t-il d'une façon si ridicule ? -- Pour vous plaire, mes seigneurs, et parce que, si vous êtes tous, pris en particulier, d'honnêtes gens, réunis en public, vous pouvez n'être que des imbéciles. </p>
         <p>Il y eut un mouvement de mauvaise humeur dans la foule et quelques murmures.</p>
         <p>Lapolade, sans perdre de son assurance, me prit son cigare, en aspira quelques bouffées, puis, à mon grand désespoir et à mon grand dégoût, me le remettant entre les lèvres :</p>
         <p>– Hé ! là-bas ! vous, monsieur, continua-t-il, oui, l'homme au casque à mèche et au nez rouge, pourquoi murmurez-vous ? C'est parce que j'ai dit que chez vous vous étiez un honnête homme, et sur cette place un imbécile ? Eh bien, je vous fais mes excuses ; chez vous, vous êtes un farceur, et sur cette place un malin.</p>
@@ -1337,24 +1173,12 @@
         <p>– Lapolade n'est pas mon père, continua-t-elle, mon père, je ne l'ai pas connu ; il était mort que j'étais encore en nourrice. Ma mère était marchande de mercerie à Paris, dans une rue auprès des Halles. Je ne me souviens pas du nom de ma mère, je ne me souviens pas non plus du nom de la rue qu'elle habitait. Tout ce que je me rappelle, c'est que maman était une belle jeune femme avec de grands cheveux blonds, si longs, si longs, que le matin, quand nous jouions, mon frère et moi, sur son lit, nous pouvions nous cacher dessous comme sous un buisson.</p>
         <p>« Elle nous aimait beaucoup, nous embrassait toujours et ne nous battait jamais. Mon frère était un peu plus grand que moi ; il se nommait Eugène. Dans notre rue, il passait beaucoup de voitures ; le matin, il y avait sur le pavé des tas de choux, de carottes, de légumes de toutes sortes, et, du seuil de la porte, on voyait en face, contre une haute église, un beau cadran doré ; au-dessus, il y avait une petite tour et sur cette tour des grands bras noirs qui, toute la journée, se remuaient de côté et d'autre. Quand j'ai, l'année dernière, parlé de ça à un paillasse de la troupe de Masson, qui venait de Paris, il m'a dit que cette église était l'église Saint-Eustache, et que ces grands bras noirs étaient un télégraphe.</p>
         <p>« Comme maman travaillait toute la journée, elle ne sortait presque jamais avec nous, et elle nous faisait promener par une apprentie. Un jour, c'était dans l'été, car il faisait chaud, et il y avait beaucoup de poussière dans les rues, on m'emmena à la foire au pain d'épice ; c'est une foire qui se tient à la barrière du Trône ; tu as dû en entendre parler depuis que tu es dans la caravane. Je ne me rappelle pas pourquoi mon frère n'était pas avec nous, mais enfin, il était resté à la maison.</p>
-        <p>
-          « C'était la première fois que je voyais des saltimbanques, cela m'amusa beaucoup. Je voulais entrer dans toutes les baraques, mais l'apprentie n'avait pas d'argent, et moi je n'avais que quatre sous, qui m'avaient été donnés pour acheter des gâteaux ; elle me les prit, et nous entrâmes dans un
-          <hi>entre-sort.</hi>
+        <p> « C'était la première fois que je voyais des saltimbanques, cela m'amusa beaucoup. Je voulais entrer dans toutes les baraques, mais l'apprentie n'avait pas d'argent, et moi je n'avais que quatre sous, qui m'avaient été donnés pour acheter des gâteaux ; elle me les prit, et nous entrâmes dans un <hi>entre-sort.</hi>
         </p>
         <p>
-          <hi>-- </hi>
-          Qu'est-ce que c'est que ça ?
-        </p>
-        <p>
-          -- Es-tu bêta ! tu ne sais pas ce que c'est qu'un
-          <hi>entre-sort !</hi>
-          Qu'est-ce que tu sais donc ? Enfin, c'est une baraque où l'on montre un phénomène, une femme colosse, un phoque vivant, ou autre chose.
-        </p>
-        <p>
-          « Dans celle-là, on montrait deux phoques dans une cuve. Je ne sais pas comment cela se fit, mais l'apprentie causa avec l'homme de
-          <hi>l'entre-sort ;</hi>
-          il me regardait beaucoup, il disait que j'étais très gentille. Il sortit avec nous et nous allâmes chez un marchand de vins, dans une petite salle sombre où il n'y avait personne. Moi j'étais lasse, j'avais chaud, et pendant qu'ils buvaient du vin sucré dans un saladier, je m'endormis.
-        </p>
+          <hi>-- </hi> Qu'est-ce que c'est que ça ? </p>
+        <p> -- Es-tu bêta ! tu ne sais pas ce que c'est qu'un <hi>entre-sort !</hi> Qu'est-ce que tu sais donc ? Enfin, c'est une baraque où l'on montre un phénomène, une femme colosse, un phoque vivant, ou autre chose. </p>
+        <p> « Dans celle-là, on montrait deux phoques dans une cuve. Je ne sais pas comment cela se fit, mais l'apprentie causa avec l'homme de <hi>l'entre-sort ;</hi> il me regardait beaucoup, il disait que j'étais très gentille. Il sortit avec nous et nous allâmes chez un marchand de vins, dans une petite salle sombre où il n'y avait personne. Moi j'étais lasse, j'avais chaud, et pendant qu'ils buvaient du vin sucré dans un saladier, je m'endormis. </p>
         <p>« Quand je me réveillai, il faisait presque nuit, et l'apprentie n'était plus là.</p>
         <p>« Je demandai à l'homme où elle était ; il me dit que si je voulais nous irions la rejoindre. Je le suivis. Il y avait beaucoup de monde sur les trottoirs, les baraques étaient illuminées, et toutes les musiques jouaient. Il me prit par la main et me fit marcher très vite en me tirant.</p>
         <p>« Bientôt nous sortîmes de la foule ; nous étions sur une route très large, bordée de chaque côté par des avenues d'arbres ; il n'y avait presque plus de lumières et seulement çà et là quelques maisons.</p>
@@ -1410,11 +1234,7 @@
         <p>« -- Ce n'est pas vrai, maman n'est pas morte, vous êtes une voleuse.</p>
         <p>« Elle se mit à rire, ce qui m'exaspéra.</p>
         <p>« Pendant trois semaines ou un mois, je restai avec la femme sans jambes et l'homme au bonnet de police. Ils avaient cru qu'ils me dompteraient, comme on dompte les animaux, par la faim ; mais ils ne purent pas y arriver. Pour manger, je faisais ce qu'ils voulaient ; mais quand j'avais mangé, je ne faisais plus rien. La femme sans jambes savait bien que je ne lui pardonnerais jamais l'opération qu'elle m'avait faite à la joue, et quelquefois elle disait qu'elle avait peur* *de moi, que j'étais capable de lui donner un coup de couteau.</p>
-        <p>
-          « Nous étions arrivés dans un pays dont je ne sais pas le nom, mais où le pain se dit
-          <hi>brod</hi>
-          et où il y a beaucoup de rivières ; alors voyant qu'ils ne pouvaient rien tirer de moi, ils me vendirent à un aveugle, qui n'était pas plus aveugle que toi, mais qui faisait semblant d'avoir perdu les yeux pour mendier. Toute la journée il fallait rester sur un pont et tendre la main. Heureusement il avait un caniche et, le soir à la maison, je pouvais jouer avec ce chien ; sans cela je serais morte de chagrin.
-        </p>
+        <p> « Nous étions arrivés dans un pays dont je ne sais pas le nom, mais où le pain se dit <hi>brod</hi> et où il y a beaucoup de rivières ; alors voyant qu'ils ne pouvaient rien tirer de moi, ils me vendirent à un aveugle, qui n'était pas plus aveugle que toi, mais qui faisait semblant d'avoir perdu les yeux pour mendier. Toute la journée il fallait rester sur un pont et tendre la main. Heureusement il avait un caniche et, le soir à la maison, je pouvais jouer avec ce chien ; sans cela je serais morte de chagrin. </p>
         <p>« Je n'avais pas du tout de disposition pour mendier et, comme je ne voulais pas tourmenter les gens qui ne me donnaient rien et les suivre en pleurant, je recevais des coups de bâton tous les jours. Fatigué de me battre, l'aveugle me revendit à des musiciens ambulants pour faire la quête pendant qu'ils jouaient.</p>
         <p>« En avons-nous parcouru des pays ! j'ai vu l'Angleterre, et aussi l'Amérique, où il fait si froid qu'on se promène dans les voitures sans roues qui glissent sur la neige. Il faut traverser la mer pour y arriver, et on est plus d'un mois en bateau.</p>
         <p>« Les musiciens me vendirent à Lapolade à notre rentrée en France. Il m'avait achetée pour faire de la suspension, et, en attendant, je donnais à manger aux bêtes ; dans ce temps-là, nous avions trois lions ; il y en avait un qui était très méchant, et qui tout de suite était devenu très doux avec moi ; quand je lui apportais son dîner, il me léchait les mains.</p>
@@ -1437,6 +1257,7 @@
         <p>– Donne-moi une poignée de main, dit-elle, c'est parce que tu es bon enfant que j'ai confiance en toi.</p>
       </div>
       <div type="chapter">
+
         <head>XI</head>
         <p>C'était un samedi, jour de marché, et les rues étaient pleines de paysans ; sur la grande-place que je traversais pour regagner mes voitures, Filasse et la Bouillie arrêtés devant Turquetin, qui, au son de la grosse caisse et du trombone, arrachait les dents avec tant de rapidité qu'on les voyait voler en l'air comme s'il eût joué avec des osselets.</p>
         <p>Tout jeune alors, Turquetin n'avait point encore la célébrité que trente années de batailles contre les mâchoires normandes, plus braves que solides, lui ont si justement acquise ; mais déjà sa sûreté de main, surtout sa bonne humeur narquoise et gouailleuse l'avaient rendu populaire dans tous les départements de l'Ouest ; la foule était compacte autour de sa voiture.</p>
@@ -1701,11 +1522,7 @@
         <p>– Toi, ce n'est pas la même chose, dit-elle tristement.</p>
         <p>C'était beaucoup de savoir où aller, mais ce n'était pas tout qu'un but, il fallait y arriver. L'avenir nous paraissait assuré, mais le présent !</p>
         <p>Je ne me rendais pas bien compte de la distance de Paris à Port-Dieu, je sais seulement que c'était bien loin.</p>
-        <p>
-          En abandonnant à Montrouge ce que nous portions, comme le navire qui jette sa cargaison à la mer pour s'alléger et ne pas couler bas, j'avais heureusement conservé ma carte routière ; je la tirai de ma poche, et la dépliant sur une chaise, je me mis à l'étudier ;
-          <hi>* *</hi>
-          je vis que pour sortir de Paris il fallait longer la Seine.
-        </p>
+        <p> En abandonnant à Montrouge ce que nous portions, comme le navire qui jette sa cargaison à la mer pour s'alléger et ne pas couler bas, j'avais heureusement conservé ma carte routière ; je la tirai de ma poche, et la dépliant sur une chaise, je me mis à l'étudier ; <hi>* *</hi> je vis que pour sortir de Paris il fallait longer la Seine. </p>
         <p>C'était là l'essentiel pour le moment ; plus tard j'étudierais le reste de la route.</p>
         <p>Mais comment la faire, cette route, quand nous n'avions pas de chaussures aux pieds, plus de vêtements sur le corps, et vingt sous seulement dans notre poche ? Comment l'entreprendre dans l'état de fatigue où nous étions, surtout avec Diélette, qui, à chaque instant, semblait prête à défaillir ? Elle pâlissait tout à coup et tout à coup aussi elle rougissait ; le frisson ne la quittait pas. Comment nous exposer à passer la nuit dehors par ce froid et cette neige, quand le matin, en plein jour, nous avions de si peu échappé à la mort ?</p>
         <p>– Pourras-tu faire le chemin ? dis-je à Diélette.</p>
@@ -1722,9 +1539,7 @@
         <p>Arrivés à la Seine, nous tournâmes à droite ; les quais étaient à perte de vue couverts de neige, et la blancheur de cette bordure rendait l'eau de la rivière presque noire ; les passants, enveloppés dans leurs manteaux, marchaient rapidement, des enfants faisaient des glissades sur les trottoirs déserts.</p>
         <p>– Est-ce loin ? demanda Diélette.</p>
         <p>
-          <hi>-- </hi>
-          Quoi ?
-        </p>
+          <hi>-- </hi> Quoi ? </p>
         <p>– Où nous allons coucher.</p>
         <p>– Je ne sais pas ; marchons toujours.</p>
         <p>– Mais je ne peux plus marcher ; tiens, Romain, abandonne-moi là, laisse-moi mourir, conduis-moi dans un coin.</p>
@@ -1736,11 +1551,7 @@
         <p>Au bout de quelques minutes, la peur commença à me prendre ; personne ne passait ; je me relevai pour regarder au loin ; rien que ces deux lignes de pierre et au milieu la neige blanche. Je la priai, la suppliai de se relever ; elle ne me répondit pas. Je voulus la porter, elle se laissa faire ; mais au bout de quelques pas, je fus obligé de me reposer : je ne pouvais pas.</p>
         <p>Elle se laissa glisser à terre. Je m'assis auprès d'elle. C'était fini ; il fallait mourir là. Sans doute, dans son accablement, elle avait conscience de notre position, car elle se pencha contre moi, et doucement de ses lèvres glacées et tremblantes, elle m'embrassa. Cela me fit monter les larmes aux yeux et mon cœur se serra.</p>
         <p>J'espérais cependant que les forces allaient lui revenir, et que nous pourrions continuer ; mais elle ne fit pas un mouvement ; les yeux clos, elle se laissa aller contre moi ; si elle n'avait pas été secouée par un tremblement saccadé, j'aurais cru qu'elle était morte.</p>
-        <p>
-          Deux ou trois passants, surpris de nous voir ainsi affaissés dans la
-          <hi>* *</hi>
-          neige, s'arrêtèrent indécis pour nous regarder, puis ils continuèrent leur chemin.
-        </p>
+        <p> Deux ou trois passants, surpris de nous voir ainsi affaissés dans la <hi>* *</hi> neige, s'arrêtèrent indécis pour nous regarder, puis ils continuèrent leur chemin. </p>
         <p>Il fallait prendre un parti ; je me décidai à demander secours à la première personne qui se présenterait. Ce fut un sergent de ville, et lui-même m'interpella en me demandant pourquoi nous restions là. Je lui dis que ma petite sœur était malade et qu'elle ne pouvait plus marcher.</p>
         <p>Ce fut alors des questions et puis des questions. Quand je lui eus dit (c'était l'histoire que j'avais préparée) que nous allions chez mes parents au Port-Dieu, bien loin au bord de la mer, que nous marchions depuis dix jours, il ouvrit de grands yeux.</p>
         <p>– Allons, dit-il, cette enfant va mourir là ; il faut venir au poste.</p>
@@ -1772,11 +1583,7 @@
         <p>Et la porte me fut poussée sur les talons.</p>
         <p>La nuit allait bientôt venir, et déjà, dans quelques maisons, les lumières étaient allumées. La première question qui se posa devant moi fut de savoir où coucher ; quant à chercher comment vivre à Paris, en attendant que Diélette fût guérie, je m'en inquiéterais le lendemain. Je n'étais plus au temps où il me fallait un plan bien arrêté avec toutes les précautions prises ; l'habitude de la misère présente rend assez insensible aux choses de l'avenir.</p>
         <p>Bien que tendu sur une seule idée, mon esprit ne trouvait pas de solution ; je ne savais pas que dans cette grande ville il y* *avait des milliers de misérables comme moi, qui, à cette même heure, ne savaient où ils coucheraient et qui cependant trouvaient à coucher et peut-être à dîner. Élevé aux champs, je ne trouvais que des moyens à la portée d'un paysan, une grange, une écurie, une meule de foin ; or, dans le quartier où je marchais, je ne voyais rien de tout cela ; des maisons, des murs et puis des maisons !</p>
-        <p>
-          J'avais tourné à droite, en sortant de l'hospice à l'encoignure de la rue, je lus :
-          <hi>Rue de Sèvres,</hi>
-          et me trouvai sur un large boulevard planté de grands arbres. Où conduisait-il ? je n'en savais rien ; peu m'importait ! Puisque je n'avais pas de but, autant cette route qu'une autre. J'allais lentement, car, épuisé de fatigue, je commençais à ne plus pouvoir me traîner ; mes pieds sans chaussures et plongés dans la neige depuis le matin étaient devenus insensibles comme s'ils eussent été morts. Sur la contre-allée du boulevard, des enfants avaient fait une glissade ; je m'arrêtai machinalement pour les regarder.
-        </p>
+        <p> J'avais tourné à droite, en sortant de l'hospice à l'encoignure de la rue, je lus : <hi>Rue de Sèvres,</hi> et me trouvai sur un large boulevard planté de grands arbres. Où conduisait-il ? je n'en savais rien ; peu m'importait ! Puisque je n'avais pas de but, autant cette route qu'une autre. J'allais lentement, car, épuisé de fatigue, je commençais à ne plus pouvoir me traîner ; mes pieds sans chaussures et plongés dans la neige depuis le matin étaient devenus insensibles comme s'ils eussent été morts. Sur la contre-allée du boulevard, des enfants avaient fait une glissade ; je m'arrêtai machinalement pour les regarder. </p>
         <p>Parmi ceux qui passaient devant moi, quelle ne fut pas ma surprise de trouver une figure connue, c'était un enfant nommé Biboche, que j'avais vu à Falaise, où il appartenait à la troupe Vignali. Sa baraque touchait celle de Lapolade et nous avions joué ensemble.</p>
         <p>Comme j'étais le seul spectateur, il me regarda et me reconnut. Il vint à moi.</p>
         <p>– Tiens, qu'est-ce que tu fais à Paris ? Est-ce que votre lion est arrivé ? J'irai voir Diélette..</p>
@@ -1785,13 +1592,7 @@
         <p>Je ne me rendais pas bien compte des qualités qu'il fallait avoir pour être un bon zigue ; cependant comme je voyais un lit, je répondis que je croyais avoir ces qualités.</p>
         <p>– Alors, tape là, dit Biboche.</p>
         <p>– Et le patron ?</p>
-        <p>
-          -- Est-il
-          <hi>loffe,</hi>
-          ce
-          <hi>môme-là !</hi>
-          C'est moi qui engage ; tu es de notre troupe ; je t'apprendrai à
-          <hi>grinchir.</hi>
+        <p> -- Est-il <hi>loffe,</hi> ce <hi>môme-là !</hi> C'est moi qui engage ; tu es de notre troupe ; je t'apprendrai à <hi>grinchir.</hi>
         </p>
         <p>Je ne connaissais pas cette langue nouvelle ; sans doute c'étaient des mots parisiens ; je ne voulais pas paraître trop étonné, bien que je fusse étrangement surpris de voir Biboche, qui n'avait pas onze ans et qui était gros comme un furet, chef de troupe.</p>
         <p>– Tu as froid ? dit Biboche, voyant que je tremblais, eh bien ! viens te réchauffer.</p>
@@ -1819,19 +1620,9 @@
         <p>– C'est bon, dit Biboche, il boira dedans.</p>
         <p>Tout le monde s'assit au bord du brasier, non sur des chaises, mais simplement par terre.</p>
         <p>Biboche me fit les honneurs du souper et je fus servi le premier. Il y avait longtemps que je n'avais vu pareille abondance, et je dois même dire que ni à la maison, ni chez M. de Bihorel, je n'avais jamais pris part à un pareil festin ; après le jambon on entama une dinde froide, et après la dinde un pâté de foie gras. J'avais une si belle faim que je fis l'admiration de la troupe.</p>
-        <p>
-          -- À la bonne heure ! dit Biboche, résumant l'impression de tous, c'est plaisir d'inviter des amis qui
-          <hi>tortillent</hi>
-          comme ça.
-        </p>
+        <p> -- À la bonne heure ! dit Biboche, résumant l'impression de tous, c'est plaisir d'inviter des amis qui <hi>tortillent</hi> comme ça. </p>
         <p>Mais la nourriture, la chaleur et surtout la fatigue ne tardèrent pas à m'alourdir.</p>
-        <p>
-          -- Tu as sommeil, dit Biboche en voyant que mes yeux se fermaient, ne te gêne pas ; je regrette de n'avoir ni
-          <hi>pieu</hi>
-          ni
-          <hi>galette</hi>
-          à t'offrir, mais tu dormiras bien tout de même, n'est-ce pas ?
-        </p>
+        <p> -- Tu as sommeil, dit Biboche en voyant que mes yeux se fermaient, ne te gêne pas ; je regrette de n'avoir ni <hi>pieu</hi> ni <hi>galette</hi> à t'offrir, mais tu dormiras bien tout de même, n'est-ce pas ? </p>
         <p>À quoi un pieu et une galette pouvaient-ils m'être utiles pour me coucher ? Je n'osais pas le demander ; c'était encore là sans doute des mots distingués qui n'ont pas cours en province.</p>
         <p>– Un verre de punch, dit Biboche, et bonne nuit !</p>
         <p>Je refusai le verre de punch, ce qui parut étonner considérablement la société, et demandai à Biboche de me dire où je pouvais me coucher.</p>
@@ -1841,24 +1632,14 @@
         <p>– Dors bien, dit-il, demain nous causerons ; et il me laissa en emportant la chandelle.</p>
         <p>Je n'étais pas trop rassuré dans cette carrière, dont mes yeux ne pouvaient pas sonder la profondeur ; en même temps que j'étais très intrigué de savoir ce qu'étaient mes nouveaux camarades ; ces poches pleines, le jambon, le biberon, tout cela me semblait louche. Mais mon accablement était tel, que la fatigue l'emporta sur l'inquiétude ; à peine roulé dans ma couverture, le sommeil me prit. « Nous caserons demain », avait dit Biboche ; le lendemain il serait temps de s'expliquer. J'avais un abri, j'avais bien soupé ; la journée avait été assez rude pour ne pas la prolonger ; je m'endormis sans être troublé par les cris de la troupe que j'entendais boire et rire à quelques pas de moi.</p>
         <p>Le lendemain, ce fut Biboche qui m'éveilla, car sans lui j'aurais probablement dormi vingt-quatre heures.</p>
-        <p>
-          -- Tiens, dit-il, voilà des
-          <hi>frusques,</hi>
-          habille-toi.
-        </p>
+        <p> -- Tiens, dit-il, voilà des <hi>frusques,</hi> habille-toi. </p>
         <p>Je me débarrassai de mes haillons et j'endossai les vêtements qu'il avait jetés sur la paille ; ils se composaient d'un pantalon et d'une veste taillés dans une bonne laine épaisse et douce.</p>
         <p>Une faible lueur blanche tombait de la voûte ; c'était le jour qui filtrait difficilement jusqu'à cette profondeur.</p>
         <p>– Mon bonhomme, dit Biboche pendant que je procédais à ma toilette, j'ai pensé à toi et voici ce que j'ai trouvé. Tu n'es pas malin dans le métier, n'est-ce pas ?</p>
         <p>– Pas trop.</p>
-        <p>
-          -- Je m'en doutais : ça se voit tout de suite ; si tu voulais, sans apprentissage, travailler comme nous, il t'arriverait malheur. Pour empêcher cela ; je vais te mettre avec un bon garçon et tu lui serviras de
-          <hi>raton.</hi>
+        <p> -- Je m'en doutais : ça se voit tout de suite ; si tu voulais, sans apprentissage, travailler comme nous, il t'arriverait malheur. Pour empêcher cela ; je vais te mettre avec un bon garçon et tu lui serviras de <hi>raton.</hi>
         </p>
-        <p>
-          Malgré mon désir de ne pas me déshonorer en montrant que je n'étais pas au courant de la langue parisienne, il m'était impossible de laisser passer ce mot sans explication : puisque je devais être un
-          <hi>raton,</hi>
-          je devais avant tout savoir ce que c'était.
-        </p>
+        <p> Malgré mon désir de ne pas me déshonorer en montrant que je n'étais pas au courant de la langue parisienne, il m'était impossible de laisser passer ce mot sans explication : puisque je devais être un <hi>raton,</hi> je devais avant tout savoir ce que c'était. </p>
         <p>– Es-tu habillé ? dit Biboche en voyant que je le regardais.</p>
         <p>– Oui.</p>
         <p>– Eh bien, nous allons déjeuner et je te conduirai après chez mon ami.</p>
@@ -1866,35 +1647,17 @@
         <p>Dans un creux de la paroi, Biboche prit une bouteille, du pain et un débris de jambon.</p>
         <p>– Cassons une croûte, dit-il, nous déjeunerons chez ton nouveau patron.</p>
         <p>Je pris mon courage à deux mains.</p>
-        <p>
-          -- Ne te moque pas de moi, lui dis-je, tu sais, je ne suis pas de Paris, explique-moi donc ce que c'est qu'un
-          <hi>raton.</hi>
+        <p> -- Ne te moque pas de moi, lui dis-je, tu sais, je ne suis pas de Paris, explique-moi donc ce que c'est qu'un <hi>raton.</hi>
         </p>
         <p>Cette demande le mit dans une telle gaieté, qu'il faillit s'étouffer en riant.</p>
-        <p>
-          -- Sont-ils
-          <hi>loffes</hi>
-          dans ton pays ! dit-il. Eh bien, mon bonhomme, un
-          <hi>raton</hi>
-          est un
-          <hi>môme,</hi>
-          autrement dit un enfant comme toi et moi, pas trop lourd et alerte. Tu ne sais peut-être pas non plus comment beaucoup de marchands ferment leurs boutiques pendant qu'ils sont à manger dans leur cuisine ?
-        </p>
+        <p> -- Sont-ils <hi>loffes</hi> dans ton pays ! dit-il. Eh bien, mon bonhomme, un <hi>raton</hi> est un <hi>môme,</hi> autrement dit un enfant comme toi et moi, pas trop lourd et alerte. Tu ne sais peut-être pas non plus comment beaucoup de marchands ferment leurs boutiques pendant qu'ils sont à manger dans leur cuisine ? </p>
         <p>Bien que ne comprenant nullement quel rapport pouvait exister entre ces deux idées, je répondis que je ne savais pas en effet comment les marchands ferment leurs boutiques.</p>
-        <p>
-          -- Avec une petite barrière basse, poursuivit Biboche, me passant la bouteille de vin, qu'il avait vidée à moitié ; cette barrière est retenue par un ressort qui correspond à une sonnette ; si quelqu'un entre, il faut qu'il pousse la barrière, alors la sonnette sonne, et le marchand, qui est bien tranquille dans son arrière-boutique ou dans sa cuisine, vient voir qui est là. Devines-tu maintenant à quoi sert le
-          <hi>raton ?</hi>
+        <p> -- Avec une petite barrière basse, poursuivit Biboche, me passant la bouteille de vin, qu'il avait vidée à moitié ; cette barrière est retenue par un ressort qui correspond à une sonnette ; si quelqu'un entre, il faut qu'il pousse la barrière, alors la sonnette sonne, et le marchand, qui est bien tranquille dans son arrière-boutique ou dans sa cuisine, vient voir qui est là. Devines-tu maintenant à quoi sert le <hi>raton ?</hi>
         </p>
         <p>
-          <hi>-- </hi>
-          Pas du tout ; à moins qu'il ne soit chargé de remplacer la sonnette.
-        </p>
+          <hi>-- </hi> Pas du tout ; à moins qu'il ne soit chargé de remplacer la sonnette. </p>
         <p>Biboche retomba dans un accès de rire, qui cette fois l'étouffa bel et bien. Quand il eut fini de tousser, il m'allongea une bonne taloche :</p>
-        <p>
-          -- Si tu en dis encore de pareilles, fit-il, préviens-moi, tu me ferais mourir. Au lieu de remplacer la sonnette, le
-          <hi>raton</hi>
-          est chargé de l'empêcher de sonner ; pour cela, on le passe par-dessus la barrière, il va sans bruit et en rampant au tiroir, enlève la caisse, la donne à celui qui est en dehors ; celui-ci le reprend au bout des bras, le fait repasser par-dessus la barrière, et voilà : le marchand est rincé sans le savoir. Ça te va-t-il ?
-        </p>
+        <p> -- Si tu en dis encore de pareilles, fit-il, préviens-moi, tu me ferais mourir. Au lieu de remplacer la sonnette, le <hi>raton</hi> est chargé de l'empêcher de sonner ; pour cela, on le passe par-dessus la barrière, il va sans bruit et en rampant au tiroir, enlève la caisse, la donne à celui qui est en dehors ; celui-ci le reprend au bout des bras, le fait repasser par-dessus la barrière, et voilà : le marchand est rincé sans le savoir. Ça te va-t-il ? </p>
         <p>J'étais abasourdi.</p>
         <p>– Mais c'est voler, ça !</p>
         <p>– Eh bien ?</p>
@@ -1954,11 +1717,7 @@
         <p>Quand elle apprit ce qu'avait fait pour moi la mère Berceau :</p>
         <p>– Ah ! la brave femme, dit-elle, et ses yeux se remplirent de larmes.</p>
         <p>Puis ensuite ce fut à elle de me répondre. Elle avait été bien malade, sans connaissance, avec la fièvre et le délire ; mais elle était bien soignée ; il y avait une sœur qui était très bonne pour elle.</p>
-        <p>
-          -- Mais c'est égal, me dit-elle tout bas, je voudrais bien m'en aller, parce que j'ai peur ; la nuit dernière, une petite fille est morte là, dans le lit à côté, et quand on l'a mise dans la
-          <hi>boîte au chocolat,</hi>
-          je me suis évanouie.
-        </p>
+        <p> -- Mais c'est égal, me dit-elle tout bas, je voudrais bien m'en aller, parce que j'ai peur ; la nuit dernière, une petite fille est morte là, dans le lit à côté, et quand on l'a mise dans la <hi>boîte au chocolat,</hi> je me suis évanouie. </p>
         <p>Diélette se trompait dans son espérance de quitter bientôt l'hôpital ; elle avait été si rudement atteinte, que la convalescence fut très longue ; elle resta plus de deux mois à Jésus.</p>
         <p>Au reste, ce fut pour nous un bonheur ; pendant ce temps, elle se fit aimer de ceux qui la soignaient, de la sœur, du médecin et des internes qu'elle séduisit par sa gentillesse ; tout le monde savait de notre histoire tout ce que nous avions cru pouvoir en raconter, et l'intérêt qu'elle inspirait rejaillissait sur moi ; quand je venais le dimanche et le jeudi, on me recevait comme si j'avais été un ami.</p>
         <p>Enfin, son bulletin de sortie fut signé ; et en le lui remettant, le médecin et la sœur lui annoncèrent qu'ils avaient pris leurs mesures pour que nous ne fussions pas obligés de retourner à pied au Port-Dieu. On avait trouvé un meneur de nourrices qui voulait bien nous recevoir dans sa voiture et qui nous conduirait à Vire : à Vire, le meneur payerait notre place dans la voiture publique jusqu'au Port-Dieu ; on avait fait une collecte dans la salle Saint-Charles, et l'on avait réuni vingt-cinq francs, ce qui était plus que suffisant. Moi-même, pendant ces deux mois, et en vue de notre voyage, que je ne savais pas devoir être si facile, j'avais économisé six ou huit sous par jour, ce qui me faisait une somme totale de vingt-deux francs.</p>
@@ -2009,34 +1768,23 @@
         <p>Elle était vivante, Diélette était près d'elle, la main dans sa main ; toutes les deux avaient les yeux rouges. Je me jetai à bas du fossé. Trois heures après je montais sous la bâche de la diligence et, en deux jours, par Caen et Honfleur, j'arrivai au Havre. Il me restait sept francs dans ma bourse.</p>
       </div>
       <div type="chapter">
+
         <head>XII</head>
         <p>J'avais cru que je n'aurais qu'à me présenter à bord d'un navire pour être immédiatement engagé.</p>
         <p>À peine débarqué dans l'avant-port, je commençai ma promenade sur les quais pour faire mon choix ; dans le bassin du Roi je ne vis que quatre ou cinq vapeurs, ce n'était pas mon affaire ; dans le bassin de la Barre je trouvai de grands navires américains d'où l'on déchargeait des balles de coton qui s'entassaient en montagnes sur le quai ; ce n'était pas encore ce qu'il me fallait ; je voulais un navire français.</p>
         <p>En faisant le tour du bassin du Commerce je fus émerveillé ; il y avait là des navires de tous les pays du monde, des grands, des petits, une forêt de mâts enguirlandés de guidons, de flammes et de pavillons. Cela me parut plus beau que Paris.</p>
         <p>Il y avait des navires qui exhalaient une odeur de cassonade qui me faisait venir l'eau à la bouche ; il y en avait d'autres qui sentaient le poivre et la cannelle. Partout on travaillait à charger et à décharger les cargaisons ; des douaniers regardaient rouler des balles de café et écoutaient les chants des matelots d'un air mélancolique.</p>
-        <p>
-          Parmi ces navires il y en eut un qui tout de suite me séduisit ; il était peint en blanc avec un liston d'azur ; c'était un petit trois-mâts ; sur un tableau accroché aux haubans on lisait : « En charge pour Pernambuco et Bahia,
-          <hi>l'Étoile du matin,</hi>
-          capitaine Frigard, partira incessamment. » Comment ne pas faire un beau voyage sur un navire blanc et bleu ? Pernambuco et Bahia, est-il dans la géographie deux noms plus séduisants ?
-        </p>
+        <p> Parmi ces navires il y en eut un qui tout de suite me séduisit ; il était peint en blanc avec un liston d'azur ; c'était un petit trois-mâts ; sur un tableau accroché aux haubans on lisait : « En charge pour Pernambuco et Bahia, <hi>l'Étoile du matin,</hi> capitaine Frigard, partira incessamment. » Comment ne pas faire un beau voyage sur un navire blanc et bleu ? Pernambuco et Bahia, est-il dans la géographie deux noms plus séduisants ? </p>
         <p>Je montai à bord ; l'équipage et des ouvriers du bord étaient occupés au chargement ; on descendait dans la cale, grande ouverte, de lourdes caisses qui se balançaient au bout des chaînes. On ne fit pas tout d'abord attention à moi ; mais comme je ne bougeais pas de place, n'osant trop m'approcher d'un monsieur qui inscrivait les caisses à mesure qu'elles passaient devant lui, et qui me semblait être le capitaine, je finis par attirer l'attention.</p>
         <p>– Allez-vous-en ! me cria ce monsieur.</p>
         <p>– Monsieur, je voudrais vous parler.</p>
-        <p>
-          Et je lui fis ma demande, c'est-à-dire que je désirais être mousse à bord de l'
-          <hi>Étoile du matin.</hi>
+        <p> Et je lui fis ma demande, c'est-à-dire que je désirais être mousse à bord de l' <hi>Étoile du matin.</hi>
         </p>
         <p>Il ne me répondit même pas, et d'un geste il se contenta de me montrer le pont par lequel j'étais entré.</p>
         <p>– Mais, monsieur...</p>
         <p>Il leva la main ; je n'insistai pas et sortis fort humilié, à vrai dire un peu inquiet aussi.</p>
         <p>Ne voudrait-on pas de moi ?</p>
-        <p>
-          Je n'étais pas dans une situation à me rebuter facilement. J'allai un peu plus loin ; sans doute l'
-          <hi>Étoile du matin</hi>
-          était-elle trop belle pour moi ; je choisis cette fois un brick noir et sale en charge pour Tampico, et qui se nommait le
-          <hi>Congre.</hi>
-          On me répondit simplement qu'on n'avait besoin de personne. Dans un troisième, au lieu de m'adresser à un capitaine, je m'adressai à un matelot ; ma demande formulée, il haussa les épaules, et tout ce que je pus en tirer fut que j'étais un drôle de petit bonhomme. Enfin, sur une goélette en partance pour les côtes d'Afrique, le capitaine, qui n'avait pas du tout une figure rassurante, voulut bien m'accepter ; mais quand il apprit que je n'avais pas de père pour signer mon engagement, pas d'inscription à la marine, pas de sac pour mon trousseau, surtout pas de trousseau, il m'engagea à sortir plus vite que je n'étais entré, si je ne voulais pas faire connaissance avec ses bottes.
-        </p>
+        <p> Je n'étais pas dans une situation à me rebuter facilement. J'allai un peu plus loin ; sans doute l' <hi>Étoile du matin</hi> était-elle trop belle pour moi ; je choisis cette fois un brick noir et sale en charge pour Tampico, et qui se nommait le <hi>Congre.</hi> On me répondit simplement qu'on n'avait besoin de personne. Dans un troisième, au lieu de m'adresser à un capitaine, je m'adressai à un matelot ; ma demande formulée, il haussa les épaules, et tout ce que je pus en tirer fut que j'étais un drôle de petit bonhomme. Enfin, sur une goélette en partance pour les côtes d'Afrique, le capitaine, qui n'avait pas du tout une figure rassurante, voulut bien m'accepter ; mais quand il apprit que je n'avais pas de père pour signer mon engagement, pas d'inscription à la marine, pas de sac pour mon trousseau, surtout pas de trousseau, il m'engagea à sortir plus vite que je n'étais entré, si je ne voulais pas faire connaissance avec ses bottes. </p>
         <p>L'affaire se présentait désagréablement, et je commençais à me trouver mal à l'aise. Me faudrait-il retourner au Port-Dieu ? Si j'avais pu ne penser qu'à ma mère et à Diélette, cette nécessité eût été toute joie ; mais mon oncle, et les engagements qui me liaient à lui... pouvais-je les oublier ? Je continuai donc mes recherches.</p>
         <p>En tournant autour des bassins, j'étais revenu à l'avant-port ; la mer commençait à monter, et déjà quelques petites barques de pêche prenaient le large. Je m'en allai sur la jetée voir l'entrée et la sortie des navires ; il y avait longtemps que je n'avais assisté à ce spectacle, et ce mouvement de la marée, l'horizon qu'embrassaient mes regards, le va-et-vient des bateaux de Caen, de Rouen et de Honfleur, l'appareillage des grands navires pour les voyages lointains avec les adieux, les mouchoirs voltigeants des passagers, les cris des marins, le grincement des poulies et des manœuvres, le mélange de toutes ces voiles blanches dans la rade depuis la côte jusqu'à la courbure extrême de la mer me firent oublier ma préoccupation.</p>
         <p>J'étais depuis plus de deux heures accoudé sur le parapet, lorsque je me sentis tirer par les cheveux. Surpris, je me retournai et me trouvai en face d'un des musiciens de la troupe de Lapolade, Hermann.</p>
@@ -2047,29 +1795,17 @@
         <p>– Si tu veux, dit-il, j'irai t'engager comme si tu étais mon frère.</p>
         <p>Et le trousseau ?</p>
         <p>C'était là une impossibilité, Hermann n'était pas beaucoup plus riche que moi. Son voyage était payé d'avance par son frère jusqu'à Guayaquil, et nous ne pouvions pas, avec nos ressources réunies, faire une pareille dépense.</p>
-        <p>
-          Il fallut renoncer à cette idée ; pour me consoler il m'emmena dîner avec lui, puis après dîner au théâtre, où l'un de ses compatriotes, musicien de l'orchestre, nous donna deux places. On jouait comme première pièce une comédie qui a pour titre
-          <hi>Guerre ouverte,</hi>
-          et dans laquelle on apporte des personnages dans une caisse.
-        </p>
+        <p> Il fallut renoncer à cette idée ; pour me consoler il m'emmena dîner avec lui, puis après dîner au théâtre, où l'un de ses compatriotes, musicien de l'orchestre, nous donna deux places. On jouait comme première pièce une comédie qui a pour titre <hi>Guerre ouverte,</hi> et dans laquelle on apporte des personnages dans une caisse. </p>
         <p>– Voilà ton affaire, me dit-il ; à l'entracte, je t'expliquerai mon idée.</p>
         <p>Son idée était d'acheter une grande caisse : je me cacherais dedans ; une heure avant le départ, il la porterait à bord bien fermée, bien cordée. Lorsque nous serions au large, il l'ouvrirait, et le capitaine, dans l'impossibilité de me débarquer, à moins de me jeter par-dessus le bord, serait bien forcé de me garder ; une fois en route, ce serait à moi de trouver le moyen de me faire employer.</p>
         <p>C'était insensé, mais cela avait une certaine tournure aventureuse qui me séduisit.</p>
         <p>Le lendemain, nous visitâmes toutes les boutiques des brocanteurs de la ville, et nous trouvâmes, pour dix francs, une grande caisse cerclée en fer, qui était juste à ma taille, comme si elle eût été faite sur mesure. Hermann l'emporta chez lui, où il m'avait donné l'hospitalité, et il y perça plusieurs trous pour me permettre de respirer ; je me plaçai dedans, il la ferma et j'y restai deux heures parfaitement à mon aise ; je pouvais remuer les bras et les jambes, et me mettre sur le côté ou sur le dos, quand je voulais changer de position.</p>
-        <p>
-          Le navire sur lequel Hermann avait pris passage partait le lendemain à la pleine mer de deux heures du soir ; j'occupai mon temps jusque-là à visiter ce navire, qui s'appelait l'
-          <hi>Orénoque,</hi>
-          et écrire une longue lettre à ma mère pour lui dire que j'étais enfin embarqué et que je lui demandais pardon d'agir ainsi contre sa volonté, mais que j'espérais que c'était pour notre bonheur à tous ; à cette lettre j'en joignis une pour Diélette ; j'avais à lui conter tout ce que j'avais appris de Hermann ; j'avais à lui recommander aussi d'être bien douce avec maman.
-        </p>
+        <p> Le navire sur lequel Hermann avait pris passage partait le lendemain à la pleine mer de deux heures du soir ; j'occupai mon temps jusque-là à visiter ce navire, qui s'appelait l' <hi>Orénoque,</hi> et écrire une longue lettre à ma mère pour lui dire que j'étais enfin embarqué et que je lui demandais pardon d'agir ainsi contre sa volonté, mais que j'espérais que c'était pour notre bonheur à tous ; à cette lettre j'en joignis une pour Diélette ; j'avais à lui conter tout ce que j'avais appris de Hermann ; j'avais à lui recommander aussi d'être bien douce avec maman. </p>
         <p>Deux heures avant la pleine mer, c'est-à-dire à midi, Hermann me fit entrer dans la caisse, et me donnant un morceau de pain :</p>
         <p>– À demain, me dit-il en riant ; si tu as trop faim, tu pourras manger.</p>
         <p>Je devais rester vingt heures dans cette boîte, car nous avions réfléchi que dans les environs du Havre nous étions exposés, si je me montrais trop tôt, à ce que le capitaine me débarquât sur une barque de pêche ou sur un bateau-pilote, tandis qu'au large le danger d'une rencontre était beaucoup moins à craindre. Depuis plusieurs jours les vents du sud soufflaient assez fort ; en vingt heures nous devions être bien au-delà de Cherbourg, en pleine Manche.</p>
         <p>Nous avions attaché deux poignées de cuir à l'intérieur, j'y passai les bras pour ne pas être ballotté dans les secousses du transport. Hermann ferma les deux serrures à clef, fit plusieurs tours à la corde et me chargea sur son dos. Il riait si fort que j'étais secoué comme sur un cheval.</p>
-        <p>
-          Quand il arriva à bord de l'
-          <hi>Orénoque,</hi>
-          cette gaieté fut brusquement coupée.
-        </p>
+        <p> Quand il arriva à bord de l' <hi>Orénoque,</hi> cette gaieté fut brusquement coupée. </p>
         <p>– Qu'est-ce que vous apportez, là ? cria le capitaine.</p>
         <p>– Ma malle.</p>
         <p>– Il est trop tard : les panneaux sont fermés.</p>
@@ -2139,20 +1875,12 @@
         <p>Je sautai sur la dunette, et regardant au loin, j'aperçus dans le pâle rayon du matin un point noir sur la mer ; c'était la grande chaloupe.</p>
         <p>Je criai tant que je pus ; mais la barque était bien trop loin, la bourrasque était bien trop violente pour que ma faible voix pût être entendue.</p>
         <p>J'étais seul sur ce navire abandonné au milieu de la mer, désemparé, coulant bas ; et cependant telle avait été mon angoisse dans cette misérable malle, que je me sentis moins épouvanté.</p>
-        <p>
-          En regardant autour de moi, je vis que l'
-          <hi>Orénoque</hi>
-          avait été abordé par le travers au milieu de la coque ; c'était miracle qu'il n'eût point été coupé en deux ; mais le vapeur anglais l'avait frappé obliquement ; dans ce choc il avait brisé les haubans du grand mât et du mât d'artimon, et ces deux mâts, n'étant pas soutenus précisément du côté d'où venait le vent qui chargeait les voiles, s'étaient brisés comme des allumettes ; il ne restait plus de la mâture que la moitié du mât de misaine et le beaupré intact ; de la voilure il ne restait que le foc et le grand hunier déchiré en lambeaux.
-        </p>
+        <p> En regardant autour de moi, je vis que l' <hi>Orénoque</hi> avait été abordé par le travers au milieu de la coque ; c'était miracle qu'il n'eût point été coupé en deux ; mais le vapeur anglais l'avait frappé obliquement ; dans ce choc il avait brisé les haubans du grand mât et du mât d'artimon, et ces deux mâts, n'étant pas soutenus précisément du côté d'où venait le vent qui chargeait les voiles, s'étaient brisés comme des allumettes ; il ne restait plus de la mâture que la moitié du mât de misaine et le beaupré intact ; de la voilure il ne restait que le foc et le grand hunier déchiré en lambeaux. </p>
         <p>Le jour se levait : du côté de l'orient, les contours des nuages s'éclairaient de lueurs fauves, fugitives, changeantes comme l'éclair et qui se perdaient bien vite dans le ciel noir. La mer était blanche d'écume à perte de vue et, sous cette lumière blafarde, elle avait un aspect sinistre ; le vent soufflant en tempête aplatissait les vagues.</p>
         <p>Si l'équipage avait abandonné le navire, c'est que celui-ci était en danger ; il n'y avait pas besoin de longues réflexions pour comprendre cela.</p>
         <p>Livré au caprice du vent et des vagues, sans gouvernail et sans voilure, il roulait effroyablement, et les paquets de mer s'abattaient sur la coque à croire qu'ils allaient l'enfoncer. Pour me tenir debout sur le pont, j'avais dû m'accrocher à une manœuvre et j'étais déjà aussi mouillé que si je fusse tombé dans l'eau.</p>
         <p>Je voulus voir au juste quelles étaient les avaries de l'abordage, je vis que tout le flanc du navire était déchiré. Cette déchirure s'étendait-elle au-dessous de la ligne de flottaison ? Il me fut impossible de m'en rendre compte ; combien d'eau dans la cale ? je ne pus le savoir non plus, car je ne pouvais faire fonctionner les pompes trop lourdes pour moi.</p>
-        <p>
-          Combien de temps l'
-          <hi>Orénoque,</hi>
-          dans cet état, pourrait-il encore résister au vent et à la mer ? Toute la question était là.
-        </p>
+        <p> Combien de temps l' <hi>Orénoque,</hi> dans cet état, pourrait-il encore résister au vent et à la mer ? Toute la question était là. </p>
         <p>Qu'il dût couler bas, cela ne faisait pas de doute pour moi ; mais peut-être n'allait-il pas couler tout de suite ; un navire pouvait l'apercevoir et me sauver. Je ne perdis pas tout espoir ; et, en pensant que c'était par la lutte que j'avais pu sortir de mon horrible boîte, je pris la résolution de lutter encore et de ne pas m'abandonner.</p>
         <p>J'avais assez la connaissance des choses de la marine pour savoir que, si le navire restait ainsi sans direction, il ne tarderait pas à se disloquer ou bien à sombrer dans un coup de mer. Je devais donc me mettre au gouvernail et, sans me préoccuper de direction, essayer de profiter du foc pour appuyer le navire contre la lame.</p>
         <p>Mais je n'avais jamais gouverné que de petites barques ; à peine avais-je pris la roue de ce grand navire qu'un coup de mer lui imprima un irrésistible mouvement de rotation qui me fit lâcher prise, et m'envoya tomber à quatre ou cinq pas.</p>
@@ -2160,74 +1888,40 @@
         <p>Ma grande espérance était la rencontre d'un navire ; je tâchai donc de m'installer de mon mieux sur la dunette, pour voir au large et embrasser du regard tous les points de l'horizon.</p>
         <p>Il me sembla que le vent diminuait de violence, le jour s'était fait, et le ciel était moins chargé de nuages ; il y avait de petits trous, où se montraient des lueurs d'un bleu pâle ; et, bien que la mer fût toujours aussi tourmentée, l'espérance me revint. Si près des côtes, il était impossible qu'un navire ne parût pas.</p>
         <p>Pendant trois heures au moins, je restai les yeux fixés sur l'horizon sans rien voir. Le vent faiblissait sensiblement ; la mer se calmait, c'est-à-dire que les vagues, ne se heurtant plus dans une confusion désordonnée, prenaient une ampleur qui fatiguait beaucoup moins le navire, en lui donnant le temps de s'élever et de s'abaisser.</p>
-        <p>
-          Tout à coup il me sembla apercevoir un point blanc sur le fond noir d'un gros nuage traînant dans la mer. Le point grossit, c'était un navire ; il grossit encore ; il naviguait vent arrière, c'est-à-dire dans le même sens que l'
-          <hi>Orénoque.</hi>
+        <p> Tout à coup il me sembla apercevoir un point blanc sur le fond noir d'un gros nuage traînant dans la mer. Le point grossit, c'était un navire ; il grossit encore ; il naviguait vent arrière, c'est-à-dire dans le même sens que l' <hi>Orénoque.</hi>
         </p>
         <p>Je m'élançai à la barre pour gouverner de manière à le couper ; mais tandis qu'il avait toutes ses grandes voiles dehors, je n'en avais qu'une petite qui n'offrait presque pas de prise au vent.</p>
         <p>Pendant une demi-heure, je le vis grandir encore au point de pouvoir compter ses voiles, puis il me sembla qu'il diminuait.</p>
         <p>Je courus à la cloche, je la sonnai avec furie, puis sautant sur le bastingage, je regardai. Il avait diminué de grosseur encore, et il continuait sa route ! Décidément il ne m'avait ni vu ni entendu...</p>
         <p>Ce fut une cruelle déception : pendant une heure, je le suivis des yeux ; il diminua, diminua, ne fut plus qu'un point, ne fut plus rien ; et je me retrouvai seul dans l'immensité.</p>
-        <p>
-          Ce n'était pas assez qu'il passât des navires, il fallait qu'ils vissent eux-mêmes l'
-          <hi>Orénoque ;</hi>
-          ce n'était pas assez d'attendre leur secours, il fallait le faciliter, le préparer, l'amener jusqu'à moi.
-        </p>
+        <p> Ce n'était pas assez qu'il passât des navires, il fallait qu'ils vissent eux-mêmes l' <hi>Orénoque ;</hi> ce n'était pas assez d'attendre leur secours, il fallait le faciliter, le préparer, l'amener jusqu'à moi. </p>
         <p>Je pris dans le coffre aux signaux le plus grand pavillon que je pus y trouver ; puis, comme les drisses étaient cassées, je grimpai l'attacher au haut du mât de hune. Ce fut une rude ascension par le roulis qu'il faisait, mais j'avais été heureusement habitué à ce métier et je redescendis sans encombre, plein d'espoir dans ce large drapeau qui flottait au vent ; il dirait à ceux qui le verraient qu'il y a un navire en détresse.</p>
-        <p>
-          Ma crainte la plus vive, maintenant que la mer se calmait, était dans la voie d'eau ; mais rien ne m'indiquait qu'elle augmentât ; le navire ne paraissait pas s'enfoncer. Cependant, pour ne rien négliger, si l'
-          <hi>Orénoque</hi>
-          venait à couler sous moi, je ramassai les planches et les coffres que je pus trouver, et attachant le tout solidement, j'en fis une sorte de radeau.
-        </p>
+        <p> Ma crainte la plus vive, maintenant que la mer se calmait, était dans la voie d'eau ; mais rien ne m'indiquait qu'elle augmentât ; le navire ne paraissait pas s'enfoncer. Cependant, pour ne rien négliger, si l' <hi>Orénoque</hi> venait à couler sous moi, je ramassai les planches et les coffres que je pus trouver, et attachant le tout solidement, j'en fis une sorte de radeau. </p>
         <p>Les heures s'avançaient vers midi, et depuis la veille je n'avais pas mangé ; la faim commença à parler. La cambuse du cuisinier avait été emportée à la mer lorsque le navire avait été démâté ; je me décidai à descendre pour chercher ma nourriture.</p>
         <p>Mais ce ne fut pas sans de longues hésitations que je pris cette résolution : si le navire sombrait pendant que j'étais dans l'entrepont ? La faim l'emporta sur la peur.</p>
         <p>Je descendis ; je n'avais point fait deux pas que j'entendis un grognement. Je reculai épouvanté. D'un saut brusque et violent l'animal qui l'avait poussé m'écarta. C'était le chien du capitaine qui avait été oublié. Il sortait de son coffre lui aussi et à sa façon. Il arriva plus vite que moi sur le pont. Une fois là, il se retourna et me regarda assez longtemps avec défiance ; mais sans doute son examen le rassura, car bientôt il s'approcha de moi et me tendit son museau. Nous fûmes tout de suite bons amis ; il me suivit ; comme moi il avait faim.</p>
         <p>Je trouvai tout ce que je pouvais désirer ; du pain, de la viande froide, du vin. Je m'emparai de ce qui me tomba sous la main et remontai promptement.</p>
         <p>J'étais à deux pas de la mort, je mangeai cependant avec appétit ; le chien, assis devant moi, courait après les morceaux que je lui jetais. Nous étions déjà liés, je ne me sentais plus seul ; le repas fini, il se coucha à mes pieds et resta près de moi. Il me regardait avec de si bons yeux que je l'embrassai.</p>
         <p>En passant dans la cabine du capitaine, j'avais vu des pistolets sur une table ; j'allai les chercher : si j'apercevais un navire, ils me serviraient peut-être à provoquer son attention.</p>
-        <p>
-          La journée s'écoula ainsi sans qu'une seule voile parût ; la mer n'était plus que faiblement houleuse et le vent était à peine sensible : l'
-          <hi>Orénoque</hi>
-          se comportait toujours bien et la voie d'eau devait être aveuglée. Ce fut sans trop d'effroi que je vis s'avancer la nuit. Il me semblait que Turc et moi nous ne devions pas être bien éloignés des côtes ; peut-être dans l'obscurité j'allais apercevoir un phare ; alors je n'aurais qu'à gouverner dessus pour être sauvé.
-        </p>
+        <p> La journée s'écoula ainsi sans qu'une seule voile parût ; la mer n'était plus que faiblement houleuse et le vent était à peine sensible : l' <hi>Orénoque</hi> se comportait toujours bien et la voie d'eau devait être aveuglée. Ce fut sans trop d'effroi que je vis s'avancer la nuit. Il me semblait que Turc et moi nous ne devions pas être bien éloignés des côtes ; peut-être dans l'obscurité j'allais apercevoir un phare ; alors je n'aurais qu'à gouverner dessus pour être sauvé. </p>
         <p>Le soir tomba tout à fait ; mon espérance ne se réalisa pas. Successivement les étoiles s'allumèrent dans les profondeurs du ciel ; je n'aperçus pas de phare.</p>
         <p>En même temps que les pistolets, j'avais pris dans la cabine un monceau de vêtements : je m'en fis un chaud matelas, et m'établis dessus, décidé à ne pas fermer les yeux de toute la nuit, et à interroger toujours l'horizon.</p>
         <p>Longtemps je restai ainsi les yeux perdus dans l'obscurité, qu'ils cherchaient inutilement à percer. Turc, couché près de moi, s'endormit ; le vent s'apaisa, et le navire n'éprouva plus qu'un balancement régulier, qui n'avait rien d'inquiétant. Vers dix ou onze heures, la lune se leva et me montra tout à l'entour une mer calme qui clapotait doucement en faisant miroiter la lumière. Insensiblement le calme me gagna, le ronflement du chien m'engourdit, et, malgré mes efforts pour me tenir éveillé, je m'endormis.</p>
         <p>Mais ce calme sur la mer n'était pas la fin du mauvais temps ; vers le matin, je fus éveillé par la fraîcheur du vent ; des nuages couraient bas, et la mer commençait à se troubler.</p>
         <p>Le vent fraîchit vite ; j'allai interroger la boussole : elle indiquait qu'il était au nord-ouest. Je mis la barre vent arrière, car, sans savoir où j'étais, il me semblait que c'était une bonne direction pour trouver les côtes de Normandie ou de Bretagne.</p>
-        <p>
-          En moins d'une heure, la mer redevint aussi tourmentée que la veille, et elle recommença à embarquer à bord de l'
-          <hi>Orénoque,</hi>
-          qui s'enlevait mal à la lame ou plutôt ne s'enlevait pas du tout, si bien que des paquets d'eau balayaient le pont d'un bout à l'autre.
-        </p>
-        <p>
-          Sous l'effort du vent, le mât de misaine, déjà ébranlé, craquait avec des bruits sinistres ; les haubans et les cordages avaient molli, et je craignais, à chaque rafale nouvelle, de le voir s'abattre. Alors c'en était fait, l'
-          <hi>Orénoque</hi>
-          sombrait.
-        </p>
+        <p> En moins d'une heure, la mer redevint aussi tourmentée que la veille, et elle recommença à embarquer à bord de l' <hi>Orénoque,</hi> qui s'enlevait mal à la lame ou plutôt ne s'enlevait pas du tout, si bien que des paquets d'eau balayaient le pont d'un bout à l'autre. </p>
+        <p> Sous l'effort du vent, le mât de misaine, déjà ébranlé, craquait avec des bruits sinistres ; les haubans et les cordages avaient molli, et je craignais, à chaque rafale nouvelle, de le voir s'abattre. Alors c'en était fait, l' <hi>Orénoque</hi> sombrait. </p>
         <p>Je ne quittais pas ce mât des yeux, quand il me sembla apercevoir à l'avant une ligne sombre qui se continuait au loin. Malgré le danger, je m'élançai dans les haubans. C'était la terre ! !</p>
         <p>Je courus au gouvernail et mis la barre droit sur cette ligne : mes jambes tremblaient, et, par un singulier effet de joie, j'avais les yeux pleins de larmes. Sauvé ! étais-je sauvé ?</p>
-        <p>
-          La ligne se dessina bien vite assez nettement. L'
-          <hi>Orénoque</hi>
-          irait-il jusque-là ? le mât tiendrait-il bon ?
-        </p>
+        <p> La ligne se dessina bien vite assez nettement. L' <hi>Orénoque</hi> irait-il jusque-là ? le mât tiendrait-il bon ? </p>
         <p>Je passai là une heure de cruelle angoisse, car la violence du vent allait toujours croissant, et le mât tremblait avec des craquements qui m'étreignaient le cœur. Turc, assis devant moi, ne me quittait pas des yeux. Il semblait qu'il cherchait à lire dans mes regards.</p>
         <p>La côte vers laquelle le navire courait était basse : à une certaine distance du rivage, elle s'élevait en pente douce pour former des collines ; je ne voyais ni villages, ni ports.</p>
-        <p>
-          Mon espoir, vous le pensez bien, n'était point d'entrer l'
-          <hi>Orénoque</hi>
-          dans un port, lors même qu'il s'en fût trouvé un devant moi ; c'était une tâche au-dessus de mes forces, et même, je le crois bien, qui eût été au-dessus de celles de vrais marins, avec un navire dans cet état : je ne demandais qu'à échouer à la côte et à me sauver à la nage.
-        </p>
+        <p> Mon espoir, vous le pensez bien, n'était point d'entrer l' <hi>Orénoque</hi> dans un port, lors même qu'il s'en fût trouvé un devant moi ; c'était une tâche au-dessus de mes forces, et même, je le crois bien, qui eût été au-dessus de celles de vrais marins, avec un navire dans cet état : je ne demandais qu'à échouer à la côte et à me sauver à la nage. </p>
         <p>Mais serait-il possible d'arriver jusqu'à la côte ? n'était-elle pas défendue par des rochers sous-marins qui ne laisseraient point passer le navire ?</p>
         <p>Dans ce doute terrible, je détachai les différentes pièces du radeau que j'avais formé la veille, et je les plaçai autour de moi, pour en trouver au moins une à ma portée si le navire sombrait : je me déshabillai, ne gardant que mon pantalon, et j'attendis.</p>
         <p>La côte était maintenant distinctement visible dans tous ses détails, et j'apercevais très bien les vagues se briser en un long cordon d'écume sur le rivage : la marée était basse.</p>
         <p>Encore un quart d'heure, encore dix minutes, encore cinq, et mon sort allait s'accomplir. Ô maman ! ô Diélette !</p>
-        <p>
-          Au moment où je me laissais attendrir par cette pensée, le navire fut irrésistiblement soulevé, j'entendis un craquement, la barre fut arrachée du gouvernail, la cloche tinta quelques coups, le mât vacilla, tomba en avant, et je fus jeté à plat ventre sur le pont : l'
-          <hi>Orénoque</hi>
-          avait touché.
-        </p>
+        <p> Au moment où je me laissais attendrir par cette pensée, le navire fut irrésistiblement soulevé, j'entendis un craquement, la barre fut arrachée du gouvernail, la cloche tinta quelques coups, le mât vacilla, tomba en avant, et je fus jeté à plat ventre sur le pont : l' <hi>Orénoque</hi> avait touché. </p>
         <p>Je me relevai ; une seconde secousse me fit tomber de nouveau. Le navire craquait de l'avant à l'arrière : avec un choc épouvantable il s'arrêta brusquement et se coucha sur le côté.</p>
         <p>Je voulus me relever et me cramponner, je n'en eus pas le temps, une vague s'abattit sur le pauvre navire devenu un obstacle et je me sentis entraîné dans un tourbillon d'eau.</p>
         <p>Quand je pus sortir de ce tourbillon, j'étais déjà à quinze ou vingt mètres du navire ; à quelques pas de moi nageait le chien qui me regardait désespérément. Je l'encourageai de la voix.</p>
@@ -2238,76 +1932,27 @@
         <p>J'étais sauvé, mais si à bout de forces que je perdis connaissance. Ce fut mon ami Turc qui, en me léchant la figure, me fit revenir à moi. Ses yeux brillaient, il avait l'air de me dire : « Sois donc content, nous sommes tirés d'affaire. » Je m'assis, et, sur la grève, j'aperçus un douanier et des paysans qui accouraient.</p>
       </div>
       <div type="chapter">
+
         <head>XIII</head>
-        <p>
-          C'est à l'est du cap Lévi, à quatre ou cinq lieues de Cherbourg, que l'
-          <hi>Orénoque</hi>
-          avait été jeté à la côte.
-        </p>
+        <p> C'est à l'est du cap Lévi, à quatre ou cinq lieues de Cherbourg, que l' <hi>Orénoque</hi> avait été jeté à la côte. </p>
         <p>Les paysans qui étaient venus à mon secours m'emmenèrent à Fermanville, le village le plus proche, et l'on me coucha chez le curé.</p>
-        <p>
-          J'avais été si rudement secoué par les émotions et la fatigue, que je dormis plus de vingt heures sans m'éveiller ; je crois même que Turc et moi nous aurions dormi cent ans, comme dans la
-          <hi>Belle au bois dormant,</hi>
-          si le commissaire de la marine et les agents des assurances n'étaient venus nous déranger.
-        </p>
-        <p>
-          Il me fallut comparaître devant eux et raconter tout ce qui s'était passé depuis le départ du Havre jusqu'au moment où l'
-          <hi>Orénoque</hi>
-          avait fait côte ; il me fallut dire aussi comment je me trouvais dans la caisse ; ce ne fut pas sans crainte que je m'y décidai. Il fallait bien avouer la vérité, si invraisemblable qu'elle fût et quoi qu'il en pût advenir.
-        </p>
-        <p>
-          Il en advint que je fus envoyé au Havre, auprès de l'armateur de l'
-          <hi>Orénoque.</hi>
-          On m'embarqua donc trois jours après à Cherbourg, sur le
-          <hi>Colibri,</hi>
-          et j'arrivai au Havre le soir même.
-        </p>
-        <p>
-          Mon histoire y était déjà connue ; les journaux l'avaient publiée et j'étais presque un héros, ou tout au moins un sujet de curiosité. Quand je parus au haut de l'échelle du
-          <hi>Colibri,</hi>
-          il y avait foule sur le quai, et l'on nous montrait du doigt, Turc et moi, en disant :
-        </p>
+        <p> J'avais été si rudement secoué par les émotions et la fatigue, que je dormis plus de vingt heures sans m'éveiller ; je crois même que Turc et moi nous aurions dormi cent ans, comme dans la <hi>Belle au bois dormant,</hi> si le commissaire de la marine et les agents des assurances n'étaient venus nous déranger. </p>
+        <p> Il me fallut comparaître devant eux et raconter tout ce qui s'était passé depuis le départ du Havre jusqu'au moment où l' <hi>Orénoque</hi> avait fait côte ; il me fallut dire aussi comment je me trouvais dans la caisse ; ce ne fut pas sans crainte que je m'y décidai. Il fallait bien avouer la vérité, si invraisemblable qu'elle fût et quoi qu'il en pût advenir. </p>
+        <p> Il en advint que je fus envoyé au Havre, auprès de l'armateur de l' <hi>Orénoque.</hi> On m'embarqua donc trois jours après à Cherbourg, sur le <hi>Colibri,</hi> et j'arrivai au Havre le soir même. </p>
+        <p> Mon histoire y était déjà connue ; les journaux l'avaient publiée et j'étais presque un héros, ou tout au moins un sujet de curiosité. Quand je parus au haut de l'échelle du <hi>Colibri,</hi> il y avait foule sur le quai, et l'on nous montrait du doigt, Turc et moi, en disant : </p>
         <p>– Les voilà ! les voilà !</p>
-        <p>
-          J'appris au Havre que l'équipage de l'
-          <hi>Orénoque</hi>
-          n'avait pas péri ; il avait été recueilli en pleine mer par un navire anglais, et le bateau de Southampton l'avait rapatrié. Quant au pauvre Hermann il avait été jeté à la mer lors de l'abordage, et soit qu'il ne sût pas nager, soit qu'il eût été tué ou blessé par les pièces de la mâture qui l'avaient entraîné, il n'avait pas reparu. Ainsi s'expliquait comment il n'était pas venu me délivrer.
-        </p>
+        <p> J'appris au Havre que l'équipage de l' <hi>Orénoque</hi> n'avait pas péri ; il avait été recueilli en pleine mer par un navire anglais, et le bateau de Southampton l'avait rapatrié. Quant au pauvre Hermann il avait été jeté à la mer lors de l'abordage, et soit qu'il ne sût pas nager, soit qu'il eût été tué ou blessé par les pièces de la mâture qui l'avaient entraîné, il n'avait pas reparu. Ainsi s'expliquait comment il n'était pas venu me délivrer. </p>
         <p>Mon récit était, paraît-il, un témoignage très grave contre le capitaine : les assureurs disaient que s'il n'avait pas abandonné son navire, il pouvait le sauver : puisqu'un enfant avait bien su le conduire à la côte, un équipage l'eût assurément entré dans un port. On discutait là-dessus, on ne parlait que de cela au Havre ; de tous les côtés on m'interrogeait.</p>
-        <p>
-          On jouait alors au théâtre le
-          <hi>Naufrage de la Méduse,</hi>
-          et le directeur eut l'idée de me faire figurer dans cette pièce en donnant la première représentation à mon bénéfice. On refusa du monde à la porte. On m'avait confié le rôle muet, bien entendu, d'un mousse ; quand j'entrai en scène avec Turc, les acteurs furent obligés de s'arrêter tant on applaudit. Toutes les lorgnettes étaient pointées sur moi ; je commençai sottement à croire que j'étais vraiment un personnage. Turc aurait pu en penser tout autant.
-        </p>
+        <p> On jouait alors au théâtre le <hi>Naufrage de la Méduse,</hi> et le directeur eut l'idée de me faire figurer dans cette pièce en donnant la première représentation à mon bénéfice. On refusa du monde à la porte. On m'avait confié le rôle muet, bien entendu, d'un mousse ; quand j'entrai en scène avec Turc, les acteurs furent obligés de s'arrêter tant on applaudit. Toutes les lorgnettes étaient pointées sur moi ; je commençai sottement à croire que j'étais vraiment un personnage. Turc aurait pu en penser tout autant. </p>
         <p>Les frais du directeur prélevés, et il dut les prélever largement, cette représentation me rapporta deux cents francs ; on joua encore huit fois la pièce, et chaque fois il me donna cinq francs ; cela me fit une somme totale de deux cent quarante francs, c'est-à-dire une fortune.</p>
-        <p>
-          Je résolus de l'employer en grande partie à m'acheter un trousseau, car ma passion pour la mer et la terreur de mon oncle avaient résisté à tout. Abandonné sur l'
-          <hi>Orénoque,</hi>
-          ballotté par la tempête, jeté à la côte, c'est-à-dire presque sûrement à la mort, j'avais fait, je l'avoue, de tristes réflexions ; et le sort de ceux qui vivent tranquilles sous leur toit m'avait paru plus enviable que celui des marins ; mais, retombé sur mes pieds, il en avait été de ces craintes comme de l'eau qui mouillait mes vêtements : elles s'étaient évanouies sous le premier rayon de soleil ; et, en arrivant au Havre, je n'avais pensé qu'à trouver un navire sur lequel on voulût bien me prendre comme mousse. L'armateur de l'
-          <hi>Orénoque</hi>
-          m'avait fait engager sur un autre de ses bâtiments, l'
-          <hi>Amazone,</hi>
-          et cet argent m'arrivait tout à fait à point pour acheter les objets nécessaires à mon embarquement.
-        </p>
+        <p> Je résolus de l'employer en grande partie à m'acheter un trousseau, car ma passion pour la mer et la terreur de mon oncle avaient résisté à tout. Abandonné sur l' <hi>Orénoque,</hi> ballotté par la tempête, jeté à la côte, c'est-à-dire presque sûrement à la mort, j'avais fait, je l'avoue, de tristes réflexions ; et le sort de ceux qui vivent tranquilles sous leur toit m'avait paru plus enviable que celui des marins ; mais, retombé sur mes pieds, il en avait été de ces craintes comme de l'eau qui mouillait mes vêtements : elles s'étaient évanouies sous le premier rayon de soleil ; et, en arrivant au Havre, je n'avais pensé qu'à trouver un navire sur lequel on voulût bien me prendre comme mousse. L'armateur de l' <hi>Orénoque</hi> m'avait fait engager sur un autre de ses bâtiments, l' <hi>Amazone,</hi> et cet argent m'arrivait tout à fait à point pour acheter les objets nécessaires à mon embarquement. </p>
         <p>Lors de ma rencontre avec le pauvre Hermann, il m'avait, vous vous en souvenez, n'est-ce pas ? emmené loger chez lui. Ce chez-lui était un petit cabinet noir, au fond d'une cour du quai des Casernes. J'y retournai. La propriétaire voulut bien me le louer ; seulement elle me prévint qu'elle ne pourrait pas me nourrir, parce qu'elle était malade ; mais cela m'inquiétait peu, la question de nourriture étant pour moi tout à fait secondaire et n'existant même pas, dès que j'étais sûr d'avoir un morceau de pain.</p>
         <p>C'était une excellente femme que cette propriétaire ; bien qu'elle pût se traîner à peine, je trouvais en elle toutes sortes de prévenances et de bontés qui me rappelaient la maison maternelle.</p>
-        <p>
-          Elle était veuve, jeune encore, et elle avait un fils, de deux ans plus âgé que moi, qui naviguait ; il était parti depuis huit mois pour un voyage aux Indes, et on attendait le retour de son navire, la
-          <hi>Neustrie,</hi>
-          d'un moment à l'autre.
-        </p>
+        <p> Elle était veuve, jeune encore, et elle avait un fils, de deux ans plus âgé que moi, qui naviguait ; il était parti depuis huit mois pour un voyage aux Indes, et on attendait le retour de son navire, la <hi>Neustrie,</hi> d'un moment à l'autre. </p>
         <p>Il n'y avait pas seulement entre elle et ma mère ces analogies lointaines de position ; mais, comme ma mère aussi, elle détestait la marine. Son mari était mort loin d'elle de la fièvre jaune, à Saint-Domingue, et c'était pour elle un désespoir de tous les instants que son fils eût voulu s'embarquer. Sa seule consolation était d'espérer que ce premier voyage, qui avait été très pénible à l'aller, l'aurait dégoûté du métier, et qu'il reviendrait disposé à rester à terre.</p>
-        <p>
-          Avec quelle impatience elle l'attendait ! Chaque fois que je revenais de la jetée, où je passais presque toutes mes journées, elle voulait savoir quel était le temps, où était le vent, s'il était entré beaucoup de navires. Le voyage aux Indes est très long, incertain, capricieux, et la
-          <hi>Neustrie</hi>
-          pouvait arriver aujourd'hui, demain, dans quinze jours, dans un mois, tout aussi bien un jour que l'autre.
-        </p>
+        <p> Avec quelle impatience elle l'attendait ! Chaque fois que je revenais de la jetée, où je passais presque toutes mes journées, elle voulait savoir quel était le temps, où était le vent, s'il était entré beaucoup de navires. Le voyage aux Indes est très long, incertain, capricieux, et la <hi>Neustrie</hi> pouvait arriver aujourd'hui, demain, dans quinze jours, dans un mois, tout aussi bien un jour que l'autre. </p>
         <p>Il y avait un peu plus d'une semaine que je demeurais chez elle, lorsque sa maladie s'aggrava d'une façon inquiétante. J'entendis dire aux voisines qui venaient la voir ou la soigner qu'elle était en danger et que le médecin ne répondait plus d'elle. Effectivement elle était de plus en plus faible, très pâle, presque sans voix, et quand j'entrais dans sa chambre pour lui dire quel temps il faisait à la mer, j'éprouvais, à la regarder dans son lit, comme un sentiment de peur.</p>
-        <p>
-          Après les bourrasques que nous avions eues et qui avaient perdu l'
-          <hi>Orénoque,</hi>
-          le temps s'était mis au beau. La mer était continuellement paisible, comme aux plus beaux jours de l'été, et même il régnait un calme plat qui n'est pas ordinaire à cette saison de l'année.
-        </p>
+        <p> Après les bourrasques que nous avions eues et qui avaient perdu l' <hi>Orénoque,</hi> le temps s'était mis au beau. La mer était continuellement paisible, comme aux plus beaux jours de l'été, et même il régnait un calme plat qui n'est pas ordinaire à cette saison de l'année. </p>
         <p>Ce calme la désespérait, et chaque fois qu'en rentrant je répétais ce que je lui avais annoncé la veille : « Pas de vent, petite brise de l'est », elle secouait doucement la tête en disant :</p>
         <p>– Le bon Dieu m'est dur : je mourrai sans l'embrasser.</p>
         <p>Alors les voisines ou les amies qui étaient dans sa chambre la grondaient de penser ainsi à la mort, et tâchaient de la rassurer en lui faisant tous ces mensonges qu'on invente pour les malades qui sont en danger. Mais ils ne la persuadaient pas, et toujours elle répétait :</p>
@@ -2330,40 +1975,24 @@
         <p>– Oui, Romain vient de nous l'apprendre.</p>
         <p>Elle dit cela négligemment ; mais en même temps ses yeux rencontrèrent ceux de son beau-frère ; elle vit qu'il y avait en lui quelque chose qui n'était pas ordinaire.</p>
         <p>– Mon Dieu ! fit-elle.</p>
-        <p>
-          -- Eh bien, oui, il y a du nouveau ; il a rencontré la
-          <hi>Neustrie</hi>
-          dans le raz de l'île de Sein ; tout va bien à bord.
-        </p>
+        <p> -- Eh bien, oui, il y a du nouveau ; il a rencontré la <hi>Neustrie</hi> dans le raz de l'île de Sein ; tout va bien à bord. </p>
         <p>Elle était étendue sur son lit, si pâle et si faible qu'on pouvait presque la dire morte ; elle se souleva sur le bras.</p>
         <p>– Mon Dieu ! mon Dieu ! dit-elle ; et ses yeux éteints se ranimèrent ; le sang lui rougit le visage.</p>
-        <p>
-          Elle voulut qu'on lui expliquât combien il fallait de temps à la
-          <hi>Neustrie</hi>
-          pour venir de l'île de Sein au Havre. C'était assez difficile : deux jours, si le vent était favorable ; six jours, huit jours, s'il était mauvais. Le vapeur de Lisbonne avait mis une trentaine d'heures, la
-          <hi>Neustrie</hi>
-          pouvait donc arriver le lendemain..
-        </p>
+        <p> Elle voulut qu'on lui expliquât combien il fallait de temps à la <hi>Neustrie</hi> pour venir de l'île de Sein au Havre. C'était assez difficile : deux jours, si le vent était favorable ; six jours, huit jours, s'il était mauvais. Le vapeur de Lisbonne avait mis une trentaine d'heures, la <hi>Neustrie</hi> pouvait donc arriver le lendemain.. </p>
         <p>Elle envoya chercher le médecin.</p>
         <p>– Il faut que je vive jusque-là, disait-elle ; le bon Dieu ne voudra pas me faire mourir avant de l'avoir embrassé.</p>
         <p>La force lui était revenue, la raison, l'énergie ; le médecin, quand il la vit, ne voulait pas croire à ce miracle.</p>
         <p>C'était une maison de pauvres gens ; la pièce dans laquelle elle était couchée servait à la fois de cuisine et de chambre : après quinze jours de maladie, il n'était pas extraordinaire qu'elle fût en désordre, encombrée de mille objets, de vases, de tasses à tisane, de fioles qui traînaient dans la poussière. À proprement parler, la malade n'avait personne pour la soigner, seulement des amies, des voisines, sa sœur, qui venaient passer quelques heures, et qui retournaient bien vite chez elles, rappelées par leur travail ou leurs enfants.</p>
         <p>Elle nous pria de nettoyer un peu cette pièce et d'y mettre de l'ordre ; elle voulut aussi qu'on ouvrît la fenêtre, et comme sa sœur s'y refusait, de peur que l'air ne lui fit du mal, elle insista :</p>
         <p>– Ça ne fait rien pour moi, mais je ne veux pas que ça sente la maladie quand il arrivera.</p>
-        <p>
-          Quand arriverait-il ? Le temps ne changeait pas, il était toujours au calme, plat, sans la plus faible brise qui pût pousser la
-          <hi>Neustrie.</hi>
+        <p> Quand arriverait-il ? Le temps ne changeait pas, il était toujours au calme, plat, sans la plus faible brise qui pût pousser la <hi>Neustrie.</hi>
         </p>
         <p>Dans les ports de commerce il est d'habitude qu'on signale les navires qui sont en vue ; pour Le Havre, c'est à la pointe de La Hève que se font ces signaux, qui sont répétés au Havre et aussitôt affichés. Elle me demanda si je voudrais lui rendre le service d'aller lire ces affiches ; on pense bien que je ne songeai pas à m'en excuser, et, d'heure en heure, j'allai du quai des Casernes à la rue d'Orléans, où se trouvait alors le bureau de la Chambre des assureurs, qui recevait ces signaux.</p>
         <p>Mais, par ce calme plat, il n 'y avait aucun navire en vue, tous étaient retenus à l'entrée de la Manche.</p>
         <p>Cependant, elle ne se découragea pas, et, le soir arrivé, elle nous fit rouler son lit auprès de la fenêtre. Sur le toit de la maison en face était une grande girouette, elle nous dit qu'elle voulait la voir à chaque instant, parce qu'elle sentait bien que le vent allait changer. Dans tout autre moment, cela nous eût fait rire ; car sur le fond du ciel bleu, éclairé par la pleine lune, on voyait la girouette se détacher en noir, immobile comme si elle eût été soudée au pivot.</p>
         <p>Sa sœur, qui était restée pour la veiller, m'envoya coucher. Dans la nuit, je fus réveillé par un bruit que je n'avais pas encore entendu depuis que j'habitais mon cabinet : une sorte de grincement. Je me levai ; c'était la girouette qui tournoyait en criant sur la tige de fer ; le vent s'était levé.</p>
         <p>Je descendis dans la rue et j'allai jusqu'à la jetée. La mer commençait à clapoter ; le vent soufflait frais du nord : un douanier avec qui je causai me dit qu'il allait fraîchir encore et probablement passer à l'ouest.</p>
-        <p>
-          Je rentrai à la maison pour porter cette bonne nouvelle, car le vent à l'ouest, c'était la
-          <hi>Neustrie</hi>
-          au Havre dans la journée ou à la marée du soir.
-        </p>
+        <p> Je rentrai à la maison pour porter cette bonne nouvelle, car le vent à l'ouest, c'était la <hi>Neustrie</hi> au Havre dans la journée ou à la marée du soir. </p>
         <p>– Vois-tu, dit-elle, que j'avais raison ; je savais bien que le vent changerait ; ah ! le bon Dieu est bon.</p>
         <p>Sa sœur me dit qu'elle n'avait pas dormi de la nuit, et qu'elle était restée sans bouger, les yeux fixés sur la girouette, ne disant qu'un seul mot, toujours le même :</p>
         <p>– À quelle heure la pleine mer ?</p>
@@ -2378,42 +2007,22 @@
         <p>– C'est pour Jean ; il aime ça, et il y a si longtemps qu'il n'en a mangé. Tiens, voilà de l'argent.</p>
         <p>Et elle tira difficilement une pièce de cent sous de dessous son oreiller.</p>
         <p>Le médecin vint le matin ; il nous dit qu'il n'avait jamais vu pareille énergie contre la mort, qu'elle ne vivait que par la volonté et l'espérance, mais que, puisqu'elle avait pu aller jusque-là, il était probable qu'elle irait maintenant jusqu'au soir, et qu'elle ne mourrait qu'à la marée basse.</p>
-        <p>
-          Lorsque l'heure de l'ouverture du bureau fut arrivée, je courus rue d'Orléans ; les navires commençaient à se montrer, mais la
-          <hi>Neustrie</hi>
-          ne se trouvait pas parmi ceux qu'on afficha. De huit heures du matin à trois heures de l'après-midi, je fis vingt voyages à la rue d'Orléans ; à trois heures enfin, je lus sur l'affiche : « La
-          <hi>Neustrie,</hi>
-          venant de Calcutta. »
-        </p>
-        <p>
-          Il était temps de rapporter cette bonne nouvelle, car la malade allait toujours baissant, et la déception de ne pas voir arriver son fils à la marée du matin lui avait porté un coup funeste. En apprenant que la
-          <hi>Neustrie</hi>
-          était signalée, elle se ranima.
-        </p>
+        <p> Lorsque l'heure de l'ouverture du bureau fut arrivée, je courus rue d'Orléans ; les navires commençaient à se montrer, mais la <hi>Neustrie</hi> ne se trouvait pas parmi ceux qu'on afficha. De huit heures du matin à trois heures de l'après-midi, je fis vingt voyages à la rue d'Orléans ; à trois heures enfin, je lus sur l'affiche : « La <hi>Neustrie,</hi> venant de Calcutta. » </p>
+        <p> Il était temps de rapporter cette bonne nouvelle, car la malade allait toujours baissant, et la déception de ne pas voir arriver son fils à la marée du matin lui avait porté un coup funeste. En apprenant que la <hi>Neustrie</hi> était signalée, elle se ranima. </p>
         <p>– À quelle heure la pleine mer ? demanda-t-elle.</p>
         <p>– À six heures.</p>
         <p>– Je crois bien que je vivrai jusque-là ; un peu de vin.</p>
-        <p>
-          Je m'en allai sur la jetée ; on voyait en rade plus de vingt grands navires qui tiraient des bordées en attendant la pleine mer. À quatre heures, ceux qui ne calaient pas beaucoup commencèrent à entrer ; mais la
-          <hi>Neustrie</hi>
-          était d'un fort tonnage, elle ne donna dans la passe que vers cinq heures.
-        </p>
+        <p> Je m'en allai sur la jetée ; on voyait en rade plus de vingt grands navires qui tiraient des bordées en attendant la pleine mer. À quatre heures, ceux qui ne calaient pas beaucoup commencèrent à entrer ; mais la <hi>Neustrie</hi> était d'un fort tonnage, elle ne donna dans la passe que vers cinq heures. </p>
         <p>Je courus à la maison ; je n'eus pas besoin de parler.</p>
         <p>– Elle est entrée ? dit-elle.</p>
         <p>– Elle entre.</p>
         <p>– Arrange-moi, dit-elle à sa sœur, et elle se fit soutenir avec des oreillers ; ses yeux seuls étaient encore vivants ; ses lèvres étaient décolorées.</p>
         <p>Un quart d'heure après, la rampe de l'escalier trembla comme si on l'arrachait : c'était son fils ; elle eut la force de se soulever pour le prendre dans ses bras.</p>
         <p>Elle mourut le soir à onze heures, à la marée basse, comme l'avait dit le médecin.</p>
-        <p>
-          Cette mort, cet amour de mère pour son fils, cette lutte contre l'agonie, ce désespoir firent sur mon esprit et sur mon cœur ce que n'avaient fait ni les supplications de Diélette ni le naufrage de l'
-          <hi>Orénoque.</hi>
+        <p> Cette mort, cet amour de mère pour son fils, cette lutte contre l'agonie, ce désespoir firent sur mon esprit et sur mon cœur ce que n'avaient fait ni les supplications de Diélette ni le naufrage de l' <hi>Orénoque.</hi>
         </p>
         <p>Ma mère aussi pouvait mourir tandis que je serais loin d'elle : pour la première fois je le vis, je le sentis.</p>
-        <p>
-          Je ne dormis pas de la nuit : cette pensée m'étreignait, m'étranglait. L'
-          <hi>Amazone</hi>
-          partait dans quinze jours, le bateau de Honfleur partait le matin à cinq heures. L'esprit d'aventure et la peur de mon oncle me poussaient à l'embarquement ; la pensée de ma mère me retenait au Port-Dieu. Après tout, mon oncle ne me mangerait pas. Je m'étais bien défendu contre la faim, contre le froid, contre la tempête ; avec du courage, je pourrais bien aussi me défendre contre mon oncle. Si ma mère ne voulait pas que je fusse marin, elle en avait le droit : avais-je, moi, le droit de me sauver sans son consentement ? Ne serait-elle pas fâchée contre moi quand je reviendrais ? Et si je ne revenais pas, qui prendrait soin d'elle quand elle ne pourrait plus travailler ?
-        </p>
+        <p> Je ne dormis pas de la nuit : cette pensée m'étreignait, m'étranglait. L' <hi>Amazone</hi> partait dans quinze jours, le bateau de Honfleur partait le matin à cinq heures. L'esprit d'aventure et la peur de mon oncle me poussaient à l'embarquement ; la pensée de ma mère me retenait au Port-Dieu. Après tout, mon oncle ne me mangerait pas. Je m'étais bien défendu contre la faim, contre le froid, contre la tempête ; avec du courage, je pourrais bien aussi me défendre contre mon oncle. Si ma mère ne voulait pas que je fusse marin, elle en avait le droit : avais-je, moi, le droit de me sauver sans son consentement ? Ne serait-elle pas fâchée contre moi quand je reviendrais ? Et si je ne revenais pas, qui prendrait soin d'elle quand elle ne pourrait plus travailler ? </p>
         <p>À quatre heures, je me levai et fis mon paquet ; à quatre heures et demie, j'embarquais sur le bateau de Honfleur ; à cinq heures, je quittais Le Havre, et trente-six heures après, à six heures du soir, au soleil couchant, j'apercevais les premières maisons du Port-Dieu.</p>
         <p>J'avais pris par la lande, c'est-à-dire par le même chemin que j'avais suivi avec Diélette ; mais la saison avait avancé depuis ce jour-là, ce n'était plus le même chemin. L'herbe avait verdi, les ajoncs étaient en fleur, et, dans la mousse des fossés, on voyait les violettes qui commençaient à fleurir ; de la terre et des plantes s'exhalait, après une chaude journée, une senteur qui dilatait les poumons et exaltait le cœur.</p>
         <p>Jamais je ne m'étais senti si heureux, si joyeux. Comme ma mère allait m'embrasser !</p>
@@ -2437,11 +2046,7 @@
         <p>Ma mère n'a pas quitté le Port-Dieu, et elle habite toujours notre maison ; j'ai fait reconstruire le rouf déjà deux fois pour que rien ne soit changé. Le tableau que vous voyez là représente précisément notre maison ; il est de Lucien Hardel, qui est devenu notre ami ; tous les ans, il vient passer deux mois avec nous, et, malgré ses efforts, il ne peut pas trouver dans la contrée un gendarme pour l'arrêter.</p>
         <p>M. de Bihorel, toujours vivant, a aujourd'hui quatre-vingt-douze ans. L'âge n'a affaibli ni sa santé ni son intelligence ; sa grande taille est courbée, mais son cœur est resté jeune et bon. Les arbres qu'il a plantés ont poussé, et l'île, dans la partie à l'abri du vent, est touffue comme un bois ; du côté de l'ouest, il y a toujours des moutons noirs, la même famille de vaches et des lapins.</p>
         <p>Les goélands viennent toujours tournoyer autour des rochers, et quand ils font leur tapage, Samedi, toujours aussi sain, aussi vigoureux qu'au temps où il voulait me faire boire la goutte, ne manque jamais de me demander :</p>
-        <p>
-          -- Romain,
-          <hi>tscouc, couac, couac,</hi>
-          qu'est-ce que ça veut dire ?
-        </p>
+        <p> -- Romain, <hi>tscouc, couac, couac,</hi> qu'est-ce que ça veut dire ? </p>
         <p>Et il rit en se tenant les côtes ; puis, si M. de Bihorel, qui a depuis quelques mois l'oreille un peu dure, nous regarde intrigué, il ôte son bonnet de laine et prenant son sérieux :</p>
         <p>– Il ne faut pas rire, dit-il ; le pauvre maître ! si tu es un homme, n'oublie pas que c'est à lui que tu le dois.</p>
         <p>Et c'est vrai.</p>
