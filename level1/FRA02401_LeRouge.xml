@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02401" xml:lang="fr">
   <teiHeader>
@@ -18,61 +18,60 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">25038</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          Bibliothèque électronique du Québec,
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="http://beq.ebooksgratuits.com"/>
-          .
-        </bibl><bibl type="firstEdition">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
+          <ref target="http://beq.ebooksgratuits.com" />
+        </bibl>
+        <bibl type="firstEdition">
           <date>1904</date>
-          ,
-          <idno/>
-          ,
-
-          .
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="chapter">
+
         <head>I</head>
         <p>Il y avait plus de soixante ans que l'empereur Napoléon, pressé d'argent, avait vendu les provinces de la Louisiane à la République des États-Unis ; mais, en dépit de l'infiltration yankee, les traditions des créoles français se perpétuaient.</p>
         <p>M. de Saint-Elme, dont la plantation était située à vingt milles de la Nouvelle-Orléans, occupait plus de six cents esclaves qu'il traitait avec une bonté devenue proverbiale.</p>
-        <p>
-          On disait couramment :
-          <hi>Heureux comme un noir de M. de Saint-Elme.</hi>
+        <p> On disait couramment : <hi>Heureux comme un noir de M. de Saint-Elme.</hi>
         </p>
-        <p>
-          Ce matin-là, M. de Saint-Elme se leva de bonne heure. Il se trouvait debout au moment même où le
-          <hi>commandeur</hi>
-          de la plantation, Vulcain -- un pauvre diable boiteux de naissance -- soufflait dans un coquillage pour appeler les noirs au travail et diriger les divers ateliers de travailleurs vers les acréages de coton et de cannes à sucre.
-        </p>
+        <p> Ce matin-là, M. de Saint-Elme se leva de bonne heure. Il se trouvait debout au moment même où le <hi>commandeur</hi> de la plantation, Vulcain -- un pauvre diable boiteux de naissance -- soufflait dans un coquillage pour appeler les noirs au travail et diriger les divers ateliers de travailleurs vers les acréages de coton et de cannes à sucre. </p>
         <p>Vulcain faisait siffler sa « rigoise » d'un air de nonchalance tyrannique, mais les noirs, confortablement vêtus de pantalons de cotonnade et de chemises de grosse toile, la face épanouie d'un large sourire, aux dents blanches, hochaient la tête avec une bonhomie malicieuse et venaient s'aligner en ordre en face du bénévole commandeur.</p>
         <p>Pour Vulcain, la « rigoise » était un insigne luxueux, un meuble de parade, quelque chose de comparable au bâton de commandement que l'on voit figurer aux mains des généraux mestres-de-camp dans les tableaux de Lebrun ou d'Hyacinthe Rigault.</p>
         <p>Si Vulcain avait jeté sa rigoise dans un buisson de cannes infesté de serpents à sonnette, il est hors de doute qu'elle lui eût été rendue beaucoup plus vite que le bâton du grand Condé.</p>
@@ -184,11 +183,7 @@
         <p>Enfin, des pas sonnèrent sur le petit escalier de bois qui, par une sorte de poterne cachée sous le feuillage, faisait communiquer directement avec le parc la chambre de la dame.</p>
         <p>Derrière Lina, qui ouvrait tout doucement la porte, Pascalino apparut.</p>
         <p>Sans un mot, Mme de Saint-Elme le débarrassa de son chapeau à larges bords et pressa contre son sein le visage olivâtre du rôdeur de frontières.</p>
-        <p>
-          Il était vêtu à la mode mexicaine. Un grand manteau carré ou
-          <hi>puncho</hi>
-          descendait jusqu'à ses pieds ; son pantalon orné de franges était assujetti sur des bottes en cuir de cheval, non tanné, par une série de petits boutons.
-        </p>
+        <p> Il était vêtu à la mode mexicaine. Un grand manteau carré ou <hi>puncho</hi> descendait jusqu'à ses pieds ; son pantalon orné de franges était assujetti sur des bottes en cuir de cheval, non tanné, par une série de petits boutons. </p>
         <p>– Ah ! pauvre Pascalino ! s'écria Mme de Saint-Elme, comme il y a longtemps que je ne t'avais vu !...</p>
         <p>– C'est que, répondit-il hypocritement, j'ai eu beaucoup d'ennuis la semaine dernière.</p>
         <p>– Encore le jeu !... soupira l'amoureuse.</p>
@@ -219,6 +214,7 @@
         <p>Vénus et sa fille s'éclipsèrent comme deux ombres, et il n'y eut plus par la chambre ténébreuse et parfumée, qu'un bruit de baisers qui se mariait au roucoulement lointain des ramiers, dans le parc, et au sanglot des sources fouettées par la brise, à l'ombre des orangers et des magnolias.</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>M. de Saint-Elme avait conclu une excellente affaire. Son vendeur, un Américain du Nord, l'avait régalé d'un magnifique déjeuner dans les salons de Muraty's Hôtel ; justement à la suite d'une de ces épidémies de fièvre jaune, si communes à la Nouvelle-Orléans, l'hôtel avait été vendu ; le personnel entièrement renouvelé, et les salons remis à neuf avec un luxe inouï. M. de Saint-Elme ne rencontrait plus parmi les waiters noirs ou mulâtres, qui, vêtus de blanc, circulaient affairés dans les couloirs de l'immense bâtiment, aucune figure de connaissance.</p>
         <p>M. Growlson, le vendeur, un Yankee à la face osseuse, au menton anguleux, terminé par un pinceau de poils rudes et rouges, avait fait servir le café dans une petite véranda attenant au bar, et qui donnait sur les jardins de l'hôtel.</p>
@@ -479,6 +475,7 @@
         <p>Les noirs indécis le lâchèrent un instant. Profitant de cette hésitation, Pascalino s'élança vers la porte et s'enfuit en boitant, tel un taureau mal assommé, échappé au maillet sanglant du boucher, beuglant et titubant s'enfuit des abattoirs.</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p>Après la mort de sa femme, M. de Saint-Elme était demeuré pendant trois mois plongé dans une noire mélancolie. Maintenant, il ne s'occupait plus que rarement et, pour ainsi dire, par accident de l'administration de son domaine ; il passait presque toutes ses journées à la Nouvelle-Orléans où il avait loué une petite maison dans le quartier neuf ; il fallait que quelque vente importante de sucre ou de coton nécessitât absolument sa présence à l'habitation pour qu'il se dérangeât.</p>
         <p>En son absence, le commandeur Vulcain régissait l'exploitation avec une probité scrupuleuse.</p>
@@ -491,9 +488,7 @@
         <p>C'étaient deux filles du comté de Galway au profil noble et doux, à la bouche hautaine et fine. On eût cru à première vue deux grandes dames. Leurs clairs yeux verts paraissaient radieux d'innocence, une royale toison de cheveux roux presque blonds, tombait en nattes pesantes sur leurs épaules et leur teint était d'une pureté et d'une blancheur liliales.</p>
         <p>Mais leur voix rauque, le tremblement qui agitait leurs longues mains pâles, leurs pommettes amaigries que la fièvre fardait de rose décelaient la tuberculose et l'alcoolisme invétéré. Elles toussaient avec coquetterie et réclamaient sans cesse de nouveaux grogs.</p>
         <p>De quel antre mystérieux étaient sorties ces pitoyables larves, pourtant si belles dans leur maigreur élégante ? De quel bill de la Chambre des Lords, de quelle page de la Danse macabre ou de quel lupanar sortaient-elles ?</p>
-        <p>
-          Toutes petites, sans doute, après les évictions et la mauvaise récolte des pommes de terre, elles avaient dû sucer l'alcool dès le biberon ; elles ne se connaissaient pas de parents, leur mère était sans doute la Faim et leur père le
-          <hi>delirium tremens.</hi>
+        <p> Toutes petites, sans doute, après les évictions et la mauvaise récolte des pommes de terre, elles avaient dû sucer l'alcool dès le biberon ; elles ne se connaissaient pas de parents, leur mère était sans doute la Faim et leur père le <hi>delirium tremens.</hi>
         </p>
         <p>Pourtant, derrière elles, une vieille en haillons qui se disait leur tante, marchait à une dizaine de pas, déjà ivre de l'alcool que Polly et Jemmy laissaient au fond de leurs verres à son intention.</p>
         <p>M. de Saint-Elme avait vainement essayé de congédier cette harpie.</p>
@@ -517,11 +512,7 @@
         <p>Le Yankee était aux trois quarts ivre, et mâchonnait un bout de cigare éteint. Dans sa face osseuse où l'épiderme tanné, marbré de plaques rouges semblait tiré comme par les fils de fer d'une armature intérieure, les yeux étrangement bleus et limpides flambaient d'une lueur de folie...</p>
         <p>Tout en sirotant le breuvage dont il se rinçait la bouche crapuleusement avant de l'avaler, il tailladait méthodiquement le bois de la table, qu'il réduisait en copeaux aussi fins que possible, suivant alors une mode alors universelle aux États-Unis. Il était rare alors de ne pas rencontrer un Yankee occupé à taillader des copeaux.</p>
         <p>Cette manie était poussée si loin que les patrons de bar achetaient pour leurs clients des peupliers entiers et que les garçons de bureau du Capitole de Washington ne manquaient jamais de déposer chaque matin sur les bureaux des représentants une provision de bois tendre.</p>
-        <p>
-          Des paris énormes étaient engagés et celui qui réussissait le copeau le plus mince empochait les enjeux. On cite le cas d'un navire, le
-          <hi>Majestic</hi>
-          dont le mât de beaupré se trouva entièrement abattu par le bowie-knife des passagers au cours d'une traversée.
-        </p>
+        <p> Des paris énormes étaient engagés et celui qui réussissait le copeau le plus mince empochait les enjeux. On cite le cas d'un navire, le <hi>Majestic</hi> dont le mât de beaupré se trouva entièrement abattu par le bowie-knife des passagers au cours d'une traversée. </p>
         <p>De temps à autre, M. Growlson s'interrompait de cette agréable occupation pour passer la main dans la chevelure frisée de ses petites compagnes ou pour leur tirer amicalement les oreilles.</p>
         <p>Cette récréation voluptueuse était coupée de longs bâillements que les deux mulâtresses, par ennui naturel ou par habile flatterie, répétaient avec un ensemble admirable.</p>
         <p>Le fils du général Bonbon qui s'attendait presque à une bataille à coups de bouteilles et d'escabeaux dont son matériel eût beaucoup souffert, fut agréablement surpris en voyant Growlson se dresser avec une roideur automatique et serrer énergiquement les mains de M. de Saint-Elme.</p>
@@ -646,13 +637,10 @@
         <p>Lina emmenait son ancien maître hébété de lassitude et à peine conscient de la route qu'il suivait dans la direction du faubourg, vers la maisonnette qu'elle n'avait pas cessé d'habiter en compagnie de sa mère, la vieille Vénus.</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
         <p>Tom Dixon avait à peine dix-neuf ans, mais son visage osseux et allongé, au front très haut, à la mâchoire fortement proéminente ne permettait pas de lui assigner un âge quelconque. Encore imberbe il avait déjà des rides et quelques cheveux gris. Ses yeux mornes, d'un bleu de glace, annonçaient une persévérance et une force de volonté effrayantes.</p>
-        <p>
-          Toujours vêtu d'une redingote noire râpée, si étroite qu'elle accusait nettement le dessin squelettique des épaules, le jeu des clavicules et la cage des côtes, il parlait rarement. Presque toute la journée, installé dans le meilleur fauteuil de Vénus, il lisait des livres de mathématiques et de chimie, les lèvres amincies et les sourcils froncés par l'attention. Tom était un enfant trouvé. Tour à tour garçon de bar, employé dans une entreprise de vidange, teneur de livres d'un marchand d'esclaves et domestique d'un
-          <hi>gambler</hi>
-          ou joueur de profession, il n'avait jamais cessé, au cours de ses avatars, de mener la conduite la plus exemplaire, économisant sans cesse de menues sommes avec lesquelles il s'achetait des livres. Suivant les cours gratuits, il avait commencé par entasser dans son esprit une foule de connaissances disparates. Puis le désir s'était précisé en lui de devenir un grand savant et il tendait à son but avec la patiente lenteur d'un homme sûr de l'atteindre. D'ailleurs, il n'était gêné par aucun préjugé dans sa marche têtue vers le triomphe.
-        </p>
+        <p> Toujours vêtu d'une redingote noire râpée, si étroite qu'elle accusait nettement le dessin squelettique des épaules, le jeu des clavicules et la cage des côtes, il parlait rarement. Presque toute la journée, installé dans le meilleur fauteuil de Vénus, il lisait des livres de mathématiques et de chimie, les lèvres amincies et les sourcils froncés par l'attention. Tom était un enfant trouvé. Tour à tour garçon de bar, employé dans une entreprise de vidange, teneur de livres d'un marchand d'esclaves et domestique d'un <hi>gambler</hi> ou joueur de profession, il n'avait jamais cessé, au cours de ses avatars, de mener la conduite la plus exemplaire, économisant sans cesse de menues sommes avec lesquelles il s'achetait des livres. Suivant les cours gratuits, il avait commencé par entasser dans son esprit une foule de connaissances disparates. Puis le désir s'était précisé en lui de devenir un grand savant et il tendait à son but avec la patiente lenteur d'un homme sûr de l'atteindre. D'ailleurs, il n'était gêné par aucun préjugé dans sa marche têtue vers le triomphe. </p>
         <p>Sans la plus légère hésitation il était devenu l'amant de la hideuse Vénus. À la suite d'un marché minutieusement débattu, il devait passer, chaque soir, un certain temps aux côtés de l'antique sorcière étalée au milieu de son lit comme un paquet d'entrailles sur un fumier ; il s'acquittait de cette fonction avec le même zèle ponctuel qu'un employé met à se rendre à son bureau.</p>
         <p>En revanche, Vénus, grâce aux gains de sa fille, le nourrissait et lui remettait chaque jour une petite somme pour son entretien et pour ses livres. Dans ses jours de gaillardise, la vieille pouvait obtenir un supplément de caresses, moyennant des primes convenues d'avance et proportionnées au labeur fourni.</p>
         <p>M. Tom, comme l'appelaient respectueusement les noirs du voisinage, était d'ailleurs des plus faciles à vivre ; ne riant jamais, ne se fâchant jamais, il résolvait toutes les questions par un oui ou par un non -- ou par un chiffre. Voulait-on lui parler, essayait-on d'insister, il tirait sa montre, mettait son chapeau et s'en allait. L'insulte et la flatterie le trouvaient également indifférent ; l'une et l'autre lui faisaient perdre du temps, et voilà tout.</p>
@@ -666,14 +654,14 @@
         <p>– Tais-toi ; il faut une femme qui connaisse la vie aussi bien que moi pour le comprendre. Il est si honnête ! Croirais-tu ? -- et Vénus devint rouge (ou plutôt grise) de plaisir -- qu'il marque sur un livre toutes les petites sommes que je lui donne ? Il m'a promis de me les rendre, avec intérêts composés, à dix du cent, sitôt qu'il n'en aura plus besoin pour lui-même. Cela me fera quelques économies pour quand je serai vieille.</p>
         <p>– Tu as toujours été une vieille coureuse et une vieille folle !</p>
         <p>– Petite catin, tu pourrais au moins respecter ta mère ! Rappelle-toi ce que te disait M. l'aumônier de l'« Homme-Rouge » :</p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>
           <hi>Tes père et mère honoreras</hi>
         </p>
         <p>
           <hi>Afin de vivre longuement.</hi>
         </p>
-        <milestone type="subChapter" rend="space" unit="newline"/>
+        <milestone type="subChapter" rend="space" unit="newline" />
         <p>Lina ne trouvait rien à répondre, et se jetait dans les bras de Vénus qui, tout attendrie, la récompensait de son respect filial en lui faisant boire un verre de tafia de la grappe blanche, liqueur parfumée, du vrai sucre d'or, vieux de vingt ans, et dont elle gardait jalousement quelques bouteilles.</p>
         <p>La brusque arrivée de M. de Saint-Elme jeta le désarroi dans ce paisible intérieur. Aux attentions et au respect que lui témoigna tout d'abord Vénus, M. Tom éprouva un étonnement qui était peut-être déjà de la jalousie. Le créole s'était plaint, dès son arrivée, de violents maux de tête ; il frissonnait, son visage s'injectait de sang, ses yeux larmoyaient, et il réclamait continuellement à boire.</p>
         <p>Toute la journée, dans sa chambre parée de coquillages, de bouquets de plumes et de vases en verre colorié, Lina le soignait. Il se plaignait de grandes douleurs dans l'estomac, et ne répondait plus qu'avec lenteur.</p>
@@ -686,11 +674,7 @@
         <p>Joseph Lebidois comprit bien vite l'avantage qu'il y avait à s'appeler Jérémy Balfrog pour les Yankees, et Joli-Bois pour les créoles français ; à ceux qui s'étonnaient, il expliquait qu'il était d'origine canadienne, né d'un père français et d'une mère anglaise, et tout le monde était content -- même les malades qu'il guérissait plus souvent qu'un autre.</p>
         <p>Pour cela, il avait trouvé un secret merveilleux. Quelle que fût la maladie, il administrait toujours de copieuses doses de laudanum, qui réduisaient au sommeil et au silence les plus récalcitrants ; il ne sortait jamais sans un flacon de ce précieux produit, qu'il regardait comme une panacée universelle. Il était aussi fort partisan du camphre -- véritable bienfait de la Providence, disait-il, et que Dieu avait dû sans doute créer tout exprès pour calmer les sens surexcités des noirs et des mulâtres.</p>
         <p>Au début de sa carrière, le docteur avait éprouvé quelques déconvenues dans le recouvrement de ses honoraires ; mais il avait bien vite pris son parti en homme pratique : il s'était habitué à se faire payer d'avance ; pourtant il était charitable, il ne refusait jamais le secours de sa science aux noirs les plus misérables, surtout quand ils pouvaient se recommander de M. Bonbon.</p>
-        <p>
-          Ce personnage historique, un peu receleur à ses moments perdus, était l'ami intime des foules de
-          <hi>gamblers,</hi>
-          de rôdeurs de frontières, de dévaliseurs, et il avait souvent à proposer au docteur des affaires avantageuses que celui-ci, charmé de la législation libérale des États de l'Union, s'empressait d'accepter, non sans songer, avec un frisson de volupté narquoise, aux nombreuses condamnations qu'il eût encourues dans les pays arriérés de la vieille Europe.
-        </p>
+        <p> Ce personnage historique, un peu receleur à ses moments perdus, était l'ami intime des foules de <hi>gamblers,</hi> de rôdeurs de frontières, de dévaliseurs, et il avait souvent à proposer au docteur des affaires avantageuses que celui-ci, charmé de la législation libérale des États de l'Union, s'empressait d'accepter, non sans songer, avec un frisson de volupté narquoise, aux nombreuses condamnations qu'il eût encourues dans les pays arriérés de la vieille Europe. </p>
         <p>En arrivant chez Vénus, le docteur se fit donner deux piastres, et après avoir jeté un regard sur le malade sans l'approcher, il partit très vite en recommandant simplement de lui faire prendre quinze gouttes de laudanum, et des boissons rafraîchissantes.</p>
         <p>– Je reviendrai demain, déclara-t-il gravement, le salut du malade est entre les mains de la nature.</p>
         <p>Le docteur était coiffé d'un chapeau noir à larges bords. Avec sa face entièrement rasée, ses cheveux flottants, un peu bouclés, et son nez enluminé par le bourgogne, il ne ressemblait pas mal à un chansonnier du Caveau. Ses succès lui avaient donné un certain air de sincérité qui lui allait bien, et il avait adopté l'habitude de le prendre de très haut avec toutes sortes de personnes.</p>
@@ -744,6 +728,7 @@
         <p>Il posa une foule de questions à Lina, et à la suite de leur entretien, il fut décidé que la petite mulâtresse demeurerait à l'hôpital en qualité d'infirmière, qu'elle veillerait d'une façon toute spéciale son ancien maître, que le docteur conservait un vague espoir de sauver. William reçut l'ordre formel de n'approcher du malade sous aucun prétexte.</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
         <p>Dans la fièvre jaune, il ne meurt guère qu'un malade sur trois. Après plusieurs jours d'affreux vomissements, de sueurs, de hoquets et de prostration, M. de Saint-Elme entra dans la période de la convalescence. Le docteur avait répondu de lui.</p>
         <p>Mais comme il était pâle, vieilli et décharné ! C'est à peine s'il se reconnaissait dans le miroir que Lina, qui ne l'avait pas quitté d'une minute, s'était procuré pour lui. La face blafarde, aux dents jaunes, au regard éteint, qu'il contemplait, lui paraissait celle d'un fantôme. Quand il put se lever, ses jambes fléchissaient sous lui ; il courbait le dos, et tremblait de faiblesse.</p>
@@ -859,6 +844,7 @@
         <p>L'esclave cacha soigneusement l'aigle d'or dans un coin de son mouchoir et descendit avec son maître au jardin.</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
         <p>Un luxueux déjeuner servi à la française attendait M. de Saint-Elme dans un retrait ombreux des jardins du célèbre restaurant Messonnier.</p>
         <p>Un saumon accommodé aux groseilles, des tranches de venaison, un jambon d'ours, des fruits de toute beauté et d'excellents vins dans des seaux remplis de glace égayaient une nappe étincelante de blancheur et reluisante de cristaux et d'argenterie.</p>

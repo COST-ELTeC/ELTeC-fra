@@ -16,14 +16,17 @@
         <p>à fournir</p>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Gallica (BnF)</publisher>
+          <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61362974" />
+          <!-- Apparently derived by OCR from <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61362974"/> -->
+        </bibl>
         <bibl type="printSource">
           <author>Pierre Mille</author>
           <title>Louise et Barnavaux</title>
           <publisher>Calmann-Lévy</publisher>
           <date>1912</date>
           <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61362974" />
-        </bibl>
-        <bibl type="digitalSource"> Apparently derived by OCR from <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61362974">Gallica page images</ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1912</date>

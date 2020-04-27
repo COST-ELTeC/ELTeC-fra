@@ -20,16 +20,16 @@
         <p>à fournir</p>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Bibebook</publisher>
+          <ref target="http://www.bibebook.com/ebook/libre/amedee_achard-belle-rose.epub">http://www.bibebook.com/ebook/libre/amedee_achard-belle-rose.epub</ref>
+        </bibl>
         <bibl type="printSource">
           <author>Achard, Amédée (1814-1875)</author>
           <title>Belle-Rose</title>
           <publisher>Calmann-Levy</publisher>
           <date>1847</date>
           <ref target="ark:/12148/bpt6k203192c" />
-        </bibl>
-        <bibl type="digitalSource">
-          <publisher>Bibebook</publisher>
-          <ref target="http://www.bibebook.com/ebook/libre/amedee_achard-belle-rose.epub">http://www.bibebook.com/ebook/libre/amedee_achard-belle-rose.epub</ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1847</date>

@@ -1,43 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"    schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"    schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"    schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA02302" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>L'amie : ELTeC edition</title>
         <author ref="viaf:49258322">Gréville, Henry [Alice Marie Céleste Fleury, dite Durand] (1842-1902)</author>
-        <respStmt> <resp>encoded by</resp> <name>Pia Geißel</name>
+        <respStmt>
+          <resp>encoded by</resp>
+          <name>Pia Geißel</name>
         </respStmt>
-        <respStmt> <resp>Original data capture</resp> <name>Bibliothèque électronique du Québec</name> <name>Jean-Yves Dupuis</name>
+        <respStmt>
+          <resp>Original data capture</resp>
+          <name>Bibliothèque électronique du Québec</name>
+          <name>Jean-Yves Dupuis</name>
         </respStmt>
       </titleStmt>
       <extent>
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">56987</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- First ElTeC edition 2019-09-30
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource"> <title>L'amie</title> <author>Henry Gréville</author> <ref target="http://beq.ebooksgratuits.com/vents/greville.htm"/>
-        </bibl><bibl type="printSource"> <title>L'amie</title> <author>Henry Gréville</author> <publisher>E. Plon, Nourrit et Cie</publisher> <pubPlace>Paris</pubPlace> <date>1879</date>
-        </bibl><bibl type="firstEdition"> <!-- best guess --> <date>1878</date>
-        </bibl></sourceDesc>
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!-- First ElTeC edition 2019-09-30
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <title>L'amie</title>
+          <author>Henry Gréville</author>
+          <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
+          <ref target="http://beq.ebooksgratuits.com/vents/greville.htm" />
+        </bibl>
+        <bibl type="printSource">
+          <title>L'amie</title>
+          <author>Henry Gréville</author>
+          <publisher>E. Plon, Nourrit et Cie</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1879</date>
+        </bibl>
+        <bibl type="firstEdition">
+          <!-- best guess -->
+          <date>1878</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-09-30">File created</change>
       <change when="2019-10-24">upgrade to ELTeC-1</change>
     </revisionDesc>
@@ -60,10 +90,12 @@
         <p>Sixième édition.</p>
       </div>
     </front>
+
     <body>
       <div type="chapter">
+
         <head>I</head>
-        <p><hi>   Monsieur Paul Brécart a l'honneur de vous faire part de son mariage avec   mademoiselle Claire Langé. </hi></p>
+        <p><hi> Monsieur Paul Brécart a l'honneur de vous faire part de son mariage avec mademoiselle Claire Langé. </hi></p>
         <p>« Saint-Martin-les-Mines, 15 juillet 1872. »</p>
         <p>Depuis un bon moment, la feuille de papier satiné qui portait ces quatre lignes ne formait plus qu'une tache indistincte aux yeux de Camille ; la jeune fille avait entrouvert les doigts, la lettre de faire part s'était dérobée doucement en glissant sur la robe... Camille n'appartenait plus au monde présent : se reportant de plusieurs années en arrière, elle revivait les quelques semaines qui avaient suivi l'annonce de ce mariage. Larmes de toutes les nuits, désespoir muet de toutes les heures, aisance affectée de tous les jours, apparences joyeuses cachant un cœur profondément ulcéré, voilà ce que le carré de papier lithographié rappelait à Camille.</p>
         <p>Elle méditait ainsi, la tête baissée, lorsque, la porte s'ouvrant, la lettre de faire part s'envola et glissa sur le parquet. La jeune fille la ramassa avec cet air placide et supérieur aux choses de la vie qui ne la quittait guère, et se mit en devoir de la plier avec d'autres papiers épars dans un tiroir devant elle.</p>
@@ -161,6 +193,7 @@
         <p>Sa femme lui répondit en lui serrant la main, et ils s'endormirent aussitôt, fatigués de leur longue veille et tristes jusqu'au fond de leurs bonnes âmes.</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>Le lendemain, pendant le dîner, madame Frogé se fit faire par Camille un relevé exact de ses occupations ; la jeune fille donnait des leçons dans quelques familles, nombreuses pour la plupart, de manière à avoir plusieurs heures d'occupation de suite dans la même maison. Cet arrangement était le seul, du reste, qui eût obtenu l'assentiment des époux Frogé lorsqu'ils avaient accueilli chez eux Camille orpheline et sans fortune personnelle.</p>
         <p>Les leçons avaient été trouvées par de vieux amis dans des conditions exceptionnelles qui permettaient à la jeune fille de se glorifier de son indépendance, tout en obtenant le refuge et la protection du foyer de famille ; le revenu qu'elles lui procuraient lui permettait d'offrir à ses parents quelques gâteries et de subvenir aux besoins de sa modeste toilette ; mais là n'était pas leur attrait principal. Comme l'avait deviné la tante Belle, Camille s'ennuyait cruellement dans cet intérieur bourgeois ; elle rêvait autre chose, une existence, sinon plus romanesque, au moins plus mouvementée, dans un cadre moins mesquin, au milieu d'une société plus moderne ; ses leçons la plongeaient pour quelques heures dans ce milieu rêvé : c'était assez pour les lui rendre chères.</p>
@@ -229,6 +262,7 @@
         <p>– Mais oui, ma tante, je vous remercie, répondit la jeune fille en tirant sur elle la porte de sa chambre. – Pourvu que je ne le revoie pas ! se dit-elle quand elle fut seule. C'est mon seul espoir, mon seul salut !</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p>Pendant huit jours, mademoiselle Frogé suivit la routine ordinaire de ses devoirs, se garda bien de passer du côté de l'hôtel Louvois, et s'efforça d'oublier jusqu'au nom de Brécart ; son oncle et sa tante, fatigués par l'immense effort que leur avait coûté leur petite fête, se reposaient dans une douce somnolence ; c'est avec volupté qu'ils regardaient leurs tasses de porcelaine réintégrées dans le buffet, leurs boîtes de cuillers à thé rangées dans l'ordre accoutumé, les chaises et les fauteuils rendus à leur première harmonie, et tout cet intérieur réglé, correct et monotone leur paraissait le paradis perdu et retrouvé. De plus, un sentiment d'orgueil légitime gonflait leur cœur à la pensée du succès de cette entreprise.</p>
         <p>– Quand on pense, disait la tante Belle, qu'on ne m'a rien cassé, pas même une bobèche !</p>
@@ -261,7 +295,9 @@
         <p>Camille se pencha sur le petit garçon qui la regardait toujours, et le baisa au front ; mais Félix probablement trouva l'accolade trop cérémonieuse, car, étendant ses deux grosses menottes, il repoussa fortement Camille, après qu'elle l'eut embrassé, et continua à la regarder fixement.</p>
         <p>Claire se mit à rire.</p>
         <p>– Il est mal élevé, vois-tu, mais</p>
-        <quote> <l>   <hi>...Dans un âge aussi tendre,</hi> </l> <l>   <hi>Quel éclaircissement pouvez-vous en attendre ?</hi> </l>
+        <quote>
+          <l> <hi>...Dans un âge aussi tendre,</hi> </l>
+          <l> <hi>Quel éclaircissement pouvez-vous en attendre ?</hi> </l>
         </quote>
         <p>Il ne te dira jamais pourquoi il est si peu gracieux. Ah ! Camille, te souviens-tu de la pension de mademoiselle Boucin, quand tu jouais Athalie et moi Josabeth ? J'étais destinée à jouer les mères de famille !</p>
         <p>Elle promenait de son fils à son amie ses yeux clairs et rieurs, et son sourire de mère heureuse achevait sa pensée.</p>
@@ -285,6 +321,7 @@
         <p>Et, en effet, le dimanche venu, vers trois heures, les deux vieux partirent pour Saint-Cloud.</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
         <p>– Enfin ! s'écria Claire au moment où Camille entra dans son petit salon café au lait, après de longues, longues années, nous allons pouvoir causer librement ! C'est que j'ai mille choses à te dire et au moins deux mille à te demander. Embrasse-moi donc ! Est-ce qu'une poignée de main suffit entre vieilles amies comme nous ?</p>
         <p>Camille se laissa appliquer deux baisers sur les joues, et s'assit sur un petit fauteuil bas, capitonné, frangé, orné de glands, et aussi moelleux qu'un lit de plume.</p>
@@ -320,7 +357,7 @@
         <p>– Votre secret ? demanda Camille, qui sentit un froid mortel l'envahir par degrés.</p>
         <p>– Oui ; la mère de ma femme était seule à le connaître avec nous deux ; M. Laugé voulait un gendre établi ; – je n'étais point ce qu'on appelle <hi>établi</hi>  ; – j'attendais ma nomination pour faire ma demande ; mais quand je l'ai faite, il y avait un an que nous étions fiancés !</p>
         <p>– Un an ! répéta Camille. Un an... et tu ne m'en as rien dit ! ajouta-t-elle en se tournant péniblement vers Claire.</p>
-        <p>– Je ne le pouvais pas, répondit joyeusement celle-ci. Nous avions juré le secret, maman, Paul et moi, comme les trois Suisses dans <hi>   Guillaume   Tell ! </hi> Ah ! le bon temps ! ajouta la jeune femme entendant la main à son mari.</p>
+        <p>– Je ne le pouvais pas, répondit joyeusement celle-ci. Nous avions juré le secret, maman, Paul et moi, comme les trois Suisses dans <hi> Guillaume Tell ! </hi> Ah ! le bon temps ! ajouta la jeune femme entendant la main à son mari.</p>
         <p>– À présent vaut mieux, répondit-il en lui souriant.</p>
         <p>– Ah ! fit lentement Camille, vous étiez fiancés !</p>
         <p>Bébé, suivi de sa bonne, vint annoncer que madame était servie. Brécart enleva son fils dans ses bras et se dirigea vers la salle à manger.</p>
@@ -396,6 +433,7 @@
         <p>Camille passa silencieusement son bras dans celui de Paul, et ils s'en allèrent ainsi le long du quai.</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
         <p>La Seine coulait rapidement entre ses hautes berges, avec des remous de moire sombre où les réverbères mettaient çà et là des paillettes et des traînées lumineuses ; les bateaux-mouches allaient et venaient comme de gros animaux fantastiques, quittant et abordant les pontons avec une activité lourde et régulière, et leurs lanternes blanches ou rouges se réfléchissaient au loin sur le fleuve avec des clartés de feux de Bengale. Ce Paris fluvial, banal le jour, prend le soir des apparences mystérieuses ; au travers des arceaux des ponts de fer, sous les lourdes arches des ponts de pierre, s'allongent des ombres qui semblent se prolonger jusqu'à l'infini ; les masses d'architecture se découpent massives sur le fleuve presque phosphorescent, et par-dessus tout cela les grands peupliers des berges dressent leurs pyramides épaisses de verdure noirâtre. À mesure qu'on s'éloigne du pont Neuf en remontant la Seine, un calme relatif s'établit, la navigation est plus rare, les rives moins larges, on ne rencontre plus tant d'arbres, et le mystère disparaît.</p>
         <p>Cependant, le long des quais de l'île Saint-Louis, les vieilles maisons dressent leurs façades silencieuses et massives ; leurs pignons bizarres, percés de fenêtres irrégulières, s'étoilent le soir de lampes modestes ; les travailleurs de la nuit, ceux qui ont besoin de repos et de silence, aiment ces heures et ces maisons tranquilles : la mélancolie semble avoir élu son domicile dans cette sorte d'oasis, la seule que le bruit et le mouvement de la grande fourmilière lui aient ménagée.</p>
@@ -456,6 +494,7 @@
         <p>– Mais elle ne m'est pas antipathique, ma chère petite femme ! Elle est fort bonne à voir ; je la trouve curieuse et originale, très amusante à étudier avec cela. Seulement je ne m'associe pas à l'idée de la haute perfection que tu lui prêtes ; c'est une faible mortelle comme nous, et qui sait ? peut-être plus faible que nous !</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
         <p>M. et madame Frogé furent bien étonnés cette semaine-là, car ils reçurent des visites, et cependant ce n'était ni l'époque de leur fête, ni celle du jour de l'an.</p>
         <p>Une après-midi, vers cinq heures, comme Sébastien Frogé, rentrant de sa promenade habituelle, déposait son chapeau sur le meuble depuis vingt-cinq ans consacré à cet usage, on sonna, et Gustave Mirmont fit son entrée, sans être annoncé par la bonne, grosse Champenoise qui de sa vie n'avait entendu parler d'annoncer les gens.</p>
@@ -573,6 +612,7 @@
         <p>Et Gustave Mirmont, une demi-heure après, mit la tête sur l'oreiller, avec le calme heureux d'une bonne conscience.</p>
       </div>
       <div type="chapter">
+
         <head>VII</head>
         <p>Vers la fin de juillet, après une journée de chaleur écrasante, madame Brécart prenait le frais dans son joli petit salon ; Paul assistait à un dîner de cérémonie et ne devait rentrer que tard ; Bébé dormait dans la salle voisine, dont la porte entrouverte laissait filtrer une faible lueur de la veilleuse, et Claire avait fait emporter la lampe : les lumières de la place du Châtelet suffisaient, du reste, à éclairer l'appartement.</p>
         <p>La jeune femme, assise auprès de la fenêtre, jouissait de cette belle soirée avec délices : quand on n'a pas son mari auprès de soi, savoir qu'il va bientôt rentrer est encore une chose fort agréable : c'était du moins l'avis de madame Brécart. La solitude, que d'aucuns trouvent odieuse, a pour les heureux un charme particulier ; de même qu'un avare s'enferme pour compter son trésor, on aime à rester un peu seul pour se rappeler toutes les joies et pour rendre intérieurement grâce à la destinée. C'est ce que faisait Claire. Renversée dans son fauteuil, les yeux perdus dans un coin de sombre azur qui passait entre la cime de deux arbres, et où elle voyait briller une étoile, elle se rappelait sa vie, pleine de bénédictions et de joies tranquilles.</p>
@@ -698,6 +738,7 @@
         <p>Il se rendormit aussitôt, et Claire cessa de pleurer.</p>
       </div>
       <div type="chapter">
+
         <head>VIII</head>
         <p>Paul avait offert son bras à Camille, et ils marchaient le long du quai ; la gaieté du dimanche s'était à peu près endormie, en attendant que la sortie des théâtres vînt la réveiller. Surpris de ce qu'il venait d'apprendre, touché d'un soudain intérêt, plus vif et plus tendre pour cette belle créature, peut-être vouée à la mort, il ne savait que lui dire, et pourtant les questions se pressaient sur ses lèvres. Un accès de toux de Camille lui fournit l'occasion qu'il cherchait.</p>
         <p>– Vous êtes sérieusement malade ? dit-il d'une voix douce.</p>
@@ -749,6 +790,7 @@
         <p>Elle revint donc, l'humeur changée, gaie et presque bruyante ; c'était le soir ; le soir, Paul était chez lui, et la reconduisait. Elle ne lui fit plus de confidences, mais peu à peu se rapprocha de lui, l'intéressa aux événements de sa vie, lui fit une part de plus en plus large à son amitié, et sut devenir, non plus l'amie de Claire, qu'elle laissait dans une dédaigneuse indifférence, parfois émaillée d'épigrammes, mais l'amie du mari.</p>
       </div>
       <div type="chapter">
+
         <head>IX</head>
         <p>Camille toussait toujours ; l'ovale de son beau visage s'était allongé sous l'effort de cette passion sans cesse débordante et sans cesse contenue ; ses cheveux magnifiques jetaient une ombre plus prononcée sur ses tempes amaigries, et ses joues de plus en plus pâles se nuançaient le soir d'une rougeur plus vive ; Claire avait grand-pitié d'elle ; son aigreur mal déguisée, les épigrammes qui tombaient impitoyablement sur les moindres erreurs de la jeune femme, les paroles acerbes qui récompensaient le plus souvent les prévenances de l'amitié désintéressée, tout cela n'avait pu lasser son indulgence.</p>
         <p>Claire était bonne par tempérament ; il lui plaisait de voir les visages souriants autour d'elle ; elle aimait à donner, elle aimait à bien faire ; le devoir, qu'elle ne parait d'aucun nom, dont elle ne se préoccupait jamais, dont elle parlait moins encore, lui venait naturellement comme les roses aux rosiers, et elle l'accomplissait sans effort, non sans travail, car sur notre planète laborieuse rien ne se fait sans peine.</p>
@@ -827,6 +869,7 @@
         <p>– Ma femme est un ange ! répondit Paul en regardant Claire. Elle est un ange, et moi je suis un imbécile.</p>
       </div>
       <div type="chapter">
+
         <head>X</head>
         <p>La chambre du malade était gaie ; pas de petits pots, de fioles, ni de petites cuillers ; tout cela était rangé hors de la vue. Madame Laugé, venue dès le premier mot de sa fille, soignait Félix qui l'adorait, et confectionnait de temps en temps à la cuisine de petits plats exquis, pour la plus grande satisfaction de son gendre. Le danger était écarté à jamais, et Claire, depuis trois jours, consentait enfin à se coucher sur un lit de camp, après avoir veillé debout les trois premières nuits ; mais la fatigue n'avait pas de prise sur elle : elle aimait avec tant de ferveur que le repos lui semblait un outrage à son cher malade. Les instances du médecin et de sa mère l'avaient enfin décidée à prendre un peu de repos, mais elle n'en avait pas besoin. La joie la soutenait et lui tenait lieu de tout le reste, la joie immense et intime de voir Paul hors de danger. Le médecin l'avait répété plus d'une fois à son mari et à sa mère, c'est son dévouement intelligent qui avait sauvé le jeune homme. Si elle l'avait laissé s'endormir glacé ce soir-là, il eût probablement payé de sa vie le plaisir de reconduire Camille et de causer une demi-heure avec elle sous une porte cochère.</p>
         <p>Le sixième jour après l'accident, Camille, qui ne savait rien de ce qui s'était passé, se présenta chez Brécart le soir, suivant ses nouvelles habitudes. Elle allait entrer dans le petit salon havane, lorsque la bonne l'arrêta, en lui disant :</p>
@@ -879,6 +922,7 @@
         <p>Elle sortit, seule cette fois, et rentra seule au logis, bien avant l'heure habituelle.</p>
       </div>
       <div type="chapter">
+
         <head>XI</head>
         <p>Le dimanche suivant, Gustave Mirmont vint rendre visite à madame Brécart ; ignorant la maladie de Paul, il apportait une loge pour le lendemain. Il fut très surpris, non de l'incident en lui-même, mais de la manière dont on en parlait dans la maison, ou plutôt dont on n'en parlait pas.</p>
         <p>D'ordinaire, quand quelqu'un tombe malade, les parents ou les amis n'ont rien de plus pressé que de raconter aux visiteurs, par le menu, les causes qui ont amené le mal, celles qui l'ont aggravé, où, quand et comment le tout est arrivé... Ici, on ne parlait point du tout des causes, – en revanche on s'étendait sur les effets, si bien que Mirmont demanda naïvement au convalescent :</p>
@@ -1153,6 +1197,7 @@
         <p>– La pauvre enfant ! répondit sa femme le cœur gros de tristesse.</p>
       </div>
       <div type="chapter">
+
         <head>XII</head>
         <p>Madame Brécart était assise dans son petit salon, auprès d'un feu aimable, enterré sous les cendres chaudes, un de ces feux de bois qui durent toute l'après-midi sans qu'on ait besoin d'y toucher et qui vous inspirent les pensées les plus agréables. Paul était retourné à ses devoirs ; elle l'avait bien et dûment empaqueté, et de sa fenêtre, elle avait suivi des yeux la voiture qui l'emportait, car elle ne l'eût pas laissé sortir à pied ; ensuite, après s'être assurée que Félix, fort sérieux, bâtissait des constructions importantes avec une foule de morceaux de bois, sous l'œil attentif de sa bonne, devenue sa bonne après avoir été celle de sa mère, madame Brécart s'était enfin installée dans un bon fauteuil, afin de terminer une superbe tapisserie commencée depuis longtemps et destinée à faire un écran pour la cheminée de son mari.</p>
         <p>Que d'événements depuis le jour où elle avait reçu par la poste, à Saint-Martin, cette tapisserie échantillonnée envoyée de Paris, et qui avait fait alors l'admiration de la petite ville ! Pendant huit grands jours, il avait fallu montrer cet ouvrage de Pénélope à toutes les dames de l'endroit.</p>
@@ -1260,6 +1305,7 @@
         <p>– Vois-tu, il n'y a rien de vrai et de beau hors de la famille.</p>
       </div>
       <div type="chapter">
+
         <head>XIII</head>
         <p>Camille marchait seule le long des quais. En sortant de chez Claire, elle avait tourné la tête du côté de sa maison, mais elle n'avait pas pris le chemin qui l'y conduisait ; à aucun prix elle n'eût voulu raconter à ses vieux parents la scène qui venait de se passer ; il lui fallait du temps pour se remettre, et elle s'en alla droit devant elle.</p>
         <p>Un brouillard gris et pénétrant montait de la Seine et revêtait les objets d'une sorte de crêpe noirâtre ; le froid humide se glissait sous les vêtements et faisait frissonner les passants qui pressaient le pas ; mais la marche était difficile sur le pavé gras et glissant ; le jour qui tombait achevait de donner un air de tristesse aux grands arbres du quai. Camille allait lentement vers l'hôtel de la Trémouille, inconsciemment attirée par le désir maladif d'épuiser la coupe de sa douleur et de rappeler l'amertume qu'elle avait éprouvée en ce lieu. Chassée par la femme après l'avoir été par le mari ! quelle ignominie ! et combien la jeune orgueilleuse la trouvait imméritée ! C'était pour s'être maintenue dans une sphère idéale, bien au-dessus de tout ce qui dégrade la nature humaine, qu'elle s'était vu infliger ce double outrage ! Mais alors à quoi bon les hautes aspirations, les sacrifices surhumains ? à quoi bon ces efforts constants vers le détachement des choses mortelles, si la honte et l'insulte devaient être leur seule récompense ?</p>

@@ -1,51 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"    schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"    schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"    schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA03401" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Mademoiselle de Malepeire : ELTeC edition</title>
         <author ref="viaf:36959845">Reybaud, Fanny [Hippolyte Arnaud] (1802-1871)</author>
-        <respStmt> <resp>encoded by</resp> <name>Pia Geißel</name>
+        <respStmt>
+          <resp>encoded by</resp>
+          <name>Pia Geißel</name>
         </respStmt>
-        <respStmt> <resp>Original data capture</resp> <name>L'Association Les Bourlapapey, bibliothèque numérique romande</name> <name>Isabelle</name> <name>Françoise</name>
+        <respStmt>
+          <resp>Original data capture</resp>
+          <name>L'Association Les Bourlapapey, bibliothèque numérique romande</name>
+          <name>Isabelle</name>
+          <name>Françoise</name>
         </respStmt>
       </titleStmt>
       <extent>
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">38804</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- First ElTeC edition 2019-10-03
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource"> <title>Mademoiselle de Malepeire</title> <author>Fanny Reybaud</author> <ref target="https://ebooks-bnr.com/reybaud-fanny-mademoiselle-de-malepeire/"/> <date>2014-02-20</date>
-        </bibl><bibl type="printSource"> <title>Mademoiselle de Malepeire</title> <author>Mme Charles Reybaud</author> <publisher>Hachette</publisher> <pubPlace>Paris</pubPlace> <date>1856</date>
-        </bibl><bibl type="firstEdition"> <!-- best guess --> <date>1855</date>
-        </bibl></sourceDesc>
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!-- First ElTeC edition 2019-10-03
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <title>Mademoiselle de Malepeire</title>
+          <author>Fanny Reybaud</author>
+          <publisher>Bibliothèque numérique romande (BNR)</publisher>
+          <ref target="https://ebooks-bnr.com/reybaud-fanny-mademoiselle-de-malepeire/" />
+          <date>2014-02-20</date>
+        </bibl>
+        <bibl type="printSource">
+          <title>Mademoiselle de Malepeire</title>
+          <author>Mme Charles Reybaud</author>
+          <publisher>Hachette</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1856</date>
+        </bibl>
+        <bibl type="firstEdition">
+          <!-- best guess -->
+          <date>1855</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-10-03">File created</change>
       <change when="2019-10-23">upgrade to ELTeC-1</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="chapter">
+
         <head>PREMIÈRE PARTIE</head>
+
         <head>I</head>
         <p>Quand j'étais au collège – il y a de ceci trente ans et plus –, j'allais chaque année passer une partie de mes vacances chez un oncle de ma mère, lequel habitait une jolie maison de campagne dans la haute Provence, à quelques lieues de la frontière du Piémont. Cet oncle était un ancien bénédictin tout pétri de science et nourri d'in-folio ; on s'accordait à dire qu'il aurait été une des gloires de la savante congrégation de Saint-Maur, si la Révolution ne l'avait chassé de son couvent lorsqu'il achevait à peine son noviciat.</p>
         <p>Dom Gérusac, comme on l'appelait encore dans la famille, n'avait guère que vingt-cinq ans lors de la promulgation du décret qui rompait ses vœux religieux ; mais il ne profita pas du bénéfice de cette loi pour rentrer dans le courant des choses humaines. Il n'essaya pas non plus de retourner à la vie monastique, et n'alla pas, comme la plupart des membres de l'ordre, reprendre dans quelque couvent d'Espagne ou d'Italie l'habit de saint Benoît. Quand l'orage révolutionnaire fut un peu apaisé, il réunit les débris de l'héritage paternel, et se réfugia sur un coin de terre qu'il appela Saint-Pierre-de-Corbie, en souvenir de la célèbre maison où il avait passé les premières années de sa studieuse jeunesse. Ce petit domaine était pour ainsi dire caché dans un pli des Alpes, sur le versant méridional de cette chaîne de montagnes qui va s'abaissant graduellement jusqu'à l'embouchure du Var. C'était un site tout à la fois sauvage et riant ; la maison, bâtie sur une petite colline, était dominée par d'immenses cônes rocheux aux pentes desquels croissaient quelques bouquets de chênes et une multitude d'arbrisseaux. On y arrivait par un chemin sinueux, bordé de saules et de peupliers d'Italie. Ces arbres formaient, des deux côtés, comme un clair rideau de feuillage, à travers lequel on apercevait des prairies, des vergers d'oliviers et des allées de vignes qui ressemblaient à de longs rubans verts de diverses nuances, déroulés sur un sol crayeux.</p>
@@ -86,6 +121,7 @@
         <p>— Ah ! pourquoi ? fit-il en haussant les épaules d'un air insouciant, ma foi, je ne l'ai jamais entendu dire ; il y a si longtemps de cela, que personne n'en sait rien.</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
         <p>J'ai dit qu'il y avait dans la salle à manger de mon oncle un pastel qui captivait singulièrement mon attention ; cette peinture figurait au-dessus d'un antique miroir où l'on se voyait affreusement vert. Il y avait en outre, sur la cheminée, deux petites tasses de Sèvres enjolivées de chiffres et de guirlandes en miniature, deux vrais bijoux où Marion fourrait ses paquets d'allumettes. Je ne sais comment j'en étais venu à me figurer que le miroir, les tasses et le pastel avaient fait partie du même mobilier ; que l'original du portrait s'était regardé souvent dans la glace verdâtre et que ses lèvres purpurines avaient touché plus d'une fois le rebord des tasses de porcelaine. Cette idée s'étant emparée de mon imagination, je fus tourmenté d'une véhémente curiosité, et je formai une foule de conjectures, qui ressemblaient à des chapitres de roman. Peu à peu, un sentiment étrange, inouï, naquit de cette préoccupation. À force de contempler ce vieux portrait, dont le regard chargé de languissantes ardeurs semblait s'arrêter sur moi, j'en devins éperdument amoureux. J'éprouvais à son aspect les secrets transports où m'aurait jeté la présence d'une maîtresse vivante. Tous les objets qui décoraient la cheminée étaient devenus pour moi de mystérieuses reliques ; dans l'ingénuité de mon amour, je leur rendais une espèce de culte : j'avais jeté les allumettes de Marion, et chaque jour je mettais à la place les plus belles fleurs que je pouvais trouver dans le parterre. Tandis que dom Gérusac me croyait absorbé dans la lecture de ses in-folio, je rêvais, les coudes sur mon pupitre, et les emportements de ma passion allaient jusqu'à me rendre poète : je faisais des vers pour cette beauté qui n'existait qu'en peinture. Quand cette folie me prit, j'avais dix-sept ans et je venais de finir ma rhétorique. Au milieu de ces troubles intérieurs, je conservais assez d'empire sur moi-même pour dissimuler les émotions continuelles, l'amour bizarre, extravagant, auquel j'étais en proie ; l'idée seule qu'on pourrait le soupçonner me causait une mortelle honte. Ma curiosité était devenue un insupportable tourment d'esprit ; j'en étais venu aux suppositions chimériques ; je cherchais sans cesse l'origine et le nom de cette beauté fatale, qui s'était fait peindre, il y avait cent ans peut-être, pour le bonheur et le tourment de ma vie. Rien n'eût été plus simple que de chercher à éclaircir un tel fait, je n'avais qu'à interroger mon oncle ; mais ma tête se troublait à la seule idée de cette explication, je tremblais d'aborder ce sujet et de trahir par quelque signe involontaire ce qui se passait au fond de mon cœur… Un jour cependant que nous étions à table, le courage me vint tout à coup, je levai les yeux et m'écriai en feignant de rire :</p>
         <p>— Eh ! eh ! mon cher oncle, vous avez-là un vieux miroir qui donne aux gens un visage de cire verte.</p>
@@ -164,6 +200,7 @@
         <p>— Fais servir le café et renvoie Babelou, reprit le marquis ; nous resterons ici ; il faut que je te fasse cette histoire en face de ce portrait.</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
         <p>Le jour tombait ; j'allumai les bras de cheminée qui étaient aux côtés de la glace. Alors les bougies, illuminant de bas en haut le pastel, firent ressortir ses teintes affaiblies, et donnèrent un vague relief à cette ravissante figure, qui semblait se montrer en souriant à travers le verre opaque, comme les blondes têtes de Greuze derrière le rideau entrouvert d'une fenêtre.</p>
         <p>Le marquis considéra un moment ce tableau d'un œil fixe, puis, comme s'il eût deviné ma violente et secrète curiosité, il dit en s'adressant à moi :</p>
@@ -258,7 +295,7 @@
         <p>Le baron s'informa de ce qui se passait à la cour, comme nous disions encore, et naturellement la conversation roula sur les derniers événements. Le vieux gentilhomme ne comprenait pas la portée de ce qu'il appelait une audacieuse sédition, et il en parlait avec une indignation méprisante.</p>
         <p>— Monsieur, nous n'avons rien à craindre, me dit-il avec force ; le roi est le maître ; il le prouvera quand il voudra ; d'un geste, d'un seul mot il écrasera les factieux.</p>
         <p>— Qui sait ? murmura Mlle de Malepeire avec une expression singulière.</p>
-        <p>Je remarquai ce mouvement, et dès lors je pensai que la lecture de l <hi>   'Histoire   philosophique des deux Indes </hi> avait porté ses fruits ; mais je considérai comme le rêve d'un esprit généreux cette tendance aux opinions nouvelles, et je ne m'inquiétai nullement des conséquences qu'elle pouvait avoir. On passa dans la grande salle pour souper. Sur un signe de la baronne, j'offris la main à Mlle de Malepeire et je pris place à ses côtés ; mais elle ne tourna plus les yeux vers moi, et quand je lui adressais la parole, elle me répondait d'un ton bref et avec une froideur marquée ; pourtant je voyais clairement qu'elle n'était ni attristée, ni mécontente ; je lui trouvais au contraire un air souriant et rêveur qui la faisait encore plus belle et achevait de me rendre fou.</p>
+        <p>Je remarquai ce mouvement, et dès lors je pensai que la lecture de l <hi> 'Histoire philosophique des deux Indes </hi> avait porté ses fruits ; mais je considérai comme le rêve d'un esprit généreux cette tendance aux opinions nouvelles, et je ne m'inquiétai nullement des conséquences qu'elle pouvait avoir. On passa dans la grande salle pour souper. Sur un signe de la baronne, j'offris la main à Mlle de Malepeire et je pris place à ses côtés ; mais elle ne tourna plus les yeux vers moi, et quand je lui adressais la parole, elle me répondait d'un ton bref et avec une froideur marquée ; pourtant je voyais clairement qu'elle n'était ni attristée, ni mécontente ; je lui trouvais au contraire un air souriant et rêveur qui la faisait encore plus belle et achevait de me rendre fou.</p>
         <p>Après le souper, on rentra dans le salon, qui était fort éclairé et arrangé comme si l'on eût attendu nombreuse compagnie. Les fauteuils, disposés en demi-cercle, faisaient face à la cheminée, dont le foyer était masqué par un écran brodé or et pourpre, avec l'écusson des Malepeire au milieu. Le clavecin était ouvert, et la table de jeu préparée devant la bergère. La baronne se mit au clavecin et joua une petite sonate facile en regardant au plafond et en balançant la tête d'un air vainqueur. Pendant cette musique, le baron s'était endormi profondément, et Mlle de Malepeire avait reculé peu à peu jusque dans l'embrasure d'une fenêtre dont les rideaux la cachaient à demi. Je la voyais ainsi de profil ; elle était debout, le front appuyé sur sa main, et regardait à travers les persiennes l'espace sombre au fond duquel deux ou trois points lumineux indiquaient l'emplacement du village et les maisons où la veillée durait encore.</p>
         <p>— Voulez-vous faire une partie, monsieur ? me demanda la baronne en quittant le clavecin ; je vous propose un cent de piquet : c'était le jeu de prédilection du bailli d'Herbelay, et il y avait une chance surprenante. J'ai été son écolière ; mais il y a si longtemps, que je crains d'avoir oublié ses leçons.</p>
         <p>La table de jeu était près de la fenêtre, et, en m'asseyant, je me trouvai placé de manière que le rideau seul me séparait de Mlle de Malepeire ; elle quitta alors la fenêtre et vint s'asseoir derrière sa mère.</p>
@@ -367,7 +404,9 @@
         <p>Je m'étonnai qu'une simple contradiction la jetât dans un trouble d'esprit si violent ; mais ma pensée n'alla pas plus loin. Pourtant j'aurais dû comprendre dès lors quels abîmes mettait entre nous l'espèce d'éducation qu'elle s'était faite en secret. J'aurais dû m'effrayer davantage des sentiments, des convictions qu'elle manifestait parfois, et prévoir jusqu'où ils l'entraîneraient. Oui, il fallait partir alors et renoncer pour toujours à cette fille odieuse et charmante. Peut-être l'aurais-je sauvée ainsi d'un grand malheur… Mais je restai, et sa destinée s'accomplit…</p>
       </div>
       <div type="chapter">
+
         <head>SECONDE PARTIE</head>
+
         <head>IV</head>
         <p>Le marquis s'interrompit à ces mots, et, levant les yeux vers le pastel, il considéra avec une attention mélancolique la ravissante figure qui semblait l'écouter en souriant, puis il reprit :</p>
         <p>— Je m'installai dans mon atelier improvisé, et en trois ou quatre jours je peignis ce portrait…</p>
@@ -515,6 +554,7 @@
         <p>Je m'élançai pour lui barrer le passage ; en même temps le baron tira son coup de fusil. La balle passa dans les cheveux de l' <hi>abbat</hi> et alla frapper le cadre de la glace, là, vers le haut où vous voyez cette échancrure…</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
         <p>— J'avais toujours pensé que c'était quelque projectile qui avait fait tout ce dommage ! murmura dom Gérusac en frappant sur sa tabatière.</p>
         <p>— C'est elle que son père devait tuer ! dis-je transporté d'une secrète fureur.</p>
@@ -599,6 +639,7 @@
         <p>Depuis ce jour, je ne prononçai plus le nom de Mlle de Malepeire, et mon père put croire que je l'avais oubliée. Pourtant ce souvenir a vécu en moi pendant toutes les années de ma jeunesse, et, j'ose à peine le dire, dans mon âge mûr il a été un obstacle à d'autres engagements. Aujourd'hui même ce n'a pas été sans trouble que je me suis retrouvé en face de ce portrait… Oui, à cette vue, mon pauvre vieux cœur a tressailli comme autrefois… Hélas ! c'est la plus belle et la plus lamentable page de ma vie qui tout à coup s'est rouverte devant moi…</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
         <p>Le marquis s'accouda sur la table en soupirant et se versa un verre de vin d'Espagne qu'il but d'un seul trait.</p>
         <p>— Réellement, tu as été très malheureux dans ta première inclination ! s'écria dom Gérusac, qui avait saisi à grand-peine toute cette métaphysique amoureuse.</p>
@@ -690,6 +731,7 @@
         <p>La charité chrétienne m'obligeait au silence ; mais quiconque connaissait François Pinatel savait qu'il ne gagnerait jamais sa vie en travaillant à la terre, et qu'il n'était capable que des exercices où il pouvait faire parade de sa force prodigieuse. Il manquait d'ailleurs des qualités essentielles à un paysan, la patience, la volonté tenace, la sagacité un peu défiante et surtout l'esprit d'économie. C'était un homme borné, d'un naturel facile et jovial, mais prompt à la tentation et violent par accès. Sa mère, dont il était malgré tout l'enfant de prédilection, l'avait bien jugé ; elle s'était bien gardée jusqu'alors de lui abandonner sa petite part d'héritage, et lorsque cette espèce d'enfant prodigue rentrait au logis, il y trouvait toujours son morceau de pain et son écuellée de soupe. J'aurais vainement tenté de faire comprendre à la jeune femme l'espèce de tutelle dont son mari avait besoin et qu'elle était incapable d'exercer ; je l'engageai seulement à ne rien entreprendre sans les conseils de sa belle-mère, et je me retirai contristé de n'avoir pu l'éclairer ni sur les périls de son âme immortelle, ni même sur ce qui touchait à ses intérêts temporels.</p>
       </div>
       <div type="chapter">
+
         <head>VII</head>
         <p>Quelques jours après, je quittai Saint-C… ; monseigneur d'Aix m'avait désigné pour d'autres fonctions, et la providence remettait à un nouveau pasteur ma famille spirituelle. Nous touchions aux jours sinistres de la Révolution, l'Église était divisée par le schisme, et la persécution commençait contre ceux qui refusaient d'adhérer à la constitution civile du clergé. Pendant plusieurs mois, je parcourus le diocèse avec la mission de relever le courage des faibles et d'éclairer les irrésolus. En finissant ma tournée, je me rendis à S… ; nous étions alors aux derniers jours de septembre, et il y avait près d'un an que j'avais quitté ma paroisse. S… est un gros bourg situé à deux lieues seulement de Saint-C… J'arrivai la veille de la foire, qui est une des plus considérables de toute la contrée et où il y a toujours une grande affluence. C'est en même temps un marché et une fête qui durent trois jours. Les sujets de tentation et de perdition ne manquent pas en de telles assemblées ; on y joue gros jeu, on y conclut de grandes affaires, et les gens qui font métier de duper le prochain y abondent. Le lendemain matin, en sortant de la maison curiale où j'étais logé, je rencontrai l' <hi>abbat</hi> . Il était tout habillé de neuf et s'en allait d'un air important du côté du champ de foire. Je l'abordai pour lui demander des nouvelles de sa famille.</p>
         <p>— Ils allaient tous bien quand je suis parti, me répondit-il ; la mère est toujours la même, droite comme une lance, et aussi alerte qu'une fille de quinze ans. Ma femme ne se porte pas mal non plus, mais elle est maigrelette.</p>
@@ -749,6 +791,7 @@
         <p>Nous partîmes, le temps était calme, et la lune dans son plein éclairait notre route. Avant de m'éloigner, je tournai encore une fois les yeux vers la maison, en priant Dieu pour l'âme rebelle et désolée que j'y laissais... Hélas ! j'aurais dû prier pour celui qui était si près de paraître devant sa justice.</p>
       </div>
       <div type="chapter">
+
         <head>VIII</head>
         <p>À ces mots, l'abbé Lambert soupira profondément, et, pour la seconde fois, il parut hésiter à poursuivre cette histoire étrange.</p>
         <p>— Je vous en supplie, achevez, lui dit le marquis d'une voix altérée.</p>

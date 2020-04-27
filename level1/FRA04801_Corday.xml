@@ -18,14 +18,14 @@
         <p>à fournir</p>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Project Gutenberg</publisher>
+          <ref target="http://www.gutenberg.org/files/51703/51703-h/51703-h.htm">http ://www.gutenberg.org/files/51703/51703-h/51703-h.htm</ref>
+        </bibl>
         <bibl type="printSource">
           <author>Corday, Michel (1869-1937)</author>
           <title>Les révélées</title>
           <date>1909</date>
-        </bibl>
-        <bibl type="digitalSource">
-          <publisher />
-          <ref target="http://www.gutenberg.org/files/51703/51703-h/51703-h.htm">http ://www.gutenberg.org/files/51703/51703-h/51703-h.htm</ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1909</date>

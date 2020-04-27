@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA04001" xml:lang="fr">
   <teiHeader>
@@ -18,47 +18,60 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">125179</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Bibliothèque électronique du Québec</publisher>
+          <ref target="http://beq.ebooksgratuits.com" />
           <date>2008</date>
-          ,
-          <idno/>
-          ,
-          <ref target="http://www.ebooksgratuits.com/"/>
-          .
-        </bibl><bibl type="printSource">
-          <date>source</date>
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="printSource">
+        </bibl>
+        <bibl type="firstEdition">
           <date>1878</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-06-02">Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
+
     <body>
       <div type="group">
+
         <head>Première partie</head>
         <div type="chapter">
+
           <head>I -- Le brick-goélette « Pilgrim »</head>
           <p>Le 2 février 1873, le brick-goélette Pilgrim se trouvait par 43° 57' de latitude sud, et par 165° 19' de longitude ouest du méridien de Greenwich.</p>
           <p>Ce bâtiment, de quatre cents tonneaux, armé à San Francisco pour la grande pêche des mers australes, appartenait à James W. Weldon, riche armateur californien, qui en avait confié, depuis plusieurs années, le commandement au capitaine Hull.</p>
@@ -125,6 +138,7 @@
           <p>Aussi, à la date du 2 février, le capitaine Hull se trouvait-il encore par une latitude plus haute qu'il n'aurait voulu, et dans la situation d'un marin qui chercherait plutôt à doubler le cap Horn qu'à rallier par le plus court le nouveau continent.</p>
         </div>
         <div type="chapter">
+
           <head>II -- Dick Sand</head>
           <p>Cependant, la mer était belle, et, sauf les retards, la navigation s'opérait dans des conditions très supportables.</p>
           <p>Mrs. Weldon avait été installée à bord du Pilgrim aussi confortablement que possible. Ni dunette, ni roufle n'occupaient l'arrière du pont. Aucune cabine de poupe n'avait donc pu recevoir la passagère. Elle dut se contenter de la chambre du capitaine Hull, située sur l'arrière, et qui constituait son modeste logement de marin. Et encore avait-il fallu que le capitaine insistât pour la lui faire accepter. Là, dans cet étroit logement, s'était installée Mrs. Weldon, avec son enfant et la vieille Nan. C'est là qu'elle prenait ses repas, en compagnie du capitaine et du cousin Bénédict, pour lequel on avait établi une sorte de chambre en abord.</p>
@@ -167,6 +181,7 @@
           <p>« Une épave, au vent à nous, par tribord devant ! »</p>
         </div>
         <div type="chapter">
+
           <head>III -- L'épave</head>
           <p>Au cri poussé par Dick Sand, tout l'équipage fut sur pied. Les hommes qui n'étaient pas de quart montèrent sur le pont. Le capitaine Hull, quittant sa cabine, se dirigea vers l'avant.</p>
           <p>Mrs. Weldon, Nan, l'indifférent cousin Bénédict lui-même, vinrent s'accouder sur la lisse de tribord, de manière à bien voir l'épave signalée par le jeune novice.</p>
@@ -277,6 +292,7 @@
           <p>– Voilà qui est singulier ! » murmura Dick Sand.</p>
         </div>
         <div type="chapter">
+
           <head>IV -- Les survivants du « Waldeck »</head>
           <p>La traite se fait encore sur une grande échelle dans toute l'Afrique équinoxiale. Malgré les croisières anglaises et françaises, des navires, chargés d'esclaves, quittent chaque année les côtes d'Angola ou de Mozambique pour transporter des nègres en divers points du monde, et, il faut même le dire, du monde civilisé.</p>
           <p>Le capitaine Hull ne l'ignorait pas.</p>
@@ -324,6 +340,7 @@
           <p>Ces braves gens, rassurés sur l'avenir, n'eurent donc qu'à remercier Mrs. Weldon et le capitaine Hull. Certainement, ils leur devaient beaucoup, et, quoiqu'ils ne fussent que de pauvres nègres, peut-être ne désespéraient-ils pas de payer un jour cette dette de reconnaissance.</p>
         </div>
         <div type="chapter">
+
           <head>V -- S. V.</head>
           <p>Cependant, le Pilgrim avait repris sa route, en tâchant de gagner le plus possible dans l'est. Cette regrettable persistance des calmes ne laissait pas de préoccuper le capitaine Hull, -- non qu'il s'inquiétât d'une ou deux semaines de retard dans une traversée de la Nouvelle-Zélande à Valparaiso, mais à cause du surcroît de fatigue que ce retard pouvait apporter à sa passagère.</p>
           <p>Cependant, Mrs. Weldon ne se plaignait pas et prenait philosophiquement son mal en patience.</p>
@@ -479,6 +496,7 @@
           <p>– Et quelle dent ! » répondit le capitaine Hull, au moment où Dingo, ouvrant la bouche, montrait ses formidables crocs.</p>
         </div>
         <div type="chapter">
+
           <head>VI -- Une baleine en vue</head>
           <p>On le pense bien, ce singulier incident fit plus d'une fois le sujet des conversations qui se tenaient à l'arrière du Pilgrim entre Mrs. Weldon, le capitaine Hull et le jeune novice. Celui-ci, plus particulièrement, ressentit une défiance instinctive à l'égard de Negoro, dont la conduite, cependant, ne méritait aucun reproche.</p>
           <p>À l'avant, on en causait aussi, mais on n'en tirait pas les mêmes conséquences. Là, dans le poste de l'équipage, Dingo passait tout simplement pour un chien qui savait lire, et peut-être même écrire mieux que plus d'un matelot du bord. Quant à parler, s'il ne le faisait pas, c'est qu'il avait probablement de bonnes raisons pour se taire.</p>
@@ -562,6 +580,7 @@
           <p>– Hurrah ! hurrah ! hurrah ! » répondit l'équipage.</p>
         </div>
         <div type="chapter">
+
           <head>VII -- Préparatifs</head>
           <p>On comprendra que la vue de ce prodigieux mammifère fût faite pour produire une telle surexcitation chez les hommes du Pilgrim.</p>
           <p>La baleine, qui flottait au milieu des eaux rouges, paraissait énorme. La capturer et compléter ainsi la cargaison, cela était bien tentant ! Des pêcheurs pouvaient-ils laisser échapper une occasion pareille ?</p>
@@ -656,6 +675,7 @@
           <p>Ce n'était plus qu'un point sur la mer.</p>
         </div>
         <div type="chapter">
+
           <head>VIII -- La jubarte</head>
           <p>Le capitaine Hull, baleinier expérimenté, ne devait rien laisser au hasard. La capture d'une jubarte est chose difficile. Nulle précaution ne doit être négligée. Nulle ne le fut en cette circonstance.</p>
           <p>Et tout d'abord, le capitaine Hull manœuvra de manière à accoster la baleine sous le vent, afin qu'aucun bruit ne pût lui déceler l'approche de l'embarcation.</p>
@@ -778,6 +798,7 @@
           <p>Un quart d'heure après, lorsque Dick Sand, qui, suivi des noirs, s'était précipité dans le canot, eut atteint le théâtre de la catastrophe, tout être vivant avait disparu. Il ne restait plus que quelques débris de la baleinière à la surface des eaux rouges de sang.</p>
         </div>
         <div type="chapter">
+
           <head>IX -- Capitaine Sand</head>
           <p>La première impression que ressentirent les passagers du Pilgrim devant cette terrible catastrophe fut un mélange de pitié et d'horreur. Ils ne songèrent qu'à cette mort épouvantable du capitaine Hull et des cinq matelots du bord. Cette effroyable scène venait de s'accomplir presque sous leurs yeux, sans qu'ils eussent pu rien faire pour les sauver ! Ils n'avaient pu même arriver à temps pour recueillir l'équipage de la baleinière, leurs malheureux compagnons blessés, mais vivants encore, et pour opposer la coque du Pilgrim aux coups formidables de la jubarte ! Le capitaine Hull et ses hommes avaient à jamais disparu.</p>
           <p>Lorsque le brick-goélette fut arrivé sur le lieu du sinistre, Mrs. Weldon tomba à genoux, les mains levées vers le ciel.</p>
@@ -858,6 +879,7 @@
           <p>– À vos ordres, répondit Tom, à vos ordres, capitaine Sand. »</p>
         </div>
         <div type="chapter">
+
           <head>X -- Les quatre jours qui suivent</head>
           <p>Dick Sand était donc le capitaine du Pilgrim, et sans perdre un instant il prit les mesures nécessaires afin de mettre le navire sous toutes voiles.</p>
           <p>Il était bien entendu que les passagers ne pouvaient avoir qu'une espérance : celle d'atteindre un port quelconque du littoral américain, sinon Valparaiso. Ce que Dick Sand comptait faire, c'était reconnaître la direction et la vitesse du Pilgrim, afin d'en tirer une moyenne. Pour cela, il suffisait de porter chaque jour sur la carte la route obtenue, comme il a été dit, par le loch et la boussole. Il y avait précisément à bord un de ces « patent-lochs », à cadrans et à hélice, qui donnent fort exactement la vitesse pour un temps déterminé. Cet utile instrument, d'un emploi très facile, pouvait rendre les plus grands services, et les noirs étaient parfaitement aptes à le manœuvrer.</p>
@@ -961,6 +983,7 @@
           <p>Et ainsi, pendant que, sous l'action d'un vent favorable, le Pilgrim était censé suivre la direction voulue, il marchait avec une erreur de quarante-cinq degrés dans sa route !</p>
         </div>
         <div type="chapter">
+
           <head>XI -- Tempête</head>
           <p>Pendant la semaine qui suivit cet événement, du 14 février au 21, aucun incident ne se produisit à bord. Le vent de nord-ouest fraîchissait peu à peu, et le Pilgrim filait rapidement, à raison de cent soixante milles en moyenne par vingt-quatre heures. C'était à peu près tout ce qu'on pouvait demander à un bâtiment de cette dimension.</p>
           <p>Le brick-goélette, dans la pensée de Dick Sand, devait donc se rapprocher des parages plus fréquentés par les longs-courriers, qui cherchent à passer d'un hémisphère à l'autre. Le novice espérait toujours rencontrer un de ces bâtiments, et il avait la formelle intention, soit d'y transborder ses passagers, soit de lui emprunter quelques matelots de renfort et peut-être un officier. Mais, bien que la surveillance fût active, aucun navire ne put être signalé, et la mer était toujours déserte.</p>
@@ -1059,6 +1082,7 @@
           <p>Encore une fois, il sourit méchamment, et, sans rien dire de ce qu'il avait pu voir, il revint à son poste.</p>
         </div>
         <div type="chapter">
+
           <head>XII -- À l'horizon</head>
           <p>À cette date, la tempête prit sa forme la plus terrible, celle de l'ouragan. Le vent avait halé le sud-ouest. L'air se déplaçait avec une vitesse de quatre-vingt-dix milles [21] à l'heure.</p>
           <p>C'était bien un ouragan, en effet, un de ces coups de vent terribles, qui jettent à la côte tous les navires d'une rade, et auxquels, même à terre, les constructions les plus solides ne peuvent résister. Tel fut celui qui, le 25 juillet 1825, dévasta la Guadeloupe. Lorsque de lourds canons de vingt-quatre sont enlevés de leurs affûts, que l'on songe à ce que peut devenir un bâtiment qui n'a d'autre point d'appui qu'une mer démontée ! Et cependant, c'est à sa mobilité seule qu'il peut devoir son salut ! Il cède aux poussées du vent, et, pourvu qu'il soit solidement construit, il est en état de braver les plus violents coups de mer. C'était le cas du Pilgrim.</p>
@@ -1164,6 +1188,7 @@
           <p>Restait donc cet interminable ouragan dont rien ne semblait devoir modérer la fureur. Si, dans une certaine mesure, Dick Sand pouvait mettre son navire en état de lutter contre la tourmente, il ne pouvait ordonner à ce vent de mollir, à ces lames de s'apaiser, à ce ciel de se rasséréner. À bord, s'il était « maître après Dieu », hors du bord, Dieu seul commandait aux vents et aux flots.</p>
         </div>
         <div type="chapter">
+
           <head>XIII -- Terre ! Terre !</head>
           <p>Cependant, cette confiance, dont s'emplissait instinctivement le cœur de Dick Sand, allait être en partie justifiée.</p>
           <p>Le lendemain, 27 mars, la colonne de mercure s'éleva dans le tube barométrique. L'oscillation ne fut ni brusque ni considérable : quelques lignes seulement, mais la progression parut devoir être continue. La tempête allait évidemment entrer dans sa période décroissante, et, si la mer resta excessivement dure, on put constater que le vent diminuait, en remontant légèrement vers l'ouest.</p>
@@ -1281,6 +1306,7 @@
           <p>Aussi, dix minutes après, tous ceux que portait le Pilgrim avaient-ils débarqué au pied de la falaise.</p>
         </div>
         <div type="chapter">
+
           <head>XIV -- Ce qu'il convient de faire</head>
           <p>Ainsi donc, après une traversée longtemps contrariée par les calmes, puis favorisée par les vents de nord-ouest et de sud-ouest, -- traversée qui n'avait pas duré moins de soixante-quatorze jours, -- le Pilgrim venait de se mettre à la côte !</p>
           <p>Cependant, Mrs. Weldon et ses compagnons remercièrent la Providence, dès qu'ils furent en sûreté. En effet, c'était sur un continent, et non sur une des funestes îles de la Polynésie, que les avait jetés la tempête. Leur rapatriement, en quelque point de l'Amérique du Sud qu'ils eussent atterri, ne devait pas, semblait-il, présenter de difficultés sérieuses.</p>
@@ -1395,6 +1421,7 @@
           <p>Mais Mrs. Weldon, inquiète, ne put dormir. Il lui semblait que cette terre, si ardemment désirée, ne lui donnait pas ce qu'elle en avait pu espérer, la sécurité pour les siens et le repos pour elle.</p>
         </div>
         <div type="chapter">
+
           <head>XV -- Harris</head>
           <p>Le lendemain, 7 avril, Austin, qui était de garde au lever du jour, vit Dingo courir, en aboyant, vers la petite rivière. Presque aussitôt, Mrs. Weldon, Dick Sand et les noirs sortirent de la grotte.</p>
           <p>Décidément, il y avait quelque chose.</p>
@@ -1655,6 +1682,7 @@
           <p>Quelques instants après, à l'exception du géant qui veillait, tous dormaient d'un profond sommeil.</p>
         </div>
         <div type="chapter">
+
           <head>XVII -- Cent milles en dix jours</head>
           <p>Le plus ordinairement, les voyageurs ou coureurs des bois qui ont dormi dans les forêts à la belle étoile sont réveillés par des hurlements aussi fantaisistes que désagréables. Il y a de tout dans ce concert matinal, du gloussement, du grognement, du croassement, du ricanement, de l'aboiement et presque du « parlement », si l'on veut bien accepter ce mot, qui complète la série de ces bruits divers.</p>
           <p>Ce sont les singes qui saluent ainsi le lever du jour. Là se rencontrent le petit « marikina », le sagouin à masque bariolé, le « mono gris », dont les Indiens emploient la peau à recouvrir les batteries de leurs fusils, les sagous, reconnaissables à leurs deux longs bouquets de poils, et bien d'autres spécimens de cette nombreuse famille.</p>
@@ -1897,8 +1925,10 @@
         </div>
       </div>
       <div type="group">
+
         <head>Deuxième partie</head>
         <div type="chapter">
+
           <head>I -- La traite</head>
           <p>La traite ! Personne n'ignore la signification de ce mot, qui n'aurait jamais dû trouver place dans le langage humain. Ce trafic abominable, longtemps pratiqué au profit des nations européennes qui possédaient des colonies d'outre-mer, a été interdit depuis bien des années déjà. Cependant, il s'opère toujours sur une vaste échelle, et principalement dans l'Afrique centrale. En plein XIXe siècle, la signature de quelques États qui se disent chrétiens, manque encore à l'acte d'abolition de l'esclavage.</p>
           <p>On pourrait croire que la traite ne se fait plus, que cet achat et cette vente de créatures humaines ont cessé ! Il n'en est rien, et c'est là ce qu'il faut que le lecteur sache, s'il veut s'intéresser plus intimement à la seconde partie de cette histoire. Il faut qu'il apprenne ce que sont actuellement encore ces chasses à l'homme, qui menacent de dépeupler tout un continent pour l'entretien de quelques colonies à esclaves, où et comment s'exécutent ces razzias barbares, ce qu'elles coûtent de sang, ce qu'elles provoquent d'incendies et de pillages, enfin au profit de qui elles se font.</p>
@@ -1947,6 +1977,7 @@
           <p>En vérité, la situation était épouvantable.</p>
         </div>
         <div type="chapter">
+
           <head>II -- Harris et Negoro</head>
           <p>Le lendemain du jour où Dick Sand et ses compagnons avaient établi leur dernière halte dans la forêt, deux hommes se rencontraient à trois milles de là, ainsi qu'il avait été préalablement convenu entre eux.</p>
           <p>Ces deux hommes étaient Harris et Negoro, et l'on va voir à quoi se réduisait la part du hasard qui avait mis en présence sur le littoral de l'Angola le Portugais venu de Nouvelle-Zélande et l'Américain que son métier de traitant obligeait à parcourir souvent cette province de l'Ouest-Afrique.</p>
@@ -2062,6 +2093,7 @@
           <p>Quelques instants plus tard, tous deux, descendant le cours du ruisseau, se dirigeaient vers la Coanza, à travers la forêt.</p>
         </div>
         <div type="chapter">
+
           <head>III -- En marche</head>
           <p>L'Afrique ! Ce nom, si terrible dans les circonstances actuelles, ce nom qu'il fallait enfin substituer à celui d'Amérique, ne pouvait s'effacer un instant de la pensée de Dick Sand. Lorsque le jeune novice se reportait à quelques semaines en arrière, c'était pour se demander comment le Pilgrim avait fini par accoster ce dangereux rivage, comment il avait tourné le cap Horn et passé d'un océan à l'autre ! Certes, il s'expliquait maintenant pourquoi, malgré la rapide marche de son bâtiment, la terre s'était si tardivement montrée, puisque la longueur du parcours qu'il aurait eu à faire pour atteindre la côte américaine, avait été doublée à son insu !</p>
           <p>« L'Afrique ! l'Afrique ! » répétait Dick Sand.</p>
@@ -2154,6 +2186,7 @@
           <p>Mrs. Weldon regardait Dick Sand bien en face, pendant qu'il lui parlait ainsi. Les yeux ardents du jeune novice disaient tout le courage dont il se sentait animé. En le voyant tel, en observant ces braves noirs si dévoués, femme et mère, elle ne voulait pas désespérer encore. Et, d'ailleurs, pourquoi se fût-elle abandonnée ? Ne se croyait-elle pas sur une terre hospitalière ? La trahison d'Harris ne pouvait, à ses yeux, avoir des conséquences bien graves. Dick Sand devinait le cours de ses pensées, et lui, il était tenté de baisser la tête.</p>
         </div>
         <div type="chapter">
+
           <head>IV -- Les mauvais chemins de l'Angola</head>
           <p>En ce moment, le petit Jack se réveilla et passa ses bras au cou de sa mère. Son œil était meilleur. La fièvre n'était pas revenue.</p>
           <p>« Tu vas mieux, mon chéri ? demanda Mrs. Weldon en pressant l'enfant malade sur son cœur.</p>
@@ -2253,6 +2286,7 @@
           <p>« C'est, dit-il, comme si un peuple avait bâti le mont Everest, l'une des plus hautes montagnes de la chaîne de l'Himalaya. »</p>
         </div>
         <div type="chapter">
+
           <head>V -- Leçon sur les fourmis dans une fourmilière</head>
           <p>En ce moment, l'orage éclatait avec une violence inconnue aux latitudes tempérées.</p>
           <p>C'était providentiel que Dick Sand et ses compagnons eussent trouvé ce refuge !</p>
@@ -2318,6 +2352,7 @@
           <p>« Je sais tout, mon pauvre Dick, mais Dieu peut encore nous sauver ! Que sa volonté soit faite ! »</p>
         </div>
         <div type="chapter">
+
           <head>VI -- La cloche à plongeurs</head>
           <p>À cette révélation inattendue, Dick Sand n'aurait pu répondre ! D'ailleurs, Mrs. Weldon avait aussitôt regagné sa place près du petit Jack. Elle n'en voulait évidemment pas dire davantage, et le jeune novice n'aurait pas eu le courage de la retenir.</p>
           <p>Ainsi Mrs. Weldon savait à quoi s'en tenir. Les divers incidents de la route l'avaient éclairée, elle aussi, et peut-être ce mot : « Afrique !... » si malheureusement prononcé la veille par cousin Bénédict !</p>
@@ -2427,6 +2462,7 @@
           <p>Un instant après, Hercule disparaissait sous le couvert des arbres, au milieu d'une grêle de balles, au moment où Dick Sand et ses compagnons, après avoir été déposés à terre, étaient enchaînés comme des esclaves !</p>
         </div>
         <div type="chapter">
+
           <head>VII -- Un campement sur les bords de la Coanza</head>
           <p>L'aspect du pays, depuis que l'inondation avait fait un lac de cette plaine où s'élevait le village des termites, était entièrement changé. Une vingtaine de fourmilières émergeaient par leur cône et formaient les seuls points saillants sur cette large cuvette.</p>
           <p>C'était la Coanza qui avait débordé pendant la nuit, sous les eaux de ses affluents, grossis par l'orage.</p>
@@ -2471,6 +2507,7 @@
           <p>« Vous m'avez renvoyé à la côte, mais, quand je serai mort, je n'aurai plus de joug, et je reviendrai vous tuer ! »</p>
         </div>
         <div type="chapter">
+
           <head>VIII -- Quelques notes de Dick Sand</head>
           <p>Bien que l'orage de la veille eût cessé, le temps était profondément troublé encore. C'était, d'ailleurs, l'époque de la « masika », deuxième période de la saison des pluies sous cette zone du ciel africain. Les nuits surtout allaient être pluvieuses pendant une, deux ou trois semaines, ce qui ne pouvait qu'accroître les misères de la caravane.</p>
           <p>Elle partit ce jour-là par un temps couvert, et, après avoir quitté les rives de la Coanza, s'enfonça presque directement vers l'est.</p>
@@ -2572,6 +2609,7 @@
           <p>Toutes les nuits, je guette Dingo. Il ne revient plus ! Lui serait-il arrivé malheur, ou à Hercule ? Non... non !... Je ne veux pas le croire !... Ce silence qui me paraît si long ne prouve qu'une chose, c'est qu'Hercule n'a encore rien de nouveau à m'apprendre ! Il faut, d'ailleurs, qu'il soit prudent et se tienne bien sur ses gardes.</p>
         </div>
         <div type="chapter">
+
           <head>IX -- Kazonndé</head>
           <p>Le 26 mai, la caravane d'esclaves arrivait à Kazonndé. Cinquante pour cent des prisonniers faits dans cette dernière razzia étaient tombés sur la route. Cependant, l'affaire était encore bonne pour les traitants ; les demandes affluaient, et le prix des esclaves allait monter sur les marchés de l'Afrique.</p>
           <p>L'Angola faisait à cette époque un grand commerce de noirs. Les autorités portugaises de Saint-Paul de Loanda ou de Benguela n'auraient pu que difficilement l'entraver, car les convois se dirigeaient vers l'intérieur du continent africain. Les baracons du littoral regorgeaient de prisonniers ; les quelques négriers qui parvenaient à passer entre les croisières de la côte, ne suffisaient pas à les embarquer pour les colonies espagnoles de l'Amérique.</p>
@@ -2654,6 +2692,7 @@
           <p>Harris était mort.</p>
         </div>
         <div type="chapter">
+
           <head>X -- Un jour de grand marché</head>
           <p>Le mouvement de Dick Sand avait été si prompt, qu'on n'eût pu l'arrêter. Quelques indigènes se jetèrent sur lui, et il allait être massacré, lorsque Negoro parut.</p>
           <p>Un signe du Portugais écarta les indigènes, qui relevèrent et emportèrent le cadavre d'Harris. Alvez et Coïmbra réclamaient la mort immédiate de Dick Sand ; mais Negoro leur dit à voix basse qu'ils ne perdraient rien pour attendre, et ordre fut donné d'emmener le jeune novice, avec recommandation de ne pas le perdre de vue un instant.</p>
@@ -2698,6 +2737,7 @@
           <p>Tom, Bat, Actéon et Austin quittèrent donc la place, et ils ne purent rien voir ni savoir de la scène qui allait terminer le grand lakoni de Kazonndé.</p>
         </div>
         <div type="chapter">
+
           <head>XI -- Un punch offert au roi de Kazonndé</head>
           <p>Il était quatre heures du soir, lorsqu'un grand fracas de tambours, de cymbales et autres instruments d'origine africaine retentit à l'extrémité de la rue principale. L'animation redoublait alors à tous les coins du marché. Une demi-journée de cris, de luttes, n'avait ni éteint la voix, ni brisé bras et jambes à ces négociants endiablés. Bon nombre d'esclaves restaient encore à vendre ; les traitants se disputaient les lots avec une ardeur dont la Bourse de Londres n'eût donné qu'une imparfaite idée, même un jour de grande hausse.</p>
           <p>Mais, au discordant concert qui éclata soudain, les transactions furent suspendues, et les crieurs purent reprendre haleine.</p>
@@ -2763,6 +2803,7 @@
           <p>C'était tout ce qui restait du roi de Kazonndé et de son ministre.</p>
         </div>
         <div type="chapter">
+
           <head>XII -- Un enterrement royal</head>
           <p>Le lendemain, 29 mai, la ville de Kazonndé présentait un aspect inaccoutumé. Les indigènes, terrifiés, se tenaient enfermés dans leurs huttes. Ils n'avaient jamais vu ni un roi qui se disait d'essence divine, ni un simple ministre mourir de cette horrible mort. Ils n'étaient pas sans avoir brûlé déjà quelques-uns de leurs semblables, et les plus vieux ne pouvaient oublier certains préparatifs culinaires relatifs au cannibalisme. Ils savaient donc combien l'incinération d'un corps humain s'opère difficilement, et voilà que leur roi et son ministre avaient brûlé comme tout seuls ! Cela leur paraissait et devait, en effet, leur paraître inexplicable !</p>
           <p>José-Antonio Alvez se tenait coi dans sa maison. Il pouvait craindre qu'on ne le rendît responsable de l'accident. Negoro lui avait fait comprendre ce qui s'était passé, en l'avertissant de prendre garde à lui-même. Mettre la mort de Moini Loungga à son compte, eût été une mauvaise affaire dont il ne se fût peut-être pas tiré sans dommage.</p>
@@ -2827,6 +2868,7 @@
           <p>La plume se refuserait à peindre de tels tableaux, si le souci de la vérité n'imposait pas le devoir de les décrire dans leur réalité abominable. L'homme en est encore là dans ces tristes pays. Il n'est plus permis de l'ignorer.</p>
         </div>
         <div type="chapter">
+
           <head>XIII -- L'intérieur d'une factorerie</head>
           <p>Harris et Negoro avaient menti en disant que Mrs. Weldon et le petit Jack étaient morts. Elle, lui et le cousin Bénédict se trouvaient alors à Kazonndé.</p>
           <p>Après l'assaut de la fourmilière, ils avaient été entraînés au-delà du campement de la Coanza par Harris et Negoro qu'accompagnaient une douzaine de soldats indigènes.</p>
@@ -2903,6 +2945,7 @@
           <p>Et, cela dit, le Portugais se retira, sans avoir donné cours à sa colère ; mais il était aisé de voir que rien ne l'arrêterait pour contraindre Mrs. Weldon à lui obéir.</p>
         </div>
         <div type="chapter">
+
           <head>XIV -- Quelques nouvelles du docteur Livingstone</head>
           <p>Mrs. Weldon, demeurée seule, ne s'attacha, tout d'abord, qu'à cette pensée, c'est que huit jours s'écouleraient avant que Negoro ne revînt lui demander une réponse définitive. C'était le temps de réfléchir et de prendre un parti. De la probité du Portugais, il ne pouvait être question, mais de son intérêt. La « valeur marchande » qu'il attribuait à sa prisonnière devait évidemment sauvegarder celle-ci, et la prémunir, momentanément au moins, contre toute tentative qui pourrait la mettre en danger. Peut-être trouverait-elle un moyen terme qui lui permettrait d'être rendue à son mari, sans que James Weldon fût obligé de venir à Kazonndé. Sur une lettre de sa femme, elle le savait bien, James Weldon partirait, il braverait les périls de ce voyage dans les plus dangereuses contrées de l'Afrique. Mais, une fois à Kazonndé, lorsque Negoro aurait entre les mains cette fortune de cent mille dollars, quelle garantie James W. Weldon, sa femme, son enfant, cousin Bénédict, auraient-ils qu'on les laisserait repartir ? Un caprice de la reine Moina ne pouvait-il les en empêcher ? Cette « livraison » de Mrs. Weldon et des siens ne se ferait-elle pas dans de meilleures conditions, si elle s'opérait à la côte, en un point déterminé, ce qui épargnerait à James W. Weldon et les dangers du voyage à l'intérieur, et les difficultés, pour ne pas dire les impossibilités, du retour ?</p>
           <p>C'est à quoi réfléchissait Mrs. Weldon. C'est pourquoi elle avait refusé tout d'abord d'accéder à la proposition de Negoro et de lui donner une lettre pour son mari. Elle pensa aussi que si Negoro avait remis sa seconde visite à huit jours, c'était sans doute parce qu'il lui fallait ce temps pour préparer son voyage, sinon il fût revenu plus vite lui forcer la main.</p>
@@ -2995,6 +3038,7 @@
           <p>Neuf mois après, son corps, transporté par ses fidèles serviteurs au prix de fatigues inouïes, arrivait à Zanzibar, et, le 12 avril 1874, il était inhumé dans l'abbaye de Westminster, au milieu de ceux de ses grands hommes que l'Angleterre honore à l'égal de ses rois.</p>
         </div>
         <div type="chapter">
+
           <head>XV -- Où peut conduire une manticore</head>
           <p>À quelle planche de salut un malheureux ne se raccroche-t-il pas ! Quelle lueur d'espoir, si vague qu'elle soit, les yeux du condamné ne cherchent-ils pas à surprendre !</p>
           <p>Il en avait été ainsi de Mrs. Weldon, et l'on comprendra ce qu'elle dut éprouver, lorsqu'elle apprit, de la bouche même d'Alvez, que le docteur Livingstone venait de succomber dans un petit village du Bangouéolo. Il lui sembla qu'elle était plus isolée que jamais, qu'une sorte de lien qui la rattachait au voyageur, et avec lui au monde civilisé, venait de se rompre. La planche de salut fuyait sous sa main, la lueur d'espoir s'éteignait à ses yeux. Tom et ses compagnons avaient quitté Kazonndé pour la région des lacs. D'Hercule, pas la moindre nouvelle. Mrs. Weldon ne pouvait décidément compter sur personne... il lui fallait donc en revenir à la proposition de Negoro, en essayant de l'amender et d'en assurer le résultat définitif.</p>
@@ -3061,6 +3105,7 @@
           <p>Vraiment, cousin Bénédict avait perdu ce jour-là une belle occasion de pouvoir se proclamer le plus heureux entomologiste des cinq parties du monde !</p>
         </div>
         <div type="chapter">
+
           <head>XVI -- Un mgannga</head>
           <p>Lorsque Mrs. Weldon, dans cette journée du 17, ne vit pas reparaître cousin Bénédict à l'heure accoutumée, elle fut prise de la plus vive inquiétude. Ce qu'était devenu son grand enfant, elle ne pouvait se l'imaginer. Qu'il fût parvenu à s'échapper de la factorerie, dont l'enceinte était absolument infranchissable, ce n'était pas admissible. D'ailleurs, Mrs. Weldon connaissait son cousin. On eût proposé à cet original de s'enfuir, en abandonnant sa boîte de fer-blanc et sa collection d'insectes africains, qu'il aurait refusé sans l'ombre d'une hésitation. Or, la boîte était là, dans la hutte, intacte, contenant tout ce que le savant avait pu recueillir depuis son arrivée sur le continent. Supposer qu'il s'était volontairement séparé de ses trésors entomologiques, c'était inadmissible.</p>
           <p>Et, cependant, cousin Bénédict n'était plus dans l'établissement de José-Antonio Alvez !</p>
@@ -3115,6 +3160,7 @@
           <p>« Mon capitaine, dit-il, mistress Weldon et le petit Jack que je vous présente ! En route, et que tous les nuages du ciel crèvent maintenant sur ces idiots de Kazonndé ! »</p>
         </div>
         <div type="chapter">
+
           <head>XVII -- À la dérive</head>
           <p>C'était Hercule, méconnaissable sous son attifement de magicien, qui parlait ainsi, et c'était à Dick Sand qu'il s'adressait, -- à Dick Sand, assez faible encore pour avoir besoin de s'appuyer sur le cousin Bénédict, près duquel Dingo était couché.</p>
           <p>Mrs. Weldon, qui avait repris connaissance, ne put que prononcer ces mots : « Toi ! Dick ! toi ! »</p>
@@ -3189,6 +3235,7 @@
           <p>C'étaient plusieurs centaines d'éléphants, qui, rassasiés des racines ligneuses qu'ils avaient dévorées pendant le jour, venaient se désaltérer avant l'heure du repos. On eût vraiment pu croire que toutes ces trompes, s'abaissant et se relevant par un même mouvement automatique, allaient assécher la rivière !</p>
         </div>
         <div type="chapter">
+
           <head>XVIII -- Divers incidents</head>
           <p>Pendant huit jours, l'embarcation dériva, sous l'impulsion du courant, dans les conditions qui ont été relatées. Aucun incident de quelque importance ne se produisit. Sur un espace de plusieurs milles, la rivière baignait la lisière de forêts superbes ; puis, le pays, dépouillé de ces beaux arbres, laissait les jungles s'étendre jusqu'aux limites de l'horizon.</p>
           <p>Si les indigènes manquaient à cette contrée, -- ce dont Dick Sand ne songeait nullement à se plaindre, -- les animaux du moins y foisonnaient. C'étaient des zèbres qui jouaient sur les rives, des élans, des « caamas », sortes d'antilopes extrêmement gracieuses, qui disparaissaient avec la nuit pour faire place aux léopards, dont on entendait les hurlements, et même aux lions, qui bondissaient dans les hautes herbes. Jusqu'alors, les fugitifs n'avaient aucunement eu à souffrir de ces féroces carnassiers, ni de ceux de la forêt, ni de ceux de la rivière.</p>
@@ -3266,6 +3313,7 @@
           <p>Dick Sand ne se trompait pas. En aval, le sol manquait de plus de cent pieds au lit du fleuve, dont les eaux se précipitaient avec une superbe mais irrésistible impétuosité. Un demi-mille encore, et l'embarcation eût été entraînée dans l'abîme.</p>
         </div>
         <div type="chapter">
+
           <head>XIX -- S. V.</head>
           <p>Hercule, d'un vigoureux coup de godille, s'était lancé vers la rive gauche. Le courant, d'ailleurs, n'était pas accéléré en cet endroit, et le lit du fleuve conservait jusqu'aux chutes sa pente normale. C'était, on l'a dit, le sol qui manquait subitement, et l'attraction ne se faisait sentir que trois ou quatre cents pieds en amont de la cataracte.</p>
           <p>Sur la rive gauche s'élevaient de grands bois, très épais. Aucune lumière ne filtrait à travers leur impénétrable rideau. Dick Sand ne regardait pas sans terreur ce territoire, habité par les cannibales du Congo inférieur, qu'il faudrait maintenant traverser, puisque l'embarcation ne pouvait plus en suivre le cours. Quant à la transporter au-dessous des chutes, il n'y fallait pas songer. C'était donc là un coup terrible qui frappait ces pauvres gens, à la veille peut-être d'atteindre les bourgades portugaises de l'embouchure. Ils s'étaient bien aidés, cependant ! Le Ciel ne leur viendrait-il donc pas en aide ?</p>
@@ -3352,6 +3400,7 @@
           <p>Mais déjà les cannibales avaient disparu dans le tumulte des eaux. Eux, que l'embarcation chavirée ne protégeait pas, avaient cessé de vivre même avant d'avoir atteint les dernières profondeurs de l'abîme, et leurs corps allaient se déchirer à ces roches aiguës auxquelles se brisait le courant inférieur du fleuve.</p>
         </div>
         <div type="chapter">
+
           <head>XX -- Conclusion</head>
           <p>Deux jours après, le 20 juillet, Mrs. Weldon et ses compagnons rencontraient une caravane qui se dirigeait vers Emboma, à l'embouchure du Congo. Ce n'étaient point des marchands d'esclaves, mais d'honnêtes négociants portugais qui faisaient le commerce de l'ivoire. Un excellent accueil fut fait aux fugitifs, et la dernière partie de ce voyage s'accomplit dans des conditions supportables.</p>
           <p>La rencontre de cette caravane avait vraiment été une faveur du Ciel. Dick Sand n'aurait pu reprendre sur un radeau la descente du Zaïre. Depuis les chutes de Ntamo jusqu'à Yellala, le fleuve n'est plus qu'une suite de rapides et de cataractes. Stanley en a compté soixante-deux, et aucune embarcation ne peut s'y engager. C'est à l'embouchure du Coango que l'intrépide voyageur allait, quatre ans plus tard, soutenir le dernier des trente-deux combats qu'il dut livrer aux indigènes. C'est plus bas, dans les cataractes de Mbélo, qu'il ne devait échapper que par miracle à la mort.</p>
@@ -3374,7 +3423,7 @@
       </div>
     </body>
     <back>
-      <div type="notes"/>
+      <div type="notes" />
       <div type="liminal">
         <p>[1] Types : sauterelles, grillons, etc.</p>
         <p>[2] Types : fourmis-lions, libellules.</p>
