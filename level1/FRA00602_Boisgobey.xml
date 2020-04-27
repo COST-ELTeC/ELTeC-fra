@@ -26,17 +26,15 @@
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
         <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource"> Scan, <date>2014</date> ,
-          <idno /> , . </bibl>
+        <bibl type="digitalSource">
+          <publisher>(unspecified)</publisher>
+          <!-- "Scan" -->
+          <date>2014</date>
+        </bibl>
         <bibl type="firstEdition">
           <date>1886</date> ,
-          <idno /> , .
         </bibl>
       </sourceDesc>
     </fileDesc>

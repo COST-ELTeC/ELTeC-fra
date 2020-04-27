@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01301" xml:lang="fr">
   <teiHeader>
@@ -18,43 +18,60 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">149810</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="printSource">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="printSource">
+          <publisher>(unspecified)</publisher>
           <date>source</date>
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="firstEdition">
           <date>1869</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2014-03-22">Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <front>
-      <div type="liminal"/>
+      <div type="liminal" />
     </front>
+
     <body>
       <div type="group">
+
         <head>Partie 1</head>
         <div type="chapter">
+
           <head>Chapitre 1</head>
           <p>Le 15 septembre 1840, vers six heures du matin, la Ville-de-Montereau, près de partir, fumait à gros tourbillons devant le quai Saint-Bernard.</p>
           <p>Des gens arrivaient hors d'haleine ; des barriques, des câbles, des corbeilles de linge gênaient la circulation ; les matelots ne répondaient à personne ; on se heurtait ; les colis montaient entre les deux tambours, et le tapage s'absorbait dans le bruissement de la vapeur, qui, s'échappant par des plaques de tôle, enveloppait tout d'une nuée blanchâtre, tandis que la cloche, à l'avant, tintait sans discontinuer.</p>
@@ -145,6 +162,7 @@
           <p>« Au moins, ne sois pas longtemps ! » lui dit sa mère.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 2</head>
           <p>Le père de Charles Deslauriers, ancien capitaine de ligne, démissionnaire en 1818, était revenu se marier à Nogent, et, avec l'argent de la dot, avait acheté une charge d'huissier, suffisant à peine pour le faire vivre. Aigri par de longues injustices, souffrant de ses vieilles blessures, et toujours regrettant l'Empereur, il dégorgeait sur son entourage les colères qui l'étouffaient. Peu d'enfants furent plus battus que son fils. Le gamin ne cédait pas, malgré les coups. Sa mère, quand elle tâchait de s'interposer, était rudoyée comme lui. Enfin le Capitaine le plaça dans son étude, et tout le long du jour, il le tenait courbé sur son pupitre à copier des actes, ce qui lui rendit l'épaule droite visiblement plus forte que l'autre.</p>
           <p>En 1833, d'après l'invitation de M. le président, le Capitaine vendit son étude. Sa femme mourut d'un cancer. Il alla vivre à Dijon ; ensuite il s'établit marchand d'hommes à Troyes ; et, ayant obtenu pour Charles une demi-bourse, le mit au collège de Sens, où Frédéric le reconnut. Mais l'un avait douze ans, l'autre quinze ; d'ailleurs, mille différences de caractère et d'origine les séparaient.</p>
@@ -202,6 +220,7 @@
           <p>Puis, ayant soldé sa dépense à l'auberge, Deslauriers reconduisit Frédéric jusqu'au carrefour de l'Hôtel-Dieu ; -- et, après une longue étreinte, les deux amis se séparèrent.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 3</head>
           <p>Deux mois plus tard, Frédéric, débarqué un matin rue Coq-Héron, songea immédiatement à faire sa grande visite.</p>
           <p>Le hasard l'avait servi. Le père Roque était venu lui apporter un rouleau de papiers, en le priant de les remettre lui-même chez M. Dambreuse ; et il accompagnait l'envoi d'un billet décacheté, où il présentait son jeune compatriote.</p>
@@ -270,6 +289,7 @@
           <p>Il n'alla point à Troyes voir son ami, afin d'éviter les observations de sa mère. Puis, à la rentrée, il abandonna son logement et prit, sur le quai Napoléon, deux pièces, qu'il meubla. L'espoir d'une invitation chez les Dambreuse l'avait quitté ; sa grande passion pour Mme Arnoux commençait à s'éteindre.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 4</head>
           <p>Un matin du mois de décembre, en se rendant au cours de procédure, il crut remarquer dans la rue Saint-Jacques plus d'animation qu'à l'ordinaire. Les étudiants sortaient précipitamment des cafés, ou, par les fenêtres ouvertes, ils s'appelaient d'une maison à l'autre ; les boutiquiers, au milieu du trottoir, regardaient d'un air inquiet ; les volets se fermaient ; et, quand il arriva dans la rue Soufflot, il aperçut un grand rassemblement autour du Panthéon.</p>
           <p>Des jeunes gens, par bandes inégales de cinq à douze, se promenaient en se donnant le bras et abordaient les groupes plus considérables qui stationnaient çà et là ; au fond de la place, contre les grilles, des hommes en blouse péroraient, tandis que, le tricorne sur l'oreille et les mains derrière le dos, des sergents de ville erraient le long des murs, en faisant sonner les dalles sous leurs fortes bottes. Tous avaient un air mystérieux, ébahi ; on attendait quelque chose évidemment ; chacun retenait au bord des lèvres une interrogation.</p>
@@ -538,6 +558,7 @@
           <p>Son visage s'offrait à lui dans la glace. Il se trouva beau et resta une minute à se regarder.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 5</head>
           <p>Le lendemain, avant midi, il s'était acheté une boîte de couleurs, des pinceaux, un chevalet. Pellerin consentit à lui donner des leçons, et Frédéric l'emmena dans son logement pour voir si rien ne manquait parmi ses ustensiles de peinture.</p>
           <p>Deslauriers était rentré. Un jeune homme occupait le second fauteuil. Le clerc dit en le montrant :</p>
@@ -704,7 +725,7 @@
           <p>« Mais non ! Qui vous l'a dit ?</p>
           <p>– Arnoux ! »</p>
           <p>Elle fit un « ah » léger, puis ajouta qu'elle avait eu d'abord, des craintes sérieuses, maintenant disparues.</p>
-          <p>Elle se tenait près du feu, dans la bergère de tapisserie. Il était sur le canapé, avec son chapeau entre ses genoux ; et l'entretien fut pénible, elle l'abandonnait à chaque minute il ne trouvait pas de joint pour y introduire ses sentiments. Mais, comme il se plaignait d'étudier la chicane, elle répliqua : « Oui… . je conçois… . les affaires…  ! » en baissant la figure, absorbée tout à coup par des réflexions.</p>
+          <p>Elle se tenait près du feu, dans la bergère de tapisserie. Il était sur le canapé, avec son chapeau entre ses genoux ; et l'entretien fut pénible, elle l'abandonnait à chaque minute il ne trouvait pas de joint pour y introduire ses sentiments. Mais, comme il se plaignait d'étudier la chicane, elle répliqua : « Oui… . je conçois… . les affaires… ! » en baissant la figure, absorbée tout à coup par des réflexions.</p>
           <p>Il avait soif de les connaître, et même ne songeait pas à autre chose. Le crépuscule amassait de l'ombre autour d'eux.</p>
           <p>Elle se leva, ayant une course à faire, puis reparut avec une capote de velours, et une mante noire, bordée de petit-gris. Il osa offrir de l'accompagner.</p>
           <p>On n'y voyait plus ; le temps était froid, et un lourd brouillard, estompant la façade des maisons, puait dans l'air. Frédéric le humait avec délices ; car il sentait à travers la ouate du vêtement la forme de son bras ; et sa main, prise dans un gant chamois à deux boutons, sa petite main qu'il aurait voulu couvrir de baisers, s'appuyait sur sa manche. A cause du pavé glissant, ils oscillaient un peu ; il lui semblait qu'ils étaient tous les deux comme bercés par le vent, au milieu d'un nuage.</p>
@@ -960,6 +981,7 @@
           <p>« C'est la fille de M. Roque , dit Mme Moreau. Il vient d'épouser sa servante et de légitimer son enfant. »</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 6</head>
           <p>Ruiné, dépouillé, perdu !</p>
           <p>Il était resté sur le banc, comme étourdi par une commotion. Il maudissait le sort, il aurait voulu battre quelqu'un ; et, pour renforcer son désespoir, il sentait peser sur lui une sorte d'outrage, un déshonneur ; -- car Frédéric s'était imaginé que sa fortune paternelle monterait un jour à quinze mille livres de rente, et il l'avait fait savoir, d'une façon indirecte, aux Arnoux. Il allait donc passer pour un hâbleur, un drôle, un obscur polisson, qui s'était introduit chez eux dans l'espérance d'un profit quelconque ! Et elle, Mme Arnoux, comment la revoir, maintenant ?</p>
@@ -1062,8 +1084,10 @@
         </div>
       </div>
       <div type="group">
+
         <head>Partie 2</head>
         <div type="chapter">
+
           <head>Chapitre 1</head>
           <p>Quand il fut à sa place, dans le coupé, au fond, et que la diligence s'ébranla, emportée par les cinq chevaux détalant à la fois, il sentit une ivresse le submerger. Comme un architecte qui fait le plan d'un palais, il arrangea, d'avance, sa vie. Il l'emplit de délicatesses et de splendeurs ; elle montait jusqu'au ciel ; une prodigalité de choses y apparaissait ; et cette contemplation était si profonde, que les objets extérieurs avaient disparu.</p>
           <p>Au bas de la côte de Sourdun, il s'aperçut de l'endroit où l'on était. On n'avait fait que cinq kilomètres, tout au plus ! Il fut indigné. Il abattit le vasistas pour voir la route. Il demanda plusieurs fois au conducteur dans combien de temps, au juste, on arriverait. Il se calma cependant, et il restait dans son coin, les yeux ouverts.</p>
@@ -1329,6 +1353,7 @@
           <p>Une autre soif lui était venue, celle des femmes, du luxe et de tout ce que comporte l'existence parisienne. Il se sentait quelque peu étourdi, comme un homme qui descend d'un vaisseau ; et, dans l'hallucination du premier sommeil, il voyait passer et repasser continuellement les épaules de la Poissarde, les reins de la Débardeuse, les mollets de la Polonaise, la chevelure de la Sauvagesse. Puis deux grands yeux noirs, qui n'étaient pas dans le bal, parurent ; et légers comme des papillons, ardents comme des torches, ils allaient, venaient, vibraient, montaient dans la corniche, descendaient jusqu'à sa bouche. Frédéric s'acharnait à reconnaître ces yeux sans y parvenir. Mais déjà le rêve l'avait pris ; il lui semblait qu'il était attelé près d'Arnoux, au timon d'un fiacre, et que la Maréchale, à califourchon sur lui, l'éventrait avec ses éperons d'or.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 2</head>
           <p>Frédéric trouva, au coin de la rue Rumford, un petit hôtel et il s'acheta, tout à la fois le coupé, le cheval, les meubles et deux jardinières prises chez Arnoux, pour mettre aux deux coins de la porte dans son salon. Derrière cet appartement, étaient une chambre et un cabinet. L'idée lui vint d'y loger Deslauriers. Mais, comment la recevrait-il, elle, sa maîtresse future ? La présence d'un ami serait une gêne. Il abattit le refend pour agrandir le salon, et fit du cabinet un fumoir.</p>
           <p>Il acheta les poètes qu'il aimait, des Voyages, des Atlas, des Dictionnaires, car il avait des plans de travail sans nombre ; il pressait les ouvriers, courait les magasins, et, dans son impatience de jouir, emportait tout sans marchander.</p>
@@ -1764,7 +1789,7 @@
           <p>« C'était l'autre mois, un samedi, le 14. »</p>
           <p>« Ah ! ce jour-là, précisément, j'étais à Creil ! Ainsi, tu vois. »</p>
           <p>« Pas du tout ! Car nous avons dîné chez les Bertin, le 14. »</p>
-          <p>« Le 14…  ? » fit Arnoux, en levant les yeux comme pour chercher une date.</p>
+          <p>« Le 14… ? » fit Arnoux, en levant les yeux comme pour chercher une date.</p>
           <p>« Et même, le commis qui t'a vendu était un blond ! »</p>
           <p>« Est-ce que je peux me rappeler le commis ! »</p>
           <p>« Il a cependant écrit, sous ta dictée, l'adresse : 18, rue de Laval. »</p>
@@ -1799,7 +1824,7 @@
           <p>Alors, il se fit un grand silence ; et tout, dans l'appartement, sembla plus immobile. Un cercle lumineux, au-dessus de la carcel, blanchissait le plafond, tandis que, dans les coins, l'ombre s'étendait comme des gazes noires superposées ; on entendait le tic-tac de la pendule avec la crépitation du feu.</p>
           <p>Mme Arnoux venait de se rasseoir, à l'autre angle de la cheminée dans le fauteuil ; elle mordait ses lèvres en grelottant ; ses deux mains se levèrent, un sanglot lui échappa, elle pleurait.</p>
           <p>Il se mit sur la petite chaise ; et, d'une voix caressante, comme on fait une personne malade :</p>
-          <p>« Vous ne doutez pas que je ne partage…  ? »</p>
+          <p>« Vous ne doutez pas que je ne partage… ? »</p>
           <p>Elle ne répondit rien. Mais, continuant tout haut ses réflexions :</p>
           <p>« Je le laisse bien libre ! Il n'avait pas besoin de mentir ! »</p>
           <p>« Certainement », dit Frédéric.</p>
@@ -1818,7 +1843,7 @@
           <p>« Eh bien, comment va-t-elle ? »</p>
           <p>« Oh ! mieux ! » dit Frédéric. » Cela se passera ! »</p>
           <p>Mais Arnoux était peiné.</p>
-          <p>« Vous ne la connaissez pas ! Elle a maintenant des nerfs…  ! Imbécile de commis ! Voilà ce que c'est que d'être trop bon ! Si je n'avais pas donné ce maudit châle à Rosanette ! »</p>
+          <p>« Vous ne la connaissez pas ! Elle a maintenant des nerfs… ! Imbécile de commis ! Voilà ce que c'est que d'être trop bon ! Si je n'avais pas donné ce maudit châle à Rosanette ! »</p>
           <p>« Ne regrettez rien ! Elle vous est on ne peut plus reconnaissante ! »</p>
           <p>« Vous croyez ? »</p>
           <p>Frédéric n'en doutait pas. La preuve, c'est qu'elle venait de congédier le père Oudry.</p>
@@ -1831,6 +1856,7 @@
           <p>« Vous êtes bon, vous ! »</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 3</head>
           <p>Alors commença pour Frédéric une existence misérable. Il fut le parasite de la maison.</p>
           <p>Si quelqu'un était indisposé, il venait trois fois par jour savoir de ses nouvelles, allait chez l'accordeur de piano, inventait mille prévenances ; et il endurait d'un air content les bouderies de Mlle Marthe et les caresses du jeune Eugène, qui lui passait toujours ses mains sales sur la figure. Il assistait aux dîners où Monsieur et Madame, en face l'un de l'autre, n'échangeaient pas un mot : ou bien, Arnoux agaçait sa femme par des remarques saugrenues. Le repas terminé, il jouait dans la chambre avec son fils, se cachait derrière les meubles, ou le portait sur son dos, en marchant à quatre pattes, comme le Béarnais. Il s'en allait enfin -, et elle abordait immédiatement l'éternel sujet de plainte : Arnoux.</p>
@@ -1952,9 +1978,9 @@
           <p>Le mandat était resté sur la table de nuit, près d'un livre. Frédéric souleva le volume et le posa par-dessus, en répondant :</p>
           <p>« Mon Dieu, non, cher ami ! »</p>
           <p>Mais il lui coûtait de refuser à Arnoux.</p>
-          <p>« Comment, vous ne trouvez personne qui veuille…  ? »</p>
+          <p>« Comment, vous ne trouvez personne qui veuille… ? »</p>
           <p>« Personne ! et songer que, d'ici à huit jours, j'aurai des rentrées ! On me doit peut-être… cinquante mille francs pour la fin du mois ! »</p>
-          <p>« Est-ce que vous ne pourriez pas prier les individus qui vous doivent d'avancer…  ? »</p>
+          <p>« Est-ce que vous ne pourriez pas prier les individus qui vous doivent d'avancer… ? »</p>
           <p>« Ah, bien, oui ! »</p>
           <p>« Mais vous avez des valeurs quelconques, des billets ? »</p>
           <p>« Rien ! »</p>
@@ -2112,7 +2138,7 @@
           <p>« A combien, environ, doit-il se monter ? » dit Frédéric.</p>
           <p>« Mon Dieu ! ce qui vous plaira ; de quarante à soixante mille francs, je suppose. »</p>
           <p>Cette somme était si minime pour M. Dambreuse et son autorité si grande, que le jeune homme se décida immédiatement à vendre une ferme. Il acceptait. M. Dambreuse fixerait un de ces jours un rendez-vous pour terminer leurs arrangements.</p>
-          <p>« Ainsi, je puis dire à Jacques Arnoux…  ? »</p>
+          <p>« Ainsi, je puis dire à Jacques Arnoux… ? »</p>
           <p>« Tout ce que vous voudrez ! le pauvre garçon ! Tout ce que vous voudrez ! »</p>
           <p>Frédéric écrivit aux Arnoux de se tranquilliser, et il fit porter la lettre par son domestique auquel on répondit :</p>
           <p>« Très bien ! »</p>
@@ -2272,6 +2298,7 @@
           <p>« Pourquoi n'irais-je pas ? » se dit-il enfin. » Mais si Mme Arnoux le savait ? Ah ! qu'elle le sache ! Tant mieux et qu'elle en soit jalouse ça me vengera ! »</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 4</head>
           <p>La Maréchale était prête et l'attendait.</p>
           <p>« C'est gentil, cela ! » dit-elle, en fixant sur lui ses jolis yeux, à la fois tendres et gais.</p>
@@ -2433,7 +2460,7 @@
           <p>« Eh bien, quoi ? »</p>
           <p>« Je croyais… »</p>
           <p>« Qu'est-ce que vous croyiez ? »</p>
-          <p>« Est-ce que vous ne…  ? »</p>
+          <p>« Est-ce que vous ne… ? »</p>
           <p>Il compléta sa phrase par un geste.</p>
           <p>« Eh non ! jamais de la vie ! »</p>
           <p>Hussonnet n'insista pas davantage.</p>
@@ -2804,6 +2831,7 @@
           <p>Donc, huit jours après, sans qu'aucun engagement eut été pris, Frédéric passait pour » le futur » de Mlle Louise ; et le père Roque, peu scrupuleux, les laissait ensemble quelquefois.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 5</head>
           <p>Deslauriers avait emporté de chez Frédéric la copie de l'acte de subrogation 188, avec une procuration en bonne forme lui conférant de pleins pouvoirs ; mais, quand il eut remonté ses cinq étages, et qu'il fut seul, au milieu de son triste cabinet, dans son fauteuil de basane, la vue du papier timbré l'écœura.</p>
           <p>Il était las de ces choses, et des restaurants à trente-deux sous, des voyages en omnibus, de sa misère, de ses efforts. Il reprit les paperasses ; d'autres se trouvaient à côté ; c'étaient les prospectus de la compagnie houillère avec la liste des mines et le détail de leur contenance, Frédéric lui ayant laissé tout cela pour avoir dessus son opinion.</p>
@@ -2968,6 +2996,7 @@
           <p>Pour motiver son voyage, Frédéric inventa une histoire ; et il partit, en disant à tout le monde et croyant lui-même qu'il reviendrait bientôt.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 6</head>
           <p>Son retour à Paris ne lui causa point de plaisir ; c'était le soir, à la fin du mois d'août, le boulevard semblait vide, les passants se succédaient avec des mines refrognées, çà et là une chaudière d'asphalte fumait, beaucoup de maisons avaient leurs persiennes entièrement closes ; il arriva chez lui ; de la poussière couvrait les tentures ; et, en dînant tout seul, Frédéric fut pris par un étrange sentiment d'abandon ; alors il songea à Mlle Roque.</p>
           <p>L'idée de se marier ne lui paraissait plus exorbitante. Ils voyageraient, ils iraient en Italie, en Orient Et il l'apercevait debout sur un monticule, contemplant un paysage, ou bien appuyée à son bras dans une galerie florentine, s'arrêtant devant les tableaux. Quelle joie ce serait que de voir ce bon petit être s'épanouir aux splendeurs de l'Art et de la Nature ! Sortie de son milieu, en peu de temps, elle ferait une compagne charmante. La fortune de M. Roque le tentait, d'ailleurs. Cependant, une pareille détermination lui répugnait comme une faiblesse, un avilissement.</p>
@@ -3339,8 +3368,10 @@
         </div>
       </div>
       <div type="group">
+
         <head>Partie 3</head>
         <div type="chapter">
+
           <head>Chapitre 1</head>
           <p>Le bruit d'une fusillade le tira brusquement de son sommeil ; et, malgré les instances de Rosanette, Frédéric, à toute force, voulut aller voir ce qui se passait. Il descendait vers les Champs-Elysées, d'où les coups de feu étaient partis. A l'angle de la rue Saint-Honoré, des hommes en blouse le croisèrent en criant :</p>
           <p>« Non ! pas par là ! au Palais-Royal ! »</p>
@@ -3461,7 +3492,7 @@
           <p>« Je l'ai oublié dans mon paletot, excusez-moi ! »</p>
           <p>« Bien ! » dit M. Dambreuse.</p>
           <p>Evidemment, il n'était pas dupe de cette manœuvre, et même semblait la favoriser. Pourquoi ? Mais bientôt Martinon reparut, et Frédéric entama son discours. Dès la seconde page, qui signalait comme une honte la prépondérance des intérêts pécuniaires, le banquier fit la grimace. Puis, abordant les réformes, Frédéric demandait la liberté du commerce.</p>
-          <p>« Comment…  ? mais permettez ! »</p>
+          <p>« Comment… ? mais permettez ! »</p>
           <p>L'autre n'entendait pas, et continua. Il réclamait l'impôt sur la rente, l'impôt progressif, une fédération européenne, et l'instruction du peuple, des encouragements aux beaux-arts les plus larges.</p>
           <p>« Quand le pays fournirait à des hommes comme Delacroix ou Hugo cent mille francs de rente, où serait le mal ? »</p>
           <p>Le tout finissait par des conseils aux classes supérieures.</p>
@@ -3883,6 +3914,7 @@
           <p>« Oui ! tu as raison ! Mais c'est plus fort que moi ! Je suis trop sensible ! »</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 2</head>
           <p>Mme Dambreuse, dans son boudoir, entre sa nièce et miss John, écoutait parler M. Roque, contant ses fatigues militaires.</p>
           <p>Elle se mordait les lèvres, semblait souffrir.</p>
@@ -4085,6 +4117,7 @@
           <p>Catherine la ramena en la soutenant, en la baisant, en lui disant toutes sortes de bonnes choses tirées de son expérience. Il ne fallait pas se faire tant de mal pour les amoureux. Si celui-là manquait, elle en trouverait d'autres !</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 3</head>
           <p>Quand l'enthousiasme de Rosanette pour les gardes mobiles se fut calmé, elle redevint plus charmante que jamais, et Frédéric prit l'habitude insensiblement de vivre chez elle.</p>
           <p>Le meilleur de la journée, c'était le matin sur leur terrasse. En caraco de batiste et pieds nus dans ses pantoufles, elle allait et venait autour de lui, nettoyait la cage de ses serins, donnait de l'eau à ses poissons rouges, et jardinait avec une pelle à feu dans la caisse remplie de terre, d'où s'élevait un treillage de capucines garnissant le mur. Puis, accoudés sur leur balcon, ils regardaient ensemble les voitures, les passants ; et on se chauffait au soleil, on faisait des projets pour la soirée. Il s'absentait pendant deux heures tout au plus ; ensuite, ils allaient dans un théâtre quelconque, aux avant-scènes ; et Rosanette, un gros bouquet de fleurs à la main, écoutait les instruments, tandis que Frédéric, penché à son oreille, lui contait des choses joviales ou galantes. D'autres fois, ils prenaient une calèche pour les conduire au bois de Boulogne ; ils se promenaient tard, jusqu'au milieu de la nuit. Enfin, ils s'en revenaient par l'Arc de triomphe et la grande avenue, en humant l'air, avec les étoiles sur leur tête, et, jusqu'au fond de la perspective, tous les becs de gaz alignés comme un double cordon de perles lumineuses.</p>
@@ -4204,7 +4237,7 @@
           <p>Elle prit un flambeau, et, montrant son visage :</p>
           <p>« T'y connais-tu ? »</p>
           <p>De petites taches jaunes maculaient sa peau, qui était singulièrement bouffie. Frédéric ne nia pas l'évidence. Il alla ouvrir la fenêtre, fit quelques pas de long en large, puis s'affaissa dans un fauteuil.</p>
-          <p>Cet événement était une calamité, qui d'abord ajournait leur rupture, - et puis bouleversait tous ses projets. L'idée d'être père, d'ailleurs, lui paraissait grotesque, inadmissible. Mais pourquoi ? Si, au lieu de la Maréchale…  ? Et sa rêverie devint tellement profonde, qu'il eut une sorte d'hallucination. Il voyait là, sur le tapis, devant la cheminée, une petite fille. Elle ressemblait à Mme Arnoux et à lui-même, un peu ; - brune et blanche, avec des yeux noirs, de très grands sourcils, un ruban rose dans ses cheveux bouclants ! (Oh ! comme il l'aurait aimée !) Et il lui semblait entendre sa voix : » Papa ! papa ! »</p>
+          <p>Cet événement était une calamité, qui d'abord ajournait leur rupture, - et puis bouleversait tous ses projets. L'idée d'être père, d'ailleurs, lui paraissait grotesque, inadmissible. Mais pourquoi ? Si, au lieu de la Maréchale… ? Et sa rêverie devint tellement profonde, qu'il eut une sorte d'hallucination. Il voyait là, sur le tapis, devant la cheminée, une petite fille. Elle ressemblait à Mme Arnoux et à lui-même, un peu ; - brune et blanche, avec des yeux noirs, de très grands sourcils, un ruban rose dans ses cheveux bouclants ! (Oh ! comme il l'aurait aimée !) Et il lui semblait entendre sa voix : » Papa ! papa ! »</p>
           <p>Rosanette, qui venait de se déshabiller, s'approcha de lui, aperçut une larme à ses paupières, et le baisa sur le front, gravement. Il se leva, en disant :</p>
           <p>« Parbleu ! On ne le tuera pas, ce marmot !</p>
           <p>Alors, elle bavarda beaucoup. Ce serait un garçon, bien sûr ! On l'appellerait Frédéric. Il fallait commencer son trousseau ; - et, en la voyant si heureuse, une pitié le prit. Comme il ne ressentait, maintenant, aucune colère, il voulut savoir la raison de sa démarche, tout à l'heure.</p>
@@ -4276,7 +4309,7 @@
           <p>« Eh non ! J'en ai d'autres ! »</p>
           <p>« Ah ! très bien », reprit l'avocat, en riant. » Où dînes-tu donc ? »</p>
           <p>« Chez Mme Dambreuse. »</p>
-          <p>« Est-ce que… par hasard… ce serait…  ? »</p>
+          <p>« Est-ce que… par hasard… ce serait… ? »</p>
           <p>« Tu es trop curieux », dit Frédéric avec un sourire, qui confirmait cette supposition.</p>
           <p>Puis, ayant regardé la pendule, il se rassit.</p>
           <p>« C'est comme ça ! et il ne faut pas désespérer, vieux défenseur du peuple ! »</p>
@@ -4307,6 +4340,7 @@
           <p>Ses jolis yeux humides pétillaient d'une passion tellement puissante, que Frédéric l'attira sur ses genoux et il se dit : » Quelle canaille je fais » en s'applaudissant de sa perversité.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 4</head>
           <p>M. Dambreuse. quand Deslauriers se présenta chez lui, songeait à raviver sa grande affaire de houilles. Mais cette fusion de toutes les compagnies en une seule était mal vue ; on criait au monopole, comme s'il ne fallait pas, pour de telles exploitations, d'immenses capitaux !</p>
           <p>Deslauriers, qui venait de lire exprès l'ouvrage de Gobet et les articles de M. Chappe dans le Journal des Mines, connaissait la question parfaitement. Il démontra que la loi de 1810 établissait au profit du concessionnaire un droit impermutable. D'ailleurs, on pouvait donner à l'entreprise une couleur démocratique : empêcher les réunions houillères était un attentat contre le principe même d'association.</p>
@@ -4675,6 +4709,7 @@
           <p>Il ne répondit pas, et disparut.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 5</head>
           <p>Il fallait douze mille francs, ou bien il ne reverrait plus Mme Arnoux ; et, jusqu'à présent, un espoir invincible lui était resté. Est-ce qu'elle ne faisait pas comme la substance de son cœur, le fond même de sa vie ? Il fut pendant quelques minutes à chanceler sur le trottoir, se rongeant d'angoisses, heureux néanmoins de n'être plus chez l'autre.</p>
           <p>Où avoir de l'argent ? Frédéric savait par lui-même combien il est difficile d'en obtenir tout de suite, à n'importe quel prix. Une seule personne pouvait l'aider, Mme Dambreuse. Elle gardait toujours dans son secrétaire plusieurs billets de banque. Il alla chez elle ; et, d'un ton hardi :</p>
@@ -4881,6 +4916,7 @@
           <p>Un hurlement d'horreur s'éleva de la foule. L'agent fit un cercle autour de lui avec son regard ; et Frédéric, béant, reconnut Sénécal.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 6</head>
           <p>Il voyagea.</p>
           <p>Il connut la mélancolie des paquebots, les froids réveils sous la tente, l'étourdissement des paysages et des ruines, l'amertume des sympathies interrompues.</p>
@@ -4960,6 +4996,7 @@
           <p>Et ce fut tout.</p>
         </div>
         <div type="chapter">
+
           <head>Chapitre 7</head>
           <p>Vers le commencement de cet hiver, Frédéric et Deslauriers causaient au coin du feu, réconciliés encore une fois, par la fatalité de leur nature qui les faisait toujours se rejoindre et s'aimer.</p>
           <p>L'un expliqua sommairement sa brouille avec Mme Dambreuse, laquelle s'était remariée à un Anglais.</p>

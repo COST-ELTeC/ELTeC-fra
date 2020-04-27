@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01303" xml:lang="fr">
   <teiHeader>
@@ -18,50 +18,62 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">105395</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-04"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2019-11-04" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <!--
           Published as part of ELTeC
           2018-11-01
-        --></publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
-          Wikisource
-          <date/>
-          ,
-          <idno/>
-          ,
-          <ref target="http://www.fr.wikisource.org"/>
-          via Feedbooks.
-        </bibl><bibl type="printSource">
+        -->
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <publisher>Wikisource</publisher>
+          <ref target="http://www.fr.wikisource.org" />
+          <!-- via Feedbooks. -->
+        </bibl>
+        <bibl type="printSource">
           <date>source</date>
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="firstEdition">
           <date>1862</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
         <!-- worldcat.py error, not clear why -->
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-11-04">Checked by releaseChecker script</change>
+    <revisionDesc>
+      <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2014-03-22">cf Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <front>
-      <div type="liminal"/>
+      <div type="liminal" />
     </front>
+
     <body>
       <div type="chapter">
+
         <head>Chapitre 1 - Le Festin</head>
         <p>C'était à Mégara, faubourg de Carthage, dans les jardins d'Hamilcar.</p>
         <p>Les soldats qu'il avait commandés en Sicile se donnaient un grand festin pour célébrer le jour anniversaire de la bataille d'Eryx, et comme le maître était absent et qu'ils se trouvaient nombreux, ils mangeaient et ils buvaient en pleine liberté.</p>
@@ -168,6 +180,7 @@
         <p>Un grand voile, par-derrière, flottait au vent.</p>
       </div>
       <div type="chapter">
+
         <head>Chapitre 2 - À Sicca</head>
         <p>Deux jours après, les Mercenaires sortirent de Carthage.</p>
         <p>On leur avait donné à chacun une pièce d'or, sous la condition qu'ils iraient camper à Sicca, et on leur avait dit avec toutes sortes de caresses :</p>
@@ -306,6 +319,7 @@
         <p>Mâtho bondit sur le cheval que l'esclave tenait à la Porte.</p>
       </div>
       <div type="chapter">
+
         <head>Chapitre 3 - Salammbô</head>
         <p>La lune se levait au ras des flots, et, sur la ville encore couverte de ténèbres, des points lumineux, des blancheurs brillaient : le timon d'un char dans une cour, quelque haillon de toile suspendu, l'angle d'un mur, un collier d'or à la poitrine d'un dieu. Les boules de verre sur les toits des temples rayonnaient, çà et là comme de gros diamants. Mais de vagues ruines, des tas de terre noire, des jardins faisaient des masses plus sombres dans l'obscurité, et, au bas de Malqua, des filets de pêcheurs s'étendaient d'une maison à l'autre, comme de gigantesques chauves-souris déployant leurs ailes. On n'entendait plus le grincement des roues hydrauliques qui apportaient l'eau au dernier étage des palais ; : et au milieu des terrasses, les chameaux reposaient tranquillement, couchés sur le ventre, à la manière des autruches. Les portiers dormaient dans les rues contre le seuil des maisons ; l'ombre des colosses s'allongeait sur les places désertes ; au loin quelquefois la fumée d'un sacrifice brûlant encore s'échappait par les tuiles de bronze, et la brise lourde apportait avec des parfums d'aromates les senteurs de la marine et l'exhalaison des murailles chauffées par le soleil. Autour de Carthage les ondes immobiles resplendissaient, car la lune étalait sa lueur tout à la fois sur le golfe environné de montagnes et sur le lac de Tunis, où des phénicoptères parmi les bancs de sable formaient de longues lignes roses, tandis qu'au-delà, sous les catacombes, la grande lagune salée miroitait comme un morceau d'argent. La voûte du ciel bleu s'enfonçait à l'horizon, d'un côté dans le poudroiement des plaines, de l'autre dans les brumes de la mer, et sur le sommet de l'Acropole les cyprès pyramidaux bordant le temple d'Eschmoûn se balançaient, et faisaient un murmure, comme les flots réguliers qui battaient lentement le long du môle, au bas des remparts.</p>
         <p>Salammbô monta sur la terrasse de son palais, soutenue par une esclave qui portait dans un plat de fer des charbons enflammés.</p>
@@ -369,6 +383,7 @@
         <p>Tout à coup il aperçut à l'horizon derrière Tunis, comme des brouillards légers, qui se traînaient contre le sol ; puis ce fut un grand rideau de poudre grise perpendiculairement étalé, et, dans les tourbillons de cette masse nombreuse, des têtes de dromadaires, des lances, des boucliers parurent. C'était l'armée des Barbares qui s'avançait sur Carthage.</p>
       </div>
       <div type="chapter">
+
         <head>Chapitre 4 - Sous les murs de Carthage</head>
         <p>Des gens de la campagne, montés sur des ânes ou courant à pied, pâles, essoufflés, fous de peur, arrivèrent dans la ville. Ils fuyaient devant l'armée. En trois jours, elle avait fait le chemin de Sicca, pour venir à Carthage et tout exterminer.</p>
         <p>On ferma les portes. Les Barbares, presque aussitôt, parurent ; mais ils s'arrêtèrent au milieu de l'isthme, sur le bord du lac.</p>
@@ -488,6 +503,7 @@
         <p>Ils rampaient le long des clôtures de nopals qui bordaient les sentiers. L'eau coulait de leurs membres sur la poussière. Leurs sandales humides ne faisaient aucun bruit ; Spendius, avec ses yeux plus flamboyants que des torches, à chaque pas fouillait les buissons ; - et il marchait derrière Mâtho, les mains posées sur les deux poignards qu'il portait aux bras, tenus au-dessous de l'aisselle par un cercle de cuir.</p>
       </div>
       <div type="chapter">
+
         <head>Chapitre 5 - Tanit</head>
         <p>Quand ils furent sortis des jardins, ils se trouvèrent arrêtés par l'enceinte de Mégara. Mais ils découvrirent une brèche dans la grosse muraille, et passèrent.</p>
         <p>Le terrain descendait, formant une sorte de vallon très large. C'était une place découverte.</p>
@@ -613,6 +629,7 @@
         <p>Quand il fut dehors, il retira de son cou le grand zaïmph et l'éleva sur sa tête le plus haut possible. L'étoffe, soutenue par le vent de la mer, resplendissait au soleil avec ses couleurs, ses pierreries et la figure de ses dieux. Mâtho, le portant ainsi, traversa toute la plaine jusqu'aux tentes des soldats, et le peuple, sur les murs, regardait s'en aller la fortune de Carthage.</p>
       </div>
       <div type="chapter">
+
         <head>Chapitre 6 - Hannon</head>
         <p>– « J'aurais dû l'enlever ! » disait-il le soir à Spendius.</p>
         <p>« Il fallait la saisir, l'arracher de sa maison ! Personne n'eût osé rien contre moi ! »</p>
@@ -728,6 +745,7 @@
         <p>La vue du zaïmph avait bouleversé Salammbô. Elle croyait la nuit entendre les pas de la Déesse, et elle se réveillait épouvantée en jetant des cris. Elle envoyait tous les jours porter de la nourriture dans les temples. Taanach se fatiguait à exécuter ses ordres, et Schahabarim ne la quittait plus.</p>
       </div>
       <div type="chapter">
+
         <head>Chapitre 7 - Hamilcar Barca</head>
         <p>L'Annonciateur-des-Lunes qui veillait toutes les nuits au haut du temple d'Eschmoûn, pour signaler avec sa trompette les agitations de l'astre, aperçut un matin, du côté de l'Occident, quelque chose de semblable à un oiseau frôlant de ses longues ailes la surface de la mer.</p>
         <p>C'était un navire à trois rangs de rames ; il y avait à la proue un cheval sculpté. Le soleil se levait ; l'Annonciateur-des-Lunes mit sa main devant les yeux ; puis saisissant à plein bras son clairon, il poussa sur Carthage un grand cri d'airain.</p>
@@ -1018,6 +1036,7 @@
         <p>– « Lumières des Baalim, j'accepte le commandement des forces puniques contre l'armée des Barbares ! »</p>
       </div>
       <div type="chapter">
+
         <head>Chapitre 8 - La bataille du Macar</head>
         <p>Dès le lendemain, il tira des Syssites deux cent vingt-trois mille kikar d'or, il décréta un impôt de quatorze shekel sur les Riches. Les femmes mêmes contribuèrent ; on payait pour les enfants, et, chose monstrueuse dans les habitudes carthaginoises, il força les collèges des prêtres à fournir de l'argent.</p>
         <p>Il réclama tous les chevaux, tous les mulets, toutes les armes. Quelques-uns voulurent dissimuler leurs richesses, on vendit leurs biens ; et, pour intimider l'avarice des autres, il donna soixante armures et quinze cents gommor de farine, autant à lui seul que la Compagnie-de-l'ivoire.</p>
@@ -1131,7 +1150,8 @@
         <p>Mais les éclaireurs, quand ils furent revenus, annoncèrent que les morts des Carthaginois étaient enlevés, le pont tout en ruine et Hamilcar disparu.</p>
       </div>
       <div type="chapter">
-        <head>Chapitre  9 - En campagne</head>
+
+        <head>Chapitre 9 - En campagne</head>
         <p>Il avait pensé que les Mercenaires l'attendraient à Utique ou qu'ils reviendraient contre lui ; et, ne trouvant pas ses forces suffisantes pour donner l'attaque ou pour la recevoir, il s'était enfoncé dans le sud, par la rive droite du fleuve, ce qui le mettait immédiatement à couvert d'une surprise.</p>
         <p>Il voulait, fermant d'abord les yeux sur leur révolte, détacher toutes les tribus de la cause des Barbares ; puis, quand ils seraient bien isolés au milieu des provinces, il tomberait sur eux et les exterminerait.</p>
         <p>En quatorze jours, il pacifia la région comprise entre Thouccaber et Utique, avec les villes de Tignicabah, Tessourah, Vacca et d'autres encore à l'occident ; Zounghar bâtie dans les montagnes ; Assouras célèbre par son temple, Djeraado fertile en genévriers ; Thapitis et Hagour lui envoyèrent des ambassades. Les gens de la campagne arrivaient les mains pleines de vivres, imploraient sa protection, baisaient ses pieds, ceux des soldats, et se plaignaient des Barbares. Quelques-uns venaient lui offrir, dans des sacs, des têtes de Mercenaires, tués par eux, disaient-ils, mais qu'ils avaient coupées à des cadavres ; car beaucoup s'étaient perdus en fuyant, et on les trouvait morts de place en place, sous les oliviers et dans les vignes.</p>
@@ -1196,6 +1216,7 @@
         <p>Tous les malheurs venaient donc de la perte du zaïmph. Salammbô y avait indirectement participé ; on la comprenait dans la même rancune ; elle devait être punie. La vague idée d'une immolation bientôt circula dans le peuple. Pour apaiser les Baalim, il fallait sans doute leur offrir quelque chose d'une incalculable valeur, un être beau, jeune, vierge, d'antique maison, issu des Dieux, un astre humain. Tous les jours des hommes que l'on ne connaissait pas envahissaient les jardins de Mégara ; les esclaves, tremblant pour eux-mêmes, n'osaient leur résister. Cependant, ils ne dépassaient point l'escalier des galères. Ils restaient en bas, les yeux levés sur la dernière terrasse ; ils attendaient Salammbô, et, durant des heures, ils criaient contre elle, comme des chiens qui hurlent après la lune.</p>
       </div>
       <div type="chapter">
+
         <head>Chapitre 10 - Le Serpent</head>
         <p>Ces clameurs de la populace n'épouvantaient pas la fille d'Hamilcar.</p>
         <p>Elle était troublée par des inquiétudes plus hautes : son grand serpent, le Python noir, languissait ; et le serpent était pour les Carthaginois un fétiche à la fois national et particulier. On le croyait fils du limon de la terre, puisqu'il émerge de ses profondeurs et n'a pas besoin de pieds pour la parcourir ; sa démarche rappelait les ondulations des fleuves, sa température les antiques ténèbres visqueuses pleines de fécondité, et l'orbe qu'il décrit en se mordant la queue l'ensemble des planètes, l'intelligence d'Eschmoûn.</p>
@@ -1220,7 +1241,7 @@
         <p>Loin d'abattre ses désirs mystiques, au contraire il les sollicitait, et même il semblait prendre de la joie à la désoler par les révélations d'une doctrine impitoyable. Salammbô, malgré les douleurs de son amour, se jetait dessus avec emportement.</p>
         <p>Mais plus Schahabarim se sentait douter de Tanit, plus il voulait y croire. Au fond de son âme un remords l'arrêtait. Il lui aurait fallu quelque preuve, une manifestation des Dieux, et, dans l'espoir de l'obtenir, le prêtre imagina une entreprise qui pouvait à la fois sauver sa patrie et sa croyance.</p>
         <p>Dès lors il se mit, devant Salammbô, à déplorer le sacrilège et les malheurs qui en résultaient jusque dans les régions du ciel. Puis, tout à coup, il lui annonça le péril du Suffète, assailli par trois armées que commandait Mâtho ; car Mâtho, pour les Carthaginois, était, à cause du voile, comme le roi des Barbares ; et il ajouta que le salut de la République et de son père dépendait d'elle seule.</p>
-        <p>– « De moi ! » s'écria-t-elle, « comment puis-je …  ? »</p>
+        <p>– « De moi ! » s'écria-t-elle, « comment puis-je … ? »</p>
         <p>Mais le prêtre, avec un sourire de dédain :</p>
         <p>– « Jamais tu ne consentiras ! »</p>
         <p>Elle le suppliait. Enfin Schahabarim lui dit :</p>
@@ -1297,6 +1318,7 @@
         <p>L'idée lui vint que l'on pouvait les entendre ; alors elle se tut. Elle sanglotait tout bas, la tête dans ses mains et la figure sur les dalles.</p>
       </div>
       <div type="chapter">
+
         <head>Chapitre 11 - Sous la tente</head>
         <p>L'homme qui conduisait Salammbô la fit remonter au-delà du phare, vers les Catacombes, puis descendre le long faubourg Molouya, plein de ruelles escarpées. Le ciel commençait à blanchir. Quelquefois, des poutres de palmier, sortant des murs, les obligeaient à baisser la tête. Les deux chevaux, marchant au pas, glissaient ; et ils arrivèrent ainsi à la porte de Teveste.</p>
         <p>Ses lourds battants étaient entrebâillés ; ils passèrent ; elle se referma derrière eux.</p>
@@ -1455,6 +1477,7 @@
         <p>Hamilcar voulut immédiatement les unir par des fiançailles indissolubles. On mit entre les mains de Salammbô une lance qu'elle offrit à Narr'Havas : on attacha leurs pouces l'un contre l'autre avec une lanière de bœuf, puis on leur versa du blé sur la tête, et les grains qui tombaient autour d'eux sonnèrent comme de la grêle en rebondissant.</p>
       </div>
       <div type="chapter">
+
         <head>Chapitre 12 - L'Acqueduc</head>
         <p>Douze heures après, il ne restait plus des Mercenaires qu'un tas de blessés, de morts et d'agonisants.</p>
         <p>Hamilcar, sorti brusquement du fond de la gorge, était redescendu sur la pente occidentale qui regarde Hippo-Zaryte, et, l'espace étant plus large en cet endroit, il avait eu soin d'y attirer les Barbares. Narr'Havas les avait enveloppés avec ses chevaux ; le Suffète, pendant ce temps-là, les refoulait, les écrasait ; puis ils étaient vaincus d'avance par la perte du zaïmph ; ceux mêmes qui ne s'en souciaient avaient senti une angoisse et comme un affaiblissement. Hamilcar, ne mettant pas son orgueil à garder pour lui le champ de bataille, s'était retiré un peu plus loin, à gauche sur des hauteurs d'où il les dominait.</p>
@@ -1572,6 +1595,7 @@
         <p>Puis il se redressa. Il parcourut l'horizon d'un air superbe qui semblait dire : « Tout cela maintenant est à moi ! » Les applaudissements des Barbares éclatèrent ; les Carthaginois, comprenant enfin leur désastre, hurlaient de désespoir. Alors, il se mit à courir sur la plate-forme, d'un bout à l'autre, - et, comme un conducteur de char triomphant aux jeux Olympiques, Spendius, éperdu d'orgueil, levait les bras.</p>
       </div>
       <div type="chapter">
+
         <head>Chapitre 13 - Moloch</head>
         <p>Les Barbares n'avaient pas besoin d'une circonvallation du côté de l'Afrique : elle leur appartenait. Mais, pour rendre plus facile l'approche des murailles, on abattit le retranchement qui bordait le fossé. Ensuite, Mâtho divisa l'armée par grands demi-cercles, de façon à envelopper mieux Carthage. Les hoplites des Mercenaires furent placés au premier rang ; derrière eux, les frondeurs et les cavaliers ; tout au fond, les bagages, les chariots, les chevaux ; en deçà de cette multitude, à trois cents pas des tours, se hérissaient les machines.</p>
         <p>Sous la variété infinie de leurs appellations (qui changèrent plusieurs fois dans le cours des siècles), elles pouvaient se réduire à deux systèmes : les unes agissant comme des frondes et les autres comme des arcs.</p>
@@ -1772,6 +1796,7 @@
         <p>Ce grand bruit et cette grande lumière avaient attiré les Barbares au pied des murs ; se cramponnant pour mieux voir sur les débris de l'hélépole, ils regardaient, béants d'horreur.</p>
       </div>
       <div type="chapter">
+
         <head>Chapitre 14 - Le Défilé de la Hache</head>
         <p>Les Carthaginois n'étaient pas rentrés dans leurs maisons que les nuages s'amoncelèrent plus épais ; ceux qui levaient la tête vers le colosse sentirent sur leur front de grosses gouttes, et la pluie tomba.</p>
         <p>Elle tomba toute la nuit, abondamment, à flots ; le tonnerre grondait ; c'était la voix de Moloch ; il avait vaincu Tanit ; et, maintenant fécondée, elle ouvrait du haut du ciel son vaste sein. Parfois on l'apercevait dans une éclaircie lumineuse étendue sur des coussins de nuages ; puis les ténèbres se refermaient comme si, trop lasse encore, elle voulait se rendormir ; les Carthaginois, - croyant tous que l'eau est enfantée par la lune, - criaient pour faciliter son travail.</p>
@@ -2021,6 +2046,7 @@
         <p>Le Carthaginois, qui regardait penché au haut du précipice, s'en retourna.</p>
       </div>
       <div type="chapter">
+
         <head>Chapitre 14 - Matho</head>
         <p>Carthage était en joie, - une joie profonde, universelle, démesurée, frénétique ; on avait bouché les trous des ruines, repeint les statues des Dieux, des branches de myrte parsemaient les rues, au coin des carrefours, l'encens fumait, et la multitude sur les terrasses faisait avec ses vêtements bigarrés comme des tas de fleurs qui s'épanouissaient dans l'air.</p>
         <p>Le continuel glapissement des voix était dominé par le cri des porteurs d'eau arrosant les dalles ; des esclaves d'Hamilcar offraient, en son nom, de l'orge grillée et des morceaux de viande crue ; on s'abordait ; on s'embrassait en pleurant ; les villes tyriennes étaient prises, les Nomades dispersés, tous les Barbares anéantis. L'Acropole disparaissait sous des velariums de couleur ; les éperons des trirèmes, alignés en dehors du môle, resplendissaient comme une digue de diamants ; partout on sentait l'ordre rétabli, une existence nouvelle qui recommençait, un vaste bonheur épandu : c'était le jour du mariage de Salammbô avec le roi des Numides.</p>

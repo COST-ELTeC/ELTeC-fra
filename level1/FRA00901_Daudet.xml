@@ -33,15 +33,14 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <date>2004</date> ,
-          <idno /> ,
-          <ref target="http://www.ebooksgratuits.com/" /> .
+          <publisher>Ebooks libres et gratuits</publisher>
+          <ref target="http://www.ebooksgratuits.com/" />
+          <date>2004</date>
         </bibl>
         <bibl type="printSource">
-          <date>source</date>
         </bibl>
         <bibl type="firstEdition">
-          <date>1867</date> (1866-1867)
+          <date>1867</date> <!--(1866-1867)-->
         </bibl>
       </sourceDesc>
     </fileDesc>
