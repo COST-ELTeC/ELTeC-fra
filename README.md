@@ -25,4 +25,4 @@ All texts included in this collection are in the public domain. The textual mark
 
 If you use this corpus in your research, please use the following citation suggestion:
 
-* Corpus: Schöch, Christof; Geißel, Pia; Burnard, Lou, eds.: ELTec-fra, version v0.8.0, in: *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History, Nov. 2019. DOI: https://doi.org/10.5281/zenodo.3462536
+* *French Novel Collection (ELTeC-fra)*, edited by Christof Schöch, Pia Geißel and Lou Burnard. Version v0.8.0, Nov. 2019. In: *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: https://doi.org/10.5281/zenodo.3462536
