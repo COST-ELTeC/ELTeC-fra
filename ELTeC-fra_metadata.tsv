@@ -1,101 +1,101 @@
-filename	xmlid	au-name	title	au-birth	au-death	au-ids	digitalSource	firsted-yr	title-ids	language	numwords	au-gender	sizeCat	reprintCount	time-slot
-FRA03704_Sand	FRA03703	Sand, George [Amantine Lucile Aurore Dupin]	Horace	1804	1876	viaf:46766944	Computational Literary Genre Stylistics (CLiGS)	1840	NA	fr	133214	F	long	unspecified	T1
-FRA00503_Balzac	FRA00503	Balzac, Honoré de	Le curé de village	1799	1850	viaf:29529595	Éfélé	1841	viaf:177407570	fr	93205	M	medium	high	T1
-FRA00501_Balzac	FRA00501	Balzac, Honoré de	Albert Savarus	1799	1850	viaf:29529595	Éfélé	1842	viaf:174178728	fr	42274	M	short	high	T1
-FRA00801_Dash	FRA00801	Comtesse Dash [Gabrielle Anna de Cisternes de Courtiras, vicomtesse de Saint-Mars]	Le château de Pinon I	1804	1872	viaf:102278	Gallica (BnF)	1843	NA	fr	45263	F	short	low	T1
-FRA03801_Stern	FRA03801	Stern, Daniel [Marie d'Agoult]	Hervé	1805	1876	viaf:186930001	Project Gutenberg	1843	NA	fr	16339	F	short	low	T1
-FRA01801_Gay	FRA01801	Gay, Marie Françoise Sophie	Ellenore	1776	1852	viaf:27059297	Project Gutenberg	1844	viaf:unavailable	fr	188983	F	long	low	T1
-FRA01203_Feval	FRA01203	Féval, Paul Henri Corentin [dit Paul Féval père]	le Loup blanc	1816	1887	viaf:17222447	Ebooks libres et gratuits	1845	viaf:312363135	fr	80201	M	medium	high	T1
-FRA06201_Viel-Castel	FRA06201	Viel-Castel, Horace de	Archambaud de Comborn : edition ELTeC	1802	1864	viaf:69051610	Gallica (BnF)	1845	NA	fr	50642	M	medium	unspecified	T1
-FRA04901_Dumas	FRA04901	Dumas, Alexandre [pere]	Reine Margot : edition ELTeC	1802	1870	viaf:51688902	Atramenta	1845	NA	fr	217375	M	long	unspecified	T1
-FRA03802_Stern	FRA03802	Stern, Daniel [Marie d'Agoult]	Nélida	1805	1876	viaf:186930001	Project Gutenberg	1846	NA	fr	70592	F	medium	low	T1
-FRA00502_Balzac	FRA00502	Balzac, Honoré de	Le cousin Pons	1799	1850	viaf:29529595	Éfélé	1847	viaf:174988989	fr	111052	M	long	high	T1
-FRA04301_Achard	FRA04301	Achard, Amédée	Belle-Rose : edition ELTeC	1814	1875	viaf:22137477	Bibebook	1847	NA	fr	179332	M	long	unspecified	T1
-FRA01701_GautierT	FRA01701	Gautier, Théophile	Militona	1800	1872	viaf:96428598	Wikisource	1847	NA	fr	40222	M	short	high	T1
-FRA06101_Sandeau	FRA06101	Sandeau, Jules	Mademoiselle de la Seigliere, Volume 1-2 : edition ELTeC	1811	1883	viaf:56616138	Project Gutenberg	1848	NA	fr	62501	M	medium	unspecified	T1
-FRA05401_Kock	FRA05401	Kock, Paul de	Madeleine : edition ELTeC	1793	1871	viaf:100183137	Project Gutenberg	1850	NA	fr	99323	M	medium	unspecified	T1
-FRA00701_Carraud	FRA00701	Carraud, Zulma	La petite Jeanne	1796	1889	viaf:66529196	Project Gutenberg	1852	NA	fr	53860	F	medium	high	T1
-FRA03101_Ponson	FRA03101	Ponson du Terrail, Pierre Alexis	La baronne trépassée	1829	1871	viaf:17228199	Computational Literary Genre Stylistics (CLiGS)	1852	viaf:missing	fr	68667	M	medium	high	T1
-FRA02101_Girardin	FRA02101	Girardin, Delphine de [Delphine Gay]	Marguerite, ou Deux amours	1804	1855	viaf:24601979	Bibliothèque numérique romande (BNR)	1852	NA	fr	69231	F	medium	high	T1
-FRA03401_Reybaud	FRA03401	Reybaud, Fanny [Hippolyte Arnaud]	Mademoiselle de Malepeire	1802	1871	viaf:36959845	Bibliothèque numérique romande (BNR)	1855	NA	fr	38804	F	short	high	T1
-FRA01702_GautierT	FRA01702	Gautier, Théophile	Le roman de la momie	1800	1872	viaf:96428598	Wikisource	1857	NA	fr	59638	M	medium	high	T1
-FRA05201_Feuillet	FRA05201	Feuillet, Octave	La petite comtesse : edition ELTeC	1821	1890	viaf:68928998	Bibebook	1857	NA	fr	31143	M	short	unspecified	T1
-FRA01202_Feval	FRA01202	Féval, Paul Henri Corentin [dit Paul Féval père]	Les Errants de nuit	1816	1887	viaf:17222447	Ebooks libres et gratuits	1857	viaf:unavailable	fr	103086	M	long	low	T1
-FRA01302_Flaubert	FRA01302	Flaubert, Gustave	Madame Bovary	1821	1880	viaf:9846192	Ebooks libres et gratuits	1857	viaf:186570439	fr	120122	M	long	high	T1
-FRA05702_Maquet	FRA05702	Maquet, Auguste	La Maison du baigneur	1812	1888	viaf:62618234;wikidata:Q766768	Gallica (BnF)	1857	NA	fr	177350	M	long	low	T1
-FRA00301_Aimard	FRA00301	Aimard, Gustave	Les Trappeurs de l'Arkansas	1818	1883	viaf:9841962	Bibliothèque électronique du Québec (BEQ)	1858	viaf:309322317	fr	90276	M	medium	low	T1
-FRA01303_Flaubert	FRA01303	Flaubert, Gustave	Salammbô	1821	1880	viaf:9846192	Wikisource	1862	viaf:316310961	fr	105395	M	long	high	T2
-FRA04102_Erckmann	FRA04102	Erckmann, Émile	Madame Thérèse, ou les volontaires de 92	1822	1899	viaf:31995972	Bibliothèque électronique du Québec (BEQ)	1863	viaf:209896303	fr	61525	M	medium	high	T2
-FRA03302_Rattazzi	FRA03302	Rattazzi, Marie [Marie-Lætitia Bonaparte-Wyse]	Le piège aux maris	1831	1902	viaf:30341384	Bibliothèque numérique romande (BNR)	1865	viaf:missing	fr	56080	F	medium	low	T2
-FRA03301_Rattazzi	FRA03301	Rattazzi, Marie [Marie-Lætitia Bonaparte-Wyse]	La Mexicaine	1831	1902	viaf:30341384	Bibliothèque numérique romande (BNR)	1866	NA	fr	58791	F	medium	low	T2
-FRA03102_Ponson	FRA03102	Ponson du Terrail, Pierre Alexis	La résurrection de Rocambole	1829	1871	viaf:17228199	Ebooks libres et gratuits	1866	viaf:294264533	fr	173741	M	long	low	T2
-FRA03702_Sand	FRA03702	Sand, George [Amantine Lucile Aurore Dupin]	Le dernier amour	1804	1876	viaf:46766944	Bibliothèque électronique du Québec (BEQ)	1866	viaf:310216093	fr	88169	F	medium	high	T2
-FRA02202_Gouraud	FRA02202	Gouraud, Julie [Louise d'Aulnay]	Le petit colporteur	1810	1891	viaf:31987653	Bibliothèque électronique du Québec (BEQ)	1867	viaf:314022921	fr	43357	M	short	low	T2
-FRA00901_Daudet	FRA00901	Daudet, Alphonse	Le petit chose	1840	1897	viaf:4928621	Ebooks libres et gratuits	1867	viaf:184784857	fr	87744	M	medium	high	T2
-FRA00101_Adam	FRA00101	Adam, Juliette	Mon Village	1836	1936	viaf:64000638	Wikisource	1868	NA	fr	21636	F	short	low	T2
-FRA01201_Feval	FRA01201	Féval, Paul Henri Corentin [dit Paul Féval père]	Le Cavalier Fortune	1816	1887	viaf:17222447	Ebooks libres et gratuits	1868	viaf:unavailable	fr	136999	M	long	low	T2
-FRA01902_Gaboriau	FRA01902	Gaboriau, Émile	Monsieur Lecoq	1832	1873	viaf:100177491	Ebooks libres et gratuits	1869	viaf:310914713	fr	269763	M	long	high	T2
-FRA01301_Flaubert	FRA01301	Flaubert, Gustave	L'Éducation sentimentale	1821	1880	viaf:9846192	(unspecified)	1869	viaf:180462896	fr	149810	M	long	high	T2
-FRA02601_Malot	FRA02601	Malot, Hector	Romain Kalbris	1830	1907	viaf:49228546	Bibliothèque électronique du Québec (BEQ)	1869	viaf:312349317	fr	70236	M	medium	high	T2
-FRA03901_Stolz	FRA03901	Stolz, Madame de [Fanny de Bégon]	La Maison roulante	1820	1898	viaf:19850120 wikidata:Q3275360	Bibliothèque électronique du Québec (BEQ)	1869	viaf:309282062	fr	52092	F	medium	low	T2
-FRA03701_Sand	FRA03701	Sand, George [Amantine Lucile Aurore Dupin]	Nanon	1804	1876	viaf:46766944	Bibliothèque électronique du Québec (BEQ)	1872	viaf:204615801	fr	101919	F	long	high	T2
-FRA00302_Aimard	FRA00302	Aimard, Gustave	Belle rivière	1818	1883	viaf:9841962	Bibliothèque électronique du Québec (BEQ)	1874	viaf:309355943	fr	139314	M	long	low	T2
-FRA01402_Fleuriot	FRA01402	Fleuriot, Zénaïde	En congé	1829	1890	viaf:41872490	Bibliothèque électronique du Québec (BEQ)	1874	oclc:561075297 viaf:unavailable	fr	38021	F	short	low	T2
-FRA02203_Gouraud	FRA02203	Gouraud, Julie [Louise d'Aulnay]	Les Filles du professeur	1810	1891	viaf:31987653	Bibliothèque électronique du Québec (BEQ)	1876	viaf:unavailable	fr	45477	M	short	low	T2
-FRA06401_Chandeneux	FRA06301	Chandeneux, Claire de [Bérenger, Louise Lucienne Emma]	Les Ménages militaires : edition ELTeC	1836	1881	viaf:54272906;wikidata:Q2975144	Gallica (BnF)	1876	NA	fr	157157	F	long	unspecified	T2
-FRA01401_Fleuriot	FRA01401	Fleuriot, Zénaïde	Un enfant gâté	1829	1890	viaf:41872490	Bibliothèque électronique du Québec (BEQ)	1877	viaf:309349545	fr	35076	F	short	low	T2
-FRA02302_Greville	FRA02302	Gréville, Henry [Alice Marie Céleste Fleury, dite Durand]	L'amie	1842	1902	viaf:49258322	Bibliothèque électronique du Québec (BEQ)	1878	NA	fr	56987	F	medium	low	T2
-FRA02602_Malot	FRA02602	Malot, Hector	Sans famille	1830	1907	viaf:49228546	Bibliothèque électronique du Québec (BEQ)	1878	viaf:186540937	fr	123735	M	long	high	T2
-FRA04001_Verne	FRA04001	Verne, Jules	Un capitaine de quinze ans	1828	1905	viaf:76323989	Bibliothèque électronique du Québec (BEQ)	1878	viaf:183081330	fr	125179	M	long	high	T2
-FRA03903_Stolz	FRA03903	Stolz, Madame de [Fanny de Bégon]	Le Secret de Laurent	1820	1898	viaf:19850120 wikidata:Q3275360	Bibliothèque électronique du Québec (BEQ)	1878	viaf:unavailable	fr	49150	F	short	low	T2
-FRA02303_Greville	FRA02303	Gréville, Henry [Alice Marie Céleste Fleury, dite Durand]	Ariadne	1842	1902	viaf:49258322	Bibliothèque électronique du Québec (BEQ)	1878	NA	fr	52698	F	short	low	T2
-FRA00601_Boisgobey	FRA00601	Boisgobey, Fortuné du	Le crime de l'omnibus	1821	1891	viaf:19720225	Ebooks libres et gratuits	1881	viaf:308091446	fr	93658	M	medium	low	T3
-FRA01403_Fleuriot	FRA01403	Fleuriot, Zénaïde	Alberte	1829	1890	viaf:41872490	Bibliothèque électronique du Québec (BEQ)	1881	viaf:unavailable worldcat:944664084	fr	64213	F	medium	low	T3
-FRA00903_Daudet	FRA00903	Daudet, Alphonse	Numa Roumestan : Mœurs Parisiennes	1840	1897	viaf:4928621	Ebooks libres et gratuits	1881	viaf:287900644	fr	85708	M	medium	low	T3
-FRA00102_Adam	FRA00102	Adam, Juliette	Païenne	1836	1936	viaf:64000638	Wikisource	1883	NA	fr	29593	F	short	low	T3
-FRA02802_Mirbeau	FRA02802	Mirbeau, Octave	La Maréchale	1848	1917	viaf:100204602	Bibliothèque électronique du Québec (BEQ)	1883	viaf:unvailable	fr	60951	M	medium	high	T3
-FRA02501_Loti	FRA02501	Loti, Pierre	Mon frère Yves	1850	1923	viaf:89440078	Bibliothèque électronique du Québec (BEQ)	1883	viaf:294701732	fr	73698	M	medium	high	T3
-FRA02702_Maupassant	FRA02702	Maupassant, Guy de	Une Vie	1850	1893	viaf:29537765	Ebooks libres et gratuits	1883	viaf:204219240	fr	77338	M	medium	high	T3
-FRA06301_Montepin	FRA06301	de Montépin, Xavier	La porteuse de pain : edition ELTeC	1839	1915	viaf:87953024;wikidata:Q2735316	Ebooks libres et gratuits	1884	NA	fr	145892	M	long	unspecified	T3
-FRA03001_Ohnet	FRA03001	Ohnet, Georges	La Grande Marnière	1848	1918	viaf:66497284	Project Gutenberg	1885	viaf:309268283	fr	115270	M	long	low	T3
-FRA02701_Maupassant	FRA02701	Maupassant, Guy de	Bel-Ami	1850	1893	viaf:29537765	Ebooks libres et gratuits	1885	viaf:174771837	fr	111187	M	long	high	T3
-FRA00602_Boisgobey	FRA00602	Boisgobey, Fortuné du	Rubis sur l'ongle	1821	1891	viaf:19720225	(unspecified)	1886	viaf:315021495	fr	104131	M	long	low	T3
-FRA03201_Blandy	FRA03201	Blandy, Stella	Rouzétou	1836	1925	viaf:39410255	Gallica (BnF)	1887	NA	fr	84121	F	medium	low	T3
-FRA01601_GautierJ	FRA01601	Gautier, Judith	La Sœur du Soleil	1845	1917	viaf:54148064	Wikisource	1887	NA	fr	107267	F	long	high	T3
-FRA02801_Mirbeau	FRA02801	Mirbeau, Octave	L'abbé Jules	1848	1917	viaf:100204602	Ebooks libres et gratuits	1888	viaf:310534644 	fr	78137	M	medium	high	T3
-FRA02301_Greville	FRA02301	Gréville, Henry [Alice Marie Céleste Fleury, dite Durand]	La seconde mère	1842	1902	viaf:49258322	Bibliothèque électronique du Québec (BEQ)	1888	viaf:missing	fr	60048	F	medium	low	T3
-FRA02603_Malot	FRA02603	Malot, Hector	Conscience	1830	1907	viaf:49228546	Bibliothèque électronique du Québec (BEQ)	1888	viaf:310221173	fr	105754	M	long	low	T3
-FRA02201_Gouraud	FRA02201	Gouraud, Julie [Louise d'Aulnay]	Quand je serai grande	1810	1891	viaf:31987653	Bibliothèque électronique du Québec (BEQ)	1888	oclc:559725443 viaf:unavailable	fr	45701	M	short	low	T3
-FRA01102_Dombre	FRA01102	Dombre, Roger [Marguerite Sisson / Marguerite Ligeron]	Folla	1859	1914	viaf:37053113	Bibliothèque électronique du Québec (BEQ)	1889	oclc:465119441 viaf:unavailable	fr	24998	F	short	low	T3
-FRA03002_Ohnet	FRA03002	Ohnet, Georges	L'Âme de Pierre	1848	1918	viaf:66497284	Project Gutenberg	1890	viaf:309283895	fr	53382	M	medium	low	T3
-FRA01101_Dombre	FRA01101	Dombre, Roger [Marguerite Sisson / Marguerite Ligeron]	Une pupille gênante	1859	1914	viaf:37053113	Bibliothèque électronique du Québec (BEQ)	1890	oclc:457908349 viaf:unavailable	fr	50336	F	medium	low	T3
-FRA01602_GautierJ	FRA01602	Gautier, Judith	Fleurs d'Orient	1845	1917	viaf:54148064	Wikisource	1893	NA	fr	51537	F	medium	low	T3
-FRA03003_Ohnet	FRA03003	Ohnet, Georges	Le Marchand de Poison	1848	1918	viaf:66497284	Project Gutenberg	1894	viaf:308106335	fr	50561	M	medium	low	T3
-FRA02502_Loti	FRA02502	Loti, Pierre	Ramuntcho	1850	1923	viaf:89440078	Ebooks libres et gratuits	1897	viaf:185706732	fr	57949	M	medium	high	T3
-FRA06501_Gyp	FRA06501	Gyp [Mirabeau, Sibylle Riquetti de]	Totote	1849	1932	viaf:96218572;wikidata:Q199228	Gallica (BnF)	1897	NA	fr	44196	F	short	low	T3
-FRA04002_Verne	FRA04002	Verne, Jules	Le Secret de Wilhelm Storitz	1828	1905	viaf:76323989	Bibliothèque électronique du Québec (BEQ)	1898	viaf:183647198	fr	55614	M	medium	high	T3
-FRA01603_GautierJ	FRA01603	Gautier, Judith	Les Princesses d'Amour : courtisanes japonaises	1845	1917	viaf:54148064	Wikisource	1900	NA	fr	29460	F	short	high	T4
-FRA06601_Peladan	FRA06601	Peladan, Joséphin [Joseph-Aimé Peladan]	Modestie et vanité, roman (La décadence latine, éthopée, XVI)	1858	1918	viaf:934869;wikidata:Q710019	Gallica (BnF)	1902	NA	fr	72697	M	medium	unspecified	T4
-FRA06001_Rebell	FRA06001	Rebell, Hugues	Les Nuits chaudes du Cap francais : edition ELTeC	1867	1905	viaf:9852444	Bibebook	1902	NA	fr	53060	M	medium	unspecified	T4
-FRA00401_Allais	FRA00401	Allais, Alphone	Le Captain Cap	1829	1871	viaf:302147306	(unspecified)	1902	viaf:missing	fr	41424	M	short	high	T4
-FRA02901_Noailles	FRA02901	Noailles, Anna de	La nouvelle espérance	1876	1933	viaf:95303465	Wikisource	1903	NA	fr	56757	F	medium	low	T4
-FRA02401_LeRouge	FRA02401	Le Rouge, Gustave	L'Esclave amoureuse	1867	1938	viaf:7392910	Bibliothèque électronique du Québec (BEQ)	1904	viaf:unavailable	fr	25038	M	short	low	T4
-FRA05602_Lesueur	FRA05602	Lesueur, Daniel	Masque d'Amour (tomes I et II) : edition ELTeC	1854	1921	viaf:39520913	Project Gutenberg	1904	NA	fr	206089	F	long	unspecified	T4
-FRA05101_Eekhoud	FRA05101	Eekhoud, Georges	L'autre vue : edition ELTeC	1854	1927	viaf:19677089	Bibebook	1904	NA	fr	48550	M	short	unspecified	T4
-FRA05301_Galopin	FRA05301	Galopin, Arnould	Le Docteur Omega : edition ELTeC	1865	1934	viaf:66487522	Bibebook	1906	NA	fr	50310	M	short	unspecified	T4
-FRA05901_Moselly	FRA05901	Moselly, Emile	Terres lorraines : edition ELTeC	1870	1918	viaf:19681833	Bibebook	1907	NA	fr	78099	M	medium	unspecified	T4
-FRA04601_Bazin	FRA04601	Bazin, René	Le blé qui leve : edition ELTeC	1853	1932	viaf:24597541;wikidata:Q127539	Bibebook	1907	NA	fr	88367	M	medium	unspecified	T4
-FRA04501_Barres	FRA04501	Barrès, Maurice	Colette Baudoche : edition ELTeC	1862	1923	viaf:66463260;wikidata:Q314957	Ebooks gratuits (Yahoo Group)	1909	NA	fr	31172	M	short	unspecified	T4
-FRA04801_Corday	FRA04801	Corday, Michel	Les revelees : edition ELTeC	1869	1937	viaf:9861444	Project Gutenberg	1909	NA	fr	35151	M	short	unspecified	T4
-FRA05601_Lesueur	FRA05601	Lesueur, Daniel	Droit a la force : edition ELTeC	1854	1921	viaf:39520913	Project Gutenberg	1909	NA	fr	67461	F	medium	unspecified	T4
-FRA01001_DelarueMardrus	FRA01001	Delarue-Mardrus, Lucie	Comme tout le monde	1874	1945	viaf:34455354	Wikisource	1910	NA	fr	62356	F	medium	low	T4
-FRA00201_Audoux	FRA00201	Audoux, Marguerite	Marie-Claire	1863	1937	viaf:71386673	Bibliothèque électronique du Québec (BEQ)	1910	viaf:missing	fr	37171	F	short	high	T4
-FRA05501_Lermina	FRA05501	Lermina, Jules	L'effrayante aventure : edition ELTeC	1839	1915	viaf:49244018	Bibebook	1910	NA	fr	47052	M	short	unspecified	T4
-FRA04202_Rolland	FRA04202	Rolland, Romain	La nouvelle journée	1866	1944	viaf:71397100	Bibliothèque électronique du Québec (BEQ)	1912	viaf:312469774	fr	60263	M	medium	high	T4
-FRA02001_Gilbert	FRA02001	Gilbert, Jehan	Vers le pôle en aéroplane	1880	1940	viaf:51823427	Gallica (BnF)	1912	NA	fr	21626	M	short	low	T4
-FRA05801_Mille	FRA05801	Mille, Pierre	Louise et Barnavaux : edition ELTeC	1864	1941	viaf:100905302	Gallica (BnF)	1912	NA	fr	49700	M	short	unspecified	T4
-FRA01501_France	FRA01501	France, Anatole	Les dieux ont soif: ELTeC edition	1844	1924	viaf:4925052;wikidata:Q42443	Fadedpage	1912	NA	fr	71994	M	medium	high	T4
-FRA03601_Proust	FRA03601	Proust, Marcel	Du côté de chez Swann	1871	1922	viaf:32001793	Bibliothèque électronique du Québec (BEQ)	1913	viaf:316309707	fr	181469	M	long	high	T4
-FRA04401_Barbusse	FRA04401	Barbusse, Henri	Le Feu : edition ELTeC	1873	1935	viaf:68925116;wikidata:Q18404	Belenus	1916	NA	fr	119403	M	long	unspecified	T4
-FRA01002_DelarueMardrus	FRA0102	Delarue-Mardrus, Lucie	Toutoune et son amour	1874	1945	viaf:34455354;wikidata:Q3087508	Wikisource	1919	NA	fr	35097	F	short	low	T4
-FRA04701_Bourget	FRA04701	Bourget, Paul	Laurence Albani : edition ELTeC	1852	1935	viaf:29530799	Ebooks libres et gratuits	1919	NA	fr	47202	M	short	unspecified	T4
+filename	xmlid	au-name	title	au-birth	au-death	au-ids	digitalSource	firsted-yr	title-ids	language	numwords	narr-per	au-gender	sizeCat	reprintCount	time-slot
+FRA03704_Sand	FRA03703	Sand, George [Amantine Lucile Aurore Dupin]	Horace	1804	1876	viaf:46766944	Computational Literary Genre Stylistics (CLiGS)	1840	NA	fr	133214	NA	F	long	unspecified	T1
+FRA00503_Balzac	FRA00503	Balzac, Honoré de	Le curé de village	1799	1850	viaf:29529595	Éfélé	1841	viaf:177407570	fr	93205	NA	M	medium	high	T1
+FRA00501_Balzac	FRA00501	Balzac, Honoré de	Albert Savarus	1799	1850	viaf:29529595	Éfélé	1842	viaf:174178728	fr	42274	NA	M	short	high	T1
+FRA00801_Dash	FRA00801	Comtesse Dash [Gabrielle Anna de Cisternes de Courtiras, vicomtesse de Saint-Mars]	Le château de Pinon I	1804	1872	viaf:102278	Gallica (BnF)	1843	NA	fr	45263	NA	F	short	low	T1
+FRA03801_Stern	FRA03801	Stern, Daniel [Marie d'Agoult]	Hervé	1805	1876	viaf:186930001	Project Gutenberg	1843	NA	fr	16339	NA	F	short	low	T1
+FRA01801_Gay	FRA01801	Gay, Marie Françoise Sophie	Ellenore	1776	1852	viaf:27059297	Project Gutenberg	1844	viaf:unavailable	fr	188983	NA	F	long	low	T1
+FRA01203_Feval	FRA01203	Féval, Paul Henri Corentin [dit Paul Féval père]	le Loup blanc	1816	1887	viaf:17222447	Ebooks libres et gratuits	1845	viaf:312363135	fr	80201	NA	M	medium	high	T1
+FRA06201_Viel-Castel	FRA06201	Viel-Castel, Horace de	Archambaud de Comborn : edition ELTeC	1802	1864	viaf:69051610	Gallica (BnF)	1845	NA	fr	50642	NA	M	medium	unspecified	T1
+FRA04901_Dumas	FRA04901	Dumas, Alexandre [pere]	Reine Margot : edition ELTeC	1802	1870	viaf:51688902	Atramenta	1845	NA	fr	217375	NA	M	long	unspecified	T1
+FRA03802_Stern	FRA03802	Stern, Daniel [Marie d'Agoult]	Nélida	1805	1876	viaf:186930001	Project Gutenberg	1846	NA	fr	70592	NA	F	medium	low	T1
+FRA00502_Balzac	FRA00502	Balzac, Honoré de	Le cousin Pons	1799	1850	viaf:29529595	Éfélé	1847	viaf:174988989	fr	111052	NA	M	long	high	T1
+FRA04301_Achard	FRA04301	Achard, Amédée	Belle-Rose : edition ELTeC	1814	1875	viaf:22137477	Bibebook	1847	NA	fr	179332	NA	M	long	unspecified	T1
+FRA01701_GautierT	FRA01701	Gautier, Théophile	Militona	1800	1872	viaf:96428598	Wikisource	1847	NA	fr	40222	NA	M	short	high	T1
+FRA06101_Sandeau	FRA06101	Sandeau, Jules	Mademoiselle de la Seigliere, Volume 1-2 : edition ELTeC	1811	1883	viaf:56616138	Project Gutenberg	1848	NA	fr	62501	NA	M	medium	unspecified	T1
+FRA05401_Kock	FRA05401	Kock, Paul de	Madeleine : edition ELTeC	1793	1871	viaf:100183137	Project Gutenberg	1850	NA	fr	99323	NA	M	medium	unspecified	T1
+FRA00701_Carraud	FRA00701	Carraud, Zulma	La petite Jeanne	1796	1889	viaf:66529196	Project Gutenberg	1852	NA	fr	53860	NA	F	medium	high	T1
+FRA03101_Ponson	FRA03101	Ponson du Terrail, Pierre Alexis	La baronne trépassée	1829	1871	viaf:17228199	Computational Literary Genre Stylistics (CLiGS)	1852	viaf:missing	fr	68667	NA	M	medium	high	T1
+FRA02101_Girardin	FRA02101	Girardin, Delphine de [Delphine Gay]	Marguerite, ou Deux amours	1804	1855	viaf:24601979	Bibliothèque numérique romande (BNR)	1852	NA	fr	69231	NA	F	medium	high	T1
+FRA03401_Reybaud	FRA03401	Reybaud, Fanny [Hippolyte Arnaud]	Mademoiselle de Malepeire	1802	1871	viaf:36959845	Bibliothèque numérique romande (BNR)	1855	NA	fr	38804	NA	F	short	high	T1
+FRA01702_GautierT	FRA01702	Gautier, Théophile	Le roman de la momie	1800	1872	viaf:96428598	Wikisource	1857	NA	fr	59638	NA	M	medium	high	T1
+FRA05201_Feuillet	FRA05201	Feuillet, Octave	La petite comtesse : edition ELTeC	1821	1890	viaf:68928998	Bibebook	1857	NA	fr	31143	NA	M	short	unspecified	T1
+FRA01202_Feval	FRA01202	Féval, Paul Henri Corentin [dit Paul Féval père]	Les Errants de nuit	1816	1887	viaf:17222447	Ebooks libres et gratuits	1857	viaf:unavailable	fr	103086	NA	M	long	low	T1
+FRA01302_Flaubert	FRA01302	Flaubert, Gustave	Madame Bovary	1821	1880	viaf:9846192	Ebooks libres et gratuits	1857	viaf:186570439	fr	120122	NA	M	long	high	T1
+FRA05702_Maquet	FRA05702	Maquet, Auguste	La Maison du baigneur	1812	1888	viaf:62618234;wikidata:Q766768	Gallica (BnF)	1857	NA	fr	177350	NA	M	long	low	T1
+FRA00301_Aimard	FRA00301	Aimard, Gustave	Les Trappeurs de l'Arkansas	1818	1883	viaf:9841962	Bibliothèque électronique du Québec (BEQ)	1858	viaf:309322317	fr	90276	heterodiegetic	M	medium	low	T1
+FRA01303_Flaubert	FRA01303	Flaubert, Gustave	Salammbô	1821	1880	viaf:9846192	Wikisource	1862	viaf:316310961	fr	105395	NA	M	long	high	T2
+FRA04102_Erckmann	FRA04102	Erckmann, Émile	Madame Thérèse, ou les volontaires de 92	1822	1899	viaf:31995972	Bibliothèque électronique du Québec (BEQ)	1863	viaf:209896303	fr	61525	NA	M	medium	high	T2
+FRA03302_Rattazzi	FRA03302	Rattazzi, Marie [Marie-Lætitia Bonaparte-Wyse]	Le piège aux maris	1831	1902	viaf:30341384	Bibliothèque numérique romande (BNR)	1865	viaf:missing	fr	56080	NA	F	medium	low	T2
+FRA03301_Rattazzi	FRA03301	Rattazzi, Marie [Marie-Lætitia Bonaparte-Wyse]	La Mexicaine	1831	1902	viaf:30341384	Bibliothèque numérique romande (BNR)	1866	NA	fr	58791	NA	F	medium	low	T2
+FRA03102_Ponson	FRA03102	Ponson du Terrail, Pierre Alexis	La résurrection de Rocambole	1829	1871	viaf:17228199	Ebooks libres et gratuits	1866	viaf:294264533	fr	173741	NA	M	long	low	T2
+FRA03702_Sand	FRA03702	Sand, George [Amantine Lucile Aurore Dupin]	Le dernier amour	1804	1876	viaf:46766944	Bibliothèque électronique du Québec (BEQ)	1866	viaf:310216093	fr	88169	NA	F	medium	high	T2
+FRA02202_Gouraud	FRA02202	Gouraud, Julie [Louise d'Aulnay]	Le petit colporteur	1810	1891	viaf:31987653	Bibliothèque électronique du Québec (BEQ)	1867	viaf:314022921	fr	43357	NA	M	short	low	T2
+FRA00901_Daudet	FRA00901	Daudet, Alphonse	Le petit chose	1840	1897	viaf:4928621	Ebooks libres et gratuits	1867	viaf:184784857	fr	87744	NA	M	medium	high	T2
+FRA00101_Adam	FRA00101	Adam, Juliette	Mon Village	1836	1936	viaf:64000638	Wikisource	1868	NA	fr	21636	homodiegetic	F	short	low	T2
+FRA01201_Feval	FRA01201	Féval, Paul Henri Corentin [dit Paul Féval père]	Le Cavalier Fortune	1816	1887	viaf:17222447	Ebooks libres et gratuits	1868	viaf:unavailable	fr	136999	NA	M	long	low	T2
+FRA01902_Gaboriau	FRA01902	Gaboriau, Émile	Monsieur Lecoq	1832	1873	viaf:100177491	Ebooks libres et gratuits	1869	viaf:310914713	fr	269763	NA	M	long	high	T2
+FRA01301_Flaubert	FRA01301	Flaubert, Gustave	L'Éducation sentimentale	1821	1880	viaf:9846192	(unspecified)	1869	viaf:180462896	fr	149810	NA	M	long	high	T2
+FRA02601_Malot	FRA02601	Malot, Hector	Romain Kalbris	1830	1907	viaf:49228546	Bibliothèque électronique du Québec (BEQ)	1869	viaf:312349317	fr	70236	NA	M	medium	high	T2
+FRA03901_Stolz	FRA03901	Stolz, Madame de [Fanny de Bégon]	La Maison roulante	1820	1898	viaf:19850120 wikidata:Q3275360	Bibliothèque électronique du Québec (BEQ)	1869	viaf:309282062	fr	52092	NA	F	medium	low	T2
+FRA03701_Sand	FRA03701	Sand, George [Amantine Lucile Aurore Dupin]	Nanon	1804	1876	viaf:46766944	Bibliothèque électronique du Québec (BEQ)	1872	viaf:204615801	fr	101919	NA	F	long	high	T2
+FRA00302_Aimard	FRA00302	Aimard, Gustave	Belle rivière	1818	1883	viaf:9841962	Bibliothèque électronique du Québec (BEQ)	1874	viaf:309355943	fr	139314	heterodiegetic	M	long	low	T2
+FRA01402_Fleuriot	FRA01402	Fleuriot, Zénaïde	En congé	1829	1890	viaf:41872490	Bibliothèque électronique du Québec (BEQ)	1874	oclc:561075297 viaf:unavailable	fr	38021	NA	F	short	low	T2
+FRA02203_Gouraud	FRA02203	Gouraud, Julie [Louise d'Aulnay]	Les Filles du professeur	1810	1891	viaf:31987653	Bibliothèque électronique du Québec (BEQ)	1876	viaf:unavailable	fr	45477	NA	M	short	low	T2
+FRA06401_Chandeneux	FRA06301	Chandeneux, Claire de [Bérenger, Louise Lucienne Emma]	Les Ménages militaires : edition ELTeC	1836	1881	viaf:54272906;wikidata:Q2975144	Gallica (BnF)	1876	NA	fr	157157	NA	F	long	unspecified	T2
+FRA01401_Fleuriot	FRA01401	Fleuriot, Zénaïde	Un enfant gâté	1829	1890	viaf:41872490	Bibliothèque électronique du Québec (BEQ)	1877	viaf:309349545	fr	35076	NA	F	short	low	T2
+FRA02302_Greville	FRA02302	Gréville, Henry [Alice Marie Céleste Fleury, dite Durand]	L'amie	1842	1902	viaf:49258322	Bibliothèque électronique du Québec (BEQ)	1878	NA	fr	56987	NA	F	medium	low	T2
+FRA02602_Malot	FRA02602	Malot, Hector	Sans famille	1830	1907	viaf:49228546	Bibliothèque électronique du Québec (BEQ)	1878	viaf:186540937	fr	123735	NA	M	long	high	T2
+FRA04001_Verne	FRA04001	Verne, Jules	Un capitaine de quinze ans	1828	1905	viaf:76323989	Bibliothèque électronique du Québec (BEQ)	1878	viaf:183081330	fr	125179	NA	M	long	high	T2
+FRA03903_Stolz	FRA03903	Stolz, Madame de [Fanny de Bégon]	Le Secret de Laurent	1820	1898	viaf:19850120 wikidata:Q3275360	Bibliothèque électronique du Québec (BEQ)	1878	viaf:unavailable	fr	49150	NA	F	short	low	T2
+FRA02303_Greville	FRA02303	Gréville, Henry [Alice Marie Céleste Fleury, dite Durand]	Ariadne	1842	1902	viaf:49258322	Bibliothèque électronique du Québec (BEQ)	1878	NA	fr	52698	NA	F	short	low	T2
+FRA00601_Boisgobey	FRA00601	Boisgobey, Fortuné du	Le crime de l'omnibus	1821	1891	viaf:19720225	Ebooks libres et gratuits	1881	viaf:308091446	fr	93658	NA	M	medium	low	T3
+FRA01403_Fleuriot	FRA01403	Fleuriot, Zénaïde	Alberte	1829	1890	viaf:41872490	Bibliothèque électronique du Québec (BEQ)	1881	viaf:unavailable worldcat:944664084	fr	64213	NA	F	medium	low	T3
+FRA00903_Daudet	FRA00903	Daudet, Alphonse	Numa Roumestan : Mœurs Parisiennes	1840	1897	viaf:4928621	Ebooks libres et gratuits	1881	viaf:287900644	fr	85708	NA	M	medium	low	T3
+FRA00102_Adam	FRA00102	Adam, Juliette	Païenne	1836	1936	viaf:64000638	Wikisource	1883	NA	fr	29593	epistolary	F	short	low	T3
+FRA02802_Mirbeau	FRA02802	Mirbeau, Octave	La Maréchale	1848	1917	viaf:100204602	Bibliothèque électronique du Québec (BEQ)	1883	viaf:unvailable	fr	60951	NA	M	medium	high	T3
+FRA02501_Loti	FRA02501	Loti, Pierre	Mon frère Yves	1850	1923	viaf:89440078	Bibliothèque électronique du Québec (BEQ)	1883	viaf:294701732	fr	73698	NA	M	medium	high	T3
+FRA02702_Maupassant	FRA02702	Maupassant, Guy de	Une Vie	1850	1893	viaf:29537765	Ebooks libres et gratuits	1883	viaf:204219240	fr	77338	NA	M	medium	high	T3
+FRA06301_Montepin	FRA06301	de Montépin, Xavier	La porteuse de pain : edition ELTeC	1839	1915	viaf:87953024;wikidata:Q2735316	Ebooks libres et gratuits	1884	NA	fr	145892	NA	M	long	unspecified	T3
+FRA03001_Ohnet	FRA03001	Ohnet, Georges	La Grande Marnière	1848	1918	viaf:66497284	Project Gutenberg	1885	viaf:309268283	fr	115270	NA	M	long	low	T3
+FRA02701_Maupassant	FRA02701	Maupassant, Guy de	Bel-Ami	1850	1893	viaf:29537765	Ebooks libres et gratuits	1885	viaf:174771837	fr	111187	NA	M	long	high	T3
+FRA00602_Boisgobey	FRA00602	Boisgobey, Fortuné du	Rubis sur l'ongle	1821	1891	viaf:19720225	(unspecified)	1886	viaf:315021495	fr	104131	NA	M	long	low	T3
+FRA03201_Blandy	FRA03201	Blandy, Stella	Rouzétou	1836	1925	viaf:39410255	Gallica (BnF)	1887	NA	fr	84121	NA	F	medium	low	T3
+FRA01601_GautierJ	FRA01601	Gautier, Judith	La Sœur du Soleil	1845	1917	viaf:54148064	Wikisource	1887	NA	fr	107267	NA	F	long	high	T3
+FRA02801_Mirbeau	FRA02801	Mirbeau, Octave	L'abbé Jules	1848	1917	viaf:100204602	Ebooks libres et gratuits	1888	viaf:310534644 	fr	78137	NA	M	medium	high	T3
+FRA02301_Greville	FRA02301	Gréville, Henry [Alice Marie Céleste Fleury, dite Durand]	La seconde mère	1842	1902	viaf:49258322	Bibliothèque électronique du Québec (BEQ)	1888	viaf:missing	fr	60048	NA	F	medium	low	T3
+FRA02603_Malot	FRA02603	Malot, Hector	Conscience	1830	1907	viaf:49228546	Bibliothèque électronique du Québec (BEQ)	1888	viaf:310221173	fr	105754	NA	M	long	low	T3
+FRA02201_Gouraud	FRA02201	Gouraud, Julie [Louise d'Aulnay]	Quand je serai grande	1810	1891	viaf:31987653	Bibliothèque électronique du Québec (BEQ)	1888	oclc:559725443 viaf:unavailable	fr	45701	NA	M	short	low	T3
+FRA01102_Dombre	FRA01102	Dombre, Roger [Marguerite Sisson / Marguerite Ligeron]	Folla	1859	1914	viaf:37053113	Bibliothèque électronique du Québec (BEQ)	1889	oclc:465119441 viaf:unavailable	fr	24998	NA	F	short	low	T3
+FRA03002_Ohnet	FRA03002	Ohnet, Georges	L'Âme de Pierre	1848	1918	viaf:66497284	Project Gutenberg	1890	viaf:309283895	fr	53382	NA	M	medium	low	T3
+FRA01101_Dombre	FRA01101	Dombre, Roger [Marguerite Sisson / Marguerite Ligeron]	Une pupille gênante	1859	1914	viaf:37053113	Bibliothèque électronique du Québec (BEQ)	1890	oclc:457908349 viaf:unavailable	fr	50336	NA	F	medium	low	T3
+FRA01602_GautierJ	FRA01602	Gautier, Judith	Fleurs d'Orient	1845	1917	viaf:54148064	Wikisource	1893	NA	fr	51537	NA	F	medium	low	T3
+FRA03003_Ohnet	FRA03003	Ohnet, Georges	Le Marchand de Poison	1848	1918	viaf:66497284	Project Gutenberg	1894	viaf:308106335	fr	50561	NA	M	medium	low	T3
+FRA02502_Loti	FRA02502	Loti, Pierre	Ramuntcho	1850	1923	viaf:89440078	Ebooks libres et gratuits	1897	viaf:185706732	fr	57949	NA	M	medium	high	T3
+FRA06501_Gyp	FRA06501	Gyp [Mirabeau, Sibylle Riquetti de]	Totote	1849	1932	viaf:96218572;wikidata:Q199228	Gallica (BnF)	1897	NA	fr	44196	NA	F	short	low	T3
+FRA04002_Verne	FRA04002	Verne, Jules	Le Secret de Wilhelm Storitz	1828	1905	viaf:76323989	Bibliothèque électronique du Québec (BEQ)	1898	viaf:183647198	fr	55614	NA	M	medium	high	T3
+FRA01603_GautierJ	FRA01603	Gautier, Judith	Les Princesses d'Amour : courtisanes japonaises	1845	1917	viaf:54148064	Wikisource	1900	NA	fr	29460	NA	F	short	high	T4
+FRA06601_Peladan	FRA06601	Peladan, Joséphin [Joseph-Aimé Peladan]	Modestie et vanité, roman (La décadence latine, éthopée, XVI)	1858	1918	viaf:934869;wikidata:Q710019	Gallica (BnF)	1902	NA	fr	72697	NA	M	medium	unspecified	T4
+FRA06001_Rebell	FRA06001	Rebell, Hugues	Les Nuits chaudes du Cap francais : edition ELTeC	1867	1905	viaf:9852444	Bibebook	1902	NA	fr	53060	NA	M	medium	unspecified	T4
+FRA00401_Allais	FRA00401	Allais, Alphone	Le Captain Cap	1829	1871	viaf:302147306	(unspecified)	1902	viaf:missing	fr	41424	NA	M	short	high	T4
+FRA02901_Noailles	FRA02901	Noailles, Anna de	La nouvelle espérance	1876	1933	viaf:95303465	Wikisource	1903	NA	fr	56757	NA	F	medium	low	T4
+FRA02401_LeRouge	FRA02401	Le Rouge, Gustave	L'Esclave amoureuse	1867	1938	viaf:7392910	Bibliothèque électronique du Québec (BEQ)	1904	viaf:unavailable	fr	25038	NA	M	short	low	T4
+FRA05602_Lesueur	FRA05602	Lesueur, Daniel	Masque d'Amour (tomes I et II) : edition ELTeC	1854	1921	viaf:39520913	Project Gutenberg	1904	NA	fr	206089	NA	F	long	unspecified	T4
+FRA05101_Eekhoud	FRA05101	Eekhoud, Georges	L'autre vue : edition ELTeC	1854	1927	viaf:19677089	Bibebook	1904	NA	fr	48550	NA	M	short	unspecified	T4
+FRA05301_Galopin	FRA05301	Galopin, Arnould	Le Docteur Omega : edition ELTeC	1865	1934	viaf:66487522	Bibebook	1906	NA	fr	50310	NA	M	short	unspecified	T4
+FRA05901_Moselly	FRA05901	Moselly, Emile	Terres lorraines : edition ELTeC	1870	1918	viaf:19681833	Bibebook	1907	NA	fr	78099	NA	M	medium	unspecified	T4
+FRA04601_Bazin	FRA04601	Bazin, René	Le blé qui leve : edition ELTeC	1853	1932	viaf:24597541;wikidata:Q127539	Bibebook	1907	NA	fr	88367	NA	M	medium	unspecified	T4
+FRA04501_Barres	FRA04501	Barrès, Maurice	Colette Baudoche : edition ELTeC	1862	1923	viaf:66463260;wikidata:Q314957	Ebooks gratuits (Yahoo Group)	1909	NA	fr	31172	NA	M	short	unspecified	T4
+FRA04801_Corday	FRA04801	Corday, Michel	Les revelees : edition ELTeC	1869	1937	viaf:9861444	Project Gutenberg	1909	NA	fr	35151	NA	M	short	unspecified	T4
+FRA05601_Lesueur	FRA05601	Lesueur, Daniel	Droit a la force : edition ELTeC	1854	1921	viaf:39520913	Project Gutenberg	1909	NA	fr	67461	NA	F	medium	unspecified	T4
+FRA01001_DelarueMardrus	FRA01001	Delarue-Mardrus, Lucie	Comme tout le monde	1874	1945	viaf:34455354	Wikisource	1910	NA	fr	62356	NA	F	medium	low	T4
+FRA00201_Audoux	FRA00201	Audoux, Marguerite	Marie-Claire	1863	1937	viaf:71386673	Bibliothèque électronique du Québec (BEQ)	1910	viaf:missing	fr	37171	autodiegetic	F	short	high	T4
+FRA05501_Lermina	FRA05501	Lermina, Jules	L'effrayante aventure : edition ELTeC	1839	1915	viaf:49244018	Bibebook	1910	NA	fr	47052	NA	M	short	unspecified	T4
+FRA04202_Rolland	FRA04202	Rolland, Romain	La nouvelle journée	1866	1944	viaf:71397100	Bibliothèque électronique du Québec (BEQ)	1912	viaf:312469774	fr	60263	NA	M	medium	high	T4
+FRA02001_Gilbert	FRA02001	Gilbert, Jehan	Vers le pôle en aéroplane	1880	1940	viaf:51823427	Gallica (BnF)	1912	NA	fr	21626	NA	M	short	low	T4
+FRA05801_Mille	FRA05801	Mille, Pierre	Louise et Barnavaux : edition ELTeC	1864	1941	viaf:100905302	Gallica (BnF)	1912	NA	fr	49700	NA	M	short	unspecified	T4
+FRA01501_France	FRA01501	France, Anatole	Les dieux ont soif: ELTeC edition	1844	1924	viaf:4925052;wikidata:Q42443	Fadedpage	1912	NA	fr	71994	NA	M	medium	high	T4
+FRA03601_Proust	FRA03601	Proust, Marcel	Du côté de chez Swann	1871	1922	viaf:32001793	Bibliothèque électronique du Québec (BEQ)	1913	viaf:316309707	fr	181469	NA	M	long	high	T4
+FRA04401_Barbusse	FRA04401	Barbusse, Henri	Le Feu : edition ELTeC	1873	1935	viaf:68925116;wikidata:Q18404	Belenus	1916	NA	fr	119403	NA	M	long	unspecified	T4
+FRA01002_DelarueMardrus	FRA0102	Delarue-Mardrus, Lucie	Toutoune et son amour	1874	1945	viaf:34455354;wikidata:Q3087508	Wikisource	1919	NA	fr	35097	NA	F	short	low	T4
+FRA04701_Bourget	FRA04701	Bourget, Paul	Laurence Albani : edition ELTeC	1852	1935	viaf:29530799	Ebooks libres et gratuits	1919	NA	fr	47202	NA	M	short	unspecified	T4
