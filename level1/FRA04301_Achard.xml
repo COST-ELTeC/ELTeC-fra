@@ -43,6 +43,12 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
+<textClass>
+  <keywords>
+    <term type="narrative-perspective">XXX</term>
+  </keywords>
+</textClass>
+
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long" />
