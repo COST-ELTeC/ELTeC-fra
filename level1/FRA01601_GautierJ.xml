@@ -61,7 +61,7 @@
         <bibl type="printSource">
           <title>La Sœur du Soleil (L'Usurpateur)</title>
           <author>Judith Gautier</author>
-          <publisher> Dentu &amp; Cie, Éditeurs, Palais-Royal, 15-17-19, Galerie d'Orleans </publisher>
+          <publisher>Dentu &amp; Cie, Éditeurs, Palais-Royal, 15-17-19, Galerie d'Orleans </publisher>
           <pubPlace>Paris</pubPlace>
           <date>1887</date>
         </bibl>
@@ -78,12 +78,11 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">XXX</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
         <size xmlns="http://distantreading.net/eltec/ns" key="long" />

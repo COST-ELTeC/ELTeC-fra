@@ -48,12 +48,11 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">heterodiegetic</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
         <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
@@ -2141,7 +2140,7 @@
           <p>— Ne crains rien, la joie ne tue pas, répondit Mme Daltier en portant secours à la malade.</p>
           <p>Ce ne fut qu'une courte faiblesse et Gilberte rouvrit les yeux pour jouir avec ivresse de son bonheur.</p>
           <p> De ce jour, la convalescence marcha rapidement, et Gilberte ne regretta pas d'avoir échangé le pont mobile du <hi>Guadiana</hi> contre le toit béni des Daltier. </p>
-          <p>.................................</p>
+          <milestone unit="section" rend="dots" />
           <p>On revient d'une messe d'action de grâces à Saint-Charles où toute la famille, y compris Gilberte, a fait la communion pour remercier Dieu d'avoir non seulement guéri le corps, mais encore ramené à lui la brebis égaré.</p>
           <p>Après le déjeuner égayé par une douce causerie et de joyeux projets d'avenir, Gilberte et Albéric s'entretiennent dans le petit salon qui a vu les premières joies pures et les premières désolations de la jeune fille.</p>
           <p>— À quelle époque notre mariage ? demande Albéric dont le visage rayonne d'une allégresse sans bornes.</p>

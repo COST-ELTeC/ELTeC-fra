@@ -54,14 +54,9 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">XXX</term>
-  </keywords>
-</textClass>
-
       <textClass>
         <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
           <term xml:lang="eng" type="subgenre">adventure novel</term>
         </keywords>
       </textClass>
