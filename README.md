@@ -8,13 +8,13 @@ This is the French novel corpus for the ELTeC, the European Literary Text Collec
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC. 
 
-* Work on the next release is ongoing: there are now 100 novels in level 1 encoding, but some issues still need to be fixed. 
-* v0.8.0, November 2019: The corpus contains 82 novels encoded at level 1. The corpus composition criteria are not yet fully fulfilled. See: https://github.com/COST-ELTeC/ELTeC-fra/releases/tag/v0.8.0 
+* v0.9.0-alpha (pre-release): There are now 100 novels in level 1 encoding, but some issues still need to be fixed. See pre-release here: https://github.com/COST-ELTeC/ELTeC-fra/releases/tag/v0.9.0-alpha and issues here: https://github.com/COST-ELTeC/ELTeC-fra/issues?q=is%3Aopen+is%3Aissue+milestone%3Av0.9.0
+* v0.8.0 (deprecated), November 2019: The corpus contains 82 novels encoded at level 1. The corpus composition criteria are not yet fully fulfilled. 
 
 ## Contributors
 
-* Collection editor(s): Christof Schöch, Pia Geißel and Lou Burnard
-* Contributors: Rezearta Murati, Alexandre Gefen
+* Collection editor(s): Christof Schöch and Lou Burnard
+* Contributors: Pia Geißel, Rezearta Murati, Alexandre Gefen
 * Sources: Bibliothèque nationale de France (Gallica), Ebooks libres et gratuits / Bibliothèque électronique du Québec, CLiGS textbox, Wikisource, Bibebook.com, Atramenta, Project Gutenberg.
 
 ## Licence
@@ -25,4 +25,4 @@ All texts included in this collection are in the public domain. The textual mark
 
 If you use this corpus in your research, please use the following citation suggestion:
 
-* *French Novel Collection (ELTeC-fra)*, edited by Christof Schöch, Pia Geißel and Lou Burnard. Version v0.8.0, Nov. 2019. In: *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: https://doi.org/10.5281/zenodo.3462536
+* *French Novel Collection (ELTeC-fra)*, edited by Christof Schöch and Lou Burnard. Version v0.9.0-alpha, May 2020. In: *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: https://doi.org/10.5281/zenodo.3462536
