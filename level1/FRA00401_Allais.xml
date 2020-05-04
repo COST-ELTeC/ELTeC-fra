@@ -47,6 +47,11 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">homodiegetic</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
         <size xmlns="http://distantreading.net/eltec/ns" key="short" />
@@ -84,12 +89,14 @@
       <div type="group">
 
         <head>Première partie</head>
-        <head>Le Captain Cap devant le suffrage universel</head>
 
+        <head>Le Captain Cap devant le suffrage universel</head>
         <div type="chapter">
 
           <head>Ville de Paris</head>
-          <p><hi rend="italic">Aux Électeurs du IXe arrondissement, 2e circonscription.</hi><ref target="#FRA00401N000">(1)</ref></p>
+          <p><hi rend="italic">Aux Électeurs du IXe arrondissement, 2e circonscription.</hi>
+            <ref target="#FRA00401N000">(1)</ref>
+          </p>
           <p>Un mot sur le Captain Cap</p>
           <p>Celui qui voudrait rencontrer l'homme du jour, n'aurait pas à le chercher ailleurs que dans la peau du Captain Cap, votre candidat.</p>
           <p>Le Captain Cap ! Tout le monde en parle aujourd'hui, mais combien peu le connaissent !</p>
