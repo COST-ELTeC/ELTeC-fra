@@ -51,12 +51,12 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">XXX</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
+          <term type="subgenre">Bildungsroman</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
         <size xmlns="http://distantreading.net/eltec/ns" key="long" />
@@ -110,13 +110,13 @@
           <p>Il se mit à le suivre en cherchant dans ses souvenirs, et répétant à mi-voix : « Où diable ai-je connu ce particulier-là ? »</p>
           <p>Il fouillait dans sa pensée, sans parvenir à se le rappeler ; puis tout d'un coup, par un singulier phénomène de mémoire, le même homme lui apparut moins gros, plus jeune, vêtu d'un uniforme de hussard. Il s'écria tout haut : « Tiens, Forestier ! » et, allongeant le pas, il alla frapper sur l'épaule du marcheur. L'autre se retourna, le regarda, puis dit : « Qu'est-ce que vous me voulez, monsieur ? » Duroy se mit à rire :</p>
           <p>« Tu ne me reconnais pas ?</p>
-          <p>– Non.</p>
-          <p>– Georges Duroy du 6e hussards. »</p>
+          <p>— Non.</p>
+          <p>— Georges Duroy du 6e hussards. »</p>
           <p>Forestier tendit les deux mains :</p>
           <p>« Ah ! mon vieux ! comment vas-tu ?</p>
-          <p>– Très bien et toi ?</p>
-          <p>– Oh ! moi, pas trop ; figure-toi que j'ai une poitrine de papier mâché maintenant ; je tousse six mois sur douze, à la suite d'une bronchite que j'ai attrapée à Bougival, l'année de mon retour à Paris, voici quatre ans maintenant.</p>
-          <p>– Tiens ! tu as l'air solide, pourtant. »</p>
+          <p>— Très bien et toi ?</p>
+          <p>— Oh ! moi, pas trop ; figure-toi que j'ai une poitrine de papier mâché maintenant ; je tousse six mois sur douze, à la suite d'une bronchite que j'ai attrapée à Bougival, l'année de mon retour à Paris, voici quatre ans maintenant.</p>
+          <p>— Tiens ! tu as l'air solide, pourtant. »</p>
           <p>Et Forestier, prenant le bras de son ancien camarade, lui parla de sa maladie, lui raconta les consultations, les opinions et les conseils des médecins, la difficulté de suivre leurs avis dans sa position. On lui ordonnait de passer l'hiver dans le Midi ; mais le pouvait-il ? Il était marié et journaliste, dans une belle situation.</p>
           <p>« Je dirige la politique à La Vie Française. Je fais le Sénat au Salut, et, de temps en temps, des chroniques littéraires pour La Planète. Voilà, j'ai fait mon chemin. »</p>
           <p>Duroy, surpris, le regardait. Il était bien changé, bien mûri. Il avait maintenant une allure, une tenue, un costume d'homme posé, sûr de lui, et un ventre d'homme qui dîne bien. Autrefois il était maigre, mince et souple, étourdi, casseur d'assiettes, tapageur et toujours en train. En trois ans Paris en avait fait quelqu'un de tout autre, de gros et de sérieux, avec quelques cheveux blancs sur les tempes, bien qu'il n'eût pas plus de vingt-sept ans.</p>
@@ -124,15 +124,15 @@
           <p>« Où vas-tu ? »</p>
           <p>Duroy répondit :</p>
           <p>« Nulle part, je fais un tour avant de rentrer.</p>
-          <p>– Eh bien, veux-tu m'accompagner à La Vie Française, où j'ai des épreuves à corriger ; puis nous irons prendre un bock ensemble.</p>
-          <p>– Je te suis. »</p>
+          <p>— Eh bien, veux-tu m'accompagner à La Vie Française, où j'ai des épreuves à corriger ; puis nous irons prendre un bock ensemble.</p>
+          <p>— Je te suis. »</p>
           <p>Et ils se mirent à marcher en se tenant par le bras avec cette familiarité facile qui subsiste entre compagnons d'école et entre camarades de régiment.</p>
           <p>« Qu'est-ce que tu fais à Paris ? » dit Forestier.</p>
           <p>Duroy haussa les épaules :</p>
           <p>« Je crève de faim, tout simplement. Une fois mon temps fini, j'ai voulu venir ici pour… pour faire fortune ou plutôt pour vivre à Paris ; et voilà six mois que je suis employé aux bureaux du chemin de fer du Nord, à quinze cents francs par an, rien de plus. »</p>
           <p>Forestier murmura :</p>
           <p>« Bigre, ça n'est pas gras.</p>
-          <p>– Je te crois. Mais comment veux-tu que je m'en tire ? Je suis seul, je ne connais personne, je ne peux me recommander à personne. Ce n'est pas la bonne volonté qui me manque, mais les moyens. »</p>
+          <p>— Je te crois. Mais comment veux-tu que je m'en tire ? Je suis seul, je ne connais personne, je ne peux me recommander à personne. Ce n'est pas la bonne volonté qui me manque, mais les moyens. »</p>
           <p>Son camarade le regarda des pieds à la tête, en homme pratique, qui juge un sujet, puis il prononça d'un ton convaincu : « Vois-tu, mon petit, tout dépend de l'aplomb, ici. Un homme un peu malin devient plus facilement ministre que chef de bureau. Il faut s'imposer et non pas demander. Mais comment diable n'as-tu pas trouvé mieux qu'une place d'employé au Nord ? »</p>
           <p>Duroy reprit :</p>
           <p>« J'ai cherché partout, je n'ai rien découvert. Mais j'ai quelque chose en vue en ce moment, on m'offre d'entrer comme écuyer au manège Pellerin. Là, j'aurai, au bas mot, trois mille francs. »</p>
@@ -140,10 +140,10 @@
           <p>« Ne fais pas ça, c'est stupide, quand tu devrais gagner dix mille francs. Tu te fermes l'avenir du coup. Dans ton bureau, au moins, tu es caché, personne ne te connaît, tu peux en sortir, si tu es fort, et faire ton chemin. Mais une fois écuyer, c'est fini. C'est comme si tu étais maître d'hôtel dans une maison où tout Paris va dîner. Quand tu auras donné des leçons d'équitation aux hommes du monde ou à leurs fils, ils ne pourront plus s'accoutumer à te considérer comme leur égal. »</p>
           <p>Il se tut, réfléchit quelques secondes, puis demanda :</p>
           <p>« Es-tu bachelier ?</p>
-          <p>– Non. J'ai échoué deux fois.</p>
-          <p>– Ça ne fait rien, du moment que tu as poussé tes études jusqu'au bout. Si on parle de Cicéron ou de Tibère, tu sais à peu près ce que c'est ?</p>
-          <p>– Oui, à peu près.</p>
-          <p>– Bon, personne n'en sait davantage, à l'exception d'une vingtaine d'imbéciles qui ne sont pas fichus de se tirer d'affaire. Ça n'est pas difficile de passer pour fort, va ; le tout est de ne pas se faire pincer en flagrant délit d'ignorance. On manœuvre, on esquive la difficulté, on tourne l'obstacle, et on colle les autres au moyen d'un dictionnaire. Tous les hommes sont bêtes comme des oies et ignorants comme des carpes. »</p>
+          <p>— Non. J'ai échoué deux fois.</p>
+          <p>— Ça ne fait rien, du moment que tu as poussé tes études jusqu'au bout. Si on parle de Cicéron ou de Tibère, tu sais à peu près ce que c'est ?</p>
+          <p>— Oui, à peu près.</p>
+          <p>— Bon, personne n'en sait davantage, à l'exception d'une vingtaine d'imbéciles qui ne sont pas fichus de se tirer d'affaire. Ça n'est pas difficile de passer pour fort, va ; le tout est de ne pas se faire pincer en flagrant délit d'ignorance. On manœuvre, on esquive la difficulté, on tourne l'obstacle, et on colle les autres au moyen d'un dictionnaire. Tous les hommes sont bêtes comme des oies et ignorants comme des carpes. »</p>
           <p>Il parlait en gaillard tranquille qui connaît la vie, et il souriait en regardant passer la foule. Mais tout d'un coup il se mit à tousser, et s'arrêta pour laisser finir la quinte, puis, d'un ton découragé : « N'est-ce pas assommant de ne pouvoir se débarrasser de cette bronchite ? Et nous sommes en plein été. Oh ! cet hiver, j'irai me guérir à Menton. Tant pis, ma foi, la santé avant tout. »</p>
           <p>Ils arrivèrent au boulevard Poissonnière, devant une grande porte vitrée, derrière laquelle un journal ouvert était collé sur les deux faces. Trois personnes arrêtées le lisaient.</p>
           <p>Au-dessus de la porte s'étalait, comme un appel, en grandes lettres de feu dessinées par des flammes de gaz : La Vie Française. Et les promeneurs passant brusquement dans la clarté que jetaient ces trois mots éclatants apparaissaient tout à coup en pleine lumière, visibles, clairs et nets comme au milieu du jour, puis rentraient aussitôt dans l'ombre.</p>
@@ -160,7 +160,7 @@
           <p>« Au revoir, mon cher », et il descendit l'escalier en sifflotant, la canne sous le bras.</p>
           <p>Duroy demanda :</p>
           <p>« Qui est-ce ?</p>
-          <p>– C'est Jacques Rival, tu sais, le fameux chroniqueur, le duelliste. Il vient de corriger ses épreuves. Garin, Montel et lui sont les trois premiers chroniqueurs d'esprit et d'actualité que nous ayons à Paris. Il gagne ici trente mille francs par an pour deux articles par semaine. »</p>
+          <p>— C'est Jacques Rival, tu sais, le fameux chroniqueur, le duelliste. Il vient de corriger ses épreuves. Garin, Montel et lui sont les trois premiers chroniqueurs d'esprit et d'actualité que nous ayons à Paris. Il gagne ici trente mille francs par an pour deux articles par semaine. »</p>
           <p>Et comme ils s'en allaient, ils rencontrèrent un petit homme à longs cheveux, gros, d'aspect malpropre, qui montait les marches en soufflant.</p>
           <p>Forestier salua très bas.</p>
           <p>« Norbert de Varenne, dit-il, le poète, l'auteur des Soleils morts, encore un homme dans les grands prix. Chaque conte qu'il nous donne coûte trois cents francs, et les plus longs n'ont pas deux cents lignes. Mais entrons au Napolitain, je commence à crever de soif. »</p>
@@ -169,9 +169,9 @@
           <p>« Pourquoi n'essaierais-tu pas du journalisme ? »</p>
           <p>L'autre, surpris, le regarda ; puis il dit :</p>
           <p>« Mais… c'est que… je n'ai jamais rien écrit.</p>
-          <p>– Bah ! on essaie, on commence. Moi, je pourrais t'employer à aller me chercher des renseignements, à faire des démarches et des visites. Tu aurais, au début, deux cent cinquante francs et tes voitures payées. Veux-tu que j'en parle au directeur ?</p>
-          <p>– Mais certainement que je veux bien,</p>
-          <p>– Alors, fais une chose, viens dîner chez moi demain ; j'ai cinq ou six personnes seulement, le patron, M. Walter, sa femme, Jacques Rival et Norbert de Varenne, que tu viens de voir, plus une amie de Mme Forestier. Est-ce entendu ? »</p>
+          <p>— Bah ! on essaie, on commence. Moi, je pourrais t'employer à aller me chercher des renseignements, à faire des démarches et des visites. Tu aurais, au début, deux cent cinquante francs et tes voitures payées. Veux-tu que j'en parle au directeur ?</p>
+          <p>— Mais certainement que je veux bien,</p>
+          <p>— Alors, fais une chose, viens dîner chez moi demain ; j'ai cinq ou six personnes seulement, le patron, M. Walter, sa femme, Jacques Rival et Norbert de Varenne, que tu viens de voir, plus une amie de Mme Forestier. Est-ce entendu ? »</p>
           <p>Duroy hésitait, rougissant, perplexe. Il murmura enfin :</p>
           <p>« C'est que… je n'ai pas de tenue convenable. »</p>
           <p>Forestier fut stupéfait :</p>
@@ -182,7 +182,7 @@
           <p>L'autre l'interrompit : « Allons, c'est bon. Encore un bock, n'est-ce pas ? » Et il cria : « Garçon, deux bocks ! »</p>
           <p>Puis, quand ils les eurent bus, le journaliste demanda :</p>
           <p>« Veux-tu flâner un peu, pendant une heure ?</p>
-          <p>– Mais certainement. »</p>
+          <p>— Mais certainement. »</p>
           <p>Et ils se remirent en marche vers la Madeleine.</p>
           <p>« Qu'est-ce que nous ferions bien ? demanda Forestier. On prétend qu'à Paris un flâneur peut toujours s'occuper ; ça n'est pas vrai. Moi, quand je veux flâner, le soir, je ne sais jamais où aller. Un tour au Bois n'est amusant qu'avec une femme, et on n'en a pas toujours une sous la main ; les cafés-concerts peuvent distraire mon pharmacien et son épouse, mais pas moi. Alors, quoi faire ? Rien. Il devrait y avoir ici un jardin d'été, comme le parc Monceau, ouvert la nuit, où on entendrait de la très bonne musique en buvant des choses fraîches sous les arbres. Ce ne serait pas un lieu de plaisir, mais un lieu de flâne ; et on paierait cher pour entrer, afin d'attirer les jolies dames. On pourrait marcher dans des allées bien sablées, éclairées à la lumière électrique, et s'asseoir quand on voudrait pour écouter la musique de près ou de loin. Nous avons eu à peu près ça autrefois chez Musard, mais avec un goût de bastringue et trop d'airs de danse, pas assez d'étendue, pas assez d'ombre, pas assez de sombre. Il faudrait un très beau jardin, très vaste. Ce serait charmant. Où veux-tu aller ? »</p>
           <p>Duroy, perplexe, ne savait que dire ; enfin, il se décida :</p>
@@ -196,7 +196,7 @@
           <p>L'autre répondit d'un ton important :</p>
           <p>« Avec moi on ne paie pas. »</p>
           <p>Quand il s'approcha du contrôle, les trois contrôleurs le saluèrent. Celui du milieu lui tendit la main. Le journaliste demanda : « Avez-vous une bonne loge ?</p>
-          <p>– Mais certainement, monsieur Forestier. »</p>
+          <p>— Mais certainement, monsieur Forestier. »</p>
           <p>Il prit le coupon qu'on lui tendait, poussa la porte matelassée, à battants garnis de cuir, et ils se trouvèrent dans la salle.</p>
           <p>Une vapeur de tabac voilait un peu, comme un très fin brouillard, les parties lointaines, la scène et l'autre côté du théâtre. Et s'élevant sans cesse, en minces filets blanchâtres, de tous les cigares et de toutes les cigarettes que fumaient tous ces gens, cette brume légère montait toujours, s'accumulait au plafond, et formait, sous le large dôme, autour du lustre, au-dessus de la galerie du premier chargée de spectateurs, un ciel ennuagé de fumée.</p>
           <p>Dans le vaste corridor d'entrée qui mène à la promenade circulaire, où rôde la tribu parée des filles, mêlée à la foule sombre des hommes, un groupe de femmes attendait les arrivants devant un des trois comptoirs où trônaient, fardées et défraîchies, trois marchandes de boissons et d'amour.</p>
@@ -204,7 +204,7 @@
           <p>Forestier ouvrait les groupes, avançait vite, en homme qui a droit à la considération.</p>
           <p>Il s'approcha d'une ouvreuse.</p>
           <p>« La loge dix-sept ? dit-il.</p>
-          <p>– Par ici, monsieur. »</p>
+          <p>— Par ici, monsieur. »</p>
           <p>Et on les enferma dans une petite boîte en bois, découverte, tapissée de rouge, et qui contenait quatre chaises de même couleur, si rapprochées qu'on pouvait à peine se glisser entre elles. Les deux amis s'assirent : et, à droite comme à gauche, suivant une longue ligne arrondie aboutissant à la scène par les deux bouts, une suite de cases semblables contenait des gens assis également et dont on ne voyait que la tête et la poitrine.</p>
           <p />
           <p />
@@ -223,7 +223,7 @@
           <p>Le rideau s'était baissé ; l'orchestre maintenant jouait une valse.</p>
           <p>Duroy dit :</p>
           <p>« Si nous faisions un tour dans la galerie ?</p>
-          <p>– Comme tu voudras. »</p>
+          <p>— Comme tu voudras. »</p>
           <p>Ils sortirent, et furent aussitôt entraînés dans le courant des promeneurs. Pressés, poussés, serrés, ballottés, ils allaient, ayant devant les yeux un peuple de chapeaux. Et les filles, deux par deux, passaient dans cette foule d'hommes, la traversaient avec facilité, glissaient entre les coudes, entre les poitrines, entre les dos, comme si elles eussent été bien chez elles, bien à l'aise, à la façon des poissons dans l'eau, au milieu de ce flot de mâles.</p>
           <p />
           <p>Duroy ravi, se laissait aller, buvait avec ivresse l'air vicié par le tabac, par l'odeur humaine et les parfums des drôlesses. Mais Forestier suait, soufflait, toussait.</p>
@@ -248,7 +248,7 @@
           <p>« Oui, je reste encore un peu. Il n'est pas tard. »</p>
           <p>Forestier se leva :</p>
           <p>« Eh bien, adieu, alors. À demain. N'oublie pas ? 17, rue Fontaine, sept heures et demie.</p>
-          <p>– C'est entendu ; à demain. Merci. »</p>
+          <p>— C'est entendu ; à demain. Merci. »</p>
           <p>Ils se serrèrent la main, et le journaliste s'éloigna.</p>
           <p>Dès qu'il eut disparu, Duroy se sentit libre, et de nouveau il tâta joyeusement les deux pièces d'or dans sa poche ; puis, se levant, il se mit à parcourir la foule qu'il fouillait de l'œil.</p>
           <p>Il les aperçut bientôt, les deux femmes, la blonde et la brune, qui voyageaient toujours de leur allure fière de mendiantes, à travers la cohue des hommes.</p>
@@ -270,7 +270,7 @@
 
           <head>-- II --</head>
           <p>« Monsieur Forestier, s'il vous plaît ?</p>
-          <p>– Au troisième, la porte à gauche. »</p>
+          <p>— Au troisième, la porte à gauche. »</p>
           <p>Le concierge avait répondu cela d'une voix aimable où apparaissait une considération pour son locataire. Et Georges Duroy monta l'escalier.</p>
           <p>Il était un peu gêné, intimidé, mal à l'aise. Il portait un habit pour la première fois de sa vie, et l'ensemble de sa toilette l'inquiétait : Il la sentait défectueuse en tout, par les bottines non vernies mais assez fines cependant, car il avait la coquetterie du pied, par la chemise de quatre francs cinquante achetée le matin même au Louvre, et dont le plastron trop mince ce cassait déjà. Ses autres chemises, celles de tous les jours, ayant des avaries plus ou moins graves, il n'avait pu utiliser même la moins abîmée.</p>
           <p>Son pantalon, un peu trop large, dessinait mal la jambe, semblait s'enrouler autour du mollet, avait cette apparence fripée que prennent les vêtements d'occasion sur les membres qu'ils recouvrent par aventure. Seul, l'habit n'allait pas mal, s'étant trouvé à peu près juste pour la taille.</p>
@@ -305,7 +305,7 @@
           <p>Seule une rose rouge, piquée dans ses cheveux noirs. attirait l'œil violemment, semblait marquer sa physionomie, accentuer son caractère spécial, lui donner la note vive et brusque qu'il fallait.</p>
           <p>Une fillette en robe courte la suivait. Mme Forestier s'élança :</p>
           <p>« Bonjour, Clotilde.</p>
-          <p>– Bonjour, Madeleine. »</p>
+          <p>— Bonjour, Madeleine. »</p>
           <p>Elles s'embrassèrent. Puis l'enfant tendit son front avec une assurance de grande personne, en prononçant :</p>
           <p>« Bonjour, cousine. »</p>
           <p>Mme Forestier la baisa ; puis fit les présentations :</p>
@@ -389,7 +389,7 @@
           <p>Il but d'abord son café qu'il craignait de laisser tomber sur le tapis ; puis, l'esprit plus libre, il chercha un moyen de se rapprocher de la femme de son nouveau directeur et d'entamer une conversation.</p>
           <p>Tout à coup il s'aperçut qu'elle tenait à la main sa tasse vide ; et, comme elle se trouvait loin d'une table, elle ne savait où la poser. Il s'élança.</p>
           <p>« Permettez, madame.</p>
-          <p>– Merci, monsieur. »</p>
+          <p>— Merci, monsieur. »</p>
           <p>Il emporta la tasse, puis il revint :</p>
           <p>« Si vous saviez, madame, quels bons moments m'a fait passer La Vie Française quand j'étais là-bas dans le désert. C'est vraiment le seul journal qu'on puisse lire hors de France, parce qu'il est plus littéraire, plus spirituel et moins monotone que tous les autres. On trouve de tout là-dedans. »</p>
           <p>Elle sourit avec une indifférence aimable, et répondit gravement :</p>
@@ -418,7 +418,7 @@
           <p>Jacques Rival aussi s'en venait, un cigare à la bouche, et Duroy se leva pour partir, ayant peur de gâter par quelque mot maladroit la besogne faite, son œuvre de conquête commencée.</p>
           <p>Il salua, prit et serra doucement la petite main tendue des femmes, puis secoua avec force la main des hommes. Il remarqua que celle de Jacques Rival était sèche et chaude et répondait cordialement à sa pression ; celle de Norbert de Varenne, humide et froide et fuyait en glissant entre les doigts ; celle du père Walter, froide et molle, sans énergie, sans expression ; celle de Forestier, grasse et tiède. Son ami lui dit à mi-voix :</p>
           <p>« Demain, trois heures, n'oublie pas.</p>
-          <p>– Oh ! non, ne crains rien. »</p>
+          <p>— Oh ! non, ne crains rien. »</p>
           <p>Quand il se retrouva sur l'escalier, il eut envie de descendre en courant, tant sa joie était véhémente, et il s'élança, enjambant les marches deux par deux ; mais tout à coup, il aperçut, dans la grande glace du second étage, un monsieur pressé qui venait en gambadant à sa rencontre, et il s'arrêta net, honteux comme s'il venait d'être surpris en faute.</p>
           <p>Puis il se regarda longuement, émerveillé d'être vraiment aussi joli garçon ; puis il se sourit avec complaisance ; puis, prenant congé de son image, il se salua très bas, avec cérémonie, comme on salue les grands personnages.</p>
         </div>
@@ -488,8 +488,8 @@
           <p>« Mais, va donc, grand serin, quand je te dis d'y aller. Tu ne vas pas me forcer à regrimper mes trois étages pour te présenter et expliquer ton cas. »</p>
           <p>Alors Duroy se décida :</p>
           <p>« Merci, j'y vais. Je lui dirai que tu m'as forcé, absolument forcé à venir la trouver.</p>
-          <p>– Oui. Elle ne te mangera pas, sois tranquille. Surtout, n'oublie pas tantôt trois heures.</p>
-          <p>– Oh ! ne crains rien. »</p>
+          <p>— Oui. Elle ne te mangera pas, sois tranquille. Surtout, n'oublie pas tantôt trois heures.</p>
+          <p>— Oh ! ne crains rien. »</p>
           <p>Et Forestier s'en alla de son air pressé, tandis que Duroy se mit à monter lentement, marche à marche, cherchant ce qu'il allait dire et inquiet de l'accueil qu'il recevrait.</p>
           <p>Le domestique vint lui ouvrir. Il avait un tablier bleu et tenait un balai dans ses mains.</p>
           <p>« Monsieur est sorti », dit-il, sans attendre la question.</p>
@@ -512,7 +512,7 @@
           <p>« Voilà… mais vraiment… je n'ose pas… C'est que j'ai travaillé hier soir très tard… et ce matin… très tôt… pour faire cet article sur l'Algérie que M. Walter m'a demandé… et je n'arrive à rien de bon… j'ai déchiré tous mes essais… Je n'ai pas l'habitude de ce travail-là, moi ; et je venais demander à Forestier de m'aider… pour une fois… »</p>
           <p>Elle l'interrompit, en riant de tout son cœur, heureuse, joyeuse et flattée :</p>
           <p>« Et il vous a dit de venir me trouver ?… C'est gentil ça…</p>
-          <p>– Oui, madame. Il m'a dit que vous me tireriez d'embarras mieux que lui… Mais, moi, je n'osais pas, je, ne voulais pas. Vous comprenez ? »</p>
+          <p>— Oui, madame. Il m'a dit que vous me tireriez d'embarras mieux que lui… Mais, moi, je n'osais pas, je, ne voulais pas. Vous comprenez ? »</p>
           <p>Elle se leva :</p>
           <p>« Ça va être charmant de collaborer comme ça. Je suis ravie de votre idée. Tenez, asseyez-vous à ma place, car on connaît mon écriture au journal. Et nous allons vous tourner un article, mais là, un article à succès. »</p>
           <p>Il s'assit, prit une plume, étala devant lui une feuille de papier et attendit.</p>
@@ -560,8 +560,8 @@
           <p>« Qu'est-ce que vous pensez de mon amie Mme de Marelle ? »</p>
           <p>Il fut surpris :</p>
           <p>« Mais… je la trouve… je la trouve très séduisante.</p>
-          <p>– N'est-ce pas ?</p>
-          <p>– Oui, certainement. »</p>
+          <p>— N'est-ce pas ?</p>
+          <p>— Oui, certainement. »</p>
           <p>Il avait envie d'ajouter : « Mais pas autant que vous. » Il n'osa point.</p>
           <p>Elle reprit :</p>
           <p>« Et si vous saviez comme elle est drôle, originale, intelligente ! C'est une bohème, par exemple, une vraie bohème. C'est pour cela que son mari ne l'aime guère. Il ne voit que le défaut et n'apprécie point les qualités. »</p>
@@ -603,7 +603,7 @@
           <p>« Où loge-t-il, ce joyau ? »</p>
           <p>Le journaliste répondit :</p>
           <p>« Chez un marchand de billets du Vaudeville. Je t'apporterai la chose demain, si tu veux.</p>
-          <p>– Oui, c'est entendu. S'il est vraiment beau, je le prends, on n'a jamais trop de bilboquets. »</p>
+          <p>— Oui, c'est entendu. S'il est vraiment beau, je le prends, on n'a jamais trop de bilboquets. »</p>
           <p>Puis se tournant vers Duroy :</p>
           <p>« Viens avec moi, je vais t'introduire chez le patron, sans quoi tu pourrais moisir jusqu'à sept heures du soir. »</p>
           <p>Ils retraversèrent le salon d'attente, où les mêmes personnes demeuraient dans le même ordre. Dès que Forestier parut, la jeune femme et la vieille actrice, se levant vivement, vinrent à lui.</p>
@@ -624,7 +624,7 @@
           <p>Mais Forestier s'empressa de répondre :</p>
           <p>« Ce n'est pas la peine, monsieur Walter : j'ai fait la chronique avec lui pour lui apprendre le métier. Elle est très bonne. »</p>
           <p>Et le directeur qui recevait à présent les cartes données par un grand monsieur maigre, un député du centre gauche, ajouta avec indifférence : « C'est parfait, alors. » Forestier ne le laissa pas commencer sa nouvelle partie ; et, se baissant vers son oreille : « Vous savez que vous m'avez promis d'engager Duroy pour remplacer Marambot. Voulez-vous que je le retienne aux mêmes conditions ?</p>
-          <p>– Oui, parfaitement. »</p>
+          <p>— Oui, parfaitement. »</p>
           <p>Et prenant le bras de son ami, le journaliste l'entraîna pendant que M. Walter se remettait à jouer.</p>
           <p>Norbert de Varenne n'avait pas levé la tête, il semblait n'avoir pas vu ou reconnu Duroy. Jacques Rival, au contraire, lui avait serré la main avec une énergie démonstrative et voulue de bon camarade sur qui on peut compter en cas d'affaire.</p>
           <p>Ils retraversèrent le salon d'attente, et comme tout le monde levait les yeux, Forestier dit à la plus jeune des femmes, assez haut pour être entendu des autres patients : « Le directeur va vous recevoir tout à l'heure. Il est en conférence en ce moment avec deux membres de la commission du budget. »</p>
@@ -638,8 +638,8 @@
           <p>Forestier gagna de onze points. Alors le petit homme à l'air enfantin, qui avait perdu, sonna le garçon de bureau et commanda : « Neuf bocks. » Et ils se remirent à jouer en attendant les rafraîchissements.</p>
           <p>Duroy but un verre de bière avec ses nouveaux confrères, puis il demanda à son ami :</p>
           <p>« Que faut-il que je fasse ? » L'autre répondit : « Je n'ai rien pour toi aujourd'hui. Tu peux t'en aller si tu veux.</p>
-          <p>– Et… notre… notre article… est-ce ce soir qu'il passera ?</p>
-          <p>– Oui, mais ne t'en occupe pas : je corrigerai les épreuves. Fais la suite pour demain, et viens ici à trois heures, comme aujourd'hui. »</p>
+          <p>— Et… notre… notre article… est-ce ce soir qu'il passera ?</p>
+          <p>— Oui, mais ne t'en occupe pas : je corrigerai les épreuves. Fais la suite pour demain, et viens ici à trois heures, comme aujourd'hui. »</p>
           <p>Et Duroy, ayant serré toutes les mains sans savoir même le nom de leurs possesseurs, redescendit le bel escalier, le cœur joyeux et l'esprit allègre.</p>
         </div>
         <div type="chapter">
@@ -668,7 +668,7 @@
           <p>Il y eut parmi les employés un mouvement de stupéfaction, et la tête de M. Potel apparut, effarée, au-dessus du paravent qui l'enfermait comme une boîte.</p>
           <p>Il se barricadait là-dedans, par crainte des courants d'air, car il était rhumatisant. Il avait seulement percé deux trous dans le papier pour surveiller son personnel.</p>
           <p>On entendait voler les mouches. Le sous-chef, enfin, demanda avec hésitation : « Vous avez dit ?</p>
-          <p>– J'ai dit que je m'en fichais un peu. Je ne viens aujourd'hui que pour donner ma démission. Je suis entré comme rédacteur à La Vie Française avec cinq cents francs par mois, plus les lignes. J'y ai même débuté ce matin. »</p>
+          <p>— J'ai dit que je m'en fichais un peu. Je ne viens aujourd'hui que pour donner ma démission. Je suis entré comme rédacteur à La Vie Française avec cinq cents francs par mois, plus les lignes. J'y ai même débuté ce matin. »</p>
           <p>Il s'était pourtant promis de faire durer le plaisir, mais il n'avait pu résister à l'envie de tout lâcher d'un seul coup.</p>
           <p>L'effet, du reste, était complet. Personne ne bougeait.</p>
           <p>Alors Duroy déclara :</p>
@@ -691,9 +691,9 @@
           <p>À l'autre bout de la grande table, un petit homme très pâle, bouffi, très gras, chauve, avec un crâne tout blanc et luisant, écrivait, le nez sur son papier, par suite d'une myopie excessive.</p>
           <p>Forestier lui demanda :</p>
           <p>« Dis donc, Saint-Potin, à quelle heure vas-tu interviewer nos gens ?</p>
-          <p>– À quatre heures.</p>
-          <p>– Tu emmèneras avec toi le jeune Duroy ici présent, et tu lui dévoileras les arcanes du métier.</p>
-          <p>– C'est entendu. »</p>
+          <p>— À quatre heures.</p>
+          <p>— Tu emmèneras avec toi le jeune Duroy ici présent, et tu lui dévoileras les arcanes du métier.</p>
+          <p>— C'est entendu. »</p>
           <p>Puis, se tournant vers son ami, Forestier ajouta :</p>
           <p>« As-tu apporté la suite sur l'Algérie ? Le début de ce matin a eu beaucoup de succès. »</p>
           <p>Duroy, interdit, balbutia :</p>
@@ -714,7 +714,7 @@
           <p>Puis il recommença à écrire avec gravité, avec l'intention évidente de bien établir les distances, de bien mettre à sa place son ancien camarade et nouveau confrère.</p>
           <p />
           <p>Dès qu'ils eurent franchi la porte, Saint-Potin se mit à rire et dit à Duroy : « En voilà un faiseur ! Il nous la fait à nous-mêmes. On dirait vraiment qu'il nous prend pour ses lecteurs. » Puis ils descendirent sur le boulevard, et le reporter demanda : « Buvez-vous quelque chose ?</p>
-          <p>– Oui, volontiers. Il fait très chaud. »</p>
+          <p>— Oui, volontiers. Il fait très chaud. »</p>
           <p>Ils entrèrent dans un café et se firent servir des boissons fraîches. Et Saint-Potin se mit à parler. Il parla de tout le monde et du journal avec une profusion de détails surprenants.</p>
           <p>« Le patron ? Un vrai juif ! Et vous savez, les juifs on ne les changera jamais. Quelle race ! » Et il cita des traits étonnants d'avarice, de cette avarice particulière aux fils d'Israël, des économies de dix centimes, des marchandages de cuisinière, des rabais honteux demandés et obtenus, toute une manière d'être d'usurier, de prêteur à gages.</p>
           <p>« Et avec ça, pourtant, un bon zig qui ne croit à rien et roule tout le monde. Son journal, qui est officieux, catholique, libéral, républicain, orléaniste, tarte à la crème et boutique à treize, n'a été fondé que pour soutenir ses opérations de bourse et ses entreprises de toute sorte. Pour ça, il est très fort, et il gagne des millions au moyen de sociétés qui n'ont pas quatre sous de capital… »</p>
@@ -790,13 +790,13 @@
           <p>Et il leur indiqua une série d'informations politiques qu'il fallait se procurer pour le soir même.</p>
           <p>Duroy lui tendit son article.</p>
           <p>« Voici la suite sur l'Algérie,</p>
-          <p>– Très bien, donne : je vais la remettre au patron. »</p>
+          <p>— Très bien, donne : je vais la remettre au patron. »</p>
           <p>Ce fut tout.</p>
           <p>Saint-Potin entraîna son nouveau confrère, et, lorsqu'ils furent dans le corridor, il lui dit : « Avez-vous passé à la caisse ?</p>
-          <p>– Non. Pourquoi ?</p>
-          <p>– Pourquoi ? Pour vous faire payer. Voyez-vous, il faut toujours prendre un mois d'avance. On ne sait pas ce qui peut arriver.</p>
-          <p>– Mais… je ne demande pas mieux.</p>
-          <p>– Je vais vous présenter au caissier. Il ne fera point de difficultés. On paie bien ici. »</p>
+          <p>— Non. Pourquoi ?</p>
+          <p>— Pourquoi ? Pour vous faire payer. Voyez-vous, il faut toujours prendre un mois d'avance. On ne sait pas ce qui peut arriver.</p>
+          <p>— Mais… je ne demande pas mieux.</p>
+          <p>— Je vais vous présenter au caissier. Il ne fera point de difficultés. On paie bien ici. »</p>
           <p>Et Duroy alla toucher ses deux cents francs, plus vingt-huit francs pour son article de la veille, qui, joints à ce qui lui restait de son traitement du chemin de fer, lui faisaient trois cent quarante francs en poche.</p>
           <p>Jamais il n'avait tenu pareille somme, et il se crut riche pour des temps indéfinis.</p>
           <p>Puis Saint-Potin l'emmena bavarder dans les bureaux de quatre ou cinq feuilles rivales, espérant que les nouvelles qu'on l'avait chargé de recueillir avaient été prises déjà par d'autres, et qu'il saurait bien les leur souffler, grâce à l'abondance et à l'astuce de sa conversation.</p>
@@ -806,13 +806,13 @@
           <p>Elle vint à lui :</p>
           <p>« Bonjour, mon chat. Tu vas bien ?</p>
           <p>Très bien, et toi ?</p>
-          <p>– Moi, pas mal. Tu ne sais pas, j'ai rêvé deux fois de toi depuis l'autre jour. »</p>
+          <p>— Moi, pas mal. Tu ne sais pas, j'ai rêvé deux fois de toi depuis l'autre jour. »</p>
           <p>Duroy sourit, flatté :</p>
           <p>« Ah ! ah ! et qu'est-ce que ça prouve ?</p>
-          <p>– Ça prouve que tu m'as plu, gros serin, et que nous recommencerons quand ça te dira.</p>
-          <p>– Aujourd'hui si tu veux.</p>
-          <p>– Oui, je veux bien.</p>
-          <p>– Bon, mais écoute… » Il hésitait, un peu confus de ce qu'il allait faire ; « C'est que, cette fois, je n'ai pas le sou : je viens du cercle, où j'ai tout claqué. »</p>
+          <p>— Ça prouve que tu m'as plu, gros serin, et que nous recommencerons quand ça te dira.</p>
+          <p>— Aujourd'hui si tu veux.</p>
+          <p>— Oui, je veux bien.</p>
+          <p>— Bon, mais écoute… » Il hésitait, un peu confus de ce qu'il allait faire ; « C'est que, cette fois, je n'ai pas le sou : je viens du cercle, où j'ai tout claqué. »</p>
           <p>Elle le regardait au fond des yeux, flairant le mensonge avec son instinct et sa pratique de fille habituée aux roueries et aux marchandages des hommes. Elle dit : « Blagueur ! Tu sais, ça n'est pas gentil avec moi cette manière-là. »</p>
           <p>Il eut un sourire embarrassé :</p>
           <p>« Si tu veux dix francs, c'est tout ce qui me reste. »</p>
@@ -913,7 +913,7 @@
           <p>Forestier, qui paraissait n'avoir pas entendu, demanda :</p>
           <p>« Cela ne vous ferait-il rien qu'on fermât la fenêtre ? J'ai la poitrine un peu prise depuis quelques jours.</p>
           <p />
-          <p>– Non, rien du tout. »</p>
+          <p>— Non, rien du tout. »</p>
           <p>Il alla donc pousser le battant resté entrouvert et il revint s'asseoir avec un visage rasséréné, tranquillisé.</p>
           <p>Sa femme ne disait rien, paraissait absorbée ; et, les yeux baissés vers la table, elle souriait aux verres, de ce sourire vague qui semblait promettre toujours pour ne jamais tenir.</p>
           <p>Les huîtres d'Ostende furent apportées, mignonnes et grasses, semblables à de petites oreilles enfermées en des coquilles, et fondant entre le palais et la langue ainsi que des bonbons salés,</p>
@@ -963,10 +963,10 @@
           <p>Mme de Marelle sonna le garçon et demanda l'addition. On la lui apporta presque aussitôt. Elle essaya de la lire ; mais les chiffres tournaient devant ses yeux, et elle passa le papier à Duroy : « Tenez, payez pour moi, je n'y vois plus, je suis trop grise. »</p>
           <p>Et elle lui jeta en même temps sa bourse dans les mains.</p>
           <p>Le total montait à cent trente francs. Duroy contrôla et vérifia la note, puis donna deux billets, et reprit la monnaie, en demandant, à mi-voix : « Combien faut-il laisser aux garçons ?</p>
-          <p>– Ce que vous voudrez, je ne sais pas. »</p>
+          <p>— Ce que vous voudrez, je ne sais pas. »</p>
           <p>Il mit cinq francs sur l'assiette, puis rendit la bourse à la jeune femme, en lui disant :</p>
           <p>« Voulez-vous que je vous reconduise à votre porte ?</p>
-          <p>– Mais certainement. Je suis incapable de retrouver mon adresse. »</p>
+          <p>— Mais certainement. Je suis incapable de retrouver mon adresse. »</p>
           <p>On serra les mains des Forestier, et Duroy se trouva seul avec Mme de Marelle dans un fiacre qui roulait.</p>
           <p>Il la sentait contre lui, si près, enfermée avec lui dans cette boîte noire, qu'éclairaient brusquement, pendant un instant, les becs de gaz des trottoirs. Il sentait, à travers sa manche, la chaleur de son épaule, et il ne trouvait rien à lui dire, absolument rien, ayant l'esprit paralysé par le désir impérieux de la saisir dans ses bras.</p>
           <p>« Si j'osais, que ferait-elle ? » pensait-il. Et le souvenir de toutes les polissonneries chuchotées pendant le dîner l'enhardissait, mais la peur du scandale le retenait en même temps.</p>
@@ -1057,10 +1057,10 @@
           <p>« As-tu entendu ? »</p>
           <p>Il fit semblant de ne rien savoir.</p>
           <p>« Non, quoi ?</p>
-          <p>– Comme ils m'ont insultée ?</p>
-          <p>– Qui ça ?</p>
-          <p>– Les misérables qui habitent au-dessous.</p>
-          <p>– Mais non, qu'est-ce qu'il y a, dis-moi ? »</p>
+          <p>— Comme ils m'ont insultée ?</p>
+          <p>— Qui ça ?</p>
+          <p>— Les misérables qui habitent au-dessous.</p>
+          <p>— Mais non, qu'est-ce qu'il y a, dis-moi ? »</p>
           <p>Elle se mit à sangloter sans pouvoir prononcer un mot.</p>
           <p>Il dut la décoiffer, la délacer, l'étendre sur le lit, lui tapoter les tempes avec un linge mouillé ; elle suffoquait ; puis, quand son émotion se fut un peu calmée, toute sa colère indignée éclata.</p>
           <p>Elle voulait qu'il descendît tout de suite, qu'il se battît, qu'il les tuât.</p>
@@ -1078,11 +1078,11 @@
           <p>« CLO t'embrasse. »</p>
           <p>À cinq heures précises, il entrait chez le concierge d'une grande maison meublée et demandait :</p>
           <p>« C'est ici que Mme Duroy a loué un appartement ?</p>
-          <p>– Oui, monsieur.</p>
-          <p>– Voulez-vous m'y conduire, s'il vous plaît ? »</p>
+          <p>— Oui, monsieur.</p>
+          <p>— Voulez-vous m'y conduire, s'il vous plaît ? »</p>
           <p>L'homme, habitué sans doute aux situations délicates où la prudence est nécessaire, le regardant dans les yeux, puis, choisissant dans la longue file de clefs :</p>
           <p>« Vous êtes bien M. Duroy ?</p>
-          <p>– Mais oui, parfaitement. »</p>
+          <p>— Mais oui, parfaitement. »</p>
           <p>Et il ouvrit un petit logement composé de deux pièces et situé au rez-de-chaussée, en face de la loge.</p>
           <p>Le salon, tapissé de papier ramagé, assez frais, possédait un meuble d'acajou recouvert en reps verdâtre à dessins jaunes, et un maigre tapis à fleurs, si mince que le pied sentait le bois par-dessous.</p>
           <p>La chambre à coucher était si exiguë que le lit l'emplissait aux trois quarts. Il tenait le fond, allant d'un mur à l'autre, un grand lit de maison meublée, enveloppé de rideaux bleus et lourds, également en reps, et écrasé sous un édredon de soie rouge maculé de taches suspectes.</p>
@@ -1100,7 +1100,7 @@
           <p>« Mais c'est payé, mon chéri ! »</p>
           <p>Il reprit :</p>
           <p>« Alors, c'est à toi que je le dois ?</p>
-          <p>– Mais non, mon chat, ça ne te regarde pas, c'est moi qui veux faire cette petite folie. »</p>
+          <p>— Mais non, mon chat, ça ne te regarde pas, c'est moi qui veux faire cette petite folie. »</p>
           <p>Il eut l'air de se fâcher :</p>
           <p>« Ah ! mais non, par exemple. Je ne le permettrai point. »</p>
           <p>Elle vint à lui suppliante, et, posant les mains sur ses épaules :</p>
@@ -1168,7 +1168,7 @@
           <p>« Dites donc, Foucart, j'ai oublié mon portefeuille chez moi, et il faut que j'aille dîner au Luxembourg. Prêtez-moi cinquante sous pour payer ma voiture. »</p>
           <p>L'homme tira trois francs de son gilet, en demandant :</p>
           <p>« Monsieur Duroy ne veut pas davantage ?</p>
-          <p>– Non, non, cela me suffit. Merci bien. »</p>
+          <p>— Non, non, cela me suffit. Merci bien. »</p>
           <p>Et, ayant saisi les pièces blanches, Duroy descendit en courant l'escalier, puis alla dîner dans une gargote où il échouait aux jours de misère.</p>
           <p>À neuf heures, il attendait sa maîtresse, les pieds au feu dans le petit salon.</p>
           <p>Elle arriva, très animée, très gaie, fouettée par l'air froid de la rue :</p>
@@ -1177,7 +1177,7 @@
           <p>« Pourquoi sortir ? On est très bien ici. »</p>
           <p>Elle reprit, sans ôter son chapeau :</p>
           <p>« Si tu savais, il fait un clair de lune merveilleux. C'est un vrai bonheur de se promener, ce soir.</p>
-          <p>– C'est possible, mais moi je ne tiens pas à me promener. »</p>
+          <p>— C'est possible, mais moi je ne tiens pas à me promener. »</p>
           <p>Il avait dit cela d'un air furieux. Elle en fut saisie, blessée, et demanda :</p>
           <p>« Qu'est-ce que tu as ? pourquoi prends-tu ces manières-là ? J'ai le désir de faire un tour, je ne vois pas en quoi cela peut te fâcher. »</p>
           <p>Il se souleva, exaspéré.</p>
@@ -1242,10 +1242,10 @@
           <p>C'était une nuit froide et sereine du commencement de l'hiver. Les passants et les chevaux allaient vite, piqués par une claire gelée. Les talons sonnaient sur les trottoirs.</p>
           <p>En le quittant, elle demanda :</p>
           <p>« Veux-tu nous revoir après-demain ?</p>
-          <p>– Mais oui, certainement.</p>
-          <p>– À la même heure ?</p>
-          <p>– À la même heure.</p>
-          <p>– Adieu, mon chéri. »</p>
+          <p>— Mais oui, certainement.</p>
+          <p>— À la même heure ?</p>
+          <p>— À la même heure.</p>
+          <p>— Adieu, mon chéri. »</p>
           <p>Et ils s'embrassèrent tendrement.</p>
           <p>Puis il revint à grands pas, se demandant ce qu'il inventerait le lendemain, afin de se tirer d'affaire. Mais comme il ouvrit la porte de sa chambre, il fouilla dans la poche de son gilet pour y trouver des allumettes, et il demeura stupéfait de rencontrer une pièce de monnaie qui roulait sous son doigt.</p>
           <p>Dès qu'il eut de la lumière, il saisit cette pièce pour l'examiner. C'était un louis de vingt francs !</p>
@@ -1326,19 +1326,19 @@
           <p>Enfin, la nécessité de trouver de l'argent l'aiguillonna et il se rendit chez Forestier.</p>
           <p>Son ami le reçut, les pieds au feu, dans son cabinet.</p>
           <p>« Qu'est-ce qui t'a fait lever si tôt ?</p>
-          <p>– Une affaire très grave. J'ai une dette d'honneur.</p>
-          <p>– De jeu ? »</p>
+          <p>— Une affaire très grave. J'ai une dette d'honneur.</p>
+          <p>— De jeu ? »</p>
           <p>Il hésita, puis avoua :</p>
           <p>« De jeu.</p>
-          <p>– Grosse ?</p>
-          <p>– Cinq cents francs ! »</p>
+          <p>— Grosse ?</p>
+          <p>— Cinq cents francs ! »</p>
           <p>Il n'en devait que deux cent quatre-vingt.</p>
           <p>Forestier, sceptique, demanda :</p>
           <p>« À qui dois-tu ça ? »</p>
           <p>Duroy ne put pas répondre tout de suite.</p>
           <p>« … Mais à… à… à un monsieur de Carleville.</p>
-          <p>– Ah ! Et où demeure-t-il ?</p>
-          <p>– Rue… rue… »</p>
+          <p>— Ah ! Et où demeure-t-il ?</p>
+          <p>— Rue… rue… »</p>
           <p>Forestier se mit à rire : « Rue du Cherche-Midi à quatorze heures, n'est-ce pas ? Je connais ce monsieur-là, mon cher. Si tu veux vingt francs, j'ai encore ça à ta disposition, mais pas davantage. »</p>
           <p>Duroy accepta la pièce d'or.</p>
           <p>Puis il alla, de porte en porte, chez toutes les personnes qu'il connaissait, et il finit par réunir, vers cinq heures, quatre-vingts francs.</p>
@@ -1367,14 +1367,14 @@
           <p>« Je ne venais point vous voir parce que cela valait mieux. »</p>
           <p>Elle demanda, sans comprendre :</p>
           <p>« Comment ? Pourquoi ?</p>
-          <p>– Pourquoi ? Vous ne devinez pas.</p>
-          <p>– Non, pas du tout.</p>
-          <p>– Parce que je suis amoureux de vous… oh ! un peu, rien qu'un peu… et que je ne veux pas le devenir tout à fait… »</p>
+          <p>— Pourquoi ? Vous ne devinez pas.</p>
+          <p>— Non, pas du tout.</p>
+          <p>— Parce que je suis amoureux de vous… oh ! un peu, rien qu'un peu… et que je ne veux pas le devenir tout à fait… »</p>
           <p>Elle ne parut ni étonnée, ni choquée, ni flattée ; elle continuait à sourire du même sourire indifférent, et elle répondit avec tranquillité :</p>
           <p>« Oh ! vous pouvez venir tout de même. On n'est jamais amoureux de moi longtemps. »</p>
           <p>Il fut surpris du ton plus encore que des paroles, et il demanda :</p>
           <p>« Pourquoi ?</p>
-          <p>– Parce que c'est inutile et que je le fais comprendre tout de suite. Si vous m'aviez raconté plus tôt votre crainte, je vous aurais rassuré et engagé au contraire à venir le plus possible. »</p>
+          <p>— Parce que c'est inutile et que je le fais comprendre tout de suite. Si vous m'aviez raconté plus tôt votre crainte, je vous aurais rassuré et engagé au contraire à venir le plus possible. »</p>
           <p>Il s'écria, d'un ton pathétique :</p>
           <p>« Avec ça qu'on peut commander aux sentiments ! »</p>
           <p>Elle se tourna vers lui :</p>
@@ -1390,14 +1390,14 @@
           <p>« Et je vais commencer tout de suite mon métier d'amie. Vous êtes maladroit, mon cher… »</p>
           <p>Elle hésita, et demanda :</p>
           <p>« Puis-je parler librement ?</p>
-          <p>– Oui.</p>
-          <p>– Tout à fait ?</p>
-          <p>– Tout à fait.</p>
-          <p>– Eh bien, allez donc voir Mme Walter, qui vous apprécie beaucoup, et plaisez-lui. Vous trouverez à placer par là vos compliments, bien qu'elle soit honnête, entendez-moi bien, tout à fait honnête. Oh ! pas d'espoir de… de maraudage non plus de ce côté. Vous y pourrez trouver mieux, en vous faisant bien voir. Je sais que vous occupez encore dans le journal une place inférieure. Mais ne craignez rien, ils reçoivent tous les rédacteurs avec la même bienveillance. Allez-y croyez-moi. »</p>
+          <p>— Oui.</p>
+          <p>— Tout à fait ?</p>
+          <p>— Tout à fait.</p>
+          <p>— Eh bien, allez donc voir Mme Walter, qui vous apprécie beaucoup, et plaisez-lui. Vous trouverez à placer par là vos compliments, bien qu'elle soit honnête, entendez-moi bien, tout à fait honnête. Oh ! pas d'espoir de… de maraudage non plus de ce côté. Vous y pourrez trouver mieux, en vous faisant bien voir. Je sais que vous occupez encore dans le journal une place inférieure. Mais ne craignez rien, ils reçoivent tous les rédacteurs avec la même bienveillance. Allez-y croyez-moi. »</p>
           <p>Il dit, en souriant : « Merci, vous êtes un ange… un ange gardien. » Puis ils parlèrent de choses et d'autres.</p>
           <p>Il resta longtemps, voulant prouver qu'il avait plaisir à se trouver près d'elle ; et, en la quittant, il demanda encore :</p>
           <p>« C'est entendu, nous sommes des amis ?</p>
-          <p>– C'est entendu. »</p>
+          <p>— C'est entendu. »</p>
           <p>Comme il avait senti l'effet de son compliment, tout à l'heure, il l'appuya, ajoutant :</p>
           <p>« Et si vous devenez jamais veuve, je m'inscris. »</p>
           <p>Puis il se sauva bien vite pour ne point lui laisser le loisir de se fâcher.</p>
@@ -1420,7 +1420,7 @@
           <p>Une nouvelle entrée eut lieu, celle d'une petite blonde frisée, qui détermina la sortie d'une grande personne sèche, entre deux âges.</p>
           <p>Et on parla des chances qu'avait M. Linet pour entrer à l'Académie. La nouvelle venue pensait fermement qu'il serait battu par M. Cabanon-Lebas, l'auteur de la belle adaptation en vers français de Don Quichotte pour le théâtre.</p>
           <p>« Vous savez que ce sera joué à l'Odéon l'hiver prochain !</p>
-          <p>– Ah ! vraiment. J'irai certainement voir cette tentative très littéraire. »</p>
+          <p>— Ah ! vraiment. J'irai certainement voir cette tentative très littéraire. »</p>
           <p>Mme Walter répondait gracieusement, avec calme et indifférence, sans hésiter jamais sur ce qu'elle devait dire, son opinion étant toujours prête d'avance.</p>
           <p>Mais elle s'aperçut que la nuit venait et elle sonna pour les lampes, tout en écoutant la causerie qui coulait comme un ruisseau de guimauve, et en pensant qu'elle avait oublié de passer chez le graveur pour les cartes d'invitation du prochain dîner.</p>
           <p>Elle était un peu trop grasse, belle encore, à l'âge dangereux où la débâcle est proche. Elle se maintenait à force de soins, de précautions, d'hygiène et de pâtes pour la peau. Elle semblait sage en tout, modérée et raisonnable, une de ces femmes dont l'esprit est aligné comme un jardin français. On y circule sans surprise, tout en y trouvant un certain charme. Elle avait de la raison, une raison fine, discrète et sûre, qui lui tenait lieu de fantaisie, de la bonté, du dévouement, et une bienveillance tranquille, large pour tout le monde et pour tout.</p>
@@ -1480,7 +1480,7 @@
           <p>Duroy savait pourtant que le patron était père de famille, mais il fut saisi d'étonnement. Il n'avait jamais songé aux filles de son directeur que comme on songe aux pays lointains qu'on ne verra jamais. Et puis il se les était figuré toutes petites et il voyait des femmes. Il en ressentait le léger trouble moral que produit un changement à vue.</p>
           <p>Elles lui tendirent la main, l'une après l'autre, après la présentation, et elles allèrent s'asseoir à une petite table qui leur était sans doute réservée, où elles se mirent à remuer un tas de bobines de soie dans une bannette.</p>
           <p>On attendait encore quelqu'un, et on demeurait silencieux, dans cette sorte de gêne qui précède les dîners entre gens qui ne se trouvent pas dans la même atmosphère d'esprit, après les occupations différentes de leur journée. Duroy ayant levé par désœuvrement les yeux vers le mur, M. Walter lui dit, de loin, avec un désir visible de faire valoir son bien : « Vous regardez mes tableaux ? »</p>
-          <p>– Le mes sonna. -- « Je vais vous les montrer. » Et il prit une lampe pour qu'on pût distinguer tous les détails.</p>
+          <p>— Le mes sonna. -- « Je vais vous les montrer. » Et il prit une lampe pour qu'on pût distinguer tous les détails.</p>
           <p>« Ici les paysages », dit-il.</p>
           <p>Au centre du panneau on voyait une grande toile de Guillemet, une plage de Normandie sous un ciel d'orage. Au-dessous, un bois de Harpignies, puis une plaine d'Algérie, par Guillaumet, avec un chameau à l'horizon, un grand chameau sur ses hautes jambes, pareil à un étrange monument.</p>
           <p>M. Walter passa au mur voisin et annonça, avec un ton sérieux, comme un maître de cérémonies : « La grande peinture. » C'étaient quatre toiles : « Une Visite d'hôpital », par Gervex ; « une Moissonneuse », par Bastien-Lepage ; « une Veuve », par Bouguereau, et « une Exécution », par Jean-Paul Laurens. Cette dernière œuvre représentait un prêtre vendéen fusillé contre le mur de son église par un détachement de Bleus.</p>
@@ -1511,7 +1511,7 @@
           <p>Ils furent séparés par une grosse dame qui entrait, une grosse dame décolletée, aux bras rouges, aux joues rouges, vêtue et coiffée avec prétention, et marchant si lourdement qu'on sentait, à la voir aller, le poids et l'épaisseur de ses cuisses.</p>
           <p>Comme on paraissait la traiter avec beaucoup d'égards, Duroy demanda à Mme Forestier :</p>
           <p>« Quelle est cette personne ?</p>
-          <p>– La vicomtesse de Percemur, celle qui signe : « Patte blanche ».</p>
+          <p>— La vicomtesse de Percemur, celle qui signe : « Patte blanche ».</p>
           <p>Il fut stupéfait et saisi par une envie de rire :</p>
           <p>« Patte blanche ! Patte blanche ! Moi qui voyais, en pensée, une jeune femme comme vous ! C'est ça, Patte blanche ? Ah ! elle est bien bonne ! bien bonne ! »</p>
           <p>Un domestique apparut dans la porte et annonça :</p>
@@ -1523,20 +1523,20 @@
           <p>Le jeune homme, cependant, voulant être aimable pour la fille de son patron, lui adressait une phrase de temps en temps. Elle y répondait, comme l'aurait fait sa mère, n'hésitant jamais sur ce qu'elle devait dire.</p>
           <p>À la droite de M. Walter, la vicomtesse de Percemur prenait des allures de princesse ; et Duroy, s'égayant à la regarder, demanda tout bas à Mme de Marelle :</p>
           <p>« Est-ce que vous connaissez l'autre, celle qui signe : « Domino rose » ?</p>
-          <p>– Oui, parfaitement ; la baronne de Livar !</p>
-          <p>– Est-elle du même cru ?</p>
-          <p>– Non. Mais aussi drôle. Une grande sèche, soixante ans, frisons faux, dents à l'anglaise, esprit de la Restauration, toilettes même époque.</p>
-          <p>– Où ont-ils déniché ces phénomènes de lettres ?</p>
-          <p>– Les épaves de la noblesse sont toujours recueillies par les bourgeois parvenus.</p>
-          <p>– Pas d'autre raison ?</p>
-          <p>– Aucune autre. »</p>
+          <p>— Oui, parfaitement ; la baronne de Livar !</p>
+          <p>— Est-elle du même cru ?</p>
+          <p>— Non. Mais aussi drôle. Une grande sèche, soixante ans, frisons faux, dents à l'anglaise, esprit de la Restauration, toilettes même époque.</p>
+          <p>— Où ont-ils déniché ces phénomènes de lettres ?</p>
+          <p>— Les épaves de la noblesse sont toujours recueillies par les bourgeois parvenus.</p>
+          <p>— Pas d'autre raison ?</p>
+          <p>— Aucune autre. »</p>
           <p>Puis une discussion politique commença entre le patron, les deux députés, Norbert de Varenne et Jacques Rival ; et elle dura jusqu'au dessert.</p>
           <p>Quand on fut retourné dans le salon, Duroy s'approcha de nouveau de Mme de Marelle, et, la regardant au fond des yeux : « Voulez-vous que je vous reconduise, ce soir ?</p>
-          <p>– Non.</p>
-          <p>– Pourquoi ?</p>
-          <p>– Parce que M. Laroche-Mathieu, qui est mon voisin, me laisse à ma porte chaque fois que je dîne ici.</p>
-          <p>– Quand vous verrai-je ?</p>
-          <p>– Venez déjeuner avec moi, demain. »</p>
+          <p>— Non.</p>
+          <p>— Pourquoi ?</p>
+          <p>— Parce que M. Laroche-Mathieu, qui est mon voisin, me laisse à ma porte chaque fois que je dîne ici.</p>
+          <p>— Quand vous verrai-je ?</p>
+          <p>— Venez déjeuner avec moi, demain. »</p>
           <p>Et ils se séparèrent sans rien dire de plus.</p>
           <p>Duroy ne resta pas tard, trouvant monotone la soirée. Comme il descendait l'escalier, il rattrapa Norbert de Varenne qui venait aussi de partir. Le vieux poète lui prit le bras. N'ayant plus de rivalité à redouter dans le journal, leur collaboration étant essentiellement différente, il témoignait maintenant au jeune homme une bienveillance d'aïeul.</p>
           <p>« Eh bien, vous allez me reconduire un bout de chemin ? » dit-il.</p>
@@ -1547,7 +1547,7 @@
           <p>« Ce M. Laroche-Mathieu a l'air fort intelligent et fort instruit. »</p>
           <p>Le vieux poète murmura : « Vous trouvez ? »</p>
           <p>Le jeune homme, surpris, hésitait ; « Mais oui ; il passe d'ailleurs pour un des hommes les plus capables de la Chambre.</p>
-          <p>– C'est possible. Dans le royaume des aveugles les borgnes sont rois. Tous ces gens-là, voyez-vous, sont des médiocres, parce qu'ils ont l'esprit entre deux murs, -- l'argent et la politique. -- Ce sont des cuistres, mon cher, avec qui il est impossible de parler de rien, de rien de ce que nous aimons. Leur intelligence est à fond de vase, ou plutôt à fond de dépotoir, comme la Seine à Asnières.</p>
+          <p>— C'est possible. Dans le royaume des aveugles les borgnes sont rois. Tous ces gens-là, voyez-vous, sont des médiocres, parce qu'ils ont l'esprit entre deux murs, -- l'argent et la politique. -- Ce sont des cuistres, mon cher, avec qui il est impossible de parler de rien, de rien de ce que nous aimons. Leur intelligence est à fond de vase, ou plutôt à fond de dépotoir, comme la Seine à Asnières.</p>
           <p>« Ah ! c'est qu'il est difficile de trouver un homme qui ait de l'espace dans la pensée, qui vous donne la sensation de ces grandes haleines du large qu'on respire sur les côtes de la mer. J'en ai connu quelques-uns, ils sont morts. »</p>
           <p>Norbert de Varenne parlait d'une voix claire, mais retenue, qui aurait sonné dans le silence de la nuit s'il l'avait laissée s'échapper. Il semblait surexcité et triste, d'une de ces tristesses qui tombent parfois sur les âmes et les rendent vibrantes comme la terre sous la gelée.</p>
           <p>Il reprit :</p>
@@ -1634,7 +1634,7 @@
           <p>« Voici longtemps que vous vous occupez de journalisme ? »</p>
           <p>Duroy répondit :</p>
           <p>« Depuis quelques mois seulement. »</p>
-          <p>– Ah ! vous avez marché vite.</p>
+          <p>— Ah ! vous avez marché vite.</p>
           <p>« Oui, assez vite », et il se mit à parler au hasard, sans trop songer à ce qu'il disait, débitant toutes les banalités en usage entre gens qui ne se connaissent point. Il se rassurait maintenant et commençait à trouver la situation fort amusante. Il regardait la figure sérieuse et respectable de M. de Marelle, avec une envie de rire sur les lèvres, en pensant : « Toi, je te fais cocu, mon vieux, je te fais cocu. » Et une satisfaction intime, vicieuse, le pénétrait, une joie de voleur qui a réussi et qu'on ne soupçonne pas, une joie fourbe, délicieuse. Il avait envie, tout à coup, d'être l'ami de cet homme, de gagner sa confiance, de lui faire raconter les choses secrètes de sa vie.</p>
           <p>Mme de Marelle entra brusquement, et les ayant couverts d'un coup d'œil souriant et impénétrable, elle alla vers Duroy qui n'osa point, devant le mari, lui baiser la main, ainsi qu'il le faisait toujours.</p>
           <p>Elle était tranquille et gaie comme une personne habituée à tout, qui trouvait cette rencontre naturelle et simple, en sa rouerie native et franche. Laurine apparut, et vint, plus sagement que de coutume, tendre son front à Georges, la présence de son père l'intimidant. Sa mère lui dit : « Eh bien, tu ne l'appelles plus Bel-Ami, aujourd'hui. » Et l'enfant rougit, comme si on venait de commettre une grosse indiscrétion, de révéler une chose qu'on ne devait pas dire, de dévoiler un secret intime et un peu coupable de son cœur.</p>
@@ -1643,7 +1643,7 @@
           <p>« Je crois qu'il file un bien mauvais coton. Il ne fera pas de vieux os. » Mme de Marelle affirma avec sérénité : « Oh ! il est perdu ! En voilà un qui avait eu de la chance de trouver une femme comme la sienne. »</p>
           <p>Duroy demanda :</p>
           <p>« Elle l'aide beaucoup ?</p>
-          <p>– C'est-à-dire qu'elle fait tout. Elle est au courant de tout, elle connaît tout le monde sans avoir l'air de voir personne ; elle obtient ce qu'elle veut, comme elle veut, et quand elle veut. Oh ! elle est fine, adroite et intrigante comme aucune, celle-là. En voilà un trésor pour un homme qui veut parvenir. »</p>
+          <p>— C'est-à-dire qu'elle fait tout. Elle est au courant de tout, elle connaît tout le monde sans avoir l'air de voir personne ; elle obtient ce qu'elle veut, comme elle veut, et quand elle veut. Oh ! elle est fine, adroite et intrigante comme aucune, celle-là. En voilà un trésor pour un homme qui veut parvenir. »</p>
           <p>Georges reprit :</p>
           <p>« Elle se remariera bien vite, sans doute ? »</p>
           <p>Mme de Marelle répondit :</p>
@@ -1669,8 +1669,8 @@
           <p>L'autre balbutia : « Que voulez-vous, il n'y a pas d'attaque directe. »</p>
           <p>Or, un après-midi, comme il entrait dans la salle de rédaction, Boisrenard lui tendit le numéro de La Plume :</p>
           <p>« Tenez, il y a encore une note désagréable pour vous.</p>
-          <p>– Ah ! à propos de quoi ?</p>
-          <p>– À propos de rien, de l'arrestation d'une dame Aubert par un agent des mœurs. »</p>
+          <p>— Ah ! à propos de quoi ?</p>
+          <p>— À propos de rien, de l'arrestation d'une dame Aubert par un agent des mœurs. »</p>
           <p>Georges prit le journal qu'on lui tendait, et lut, sous ce titre : Duroy s'amuse.</p>
           <p>« L'illustre reporter de La Vie Française nous apprend aujourd'hui que la dame Aubert, dont nous avons annoncé l'arrestation par un agent de l'odieuse brigade des mœurs, n'existe que dans notre imagination. Or, la personne en question demeure 18, rue de l'Écureuil, à Montmartre. Nous comprenons trop, d'ailleurs, quel intérêt ou quels intérêts peuvent avoir les agents de la banque Walter à soutenir ceux du préfet de police qui tolère leur commerce. Quant au reporter dont il s'agit, il ferait mieux de nous donner quelqu'une de ces bonnes nouvelles à sensation dont il a le secret : nouvelles de morts démenties le lendemain, nouvelles de batailles qui n'ont pas eu lieu, annonce de paroles graves prononcées par des souverains qui n'ont rien dit, toutes les informations enfin qui constituent les « Profits Walter », ou même quelqu'une des petites indiscrétions sur des soirées de femmes à succès, ou sur l'excellence de certains produits qui sont d'une grande ressource à quelques-uns de nos confrères. »</p>
           <p>Le jeune homme demeurait interdit, plus qu'irrité, comprenant seulement qu'il y avait là-dedans quelque chose de fort désagréable pour lui.</p>
@@ -1683,7 +1683,7 @@
           <p>« Dame, oui. C'est embêtant pour vous. Le patron est fort sur l'œil à ce sujet. Ça pourrait arriver si souvent dans les échos… »</p>
           <p>Saint-Potin, justement, entrait. Duroy courut à lui :</p>
           <p>« Vous avez vu la note de La Plume ? »</p>
-          <p>– Oui, et je viens de chez la dame Aubert. Elle existe parfaitement, mais elle n'a pas été arrêtée. Ce bruit n'a aucun fondement. »</p>
+          <p>— Oui, et je viens de chez la dame Aubert. Elle existe parfaitement, mais elle n'a pas été arrêtée. Ce bruit n'a aucun fondement. »</p>
           <p>Alors Duroy s'élança chez le patron qu'il trouva un peu froid, avec un œil soupçonneux. Après avoir écouté le cas, M. Walter répondit : « Allez vous-même chez cette dame et démentez de façon qu'on n'écrive plus de pareilles choses sur vous. Je parle de ce qui suit. C'est fort ennuyeux pour le journal, pour moi et pour vous. Pas plus que la femme de César, un journaliste ne doit être soupçonné. »</p>
           <p>Duroy monta en fiacre avec Saint-Potin pour guide, et il cria au cocher : « 18, rue de l'Écureuil, à Montmartre. »</p>
           <p>C'était dans une immense maison dont il fallut escalader les six étages. Une vieille femme en caraco de laine vint lui ouvrir : « Qu'est-ce que vous me r'voulez ? » dit-elle en apercevant Saint-Potin.</p>
@@ -1691,12 +1691,12 @@
           <p>« Je vous amène monsieur, qui est inspecteur de police et qui voudrait bien savoir votre affaire. »</p>
           <p>Alors elle les fit entrer, en racontant :</p>
           <p>« Il en est encore r'venu deux d'puis vous pour un journal, je n'sais point l'quel. » Puis, se tournant vers Duroy : « Donc, c'est monsieur qui désire savoir ?</p>
-          <p>– Oui. Est-ce que vous avez été arrêtée par un agent des mœurs ? »</p>
+          <p>— Oui. Est-ce que vous avez été arrêtée par un agent des mœurs ? »</p>
           <p>Elle leva les bras :</p>
           <p>« Jamais d'la vie, mon bon monsieur, jamais d'la vie. Voilà la chose. J'ai un boucher qui sert bien mais qui pèse mal. Je m'en ai aperçu souvent sans rien dire, mais comme je lui demandais deux livres de côtelettes, vu que j'aurais ma fille et mon gendre, je m'aperçois qu'il me pèse des os de déchet, des os de côtelettes, c'est vrai, mais pas des miennes. J'aurais pu en faire du ragoût, c'est encore vrai, mais quand je demande des côtelettes, c'est pas pour avoir le déchet des autres. Je refuse donc, alors y me traite de vieux rat, je lui réplique vieux fripon ; bref, de fil en aiguille, nous nous sommes chamaillés qu'il y avait plus de cent personnes devant la boutique et qui riaient, qui riaient ! Tant qu'enfin un agent fut attiré et nous invita à nous expliquer chez le commissaire. Nous y fûmes, et on nous renvoya dos à dos. Moi, depuis, je m'sers ailleurs, et je n'passe même pu devant la porte, pour éviter des esclandres. »</p>
           <p>Elle se tut. Duroy demanda :</p>
           <p>« C'est tout ?</p>
-          <p>– C'est toute la vérité, mon cher monsieur « et, lui ayant offert un verre de cassis, qu'il refusa de boire, la vieille insista pour qu'on parlât dans le rapport des fausses pesées du boucher.</p>
+          <p>— C'est toute la vérité, mon cher monsieur « et, lui ayant offert un verre de cassis, qu'il refusa de boire, la vieille insista pour qu'on parlât dans le rapport des fausses pesées du boucher.</p>
           <p>De retour au journal, Duroy rédigea sa réponse :</p>
           <p>« Un écrivaillon anonyme de La Plume, s'en étant arraché une, me cherche noise au sujet d'une vieille femme qu'il prétend avoir été arrêtée par un agent des mœurs, ce que je nie. J'ai vu moi-même la dame Aubert, âgée de soixante ans au moins, et elle m'a raconté par le menu sa querelle avec un boucher, au sujet d'une pesée de côtelettes, ce qui nécessita une explication devant le commissaire de police.</p>
           <p>« Voilà toute la vérité. »</p>
@@ -1720,14 +1720,14 @@
           <p>Le jeune homme ne répondit rien. Le directeur reprit :</p>
           <p>« Allez tout de suite trouver Rival qui se chargera de vos intérêts. »</p>
           <p>Duroy balbutia quelques mots vagues et sortit pour se rendre chez le chroniqueur, qui dormait encore. Il sauta du lit, au coup de sonnette, puis ayant lu l'écho : « Bigre, il faut y aller. Qui voyez-vous comme autre témoin ? »</p>
-          <p>– Mais, je ne sais pas, moi.</p>
-          <p>– Boisrenard ? -- Qu'en pensez-vous ?</p>
-          <p>– Oui, Boisrenard.</p>
-          <p>– Êtes-vous fort aux armes ?</p>
-          <p>– Pas du tout.</p>
-          <p>– Ah ! diable ! Et au pistolet ?</p>
-          <p>– Je tire un peu.</p>
-          <p>– Bon. Vous allez vous exercer pendant que je m'occuperai de tout. Attendez-moi une minute. »</p>
+          <p>— Mais, je ne sais pas, moi.</p>
+          <p>— Boisrenard ? -- Qu'en pensez-vous ?</p>
+          <p>— Oui, Boisrenard.</p>
+          <p>— Êtes-vous fort aux armes ?</p>
+          <p>— Pas du tout.</p>
+          <p>— Ah ! diable ! Et au pistolet ?</p>
+          <p>— Je tire un peu.</p>
+          <p>— Bon. Vous allez vous exercer pendant que je m'occuperai de tout. Attendez-moi une minute. »</p>
           <p>Il passa dans son cabinet de toilette et reparut bientôt, lavé, rasé, correct.</p>
           <p>« Venez avec moi », dit-il.</p>
           <p>Il habitait au rez-de-chaussée d'un petit hôtel, et il fit descendre Duroy dans la cave, une cave énorme, convertie en salle d'armes et en tir, toutes les ouvertures sur la rue étant bouchées.</p>
@@ -1801,11 +1801,11 @@
           <p>« Déjà ! »</p>
           <p>Ils étaient enveloppés de fourrures. Rival déclara, après avoir serré la main de son client :</p>
           <p>« Il fait un froid de Sibérie. » Puis il demanda : « Ça va bien ?</p>
-          <p>– Oui, très bien.</p>
-          <p>– On est calme ?</p>
-          <p>– Très calme.</p>
-          <p>– Allons, ça ira. Avez-vous bu et mangé quelque chose ?</p>
-          <p>– Oui, je n'ai besoin de rien. »</p>
+          <p>— Oui, très bien.</p>
+          <p>— On est calme ?</p>
+          <p>— Très calme.</p>
+          <p>— Allons, ça ira. Avez-vous bu et mangé quelque chose ?</p>
+          <p>— Oui, je n'ai besoin de rien. »</p>
           <p>Boisrenard, pour la circonstance, portait une décoration étrangère, verte et jaune, que Duroy ne lui avait jamais vue.</p>
           <p>Ils descendirent. Un monsieur les attendait dans le landau. Rival nomma : « Le docteur Le Brument. » Duroy lui serra la main en balbutiant : « Je vous remercie », puis il voulut prendre place sur la banquette du devant et il s'assit sur quelque chose de dur qui le fit relever comme si un ressort l'eût redressé. C'était la boîte aux pistolets.</p>
           <p>Rival répétait : « Non ! Au fond le combattant et le médecin, au fond ! » Duroy finit par comprendre et il s'affaissa à côté du docteur.</p>
@@ -1827,7 +1827,7 @@
           <p>Les témoins descendirent d'abord, puis le médecin et le combattant. Rival avait pris la boîte aux pistolets et il s'en alla avec Boisrenard vers deux des étrangers qui venaient à eux. Duroy les vit se saluer avec cérémonie puis marcher ensemble dans la clairière en regardant tantôt par terre et tantôt dans les arbres, comme s'ils avaient cherché quelque chose qui aurait pu tomber ou s'envoler. Puis ils comptèrent des pas et enfoncèrent avec grand-peine deux cannes dans le sol gelé. Ils se réunirent ensuite en groupe et ils firent les mouvements du jeu de pile ou face, comme des enfants qui s'amusent.</p>
           <p>Le docteur Le Brument demandait à Duroy :</p>
           <p>« Vous vous sentez bien ? Vous n'avez besoin de rien ?</p>
-          <p>– Non, de rien, merci. »</p>
+          <p>— Non, de rien, merci. »</p>
           <p>Il lui semblait qu'il était fou, qu'il dormait, qu'il rêvait, que quelque chose de surnaturel était survenu qui l'enveloppait.</p>
           <p>Avait-il peur ? Peut-être ? Mais il ne savait pas. Tout était changé autour de lui.</p>
           <p>Jacques Rival revint et lui annonça tout bas avec satisfaction :</p>
@@ -1871,8 +1871,8 @@
           <p>« Oh ! mon chéri, si tu savais mon émotion quand j'ai lu les journaux ce matin. Oh ! raconte-moi. Dis-moi tout. Je veux savoir. »</p>
           <p>Il dut raconter les détails avec minutie. Elle demandait :</p>
           <p>« Comme tu as dû avoir une mauvaise nuit avant le duel !</p>
-          <p>– Mais non. J'ai bien dormi.</p>
-          <p>– Moi, je n'aurais pas fermé l'œil. Et sur le terrain, dis-moi comment ça s'est passé. »</p>
+          <p>— Mais non. J'ai bien dormi.</p>
+          <p>— Moi, je n'aurais pas fermé l'œil. Et sur le terrain, dis-moi comment ça s'est passé. »</p>
           <p>Il fit un récit dramatique :</p>
           <p>« Lorsque nous fûmes en face l'un de l'autre, à vingt pas, quatre fois seulement la longueur de cette chambre, Jacques, après avoir demandé si nous étions prêts, commanda : « Feu. » J'ai élevé mon bras immédiatement, bien en ligne, mais j'ai eu le tort de vouloir viser la tête. J'avais une arme fort dure et je suis accoutumé à des pistolets bien doux, de sorte que la résistance de la gâchette a relevé le coup. N'importe, ça n'a pas dû passer loin. Lui aussi il tire bien, le gredin. Sa balle m'a effleuré la tempe. J'en ai senti le vent. »</p>
           <p>Elle était assise sur ses genoux et le tenait dans ses bras comme pour prendre part à son danger. Elle balbutiait : « Oh ! mon pauvre chéri, mon pauvre chéri… »</p>
@@ -1880,26 +1880,26 @@
           <p>« Tu ne sais pas, je ne peux plus me passer de toi ! Il faut que je te voie, et, avec mon mari à Paris, ça n'est pas commode. Souvent, j'aurais une heure le matin, avant que tu sois levé, et je pourrais aller t'embrasser, mais je ne veux pas rentrer dans ton affreuse maison. Comment faire ? »</p>
           <p>Il eut brusquement une inspiration et demanda :</p>
           <p>« Combien paies-tu ici ?</p>
-          <p>– Cent francs par mois.</p>
-          <p>– Eh bien, je prends l'appartement à mon compte et je vais l'habiter tout à fait. Le mien n'est plus suffisant dans ma nouvelle position. »</p>
+          <p>— Cent francs par mois.</p>
+          <p>— Eh bien, je prends l'appartement à mon compte et je vais l'habiter tout à fait. Le mien n'est plus suffisant dans ma nouvelle position. »</p>
           <p>Elle réfléchit quelques instants, puis répondit :</p>
           <p>« Non. Je ne veux pas. »</p>
           <p>Il s'étonna :</p>
           <p>« Pourquoi ça ?</p>
-          <p>– Parce que…</p>
-          <p>– Ce n'est pas une raison. Ce logement me convient très bien. J'y suis. J'y reste. »</p>
+          <p>— Parce que…</p>
+          <p>— Ce n'est pas une raison. Ce logement me convient très bien. J'y suis. J'y reste. »</p>
           <p>Il se mit à rire :</p>
           <p>« D'ailleurs, il est à mon nom. »</p>
           <p>Mais elle refusait toujours :</p>
           <p>« Non, non, je ne veux pas…</p>
-          <p>– Pourquoi ça, enfin ? »</p>
+          <p>— Pourquoi ça, enfin ? »</p>
           <p>Alors elle chuchota tout bas, tendrement : « Parce que tu y amènerais des femmes, et je ne veux pas. »</p>
           <p>Il s'indigna :</p>
           <p>« Jamais de la vie, par exemple. Je te le promets.</p>
-          <p>– Non, tu en amènerais tout de même.</p>
-          <p>– Je te le jure.</p>
-          <p>– Bien vrai ?</p>
-          <p>– Bien vrai. Parole d'honneur. C'est notre maison, ça, rien qu'à nous. »</p>
+          <p>— Non, tu en amènerais tout de même.</p>
+          <p>— Je te le jure.</p>
+          <p>— Bien vrai ?</p>
+          <p>— Bien vrai. Parole d'honneur. C'est notre maison, ça, rien qu'à nous. »</p>
           <p>Elle l'étreignit dans un élan d'amour :</p>
           <p>« Alors je veux bien, mon chéri. Mais tu sais, si tu me trompes une fois, rien qu'une fois, ce sera fini entre nous, fini pour toujours. »</p>
           <p>Il jura encore avec des protestations, et il fut convenu qu'il s'installerait le jour même, afin qu'elle pût le voir quand elle passerait devant la porte.</p>
@@ -1907,12 +1907,12 @@
           <p>« En tout cas, viens dîner dimanche. Mon mari te trouve charmant. »</p>
           <p>Il fut flatté :</p>
           <p>« Ah ! vraiment ?…</p>
-          <p>– Oui, tu as fait sa conquête. Et puis écoute, tu m'as dit que tu avais été élevé dans un château à la campagne, n'est-ce pas ?</p>
-          <p>– Oui, pourquoi ?</p>
-          <p>– Alors tu dois connaître un peu la culture ?</p>
-          <p>– Oui.</p>
-          <p>– Eh bien, parle-lui de jardinage et de récoltes, il aime beaucoup ça.</p>
-          <p>– Bon. Je n'oublierai pas. »</p>
+          <p>— Oui, tu as fait sa conquête. Et puis écoute, tu m'as dit que tu avais été élevé dans un château à la campagne, n'est-ce pas ?</p>
+          <p>— Oui, pourquoi ?</p>
+          <p>— Alors tu dois connaître un peu la culture ?</p>
+          <p>— Oui.</p>
+          <p>— Eh bien, parle-lui de jardinage et de récoltes, il aime beaucoup ça.</p>
+          <p>— Bon. Je n'oublierai pas. »</p>
           <p>Elle le quitta, après l'avoir indéfiniment embrassé, ce duel ayant exaspéré sa tendresse.</p>
           <p>Et Duroy pensait, en se rendant au journal : « Quel drôle d'être ça fait ! Quelle tête d'oiseau ! Sait-on ce qu'elle veut et ce qu'elle aime ? Et quel drôle de ménage ! Quel fantaisiste a bien pu préparer l'accouplement de ce vieux et de cette écervelée ? Quel raisonnement a décidé cet inspecteur à épouser cette étudiante ? Mystère ! Qui sait ? L'amour, peut-être ? »</p>
           <p>Puis il conclut : « Enfin, c'est une bien gentille maîtresse. Je serais rudement bête de la lâcher. »</p>
@@ -1947,7 +1947,7 @@
           <p>« Oh ! monsieur, madame vous attend avec bien de l'impatience. »</p>
           <p>Duroy demanda :</p>
           <p>« Comment va votre maître ?</p>
-          <p>– Oh ! pas bien, monsieur. Il n'en a pas pour longtemps. »</p>
+          <p>— Oh ! pas bien, monsieur. Il n'en a pas pour longtemps. »</p>
           <p>Le salon où le jeune homme entra était tendu de perse rose à dessins bleus. La fenêtre, large et haute, donnait sur la ville et sur la mer.</p>
           <p>Duroy murmurait : « Bigre, c'est chic ici comme maison de campagne. Où diable prennent-ils tout cet argent-là ? »</p>
           <p>Un bruit de robe le fit se retourner.</p>
@@ -1960,7 +1960,7 @@
           <p>« Vous descendrez ici, dans la villa. Votre chambre est prête, du reste. Il peut mourir d'un moment à l'autre, et si cela arrivait la nuit, je serais seule. J'enverrai chercher votre bagage. »</p>
           <p>Il s'inclina :</p>
           <p>« Comme vous voudrez.</p>
-          <p>– Maintenant, montons », dit-elle,</p>
+          <p>— Maintenant, montons », dit-elle,</p>
           <p>Il la suivit. Elle ouvrit une porte au premier étage, et Duroy aperçut auprès d'une fenêtre, assis dans un fauteuil et enroulé dans des couvertures, livide sous la clarté rouge du soleil couchant, une espèce de cadavre qui le regardait. Il le reconnaissait à peine ; il devina plutôt que c'était son ami.</p>
           <p>On sentait dans cette chambre la fièvre, la tisane, l'éther, le goudron, cette odeur innommable et lourde des appartements où respire un poitrinaire.</p>
           <p>Forestier souleva sa main d'un geste pénible et lent.</p>
@@ -1996,7 +1996,7 @@
           <p>« Sacristi, il fait rudement bon ici, comparativement à Paris. Là-bas on est encore en plein hiver. Il neige, il grêle, il pleut, et il fait sombre à allumer les lampes dès trois heures de l'après-midi. »</p>
           <p>Forestier demanda :</p>
           <p>« Rien de nouveau au journal ?</p>
-          <p>– Rien de nouveau. On a pris pour te remplacer le petit Lacrin qui sort du Voltaire ; mais il n'est pas mûr. Il est temps que tu reviennes ! »</p>
+          <p>— Rien de nouveau. On a pris pour te remplacer le petit Lacrin qui sort du Voltaire ; mais il n'est pas mûr. Il est temps que tu reviennes ! »</p>
           <p>Le malade balbutia :</p>
           <p>« Moi ? J'irai faire de la chronique à six pieds sous terre maintenant. »</p>
           <p>L'idée fixe revenait comme un coup de cloche à propos de tout, reparaissait sans cesse dans chaque pensée, dans chaque phrase.</p>
@@ -2086,11 +2086,11 @@
           <p>« Est-ce que vous tarderez beaucoup à rentrer à Paris ? »</p>
           <p>Elle répondit :</p>
           <p>« Oh ! non. Dès que tout sera fini je reviendrai.</p>
-          <p>– Dans une dizaine de jours ?</p>
-          <p>– Oui, au plus. »</p>
+          <p>— Dans une dizaine de jours ?</p>
+          <p>— Oui, au plus. »</p>
           <p>Il reprit :</p>
           <p>« Il n'a donc aucun parent ?</p>
-          <p>– Aucun, sauf des cousins. Son père et sa mère sont morts comme il était tout jeune. »</p>
+          <p>— Aucun, sauf des cousins. Son père et sa mère sont morts comme il était tout jeune. »</p>
           <p>Ils regardaient tous deux un papillon cueillant sa vie sur les œillets, allant de l'un à l'autre avec une rapide palpitation des ailes qui continuaient à battre lentement quand il s'était posé sur la fleur. Et ils restèrent longtemps silencieux.</p>
           <p>Le domestique vint les prévenir que « M. le curé avait fini ». Et ils remontèrent ensemble.</p>
           <p>Forestier semblait avoir encore maigri depuis la veille.</p>
@@ -2228,19 +2228,19 @@
           <p>L'été se passa, puis l'automne, sans qu'aucun soupçon vînt à personne, car ils se voyaient peu, et le plus naturellement du monde.</p>
           <p>Un soir Madeleine lui dit, en le regardant au fond des yeux :</p>
           <p>« Vous n'avez pas encore annoncé notre projet à Mme de Marelle ?</p>
-          <p>– Non, mon amie. Vous ayant promis le secret je n'en ai ouvert la bouche à âme qui vive.</p>
-          <p>– Eh bien, il serait temps de la prévenir. Moi, je me charge des Walter. Ce sera fait cette semaine, n'est-ce pas ? »</p>
+          <p>— Non, mon amie. Vous ayant promis le secret je n'en ai ouvert la bouche à âme qui vive.</p>
+          <p>— Eh bien, il serait temps de la prévenir. Moi, je me charge des Walter. Ce sera fait cette semaine, n'est-ce pas ? »</p>
           <p>Il avait rougi.</p>
           <p>« Oui, dès demain. »</p>
           <p>Elle détourna doucement les yeux, comme pour ne point remarquer son trouble, et reprit : « Si vous le voulez, nous pourrons nous marier au commencement de mai. Ce serait très convenable.</p>
-          <p>– J'obéis en tout avec joie.</p>
-          <p>– Le 10 mai, qui est un samedi, me plairait beaucoup, parce que c'est mon jour de naissance.</p>
-          <p>– Soit, le 10 mai.</p>
-          <p>– Vos parents habitent près de Rouen, n'est-ce pas ? Vous me l'avez dit du moins.</p>
-          <p>– Oui, près de Rouen, à Canteleu.</p>
-          <p>– Qu'est-ce qu'ils font ?</p>
-          <p>– Ils sont… ils sont petits rentiers.</p>
-          <p>– Ah ! J'ai un grand désir de les connaître. »</p>
+          <p>— J'obéis en tout avec joie.</p>
+          <p>— Le 10 mai, qui est un samedi, me plairait beaucoup, parce que c'est mon jour de naissance.</p>
+          <p>— Soit, le 10 mai.</p>
+          <p>— Vos parents habitent près de Rouen, n'est-ce pas ? Vous me l'avez dit du moins.</p>
+          <p>— Oui, près de Rouen, à Canteleu.</p>
+          <p>— Qu'est-ce qu'ils font ?</p>
+          <p>— Ils sont… ils sont petits rentiers.</p>
+          <p>— Ah ! J'ai un grand désir de les connaître. »</p>
           <p>Il hésita, fort perplexe :</p>
           <p>« Mais… c'est que, ils sont… »</p>
           <p>Puis il prit son parti en homme vraiment fort :</p>
@@ -2251,11 +2251,11 @@
           <p>« J'ai pensé à quelque chose, dit-elle, mais c'est assez difficile à expliquer. »</p>
           <p>Il demanda :</p>
           <p>« Quoi donc ?</p>
-          <p>– Eh bien, voilà, mon cher, je suis comme toutes les femmes, j'ai mes… mes faiblesses, mes petitesses, j'aime ce qui brille, ce qui sonne. J'aurais adoré porter un nom noble. Est-ce que vous ne pourriez pas, à l'occasion de notre mariage, vous… vous anoblir un peu ? »</p>
+          <p>— Eh bien, voilà, mon cher, je suis comme toutes les femmes, j'ai mes… mes faiblesses, mes petitesses, j'aime ce qui brille, ce qui sonne. J'aurais adoré porter un nom noble. Est-ce que vous ne pourriez pas, à l'occasion de notre mariage, vous… vous anoblir un peu ? »</p>
           <p>Elle avait rougi, à son tour ; comme si elle lui eût proposé une indélicatesse.</p>
           <p>Il répondit simplement :</p>
           <p>« J'y ai bien souvent songé, mais cela ne me paraît pas facile.</p>
-          <p>– Pourquoi donc ? »</p>
+          <p>— Pourquoi donc ? »</p>
           <p>Il se mit à rire :</p>
           <p>« Parce que j'ai peur de me rendre ridicule. »</p>
           <p>Elle haussa les épaules :</p>
@@ -2264,7 +2264,7 @@
           <p>« Non, ça ne va pas. C'est un procédé trop simple, trop commun, trop connu. Moi j'avais pensé à prendre le nom de mon pays, comme pseudonyme littéraire d'abord, puis à l'ajouter peu à peu au mien, puis même, plus tard, à couper en deux mon nom comme vous me le proposiez. »</p>
           <p>Elle demanda :</p>
           <p>« Votre pays c'est Canteleu ?</p>
-          <p>– Oui. »</p>
+          <p>— Oui. »</p>
           <p>Mais elle hésitait :</p>
           <p>« Non. Je n'en aime pas la terminaison. Voyons, est-ce que nous ne pourrions pas modifier un peu ce mot… Canteleu ? »</p>
           <p>Elle avait pris une plume sur la table et elle griffonnait des noms en étudiant leur physionomie. Soudain elle s'écria : « Tenez, tenez, voici. »</p>
@@ -2275,7 +2275,7 @@
           <p>« Duroy de Cantel, Duroy de Cantel, Madame Duroy de Cantel. C'est excellent, excellent ! »</p>
           <p>Elle ajouta, d'un air convaincu :</p>
           <p>« Et vous verrez comme c'est facile à faire accepter par tout le monde. Mais il faut saisir l'occasion. Car il serait trop tard ensuite. Vous allez, dès demain, signer vos chroniques D. de Cantel, et vos échos tout simplement Duroy. Ça se fait tous les jours dans la presse et personne ne s'étonnera de vous voir prendre un nom de guerre. Au moment de notre mariage, nous pourrons encore modifier un peu cela en disant aux amis que vous aviez renoncé à votre du par modestie, étant donné votre position, ou même sans rien dire du tout. Quel est le petit nom de votre père ?</p>
-          <p>– Alexandre. »</p>
+          <p>— Alexandre. »</p>
           <p>Elle murmura deux ou trois fois de suite : « Alexandre, Alexandre », en écoutant la sonorité des syllabes, puis elle écrivit sur une feuille toute blanche : « Monsieur et Madame Alexandre du Roy de Cantel ont l'honneur de vous faire part du mariage de Monsieur Georges du Roy de Cantel, leur fils, avec Madame Madeleine Forestier. »</p>
           <p>Elle regardait son écriture d'un peu loin, ravie de l'effet, et elle déclara :</p>
           <p>« Avec un rien de méthode, on arrive à réussir tout ce qu'on veut. »</p>
@@ -2292,7 +2292,7 @@
           <p>Elle se jeta dans ses bras. » Bonjour, Bel-Ami. »</p>
           <p>Puis, trouvant froide son étreinte, elle le considéra et demanda :</p>
           <p>« Qu'est-ce que tu as ?</p>
-          <p>– Assieds-toi, dit-il. Nous allons causer sérieusement. »</p>
+          <p>— Assieds-toi, dit-il. Nous allons causer sérieusement. »</p>
           <p>Elle s'assit sans ôter son chapeau, relevant seulement sa voilette jusqu'au-dessus du front, et elle attendit.</p>
           <p>Il avait baissé les yeux ; il préparait son début. Il commença d'une voix lente :</p>
           <p>« Ma chère amie, tu me vois fort troublé, fort triste et fort embarrassé de ce que j'ai à t'avouer. Je t'aime beaucoup, je t'aime vraiment du fond du cœur, aussi la crainte de te faire de la peine m'afflige-t-elle plus encore que la nouvelle même que je vais t'apprendre. »</p>
@@ -2323,7 +2323,7 @@
           <p>Il répondit avec tranquillité : « Mais oui… »</p>
           <p>Elle le fouillait de son œil clair.</p>
           <p>« Et ça ne l'a pas émue ?</p>
-          <p>– Mais non, pas du tout. Elle a trouvé ça très bien, au contraire. »</p>
+          <p>— Mais non, pas du tout. Elle a trouvé ça très bien, au contraire. »</p>
           <p>La nouvelle fut bientôt connue. Les uns s'étonnèrent, d'autres prétendirent l'avoir prévu, d'autres encore sourirent en laissant entendre que ça ne les surprenait point.</p>
           <p>Le jeune homme qui signait maintenant D. de Cantel ses chroniques, Duroy ses échos, et du Roy les articles politiques qu'il commençait à donner de temps en temps, passait la moitié des jours chez sa fiancée qui le traitait avec une familiarité fraternelle où entrait cependant une tendresse vraie mais cachée, une sorte de désir dissimulé comme une faiblesse. Elle avait décidé que le mariage se ferait en grand secret, en présence des seuls témoins, et qu'on partirait le soir même pour Rouen. On irait le lendemain embrasser les vieux parents du journaliste, et on demeurerait quelques jours auprès d'eux.</p>
           <p>Duroy s'était efforcé de la faire renoncer à ce projet, mais n'ayant pu y parvenir, il s'était soumis, à la fin.</p>
@@ -2345,7 +2345,7 @@
           <p>Il serrait cette main par petites pressions, sans qu'elle répondît à son appel. Il dit : « Ça me semble très drôle que vous soyez ma femme. »</p>
           <p>Elle parut surprise :</p>
           <p>« Pourquoi ça ?</p>
-          <p>– Je ne sais pas. Ça me semble drôle. J'ai envie de vous embrasser, et je m'étonne d'en avoir le droit. »</p>
+          <p>— Je ne sais pas. Ça me semble drôle. J'ai envie de vous embrasser, et je m'étonne d'en avoir le droit. »</p>
           <p>Elle lui tendit tranquillement sa joue, qu'il baisa comme il eût baisé celle d'une sœur.</p>
           <p>Il reprit :</p>
           <p>« La première fois que je vous ai vue (vous savez bien, à ce dîner où m'avait invité Forestier), j'ai pensé : « Sacristi, si je pouvais découvrir une femme comme ça. » Eh bien, c'est fait. Je l'ai. »</p>
@@ -2371,7 +2371,7 @@
           <p>Elle se dégagea d'un grand effort, et, se levant avec vivacité :</p>
           <p>« Oh ! voyons, Georges, finissez. Nous ne sommes pourtant plus des enfants, nous pouvons bien attendre Rouen. »</p>
           <p>Il demeurait assis, très rouge, et glacé par ces mots raisonnables ; puis, ayant repris quelque sang-froid : « Soit, j'attendrai, dit-il avec gaieté, mais je ne suis plus fichu de prononcer vingt paroles jusqu'à l'arrivée. Et songez que nous traversons Poissy.</p>
-          <p>– C'est moi qui parlerai », dit-elle.</p>
+          <p>— C'est moi qui parlerai », dit-elle.</p>
           <p>Elle se rassit doucement auprès de lui.</p>
           <p>Et elle parla, avec précision, de ce qu'ils feraient à leur retour. Ils devaient conserver l'appartement qu'elle habitait avec son premier mari, et Duroy héritait aussi des fonctions et du traitement de Forestier à La Vie Française.</p>
           <p>Avant leur union, du reste, elle avait réglé, avec une sûreté d'homme d'affaires, tous les détails financiers du ménage.</p>
@@ -2390,11 +2390,11 @@
           <p>« Vous avez l'air niais, comme ça », dit-elle.</p>
           <p>Il répliqua :</p>
           <p>« C'est mon rôle, auquel vous m'avez d'ailleurs rappelé tout à l'heure, et je n'en sortirai plus.</p>
-          <p>– Pourquoi ?</p>
-          <p>– Parce que c'est vous qui prenez la direction de la maison, et même celle de ma personne. Cela vous regarde, en effet, comme veuve ! »</p>
+          <p>— Pourquoi ?</p>
+          <p>— Parce que c'est vous qui prenez la direction de la maison, et même celle de ma personne. Cela vous regarde, en effet, comme veuve ! »</p>
           <p>Elle fut étonnée :</p>
           <p>« Que voulez-vous dire au juste ?</p>
-          <p>– Que vous avez une expérience qui doit dissiper mon ignorance, et une pratique du mariage qui doit dégourdir mon innocence de célibataire, voilà, na ! »</p>
+          <p>— Que vous avez une expérience qui doit dissiper mon ignorance, et une pratique du mariage qui doit dégourdir mon innocence de célibataire, voilà, na ! »</p>
           <p>Elle s'écria :</p>
           <p>« C'est trop fort ! »</p>
           <p>Il répondit :</p>
@@ -2469,8 +2469,8 @@
           <p>La vieille, à son tour, baisa sa belle-fille avec une réserve hostile. Non, ce n'était point la bru de ses rêves, la grosse et fraîche fermière, rouge comme une pomme et ronde comme une jument poulinière. Elle avait l'air d'une traînée, cette dame-là, avec ses falbalas et son musc. Car tous les parfums, pour la vieille, étaient du musc.</p>
           <p>Et on se remit en marche à la suite du fiacre qui portait la malle des nouveaux époux.</p>
           <p>Le vieux prit son fils par le bras, et le retenant en arrière, il demanda avec intérêt : « Eh ben, ça va-t-il, les affaires ?</p>
-          <p>– Mais oui, très bien.</p>
-          <p>– Allons suffit, tant mieux ! Dis-mé, ta femme, est-i aisée ? »</p>
+          <p>— Mais oui, très bien.</p>
+          <p>— Allons suffit, tant mieux ! Dis-mé, ta femme, est-i aisée ? »</p>
           <p>Georges répondit :</p>
           <p>« Quarante mille francs. »</p>
           <p>Le père poussa un léger sifflement d'admiration et ne put que murmurer : « Bougre ! » tant il fut ému par la somme. Puis il ajouta avec une conviction sérieuse : « Nom d'un nom, c'est une belle femme. » Car il la trouvait de son goût, lui. Et il avait passé pour connaisseur, dans le temps.</p>
@@ -2519,24 +2519,24 @@
           <p>« Où sommes-nous ? »</p>
           <p>Il répondit :</p>
           <p>« Dans la forêt.</p>
-          <p>– Elle est grande ?</p>
-          <p>– Très grande, une des plus grandes de la France. »</p>
+          <p>— Elle est grande ?</p>
+          <p>— Très grande, une des plus grandes de la France. »</p>
           <p>Une senteur de terre, d'arbres, de mousse, ce parfum frais et vieux des bois touffus, fait de la sève des bourgeons et de l'herbe morte et moisie des fourrés, semblait dormir dans cette allée. En levant la tête, Madeleine apercevait des étoiles entre les sommets des arbres, et bien qu'aucune brise ne remuât les branches, elle sentait autour d'elle la vague palpitation de cet océan de feuilles.</p>
           <p>Un frisson singulier lui passa dans l'âme et lui courut sur la peau ; une angoisse confuse lui serra le cœur. Pourquoi ? Elle ne comprenait pas. Mais il lui semblait qu'elle était perdue, noyée, entourée de périls, abandonnée de tous, seule, seule au monde, sous cette voûte vivante qui frémissait là-haut.</p>
           <p>Elle murmura :</p>
           <p>« J'ai un peu peur. Je voudrais retourner.</p>
-          <p>– Eh bien, revenons.</p>
-          <p>– Et… nous repartirons pour Paris demain ?</p>
-          <p>– Oui, demain..</p>
-          <p>– Demain matin ?</p>
-          <p>– Demain matin, si tu veux. »</p>
+          <p>— Eh bien, revenons.</p>
+          <p>— Et… nous repartirons pour Paris demain ?</p>
+          <p>— Oui, demain..</p>
+          <p>— Demain matin ?</p>
+          <p>— Demain matin, si tu veux. »</p>
           <p>Ils rentrèrent. Les vieux étaient couchés. Elle dormit mal, réveillée sans cesse par tous les bruits nouveaux pour elle de la campagne, les cris des chouettes, le grognement d'un porc enfermé dans une hutte contre le mur, et le chant d'un coq qui claironna dès minuit.</p>
           <p>Elle fut levée et prête à partir aux premières lueurs de l'aurore.</p>
           <p>Quand Georges annonça aux parents qu'il allait s'en retourner, ils demeurèrent saisis tous deux, puis ils comprirent d'où venait cette volonté.</p>
           <p>Le père demanda simplement :</p>
           <p>« J ‘te r'verrons-ti bientôt ?</p>
-          <p>– Mais oui. Dans le courant de l'été.</p>
-          <p>– Allons, tant mieux. »</p>
+          <p>— Mais oui. Dans le courant de l'été.</p>
+          <p>— Allons, tant mieux. »</p>
           <p>La vieille grogna :</p>
           <p>« J' te souhaite de n' point regretter c'que t'as fait. »</p>
           <p>Il leur laissa deux cents francs en cadeau, pour calmer leur mécontentement ; et le fiacre, qu'un gamin était allé chercher, ayant paru vers dix heures, les nouveaux époux embrassèrent les vieux paysans et repartirent.</p>
@@ -2560,7 +2560,7 @@
           <p>Il sonna, ayant oublié sa clef, et le même domestique, qu'il avait gardé aussi sur le conseil de sa femme, vint ouvrir.</p>
           <p>Georges demanda :</p>
           <p>« Madame est rentrée ?</p>
-          <p>– Oui, monsieur. »</p>
+          <p>— Oui, monsieur. »</p>
           <p>Mais en traversant la salle à manger il demeura fort surpris d'apercevoir trois couverts ; et, la portière du salon étant soulevée, il vit Madeleine qui disposait dans un vase de la cheminée une botte de roses toute pareille à la sienne. Il fut contrarié, mécontent, comme si on lui eût volé son idée, son attention et tout le plaisir qu'il en attendait.</p>
           <p>Il demanda en entrant :</p>
           <p>« Tu as donc invité quelqu'un ? »</p>
@@ -2679,7 +2679,7 @@
           <p>Un soir, vers la fin de juin, comme il fumait une cigarette à sa fenêtre, la grande chaleur de la soirée lui donna l'envie de faire une promenade.</p>
           <p>Il demanda :</p>
           <p>Ma petite Made, veux-tu venir jusqu'au Bois ?</p>
-          <p>– Mais oui, certainement. »</p>
+          <p>— Mais oui, certainement. »</p>
           <p>Ils prirent un fiacre découvert, gagnèrent les Champs-Élysées, puis l'avenue du Bois-de-Boulogne. C'était une nuit sans vent, une de ces nuits d'étuve où l'air de Paris surchauffé entre dans la poitrine comme une vapeur de four. Une armée de fiacres menait sous les arbres tout un peuple d'amoureux. Ils allaient, ces fiacres, l'un derrière l'autre, sans cesse.</p>
           <p>Georges et Madeleine s'amusaient à regarder tous ces couples enlacés, passant dans ces voitures, la femme en robe claire et l'homme sombre. C'était un immense fleuve d'amants qui coulait vers le Bois sous le ciel étoilé et brûlant. On n'entendait aucun bruit que le sourd roulement des roues sur la terre. Ils passaient, passaient, les deux êtres de chaque fiacre, allongés sur les coussins, muets, serrés l'un contre l'autre, perdus dans d'hallucination du désir, frémissant dans l'attente de l'étreinte prochaine. L'ombre chaude semblait pleine de baisers. Une sensation de tendresse flottante, d'amour bestial épandu alourdissait l'air, le rendait plus étouffant. Tous ces gens accouplés, grisés de la même pensée, de la même ardeur, faisaient courir une fièvre autour d'eux. Toutes ces voitures chargées d'amour, sur qui semblaient voltiger des caresses, jetaient sur leur passage une sorte de souffle sensuel, subtil et troublant.</p>
           <p>Georges et Madeleine se sentirent eux-mêmes gagnés par la contagion de la tendresse. Ils se prirent doucement la main, sans dire un mot, un peu oppressés par la pesanteur de l'atmosphère et par l'émotion qui les envahissait.</p>
@@ -2699,8 +2699,8 @@
           <p>Et, tout à coup, il eut envie de retourner chez eux, une envie nerveuse qui lui serrait le cœur. Mais l'image de Forestier était rentrée en son esprit, le possédait, l'étreignait. Il ne pouvait plus penser qu'à lui, parler que de lui.</p>
           <p>Il demanda avec un accent méchant :</p>
           <p>« Dis donc, Made ?</p>
-          <p>– Quoi, mon ami ?</p>
-          <p>– L'as-tu fait cocu, ce pauvre Charles' ? »</p>
+          <p>— Quoi, mon ami ?</p>
+          <p>— L'as-tu fait cocu, ce pauvre Charles' ? »</p>
           <p>Elle murmura, dédaigneuse :</p>
           <p>« Que tu deviens bête avec ta rengaine. »</p>
           <p>Mais il ne lâchait pas son idée.</p>
@@ -2737,7 +2737,7 @@
           <p>« Je songe à tous ces imbéciles qui s'embrassent, et je me dis que, vraiment, on a autre chose à faire dans l'existence. »</p>
           <p>Elle murmura :</p>
           <p>« Oui… mais c'est bon quelquefois.</p>
-          <p>– C'est bon… c'est bon… quand on n'a rien de mieux ! »</p>
+          <p>— C'est bon… c'est bon… quand on n'a rien de mieux ! »</p>
           <p>La pensée de Georges allait toujours, dévêtant la vie de sa robe de poésie, dans une sorte de rage méchante : « Je serais bien bête de me gêner, de me priver de quoi que ce soit, de me troubler, de me tracasser, de me ronger l'âme comme je le fais depuis quelque temps. » L'image de Forestier lui traversa l'esprit sans y faire naître aucune irritation. Il lui sembla qu'ils venaient de se réconcilier, qu'ils redevenaient amis. Il avait envie de lui crier : « Bonsoir, vieux. »</p>
           <p>Madeleine, que ce silence gênait, demanda :</p>
           <p>« Si nous allions prendre une glace chez Tortoni, avant de rentrer. »</p>
@@ -2765,7 +2765,7 @@
           <p>« Mais, oui, et vous, Bel-Ami ? »</p>
           <p>Puis, se tournant vers Madeleine, elle ajouta :</p>
           <p>« Tu permets que je l'appelle toujours Bel-Ami ?</p>
-          <p>– Certainement, ma chère, je permets tout ce que tu voudras. »</p>
+          <p>— Certainement, ma chère, je permets tout ce que tu voudras. »</p>
           <p>Une nuance d'ironie semblait cachée dans cette parole.</p>
           <p>Mme Walter parlait d'une fête qu'allait donner Jacques Rival dans son logis de garçon, un grand assaut d'armes où assisteraient des femmes du monde ; elle disait : « Ce sera très intéressant. Mais je suis désolée, nous n'avons personne pour nous y conduire, mon mari devant s'absenter à ce moment-là. »</p>
           <p>Du Roy s'offrit aussitôt. Elle accepta. » Nous vous en serons très reconnaissantes, mes filles et moi. »</p>
@@ -2782,17 +2782,17 @@
           <p>Dès qu'il fut seul en face de sa femme, Madeleine se mit à rire, d'un rire franc et gai, et le regardant bien en face : « Tu sais que tu as inspiré une passion à Mme Walter ? »</p>
           <p>Il répondit incrédule :</p>
           <p>« Allons donc !</p>
-          <p>– Mais oui, je te l'affirme, elle m'a parlé de toi avec un enthousiasme fou. C'est si singulier de sa part ! Elle voudrait trouver deux maris comme toi pour ses filles !… Heureusement qu'avec elle ces choses-là sont sans importance. »</p>
+          <p>— Mais oui, je te l'affirme, elle m'a parlé de toi avec un enthousiasme fou. C'est si singulier de sa part ! Elle voudrait trouver deux maris comme toi pour ses filles !… Heureusement qu'avec elle ces choses-là sont sans importance. »</p>
           <p>Il ne comprenait pas ce qu'elle voulait dire :</p>
           <p>« Comment, sans importance ? »</p>
           <p>Elle répondit, avec une conviction de femme sûre de son jugement :</p>
           <p>« Oh ! Mme Walter est une de celles dont on n'a jamais rien murmuré, mais tu sais, là, jamais, jamais. Elle est inattaquable sous tous les rapports. Son mari, tu le connais comme moi. Mais elle, c'est autre chose. Elle a d'ailleurs assez souffert d'avoir épousé un juif, mais elle lui est restée fidèle. C'est une honnête femme. »</p>
           <p>Du Roy fut surpris :</p>
           <p>« Je la croyais juive aussi.</p>
-          <p>– Elle ? pas du tout. Elle est dame patronnesse de toutes les bonnes œuvres de la Madeleine. Elle est même mariée religieusement. Je ne sais plus s'il y a eu un simulacre de baptême du patron, ou bien si l'Église a fermé les yeux. »</p>
+          <p>— Elle ? pas du tout. Elle est dame patronnesse de toutes les bonnes œuvres de la Madeleine. Elle est même mariée religieusement. Je ne sais plus s'il y a eu un simulacre de baptême du patron, ou bien si l'Église a fermé les yeux. »</p>
           <p>Georges murmura :</p>
           <p>Ah !… alors… elle… me gobe ?</p>
-          <p>– Positivement, et complètement. Si tu n'étais pas engagé, je te conseillerais de demander la main de… de Suzanne, n'est-ce pas, plutôt que celle de Rose ? »</p>
+          <p>— Positivement, et complètement. Si tu n'étais pas engagé, je te conseillerais de demander la main de… de Suzanne, n'est-ce pas, plutôt que celle de Rose ? »</p>
           <p>Il répondit, en frisant sa moustache :</p>
           <p>« Eh ! la mère n'est pas encore piquée des vers. »</p>
           <p>Mais Madeleine s'impatienta :</p>
@@ -2807,45 +2807,45 @@
           <p>Et il entra dans le salon, où une main maladroite faisait des gammes sur le piano. C'était Laurine. Il crut qu'elle allait lui sauter au cou. Elle se leva gravement, salua avec cérémonie, ainsi qu'aurait fait une grande personne, et se retira d'une façon digne.</p>
           <p>Elle avait une telle allure de femme outragée, qu'il demeura surpris. Sa mère entra. Il lui prit et lui baisa les mains.</p>
           <p>« Combien j'ai pensé à vous, dit-il.</p>
-          <p>– Et moi », dit-elle.</p>
+          <p>— Et moi », dit-elle.</p>
           <p>Ils s'assirent. Ils se souriaient, les yeux dans les yeux avec une envie de s'embrasser sur les lèvres.</p>
           <p>« Ma chère petite Clo, je vous aime.</p>
-          <p>– Et moi aussi.</p>
-          <p>– Alors… alors… tu ne m'en as pas trop voulu ?</p>
-          <p>– Oui et non… Ça m'a fait de la peine, et puis j'ai compris ta raison, et je me suis dit : « Bah ! il me reviendra un jour ou l'autre. »</p>
-          <p>– Je n'osais pas revenir ; je me demandais comment je serais reçu. Je n'osais pas, mais j'en avais rudement envie. À propos, dis-moi donc ce qu'a Laurine. Elle m'a à peine dit bonjour et elle est partie d'un air furieux.</p>
-          <p>– Je ne sais pas. Mais on ne peut plus lui parler de toi depuis ton mariage. Je crois vraiment qu'elle est jalouse.</p>
-          <p>– Allons donc !</p>
-          <p>– Mais oui, mon cher. Elle ne t'appelle plus Bel-Ami, elle te nomme M. Forestier. »</p>
+          <p>— Et moi aussi.</p>
+          <p>— Alors… alors… tu ne m'en as pas trop voulu ?</p>
+          <p>— Oui et non… Ça m'a fait de la peine, et puis j'ai compris ta raison, et je me suis dit : « Bah ! il me reviendra un jour ou l'autre. »</p>
+          <p>— Je n'osais pas revenir ; je me demandais comment je serais reçu. Je n'osais pas, mais j'en avais rudement envie. À propos, dis-moi donc ce qu'a Laurine. Elle m'a à peine dit bonjour et elle est partie d'un air furieux.</p>
+          <p>— Je ne sais pas. Mais on ne peut plus lui parler de toi depuis ton mariage. Je crois vraiment qu'elle est jalouse.</p>
+          <p>— Allons donc !</p>
+          <p>— Mais oui, mon cher. Elle ne t'appelle plus Bel-Ami, elle te nomme M. Forestier. »</p>
           <p>Du Roy rougit, puis, s'approchant de la jeune femme :</p>
           <p>« Donne ta bouche. »</p>
           <p>Elle la donna.</p>
           <p>« Où pourrons-nous nous revoir ? dit-il.</p>
-          <p>– Mais… rue de Constantinople.</p>
-          <p>– Ah !… L'appartement n'est donc pas loué ?</p>
-          <p>– Non, je l'ai gardé !</p>
-          <p>– Tu l'as gardé ?</p>
-          <p>– Oui, j'ai pensé que tu y reviendrais. »</p>
+          <p>— Mais… rue de Constantinople.</p>
+          <p>— Ah !… L'appartement n'est donc pas loué ?</p>
+          <p>— Non, je l'ai gardé !</p>
+          <p>— Tu l'as gardé ?</p>
+          <p>— Oui, j'ai pensé que tu y reviendrais. »</p>
           <p>Une bouffée de joie orgueilleuse lui gonfla la poitrine. Elle l'aimait donc, celle-là, d'un amour vrai, constant, profond.</p>
           <p>Il murmura : « Je t'adore. » Puis il demanda : « Ton mari va bien ?</p>
-          <p>– Oui, très bien. Il vient de passer un mois ici ; il est parti d'avant-hier. »</p>
+          <p>— Oui, très bien. Il vient de passer un mois ici ; il est parti d'avant-hier. »</p>
           <p>Du Roy ne put s'empêcher de rire :</p>
           <p>« Comme ça tombe ! »</p>
           <p>Elle répondit naïvement :</p>
           <p>« Oh ! oui, ça tombe bien. »</p>
           <p>« Mais il n'est pas gênant quand il est ici, tout de même. Tu le sais !</p>
-          <p>– Ça c'est vrai. C'est d'ailleurs un charmant homme.</p>
-          <p>– Et toi, dit-elle, comment prends-tu ta nouvelle vie ?</p>
-          <p>– Ni bien ni mal. Ma femme est une camarade, une associée.</p>
-          <p>– Rien de plus ?</p>
-          <p>– Rien de plus… Quant au cœur…</p>
-          <p>– Je comprends bien. Elle est gentille, pourtant.</p>
-          <p>– Oui, mais elle ne me trouble pas. »</p>
+          <p>— Ça c'est vrai. C'est d'ailleurs un charmant homme.</p>
+          <p>— Et toi, dit-elle, comment prends-tu ta nouvelle vie ?</p>
+          <p>— Ni bien ni mal. Ma femme est une camarade, une associée.</p>
+          <p>— Rien de plus ?</p>
+          <p>— Rien de plus… Quant au cœur…</p>
+          <p>— Je comprends bien. Elle est gentille, pourtant.</p>
+          <p>— Oui, mais elle ne me trouble pas. »</p>
           <p>Il se rapprocha de Clotilde, et murmura :</p>
           <p>« Quand nous reverrons-nous ?</p>
-          <p>– Mais… demain… si tu veux ?</p>
-          <p>– Oui. Demain, deux heures ?</p>
-          <p>– Deux heures. »</p>
+          <p>— Mais… demain… si tu veux ?</p>
+          <p>— Oui. Demain, deux heures ?</p>
+          <p>— Deux heures. »</p>
           <p>Il se leva pour partir, puis il balbutia, un peu gêné :</p>
           <p>« Tu sais, j'entends reprendre, seul, l'appartement de la rue de Constantinople. Je le veux. Il ne manquerait plus qu'il fût payé par toi. »</p>
           <p>Ce fut elle qui baisa ses mains avec un mouvement d'adoration, en murmurant : « Tu feras comme tu voudras. Il me suffit de l'avoir gardé pour nous y revoir. »</p>
@@ -2855,7 +2855,7 @@
           <p>Le jeudi venu, il dit à Madeleine :</p>
           <p />
           <p>Tu ne viens pas à cet assaut chez Rival ?</p>
-          <p>– Oh ! non. Cela ne m'amuse guère, moi ; j'irai à la Chambre des députés.</p>
+          <p>— Oh ! non. Cela ne m'amuse guère, moi ; j'irai à la Chambre des députés.</p>
           <p>Et il alla chercher Mme Walter, en landau découvert, car il faisait un admirable temps.</p>
           <p>Il eut une surprise en la voyant, tant il la trouva belle et jeune.</p>
           <p>Elle était en toilette claire dont le corsage un peu fendu laissait deviner, sous une dentelle blonde, le soulèvement gras des seins. Jamais elle ne lui avait paru si fraîche. Il la jugea vraiment désirable. Elle avait son air calme et comme il faut, une certaine allure de maman tranquille qui la faisait passer presque inaperçue aux yeux galants des hommes. Elle ne parlait guère d'ailleurs que pour dire des choses connues, convenues et modérées, ses idées étant sages, méthodiques, bien ordonnées, à l'abri de tous les excès.</p>
@@ -2881,7 +2881,7 @@
           <p>« Non. Nous ne sommes pas assez liés. »</p>
           <p>Il murmura :</p>
           <p>« Voulez-vous me laisser espérer que nous le deviendrons davantage ?</p>
-          <p>– Eh bien, nous verrons, alors », dit-elle.</p>
+          <p>— Eh bien, nous verrons, alors », dit-elle.</p>
           <p>Il s'effaça à l'entrée de la descente étroite qu'éclairait un bec de gaz ; et la brusque transition de la lumière du jour à cette clarté jaune avait quelque chose de lugubre. Une odeur de souterrain montait par cette échelle tournante, une senteur d'humidité chauffée, de murs moisis essuyés pour la circonstance, et aussi des souffles de benjoin qui rappelaient les offices sacrés, et des émanations féminines de Lubin, de verveine, d'iris, de violette.</p>
           <p>On entendait dans ce trou un grand bruit de voix, un frémissement de foule agitée.</p>
           <p>Toute la cave était illuminée avec des guirlandes de gaz et des lanternes vénitiennes cachées en des feuillages qui voilaient les murs de pierre salpêtrés. On ne voyait rien que des branchages. Le plafond était garni de fougères, le sol couvert de feuilles et de fleurs.</p>
@@ -2968,7 +2968,7 @@
           <p>Il se présenta boulevard Malesherbes dès deux heures. On le fit entrer dans le salon. Il attendit.</p>
           <p>Mme Walter parut, la main tendue avec un empressement heureux.</p>
           <p>« Quel bon vent vous amène ?</p>
-          <p>– Aucun bon vent, mais un désir de vous voir. Une force m'a poussé chez vous, je ne sais pourquoi, je n'ai rien à vous dire. Je suis venu, me voilà ! me pardonnez-vous cette visite matinale et la franchise de l'explication ? »</p>
+          <p>— Aucun bon vent, mais un désir de vous voir. Une force m'a poussé chez vous, je ne sais pourquoi, je n'ai rien à vous dire. Je suis venu, me voilà ! me pardonnez-vous cette visite matinale et la franchise de l'explication ? »</p>
           <p>Il disait cela d'un ton galant et badin, avec un sourire sur les lèvres et un accent sérieux dans la voix.</p>
           <p>Elle restait étonnée, un peu rouge, balbutiant :</p>
           <p>« Mais… vraiment… je ne comprends pas… vous me surprenez… »</p>
@@ -2976,10 +2976,10 @@
           <p>« C'est une déclaration sur un air gai, pour ne pas vous effrayer. »</p>
           <p>Ils s'étaient assis l'un près de l'autre. Elle prit la chose de façon plaisante.</p>
           <p>« Alors, c'est une déclaration… sérieuse ?</p>
-          <p>– Mais oui ! Voici longtemps que je voulais vous la faire, très longtemps même. Et puis, je n'osais pas. On vous dit si sévère, si rigide… »</p>
+          <p>— Mais oui ! Voici longtemps que je voulais vous la faire, très longtemps même. Et puis, je n'osais pas. On vous dit si sévère, si rigide… »</p>
           <p>Elle avait retrouvé son assurance. Elle répondit :</p>
           <p>« Pourquoi avez-vous choisi aujourd'hui ?</p>
-          <p>– Je ne sais pas. » Puis il baissa la voix : « Ou plutôt, c'est parce que je ne pense qu'à vous, depuis hier. »</p>
+          <p>— Je ne sais pas. » Puis il baissa la voix : « Ou plutôt, c'est parce que je ne pense qu'à vous, depuis hier. »</p>
           <p>Elle balbutia, pâlie tout à coup :</p>
           <p>« Voyons, assez d'enfantillages, et parlons d'autre chose. »</p>
           <p>Mais il était tombé à ses genoux si brusquement qu'elle eut peur. Elle voulut se lever ; il la tenait assise de force et ses deux bras enlacés à la taille et il répétait d'une voix passionnée :</p>
@@ -3024,7 +3024,7 @@
           <p>Elle écoutait, frémissante, cette banale musique d'amour et elle bégayait : « Non… non… c'est impossible. Taisez-vous ! »</p>
           <p>Il lui parlait tout bas, dans l'oreille, comprenant qu'il fallait la prendre peu à peu, celle-là, cette femme simple, qu'il fallait la décider à lui donner des rendez-vous, où elle voudrait d'abord, où il voudrait ensuite : « Écoutez… Il le faut… je vous verrai… je vous attendrai devant votre porte… comme un pauvre… Si vous ne descendez pas, je monterai chez vous… mais je vous verrai… je vous verrai… demain. »</p>
           <p>Elle répétait : « Non, non, ne venez pas. Je ne vous recevrai point. Songez à mes filles.</p>
-          <p>– Alors dites-moi où je vous rencontrerai… dans la rue… n'importe où… à l'heure que vous voudrez… pourvu que je vous voie… Je vous saluerai… Je vous dirai : « Je vous aime », et je m'en irai. »</p>
+          <p>— Alors dites-moi où je vous rencontrerai… dans la rue… n'importe où… à l'heure que vous voudrez… pourvu que je vous voie… Je vous saluerai… Je vous dirai : « Je vous aime », et je m'en irai. »</p>
           <p>Elle hésitait, éperdue. Et comme le coupé passait la porte de son hôtel, elle murmura très vite : « Eh bien, j'entrerai à la Trinité, demain, à trois heures et demie. »</p>
           <p>Puis, étant descendue, elle cria à son cocher :</p>
           <p>« Reconduisez M. Du Roy chez lui. »</p>
@@ -3107,7 +3107,7 @@
           <p>Quelqu'un s'approchait d'une marche rapide. Elle tourna la tête. C'était un prêtre. Alors elle se leva, courut à lui en tendant ses mains jointes, et elle balbutia : « Oh ! sauvez-moi ! sauvez-moi ! »</p>
           <p>Il s'arrêta surpris :</p>
           <p>« Qu'est-ce que vous désirez, madame ?</p>
-          <p>– Je veux que nous me sauviez. Ayez pitié de moi. Si vous ne venez pas à mon aide, je suis perdue. »</p>
+          <p>— Je veux que nous me sauviez. Ayez pitié de moi. Si vous ne venez pas à mon aide, je suis perdue. »</p>
           <p>Il la regardait, se demandant si elle n'était pas folle. Il reprit : « Que puis-je faire pour vous ? »</p>
           <p>C'était un jeune homme, grand, un peu gras, aux joues pleines et tombantes, teintées de noir par la barbe rasée avec soin, un beau vicaire de ville, de quartier opulent, habitué aux riches pénitentes.</p>
           <p>« Recevez ma confession, dit-elle, et conseillez-moi, soutenez-moi, dites-moi ce qu'il faut faire ! »</p>
@@ -3117,7 +3117,7 @@
           <p>« Non ! non ! non ! tout de suite ! tout de suite ! Il le faut ! Il est là ! Dans cette église ! Il m'attend. »</p>
           <p>Le prêtre demanda :</p>
           <p>« Qui est-ce qui vous attend ?</p>
-          <p>– Un homme… qui va me perdre… qui va me prendre, si vous ne me sauvez pas… Je ne peux plus le fuir…</p>
+          <p>— Un homme… qui va me perdre… qui va me prendre, si vous ne me sauvez pas… Je ne peux plus le fuir…</p>
           <p>Je suis trop faible… trop faible… si faible… si faible !… »</p>
           <p>Elle s'abattit à ses genoux, et sanglotant :</p>
           <p>« Oh ! ayez pitié de moi, mon père ! Sauvez-moi, au nom de Dieu, sauvez-moi ! »</p>
@@ -3130,7 +3130,7 @@
           <p>Le promeneur aussi avait ralenti sa marche et regardait Georges avec un désir visible de lui parler. Quand il fut tout près, il salua, et très poliment : « Je vous demande pardon, monsieur, de vous déranger, mais pourriez-vous me dire à quelle époque a été construit ce monument ? »</p>
           <p>Du Roy répondit :</p>
           <p>« Ma foi, je n'en sais trop rien, je pense qu'il y a vingt ans, ou vingt-cinq ans. C'est, d'ailleurs, la première fois que j'y entre.</p>
-          <p>– Moi aussi. Je ne l'avais jamais vu. »</p>
+          <p>— Moi aussi. Je ne l'avais jamais vu. »</p>
           <p>Alors, le journaliste, qu'un intérêt gagnait, reprit :</p>
           <p>« Il me semble que vous le visitez avec grand soin. Vous l'étudiez dans ses détails. »</p>
           <p>L'autre, avec résignation :</p>
@@ -3139,8 +3139,8 @@
           <p>« Il fait rudement chaud, dehors. »</p>
           <p>Du Roy le considérait, lui trouvant une bonne tête, et, tout à coup, il s'imagina qu'il ressemblait à Forestier.</p>
           <p>« Vous êtes de la province ? dit-il.</p>
-          <p>– Oui. Je suis de Rennes. Et vous, monsieur, c'est par curiosité que vous êtes entré dans cette église ?</p>
-          <p>– Non. J'attends une femme, moi. »</p>
+          <p>— Oui. Je suis de Rennes. Et vous, monsieur, c'est par curiosité que vous êtes entré dans cette église ?</p>
+          <p>— Non. J'attends une femme, moi. »</p>
           <p>Et l'ayant salué, le journaliste s'éloigna, le sourire aux lèvres.</p>
           <p>En approchant de la grande porte, il revit la pauvresse, toujours à genoux et priant toujours. Il pensa : « Cristi ! elle a l'invocation tenace. » Il n'était plus ému, il ne la plaignait plus.</p>
           <p>Il passa, et, doucement, se mit à remonter la nef de droite pour retrouver Mme Walter.</p>
@@ -3170,8 +3170,8 @@
           <p>« J'ai votre affaire. Je vous donne une étude sur la situation politique de toute notre colonie africaine, avec la Tunisie à gauche, l'Algérie au milieu, et le Maroc à droite, l'histoire des races qui peuplent ce grand territoire, et le récit d'une excursion sur la frontière marocaine jusqu'à la grande oasis de Figuig où aucun Européen n'a pénétré et qui est la cause du conflit actuel. Ça vous va-t-il ? »</p>
           <p>Le père Walter s'écria :</p>
           <p>« Admirable ! Et quel titre ?</p>
-          <p>– De Tunis à Tanger !</p>
-          <p>– Superbe. »</p>
+          <p>— De Tunis à Tanger !</p>
+          <p>— Superbe. »</p>
           <p>Et Du Roy s'en alla fouiller dans la collection de La Vie Française pour retrouver son premier article : « Les Mémoires d'un chasseur d'Afrique », qui, débaptisé, retapé et modifié, ferait admirablement l'affaire, d'un bout à l'autre, puisqu'il y était question de politique coloniale, de la population algérienne et d'une excursion dans la province d'Oran.</p>
           <p>En trois quarts d'heure, la chose fut refaite, rafistolée, mise au point, avec une saveur d'actualité et des louanges pour le nouveau cabinet.</p>
           <p>Le directeur, ayant lu l'article, déclara :</p>
@@ -3179,9 +3179,9 @@
           <p>Et Du Roy rentra dîner, enchanté de sa journée, malgré l'échec de la Trinité, car il sentait bien la partie gagnée.</p>
           <p>Sa femme, fiévreuse, l'attendait. Elle s'écria en le voyant :</p>
           <p>« Tu sais que Laroche est ministre des Affaires étrangères.</p>
-          <p>– Oui, je viens même de faire un article sur l'Algérie à ce sujet.</p>
-          <p>– Quoi donc ?</p>
-          <p>– Tu le connais, le premier que nous ayons écrit ensemble : « Les Mémoires d'un chasseur d'Afrique », revu et corrigé pour la circonstance. »</p>
+          <p>— Oui, je viens même de faire un article sur l'Algérie à ce sujet.</p>
+          <p>— Quoi donc ?</p>
+          <p>— Tu le connais, le premier que nous ayons écrit ensemble : « Les Mémoires d'un chasseur d'Afrique », revu et corrigé pour la circonstance. »</p>
           <p>Elle sourit.</p>
           <p>« Ah ! oui, mais ça va très bien. »</p>
           <p>Puis après avoir songé quelques instants :</p>
@@ -3197,17 +3197,17 @@
           <p>« J'avais perdu la tête, pardonnez-moi, et venez demain, quatre heures, au parc Monceau. » Donc elle cédait. Cela voulait dire : « Je me rends, je suis à vous, où vous voudrez, quand vous voudrez. »</p>
           <p>Il se mit à rire. Madeleine demanda :</p>
           <p>« Qu'est-ce que tu as ?</p>
-          <p>– Pas grand-chose. Je pense à un curé que j'ai rencontré tantôt, et qui avait une bonne binette. »</p>
+          <p>— Pas grand-chose. Je pense à un curé que j'ai rencontré tantôt, et qui avait une bonne binette. »</p>
           <p>Du Roy arriva juste à l'heure au rendez-vous du lendemain. Sur tous les bancs du parc étaient assis des bourgeois accablés par la chaleur, et des bonnes nonchalantes qui semblaient rêver pendant que les enfants se roulaient dans le sable des chemins.</p>
           <p>Il trouva Mme Walter dans la petite ruine antique où coule une source. Elle faisait le tour du cirque étroit de colonnettes, d'un air inquiet et malheureux.</p>
           <p>Aussitôt qu'il l'eut saluée :</p>
           <p>« Comme il y a du monde dans ce jardin ! » dit-elle.</p>
           <p>Il saisit l'occasion :</p>
           <p>Oui, c'est vrai ; voulez-vous venir autre part ?</p>
-          <p>– Mais où ?</p>
-          <p>– N'importe où, dans une voiture, par exemple. Vous baisserez le store de votre côté, et vous serez bien à l'abri.</p>
-          <p>– Oui, j'aime mieux ça ; ici je meurs de peur.</p>
-          <p>– Eh bien, vous allez me retrouver dans cinq minutes à la porte qui donne sur le boulevard extérieur. J'y arriverai avec un fiacre. »</p>
+          <p>— Mais où ?</p>
+          <p>— N'importe où, dans une voiture, par exemple. Vous baisserez le store de votre côté, et vous serez bien à l'abri.</p>
+          <p>— Oui, j'aime mieux ça ; ici je meurs de peur.</p>
+          <p>— Eh bien, vous allez me retrouver dans cinq minutes à la porte qui donne sur le boulevard extérieur. J'y arriverai avec un fiacre. »</p>
           <p>Et il partit en courant. Dès qu'elle l'eut rejoint et qu'elle eut bien voilé la vitre de son côté, elle demanda : « Où avez-vous dit au cocher de nous conduire ? »</p>
           <p>Georges répondit :</p>
           <p>« Ne vous occupez de rien, il est au courant. »</p>
@@ -3224,8 +3224,8 @@
           <p>« Où sommes-nous ? » dit-elle.</p>
           <p>Il répondit :</p>
           <p>« Descendez et entrez dans cette maison. Nous y serons plus tranquilles.</p>
-          <p>– Mais où sommes-nous ?</p>
-          <p>– Chez moi. C'est mon appartement de garçon que j'ai repris… pour quelques jours… pour avoir un coin où nous puissions nous voir. »</p>
+          <p>— Mais où sommes-nous ?</p>
+          <p>— Chez moi. C'est mon appartement de garçon que j'ai repris… pour quelques jours… pour avoir un coin où nous puissions nous voir. »</p>
           <p>Elle s'était cramponnée au capiton du fiacre, épouvantée à l'idée de ce tête-à-tête, et elle balbutiait : « Non, non, je ne veux pas ! Je ne veux pas ! »</p>
           <p>Il prononça d'une voix énergique :</p>
           <p>« Je vous jure de vous respecter. Venez. Vous voyez bien qu'on nous regarde, qu'on va se rassembler autour de nous. Dépêchez-vous… dépêchez-vous… descendez. »</p>
@@ -3285,14 +3285,14 @@
           <p>Il avait achevé sa toilette, et, son chapeau sur la tête, il cherchait s'il n'avait rien négligé. N'ayant rien trouvé, il s'approcha du lit, embrassa sa femme sur le front : « À tantôt, ma chérie, je ne serai pas rentré avant sept heures au plus tôt. »</p>
           <p>Et il sortit. M. Laroche-Mathieu l'attendait, car il déjeunait à dix heures ce jour-là, le conseil devant se réunir à midi, avant la réouverture du Parlement.</p>
           <p>Dès qu'ils furent à table, seuls avec le secrétaire particulier du ministre, Mme Laroche-Mathieu n'ayant pas voulu changer l'heure de son repas, Du Roy parla de son article, il en indiqua la ligne, consultant ses notes griffonnées sur des cartes de visite ; puis quand il eut fini : « Voyez-vous quelque chose à modifier, mon cher ministre ?</p>
-          <p>– Fort peu, mon cher ami. Vous êtes peut-être un peu trop affirmatif dans l'affaire du Maroc. Parlez de l'expédition comme si elle devait avoir lieu, mais en laissant bien entendre qu'elle n'aura pas lieu et que vous n'y croyez pas le moins du monde. Faites que le public lise bien entre les lignes que nous n'irons pas nous fourrer dans cette aventure.</p>
-          <p>– Parfaitement. J'ai compris, et je me ferai bien comprendre. Ma femme m'a chargé de vous demander à ce sujet si le général Belloncle serait envoyé à Oran. Après ce que vous venez de dire, je conclus que non. »</p>
+          <p>— Fort peu, mon cher ami. Vous êtes peut-être un peu trop affirmatif dans l'affaire du Maroc. Parlez de l'expédition comme si elle devait avoir lieu, mais en laissant bien entendre qu'elle n'aura pas lieu et que vous n'y croyez pas le moins du monde. Faites que le public lise bien entre les lignes que nous n'irons pas nous fourrer dans cette aventure.</p>
+          <p>— Parfaitement. J'ai compris, et je me ferai bien comprendre. Ma femme m'a chargé de vous demander à ce sujet si le général Belloncle serait envoyé à Oran. Après ce que vous venez de dire, je conclus que non. »</p>
           <p>L'homme d'État répondit :</p>
           <p>« Non. »</p>
           <p>Puis on causa de la session qui s'ouvrait. Laroche-Mathieu se mit à pérorer, préparant l'effet des phrases qu'il allait répandre sur ses collègues quelques heures plus tard. Il agitait sa main droite, levant en l'air tantôt sa fourchette, tantôt son couteau, tantôt une bouchée de pain, et sans regarder personne, s'adressant à l'Assemblée invisible, il expectorait son éloquence liquoreuse de beau garçon bien coiffé. Une très petite moustache roulée redressait sur sa lèvre deux pointes pareilles à des queues de scorpion, et ses cheveux huilés de brillantine, séparés au milieu du front, arrondissaient sur ses tempes deux bandeaux de bellâtre provincial. Il était un peu trop gras, un peu bouffi, bien que jeune ; le ventre tendait son gilet. Le secrétaire particulier mangeait et buvait tranquillement, accoutumé sans doute à ses douches de faconde ; mais Du Roy, que la jalousie du succès obtenu mordait au cœur, songeait : « Va donc, ganache ! Quels crétins que ces hommes politiques ! »</p>
           <p>Et, comparant sa valeur à lui, à l'importance bavarde de ce ministre, il se disait : « Cristi, si j'avais seulement cent mille francs nets pour me présenter à la députation dans mon beau pays de Rouen, pour rouler dans la pâte de leur grosse malice mes braves Normands finauds et lourdauds, quel homme d'État je ferais, à côté de ces polissons imprévoyants. »</p>
           <p>Jusqu'au café, M. Laroche-Mathieu parla, puis, ayant vu qu'il était tard, il sonna pour qu'on fit avancer son coupé, et, tendant la main au journaliste : « C'est bien compris, mon cher ami ?</p>
-          <p>– Parfaitement, mon cher ministre, comptez sur moi. »</p>
+          <p>— Parfaitement, mon cher ministre, comptez sur moi. »</p>
           <p>Et Du Roy s'en alla tout doucement vers le journal, pour commencer son article, car il n'avait rien à faire jusqu'à quatre heures. À quatre heures, il devait retrouver, rue de Constantinople, Mme de Marelle qu'il y voyait toujours régulièrement deux fois par semaine, le lundi et le vendredi.</p>
           <p>Mais en rentrant de la rédaction, on lui remit une dépêche fermée ; elle était de Mme Walter, et disait : « Il faut absolument que je te parle aujourd'hui. C'est très grave, très grave. Attends-moi à deux heures, rue de Constantinople. Je peux te rendre un grand service.</p>
           <p>« Ton amie jusqu'à la mort,</p>
@@ -3358,13 +3358,13 @@
           <p>Elle fit un pas afin de lui barrer la route et, tirant vivement un mouchoir de sa poche, s'essuya les yeux d'un geste brusque. Sa voix s'affermit sous l'effort de sa volonté et elle dit interrompue par un chevrotement de douleur : « Non… je suis venue pour… pour te donner une nouvelle… une nouvelle politique… pour te donner le moyen de gagner cinquante mille francs… ou même plus… si tu veux. »</p>
           <p>Il demanda, adouci tout à coup :</p>
           <p>Comment ça ! Qu'est-ce que tu veux dire ?</p>
-          <p>– J'ai surpris par hasard, hier soir, quelques mots de mon mari et de Laroche. Ils ne se cachaient pas beaucoup devant moi, d'ailleurs. Mais Walter recommandait au ministre de ne pas te mettre dans le secret parce que tu dévoilerais tout. »</p>
+          <p>— J'ai surpris par hasard, hier soir, quelques mots de mon mari et de Laroche. Ils ne se cachaient pas beaucoup devant moi, d'ailleurs. Mais Walter recommandait au ministre de ne pas te mettre dans le secret parce que tu dévoilerais tout. »</p>
           <p>Du Roy avait reposé son chapeau sur une chaise. Il attendait, très attentif.</p>
           <p>« Alors, qu'est-ce qu'il y a ?</p>
-          <p>– Ils vont s'emparer du Maroc !</p>
-          <p>– Allons donc. J'ai déjeuné avec Laroche qui m'a presque dicté les intentions du cabinet.</p>
+          <p>— Ils vont s'emparer du Maroc !</p>
+          <p>— Allons donc. J'ai déjeuné avec Laroche qui m'a presque dicté les intentions du cabinet.</p>
           <p>Non, mon chéri, ils t'ont joué parce qu'ils ont peur qu'on connaisse leur combinaison.</p>
-          <p>– Assieds-toi », dit Georges.</p>
+          <p>— Assieds-toi », dit Georges.</p>
           <p>Et il s'assit lui-même sur un fauteuil. Alors elle attira par terre un petit tabouret, et s'accroupit dessus, entre les jambes du jeune homme. Elle reprit, d'une voix câline : « Comme je pense toujours à toi, je fais attention maintenant à tout ce qu'on chuchote autour de moi. »</p>
           <p>Et elle se mit, doucement, à lui expliquer comment elle avait deviné depuis quelque temps qu'on préparait quelque chose à son insu, qu'on se servait de lui en redoutant son concours.</p>
           <p>Elle disait :</p>
@@ -3374,7 +3374,7 @@
           <p>« Oh ! c'est très fort ce qu'ils ont fait. Très fort. C'est Walter qui a tout mené d'ailleurs, et il s'y entend. Vraiment, c'est de premier ordre. »</p>
           <p>Il s'impatientait de ces préparations.</p>
           <p>« Voyons, dis vite.</p>
-          <p>– Eh bien, voilà. L'expédition de Tanger était décidée entre eux dès le jour où Laroche a pris les Affaires étrangères ; et, peu à peu, ils ont racheté tout l'emprunt du Maroc qui était tombé à soixante-quatre ou cinq francs. Ils l'ont racheté très habilement, par le moyen d'agents suspects, véreux, qui n'éveillaient aucune méfiance. Ils ont roulé même les Rothschild, qui s'étonnaient de voir toujours demander du marocain. On leur a répondu en nommant les intermédiaires, tous tarés, tous à la côte. Ça a tranquillisé la grande banque. Et puis maintenant on va faire l'expédition, et dès que nous serons là-bas, l'État français garantira la dette. Nos amis auront gagné cinquante ou soixante millions. Tu comprends l'affaire ? Tu comprends aussi comme on a peur de tout le monde, peur de la moindre indiscrétion. »</p>
+          <p>— Eh bien, voilà. L'expédition de Tanger était décidée entre eux dès le jour où Laroche a pris les Affaires étrangères ; et, peu à peu, ils ont racheté tout l'emprunt du Maroc qui était tombé à soixante-quatre ou cinq francs. Ils l'ont racheté très habilement, par le moyen d'agents suspects, véreux, qui n'éveillaient aucune méfiance. Ils ont roulé même les Rothschild, qui s'étonnaient de voir toujours demander du marocain. On leur a répondu en nommant les intermédiaires, tous tarés, tous à la côte. Ça a tranquillisé la grande banque. Et puis maintenant on va faire l'expédition, et dès que nous serons là-bas, l'État français garantira la dette. Nos amis auront gagné cinquante ou soixante millions. Tu comprends l'affaire ? Tu comprends aussi comme on a peur de tout le monde, peur de la moindre indiscrétion. »</p>
           <p>Elle avait appuyé sa tête sur le gilet du jeune homme, et les bras posés sur ses jambes, elle se serrait, se collait contre lui, sentant bien qu'elle l'intéressait à présent, prête à tout faire, à tout commettre, pour une caresse, pour un sourire.</p>
           <p>Il demanda :</p>
           <p>« Tu es bien sûre ? »</p>
@@ -3384,7 +3384,7 @@
           <p>« C'est très fort, en effet. Quant à ce salop de Laroche, en voilà un que je repincerai. Oh ! le gredin ! qu'il prenne garde à lui !… qu'il prenne garde à lui… Sa carcasse de ministre me restera entre les doigts ! »</p>
           <p>Puis il se mit à réfléchir, et il murmura :</p>
           <p>« Il faudrait pourtant profiter de ça.</p>
-          <p>– Tu peux encore acheter de l'emprunt, dit-elle. Il n'est qu'à soixante-douze francs. »</p>
+          <p>— Tu peux encore acheter de l'emprunt, dit-elle. Il n'est qu'à soixante-douze francs. »</p>
           <p>Il reprit :</p>
           <p>« Oui, mais je n'ai pas d'argent disponible. »</p>
           <p>Elle leva les yeux vers lui, des yeux pleins de supplication.</p>
@@ -3399,7 +3399,7 @@
           <p>Elle lui démontra en outre que c'était lui qui avait mené, dans La Vie Française, toute la campagne politique qui rendait possible cette affaire, qu'il serait bien naïf en n'en profitant pas.</p>
           <p>Il hésitait encore. Elle ajouta :</p>
           <p>« Mais songe donc qu'en vérité c'est Walter qui te les avance, ces dix mille francs, et que tu lui as rendu des services qui valent plus que ça.</p>
-          <p>– Eh bien, soit, dit-il. Je me mets de moitié avec toi. Si nous perdons, je te rembourserai dix mille francs. »</p>
+          <p>— Eh bien, soit, dit-il. Je me mets de moitié avec toi. Si nous perdons, je te rembourserai dix mille francs. »</p>
           <p>Elle fut si contente qu'elle se releva, saisit à deux mains sa tête et se mit à l'embrasser avidement.</p>
           <p>Il ne se défendit point d'abord, puis comme elle s'enhardissait, l'étreignant et le dévorant de caresses, il songea que l'autre allait venir tout à l'heure et que s'il faiblissait il perdrait du temps, et laisserait aux bras de la vieille une ardeur qu'il valait mieux garder pour la jeune.</p>
           <p>Alors il la repoussa doucement.</p>
@@ -3413,7 +3413,7 @@
           <p>« Veux-tu venir dîner demain à la maison ? Quel plaisir tu me ferais ! »</p>
           <p>Il hésita, puis n'osa point refuser.</p>
           <p>« Mais oui, certainement.</p>
-          <p>– Merci, mon chéri. »</p>
+          <p>— Merci, mon chéri. »</p>
           <p>Elle frottait lentement sa joue sur la poitrine du jeune homme, d'un mouvement câlin et régulier, et un de ses longs cheveux noirs se prit dans le gilet.</p>
           <p>Elle s'en aperçut, et une idée folle lui traversa l'esprit, une de ces idées superstitieuses qui sont souvent toute la raison des femmes. Elle se mit à enrouler tout doucement ce cheveu autour d'un bouton. Puis elle en attacha un autre au bouton suivant, un autre encore à celui du dessus. À chaque bouton elle en nouait un.</p>
           <p>Il allait les arracher tout à l'heure, en se levant. Il lui ferait mal, quel bonheur ! Et il emporterait quelque chose d'elle, sans le savoir, il emporterait une petite mèche de sa chevelure, dont il n'avait jamais demandé. C'était un lien par lequel elle l'attachait, un lien secret, invisible ! un talisman qu'elle laissait sur lui. Sans le vouloir, il penserait à elle, il rêverait d'elle, il l'aimerait un peu plus le lendemain.</p>
@@ -3436,7 +3436,7 @@
           <p>Ils se séparèrent. Elle tourna à droite, et lui à gauche.</p>
           <p>Du Roy remonta jusqu'au boulevard extérieur. Puis, il redescendit le boulevard Malesherbes, qu'il se mit à suivre, à pas lents. En passant devant un pâtissier, il aperçut des marrons glacés dans une coupe de cristal, et il pensa : « Je vais en rapporter une livre pour Clotilde. » Il acheta un sac de ces fruits sucrés qu'elle aimait à la folie. À quatre heures, il était rentré pour attendre sa jeune maîtresse.</p>
           <p>Elle vint un peu en retard parce que son mari était arrivé pour huit jours. Elle demanda : « Peux-tu venir dîner demain ? Il serait enchanté de te voir.</p>
-          <p>– Non, je dîne chez le Patron. Nous avons un tas de combinaisons politiques et financières qui nous occupent. »</p>
+          <p>— Non, je dîne chez le Patron. Nous avons un tas de combinaisons politiques et financières qui nous occupent. »</p>
           <p>Elle avait enlevé son chapeau. Elle ôtait maintenant son corsage qui la serrait trop.</p>
           <p>Il lui montra le sac sur la cheminée :</p>
           <p>« Je t'ai apporté des marrons glacés. »</p>
@@ -3495,7 +3495,7 @@
           <p>Puis il sauta dans un fiacre et se fit conduire chez lui.</p>
           <p>Sa femme était rentrée. Il pénétra dans sa chambre essoufflé et lui annonça tout de suite : « Tu ne sais pas ? Vaudrec est mourant ! »</p>
           <p>Elle était assise et lisait une lettre. Elle leva les yeux et trois fois de suite répéta : « Hein ? Tu dis ?… tu dis ?… tu dis ?…</p>
-          <p>– Je te dis que Vaudrec est mourant d'une attaque de goutte remontée au cœur. » Puis il ajouta : « Qu'est-ce que tu comptes faire ? »</p>
+          <p>— Je te dis que Vaudrec est mourant d'une attaque de goutte remontée au cœur. » Puis il ajouta : « Qu'est-ce que tu comptes faire ? »</p>
           <p>Elle s'était dressée, livide, les joues secouées d'un tremblement nerveux, puis elle se mit à pleurer affreusement, en cachant sa figure dans ses mains. Elle demeurait debout, secouée par des sanglots, déchirée par le chagrin.</p>
           <p>Mais soudain elle dompta sa douleur, et, s'essuyant les yeux :</p>
           <p>« J'y… j'y vais… ne t'occupe pas de moi… je ne sais pas à quelle heure je reviendrai… ne m'attends point… »</p>
@@ -3509,30 +3509,30 @@
           <p>« Eh bien ? »</p>
           <p>Il ne l'avait jamais vue si pâle et si émue. Elle murmura :</p>
           <p>« II est mort.</p>
-          <p>– Ah ! Et… il ne t'a rien dit ?</p>
-          <p>– Rien. Il avait perdu connaissance quand je suis arrivée. »</p>
+          <p>— Ah ! Et… il ne t'a rien dit ?</p>
+          <p>— Rien. Il avait perdu connaissance quand je suis arrivée. »</p>
           <p>Georges songeait. Des questions lui venaient aux lèvres qu'il n'osait point faire.</p>
           <p>« Couche-toi », dit-il.</p>
           <p>Elle se déshabilla rapidement, puis se glissa auprès de lui.</p>
           <p>Il reprit :</p>
           <p>« Avait-il des parents à son lit de mort ?</p>
-          <p>– Rien qu'un neveu.</p>
-          <p>– Ah ! Le voyait-il souvent, ce neveu ?</p>
-          <p>– Jamais. Ils ne s'étaient point rencontrés depuis dix ans.</p>
-          <p>– Avait-il d'autres parents ?</p>
-          <p>– Non… Je ne crois pas.</p>
-          <p>– Alors… c'est ce neveu qui doit hériter ?</p>
-          <p>– Je ne sais pas.</p>
-          <p>– II était très riche, Vaudrec ?</p>
-          <p>– Oui, très riche.</p>
-          <p>– Sais-tu ce qu'il avait à peu près ?</p>
-          <p>– Non, pas au juste. Un ou deux millions, peut-être ? »</p>
+          <p>— Rien qu'un neveu.</p>
+          <p>— Ah ! Le voyait-il souvent, ce neveu ?</p>
+          <p>— Jamais. Ils ne s'étaient point rencontrés depuis dix ans.</p>
+          <p>— Avait-il d'autres parents ?</p>
+          <p>— Non… Je ne crois pas.</p>
+          <p>— Alors… c'est ce neveu qui doit hériter ?</p>
+          <p>— Je ne sais pas.</p>
+          <p>— II était très riche, Vaudrec ?</p>
+          <p>— Oui, très riche.</p>
+          <p>— Sais-tu ce qu'il avait à peu près ?</p>
+          <p>— Non, pas au juste. Un ou deux millions, peut-être ? »</p>
           <p>Il ne dit plus rien. Elle souffla la bougie. Et ils demeurèrent étendus côte à côte dans la nuit, silencieux, éveillés et songeant.</p>
           <p>Il n'avait plus envie de dormir. Il trouvait maigres maintenant les soixante-dix mille francs promis par Mme Walter. Soudain il crut que Madeleine pleurait. Il demanda pour s'en assurer : « Dors-tu ?</p>
-          <p>– Non. »</p>
+          <p>— Non. »</p>
           <p>Elle avait la voix mouillée et tremblante. Il reprit :</p>
           <p>« J'ai oublié de te dire tantôt que ton ministre nous a fichus dedans.</p>
-          <p>– Comment ça ? »</p>
+          <p>— Comment ça ? »</p>
           <p>Et il lui conta, tout au long, avec tous les détails, la combinaison préparée entre Laroche et Walter.</p>
           <p>Quand il eut fini, elle demanda :</p>
           <p>« Comment sais-tu ça ? »</p>
@@ -3552,7 +3552,7 @@
           <p>Enfin, Georges prononça, comme parlant à lui-même : « Vraiment, c'est bien étonnant ! »</p>
           <p>Madeleine demanda :</p>
           <p>« Quoi donc, mon ami ?</p>
-          <p>– Que Vaudrec ne nous ait rien laissé ! »</p>
+          <p>— Que Vaudrec ne nous ait rien laissé ! »</p>
           <p>Elle rougit brusquement, comme si un voile rose se fût étendu tout à coup sur sa peau blanche, en montant de la gorge au visage, et elle dit : « Pourquoi nous aurait-il laissé quelque chose ? Il n'y avait aucune raison pour ça ! »</p>
           <p>Puis, après quelques instants de silence, elle reprit : « Il existe peut-être un testament chez un notaire. Nous ne saurions rien encore. »</p>
           <p>Il réfléchit, puis murmura :</p>
@@ -3570,7 +3570,7 @@
           <p>Georges avait rougi, à son tour :</p>
           <p>« Ça doit être ça. C'est drôle que ce soit toi qu'il appelle, et non moi qui suis légalement le chef de famille. »</p>
           <p>Elle ne répondit point d'abord, puis après une courte réflexion : « Veux-tu que nous y allions tout à l'heure ?</p>
-          <p>– Oui, je veux bien. »</p>
+          <p>— Oui, je veux bien. »</p>
           <p>Ils se mirent en route dès qu'ils eurent déjeuné.</p>
           <p>Lorsqu'ils entrèrent dans l'étude de maître Lamaneur, le premier clerc se leva avec un empressement marqué et les fit pénétrer chez son patron.</p>
           <p>Le notaire était un petit homme tout rond, rond de partout. Sa tête avait l'air d'une boule clouée sur une autre boule que portaient deux jambes si petites, si courtes qu'elles ressemblaient aussi presque à des boules.</p>
@@ -3591,7 +3591,7 @@
           <p>Georges s'inclina : « Oui, monsieur. » Puis il salua avec cérémonie, fit passer sa femme demeurée muette, et il sortit d'un air tellement roide que le notaire ne souriait plus.</p>
           <p>Dès qu'ils furent rentrés chez eux, Du Roy ferma brusquement la porte, et, jetant son chapeau sur le lit : « Tu as été la maîtresse de Vaudrec ? »</p>
           <p>Madeleine, qui enlevait son voile, se retourna d'une secousse : « Moi ? Oh !</p>
-          <p>– Oui, toi. On ne laisse pas toute sa fortune à une femme, sans que… »</p>
+          <p>— Oui, toi. On ne laisse pas toute sa fortune à une femme, sans que… »</p>
           <p>Elle était devenue tremblante et ne parvenait point à ôter les épingles qui retenaient le tissu transparent.</p>
           <p>Après un moment de réflexion, elle balbutia, d'une voix agitée : « Voyons… voyons… tu es fou… tu es… tu es… Est-ce que toi-même… tout à l'heure… tu n'espérais pas… qu'il te laisserait quelque chose ? »</p>
           <p>Georges restait debout, près d'elle, suivant toutes ses émotions, comme un magistrat qui cherche à surprendre les moindres défaillances d'un prévenu. Il prononça, en insistant sur chaque mot : « Oui… il pouvait me laisser quelque chose, à moi… à moi, ton mari… à moi, son ami… entends-tu… mais pas à toi… à toi, son amie… à toi, ma femme. La distinction est capitale, essentielle, au point de vue des convenances… et de l'opinion publique. »</p>
@@ -3672,7 +3672,7 @@
           <p>« Combien ce bracelet ? »</p>
           <p>Le joaillier répondit :</p>
           <p>« Trois mille francs, monsieur.</p>
-          <p>– Si vous me le laissez à deux mille cinq, c'est une affaire entendue. »</p>
+          <p>— Si vous me le laissez à deux mille cinq, c'est une affaire entendue. »</p>
           <p>L'homme hésita, puis répondit :</p>
           <p>« Non, monsieur, c'est impossible. »</p>
           <p>Du Roy reprit :</p>
@@ -3687,7 +3687,7 @@
           <p>« Si tu veux, dit-il, nous irons ce soir au théâtre, tâchons de trouver une loge. »</p>
           <p>Ils trouvèrent une loge et la prirent. Il ajouta :</p>
           <p>« Si nous dînions au cabaret ?</p>
-          <p>– Oh ! oui, je veux bien. »</p>
+          <p>— Oh ! oui, je veux bien. »</p>
           <p>Il était heureux comme un souverain, et cherchait ce qu'ils pourraient bien faire encore.</p>
           <p>« Si nous allions chercher Mme de Marelle pour passer la soirée avec nous ? Son mari est ici, m'a-t-on dit. Je serai enchanté de lui serrer la main. »</p>
           <p>Ils y allèrent. Georges, qui redoutait un peu la première rencontre avec sa maîtresse, n'était point fâché que sa femme fût présente pour éviter toute explication.</p>
@@ -3782,8 +3782,8 @@
           <p>Mais vous aussi, vous avez eu un héritage. »</p>
           <p>Il fit un « Oh ! » de pitié :</p>
           <p>« Parlons-en. À peine vingt mille livres de rentes. Ce n'est pas lourd par le temps présent.</p>
-          <p>– Mais votre femme a hérité également.</p>
-          <p>– Oui. Un million à nous deux. Quarante mille de revenu. Nous ne pouvons même pas avoir une voiture à nous avec ça. »</p>
+          <p>— Mais votre femme a hérité également.</p>
+          <p>— Oui. Un million à nous deux. Quarante mille de revenu. Nous ne pouvons même pas avoir une voiture à nous avec ça. »</p>
           <p>Ils arrivaient au dernier salon, et en face d'eux s'ouvrait la serre, un large jardin d'hiver plein de grands arbres des pays chauds abritant des massifs de fleurs rares. En entrant sous cette verdure sombre où la lumière glissait comme une ondée d'argent, on respirait la fraîcheur tiède de la terre humide et un souffle lourd de parfums. C'était une étrange sensation douce, malsaine et charmante, de nature factice, énervante et molle. On marchait sur des tapis tout pareils à de la mousse entre deux épais massifs d'arbustes. Soudain Du Roy aperçut à sa gauche, sous un large dôme de palmiers, un vaste bassin de marbre blanc où l'on aurait pu se baigner et sur les bords duquel quatre grands cygnes en faïence de Delft laissaient tomber l'eau de leurs becs entrouverts.</p>
           <p>Le fond du bassin était sablé de poudre d'or et l'on voyait nager dedans quelques énormes poissons rouges, bizarres monstres chinois aux yeux saillants, aux écailles bordées de bleu, sortes de mandarins des ondes qui rappelaient, errants et suspendus ainsi sur ce fond d'or, les étranges broderies de là-bas.</p>
           <p>Le journaliste s'arrêta le cœur battant. Il se disait :</p>
@@ -3826,7 +3826,7 @@
           <p>Des hommes se retournaient pour regarder cette brunette élégante et jolie. Du Roy répondit : « En échange de ce service, mon cher, je prends votre femme ou plutôt je lui offre mon bras. Il faut toujours séparer les époux. »</p>
           <p>M. de Marelle s'inclina :</p>
           <p>« C'est juste. Si je vous perds, nous nous retrouverons ici dans une heure.</p>
-          <p>– Parfaitement. »</p>
+          <p>— Parfaitement. »</p>
           <p>Et les deux jeunes gens s'enfoncèrent dans la foule, suivis par le mari. Clotilde répétait : « Quels veinards que ces Walter. Ce que c'est tout de même que d'avoir l'intelligence des affaires. »</p>
           <p>Georges répondit :</p>
           <p>« Bah ! Les hommes forts arrivent toujours, soit par un moyen, soit par un autre. »</p>
@@ -3844,10 +3844,10 @@
           <p>Mme de Marelle reconnut que ce Jésus de Karl Marcowitch était très étonnant ; et ils revinrent. Ils avaient perdu le mari.</p>
           <p>Il demanda :</p>
           <p>« Et Laurine, est-ce qu'elle m'en veut toujours ?</p>
-          <p>– Oui, toujours autant. Elle refuse de te voir et s'en va quand on parle de toi. »</p>
+          <p>— Oui, toujours autant. Elle refuse de te voir et s'en va quand on parle de toi. »</p>
           <p>Il ne répondit rien. L'inimitié de cette fillette le chagrinait et lui pesait.</p>
           <p>Suzanne les saisit au détour d'une porte, criant :</p>
-          <p>– Ah ! vous voilà ! Eh bien, Bel-Ami, vous allez rester seul. J'enlève la belle Clotilde pour lui montrer ma chambre. »</p>
+          <p>— Ah ! vous voilà ! Eh bien, Bel-Ami, vous allez rester seul. J'enlève la belle Clotilde pour lui montrer ma chambre. »</p>
           <p>Et les deux femmes s'en allèrent, d'un pas pressé, glissant à travers le monde, de ce mouvement onduleux, de ce mouvement de couleuvre qu'elles savent prendre dans les foules.</p>
           <p>Presque aussitôt une voix murmura : « Georges ! »</p>
           <p>C'était Mme Walter. Elle reprit très bas : « Oh ! que vous êtes férocement cruel ! Que vous me faites souffrir inutilement. J'ai chargé Suzette d'emmener celle qui vous accompagnait afin de pouvoir vous dire un mot. Écoutez, il faut… que je vous parle ce soir… ou bien… ou bien… vous ne savez pas ce que je ferai. Allez dans la serre. Vous y trouverez une porte à gauche et vous sortirez dans le jardin. Suivez l'allée qui est en face. Tout au bout vous verrez une tonnelle. Attendez-moi là dans dix minutes. Si vous ne voulez pas, je vous jure que je fais un scandale, ici, tout de suite ! »</p>
@@ -3864,15 +3864,15 @@
           <p>« Tu as entortillé tes cheveux à tous mes boutons la dernière fois que je t'ai vue, et ça a failli amener une rupture entre ma femme et moi. »</p>
           <p>Elle demeura surprise, puis, faisant « non » de la tête :</p>
           <p>« Oh ! ta femme s'en moque bien. C'est quelqu'une de tes maîtresses qui t'aura fait une scène.</p>
-          <p>– Je n'ai pas de maîtresses.</p>
-          <p>– Tais-toi donc ! Mais pourquoi ne viens-tu plus même me voir ? Pourquoi refuses-tu de dîner, rien qu'un jour par semaine, avec moi ? C'est atroce ce que je souffre ; je t'aime à n'avoir plus une pensée qui ne soit pour toi, à ne pouvoir rien regarder sans te voir devant mes yeux, à ne plus oser prononcer un mot sans avoir peur de dire ton nom ! Tu ne comprends pas ça, toi ! Il me semble que je suis prise dans des griffes, nouée dans un sac, je ne sais pas. Ton souvenir, toujours présent, me serre la gorge, me déchire quelque chose là, dans la poitrine, sous le sein, me casse les jambes à ne plus me laisser la force de marcher. Et je reste comme une bête, toute la journée, sur une chaise, en pensant à toi. »</p>
+          <p>— Je n'ai pas de maîtresses.</p>
+          <p>— Tais-toi donc ! Mais pourquoi ne viens-tu plus même me voir ? Pourquoi refuses-tu de dîner, rien qu'un jour par semaine, avec moi ? C'est atroce ce que je souffre ; je t'aime à n'avoir plus une pensée qui ne soit pour toi, à ne pouvoir rien regarder sans te voir devant mes yeux, à ne plus oser prononcer un mot sans avoir peur de dire ton nom ! Tu ne comprends pas ça, toi ! Il me semble que je suis prise dans des griffes, nouée dans un sac, je ne sais pas. Ton souvenir, toujours présent, me serre la gorge, me déchire quelque chose là, dans la poitrine, sous le sein, me casse les jambes à ne plus me laisser la force de marcher. Et je reste comme une bête, toute la journée, sur une chaise, en pensant à toi. »</p>
           <p>Il la regardait avec étonnement. Ce n'était plus la grosse gamine folâtre qu'il avait connue, mais une femme éperdue, désespérée, capable de tout.</p>
           <p>Un projet vague, cependant, naissant dans son esprit.</p>
           <p>Il répondit :</p>
           <p>« Ma chère, l'amour n'est pas éternel. On se prend et on se quitte. Mais quand ça dure comme entre nous ça devient un boulet horrible. Je n'en veux plus. Voilà la vérité. Cependant, si tu sais devenir raisonnable, me recevoir et me traiter ainsi qu'un ami, je reviendrai comme autrefois. Te sens-tu capable de ça ? »</p>
           <p>Elle posa ses deux bras nus sur l'habit noir de Georges et murmura :</p>
           <p>« Je suis capable de tout pour te voir.</p>
-          <p>– Alors, c'est convenu, dit-il, nous sommes amis, rien de plus. »</p>
+          <p>— Alors, c'est convenu, dit-il, nous sommes amis, rien de plus. »</p>
           <p>Elle balbutia :</p>
           <p>« C'est convenu. » Puis tendant ses lèvres vers lui :</p>
           <p>« Encore un baiser… le dernier. »</p>
@@ -3901,21 +3901,21 @@
           <p>« Je m'entends. »</p>
           <p>Rose, fâchée, leur tourna le dos et s'éloigna.</p>
           <p>Du Roy prit familièrement le coude de la jeune fille restée près de lui et de sa voix caressante : « Écoutez, ma chère petite, me croyez-vous bien votre ami ?</p>
-          <p>– Mais oui, Bel-Ami.</p>
-          <p>– Vous avez confiance en moi ?</p>
-          <p>– Tout à fait.</p>
-          <p>– Vous vous rappelez ce que je vous disais tantôt ?</p>
-          <p>– À propos de quoi ?</p>
-          <p>– À propos de votre mariage, ou plutôt de l'homme que vous épouserez.</p>
-          <p>– Oui.</p>
-          <p>– Eh bien, voulez-vous me promettre une chose ?</p>
-          <p>– Oui, mais quoi ?</p>
-          <p>– C'est de me consulter toutes les fois qu'on demandera votre main, et de n'accepter personne sans avoir pris mon avis.</p>
-          <p>– Oui, je veux bien.</p>
-          <p>– Et c'est un secret entre nous deux. Pas un mot de ça à votre père ni à votre mère.</p>
-          <p>– Pas un mot.</p>
-          <p>– C'est juré ?</p>
-          <p>– C'est juré. »</p>
+          <p>— Mais oui, Bel-Ami.</p>
+          <p>— Vous avez confiance en moi ?</p>
+          <p>— Tout à fait.</p>
+          <p>— Vous vous rappelez ce que je vous disais tantôt ?</p>
+          <p>— À propos de quoi ?</p>
+          <p>— À propos de votre mariage, ou plutôt de l'homme que vous épouserez.</p>
+          <p>— Oui.</p>
+          <p>— Eh bien, voulez-vous me promettre une chose ?</p>
+          <p>— Oui, mais quoi ?</p>
+          <p>— C'est de me consulter toutes les fois qu'on demandera votre main, et de n'accepter personne sans avoir pris mon avis.</p>
+          <p>— Oui, je veux bien.</p>
+          <p>— Et c'est un secret entre nous deux. Pas un mot de ça à votre père ni à votre mère.</p>
+          <p>— Pas un mot.</p>
+          <p>— C'est juré ?</p>
+          <p>— C'est juré. »</p>
           <p>Rival arrivait, l'air affairé :</p>
           <p>« Mademoiselle, votre papa vous demande pour le bal. »</p>
           <p>Elle dit :</p>
@@ -3923,22 +3923,22 @@
           <p>Mais il refusa, décidé à partir tout de suite, voulant être seul pour penser. Trop de choses nouvelles venaient de pénétrer dans son esprit et il se mit à chercher sa femme. Au bout de quelque temps il l'aperçut qui buvait du chocolat, au buffet, avec deux messieurs inconnus. Elle leur présenta son mari, sans les nommer à lui.</p>
           <p>Après quelques instants il demanda :</p>
           <p>« Partons-nous ?</p>
-          <p>– Quand tu voudras. »</p>
+          <p>— Quand tu voudras. »</p>
           <p>Elle prit son bras et ils retraversèrent les salons où le public devenait rare.</p>
           <p>Elle demanda :</p>
           <p>« Où est la Patronne ? je voudrais lui dire adieu.</p>
-          <p>– C'est inutile. Elle essaierait de nous garder au bal et j'en ai assez.</p>
-          <p>– C'est vrai, tu as raison. »</p>
+          <p>— C'est inutile. Elle essaierait de nous garder au bal et j'en ai assez.</p>
+          <p>— C'est vrai, tu as raison. »</p>
           <p>Tout le long de la route ils furent silencieux. Mais, aussitôt rentrés en leur chambre, Madeleine souriante lui dit, sans même ôter son voile : « Tu ne sais pas, j'ai une surprise pour toi., »</p>
           <p>Il grogna avec mauvaise humeur :</p>
           <p>« Quoi donc ?</p>
-          <p>– Devine.</p>
-          <p>– Je ne ferai pas cet effort.</p>
-          <p>– Eh bien, c'est après-demain le premier janvier.</p>
-          <p>– Oui.</p>
-          <p>– C'est le moment des étrennes.</p>
+          <p>— Devine.</p>
+          <p>— Je ne ferai pas cet effort.</p>
+          <p>— Eh bien, c'est après-demain le premier janvier.</p>
+          <p>— Oui.</p>
+          <p>— C'est le moment des étrennes.</p>
           <p>Oui.</p>
-          <p>– Voici les tiennes, que Laroche m'a remises tout à l'heure. »</p>
+          <p>— Voici les tiennes, que Laroche m'a remises tout à l'heure. »</p>
           <p>Elle lui présenta une petite boîte noire qui semblait un écrin à bijoux.</p>
           <p>Il l'ouvrit avec indifférence et aperçut la croix de la Légion d'honneur.</p>
           <p>Il devint un peu pâle, puis il sourit et déclara :</p>
@@ -3997,31 +3997,31 @@
           <p>« Ce n'est pas bien de me faire des cachotteries, Suzanne. »</p>
           <p>Elle demanda :</p>
           <p>« Quoi donc, Bel-Ami ?</p>
-          <p>– Vous ne vous rappelez pas ce que vous m'avez promis, ici même, le soir de la fête ?</p>
-          <p>– Mais non !</p>
-          <p>– De me consulter toutes les fois qu'on demanderait votre main.</p>
-          <p>– Eh bien ?</p>
-          <p>– Eh bien, on l'a demandée.</p>
-          <p>– Qui ça ?</p>
-          <p>– Vous le savez bien.</p>
-          <p>– Non. Je vous jure.</p>
-          <p>– Si, vous le savez ! Ce grand fat de marquis de Cazolles.</p>
-          <p>– Il n'est pas fat, d'abord.</p>
-          <p>– C'est possible ! mais il est stupide ; ruiné par le jeu et usé par la noce. C'est vraiment un joli parti pour vous, si jolie, si fraîche, et si intelligente. »</p>
+          <p>— Vous ne vous rappelez pas ce que vous m'avez promis, ici même, le soir de la fête ?</p>
+          <p>— Mais non !</p>
+          <p>— De me consulter toutes les fois qu'on demanderait votre main.</p>
+          <p>— Eh bien ?</p>
+          <p>— Eh bien, on l'a demandée.</p>
+          <p>— Qui ça ?</p>
+          <p>— Vous le savez bien.</p>
+          <p>— Non. Je vous jure.</p>
+          <p>— Si, vous le savez ! Ce grand fat de marquis de Cazolles.</p>
+          <p>— Il n'est pas fat, d'abord.</p>
+          <p>— C'est possible ! mais il est stupide ; ruiné par le jeu et usé par la noce. C'est vraiment un joli parti pour vous, si jolie, si fraîche, et si intelligente. »</p>
           <p>Elle demanda en souriant :</p>
           <p>« Qu'est-ce que vous avez contre lui ?</p>
-          <p>– Moi ? Rien.</p>
-          <p>– Mais si. Il n'est pas tout ce que vous dites.</p>
-          <p>– Allons donc. C'est un sot et un intrigant. »</p>
+          <p>— Moi ? Rien.</p>
+          <p>— Mais si. Il n'est pas tout ce que vous dites.</p>
+          <p>— Allons donc. C'est un sot et un intrigant. »</p>
           <p>Elle se tourna un peu, cessant de regarder dans l'eau :</p>
           <p>« Voyons, qu'est-ce que vous avez ? »</p>
           <p>Il prononça, comme si on lui eût arraché un secret du fond du cœur.</p>
           <p>« J'ai… j'ai… j'ai que je suis jaloux de lui. »</p>
           <p>Elle s'étonna modérément :</p>
           <p>« Vous ?</p>
-          <p>– Oui, moi !</p>
-          <p>– Tiens. Pourquoi ça ?</p>
-          <p>– Parce que je suis amoureux de vous, et vous le savez bien, méchante ! »</p>
+          <p>— Oui, moi !</p>
+          <p>— Tiens. Pourquoi ça ?</p>
+          <p>— Parce que je suis amoureux de vous, et vous le savez bien, méchante ! »</p>
           <p>Alors elle dit d'un ton sévère :</p>
           <p>« Vous êtes fou, Bel-Ami ! »</p>
           <p>Il reprit :</p>
@@ -4054,7 +4054,7 @@
           <p>Aussitôt qu'elle fut loin, il passa la tête « la portière, et il cria : « Allez. »</p>
           <p>Le fiacre se remit en marche, et le déposa devant le Coq-Faisan, restaurant bourgeois connu dans le quartier. Georges entra dans la salle commune, et mangea doucement, en regardant l'heure à sa montre de temps en temps. À sept heures et demie, comme il avait bu son café, pris deux verres de fine champagne et fumé, avec lenteur, un bon cigare, il sortit, héla une autre voiture qui passait à vide, et se fit conduire rue La Rochefoucauld.</p>
           <p>Il monta, sans rien demander au concierge, au troisième étage de la maison qu'il avait indiquée, et quand une bonne lui eut ouvert : « M. Guibert de Lorme est chez lui, n'est-ce pas ?</p>
-          <p>– Oui, monsieur. »</p>
+          <p>— Oui, monsieur. »</p>
           <p>On le fit pénétrer dans le salon, où il attendit quelques instants. Puis un homme entra, grand, décoré, avec l'air militaire, et portant des cheveux gris, bien qu'il fût jeune encore.</p>
           <p>Du Roy le salua, puis lui dit :</p>
           <p>« Comme je le prévoyais, monsieur le commissaire de police, ma femme dîne avec son amant dans le logement garni qu'ils ont loué rue des Martyrs. »</p>
@@ -4062,9 +4062,9 @@
           <p>« Je suis à votre disposition, monsieur. »</p>
           <p>Georges reprit :</p>
           <p>« Vous avez jusqu'à neuf heures, n'est-ce pas ? Cette limite passée, vous ne pouvez plus pénétrer dans un domicile particulier pour y constater un adultère.</p>
-          <p>– Non, monsieur, sept heures en hiver, neuf heures à partir du 31 mars. Nous sommes au 5 avril, nous avons donc jusqu'à neuf heures.</p>
-          <p>– Eh bien, monsieur le commissaire, j'ai une voiture en bas, nous pouvons prendre les agents qui vous accompagneront, puis nous attendrons un peu devant la porte. Plus nous arriverons tard, plus nous avons de chance de bien les surprendre en flagrant délit.</p>
-          <p>– Comme il vous plaira, monsieur. »</p>
+          <p>— Non, monsieur, sept heures en hiver, neuf heures à partir du 31 mars. Nous sommes au 5 avril, nous avons donc jusqu'à neuf heures.</p>
+          <p>— Eh bien, monsieur le commissaire, j'ai une voiture en bas, nous pouvons prendre les agents qui vous accompagneront, puis nous attendrons un peu devant la porte. Plus nous arriverons tard, plus nous avons de chance de bien les surprendre en flagrant délit.</p>
+          <p>— Comme il vous plaira, monsieur. »</p>
           <p>Le commissaire sortit, puis revint, vêtu d'un pardessus qui cachait sa ceinture tricolore. Il s'effaça pour laisser passer Du Roy. Mais le journaliste, dont l'esprit était préoccupé, refusait de sortir le premier, et répétait : « Après vous… après vous. »</p>
           <p>Le magistrat prononça :</p>
           <p>« Passez donc, monsieur, je suis chez moi. »</p>
@@ -4083,7 +4083,7 @@
           <p>« Ouvrez, au nom de la loi. »</p>
           <p>La voix répéta :</p>
           <p>« Qui êtes-vous ?</p>
-          <p>– Je suis le commissaire de police. Ouvrez, ou je fais forcer la porte. »</p>
+          <p>— Je suis le commissaire de police. Ouvrez, ou je fais forcer la porte. »</p>
           <p>La voix reprit :</p>
           <p>« Que voulez-vous ?</p>
           <p>Et Du Roy dit :</p>
@@ -4101,7 +4101,7 @@
           <p>Le commissaire se retourna vivement, et regardant Madeleine dans les yeux : « Vous êtes bien Mme Claire-Madeleine Du Roy, épouse légitime de M. Prosper-Georges Du Roy, publiciste, ici présent ? »</p>
           <p>Elle articula, d'une voix étranglée :</p>
           <p>« Oui, monsieur.</p>
-          <p>– Que faites-vous ici ? »</p>
+          <p>— Que faites-vous ici ? »</p>
           <p>Elle ne répondit pas.</p>
           <p>Le magistrat reprit : « Que faites-vous ici ? Je vous trouve hors de chez vous, presque dévêtue dans un appartement meublé. Qu'êtes-vous venue y faire ? »</p>
           <p />
@@ -4164,14 +4164,14 @@
           <p>Le commissaire passa vivement entre les deux et, les écartant avec ses mains : « Messieurs, vous vous oubliez, vous manquez de dignité ! »</p>
           <p>Ils se turent et se tournèrent les talons. Madeleine, immobile, fumait toujours, en souriant.</p>
           <p>L'officier de police reprit :</p>
-          <p>– « Monsieur le ministre, je vous ai surpris, seul avec Mme Du Roy, que voici, vous couché, elle presque nue. Vos vêtements étant jetés pêle-mêle à travers l'appartement, cela constitue un flagrant délit d'adultère. Vous ne pouvez nier l'évidence. Qu'avez-vous à répondre ? »</p>
+          <p>— « Monsieur le ministre, je vous ai surpris, seul avec Mme Du Roy, que voici, vous couché, elle presque nue. Vos vêtements étant jetés pêle-mêle à travers l'appartement, cela constitue un flagrant délit d'adultère. Vous ne pouvez nier l'évidence. Qu'avez-vous à répondre ? »</p>
           <p>Laroche-Mathieu murmura :</p>
           <p>« Je n'ai rien à dire, faites votre devoir. »</p>
           <p>Le commissaire s'adressa à Madeleine :</p>
           <p>« Avouez-vous, madame, que monsieur soit votre amant ? »</p>
           <p>Elle prononça crânement :</p>
           <p>« Je ne le nie pas, il est mon amant !</p>
-          <p>– Cela suffit, »</p>
+          <p>— Cela suffit, »</p>
           <p>Puis le magistrat prit quelques notes sur l'état et la disposition du logis. Comme il finissait d'écrire, le ministre qui avait achevé de s'habiller et qui attendait, le paletot sur le bras, le chapeau à la main, demanda : « Avez-vous encore besoin de moi, monsieur ? Que dois-je faire ? Puis-je me retirer ? »</p>
           <p>Du Roy se retourna vers lui et souriant avec insolence :</p>
           <p>« Pourquoi donc ? Nous avons fini. Vous pouvez vous recoucher, monsieur ; nous allons vous laisser seuls. »</p>
@@ -4187,21 +4187,21 @@
           <p>Le jeune homme, qui était sûr de son effet, déclara, en pesant sur chaque mot : « Je viens de jeter bas le ministre des Affaires étrangères. »</p>
           <p>L'autre crut qu'il plaisantait.</p>
           <p>« De jeter bas… Comment ?</p>
-          <p>– Je vais changer le cabinet. Voilà tout ! Il n'est pas trop tôt de chasser cette charogne. »</p>
+          <p>— Je vais changer le cabinet. Voilà tout ! Il n'est pas trop tôt de chasser cette charogne. »</p>
           <p>Le vieux, stupéfait, crut que son chroniqueur était gris. Il murmura : « Voyons, vous déraisonnez.</p>
-          <p>– Pas du tout. Je viens de surprendre M. Laroche-Mathieu en flagrant délit d'adultère avec ma femme. Le commissaire de police a constaté la chose. Le ministre est foutu. »</p>
+          <p>— Pas du tout. Je viens de surprendre M. Laroche-Mathieu en flagrant délit d'adultère avec ma femme. Le commissaire de police a constaté la chose. Le ministre est foutu. »</p>
           <p />
           <p>Walter, interdit, releva tout à fait ses lunettes sur son front et demanda : « Vous ne vous moquez pas de moi ?</p>
-          <p>– Pas du tout. Je vais même faire un écho là-dessus.</p>
-          <p>– Mais alors que voulez-vous ?</p>
-          <p>– Jeter bas ce fripon, ce misérable, ce malfaiteur public ! »</p>
+          <p>— Pas du tout. Je vais même faire un écho là-dessus.</p>
+          <p>— Mais alors que voulez-vous ?</p>
+          <p>— Jeter bas ce fripon, ce misérable, ce malfaiteur public ! »</p>
           <p>Georges posa son chapeau sur un fauteuil, puis ajouta :</p>
           <p>« Gare à ceux que je trouve sur mon chemin. Je ne pardonne jamais. »</p>
           <p>Le directeur hésitait encore à comprendre. Il murmura :</p>
           <p>« Mais… votre femme ?</p>
-          <p>– Ma demande en divorce sera faite dès demain matin. Je la renvoie à feu Forestier.</p>
-          <p>– Vous voulez divorcer ?</p>
-          <p>– Parbleu. J'étais ridicule. Mais il me fallait faire la bête pour les surprendre. Ça y est. Je suis maître de la situation. »</p>
+          <p>— Ma demande en divorce sera faite dès demain matin. Je la renvoie à feu Forestier.</p>
+          <p>— Vous voulez divorcer ?</p>
+          <p>— Parbleu. J'étais ridicule. Mais il me fallait faire la bête pour les surprendre. Ça y est. Je suis maître de la situation. »</p>
           <p>M. Walter n'en revenait pas ; et il regardait Du Roy avec des yeux effarés, pensant : « Bigre. Ç'est un gaillard bon à ménager. »</p>
           <p>Georges reprit :</p>
           <p>« Me voici libre… J'ai une certaine fortune. Je me présenterai aux élections au renouvellement d'octobre, dans mon pays où je suis fort connu. Je ne pouvais pas me poser ni me faire respecter avec cette femme qui était suspecte à tout le monde. Elle m'avait pris comme un niais, elle m'avait enjôlé et capturé. Mais depuis que je savais son jeu, je la surveillais, la gredine. »</p>
@@ -4246,23 +4246,23 @@
           <p>« M'aimez-vous assez pour commettre une folie ? »</p>
           <p>Elle répondit résolument :</p>
           <p>« Oui.</p>
-          <p>– Une grande folie ?</p>
-          <p>– Oui.</p>
-          <p>– La plus grande des folies ?</p>
-          <p>– Oui.</p>
-          <p>– Aurez-vous aussi assez de courage pour braver votre père et votre mère ?</p>
-          <p>– Oui.</p>
-          <p>– Bien vrai ?</p>
-          <p>– Oui.</p>
-          <p>– Eh bien, il y a un moyen, un seul ! Il faut que la chose vienne de vous, et pas de moi. Vous êtes une enfant gâtée, on vous laisse tout dire, on ne s'étonnera pas trop d'une audace de plus de votre part. Écoutez donc. Ce soir, en rentrant, vous irez trouver votre maman, d'abord, votre maman toute seule. Et vous lui avouerez que vous voulez m'épouser. Elle aura une grosse émotion et une grosse colère… »</p>
+          <p>— Une grande folie ?</p>
+          <p>— Oui.</p>
+          <p>— La plus grande des folies ?</p>
+          <p>— Oui.</p>
+          <p>— Aurez-vous aussi assez de courage pour braver votre père et votre mère ?</p>
+          <p>— Oui.</p>
+          <p>— Bien vrai ?</p>
+          <p>— Oui.</p>
+          <p>— Eh bien, il y a un moyen, un seul ! Il faut que la chose vienne de vous, et pas de moi. Vous êtes une enfant gâtée, on vous laisse tout dire, on ne s'étonnera pas trop d'une audace de plus de votre part. Écoutez donc. Ce soir, en rentrant, vous irez trouver votre maman, d'abord, votre maman toute seule. Et vous lui avouerez que vous voulez m'épouser. Elle aura une grosse émotion et une grosse colère… »</p>
           <p>Suzanne l'interrompit :</p>
           <p>« Oh ! maman voudra bien. »</p>
           <p>Il reprit vivement :</p>
           <p>« Non. Vous ne la connaissez pas. Elle sera plus fâchée et plus furieuse que votre père. Vous verrez comme elle refusera. Mais vous tiendrez bon, vous ne céderez pas ; vous répéterez que vous voulez m'épouser, moi, seul, rien que moi. Le ferez-vous ?</p>
-          <p>– Je le ferai.</p>
-          <p>– Et en sortant de chez votre mère, vous direz la même chose à votre père, d'un air très sérieux et très décidé.</p>
-          <p>– Oui, oui. Et puis ?</p>
-          <p>– Et puis, c'est là que ça devient grave. Si vous êtes résolue, bien résolue, bien, bien, bien résolue à être ma femme, ma chère, chère petite Suzanne… Je vous… je vous enlèverai ! »</p>
+          <p>— Je le ferai.</p>
+          <p>— Et en sortant de chez votre mère, vous direz la même chose à votre père, d'un air très sérieux et très décidé.</p>
+          <p>— Oui, oui. Et puis ?</p>
+          <p>— Et puis, c'est là que ça devient grave. Si vous êtes résolue, bien résolue, bien, bien, bien résolue à être ma femme, ma chère, chère petite Suzanne… Je vous… je vous enlèverai ! »</p>
           <p>Elle eut une grande secousse de joie et faillit battre des mains.</p>
           <p>« Oh ! quel bonheur ! vous m'enlèverez ? Quand ça m'enlèverez-vous ? »</p>
           <p />
@@ -4273,22 +4273,22 @@
           <p>« Mais… ce soir… cette nuit. »</p>
           <p>Elle demanda, frémissante :</p>
           <p>« Et où irons-nous ?</p>
-          <p>– Ça, c'est mon secret. Réfléchissez à ce que vous faites. Songez bien qu'après cette fuite vous ne pourrez plus être que ma femme ! C'est le seul moyen, mais il est… il est très dangereux… pour vous. »</p>
+          <p>— Ça, c'est mon secret. Réfléchissez à ce que vous faites. Songez bien qu'après cette fuite vous ne pourrez plus être que ma femme ! C'est le seul moyen, mais il est… il est très dangereux… pour vous. »</p>
           <p>Elle déclara :</p>
           <p>« Je suis décidée… où vous retrouverai-je ?</p>
-          <p>– Vous pourrez sortir de l'hôtel, toute seule ?</p>
-          <p>– Oui. Je sais ouvrir la petite porte.</p>
-          <p>– Eh bien, quand le concierge sera couché, vers minuit, venez me rejoindre place de la Concorde. Vous me trouverez dans un fiacre arrêté en face du ministère de la Marine.</p>
-          <p>– J'irai.</p>
-          <p>– Bien vrai ?</p>
-          <p>– Bien vrai. »</p>
+          <p>— Vous pourrez sortir de l'hôtel, toute seule ?</p>
+          <p>— Oui. Je sais ouvrir la petite porte.</p>
+          <p>— Eh bien, quand le concierge sera couché, vers minuit, venez me rejoindre place de la Concorde. Vous me trouverez dans un fiacre arrêté en face du ministère de la Marine.</p>
+          <p>— J'irai.</p>
+          <p>— Bien vrai ?</p>
+          <p>— Bien vrai. »</p>
           <p>Il lui prit la main et la serra :</p>
           <p>« Oh ! que je vous aime ! Comme vous êtes bonne et brave ! Alors, vous ne voulez pas épouser M. de Cazolles ?</p>
-          <p>– Oh ! non.</p>
-          <p>– Votre père s'est beaucoup fâché quand vous avez dit non ?</p>
-          <p>– Je crois bien, il voulait me remettre au couvent.</p>
-          <p>– Vous voyez qu'il est nécessaire d'être énergique.</p>
-          <p>– Je le serai. »</p>
+          <p>— Oh ! non.</p>
+          <p>— Votre père s'est beaucoup fâché quand vous avez dit non ?</p>
+          <p>— Je crois bien, il voulait me remettre au couvent.</p>
+          <p>— Vous voyez qu'il est nécessaire d'être énergique.</p>
+          <p>— Je le serai. »</p>
           <p>Elle regardait le vaste horizon, la tête pleine de cette idée d'enlèvement. Elle irait plus loin que là-bas… avec lui !… Elle serait enlevée !… Elle était fière de ça ! Elle ne songeait guère à sa réputation, à ce qui pouvait lui arriver d'infâme. Le savait-elle, même ? Le soupçonnait-elle ?</p>
           <p>Mme Walter, se retournant, cria :</p>
           <p>« Mais viens donc, petite. Qu'est-ce que tu fais avec Bel-Ami ? »</p>
@@ -4311,7 +4311,7 @@
           <p>Il entendit encore sonner le quart, puis la demie, puis les trois quarts ; et toutes les horloges répétèrent une heure comme elles avaient annoncé minuit. Il n'attendait plus, il restait, creusant sa pensée pour deviner ce qui avait pu arriver. Tout à coup une tête de femme passa par la portière et demanda : « Êtes-vous là, Bel-Ami ? »</p>
           <p>Il eut un sursaut et une suffocation.</p>
           <p>« C'est vous, Suzanne ?</p>
-          <p>– Oui, c'est moi. »</p>
+          <p>— Oui, c'est moi. »</p>
           <p>Il ne parvenait point à tourner la poignée assez vite, et répétait : « Ah !… c'est vous… c'est vous… entrez. »</p>
           <p>Elle entra et se laissa tomber contre lui. Il cria au cocher : « Allez ! » Et le fiacre se mit en route.</p>
           <p>Elle haletait, sans parler.</p>
@@ -4321,7 +4321,7 @@
           <p>« Oh ! ç'a a été terrible, chez maman surtout. »</p>
           <p>Il était inquiet et frémissant.</p>
           <p>« Votre maman ? Qu'est-ce qu'elle a dit ? Contez-moi ça.</p>
-          <p>– Oh ! ça a été affreux. Je suis entrée chez elle et je lui ai récité ma petite affaire que j'avais bien préparée. Alors elle a pâli, puis elle a crié : « Jamais ! jamais ! » Moi, j'ai pleuré, je me suis fâchée, j'ai juré que je n'épouserais que vous. J'ai cru qu'elle allait me battre. Elle est devenue comme folle ; elle a déclaré qu'on me renverrait au couvent, dès le lendemain. Je ne l'avais jamais vue comme ça, jamais ! Alors papa est arrivé en l'entendant débiter toutes ses sottises. Il ne s'est pas fâché tant qu'elle, mais il a déclaré que vous n'étiez pas un assez beau parti.</p>
+          <p>— Oh ! ça a été affreux. Je suis entrée chez elle et je lui ai récité ma petite affaire que j'avais bien préparée. Alors elle a pâli, puis elle a crié : « Jamais ! jamais ! » Moi, j'ai pleuré, je me suis fâchée, j'ai juré que je n'épouserais que vous. J'ai cru qu'elle allait me battre. Elle est devenue comme folle ; elle a déclaré qu'on me renverrait au couvent, dès le lendemain. Je ne l'avais jamais vue comme ça, jamais ! Alors papa est arrivé en l'entendant débiter toutes ses sottises. Il ne s'est pas fâché tant qu'elle, mais il a déclaré que vous n'étiez pas un assez beau parti.</p>
           <p>« Comme ils m'avaient mise en colère aussi, j'ai crié plus fort qu'eux. Et papa m'a dit de sortir avec un air dramatique qui ne lui allait pas du tout. C'est ce qui m'a décidée à me sauver avec vous. Me voilà, où allons-nous ? »</p>
           <p>Il avait enlacé sa taille doucement ; et il écoutait de toutes ses oreilles, le cœur battant, une rancune haineuse s'éveillant en lui contre ces gens. Mais il la tenait, leur fille. Ils verraient, à présent.</p>
           <p>Il répondit :</p>
@@ -4360,8 +4360,8 @@
           <p>« Eh bien ! quoi ? Qu'est-ce que tu as ? »</p>
           <p>Elle balbutiait :</p>
           <p>« As-tu vu Suzanne ?</p>
-          <p>– Moi ? Non. Pourquoi ?</p>
-          <p>– Elle est… elle est… partie. Elle n'est pas dans sa chambre. »</p>
+          <p>— Moi ? Non. Pourquoi ?</p>
+          <p>— Elle est… elle est… partie. Elle n'est pas dans sa chambre. »</p>
           <p>Il sauta d'un bond sur le tapis, chaussa ses pantoufles et, sans caleçon, la chemise au vent, il se précipita à son tour vers l'appartement de sa fille.</p>
           <p>Dès qu'il l'eut vu, il ne conserva point de doute. Elle s'était enfuie.</p>
           <p>Il tomba sur un fauteuil et posa sa lampe par terre devant lui.</p>
@@ -4370,7 +4370,7 @@
           <p>Il n'avait plus la force de répondre ; il n'avait plus de colère, il gémit : « C'est fait, il la tient. Nous sommes perdus. »</p>
           <p>Elle ne comprenait pas :</p>
           <p>« Comment perdus ?</p>
-          <p>– Eh ! oui, parbleu. Il faut bien qu'il l'épouse maintenant. »</p>
+          <p>— Eh ! oui, parbleu. Il faut bien qu'il l'épouse maintenant. »</p>
           <p>Elle poussa une sorte de cri de bête :</p>
           <p>« Lui ! jamais ! Tu es donc fou ? »</p>
           <p>Il répondit tristement :</p>
@@ -4495,12 +4495,12 @@
           <p>« Elle n'est pas mal, cette petite Madeleine. Très fine et très rouée ! Elle doit être charmante au découvert. Mais, dites-moi, comment se fait-il que Du Roy se marie à l'église après un divorce prononcé ? »</p>
           <p>Norbert de Varenne répondit :</p>
           <p>« Il se marie à l'église parce que, pour l'Église, il n'était pas marié, la première fois.</p>
-          <p>– Comment ça ?</p>
-          <p>– Notre Bel-Ami, par indifférence ou par économie, avait jugé la mairie suffisante en épousant Madeleine Forestier. Il s'était donc passé de bénédiction ecclésiastique, ce qui constituait, pour notre Sainte Mère l'Église, un simple état de concubinage. Par conséquent, il arrive devant elle aujourd'hui en garçon, et elle lui prête toutes ses pompes, qui coûteront cher au père Walter. »</p>
+          <p>— Comment ça ?</p>
+          <p>— Notre Bel-Ami, par indifférence ou par économie, avait jugé la mairie suffisante en épousant Madeleine Forestier. Il s'était donc passé de bénédiction ecclésiastique, ce qui constituait, pour notre Sainte Mère l'Église, un simple état de concubinage. Par conséquent, il arrive devant elle aujourd'hui en garçon, et elle lui prête toutes ses pompes, qui coûteront cher au père Walter. »</p>
           <p>La rumeur de la foule accrue grandissait sous la voûte. On entendait des voix qui parlaient presque haut. On se montrait des hommes célèbres, qui posaient, contents d'être vus, et gardant avec soin leur maintien adopté devant le public, habitués à se montrer ainsi dans toutes les fêtes dont ils étaient, leur semblait-il, les indispensables ornements, les bibelots d'art.</p>
           <p>Rival reprit :</p>
           <p>« Dites donc, mon cher, vous qui allez souvent chez le Patron, est-ce vrai que Mme Walter et Du Roy ne se parlent jamais plus ?</p>
-          <p>– Jamais. Elle ne voulait pas lui donner la petite. Mais il tenait le père par des cadavres découverts, paraît-il, des cadavres enterrés au Maroc. Il a donc menacé le vieux de révélations épouvantables. Walter s'est rappelé l'exemple de Laroche-Mathieu et il a cédé tout de suite. Mais la mère, entêtée comme toutes les femmes, a juré qu'elle n'adresserait plus la parole à son gendre. Ils sont rudement drôles, en face l'un de l'autre. Elle a l'air d'une statue, de la statue de la Vengeance, et il est fort gêné, lui, bien qu'il fasse bonne contenance, car il sait se gouverner, celui-là ! »</p>
+          <p>— Jamais. Elle ne voulait pas lui donner la petite. Mais il tenait le père par des cadavres découverts, paraît-il, des cadavres enterrés au Maroc. Il a donc menacé le vieux de révélations épouvantables. Walter s'est rappelé l'exemple de Laroche-Mathieu et il a cédé tout de suite. Mais la mère, entêtée comme toutes les femmes, a juré qu'elle n'adresserait plus la parole à son gendre. Ils sont rudement drôles, en face l'un de l'autre. Elle a l'air d'une statue, de la statue de la Vengeance, et il est fort gêné, lui, bien qu'il fasse bonne contenance, car il sait se gouverner, celui-là ! »</p>
           <p>Des confrères venaient leur serrer la main. On entendait des bouts de conversations politiques. Et vague comme le bruit d'une mer lointaine, le grouillement du peuple amassé devant l'église entrait par la porte avec le soleil, montait sous la voûte, au-dessus de l'agitation plus discrète du public d'élite massé dans le temple.</p>
           <p>Tout à coup le suisse frappa trois fois le pavé du bois de sa hallebarde. Toute l'assistance se retourna avec un long frou-frou de jupes et un remuement de chaises. Et la jeune femme apparut, au bras de son père, dans la vive lumière du portail.</p>
           <p>Elle avait toujours l'air d'un joujou, d'un délicieux joujou blanc coiffé de fleurs d'oranger.</p>

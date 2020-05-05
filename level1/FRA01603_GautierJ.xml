@@ -57,7 +57,7 @@
         <bibl type="printSource">
           <title>Les Princesses d'Amour (Courtisanes Japonaises)</title>
           <author>Judith Gautier</author>
-          <publisher> Société d'Éditions Littéraires et artistiques, Librarie Paul Ollendorf, 50, Chaussée d'Antin </publisher>
+          <publisher>Société d'Éditions Littéraires et artistiques, Librarie Paul Ollendorf, 50, Chaussée d'Antin </publisher>
           <pubPlace>Paris</pubPlace>
           <date>1900</date>
         </bibl>
@@ -74,12 +74,11 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">XXX</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
         <size xmlns="http://distantreading.net/eltec/ns" key="short" />

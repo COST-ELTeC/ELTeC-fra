@@ -50,12 +50,13 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">XXX</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
+          <term type="subgenre">Bildungsroman</term>
+          <!-- Or Anti-Bildungsroman -->
+        </keywords>
+      </textClass>
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
         <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
@@ -98,9 +99,9 @@
         <p>« Comment veux-tu voyager par un temps pareil ? »</p>
         <p>Mais elle le priait, câline et tendre :</p>
         <p>« Oh ! papa, partons, je t'en supplie. Il fera beau dans l'après-midi.</p>
-        <p>– Mais ta mère n'y consentira jamais.</p>
-        <p>– Si, je te le promets, je m'en charge.</p>
-        <p>– Si tu parviens à décider ta mère, je veux bien, moi. »</p>
+        <p>— Mais ta mère n'y consentira jamais.</p>
+        <p>— Si, je te le promets, je m'en charge.</p>
+        <p>— Si tu parviens à décider ta mère, je veux bien, moi. »</p>
         <p>Et elle se précipita vers la chambre de la baronne. Car elle avait attendu ce jour du départ avec une impatience grandissante.</p>
         <p>Depuis son entrée au Sacré-Cœur elle n'avait pas quitté Rouen, son père ne permettant aucune distraction avant l'âge qu'il avait fixé. Deux fois seulement on l'avait emmenée quinze jours à Paris, mais c'était une ville encore, et elle ne rêvait que la campagne.</p>
         <p>Elle allait maintenant passer l'été dans leur propriété des Peuples, vieux château de famille planté sur la falaise près d'Yport ; et elle se promettait une joie infinie de cette vie libre au bord des flots. Puis, il était entendu qu'on lui faisait don de ce manoir, qu'elle habiterait toujours lorsqu'elle serait mariée.</p>
@@ -278,9 +279,9 @@
         <p>Puis il parla du pays, qu'il déclarait très « pittoresque », ayant trouvé, dans ses promenades solitaires, beaucoup de « sites » ravissants. De temps en temps ses yeux, comme par hasard, rencontraient ceux de Jeanne ; et elle éprouvait une sensation singulière de ce regard brusque, vite détourné, où apparaissaient une admiration caressante et une sympathie éveillée.</p>
         <p>M. de Lamare, le père, mort l'année précédente, avait justement connu un ami de M. des Cultaux dont petite mère était fille ; et la découverte de cette connaissance enfanta une conversation d'alliances, de dates, de parentés interminable. La baronne faisait des tours de force de mémoire, rétablissant les ascendances et les descendances d'autres familles, circulant, sans jamais se perdre, dans le labyrinthe compliqué des généalogies.</p>
         <p>« Dites-moi, vicomte, avez-vous entendu parler des Saunoy de Varfleur ? le fils aîné, Gontran, avait épousé une demoiselle de Coursil, une Coursil-Courville, et le cadet, une de mes cousines, Mlle de la Roche-Aubert qui était alliée aux Crisange. Or, M. de Crisange était l'ami intime de mon père et a dû connaître aussi le vôtre.</p>
-        <p>– Oui, madame. N'est-ce pas ce M. de Crisange qui émigra et dont le fils s'est ruiné ?</p>
-        <p>– Lui-même. Il avait demandé en mariage ma tante, après la mort de son mari, le comte d'Eretry ; mais elle ne voulut pas de lui parce qu'il prisait. Savez-vous, à ce propos, ce que sont devenus les Viloise ? Ils ont quitté la Touraine vers 1813, à la suite de revers de fortune, pour se fixer en Auvergne, et je n'en ai plus entendu parler.</p>
-        <p>– Je crois, madame, que le vieux marquis est mort d'une chute de cheval, laissant une fille mariée avec un Anglais, et l'autre avec un certain Bassolle, un commerçant, riche, dit-on, et qui l'avait séduite. »</p>
+        <p>— Oui, madame. N'est-ce pas ce M. de Crisange qui émigra et dont le fils s'est ruiné ?</p>
+        <p>— Lui-même. Il avait demandé en mariage ma tante, après la mort de son mari, le comte d'Eretry ; mais elle ne voulut pas de lui parce qu'il prisait. Savez-vous, à ce propos, ce que sont devenus les Viloise ? Ils ont quitté la Touraine vers 1813, à la suite de revers de fortune, pour se fixer en Auvergne, et je n'en ai plus entendu parler.</p>
+        <p>— Je crois, madame, que le vieux marquis est mort d'une chute de cheval, laissant une fille mariée avec un Anglais, et l'autre avec un certain Bassolle, un commerçant, riche, dit-on, et qui l'avait séduite. »</p>
         <p>Et des noms, appris et retenus dès l'enfance dans les conversations des vieux parents, revenaient. Et les mariages de ces familles égales prenaient dans leurs esprits l'importance des grands événements publics. Ils parlaient de gens qu'ils n'avaient jamais vus comme s'ils les connaissaient beaucoup ; et ces gens-là, dans d'autres contrées, parlaient d'eux de la même façon ; et ils se sentaient familiers de loin, presque amis, presque alliés, par le seul fait d'appartenir à la même caste, et d'être d'un sang équivalent.</p>
         <p>Le baron, d'une nature assez sauvage et d'une éducation qui ne s'accordait point avec les croyances et les préjugés des gens de son monde, ne connaissait guère les familles des environs ; il interrogea sur elles le vicomte.</p>
         <p>M. de Lamare répondit : « Oh ! il n'y a pas beaucoup de noblesse dans l'arrondissement », du même ton dont il aurait déclaré qu'il y avait peu de lapins sur les côtes ; et il donna des détails. Trois familles seulement se trouvaient dans un rayon assez rapproché : le marquis de Coutelier, une sorte de chef de l'aristocratie normande ; le vicomte et la vicomtesse de Briseville, des gens d'excellente race, mais se tenant assez isolés ; enfin le comte de Fourville, sorte de croque-mitaine, qui passait pour faire mourir sa femme de chagrin et qui vivait en chasseur dans son château de la Vrillette, bâti sur un étang.</p>
@@ -352,7 +353,7 @@
         <p>Le vicomte de Lamare parut. Son pantalon était tendu et retenu sous de mignonnes bottes vernies qui faisaient voir la petitesse de son pied. Sa longue redingote, serrée à la taille, laissait sortir, par l'échancrure sur la poitrine, la dentelle de son jabot ; et une cravate fine, à plusieurs tours, le forçait à porter haut sa belle tête brune empreinte d'une distinction grave. Il avait un autre air que de coutume, cet aspect particulier que la toilette donne subitement aux visages les mieux connus. Jeanne, stupéfaite, le regardait comme si elle ne l'avait point encore vu ; elle le trouvait souverainement gentilhomme, grand seigneur de la tête aux pieds.</p>
         <p>Il s'inclina, en souriant : « Eh bien, ma commère, êtes-vous prête ? »</p>
         <p>Elle balbutia : « Mais quoi ? Qu'y a-t-il donc ?</p>
-        <p>– Tu le sauras tout à l'heure », dit le baron.</p>
+        <p>— Tu le sauras tout à l'heure », dit le baron.</p>
         <p>La calèche attelée s'avança, Mme Adélaïde descendit de sa chambre en grand apparat au bras de Rosalie, qui parut tellement émue par l'élégance de M. de Lamare que petit père murmura : « Dites donc, vicomte, je crois que notre bonne vous trouve à son goût. » Il rougit jusqu'aux oreilles, fit semblant de n'avoir pas entendu, et, s'emparant du gros bouquet, le présenta à Jeanne. Elle le prit plus étonnée encore. Tous les quatre montèrent en voiture ; et la cuisinière Ludivine, qui apportait à la baronne un bouillon froid pour la soutenir, déclara : « Vrai, madame, on dirait une noce. »</p>
         <p>On mit pied à terre en entrant dans Yport et, à mesure qu'on avançait à travers le village, les matelots, dans leurs hardes neuves dont les plis se voyaient, sortaient de leurs maisons, saluaient, serraient la main du baron et se mettaient à suivre, comme derrière une procession.</p>
         <p>Le vicomte avait offert son bras à Jeanne et marchait en tête avec elle.</p>
@@ -855,7 +856,7 @@
         <p>« Voyons, ma fille, dis-moi tout. »</p>
         <p>Rosalie se mit à trembler, et balbutia :</p>
         <p>« Quoi, madame ?</p>
-        <p>– À qui est-il, cet enfant ? »</p>
+        <p>— À qui est-il, cet enfant ? »</p>
         <p>Alors la petite bonne fut reprise d'un désespoir épouvantable ; et elle cherchait éperdument à dégager ses mains pour s'en cacher la figure.</p>
         <p>Mais Jeanne l'embrassait malgré elle, la consolait : « C'est un malheur, que veux-tu, ma fille ? Tu as été faible ; mais ça arrive à bien d'autres. Si le père t'épouse, on n'y pensera plus ; et nous pourrons le prendre à notre service avec toi. »</p>
         <p>Rosalie gémissait comme si on l'eût martyrisée, et de temps en temps donnait une secousse pour se dégager et s'enfuir.</p>
@@ -928,15 +929,15 @@
         <p>Petite mère, tante Lison et le baron étaient venus, donc elle avait été très malade. Mais Julien ? Qu'avait-il dit ? Ses parents savaient-ils ? Et Rosalie ? où était-elle ? Et puis que faire ? Une idée l'illumina -- retourner avec père et petite mère, à Rouen, comme autrefois. Elle serait veuve ; voilà tout.</p>
         <p>Alors elle attendit, écoutant ce qu'on disait autour d'elle, comprenant fort bien sans le laisser voir, jouissant de ce retour de raison, patiente et rusée.</p>
         <p>Le soir, enfin, elle se trouva seule avec la baronne et elle appela, tout bas : « Petite mère ! » Sa propre voix l'étonna, lui parut changée. La baronne lui saisit les mains : « Ma fille, ma Jeanne chérie ! ma fille, tu me reconnais ?</p>
-        <p>– Oui, petite mère, mais il ne faut point pleurer ; nous avons à causer longtemps. Julien t'a-t-il dit pourquoi je me suis sauvée dans la neige ?</p>
-        <p>– Oui, ma mignonne, tu as eu une fièvre très dangereuse.</p>
-        <p>– Ce n'est pas ça, maman. J'ai eu la fièvre après ; mais t'a-t-il dit qui me l'a donnée, cette fièvre, et pourquoi je me suis sauvée ?</p>
-        <p>– Non, ma chérie.</p>
-        <p>– C'est parce que j'ai trouvé Rosalie dans son lit. »</p>
+        <p>— Oui, petite mère, mais il ne faut point pleurer ; nous avons à causer longtemps. Julien t'a-t-il dit pourquoi je me suis sauvée dans la neige ?</p>
+        <p>— Oui, ma mignonne, tu as eu une fièvre très dangereuse.</p>
+        <p>— Ce n'est pas ça, maman. J'ai eu la fièvre après ; mais t'a-t-il dit qui me l'a donnée, cette fièvre, et pourquoi je me suis sauvée ?</p>
+        <p>— Non, ma chérie.</p>
+        <p>— C'est parce que j'ai trouvé Rosalie dans son lit. »</p>
         <p>La baronne crut qu'elle délirait encore, la caressa. « Dors, ma mignonne, calme-toi, essaie de dormir. »</p>
         <p>Mais Jeanne, obstinée, reprit : « J'ai toute ma raison maintenant, petite maman, je ne dis pas de folies comme j'ai dû en dire les jours derniers. Je me sentais malade une nuit, alors j'ai été chercher Julien. Rosalie était couchée avec lui. J'ai perdu la tête de chagrin et je me suis sauvée dans la neige pour me jeter à la falaise. »</p>
         <p>Mais la baronne répétait : « Oui, ma mignonne, tu as été bien malade.</p>
-        <p>– Ce n'est pas ça, maman, j'ai trouvé Rosalie dans le lit de Julien, et je ne veux plus rester avec lui. Tu m'emmèneras à Rouen, comme autrefois. »</p>
+        <p>— Ce n'est pas ça, maman, j'ai trouvé Rosalie dans le lit de Julien, et je ne veux plus rester avec lui. Tu m'emmèneras à Rouen, comme autrefois. »</p>
         <p>La baronne, à qui le médecin avait recommandé de ne contrarier Jeanne en rien, répondit : « Oui, ma mignonne. »</p>
         <p>Mais la malade s'impatienta : « Je vois bien que tu ne me crois pas. Va chercher petit père, lui, il finira bien par me comprendre. »</p>
         <p>Et petite mère se leva difficilement, prit ses deux cannes, sortit en traînant ses pieds, puis revint après quelques minutes avec le baron qui la soutenait.</p>
@@ -970,9 +971,9 @@
         <p>« Depuis quand cela durait-il ? »</p>
         <p>Rosalie balbutia : « Depuis qu'il est v'nu. »</p>
         <p>Jeanne ne comprenait pas. « Depuis qu'il est venu… Alors… depuis… depuis le printemps ?</p>
-        <p>– Oui, madame.</p>
-        <p>– Depuis qu'il est entré dans cette maison ?</p>
-        <p>– Oui, madame. »</p>
+        <p>— Oui, madame.</p>
+        <p>— Depuis qu'il est entré dans cette maison ?</p>
+        <p>— Oui, madame. »</p>
         <p>Et Jeanne, comme oppressée de questions, interrogea d'une voix précipitée : « Mais comment cela s'est-il fait ? Comment te l'a-t-il demandé ? Comment t'a-t-il prise ? Qu'est-ce qu'il t'a dit ? À quel moment, comment as-tu cédé ? comment as-tu pu te donner à lui ? »</p>
         <p>Et Rosalie, écartant ses mains cette fois, saisie aussi d'une fièvre de parler, d'un besoin de répondre :</p>
         <p>« J'sais ti mé ? C'est le jour qu'il a dîné ici la première fois, qu'il est v'nu m'trouver dans ma chambre. Il s'était caché dans l'grenier. J'ai pas osé crier pour pas faire d'histoire. Il s'est couché avec mé ; j'savais pu c'que j'faisais à çu moment-là ; il a fait c'qu'il a voulu. J'ai rien dit parce que je le trouvais gentil !… »</p>
@@ -1102,8 +1103,8 @@
         <p>L'homme aussitôt devint inquiet, troublé dans ses habitudes de cautèle normande. Il répliqua d'une voix plus vive, mis en défiance : « C'est selon, p't'être que oui, p't'être que non, c'est selon. »</p>
         <p>Mais le baron s'irritait de ces tergiversations : « Sacrebleu ! répondez franchement : est-ce pour ça que vous venez, oui ou non ? La prenez-vous, oui ou non ? »</p>
         <p>L'homme, perplexe, ne regardait plus que ses pieds : « Si c'est c'que dit m'sieu l'curé, j'la prends ; mais si c'est c'que dit m'sieu Julien, j'la prends point.</p>
-        <p>– Qu'est-ce que vous a dit M. Julien ?</p>
-        <p>– M'sieu Julien, i m'a dit qu'j'aurais quinze cents francs ; et m'sieu l'curé i m'a dit que j'aurais vingt mille ; j'veux ben pour vingt mille, mais j'veux point pour quinze cents. »</p>
+        <p>— Qu'est-ce que vous a dit M. Julien ?</p>
+        <p>— M'sieu Julien, i m'a dit qu'j'aurais quinze cents francs ; et m'sieu l'curé i m'a dit que j'aurais vingt mille ; j'veux ben pour vingt mille, mais j'veux point pour quinze cents. »</p>
         <p>Alors la baronne, qui restait enfoncée en son fauteuil, devant l'attitude anxieuse du rustre, se mit à rire par petites secousses. Le paysan la regarda de coin, d'un œil mécontent, ne comprenant pas cette gaieté, et il attendit.</p>
         <p>Le baron, que ce marchandage gênait, y coupa court. « J'ai dit à M. le curé que vous auriez la ferme de Barville, votre vie durant, pour revenir ensuite à l'enfant. Elle vaut vingt mille francs. Je n'ai qu'une parole. Est-ce fait, oui ou non ? »</p>
         <p>L'homme sourit d'un air humble et satisfait, et devenu soudain loquace : « Oh ! pour lors, je n'dis pas non. N'y avait qu'ça qui m'opposait. Quand m'sieu l'curé m'na parlé, j'voulais ben tout d'suite, pardi, et pi j'étais ben aise d'satisfaire m'sieu l'baron, qui me r'vaudra ça, je m'le disais. C'est-i pas vrai, quand on s'oblige, entre gens, on se r'trouve toujours plus tard ; et on se r'vaut ça. Mais m'sieu Julien m'a v'nu trouver ; et c'n'était pu qu'quinze cents. J'mai dit : « Faut savoir », et j'suis v'nu. C'est pas pour dire, j'avais confiance, mais j'voulais savoir. I n'est qu'les bons comptes qui font les bons amis, pas vrai, m'sieu l'baron… »</p>
@@ -1563,10 +1564,10 @@
         <p>Mais le baron hochait la tête. « Que répondras-tu s'il vient te dire, lorsqu'il aura vingt-cinq ans : Je ne suis rien, je ne sais rien par ta faute, par la faute de ton égoïsme maternel. Je me sens incapable de travailler, de devenir quelqu'un, et pourtant je n'étais pas fait pour la vie obscure, humble, et triste à mourir, à laquelle ta tendresse imprévoyante m'a condamné. »</p>
         <p>Elle pleurait toujours, implorant son fils. « Dis, Poulet, tu ne me reprocheras jamais de t'avoir trop aimé, n'est-ce pas ? »</p>
         <p>Et le grand enfant, surpris, promettait : « Non, maman.</p>
-        <p>– Tu me le jures ?</p>
-        <p>– Oui, maman.</p>
-        <p>– Tu veux rester ici, n'est-ce pas ?</p>
-        <p>– Oui, maman. »</p>
+        <p>— Tu me le jures ?</p>
+        <p>— Oui, maman.</p>
+        <p>— Tu veux rester ici, n'est-ce pas ?</p>
+        <p>— Oui, maman. »</p>
         <p>Alors le baron parla ferme et haut : « Jeanne, tu n'as pas le droit de disposer de cette vie. Ce que tu fais là est lâche et presque criminel ; tu sacrifies ton enfant à ton bonheur particulier. »</p>
         <p>Elle cacha sa figure dans ses mains, poussant des sanglots précipités, et elle balbutiait dans ses larmes : « J'ai été si malheureuse… si malheureuse ! Maintenant que je suis tranquille avec lui, on me l'enlève… Qu'est-ce que je deviendrai… toute seule… à présent ?… »</p>
         <p>Son père se leva, vint s'asseoir auprès d'elle, la prit dans ses bras. « Et moi, Jeanne ? » Elle le saisit brusquement par le cou, l'embrassa avec violence, puis, toute suffoquée encore, elle articula au milieu d'étranglements : « Oui. Tu as raison… peut-être… petit père. J'étais folle, mais j'ai tant souffert. Je veux bien qu'il aille au collège. »</p>
@@ -1674,19 +1675,19 @@
         <p>Et Rosalie, contemplant cette femme à cheveux blancs, maigre et fanée, qu'elle avait quittée jeune, belle et fraîche, répondit : « Ça c'est vrai que vous êtes changée, madame Jeanne, et plus que de raison. Mais songez aussi que v'là vingt-quatre ans que nous nous sommes pas vues. »</p>
         <p>Elles se turent, réfléchissant de nouveau. Jeanne, enfin, balbutia : « As-tu été heureuse au moins ? »</p>
         <p>Et Rosalie, hésitant dans la crainte de réveiller quelque souvenir trop douloureux, bégayait : « Mais… oui… oui… madame. J'ai pas trop à me plaindre, j'ai été plus heureuse que vous… pour sûr. Il n'y a qu'une chose qui m'a toujours gâté le cœur, c'est de ne pas être restée ici… » Puis elle se tut brusquement, saisie d'avoir touché à cela sans y songer. Mais Jeanne reprit avec douceur : « Que veux-tu, ma fille, on ne fait pas toujours ce qu'on veut. Tu es veuve aussi, n'est-ce pas ? » Puis une angoisse fit trembler sa voix, et elle continua : « As-tu d'autres… d'autres enfants ?</p>
-        <p>– Non, madame.</p>
-        <p>– Et, lui, ton… ton fils, qu'est-ce qu'il est devenu ? En es-tu satisfaite ?</p>
-        <p>– Oui, madame, c'est un bon gars qui travaille d'attaque. Il s'est marié v'là six mois, et il prend ma ferme, donc, puisque me v'là revenue avec vous. »</p>
+        <p>— Non, madame.</p>
+        <p>— Et, lui, ton… ton fils, qu'est-ce qu'il est devenu ? En es-tu satisfaite ?</p>
+        <p>— Oui, madame, c'est un bon gars qui travaille d'attaque. Il s'est marié v'là six mois, et il prend ma ferme, donc, puisque me v'là revenue avec vous. »</p>
         <p>Jeanne, tremblant d'émotion, murmura : « Alors, tu ne me quitteras plus, ma fille ? »</p>
         <p>Et Rosalie, d'un ton brusque : « Pour sûr, madame, que j'ai pris mes dispositions pour ça. »</p>
         <p>Puis elles ne parlèrent pas de quelque temps.</p>
         <p>Jeanne, malgré elle, se remettait à comparer leurs existences, mais sans amertume au cœur, résignée maintenant aux cruautés injustes du sort. Elle dit :</p>
         <p>« Ton mari, comment a-t-il été pour toi ?</p>
-        <p>– Oh ! c'était un brave homme, madame, et pas feignant, qui a su amasser du bien. Il est mort du mal de poitrine. »</p>
+        <p>— Oh ! c'était un brave homme, madame, et pas feignant, qui a su amasser du bien. Il est mort du mal de poitrine. »</p>
         <p>Alors Jeanne, s'asseyant sur son lit, envahie d'un besoin de savoir : « Voyons, raconte-moi tout, ma fille, toute ta vie. Cela me fera du bien, aujourd'hui. »</p>
         <p>Et Rosalie, approchant une chaise, s'assit et se mit à parler d'elle, de sa maison, de son monde, entrant dans les menus détails chers aux gens de campagne, décrivant sa cour, riant parfois de choses anciennes déjà qui lui rappelaient de bons moments passés, haussant le ton peu à peu, en fermière habituée à commander. Elle finit par déclarer : « Oh ! j'ai du bien au soleil, aujourd'hui. Je ne crains rien. » Puis elle se troubla encore et reprit plus bas : « C'est à vous que je dois ça tout de même : aussi vous savez que je n'veux pas de gages. Ah ! mais non. Ah ! mais non ! Et puis, si vous n'voulez point, je m'en vas. »</p>
         <p>Jeanne reprit : « Tu ne prétends pourtant pas me servir pour rien ?</p>
-        <p>– Ah ! mais que oui, madame. De l'argent ! Vous me donneriez de l'argent ! Mais j'en ai quasiment autant que vous. Savez-vous seulement c'qui vous reste avec tous vos gribouillis d'hypothèques et d'empruntages, et d'intérêts qui n'sont pas payés et qui s'augmentent à chaque terme ? Savez-vous ? non, n'est-ce pas ? Eh bien, je vous promets que vous n'avez seulement plus dix mille livres de revenu. Pas dix mille, entendez-vous. Mais je vas vous régler tout ça, et vite encore. »</p>
+        <p>— Ah ! mais que oui, madame. De l'argent ! Vous me donneriez de l'argent ! Mais j'en ai quasiment autant que vous. Savez-vous seulement c'qui vous reste avec tous vos gribouillis d'hypothèques et d'empruntages, et d'intérêts qui n'sont pas payés et qui s'augmentent à chaque terme ? Savez-vous ? non, n'est-ce pas ? Eh bien, je vous promets que vous n'avez seulement plus dix mille livres de revenu. Pas dix mille, entendez-vous. Mais je vas vous régler tout ça, et vite encore. »</p>
         <p>Elle s'était remise à parler haut, s'emportant, s'indignant de ces intérêts négligés, de cette ruine menaçante. Et comme un vague sourire attendri passait sur la figure de sa maîtresse, elle s'écria, révoltée :</p>
         <p>« Il ne faut pas rire de ça, madame, parce que sans argent, il n'y a plus que des manants. »</p>
         <p>Jeanne lui reprit les mains et les garda dans les siennes ; puis elle prononça lentement, toujours poursuivie par la pensée qui l'obsédait : « Oh ! moi, je n'ai pas eu de chance. Tout a mal tourné pour moi. La fatalité s'est acharnée sur ma vie. »</p>
@@ -1706,7 +1707,7 @@
         <p>Jeanne répondit : « Que veux-tu, ma fille ? Je sens bien que je ne ferai pas de vieux os ; j'en aurai toujours assez. »</p>
         <p>Mais Rosalie se fâcha : « Vous, madame, c'est possible ; mais M. Paul, vous ne lui laisserez rien alors ? »</p>
         <p>Jeanne frissonna. « Je t'en prie, ne me parle jamais de lui. Je souffre trop quand j'y pense.</p>
-        <p>– Je veux vous en parler au contraire, parce que vous n'êtes pas brave, voyez-vous, madame Jeanne. Il fait des bêtises ; eh bien, il n'en fera pas toujours : et puis il se mariera, il aura des enfants. Il faudra de l'argent pour les élever. Écoutez-moi bien : Vous allez vendre les Peuples !… »</p>
+        <p>— Je veux vous en parler au contraire, parce que vous n'êtes pas brave, voyez-vous, madame Jeanne. Il fait des bêtises ; eh bien, il n'en fera pas toujours : et puis il se mariera, il aura des enfants. Il faudra de l'argent pour les élever. Écoutez-moi bien : Vous allez vendre les Peuples !… »</p>
         <p>Jeanne, d'un sursaut, s'assit dans son lit : « Vendre les Peuples ! Y penses-tu ? Oh ! jamais, par exemple ! »</p>
         <p>Mais Rosalie ne se troubla pas. « Je vous dis que vous les vendrez, moi, madame, parce qu'il le faut. »</p>
         <p>Et elle expliqua ses calculs, ses projets, ses raisonnements.</p>
@@ -1714,9 +1715,9 @@
         <p>Elle ajouta : « Tout le reste est mangé, c'est fini. Et puis c'est moi qui garderai la clef, vous entendez ; et quant à M. Paul, il n'aura plus rien, mais rien ; il vous prendrait jusqu'au dernier sou. »</p>
         <p>Jeanne, qui pleurait en silence, murmura :</p>
         <p>« Mais s'il n'a pas de quoi manger ?</p>
-        <p>– Il viendra manger chez nous, donc, s'il a faim. Il y aura toujours un lit et du fricot pour lui. Croyez-vous qu'il aurait fait toutes ces bêtises-là si vous ne lui aviez pas donné un sou du commencement ?</p>
-        <p>– Mais il avait des dettes, il aurait été déshonoré.</p>
-        <p>– Quand vous n'aurez plus rien, ça l'empêchera-t-il d'en faire ? Vous avez payé, c'est bien ; mais vous ne paierez plus, c'est moi qui vous le dis. Maintenant, bonsoir, madame. »</p>
+        <p>— Il viendra manger chez nous, donc, s'il a faim. Il y aura toujours un lit et du fricot pour lui. Croyez-vous qu'il aurait fait toutes ces bêtises-là si vous ne lui aviez pas donné un sou du commencement ?</p>
+        <p>— Mais il avait des dettes, il aurait été déshonoré.</p>
+        <p>— Quand vous n'aurez plus rien, ça l'empêchera-t-il d'en faire ? Vous avez payé, c'est bien ; mais vous ne paierez plus, c'est moi qui vous le dis. Maintenant, bonsoir, madame. »</p>
         <p>Et elle s'en alla.</p>
         <p>Jeanne ne dormit point, bouleversée à la pensée de vendre les Peuples, de s'en aller, de quitter cette maison où toute sa vie était attachée.</p>
         <p>Quand elle vit entrer Rosalie dans sa chambre, le lendemain, elle lui dit : « Ma pauvre fille, je ne pourrai jamais me décider à m'éloigner d'ici. »</p>
@@ -1844,7 +1845,7 @@
         <p>Enfin, un sifflement lointain leur fit tourner la tête, et elles aperçurent une machine noire qui grandissait. Cela arriva avec un bruit terrible, passa devant elles en traînant une longue chaîne de petites maisons roulantes ; et un employé ayant ouvert une porte, Jeanne embrassa Rosalie en pleurant et monta dans une de ces cases.</p>
         <p>Rosalie, émue, criait :</p>
         <p>« Au revoir, madame ; bon voyage, à bientôt !</p>
-        <p>– Au revoir, ma fille. »</p>
+        <p>— Au revoir, ma fille. »</p>
         <p>Un coup de sifflet partit encore, et tout le chapelet de voitures se remit à rouler doucement d'abord, puis plus vite, puis avec une rapidité effrayante.</p>
         <p>Dans le compartiment où se trouvait Jeanne, deux messieurs dormaient adossés à deux coins.</p>
         <p>Elle regardait passer les campagnes, les arbres, les fermes, les villages, effarée de cette vitesse, se sentant prise dans une vie nouvelle, emportée dans un monde nouveau qui n'était plus le sien, celui de sa tranquille jeunesse et de sa vie monotone.</p>
@@ -1857,7 +1858,7 @@
         <p>Jeanne interdite reprit : « Mais le notaire de Goderville, qui descend chez vous tous les ans. »</p>
         <p>La grosse dame déclara :</p>
         <p>« C'est possible. Je ne le connais pas. Vous voulez une chambre ?</p>
-        <p>– Oui, madame. »</p>
+        <p>— Oui, madame. »</p>
         <p>Et un garçon, prenant son bagage, monta l'escalier devant elle.</p>
         <p>Elle se sentait le cœur serré. Elle s'assit devant une petite table et demanda qu'on lui montât un bouillon avec une aile de poulet. Elle n'avait rien pris depuis l'aurore.</p>
         <p>Elle mangea tristement à la lueur d'une bougie, songeant à mille choses, se rappelant son passage en cette même ville au retour de son voyage de noces, les premiers signes du caractère de Julien, apparus lors de ce séjour à Paris. Mais elle était jeune alors, et confiante et vaillante. Maintenant, elle se sentait vieille, embarrassée, craintive même, faible et troublée pour un rien. Quand elle eut fini son repas, elle se mit à la fenêtre et regarda la rue pleine de monde. Elle avait envie de sortir et n'osait point. Elle allait infailliblement se perdre, pensait-elle. Elle se coucha ; et souffla sa lumière.</p>
@@ -1873,16 +1874,16 @@
         <p>« Il n'habite plus ici, madame. »</p>
         <p>Un grand frisson la parcourut. Elle balbutia :</p>
         <p>« Ah ! où… où demeure-t-il maintenant ?</p>
-        <p>– Je ne sais pas. »</p>
+        <p>— Je ne sais pas. »</p>
         <p>Elle se sentit étourdie comme si elle allait tomber et elle demeura quelque temps sans pouvoir parler.</p>
         <p>Enfin, par un effort violent, elle reprit sa raison, et murmura :</p>
         <p>« Depuis quand est-il parti ? »</p>
         <p>L'homme la renseigna abondamment. « Voilà quinze jours. Ils sont partis comme ça, un soir, et pas revenus. Ils devaient partout dans le quartier ; aussi vous comprenez bien qu'ils n'ont pas laissé leur adresse. »</p>
         <p>Jeanne voyait des lueurs, des grands jets de flamme, comme si on lui eût tiré des coups de fusil devant les yeux. Mais une idée fixe la soutenait, la faisait demeurer debout, calme en apparence, et réfléchie. Elle voulait savoir et retrouver Poulet.</p>
         <p>« Alors il n'a rien dit, en s'en allant ?</p>
-        <p>– Oh ! rien du tout, ils se sont sauvés pour ne pas payer, voilà.</p>
-        <p>– Mais, il doit envoyer chercher ses lettres par quelqu'un.</p>
-        <p>– Plus souvent que je les donnerais. Et puis ils n'en recevaient pas dix par an. Je leur en ai monté une pourtant deux jours avant qu'ils s'en aillent. »</p>
+        <p>— Oh ! rien du tout, ils se sont sauvés pour ne pas payer, voilà.</p>
+        <p>— Mais, il doit envoyer chercher ses lettres par quelqu'un.</p>
+        <p>— Plus souvent que je les donnerais. Et puis ils n'en recevaient pas dix par an. Je leur en ai monté une pourtant deux jours avant qu'ils s'en aillent. »</p>
         <p>C'était sa lettre sans doute. Elle dit précipitamment : « Écoutez, je suis sa mère, à lui, et je suis venue pour le chercher. Voilà dix francs pour vous. Si vous savez quelque nouvelle ou quelque renseignement sur lui, apportez-les-moi à l'hôtel de Normandie, rue du Havre, et je vous paierai bien. »</p>
         <p>Et elle se sauva.</p>
         <p>Elle se remit à marcher sans s'inquiéter où elle allait. Elle se hâtait comme pressée par une course importante ; elle filait le long des murs, heurtée par des gens à paquets ; elle traversait les rues sans regarder les voitures venir, injuriée par les cochers ; elle trébuchait aux marches des trottoirs auxquelles elle ne prenait point garde ; elle courait devant elle, l'âme perdue.</p>
