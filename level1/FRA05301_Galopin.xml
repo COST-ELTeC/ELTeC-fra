@@ -64,9 +64,15 @@
   <text>
     <front>
       <div type="titlepage">
+<<<<<<< HEAD
         <p>Arnould Galopin </p>
         <p>Le Docteur Omega </p>
         <p>(Aventures fantastiques de trois Français dans la Planète Mars) </p>
+=======
+        <p> Arnould Galopin </p>
+        <p> Le Docteur Omega </p>
+        <p> (Aventures fantastiques de trois Français dans la Planète Mars) </p>
+>>>>>>> 061376842addf6ea28b49c2315aa86052842072a
         <gap unit="graphic" />
         <p>Un texte du domaine public.</p>
         <p>Une édition libre.</p>

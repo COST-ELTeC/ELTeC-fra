@@ -39,11 +39,20 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
+<<<<<<< HEAD
       <textClass>
         <keywords>
           <term type="narrative-perspective">heterodiegetic</term>
         </keywords>
       </textClass>
+=======
+<textClass>
+  <keywords>
+    <term type="narrative-perspective">XXX</term>
+  </keywords>
+</textClass>
+
+>>>>>>> 061376842addf6ea28b49c2315aa86052842072a
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="medium" />

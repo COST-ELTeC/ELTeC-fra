@@ -40,11 +40,20 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
+<<<<<<< HEAD
       <textClass>
         <keywords>
           <term type="narrative-perspective">homodiegetic</term>
         </keywords>
       </textClass>
+=======
+<textClass>
+  <keywords>
+    <term type="narrative-perspective">XXX</term>
+  </keywords>
+</textClass>
+
+>>>>>>> 061376842addf6ea28b49c2315aa86052842072a
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short" />
@@ -64,7 +73,11 @@
         <p>HISTOIRE D'UNE JEUNE FILLE DE METZ </p>
         <p>par Maurice Barrès </p>
         <p>DE L'ACADÉMIE FRANÇAISE </p>
+<<<<<<< HEAD
         <p>SOCIÉTÉ D'ÉDITON ET DE PUBLICATIONS </p>
+=======
+        <p> SOCIÉTÉ D'ÉDITON ET DE PUBLICATIONS </p>
+>>>>>>> 061376842addf6ea28b49c2315aa86052842072a
         <p>LIBRAIRIE FÉLIX JUVEN </p>
         <p>PARIS </p>
       </div>
@@ -76,10 +89,17 @@
 
         <head> Charmes-sur-Moselle, le 1er octobre 1908 </head>
         <p>MON CHER AMI,</p>
+<<<<<<< HEAD
         <p>Je vous offre ici l'ouvrage où je crois avoir le mieux mêlé les images que je trouve en fermant les yeux et celles que j'ai recueillies d'après nature. Vous m'avez fait le plaisir d'aimer le <hi>Service de l'Allemagne</hi>. Colette Baudoche est la sœur de l'Alsacien Ehrman. L'un et l'autre, j'ai essayé de les présenter avec les mots les plus unis et sans aucun artifice, pour ne pas diminuer devant le lecteur une position d'un romanesque si vrai. Vous qui vivez pour amener la lumière sur toutes les parties d'une figure colossale, vous reconnaîtrez, je crois, dans ces deux jeunes gens, quelques-unes des vertus avec lesquelles votre héros fit de l'épopée. J'ai voulu décrire les sentiments des récentes générations d'Alsace, de Lorraine et de Metz à l'égard des vainqueurs. J'admire en elles ce qui me paraît le signe d'une humanité supérieure : la volonté de ne pas subir, la volonté de n'accepter que ce qui s'accorde avec leur sentiment intérieur. </p>
         <p>Ces captifs et ces captives continuent d'ajouter au capital cornélien de la France. J'ai tenté d'incorporer à notre littérature les grands exemples de constance et de fierté qu'ils fournissent chaque jour, là-bas, afin que leur vertu continue de s'exercer au milieu de nous. </p>
         <p>Le public dira si j'ai réussi. Pour vous, mon cher ami, de qui l'indulgence m'est acquise depuis vingt-cinq ans, vous trouverez au moins dans ce livre un témoignage de ma fidèle affection. </p>
         <p>MAURICE BARRÈS. </p>
+=======
+        <p> Je vous offre ici l'ouvrage où je crois avoir le mieux mêlé les images que je trouve en fermant les yeux et celles que j'ai recueillies d'après nature. Vous m'avez fait le plaisir d'aimer le <hi>Service de l'Allemagne</hi>. Colette Baudoche est la sœur de l'Alsacien Ehrman. L'un et l'autre, j'ai essayé de les présenter avec les mots les plus unis et sans aucun artifice, pour ne pas diminuer devant le lecteur une position d'un romanesque si vrai. Vous qui vivez pour amener la lumière sur toutes les parties d'une figure colossale, vous reconnaîtrez, je crois, dans ces deux jeunes gens, quelques-unes des vertus avec lesquelles votre héros fit de l'épopée. J'ai voulu décrire les sentiments des récentes générations d'Alsace, de Lorraine et de Metz à l'égard des vainqueurs. J'admire en elles ce qui me paraît le signe d'une humanité supérieure : la volonté de ne pas subir, la volonté de n'accepter que ce qui s'accorde avec leur sentiment intérieur. </p>
+        <p> Ces captifs et ces captives continuent d'ajouter au capital cornélien de la France. J'ai tenté d'incorporer à notre littérature les grands exemples de constance et de fierté qu'ils fournissent chaque jour, là-bas, afin que leur vertu continue de s'exercer au milieu de nous. </p>
+        <p> Le public dira si j'ai réussi. Pour vous, mon cher ami, de qui l'indulgence m'est acquise depuis vingt-cinq ans, vous trouverez au moins dans ce livre un témoignage de ma fidèle affection. </p>
+        <p> MAURICE BARRÈS. </p>
+>>>>>>> 061376842addf6ea28b49c2315aa86052842072a
       </div>
     </front>
 

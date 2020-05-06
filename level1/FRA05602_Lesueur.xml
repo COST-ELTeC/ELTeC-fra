@@ -79,7 +79,11 @@
       <div type="group">
 
         <head>Le Marquis de Valcor</head>
+<<<<<<< HEAD
         <p>PARIS ALPHONSE LEMERRE, ÉDITEUR 23-31, PASSAGE CHOISEUL, 23-31</p>
+=======
+        <p> PARIS ALPHONSE LEMERRE, ÉDITEUR 23-31, PASSAGE CHOISEUL, 23-31</p>
+>>>>>>> 061376842addf6ea28b49c2315aa86052842072a
         <p>M DCCCCIV</p>
         <!--  <p>NOTES SUR LA TRANSCRIPTION :</p>
         <p>— Les erreurs clairement introduites par le typographe ont été corrigées.</p>

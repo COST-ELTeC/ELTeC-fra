@@ -58,11 +58,20 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
+<<<<<<< HEAD
       <textClass>
         <keywords>
           <term type="narrative-perspective">heterodiegetic</term>
         </keywords>
       </textClass>
+=======
+<textClass>
+  <keywords>
+    <term type="narrative-perspective">XXX</term>
+  </keywords>
+</textClass>
+
+>>>>>>> 061376842addf6ea28b49c2315aa86052842072a
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
         <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
@@ -132,12 +141,19 @@
         <p>Chaque biographie de cette édition est ornée d'un portrait, soi-disant gravé d'après des médailles antiques. Ce fait est vrai pour les héros dont l'effigie est sûrement parvenue jusqu'à nos temps modernes ; mais il reste douteux pour les héros quasi mythologiques, tels que Thésée et quelques autres. </p>
         <p>Lorsqu'on commençait une biographie, ce n'était qu'après avoir regardé le profil de l'homme illustre dont on allait entendre l'histoire. Au début de la séance, papa Jacques avait fait rire tout le monde par ses réflexions sur le simple képi qui coiffe la tête d'Alexandre le Grand. Ce képi est un casque à visière horizontale sur le front, et dont le fond est orné d'un coursier ailé, chevauchant un champ d'étoiles. </p>
         <p>« Voici le quatrain, dit Bernard, qui accentua chaque mot pour l'édification de son parrain : </p>
+<<<<<<< HEAD
         <quote>
           <l>Ta vertu qui remplit toute la terre ronde, </l>
           <l>O grand entre les grands, te surhausse invaincu. </l>
           <l>Tu serais le très grand, si tu eusses vaincu </l>
           <l>Ton cœur : car qui le vainc est le plus grand du monde. </l>
         </quote>
+=======
+        <p>Ta vertu qui remplit toute la terre ronde, </p>
+        <p>O grand entre les grands, te surhausse invaincu. </p>
+        <p>Tu serais le très grand, si tu eusses vaincu </p>
+        <p>Ton cœur : car qui le vainc est le plus grand du monde. </p>
+>>>>>>> 061376842addf6ea28b49c2315aa86052842072a
         <p>— J'ai fort bien entendu cette fois, dit papa Jacques ; mais que signifie ce mot : vaincre son cœur ? Quand on a le cœur bien placé, pourquoi disputer contre lui? Si cet Alexandre n avait pas eu un de ces cœurs de bon calibre, son histoire ne serait pas dans ce volume... mais voici maman Suzette qui se moque des raisonnements que je fais. </p><pb />
         <p>— Non pas, dit en souriant maman Suzette; seulement c'est bien de mon Jacques de vouloir que le cœur de chacun soit son maître absolu. Cela te peint, mon pauvre homme, mais pas à ton désavantage pour nous. Tu as toute ta vie obéi à ton cœur et tu peux t'en féliciter, puisqu'il ne t'a jamais commandé que d'être bon à ton prochain ; mais il n'en est pas d'un roi comme d'un bonhomme de campagne : Puisque cet Alexandre le Grand a fait la guerre toute sa vie, peut-être son ambition lui a-t-elle fait commettre des injustices. Voilà comment j'ai compris le reproche du quatrain. Vous verrez si je me suis trompée en écoutant la suite de l'histoire, puisqu'elle vous intéresse, vous autres. </p>
         <p>— Elle ne t'intéresse donc pas, maman Suzette ? s'écria Rose d'un air surpris et même un peu choqué. </p>
@@ -166,7 +182,14 @@
         <p>« Qui veut aller au Mas d'Azil demain, dans la calèche aux sacs de farine ? » </p>
         <p>Rose s'élança des genoux de maman Suzette pour courir au devant du meunier Jean Mailhes. </p>
         <p>« Moi ! dit-elle. Il y a si longtemps que j'ai envie de visiter la grotte. Ah ! quel bonheur! vous emmènerez aussi Bernard et Mariette, monsieur Mailhes, car je ne m'amuserais pas sans eux. </p>
+<<<<<<< HEAD
         <p>— J'ai même une place pour ma soeur Suzette, répondit le meunier ; je la connais, elle ne vous confierait pas à moi, quoique je ne sois pas un étourdi. Elle aurait peur de tout : d'un rhume, d'un faux pas dans les chambres escarpées de la grotte, d'un accident de voiture, que sais-je ? Quant à mes enfants, bien sûr que je les emmène. 11 vous faut votre petite compagne Mariette, ma Rouzétou... c'est-à-dire mademoiselle Rose, dit le meunier en se reprenant. Puis j'ai besoin <gap rend="figure"/><!-- C'était le mounier Jean Mailhes. --> <pb/> <pb/> de Bernard, parce que nous serons trop de voyageurs pour que je charge ma charrette d'un de mes garçons. J'espère que le grec et le latin ne s'opposent pas à ce que Bernard m'aide à décharger et à recharger mes sacs à la foire du Mas d'Azil. » </p>
+=======
+        <p>-— J'ai même une place pour ma soeur Suzette, répondit le meunier ; je la connais, elle ne vous confierait pas à moi, quoique je ne sois pas un étourdi. Elle aurait peur de tout : d'un rhume, d'un faux pas dans les chambres escarpées de la grotte, d'un accident de voiture, que sais-je ? Quant à mes enfants, bien sûr que je les emmène. 11 vous faut votre petite compagne Mariette, ma Rouzétou... c'est-à-dire mademoiselle Rose, dit le meunier en se reprenant. Puis j'ai besoin </p><pb />
+        <p>% 4? </p>
+        <p>C'était le mounier Jean Mailhes. </p><pb /><pb />
+        <p>de Bernard, parce que nous serons trop de voyageurs pour que je charge ma charrette d'un de mes garçons. J'espère que le grec et le latin ne s'opposent pas à ce que Bernard m'aide à décharger et à recharger mes sacs à la foire du Mas d'Azil. » </p>
+>>>>>>> 061376842addf6ea28b49c2315aa86052842072a
         <p>Bernard répondit gaiement : « Il n'y a que la couleur noire de mon habit de collégien qui s'y oppose, et, pourvu que vous me prêtiez une de vos vestes, mon cher père, je serai enchanté d'être votre garçon meunier. </p>
         <p>— Ah ! s'écria Rose en frappant à petits coups l'habit de drap couleur cendre de M. Mailhes, d'où s'échappa un nuage de farine, il serait poudré à blanc, l'uniforme. » </p>
         <p>Ils riaient tous de si bon cœur, qu'ils ne s'aperçurent pas de l'arrivée, auprès d'eux, d'une servante de la maison Lapeyre, qui avait traversé le corridor et la terrasse presque sur les pas du meunier. </p>
@@ -269,7 +292,12 @@
         <p>— Ce n'est pas, reprit-elle, le percepteur qui rappellerait l'heure du dîner à monsieur votre frère. Il a les habitudes de son pays du Nord, le percepteur, il appelle le dîner déjeuner et il déjeune à onze heures ; il s'en va ensuite à la pêche tout le reste de la journée quand il n'a pas de besogne à son bureau. J'ai donc renvoyé là-bas mon neveu Bernard, qui est plus alerte que moi, et je l'ai chargé de ne point quitter M. Lapeyre d'un pas, qu'il ne l'ait ramené ici. » </p>
         <p>Lorsque maman Suzette eut disparu, l'oncle Anténor dit à sa belle-soeur : </p>
         <p>« Si je voulais continuer le débat, je dirais que c'est une jolie épigramme que 1 envoi de cet écolier à son maître, pour arracher ce dernier aux charmes de l'école buissonnière. Qui se chargera, à Paris, de remettre mon frère dans le bon chemin lorsqu'il s'égarera par distraction ? </p>
+<<<<<<< HEAD
         <p>Moi ! » dit Mme Félicie en redressant sa jolie taille et en levant un peu haut son nez busqué. </p><pb /><pb />
+=======
+        <p>Moi ! » dit Mme Félicie en redressant sa jolie taille et en </p>
+        <p>levant un peu haut son nez busqué. </p><pb /><pb />
+>>>>>>> 061376842addf6ea28b49c2315aa86052842072a
         <p>Papa Jacques était là. </p>
       </div>
       <div type="chapter">
@@ -570,7 +598,11 @@
         <p>« C'est justement pour cela, ma Rouzétou. Si tu t'enrhumes, c'est moi qui serai grondé par maman Suzette. Tu veux que je sois grondé ? » </p>
         <p>Non, Rose avait un trop bon petit cœur pour cela ; mais elle craignait de n'être plus aussi alerte à grimper, ainsi engoncée. Et puis elle n'avait pas d'épingle pour attacher ce châle. </p><pb />
         <p>« Je vais le croiser à ta ceinture et le nouer derrière ; il est assez long pour cela, répondit papa Jacques. </p>
+<<<<<<< HEAD
         <p>—Et voici une épingle pour le maintenir, » ajouta Mme Félicie, qui avait écouté attentivement ce dialogue. </p>
+=======
+        <p>-—Et voici une épingle pour le maintenir, » ajouta Mme Félicie, qui avait écouté attentivement ce dialogue. </p>
+>>>>>>> 061376842addf6ea28b49c2315aa86052842072a
         <p>Pendant que Jacques Doulis nouait le châle par derrière, elle en fixa les plis sur la poitrine de Rose à l'aide d'une broche en argent figurant une hirondelle, les ailes déployées, que Rose avait souvent lorgnée au cou de sa tante, parce qu'elle la trouvait fort jolie. </p>
         <p>« Oh ! votre belle broche !... si je la perdais par malheur ! </p>
         <p>— Ce serait tant pis pour toi, ma gentille Rose, car je te la donne dès à présent. </p>
@@ -883,7 +915,11 @@
         <p>« Rose te rejoindra au son de la cloche de la rentrée, répondit Henriette. </p>
         <p>— Tu es témoin que je suis venue la réclamer; mais je ne puis pas empêcher sa préférence : qui se ressemble, s'assemble, » repartit Amélie Meynes. </p>
         <p>En pirouettant sur ses talons, elle se trouva face à face avec Mlle Adélaïde, qui, après lui avoir parlé tout bas avec un accent de reproche, s'approcha ensuite du banc pour venir dire à Rose : </p>
+<<<<<<< HEAD
         <p>« Que ce proverbe ait été cité avec plus ou moins de bienveillance, je souhaite qu'il se réalise pour vous, ma chère <pb /> enfant. Vous ne sauriez prendre de meilleurs conseils que ceux d'Henriette. » </p>
+=======
+        <p> « Que ce proverbe ait été cité avec plus ou moins de bienveillance, je souhaite qu'il se réalise pour vous, ma chère <pb /> enfant. Vous ne sauriez prendre de meilleurs conseils que ceux d'Henriette. » </p>
+>>>>>>> 061376842addf6ea28b49c2315aa86052842072a
         <p>Quand la famille Lapeyre fut réunie le soir au dîner, les parents n'eurent pas à demander aux enfants comment s'était passée pour eux cette première journée d'études. Erembert eut dix anecdotes à raconter. Il était déjà en_ grande familiarité avec un Japonais qui mangeait tout le temps de la classe du riz praliné et des pépins de courge mondés, qu'il puisait dans une bonbonnière de laque, et dont il faisait part à ses voisins. Il y avait un Russe qui ne parlait qu'en calembours, c'était très drôle, eL puis des Américains, des Anglais. A la récréation 011 avait joué à foot-ball (balle lancée avec le pied), les jeux anglo-saxons étant en honneur dans ce pensionnat cosmopolite. C'était amusant, quand on était petit et leste, de jouer à foot-ball, parce que les coups qu'on attrape tombent sur les plus forts, qui épargnent les petits « par peur de les casser ». « Est-ce qu'on s'est moqué de ton accent? demanda Rose. — Est-ce que j'ai un accent? répondit Erembert en haussant les épaules. Ils voudraient bien parler le français comme moi, tous ces étrangers. Et la preuve que je n'ai pas d'accent, c est qu'il y a là une douzaine de Parisiens qui ne m'en ont rien dit. D'abord, je les aurais reçus, va! Je sais un coup : on ferme le poing comme cela, avec le pouce dépassant un peu, et on l'envoie, pouf! dans le nez des rieurs. » </p>
         <p>Erembert joignit le geste à l'explication : il envoya son poing, pouf! dans son verre plein, qui alla tomber et se briser sur le bord du plat contenant le rôti. Plat ébréché, verre en éclats, eau rougie se répandant avec des débris de cristal dans le jus de rôti, rien ne manqua au désastre. </p>
         <p>« C'est la faute de Rose, dit Erembert sans se déconcerter. Pourquoi me fait-elle des questions si sottes? C'était pour lui montrer... » </p>
@@ -1283,7 +1319,11 @@
         <p>— Déjà bachelier ès lettres et prêt à passer son baccalauréat ès sciences, répliqua son père. </p>
         <p>— Bah ! tous ces parchemins contresignés par des personnages officiels ne lui auraient pas fait un titre pour être admis dans la maison de banque où j'entre en fonctions le mois prochain. </p>
         <p>— Le mois prochain ? dit Mme Félicie. Pas du tout. On m'a promis de te prendre tout de suite après notre retour. Ces mois d'essai avant ton volontariat sont une faveur qu'il ne faut pas négliger. </p>
+<<<<<<< HEAD
         <p>— Tu te trompes fort, répondit Erembert à sa mère, si tu te figures que je vais me caserner tout de suite derrière les grillages de cette banque. Andréas Romero compte sur moi pour courir un peu Paris. Je lui ai écrit de Montserrou que tout mon temps lui appartiendrait. J'ai besoin d'un peu de liberté après l'ennui que j'ai eu d'avaler ma langue et de me momifier à la chartreuse. » </p>
+=======
+        <p>-— Tu te trompes fort, répondit Erembert à sa mère, si tu te figures que je vais me caserner tout de suite derrière les grillages de cette banque. Andréas Romero compte sur moi pour courir un peu Paris. Je lui ai écrit de Montserrou que tout mon temps lui appartiendrait. J'ai besoin d'un peu de liberté après l'ennui que j'ai eu d'avaler ma langue et de me momifier à la chartreuse. » </p>
+>>>>>>> 061376842addf6ea28b49c2315aa86052842072a
         <p>Andréas Romero était un jeune Mexicain de vingt-deux ans. <pb /> un ancien condisciple d'Erembert au pensionnat Theulade ; il avait quitté Paris dix-huit mois auparavant, et il y revenait au début d'un voyage d'agrément à travers l'Europe. </p>
         <p>Les volontés d'Erembert s'exécutaient toujours, quoique sa mère commençât à gémir lorsqu'elle les sentait trop déraisonnables. On ne vit presque pas Erembert au logis pendant les deux semaines de démarches et de séances chez les hommes de loi, nécessitées par l'émancipation civile de Rose. Il déjeunait le matin en hâte, parce que Andréas Romero l'attendait, et l'on ne savait plus à quelle heure il rentrait dans la nuit, car il avait exigé une clef de l'appartement, afin que personne n'eût la corvée de l'attendre. </p>
         <p>Un matin , tout fut terminé. En sortant du cabinet du notaire, </p>
