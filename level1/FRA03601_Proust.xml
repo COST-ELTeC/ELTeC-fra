@@ -58,20 +58,11 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<<<<<<< HEAD:level1/FRA03601_Proust.xml
       <textClass>
         <keywords>
           <term type="narrative-perspective">autodiegetic</term>
         </keywords>
       </textClass>
-=======
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">XXX</term>
-  </keywords>
-</textClass>
-
->>>>>>> 061376842addf6ea28b49c2315aa86052842072a:level1/FRA03601_Proust.xml
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
         <size xmlns="http://distantreading.net/eltec/ns" key="long" />
