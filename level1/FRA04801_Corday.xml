@@ -34,17 +34,21 @@
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p />
+      <!--
+        <p>NOTES SUR LA TRANSCRIPTION :</p>
+        <p>— Les erreurs clairement introduites par le typographe ont été corrigées.</p>
+        <p>— On a conservé l'orthographie de l'original, incluant ses variantes.</p>
+    -->
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">XXX</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short" />
@@ -68,7 +72,7 @@
         <p>— —ROMAN——</p>
         <quote>
           <p>...C'est le plaisir qu'elle aime ; L'homme est rude et le prend sans savoir le donner.</p>
-          <p> Alfred de Vigny. </p>
+          <p>Alfred de Vigny. </p>
         </quote>
         <p>CINQUIÈME MILLE</p>
         <p>PARIS BIBLIOTHÈQUE-CHARPENTIER</p>
@@ -80,11 +84,6 @@
     </front>
 
     <body>
-      <!--
-        <p>NOTES SUR LA TRANSCRIPTION :</p>
-        <p>— Les erreurs clairement introduites par le typographe ont été corrigées.</p>
-        <p>— On a conservé l'orthographie de l'original, incluant ses variantes.</p>
-    -->
       <div type="chapter">
 
         <head>I</head>

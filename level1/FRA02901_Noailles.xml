@@ -67,12 +67,11 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">XXX</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
         <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
@@ -105,8 +104,7 @@
         <p>Par instants le vent salubre et triste de la campagne d'hiver balayait ce coin de la Muette et de Passy, cette entrée provinciale du Bois de Boulogne. Dans le beau décharnement du chemin, près d'une haie de buissons nus, deux femmes passaient, allaient et revenaient, parcourant et reprenant la même route, se plaisant là.</p>
         <p>L'une d'elles semblait aspirer cet air de neige âprement, et se désaltérer de quelque grande soif profonde ; l'autre portait dans un regard lisse une âme plus étroite et plus plane.</p>
         <p>Quoiqu'elles échangeassent des phrases commencées et sitôt comprises, et qu'elles eussent l'une avec l'autre l'aisance du silence et des distractions familières, on voyait qu'elles n'étaient pas du même sang.</p>
-        <p>La plus grande des deux, qui pouvait avoir vingt-trois ou vingt-</p>
-        <p>quatre ans, et que l'autre appelait Sabine, était mince et longue avec un visage soyeux et pâle, des cheveux doux d'un noir lourd et des yeux obscurs, ardents et glissants, dont la nacre à l'entour des prunelles avait la couleur des lunes bleues. La chaleur des yeux de la jeune femme donnait à tout son corps un aspect tiède.</p>
+        <p>La plus grande des deux, qui pouvait avoir vingt-trois ou vingt-quatre ans, et que l'autre appelait Sabine, était mince et longue avec un visage soyeux et pâle, des cheveux doux d'un noir lourd et des yeux obscurs, ardents et glissants, dont la nacre à l'entour des prunelles avait la couleur des lunes bleues. La chaleur des yeux de la jeune femme donnait à tout son corps un aspect tiède.</p>
         <p>La jeune fille qui l'accompagnait et qui paraissait avoir vingt ans, était sa belle-sœur, Marie de Fontenay, la sœur de son mari.</p>
         <p>Elle était jolie aussi ; elle avait un visage clair, des cheveux vifs, couleur de châtaignes, la bouche et le rire délicats. Son regard timide et simple dévoilait de la confusion.</p>
         <p>Un peu lasses toutes deux de leur course rapide, elles s'assirent sur un banc et regardèrent devant elles.</p>
@@ -140,7 +138,7 @@
         <p>— Il faut rentrer, s'écria Marie effrayée qui venait de regarder à sa montre. Ma mère doit m'attendre depuis un instant déjà.</p>
         <p>Elles se levèrent et se mirent à marcher.</p>
         <p>Isolée dans sa voilette, ses fourrures et son manchon, Marie marchait la tête baissée contre le froid, ne parlant plus, comme si l'air dépoli eût fait à son corps un contour de silence et de mort.</p>
-        <p>Et tandis que la jeune fille paraissait ainsi frileuse, protégée et conforme à l'hiver, madame de Fontenay sous un chapeau large, d' un gris d'argent, couronné de feuillage rouge, laissant pendre autour d'elle son manteau de laine molle, ressemblait à ces statues de Pomone ou de Flore que rien n'habille complètement, ni le lierre, ni le givre ; qui, dans la bise, gardent leur figure d'été ; et son visage, désordonné par l'éclat des yeux, s'échappait des vêtements, irritable et nu.</p>
+        <p>Et tandis que la jeune fille paraissait ainsi frileuse, protégée et conforme à l'hiver, madame de Fontenay sous un chapeau large, d'un gris d'argent, couronné de feuillage rouge, laissant pendre autour d'elle son manteau de laine molle, ressemblait à ces statues de Pomone ou de Flore que rien n'habille complètement, ni le lierre, ni le givre ; qui, dans la bise, gardent leur figure d'été ; et son visage, désordonné par l'éclat des yeux, s'échappait des vêtements, irritable et nu.</p>
         <p>En suivant le chemin qui menait à leur demeure, elles entendirent la musique d'un orgue de barbarie dont les sons cassés s'égrenaient, comme tombés d'un clavier de fer et de verre.</p>
         <p>On ne voyait pas le joueur et l'orgue qui devaient se trouver dans une petite rue voisine ; mais l'impression était si vive que Sabine évoqua tout de suite, avec la précision d'une image découpée et collée sur le ciel de fumée jaune, le mendiant dans l'ombre d'une porte, sa caisse de bois noir avec le morceau de toile rouge cloué au dos, et la petite sébile posée dessus.</p>
         <p>Et la musique trébuchait, mendiante et misérable, point voluptueuse, malgré les mélodies retenues des chansons de l'été ; musique faible et toussante qui prenait froid en montant dans l'air d'hiver ; musique enchaînée qui disait qu'il n'est point d'amour pour les hommes quand la terre est glacée, et quand il n'y a pas d'abri, pas de table et de pain, pas de nuit de lune, tiède et claire comme une chambre, pas de loisirs, pas de divans lourds et de parfums...</p>
@@ -174,8 +172,7 @@
         <p>Elle eut seize ans ; ce fut une vivace année ; elle dominait autour d'elle M. de Rozée, faible et courtois devant la croissance féminine, et sa gouvernante qui avait un sens si respectueux de l'ordre social, qu'elle considérait maintenant avec déférence cette jeune fille de race noble, qu'elle avait élevée.</p>
         <p>Des amis de son père, leurs fils, quelques jeunes filles de son âge venaient à leur maison à Paris, les rejoignaient en été au château que M. de Rozée possédait en Touraine.</p>
         <p>Sabine goûtait les plaisirs de l'air, des jeux ; elle éprouvait, avec un cœur affermi, qu'un plus robuste sentiment de la vie diminuait en elle la langueur et la mélancolie qui avaient accablé son enfance, l'avait retenue oppressée devant les violets du crépuscule, l'odeur molle des pétunias, le vent de l'automne dans les cheminées, le brusque cri de l'hirondelle.</p>
-        <p>Maintenant elle riait, s'amusait, encombrait son temps de puériles intrigues. Elle se plaisait à émouvoir les jeunes gens qui l'entouraient, à leur faire désirer la fleur qu'elle avait cueillie et tenue entre ses mains, les fruits qu'elle avait touchés. Elle se sentait près d'eux forte de sa grâce, de la science naturelle et croissante qu'elle avait des détours du regard et du geste, et de cet orgueil d'être, par sa personne et la situation de son père, au-</p>
-        <p>dessus des espoirs de leur désir.</p>
+        <p>Maintenant elle riait, s'amusait, encombrait son temps de puériles intrigues. Elle se plaisait à émouvoir les jeunes gens qui l'entouraient, à leur faire désirer la fleur qu'elle avait cueillie et tenue entre ses mains, les fruits qu'elle avait touchés. Elle se sentait près d'eux forte de sa grâce, de la science naturelle et croissante qu'elle avait des détours du regard et du geste, et de cet orgueil d'être, par sa personne et la situation de son père, au-dessus des espoirs de leur désir.</p>
         <p>La pensée que ces jeunes hommes, insignifiants et doux, eussent pu l'obtenir en mariage, était quelque chose qui la cabrait, lui jetait l'âme en arrière. Elle n'imaginait point, de l'amour, les simples gaietés du juvénile accord, le consentement familial, les longues solitudes permises ; elle n'eût pas voulu, dans l'ombre, abandonner ses mains aux mains d'un de ces garçons patients, dévots et gênés ; de plus vives émotions l'avaient surprise un soir. Un homme d'État italien, que M. de Rozée avait connu autrefois à Rome, Fabien Mauri, passant en Touraine, était venu dîner au château.</p>
         <p>Sabine ne le connaissait pas et n'avait point fait attention à lui, malgré le beau caractère de son visage. Elle restait et riait entre les quelques jeunes gens de son âge.</p>
         <p>Après le dîner, ce soir-là, des chansonniers qui allaient de ville en ville, et colportaient par toute la France la même mélodie, s'étaient arrêtés au château. Dans le salon en boiserie, tendu de toiles de Gênes, sous les lampes suspendues au plafond, ils chantèrent... Ils jouaient du violon et de la guitare et soupiraient des couplets tristes et passionnés, poésie naïve où il y avait du soleil et des amoureuses, vus par des artistes qui n'ont pas d'argent et qui boivent.</p>
@@ -208,8 +205,7 @@
         <p>« Ah ! pensa-t-elle, voilà Henri qui rentre, et puis les autres vont venir, il faut que je me lève de ce divan et que je m'habille. »</p>
         <p>Elle se leva et descendit l'escalier, vers sa chambre. Elle croisa Henri, à qui elle donna, avec un regard tendre et bon, sa main à embrasser, et Pierre Valence, l'intime ami de son mari, l'hôte fraternel de la maison.</p>
         <p>Elle lui dit : « Bonjour, mon cher », en riant beaucoup, comme si chaque fois qu'elle le revoyait, et c'était très souvent, elle eût éprouvé de la surprise, une camaraderie amusée à le trouver si habituel et pour elle encore étranger.</p>
-        <p>Depuis un an qu'il était de retour d'un voyage aux Indes, elle le voyait sans cesse, et ne le connaissait pas, vivant en elle-</p>
-        <p>même, âpre et lasse, peu intéressée d'autrui.</p>
+        <p>Depuis un an qu'il était de retour d'un voyage aux Indes, elle le voyait sans cesse, et ne le connaissait pas, vivant en elle-même, âpre et lasse, peu intéressée d'autrui.</p>
         <p>Le rire lui semblait l'accueil hospitalier, la route amicale vers cet homme dont le cœur lui était indifférent.</p>
         <p>Elle eût pourtant, s'il l'eût fallu, su définir ce caractère, mais quand elle ne parlait pas des choses, elle n'y pensait pas.</p>
         <p>— Montez à l'atelier, dit Sabine à Pierre et à Henri, on va servir le thé, je m'habille et je viens tout de suite.</p>
@@ -258,8 +254,7 @@
         <p>— Veux-tu, dit Marie en se tournant vers Sabine.</p>
         <p>Et Sabine embarrassée ne savait pas quoi répondre. Elle consultait en elle deux désirs et ne pouvait jamais se décider.</p>
         <p>— Décide-toi, insista Henri, tu vois, ils nous attendent, et il faudra encore le temps de t'habiller.</p>
-        <p>— Alors, je reste, répondit-elle, aidée par l'impatience d'Henri, je suis fatiguée, je dîne ici avec Marie, mais toi, va, dit-</p>
-        <p>elle à Henri affectueusement.</p>
+        <p>— Alors, je reste, répondit-elle, aidée par l'impatience d'Henri, je suis fatiguée, je dîne ici avec Marie, mais toi, va, dit-elle à Henri affectueusement.</p>
         <p>— Bon ! s'écria Henri, c'est tout ?... Alors, au revoir.</p>
         <p>— Au revoir, répondirent les deux jeunes femmes, au revoir, Pierre, au revoir Jérôme.</p>
         <p>— Maintenant dînons, fit Sabine, en prenant le bras de Marie et en l'entraînant dans l'escalier jusqu'à la salle à manger.</p>
@@ -390,7 +385,7 @@
         <p>» Nous aimions l'amour, et quelques-unes d'entre nous l'ont pratiqué avec une sombre sauvagerie. Les soupirs de la pauvre Lespinasse font encore trembler sur la terre les mains qui tournent les pages de son livre.</p>
         <p>» Nous avons laissé de nous au monde une odeur fine, irritante et profonde. Les robes de soie qui ont pressé nos jambes dansantes s'étalent noblement sur les divans des belles demeures.</p>
         <p>Les estampes où nous sommes représentées, tressant des guirlandes champêtres et lâchant des oiseaux de leur cage d'osier, rendent folles les âmes sensuelles. Nos chapeaux de paille et de feuilles sur nos têtes étaient plus impudiques et blessaient mieux le désir que les hanches nues des nymphes anciennes.</p>
-        <p> » Ah ! tu ne sais pas comme nous avons ri et joué dans les bosquets, au son des musettes de Rameau, par les soirs roses, cependant que Watteau, triste à cause de nous toutes, pleurait du bruit de nos jupes de soie crissante... » <emph>_</emph>
+        <p>» Ah ! tu ne sais pas comme nous avons ri et joué dans les bosquets, au son des musettes de Rameau, par les soirs roses, cependant que Watteau, triste à cause de nous toutes, pleurait du bruit de nos jupes de soie crissante... » <emph>_</emph>
           <emph>_</emph>
           <emph>_</emph>
           <emph>_</emph> Sabine se réveilla tard au matin, surprise par le grincement d'une voiture s'arrêtant devant le perron.
@@ -519,8 +514,7 @@
         <p>Il pria un jour Sabine de vouloir bien venir chez lui où il lui ferait entendre son œuvre au piano, devant son maître Marsan.</p>
         <p>Madame de Fontenay accepta. Elle se rendit à l'appartement que Jérôme habitait dans une petite rue du quartier de Passy, et qu'elle ne connaissait pas.</p>
         <p>Elle y allait avec une agitation contente et un léger malaise, se défiant de la susceptibilité de son goût et craignant de se déplaire aux détails d'un arrangement modeste et limité.</p>
-        <p>En arrivant devant la maison, elle vit, en levant la tête, les fenêtres de Jérôme tout en haut, dans une explosion de feuillage vert. Cela lui plut. Elle se mit à gravir le frais escalier de pierre, et dès le premier étage rencontra le jeune homme qui venait au-</p>
-        <p>devant d'elle. Le léger essoufflement que la montée occasionnait à Sabine, la surprise de se trouver là, la vue de Jérôme, le sentiment dont elle était emplie lui donnaient une fièvre fine au travers de laquelle cet escalier, son compagnon et le trouble de son propre cœur lui parurent audacieux, romanesques et pervers.</p>
+        <p>En arrivant devant la maison, elle vit, en levant la tête, les fenêtres de Jérôme tout en haut, dans une explosion de feuillage vert. Cela lui plut. Elle se mit à gravir le frais escalier de pierre, et dès le premier étage rencontra le jeune homme qui venait au-devant d'elle. Le léger essoufflement que la montée occasionnait à Sabine, la surprise de se trouver là, la vue de Jérôme, le sentiment dont elle était emplie lui donnaient une fièvre fine au travers de laquelle cet escalier, son compagnon et le trouble de son propre cœur lui parurent audacieux, romanesques et pervers.</p>
         <p>Elle vécut en ces quelques instants tout ce qu'elle avait lu des démarches amoureuses des femmes ; elle revoyait en pensée l'escalier qui est dans Sapho et celui par où madame Bovary, à Rouen, se rendait chez le jeune clerc.</p>
         <p>Lorsqu'elle entra dans l'appartement de Jérôme, elle fut, en même temps, charmée d'y faire la connaissance du musicien Marsan qu'elle admirait, et de se trouver dans une pièce lumineuse et précieuse.</p>
         <p>Par les fenêtres, que voilaient à mi-hauteur de légères soies d'un rouge acide de groseille, on voyait d'anciennes maisons à perron, d'incultes jardins embroussaillés de charmilles, de hautes usines fumantes et Paris naissant, s'étalant, grandissant au loin avec des toits de vapeur bleue.</p>
@@ -595,8 +589,7 @@
       <div type="chapter">
 
         <head>VII</head>
-        <p>Henri de Fontenay, dirigé par Pierre Valence qui venait d'arriver, préparait, dans la partie du Dauphiné qu'il habitait, sa candidature à la députation. Pierre avait déjà renoncé à cette carrière pour lui-même. Il comptait fonder une revue socialiste et faire des conférences le prochain hiver. Dissertant et bousculeur, il mettait son ami au courant des manœuvres habiles, lui dévoilait en de longues soirées tout ce qu'il savait du cœur de la province, et l'ayant convaincu sur certains points précis et matériels où aucune idée n'entrait en jeu, – car Henri oscillait du goût de la dictature à un radicalisme attendri, – il l'entraînait chez le sous-</p>
-        <p>préfet, chez les maires, où l'on parlait de syndicats agricoles et des prospérités futures.</p>
+        <p>Henri de Fontenay, dirigé par Pierre Valence qui venait d'arriver, préparait, dans la partie du Dauphiné qu'il habitait, sa candidature à la députation. Pierre avait déjà renoncé à cette carrière pour lui-même. Il comptait fonder une revue socialiste et faire des conférences le prochain hiver. Dissertant et bousculeur, il mettait son ami au courant des manœuvres habiles, lui dévoilait en de longues soirées tout ce qu'il savait du cœur de la province, et l'ayant convaincu sur certains points précis et matériels où aucune idée n'entrait en jeu, – car Henri oscillait du goût de la dictature à un radicalisme attendri, – il l'entraînait chez le sous-préfet, chez les maires, où l'on parlait de syndicats agricoles et des prospérités futures.</p>
         <p>Cette campagne électorale paraissait toute champêtre et familiale, elle se précisait dans les vignes, au bord du blé, aux fêtes des écoles où M. de Fontenay couronnait les enfants d'un feuillage en papier vert et prononçait de petits discours.</p>
         <p>La reconnaissance qu'on lui manifestait pour avoir doté telle commune d'une pompe à incendie lui faisait éprouver noblement le sentiment de l'embarras et de sa propre générosité.</p>
         <p>Madame de Fontenay avait auprès d'elle Marie.</p>
@@ -653,7 +646,7 @@
         <p>— Oui... oui... gentiment amoureux.</p>
         <p>Sabine se leva, elle n'avait plus rien à lui dire, elle sentait sa pâleur affreuse.</p>
         <p>— Maintenant allez-vous-en, fit-elle, – nettement et pressée, comme quelqu'un qui se rappelle une besogne urgente, – si vous saviez ce que j'ai à faire, les lettres à écrire...</p>
-        <p> Et elle se mit à rire ; quel rire ! de quel clavier cassé de la joie venait ce rire... <emph>_</emph>
+        <p>Et elle se mit à rire ; quel rire ! de quel clavier cassé de la joie venait ce rire... <emph>_</emph>
           <emph>_</emph>
           <emph>_</emph>
           <emph>_</emph> Elle resta seule, elle s'assit, elle ne savait plus rien... Elle regardait obstinément un petit paysage japonais dans un cadre de bois noir accroché au mur ; elle remarqua que , sur le papier de riz d'un ton d'ivoire, les nuages qui représentaient un ciel du soir étaient comme une fumée de cigarette ; elle regardait cela avec pitié et douceur comme si cette image lui était devenue fraternelle d'avoir assisté à toute l'horreur qu'elle venait de vivre...
@@ -667,8 +660,7 @@
         <p>Et puis succédaient des instants d'abattement, une pluie molle de larmes, une pauvre douceur qui balbutiait. Elle faisait simplement : « Ah !... ah !... » à intervalles réguliers, rythme de libération, discipline adoucissante de la douleur.</p>
         <p>Assise, maintenant, elle parlait d'une voix calme, uniforme, devant elle :</p>
         <p>— Voilà, voilà, disait-elle, je n'avais que cela, et maintenant je n'ai rien. Je veux que quelqu'un me prenne la main et je lui dirai : « Vous êtes bon, vous êtes bon... » et je mourrai, et je serai tranquille, tranquille... et ce sera si drôle que je sois tranquille, parce que rien en moi, jamais, n'a été tranquille... Et d'abord cela ne me reposera pas d'être morte, parce qu'il faudra que je sois morte très longtemps pour que quelque chose me repose... Et cela sera si fou que je sois morte...</p>
-        <p>Elle tourna la tête vers la fenêtre qui était ouverte sur le jardin ; une petite brise chaude semblait répandre, étendre sur les chemins la fine cendre du soir. On voyait très distinctement trois peupliers sur le coteau ; Sabine les regardait, hébétée ; elle se disait qu'ils étaient rapprochés et inégaux, faiblement, comme les trois doigts du milieu de la main, juste comme ces trois doigts-</p>
-        <p>là... Elle pensait : « Tout est dévasté partout, tout est petit et misérable dans la nature : les pauvres arbres avec leurs feuilles qui tremblent et à qui le vent fait peur, et tout ce jardin qui a peur du soir, et qui n'est jamais heureux et qui ne s'amuse jamais... »</p>
+        <p>Elle tourna la tête vers la fenêtre qui était ouverte sur le jardin ; une petite brise chaude semblait répandre, étendre sur les chemins la fine cendre du soir. On voyait très distinctement trois peupliers sur le coteau ; Sabine les regardait, hébétée ; elle se disait qu'ils étaient rapprochés et inégaux, faiblement, comme les trois doigts du milieu de la main, juste comme ces trois doigts-là... Elle pensait : « Tout est dévasté partout, tout est petit et misérable dans la nature : les pauvres arbres avec leurs feuilles qui tremblent et à qui le vent fait peur, et tout ce jardin qui a peur du soir, et qui n'est jamais heureux et qui ne s'amuse jamais... »</p>
         <p>Elle éprouvait à présent un vide allégeant dans la tête, elle soupira : « Je suis plus calme en ce moment ; depuis combien de temps suis-je plus calme ? » Elle était comme au sortir de ces brusques et brefs sommeils de quelques minutes où le songe semble avoir tenu un plus long espace...</p>
         <p>Une hirondelle, rapide et basse, passa, jetant un cri, deux cris, qui entrèrent en Sabine comme une flèche fine et tournante, et l'angoisse à nouveau l'inonda...</p>
         <p>Mélancolie ! mélancolie ! axe admirable du désir ! Détresse du rêve, pour qui aucun secours, hors le baiser, n'est assez proche ; pleurs de l'homme devant la nature !... éternel repliement d'Ève et d'Adam, que les spectacles de l'univers affaiblissent l'un vers l'autre, à ces instants de l'âme où l'extrême pointe des nerfs fait le regard...</p>
@@ -725,8 +717,7 @@
         <p>— Alors, pourquoi toute son attitude passée, se disait-elle en songeant à Jérôme Hérelle, pourquoi le goût et l'assiduité qu'il me témoignait ?</p>
         <p>Et elle en arrivait toujours à des solutions favorables à sa ténacité :</p>
         <p>— Il ne savait probablement pas qu'il me plaisait aussi, mais il doit deviner mon trouble à présent, et tout va changer.</p>
-        <p>Pourtant, quand elle s'aperçut de l'impassibilité de ce garçon, de sa manière aisée, un peu plus basse de ton seulement, comme si le visible intérêt de Sabine, retiré de lui, l'eût diminué lui-</p>
-        <p>même à ses propres yeux, elle comprit à quel vaniteux inconscient et pratique elle avait eu affaire.</p>
+        <p>Pourtant, quand elle s'aperçut de l'impassibilité de ce garçon, de sa manière aisée, un peu plus basse de ton seulement, comme si le visible intérêt de Sabine, retiré de lui, l'eût diminué lui-même à ses propres yeux, elle comprit à quel vaniteux inconscient et pratique elle avait eu affaire.</p>
         <p>Cette pensée ne modifiait en rien sa tendresse exaspérée. Elle aimait trop maintenant le visage pâle du jeune homme, ses yeux distraits où venait par moment seulement le regard, pour que quelque chose pût en détourner son adoration.</p>
         <p>Afin de supporter de le voir, et elle préférait le voir à ne pas le voir, elle s'appliquait à rechercher les défauts de cette figure.</p>
         <p>Elle fut contente de remarquer un jour que Jérôme avait le menton trop court, et que de profil cela le gâtait beaucoup.</p>
@@ -744,8 +735,7 @@
         <p>Quelquefois elle pensait le haïr. Quand ils causaient dans le salon après les repas, harcelante, elle opposait une résistance ennemie à toutes les paroles du jeune homme, à ses moindres essais de conversation et de projets. Avec une ironie de l'attitude et du regard, elle repoussait tacitement ce qu'il disait, ce qu'il allait dire, jusqu'à ce que, sur le visage de Jérôme, apparût ce découragement physique, cette fatigue morale proche des larmes que Sabine connaissait : il lui semblait amaigri, et c'était pour elle la révélation émouvante des os profonds et secrets de toute la face délicate ; alors, soudain changée, elle devenait fraternelle, elle organisait autour de lui le contentement, la liberté. Elle eût voulu lui prendre la tête, et, la bouche douce dans ses cheveux, le consoler, le reposer de sa tendresse à elle, de sa tendresse mauvaise et nuisible.</p>
         <p>Quoiqu'elle n'eût pas modifié ses sentiments à l'égard de Marie, elle préférait l'éviter.</p>
         <p>Elle comprenait qu'il faudrait un jour qu'elle lui parlât de la démarche de son cousin et qu'elle lui proposât ce mariage. Elle pleurait à cette pensée ; elle était si fatiguée, si fatiguée, qu'il y avait des choses qu'il ne fallait vraiment pas qu'on lui demandât.</p>
-        <p>Jérôme n'aurait pas dû la charger de cette besogne ; aussi, elle se donnait du temps, se traitait comme une malade qu'elle ménageait, attendant, pour aborder ce sujet, l'arrivée de sa belle-</p>
-        <p>mère, et d'avoir eu quelques nuits de meilleur sommeil. Elle savait bien qu'elle ferait ce qu'il faudrait faire, mais elle y préparait ses forces lentement.</p>
+        <p>Jérôme n'aurait pas dû la charger de cette besogne ; aussi, elle se donnait du temps, se traitait comme une malade qu'elle ménageait, attendant, pour aborder ce sujet, l'arrivée de sa belle-mère, et d'avoir eu quelques nuits de meilleur sommeil. Elle savait bien qu'elle ferait ce qu'il faudrait faire, mais elle y préparait ses forces lentement.</p>
         <p>D'ailleurs elle avait été brave et droite, n' ayant point essayé de tromper sa conscience en se persuadant que ce mariage ne conviendrait pas à Marie. Elle sentait que mademoiselle de Fontenay pourrait être heureuse avec ce garçon qui avait de la grâce, des occupations, une vertu étroite et sèche, mais probablement exacte et fidèle ; et à elle-même il semblait encore qu'une telle union était le seul désir possible.</p>
         <p>Un jour qu'elles se trouvaient seules, dans le salon, toutes les deux, prenant du thé :</p>
         <p>— Marie, dit Sabine à sa belle-sœur, j'ai quelque chose à te raconter qui va te sembler très drôle. Devine qui voudrait t'épouser ?</p>
@@ -793,8 +783,7 @@
         <p>— Et puis, si cela a été un peu, c'est sans importance ; il ne te connaissait presque pas dans ce temps-là...</p>
         <p>Marie eut de l'étonnement dans ses yeux tranquilles. Elle avait senti l'hostilité du ton, mais elle avait l'habitude de ne rien juger de Sabine.</p>
         <p>D'ailleurs les complications lui échappaient.</p>
-        <p>Jérôme l'aimait, donc il n'en aimait pas une autre ; et l'idée qu'elle avait de sa belle-sœur, idée haute, déférente et passionnée, faisait qu'elle ne supposait jamais qu'on pût, à celle-</p>
-        <p>là, lui enlever quelque chose, qu'on pût l'appauvrir, lui faire tort, lui faire du mal.</p>
+        <p>Jérôme l'aimait, donc il n'en aimait pas une autre ; et l'idée qu'elle avait de sa belle-sœur, idée haute, déférente et passionnée, faisait qu'elle ne supposait jamais qu'on pût, à celle-là, lui enlever quelque chose, qu'on pût l'appauvrir, lui faire tort, lui faire du mal.</p>
         <p>Elle ne l'imaginait pas amoureuse. Elle la croyait une orgueilleuse, une curieuse et une rieuse, avec des moments amers et malades.</p>
         <p>Elle avait parlé un jour de ce caractère avec le cousin de Sabine, Louis de Rozée, et il disait que sa cousine était une de ces femmes auxquelles les hommes – il croyait que les hommes étaient naturellement tendres et malheureux – auxquelles les hommes feraient bien de ne pas s'attacher, car elle devait être sans autre ardeur que son rire et son admirable vanité.</p>
         <p>Pour lui, il se réjouissait d'avoir su se défaire du tourment qu'elle lui avait donné, autrefois, quand elle était presque encore une petite fille. À ce moment déjà, disait-il, l'amour qu'elle sentait autour d'elle lui inspirait un contentement cruel du visage, cet air rassasié des belles bêtes.</p>
@@ -858,9 +847,7 @@
         <p>Et les mouvements de ses mains modelaient ses phrases.</p>
         <p>Pierre n'était pas curieux ; il ne cherchait pas à savoir ce qu'elle pensait dans le moment, il ne lui parlait jamais du passé, il l'avait du fond de son cœur oublié.</p>
         <p>Quelquefois, à l'heure où Sabine rentrait de sa promenade ou de ses courses, elle se croisait dehors avec lui qui arrivait chez elle. Ils faisaient quelques pas ensemble, et regardaient les paysages.</p>
-        <p>— Comme c'est beau tous ces petits pays en sucre dur, disait Sabine, qui montrait ce jour-là les collines basses et le Mont-</p>
-        <p>Valérien dans la neige. La neige a de nobles manières, ajouta-t-</p>
-        <p>elle ; remarquez-vous que les moindres choses, les choses pauvres et laides deviennent précieuses avec elle ; par exemple les tuiles et les ardoises, la cour silencieuse d'une maison, ou bien ici, sur la route, cette brouette du balayeur avec un balai en travers. Cela fait de petits morceaux de tableaux charmants. Je vois l'hiver comme les vignettes d'un livre allemand : des toits de maisons d'Alsace, avec un nid de cigognes.</p>
+        <p>— Comme c'est beau tous ces petits pays en sucre dur, disait Sabine, qui montrait ce jour-là les collines basses et le Mont-Valérien dans la neige. La neige a de nobles manières, ajouta-t-elle ; remarquez-vous que les moindres choses, les choses pauvres et laides deviennent précieuses avec elle ; par exemple les tuiles et les ardoises, la cour silencieuse d'une maison, ou bien ici, sur la route, cette brouette du balayeur avec un balai en travers. Cela fait de petits morceaux de tableaux charmants. Je vois l'hiver comme les vignettes d'un livre allemand : des toits de maisons d'Alsace, avec un nid de cigognes.</p>
         <p>Il s'amusait de ce qu'elle inventait.</p>
         <p>— Et comment voyez-vous l'été ? lui demanda-t-il.</p>
         <p>Elle réfléchit. Elle dit :</p>
@@ -996,8 +983,7 @@
         <p>C'était donc de cette manière qu'il l'aimait ! Pourquoi ne l'aimait-il pas pour ce qu'elle avait en elle de vraiment mystérieux, pour ses yeux à plusieurs couches de regards, pour ses cheveux tièdes comme les veines, ses cheveux noirs et âcres, qui avaient l'odeur du bois sec et de la fumée ; pour son âme enfin, au fond de laquelle, sous les ondes emmêlées, roulait l'enfantin caillou blanc du désir ?...</p>
         <p>Pierre Valence s'entretenait avec Henri de ce qu'on pourrait faire pour amuser Sabine, si bien qu'elle, ayant senti leur coalition affectueuse, avait repoussé, un soir, d'un rire méchant qui était aigu et insolent comme un coup de coude, leur projet de l'emmener à la campagne.</p>
         <p>Marie reprochait à sa belle-sœur ses vivacités.</p>
-        <p>— Tu n'es pas bien pour les pauvres qui t'aiment, lui disait-</p>
-        <p>elle en l'embrassant.</p>
+        <p>— Tu n'es pas bien pour les pauvres qui t'aiment, lui disait-elle en l'embrassant.</p>
         <p>— Pas bien ? ripostait madame de Fontenay. Et elle sentait ce qu'elle avait en soi qui souffrait du médiocre et du morne journaliers.</p>
         <p>Mais elle s'observa pourtant et modifia son caractère.</p>
         <p>Plus de douceur l'emplissait. Elle avait de la tendresse pour Pierre, ils s'étaient fait de la peine l'un à l'autre, et elle en éprouvait des remords, d'affreux remords sentimentaux d'enfant qui s'est mis en colère, méchamment, un jour de fête, après les étrennes reçues.</p>
@@ -1125,8 +1111,7 @@
         <p>Elle avait espéré que son amitié avec madame de Rozée lui serait un soutien. Mais madame de Rozée écrivait peu, et seulement des lettres brèves et simples. Sa bonté était dans ses actes.</p>
         <p>Pourtant Sabine vivait contente ; quelques mois passèrent ainsi.</p>
         <p>Son mari entra un matin chez elle et lui dit :</p>
-        <p>— Tu vas faire quelque chose pour moi aujourd' hui. Figure-</p>
-        <p>toi que j'avais un rendez-vous vers cinq heures chez Philippe Forbier, à qui j'ai un service à demander, et que je ne puis pas y aller. J'ai une grippe qui m'aveugle ; vas-y, toi.</p>
+        <p>— Tu vas faire quelque chose pour moi aujourd' hui. Figure-toi que j'avais un rendez-vous vers cinq heures chez Philippe Forbier, à qui j'ai un service à demander, et que je ne puis pas y aller. J'ai une grippe qui m'aveugle ; vas-y, toi.</p>
         <p>— Mon Dieu, répondit Sabine, je suis déjà si fatiguée, et il faut encore que je fasse cela ! Non, ce n'est pas possible, je ne connais pas ton ami, il ne me connaît pas, qu'est-ce que je lui dirai ?...</p>
         <p>— Je t'en prie, interrompit Henri, sois gentille ; c'est très simple. Tu lui diras que je suis désolé, que je le prie de vouloir bien te remettre une lettre de recommandation pour le frère de Pierre Valence, qui désire visiter les universités de Berlin.</p>
         <p>— Non, répondit encore Sabine.</p>
@@ -1327,8 +1312,7 @@
         <p>Tandis qu'elle s'occupait de ses amis, qu'elle parlait et riait avec tous ses gestes coutumiers, elle sentait un grand repos détendre son esprit, un orgueil haut et joyeux emplissait son cœur, et son âme prenait enfin la forme des fleurs accomplies.</p>
         <p>Son passé était consolé en elle. Seule l'absence d'Henri la troublait un peu, sa présence lui eût donné plus de sécurité.</p>
         <p>Presque tous les soirs, avant cinq heures, elle hélait une voiture, s'y jetait et se rendait à l'atelier de Philippe Forbier. Paris, dans les ténèbres bleues, lui semblait petit, et tout l'univers facile.</p>
-        <p>Elle connaissait les détails du chemin. La rue de l'Ancienne-</p>
-        <p>Comédie qui la rapprochait de la demeure de Philippe lui paraissait déjà voluptueuse.</p>
+        <p>Elle connaissait les détails du chemin. La rue de l'Ancienne-Comédie qui la rapprochait de la demeure de Philippe lui paraissait déjà voluptueuse.</p>
         <p>Elle arrivait quelquefois la première et attendait un instant.</p>
         <p>Elle aimait cette attente qui lui donnait l'impression qu'elle ne pourrait pas la supporter longtemps, et que tout à l'heure, ouvrant la porte, son ami la trouverait abattue contre la table, vraiment morte d'impatience. Et la porte s'ouvrait. Philippe paraissait.</p>
         <p>Madame de Fontenay le regardait de loin, les yeux clignés, comme on regarde, au réveil, l'entrée du jour dans la chambre...</p>
@@ -1454,8 +1438,7 @@
         <p>Il lui avait été de toute son âme fidèle.</p>
         <p>Tout ce qu'il avait eu de contentement, de plaisir, d'inquiétude et de bonheur, il l'avait eu avec elle. Ils avaient perdu une fille, il leur restait un fils qui venait d'avoir vingt ans. On n'eût pas pu dire qu'il ressemblait à son père, il était pareil à lui.</p>
         <p>Philippe avait toujours pensé au groupe de sa famille et de ses amis, avec l'orgueil de sentir qu'il était leur croyance, leur joie et leur vanité. Aussi avait-il éprouvé un grand trouble, à voir l'autre matin son fils entrer chez lui, soucieux et embarrassé.</p>
-        <p>Le jeune homme demandait à prendre quelques livres. Et puis il dit, hésitant, que sa mère avait besoin de repos, qu'elle lui semblait bien fatiguée depuis quelque temps, qu'on pourrait peut-</p>
-        <p>être partir pour la campagne.</p>
+        <p>Le jeune homme demandait à prendre quelques livres. Et puis il dit, hésitant, que sa mère avait besoin de repos, qu'elle lui semblait bien fatiguée depuis quelque temps, qu'on pourrait peut-être partir pour la campagne.</p>
         <p>— Oui, dit Philippe, tu as raison, pourquoi ne part-elle pas ?</p>
         <p>Moi, tu sais comme c'est difficile que je m'en aille quand j'ai mon volume en train, et tous les papiers et les livres ici, à ma portée.</p>
         <p>Et, en effet, depuis quelques années, Philippe ne quittait presque plus Paris.</p>
@@ -1564,11 +1547,9 @@
         <p>— Voyez, – lui dit un jour Sabine, tandis qu'un vent doux du soir jetait dans la chambre, par la fenêtre ouverte sur un petit jardin, les feuilles jaunes et mortes de chaud, – voyez comme c'est bien que vous ne soyez pas parti. Qu'est-ce que je serais devenue, moi ?</p>
         <p>Leurs mains traînaient l'une sur l'autre.</p>
         <p>— Ne parlez pas de cela, répondit Philippe, je suis un fou, je suis abominable et fou !</p>
-        <p>— Pourquoi ? interrompit Sabine, vous ne leur seriez pas utile là-bas, ici vous travaillez, et je vous ai ; et vous m'avez, ajouta-t-</p>
-        <p>elle avec un visage souriant, où glissait, en beauté, toute la certitude amoureuse.</p>
+        <p>— Pourquoi ? interrompit Sabine, vous ne leur seriez pas utile là-bas, ici vous travaillez, et je vous ai ; et vous m'avez, ajouta-t-elle avec un visage souriant, où glissait, en beauté, toute la certitude amoureuse.</p>
         <p>— Mon amie, reprit-il gravement, si vous saviez comme je devrais être parti, comme je suis coupable, comme vous m'avez rendu faible et sans conscience, et méprisable à moi-même ! J' ai tous les jours une lettre qui m'appelle, dont la douceur me fait mal.</p>
-        <p>— Alors, pourquoi n'êtes-vous pas parti, pourquoi ne partez-</p>
-        <p>vous pas ?</p>
+        <p>— Alors, pourquoi n'êtes-vous pas parti, pourquoi ne partez-vous pas ?</p>
         <p>— J'attends, soupira-t-il, que tu me dises de partir. J'aime mieux mourir et voir les autres malheureux que de te faire du mal à loi. Quoique tu sois plus forte que presque toutes les femmes, et qu'aucun être n'ait la vie et le rire comme toi, tu m'as trop parlé de tes fatigues et de tes chagrins, cela m'a rendu affreusement lâche et peureux avec toi. Quand tu me diras que tu veux bien que je m'en aille un peu là-bas, voir ce qu'ils font, pour si peu de temps, pour un mois seulement, pendant lequel je t'écrirai tous les jours, j'irai.</p>
         <p>— C'est vous, répondit Sabine lentement, qui me demandez cela ! Il faut que moi je vous dise de vous en aller !... Elle attachait sur Philippe des yeux si lisibles et si nus qu'ils semblaient écorchés, avoir perdu la robe lisse du regard. Il s'impatienta :</p>
         <p>— Je ne vous en parlais pas, j'étais préoccupé et j'agissais mal, voilà tout.</p>
@@ -1631,8 +1612,7 @@
         <p>Sabine boudant fit :</p>
         <p>— Oh ! tous les jours, pas tous les jours.</p>
         <p>Elle vit que Philippe, pris entre la nécessité de monter en wagon et le désir de ne la quitter que sur des mots de paix et de tendresse, perdait la tête.</p>
-        <p>— Si vous continuez ainsi, je ne pourrai que rester, affirma-t-</p>
-        <p>il.</p>
+        <p>— Si vous continuez ainsi, je ne pourrai que rester, affirma-t-il.</p>
         <p>— Mais non, mais non, partez, vous partirez, j'en ai assez de tout cela ! fit-elle, comme quelqu'un qui étouffe et qui attend le moment d'après pour respirer.</p>
         <p>Et puis brusquement, elle ajouta :</p>
         <p>— Vous n'êtes pas fâché, jurez que vous n'êtes pas fâché ?</p>
@@ -1750,8 +1730,7 @@
         <p>Elle apprit chez l'une d'elles que madame de Rozée, la femme de son père, n'était plus heureuse, qu'elle avait un amant dont sa conscience souffrait affreusement.</p>
         <p>Elle pensa simplement : « Mon Dieu, elle ! elle aussi... »</p>
         <p>Elle jura de ne plus retourner au théâtre, parce qu'elle avait eu trop envie de mourir à voir Hermione, dans une robe que la violence de son sein déchirait, pleurer contre Pyrrhus, avec un aspect de volupté livide, d'héroïsme et de carnage.</p>
-        <p>Quelquefois, une lourde fatigue l'envahissait. Elle prenait un morceau de tapisserie à quoi elle s'obstinait d'abord, et, peu à peu, elle s'en amusait, pensait à écrire à Henri, à voyager peut-</p>
-        <p>être avec lui, à être heureuse autrement.</p>
+        <p>Quelquefois, une lourde fatigue l'envahissait. Elle prenait un morceau de tapisserie à quoi elle s'obstinait d'abord, et, peu à peu, elle s'en amusait, pensait à écrire à Henri, à voyager peut-être avec lui, à être heureuse autrement.</p>
         <p>Mais brusquement l'angoisse la glaçait comme si une voix en elle lui avait dit : « Tu sais bien que ce sont des mensonges, de pauvres repos de ton esprit. Tu ne peux pas vivre sans le plus amer, et le plus fou, et le plus trouble de la vie... »</p>
         <p>Et elle savait bien qu'elle ne pouvait pas vivre sans cela.</p>
         <p>Elle avait écrit à Philippe des lettres qu'elle atténuait, ménageant l'embarras où elle le devinait. Un jour elle fut si mal, si fatiguée, qu'elle pensa prier Henri de revenir, de rester avec elle. Et puis elle eut de la honte et du dégoût à la pensée de lui voir porter la peine que lui faisait l'autre.</p>
@@ -1778,8 +1757,7 @@
         <p>Elle ne veut pas autre chose. »</p>
         <p>Alors, de jour en jour, madame de Fontenay se laissa glisser le long de sa douleur, des pieds, des mains, maladroitement, comme un ouvrier qui tombe et se tue.</p>
         <p>Elle écrivait à Philippe :</p>
-        <p>« Ce n'est pas vous que j'aime ; j'aime aimer comme je vous aime. Je ne compte sur vous pour rien, dans la vie, mon bien-</p>
-        <p>aimé. Je n'attends de vous que mon amour pour vous... »</p>
+        <p>« Ce n'est pas vous que j'aime ; j'aime aimer comme je vous aime. Je ne compte sur vous pour rien, dans la vie, mon bien-aimé. Je n'attends de vous que mon amour pour vous... »</p>
         <p>Son état de malaise physique l'avait rendue si sensible et irritable qu'aucun point de son âme n'était plus protégé ; le plaisir lui eût fait de la peine. Elle était déjà hors de la vie, avec une vision morbide de toutes choses.</p>
         <p>Le matin, quand elle voyait les meubles de son salon remués et un domestique balayant, elle en éprouvait de la répugnance triste, un sentiment pauvre et désespéré, comme si cet acte médiocre et passager se fût étalé sur la vie, eût primé tout le rêve et tout l'idéal.</p>
         <p>« Un jour, quand je serai morte, pensait-elle, on fera cette pauvre chose de balayer et de ranger ; quelle misère que les petits rouages paisibles de l'existence ! »</p>
@@ -1876,8 +1854,7 @@
         <p>» En craignant et en souffrant pour vous, je me fatiguerais, je vieillirais, je connaîtrais cette torture, qui va m'être épargnée, de ne plus vous offrir une beauté sûre de soi, tandis que j'ai senti quelquefois, avec une ivresse si orgueilleuse, que je vous apportais tous les paysages et tous les degrés de la lumière dans mes yeux et mes mains éblouis.</p>
         <p>» Et puis je n'ai jamais éprouvé, en plaisir, que ce que j'avais en moi. Quand je suis fatiguée et que je sens mon corps misérable, je ne vois pas les jardins et les fleurs.</p>
         <p>» Mon ami, j'ai ces temps-ci, en marchant dans les rues, beaucoup observé les visages des femmes. Presque toutes celles que j'ai vues passer avaient le front sombre, les traits détendus dans l'ennui, l'air installé dans l'indifférent. Elles ne sourient et ne rient plus du tout : on n'imagine pas qu'elles puissent rire !</p>
-        <p>» Elles vont, s'asseyent, s'occupent, regardent, se dirigent avec une sorte d'exactitude navrante. Sur quelle horloge règlent-</p>
-        <p>elles leurs nécessités si vaines ?</p>
+        <p>» Elles vont, s'asseyent, s'occupent, regardent, se dirigent avec une sorte d'exactitude navrante. Sur quelle horloge règlent-elles leurs nécessités si vaines ?</p>
         <p>» Je ne veux pas vivre pour cela, je ne vis pas quand il n'y a plus de joie... Enfant, je sentais que la résignation et l'accablement étaient quelque chose qui était fait pour d'autres gens que pour moi.</p>
         <p>» Et tu ne voudrais pas, mon bien-aimé, que celle que tu as prise pour sa vitalité, sa colère et ses cris, que tu as tenue contre toi, mouvante et multiple à force d'aspects, de regards et de désirs, et d'un tumulte tel, que ses gestes et sa voix changeaient la couleur de l'air, fût ainsi morne et soumise.</p>
         <p>» Mon bien-aimé, la semaine que je viens de passer m'a amolli le cœur, m'a rendue pauvre et faible. Je m'attendris et je pleure parce qu'il y a en face de moi, accroché au mur, le portrait où je suis une petite fille. Je suis là, très petite, à deux ans, je crois ; j'ai les yeux grands, un peu lourds et doux, qui regardent devant soi... Je regarde devant moi bien doucement, et patiemment, comme si on m'avait assise là en me disant qu'on allait revenir me prendre. Les cheveux sont tout plats, un peu blonds encore, baissés sur le front, j'ai l'air très sage et d'attendre. Les épaules nues dans la robe de broderie sont encore pliantes ; elles devaient être molles et faibles comme le corps des oiseaux qu'on tient serrés.</p>
