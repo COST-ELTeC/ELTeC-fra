@@ -656,33 +656,18 @@
         <p>Anne, qui avait gardé le silence pendant cette discussion, s'écria transportée de joie :</p>
         <p>« Oui, je suis Auvergnate ! »</p>
         <p>Et prenant sa petite vielle, joujou de son enfance, elle se mit à danser une de ses bourrées favorites :</p>
-        <milestone type="subChapter" rend="space" unit="newline" />
-        <p>
-          <hi>Que veniė tiu tchartcha</hi>
-        </p>
-        <p>
+        <quote>
+          <l>Que veniė tiu tchartcha</l>
           <hi>Garçon de la montagna,</hi>
-        </p>
-        <p>
-          <hi>Que venié tiu tchartcha</hi>
-        </p>
-        <p>
-          <hi>Che voulia pa dansa.</hi>
-        </p>
-        <p>* *</p>
-        <p>
-          <hi>Te fauilia pa veni</hi>
-        </p>
-        <p>
-          <hi>Garçon de la montagna,</hi>
-        </p>
-        <p>
-          <hi>Te fauilla pa veni</hi>
-        </p>
-        <p>
-          <hi>Che vouila ma dourmi.</hi>
-          <hi>*(1)</hi> * </p>
-        <milestone type="subChapter" rend="space" unit="newline" />
+          <l>Que venié tiu tchartcha</l>
+          <l>Che voulia pa dansa.</l>
+          <p>* *</p>
+          <l>Te fauilia pa veni</l>
+          <l>Garçon de la montagna,</l>
+          <l>Te fauilla pa veni</l>
+          <l>Che vouila ma dourmi.</l>
+          <ref target="FRA02203_N01" />
+        </quote>
         <p>Il fut donc décidé qu'on suivrait le conseil de Mme de Sarlières, qu'on attendrait la mise en vente du <hi>Petit-Château.</hi>
         </p>
         <p>La neige avait complètement disparu, et, si les chemins étaient encore mauvais, les montagnes se montraient parées de cette verdure qui réjouit le cœur et les yeux.</p>
@@ -1385,36 +1370,22 @@
         <p>— Ne craignez rien, chère enfant : votre bonheur vous fera aimer celui des autres. »</p>
         <p>Anne ne répondit pas ; elle serra la main de son amie et alla recevoir les compliments d'adieux.</p>
         <p>« Passerez-vous l'hiver en Italie ? demanda Elvire.</p>
-        <p>-- En Italie ! non vraiment ! <hi>yu se d'Auvergne, yu-z-ame mouon paï, e la damoura</hi> (je suis d'Auvergne, j'aime mon pays, et j'y reste). » </p>
+        <p>— En Italie ! non vraiment ! <hi>yu se d'Auvergne, yu-z-ame mouon paï, e la damoura</hi> (je suis d'Auvergne, j'aime mon pays, et j'y reste). » </p>
       </div>
     </body>
     <back>
-      <div type="notes" />
-      <div type="liminal">
-        <p>1  <hi> Que venais-tu chercher,</hi>
-        </p>
-        <p>
-          <hi>Jeune gars de la montagne ?</hi>
-        </p>
-        <p>
-          <hi>Que venais-tu chercher,</hi>
-        </p>
-        <p>
-          <hi>Si tu ne voulais pas danser ?</hi>
-        </p>
+      <div type="notes">
+        <note xml:id="FRA02203_N01">
+          <l>Que venais-tu chercher,</l>
+          <l>Jeune gars de la montagne ?</l>
+          <l>Que venais-tu chercher,</l>
+          <l>Si tu ne voulais pas danser ?</l>
         <p>* *</p>
-        <p>
-          <hi>Il ne fallait pas venir,</hi>
-        </p>
-        <p>
-          <hi>Jeune gars de la montagne ;</hi>
-        </p>
-        <p>
-          <hi>Il ne fallait pas venir,</hi>
-        </p>
-        <p>
-          <hi>Si tu voulais dormir.</hi>
-        </p>
+          <l>Il ne fallait pas venir,</l>
+          <l>Jeune gars de la montagne ;</l>
+          <l>Il ne fallait pas venir,</l>
+          <l>Si tu voulais dormir.</l>
+        </note>
       </div>
     </back>
   </text>

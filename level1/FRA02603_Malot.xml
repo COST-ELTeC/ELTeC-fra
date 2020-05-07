@@ -2944,7 +2944,7 @@
           <p>— Est-ce qu'il n'y a que les personnes malades de certaines maladies qui peuvent être mises en état de somnambulisme ?</p>
           <p>— C'était une croyance autrefois admise par le public et par beaucoup de médecins qu'on ne pouvait provoquer le somnambulisme que chez les sujets atteints d'hystérie, de nervosisme, mais il y avait là une erreur : le somnambulisme artificiel s'obtient chez un grand nombre de sujets parfaitement sains.</p>
           <p>— Conserve-t-on sa volonté dans le sommeil ?</p>
-          <p>-- Le sujet ne conserve de spontanéité et de volonté que ce que veut bien lui en laisser son hypnotiseur, qui, à son gré peut le rendre triste, gai, colère, tendre et jouer de son âme comme d'un instrument <hi>*(1)</hi> *. </p>
+          <p>— Le sujet ne conserve de spontanéité et de volonté que ce que veut bien lui en laisser son hypnotiseur, qui, à son gré peut le rendre triste, gai, colère, tendre et jouer de son âme comme d'un instrument.<ref target="#FRA02603_N01"/></p>
           <p>— Mais c'est effroyable.</p>
           <p>— Curieux au moins ; il est certain qu'il y a une paralysie locale de telle ou telle cellule dont l'étude deviendra le point de départ de découvertes intéressantes.</p>
           <p>— Une fois réveillé, le sujet se rappelle-t-il ce qu'il a dit pendant son sommeil ?</p>
@@ -3130,17 +3130,13 @@
           <p>Le jeune médecin s'était rapproché de Saniel :</p>
           <p>— Voilà un original, dit-il.</p>
           <p>— Un homme heureux !</p>
+          <trailer>FIN</trailer>
         </div>
       </div>
     </body>
     <back>
-      <div type="notes" />
-      <div type="liminal">
-        <p>FIN</p>
-      </div>
-      <div type="liminal">
-        <p>1  H. Beaunis : <hi>Le Somnambulisme provoqué.</hi>
-        </p>
+      <div type="notes">
+        <note xml:id="FRA02603_N01">1  H. Beaunis : <hi>Le Somnambulisme provoqué.</hi></note>
       </div>
     </back>
   </text>

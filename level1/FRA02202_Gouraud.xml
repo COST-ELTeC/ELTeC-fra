@@ -472,7 +472,7 @@
         <p>Nous ne suivrons pas Pierre dans toutes ses courses, il nous suffira de savoir que la vente allait si bien, que c'était devenu une nécessité d'aller s'approvisionner à Strasbourg. Strasbourg ! terme de l'ambition de Petit Pierre.</p>
         <p>La veille de Noël, notre cher petit voyageur n'était plus qu'à une lieue de la capitale de l'Alsace ; la campagne était couverte de neige. Des jeux bruyants avaient lieu dans un parc : des enfants riaient, gambadaient sur la neige, se réjouissant de la belle fête dont le jour approchait.</p>
         <p>« Oh ! dit une petite fille, en apercevant Pierre, s'il avait quelque chose de joli pour mettre à l'arbre de Noël ! Maman l'achèterait, car elle n'a pas voulu que Brigitte allât à Strasbourg pour acheter des surprises, et ma bonne m'a dit que notre arbre ne serait pas aussi beau que celui de l'année dernière. » La petite Cécile parlait avec une conviction qui passa dans l'âme des frères et sœurs. « Petit marchand, attendez un peu ! » Et toute la bande s'envola, comme une nuée d'oiseaux vers un sillon aux épis d'or.</p>
-        <p>La pensée de Cécile fut très appréciée par la famille. Brigitte alla chercher le petit marchand. À en croire ces messieurs et ces demoiselles, il fallait sans tarder que Pierre déballât ; mais cet enfant était déjà pour Mme Franck l'objet d'une tendre sollicitude. Son passage devant le château devait lui porter bonheur. Brigitte fut chargée de prendre soin de lui, et, certes la brave femme s'en acquitta bien ! Elle conduisit Pierre au poêle <hi>*(1)</hi> *, l'aida à se débarrasser de son manteau, et le fit causer. </p>
+        <p>La pensée de Cécile fut très appréciée par la famille. Brigitte alla chercher le petit marchand. À en croire ces messieurs et ces demoiselles, il fallait sans tarder que Pierre déballât ; mais cet enfant était déjà pour Mme Franck l'objet d'une tendre sollicitude. Son passage devant le château devait lui porter bonheur. Brigitte fut chargée de prendre soin de lui, et, certes la brave femme s'en acquitta bien ! Elle conduisit Pierre au poêle <ref target="#FRA02202_N01"/>, l'aida à se débarrasser de son manteau, et le fit causer. </p>
         <p>
           <label>BRIGITTE</label>
         </p>
@@ -1928,9 +1928,8 @@
       </div>
     </body>
     <back>
-      <div type="notes" />
-      <div type="liminal">
-        <p>1  On appelle poêle, en Alsace, l'endroit bien chauffé où mangent les domestiques.</p>
+      <div type="notes">
+        <note xml:id="FRA02202_N01">1  On appelle poêle, en Alsace, l'endroit bien chauffé où mangent les domestiques.</note>
       </div>
     </back>
   </text>

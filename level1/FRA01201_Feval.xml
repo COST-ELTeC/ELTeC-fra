@@ -104,8 +104,7 @@
           <p>— Monseigneur, mon histoire pourrait être racontée devant une carmélite. J'en abrégerai néanmoins les détails. La jeune dame était de la cour, et Votre Éminence sait par expérience comme on monte vite à la cour, quand on a du bonheur et du génie. Sans la méchante humeur du mari, qui était un homme à courte vue et qui me fit jeter peu de temps après dans un cul de basse-fosse, je serais à présent un personnage considérable, voilà le fait certain.</p>
           <p>— Singulier dénouement, murmura le prélat, pour une aventure qui vous mérita le nom de Fortune !</p>
           <p>— J'en demande pardon à Votre Éminence ! s'écria vivement le jeune cavalier. Je n'ai pas tout dit : le jour même où j'entrai en prison, mon logis brûla misérablement depuis les caves jusqu'aux greniers. Sans la jalousie maladroite de cet excellent seigneur, c'en était fait de moi ! En prison, d'ailleurs, je fis la connaissance d'un gentilhomme qui commandait une bande dans l'Apennin. Nous rompîmes nos chaînes ensemble, et, voyez la filière ! ce hasard me conduisit jusqu'à Rome sous prétexte d'y être pendu. Je dis tout à Monseigneur, sachant que les vrais politiques aiment à employer les gens qui ont une étoile. On me pendit en effet, mais la corde cassa, et Sa Sainteté ayant eu la curiosité de me voir, défendit qu'on recommençât avec une corde neuve.</p>
-          <p>« J'avais fait impression sur le père commun des fidèles par ma tournure galante et mon agréable caractère : au lieu d'être pendu, <hi>feu le petit collet</hi>
-            <hi>**\{1\}</hi> **, et Dieu sait où je serais parvenu dans cette voie nouvelle si le protonotaire apostolique n'avait eu une nièce. </p>
+          <p>« J'avais fait impression sur le père commun des fidèles par ma tournure galante et mon agréable caractère : au lieu d'être pendu, <hi>feu le petit collet</hi>,<ref target="#FRA01201_N01">(1)</ref> et Dieu sait où je serais parvenu dans cette voie nouvelle si le protonotaire apostolique n'avait eu une nièce. </p>
           <p>« Je m'éveillai un matin au château Saint-Ange, et il faudrait être aveugle pour ne pas reconnaître là l'influence de mon étoile : ma vocation est l'épée, et huit jours de plus j'avais la tonsure !</p>
           <p>« Au lieu de cela et en moitié moins de temps, une personne charitable qui venait visiter les prisonniers, eut pitié de ma jeunesse et me donna la clef des champs. Je gagnai la mer et pris passage comme matelot à bord d'un navire qui revenait en France. Les corsaires algériens nous abordèrent en face de l'île de Sardaigne, et me voilà l'esclave des infidèles.</p>
           <p>« Mon étoile, Monseigneur ! Pendant qu'on m'emmenait captif au pays africain, la peste était à Marseille !</p>
@@ -399,8 +398,8 @@
           <p>Il avait reconnu le charmant visage de la dame mystérieuse qui s'était montrée la veille à la portière de la chaise.</p>
           <p>Et il eût juré que la Française lui avait adressé en passant un gracieux sourire.</p>
           <milestone type="subChapter" rend="asterisk" unit="asterisk" />
-          <p>**Où l'on appelle pour la première fois Fortune :</p>
-          <p>« M. le duc ».**</p>
+          <p>Où l'on appelle pour la première fois Fortune :</p>
+          <p>« M. le duc ».</p>
           <milestone type="subChapter" rend="asterisk" unit="asterisk" />
           <p>Ce bon Michel Pacheco était payé pour ne point tromper quand il parlait d'espions échelonnés sur la route. Il ajoutait des profits politiques à son commerce de futaine, servant le roi et la ligue tour à tour, comme il convient à un marchand obligeant qui ne veut mécontenter aucune de ses pratiques.</p>
           <p>Une comédie, qui rappelait par de certains côtés les finesses cousues de fil blanc de la Fronde, se jouait entre Paris et Madrid, et tout le long du chemin il y avait des gens qui, comme Michel Pacheco, sans savoir au juste de quoi il s'agissait, connaissaient supérieurement les masques.</p>
@@ -5923,9 +5922,9 @@
     </body>
     <back>
       <div type="notes">
-        <note xml:id="FRA01201-n01">[1] Expression incertaine, impossible à vérifier en l'absence de l'image de scan de cette page. [Note du correcteur]</note>
-        <note xml:id="FRA01201-n02"> [2] <hi>Avoir une épaisse couche de fard rouge sur les joues.</hi> Mon cher, reprit le comte, vous voyez que j'ai un pied de rouge sur les joues, ménagez-moi* (FEUILLET, J. de Trécœur, 1872, p. 62). </note>
-        <note xml:id="FRA01201-n03">[3] Vin rouge, surtout vin de Bordeaux.</note>
+        <note xml:id="FRA01201_N01">[1] Expression incertaine, impossible à vérifier en l'absence de l'image de scan de cette page. [Note du correcteur]</note>
+        <note xml:id="FRA01201_N02"> [2] <hi>Avoir une épaisse couche de fard rouge sur les joues.</hi> Mon cher, reprit le comte, vous voyez que j'ai un pied de rouge sur les joues, ménagez-moi (FEUILLET, J. de Trécœur, 1872, p. 62). </note>
+        <note xml:id="FRA01201_N03">[3] Vin rouge, surtout vin de Bordeaux.</note>
       </div>
     </back>
   </text>
