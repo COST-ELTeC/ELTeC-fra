@@ -46,12 +46,11 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">XXX</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="medium" />
@@ -64,21 +63,20 @@
     </revisionDesc>
   </teiHeader>
   <text>
+    <front>
+      <div type="liminal">
+        <p>MADEMOISELLE DE LA SEIGLIÈRE</p>
+        <p>PAR</p>
+        <p>JULES SANDEAU</p>
+        <p>I</p>
+        <p>PARIS</p>
+        <p>MICHEL LÉVY FRÈRES, LIBRAIRES-ÉDITEURS</p>
+      </div>
+    </front>
 
     <body>
       <div type="group">
-
-        <head>MADEMOISELLE DE LA SEIGLIÈRE</head>
-
-        <head>PAR</head>
-
-        <head>JULES SANDEAU</head>
-
-        <head>I</head>
-
-        <head>PARIS</head>
-
-        <head>MICHEL LÉVY FRÈRES, LIBRAIRES-ÉDITEURS</head>
+        <!-- PART 1 -->
         <div type="chapter">
 
           <head>I</head>
@@ -342,17 +340,7 @@
       </div>
       <div type="group">
 
-        <head>MADEMOISELLE DE LA SEIGLIÈRE</head>
-
-        <head>PAR</head>
-
-        <head>JULES SANDEAU</head>
-
         <head>II</head>
-
-        <head>PARIS</head>
-
-        <head>MICHEL LÉVY FRÈRES, LIBRAIRES-ÉDITEURS</head>
         <div type="chapter">
 
           <head>I</head>

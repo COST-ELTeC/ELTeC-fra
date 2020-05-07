@@ -39,17 +39,20 @@
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p />
+      <!--  <p>NOTES SUR LA TRANSCRIPTION :</p>
+      <p>— Les erreurs clairement introduites par le typographe ont été corrigées.</p>
+      <p>— On a conservé l'orthographie de l'original, incluant ses variantes.</p>
+      -->
     </encodingDesc>
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">XXX</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="F" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long" />
@@ -81,10 +84,6 @@
         <head>Le Marquis de Valcor</head>
         <p>PARIS ALPHONSE LEMERRE, ÉDITEUR 23-31, PASSAGE CHOISEUL, 23-31</p>
         <p>M DCCCCIV</p>
-        <!--  <p>NOTES SUR LA TRANSCRIPTION :</p>
-        <p>— Les erreurs clairement introduites par le typographe ont été corrigées.</p>
-        <p>— On a conservé l'orthographie de l'original, incluant ses variantes.</p>
-   -->
         <div type="chapter">
 
           <head>I</head>
@@ -93,7 +92,7 @@
           <p>— Quelqu'un ... Oui, quelqu'un ... Mais qui ?... » prononça l'interlocuteur avec un accent singulier.</p>
           <p>— « Comment qui ? Le marquis Renaud de Valcor, l'explorateur célèbre, le conquistador moderne, qui aurait doté notre pays d'une colonie nouvelle, si le Gouvernement n'avait craint des conflits dans l'Amérique du Sud, et qui demeure comme le roi des territoires les plus étendus possédés par un particulier—cette Valcorie, cédée par le Brésil, la Bolivie et le Pérou, fort en peine de délimiter leurs États dans cette région jusque-là inexplorée. Je n'ai pourtant rien à vous apprendre, monsieur Escaldas, sur la personne ou la carrière de mon cousin, puisque vous avez été directeur d'une de ses caoutchouteries du Haut-Amazone, et que vous le seriez encore, si votre santé ... »</p>
           <p>Un étrange sourire, plutôt deviné que réellement vu dans la pénombre, figea soudain cette éloquence.</p>
-          <p>Marc de Plesguen,—qu'on appelait parfois, pour le flatter, M. de Valcor-Plesguen, bien qu'il fût cousin du marquis seulement au second degré, et par les femmes, sans avoir aucun droit au nom,—venait d'éprouver le frisson d'inquiète antipathie qui, depuis quelque temps, le secouait devant certaines expressions et certaines attitudes de José Escaldas.</p>
+          <p>Marc de Plesguen, — qu'on appelait parfois, pour le flatter, M. de Valcor-Plesguen, bien qu'il fût cousin du marquis seulement au second degré, et par les femmes, sans avoir aucun droit au nom, — venait d'éprouver le frisson d'inquiète antipathie qui, depuis quelque temps, le secouait devant certaines expressions et certaines attitudes de José Escaldas.</p>
           <p>Tous deux s'étaient installés, pour savourer les fins cigares de leur hôte, sur des sièges de jardin, au bord de la pelouse fleurie de corolles électriques.</p>
           <p>C'était une des surprises de la fête de nuit, cet épanouissement d'une floraison versicolore et lumineuse parmi les massifs, les corbeilles, les gazons, et même dans les feuillages des hauts arbres les plus voisins de l'admirable demeure.</p>
           <p>Au delà de cette zone féerique, le parc s'étendait, nocturne, immense et solitaire. D'un côté, il aboutissait à une terrasse monumentale, longue d'un demi-kilomètre, en face de laquelle s'ouvrait le vide énorme de l'Océan. Car ce domaine de Valcor, situé sur un promontoire du Finistère, dans le voisinage de Brest, s'enveloppe de toute la sauvage poésie qui fait de l'extrême Bretagne une région si farouchement pittoresque.</p>

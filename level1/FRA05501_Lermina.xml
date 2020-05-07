@@ -39,12 +39,12 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">XXX</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
+          <term type="subgenre">crime fiction</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short" />
@@ -468,7 +468,7 @@
           <l>Wont ye come out tonight... etc
             <ref target="#FRA05501_N2" />
           </l>
-          <p>– Eh bien, sir ! devenez-vous fou vous-même ! s'écria miss Mary, un peu inquiète.</p>
+          <p>— Eh bien, sir ! devenez-vous fou vous-même ! s'écria miss Mary, un peu inquiète.</p>
           <p>M. Bobby retomba d'aplomb, au port d'armes.</p>
           <p>— Excusez-moi, miss. Je ne suis pas fou et je n'ai eu nulle intention de vous offenser… Mais ce que vous venez de me dire !… Si vous pouviez savoir !… En deux heures, mille lieues !… Mais alors de Londres à Paris… 350 kilomètres… une misère ! Dix minutes peut-être !… et alors Coxward !… oui, évidemment !… le lien existe… il existe !…</p>
           <p>— Je ne vous comprends pas…</p>
