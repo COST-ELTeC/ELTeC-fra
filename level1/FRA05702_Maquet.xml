@@ -2482,7 +2482,7 @@
         <p>— À propos, dit-il, enfermez-vous ici, madame, car moi je ne puis fermer ni ma chambre, ni le cabinet qui la sépare de celle-ci ; et là, sur le palier, précisément en face de votre porte,- est la chambre de mon fils Bernard.</p>
         <p>— Bien, monsieur, bien, ne craignez rien, nul ici ne songe qu'à la noce.</p>
         <p>Elle s'enferma, revint à la fenêtre et écouta encore ; on n'entendait plus rien.</p>
-        <milestone unit="section" rend="italic" />
+        <milestone unit="section" rend="asterisk" />
         <p>Alors, seule et libre, elle put s'abandonner à toutes ses pensées. Le flot amer et doux débordait de ce cœur qui jamais n'avait aimé, et sentait tout amour autour d'elle.</p>
         <p>— Quoi ! se dit Marguerite, voilà ce que fait de moi la misérable destinée ! Livrée à un méchant et avide étranger qui me tuera quelque jour pour trouver une plus haute alliance, une plus riche dot, je pouvais, moi, dont la vie est à jamais perdue, je pouvais, si Dieu l'eût permis, rencontrer sur ma route ces honnêtes, ces riantes figures, reflets purs des cœurs les plus généreux. Ce petit domaine verdoyant eût été à moi ; j'eusse aimé, s'il eût été mon mari, ce brave, ce noble Bernard, âme si candide, qu'elle ne soupçonne pas même sa valeur. Ce digne avocat au Parlement, qui me plait au point que je l'embrasserais toujours, serait mon père ; j'appellerais frère ce petit enfant blond qui a dormi sur mon sein ; ma chambre, ouverte au soleil, ma chambre, où les cris de joie entreraient librement comme le chant des alouettes, ce serait cette chambre-ci, plus sombre encore du malheur que je traîne après moi qu'elle ne l'est du deuil qui m'a précédée. Au lieu d'attendre sans amour sa fiancée qui va venir, quelque petite sotte, nuage équivoque à son horizon, Bernard, heureux par moi, se promènerait avec moi et notre frère le long de cette fontaine où baignent ces beaux nénuphars, ces frais asphodèles. Le chien qui jappe là-bas ne donnerait qu'à moi ses regards tendres, il lécherait mes mains, il serait le compagnon de mon cheval, celui-là même qui tantôt va m'emporter d'ici, où jamais plus je ne reviendrai !</p>
         <p>En songeant ainsi, la jeune femme renversa sa tète sur le dossier du fauteuil, et il lui prit une de ces violentes douleurs qui, devant le trône de Dieu, font absoudre les pauvres âmes coupables d'avoir un instant douté.</p>
@@ -2932,7 +2932,9 @@
 
         <head>XXIII</head>
 
-        <head>LUCTUS ET PLURIMA MORTIS IMAGO</head>
+        <head>
+          <foreign xml:lang="lat">LUCTUS ET PLURIMA MORTIS IMAGO</foreign>
+        </head>
         <p>La nuit descendait, brumeuse et froide, enveloppant dans ses plis mouvants les grands arbres du parc, les allées du parterre, et noyant dans une vapeur sinistre fleurs, fontaines, maison comme pour ensevelir à jamais les événements terribles qui couvaient sous son noir manteau.</p>
         <p>Un vent aigre et sifflant passait au front des chênes avec un douloureux murmure. Ces vastes tètes ondoyaient renversées, frissonnantes comme les génies désolés du domaine. Parfois leur plainte, développée sous le souffle furieux du vent d'ouest, prenait des accords déchirants qui eussent été compris d'un esprit superstitieux, car ils criaient : Malheur ! oh !... malheur !</p>
         <p>Du Bourdet remontait lentement l'escalier qui conduisait de la salle au premier étage. Son flambeau à la main, hésitant sans le vouloir à chaque marche, il allait cependant, poussé par. la destinée invincible.</p>
@@ -3168,12 +3170,12 @@
         <p>En effet, quel homme du monde, quelle femme riche et élégante, quitterait de nos jours son hôtel, son boudoir pour le plus parfait appartement de la plus honorable hôtellerie ? Que de biens n'y regretteraient-ils pas ! Que de soupirs ne poussent-ils pas quand un voyage les y condamne ! Jamais prisonnier sevré de toutes les douceurs de la vie n'a gémi plus amèrement ni plus lamentablement regretté sa liberté et sa maison.</p>
         <p>Cependant, au dix-septième siècle, et même au dix-huitième, sous Louis XIV, comme sous Louis XIII, la maison du baigneur offrait seule, aux raffinés, aux ennuyés, aux gens de goût comme aux gens de plaisir, aux gens trop sains comme aux malades, l'accomplissement de tous les souhaits que peut former l'épicuréisme. C'était l'hôtellerie élevée à une puissance d'imagination et de bienêtre que nul particulier isolé n'eût pu ni su atteindre.</p>
         <p>On y vit des rois. Henri III, Henri IV y firent des séjours. Plus tard, Louis XIV, jeune galant et déjà splendide, y vint furtivement, il est vrai, mais il y vint, chez un la Vienne qui, sans doute, était le fils du nôtre.</p>
-        <p>Une ordonnance pleine de politesse et de générosité, un service exact, discret, des vins choisis dans tous les crus du monde connu, des cuisiniers riches des recettes de l'Allemagne, de l'Italie, héritiers des traditions bizarres, quelquefois divines, du moyen âge et de l'antiquité, des distributions intérieures exécutées pour la première fois sous l'inspiration des grands seigneurs qui sont architectes-nés, car pour être architecte, il faut connaître à fond toutes les nécessités, toutes les splendeurs, toutes les circonstances possibles de la vie, puis une position toujours heureuse dans la ville, des jardins, des bains, des étuves grecques, romaines, moresques, russes ; un amas des plus exquis parfums de l'Orient, tempérés ou mélangés par la sensualité ou la prudence italienne ; la solitude pour les malades et les amants ; la compagnie, les musiques, les bals pour les- cerveaux brûlés ou les cerveaux vides ; des fleurs jetées sous les pieds comme de l'herbe ; des brasiers de bois de senteur ; des lambris sculptés dans le chêne ou le marbre, au choix de l'habitant, sur les dessins d'un moine ou d'un païen, d'après Titien ou d'après Arétin, ad libitum ; enfin, l'enivrement et l'ivresse, l'esprit et la matière, l'excès ou lès réparations, le mal ou le remède, Eros ou Esculape, tel était le programme d'une maison de baigneur. Puissent les illustres de la profession nous pardonner du fond de leur tombeau tant d'articles omis par noire pruderie bourgeoise dans la nomenclature dont ils s'enorgueillissaient alors, et grâce à laquelle ils s'enrichissaient sans trouble de conscience, <foreign>cum privilegio</foreign>.</p>
+        <p>Une ordonnance pleine de politesse et de générosité, un service exact, discret, des vins choisis dans tous les crus du monde connu, des cuisiniers riches des recettes de l'Allemagne, de l'Italie, héritiers des traditions bizarres, quelquefois divines, du moyen âge et de l'antiquité, des distributions intérieures exécutées pour la première fois sous l'inspiration des grands seigneurs qui sont architectes-nés, car pour être architecte, il faut connaître à fond toutes les nécessités, toutes les splendeurs, toutes les circonstances possibles de la vie, puis une position toujours heureuse dans la ville, des jardins, des bains, des étuves grecques, romaines, moresques, russes ; un amas des plus exquis parfums de l'Orient, tempérés ou mélangés par la sensualité ou la prudence italienne ; la solitude pour les malades et les amants ; la compagnie, les musiques, les bals pour les- cerveaux brûlés ou les cerveaux vides ; des fleurs jetées sous les pieds comme de l'herbe ; des brasiers de bois de senteur ; des lambris sculptés dans le chêne ou le marbre, au choix de l'habitant, sur les dessins d'un moine ou d'un païen, d'après Titien ou d'après Arétin, ad libitum ; enfin, l'enivrement et l'ivresse, l'esprit et la matière, l'excès ou lès réparations, le mal ou le remède, Eros ou Esculape, tel était le programme d'une maison de baigneur. Puissent les illustres de la profession nous pardonner du fond de leur tombeau tant d'articles omis par noire pruderie bourgeoise dans la nomenclature dont ils s'enorgueillissaient alors, et grâce à laquelle ils s'enrichissaient sans trouble de conscience, <foreign xml:id="lat">cum privilegio</foreign>.</p>
         <p>On comprend qu'un pareil établissement fût au centre d'un quarti>Oner ce qu'est le cœur dans une créature humaine. Tout y afflue, tout en reflue. Aussi voyait-on pendant le jour litières, carrosses, chevaux et mules rouler, tourner, piaffer, courir aux environs de la rue Saint-Antoine pour aboutir par des détours plus ou moins pudibonds à la maison de la rue de la Cerisaie. Et plus d'une bourgeoise cachée derrière ses petites vitres à losange, soulevant un sombre rideau, regardait, admirait, enviait, peut-être, ces magnificences toujours un peu entachées d'illicitisme, ce qui ne les rendait, hélas ! que plus attrayantes.</p>
-        <p>Quant à la maison elle-même, qu'on se figure un vaste triangle appuyé à deux rues et formé de bâtiments d'une architecture capricieuse, dont les seules règles étaient l'élégance qui charme l'œil, et la commodité intérieure qui rend .la vie facile en toute occasion. Du reste, chaque corps de bâtiment avait des entrées soit sur une des rues, soit sur le beau jardin qui s'étendait au milieu selon les dispositions de la maison romaine ou du patio espagnol, qu'on trouve encore aujourd'hui dans toute l'Andalousie.</p>
+        <p>Quant à la maison elle-même, qu'on se figure un vaste triangle appuyé à deux rues et formé de bâtiments d'une architecture capricieuse, dont les seules règles étaient l'élégance qui charme l'œil, et la commodité intérieure qui rend la vie facile en toute occasion. Du reste, chaque corps de bâtiment avait des entrées soit sur une des rues, soit sur le beau jardin qui s'étendait au milieu selon les dispositions de la maison romaine ou du patio espagnol, qu'on trouve encore aujourd'hui dans toute l'Andalousie.</p>
         <p>L'endroit le plus fréquenté de cette maison était le jardin, au centre duquel une fontaine de marbre rafraîchissait de son jaillissement éternel le plus fin et le plus verdoyant gazon.</p>
-        <p>On entrait alors sous de grandes allées tournoyantes de sycomores, d'ormes séculaires et de mélèzes à l'abri desquels respiraient librement des lilas, des rosiers énormes, des noisetiers, des aubépines, des seringats. Les plate-bandes, entretenues avec une minutie hollandaise, renfermaient toutes les fleurs' connues. La saison les y semait à pleines mains. Récoltait qui voulait. Mais nous entrons en novembre, ne parlons plus de fleurs.</p>
-        <milestone unit="section" rend="italic" />
+        <p>On entrait alors sous de grandes allées tournoyantes de sycomores, d'ormes séculaires et de mélèzes à l'abri desquels respiraient librement des lilas, des rosiers énormes, des noisetiers, des aubépines, des seringats. Les plate-bandes, entretenues avec une minutie hollandaise, renfermaient toutes les fleurs connues. La saison les y semait à pleines mains. Récoltait qui voulait. Mais nous entrons en novembre, ne parlons plus de fleurs.</p>
+        <milestone unit="section" rend="asterisk" />
         <p>Le soir était venu. La maison, si bruyante, si peuplée, commençait à s'assoupir. On n'entendait plus dans les environs ni cris de laquais, ni hennissements de chevaux, pas plus qu'à l'intérieur on n'entendait de chants et de rires. La Vienne sortit de sa chambre tout paré, tout superbe ; il venait de s'occuper un peu de lui-même après s'être, pendant le jour, occupé de tout le monde.</p>
         <p>Les portes fermées, les volets clos, les feux éteints, cette maison ressemblait presque à une autre. La Vienne aussi, habillé en gentilhomme parisien, ressemblait à un homme ordinaire.</p>
         <p>Il entra dans la cuisine qui resplendissait comme en un jour de cérémonie. C'étaient les seules flammes qu'on remarquât encore dans la maison. Mais elles se piquaient d'honneur, et jamais parfums plus provoquants ne s'en étaient exhalés, même pour flatter un odorat royal.</p>
@@ -3203,10 +3205,10 @@
         <p>— Oh ! né confondons pas, dit magistralement le baigneur. Il ne s'agit point ici de se réjouir. Une femme, pour moi, signifie ma femme.</p>
         <p>— Tu es marié ?</p>
         <p>— Parfaitement... Chut !</p>
-        <p>— Depuis quand ? mon Dieu ! — Depuis dix jours. ^ —Tu caches donc la femme ?</p>
+        <p>— Depuis quand ? mon Dieu ! — Depuis dix jours. — Tu caches donc la femme ?</p>
         <p>— Pas encore assez !... Cache-t-on jamais assez les topazes, les émeraudes, les perles ?</p>
-        <p>— Peste ! voilà une femme précieuse. Où Ta-tu pêchée, ta perle ?</p>
-        <p>—; En bon lied, ne vous déplaise. Vous comprenez que, pour m'être remarié, et remarié si vite, il faut que j'aie trouvé l'occasion belle.</p>
+        <p>— Peste ! voilà une femme précieuse. Où l'as-tu pêchée, ta perle ?</p>
+        <p>— En bon lied, ne vous déplaise. Vous comprenez que, pour m'être remarié, et remarié si vite, il faut que j'aie trouvé l'occasion belle.</p>
         <p>— Je le crois, vous êtes difficile, la Vienne, et vous avez le droit de l'être, vous qui avez vu tant de femmes aux prises avec les périls de l'occasion et qui connaissez la fragilité de ces charmants morceaux de verre qui veulent trop souvent passer pour diamants.</p>
         <p>La Vienne se balançant avec aisance : — Il me fallait, dit-il, une femme exprès pour moi, quelque chose d'inconnu, de vaporeux, sans être insipide, la candeur provinciale comme fond avec des broderies parisiennes dessus. Eh bien ! j'ai trouvé cela.</p>
         <p>— Heureux la Vienne !</p>
@@ -3238,7 +3240,7 @@
         <p>— Bon la Vienne ! Quoi ! tu me fais l'honneur de m'offrir ainsi la primeur de ton repas de noces ? Tu es un homme sans pareil.</p>
         <p>— Je vous sais homme bien élevé, bien courtois, monsieur de Cadenet, et je ne montrerais pas ainsi ma petite femme un peu niaise et rougissante* à d'autres seigneurs moins discrets. Les uns la feraient rougir beaucoup trop ; avec les autres, elle désapprendrait trop vite de rougir.</p>
         <p>— Tu parles en garçon d'esprit. Je respecte toutes les dames, mais ta femme a droit doublement à mes respects, pour toi d'abord, pour ses mérites et vertus ensuite.</p>
-        <p>—- Vertus, oui ! mérites, oui ! dites-le, répétez-le, seigneur, car j'avouerai que cette
+        <p>— Vertus, oui ! mérites, oui ! dites-le, répétez-le, seigneur, car j'avouerai que cette
           <gap rend="figure" /> <!-- — Vous nie faites l'honneur de venir ici ? — Page 079.--> éducation-là m'a réconcilié avec les éducations de couvent.</p>
         <p>— Ah ! madame la Vienne sort du couvent ?</p>
         <p>— Des Feuillantines de Boissise.</p>
@@ -3268,8 +3270,8 @@
 
         <head>XXVI</head>
 
-        <head>UNE NOBLESSE DE JAMBES1</head>
-        <p>JAMBES1 certain que Cadenet se trouvait dans une position difficile, non pas qu'il sût précisément tout ce que Sylvie et le capitaine pouvaient redouter qu'il sût ;</p>
+        <head>UNE NOBLESSE DE JAMBES</head>
+        <p>Il est certain que Cadenet se trouvait dans une position difficile, non pas qu'il sût précisément tout ce que Sylvie et le capitaine pouvaient redouter qu'il sût ;</p>
         <p>mais enfin il gênait, et tout autre que lui eût été gêné à en perdre contenance.</p>
         <p>Cadenet, réfugié derrière le code de l'urbanité française</p>
         <p>ne perdit ni un coup cl œil m un coup de dent. C'eût été dommage : la chère était exquise, sa voisine charmante, et, nous le savons, il ne soupçonnait rien qui la diminuât de prix à ses yeux. Cette rupture avec les des Noyers, aux Bordes, avait eu, grâce à la délicatesse de Pontis et du pauvre du Bourdet, les plus respectables motifs.</p>
@@ -3279,12 +3281,12 @@
         <p>C'est pendant cette histoire édifiante des vertus de Sylvie que : Cadenet se montra surtout noble et beau. On eût dit, à le voir intrépide et souriant, qu'il ne connaissait sur terre qu'une femme, la mariée, qu'un homme, l'époux. La Vienne raconta les dangers de Hugues au sac de l'hôtel d'Ancre, et sa présence d'esprit à lui la Vienne, et la férocité d'égoïsme de la maréchale et de M. le comte Siete-Iglesias.</p>
         <p>Et à ce nom qui fit rougir le capitaine de colère sans doute, et la mariée de tendresse sororale assurément, la Vienne se hâta d'ajouter :</p>
         <p>— M. de Siete-Iglesias est pourtant une de mes meilleures pratiques, mais depuis sa conduite envers mon brave beau-frère, je l'ai pris en exécration. 'Il ne trouvera plus ici les dîners qu'il a faits, l'accueil de prince auquel je l'avais habitué.</p>
-        <p>— Le revoir serait au-dessus de mes forces et il arriverait quelque malheur si nous nous rencontrions, dit Hugues en tordant sa moustache avec menace. Car maintenant je suis gentilhomme comme lui, libre comme lui : je n'appartiens plus ni à la maréchale, qui m'a renié, abandonné, ni à M. d'Espernon, qui m'avait donné à eux ; je n'appartiens ici à personne qu'à mon seul ami, à mon beaufrère !</p>
-        <p>La Vienne,-ému, se leva pour l'embrasser. Cadenet eût jugé poli de s'attendrir un peu, sans un certain sourire qu'il surprit, tout .rapide qu'il fût, aux coins de la bouche de Sylvie, pendant cette accolade ; sourire qu'assurément la femme retint pour l'avoir vu aux lèvres du serpent le jour où il la regarda mordre dans la pomme.</p>
-        <p>— Eh bien, continua la Vienne, c'est un grand seigneur très-puissant, trop puissant même, ajouta-t'-il plus bas ; mais nous le traiterons si mal ici, qu'il portera sa clientèle ailleurs.</p>
+        <p>— Le revoir serait au-dessus de mes forces et il arriverait quelque malheur si nous nous rencontrions, dit Hugues en tordant sa moustache avec menace. Car maintenant je suis gentilhomme comme lui, libre comme lui : je n'appartiens plus ni à la maréchale, qui m'a renié, abandonné, ni à M. d'Espernon, qui m'avait donné à eux ; je n'appartiens ici à personne qu'à mon seul ami, à mon beau-frère !</p>
+        <p>La Vienne, ému, se leva pour l'embrasser. Cadenet eût jugé poli de s'attendrir un peu, sans un certain sourire qu'il surprit, tout rapide qu'il fût, aux coins de la bouche de Sylvie, pendant cette accolade ; sourire qu'assurément la femme retint pour l'avoir vu aux lèvres du serpent le jour où il la regarda mordre dans la pomme.</p>
+        <p>— Eh bien, continua la Vienne, c'est un grand seigneur très-puissant, trop puissant même, ajouta-t-il plus bas ; mais nous le traiterons si mal ici, qu'il portera sa clientèle ailleurs.</p>
         <p>Sylvie respira mieux. Hugues but à la santé dé la Vienne. Cadenet respira, but, et lit raison à tout le monde.</p>
-        <p>—- Il faut avouer, la Vienne, s'écria-t-il, que vous êtes un mortel fortuné, comme dit M. Malherbe, vous trouvez une femme accomplie, un frère charmant ! Hugues et Sylvie saluèrent.</p>
-        <p>— Oui, maisje perds une tante, dit tristement la Vienne. Il paraît qu'il y a une tante, personne austère qui a élevé Sylvie, et que ma profession a effarouchée. Elle nous a refusé son consentement.</p>
+        <p>— Il faut avouer, la Vienne, s'écria-t-il, que vous êtes un mortel fortuné, comme dit M. Malherbe, vous trouvez une femme accomplie, un frère charmant ! Hugues et Sylvie saluèrent.</p>
+        <p>— Oui, mais je perds une tante, dit tristement la Vienne. Il paraît qu'il y a une tante, personne austère qui a élevé Sylvie, et que ma profession a effarouchée. Elle nous a refusé son consentement.</p>
         <p>— Quelque bégueule ! dit effrontément Cadenet en effleurant avec plus d'audace le pied de sa voisine.</p>
         <p>— Le fait est que la profession de baigneur a ses désavantages, continua la Vienne un peu rembruni, mais puisque ma femme l'a acceptée...</p>
         <p>— Délicieuse situation pour une femme, dit Cadenet, pour une femme spirituelle, affable, avenante comme madame. Toute la cour vient ici ; avant un mois, madame la Vienne régnera en France.</p>
@@ -3296,50 +3298,51 @@
         <p>— Nullement, nullement, ils seront gentilshommes comme moi, fit la Vienne.</p>
         <p>— Comme vous, je ne dis pas.</p>
         <p>— Il est effectivement gentilhomme, assura Hugues, j'en ai eu les preuves.</p>
-        <p>— Si je le suis, cordieu !... ne le savezvous point ? On l'ignore donc à Paris ? Voilà plus de cent personnes à qui je le dis, et qui me rient au nez.</p>
+        <p>— Si je le suis, cordieu !... ne le savez-vous point ? On l'ignore donc à Paris ? Voilà plus de cent personnes à qui je le dis, et qui me rient au nez.</p>
         <p>— Incivilement, répliqua Cadenet. Moi, je ne rirai certes pas avant que vous ne m'ayez conté la chose.</p>
-        <p>Il s'affermit sur sa chaise, s'étaya quelque peu do sa voisine et écoula, sérieux comme un mort.</p>
+        <p>Il s'affermit sur sa chaise, s'étaya quelque peu de sa voisine et écouta, sérieux comme un mort.</p>
         <p>— Je dois cette faveur à la reine Catherine de Médicis, dit la Vienne.</p>
         <p>— Et à votre mérite, sans doute, fit observer un des bourgeois, qui n'avait que peu parlé jusque-là.</p>
-        <p>— A. mes services, monsieur, .reprit le baigneur.. Il faut vous dire qu'à vingt-cinq ans j'étais un marcheur de première force.</p>
+        <p>— À mes services, monsieur, reprit le baigneur... Il faut vous dire qu'à vingt-cinq ans j'étais un marcheur de première force.</p>
         <p>— Je le croirais, dit Cadenet, continuez.</p>
-        <p>— Or, poursuivit le baigneur, la reine Catherine avait fait vœu d'un pèlerinage à Jérusalem ; je crois bien que c'était pour la mort de MM. de Guise. Cette mort eut lieu à la satisfaction de la famille royale, et la reine se vit forcée d'accomplir le vœu en question. Seulement, comment aller à pied à Jérusalem, elle, déjà vieille, et qui avait tant de choses pressées à faire en France, quand ce n'eût été qu'un aulre vœu pour la mort du roi de Navarre ? Elle ne partit donc pas pour la Palestine, mais afin de se tenir en bons termes avec le ciel, cette grande reine imagina de faire accomplir son vœu par quelqu'un.</p>
-        <p>— J'irai 'd'intention, se disait-elle, du moins des jambes, cela suffira au Seigneur, et, pour lui être encore plus agréable, je rendrai rendrai pèlerinage extrêmement pénible au pèlerin que j'enverrai ;</p>
+        <p>— Or, poursuivit le baigneur, la reine Catherine avait fait vœu d'un pèlerinage à Jérusalem ; je crois bien que c'était pour la mort de MM. de Guise. Cette mort eut lieu à la satisfaction de la famille royale, et la reine se vit forcée d'accomplir le vœu en question. Seulement, comment aller à pied à Jérusalem, elle, déjà vieille, et qui avait tant de choses pressées à faire en France, quand ce n'eût été qu'un autre vœu pour la mort du roi de Navarre ? Elle ne partit donc pas pour la Palestine, mais afin de se tenir en bons termes avec le ciel, cette grande reine imagina de faire accomplir son vœu par quelqu'un.</p>
+        <p>— J'irai d'intention, se disait-elle, du moins des jambes, cela suffira au Seigneur, et, pour lui être encore plus agréable, je rendrai le pèlerinage extrêmement pénible au pèlerin que j'enverrai.</p>
         <p>Alors elle imagina un procédé fort ingénieux qui rendait ce voyage à peu près impossible.</p>
         <p>— Vous me divertissez extrêmement, dit Cadenet ; j'aime beaucoup les récits historiques. Voyons ce qu'imagina la pieuse reine Catherine.</p>
-        <p>— Le voici : ordre au pèlerin de faire trois pas en avant et un en arrière. Comprenezvous bien le mécanisme ? On compte un, deux, trois, puis on recule, et on recommence, toujours comme cela.</p>
+        <p>— Le voici : ordre au pèlerin de faire trois pas en avant et un en arrière. Comprenez-vous bien le mécanisme ? On compte un, deux, trois, puis on recule, et on recommence, toujours comme cela.</p>
         <p>— Jusqu'à Jérusalem ! c'est à devenir fou ! s'écria Cadenet. Qui diantre a pu s'en charger ?</p>
-        <p>— Moi ! dit modestement la Vienne. J'arrivais de mon pays, M. Zamct me protégea ; je fus présenté à la reine, qui daigna m'agréer.</p>
-        <p>— Et vous files ainsi : une, deux, trois, puis à reculons, en France, en Savoie, en Milanais, en l'État de Venise, en Garniole, en Turquie, en Asie Mineure ?</p>
+        <p>— Moi ! dit modestement la Vienne. J'arrivais de mon pays, M. Zamet me protégea ; je fus présenté à la reine, qui daigna m'agréer.</p>
+        <p>— Et vous fîtes ainsi : une, deux, trois, puis à reculons, en France, en Savoie, en Milanais, en l'État de Venise, en Garniole, en Turquie, en Asie Mineure ?</p>
         <p>— Je le fis.</p>
-        <p>— Mais le Bosphore, mon cher monsieur, vous n'avez pas marché trois pas et reculé un sur Je Bosphore ?</p>
-        <p>— Voire remarque est judicieuse. Non, jo n'ai pas marché sur l'eau, comme saint Pierre ; mais j'ai fait la même manœuvre en continuant de marcher sur le tillac du bateau qui me portait.</p>
+        <p>— Mais le Bosphore, mon cher monsieur, vous n'avez pas marché trois pas et reculé un sur le Bosphore ?</p>
+        <p>— Voire remarque est judicieuse. Non, je n'ai pas marché sur l'eau, comme saint Pierre ; mais j'ai fait la même manœuvre en continuant de marcher sur le tillac du bateau qui me portait.</p>
         <p>— Eh bien ! vous pouvez vous flatter d'avoir fait ce que M. de Grillon n'eût pas fait, assurément.</p>
-        <p>— C'est vrai ! car M. de Crillon ne recula jamais, dit la Vienne, à qui ce trait d'esprit valut les applaudissements de la compagnie et un sourire de sa femme.</p>
+        <p>— C'est vrai ! car M. de Grillon ne recula jamais, dit la Vienne, à qui ce trait d'esprit valut les applaudissements de la compagnie et un sourire de sa femme.</p>
         <p>— Je comprends, reprit Cadenet, que la reine vous ait fait gentilhomme pour cela.</p>
-        <p>— N'est-ce pas ? dit le baigneur ; cependant je ne m'en vanle guère, puisque vousmême ne le saviez point. Oui, la reine me conféra la noblesse pour ce service, et comme il paraît qu'elle répétait plus de dix fois par jour : Qu'il advienne ! qu'il advienne ! en pensant à son pèlerin, l'on m'appela longtemps : Qu'il advienne ! nom qui, en se corrompant, finit par faire Avienne, puis, la Vienne. Il m'a plu, je l'ai adopté ; il passera à mes enfants.</p>
-        <p>— C'esl une histoire admirable, dit Cadenet, qui espérait, à force de nourriture, empêcher l'éclat de rire de monter jusqu'à sa gorge. Toutefois, avouez que vous avez hien un peu triché la reine sur les reculades.</p>
-        <p>— Voici comment j'ai fait, dit la Vienne. Quand j'ai eu la cerlitude qu'on ne m'observait plus... Oh ! dans le commencement, c'est-à-dire jusqu'à Venise, c'était à n'y pas tenir avec les espions ; mais une fois chez les Infidèles j'ai un peu monté à cheval.</p>
-        <p>— Et dans les déserls, interrompit Cadenet, voyons, dans les déserts, mon cher la Vienne ?</p>
-        <p>— Je ne dis pas que dans les sables je n'aie pas un peu enfreint la consigne. Il fait si chaud là-bas ! Mais rigoureusement j'ai reculé aulant qu'il le fallait. Car une fois arrivé à Tripoli, m'y trouvant fort mal, j'ai d'une Irai te rebroussé jusqu'à Antioche. Tout calcul fait, le nombre de pas à reculer s'est trouvé exact.</p>
+        <p>— N'est-ce pas ? dit le baigneur ; cependant je ne m'en vante guère, puisque vous-même ne le saviez point. Oui, la reine me conféra la noblesse pour ce service, et comme il paraît qu'elle répétait plus de dix fois par jour : Qu'il advienne ! qu'il advienne ! en pensant à son pèlerin, l'on m'appela longtemps : Qu'il advienne ! nom qui, en se corrompant, finit par faire Avienne, puis, la Vienne. Il m'a plu, je l'ai adopté ; il passera à mes enfants.</p>
+        <p>— C'est une histoire admirable, dit Cadenet, qui espérait, à force de nourriture, empêcher l'éclat de rire de monter jusqu'à sa gorge. Toutefois, avouez que vous avez bien un peu triché la reine sur les reculades.</p>
+        <p>— Voici comment j'ai fait, dit la Vienne. Quand j'ai eu la certitude qu'on ne m'observait plus... Oh ! dans le commencement, c'est-à-dire jusqu'à Venise, c'était à n'y pas tenir avec les espions ; mais une fois chez les Infidèles j'ai un peu monté à cheval.</p>
+        <p>— Et dans les déserts, interrompit Cadenet, voyons, dans les déserts, mon cher la Vienne ?</p>
+        <p>— Je ne dis pas que dans les sables je n'aie pas un peu enfreint la consigne. Il fait si chaud là-bas ! Mais rigoureusement j'ai reculé autant qu'il le fallait. Car une fois arrivé à Tripoli, m'y trouvant fort mal, j'ai d'une traite rebroussé jusqu'à Antioche. Tout calcul fait, le nombre de pas à reculer s'est trouvé exact.</p>
         <p>— Il a dû vous rester longtemps l'habitude de marcher comme cela dans les rues de Paris ?</p>
         <p>— Cela m'est arrivé quelquefois, dit naïvement la Vienne. Puis, à force d'entendre rire autour de moi, je m'en suis corrigé. Tout passe en ce monde.</p>
         <p>Cadenet, jugeant que l'histoire avait atteint l'apogée de sa partie comique, se soulagea par quelques minutes d'un rire si entraînant, que toute la table s'y abandonna comme lui.</p>
         <p>Ensuite on se leva. Sylvie venait de réclamer la promesse que son mari lui avait faite de lui montrer en détail sa curieuse maison.</p>
-        <p>-— Pour pouvoir on arriver là, dit le baigneur, j'ai agi de ruse ; j'ai fait conduire au bal, chez mon collègue Pierrat, le baigneur (la faubourg Saint-Germain, tous mes hôtes, c'est-à-dire un Allemand,des marches de randebourg, un seigneur de l'Ost Frise, un magnat de Pologne, deux Espagnols qui ont force dépense et à qui j'ai promis qu'on jouerait gros jeu là-bas. Les autres verront la comédie, et s'ennuieront peut-être, mais ne reviendront pas avant une heure. C'est le temps qu'il nous faut pour visiter la maison en général et leurs appartements en particulier. Certains détails sont curieux. Puis, nous reviendrons boire le vin chaud. Partons !</p>
+        <p>— Pour pouvoir on arriver là, dit le baigneur, j'ai agi de ruse ; j'ai fait conduire au bal, chez mon collègue Pierrat, le baigneur du faubourg Saint-Germain, tous mes hôtes, c'est-à-dire un Allemand, des marches de Brandebourg, un seigneur de l'Ost Frise, un magnat de Pologne, deux Espagnols qui ont force dépense et à qui j'ai promis qu'on jouerait gros jeu là-bas. Les autres verront la comédie, et s'ennuieront peut-être, mais ne reviendront pas avant une heure. C'est le temps qu'il nous faut pour visiter la maison en général et leurs appartements en particulier. Certains détails sont curieux. Puis, nous reviendrons boire le vin chaud. Partons !</p>
         <p>La Vienne ordonna que la table fût laissée telle quelle ; il s'arma d'un flambeau, de son trousseau de clefs, prit le bras de sa femme et passa devant, après avoir galamment demandé à Cadenet s'il ne voulait pas profiter de l'occasion.</p>
         <p>Celui-ci se garda bien de refuser. Sylvie lui paraissait bonne à suivre.</p>
-        <p>Cependant Hugues l'avait tiré à part, -impatient de savoir à quel p :int il devait le remercier de sa discrétion.</p>
+        <milestone unit="section" rend="asterisk" />
+        <p>Cependant Hugues l'avait tiré à part, impatient de savoir à quel point il devait le remercier de sa discrétion.</p>
         <p>— J'espère, lui dit-il, que vous ne nous jugez pas mal. Ce mariage avec M. de Preuil avait été si singulièrement rompu, que de mauvais soupçons pouvaient en résulter pour ma sœur.</p>
         <p>— Pas le moins du monde, s'écria Cadenet avec grâce ; mais, en homme prudent, vous l'avez mariée bien vite ; c'est sage.</p>
-        <p>. — N'est-ce pas, monsieur ? j'avais la Vienne sous la main.</p>
+        <p>— N'est-ce pas, monsieur ? j'avais la Vienne sous la main.</p>
         <p>— Ne pas saisir l'occasion eût été d'un méchant frère.</p>
-        <p>— Je suis joyeux de me voir approuver ainsi ; j'eusse pu avouer à la Vienne ce mariage manqué, mais à quoi bon ? Toule idée de prédécesseur gène un galant homme, et comme après notre départ des Fossés, départ cpai eut lieu à l'heure même de la rupture, nous nous sommes confinés chez moi, près de Vincennes, et que nous n'avons plus revu MM. du Bourdet et de Preuil, oublions-les, en les priant de nous oublier !...</p>
+        <p>— Je suis joyeux de me voir approuver ainsi ; j'eusse pu avouer à la Vienne ce mariage manqué, mais à quoi bon ? Toute idée de prédécesseur gène un galant homme, et comme après notre départ des Fossés, départ qui eut lieu à l'heure même de la rupture, nous nous sommes confinés chez moi, près de Vincennes, et que nous n'avons plus revu MM. du Bourdet et de Preuil, oublions-les, en les priant de nous oublier !...</p>
         <p>— Quoi !... s'écria Cadenet, vous n'avez pas su ?...</p>
         <p>— Rien. Qu'y a-t-il ? demanda Hugues surpris de la soudaine tristesse qui venait d'envahir le visage de Cadenet.</p>
         <p>Mais la Vienne appelait ses convives à l'examen de la première aile. L'entretien se trouva rompu ainsi, et Cadenet, qui avait eu le temps de réfléchir malgré l'expansion naturelle après un si copieux repas, s'applaudit de n'avoir pas poussé plus loin les confidences et d'être encore en possession de son secret.</p>
         <p>— C'est déjà trop de malheur, pensa-t-il, que d'avoir amené Bernard ainsi menacé, ainsi souffrant, dans la maison dont Sylvie devient la maîtresse. Qui m'assurera que ces gens-là ne sont pas pour quelque chose dans la catastrophe de notre ami ?</p>
-        <p>Après qu'on eut visité plus ou moins discrètement les chambres, les galeries et les cabinets aux parfums, dont Sylvie fut émerveillée, car c'était un luxe encore inconnu en province ; après que la Vienne eut montré ce qu'il possédait d'élégant, de riche, et voilé pudiquement certaines peintures ou bas-reliefs un peu vifs pour une pensionnaire modèle des Feuillantines, on arriva par une terrasse à la seconde aile des bâtiments, et le baigneur, au lieu de chercher une de ses clefs pour entrer là comme il venait de le faire partout ailleurs, passa outre, négligeant de visiter avec ses hôtes un pavillon^ d'une rare élégance, soigneusement isolé, fermé, couvert de lierres et de rosiers grimpants, qui communiquait avec la rue par un portique de marbre, et annonçait la demeure de quelqu'un de ces élus à qui toutes les joies terrestres, prodiguées trop libéralement, devront coûter un jour quelques-unes des éternelles félicités.</p>
+        <p>Après qu'on eut visité plus ou moins discrètement les chambres, les galeries et les cabinets aux parfums, dont Sylvie fut émerveillée, car c'était un luxe encore inconnu en province ; après que la Vienne eut montré ce qu'il possédait d'élégant, de riche, et voilé pudiquement certaines peintures ou bas-reliefs un peu vifs pour une pensionnaire modèle des Feuillantines, on arriva par une terrasse à la seconde aile des bâtiments, et le baigneur, au lieu de chercher une de ses clefs pour entrer là comme il venait de le faire partout ailleurs, passa outre, négligeant de visiter avec ses hôtes un pavillon d'une rare élégance, soigneusement isolé, fermé, couvert de lierres et de rosiers grimpants, qui communiquait avec la rue par un portique de marbre, et annonçait la demeure de quelqu'un de ces élus à qui toutes les joies terrestres, prodiguées trop libéralement, devront coûter un jour quelques-unes des éternelles félicités.</p>
         <p>La Vienne, disons-nous, passa ; son flambeau tremblotait au vent ; il se hâta de le mettre à l'abri sous le vestibule de la seconde aile.</p>
         <p>— Monsieur, lui dit Sylvie, que l'omission de ce pavillon avait surprise, pourquoi ne visitons-nous pas ceci ? l'aspect en est séduisant.</p>
         <p>— Oh ! ceci, répliqua la Vienne, nul n'y pénètre ; c'est le logement de madame la marquise de Verneuil. Vous n'ignorez pas que c'est à elle que je dois mon établissement ici. J'étais au service du feu roi, comme vous le savez, lorsque madame la marquise fit de tout ce terrain, qu'elle acheta ou se fit donner par le roi, une maison de baigneur dont elle me confia la direction en s'y réservant le pavillon avec une entrée particulière pour prendre ses bains, ses réfections et y faire ses remèdes quand elle est malade.</p>
@@ -3351,41 +3354,30 @@
         <p>Et tout bas il lui dit :</p>
         <p>— Je vous la ferai voir quand nous serons seuls !</p>
         <p>La troisième aile comprenait les bains, les étuves, les serres, les chambres de ceux qui venaient boire des eaux et consulter les grands médecins de Paris</p>
-        <p>Sylvie ne donna qu'une attention médiocre à ces pratiques d'hygiène, qui n'intéressaient pas sa jeunesse et sa fraîche santé. Les bourgeois de Vincennes n'y comprirent pas grand'chose. Cadenet, la Vienne et Hugues comprenaient seuls parfaitement le mérite de tant d'inventions philanthropiques. La visite fut courte. On retourna boire le vin épicé, chef-d'œuvre dé la Vienne, renommée de sa maison, sans s'occuper de la dernière partie du bâtiment, où logeait Cadenet, qui se garda bien de répondre même aux questions que le capitaine lui adressait à ce sujet.</p>
-        <p>Déjà le vin doux et parfumé écumait dans les coupes d'argent doré ; les gâteaux, les fruits confits, les massepains, les confitures dans leurs bassins de cristal, étalaient aux yeux de Sylvie une recrudescence de merveilles, quand la Vienne, respirant avec délices et lançant à sa femme un amoureux regard, fit la-remarque, que jamais, depuis plus de cinq années, sa maison n'avait été aussi calme le soir ; que ce repas en famille, cette promenade et la collation présente, -i présages fortunés d'une paix et d'un bon,\ heur durables, étaient les premiers moments I de véritable loisir qu'il eût goûtés sans révé ; | rences aux grands, sans querelles avec les ; i petits.</p>
-        <p>| Il parlait encore quand un coup sec et M hautain retentit sur le bronze de la porte ':' d'entrée. La Vienne fronça le sourcil.</p>
-        <p>j — C'est quelqu'un de mes seigneurs qui</p>
-        <p>| se sera ennuyé au bal de Pierrat, dit-il, et l\ qui rentre. Laissons-le se coucher : il a ses ;\ gens. Faisons comme si nous dormions.</p>
-        <p>| — En effet, dit Hugues près de la fenêtre</p>
-        <p>: on ouvre, on salue, oh ! mais respectueuse|</p>
-        <p>respectueuse|</p>
-        <p>"î — Mes gens sont stylés à la politesse, ;| reprit la Vienne.</p>
-        <p>| Un laquais accourut près du baigneur, et</p>
-        <p>! d'un air tout consterné :</p>
-        <p>i — Madame la maréchale ! s'écria-t-il.</p>
-        <p>| —Quelle maréchale ?</p>
-        <p>j — La marquise d'Ancre avec M. le comte</p>
-        <p>I delà Pêne, son fils, son secrétaire et deux</p>
-        <p>! femmes.</p>
+        <p>Sylvie ne donna qu'une attention médiocre à ces pratiques d'hygiène, qui n'intéressaient pas sa jeunesse et sa fraîche santé. Les bourgeois de Vincennes n'y comprirent pas grand'chose. Cadenet, la Vienne et Hugues comprenaient seuls parfaitement le mérite de tant d'inventions philanthropiques. La visite fut courte. On retourna boire le vin épicé, chef-d'œuvre de la Vienne, renommée de sa maison, sans s'occuper de la dernière partie du bâtiment, où logeait Cadenet, qui se garda bien de répondre même aux questions que le capitaine lui adressait à ce sujet.</p>
+        <p>Déjà le vin doux et parfumé écumait dans les coupes d'argent doré ; les gâteaux, les fruits confits, les massepains, les confitures dans leurs bassins de cristal, étalaient aux yeux de Sylvie une recrudescence de merveilles, quand la Vienne, respirant avec délices et lançant à sa femme un amoureux regard, fit la remarque, que jamais, depuis plus de cinq années, sa maison n'avait été aussi calme le soir ; que ce repas en famille, cette promenade et la collation présente, présages fortunés d'une paix et d'un bonheur durables, étaient les premiers moments de véritable loisir qu'il eût goûtés sans révérences aux grands, sans querelles avec les petits.</p>
+        <p>Il parlait encore quand un coup sec et hautain retentit sur le bronze de la porte d'entrée. La Vienne fronça le sourcil.</p>
+        <p>— C'est quelqu'un de mes seigneurs qui se sera ennuyé au bal de Pierrat, dit-il, et qui rentre. Laissons-le se coucher : il a ses gens. Faisons comme si nous dormions.</p>
+        <p>— En effet, dit Hugues près de la fenêtre : on ouvre, on salue, oh ! mais respectueusement.</p>
+        <p>— Mes gens sont stylés à la politesse, reprit la Vienne.</p>
+        <p>Un laquais accourut près du baigneur, et d'un air tout consterné :</p>
+        <p>— Madame la maréchale ! s'écria-t-il.</p>
+        <p>— Quelle maréchale ?</p>
+        <p>— La marquise d'Ancre avec M. le comte de là Pêne, son fils, son secrétaire et deux femmes.</p>
         <p>La Vienne bondit.</p>
-        <p>i — La maréchale ! à pareille heure ! s'éi s'éi Et où est-elle ? On la fait attendre i dehors... Ah ! coquins !...</p>
-        <p>I II"s'enfuit, laissant ses hôtes stupéfaits.</p>
-        <p>j C'était, en effet, Leonora qui avait choisi I pour auberge la maison de la Vienne, et ar,.j ar,.j déjà le jardin à la clarté d'une lune</p>
-        <p>:;; glaciale qui argentait les pelouses et estom|</p>
-        <p>estom| dans un pâle lointain les tours massives ii de la Bastille, lourds géants toujours en sen sen tinelle sur ce quartier.</p>
-        <p>— Quoi ! madame, dit la Vienne en la i rattrapant avec peine dans le jardin où ses</p>
-        <p>:'| petits pieds faisaient craquer les feuilles t|. mortes, vous me faites l'honneur de venir</p>
-        <p>ici, et vous restez dehors !</p>
-        <p>i —- Trouve-moi un logement, la Vienne</p>
-        <p>:| dit Leonora ; n'importe lequel.</p>
-        <p>;! — Madame... répliqua-t-il saisi de stu ;!</p>
-        <p>stu ;!</p>
+        <p>— La maréchale ! à pareille heure ! Et où est-elle ? On la fait attendre dehors... Ah ! coquins !...</p>
+        <p>I s'enfuit, laissant ses hôtes stupéfaits.</p>
+        <milestone unit="section" rend="asterisk" />
+        <p>C'était, en effet, Leonora qui avait choisi pour auberge la maison de la Vienne, et arpentait déjà le jardin à la clarté d'une lune glaciale qui argentait les pelouses et estompait dans un pâle lointain les tours massives de la Bastille, lourds géants toujours en sentinelle sur ce quartier.</p>
+        <p>— Quoi ! madame, dit la Vienne en la rattrapant avec peine dans le jardin où ses petits pieds faisaient craquer les feuilles mortes, vous me faites l'honneur de venir ici, et vous restez dehors !</p>
+        <p>— Trouve-moi un logement, la Vienne, dit Leonora ; n'importe lequel.</p>
+        <p>— Madame... répliqua-t-il saisi de stupeur !</p>
         <p>— Chambre de laquais, galetas, taudis, écurie, ce que tu voudras.</p>
-        <p>— Est-elle folle ?se demanda le baigneur, qui crut avoir mal entendu, et il la regarda fixement avec ses gros yeux perçants.</p>
+        <p>— Est-elle folle ? se demanda le baigneur, qui crut avoir mal entendu, et il la regarda fixement avec ses gros yeux perçants.</p>
         <p>— Je sais bien que je t'étonne ; tu me croyais riche, heureuse ; détrompe-toi, je suis mendiante ! je suis chassée ! loge-moi par charité, en souvenir des quelques écus que j'ai pu te faire gagner.</p>
         <p>— Chassée, peut-être, mais mendiante, je ne crois pas, pensa la Vienne. Mendiante ! répéta-t-il tout haut.</p>
         <p>— N'ai-je point perdu maison, meubles, pierreries, joyaux ?</p>
-        <p>— Vos pierreries ! dit la. Vienne en se récriant, vous les avez perdues ?</p>
+        <p>— Vos pierreries ! dit la Vienne en se récriant, vous les avez perdues ?</p>
         <p>— Ne le sais-tu pas, toi qui assistais au pillage de ma maison ? Crois-tu donc que les scélérats m'aient volé un million de pierreries pour me les rendre ?</p>
         <p>— Ah ! la pauvre femme, pensa la Vienne, à quoi sert-il que je lui aie sauvé ses joyaux dans mes casseroles ; à quoi sert-il que je les aie rendus si scrupuleusement au maréchal ? le bélître les a gardés pour lui. Voilà donc pourquoi il me demandait le secret, voulant faire, disait-il, une surprise à sa femme. Quelle surprise !... Ah ! birbone !</p>
         <p>Leonora posa un doigt sur le bras du baigneur, que ces réflexions avaient rendu immobile et muet.</p>
@@ -3396,64 +3388,63 @@
         <p>— On mettra dehors tous les magnats du monde, s'écria la Vienne avec emphase, s'ils se refusent à comprendre les égards dus à une personne de la qualité de madame. À une femme ! ajouta-t-il d'un ton de chevalier.</p>
         <p>La Vienne était gentilhomme. Nous le savons maintenant.</p>
         <p>Et il reprit tout bas, en pinçant le bras de son garçon :</p>
-        <p>Donne à la maréchale l'appartement à côté, qui est vide. ; ; :.</p>
-        <p>La, Vienne était baigneur en même temps que gentilhomme. .</p>
-        <p>— Merci, bon la Vienne, dit Leonora touchée ; si je ne peux te récompenser, Dieu le fera. - - : '</p>
-        <p>— Votre caution me suffit, répliqua-t-il en riant avec cette brusquerie câline qui rendait lés princes ses tributaires ; je vais cependant vous préparer un honnête méclianoche. -..,'</p>
-        <p>Tandis que Leonora s'installait dans l'appartement avec ses ; femmes et son fils, le baigneur revint trouver ses convives ; mais plus-de-,gaieté, plus de loisir. Le visage refroidi,cle l'amphitryon glaça les jeux, effaroucha les grâces. La Vienne fit rallumer les feux de la cuisine et invoqua l'inspiration, les bourgeois de Vincennes s'allèrent coucher,. Hugues s'installa ;durablement, dans la maison pour prendre de bonnes habitudes, et Cadenet remonta chez lui-, non sans avoir échangé avec Sylvie un regard-qui, d'une part,.signifiait :. « J'ai .mille choses à vous dire-. ».Èt de l'autre : « :e vous en répondrai quinze cents. »</p>
+        <p>Donne à la maréchale l'appartement à côté, qui est vide.</p>
+        <p>La Vienne était baigneur en même temps que gentilhomme.</p>
+        <p>— Merci, bon la Vienne, dit Leonora touchée ; si je ne peux te récompenser, Dieu le fera. </p>
+        <p>— Votre caution me suffit, répliqua-t-il en riant avec cette brusquerie câline qui rendait les princes ses tributaires ; je vais cependant vous préparer un honnête médianoche. </p>
+        <p>Tandis que Leonora s'installait dans l'appartement avec ses femmes et son fils, le baigneur revint trouver ses convives ; mais plus de gaieté, plus de loisir. Le visage refroidi de l'amphitryon glaça les jeux, effaroucha les grâces. La Vienne fit rallumer les feux de la cuisine et invoqua l'inspiration, les bourgeois de Vincennes s'allèrent coucher. Hugues s'installa durablement dans la maison pour prendre de bonnes habitudes, et Cadenet remonta chez lui, non sans avoir échangé avec Sylvie un regard qui, d'une part, signifiait : « J'ai mille choses à vous dire. » Et de l'autre : « Je vous en répondrai quinze cents. »</p>
       </div>
       <div type="chapter">
 
         <head>XXVII</head>
 
         <head>SALMIS À LA MARÉCHALE.</head>
-        <p>Leonora ne dormit pas. Ce n'était pas pour dormir qu'elle était venue, en cette maison. À peine arrivée, à peine mise au lit, elle commença. de faire ses projets.</p>
+        <p>Leonora ne dormit pas. Ce n'était pas pour dormir qu'elle était venue, en cette maison. À peine arrivée, à peine mise au lit, elle commença de faire ses projets.</p>
         <p>Nul ne savait encore son départ du Louvre, sans quoi on l'eût déjà fait chercher.</p>
         <p>La consolation de cette affligée, c'étaient le bruit qu'allait faire à la cour sa disparition et le trouble qui en résulterait.</p>
-        <p>Corbinelli rôdait, les femmes songeaient à leur consigne. Le jeune comte de la Pêne avait soupe d'un gâteau ; il dormait, lui qui ne connaissait encore ni ambition ni remords. ..'.'.' . Leonora ne put tenir au lit plus d'une heure.. Elle se releva d'un bond, s'habilla seule, et ses femmes n'arrivèrent près d'elle que pour lui ouvrir la porte donnant sur les jardins. , ::;'":.:</p>
-        <p>Une clarté bleuâtre glissait .entré les branches et en découpait suivie gazon les treillis lumineux et sombres".; La fontaine pleurait ses larmes accoutumées dans : la vasque trop pleine qui les rendait en vapeurs à là terre. L'âpre vent qui emportait au loin cette fraîche écume enlevait aussi dans l'azur, ça et là constellé, les flocons grisâtres des nues ; mais il fut sans pouvoir pour dissiper les nuées plus lourdes qui montaient sans relâche du cœur oppressé au cerveau'de Leonora.</p>
-        <p>Vêtue d'une épaisse robe de velours fourre, noire, sans ornements ni recherche dé mode, tête nue, brune et sinistre sous, cette pâleur cuivrée que rehaussent seuls ses grands yeux lumineux et fixes, cette frêle toute-puissanle tourne lentement, silencieusement, ses petites mains jointes, autour de la fontaine, cherchant sur terre, cherchant au ciel, interrogeant ses souvenirs.</p>
-        <p>En face d'elle était le mur qui séparait ce jardin de l'hôtel Zamet où, seize ans avant, la Florentine avait vécu, libre encore, obscure encore, mais riche de son génie el d'un cœur que la fortune n'avait pas glacé.</p>
+        <p>Corbinelli rôdait, les femmes songeaient à leur consigne. Le jeune comte de la Pêne avait soupe d'un gâteau ; il dormait, lui qui ne connaissait encore ni ambition ni remords.</p>
+        <p>Leonora ne put tenir au lit plus d'une heure. Elle se releva d'un bond, s'habilla seule, et ses femmes n'arrivèrent près d'elle que pour lui ouvrir la porte donnant sur les jardins. </p>
+        <p>Une clarté bleuâtre glissait entré les branches et en découpait suivie gazon les treillis lumineux et sombres. La fontaine pleurait ses larmes accoutumées dans la vasque trop pleine qui les rendait en vapeurs à la terre. L'âpre vent qui emportait au loin cette fraîche écume enlevait aussi dans l'azur, ça et là constellé, les flocons grisâtres des nues ; mais il fut sans pouvoir pour dissiper les nuées plus lourdes qui montaient sans relâche du cœur oppressé au cerveau de Leonora.</p>
+        <p>Vêtue d'une épaisse robe de velours fourre, noire, sans ornements ni recherche de mode, tête nue, brune et sinistre sous cette pâleur cuivrée que rehaussent seuls ses grands yeux lumineux et fixes, cette frêle toute-puissante tourne lentement, silencieusement, ses petites mains jointes, autour de la fontaine, cherchant sur terre, cherchant au ciel, interrogeant ses souvenirs.</p>
+        <p>En face d'elle était le mur qui séparait ce jardin de l'hôtel Zamet où, seize ans avant, la Florentine avait vécu, libre encore, obscure encore, mais riche de son génie et d'un cœur que la fortune n'avait pas glacé.</p>
         <p>Que de pensées revinrent à sa mémoire ! les pensées de la jeunesse, de la vigueur, de l'amour ! Comme son œil dilaté fouilla dans ces demi-ténèbres ! comme il se voila de regrets, de mélancolie, parfois d'une vague terreur, croyant y rencontrer les fantômes du passé souriant et triste.</p>
         <p>Ses deux suivantes, adossées à la porte de l'appartement, sur un perron, la surveillaient, épiant sa voix et son geste.</p>
         <p>Elle, heureuse de ce calme inusité, ne soupçonnait pas même qu'il pût y avoir en cette maison un bruit, un hôte.</p>
         <p>Cette tranquillité ne devait pas être de longue durée.</p>
         <p>Un grand fracas de chevaux et de voix se fait entendre dans la cour. Leonora voit accourir
-          <gap unit="figure" extent="1" /> <!-- — Des diamants ! des perles ! s'écria-t-elle. --> courir une de ses femmes avec Corbinelli. Elle se jette sous l'ombre opaque d'un groupe de marronniers et de sycomores dont les ramures aux trois quarts dépouillées obscurcissent cependant un espace immense.</p>
-        <p>—- Madame, dit l'Italien, c'est M. le maréchal qui a suivi vos traces et qui arrive vous chercher ; il est accompagné de deux personnes dont l'une est, je crois, M. de SieleIglesias... notre sauveur.</p>
+          <gap unit="figure" extent="1" /> <!-- — Des diamants ! des perles ! s'écria-t-elle. --> une de ses femmes avec Corbinelli. Elle se jette sous l'ombre opaque d'un groupe de marronniers et de sycomores dont les ramures aux trois quarts dépouillées obscurcissent cependant un espace immense.</p>
+        <p>— Madame, dit l'Italien, c'est M. le maréchal qui a suivi vos traces et qui arrive vous chercher ; il est accompagné de deux personnes dont l'une est, je crois, M. de Siete-Iglesias... notre sauveur.</p>
         <p>— Vous savez ce que j'ai dit, répondit Leonora, je ne veux voir âme qui vive. Allez !</p>
         <p>— Madame... M. le maréchal insistera...</p>
-        <p>— Ame qui vive ! répète la Florentine cle son accent énergique. D'ailleurs, je rentre, et si tu es assez lâche pour laisser passer, je me barricade chez moi.</p>
+        <p>— Âme qui vive ! répète la Florentine de son accent énergique. D'ailleurs, je rentre, et si tu es assez lâche pour laisser passer, je me barricade chez moi.</p>
         <p>Semblable aux chiens qui lisent dans le regard du maître sa véritable pensée, et ne cherchent pas à l'éluder quand ils l'ont comprise, Corbinelli retourne vers la première cour.</p>
         <p>Leonora, d'un pas rapide, se glisse dans l'appartement, appelle ses deux femmes, s'enferme, et le silence et l'obscurité engloutissent de nouveau toute cette partie de la maison.</p>
-        <p>Le maréchal causait cependant avec l'un de ses compagnons : le troisième personnage était un de ces serviteurs <foreign>di mila franchi</foreign>, comme Concini en avait mille à ses gages pour faire les commissions, bonnes ou mauvaises, — les bonnes très-rares. Ce seigneur à mille francs observait entre lui et les deux maîtres une distance plus que respectueuse.</p>
+        <p>Le maréchal causait cependant avec l'un de ses compagnons : le troisième personnage était un de ces serviteurs <foreign rend="italics" xml:lang="ita">di mila franchi</foreign>, comme Concini en avait mille à ses gages pour faire les commissions, bonnes ou mauvaises, — les bonnes très-rares. Ce seigneur à mille francs observait entre lui et les deux maîtres une distance plus que respectueuse.</p>
         <p>La Vienne, veillant à sa cuisine, feignait de ne rien, voir, de ne rien entendre. Il se faisait bien petit sous l'orage que ces allées et venues promettaient à sa maison.</p>
         <p>Corbinelli revint.</p>
         <p>— Voyons, maintenant qu'elle est prévenue, dit ; Concini d'un ton décidé, mène-moi chez elle. C'est toi, drôle, qui la conseilles dans ses coups de tête !</p>
-        <p>: — Moi !... oh ! monseigneur, répondit Corbinelli. Est-ce que jamais on conseille madame ? :</p>
-        <p>— C'est vrai, pensa le maréchal. Allons, mène-moi, dit-il plus haut. Monsieur le comte</p>
-        <p>.voudra bien attendre un moment que le premier feu soit essuyé. Il sera rude, n'est-ce pas, seîïor ? >.'</p>
-        <p>— Oh ! j'attendrai ! dit une. voix que nos lecteurs ont -déjà plus d'une fois entendue, soit dans les grands conseils des reines, soit dans l'ombre des sinistres exécutions ; voix lugubre et de mauvais augure, même quand elle caresse.</p>
+        <p>— Moi !... oh ! monseigneur, répondit Corbinelli. Est-ce que jamais on conseille madame ? </p>
+        <p>— C'est vrai, pensa le maréchal. Allons, mène-moi, dit-il plus haut. Monsieur le comte voudra bien attendre un moment que le premier feu soit essuyé. Il sera rude, n'est-ce pas, <foreign rend="recte" xml:lang="esp">señor</foreign> ? </p>
+        <p>— Oh ! j'attendrai ! dit une voix que nos lecteurs ont déjà plus d'une fois entendue, soit dans les grands conseils des reines, soit dans l'ombre des sinistres exécutions ; voix lugubre et de mauvais augure, même quand elle caresse.</p>
         <p>Mais Corbinelli se courbant comme un cerceau :</p>
-        <p>—Maître, dit-il au maréchal, madame ne vous recevra pas, daignez ne pas vous cléranger.</p>
-        <p>— Plaît-il ! s'écria Concini se relevant irrité, veux-lu que je te fasse crucifier, drôle !</p>
-        <p>— Ce serait faire du. tort à un innocent, monseigneur ; madame, dit-elle, se barricadera si vous insistez ; écoutez comme on ferme déjà tout chez elle.</p>
+        <p>— Maître, dit-il au maréchal, madame ne vous recevra pas, daignez ne pas vous déranger.</p>
+        <p>— Plaît-il ! s'écria Concini se relevant irrité, veux-tu que je te fasse crucifier, drôle !</p>
+        <p>— Ce serait faire du tort à un innocent, monseigneur ; madame, dit-elle, se barricadera si vous insistez ; écoutez comme on ferme déjà tout chez elle.</p>
         <p>— Comte, murmura Concini, elle est terrible. Nous insisterions en pure perte. Et elle ne s'en tiendra pas là.</p>
         <p>— C'est une personne de grande volonté, répondit l'Espagnol poliment.</p>
         <p>Concini soupira.</p>
         <p>— Volonté d'airain.</p>
-        <p>. —Qui dure ? demanda l'Espagnol.</p>
-        <p>— Quand elle hait, c'est pour longtemps</p>
-        <p>sefior. Elle m'a en grippe, présentement. Les mauvais tours vont commencer.</p>
-        <p>— Mais cette relraile ici a un but quelconque, dit Siete-Iglesias.</p>
-        <p>— Tout ce qu'elle fait a un but, seiior. Elle est capable, sans crier gare, de partir pour Florence et de nous décrier par ce scandale. C'est ce que nous redoutons, la reine et moi.</p>
+        <p>— Qui dure ? demanda l'Espagnol.</p>
+        <p>— Quand elle hait, c'est pour longtemps <foreign rend="recte" xml:lang="esp">señor</foreign>. Elle m'a en grippe, présentement. Les mauvais tours vont commencer.</p>
+        <p>— Mais cette retraite ici a un but quelconque, dit Siete-Iglesias.</p>
+        <p>— Tout ce qu'elle fait a un but, <foreign rend="recte" xml:lang="esp">señor</foreign>. Elle est capable, sans crier gare, de partir pour Florence et de nous décrier par ce scandale. C'est ce que nous redoutons, la reine et moi.</p>
         <p>— Que n'avez-vous interrogé la Vienne ? il doit savoir quelque chose, lui.</p>
-        <p>— Appelez la Vienne, dil le maréchal au seigneur de mille francs.</p>
-        <p>Concini prit le comte par le bras et l'emmena du côté des bàtimenls, tandis que Corbinelli s'esquivait pour aller retrouver la maréchale.</p>
-        <p>— Voyez-vous, continua Concini en serrant le bras de son ami, quelque chose de fâcheux vibre dans l'air autour de moi, sur ma tête. Ne le sentez-vous pas vous-même ? Êtes-vous tranquille ? les atomes qui circulent autour de vous ne vous heuiient-ils pas, ne vous égratignent-ils pas l'épidémie comme des millions d'imperceptibles épines ?</p>
+        <p>— Appelez la Vienne, dit le maréchal au seigneur de mille francs.</p>
+        <p>Concini prit le comte par le bras et l'emmena du côté des bâtiments, tandis que Corbinelli s'esquivait pour aller retrouver la maréchale.</p>
+        <p>— Voyez-vous, continua Concini en serrant le bras de son ami, quelque chose de fâcheux vibre dans l'air autour de moi, sur ma tête. Ne le sentez-vous pas vous-même ? Êtes-vous tranquille ? les atomes qui circulent autour de vous ne vous heurtent-ils pas, ne vous égratignent-ils pas l'épidémie comme des millions d'imperceptibles épines ?</p>
         <p>— Mais non, répliqua l'Espagnol, qui voulait faire causer son interlocuteur.</p>
         <p>— Tenez, reprit Concini le cœur gonflé, nous sommes dans une mauvaise veine. Et elle le sent bien, elle, elle dont la sensibilité est exquise au point de deviner le bien ou le mal dans l'intention seule de la destinée. Nous grossiers, nous sensuels, nous sommes émoussés, voyez-vous. Que d'avertissements, pourtant ! La mort de ma fille ; les émeutes en Picardie, dans mon gouvernement ; le pillage de ma maison ; l'évasion de M. de Vendôme. Comte... je m'obstine, et j'ai tort.</p>
-        <p>— Bah !... pourquoi, répliqua l'Espagnol. Votre char de fortune ne roule pas, il vole. Pouvez-vous exiger que la route soit tapissée de velours ? Qu'est-ce qu'un caillou, qu'une ornière çà et là? Vos roues broient l'un, insultent l'autre. La mort de votre f'.lie est un malheur, mais sans signification, car il vous reste un fils, véritable héritier du nom et des biens. Avouez-le.</p>
+        <p>— Bah !... pourquoi, répliqua l'Espagnol. Votre char de fortune ne roule pas, il vole. Pouvez-vous exiger que la route soit tapissée de velours ? Qu'est-ce qu'un caillou, qu'une ornière çà et là? Vos roues broient l'un, insultent l'autre. La mort de votre fille est un malheur, mais sans signification, car il vous reste un fils, véritable héritier du nom et des biens. Avouez-le.</p>
         <p>— C'est vrai.</p>
         <p>— La maison pillée ! Qu'importe ? Il vous reste vingt millions, peut-être, et je me tromperais fort si cette perle ne doit pas vous rapporter un bénéfice du double. La reine est là.</p>
         <p>— C'est ce qu'elle me disait tout à l'heure, répondit négligemment le maréchal.</p>
@@ -3469,42 +3460,41 @@
         <p>— Ma véritable fatigue, c'est Leonora, cette femme-là devient folle, voyez-vous. Comment régler quelque chose sur les extravagances d'une folle ? Tant d'inquiétudes me tueront !</p>
         <p>— Vous ! dit l'Espagnol, vous lui survivrez trente ans. Elle a vieilli beaucoup, madame la maréchale, et vous êtes tout jeune.</p>
         <p>— Je me sens vert encore, c'est, hélas ! vrai.</p>
-        <p>— Mon cher monsieur, laissez tomber les vieilles branches ; poussez vos rameaux verts : où monteront-ils ? qui sait ce que Dieu leur réserve ! Si j'étais dans votre veine je la pousserais jusqu'au bout. Ah !, réfléchissez donc que de l'endroit où vous êtes en ce moment il n'y a qu'un pas à faire, un bras à étendre pour atteindre le but de toute ambition humaine.</p>
-        <p>Siete-Iglesias laissa pénétrer lentement | dans la plaie le venin de ses paroles ; puis il ajouta :</p>
-        <p>! — Tout homme manque plus ou moins de</p>
-        <p>! fois sa vie. Les forts ne sont pas ceux qui ne tombent jamais, mais ceux qui rebondissent plus haut chaque fois qu'ils tombent. Moi aussi, j'ai fait des fautes ! moi aussi j'ai mon caillou sous'la roue. Ah ! pourquoi suis-je I marié ! et vous, donc !</p>
-        <p>; Concini, frappé dans le vif, regarda son</p>
-        <p>| interlocuteur avec une défiante rapidité.</p>
-        <p>L'Espagnol évita ce premier choc du'regard.</p>
+        <p>— Mon cher monsieur, laissez tomber les vieilles branches ; poussez vos rameaux verts : où monteront-ils ? qui sait ce que Dieu leur réserve ! Si j'étais dans votre veine je la pousserais jusqu'au bout. Ah ! réfléchissez donc que de l'endroit où vous êtes en ce moment il n'y a qu'un pas à faire, un bras à étendre pour atteindre le but de toute ambition humaine.</p>
+        <p>Siete-Iglesias laissa pénétrer lentement dans la plaie le venin de ses paroles ; puis il ajouta :</p>
+        <p>— Tout homme manque plus ou moins de fois sa vie. Les forts ne sont pas ceux qui ne tombent jamais, mais ceux qui rebondissent plus haut chaque fois qu'ils tombent. Moi aussi, j'ai fait des fautes ! moi aussi j'ai mon caillou sous la roue. Ah ! pourquoi suis-je marié ! et vous, donc !</p>
+        <p>Concini, frappé dans le vif, regarda son interlocuteur avec une défiante rapidité.</p>
+        <p>L'Espagnol évita ce premier choc du regard.</p>
         <p>— Voici la Vienne, dit-il ; questionnez-le sur les idées de madame la maréchale.</p>
-        <p>Et il se retira discrètement à l'écart. Concini était si troublé par cette brusque attaque</p>
-        <p>! de l'Espagnol qu'il avait perdu toute contej contej — Que signifie l'arrivée de la maréchale I ici ? dit-il à la Vienne sans trop savoir ce qu'il disait.</p>
+        <p>Et il se retira discrètement à l'écart. Concini était si troublé par cette brusque attaque de l'Espagnol qu'il avait perdu toute contenance.</p>
+        <p>— Que signifie l'arrivée de la maréchale ici ? dit-il à la Vienne sans trop savoir ce qu'il disait.</p>
         <p>— Désespoir, monseigneur, caprice, mutinerie de l'enfant à qui l'on a confisqué son jouet, et qui bouclera jusqu'à ce qu'on le lui rende.</p>
         <p>— Que veux-tu dire ?</p>
-        <p>— Que si vous aviez prolongé moins longtemps'-la plaisanterie que vous lui faites depuis un mois, les choses ne se seraient pas : envenimées ainsi. — Quelle plaisanterie fais-je donc depuis un mois, maître la Vienne ?</p>
+        <p>— Que si vous aviez prolongé moins longtemps la plaisanterie que vous lui faites depuis un mois, les choses ne se seraient pas envenimées ainsi.</p>
+        <p>— Quelle plaisanterie fais-je donc depuis un mois, maître la Vienne ?</p>
         <p>— Celle des écrins que vous avez gardés... et qu'elle croit perdus à jamais.</p>
         <p>Le maréchal rougit.</p>
         <p>— Tu pourrais avoir raison, dit-il, je n'avais pas songé à cela. T'en a-t-elle parlé ?</p>
         <p>— Amèrement.</p>
         <p>— Oh ! il y a de la ressource alors ! murmura Concini. Je lui en rendrai une bonne partie.</p>
-        <p>— Croyez-moi, dil la Vienne, rendez-lui tout, et ajoutez-y plutôt quelque chose. Sinon...</p>
+        <p>— Croyez-moi, dit la Vienne, rendez-lui tout, et ajoutez-y plutôt quelque chose. Sinon...</p>
         <p>— Sinon ?</p>
         <p>— La tête florentine est bien montée ! Monseigneur, je ne vous dis que cela.</p>
         <p>— La Vienne, tu es homme de bon conseil, dit Concini ; mais comment lui rendre ces pierreries après un si long temps sans qu'elle soupçonne ?...</p>
         <p>— La plaisanterie que vous aviez voulu faire ? Oh ! ne vous inquiétez pas ; je m'en charge. Envoyez-moi le tout ici, seigneur maréchal... et dans une heure, demandez à souper à madame la maréchale, je réponds du reste.</p>
-        <p>— Je crois que le drôle a raison, dit SieleIglesias, que le maréchal était venu retrouver dans son ombre.</p>
+        <p>— Je crois que le drôle a raison, dit Siete-Iglesias, que le maréchal était venu retrouver dans son ombre.</p>
         <p>— Vous avez entendu ?</p>
         <p>— Sans le vouloir. Vous parliez si haut ! Envoyez chercher ces colifichets le plus tôt possible. La femme la plus désespérée a des retours inouïs à propos d'une mouche qui vole. Que sera-ce quand la mouche vaut un million !</p>
         <p>— Pier-Andrea ! appela le maréchal, qui ensuite donna un ordre à voix basse au seigneur de mille francs et accompagna cet ordre d'une clef de sa cassette, soyez revenu dans une demi-heure avec ce que je vous demande.</p>
         <p>Le messager enfourcha son cheval et partit au galop. Les deux seigneurs continuèrent leur promenade dans le jardin. Ils s'y perdirent longtemps sous les noires allées, échangeant leurs paroles ou plutôt leurs souffles sinistres qu'emportaient les rafales du vent.</p>
-        <p>.Trois quarts d'heure s'étaient écoulés ainsi quand un pas précipité retentit derrière eux, une voix les appelait, celle de la Vienne, qui les aborda familièrement.</p>
+        <p>Trois quarts d'heure s'étaient écoulés ainsi quand un pas précipité retentit derrière eux, une voix les appelait, celle de la Vienne, qui les aborda familièrement.</p>
         <p>— Venez, dit-il d'un ton sérieux. Votre messager est revenu. L'affaire est en train de s'arranger.</p>
         <p>— Où cela, donc ?</p>
         <p>— Sur mon fourneau, en ce moment, dit le baigneur en se frottant les mains.</p>
         <p>— Je voudrais bien comprendre, dit l'Espagnol, qui n'acceptait jamais ces familiarités qu'avec une insolente froideur.</p>
         <p>— Suivez-moi, messeigneurs, et je vais vous placer dans un endroit d'où vous aurez le spectacle.</p>
-        <p>Ils obéirent. La Vienne les fit entrer dans un vestibule, ouvrit une porte sur une vaste antichambre, et leur incliqua une autre chambre en face d'eux, fermée d'épaisses portières de magnifique brocart de Perse à feuillages d'argent.</p>
-        <p>— Mettez chacun, dit-il, un œil au pli de cette porlière, regardez, et agissez suivant la circonstance.</p>
+        <p>Ils obéirent. La Vienne les fit entrer dans un vestibule, ouvrit une porte sur une vaste antichambre, et leur indiqua une autre chambre en face d'eux, fermée d'épaisses portières de magnifique brocart de Perse à feuillages d'argent.</p>
+        <p>— Mettez chacun, dit-il, un œil au pli de cette portière, regardez, et agissez suivant la circonstance.</p>
         <p>Le maréchal regarda le premier. On découvrait de cet observatoire la salle voisine, où le plus élégant couvert était dressé sur une table chargée de pyramides de fruits et de fleurs. Un seul siège attendait devant cette table.</p>
         <p>— Qu'est-ce que nous allons voir là? dit le comte à la Vienne.</p>
         <p>— Le médianoche de madame la maréchale, répliqua malicieusement celui-ci.</p>
@@ -3520,22 +3510,22 @@
         <p>La Vienne entra dans la salle à manger.</p>
         <p>— Sois le bienvenu, dit la maréchale ; je te bénis depuis mon arrivée ; tu m'as reportée à mon printemps. Mais pourquoi toutes ces magnificences, mon pauvre, la Vienne ? Je n'ai pas faim.</p>
         <p>— Bon ! madame ; on dit toujours cela quand on se met à table, et ce n'est jamais vrai que lorsqu'on en sort.</p>
-        <p>-^ Oh ! je te défie de me faire toucher à un seul plat.</p>
+        <p>— Oh ! je te défie de me faire toucher à un seul plat.</p>
         <p>— Je gage le contraire, dit-il. J'ai inventé pour vous, ce soir même, un mets nouveau, dont vous tâterez, ou le diable m'emporte.</p>
         <p>— Impossible ; l'estomac est serré comme le cœur.</p>
         <p>— Vous ne me ferez pas cet affront, madame, à moi qui, pour vous servir, ai quitté mon propre repas de noces.</p>
-        <p>— Que dis-tu là? tu te maries ?</p>
+        <p>— Que dis-tu là ? tu te maries ?</p>
         <p>— Je suis marié ; et si vous ne mangez pas, fût-ce une bouchée, je ne vous présenterai pas ma femme.</p>
-        <p>— Bon la Vienne ! je t'aime !' va ; une cuillerée de bouillon, rien que cela.</p>
+        <p>— Bon la Vienne ! je t'aime ! va ; une cuillerée de bouillon, rien que cela.</p>
         <p>— Allongez la main.</p>
-        <p>H indiquait un réchaud de vermeil, sur le- quel semblait fumer quelque chose d'exquis dans un plat d'or.</p>
-        <p>—-Mais ce n'est pas un bouillon qui est enfermé dans cette sorte de croûte appétissante.</p>
+        <p>Il indiquait un réchaud de vermeil, sur lequel semblait fumer quelque chose d'exquis dans un plat d'or.</p>
+        <p>— Mais ce n'est pas un bouillon qui est enfermé dans cette sorte de croûte appétissante.</p>
         <p>— Le bouillon y est, madame, levez le couvercle.</p>
         <p>— Comment appelles-tu ce mets nouveau ?</p>
         <p>— Salmis à la maréchale.</p>
-        <p>La Vienne présenta une cuillère à Leonora,. et leva lui-même le couvercle du réchaud.</p>
-        <p>Distraite, indifférente comme l'est un appétit de grande dame qui boude, Leonora plon'gea la cuillère sans regarder.</p>
-        <p>Mais, surprise de la résistance, et surtout du son bizarre que rendit le métal en heurtant le contenu de ce plat merveilleux, la maréchale plongea sa cuillère plus ayant el la releva lourde et éblouissante de mille feux, irisés de nacre, de pourpre et d'azur par le chatoiement des lumières et le reflet des miroirs enflammés.</p>
+        <p>La Vienne présenta une cuillère à Leonora et leva lui-même le couvercle du réchaud.</p>
+        <p>Distraite, indifférente comme l'est un appétit de grande dame qui boude, Leonora plongea la cuillère sans regarder.</p>
+        <p>Mais, surprise de la résistance, et surtout du son bizarre que rendit le métal en heurtant le contenu de ce plat merveilleux, la maréchale plongea sa cuillère plus avant et la releva lourde et éblouissante de mille feux, irisés de nacre, de pourpre et d'azur par le chatoiement des lumières et le reflet des miroirs enflammés.</p>
         <p>— Des diamants ! des perles ! s'écria-telle.</p>
         <p>La Vienne souleva le plat et le répandit comme une ruisselante cascade sur les genoux et les mains de Leonora, qui, dans un transport de joie, palpait des doigts et dévorait des yeux ce monceau de richesses.</p>
         <p>— Mes joyaux ! mes pierreries ! dit-elle avec ravissement, les mêmes, les véritables !</p>
@@ -3543,30 +3533,32 @@
         <p>— À qui dois-je ce bonheur inespéré ?</p>
         <p>— À monsieur le maréchal, qui vous ménage depuis longtemps cette surprise.</p>
         <p>Leonora plissa son front.</p>
-        <p>— Oh ! tu exagères ! dit-elle. Pouvait-il prévoir que je viendrais ici, le savais-tu toimême ?</p>
-        <p>— Non, madame, mais je sais que j'avais ordre de vous porter ce salmis à la maréchale au'Louvre, pour votre souper, ce soir, lorsque le hasard vous a amenée chez moi. N'avez-vous pas remarqué ma surprise quand je vous ai vue ?</p>
+        <p>— Oh ! tu exagères ! dit-elle. Pouvait-il prévoir que je viendrais ici, le savais-tu toi-même ?</p>
+        <p>— Non, madame, mais je sais que j'avais ordre de vous porter ce salmis à la maréchale au Louvre, pour votre souper, ce soir, lorsque le hasard vous a amenée chez moi. N'avez-vous pas remarqué ma surprise quand je vous ai vue ?</p>
         <p>Les traits de la Florentine se détendirent. Elle pencha la tête, rêveuse, et jeune encore comme toute femme au front flétri, vers lequel monte une émanation du cœur.</p>
         <p>— C'est une délicatesse ; il ne m'aime plus pourtant, dit-elle bien bas, mais visiblement attendrie.</p>
         <p>— Allons, maréchal, voici le moment, fit Iglesias en poussant Concini hors de la tapisserie. De l'éloquence !</p>
         <p>Un cri de la femme, un baiser du mari sur la main de l'offensée terminèrent le tableau, que l'Espagnol observait froidement comme élude. </p>
-        <p>— Oh ! mais, reprit tout à coup la Florentine, si je suis réconciliée avec toi, Goncino, je suis brouillée à mort avec la reine.</p>
+        <p>— Oh ! mais, reprit tout à coup la Florentine, si je suis réconciliée avec toi, Concino, je suis brouillée à mort avec la reine.</p>
         <p>— Le croyez-vous, dit la Vienne ; voici un billet de Sa Majesté qu'un courrier apporte à l'instant même. La reine Marie n'écrit guère aux gens tant qu'elle leur garde rancune.</p>
         <p>Leonora prit vivement la lettre et lut ces mois, écrits en sa chère langue toscane :</p>
-        <p>« Ne boucle plus, Leonora, tu sais bien qu'on t'aime ! Reviens vite. Il reste un mill on de francs dans le trésor de la Bastille ; s'il te le faut pour rebâtir ta maison, tu l'auras.</p>
-        <p>« MARIE. »</p>
+        <quote>
+          <p>« Ne boucle plus, Leonora, tu sais bien qu'on t'aime ! Reviens vite. Il reste un million de francs dans le trésor de la Bastille ; s'il te le faut pour rebâtir ta maison, tu l'auras.</p>
+          <p>« MARIE. »</p>
+        </quote>
         <p>— Eh bien ! dit le maréchal, cette lettre est-elle bonne ?</p>
         <p>Leonora lui tendit le papier, qu'il lut à son tour.</p>
         <p>— Vous voyez bien, dit-il, que jamais voire destinée n'a été plus souriante. Oh ! vous aviez raison, comte, l'étoile recommence à briller. Je veux voir jusqu'où peut aller la fortune d'un homme !</p>
         <p>Il prononça ces mots avec un feu qui rappela la méditation sur les traits de la maréchale.</p>
-        <p>— Madame, se hâta de dire la Vienne, j'ai commandé qu'on préparât votre litière. Ne faites pas attendre la dame du Louvre, et, en passant, daignez honorer d'un coup d'œil la dame de celle maison.</p>
-        <p>— Ah ! oui, oui, répliqua Leonora. Allons, messieurs, voir la femme delà Vienne.</p>
+        <p>— Madame, se hâta de dire la Vienne, j'ai commandé qu'on préparât votre litière. Ne faites pas attendre la dame du Louvre, et, en passant, daignez honorer d'un coup d'œil la dame de cette maison.</p>
+        <p>— Ah ! oui, oui, répliqua Leonora. Allons, messieurs, voir la femme de la Vienne.</p>
         <p>Ses femmes l'avaient déjà couverte de sa mante ; elle jeta ses joyaux dans une corbeille qu'on emporta devant elle. Le maréchal tenait son fils par la main.</p>
         <p>— Eh bien ! lui dit Iglesias tout bas, ville gagnée, vous voyez bien, nous avons le vent en poupe.</p>
         <p>Au seuil de la petite salle de la Vienne, le cortège rencontra Sylvie, toute frémissante, tout inclinée. Le baigneur la montra, rayonnant, à sa noble hôtesse et aux deux seigneurs.</p>
-        <p>— Elle est admirable ! dit Leonora. Ali ! mon enfant, je te dois un cadeau de noces.</p>
-        <p>Elle prit dans la corbeille, sans avoir l'air de choisir, un bracelet qui se trouva n'clre pas le plus riche.</p>
-        <p>— Tiens, dit-elle..</p>
-        <p>—- Charmante mariée ! s'écria le maréchal à l'Espagnol, qui, depuis une minute, souriait comme Satan à la vue d'un ange déchu.</p>
+        <p>— Elle est admirable ! dit Leonora. Ah ! mon enfant, je te dois un cadeau de noces.</p>
+        <p>Elle prit dans la corbeille, sans avoir l'air de choisir, un bracelet qui se trouva n'être pas le plus riche.</p>
+        <p>— Tiens, dit-elle...</p>
+        <p>— Charmante mariée ! s'écria le maréchal à l'Espagnol, qui, depuis une minute, souriait comme Satan à la vue d'un ange déchu.</p>
         <p>Mais quand Sylvie, se relevant, fixa sur lui un clair et profond regard ; quand, gêné par ce regard, le comte fit un mouvement à gauche et rencontra le coup d'œil significatif, menaçant même, du capitaine Hugues, sur lequel s'appuyait sa sœur, il composa ses traits et partit en réfléchissant.</p>
       </div>
       <div type="chapter">
@@ -3574,11 +3566,8 @@
         <head>XXVIII</head>
 
         <head>REVEIL</head>
-        <p>~ ette -maison du baigneur</p>
-        <p>ouverte à tant de joies, à l de si rares délices, cachait</p>
-        <p>._ cependant sous un de ses lambris l'homme le plus malheureux qui jamais y eût reposé sa tête.</p>
-        <p>Nous savons comment Bernard</p>
-        <p>Bernard, 1 horrible événement des Bordes, avait été amené rue de la Cerisaie par Cadenet : mais ce que nous aurons de la peine à raconter, c'est la série de souffrances qui, pour cet infortuné, avait marqué chaque seconde du temps écoulé depuis ce moment fatal.</p>
+        <p>Cette -maison du baigneur, ouverte à tant de joies, à de si rares délices, cachait cependant sous un de ses lambris l'homme le plus malheureux qui jamais y eût reposé sa tête.</p>
+        <p>Nous savons comment Bernard, l'horrible événement des Bordes, avait été amené rue de la Cerisaie par Cadenet : mais ce que nous aurons de la peine à raconter, c'est la série de souffrances qui, pour cet infortuné, avait marqué chaque seconde du temps écoulé depuis ce moment fatal.</p>
         <p>Il arriva dans la maison sans avoir un instant repris connaissance. Cadenet Fin-, stalla, répandit le bruit que c'était un jeune gentilhomme blessé dans un de ces duels déjà interdits sous des peines sévères, et il s'occupa d'amener un médecin à la fois discret et habile : deux mérites dont la réunion sur une seule tête lui coûta beaucoup de recherches.</p>
         <p>Cadenet, pour avoir plus de forces en un cas difficile, s'appuya sur M. de Luynes, auquel il raconta tous les malheurs de Bernard. Le favori ne comprit peut-être pas la vérité tout entière, mais sa pénétration et la connaissance qu'il avait des secrets de la cour le conduisirent plus avant que son frère dans cette mystérieuse question. Bernard lui parut assez intéressant pour qu'il décidât le propre médecin du roi à aller le voir chez la Vienne. Et comme précisément l'habile praticien visitait en ce moment le magnat de Pologne, affligé d'accès du mal caduc, Bernard passa par-dessus le marché.</p>
         <p>Cependant le pauvre jeune homme obscur inspirait au médecin bien plus d'intérêt que le prince. Sa maladie était de celles qui attachent à leur étude les véritables zélés de la science. -Jamais sujet pareil ne s'était encore offert au vieux docteur dans sa longue et glorieuse carrière.</p>
