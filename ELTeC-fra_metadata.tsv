@@ -1,5 +1,5 @@
 filename	xmlid	au-name	title	au-birth	au-death	au-ids	digitalSource	firsted-yr	title-ids	language	numwords	subgenre	narr-per	au-gender	sizeCat	reprintCount	time-slot
-FRA03704_Sand	FRA03703	Sand, George [Amantine Lucile Aurore Dupin]	Horace	1804	1876	viaf:46766944	Computational Literary Genre Stylistics (CLiGS)	1840	NA	fr	133214	NA	homodiegetic	F	long	unspecified	T1
+FRA03704_Sand	FRA03704	Sand, George [Amantine Lucile Aurore Dupin]	Horace	1804	1876	viaf:46766944	Computational Literary Genre Stylistics (CLiGS)	1840	NA	fr	133214	NA	homodiegetic	F	long	unspecified	T1
 FRA00503_Balzac	FRA00503	Balzac, Honoré de	Le curé de village	1799	1850	viaf:29529595	Éfélé	1841	viaf:177407570	fr	93205	NA	heterodiegetic	M	medium	high	T1
 FRA00501_Balzac	FRA00501	Balzac, Honoré de	Albert Savarus	1799	1850	viaf:29529595	Éfélé	1842	viaf:174178728	fr	42274	NA	heterodiegetic	M	short	high	T1
 FRA00801_Dash	FRA00801	Comtesse Dash [Gabrielle Anna de Cisternes de Courtiras, vicomtesse de Saint-Mars]	Le château de Pinon I	1804	1872	viaf:102278	Gallica (BnF)	1843	NA	fr	45263	NA	heterodiegetic	F	short	low	T1
