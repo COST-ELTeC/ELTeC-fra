@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Archambaud de Comborn : edition ELTeC</title>
+        <title>Archambaud de Comborn : édition ELTeC</title>
         <author ref="viaf:69051610">Viel-Castel, Horace de (1802-1864)</author>
       </titleStmt>
       <extent>
@@ -50,7 +50,8 @@
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="medium" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
+        <!-- Reprints: none. -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T1" />
       </textDesc>
     </profileDesc>

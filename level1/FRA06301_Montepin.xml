@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La porteuse de pain : edition ELTeC</title>
+        <title>La porteuse de pain : édition ELTeC</title>
         <author ref="viaf:87953024;wikidata:Q2735316">de Montépin, Xavier (1839-1915)</author>
         <respStmt>
           <resp>Encoding</resp>
@@ -55,7 +55,8 @@
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="high" />
+        <!-- Reprints: 1885, 1887, 1890, 1803-05, 1908, 1927, 1939, 1942, 1949, 1980, 1981. -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T3" />
       </textDesc>
     </profileDesc>

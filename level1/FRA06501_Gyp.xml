@@ -3,7 +3,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Totote : ELTeC edition</title>
+				<title>Totote : édition ELTeC</title>
 				<author ref="viaf:96218572;wikidata:Q199228">Gyp [Mirabeau, Sibylle Riquetti de] (1849-1932)</author>
 			</titleStmt>
 			<extent>
@@ -47,6 +47,7 @@
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
 				<size xmlns="http://distantreading.net/eltec/ns" key="short" />
 				<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+				<!-- Reprints: 1911. -->
 				<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
 			</textDesc>
 		</profileDesc>

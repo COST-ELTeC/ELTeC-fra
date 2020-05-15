@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Les Ménages militaires : edition ELTeC</title>
+        <title>Les Ménages militaires : édition ELTeC</title>
         <!-- Les Ménages militaires : La Femme du capitaine Aubépin. Les Filles du colonel. Le Mariage du trésorier. Les Deux femmes du major -->
         <author ref="viaf:54272906;wikidata:Q2975144">Chandeneux, Claire de [Bérenger, Louise Lucienne Emma] (1836-1881)</author>
         <respStmt>
@@ -69,7 +69,8 @@
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="F" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
+        <!-- Reprints: 1878-1883. Ebook: 2015.  -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
