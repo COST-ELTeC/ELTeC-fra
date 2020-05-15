@@ -70,7 +70,7 @@
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="F" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long" />
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
-        <!-- Reprints: 1878-1883. Ebook: 2015.  -->
+        <!-- Reprints 1970-2009: None (Ebook: 2015). Before 1970: 1878-1883.  -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>

@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Masque d'Amour (tomes I et II) : edition ELTeC</title>
+        <title>Masque d'Amour : édition ELTeC</title>
         <author ref="viaf:39520913">Lesueur, Daniel (1854-1921)</author>
       </titleStmt>
       <extent>
@@ -56,7 +56,8 @@
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="F" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
+        <!-- Reprints 1970-2009: None. After 2009: 2017 (Forgotten Books).  -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>

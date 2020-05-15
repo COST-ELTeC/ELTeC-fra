@@ -29,7 +29,7 @@
           <ref target="ark:/12148/bpt6k6267092r" />
         </bibl>
         <bibl type="firstEdition">
-          <date>1909</date>
+          <date>1908</date>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -48,7 +48,8 @@
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="high" />
+        <!-- Reprints 1970-2009: 2001. Before 1970: 1909, 1916, 1917, 1919, 1920, 1923, 1926, 1928, 1930, 1934, 1937, 1939, 1941, 1943, 1946, 1947, 1957, 1966, 1967, 1968. After 2009: 2012, 2013, 2015. -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>

@@ -54,7 +54,8 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <!-- Reprints 1970-2009: 1980, 1982, 2004, 2008. Before 1970: 1969 etc. After 2009: 2013, 2013, 2017. -->
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>

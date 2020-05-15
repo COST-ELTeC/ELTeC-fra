@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Les Nuits chaudes du Cap francais : edition ELTeC</title>
+        <title>Les Nuits chaudes du Cap français : édition ELTeC</title>
         <author ref="viaf:9852444">Rebell, Hugues (1867-1905)</author>
       </titleStmt>
       <extent>
@@ -54,7 +54,8 @@
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="medium" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="high" />
+        <!-- Reprints 1970-2009: 1978, 1985, 1996, 1996. After 2009: 2017. -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>

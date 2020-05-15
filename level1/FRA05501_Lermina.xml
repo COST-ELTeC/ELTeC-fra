@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>L'effrayante aventure : edition ELTeC</title>
+        <title>L'effrayante aventure : édition ELTeC</title>
         <author ref="viaf:49244018">Lermina, Jules (1839-1915)</author>
       </titleStmt>
       <extent>
@@ -48,7 +48,8 @@
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
+        <!-- Reprints 1970-2009: None. After 2009: 2016 (Hachette-BnF).  -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>

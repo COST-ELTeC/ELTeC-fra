@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Les revelees : edition ELTeC</title>
+        <title>Les révélées : édition ELTeC</title>
         <author ref="viaf:9861444">Corday, Michel (1869-1937)</author>
       </titleStmt>
       <extent>
@@ -52,7 +52,8 @@
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
+        <!-- Reprints 1970-2009: None. Before 1970: 1937. After 2009: 2017 (Forgotten Books). -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>

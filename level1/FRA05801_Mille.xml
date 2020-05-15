@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Louise et Barnavaux : edition ELTeC</title>
+        <title>Louise et Barnavaux : édition ELTeC</title>
         <author ref="viaf:100905302">Mille, Pierre (1864-1941)</author>
       </titleStmt>
       <extent>
@@ -48,7 +48,8 @@
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
+        <!-- Reprints 1970-2009: None. After 2009: 2015 ("Forgotten Books"), 2013 (Hachette-BnF). -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>

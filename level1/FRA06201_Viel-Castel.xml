@@ -51,7 +51,7 @@
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="medium" />
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
-        <!-- Reprints: none. -->
+        <!-- Reprints 1970-2009: None. -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T1" />
       </textDesc>
     </profileDesc>

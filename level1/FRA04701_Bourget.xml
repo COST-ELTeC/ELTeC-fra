@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Laurence Albani : edition ELTeC</title>
+        <title>Laurence Albani : édition ELTeC</title>
         <author ref="viaf:29530799">Bourget, Paul (1852-1935)</author>
       </titleStmt>
       <extent>
@@ -48,7 +48,8 @@
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
+        <!-- Reprints 1970-2009: None. Before 1970: 1922, 1923, 1930, 1944. After 2009: 2010 (Nabu Press). -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>

@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Le Feu : edition ELTeC</title>
+        <title>Le Feu : édition ELTeC</title>
         <author ref="viaf:68925116;wikidata:Q18404">Barbusse, Henri (1873-1935)</author>
       </titleStmt>
       <extent>
@@ -47,7 +47,8 @@
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="high" />
+        <!-- Reprints 1970-2009: several. Before 1970: many. After 2009: several. -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>

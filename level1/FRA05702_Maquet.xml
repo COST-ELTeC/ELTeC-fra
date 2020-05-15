@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La Maison du baigneur : ELTeC edition</title>
+        <title>La Maison du baigneur : édition ELTeC</title>
         <author ref="viaf:62618234;wikidata:Q766768">Maquet, Auguste (1812-1888)</author>
         <respStmt>
           <resp>Encoding</resp>
@@ -71,6 +71,7 @@
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long" />
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
+        <!-- Reprints 1970-2009: None. After 2009: 2016 (Hachette-BnF). Before 1970: Lots in the 1850s! -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T1" />
       </textDesc>
     </profileDesc>

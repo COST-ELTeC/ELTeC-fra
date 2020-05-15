@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Le blé qui leve : edition ELTeC</title>
+        <title>Le blé qui lève : édition ELTeC</title>
         <author ref="viaf:24597541;wikidata:Q127539">Bazin, René (1853-1932)</author>
       </titleStmt>
       <extent>
@@ -47,7 +47,8 @@
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="medium" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="unspecified" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
+        <!-- Reprints 1970-2009: None. Before 1970: 1911, 1914, 1925, 1947. After 2009: 2016, 2017 (Forgotten Books). -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>
