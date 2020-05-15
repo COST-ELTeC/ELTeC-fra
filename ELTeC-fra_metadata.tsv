@@ -6,7 +6,7 @@ FRA00801_Dash	FRA00801	Comtesse Dash [Gabrielle Anna de Cisternes de Courtiras, 
 FRA03801_Stern	FRA03801	Stern, Daniel [Marie d'Agoult]	Hervé	1805	1876	viaf:186930001	Project Gutenberg	1843	NA	fr	16339	NA	mixed	F	short	low	T1
 FRA01801_Gay	FRA01801	Gay, Marie Françoise Sophie	Ellenore	1776	1852	viaf:27059297	Project Gutenberg	1844	viaf:unavailable	fr	188983	NA	homodiegetic	F	long	low	T1
 FRA01203_Feval	FRA01203	Féval, Paul Henri Corentin [dit Paul Féval père]	le Loup blanc	1816	1887	viaf:17222447	Ebooks libres et gratuits	1845	viaf:312363135	fr	80201	NA	heterodiegetic	M	medium	high	T1
-FRA06201_Viel-Castel	FRA06201	Viel-Castel, Horace de	Archambaud de Comborn : edition ELTeC	1802	1864	viaf:69051610	Gallica (BnF)	1845	NA	fr	50642	NA	mixed	M	medium	unspecified	T1
+FRA06201_Viel-Castel	FRA06201	Viel-Castel, Horace de	Archambaud de Comborn	1802	1864	viaf:69051610	Gallica (BnF)	1845	NA	fr	50642	NA	mixed	M	medium	low	T1
 FRA04901_Dumas	FRA04901	Dumas, Alexandre [pere]	Reine Margot : edition ELTeC	1802	1870	viaf:51688902	Atramenta	1845	NA	fr	217375	historical	heterodiegetic	M	long	unspecified	T1
 FRA03802_Stern	FRA03802	Stern, Daniel [Marie d'Agoult]	Nélida	1805	1876	viaf:186930001	Project Gutenberg	1846	NA	fr	70592	NA	heterodiegetic	F	medium	low	T1
 FRA00502_Balzac	FRA00502	Balzac, Honoré de	Le cousin Pons	1799	1850	viaf:29529595	Éfélé	1847	viaf:174988989	fr	111052	NA	heterodiegetic	M	long	high	T1
@@ -42,7 +42,7 @@ FRA03701_Sand	FRA03701	Sand, George [Amantine Lucile Aurore Dupin]	Nanon	1804	18
 FRA00302_Aimard	FRA00302	Aimard, Gustave	Belle rivière	1818	1883	viaf:9841962	Bibliothèque électronique du Québec (BEQ)	1874	viaf:309355943	fr	139314	NA	heterodiegetic	M	long	low	T2
 FRA01402_Fleuriot	FRA01402	Fleuriot, Zénaïde	En congé	1829	1890	viaf:41872490	Bibliothèque électronique du Québec (BEQ)	1874	oclc:561075297 viaf:unavailable	fr	38021	NA	autodiegetic	F	short	low	T2
 FRA02203_Gouraud	FRA02203	Gouraud, Julie [Louise d'Aulnay]	Les Filles du professeur	1810	1891	viaf:31987653	Bibliothèque électronique du Québec (BEQ)	1876	viaf:unavailable	fr	45477	NA	heterodiegetic	M	short	low	T2
-FRA06401_Chandeneux	FRA06401	Chandeneux, Claire de [Bérenger, Louise Lucienne Emma]	Les Ménages militaires : edition ELTeC	1836	1881	viaf:54272906;wikidata:Q2975144	Gallica (BnF)	1876	NA	fr	157157	NA	heterodiegetic	F	long	unspecified	T2
+FRA06401_Chandeneux	FRA06401	Chandeneux, Claire de [Bérenger, Louise Lucienne Emma]	Les Ménages militaires	1836	1881	viaf:54272906;wikidata:Q2975144	Gallica (BnF)	1876	NA	fr	157157	NA	heterodiegetic	F	long	low	T2
 FRA01401_Fleuriot	FRA01401	Fleuriot, Zénaïde	Un enfant gâté	1829	1890	viaf:41872490	Bibliothèque électronique du Québec (BEQ)	1877	viaf:309349545	fr	35076	NA	heterodiegetic	F	short	low	T2
 FRA02302_Greville	FRA02302	Gréville, Henry [Alice Marie Céleste Fleury, dite Durand]	L'amie	1842	1902	viaf:49258322	Bibliothèque électronique du Québec (BEQ)	1878	NA	fr	56987	NA	heterodiegetic	F	medium	low	T2
 FRA02602_Malot	FRA02602	Malot, Hector	Sans famille	1830	1907	viaf:49228546	Bibliothèque électronique du Québec (BEQ)	1878	viaf:186540937	fr	123735	NA	autodiegetic	M	long	high	T2
@@ -56,7 +56,7 @@ FRA00102_Adam	FRA00102	Adam, Juliette	Païenne	1836	1936	viaf:64000638	Wikisourc
 FRA02802_Mirbeau	FRA02802	Mirbeau, Octave	La Maréchale	1848	1917	viaf:100204602	Bibliothèque électronique du Québec (BEQ)	1883	viaf:unvailable	fr	60951	NA	heterodiegetic	M	medium	high	T3
 FRA02501_Loti	FRA02501	Loti, Pierre	Mon frère Yves	1850	1923	viaf:89440078	Bibliothèque électronique du Québec (BEQ)	1883	viaf:294701732	fr	73698	NA	homodiegetic	M	medium	high	T3
 FRA02702_Maupassant	FRA02702	Maupassant, Guy de	Une Vie	1850	1893	viaf:29537765	Ebooks libres et gratuits	1883	viaf:204219240	fr	77338	Bildungsroman	heterodiegetic	M	medium	high	T3
-FRA06301_Montepin	FRA06301	de Montépin, Xavier	La porteuse de pain : edition ELTeC	1839	1915	viaf:87953024;wikidata:Q2735316	Ebooks libres et gratuits	1884	NA	fr	145892	NA	heterodiegetic	M	long	unspecified	T3
+FRA06301_Montepin	FRA06301	de Montépin, Xavier	La porteuse de pain	1839	1915	viaf:87953024;wikidata:Q2735316	Ebooks libres et gratuits	1884	NA	fr	145892	NA	heterodiegetic	M	long	high	T3
 FRA03001_Ohnet	FRA03001	Ohnet, Georges	La Grande Marnière	1848	1918	viaf:66497284	Project Gutenberg	1885	viaf:309268283	fr	115270	NA	heterodiegetic	M	long	low	T3
 FRA02701_Maupassant	FRA02701	Maupassant, Guy de	Bel-Ami	1850	1893	viaf:29537765	Ebooks libres et gratuits	1885	viaf:174771837	fr	111187	Bildungsroman	heterodiegetic	M	long	high	T3
 FRA00602_Boisgobey	FRA00602	Boisgobey, Fortuné du	Rubis sur l'ongle	1821	1891	viaf:19720225	(unspecified)	1886	viaf:315021495	fr	104131	NA	heterodiegetic	M	long	low	T3
@@ -75,7 +75,7 @@ FRA02502_Loti	FRA02502	Loti, Pierre	Ramuntcho	1850	1923	viaf:89440078	Ebooks lib
 FRA06501_Gyp	FRA06501	Gyp [Mirabeau, Sibylle Riquetti de]	Totote	1849	1932	viaf:96218572;wikidata:Q199228	Gallica (BnF)	1897	NA	fr	44196	NA	heterodiegetic	F	short	low	T3
 FRA04002_Verne	FRA04002	Verne, Jules	Le Secret de Wilhelm Storitz	1828	1905	viaf:76323989	Bibliothèque électronique du Québec (BEQ)	1898	viaf:183647198	fr	55614	NA	autodiegetic	M	medium	high	T3
 FRA01603_GautierJ	FRA01603	Gautier, Judith	Les Princesses d'Amour : courtisanes japonaises	1845	1917	viaf:54148064	Wikisource	1900	NA	fr	29460	NA	heterodiegetic	F	short	high	T4
-FRA06601_Peladan	FRA06601	Peladan, Joséphin [Joseph-Aimé Peladan]	Modestie et vanité, roman (La décadence latine, éthopée, XVI)	1858	1918	viaf:934869;wikidata:Q710019	Gallica (BnF)	1902	NA	fr	72697	NA	heterodiegetic	M	medium	unspecified	T4
+FRA06601_Peladan	FRA06601	Peladan, Joséphin [Joseph-Aimé Peladan]	Modestie et vanité, roman (La décadence latine, éthopée, XVI)	1858	1918	viaf:934869;wikidata:Q710019	Gallica (BnF)	1902	NA	fr	72697	NA	heterodiegetic	M	medium	low	T4
 FRA06001_Rebell	FRA06001	Rebell, Hugues	Les Nuits chaudes du Cap francais : edition ELTeC	1867	1905	viaf:9852444	Bibebook	1902	NA	fr	53060	NA	heterodiegetic	M	medium	unspecified	T4
 FRA00401_Allais	FRA00401	Allais, Alphone	Le Captain Cap	1829	1871	viaf:302147306	(unspecified)	1902	viaf:missing	fr	41424	NA	homodiegetic	M	short	high	T4
 FRA02901_Noailles	FRA02901	Noailles, Anna de	La nouvelle espérance	1876	1933	viaf:95303465	Wikisource	1903	NA	fr	56757	NA	heterodiegetic	F	medium	low	T4
