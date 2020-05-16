@@ -12,7 +12,11 @@
           <name>Christof Schöch</name>
         </respStmt>
         <respStmt>
-          <resp>Data capture</resp>
+          <resp>Improved transcription</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Original data capture</resp>
           <name>Gallica</name>
         </respStmt>
       </titleStmt>
@@ -47,7 +51,7 @@
         </bibl>
         <bibl type="firstEdition">
           <date>1857</date>
-          <!-- Source : https://fr wikipedia org/wiki/Auguste_Maquet-->
+          <!-- Source : https://fr.wikipedia.org/wiki/Auguste_Maquet-->
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -64,7 +68,7 @@
           <term type="setting-time">1600-1700</term>
           <term type="setting-space">Paris (France)</term>
           <term type="setting-type">rural and urban</term>
-          <term type="protagnist-status">nobility</term>
+          <term type="protagonist-status">nobility</term>
         </keywords>
       </textClass>
       <textDesc>
@@ -90,7 +94,8 @@
 
     <body>
       <div type="liminal">
-        <p>— Ne craignez rien, monsieur du Bourdet, j'en aurai soin nomme sa mère.</p>
+        <gap rend="figure"/>
+        <!-- — Ne craignez rien, monsieur du Bourdet, j'en aurai soin comme sa mère. -->
       </div>
       <div type="chapter">
 
