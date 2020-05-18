@@ -94,7 +94,7 @@
 
     <body>
       <div type="liminal">
-        <gap rend="figure"/>
+        <gap rend="figure" />
         <!-- — Ne craignez rien, monsieur du Bourdet, j'en aurai soin comme sa mère. -->
       </div>
       <div type="chapter">
@@ -4130,7 +4130,8 @@
         <p>Concino s'approcha. La vile marquise, qui si longtemps avait prétendu au trône de France, ne rougit pas de saluer ce parvenu, jadis son valet, comme elle eût salué une majesté. Elle décida moins aisément sa fille, en qui, malgré la tendre jeunesse, vivait et se révoltait le sang d'un véritable roi.</p>
         <p>Alors commença, dans un coin de cette galerie, entre les quatre personnages qui s'étaient réunis, d'Espernon, Concino, l'Espagnol et la marquise, un entretien dont nul n'eût soupçonné l'importance à voir le calme des uns et la banale physionomie des autres. Ce fut M. d'Espernon qui commença.</p>
         <p>— Voici, dit-il, mes rapports de la journée. Ce matin, le président a reçu en audience un jeune homme qui n'est autre que le beau-fils de celui que vous savez, des Bordes, échappé on ne sait pourquoi au piège.</p>
-        <p>— Et ce jeune homme, ajouta la marquise, <gap rend="figure"/> <!-- La voilà, dit-il, la voilà ! — Page 716. --> est logé, d'après mes rapports à moi, chez la Vienne, où son ami, le petit Cadenet, l'avait apporté en secret après l'événement.</p>
+        <p>— Et ce jeune homme, ajouta la marquise,
+          <gap rend="figure" /> <!-- La voilà, dit-il, la voilà ! — Page 716. --> est logé, d'après mes rapports à moi, chez la Vienne, où son ami, le petit Cadenet, l'avait apporté en secret après l'événement.</p>
         <p>— Voilà donc pourquoi, interrompit Concino, ce Luynes disait son frère malade. Il y a complot de ce côté. Ces frères-là nous gênent ; je m'en débarrasserai. Moi, ajouta-t-il, j'ai fait rendre ce matin le jugement et notifier au vieux président un ordre de la reine. C'est à n'y plus revenir.</p>
         <p>— Oui, dit la marquise, mais le jugement ne nomme que du Bourdet et un fils qu'il avait. Il ne mentionne pas cet autre ressuscité qu'on appelle de Preuil, et qui voudra peut-être suivre quelque vengeance.</p>
         <p>— Ses biens sont confisqués, il n'a plus un denier ; d'ailleurs, nous le surveillerons, répondit le maréchal : le danger n'est pas là. Voilà donc tout ce qu'on sait du président ?</p>
@@ -4304,7 +4305,9 @@
         <p>Marguerite releva son front pensif et, pour la première fois depuis le commencement de l'entretien, parut donner signe de vie.</p>
         <p>— Pardon, monsieur, dit-elle, je ne comprends pas bien la fin de votre phrase, veuillez me l'expliquer nettement, j'ai besoin de savoir à fond votre pensée pour vous dire à fond la mienne.</p>
         <p>Ce sang-froid exaspéra Siete-Iglesias. Échauffé, d'ailleurs, par la soif de son prochain triomphe, comme s'échauffe la bête de proie au pressentiment du carnage :</p>
-        <p>— Je dis, s'écria-t-il, que votre jeune cour croulera faute d'appui ! que votre orgueilleuse petite Espagnole, qui trahit l'Espagne, tombera dans l'ignominie ! que votre Nestor le président mourra de sa rage impuissante ! et que le dernier débris de votre révolte, le fils de du Bourdet, héritier — qui sait ? — des secrets de famille, ne demandera pas demain <gap unit="figure" extent="1" /> <!--Elle s'arrêta, muette, épouvantée. --> où sont les cadavres de ses parents, car demain il aura rejoint leurs ombres !</p>
+        <p>— Je dis, s'écria-t-il, que votre jeune cour croulera faute d'appui ! que votre orgueilleuse petite Espagnole, qui trahit l'Espagne, tombera dans l'ignominie ! que votre Nestor le président mourra de sa rage impuissante ! et que le dernier débris de votre révolte, le fils de du Bourdet, héritier — qui sait ? — des secrets de famille, ne demandera pas demain
+          <gap unit="figure" extent="1" />
+          <!--Elle s'arrêta, muette, épouvantée. --> où sont les cadavres de ses parents, car demain il aura rejoint leurs ombres !</p>
         <p>Marguerite tressaillit, et ses yeux humides se séchèrent au contact de la flamme qui en jaillit tout à coup.</p>
         <p>— Et moi, murmura-t-elle en s'approchant de l'Espagnol stupéfait, je vous dis que demain vous serez le plus humble, le plus muet des vingt millions d'hommes qui vivent en France ; je vous dis que demain vous adorerez à genoux le roi et la jeune reine, mes maîtres et les vôtres ; je dis que demain monsieur Bernard de Preuil vivra — comme il vit aujourd'hui — mais beaucoup plus tranquille ; car tout à l'heure vous m'allez remettre un sauf-conduit signé par la reine-mère ; et si, dans cinq minutes, je n'ai pas reçu de vous cette pièce, parfaitement en règle, inattaquable, irrévocable, jointe à une restitution des biens du malheureux héritier des Bordes, dans cinq minutes, entendez-vous, monsieur, tout ce qu'il y a ici de gentilshommes, de princes, de grands, vos ennemis ou vos amis, toute cette foule saura de moi quel était l'homme à la visière grillée qui, la nuit, a lâchement assassiné dans sa chambre l'avocat au Parlement du Bourdet.</p>
         <p>Un nuage de plomb s'étendit sur le front de l'Espagnol, ses joues se creusèrent, sa fauve prunelle rayonna d'une lueur sinistre.</p>
@@ -4361,7 +4364,7 @@
         <p>Comme il parlait ainsi dans un paroxysme de fureur et de désespoir, la porte s'ouvrit.</p>
         <p>Bernard fit un bond pour saisir son épée, et s'écria en insensé :</p>
         <p>— Je mourrai plutôt que de me rendre !</p>
-        <milestone unit="section" rend="asterisk"/>
+        <milestone unit="section" rend="asterisk" />
         <p>Mais derrière cette porte venait Cadenet, soucieux, paisible, muet, qui fit signe à Bernard de se taire, lui ôta son arme comme on ôte sa baguette à un enfant, et vint s'asseoir près de son ami après avoir soigneusement refermé la porte.</p>
         <p>Cette contenance froide, posée du mobile Cadenet, du moins sérieux de tous les papillons de cour, calma Bernard à l'instant même plus efficacement que n'eussent fait toutes les neiges d'un hiver des Alpes.</p>
         <p>— Voilà encore de vos sottises, Bernard, dit enfin le jeune homme. Vous êtes fou à lier, mon ami, et le pire, c'est que vos folies ne font pas tort seulement à vous. Quand un homme a envie, mais, là, sérieusement envie de s'aller jeter du haut d'un pont, je ne sache pas qu'il couse à son habit ses meilleurs amis, ses plus chauds protecteurs, pour les noyer avec sa sotte personne. Quand un enragé, vous en êtes un, Bernard, éprouve le besoin de se traverser le ventre d'une épée, il ne choisit pas le moment où on l'embrasse par le milieu du corps, il n'embroche pas avec lui ses sauveurs. Voilà pourtant ce que vous venez de faire. J'en suis fâché pour vous, compagnon, mais j'en suis désolé pour moi.</p>
@@ -4462,7 +4465,7 @@
         <p>— Je ne sais rien, dit-il, sinon que, d'après l'ordre de M. de Luynes, je vais heurter d'une façon particulière à cette porte ; un homme l'ouvrira, me dira : Est-ce M. de Preuil ? Je répondrai ; Oui. Tu entreras, la porte se refermera sur toi, et tout ce que je sais, c'est que nous ne nous verrons plus ; pourtant, devant nous il y a l'espace... la liberté... Si, avec plus de courage...</p>
         <p>— Frappe ! s'écria Bernard, frappe, je t'en conjure, assez de malheurs comme cela !</p>
         <p>Cadenet se hâta de frapper comme pour échapper plus, vite à des pensées trop généreuses.</p>
-        <milestone unit="section" rend="whitespace"/>
+        <milestone unit="section" rend="whitespace" />
         <p>La porte basse, massive, chevillée de clous de fer à tête énorme, était percée d'un petit guichet qui s'ouvrit et laissa voir derrière derrière treillis renforcés comme une ombre de visage d'homme.</p>
         <p>— Est-ce M. de Preuil ? demanda-t-on.</p>
         <p>— Lui-même, hélas ! répliqua Cadenet. Les verrous se tirèrent, la porte pivota.</p>
@@ -4479,13 +4482,14 @@
         <p>— Oui, mais le gouverneur va me la demander bien vite, pensa-t-il, et à quoi bon lutter ?</p>
         <p>L'homme qui, tout à l'heure, suivait Bernard, se mit à le précéder ; on monta un escalier de bois luisant à larges degrés carrelés de briques ; le guide s'arrêta au premier étage, sur un palier donnant accès à deux chambres, dont l'une était fermée par une portière en grosse tapisserie de Flandres.</p>
         <p>— Entrez là, dit le guide à Bernard, qui le regarda en face, stupéfait de ce calme, de ce silence, de cette solitude.</p>
-        <p>Il écarta les rideaux d'une main hésitante <gap unit="figure" extent="1" /> <!-- Il vint tomber à genoux devant le lit. — Page 730 --> et passa dans cette chambre, où probablement allait se décider son sort.</p>
-        <milestone unit="section" rend="asterisk"/>
+        <p>Il écarta les rideaux d'une main hésitante
+          <gap unit="figure" extent="1" /> <!-- Il vint tomber à genoux devant le lit. — Page 730 --> et passa dans cette chambre, où probablement allait se décider son sort.</p>
+        <milestone unit="section" rend="asterisk" />
         <p>Cette vaste pièce, tendue de vieux damas de laine autrefois vert, à larges dessins, un peu brouillés par les années et les morsures du soleil, n'était éclairée que par une cire brûlant dans un mortier de marbre. Elle avait son meuble du même âge que la tenture, vieux fauteuils à bras tordus sculptés dans le frêne, dont les sièges de cuir de Cordoue s'harmoniaient doucement avec la paisible lueur d'un feu de braise assoupi dans l'âtre. Un grand tapis à feuillages semés d'oiseaux et de chasseurs bizarres s'étendait sous la table massive aux pieds torses. Aux murailles pendaient, là un tableau, là une arme, plus loin un bénitier. Un gros chat blanc ronflait devant le feu, près d'une bouilloire ventrue qui ronflait comme lui. C'était peut-être la chambre d'une vieille femme, le capharnaüm d'un paisible bourgeois endormi depuis la fin de la Ligue, c'était peut-être le dortoir d'un malade, mais nullement le cabinet d'un gouverneur de prison d'État.</p>
         <p>Bernard cherchait à s'orienter, regardait chaque chose autour de lui et interrogeait la clarté blafarde qui glissait du ciel neigeux par l'imposte à châssis de plomb d'une vieille fenêtre, quand un grincement d'anneaux sur une tringle de fer attira ses yeux vers les rideaux d'un grand lit carré qu'il n'avait pas encore aperçu dans l'angle le plus noir, ou il se confondait avec les tentures de la chambre.</p>
         <p>En même temps, une voix d'enfant frêle et fatiguée appela Bernard, qui tressaillit de tous ses membres.</p>
         <p>— Ne venez-vous pas m'embrasser, mon frère ? murmura cette voix, cette musique du ciel.</p>
-        <milestone unit="section" rend="asterisk"/>
+        <milestone unit="section" rend="asterisk" />
         <p>Quelque chose d'inconnu, d'ineffable, un frisson glacial comme la mort, un serrement de cœur ; suave et douloureux comme les voluptés qui tuent, enchaîna Bernard au tapis qu'il foulait.. Pendant quelques secondes, ses yeux ne virent plus, son sang tourbillonna et s'engourdit soudain. À se sentit pâlir, il fléchit comme foudroyé, et ses deux mains, rencontrant la table, y tombèrent comme deux crampons pour empêcher la chute de son corps. </p>
         <p>— Aubin... dit-il d'une voix sourde qui se nouait en replis douloureux dans sa gorge aride, toi... vivant...</p>
         <p>— Oui... mon frère, répondit l'enfant, que Bernard put distinguer alors dans la blancheur des draps et des oreillers au-dessus desquels s'élevait sa petite figure amaigrie, nacrée, en laquelle rien ne semblait vivre que sa prunelle fixe et dilatée. </p>
@@ -4494,7 +4498,7 @@
         <p>Ce spectacle devait être touchant, car on entendit comme un sanglot dans l'un des coins de la chambre.</p>
         <p>En même temps, l'homme qui avait accompagné accompagné voyant qu'il se ranimait peu à peu, et prévoyant que son premier élan le jetterait éperdu dans les bras d'Aubin, lui dit du seuil de la porte :</p>
         <p>— N'embrassez l'enfant qu'avec des précautions infinies ; vous pourriez rouvrir sa blessure. </p>
-        <milestone unit="section" rend="asterisk"/>
+        <milestone unit="section" rend="asterisk" />
         <p>Alors Bernard se redressa.</p>
         <p>Ses yeux, inondés de bonheur, envoyèrent à Aubin la première, la plus brûlante caresse ; ses mains tremblantes semblaient s'enchaîner elles-mêmes pour ne point toucher à ce lit.</p>
         <p>Mais Aubin approcha sa tête, et Bernard posa ses lèvres seules, ses lèvres avides sur la joue et les yeux du petit ami que lui rendait un miracle.</p>
@@ -4595,123 +4599,129 @@
         <head>XXXVI</head>
 
         <head>LE DERNIER COUP</head>
-        <p>Tandis que Cadenet conduisait Bernard à la maison du rempart, deux femmes enveloppées de mantes épaisses sortaient des Tuileries par les jardins et se dirigeaient, escortées d'un gentilhomme qui les suivait à dix pas, vers le Palais, près duquel deme'urait, on le sait, le premier président. Dans la nuit, dans l'ouate molle^</p>
-        <p>de cette neige qui assourdissait leurs pas, les trois promeneurs arrivèrent- au but de leur excursion excursion avoir rien rencontré de suspect.</p>
-        <p>Les bourgeois rentraient frileux, les rondes commençaient à circuler pour la sûreté de la ville, et une fois dans l'île, où les voleurs n'osaient guère s'aventurer, nul obstacle n'empêcha le guide de pénétrer chez le président, qui travaillait encore avant de se mettre au lit, et de lui faire dire que les clients qu'il attendait venaient d'arriver. - Le vieillard sortit aussitôt de son cabinet avec les signes d'une émotion qui ne lui était pas ordinaire. Il vint jusque dans l'antichambre où se tenaient les trois personnes, et, s'adressant aux dames masquées, selon l'usage d'alors, il les pria d'entrer pour l'audience qu'elles réclamaient de lui.</p>
-        <p>Mais aussitôt que ses gens-furent congédiés, et les portes fermées avec ordre absolu de ne recevoir personne, le gentilhomme et l'une des dames sortirent du cabinet et retournèrent retournèrent l'antichambre, où ils s'installèrent devant un énorme poêle : une^seule des dames resta en présence de M. de Harlay. Le vieillard s'inclinant alors avec toutes les marques d'un profond respect :</p>
+        <p>Tandis que Cadenet conduisait Bernard à la maison du rempart, deux femmes enveloppées de mantes épaisses sortaient des Tuileries par les jardins et se dirigeaient, escortées d'un gentilhomme qui les suivait à dix pas, vers le Palais, près duquel demeurait, on le sait, le premier président. Dans la nuit, dans l'ouate molle de cette neige qui assourdissait leurs pas, les trois promeneurs arrivèrent- au but de leur excursion excursion avoir rien rencontré de suspect.</p>
+        <p>Les bourgeois rentraient frileux, les rondes commençaient à circuler pour la sûreté de la ville, et une fois dans l'île, où les voleurs n'osaient guère s'aventurer, nul obstacle n'empêcha le guide de pénétrer chez le président, qui travaillait encore avant de se mettre au lit, et de lui faire dire que les clients qu'il attendait venaient d'arriver. Le vieillard sortit aussitôt de son cabinet avec les signes d'une émotion qui ne lui était pas ordinaire. Il vint jusque dans l'antichambre où se tenaient les trois personnes, et, s'adressant aux dames masquées, selon l'usage d'alors, il les pria d'entrer pour l'audience qu'elles réclamaient de lui.</p>
+        <p>Mais aussitôt que ses gens furent congédiés, et les portes fermées avec ordre absolu de ne recevoir personne, le gentilhomme et l'une des dames sortirent du cabinet et retournèrent retournèrent l'antichambre, où ils s'installèrent devant un énorme poêle : une seule des dames resta en présence de M. de Harlay. Le vieillard s'inclinant alors avec toutes les marques d'un profond respect :</p>
         <p>— J'attends, dit-il, les ordres de Votre Majesté.</p>
         <p>La dame releva la mante qui enfermait sa tête blonde, détacha son masque, et apparut brillante de sa fraîche et juvénile beauté. Ses grands yeux bleus semblaient regarder avec autant de respect que d'attention l'homme illustre, le sage par excellence qu'elle était venue trouver dans son sanctuaire.</p>
-        <p>— Monsieur, dit Anne d'Autriche, pour que j'aie bravé les dangers d'une semblable démarche, vous comprenez que j'ai dû beaucoup^ souffrir, et désirer beaucoup d'être conseillée par vous.</p>
+        <p>— Monsieur, dit Anne d'Autriche, pour que j'aie bravé les dangers d'une semblable démarche, vous comprenez que j'ai dû beaucoup souffrir, et désirer beaucoup d'être conseillée par vous.</p>
         <p>— Je fusse allé moi-même aux Tuileries, madame, répondit M. de Harlay, sur un signe de Votre Majesté.</p>
-        <p>— Oui, mais on vous eût vu, et il m'importe que tout le monde ignore que j'ai eu cet entretien avec vous. D'ailleurs, votre confiance en moi n'eût pas été aussi complète aux Tuileries qu'ici, dans votre propre cabinet, et j'ai besoin de votre confiance entière. Car si vous me parlez comme on parle d'ordinaire aux rois, c'est-à-dire avec égards, avec sagesse, mais pour la gloire du conseiller, non pour l'intérêt de ia personne qui consulte, j'avoue que j'aurai eu tort devenir, et je m'en repentirai. Voyez donc, monsieur le président, si vous êtes en bonnes dispositions pour moi ; et comme je sais que jamais vous ne mentez, comme je sais que votre seule manière de menfir est de ne pas dire les vérités qu'on vous demande, répondezmoi sincèrement, me direz-vous toute la vérité ?</p>
+        <p>— Oui, mais on vous eût vu, et il m'importe que tout le monde ignore que j'ai eu cet entretien avec vous. D'ailleurs, votre confiance en moi n'eût pas été aussi complète aux Tuileries qu'ici, dans votre propre cabinet, et j'ai besoin de votre confiance entière. Car si vous me parlez comme on parle d'ordinaire aux rois, c'est-à-dire avec égards, avec sagesse, mais pour la gloire du conseiller, non pour l'intérêt de la personne qui consulte, j'avoue que j'aurai eu tort devenir, et je m'en repentirai. Voyez donc, monsieur le président, si vous êtes en bonnes dispositions pour moi ; et comme je sais que jamais vous ne mentez, comme je sais que votre seule manière de mentir est de ne pas dire les vérités qu'on vous demande, répondez-moi sincèrement, me direz-vous toute la vérité ?</p>
         <p>Le président se recueillit un moment, étonné de cette présence d'esprit, de cette clarté d'expression, de bette vigueur dé pensée.</p>
         <p>— J'espère que oui, madame, dit-il. Sur quoi Votre Majesté veut-elle m'entretenir ?</p>
         <p>— Sur moi-même. Le sujet est difficile à traiter, n'est-ce pas ? Oh ! je le sais bien. Je suis Espagnole, et vous, l'ami le plus sincère du feu roi, vous n'aimez pas l'Espagne.</p>
-        <p>— C'est vrai, madame. Tous nos malheurs sont venus de là, et peut-être en viendrontils encore. .</p>
+        <p>— C'est vrai, madame. Tous nos malheurs sont venus de là, et peut-être en viendront-ils encore. .</p>
         <p>— Voulez-vous, dit Anne d'Autriche avec calme, préciser, comme si je n'étais pas Espagnole, les griefs que vous reprochez à mon pays.</p>
-        <p>— La guerre étrangère pendant dix ans, mêlée à la guerre civile. Le tout, compliqué de querelles religieuses, prétexte éternel d'envahissement et d'usurpation. Enfin... après tous ces griefs- politiques, un crime, un crime odieux.</p>
+        <p>— La guerre étrangère pendant dix ans, mêlée à la guerre civile. Le tout, compliqué de querelles religieuses, prétexte éternel d'envahissement et d'usurpation. Enfin... après tous ces griefs politiques, un crime, un crime odieux.</p>
         <p>— La mort du roi Henri IV, n'est-ce pas ?</p>
         <p>— Oui, madame.</p>
         <p>Anne d'Autriche pencha un instant son front noble et pur.</p>
-        <p>— Oui, dit-elle, on l'a répandu. Mais estce bien l'Espagne seule qui a fait assassiner le feu roi ? répondez avec impartialité.</p>
+        <p>— Oui, dit-elle, on l'a répandu. Mais est-ce bien l'Espagne seule qui a fait assassiner le feu roi ? répondez avec impartialité.</p>
         <p>— Je ne le prétends pas, madame. L'Espagne a eu ses stipendiés, ses sicaires...</p>
-        <p>— Parmi les français eux-mêmes, n'estce pas ?</p>
+        <p>— Parmi les français eux-mêmes, n'est-ce pas ?</p>
         <p>— Peut-être.</p>
         <p>— Et certainement parmi les Italiens, continua la reine.</p>
         <p>Le président la regarda de son œil froid et terne ; il ne répondit pas.</p>
-        <p>—- Vous taire, monsieur, est un indice' de défiance, reprit Anne d'Autriche. Je ne veux point'que vous vous défiiez de moi. Apprenez que je suis française, ayant épousé un Français.</p>
-        <p>- Le président ne sourcilla point.</p>
-        <p>— Vous semblez douter, dit-elle</p>
+        <p>— Vous taire, monsieur, est un indice de défiance, reprit Anne d'Autriche. Je ne veux point que vous vous défiiez de moi. Apprenez que je suis française, ayant épousé un Français.</p>
+        <p>— Le président ne sourcilla point.</p>
+        <p>— Vous semblez douter, dit-elle.</p>
         <p>— Si je le puis sans perdre le respect que je dois à Votre Majesté, j'oserai dire que je doute, répliqua M. de Harlay, car vous suivez, en demeurant Espagnole de cœur, la loi de nature, la voix du sang, d'un sang qui n'a jamais crié bien haut en faveur des Français.</p>
         <p>— Cependant, monsieur, examinez ma situation : reine de France, destinée à y vivre, à y mourir, à y élever pour le trône de France, pour mon héritage enfin, les fils que Dieu peut me faire la grâce de m'envoyer, n'ai-je pas à vos yeux les qualités suffisantes pour faire une bonne Française ? Je vous en prie, monsieur le président, je vous en, supplie, mon père, parlez-moi sincèrement, comme à une enfant entourée d'ennemis, d'embûches, et qui vient à vous, son unique protecteur.</p>
         <p>Harlay considéra quelque temps la jeune femme avec cette lumineuse perspicacité qui savait plonger jusqu'au dernier détour des âmes les plus profondes.</p>
         <p>— Si ma reine était mère, répondit-il, ma confiance n'hésiterait pas longtemps à suivre la vôtre. Une reine espagnole n'est bien réellement française, pour moi, que le jour où elle fait prier un enfant en français, pour les Français, ses sujets futurs.</p>
         <p>— Jusque-là, vous ne m'écouterez pas, alors, et vous ne me soulagerez pas dans mes disgrâces ?...</p>
-        <p>— Les disgrâces que vous pouvez avoir à souffrir, madame, dit solennellement M. de Harlay,vous ne pouvez les entrevoir encore. Les frivoles petits malheurs que vous déplorez, permettez-moi de ne pas y attacher tant d'importance que vous.</p>
+        <p>— Les disgrâces que vous pouvez avoir à souffrir, madame, dit solennellement M. de Harlay, vous ne pouvez les entrevoir encore. Les frivoles petits malheurs que vous déplorez, permettez-moi de ne pas y attacher tant d'importance que vous.</p>
         <p>— Quoi ! s'écria Anne d'Autriche avec véhémence, vous m'avez assez mal jugée, vous, un homme d'expérience, un sage, vous vous abusez à ce point que vous ne me voyiez pas la plus malheureuse des femmes ! Quoi ! vous ne sentez pas la haine de ma belle-mère, les affronts que je dévore, les menaces que me font ses amis ?</p>
-        <p>— Pourquoi des menaces, madame ? en quoi les gênez-vous ? demanda presque sévèrement le vieillard, qui semblait lui dire : Cette haine, on ne vous fait pas l'honneur de la ressentir pour vous ; ces affronts, pomv quoi êtes-vous lâche au point de les endurer ; ces menaces, que ne les avez-- vous déjà char tiées ?</p>
+        <p>— Pourquoi des menaces, madame ? en quoi les gênez-vous ? demanda presque sévèrement le vieillard, qui semblait lui dire : Cette haine, on ne vous fait pas l'honneur de la ressentir pour vous ; ces affronts, pourquoi êtes-vous lâche au point de les endurer ; ces menaces, que ne les avez-vous déjà chatiées ?</p>
         <p>Anne comprit.</p>
         <p>— Je fais tout ce que je puis, dit-elle ; malheureusement je ne puis pas beaucoup.</p>
-        <p>— Mais le roi,, reprit M. de Harlay poursuivant son austère récrimination, le roi pourrait tout, s'il le voulait et s'il était appuyé d'une pensée aussi solide, d'un esprit aussi brillant que le vôtre.</p>
-        <p>Anne sentit ce nouveau reproche. — Si j'avais le malheur, répliqua-t-elle vivement, de laisser voir cette pensée, si je n'étouffais pas jusqu'à la plus faible étincelle de ce^ que vous appelez mon esprit, je serais déjà chassée... morte, peut-être !</p>
-        <p>. Le président fit un mouvement, -s- Me comprenez-vous mieux ? dit la jeune reine.</p>
+        <p>— Mais le roi, reprit M. de Harlay poursuivant son austère récrimination, le roi pourrait tout, s'il le voulait et s'il était appuyé d'une pensée aussi solide, d'un esprit aussi brillant que le vôtre.</p>
+        <p>Anne sentit ce nouveau reproche.</p>
+        <p>— Si j'avais le malheur, répliqua-t-elle vivement, de laisser voir cette pensée, si je n'étouffais pas jusqu'à la plus faible étincelle de ce que vous appelez mon esprit, je serais déjà chassée... morte, peut-être !</p>
+        <p>Le président fit un mouvement.</p>
+        <p>— Me comprenez-vous mieux ? dit la jeune reine.</p>
         <p>— Il me semble que oui, madame. Mais alors, vous devinez donc le danger que vous préparent certains ennemis ?</p>
         <p>— Nuit et jour je rêve à le conjurer.</p>
         <p>— Des rêves... c'est bien peu, madame !</p>
         <p>— Quelquefois j'ai essayé des actions ; elles m'ont réussi assez mal.</p>
         <p>— Des actions ?... dit le vieillard avec un reste d'ironie, je ne les ai pas soupçonnées, excusez-moi.</p>
-        <p>— Par exemple, .sachant que M. de Vendôme, le frère naturel du roi, était tenu en prison au Louvre, et qu'on cherchait à l'empêcher de communiquer à son frère certaines vérités qu'il veut, dit-on, lui faire approfondir. ..</p>
+        <p>— Par exemple, sachant que M. de Vendôme, le frère naturel du roi, était tenu en prison au Louvre, et qu'on cherchait à l'empêcher de communiquer à son frère certaines vérités qu'il veut, dit-on, lui faire approfondir. ..</p>
         <p>— Eh bien, madame ?</p>
         <p>— Eh bien, monsieur le président, j'ai fait évader du Louvre M. le duc de Vendôme.</p>
         <p>Harlay ne put retenir une exclamation.</p>
-        <p>— Oui, dit-elle tranquillement, une femme, mon amie, ma plus chère amie, qui appartient en apparence à la reine-mère, s'est chargée de mettre ce projet à exécution, et elle a réussi. Que n'a-t-elle eu le même bonheur'dans la fin de son entreprise !</p>
+        <p>— Oui, dit-elle tranquillement, une femme, mon amie, ma plus chère amie, qui appartient en apparence à la reine-mère, s'est chargée de mettre ce projet à exécution, et elle a réussi. Que n'a-t-elle eu le même bonheur dans la fin de son entreprise !</p>
         <p>— Achevez, je vous prie, madame.</p>
         <p>— Volontiers. Cette, amie dévouée a été forcée de se cacher dans une maison particulière pour, éviter d'être reconnue, par ceux qui cherchaient le prince. Car être reconnue, c'était être perdue, c'était me perdre moi-même. Elle est donc entrée dans cette maison, aux environ de Melun, chez un avocat au Parlement... Vous connaissez, tous les gens de robe, monsieur ; vous connaissez peut-être celui-là : du Bourdet ?</p>
         <p>Le vieillard tressaillit et resta immobile.</p>
         <p>— C'était mon ami, répliqua-t-il. Vous avez pu me l'entendre dire le jour où je suis allé demander au roi grâce pour la mémoire de cet honnête homme ; grâce pour les débris de sa famille ; le jour où l'on m'a refusé, sans que le roi m'ait prêté secours contre une si odieuse iniquité.</p>
-        <p>„— J'ai entendu, en effet, dit la reine avec son regard limpide et vigilant ; et, dès ce moment, j'ai résolu de venir causer plus intimement avec vous. Vous voyez que je me confie, moi. Je vous dis que mion amie, mon agent était là, cachée, pour l'affaire de M. de Vendôme. C'est moi qui ai fait demander au prince cette lettre avec laquelle vous espériez sauver votre protégé. Eh bienî.n'avez-vous rien à me confier en retour ? Ne pouvez-vous, par exemple, m'apprendre ce que vous attendiez de ce pauvre homme qu'ils ont tué ? Ne sauriez-vous m'estimer assez pour me révéler dans quelle intention vous appeliez du Bourdet à Paris, près de mademoiselle de Coman, par exemple !...</p>
+        <p>— J'ai entendu, en effet, dit la reine avec son regard limpide et vigilant ; et, dès ce moment, j'ai résolu de venir causer plus intimement avec vous. Vous voyez que je me confie, moi. Je vous dis que mon amie, mon agent était là, cachée, pour l'affaire de M. de Vendôme. C'est moi qui ai fait demander au prince cette lettre avec laquelle vous espériez sauver votre protégé. Eh bien, n'avez-vous rien à me confier en retour ? Ne pouvez-vous, par exemple, m'apprendre ce que vous attendiez de ce pauvre homme qu'ils ont tué ? Ne sauriez-vous m'estimer assez pour me révéler dans quelle intention vous appeliez du Bourdet à Paris, près de mademoiselle de Coman, par exemple !...</p>
         <p>Harlay, surpris, releva la tète, courbée par le poids des solennelles pensées qui s'y heurtaient depuis quelques minutes.</p>
-        <p>— Oh ! vous frappez juste, madame, dit-il. Votre jeunesse 'est bien mûre, sous les apparences riantes de ce printemps.</p>
+        <p>— Oh ! vous frappez juste, madame, dit-il. Votre jeunesse est bien mûre, sous les apparences riantes de ce printemps.</p>
         <p>— Ne pensez-vous pas qu'en vous suppliant de m'accorder votre alliance, je puisse vous être parfois une alliée utile ?</p>
         <p>— Je le reconnais, et j'en profiterai. Oui, vous êtes, si vos intentions sont sincères, vous êtes tout ce que je cherchais.</p>
         <p>— Vous m'accepterez donc ?</p>
         <p>— D'autant plus volontiers que tout mon travail, toutes mes veilles, toutes mes angoisses, n'avaient pour but que votre fortune et celle de votre postérité.</p>
-        <p>Je le sais bien !... Voilà pourquoi je suis venue à vous, voilà pourquoi je vous adjure encore de me dire : Ce secret, étouffé en 1611 sur les lèvres de mademoiselle de Coman, ce secret qui fait trembler, je le devine, tous nos ennemis.., je dis nos ennemis, n'est-ce pas, mon père ?... cette arme invincible, si vous trouvez la main capable de la manier, je ne vous prie pas de la confier à mon bras, non, mais faites-la moi voir seulement d'avance ; permettez-moi-d'apprécier dans ma joie, dans ma reconnaissance, le poids et la profondeur des coups qu'elle saura frapper. Alors, monsieur le président,
-          <gap unit="figure" extent="1" /><!-- — Vous mentez ! dit le vieillard. --> alors, au lieu de me laisser abaisser peu à peu, comme je le fais, pour éviter qu'on m'écrase, alors je relèverai la tête, je persuaderai au roi sa force, notre force ; je grouperai autour de notre trône, ridicule aujourd'hui, formidable demain, tous ceux qui veulent la gloire, le bonheur, l'intégrité de ce royaume. Alors, je forcerai ce fils chancelant, qui n'est à présent que le fils de l'Italienne, sa mère, je le forcerai à se souvenir qu'il est fils d'Henri IV, d'Henri IV dont il a l'héritage à maintenir, la mémoire à honorer... à venger peut-être... Oh ! comprenez-vous .que je suis Française maintenant ? et dites-moi loyalement que ce crime dont vous parliez tout à l'heure, vous m'apprendrez à le venger !</p>
-        <p>— Il sera fait selon vos désirs, répondit simplement l'illustre magistrat. Vous venez de détruire jusqu'à la. moindre de mes objections, vous avez éteint mon dernier scrupule. Dans peu'd'instants, vous saurez tout comme moi-même. Mes moyens, mes plans, mes armes, je vous- aurai tout livré. Je viens de descendre dans ma conscience, c'est-àdire de consulter Dieu, et cette voix infaillible m'a répondu que si vous me trahissiez par gré ou .par faute, vous vous trahiriez vous-même, vous l'unique objet, avec le roi, de ma pénible et magnifique _ entreprise.</p>
-        <p>Désormais votre avenir ne sera plus qu'entre vos mains. Votre Majesté veut-elle prendre la peine de me suivre ?</p>
+        <p>Je le sais bien !... Voilà pourquoi je suis venue à vous, voilà pourquoi je vous adjure encore de me dire : Ce secret, étouffé en 1611 sur les lèvres de mademoiselle de Coman, ce secret qui fait trembler, je le devine, tous nos ennemis..., je dis nos ennemis, n'est-ce pas, mon père ?... cette arme invincible, si vous trouvez la main capable de la manier, je ne vous prie pas de la confier à mon bras, non, mais faites-la moi voir seulement d'avance ; permettez-moi-d'apprécier dans ma joie, dans ma reconnaissance, le poids et la profondeur des coups qu'elle saura frapper. Alors, monsieur le président,
+          <gap unit="figure" extent="1" /><!-- — Vous mentez ! dit le vieillard. --> alors, au lieu de me laisser abaisser peu à peu, comme je le fais, pour éviter qu'on m'écrase, alors je relèverai la tête, je persuaderai au roi sa force, notre force ; je grouperai autour de notre trône, ridicule aujourd'hui, formidable demain, tous ceux qui veulent la gloire, le bonheur, l'intégrité de ce royaume. Alors, je forcerai ce fils chancelant, qui n'est à présent que le fils de l'Italienne, sa mère, je le forcerai à se souvenir qu'il est fils d'Henri IV, d'Henri IV dont il a l'héritage à maintenir, la mémoire à honorer... à venger peut-être... Oh ! comprenez-vous que je suis Française maintenant ? et dites-moi loyalement que ce crime dont vous parliez tout à l'heure, vous m'apprendrez à le venger !</p>
+        <p>— Il sera fait selon vos désirs, répondit simplement l'illustre magistrat. Vous venez de détruire jusqu'à la moindre de mes objections, vous avez éteint mon dernier scrupule. Dans peu d'instants, vous saurez tout comme moi-même. Mes moyens, mes plans, mes armes, je vous aurai tout livré. Je viens de descendre dans ma conscience, c'est-à-dire de consulter Dieu, et cette voix infaillible m'a répondu que si vous me trahissiez par gré ou par faute, vous vous trahiriez vous-même, vous l'unique objet, avec le roi, de ma pénible et magnifique entreprise. Désormais votre avenir ne sera plus qu'entre vos mains. Votre Majesté veut-elle prendre la peine de me suivre ?</p>
         <p>— Où cela, je vous prie ?</p>
         <p>— Nous allons dans la prison de mademoiselle de Coman : vous l'entendrez, vous verrez jaillir la vérité que j'ai cachée précieusement jusqu'à ce jour.</p>
-        <p>— Allons ! :</p>
-        <p>— Votre Majesté comprendra sur-le-champ ce que je demandais au pauvre du Bourdet,. son témoignage,- car lui seul eût su appuyer de sa déposition les faits terribles qui éclatent à chaque modelé la prisonnière. Voilà pourquoi...</p>
-        <p>— Voilà pourquoi on a tué du Bourdet, n'est-ce. pas ? s'écria Anne d'Autriche.</p>
-        <p>— Oui, madame. - v </p>
-        <p>— Vous n'avez plus ce témoin', alors, et les misérables comptent sur -votre impuissance à établir une conviction. - ';'</p>
-        <p>— Seule, avec moi, mademoiselle de Coman serait déjà-trop redoutable pour eux. Mais soutenu par votre volonté, par celle du roi, le témoignage de mademoiselle de Coman les broyerâ: comme une vile poussière.</p>
+        <p>— Allons ! </p>
+        <p>— Votre Majesté comprendra sur-le-champ ce que je demandais au pauvre du Bourdet, son témoignage, car lui seul eût su appuyer de sa déposition les faits terribles qui éclatent à chaque modelé la prisonnière. Voilà pourquoi...</p>
+        <p>— Voilà pourquoi on a tué du Bourdet, n'est-ce pas ? s'écria Anne d'Autriche.</p>
+        <p>— Oui, madame. </p>
+        <p>— Vous n'avez plus ce témoin, alors, et les misérables comptent sur votre impuissance à établir une conviction. </p>
+        <p>— Seule, avec moi, mademoiselle de Coman serait déjà-trop redoutable pour eux. Mais soutenu par votre volonté, par celle du roi, le témoignage de mademoiselle de Coman les broyera comme une vile poussière.</p>
         <p>— Tous ?</p>
         <p>— Ceux qui résisteraient à cette première épreuve, les plus forts, je leur en garde une seconde.</p>
         <p>— Décisive, au moins ?</p>
         <p>— Oui, madame, décisive, même pour lés plus puissants !</p>
         <p>Anne saisit la main du président et la serra dans ses petites mains nerveuses.</p>
         <p>— Je vous suis chez mademoiselle de Coman, dit-elle.</p>
-        <p>Le président ouvrit la porté de son cabinet, et montra le passage à la reine, qui avait repris déjà son capuchon et son voile. Mais comme ils allaient franchir la porte du vestibule dans lequel les attendaient Luynes et dona' Estefana, un homme accourut, affairé, troublé, demandant aux officiers à voir le président sans délai. '—Monsieur"le bailli ! dit Harlay, que voulez-vous ? pourquoi ce désordre ?</p>
-        <p>— Tenez, monseigneur, répliqua cet homme, en offrant au magistrat un parchemin que celui-ci prit'avec étonnement, tandis qu'un laquais lui éclairait l'étrange missive.</p>
-        <p>— « Ordre de la reine-mère, dit-il, son visage s'altérant -àmesure qu'il lisait/ordre de transférer du Palais à la Bastille la deT moiselïe de Coman !»</p>
+        <p>Le président ouvrit la porté de son cabinet, et montra le passage à la reine, qui avait repris déjà son capuchon et son voile. Mais comme ils allaient franchir la porte du vestibule dans lequel les attendaient Luynes et dona Estefana, un homme accourut, affairé, troublé, demandant aux officiers à voir le président sans délai.</p>
+        <p>— Monsieur le bailli ! dit Harlay, que voulez-vous ? pourquoi ce désordre ?</p>
+        <p>— Tenez, monseigneur, répliqua cet homme, en offrant au magistrat un parchemin que celui-ci prit avec étonnement, tandis qu'un laquais lui éclairait l'étrange missive.</p>
+        <quote type="letter">
+          <p>— « Ordre de la reine-mère, dit-il, son visage s'altérant à mesure qu'il lisait, ordre de transférer du Palais à la Bastille la demoiselle de Coman ! »</p>
+        </quote>
         <p>Anne frissonna sous ses voiles.</p>
-        <p>—-'On. attendra, s'écria lé vieillard, que j'aie fait à Sa Majesté mes remontrances !</p>
-        <p>— Hélas ! monseigneur, murmura le bailli tremblant ; - ;:</p>
-        <p>: —Qu'est-ce à dire ? Vous hésitez, vous vous cachez le visage ! Monsieur le bailli, où sont les gens qui ont apporté cet ordre ?</p>
+        <p>— On attendra, s'écria lé vieillard, que j'aie fait à Sa Majesté mes remontrances !</p>
+        <p>— Hélas ! monseigneur, murmura le bailli tremblant :</p>
+        <p>— Qu'est-ce à dire ? Vous hésitez, vous vous cachez le visage ! Monsieur le bailli, où sont les gens qui ont apporté cet ordre ?</p>
         <p>— Partis, monseigneur.</p>
         <p>— Partis ! Mais mademoiselle de Coman ?</p>
-        <p>— Partie avec eux. . Anne poussa un cri étouffé.</p>
-        <p>Le vieillard, stupéfait, pâlissant, saisit le bras du bailli et l'amena en face de la lumière des flambeaux : '..'."'''</p>
+        <p>— Partie avec eux... Anne poussa un cri étouffé.</p>
+        <p>Le vieillard, stupéfait, pâlissant, saisit le bras du bailli et l'amena en face de la lumière des flambeaux : </p>
         <p>— Partie !... Ce n'est pas possible ! vous m'eussiez fait prévenir !</p>
-        <p>-— Monseigneur !</p>
-        <p>— Vous i saviez que je tenais à garder cette prisprinière sous ma main. Vous le saviez", vous, mon officier, presque mon ami !</p>
-        <p>Lebailli baissa la tête. Son front s'empourprait. On voyait les veines^se gonfler sur ce front autrefois uni et calme comme celui d'un honnête hbmmèï" *</p>
+        <p>— Monseigneur !</p>
+        <p>— Vous saviez que je tenais à garder cette prisonnière sous ma main. Vous le saviez, vous, mon officier, presque mon ami !</p>
+        <p>Le bailli baissa la tête. Son front s'empourprait. On voyait les veines se gonfler sur ce front autrefois uni et calme comme celui d'un honnête homme.</p>
         <p>— On ne m'a pas permis... balbutia-t-il.</p>
-        <p>— Vous mentez" '."dit froidement le vieillard. Vous meniez ! je vous ai connu capable en un certain temps de passer à travers dix hommes armés pour m'apporter une importante nouvelle...</p>
+        <p>— Vous mentez, dit froidement le vieillard. Vous mentez ! je vous ai connu capable en un certain temps de passer à travers dix hommes armés pour m'apporter une importante nouvelle...</p>
         <p>— Monseigneur, croyez...</p>
-        <p>— Je crois que vous n'êtes, plus le même ; je lis sur vôtre visage les signes effrayants que Notre-Seigneur se refusait à lire sur le visage de Judas !</p>
+        <p>— Je crois que vous n'êtes plus le même ; je lis sur vôtre visage les signes effrayants que Notre-Seigneur se refusait à lire sur le visage de Judas !</p>
         <p>— Oh ! s'écria le bailli.</p>
         <p>— Depuis que vous, avez fait le voyage des Bordes... continua M. de Harlay, depuis ce malheur que vous ne sûtes ni prévoir ni empêcher...</p>
-        <p>— C'est lui qui a porté votre lettre aux Bordes ? demanda à l'oreille du vieillard Anne, sombre, masquée, comme une statue des déesses inconnues. — Oui, madame.</p>
-        <p>— Eh bien ! dites-lui, continua-t-elle, qu'il avait vendu cette" lettre.à vos ennemis.</p>
-        <p>—' Madame ! cria le traître épouvanté de cette révélation soudaine.</p>
+        <p>— C'est lui qui a porté votre lettre aux Bordes ? demanda à l'oreille du vieillard Anne, sombre, masquée, comme une statue des déesses inconnues.</p>
+        <p>— Oui, madame.</p>
+        <p>— Eh bien ! dites-lui, continua-t-elle, qu'il avait vendu cette lettre à vos ennemis.</p>
+        <p>— Madame ! cria le traître épouvanté de cette révélation soudaine.</p>
         <p>— Dites-lui, reprit la jeune reine, que sa lettre a été récitée mot pour mot à du Bourdet par l'assassin qui l'a frappé à mort, et, s'il avait l'audace de continuer à mentir, annoncez-lui que je vais répéter, moi, chacun des mots que contenait cette lettre !</p>
-        <p>— Misérable ! dit M. de Harlay dont les cheveux blancs semblaient se hérisser comme pour faire une couronne de gloire à ce front irréprochable. Lâche et cupide, tu t'es vendu ; niais ce n'est pas ton maître seul qu'ils t'achetaient, les corrupteurs ; ils t'achetaient le sang des meilleurs citoyens, ils t'achetaient l'honneur, la fortune de la France, Tu as vendu ton pays, ton Dieu, va-t'en, je te maudis jusque dans la dernière parcelle de leur or. Va ! tu payeras ta richesse par les supplices de l'éternité !</p>
+        <p>— Misérable ! dit M. de Harlay dont les cheveux blancs semblaient se hérisser comme pour faire une couronne de gloire à ce front irréprochable. Lâche et cupide, tu t'es vendu ; niais, ce n'est pas ton maître seul qu'ils t'achetaient, les corrupteurs ; ils t'achetaient le sang des meilleurs citoyens, ils t'achetaient l'honneur, la fortune de la France. Tu as vendu ton pays, ton Dieu, va-t'en, je te maudis jusque dans la dernière parcelle de leur or. Va ! tu payeras ta richesse par les supplices de l'éternité !</p>
         <p>— Peut-être avant l'éternité, murmura Anne les doigts crispés sur le bras du vieillard, qu'elle essayait de soutenir et qui pliait.</p>
         <p>Le bailli s'enfuit, écumant, hagard, éperdu, poursuivi par cette malédiction qu'il sentait déjà ratifiée par la colère de Dieu.</p>
+        <milestone unit="section" rend="asterisk"/>
         <p>M. de Harlay rentra dans son cabinet avec Anne. On avait vu pâlir, chanceler le président. Plusieurs de ses officiers voulaient s'approcher. Le vieillard les avait éloignés d'un geste.</p>
         <p>— Mademoiselle de Coman à la Bastille ! Elle n'est plus à nous, mais à eux, dit la reine. </p>
-        <p>Il leva les yeux au ciel. - —Que faire ? continua-t-elle ; les voilà qui nous soupçonnent. Comment les confondre maintenant ? Comment même leur résister ? '''.-'</p>
+        <p>Il leva les yeux au ciel.</p>
+        <p>— Que faire ? continua-t-elle ; les voilà qui nous soupçonnent. Comment les confondre maintenant ? Comment même leur résister ? </p>
         <p>Le président, immobile, assis, ou plutôt écrasé sur son fauteuil, luttait contre une angoisse douloureuse qui tordait son généreux cœur et montait, en l'étouffant, à sa gorge.</p>
         <p>— Un mot, mon père, un mot qui me sauve et sauve notre sainte cause ! dit la reine.</p>
-        <p>Il essaya de se relever, de parler ; impossible. Il put seulement, par un effort suprême allonger le bras vers la plume, debout dans son encrier. .</p>
-        <p>La reine lui mit cette plume dans les doigts, une feuille de papier sous la main ; M. de Harlay ne put écrire. -</p>
-        <p>On le vit alors prendre sa^-mam droite avec sa gauche, et réunir toutes ses forces pour tracer une lettre. Ses yeux vivaient encore, mais un froid mortel'glaçait déjà ses membres.</p>
-        <p>Anne prit et réchauffa ce'tte illustre main du feu de ses mains, du souffle de sa bouche, Elle guida, elle soutint la plume.</p>
-        <p>M. de Harlay traça lentement le mot Pontis-, et ses doigts' s'ouvrirent, la plume s'en échappa. ;</p>
+        <p>Il essaya de se relever, de parler ; impossible. Il put seulement, par un effort suprême allonger le bras vers la plume, debout dans son encrier. </p>
+        <p>La reine lui mit cette plume dans les doigts, une feuille de papier sous la main ; M. de Harlay ne put écrire. </p>
+        <p>On le vit alors prendre sa main droite avec sa gauche, et réunir toutes ses forces pour tracer une lettre. Ses yeux vivaient encore, mais un froid mortel glaçait déjà ses membres.</p>
+        <p>Anne prit et réchauffa cette illustre main du feu de ses mains, du souffle de sa bouche, Elle guida, elle soutint la plume.</p>
+        <p>M. de Harlay traça lentement le mot <hi rend="italic">Pontis</hi>, et ses doigts s'ouvrirent, la plume s'en échappa. </p>
         <p>Anne lut et saisit avidement le papier. Au même instant Luynes entra.</p>
         <p>— Madame, dit-il, voilà madame la comtesse qui arrive. Elle signale une troupe de gens à cheval qui paraissent vouloir nous couper la retraite.</p>
         <p>— Vite ! partons, répliqua la reine.</p>
@@ -4723,93 +4733,95 @@
         <head>XXXVII</head>
 
         <head>LA CHAMBRE DES COUSSINS</head>
-        <p>C'était le soir fixé par la marquise de Verneuil pour recevoir ses amis dans le pavillon de la Vienne. On sait que ce mystérieux pavillon avait son entrée tout à fait indépendante par la rue de Lesdiguières, et qu'à l'exception du baigneur, qui, les jours de festin ou de galanterie, venait y faire lui-même le service par sa porte de communication, nul ne péné-trait dans cette forteresse, sur laquelle cou-' raient par la ville des bruits étranges, qui faisaient sourire ceux-ci ; rougir ceux-là et frissonner lès autres. C'est ce réduit voluptueux et suspect que Sylvie avait si souvent demandé à explorer. La Vienne, qui d'abord avait promis, éludait à chaque instant sa promesse. Il forgeait mille raisons excellentes que Sylvie appelait des prétextes, et, à la moindre occasion, elle représentait sa demande avec la ténacité infatigable des femmes dont la curiosité ou la passion ne s'endort jamais sans avoir été satisfaite.</p>
-        <p>Comme tout homme qui a refusé longtemps à une femme qui a deriiandé toujours, la Vienne finit par céder. Il choisit, pour montrer le pavillon à Sylvie, cette soirée même à la fin de laquelle madame de Verneuil devait souper,avec ses trois convives.</p>
-        <p>— Les hôtes de la marquise n'arriveront qu'à dix heures, dit la Vienne à sa femme, je vous ferai entrer à huit. Une demi-heure nous suffira pour voir tout ce qu'il y a de curieux à voir.. Vous aurez l'avantage de jouir du coup d'œil de l'illumination et du couvert, puis vous rentrerez vous coucher, tandis que je ferai mon service, et vous pourrez vous flatter de' m'avoir fait commettre une indiscrétion qui me coûterait cher si elle était découverte, car la marquise ne plaisante pas sur l'inviolabilité de son domicile d'amours.</p>
-        <p>— Eh ! mon Dieu, répliqua Sylvie, qui, sûre de ce qu'elle avait tant désiré, n'était pas fâchée de'le déprécier un peu. Est-ce donc tellement secret que je sois seule à le savoir ? suis-je l'unique personne qui ait pénétré dans ce pavillon ?</p>
-        <p>— Je ne crois pas que vous soyez la- seule, répliqua la Vienne avec un gros rire, mais je crois aussi que celles qui y sont entrées ne s'en vanteront jamais.</p>
+        <p>C'était le soir fixé par la marquise de Verneuil pour recevoir ses amis dans le pavillon de la Vienne. On sait que ce mystérieux pavillon avait son entrée tout à fait indépendante par la rue de Lesdiguières, et qu'à l'exception du baigneur, qui, les jours de festin ou de galanterie, venait y faire lui-même le service par sa porte de communication, nul ne pénétrait dans cette forteresse, sur laquelle couraient par la ville des bruits étranges, qui faisaient sourire ceux-ci, rougir ceux-là et frissonner les autres. C'est ce réduit voluptueux et suspect que Sylvie avait si souvent demandé à explorer. La Vienne, qui d'abord avait promis, éludait à chaque instant sa promesse. Il forgeait mille raisons excellentes que Sylvie appelait des prétextes, et, à la moindre occasion, elle représentait sa demande avec la ténacité infatigable des femmes dont la curiosité ou la passion ne s'endort jamais sans avoir été satisfaite.</p>
+        <p>Comme tout homme qui a refusé longtemps à une femme qui a demandé toujours, la Vienne finit par céder. Il choisit, pour montrer le pavillon à Sylvie, cette soirée même à la fin de laquelle madame de Verneuil devait souper, avec ses trois convives.</p>
+        <p>— Les hôtes de la marquise n'arriveront qu'à dix heures, dit la Vienne à sa femme, je vous ferai entrer à huit. Une demi-heure nous suffira pour voir tout ce qu'il y a de curieux à voir.. Vous aurez l'avantage de jouir du coup d'œil de l'illumination et du couvert, puis vous rentrerez vous coucher, tandis que je ferai mon service, et vous pourrez vous flatter de m'avoir fait commettre une indiscrétion qui me coûterait cher si elle était découverte, car la marquise ne plaisante pas sur l'inviolabilité de son domicile d'amours.</p>
+        <p>— Eh ! mon Dieu, répliqua Sylvie, qui, sûre de ce qu'elle avait tant désiré, n'était pas fâchée de le déprécier un peu. Est-ce donc tellement secret que je sois seule à le savoir ? suis-je l'unique personne qui ait pénétré dans ce pavillon ?</p>
+        <p>— Je ne crois pas que vous soyez la seule, répliqua la Vienne avec un gros rire, mais je crois aussi que celles qui y sont entrées ne s'en vanteront jamais.</p>
         <p>Sylvie, surprise, demanda, un peu émue, si elle avait bien entendu, et s'il entrait d'autres femmes dans, ce pavillon que la marquise.</p>
         <p>— Je pensais bien, ajouta-t-elle, que madame de Verneuil y recevait des amis à elle, mais non des amies.</p>
-        <p>— Oh ! répliqua la Vienne, riant toujours</p>
-        <p>c'est une dame très-charitable que la marquise, et elle a plus d'une fois^rêté la clef de son pavillon à des gentilshommes dans l'embarras. Ceux-ci, alors, ouvraient la porte à qui bon leur semblait. Cela ne regarde personne que les maris de ces dames.</p>
-        <p>Et plus que jamais, sur cette plaisanterie, la Vienne continua- de rire. Sylvie fronça le sourcil et rêva. Le baigneur, préoccupé de ses fonctions, ne remarqua ni ce pli significatif dans le front uni de sa femme, ni ce regard plein d'ombrage qu'elle dirigea involontairement vers le pavillon.</p>
+        <p>— Oh ! répliqua la Vienne, riant toujours, c'est une dame très-charitable que la marquise, et elle a plus d'une fois prêté la clef de son pavillon à des gentilshommes dans l'embarras. Ceux-ci, alors, ouvraient la porte à qui bon leur semblait. Cela ne regarde personne que les maris de ces dames.</p>
+        <p>Et plus que jamais, sur cette plaisanterie, la Vienne continua de rire. Sylvie fronça le sourcil et rêva. Le baigneur, préoccupé de ses fonctions, ne remarqua ni ce pli significatif dans le front uni de sa femme, ni ce regard plein d'ombrage qu'elle dirigea involontairement vers le pavillon.</p>
         <p>Nous savons qu'elle était allée, à travers la porte de Bernard, nouer une conversation de quelques instants avec Cadenet et son ami. Nous l'avons vue également s'enfuir après cet entretien si court. Bernard n'était pas encore sorti de la maison quand Sylvie, exacte à l'heure, entra furtivement dans le pavillon, que la Vienne lui ouvrait plus furtivement encore.</p>
-        <p>La nuit, on le sait, était favorable aux aventures. Partout le silence et la solitude. Une neige épaisse achevait de chasser au gîte les promeneurs que le couvre-feu et l'inquiétude des voleurs ou des embuscades n !eussentpas empêchés de rester dehors. Le jardin de la Vienne était clos et calfeutré par cette neige comme une boîte'de jouets par des cardes d'ouate, et les grands lierres bourrés de neige qui tapissaient les murs du pavillon semblaient en avoir matelassé l'épaisseur. À peine Sylvie eut-elle pénétré dans le sanctuaire, qu'elle sentit une douce chaleur mêlée à la vapeur de parfums délicats. Un péristyle vaguement éclairé s'offrit d'abord à sa vue. Il était peuplé de statues de marbre, toutes .antiques, toutes précieuses par. le travail et l'idée, et dignes d'arrêter longtemps le regard même d'une femme, malgré la hardiesse au moins païenne des poses et des contours.</p>
-        <p>Sylvie, en se voyant au milieu de ces 'figures blanches qui semblaient la railler et l'agacer dans la demi-teinte du vestibule, frissonna tout à coup et regarda autour d'elle avec une sorte d'inquiétude, comme pour faire appel à des souvenirs plus prépis. v</p>
+        <p>La nuit, on le sait, était favorable aux aventures. Partout le silence et la solitude. Une neige épaisse achevait de chasser au gîte les promeneurs que le couvre-feu et l'inquiétude des voleurs ou des embuscades n'eussent pas empêchés de rester dehors. Le jardin de la Vienne était clos et calfeutré par cette neige comme une boîte de jouets par des cardes d'ouate, et les grands lierres bourrés de neige qui tapissaient les murs du pavillon semblaient en avoir matelassé l'épaisseur. À peine Sylvie eut-elle pénétré dans le sanctuaire, qu'elle sentit une douce chaleur mêlée à la vapeur de parfums délicats. Un péristyle vaguement éclairé s'offrit d'abord à sa vue. Il était peuplé de statues de marbre, toutes antiques, toutes précieuses par le travail et l'idée, et dignes d'arrêter longtemps le regard même d'une femme, malgré la hardiesse au moins païenne des poses et des contours.</p>
+        <p>Sylvie, en se voyant au milieu de ces figures blanches qui semblaient la railler et l'agacer dans la demi-teinte du vestibule, frissonna tout à coup et regarda autour d'elle avec une sorte d'inquiétude, comme pour faire appel à des souvenirs plus précis. v</p>
         <p>— Qu'avez-vous, mignonne, dit la Vienne ? Ces statues ? Ah ! dame, oui, elles ne sont pas tout à fait assez vêtues ; c'est un spectacle un peu violent pour des yeux habitués aux saintetés des Feuillantines ; mais vous avez voulu voir, tant pis !</p>
         <p>Sylvie rougit plus ardemment encore à ce nom des Feuillantines, que, par un hasard étrange, son mari venait évoquer à un pareil moment.</p>
         <p>— Je regardais, dit-elle, au bout de ce vestibule, c'est bien une porte que je vois ?</p>
         <p>— La porte d'entrée, oui, celle de la rue de Lesdiguières, par laquelle entrent tous ceux qui se cachent avec toutes celles qu'ils cachent. </p>
         <p>Un nouveau frisson courut sur les épaules de la jeune femme, qui tout à coup monta l'escalier devant la Vienne au lieu de se laisser précéder.</p>
-        <p>. — Eh bien, eh bien ! reprit-il d'un air enjoué, est-ce que c'est vous qui me montrez la maison, par hasard ? *</p>
-        <p>Sylvie s'arrêta court, s'arrêta pjâle.</p>
-        <p>— Je comprends, continua le digne mari, ces nudités vous ont chassée vite ; ah ! vous n'êtes pas' encore assez marquise pour avoir l'œil aussi vaillant. Tenez, retournez-vous ; là, à droite, est la salle à manger ; non, pas à gauche... vous regardez toujours à gauche. Je vous dis à droite, car à gauche ce n'est pas la salle à manger : c'est...</p>
+        <p>— Eh bien, eh bien ! reprit-il d'un air enjoué, est-ce que c'est vous qui me montrez la maison, par hasard ? </p>
+        <p>Sylvie s'arrêta court, s'arrêta pâle.</p>
+        <p>— Je comprends, continua le digne mari, ces nudités vous ont chassée vite ; ah ! vous n'êtes pas encore assez marquise pour avoir l'œil aussi vaillant. Tenez, retournez-vous ; là, à droite, est la salle à manger ; non, pas à gauche... vous regardez toujours à gauche. Je vous dis à droite, car à gauche ce n'est pas la salle à manger : c'est...</p>
         <p>— C'est demanda Sylvie, le cœur palpitant.</p>
         <p>— C'est une autre pièce que je vous ferai voir tout à l'heure. Commençons par la salle à manger.</p>
-        <p>La Vienne passa le premier dans une longue et haute salle entourée, à hauteur des yeux, d'une frise de bas-reliefs anacréontiques qui, pour n'être que de la sculpture italienne du seizième siècle, brillait par un tel luxe d'imagination et une si exquise per| feetion de détails, qu'immédiatement Sylvie, ; redevenue cramoisie, leva les yeux vers des fresques qui surmontaient cette frise. Mais ses yeux descendirent de la fresque encore plus vite qu'ils n'y avaient monté. Elle sortit dé la salle à manger sans vouloir remarquer, ainsi que l'y engageait la Vienne, les magnificences du service, le jeu des lumières sur les cristaux et dans les miroirs, le cliquetis des orfèvreries reflétant les nacres, et, par-dessus tout, le mécanisme si ingénieux qui, sans le concours d'aucun instrument humain, faisait passer du dehors dans cette salle les mets, les. vins, les fleurs, et remportait chaque chose usée ou dédaignée. La jeune femme, disons-nous, quitta son mari 'au milieu des explications dans lesquelles il se complaisait, et passa rapidement sur le palier, plus semblable à un jaloux qui suit une trace qu'à un curieux qui repaît sa curiosité.</p>
-        <p>— Si c'est ainsi que tu vois, mignonne, dit la Vienne, nous ne mettrons par une demi7heure. La salle à manger est pourtant l'une des pièces les plus remarquables.</p>
+        <p>La Vienne passa le premier dans une longue et haute salle entourée, à hauteur des yeux, d'une frise de bas-reliefs anacréontiques qui, pour n'être que de la sculpture italienne du seizième siècle, brillait par un tel luxe d'imagination et une si exquise perfection de détails, qu'immédiatement Sylvie, redevenue cramoisie, leva les yeux vers des fresques qui surmontaient cette frise. Mais ses yeux descendirent de la fresque encore plus vite qu'ils n'y avaient monté. Elle sortit de la salle à manger sans vouloir remarquer, ainsi que l'y engageait la Vienne, les magnificences du service, le jeu des lumières sur les cristaux et dans les miroirs, le cliquetis des orfèvreries reflétant les nacres, et, par-dessus tout, le mécanisme si ingénieux qui, sans le concours d'aucun instrument humain, faisait passer du dehors dans cette salle les mets, les vins, les fleurs, et remportait chaque chose usée ou dédaignée. La jeune femme, disons-nous, quitta son mari au milieu des explications dans lesquelles il se complaisait, et passa rapidement sur le palier, plus semblable à un jaloux qui suit une trace qu'à un curieux qui repaît sa curiosité.</p>
+        <p>— Si c'est ainsi que tu vois, mignonne, dit la Vienne, nous ne mettrons par une demi-heure. La salle à manger est pourtant l'une des pièces les plus remarquables.</p>
         <p>— On mange à peu près de même partout, murmura Sylvie, dont le trouble allait croissant ; et j'aimerais mieux voir les endroits où la marquise, cette femme d'un goût illustre, reçoit sa compagnie. N'y a-t-il pas quelque part, de ce côté, un salon ?</p>
         <p>— Comme vous devinez ! Le salon est là, précisément en face de vous.</p>
-        <p>La .Vienne tourna, en parlant ainsi, le bouton cisèle d'une porte, et il passa, les flambeaux à la main, devant sa femme, qui murmurait tout bas :</p>
+        <p>La Vienne tourna, en parlant ainsi, le bouton cisèle d'une porte, et il passa, les flambeaux à la main, devant sa femme, qui murmurait tout bas :</p>
         <p>— C'est cela ! oh ! c'est cela !</p>
-        <p>Le salon était immense et encombré du massif et splendide mobilier de cette époque : tables à.lourds tapis'de soie plus épais que le cuir, sculptures dans l'ébène, l'ivoire et le cèdre, lustres de verres aux riches, couleurs, gigantesques fauteuils aux franges d'or, émaux précieux comme des pierreries, horloges dont le dessin flottait encore entre les fantastiques arabesques de l'Orient et le goût plus ràide de la mystique Allemagne.</p>
-        <p>Sylvie traversa le. salon, après l'avoir à peine honoré d'un coup d'œil.</p>
+        <p>Le salon était immense et encombré du massif et splendide mobilier de cette époque : tables à lourds tapis de soie plus épais que le cuir, sculptures dans l'ébène, l'ivoire et le cèdre, lustres de verres aux riches, couleurs, gigantesques fauteuils aux franges d'or, émaux précieux comme des pierreries, horloges dont le dessin flottait encore entre les fantastiques arabesques de l'Orient et le goût plus raide de la mystique Allemagne.</p>
+        <p>Sylvie traversa le salon, après l'avoir à peine honoré d'un coup d'œil.</p>
         <p>— Eh ! dit la Vienne, où allez-vous donc si vite ? ceci n'est-il pas bon avoir ? Patience !</p>
-        <p>— C'est un salon, répondit Sylvie, et il en est d'un salon comme d'une salle à manger ; sauf quelques pistolès en' plus ou en moins, tous se ressemblent. Voilà, sauf le goût.</p>
+        <p>— C'est un salon, répondit Sylvie, et il en est d'un salon comme d'une salle à manger ; sauf quelques pistoles en plus ou en moins, tous se ressemblent. Voilà, sauf le goût.</p>
         <p>— Comme vous y allez ! et quel mépris pour les richesses ! s'écria la Vienne. Vous étiez si curieuse de voir ! et vous ne regardez rien.</p>
         <p>Je m'attendais, je l'avoue, à un spectacle plus extraordinaire, balbutia Sylvie, qui ne tenait plus en place. Ma curiosité, comme vous dites, était fort excitée ; la réalité me refroidit un peu. Mais, puisque nous voilà arrêtés, un mot d'explication, je vous prie. Ne me disiez-vous pas, tout à l'heure, que la marquise prêtait parfois cette maison à des gentilshommes, ses amis ?</p>
         <p>— Oui, certes.</p>
-        <p>— Qui... à leur tour y amenaient leurs, compagnies ?</p>
+        <p>— Qui... à leur tour y amenaient leurs compagnies ?</p>
         <p>— Je l'ai dit, et on l'a fait.</p>
-        <p>-— Ces gens-lâ, reprit Sylvie avec un- battement de cœur qu'elle ne dissimulait' pas sans de violents efforts, ces gens-là n'ont donc pas de maison à eux, ce sont donc des croquants ?</p>
-        <p>—-Ce sont les plus grands seigneurs de France, ma toute belle.</p>
+        <p>— Ces gens-là, reprit Sylvie avec un- battement de cœur qu'elle ne dissimulait pas sans de violents efforts, ces gens-là n'ont donc pas de maison à eux, ce sont donc des croquants ?</p>
+        <p>— Ce sont les plus grands seigneurs de France, ma toute belle.</p>
         <p>— Ah ! fit-elle comme étonnée.</p>
         <p>— Il y est venu mieux que des grands seigneurs, et tous ont témoigné plus d'admiration que vous pour le talent de l'architecte qui a bâti cette maison.</p>
         <p>— Leurs yeux sont faits autrement que les miens, alors, répondit Sylvie, jouant toujours l'indifférence. Qui sont ces gens-là... ces seigneurs, ces princes, est-ce aussi un secret ?... Oh ! alors, cachez-le-moi.</p>
-        <p>— Les secrets de madame de Verneuil sont tous assez publics —j'excepte le secret de cette maison ! —pour que, si je les égratigne, on ne puisse me soupçonner seul d'avoir parlé. Oh ! oui, mignonne, il est venu ici de grands seigneurs.... Tenez, M. de Joinville y est venu bien souvent ; mais pour la dame de la maison, celui-là, pas pour d'autres. À celui-là on ne prêtait pas, on ouvrait le pavillon.</p>
+        <p>— Les secrets de madame de Verneuil sont tous assez publics — j'excepte le secret de cette maison ! — pour que, si je les égratigne, on ne puisse me soupçonner seul d'avoir parlé. Oh ! oui, mignonne, il est venu ici de grands seigneurs.... Tenez, M. de Joinville y est venu bien souvent ; mais pour la dame de la maison, celui-là, pas pour d'autres. À celui-là on ne prêtait pas, on ouvrait le pavillon.</p>
         <p>— D'accord ; mais ceux à qui on le prêtait pour qu'ils le prêtassent eux-mêmes ?</p>
-        <p>— M. de Feria, l'ambassadeur. Il y conduisait certaine grande dame, qui aujourd'hui me fait bien rire in petto, quand je la vois passer si austère, si majestueuse... Oh ! mignonne, si elle pouvait savoir ce que je sais !...</p>
+        <p>— M. de Feria, l'ambassadeur. Il y conduisait certaine grande dame, qui aujourd'hui me fait bien rire <foreign rend="italic">in petto</foreign>, quand je la vois passer si austère, si majestueuse... Oh ! mignonne, si elle pouvait savoir ce que je sais !...</p>
         <p>— Ah !... vous voyiez parfois ces fugitives hôtesses...</p>
-        <p>— Quelquefois par hasard, quelquefois par malice ; parfois aussi,malgré toutes mes ruses, je ne voyais rien. Ainsi, par exemple, la dernière fois que le comte est venu...</p>
+        <p>— Quelquefois par hasard, quelquefois par malice ; parfois aussi, malgré toutes mes ruses, je ne voyais rien. Ainsi, par exemple, la dernière fois que le comte est venu...</p>
         <p>— Quel comte ? demanda Sylvie respirant à peine.</p>
         <p>— L'Espagnol.</p>
         <p>— Ah !... un Espagnol ?</p>
-        <p>— M. de Siete-Iglesias, continua la Vienne en clignant l'œil si malignement qu'il ne vit pas le nuage d'opale qui envahit les traits de Sylvie. Je disais donc qu'il vint, et pas seul assurément, j'entendis bruire robe et mante dans ce salon. Mais je ne réussis pas à voir, j'étais arrivé trop tard pour me placer à mon observatoire. '</p>
+        <p>— M. de Siete-Iglesias, continua la Vienne en clignant l'œil si malignement qu'il ne vit pas le nuage d'opale qui envahit les traits de Sylvie. Je disais donc qu'il vint, et pas seul assurément, j'entendis bruire robe et mante dans ce salon. Mais je ne réussis pas à voir, j'étais arrivé trop tard pour me placer à mon observatoire. </p>
         <p>— Quand donc cela ? dit Sylvie les deux mains sur son cœur, qui repoussait l'obstacle trois fois par seconde.</p>
-        <p>— Voilà... voyons, c'était deux mois avant son mariage, voilà dix-huit mois, ma foi oui, un jour d'hiver maussade, comme qui dirait aujourd'hui. -</p>
-        <p>Sylvie se détourna pour s'appuyer à une crédence sur laquelle glissa sa main trem- ; blante et moite.</p>
-        <p>— Vous avez donc un observatoire ? reprit- ; elle après un long silence que la Vienne avait ; employé à caresser, à effleurer de ses grosses lèvres les boucles frisées qui endoyaient en vrilles sur le cou blanc de sa eune femme. </p>
+        <p>— Voilà... voyons, c'était deux mois avant son mariage, voilà dix-huit mois, ma foi oui, un jour d'hiver maussade, comme qui dirait aujourd'hui. </p>
+        <p>Sylvie se détourna pour s'appuyer à une crédence sur laquelle glissa sa main tremblante et moite.</p>
+        <p>— Vous avez donc un observatoire ? reprit-elle après un long silence que la Vienne avait employé à caresser, à effleurer de ses grosses lèvres les boucles frisées qui ondoyaient en vrilles sur le cou blanc de sa jeune femme. </p>
         <p>— Oui, fit-il finement. Le voulez-vous voir ? </p>
-        <p>— Non, non ! s'écria-t-elle avec vivacité. Beconduisez-moi, je vous prie.</p>
-        <p>—-Mignonne, pour une femme de goût, permettez-moi de vous dire que vous faites fausse route. C'est le plus curieux qui nous ; reste à visiter.</p>
+        <p>— Non, non ! s'écria-t-elle avec vivacité. Reconduisez-moi, je vous prie.</p>
+        <p>— Mignonne, pour une femme de goût, permettez-moi de vous dire que vous faites fausse route. C'est le plus curieux qui nous reste à visiter.</p>
         <p>— J'ai assez vu, monsieur.</p>
-        <p>— Non, tant que vous n'aurez pas admiré ; le cabinet de la marquise, vous n'aurez rien vu.</p>
-        <p>— Je me figure bien. '</p>
-        <p>— C'est impossible de se figurer. Venez... * oh ! mignonne, ne me résistez pas ainsi. Je-> ne vous conduis pas à la damnation, moi ; je ne suis pas un M. de Siete-Iglesias, et, d'ailleurs, celle qu'il à amenée ici ne se défendait pas comme vous ;</p>
-        <p>Sylvie, encore une fois brisée par ce terrible, retour de souvenir, détendit sa main, suivit la Vienne et pénétra toute Chancelante, toute éblouie dans le cabinet dont il venait d'ouvrir la porte.</p>
+        <p>— Non, tant que vous n'aurez pas admiré le cabinet de la marquise, vous n'aurez rien vu.</p>
+        <p>— Je me figure bien. </p>
+        <p>— C'est impossible de se figurer. Venez... oh ! mignonne, ne me résistez pas ainsi. Je ne vous conduis pas à la damnation, moi ; je ne suis pas un M. de Siete-Iglesias, et, d'ailleurs, celle qu'il à amenée ici ne se défendait pas comme vous. </p>
+        <p>Sylvie, encore une fois brisée par ce terrible retour de souvenir, détendit sa main, suivit la Vienne et pénétra toute chancelante, toute éblouie dans le cabinet dont il venait d'ouvrir la porte.</p>
         <p>La Vienne avait raison. Cette pièce était la plus curieuse de l'appartement.</p>
-        <p>Complètement tendue de brocart de Balsorah, sans autres meubles que des coussins de même étoffe adossés à la muraille ou semés çà et là, tapissée d'un épais tapis de Perse, fermée de portières pareilles au tapis, cette chambre bizarre n'avait rien de remarquable au premier aspect, que l'extrême richesse des tentures et la singularité de cet ameublement oriental. Partout des nattes, des peaux de tigre ou de lion, des peaux d'autruche. Dans l'épaisse litière de ces moelleux pelages,, le pied heurtait des kangiars magnifiques, des colliers d'ambre, des chapelets deboisd'aloès, des flacons d'essences précieuses, des peintures tressées d'argent, de soie et d'or. On devinait que ces richesses semées parmi le duvet ou les fourrures attendaient le caprice d'une main énervée qui se joue, d'un bras nu qui s'y enroule. Chambre digne de Sardanapale ou 'du voluptueux Saad qui a dit : — Mieux vaut être assis que debout ; mieux vaut être « couché qu'assis.</p>
-        <p>Quand le pied mignon, le pied chaussé de ; Sylvie foula cette moelleuse et profonde jon).: chée, elle s'arrêta. Ses yeux ne voulaient plus ;. voir, ses jambes refusaient de marcher. -. — Ah ! ceci est moins commun, mignonne, dit la Vienne avec un rire amoureux qui redoubla la frayeur de sa femme, et vous faites moins la dédaigneuse, je crois. : —Votre observatoire, je vous prie, dit :. Sylvie précipitamment.</p>
-        <p>— Un moment, de grâce, veuillez d'abord «regarder ce-plafond.</p>
-        <p>i ; — À quoi bon ? c'est un plafond comme ; tous les autres.</p>
-        <p>: —Non pas ! non pas ! je tiens à ce que . vous le regardiez, à ce que vous l'examiniez en détail. J'ai mes raisons. Et d'abord obvservez qu'il est formé d'un entrelacement de bois de cèdre formant des caissons, des .volutes, des arabesques, heureusement fouillées dans, l'épaisseur du bois, car il est tout en bois, ce .plafond, remarquez ! ;</p>
+        <p>Complètement tendue de brocart de Balsorah, sans autres meubles que des coussins de même étoffe adossés à la muraille ou semés çà et là, tapissée d'un épais tapis de Perse, fermée de portières pareilles au tapis, cette chambre bizarre n'avait rien de remarquable au premier aspect, que l'extrême richesse des tentures et la singularité de cet ameublement oriental. Partout des nattes, des peaux de tigre ou de lion, des peaux d'autruche. Dans l'épaisse litière de ces moelleux pelages, le pied heurtait des kangiars magnifiques, des colliers d'ambre, des chapelets de bois d'aloès, des flacons d'essences précieuses, des peintures tressées d'argent, de soie et d'or. On devinait que ces richesses semées parmi le duvet ou les fourrures attendaient le caprice d'une main énervée qui se joue, d'un bras nu qui s'y enroule. Chambre digne de Sardanapale ou du voluptueux Saad qui a dit : — Mieux vaut être assis que debout ; mieux vaut être couché qu'assis.</p>
+        <p>Quand le pied mignon, le pied chaussé de Sylvie foula cette moelleuse et profonde jonchée, elle s'arrêta. Ses yeux ne voulaient plus voir, ses jambes refusaient de marcher.</p>
+        <p>— Ah ! ceci est moins commun, mignonne, dit la Vienne avec un rire amoureux qui redoubla la frayeur de sa femme, et vous faites moins la dédaigneuse, je crois.</p>
+        <p>— Votre observatoire, je vous prie, dit Sylvie précipitamment.</p>
+        <p>— Un moment, de grâce, veuillez d'abord regarder ce plafond.</p>
+        <p>— À quoi bon ? c'est un plafond comme tous les autres.</p>
+        <p>— Non pas ! non pas ! je tiens à ce que vous le regardiez, à ce que vous l'examiniez en détail. J'ai mes raisons. Et d'abord observez qu'il est formé d'un entrelacement de bois de cèdre formant des caissons, des volutes, des arabesques, heureusement fouillées dans l'épaisseur du bois, car il est tout en bois, ce plafond, remarquez ! </p>
         <p>— Je remarque, oui, le plafond est beau ; mais sortons d'ici, je vous en supplie.</p>
         <p>— Les parfums vous incommodent-ils ? le fait est qu'il s'exhale d'ici un air enivrant. Mais de grâce, un dernier coup d'œil à mon plafond, dont je vous conterai l'histoire, si vous êtes une adorable mignonne.</p>
-        <p>— Votre observatoire, dit Sylvie en bonT dissant hors du cercle trop étroit où la Vienne l'enfermait avec ses bras trop courts.</p>
+        <p>— Votre observatoire, dit Sylvie en bondissant hors du cercle trop étroit où la Vienne l'enfermait avec ses bras trop courts.</p>
         <p>— Soit donc, dit-il, époux complaisant pour les fantaisies de sa femme.</p>
         <p>Et il poussa dans le mur un bouton qui fit ouvrir la porte invisible d'un petit cabinet voisin, sombre et large de six pieds au plus, et exhalant une violente odeur composée d'une agglomération des plus doux parfums.</p>
         <p>— Où sommes-nous ici ? dit-elle.</p>
-        <p>— Au mur de clôture du pavillon. Là finit le royaume de la marquise. .</p>
+        <p>— Au mur de clôture du pavillon. Là finit le royaume de la marquise.</p>
         <p>— Il n'y a pas d'issue de ce côté ?</p>
         <p>— Aucune. Ce petit cabinet, entrez-y, est le vestiaire de madame.</p>
         <p>— Il y a des habits, là?</p>
         <p>— Des robes turques, romaines, grecques, indiennes, rien que des robes, grandes et petites. Ces robes-là sont les seuls habits qui résistent un peu au frottement des peaux de lion, lesquelles, sans en avoir l'air, usent, dit-on, toute autre espèce de vêtements.</p>
-        <p>En parlant ainsi, la Vienne donna largement carrière à son' gros rire.</p>
+        <p>En parlant ainsi, la Vienne donna largement carrière à son gros rire.</p>
         <p>Mais alors Sylvie, qui le fuyait avec tant d'adresse, lui prit la main tout à coup.</p>
         <p>— Qu'y a-t-il, mignonne ?</p>
         <p>— Vous n'entendez pas ?</p>
         <p>— Non. Quoi donc ?</p>
-        <p>— Une porte qui crie. La Vienne écouta.</p>
+        <p>— Une porte qui crie.</p>
+        <p>La Vienne écouta.</p>
         <p>— Encore ! tenez, dit Sylvie.</p>
         <p>Le baigneur fit un bond et s'élança hors du cabinet.</p>
         <p>— Qu'est-ce ? fit la jeune femme.</p>
@@ -4817,31 +4829,33 @@
         <p>— Qui cela peut-il être ?</p>
         <p>— La marquise !... Bonté du ciel !</p>
         <p>— Eh bien ?</p>
-        <p>— Cachez-vous ! cachez-vôus ! Quoi ! la marquise une heure et demie d'avance ! Cachez-vous, mignonne, je vais venir-vous reprendre quand je l'aurai fait entrer au salon. Cachez-vous bien et, pour l'amour de moi, ne bougez pas.</p>
+        <p>— Cachez-vous ! cachez-vous ! Quoi ! la marquise une heure et demie d'avance ! Cachez-vous, mignonne, je vais venir vous reprendre quand je l'aurai fait entrer au salon. Cachez-vous bien et, pour l'amour de moi, ne bougez pas.</p>
         <p>Sylvie se blottit derrière les robes persanes, prête à défaillir à la suite de tant d'émotions.</p>
         <p>Il était temps. On entendait une voix qui appelait de loin :</p>
         <p>— La Vienne ! la Vienne !</p>
+        <milestone unit="section" rend="asterisk"/>
         <p>Le baigneur s'élança dans cette direction. Il arriva au moment où madame de Verneuil, déjà étonnée, commençait à appeler avec plus d'impatience.</p>
-        <p>— Quoi ! madame la marquise, déjà? dit la Vienne.</p>
-        <p>— C'est toi, si tard, la Vienne ? — Je rangeais et apprêtais.-</p>
+        <p>— Quoi ! madame la marquise, déjà ? dit la Vienne.</p>
+        <p>— C'est toi, si tard, la Vienne ?</p>
+        <p>— Je rangeais et apprêtais. </p>
         <p>— Fort bien. Mais nous avons le temps.</p>
         <p>— Certes, madame... Oh ! tout sera prêt à l'heure.</p>
         <p>— J'en suis sûre. Va-t'en.</p>
         <p>— Plaît-il ?</p>
-        <p>— Va-t'en, répéta Henriette , qui, dans l'ombre à peine combattue par les deux flambeaux que tenait la Vienne, ne remarqua rien, tant elle semblait préoccupée ellemême.</p>
+        <p>— Va-t'en, répéta Henriette, qui, dans l'ombre à peine combattue par les deux flambeaux que tenait la Vienne, ne remarqua rien, tant elle semblait préoccupée elle-même.</p>
         <p>Cependant, ne voyant pas bouger le malheureux baigneur :</p>
         <p>— Qu'as-tu ? dit-elle.</p>
         <p>— Mais... j'attends les ordres de madame. Est-ce que madame n'entre pas au salon ?</p>
         <p>— Je t'ai dit de te retirer.</p>
         <p>Il recula et fit quelques pas ainsi, le visage bouleversé. ..</p>
-        <p>— Je te rappellerai tout.à l'heure, dit-elle. Tu es tout singulier, ce me semble.</p>
+        <p>— Je te rappellerai tout à l'heure, dit-elle. Tu es tout singulier, ce me semble.</p>
         <p>— Moi, madame ?</p>
         <p>— Laisse-moi ces flambeaux. Que regardes-tu autour de toi ?</p>
         <p>— Rien, rien.</p>
         <p>— Je suis bien seule ici, je suppose ?.... dit la marquise avec un regard qui eût fait rentrer en terre Goliath ou Briarée.</p>
-        <p>—'Oh ! madame...</p>
+        <p>— Oh ! madame...</p>
         <p>— C'est bon ! va. Tu peux revenir dans un quart d'heure, pas avant !</p>
-        <p>Il soupira, continua de. reculer peu à peu devant la marquise^ qui le conduisait doucement à sa porte de communication, et enfin il se trouva dehors.-</p>
+        <p>Il soupira, continua de reculer peu à peu devant la marquise qui le conduisait doucement à sa porte de communication, et enfin il se trouva dehors.</p>
         <p>Henriette resta seule, et promena autour d'elle un long regard, plutôt pour se recueillir que pour observer.</p>
       </div>
       <div type="chapter">
