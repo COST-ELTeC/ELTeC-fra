@@ -524,10 +524,8 @@
           <p>Au chevet, un prêtre était à genoux et récitait, en surplis, les prières des morts.</p>
           <p>Autour du lit, les serviteurs pleuraient agenouillés.</p>
           <p>Sur le guéridon de nuit brûlait un cierge mortuaire. À côté du cierge était un large pli, portant cette inscription :</p>
-          <quote>
-            <p>
-              <hi>À monsieur le baron de Nossac</hi>
-            </p>
+          <quote type="letter">
+            <p><hi rend="italic">À monsieur le baron de Nossac</hi></p>
             <p>La baronne de Nossac était <hi>TRÉPASSÉE</hi> de la veille. C'était son glas funèbre qu'avait entendu le baron. </p>
           </quote>
           <p>Il marcha droit au lit avec la raideur d'une statue et posa la main sur le cœur de la morte... Le cœur ne battait plus.</p>
@@ -554,34 +552,16 @@
           <head>VIII</head>
           <p>Le baron fit rendre les honneurs funèbres à sa femme, puis il appuya un pistolet sur son front et voulut se tuer ; mais il songea qu'il ne lui avait pas fait élever un mausolée, et il pensa qu'il était plus convenable d'attendre l'érection de cet édifice pour se brûler dessus la cervelle.</p>
           <p>Le mausolée fut construit à grands frais et s'éleva dans le parc du château avec cette inscription :</p>
-          <quote>
-            <p>
-              <hi>ICI GÎT</hi>
-            </p>
-            <p>
-              <hi>LA BARONNE HÉLÈNE DE NOSSAC</hi>
-            </p>
-            <p>
-              <hi>NÉE BORELLI,</hi>
-            </p>
-            <p>
-              <hi>TRÉPASSÉE VIERGE</hi>
-            </p>
-            <p>
-              <hi>À L'ÂGE</hi>
-            </p>
-            <p>
-              <hi>DE</hi>
-            </p>
-            <p>
-              <hi>VINGT-CINQ</hi>
-            </p>
-            <p>
-              <hi>ANS.</hi>
-            </p>
-            <p>
-              <hi>D. P.</hi>
-            </p>
+          <quote type="inscription">
+            <p><hi>ICI GÎT</hi></p>
+            <p><hi>LA BARONNE HÉLÈNE DE NOSSAC</hi></p>
+            <p><hi>NÉE BORELLI,</hi></p>
+            <p><hi>TRÉPASSÉE VIERGE</hi></p>
+            <p><hi>À L'ÂGE</hi></p>
+            <p><hi>DE</hi></p>
+            <p><hi>VINGT-CINQ</hi></p>
+            <p><hi>ANS.</hi></p>
+            <p><hi>D. P.</hi></p>
           </quote>
           <p>Quand ce fut fait, l'inconsolable baron apprêta de nouveau ses pistolets et se rendit sur la tombe pour y faire le sacrifice de sa vie aux mânes de sa femme infortunée.</p>
           <p>Mais un gentilhomme venant de Paris, à franc étrier, y arriva en même temps que lui et lui dit :</p>
@@ -701,52 +681,22 @@
           <head>V</head>
           <p>Le baron dormit mal dans le lit misérable qui était cependant le meilleur de l'auberge où il était descendu. Le cauchemar, ce rêve pénible qui suit d'ordinaire les grandes fatigues, l'assaillit pendant plusieurs heures et déroula dans son imagination impressionnée les contes les plus étranges et les plus noires légendes qui aient cours dans cette mystérieuse Allemagne qui, de nos jours encore, n'est point complètement affranchie des traditions superstitieuses et féeriques du Moyen Âge.</p>
           <p>Tout à coup, une voix monotone, lente, bizarre, l'éveilla en sursaut. Cette voix disait un chant slavon dont voici le premier couplet :</p>
-          <quote>
-            <p>
-              <hi>Le vieux châtelain, le sourcil froncé,</hi>
-            </p>
-            <p>
-              <hi>Est encore assis à minuit passé</hi>
-            </p>
-            <p>
-              <hi>Dans son grand fauteuil séculaire,</hi>
-            </p>
-            <p>
-              <hi>Le dernier tison du feu, et l'aurore teint</hi>
-            </p>
-            <p>
-              <hi>L'horizon bientôt. Qu'a-t-il pour se taire</hi>
-            </p>
-            <p>
-              <hi>Et garder ainsi son visage austère,</hi>
-            </p>
-            <p>
-              <hi>Sombre et menaçant, le vieux châtelain ?</hi>
-            </p>
-            <p>
-              <hi>Le vieux châtelain, dans la forêt sombre,</hi>
-            </p>
-            <p>
-              <hi>À l'heure où le jour s'efface sous l'ombre,</hi>
-            </p>
-            <p>
-              <hi>Aura vu passer sur son cheval noir</hi>
-            </p>
-            <p>
-              <hi>Le veneur tout noir qui nuit et jour chasse,</hi>
-            </p>
-            <p>
-              <hi>Le noir veneur qui jamais ne se lasse,</hi>
-            </p>
-            <p>
-              <hi>Et, le fouet en main du matin au soir,</hi>
-            </p>
-            <p>
-              <hi>Embouche la trompe, et poursuit la chasse...</hi>
-            </p>
-            <p>
-              <hi>On verra demain des morts au manoir !</hi>
-            </p>
+          <quote type="song">
+            <p><hi>Le vieux châtelain, le sourcil froncé,</hi></p>
+            <p><hi>Est encore assis à minuit passé</hi></p>
+            <p><hi>Dans son grand fauteuil séculaire,</hi></p>
+            <p><hi>Le dernier tison du feu, et l'aurore teint</hi></p>
+            <p><hi>L'horizon bientôt. Qu'a-t-il pour se taire</hi></p>
+            <p><hi>Et garder ainsi son visage austère,</hi></p>
+            <p><hi>Sombre et menaçant, le vieux châtelain ?</hi></p>
+            <p><hi>Le vieux châtelain, dans la forêt sombre,</hi></p>
+            <p><hi>À l'heure où le jour s'efface sous l'ombre,</hi></p>
+            <p><hi>Aura vu passer sur son cheval noir</hi></p>
+            <p><hi>Le veneur tout noir qui nuit et jour chasse,</hi></p>
+            <p><hi>Le noir veneur qui jamais ne se lasse,</hi></p>
+            <p><hi>Et, le fouet en main du matin au soir,</hi></p>
+            <p><hi>Embouche la trompe, et poursuit la chasse...</hi></p>
+            <p><hi>On verra demain des morts au manoir !</hi></p>
           </quote>
           <p>Ce chant s'élevant tout à coup au milieu du silence nocturne et réveillant les échos paisibles des environs, étonna le baron assez vivement pour le faire sauter au bas du lit et courir à sa fenêtre qui donnait sur la cour de l'auberge.</p>
           <p>À la clarté de la lune qui frangeait d'argent de gros nuages noirs, affectant des formes étranges et tourmentées, il aperçut un homme occupé à harnacher deux chevaux.</p>
@@ -766,22 +716,12 @@
           <p>La lune, passant successivement derrière les nuages, tigrait plaines et coteaux d'ombres gigantesques et bizarres ; parfois, elle disparaissait complètement, et alors l'obscurité était profonde, et le baron avait toutes les peines du monde à voir trois pas devant lui le cheval de son guide.</p>
           <p>Les nuages allaient se resserrant peu à peu : au moment où les deux cavaliers atteignirent l'entrée de la gorge, ils ne formèrent plus qu'une seule route noire et menaçante ; la lune disparut tout à fait, et les ténèbres devinrent si profondes que le baron sentit son cheval frissonner instinctivement sous lui.</p>
           <p>Tout aussitôt la voix du <hi>znapan</hi> s'éleva de nouveau et continua sa chanson. </p>
-          <quote>
-            <p>
-              <hi>Ce veneur maudit a Satan pour père ;</hi>
-            </p>
-            <p>
-              <hi>Il est tout puissant, il peut tout sur terre ;</hi>
-            </p>
-            <p>
-              <hi>Il a dans les bois un château d'argent,</hi>
-            </p>
-            <p>
-              <hi>Sa meute est ardente, et met hors d'haleine</hi>
-            </p>
-            <p>
-              <hi>Un grand cerf dix cors en une heure à peine.</hi>
-            </p>
+          <quote type="song">
+            <p><hi>Ce veneur maudit a Satan pour père ;</hi></p>
+            <p><hi>Il est tout puissant, il peut tout sur terre ;</hi></p>
+            <p><hi>Il a dans les bois un château d'argent,</hi></p>
+            <p><hi>Sa meute est ardente, et met hors d'haleine</hi></p>
+            <p><hi>Un grand cerf dix cors en une heure à peine.</hi></p>
           </quote>
           <p>— Ah çà, maraud ! s'écria le baron impressionné malgré lui, que me chantes-tu là ?</p>
           <p>— La légende du veneur noir.</p>
@@ -796,69 +736,31 @@
           <p>— Ah ! ah !</p>
           <p>— Car on dit qu'il cherche femme, le veneur noir, et qu'aucune, noble châtelaine ou paysanne, ne veut de lui.</p>
           <p>— Je n'ai pas de fille à marier, mais je cherche femme ; si le veneur noir en avait une... mordieu ! je crois que je l'épouserais.</p>
-          <p>Le baron achevait à peine ces mots d'un ton léger, qu'une voix stridente s'éleva dans les profondeurs de la gorge, à cinq cents mètres devant les cavaliers, et cette voix bien autrement accentuée et terrible que celle du <hi>znapan</hi> entonna un troisième couplet de la légende du veneur noir, couplet inconnu sans doute au <hi>znapan :</hi>
-          </p>
-          <quote>
-            <p>
-              <hi>Qu'a donc le châtelain, que son front est sévère,</hi>
-            </p>
-            <p>
-              <hi>Et qu'à l'heure où tout est calme sur cette terre,</hi>
-            </p>
-            <p>
-              <hi>Où tout dort, il demeure au coin de l'âtre, ainsi</hi>
-            </p>
-            <p>
-              <hi>Qu'un trépassé qui vient de la ronde infernale,</hi>
-            </p>
-            <p>
-              <hi>Qu'au carrefour des bois Satan la nuit étale,</hi>
-            </p>
-            <p>
-              <hi>Et qui se veut asseoir encore une heure aussi</hi>
-            </p>
-            <p>
-              <hi>Au feu de sa maison, et frissonnant et pâle,</hi>
-            </p>
-            <p>
-              <hi>Se réchauffer avant qu'un vert rayon d'opale</hi>
-            </p>
-            <p>
-              <hi>Ait glissé, tremblotant, dans le ciel éclairci</hi>  ? </p>
+          <p>Le baron achevait à peine ces mots d'un ton léger, qu'une voix stridente s'éleva dans les profondeurs de la gorge, à cinq cents mètres devant les cavaliers, et cette voix bien autrement accentuée et terrible que celle du <hi>znapan</hi> entonna un troisième couplet de la légende du veneur noir, couplet inconnu sans doute au <hi>znapan</hi>:</p>
+          <quote type="song">
+            <p><hi>Qu'a donc le châtelain, que son front est sévère,</hi></p>
+            <p><hi>Et qu'à l'heure où tout est calme sur cette terre,</hi></p>
+            <p><hi>Où tout dort, il demeure au coin de l'âtre, ainsi</hi></p>
+            <p><hi>Qu'un trépassé qui vient de la ronde infernale,</hi></p>
+            <p><hi>Qu'au carrefour des bois Satan la nuit étale,</hi></p>
+            <p><hi>Et qui se veut asseoir encore une heure aussi</hi></p>
+            <p><hi>Au feu de sa maison, et frissonnant et pâle,</hi></p>
+            <p><hi>Se réchauffer avant qu'un vert rayon d'opale</hi></p>
+            <p><hi>Ait glissé, tremblotant, dans le ciel éclairci</hi> ?</p>
           </quote>
           <p>— Quelle est cette voix ? demanda le baron tressaillant et arrêtant court son cheval.</p>
           <p>Mais le <hi>znapan</hi> ne répondit pas, soit qu'il fût dominé par la terreur, soit qu'il n'eût point entendu l'interpellation. La voix reprit : </p>
-          <quote>
-            <p>
-              <hi>Le vieux châtelain est sexagénaire,</hi>
-            </p>
-            <p>
-              <hi>Il a vu passer en quelque clairière</hi>
-            </p>
-            <p>
-              <hi>Le cheval d'ébène et le veneur noir...</hi>
-            </p>
-            <p>
-              <hi>C'est qu'avant la nuit prochaine au manoir</hi>
-            </p>
-            <p>
-              <hi>On verra des morts, et que dès ce soir</hi>
-            </p>
-            <p>
-              <hi>L'aumônier dira sa morne prière.</hi>
-            </p>
-            <p>
-              <hi>Ce n'est point cela. Le grand veneur noir</hi>
-            </p>
-            <p>
-              <hi>Est venu naguère heurter au manoir</hi>
-            </p>
-            <p>
-              <hi>Il a dit au vieux châtelain : « Ce soir,</hi>
-            </p>
-            <p>
-              <hi>Je veux aimer ta fille une nuit entière. »</hi>
-            </p>
+          <quote type="song">
+            <p><hi>Le vieux châtelain est sexagénaire,</hi></p>
+            <p><hi>Il a vu passer en quelque clairière</hi></p>
+            <p><hi>Le cheval d'ébène et le veneur noir...</hi></p>
+            <p><hi>C'est qu'avant la nuit prochaine au manoir</hi></p>
+            <p><hi>On verra des morts, et que dès ce soir</hi></p>
+            <p><hi>L'aumônier dira sa morne prière.</hi></p>
+            <p><hi>Ce n'est point cela. Le grand veneur noir</hi></p>
+            <p><hi>Est venu naguère heurter au manoir</hi></p>
+            <p><hi>Il a dit au vieux châtelain : « Ce soir,</hi></p>
+            <p><hi>Je veux aimer ta fille une nuit entière. »</hi></p>
           </quote>
           <p>— Mais quelle est donc cette voix ? s'écria le baron de Nossac.</p>
           <p>En ce moment, un éclair jaillit de la voûte de nuages qui s'entrouvrit ; cet éclair éclaira la gorge deux secondes, et à sa sinistre lueur, les deux voyageurs aperçurent immobile, au milieu de la route, un cavalier vêtu de noir, monté sur un cheval noir comme lui, et ayant masque de velours au visage et trompe de chasse sur l'épaule.</p>
@@ -944,63 +846,29 @@
           <p>— Je vous croyais célibataire, monseigneur.</p>
           <p>— Vous n'avez donc pas entendu le dernier couplet de ma légende ?</p>
           <p>Et le veneur noir, de sa voix retentissante, entonna les derniers vers de ce chant étrange, qui avait appris au baron son existence et sa présence :</p>
-          <quote>
-            <p>
-              <hi>Ce n'est point cela. Le grand veneur noir</hi>
-            </p>
-            <p>
-              <hi>Est venu naguère heurter au manoir,</hi>
-            </p>
-            <p>
-              <hi>Il a dit au vieux châtelain : « Ce soir,</hi>
-            </p>
-            <p>
-              <hi>Je veux être à ta fille une nuit tout entière,</hi>
-            </p>
+          <quote type="song">
+            <p><hi>Ce n'est point cela. Le grand veneur noir</hi></p>
+            <p><hi>Est venu naguère heurter au manoir,</hi></p>
+            <p><hi>Il a dit au vieux châtelain : « Ce soir,</hi></p>
+            <p><hi>Je veux être à ta fille une nuit tout entière,</hi></p>
           </quote>
           <p>— Sans doute, dit le baron en riant, mais cela ne nous dit point.</p>
           <p>— Attendez donc, fit le veneur diabolique, attendez.</p>
           <p>Et il reprit avec un timbre de joie bruyante dans la voix :</p>
-          <quote>
-            <p>
-              <hi>Le vieux châtelain est mort de douleur,</hi>
-            </p>
-            <p>
-              <hi>Raide on l'a trouvé, la main sur son cœur,</hi>
-            </p>
-            <p>
-              <hi>Quand les moines au cloître ont entonné /</hi>
-            </p>
-            <p>
-              <hi>matines ;</hi>
-            </p>
-            <p>
-              <hi>Mais la châtelaine et le veneur noir</hi>
-            </p>
-            <p>
-              <hi>Avaient déjà fui bien loin du manoir ;</hi>
-            </p>
-            <p>
-              <hi>Ils s'aimaient, fit-on. – Et quand vers le soir,</hi>
-            </p>
-            <p>
-              <hi>Résonnent au loin cloches argentines,</hi>
-            </p>
-            <p>
-              <hi>On entend chanter dans le fond des bois</hi>
-            </p>
-            <p>
-              <hi>Une voix puissante, une forte voix,</hi>
-            </p>
-            <p>
-              <hi>Qui fait trembler les monts et tressaillir la plaine.</hi>
-            </p>
-            <p>
-              <hi>Une voix qui dit : De la châtelaine</hi>
-            </p>
-            <p>
-              <hi>Quatre veneurs tout noirs sont issus en trois fois !</hi>
-            </p>
+          <quote type="song">
+            <p><hi>Le vieux châtelain est mort de douleur,</hi></p>
+            <p><hi>Raide on l'a trouvé, la main sur son cœur,</hi></p>
+            <p><hi>Quand les moines au cloître ont entonné /</hi></p>
+            <p><hi>matines ;</hi></p>
+            <p><hi>Mais la châtelaine et le veneur noir</hi></p>
+            <p><hi>Avaient déjà fui bien loin du manoir ;</hi></p>
+            <p><hi>Ils s'aimaient, fit-on. – Et quand vers le soir,</hi></p>
+            <p><hi>Résonnent au loin cloches argentines,</hi></p>
+            <p><hi>On entend chanter dans le fond des bois</hi></p>
+            <p><hi>Une voix puissante, une forte voix,</hi></p>
+            <p><hi>Qui fait trembler les monts et tressaillir la plaine.</hi></p>
+            <p><hi>Une voix qui dit : De la châtelaine</hi></p>
+            <p><hi>Quatre veneurs tout noirs sont issus en trois fois !</hi></p>
           </quote>
           <p>— Ainsi, fit le baron avec beaucoup de flegme, votre seigneurie a quatre fils ?</p>
           <p>— Et une fille, mon gentilhomme.</p>
@@ -1649,10 +1517,8 @@
           <p>En ce moment, une pensée sinistre traversa l'esprit du baron ; il songea à Gretchen, qui, sans doute, était au bras d'Hermann, et il frémit de colère ; et alors, comme il avait toute sa raison et qu'à tout prix il fallait chasser ce fantôme et refouler cette jalousie stupide, il appela l'image de Roschen à son aide et murmura :</p>
           <p>— Roschen... Roschen... venez vite.</p>
           <p>Mais Roschen ne vint pas, et le baron trouva sur son lit un imperceptible rouleau de papier, qu'il déplia d'un air distrait ; ce rouleau renfermait deux lignes sans signature et en français :</p>
-          <quote>
-            <p>
-              <hi>Wilhem m'épie... Je n'irai pas ce soir... Nous verrons demain.</hi>
-            </p>
+          <quote type="letter">
+            <p><hi>Wilhem m'épie... Je n'irai pas ce soir... Nous verrons demain.</hi></p>
           </quote>
           <p>— Wilhem ! toujours Wilhem ! murmura M. de Nossac avec colère. Quelle influence fatale ou maudite a-t-il donc sur sa sœur ?... sa sœur ?... est-ce sa sœur ?</p>
           <p>Et comme il sentait, à ce doute terrible, ses cheveux se hérisser, de même que, pour fuir Gretchen, il s'était réfugié dans le souvenir de Roschen, de même, pour échapper à ce doute qui l'assaillait, il se reprit à penser à Gretchen.</p>
@@ -2193,9 +2059,7 @@
           <p>Enfin, la fièvre diminua, le délire disparut, le sommeil lui succéda, et un matin, en s'éveillant, le baron vit sa chambre déserte... Gretchen avait disparu. Où était-elle ?</p>
           <p>Si faible qu'il fût, le baron eut la force de se lever et alla jusqu'à une table où il avait aperçu un carré de papier plié en quatre. Il l'ouvrit précipitamment et lut :</p>
           <quote type="letter">
-            <p>
-              <hi>Vous êtes hors de danger et je vous laisse. J'ai voulu m'amuser et profiter d'une étrange ressemblance ; pardonnez-moi le drame terrible qui s'est accompli par ma faute. Vous ne me reverrez jamais ; je puis donc vous faire un aveu : Je vous aime. Adieu.</hi>
-            </p>
+            <p><hi>Vous êtes hors de danger et je vous laisse. J'ai voulu m'amuser et profiter d'une étrange ressemblance ; pardonnez-moi le drame terrible qui s'est accompli par ma faute. Vous ne me reverrez jamais ; je puis donc vous faire un aveu : Je vous aime. Adieu.</hi></p>
             <p>GRETCHEN WALKENAER</p>
           </quote>
           <p>Le baron relut la lettre plusieurs fois, puis, emporté par son amour et un reste de délire, il s'élança hors de sa chambre, parcourut à demi nu le château et le trouva désert.</p>
@@ -2398,16 +2262,10 @@
           <p>Il ne se souvenait plus guère du lieu où ils allaient ; il avait oublié la châtelaine de Kervégan, et il murmurait à part lui, de temps à autre :</p>
           <p>— Il faut que je retrouve Gretchen... dussé-je aller au bout du monde !</p>
           <p>Tout à coup, et comme déjà on apercevait les flèches de Kervégan au-dessus d'un petit bois de mélèzes et de frênes, une voix claire, harmonieuse, pleine de jeunesse et de mélancolie, s'éleva du sein de la lande, chantant ce populaire refrain de la Bretagne :</p>
-          <quote>
-            <p>
-              <hi>Vous n'irez plus au bal, madame la mariée ;</hi>
-            </p>
-            <p>
-              <hi>Vous garderez la maison,</hi>
-            </p>
-            <p>
-              <hi>Pendant que nous irons...</hi>
-            </p>
+          <quote type="song">
+            <p><hi>Vous n'irez plus au bal, madame la mariée ;</hi></p>
+            <p><hi>Vous garderez la maison,</hi></p>
+            <p><hi>Pendant que nous irons...</hi></p>
           </quote>
           <p>À cette voix si fraîche, si jeune, empreinte d'une mélodie sauvage, le baron tressaillit et regarda le marquis.</p>
           <p>— Parbleu ! dit celui-ci, nous n'aurons pas besoin d'aller jusqu'au manoir pour voir la châtelaine, la voici.</p>

@@ -851,9 +851,9 @@
         <p>— Pourrais-tu chanter ça ?</p>
         <p>Il lui présentait l'air d'Alice au premier acte de Robert le Diable.</p>
         <p>Ariadne prit le morceau, déchiffra le chant d'un coup d'œil, lut les paroles à voix basse et commença en hésitant ; puis sa voix se raffermit, elle oublia le reste du monde, et avec un sentiment profond, une expression extraordinaire, elle acheva :</p>
-        <quote>
-          <l> <hi>Fuis les conseils audacieux</hi> </l>
-          <l> <hi>Du séducteur qui m'a perdue</hi> . </l>
+        <quote type="poem">
+          <l rend="italic">Fuis les conseils audacieux</l>
+          <l rend="italic">Du séducteur qui m'a perdue.</l>
         </quote>
         <p>— Où diable as-tu appris à chanter comme ça ? s'écria le vieil Italien en se plantant devant elle.</p>
         <p>— Où ? ici, avec vous ? répondit Ariadne abasourdie.</p>
