@@ -819,7 +819,7 @@
         <p>Le soir, il rentrait des champs assis en travers sur un de ses bœufs, et souvent il chantait la même chanson.</p>
         <p>C'était l'histoire d'un soldat s'en retournant à la guerre après avoir retrouvé sa fiancée mariée.</p>
         <p>Il traînait longtemps sur le refrain qui se terminait ainsi :</p>
-        <quote>
+        <quote type="song">
           <l>Quand, par un tour de maladresse,</l>
           <l>Un boulet m'emportera :</l>
           <l>Allons, adieu, chère maîtresse,</l>
@@ -1131,7 +1131,7 @@
         <p>Oh ! ma mère Marie-Aimée, comme vous étiez belle à côté de cette autre mère, et comme je vous aimais en ce moment ! Comme vos yeux de plusieurs couleurs rayonnaient et illuminaient votre vêtement noir, et comme votre visage était pur dans votre cornette blanche ! Vous étiez aussi visible pour moi, que si vous eussiez été réellement devant moi.</p>
         <p>Je fus toute surprise de me retrouver devant la maison de la colline ; et en même temps, je m'aperçus que la neige tombait en tourmente. J'entrai dans la maison pour m'abriter, et j'allai tout de suite dans la pièce qui donnait sur le jardin.</p>
         <p>Je cherchai à fixer ma pensée ; mais mes idées tournoyaient dans ma tête comme les flocons de neige qui paraissaient monter de la terre et tomber du ciel en même temps ; et chaque fois que je faisais un effort pour penser, ma mémoire ne m'apportait que les bribes d'une chanson que les petites filles chantaient joyeusement dans leurs rondes et qui disait :</p>
-        <quote>
+        <quote type="song">
           <l>On a tant fait sauter la vieille,</l>
           <l>Qu'elle est morte en sautillant,</l>
           <l>Tireli,</l>

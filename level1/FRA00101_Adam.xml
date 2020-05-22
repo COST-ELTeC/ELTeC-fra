@@ -151,7 +151,7 @@
         <p>— Non, dit le fieu de Toinon, son promis ; si c'est trop fort, tu te boucheras les oreilles. Reste.</p>
         <p>— Méchante bigote, dit Jean-Claude, tu en écoutes bien d'autres en latin.</p>
         <p>Voilà donc, s'il vous plaît de l'apprendre, la chanson du vieux berger :</p>
-        <quote>
+        <quote type="song">
           <l>Jeanneton prend sa faucille</l>
           <l>Et s'en va couper du jonc,</l>
           <l>Mais quand sa botte fut faite Elle s'endormit tout du long.</l>
@@ -184,7 +184,7 @@
         <p>— Chantez, chantons, qu'on chante ! dit le dragon en refermant la porte. Bonsoir à un chacun.</p>
         <p>— Bonsoir, Pierre <ref target="#FRA00101N05">[5]</ref> , dit la compagnie :</p>
         <p>La mère Remblay se mit à chanter, d'une belle voix perçante, une chanson. En voilà le refrain ; comprenez si vous pouvez :</p>
-        <quote>
+        <quote type="song">
           <l>Ch' solé y r'luit, ch' moinet y cainte,</l>
           <l>Ch' mouguet flourit, ch' lépène s'épanouit ;</l>
           <l>V'nez, m'tiote caille, v'nez, n'eussiez pau de crainte,</l>
@@ -918,7 +918,7 @@
         <p>— Sois la bienvenue, dit Jean-Claude. Qu'est-ce qu'il y a pour son service ? Parle vite ; quoi qu'elle nous demande, nous serons toujours les obligés de notre mairesse.</p>
         <p>— Je vous apporte une pétition que tous les franciers doivent signer ; lisez-la hautement, mon oncle, dit la Rose en donnant son papier à Jean-Claude.</p>
         <p>Voilà ce que la pétition disait ; je l'ai récrite dans le but de n'en pas omettre un seul mot :</p>
-        <quote>
+        <quote type="letter">
           <p>« Messieurs les administrateurs des chemins de fer du Nord.</p>
           <p>« Messieurs,</p>
           <p>« Depuis l'invention des trains de plaisir tout Parisien connaît les beautés de la province, tout provincial a vu Paris. Rien de mieux. Les voyages sont favorables au développement intellectuel.</p>
@@ -927,7 +927,7 @@
           <p>« Il résulte de ce déplacement une fatigue extrême, une perte de temps considérable à une époque où les bras des travailleurs manquent partout.</p>
           <p>« Les franciers reviennent malades, développent des épidémies, et font courir à la santé publique un danger réel.</p>
           <p>« Il s'agirait de transporter sur des points donnés, à des prix équivalents à ceux des trains de plaisir, moindres même s'il se pouvait, les moissonneurs qui descendent du Nord à l'époque de la moisson.</p>
-          <p>« Puisque vous avez su, Messieurs, trouver moyen de gagner aux trains de plaisir, il serait triste de penser que vous dussiez perdre. <title>AUX TRAINS DE TRAVAIL</title> . </p>
+          <p>« Puisque vous avez su, Messieurs, trouver moyen de gagner aux trains de plaisir, il serait triste de penser que vous dussiez perdre. <hi rend="capitals">AUX TRAINS DE TRAVAIL</hi>. </p>
         </quote>
         <p>« Agréez, Messieurs <ref target="#FRA00101N18">[15]</ref> ... »</p>
         <p>— Les politesses d'usage ! dit Jean-Claude. Hein ! la compagnie, et qu'est-ce que vous pensez de cette pétition-là ?</p>
@@ -967,7 +967,7 @@
         <note xml:id="FRA00101N04">Tous les bergers du pays tricotent.</note>
         <note xml:id="FRA00101N05">Pierre-Louis Gosseu.</note>
         <note xml:id="FRA00101N06">
-          <quote>
+          <quote type="poem">
             <l>Le soleil luit, l'oiseau chante,</l>
             <l>Le muguet fleurit, l'épine s'épanouit ;</l>
             <l>Venez ma petite caille, n'ayez nulle crainte,</l>
