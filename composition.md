@@ -1,5 +1,5 @@
 
-## Corpus composition criteria report:
+## Corpus composition criteria report
 
 - num_novels: 100, 
 - num_authors: 64, 
