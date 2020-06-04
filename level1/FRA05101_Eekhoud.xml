@@ -85,13 +85,12 @@
         <head> Chapitre   1 </head>
 
         <head> L'HONORABLE DEPUTE BERGMANS PRESENTE CE PAUVRE LAURENT PARIDAEL </head>
-        <quote>
-          <p>Hast du die gute Gesellschaft gesehen ?</p>
-          <p>Gute Gesellschaft habe ich gesehen ; man nennt sie die gute Weil sie zum kleinsten Gedicht keine Gelegenheit gibt.</p>
+        <quote type="epigraph">
+          <p><foreign xml:lang="deu">Hast du die gute Gesellschaft gesehen ?</foreign></p>
+          <p><foreign xml:lang="deu">Gute Gesellschaft habe ich gesehen ; man nennt sie die gute Weil sie zum kleinsten Gedicht keine Gelegenheit gibt.</foreign></p>
           <p>Gœthe (Venetianische Epigramme)</p>
         </quote>
-        <p>Les papiers publics se sont beaucoup occupés d'une affaire mystérieuse : celle de ce jeune fossoyeur condamné à six mois de prison pour violation de sépulture et emporté depuis par une fièvre cérébrale. Ils ont mis en cause, son nom ayant été mêlé aux débats judiciaires, feu M. Laurent Paridael, cousin de Régina Dobouziez, ma femme, laquelle avait épousé en premières noces M. Freddy Béjard qui périt si misérablement avec la plupart de ses ouvriers dans l'explosion de sa cartoucherie
-          <ref target="#FRA05101_N1" />. Notre parent Laurent Paridael fut aussi relevé pour mort sur le terrain de la catastrophe. Plût à Dieu qu'il n'en eût pas réchappé. Il n'aurait plus traîné alors une vie déclassée, il se serait épargné de mourir plus piteusement encore par un suicide, après force excentricités. Son honorable famille n'eut point subi l'humiliation de voir son nom accolé à celui d'un malfaiteur et sa mémoire exposée aux commentaires d'une presse friande de scandales.</p>
+        <p>Les papiers publics se sont beaucoup occupés d'une affaire mystérieuse : celle de ce jeune fossoyeur condamné à six mois de prison pour violation de sépulture et emporté depuis par une fièvre cérébrale. Ils ont mis en cause, son nom ayant été mêlé aux débats judiciaires, feu M. Laurent Paridael, cousin de Régina Dobouziez, ma femme, laquelle avait épousé en premières noces M. Freddy Béjard qui périt si misérablement avec la plupart de ses ouvriers dans l'explosion de sa cartoucherie <ref target="#FRA05101_N1" />. Notre parent Laurent Paridael fut aussi relevé pour mort sur le terrain de la catastrophe. Plût à Dieu qu'il n'en eût pas réchappé. Il n'aurait plus traîné alors une vie déclassée, il se serait épargné de mourir plus piteusement encore par un suicide, après force excentricités. Son honorable famille n'eut point subi l'humiliation de voir son nom accolé à celui d'un malfaiteur et sa mémoire exposée aux commentaires d'une presse friande de scandales.</p>
         <p>Sans doute, il me répugne de remuer ces souvenirs, mais il a circulé tant de racontars sur le caractère et la conduite de notre infortuné parent que j'ai jugé indispensable de rectifier les faits.</p>
         <p>Ce fut un personnage déconcertant, qui porta un défi aux convenances, mais il s'était fait une idée spéciale de l'humanité et de la nature, et en tenant compte de cette vision particulière, on reconnaîtra qu'il apporta certaine logique dans ses écarts et qu'il concilia ceux-ci avec une générosité chevaleresque ressemblant à une manière d'apostolat.</p>
         <p>Je l'ai intimement pratiqué, surtout avant mon mariage avec sa cousine M<hi>me</hi> veuve Béjard. Nos bons rapports subsistèrent jusqu'à ce que ses anomalies fussent devenues si flagrantes que sans rompre avec lui, je me vis forcé, par égard pour mon rang et mes relations, de ne plus m'afficher en sa compagnie.</p>
@@ -184,7 +183,7 @@
         <head> Chapitre   2 </head>
 
         <head> VOYOUS DE VELOURS </head>
-        <quote>
+        <quote type="epigraph">
           <p>Mon âme est maternelle ainsi qu'une patrie</p>
           <p>Et je préfère au lys un pleur de sacripant.</p>
           <p>Saint-Pol Roux</p>
@@ -546,7 +545,7 @@
         <head> Chapitre   3 </head>
 
         <head> TREMELOO </head>
-        <quote>
+        <quote type="epigraph">
           <p>Trémeloo</p>
           <p>Sans morale,</p>
           <p>Sans mœurs,</p>
@@ -789,7 +788,7 @@
         <head> Chapitre   4 </head>
 
         <head> LE PENITENCIER DE POULDERBAUGE </head>
-        <quote>
+        <quote type="poem">
           <p>Deux vagabonds,</p>
           <p>Filous en fleur,</p>
           <p>Mes chers, mes bons.</p>
@@ -1022,7 +1021,7 @@
         <head> Chapitre   5 </head>
 
         <head> ABOUTISSEMENT DU TERRASSIER AU FOSSOYEUR </head>
-        <quote>
+        <quote type="epigraph">
           <p>There is no ancient gentlemen, but gardeners, ditchers</p>
           <p>And grave-makers ; they hold up Adam's profession !</p>
           <p>(Shakespeare, <hi>Hamlet</hi>, Acte V, scène 1)</p>

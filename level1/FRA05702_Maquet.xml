@@ -438,7 +438,7 @@
         <p>— Que disait-elle ?</p>
         <p>— Vous croyez que je vais vous chanter la chanson pour laquelle on a pendu cet homme ? Oh voit bien que vous venez de chez les sauvages ; qu'il vous suffise de savoir que le refrain était.,.</p>
         <p>Ici du Bourdet appliqua sur l'oreille de Bernard l'entonnoir imperméable de ses dix doigts et lui infiltra ce vers :</p>
-        <quote>Voilà, messieurs, le temps qu'il fait.</quote>
+        <quote type="poem">Voilà, messieurs, le temps qu'il fait.</quote>
         <p>— Eh bien ! dit Bernard.</p>
         <p>— C'était une allusion, ajouta Aubin finement, et tout Paris l'a comprise.</p>
         <p>— A-t-on de l'esprit à Paris ! murmura Bernard. Mais les deux autres sujets de conversation, quels sont-ils ? La cour ? la ville ? les impôts ?</p>
@@ -1676,12 +1676,12 @@
         <milestone unit="section" />
         <p>Ce premier moment de course fut silencieux, chacun des trois voyageurs en profitait pour se livrer à ses réflexions particulières. Et peu à peu l'influence des ténèbres rapprochant les trois angles du triangle, on se reprit à se coudoyer, on combattit les tristesses de l'ombre par un entretien plus vif.</p>
         <p>Du Bourdet revint encore une fois à son thème favori.</p>
-        <p>— Il faut avouer, Bernard, s'écria-t-il, que vous me donneriez, si j'étais soupçonneux, clés doutes sur l'état réel de votre esprit, de votre sincérité, même. Nous n'avons pas bu à la santé de votre future, et vous ne m'avez adressé sur elle aucune question. Où donc est cette ardeur du-mariage, cette soif du bonheur intérieur qui se trahissaient à chaque ligne dans vos lettres ? Ne souhaitez-vous plus ce bonheur depuis que vous l'avez sous la main ? Faut-il. que je m'écrie avec Horace :</p>
-        <quote>
+        <p>— Il faut avouer, Bernard, s'écria-t-il, que vous me donneriez, si j'étais soupçonneux, clés doutes sur l'état réel de votre esprit, de votre sincérité, même. Nous n'avons pas bu à la santé de votre future, et vous ne m'avez adressé sur elle aucune question. Où donc est cette ardeur du-mariage, cette soif du bonheur intérieur qui se trahissaient à chaque ligne dans vos lettres ? Ne souhaitez-vous plus ce bonheur depuis que vous l'avez sous la main ? Faut-il que je m'écrie avec Horace :</p>
+        <quote type="citation">
           <l>Qui fit Mecenas</l>
         </quote>
-        <p>— Ne vous écriez rien, cher monsieur, répliqua Bernard,'qu'on entendit rire franchement à cette apostrophe, mais qu'on ne vit pas rougir, grâce à-la profonde nuit Non, pas de conjectures qui vous soient désobligeantes,' ni en latin, ni en- grec, ni même en français.</p>
-        <p>— Eh bien, alors, comment se fait-il que, remis, ainsi que nous le sommes, de nos secousses, elles étaient de nature à nous désarçonner, je l'avoue,'mais,-- enfin, l'équilibre est rétabli ; comment, dis-je, revenu à l'état ordinaire, ne vous inquiétez-vous pas un peu de ce qui vous attend au bout de la roulé, que nous aurons achevée dans trois heures ?</p>
+        <p>— Ne vous écriez rien, cher monsieur, répliqua Bernard, qu'on entendit rire franchement à cette apostrophe, mais qu'on ne vit pas rougir, grâce à-la profonde nuit Non, pas de conjectures qui vous soient désobligeantes, ni en latin, ni en- grec, ni même en français.</p>
+        <p>— Eh bien, alors, comment se fait-il que, remis, ainsi que nous le sommes, de nos secousses, elles étaient de nature à nous désarçonner, je l'avoue, mais, enfin, l'équilibre est rétabli ; comment, dis-je, revenu à l'état ordinaire, ne vous inquiétez-vous pas un peu de ce qui vous attend au bout de la roulé, que nous aurons achevée dans trois heures ?</p>
         <p>Bernard sentit qu'il fallait cette fois répondre, et catégoriquement.</p>
         <p>— Rien ne vous prouve, monsieur, reprit-il en riant toujours, que je ne m'en inquiète pas, mais chacun s'inquiète à sa manière ; moi, je ne vois rien que de très-gai dans tout cela. Se marier, épouser une fille que vous dites aimable, jolie, honnêtement riche, et douée d'une foule de vertus et qualités, c'est réellement trop peu alarmant pour que je vous fatigue de questions à tous propos. D'ailleurs, je sais que la demoiselle s'appelle Sylvie, qu'elle est d'une bonne famille de Touraine, les des Noyers, noblesse d'épée par les hommes et de robe par les femmes.</p>
         <p>— Naturellement, dit Aubin. : Et ici l'enfant se mit à rire si follement que l'exemple gagna les trois cavaliers, et que leurs chevaux, étonnés de ces éclats bruyants, prirent un temps de galop dans le sable épais de la route.</p>
@@ -3553,7 +3553,7 @@
         <p>— Oh ! mais, reprit tout à coup la Florentine, si je suis réconciliée avec toi, Concino, je suis brouillée à mort avec la reine.</p>
         <p>— Le croyez-vous, dit la Vienne ; voici un billet de Sa Majesté qu'un courrier apporte à l'instant même. La reine Marie n'écrit guère aux gens tant qu'elle leur garde rancune.</p>
         <p>Leonora prit vivement la lettre et lut ces mois, écrits en sa chère langue toscane :</p>
-        <quote>
+        <quote type="letter">
           <p>« Ne boucle plus, Leonora, tu sais bien qu'on t'aime ! Reviens vite. Il reste un million de francs dans le trésor de la Bastille ; s'il te le faut pour rebâtir ta maison, tu l'auras.</p>
           <p>« MARIE. »</p>
         </quote>

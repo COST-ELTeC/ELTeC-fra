@@ -510,7 +510,7 @@
           <p>Le lendemain, d'assez bonne heure, Flavien de Lestenac réfléchit que l'emménagement devait tirer à sa fin, et qu'il serait convenable d'aller s'informer de la manière dont sa femme avait mené à terme cette laborieuse besogne.</p>
           <p>La matinée était belle, fraîche. Le petit gazon clair-semé du front de bandière caressait le pied paresseux, et comme le jeune officier n'était pas pressé outre mesure, il contourna le campement du bataillon de chasseurs attaché à la Indivision, et s'attarda distraitement le long du sentier qui descend au village.</p>
           <p>Il allait, pensant à sa folle jeunesse à laquelle on avait coupé les ailes, et fredonnait le refrain de la vieille chanson :</p>
-          <quote>
+          <quote type="song">
             <l>Que je voudrais encore avoir vingt ans !</l>
           </quote>
           <p>Or, le regret était d'autant plus hâtif que le brillant lieutenant n'avait guère dépassé que de cinq ou six ans cette belle <hi rend="italic">vingtième année</hi>, si poétisée.</p>
@@ -2197,7 +2197,7 @@
           <p>— Voyons le billet, dit Judith.</p>
           <p>M. de Clarande, tout heureux de l'impatience qu'il voyait sur les mines joyeuses, prit plaisir à prolonger cette minute d'attente.</p>
           <p>Il assujettit solidement son lorgnon sur le maître nez dont était décoré son mâle visage, s'approcha des bougies, déplia le papier, et lut en savourant chaque mot :</p>
-          <quote>
+          <quote type="letter">
             <p>« Mon cher Clarande,</p>
             <p>« Tu es nommé colonel par décision du 24 décembre « 1864 ; tu es le premier averti. Viens « me voir demain matin : il y a trois régiments « vacants... tu choisiras.</p>
             <p>« Ton vieux camarade,</p>
@@ -3140,13 +3140,13 @@
           <p>« Je vais végéter encore ici quelques mois, « puis j'irai réchauffer mon cœur malade aux « bons ravons chauds de votre cœur. »</p>
           <p> </p>
           <p>L'autre lettre n'avait que trois lignes :</p>
-          <quote>
+          <quote type="letter">
             <p>« Mademoiselle,</p>
             <p>« Vous n'avez pas voulu d'un absolu dévouement « et du plus respectueux amour : je vous « les garde quand même. Pardonnez-le-moi. Ce « n'est pas une protestation, ce n'est pas même « une espérance, c'est un culte ! »</p>
           </quote>
           <p>Il y mit pour suscription : Mademoiselle Judith de Clarande.</p>
           <p>À la première lettre, il fut répondu, peu de jours après, par mademoiselle Augustine Samson, qui suppléait sa mère malade :</p>
-          <quote>
+          <quote type="letter">
             <p>« Nous te plaignons, mon cher Ernest, et nous « prions pour toi. Il ne faut pas attacher son « cœur aux affections de ce monde... Imite-moi, « j'ai placé le mien plus haut. Quand tu souffriras, «  mon frère, pense que je souffre aussi en « aspirant à la paix du cloître, et que la vie, sans « l'habit d'ursuline que j'aspire à revêtir, me « paraît aussi lourde à porter que ton désespoir « actuel.</p>
             <p>« AUGUSTINE. »</p>
           </quote>
@@ -3273,7 +3273,7 @@
           <p>La lettre était effroyablement parfumée et trahissait, par cet excès, l'inexpérience d'un début ; mais l'adresse en était tracée par une main féminine, et le cachet portait, moulé en cire verte, une clef symbolique, qui pouvait bien être celle d'un cœur.</p>
           <p>— Ah !... ah !... fit-il en humant ces exhalaisons violentes avec un sourire légèrement dédaigneux, d'où vient donc ce poulet ?... De Vienne même... Il y a donc des Viennoises capables de cet abus de parfumerie ?</p>
           <p>Il émietta la cire par petits coups réguliers, déchira l'enveloppe avec un geste indolent, déplia le papier, et, toujours souriant, lut enfin cette missive :</p>
-          <quote>
+          <quote type="letter">
             <p>« Monsieur le commandant,</p>
             <p>« Avez-vous des ennemis,... des rivaux,... quelqu'un «  qui vous veuille du mal ? Je ne sais, mais « le hasard le plus étrange m'a mis sur la trace « d'une sorte de complot contre votre sûreté.</p>
             <p> » N'allez pas au Cercle militaire ce soir, et « méfiez-vous du coin de muraille sombre entre le « quai et la vieille église de Saint-André-le-Bas.</p>
@@ -3638,7 +3638,7 @@
           <p>Et le colonel, dont une secrète colère faisait trembler la main, déplia sur son bureau la lettre que M. de Poitevy venait de lui apporter.</p>
           <p>Elle était sur papier ministre, écrite en caractères merveilleusement moulés.</p>
           <p>Judith fit discrètement un pas en arrière, mais, dévorée de curiosité, avertie par je ne sais quel pressentiment que cette lettre d'affaires pouvait la toucher en quelque point, elle se rapprocha du fauteuil, avança la tête et lut distinctement par-dessus l'épaule du colonel absorbé  :</p>
-          <quote>
+          <quote type="letter">
             <p>« MON COLONEL,</p>
             <p>« J'ai l'honneur de vous adresser, pour être « transmise à M. le ministre de la guerre, après « l'avoir appuyée, une demande de permission « pour contracter mariage avec madame Sophie-Dorothée-Apolline. «  Judeauville, veuve Myonnet, «  domiciliée à Vienne, département de l'Isère.</p>
             <p>« Le certificat est joint à la demande.</p>
@@ -4303,7 +4303,7 @@
           <p>Ce chemin aboutissait à la chaussée de l'Étang, sur laquelle s'ouvrent de charmantes propriétés particulières. L'une d'elles, toute petite et protégée par un rideau de peupliers, montrait discrètement à l'angle de la chaussée son parterre tout emmosaïqué de géraniums multicolores.</p>
           <p>Au delà, s'élevait un pavillon très-modeste, très-gracieusement aménagé dans sa rustique simplicité  ; un étage seulement, trois fenêtres de façade, un perron enguirlandé de vignes grimpantes, c'était tout et c'était ravissant.</p>
           <p>— Ah ! le joli nid ! s'écria Eudoxie, qui chantonna aussitôt, d'une voix aigrelette, le refrain d'une romance à la mode :</p>
-          <quote>
+          <quote type="song">
             <p>Fleur et verdure, nid charmant, Frais, épanoui, sous la feuillée, etc., etc.</p>
           </quote>
           <p>— Il n'y manque que la fauvette ! ajouta Périllas avec un regard expressif qui commentait éloquemment l'allusion.</p>
@@ -4541,18 +4541,18 @@
           <p>Le vaudevilliste, déjà mécontent de l'attitude de son ami, ne répondit que par un salut affirmatif. Mais, dans le grand silence, ces quelques paroles avaient été portées jusqu'à M. Gilmérin, qui trouva l'idée excellente.</p>
           <p>De sa grosse voix joyeuse, il troubla le calme des parages isolés où s'engageaient les canots, en priant mademoiselle de Clarande de ne pas les priver du plaisir de l'entendre.</p>
           <p>La jeune artiste essaya vainement de résister à cette prière devenue générale ; elle se rendit donc avec cette grâce hautaine qui faisait une faveur de la moindre de ses concessions, et chanta lentement, accompagnée par les rames cadencées, cette rêverie allemande dont elle avait fait la musique :</p>
-          <quote>
+          <quote type="song">
             <p>Perles, richesse de la mer ; Joyaux du ciel, étoiles blondes, Mon cœur, plus vaste que les ondes, Est plus profond aussi que l'insondable éther !</p>
             <p>Mon cœur sous ses discrètes ombres, Perles d'argent ! étoiles d'or !... Mon vaste cœur couve un trésor Dont le sublime éclat vous fait paraître sombres.</p>
             <p>Et ce trésor, -- tel brûle et luit L'astre de feu dans les nuits mornes, -- C'est l'amour !... sans fin et sans bornes ! Et le ciel et la mer sont contenus en lui !</p>
           </quote>
           <p>Lorsque la voix vibrante de Judith se fut éteinte en un soupir ineffable sur cet aveu d'amour, les applaudissements venus de tous les canots se croisèrent pour féliciter la chanteuse.</p>
           <p>À l'abri de ces bruits divers, Georges et Valérie, seuls silencieux, échangèrent un long regard ému. Les petites coquetteries de l'une étaient subitement devenues inutiles ; le stoïcisme de l'autre s'était envolé sur les ailes de cette amoureuse mélodie.</p>
-          <quote>
+          <quote type="song">
             <p>« C'est l'amour !... profond et sans bornes ! »</p>
           </quote>
           <p>murmura Georges.</p>
-          <quote>
+          <quote type="song">
             <p>« Et le ciel et la mer sont contenus en lui ! »</p>
           </quote>
           <p>acheva Valérie.</p>
@@ -5802,10 +5802,10 @@
           <p>Son premier mouvement fut de courir à elle et de lui reprocher son manque de confiance, plus encore que sa déraison.</p>
           <p>L'entrée de son ordonnance l'en empêcha. On apportait le courrier du major. Les affaires du régiment avant les siennes. Il dépouilla la correspondance administrative, la classa, l'annota avec autant de soin que si une vive souffrance intérieure ne faisait pas trembler sa main.</p>
           <p>La dernière lettre qu'il ouvrit lui causa un éblouissement :</p>
-          <quote>
+          <quote type="letter">
             <p>« Mon cher camarade, lui écrivait-on, votre proposition de permutation me botte fort. En la recevant, j'ai pris l'express pour Paris, j'ai vu le chef du personnel, j'ai enlevé l'affaire. Ci-joint la copie du consentement ministériel qui va vous arriver par la filière. Seulement, mon très-bon, je suis terriblement pressé d'échanger le 198e contre le 206e, et j'ai manœuvré en conséquence. Il vous faut être à Toulouse, et moi à Douai, à la fin de la semaine. La besogne que je vous laisse là-bas ne souffre pas de retard  : vous verrez ça. Du reste, l'ordre est précis. C'est égal, mon vieux Jouanny, pour des raisons... de sentiment,... qui me sont personnelles, je trouve que vous avez eu une fière idée de permuter avec votre dévoué</p>
-            <p> DURAJOUX,</p>
-            <p> major au 198e de ligne. »</p>
+            <p>DURAJOUX,</p>
+            <p>major au 198e de ligne. »</p>
           </quote>
           <p>Une permutation !... c'est-à-dire l'éloignement immédiat, les habitudes brisées, le roman éteint. La Providence venait donc en aide au pauvre officier. Il allait pouvoir arracher sa femme à un milieu dissolvant, sans luttes, sans obsessions, sans la froisser dans sa dignité, sans donner au monde le droit de dire que ses soupçons, s'il en avait, étaient pleinement justifiés.</p>
           <p>Il permutait !... C'était l'indépendance qu'il allait recouvrer, puisque la force lui avait manqué pour secouer, au prix d'un brisement brutal, la chaîne que lui imposait Jane.</p>
@@ -6052,7 +6052,7 @@
           <p>Les doigts tremblants s'étendirent vers le petit billet, qu'ils déplièrent d'un mouvement vif : la conscience vaincue se taisait.</p>
           <p>C'étaient des vers, cet adieu, des vers, non les premiers qu'elle eût reconnus pour l'œuvre de Just Évenin, mais les seuls qui lui eussent jamais été adressés.</p>
           <p>Radieuse, elle lut :</p>
-          <quote>
+          <quote type="letter">
           <p>Une parole émue, interprète de l'âme, Un sourire enivrant, un serrement de main, Dans des yeux adorés de longs regards de flamme, Et puis ces mots : « Adieu !... je partirai demain ! »</p>
           </quote>
           <p>Navrants souvenirs que j'effeuille, Consolerez-vous ma douleur ? Hélas ! avant que je la cueille, Le vent vient d'emporter la fleur. Il l'emporte au loin sur ses ailes, Là-bas, au pied des monts. Trouverai-je jamais des heures aussi belles ? Toujours je reverrai vos deux grands yeux profonds ; J'entendrai dans mon cœur vos paroles aimées. Quoi ! d'une main tremblante effleurant vos bras nus, Ne puis-je plus unir nos deux âmes charmées ?... Chastes enivrements, qu'êtes-vous devenus ? Du moins, des jours passés le souvenir s'élève ; Quand on est malheureux, on le sent agrandi. Adieu, chère Espérance !... Adieu, mon dernier Rêve !... Je ne demande rien, hors un mot que voici : Du nom qu'on vous donna daignerez-vous m'instruire ? Afin que, vous aimant, -- vous ne l'ignorez pas, -- Je grave dans mon cœur ce nom si doux à lire, Comme on fixe une croix aux tombes ici-bas.</p>
@@ -6082,7 +6082,7 @@
           <p>Il la prit du bout des doigts, et, la laissant retomber avec un geste écrasant :</p>
           <p>— Ce caprice ! dit-il.</p>
           <p>Jane, les yeux clos, relisait en pensée ce cri de détresse :</p>
-          <quote>
+          <quote type="letter">
           <p>Adieu, chère Espérance !... adieu, mon dernier Rêve !</p>
           </quote>
           <p>André Jouanny fit un pas pour sortir. Un mot humble, un regard affectueux l'eussent retenu. Son cœur froissé ne demandait qu'à se dégonfler par la confiance et le pardon.</p>

@@ -99,8 +99,8 @@
         <div type="chapter">
 
           <head>Introduction</head>
-          <quote>
-            <p>Alle Erscheinungen dieser Zeit zeigen dass die Befriedigung im alten Leben sich nicht mehr findet.</p>
+          <quote type="epigraph">
+            <p><foreign xml:lang="deu">Alle Erscheinungen dieser Zeit zeigen dass die Befriedigung im alten Leben sich nicht mehr findet.</foreign></p>
           </quote>
           <p>HEGEL.</p>
           <p>C'était au mois de juin ; le soleil, à son midi, inondait l'horizon de clartés ; pas un nuage ne voilait la splendeur du ciel. Une chaude brise glissait sur l'étang et se jouait dans les roseaux sonores. Près de la rive, à l'ombre d'un rideau de peupliers, sommeillait un couple de cygnes. Le nénuphar ouvrait ses ailes blanches sur le miroir des eaux.</p>
@@ -202,7 +202,7 @@
           <p>Un matin, après l'étude, comme elle s'était un peu attardée en classe, elle s'apprêtait à rejoindre les élèves dans le jardin, et cherchait des yeux de quel côté s'étaient réunies ses compagnes habituelles, lorsque de bruyants éclats de rire, au milieu desquels il lui sembla distinguer une voix plaintive, vinrent frapper son oreille. Curieuse d'apprendre la cause d'une gaîté si expansive, elle gagna la longue allée qui coupait en deux le massif de tilleuls, et aperçut à l'extrémité une scène qui attira toute son attention. Au milieu des robes noires d'uniforme, une jeune fille, grotesquement affublée de chiffons de toutes couleurs, avait été attachée à un arbre. La parure bizarre et les étranges contorsions de la pauvre maltraitée produisaient chez ses compagnes ces explosions de joie qui se renouvelaient à chaque minute. Nélida, sans rien comprendre encore à ce jeu cruel, voyait de loin la pantomime animée des pensionnaires et leur danse autour de l'arbre.</p>
           <p>— Que signifie cela ? demanda-t-elle à une jeune fille qui passait encourant.</p>
           <p>— Chut ! répondit celle-ci en s'arrêtant un instant: n'allez pas nous trahir ; la surveillante a été appelée au parloir ; on a oublié de la remplacer, et nous en profitons pour nous amuser divinement. Je cours au vestiaire pour ramasser encore quelques châles ; nous avons habillé Claudine en reine de Saba ; elle pleure, elle hurle, que c'est une bénédiction ; jamais elle n'a été si drôle ; elle a commencé par vouloir se débattre, mais elle n'était pas la plus forte, et nous l'avons solidement attachée au grand tilleul ; à présent nous lui présentons des bouquets de chardons, et nous lui chantons des litanies improvisées.</p>
-          <p>Et la pensionnaire se mit à chanter en s'éloignant: <quote>«Bécasse mystique, tour de pain d'épice, reine des imbéciles...»</quote>
+          <p>Et la pensionnaire se mit à chanter en s'éloignant: <quote type="song">« Bécasse mystique, tour de pain d'épice, reine des imbéciles... »</quote>
           </p>
           <p>Révoltée de cette profanation et saisie de pitié pour la victime de ces méchants cœurs, Nélida pressa le pas et fut bientôt en vue de la bande joyeuse qui s'arrêta soudain à son approche. On avait au pensionnat un respect involontaire pour mademoiselle de la Thieullaye.</p>
           <p>— En vérité, mesdemoiselles, dit-elle en s'adressant aux danseuses interdites, vous avez choisi là un passe-temps qui ne vous fait guère honneur.</p>
@@ -1047,7 +1047,7 @@
           <p>— Madame de Kervaëns n'est pas en état de faire la route de Paris, dit-elle. D'ailleurs, Paris ne lui vaudrait rien. Vous ne pouvez rester ici sans un fâcheux arrêt dans vos affaires, m'a dit Claudine ; laissez-moi Nélida ; je réponds d'elle. Personne, en ce moment, ne saurait lui faire plus de bien que moi. Je vais m'établir à l'hôtel, dans sa propre chambre, jusqu'à ce qu'on puisse la transporter ici. Je ne la quitterai pas une minute ; je vous donnerai exactement de ses nouvelles ; si elle se sent plus forte et témoigne le désir de retourner à Paris, vous viendrez la chercher... Tout cela est convenu avec Claudine, ajouta-t-elle d'un ton d'impatience, voyant que M. Bernard semblait hésiter ; allez aider votre femme à faire ses préparatifs de départ ; dans une heure, je serai à l'hôtel du Nord.</p>
           <p>M. Bernard, qui subissait déjà l'ascendant de mère Sainte-Élisabeth, voulut lui parler de l'avenir de Nélida et de l'espoir qu'il nourrissait de la réunir à son mari. La religieuse le regarda avec un singulier sourire.</p>
           <p>— Votre projet, entre tous ses inconvénients, a celui de venir trop tard, dit-elle. Vous ne lisez donc pas les journaux ? Puis, cherchant dans une pile de gazettes et de revues entassées sur la table, elle prit un <hi>Moniteur</hi> à six ou huit jours de date, où elle lut ce qui suit: </p>
-          <quote>«Un accident affreux vient, de plonger dans la consternation le département d'Ille-et-Vilaine. M. le comte de Kervaëns, dernier héritier de l'illustre famille de ce nom, a été tué à la chasse par l'inadvertance d'un de ses voisins. Ces sortes d'accidents se renouvellent si fréquemment que nous croyons de notre devoir, etc...»</quote>
+          <quote type="newspaper">«Un accident affreux vient, de plonger dans la consternation le département d'Ille-et-Vilaine. M. le comte de Kervaëns, dernier héritier de l'illustre famille de ce nom, a été tué à la chasse par l'inadvertance d'un de ses voisins. Ces sortes d'accidents se renouvellent si fréquemment que nous croyons de notre devoir, etc...»</quote>
           <p>M. Bernard ne répondit rien, et sortit après avoir serré la main à Férez.</p>
         </div>
         <div type="chapter">
@@ -1055,15 +1055,11 @@
           <head>CINQUIÈME PARTIE</head>
 
           <head>XXIII</head>
-          <quote>
-            <l>
-              <hi>Allein</hi> musst Du entfalten deine Schwingen, </l>
-            <l>
-              <hi>Allein</hi> Dich auf die See des Lebens wagen. </l>
-            <l>
-              <hi>Allein</hi> nach Deinem Idealen jagen, </l>
-            <l>
-              <hi>Allein</hi> , <hi>allein</hi> , nach Deinem Himmel ringen. </l>
+          <quote  type="poem">
+            <l><foreign xml:lang="deu"><hi>Allein</hi> musst Du entfalten deine Schwingen, </foreign></l>
+            <l><foreign xml:lang="deu"><hi>Allein</hi> Dich auf die See des Lebens wagen. </foreign></l>
+            <l><foreign xml:lang="deu"><hi>Allein</hi> nach Deinem Idealen jagen, </foreign></l>
+            <l><foreign xml:lang="deu"><hi>Allein</hi> , <hi>allein</hi> , nach Deinem Himmel ringen. </foreign></l>
           </quote>
           <p>GEORGE HERWEGH.</p>
           <p>Près d'un mois s'était écoulé. Nélida, qui avait reçu une nouvelle secousse en apprenant la mort de son mari, était bien loin de reprendre des forces. Les espérances de mère Saint-Élisabeth ne se réalisaient pas, et la religieuse commençait à partager les appréhensions de Férez, qui regardait l'état de madame de Kervaëns comme inguérissable. Elle aurait voulu et n'osait aborder de front cette tristesse taciturne ; elle redoutait et souhaitait tout à la fois une crise qui pouvait être funeste, mais qui pouvait aussi déterminer le réveil de cette léthargie morale où Nélida semblait se complaire.</p>

@@ -63,8 +63,12 @@
         <p>MADELEINE,</p>
         <p>PAR</p>
         <p>CH. PAUL DE KOCK.</p>
-        <quote>
-          <p>« Une fièvre brûlante Un jour me terrassait, Et de mon corps chassait Mon ame languissante. » Sedaine.-Richard. </p>
+        <quote type="epigraph">
+          <l>« Une fièvre brûlante</l>
+          <l>Un jour me terrassait,</l>
+          <l>Et de mon corps chassait</l>
+          <l>Mon ame languissante. »</l>
+            <p>Sedaine-Richard. </p>
         </quote>
         <p>Bruxelles, SOCIÉTÉ BELGE DE LIBRAIRIE, ETC. HAUMAN ET COMPAGNIE. 1838.</p>
         <gap unit="toc" />
