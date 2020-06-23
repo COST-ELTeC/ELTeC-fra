@@ -20,10 +20,10 @@ General information about ELTeC releases is available at https://github.com/COST
 
 ## Licence
 
-All texts included in this collection are in the public domain. The textual markup is provided with a Creative Commons Attribution International 4.0 licence (CC BY, https://creativecommons.org/licenses/by/4.0/).
+All texts included in this collection are in the public domain. No claim to copyright or similar protections is made for the composition of the corpus, the collection and presentation of the metadata, or the transcription and encoding of the texts. 
 
 ## Citation suggestion
 
-If you use this corpus in your research or teaching, please use the following citation suggestion:
+If you use this corpus in your research or teaching, please follow good scholarly practice and use the following citation suggestion to acknowledge your source:
 
-* *French Novel Collection (ELTeC-fra)*, edited by Christof Schöch and Lou Burnard. Version v0.9.0-alpha, May 2020. In: *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: https://doi.org/10.5281/zenodo.3462536
+* *French Novel Collection (ELTeC-fra)*, edited by Christof Schöch and Lou Burnard. Version v0.9.0, May 2020. In: *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: https://doi.org/10.5281/zenodo.3462536
