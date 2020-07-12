@@ -5,6 +5,8 @@
 
 This is the French novel corpus for the ELTeC, the *European Literary Text Collection*, produced by the COST Action *Distant Reading for European Literary History* (CA16204, https://distant-reading.net). 
 
+Note that this corpus is also available in a linguistically-annotated format prepared for direct import into the text analysis tool TXM; see here: https://doi.org/10.5281/zenodo.3939542
+
 ## Release notes
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC. 
