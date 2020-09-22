@@ -2,9 +2,9 @@
 ## Corpus composition criteria report
 
 - num_novels: 100, 
-- num_authors: 66, 
-- timeSlots: T1: 25, T3: 24, T2: 26, T4: 25, 
-- sizeCats: medium: 43, long: 27, short: 30, 
-- reprints: low: 57, high: 43, 
-- au-gender: M: 64, F: 36, 
-- novels-per-au: 2: 14, 3: 10, 1: 42
+- num_authors: 68, 
+- timeSlots: T1: 24, T3: 25, T2: 26, T4: 25, 
+- sizeCats: medium: 43, long: 26, short: 31, 
+- reprints: low: 58, high: 42, 
+- au-gender: M: 63, F: 37, 
+- novels-per-au: 2: 12, 3: 10, 1: 46
