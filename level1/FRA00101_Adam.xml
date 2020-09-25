@@ -5,8 +5,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mon Village : ELTeC edition</title>
-        <author ref="viaf:64000638">Adam, Juliette (1836-1936)</author>
+        <title ref="viaf:inexistent wikidata:inexistent">Mon Village : ELTeC edition</title>
+        <author ref="viaf:64000638 wikidata:Q270617">Adam, Juliette (1836-1936)</author>
         <respStmt>
           <resp>encoded by</resp>
           <name>Pia Geißel</name>
