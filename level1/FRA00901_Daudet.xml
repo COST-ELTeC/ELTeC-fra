@@ -7,8 +7,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:184784857">Le petit chose : ELTeC edition</title>
-        <author ref="viaf:4928621">Daudet, Alphonse (1840-1897)</author>
+        <title ref="viaf:184784857 wikidata:Q1057575">Le petit chose : ELTeC edition</title>
+        <author ref="viaf:4928621 wikidata:Q228546">Daudet, Alphonse (1840-1897)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Christof Schöch</name>
