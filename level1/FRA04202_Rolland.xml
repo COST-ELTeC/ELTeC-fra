@@ -7,9 +7,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:312469774">La nouvelle journée : édition ELTeC</title>
+        <title ref="viaf:312469774 wikidata:missing">La nouvelle journée : édition ELTeC</title>
         <!-- Corresponds to tome 10 of Jean-Christophe -->
-        <author ref="viaf:71397100">Rolland, Romain (1866-1944)</author>
+        <author ref="viaf:71397100 wikidata:Q47162">Rolland, Romain (1866-1944)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Christof Schöch</name>

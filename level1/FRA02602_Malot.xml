@@ -7,8 +7,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:186540937">Sans famille : ELTeC edition</title>
-        <author ref="viaf:49228546">Malot, Hector (1830-1907)</author>
+        <title ref="viaf:186540937 wikidata:Q1570068">Sans famille : ELTeC edition</title>
+        <author ref="viaf:49228546 wikidata:Q315003">Malot, Hector (1830-1907)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Christof Schöch</name>

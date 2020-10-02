@@ -7,8 +7,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Marguerite, ou Deux amours : ELTeC edition</title>
-        <author ref="viaf:24601979">Girardin, Delphine de [Delphine Gay] (1804-1855)</author>
+        <title ref="viaf:missing wikidata:missing">Marguerite, ou Deux amours : ELTeC edition</title>
+        <author ref="viaf:24601979 wikidata:Q437094">Girardin, Delphine de [Delphine Gay] (1804-1855)</author>
         <respStmt>
           <resp>encoded by</resp>
           <name>Pia Geißel</name>

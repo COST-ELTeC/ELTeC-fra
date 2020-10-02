@@ -7,8 +7,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:308106335">Le Marchand de Poison : ELTeC edition</title>
-        <author ref="viaf:66497284">Ohnet, Georges (1848-1918)</author>
+        <title ref="viaf:308106335 wikidata:missing">Le Marchand de Poison : ELTeC edition</title>
+        <author ref="viaf:66497284 wikidata:Q1393388">Ohnet, Georges (1848-1918)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Christof Schöch</name>

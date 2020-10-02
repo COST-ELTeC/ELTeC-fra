@@ -7,8 +7,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:unavailable">L'Esclave amoureuse : ELTeC edition</title>
-        <author ref="viaf:7392910">Le Rouge, Gustave (1867-1938)</author>
+        <title ref="viaf:unavailable wikidata:missing">L'Esclave amoureuse : ELTeC edition</title>
+        <author ref="viaf:7392910 wikidata:Q2409143">Le Rouge, Gustave (1867-1938)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Christof Schöch</name>
