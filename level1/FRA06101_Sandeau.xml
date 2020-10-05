@@ -7,8 +7,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mademoiselle de la Seigliere : édition ELTeC</title>
-        <author ref="viaf:56616138">Sandeau, Jules (1811-1883)</author>
+        <title ref="viaf:599145424534886831258 wikidata:Q28496738">Mademoiselle de la Seiglière : édition ELTeC</title>
+        <author ref="viaf:56616138 wikidata:Q609039">Sandeau, Jules (1811-1883)</author>
       </titleStmt>
       <extent>
         <!-- Word count: tokens as counted in text split on "\W+" -->

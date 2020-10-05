@@ -5,8 +5,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La Buveuse de perles : ELTeC edition</title>
-        <author ref="viaf:51823427">Uchard, Mario (1824-1893)</author>
+        <title ref="viaf:missing wikidata:missing">La Buveuse de perles : ELTeC edition</title>
+        <author ref="viaf:64099498 wikidata:Q14867927">Uchard, Mario (1824-1893)</author>
         <respStmt>
           <resp>encoding</resp>
           <name>Christof Schöch</name>

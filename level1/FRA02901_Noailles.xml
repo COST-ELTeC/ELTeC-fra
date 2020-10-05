@@ -7,8 +7,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La nouvelle espérance : ELTeC edition</title>
-        <author ref="viaf:95303465">Noailles, Anna de (1876-1933)</author>
+        <title ref="viaf:missing wikidata:missing">La nouvelle espérance : ELTeC edition</title>
+        <author ref="viaf:95303465 wikidata:Q6050">Noailles, Anna de (1876-1933)</author>
         <respStmt>
           <resp>encoded by</resp>
           <name>Pia Geißel</name>

@@ -5,8 +5,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:210980756">Le Voleur : ELTeC edition</title>
-        <author ref="viaf:59052457">Darien, Georges (1862-1921)</author>
+        <title ref="viaf:210980756 wikidata:Q3228211">Le Voleur : ELTeC edition</title>
+        <author ref="viaf:59052457 wikidata:Q1508877">Darien, Georges (1862-1921)</author>
         <respStmt>
           <resp>encoded by</resp>
           <name>Christof Schöch</name>

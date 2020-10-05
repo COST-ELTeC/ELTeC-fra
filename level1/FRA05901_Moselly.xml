@@ -7,8 +7,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Terres lorraines : édition ELTeC</title>
-        <author ref="viaf:19681833">Moselly, Emile (1870-1918)</author>
+        <title ref="viaf:missing wikidata:Q3518724">Terres lorraines : édition ELTeC</title>
+        <author ref="viaf:19681833 wikidata:Q2356724">Moselly, Emile (1870-1918)</author>
       </titleStmt>
       <extent>
         <!-- Word count: tokens as counted in text split on "\W+" -->

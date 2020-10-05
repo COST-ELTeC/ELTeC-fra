@@ -7,8 +7,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:unavailable">Ellenore : ELTeC edition</title>
-        <author ref="viaf:27059297">Gay, Marie Françoise Sophie (1776-1852)</author>
+        <title ref="viaf:unavailable wikidata:missing">Ellenore : ELTeC edition</title>
+        <author ref="viaf:27059297 wikidata:Q273200">Gay, Marie Françoise Sophie (1776-1852)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Stefanie Popp</name>

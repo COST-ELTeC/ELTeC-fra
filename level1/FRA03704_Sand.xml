@@ -8,8 +8,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Horace : ELTeC edition</title>
-        <author ref="viaf:46766944">Sand, George [Amantine Lucile Aurore Dupin] (1804-1876)</author>
+        <title ref="viaf:309259313 wikidata:Q40125295">Horace : ELTeC edition</title>
+        <author ref="viaf:46766944 wikidata:Q3816">Sand, George [Amantine Lucile Aurore Dupin] (1804-1876)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Christof Schöch</name>

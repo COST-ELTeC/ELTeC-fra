@@ -7,8 +7,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:186570439">Madame Bovary : ELTeC edition</title>
-        <author ref="viaf:9846192">Flaubert, Gustave (1821-1880)</author>
+        <title ref="viaf:186570439 wikidata:Q193417">Madame Bovary : ELTeC edition</title>
+        <author ref="viaf:9846192 wikidata:Q43444">Flaubert, Gustave (1821-1880)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Christof Schöch</name>

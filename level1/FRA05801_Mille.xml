@@ -5,8 +5,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Louise et Barnavaux : édition ELTeC</title>
-        <author ref="viaf:100905302">Mille, Pierre (1864-1941)</author>
+        <title ref="viaf:missing wikidata:missing">Louise et Barnavaux : édition ELTeC</title>
+        <author ref="viaf:100905302 wikidata:Q731510">Mille, Pierre (1864-1941)</author>
       </titleStmt>
       <extent>
         <!-- Word count: tokens as counted in text split on "\W+" -->

@@ -5,8 +5,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La Reine du Sabbat : ELTeC edition</title>
-        <author ref="viaf:19680417">Leroux, Gaston (1868-1927)</author>
+        <title ref="viaf:missing wikidata:missing">La Reine du Sabbat : ELTeC edition</title>
+        <author ref="viaf:19680417 wikidata:Q298827">Leroux, Gaston (1868-1927)</author>
         <respStmt>
           <resp>encoded by</resp>
           <name>Christof Schöch</name>
