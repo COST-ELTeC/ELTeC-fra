@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:180462896 wikidata:missing">L'Éducation sentimentale : ELTeC edition</title>
-        <author ref="viaf:9846192 wikidata:Q43444">Flaubert, Gustave (1821-1880)</author>
+        <author xml:id="Flaubert" ref="viaf:9846192 wikidata:Q43444">Flaubert, Gustave (1821-1880)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Christof Schöch</name>

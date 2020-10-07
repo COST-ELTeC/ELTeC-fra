@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:183647198 wikidata:Q78655137">Le Secret de Wilhelm Storitz : édition ELTeC</title>
-        <author ref="viaf:76323989 wikidata:Q33977">Verne, Jules (1828-1905)</author>
+        <author xml:id="Verne" ref="viaf:76323989 wikidata:Q33977">Verne, Jules (1828-1905)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Christof Schöch</name>

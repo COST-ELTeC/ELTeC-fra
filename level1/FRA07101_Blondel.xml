@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Élise, ou l'éducation particulière : ELTeC edition</title>
-        <author ref="viaf:301138355 wikidata:missing">Blondel, Adèle (1841-1909)</author>
+        <author xml:id="Blondel" ref="viaf:301138355 wikidata:missing">Blondel, Adèle (1841-1909)</author>
         <respStmt>
           <resp>encoded by</resp>
           <name>Christof Schöch</name>

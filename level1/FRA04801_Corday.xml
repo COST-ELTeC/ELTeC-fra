@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Les révélées : édition ELTeC</title>
-        <author ref="viaf:9861444 wikidata:Q17485888">Corday, Michel (1869-1937)</author>
+        <author xml:id="Corday" ref="viaf:9861444 wikidata:Q17485888">Corday, Michel (1869-1937)</author>
       </titleStmt>
       <extent>
         <!-- Word count : tokens as counted in text split on "\W+" -->

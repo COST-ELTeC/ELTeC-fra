@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:305992935 wikidata:Q2699195">Le cousin Pons : ELTeC edition</title>
-        <author ref="viaf:29529595 wikidata:Q9711">Balzac, Honoré de (1799-1850)</author>
+        <author xml:id="Balzac" ref="viaf:29529595 wikidata:Q9711">Balzac, Honoré de (1799-1850)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Christof Schöch</name>

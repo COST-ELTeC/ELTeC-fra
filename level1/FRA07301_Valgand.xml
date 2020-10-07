@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Blondine, roman nouveau : édition ELTeC</title>
-        <author ref="viaf:(inexistent)">de Valgand, Cécile [Piolenc, Cécile Marchand-Caruë, Mise de] (0000-0000)</author>
+        <author xml:id="Valgand" ref="viaf:(inexistent)">de Valgand, Cécile [Piolenc, Cécile Marchand-Caruë, Mise de] (0000-0000)</author>
         <respStmt>
           <resp>Data capture</resp>
           <name>BnF/Gallica</name>

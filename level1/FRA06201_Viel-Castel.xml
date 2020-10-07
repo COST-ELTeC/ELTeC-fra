@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Archambaud de Comborn : édition ELTeC</title>
-        <author ref="viaf:69051610 wikidata:Q3140481">Viel-Castel, Horace de (1802-1864)</author>
+        <author xml:id="Viel-Castel" ref="viaf:69051610 wikidata:Q3140481">Viel-Castel, Horace de (1802-1864)</author>
       </titleStmt>
       <extent>
         <!-- Word count: tokens as counted in text split on "\W+" -->

@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:unvailable wikidata:missing">La Maréchale : ELTeC edition</title>
-        <author ref="viaf:100204602 wikidata:Q23441">Mirbeau, Octave (1848-1917)</author>
+        <author xml:id="Mirbeau" ref="viaf:100204602 wikidata:Q23441">Mirbeau, Octave (1848-1917)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Christof Schöch</name>

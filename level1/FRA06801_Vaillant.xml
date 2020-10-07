@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>L'Elzévir de maroquin rouge : ELTeC edition</title>
-        <author ref="viaf:51823427">Vaillant, Victor (9999-9999)</author>
+        <author xml:id="Vaillant" ref="viaf:51823427">Vaillant, Victor (9999-9999)</author>
         <respStmt>
           <resp>encoding</resp>
           <name>Christof Schöch</name>
