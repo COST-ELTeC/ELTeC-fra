@@ -105,7 +105,7 @@
           <p>Hermosillo, anciennement le <hi>Pitic</hi> et que l'expédition du comte de Raousset-Boulbon a rendu célèbre, est l'entrepôt du commerce mexicain dans le Pacifique et compte plus de neuf mille habitants. </p>
           <p>Cette ville, bâtie sur un plateau qui s'abaisse dans la direction du nord-ouest en pente douce jusqu'à la mer, s'appuie et s'abrite frileusement contre une colline nommée <hi>el Cerro de la campana --</hi> Montagne de la cloche --, dont le sommet est couronné d'énormes blocs de pierre qui, lorsqu'on les touche, rendent un son clair et métallique. </p>
           <p>Du reste, comme ses autres sœurs américaines, cette <foreign>ciudad</foreign> est sale, bâtie en pisé et présente aux yeux étonnés du voyageur un mélange de ruines, d'incurie et de désolation qui attriste l'âme. </p>
-          <milestone type="subChapter" rend="space" unit="newline" />
+          <milestone type="section" rend="space" unit="newline" />
           <p>Le jour où commence ce récit, c'est-à-dire le 17 janvier 1817, entre trois et quatre heures de l'après-midi, moment où d'ordinaire la population fait la <foreign>siesta,</foreign> retirée au fond de ses demeures, la ville d'Hermosillo, si calme et si tranquille d'ordinaire, offrait un aspect étrange. </p>
           <p>Une foule de <hi>Leperos,</hi> de <hi>Gambusinos,</hi> de contrebandiers et surtout de <hi>Rateros</hi> se pressait avec des cris, des menaces et des hurlements sans nom, dans la <foreign>calle del Rosario</foreign> -- rue du Rosaire. Quelques soldats espagnols -- le Mexique à cette époque n'avait pas encore secoué le joug de la métropole -- cherchaient en vain à rétablir l'ordre et à dissiper la foule, frappant à tort et à travers à grands coups de bois de lances sur les individus qui se trouvaient devant eux. </p>
           <p>Mais le tumulte loin de diminuer allait au contraire toujours croissant, les Indiens <hi>Hiaquis</hi> surtout, mêlés à la foule, criaient et gesticulaient d'une façon réellement effrayante. </p>
@@ -1544,10 +1544,10 @@
           <p>– Señorita, lui dit-il, je suis heureux que le hasard m'ait permis de vous rendre un léger service... j'aurai l'honneur de vous revoir. Depuis longtemps déjà, je suis vos pas dans l'ombre. Dieu, qui m'a accordé la grâce de vous parler une fois, me l'accordera une seconde, j'en suis certain, quoique dans peu de jours vous deviez partir pour un lointain voyage. Permettez-moi donc de vous dire non pas adieu, mais au revoir.</p>
           <p>Et, après s'être incliné profondément devant la jeune fille, il s'éloigna rapidement.</p>
           <p>Quinze jours après cette bizarre aventure dont elle n'avait pas jugé à propos de parler à son oncle, doña Luz quittait Mexico sans avoir revu l'inconnu. Seulement, la veille de son départ, en entrant dans sa chambre à coucher, la jeune fille avait trouvé sur son prie-Dieu un papier plié en quatre. Sur ce papier étaient écrits ces quelques mots, d'une écriture fine et élégante :</p>
-          <milestone type="subChapter" rend="space" unit="newline" />
+          <quote type="letter">
           <p>« Vous partez, doña Luz, souvenez-vous que je vous ai dit au revoir.</p>
           <p>« Votre sauveur de la calle de Plateros. »</p>
-          <milestone type="subChapter" rend="space" unit="newline" />
+          </quote>
           <p>Pendant longtemps cette étrange rencontre avait fortement occupé l'esprit de la jeune fille, un instant elle avait cru que le Cœur-Loyal et son sauveur inconnu étaient le même homme, mais cette supposition s'était bientôt évanouie. Quelle probabilité qu'il en fût ainsi ? Dans quel but le Cœur-Loyal, après l'avoir sauvée, se serait-il si promptement éloigné ? cela eût été absurde.</p>
           <p>Mais, par une de ces conséquences ou de ces inconséquences, comme on le voudra, de l'esprit humain, au fur et à mesure que l'aventure de Mexico s'effaçait dans sa pensée, le Cœur-Loyal y grandissait.</p>
           <p>Elle aurait voulu voir le chasseur, causer avec lui.</p>

@@ -459,7 +459,7 @@
           <p>— Je te l'accorde ; mais aimerais-tu, toi, à leur ressembler ? Elles ne savent que chanter des cantiques ou réciter des poésies où ciel rime avec fiel.</p>
           <p>— C'est vrai ; et puis elles se sont scandalisées l'autre jour parce que, jouant au croquet, j'ai manqué mon coup et crié : « Sapristi ! » et puis parce que je fredonnais la chanson que vous m'avez apprise, vous savez bien, mon oncle ?</p>
           <p>Et Gilberte chantonna de sa petite voix claire :</p>
-          <milestone type="subChapter" rend="space" unit="newline" />
+          <milestone type="song" rend="space" unit="newline" />
           <p>
             <hi>C'était pendant l'horreur d'une profonde nuit,</hi>
           </p>
@@ -475,7 +475,7 @@
           <p>
             <hi>De profundis, sur l'air du tra la la la...</hi>
           </p>
-          <milestone type="subChapter" rend="space" unit="newline" />
+          <milestone type="section" rend="space" unit="newline" />
           <p>— Aussi, reprit l'enfant, boudeuse à ce ressouvenir, Mlle Maudrey, leur institutrice, m'a ordonné de me taire, comme si elle avait le droit de me faire des observations. Je ne l'aime pas, Mlle Maudrey.</p>
           <p>— Tu préfères ta fräulen Frida, n'est-ce pas ? Tu en fais tout ce que tu veux.</p>
           <p>— Oh ! Fräulen, répliqua Gilberte, allongeant ses fines lèvres roses dans une moue dédaigneuse, je ne l'aime pas non plus.</p>
@@ -1136,11 +1136,11 @@
           <p>Quelques ricanements s'étouffèrent sous les éventails.</p>
           <p>— Mais très volontiers, mon oncle, répondit le jeune ingénieur sans rien perdre de son gracieux sang-froid.</p>
           <p>Il se leva avec son aisance de grand seigneur, déployant sa riche taille, et s'assit au clavier ; il préluda par quelques accords graves et entonna ces couplets si connus et si beaux :</p>
-          <milestone type="subChapter" rend="space" unit="newline" />
+          <milestone type="song" rend="space" unit="newline" />
           <p>
             <hi>Minuit, Chrétiens, c'est l'heure solennelle.</hi>
           </p>
-          <milestone type="subChapter" rend="space" unit="newline" />
+          <milestone type="section" rend="space" unit="newline" />
           <p>On s'apprêtait à rire, on bâillait d'avance, le plus poliment qu'on pouvait... et voilà que tous firent silence, pris soudain sous le charme de cette splendide voix de baryton, mâle et sonore, dont les notes avaient un velouté et une expression délicieuse.</p>
           <p>La surprise fut générale et de sincères applaudissements éclatèrent quand le chanteur termina l'hymne chrétienne. Il reçut les louanges froidement, un fin sourire errant sur sa bouche fière.</p>
           <p>Se retournant vers Gilberte qui, elle, ne parlait pas, il lui dit avec une pointe de raillerie :</p>
@@ -1641,7 +1641,7 @@
           <p>À cette plaisanterie, Gilberte fronça le sourcil et répondit, évitant les yeux d'Albéric qui cherchaient les siens :</p>
           <p>— Je ne veux pas me marier encore.</p>
           <p>Le même soir, assise au piano, elle chantait, d'une voix lente, cette naïve, mais expressive romance tirée de l'opérette d'Offenbach : « Robinson Crusoé » :</p>
-          <milestone type="subChapter" rend="space" unit="newline" />
+          <milestone type="song" rend="space" unit="newline" />
           <p>
             <hi>S'il fallait qu'aujourd'hui</hi>
           </p>
@@ -1663,7 +1663,7 @@
           <p>
             <hi>Si c'est aimer, je l'aime.</hi>
           </p>
-          <milestone type="subChapter" rend="space" unit="newline" />
+          <milestone type="song" rend="space" unit="newline" />
           <p>
             <hi>Je sens que s'il partait</hi>
           </p>
@@ -1685,7 +1685,7 @@
           <p>
             <hi>Si c'est aimer, je l'aime.</hi>
           </p>
-          <milestone type="subChapter" rend="space" unit="newline" />
+          <milestone type="section" rend="space" unit="newline" />
           <p>Quand elle abandonna le piano, elle rougit en voyant fixés sur elle les yeux étincelants de son cousin.</p>
         </div>
         <div type="chapter">
@@ -1748,14 +1748,14 @@
           <p>Edmée et Marie s'assirent au piano, les hommes prirent leur journal, Mme Daltier son tricot ; Gilberte exhiba un des fameux volumes au titre scabreux, qu'elle se mit à lire tranquillement.</p>
           <p>Leur galop à quatre mains achevé, les musiciennes appelèrent Gilberte.</p>
           <p>-- À ton tour, chérie, dirent-elles, chante-nous <hi>Robinson Crusoé</hi> , tu sais, la romance que tu dis si bien : </p>
-          <milestone type="subChapter" rend="space" unit="newline" />
+          <milestone type="song" rend="space" unit="newline" />
           <p>
             <hi>S'il fallait qu'aujourd'hui</hi>
           </p>
           <p>
             <hi>Quelqu'un mourût pour lui...</hi>
           </p>
-          <milestone type="subChapter" rend="space" unit="newline" />
+          <milestone type="section" rend="space" unit="newline" />
           <p>— Oh ! non, pas cela, répondit la jeune fille dont un sourire sarcastique plissait la lèvre rouge. J'ai ici de la musique plus nouvelle.</p>
           <p>Et elle choisit, parmi les feuilles qu'elle avait achetées récemment, quelques couples tirés d'une opérette en vogue.</p>
           <p>Pendant ce temps, Albéric attirait à lui, nonchalamment, le livre que sa cousine venait d'abandonner sur son siège.</p>
@@ -1929,7 +1929,7 @@
           <p>« Pardonnez-moi cette lettre couleur feuille morte, et faites-moi la surprise d'une visite, si c'est possible ; Nice n'est pas si éloigné de Marseille.</p>
           <p>« Embrassez pour moi mes cousines ; je vous tends, comme autrefois, mon front toujours nuageux.</p>
           <p>« GILBERTE. »</p>
-          <milestone type="subChapter" rend="space" unit="newline" />
+          <milestone type="section" rend="space" unit="newline" />
           <p>À quelque temps de là, Mme Daltier alla voir sa nièce à Nice ; on lui fit les plus grands éloges de Gilberte qui était vraiment aimée chez les Métaxo et qui brillait incontestablement dans la petite société grecque que l'on voyait dans la ville et aux environs.</p>
           <p>Cependant Mme Daltier revint soucieuse chez elle. Son mari et son fils aîné l'interrogèrent avec empressement sur Mlle Mauduit.</p>
           <p>Elle répondit :</p>
