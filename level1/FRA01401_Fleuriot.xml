@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Un enfant gâté : ELTeC edition</title>
-        <author ref="viaf:41872490 wikidata:Q3086433">Fleuriot, Zénaïde (1829-1890)</author>
+        <author xml:id="Fleuriot" ref="viaf:41872490 wikidata:Q3086433">Fleuriot, Zénaïde (1829-1890)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Christof Schöch</name>

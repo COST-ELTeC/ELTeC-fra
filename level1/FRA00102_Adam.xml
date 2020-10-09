@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Païenne : ELTeC edition</title>
-        <author ref="viaf:64000638 wikidata:Q270617">Adam, Juliette (1836-1936)</author>
+        <author xml:id="Adam" ref="viaf:64000638 wikidata:Q270617">Adam, Juliette (1836-1936)</author>
         <respStmt>
           <resp>encoded by</resp>
           <name>Pia Geißel</name>

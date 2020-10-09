@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Vers le pôle en aéroplane : ELTeC edition</title>
-        <author ref="viaf:51823427 wikidata:missing">Gilbert, Jehan (1880-1940)</author>
+        <author xml:id="Gilbert" ref="viaf:51823427 wikidata:missing">Gilbert, Jehan (1880-1940)</author>
         <respStmt>
           <resp>encoding</resp>
           <name>Rezearta Murati</name>

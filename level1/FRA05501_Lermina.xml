@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:8298151656295308400006 wikidata:Q19178442">L'effrayante aventure : édition ELTeC</title>
-        <author ref="viaf:49244018 wikidata:Q3087202">Lermina, Jules (1839-1915)</author>
+        <author xml:id="Lermina" ref="viaf:49244018 wikidata:Q3087202">Lermina, Jules (1839-1915)</author>
       </titleStmt>
       <extent>
         <!-- Word count: tokens as counted in text split on "\W+" -->

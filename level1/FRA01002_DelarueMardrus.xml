@@ -6,7 +6,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title ref="viaf:missing wikidata:missing">Toutoune et son amour : ELTeC edition</title>
-				<author ref="viaf:34455354 wikidata:Q3087508">Delarue-Mardrus, Lucie (1874-1945)</author>
+				<author xml:id="Delarue" ref="viaf:34455354 wikidata:Q3087508">Delarue-Mardrus, Lucie (1874-1945)</author>
 				<respStmt>
 					<resp>Encoding</resp>
 					<name>Christof Schöch</name>

@@ -5,8 +5,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:309297569 wikidata:Q2818471">813 : ELTeC edition</title>
-        <author ref="viaf:22144617 wikidata:Q314993">Leblanc, Maurice (1864-1941)</author>
+        <title ref="viaf:309297569 wikidata:Q2818471">813 (Huit-Cent-Treize) : ELTeC edition</title>
+        <author xml:id="Leblanc" ref="viaf:22144617 wikidata:Q314993">Leblanc, Maurice (1864-1941)</author>
         <respStmt>
           <resp>encoded by</resp>
           <name>Christof Schöch</name>

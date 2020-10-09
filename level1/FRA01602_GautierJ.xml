@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:missing wikidata:Q19171123">Fleurs d'Orient : ELTeC edition</title>
-        <author ref="viaf:54148064 wikidata:Q2523100">Gautier, Judith (1845-1917)</author>
+        <author xml:id="GautierJ" ref="viaf:54148064 wikidata:Q2523100">Gautier, Judith (1845-1917)</author>
         <respStmt>
           <resp>encoded by</resp>
           <name>Pia Geißel</name>

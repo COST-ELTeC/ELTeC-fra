@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Lucignole : ELTeC edition</title>
-        <author ref="viaf:34460397 wikidata:Q971215">Mendès, Catulle (1841-1909)</author>
+        <author xml:id="Mendes" ref="viaf:34460397 wikidata:Q971215">Mendès, Catulle (1841-1909)</author>
         <respStmt>
           <resp>encoded by</resp>
           <name>Christof Schöch</name>

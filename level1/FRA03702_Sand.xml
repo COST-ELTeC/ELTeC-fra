@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:1327145424598486831029 wikidata:Q19194266">Le dernier amour : ELTeC edition</title>
-        <author ref="viaf:46766944 wikidata:Q3816">Sand, George [Amantine Lucile Aurore Dupin] (1804-1876)</author>
+        <author xml:id="Sand" ref="viaf:46766944 wikidata:Q3816">Sand, George [Amantine Lucile Aurore Dupin] (1804-1876)</author>
         <respStmt>
           <resp>principal</resp>
           <name>Christof Schöch</name>

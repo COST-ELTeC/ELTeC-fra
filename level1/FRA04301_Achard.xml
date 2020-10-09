@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:missing wikidata:Q2894684">Belle-Rose : édition ELTeC</title>
-        <author ref="viaf:22137477 wikidata:Q482162">Achard, Amédée (1814-1875)</author>
+        <author xml:id="Achard" ref="viaf:22137477 wikidata:Q482162">Achard, Amédée (1814-1875)</author>
       </titleStmt>
       <extent>
         <!-- Word count: tokens as counted in text split on "\W+" -->
