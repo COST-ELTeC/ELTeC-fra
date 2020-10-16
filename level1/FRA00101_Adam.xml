@@ -38,15 +38,19 @@
           <date>2019</date>
         </bibl>
         <bibl type="printSource">
-          <title>MON VILLAGE</title>
-          <author>JULIETTE LAMBER</author>
+          <title>Mon Village</title>
+          <author>Juliette Lamber</author>
           <publisher>Michel Lévy Frères, Libraries Éditeurs, Rue Vivienne 2</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1868</date>
         </bibl>
         <bibl type="firstEdition">
-          <!-- best guess: BNF says: " [1863?] " but the other sources say 1868 as first edition. -->
-          <date>1868</date>
+          <title>Mon Village</title>
+          <author>Juliette Lamber</author>
+          <publisher>Michel Lévy Frères</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1860</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k3045979q"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
