@@ -37,12 +37,19 @@
           <ref target="http://beq.ebooksgratuits.com" />
         </bibl>
         <bibl type="printSource">
+          <title>Quand je serai grande</title>
+          <author>Julie Gouraud</author>
           <pubPlace>Paris</pubPlace>
           <publisher>Librairie Hachette et Cie</publisher>
           <date>1888</date>
         </bibl>
         <bibl type="firstEdition">
+          <title>Quand je serai grande</title>
+          <author>Julie Gouraud [Louise d'Aulnay]</author>
+          <publisher>Hachette et Cie</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1888</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6512275q"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

@@ -42,10 +42,12 @@
           </bibl>
           <bibl type="firstEdition">
             <title>La seconde mère</title>
+            <author>Henry Gréville</author>
             <publisher>E. Plon, Nourrit et Cie</publisher>
             <pubPlace>Paris</pubPlace>
             <date>1888</date>
             <idno type="BnF">FRBNF30540976</idno>
+            <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k68964v"></ref>
           </bibl>
         </bibl>
       </sourceDesc>

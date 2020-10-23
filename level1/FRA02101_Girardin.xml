@@ -54,7 +54,12 @@
         </bibl>
         <bibl type="firstEdition">
           <!-- best guess -->
-          <date>1852</date>
+          <title>Marguerite ou deux amours</title>
+          <author>Delphine Gay de Girardin</author>
+          <publisher>impr. de Serrière</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1854</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5835784d"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

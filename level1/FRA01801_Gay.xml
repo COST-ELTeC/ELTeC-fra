@@ -39,7 +39,12 @@
           <date>2006</date>
         </bibl>
         <bibl type="printSource">
+          <title>Ellenore. 1ère série</title>
+          <author>Marie Françoise Sophie Gay</author>
+          <publisher>Michel Lévy</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1864</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k62042m"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1844</date>

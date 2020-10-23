@@ -35,15 +35,18 @@
         </bibl>
         <bibl type="printSource">
           <title>Vers le pôle en aéroplane : roman d'aventures</title>
+          <author>Jehan Gilbert</author>
           <pubPlace>Nancy</pubPlace>
           <publisher>P. Pierron, imprimeur-éditeur</publisher>
           <date>1912</date>
         </bibl>
         <bibl type="firstEdition">
           <title>Vers le pôle en aéroplane : roman d'aventures</title>
+          <author>Jehan Gilbert</author>
           <pubPlace>Nancy</pubPlace>
           <publisher>P. Pierron, imprimeur-éditeur</publisher>
           <date>1912</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k65899h"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

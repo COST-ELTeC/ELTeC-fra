@@ -37,7 +37,12 @@
           <ref target="http://beq.ebooksgratuits.com" />
         </bibl>
         <bibl type="firstEdition">
+          <title>Les Filles du professeur</title>
+          <author>Julie Gouraud</author>
+          <publisher>Hachette et Cie</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1876</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6488535s"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

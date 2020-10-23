@@ -35,8 +35,21 @@
         <bibl type="digitalSource">
           <publisher>Ebooks libres et gratuits</publisher>
         </bibl>
+        <bibl type="printSource">
+          <title>Monsieur Lecoq</title>
+          <author>Émile Gaboriau</author>
+          <publisher>L. Boulanger</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1884</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k57241974"></ref>
+        </bibl>
         <bibl type="firstEdition">
+          <title>Monsieur Lecoq. L'enquête</title>
+          <author>Émile Gaboriau</author>
+          <publisher>E. Dentu</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1869</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k82609v"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
