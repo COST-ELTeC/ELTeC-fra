@@ -37,8 +37,21 @@
           <date />
           <ref target="http://beq.ebooksgratuits.com" />
         </bibl>
-        <bibl type="firstEdition">
+        <bibl type="printSource">
+          <title>Alberte</title>
+          <author>Zénaïde Fleuriot</author>
+          <publisher>V. Lecoffre</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1881</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6567022t"></ref>
+        </bibl>
+        <bibl type="firstEdition">
+          <title>Alberte</title>
+          <author>Zénaïde Fleuriot</author>
+          <publisher>V. Lecoffre</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1881</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6567022t"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

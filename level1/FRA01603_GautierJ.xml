@@ -63,7 +63,12 @@
         </bibl>
         <bibl type="firstEdition">
           <!-- best guess -->
+          <title>Les Princesses d'Amour (Courtisanes Japonaises)</title>
+          <author>Judith Gautier</author>
+          <publisher>P. Ollendorff</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1900</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k831954"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

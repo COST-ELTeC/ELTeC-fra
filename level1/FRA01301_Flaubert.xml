@@ -36,7 +36,12 @@
           <publisher>(unspecified)</publisher>
         </bibl>
         <bibl type="printSource">
-          <publisher>(unspecified)</publisher>
+          <title>L'Éducation sentimentale histoire d'un jeune homme</title>
+          <author>Gustave Flaubert</author>
+          <publisher>G. Charpentier</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1880</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6576703v"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1869</date>

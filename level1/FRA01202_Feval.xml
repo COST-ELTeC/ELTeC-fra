@@ -34,6 +34,14 @@
         <bibl type="digitalSource">
           <publisher>Ebooks libres et gratuits</publisher>
         </bibl>
+        <bibl type="printSource">
+          <title>Les errants de nuit</title>
+          <author>Paul Féval</author>
+          <publisher>V. Palmé</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1880</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6541902r"></ref>
+        </bibl>
         <bibl type="firstEdition">
           <publisher>Le Pays</publisher>
           <date>1857</date> <!-- du 26 juin au 3 octobre -->

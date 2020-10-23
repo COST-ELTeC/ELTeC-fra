@@ -33,15 +33,27 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
+          <title>Madame Bovary</title>
+          <author>Gustave Flaubert</author>
           <publisher>Ebooks libres et gratuits</publisher>
           <date>2012</date>
           <ref target="http://www.ebooksgratuits.com/" />
         </bibl>
         <bibl type="printSource">
-          <date>source</date>
+          <title>Madame Bovary</title>
+          <author>Gustave Flaubert</author>
+          <publisher>Michel Lévy frères</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1857</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b8619658w"></ref>
         </bibl>
         <bibl type="firstEdition">
+          <title>Madame Bovary</title>
+          <author>Gustave Flaubert</author>
+          <publisher>Michel Lévy frères</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1857</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b8619658w"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

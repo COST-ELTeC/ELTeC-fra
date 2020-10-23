@@ -35,13 +35,21 @@
           <ref target="http://efele.net/ebooks/livres/000075" />
         </bibl>
         <bibl type="printSource">
+          <title>Le curé de village</title>
+          <author>Honoré de Balzac</author>
           <pubPlace>Paris</pubPlace>
           <publisher>Furne, J. Dubochet et Cie, J. Hetzel et Paulin</publisher>
           <date>1842-1848</date>
         </bibl>
         <bibl type="firstEdition">
-          <date>1841</date>
+          <title>Le curé de village</title>
+          <author>Honoré de Balzac</author>
+          <publisher>bureaux du "Siècle"</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1854</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5821334m"></ref>
           <!-- Version primitive en feuilleton : 1839 -->
+          <!-- Novel first appeared in "La presse", serial (January-August 1839), then in flight. in 1841 before being included in "The human comedy" in the "Scenes of country life" (t. XIII, 1846) in the part entitled "Studies of manners". -->
         </bibl>
       </sourceDesc>
     </fileDesc>

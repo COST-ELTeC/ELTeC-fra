@@ -33,12 +33,19 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
+          <title>Les Trappeurs de l'Arkansas</title>
+          <author>Gustave Aimard</author>
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
           <ref target="https://www.ebooksgratuits.com/details.php?book=953" />
           <date>2005</date>
         </bibl>
         <bibl type="firstEdition">
+          <title>Les Trappeurs de l'Arkansas</title>
+          <author>Gustave Aimard</author>
+          <publisher>Amyot</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1858</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6213686g"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

@@ -38,7 +38,12 @@
           <!-- via Feedbooks. -->
         </bibl>
         <bibl type="printSource">
-          <date>source</date>
+          <title>Salammbô</title>
+          <author>Gustave Flaubert</author>
+          <publisher>Michel Lévy frères</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1863</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b8626108m"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1862</date>

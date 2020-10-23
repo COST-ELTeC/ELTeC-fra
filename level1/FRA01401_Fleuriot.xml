@@ -38,6 +38,14 @@
           <idno />
           <ref target="http://beq.ebooksgratuits.com" />
         </bibl>
+        <bibl type="printSource">
+          <title>Un enfant gâté</title>
+          <author>Zénaïde Fleuriot</author>
+          <publisher>Hachette</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1881</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6567040r"></ref>
+        </bibl>
         <bibl type="firstEdition">
           <date>1877</date>
         </bibl>

@@ -29,11 +29,18 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
+          <title>Belle rivière</title>
+          <author>Gustave Aimard</author>
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
           <ref target="http://beq.ebooksgratuits.com/vents-epub/Aimard-riviere.epub" />
         </bibl>
         <bibl type="firstEdition">
-          <date>1874</date>
+          <title>Belle rivière</title>
+          <author>Gustave Aimard</author>
+          <publisher>H. Geffroy</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1894</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k57626038"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

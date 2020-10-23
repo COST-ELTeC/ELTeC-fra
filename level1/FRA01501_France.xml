@@ -46,15 +46,20 @@
           <date>2011</date>
         </bibl>
         <bibl type="printSource">
-          <title>LES DIEUX ONT SOIF</title>
-          <author>ANATOLE FRANCE</author>
-          <publisher>CALMANN-LÉVY</publisher>
+          <title>Les dieux ont soif</title>
+          <author>Anatole France </author>
+          <publisher>Calmann-Lévy</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1939</date>
         </bibl>
         <bibl type="firstEdition">
           <!-- best guess -->
+          <title>Les dieux ont soif</title>
+          <author>Anatole France </author>
+          <publisher>Calmann-Lévy</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1912</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b8600277s"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

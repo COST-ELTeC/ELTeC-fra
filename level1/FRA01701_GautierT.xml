@@ -47,7 +47,12 @@
         </bibl>
         <bibl type="firstEdition">
           <!-- best guess. There may be some editions that were published in earlier volumes with other novels from this author. -->
+          <title>Militona</title>
+          <author>Théophile Gautier</author>
+          <publisher>Desessart</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1847</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k8630650v"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

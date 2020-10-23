@@ -35,12 +35,19 @@
           <ref target="http://efele.net/ebooks/livres/000067" />
         </bibl>
         <bibl type="printSource">
+          <title>Le cousin Pons</title>
+          <author>Honoré de Balzac</author>
           <pubPlace>Paris</pubPlace>
           <publisher>Furne, J.-J. Dubochet et Cie, J. Hetzel et Paulin</publisher>
           <date>1842-1848</date>
         </bibl>
         <bibl type="firstEdition">
-          <date>1847</date>
+          <title>Le cousin Pons</title>
+          <author>Honoré de Balzac</author>
+          <publisher>Marescq et Cie</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1851-1853</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k1169098"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

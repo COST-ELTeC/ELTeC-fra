@@ -36,6 +36,14 @@
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
           <ref target="http://beq.ebooksgratuits.com" />
         </bibl>
+        <bibl type="printSource">
+          <title>En congé</title>
+          <author>Zénaïde Fleuriot</author>
+          <publisher>Hachette</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1881</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6512266r"></ref>
+        </bibl>
         <bibl type="firstEdition">
           <date>1874</date>
         </bibl>

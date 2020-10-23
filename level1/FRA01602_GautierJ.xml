@@ -57,7 +57,7 @@
           <ref target="https://fr.wikisource.org/wiki/Fleurs_d%E2%80%99Orient" />
         </bibl>
         <bibl type="printSource">
-          <title>FLEURS D'ORIENT</title>
+          <title>Fleurs d'Orient</title>
           <author>Judith Gautier</author>
           <publisher>Armand Collin et Cie. Éditeurs 5, Rue de Mézèries</publisher>
           <pubPlace>Paris</pubPlace>
@@ -65,7 +65,12 @@
         </bibl>
         <bibl type="firstEdition">
           <!-- best guess -->
+          <title>Fleurs d'Orient</title>
+          <author>Judith Gautier</author>
+          <publisher>A. Colin</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1893</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k816177"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

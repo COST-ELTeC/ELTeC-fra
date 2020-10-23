@@ -34,15 +34,18 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <title>Marie-Claire</title>
+          <author>Marguerite Audoux</author>
           <ref target="http://beq.ebooksgratuits.com/auteurs/terrail/index.htm">Marie-Claire</ref>
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
           <idno type="beq">977</idno>
         </bibl>
         <bibl type="firstEdition">
           <title>Marie-Claire</title>
-          <publisher>Eugène Fasquelle</publisher>
+          <author>Marguerite Audoux</author>
+          <publisher>A. Fayard et Cie</publisher>
           <pubPlace>Paris</pubPlace>
-          <date>1910</date>
+          <date>1925</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k4226212k"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

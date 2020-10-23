@@ -40,11 +40,12 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="printSource">
-          <title> LA PETITE JEANNE OU LE DEVOIR. LIVRE DE LECTURE COURANTE SPÉCIALEMENT DESTINÉ AUX ÉCOLES PRIMAIRES DE FILLES. NOUVELLE ÉDITION </title>
-          <author>MME Z. CARRAUD</author>
+          <title> La petite Jeanne ou Le devoir. Livre de lecture courante spécialement destiné aux écoles primaires de filles. Nouvelle Édition </title>
+          <author>MME Z. Carraud</author>
           <pubPlace>Paris</pubPlace>
           <publisher> PARIS LIBRAIRIE HACHETTE ET Cie 79, BOULEVARD SAINT-GERMAIN, 79 </publisher>
           <date>1884</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k64363w"></ref>
         </bibl>
         <bibl type="digitalSource">
           <title>La petite Jeanne ; ou, Le devoir</title>
@@ -55,6 +56,9 @@
         </bibl>
         <bibl type="firstEdition">
           <!-- best guess -->
+          <title>La petite Jeanne ou Le devoir</title>
+          <author>Zulma Carraud</author>
+          <pubPlace>Paris</pubPlace>
           <date>1852</date>
         </bibl>
       </sourceDesc>

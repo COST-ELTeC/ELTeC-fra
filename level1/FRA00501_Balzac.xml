@@ -35,13 +35,20 @@
           <ref target="http://efele.net/ebooks/livres/000015" />
         </bibl>
         <bibl type="printSource">
+          <title>Albert Savarus</title>
+          <author>Honoré de Balzac</author>
           <pubPlace>Paris</pubPlace>
           <publisher>Furne, J.-J. Dubochet et Cie, J. Hetzel et Paulin</publisher>
           <date>1842</date>
           <!-- 1842-1848, vol. 1: 1842 -->
         </bibl>
         <bibl type="firstEdition">
-          <date>1842</date>
+          <title>Albert Savarus</title>
+          <author>Honoré de Balzac</author>
+          <publisher>bureaux du "Siècle"</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1853</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5834593c"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

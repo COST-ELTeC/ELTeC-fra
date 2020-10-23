@@ -38,8 +38,16 @@
           <date>2004</date>
         </bibl>
         <bibl type="printSource">
+          <title>Le petit chose</title>
+          <author>Alphonse Daudet</author>
+          <publisher>Librairie de France</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1930</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k3413532f"></ref>
         </bibl>
         <bibl type="firstEdition">
+          <title>Le petit chose</title>
+          <author>Alphonse Daudet</author>
           <date>1867</date> <!--(1866-1867)-->
         </bibl>
       </sourceDesc>

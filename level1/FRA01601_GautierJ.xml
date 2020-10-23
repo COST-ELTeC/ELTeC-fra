@@ -52,7 +52,12 @@
         </bibl>
         <bibl type="firstEdition">
           <!-- best guess -->
+          <title>La Sœur du Soleil (L'Usurpateur)</title>
+          <author>Judith Gautier</author>
+          <publisher>Dentu</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1887</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k811244"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

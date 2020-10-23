@@ -56,7 +56,12 @@
         </bibl>
         <bibl type="firstEdition">
           <!-- best guess -->
+          <title>Païenne</title>
+          <author>Juliette Lamber (Madame Adam)</author>
+          <publisher>Paul Ollendirf, Éditeur, 28 Rue de Richelieu</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1883</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k4112668"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

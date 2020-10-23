@@ -51,7 +51,12 @@
         </bibl>
         <bibl type="firstEdition">
           <!-- best guess -->
+          <title>Le château de Pinon I. VOL 1.</title>
+          <author>Competesse Dash</author>
+          <publisher>Desessart 22</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1843</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k54963878"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
