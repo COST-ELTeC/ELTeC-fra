@@ -39,7 +39,12 @@
         <bibl type="printSource">
         </bibl>
         <bibl type="firstEdition">
+          <title>Une vie</title>
+          <author>Guy de Maupassant</author>
+          <publisher>V. Havard</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1883</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k113357j"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

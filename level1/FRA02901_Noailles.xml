@@ -48,15 +48,20 @@
           <date>2015</date>
         </bibl>
         <bibl type="printSource">
-          <title>LA NOUVELLE ESPÉRANCE</title>
+          <title>La nouvelle espérance</title>
           <author>Comptesse Mathieu de Noailles</author>
           <publisher>Calmann-Lévy</publisher>
-          <pubPlace>Paris, 3 rue Auber</pubPlace>
+          <pubPlace>Paris</pubPlace>
           <date>1903</date>
         </bibl>
         <bibl type="firstEdition">
           <!-- best guess -->
+          <title>La nouvelle espérance</title>
+          <author>Comptesse Mathieu de Noailles</author>
+          <publisher>Calmann-Lévy</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1903</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k111801"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

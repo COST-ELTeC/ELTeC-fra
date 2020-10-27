@@ -47,7 +47,12 @@
           <date>1887</date>
         </bibl>
         <bibl type="firstEdition">
+          <title>Rouzétou</title>
+          <author>Stella Blandy</author>
+          <publisher>Hachette</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1887</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k1656064"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

@@ -40,7 +40,12 @@
         <bibl type="printSource">
         </bibl>
         <bibl type="firstEdition">
+          <title>Mon frère Yves</title>
+          <author>Pierre Loti</author>
+          <publisher>Calmann Lévy</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1883</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6101694w"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

@@ -38,7 +38,12 @@
           <idno>14251</idno>
         </bibl>
         <bibl type="firstEdition">
+          <title>L'Âme de Pierre</title>
+          <author>Georges Ohnet</author>
+          <publisher>P. Ollendorff</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1890</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k68750m"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

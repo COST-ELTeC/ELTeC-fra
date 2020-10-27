@@ -33,6 +33,14 @@
           <idno type="CLiGS">rd0010</idno>
           <!-- Originally: Bibliothèque électronique du Québec (BEQ), id 977 -->
         </bibl>
+        <bibl type="printSource">
+          <title>La baronne trépassée. Tome 1</title>
+          <author>Ponson du Terrail, Pierre Alexis</author>
+          <publisher>Baudry</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1853</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5612874d"></ref>
+        </bibl>
         <bibl type="firstEdition">
           <title>La baronne trépassée</title>
           <publisher>Baudry</publisher>

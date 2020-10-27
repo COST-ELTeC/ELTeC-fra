@@ -35,7 +35,17 @@
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
           <ref target="http://beq.ebooksgratuits.com" />
         </bibl>
+        <bibl type="printSource">
+          <title>Sans famille</title>
+          <author>Hector Malot</author>
+          <publisher>J. Hetzel et Cie</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1880</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k97632083"></ref>
+        </bibl>
         <bibl type="firstEdition">
+          <title>Sans famille</title>
+          <author>Hector Malot</author>
           <date>1878</date>
         </bibl>
       </sourceDesc>

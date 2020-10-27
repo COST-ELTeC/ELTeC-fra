@@ -43,7 +43,12 @@
           <date>1884</date>
         </bibl>
         <bibl type="firstEdition">
+          <title>Romain Kalbris</title>
+          <author>Hector Malot</author>
+          <publisher>J. Hetzel</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1869</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5807990m"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

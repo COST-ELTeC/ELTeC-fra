@@ -46,10 +46,11 @@
           </bibl>
           <bibl type="firstEdition">
             <title>Le piège aux maris</title>
+            <author>Urbain Rattazzi (Marie de Solms)</author>
             <publisher>A. Cadot</publisher>
             <pubPlace>Paris</pubPlace>
             <date>1865</date>
-            <idno type="BnF">https://gallica.bnf.fr/ark:/12148/bpt6k6456888h</idno>
+            <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6456888h"></ref>
           </bibl>
         </bibl>
       </sourceDesc>

@@ -38,10 +38,20 @@
           <idno>20950</idno>
         </bibl>
         <bibl type="printSource">
-          <publisher>Ollendorff</publisher>
-          <date>1907</date>
+          <title>La Grande Marnière</title>
+          <author>Georges Ohnet</author>
+          <publisher>Lith. F. Appel</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1889</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b9005511c"></ref>
         </bibl>
-        <bibl type="firstEdition"> Ollendorff, <date>1885</date>
+        <bibl type="firstEdition">
+          <title>La Grande Marnière</title>
+          <author>Georges Ohnet</author>
+          <publisher>P. Ollendorff</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1885</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k663772"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

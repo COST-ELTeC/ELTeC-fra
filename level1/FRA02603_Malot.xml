@@ -37,7 +37,12 @@
           <ref target="http://beq.ebooksgratuits.com" />
         </bibl>
         <bibl type="firstEdition">
+          <title>Conscience</title>
+          <author>Hector Malot</author>
+          <publisher>G. Charpentier</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1888</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k912745"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
