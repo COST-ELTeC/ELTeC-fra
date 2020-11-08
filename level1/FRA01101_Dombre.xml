@@ -10,7 +10,11 @@
         <title ref="oclc:457908349 viaf:unavailable wikidata:missing">Une pupille gênante : édition ELTeC</title>
         <author xml:id="Dombre" ref="viaf:37053113 wikidata:Q42529454">Dombre, Roger [Marguerite Sisson / Marguerite Ligeron] (1859-1914)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -25,11 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -460,21 +461,21 @@
           <p>— C'est vrai ; et puis elles se sont scandalisées l'autre jour parce que, jouant au croquet, j'ai manqué mon coup et crié : « Sapristi ! » et puis parce que je fredonnais la chanson que vous m'avez apprise, vous savez bien, mon oncle ?</p>
           <p>Et Gilberte chantonna de sa petite voix claire :</p>
           <quote type="song">
-          <p>
-            <hi>C'était pendant l'horreur d'une profonde nuit,</hi>
-          </p>
-          <p>
-            <hi>On eût dit que Racine d'avance l'eût prédit ;</hi>
-          </p>
-          <p>
-            <hi>Quatre millions de singes, pères, mères et fils,</hi>
-          </p>
-          <p>
-            <hi>S'avançaient à pas lents, chantant</hi>
-          </p>
-          <p>
-            <hi>De profundis, sur l'air du tra la la la...</hi>
-          </p>
+            <p>
+              <hi>C'était pendant l'horreur d'une profonde nuit,</hi>
+            </p>
+            <p>
+              <hi>On eût dit que Racine d'avance l'eût prédit ;</hi>
+            </p>
+            <p>
+              <hi>Quatre millions de singes, pères, mères et fils,</hi>
+            </p>
+            <p>
+              <hi>S'avançaient à pas lents, chantant</hi>
+            </p>
+            <p>
+              <hi>De profundis, sur l'air du tra la la la...</hi>
+            </p>
           </quote>
           <milestone type="section" rend="space" unit="newline" />
           <p>— Aussi, reprit l'enfant, boudeuse à ce ressouvenir, Mlle Maudrey, leur institutrice, m'a ordonné de me taire, comme si elle avait le droit de me faire des observations. Je ne l'aime pas, Mlle Maudrey.</p>
@@ -1138,9 +1139,9 @@
           <p>— Mais très volontiers, mon oncle, répondit le jeune ingénieur sans rien perdre de son gracieux sang-froid.</p>
           <p>Il se leva avec son aisance de grand seigneur, déployant sa riche taille, et s'assit au clavier ; il préluda par quelques accords graves et entonna ces couplets si connus et si beaux :</p>
           <quote type="song">
-          <p>
-            <hi>Minuit, Chrétiens, c'est l'heure solennelle.</hi>
-          </p>
+            <p>
+              <hi>Minuit, Chrétiens, c'est l'heure solennelle.</hi>
+            </p>
           </quote>
           <milestone type="section" rend="space" unit="newline" />
           <p>On s'apprêtait à rire, on bâillait d'avance, le plus poliment qu'on pouvait... et voilà que tous firent silence, pris soudain sous le charme de cette splendide voix de baryton, mâle et sonore, dont les notes avaient un velouté et une expression délicieuse.</p>
@@ -1644,50 +1645,50 @@
           <p>— Je ne veux pas me marier encore.</p>
           <p>Le même soir, assise au piano, elle chantait, d'une voix lente, cette naïve, mais expressive romance tirée de l'opérette d'Offenbach : « Robinson Crusoé » :</p>
           <quote type="song">
-          <p>
-            <hi>S'il fallait qu'aujourd'hui</hi>
-          </p>
-          <p>
-            <hi>Quelqu'un mourût pour lui,</hi>
-          </p>
-          <p>
-            <hi>À cet instant suprême</hi>
-          </p>
-          <p>
-            <hi>Je vous embrasserais</hi>
-          </p>
-          <p>
-            <hi>Et puis aussi j'irais</hi>
-          </p>
-          <p>
-            <hi>J'irais m'offrir moi-même,</hi>
-          </p>
-          <p>
-            <hi>Si c'est aimer, je l'aime.</hi>
-          </p>
+            <p>
+              <hi>S'il fallait qu'aujourd'hui</hi>
+            </p>
+            <p>
+              <hi>Quelqu'un mourût pour lui,</hi>
+            </p>
+            <p>
+              <hi>À cet instant suprême</hi>
+            </p>
+            <p>
+              <hi>Je vous embrasserais</hi>
+            </p>
+            <p>
+              <hi>Et puis aussi j'irais</hi>
+            </p>
+            <p>
+              <hi>J'irais m'offrir moi-même,</hi>
+            </p>
+            <p>
+              <hi>Si c'est aimer, je l'aime.</hi>
+            </p>
           </quote>
           <quote type="song">
-          <p>
-            <hi>Je sens que s'il partait</hi>
-          </p>
-          <p>
-            <hi>Mon cœur éprouverait</hi>
-          </p>
-          <p>
-            <hi>Une douleur extrême ;</hi>
-          </p>
-          <p>
-            <hi>Et je sens qu'avec lui</hi>
-          </p>
-          <p>
-            <hi>S'envolerait aussi</hi>
-          </p>
-          <p>
-            <hi>La moitié de moi-même.</hi>
-          </p>
-          <p>
-            <hi>Si c'est aimer, je l'aime.</hi>
-          </p>
+            <p>
+              <hi>Je sens que s'il partait</hi>
+            </p>
+            <p>
+              <hi>Mon cœur éprouverait</hi>
+            </p>
+            <p>
+              <hi>Une douleur extrême ;</hi>
+            </p>
+            <p>
+              <hi>Et je sens qu'avec lui</hi>
+            </p>
+            <p>
+              <hi>S'envolerait aussi</hi>
+            </p>
+            <p>
+              <hi>La moitié de moi-même.</hi>
+            </p>
+            <p>
+              <hi>Si c'est aimer, je l'aime.</hi>
+            </p>
           </quote>
           <milestone type="section" rend="space" unit="newline" />
           <p>Quand elle abandonna le piano, elle rougit en voyant fixés sur elle les yeux étincelants de son cousin.</p>
@@ -1753,12 +1754,12 @@
           <p>Leur galop à quatre mains achevé, les musiciennes appelèrent Gilberte.</p>
           <p>-- À ton tour, chérie, dirent-elles, chante-nous <hi>Robinson Crusoé</hi> , tu sais, la romance que tu dis si bien : </p>
           <quote type="song">
-          <p>
-            <hi>S'il fallait qu'aujourd'hui</hi>
-          </p>
-          <p>
-            <hi>Quelqu'un mourût pour lui...</hi>
-          </p>
+            <p>
+              <hi>S'il fallait qu'aujourd'hui</hi>
+            </p>
+            <p>
+              <hi>Quelqu'un mourût pour lui...</hi>
+            </p>
           </quote>
           <milestone type="section" rend="space" unit="newline" />
           <p>— Oh ! non, pas cela, répondit la jeune fille dont un sourire sarcastique plissait la lèvre rouge. J'ai ici de la musique plus nouvelle.</p>

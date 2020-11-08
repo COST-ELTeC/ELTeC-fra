@@ -9,13 +9,28 @@
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Madeleine : édition ELTeC</title>
         <author xml:id="Kock" ref="viaf:100183137 wikidata:Q982058">Kock, Paul de (1793-1871)</author>
+        <respStmt>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
       </titleStmt>
       <extent>
         <!-- Word count : tokens as counted in text split on "\W+" -->
         <measure unit="words">99323</measure>
       </extent>
       <publicationStmt>
-        <p>à fournir</p>
+        <publisher ref="https://distant-reading. net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo. org/communities/eltec/">Zenodo. org</distributor>
+        <date when="2020-04-21" />
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -68,7 +83,7 @@
           <l>Un jour me terrassait,</l>
           <l>Et de mon corps chassait</l>
           <l>Mon ame languissante. »</l>
-            <p>Sedaine-Richard. </p>
+          <p>Sedaine-Richard. </p>
         </quote>
         <p>Bruxelles, SOCIÉTÉ BELGE DE LIBRAIRIE, ETC. HAUMAN ET COMPAGNIE. 1838.</p>
         <gap unit="toc" />

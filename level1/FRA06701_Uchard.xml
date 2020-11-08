@@ -8,8 +8,16 @@
         <title ref="viaf:missing wikidata:missing">La Buveuse de perles : édition ELTeC</title>
         <author xml:id="Uchard" ref="viaf:64099498 wikidata:Q14867927">Uchard, Mario (1824-1893)</author>
         <respStmt>
-          <resp>encoding</resp>
+          <resp>Principal investigator</resp>
           <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Data capture</resp>
+          <name>Gallica</name>
         </respStmt>
       </titleStmt>
       <extent>
@@ -23,7 +31,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -1538,9 +1547,9 @@
         <p>Après le départ de Lorrain, Catherine fondit en larmes. affolée, consternée.</p>
         <p>Une heure plus tard, elle adressait ces quelques mots à Cambrelu :</p>
         <quote type="letter">
-        <p>Jeudi matin.</p>
-        <p>« J'accepte, et je vais à l'instant m'installer rue Jean-Goujon.</p>
-        <p>» CATHERINE. »</p>
+          <p>Jeudi matin.</p>
+          <p>« J'accepte, et je vais à l'instant m'installer rue Jean-Goujon.</p>
+          <p>» CATHERINE. »</p>
         </quote>
         <p>Puis, faisant mettre en paquets robes et linge, comme si elle allait en voyage, elle envoya chercher une voiture, y monta avec sa bonne et son enfant.</p>
         <p>A dix heures, elle arrivait à son nouveau logis.</p>
@@ -2235,8 +2244,8 @@
         <p>-- Méchante, et vous aussi vous m'appelez Antoine, à cause de la Tentation. Mais je n'ai pas son compagnon !... ajouta-t-il finement.</p>
         <p>-- Tout beau, Cambrelu, s'écria Brémont le peintre, ne pas médire de l'animal !.. On ne sait jamais ce qu'on deviendra !.. Horace, lui-même s'intitulait : <hi rend="italic">Epicuri de grege porcum !</hi></p>
         <quote type="poem">
-        <p>-- Tout homme a dans le cœur un cochon qui sommeille ;</p>
-        <p>Mais à la voix du sens, l'animal se réveille.</p>
+          <p>-- Tout homme a dans le cœur un cochon qui sommeille ;</p>
+          <p>Mais à la voix du sens, l'animal se réveille.</p>
         </quote>
         <p>déclama le Parnassien, d'un air rêveur.</p>
         <p>-- Une couronne de roses à Antoine-Cambrelu ! dit une voix.</p>
@@ -2247,7 +2256,7 @@
         <p>On but à la mode anglaise, avec les trois hourras,</p>
         <p>Le Parnassien lut le fameux sonnet si connu depuis :</p>
         <quote>
-           <p>Si Cléopâtre avait eu tes grands yeux</p>
+          <p>Si Cléopâtre avait eu tes grands yeux</p>
         </quote>
         <p>.....................</p>
         <p>Ce fut un délire.</p>

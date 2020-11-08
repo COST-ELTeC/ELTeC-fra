@@ -10,7 +10,11 @@
         <title ref="viaf:missing wikidata:missing">Un enfant gâté : édition ELTeC</title>
         <author xml:id="Fleuriot" ref="viaf:41872490 wikidata:Q3086433">Fleuriot, Zénaïde (1829-1890)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -25,11 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -597,10 +598,10 @@
         <p>— Très bonne idée ; il en demande tous les jours, cela lui fera oublier son maquereau. »</p>
         <p>Tandis que l'on s'arrangeait pour le désarmer, M. Massereau, assis au bureau bien rangé qui ne lui servait guère, écrivait d'une écriture tout empâtée le billet suivant</p>
         <quote type="letter">
-        <p>« Mon cher colonel,</p>
-        <p>« Au fond, je me suis toujours ligué avec ma femme pour vous empêcher de reprendre votre pupille. Le moment de la séparation venu, je me laissais circonvenir par ses lamentations. Mais cela va de mal en pis pour l'enfant. (Ici le maquereau frit se représenta vivement à l'imagination du vieillard ; et après une pause, il continua d'une main fébrile :) Les gâteries n'ont plus de mesure et il est plus que temps qu'il nous quitte. Ma femme et moi n'avons pas ce qu'il faut pour élever un enfant. Donc, faites-le chercher, que je sois au plus tôt débarrassé de cette désagréable affaire. Je vous prête main-forte, c'est entendu.</p>
-        <p>« Je vous serre cordialement la main.</p>
-        <p>« MASSEREAU. »</p>
+          <p>« Mon cher colonel,</p>
+          <p>« Au fond, je me suis toujours ligué avec ma femme pour vous empêcher de reprendre votre pupille. Le moment de la séparation venu, je me laissais circonvenir par ses lamentations. Mais cela va de mal en pis pour l'enfant. (Ici le maquereau frit se représenta vivement à l'imagination du vieillard ; et après une pause, il continua d'une main fébrile :) Les gâteries n'ont plus de mesure et il est plus que temps qu'il nous quitte. Ma femme et moi n'avons pas ce qu'il faut pour élever un enfant. Donc, faites-le chercher, que je sois au plus tôt débarrassé de cette désagréable affaire. Je vous prête main-forte, c'est entendu.</p>
+          <p>« Je vous serre cordialement la main.</p>
+          <p>« MASSEREAU. »</p>
         </quote>
         <p>M. Massereau cacheta cette lettre, mit l'adresse et sortit de son cabinet, son chapeau sur la tête et sa canne à la main.</p>
         <p>Le hasard, était-ce bien le hasard ? lui fit trouver Mme Massereau et Marie-Céline sur son chemin. Mme Massereau rangeait bruyamment un service à thé, Marie-Céline époussetait la rampe de l'escalier. Il passa majestueux et sombre, sans leur adresser la parole.</p>

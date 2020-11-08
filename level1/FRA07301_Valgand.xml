@@ -10,12 +10,16 @@
         <title ref="viaf:missing wikidata:missing">Blondine, roman nouveau : édition ELTeC</title>
         <author xml:id="Valgand" ref="viaf:(inexistent)">de Valgand, Cécile [Piolenc, Cécile Marchand-Caruë, Mise de] (0000-0000)</author>
         <respStmt>
-          <resp>Data capture</resp>
-          <name>BnF/Gallica</name>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
         </respStmt>
         <respStmt>
           <resp>Encoding</resp>
           <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Data capture</resp>
+          <name>BnF/Gallica</name>
         </respStmt>
       </titleStmt>
       <extent>
@@ -29,7 +33,8 @@
         <availability>
           <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

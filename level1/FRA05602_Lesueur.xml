@@ -9,6 +9,14 @@
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Masque d'Amour : édition ELTeC</title>
         <author xml:id="Lesueur" ref="viaf:39520913 wikidata:Q5217915">Lesueur, Daniel (1854-1921)</author>
+        <respStmt>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
       </titleStmt>
       <extent>
         <!-- Word count : tokens as counted in text split on "\W+" -->
@@ -16,7 +24,14 @@
         <measure unit="vols">2</measure>
       </extent>
       <publicationStmt>
-        <p>à fournir</p>
+        <publisher ref="https://distant-reading. net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo. org/communities/eltec/">Zenodo. org</distributor>
+        <date when="2020-04-21" />
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

@@ -10,7 +10,11 @@
         <title ref="viaf:307993357 wikidata:Q19176918">L'Âme de Pierre : édition ELTeC</title>
         <author xml:id="Ohnet" ref="viaf:66497284 wikidata:Q1393388">Ohnet, Georges (1848-1918)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -25,11 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

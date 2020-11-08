@@ -10,7 +10,11 @@
         <title ref="viaf:missing wikidata:missing">La Grande Marnière : édition ELTeC</title>
         <author xml:id="Ohnet" ref="viaf:66497284 wikidata:Q1393388">Ohnet, Georges (1848-1918)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -25,11 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -121,11 +122,11 @@
         <p>— Oh ! il n'est pas méchant, dit la belle Rose, il est seulement un peu taquin, et il est venu pour m'aguicher... Mais je ne le crains pas, dà, et j'aurais bien su m'en débarrasser toute seule... Je ne vous en remercie pas moins...</p>
         <p>Et posant une camisole sur la planche qui était devant elle, elle se mit à la battre à grands coups, en chantant d'une voix claire :</p>
         <quote type="song">
-        <p>Tapez ferme, la lavandière,</p>
-        <p>Tapez ferme et rincez itou.</p>
-        <p>À la mare l'iau n'est, pas chère,</p>
-        <p>À c'matin il a plu beaucoup !</p>
-        <p>Tapez ! tapez !</p>
+          <p>Tapez ferme, la lavandière,</p>
+          <p>Tapez ferme et rincez itou.</p>
+          <p>À la mare l'iau n'est, pas chère,</p>
+          <p>À c'matin il a plu beaucoup !</p>
+          <p>Tapez ! tapez !</p>
         </quote>
         <p>Et elle rythmait sa chanson du claquement sourd de son battoir sur le linge mouillé, ne pensant déjà plus à son aventure, gaie et insouciante comme une alouette des champs, tandis qu'au bord de la lande, découpant sa silhouette grise sur l'azur du ciel, l'idiot, faisant claquer son fouet, riait toujours de son mauvais rire.</p>
         <p>L'amazone et l'étranger avaient repris leur marche : ils approchaient d'un petit bois dont l'entrée était défendue par une large barrière peinte en blanc. Ils le tournèrent et, soudain, arrivés au bord du plateau, la vallée de la Thelle s'ouvrit devant eux.</p>
@@ -1604,7 +1605,7 @@
         <p>Antoinette, pâle et froide, suivait la lutte inutile engagée par le savant contre lui-même. Vainement, il amputait son œuvre. Vainement, comme le marin pour alléger son navire, il jetait une partie de la cargaison à la mer. Il était trop tard, et la tourmente, au milieu de laquelle il se trouvait engagé, devait tout engloutir.</p>
         <p>— Hélas ! mon père, dit-elle avec fermeté, renoncez à vos rêves... Vous ne pourrez pas les réaliser... Tout est fini, bien fini... Les dernières ressources sont taries... Croyez qu'il me faut un grand courage pour vous parler ainsi... Si j'avais pu m'y décider plus tôt, peut-être ne serions-nous pas arrivés à une ruine si complète.</p>
         <p>— Ma fille ! interrompit le marquis d'un ton de reproche.</p>
-        <p>—  Oh ! ne doutez pas de mon respect et de mon affection, interrompit Mlle de Clairefont... Je vous les prouve mieux en vous tenant aujourd'hui ce langage, qu'autrefois en gardant le silence... Vous aviez le droit de disposer d'une fortune qui vous appartenait, et personne dans la famille ne se permettra de discuter l'emploi qu'il vous a plu d'en faire.</p>
+        <p>— Oh ! ne doutez pas de mon respect et de mon affection, interrompit Mlle de Clairefont... Je vous les prouve mieux en vous tenant aujourd'hui ce langage, qu'autrefois en gardant le silence... Vous aviez le droit de disposer d'une fortune qui vous appartenait, et personne dans la famille ne se permettra de discuter l'emploi qu'il vous a plu d'en faire.</p>
         <p>— Eh ! aveugle que tu es ! s'écria avec force l'inventeur, je voulais, je veux encore vous enrichir ! Tu ne comprends donc rien, tu n'as donc plus confiance en moi ?</p>
         <p>— Si, mon père... Mais le résultat a trahi vos efforts... Et non seulement vous n'avez plus d'argent pour continuer, mais vous n'en avez même pas pour acquitter vos dettes.</p>
         <p>— Qu'importent mes dettes ? J'en doublerais la somme, sans crainte et sans scrupule : je suis sûr de réussir !</p>
@@ -2468,10 +2469,10 @@
         <p>Elle passa son mouchoir sur son visage, et sortit. Quand elle revint dans le salon, la tante Isabelle, qui avait le regard perçant, remarqua que la jeune fille avait les yeux rouges comme si elle venait de pleurer. Elle en fut presque heureuse. L'impassibilité de sa nièce la confondait.</p>
         <p>Le dîner se traîna morne, malgré les tentatives de Robert pour animer la conversation. Chacun des convives était absorbé par de graves préoccupations, et ne prêtait aux propos échangés qu'une oreille distraite. Pendant la soirée, Antoinette se mit au piano, et, pour la première fois, chanta devant Pascal. Elle avait une voix de mezzo-soprano, aux notes puissantes et pures. Elle choisit, comme au hasard, l'admirable air de la <hi>Reine de Saba</hi> , et fit frissonner le jeune homme par l'expression triomphante et passionnée qu'elle mit dans la reprise : </p>
         <quote type="song">
-        <p>Plus grand dans son obscurité</p>
-        <p>Qu'un roi paré du diadème,</p>
-        <p>Il semblait porter en lui-même</p>
-        <p>Sa noblesse et sa majesté !</p>
+          <p>Plus grand dans son obscurité</p>
+          <p>Qu'un roi paré du diadème,</p>
+          <p>Il semblait porter en lui-même</p>
+          <p>Sa noblesse et sa majesté !</p>
         </quote>
         <p>Elle lui adressa visiblement ces paroles. Elle l'en enveloppa comme d'un manteau de pourpre, et l'en orna comme d'une couronne. Pendant une minute, leurs deux âmes furent en contact, et il parut que quelque chose d'elle allait vers lui. Un nuage passa sur les yeux de Pascal. Quand il put regarder et voir, la jeune fille avait attaqué, avec un brio plein d'indifférence, l'air célèbre du <hi>Barbier</hi> : «Una voce poco fa...» et elle vocalisait avec une sûreté qui démentait toute émotion. </p>
         <p>Pascal eut un accès de désespoir. Il se dit: «Je suis lâche de rester là à me faire déchirer le cœur, comme à plaisir. M. de Croix-Mesnil se trompe, et moi-même je perds la raison. Allons ! une minute de résolution. Partons, et que ce soit à jamais fini !» Il se leva vivement, et, allant à la tante de Saint-Maurice :</p>

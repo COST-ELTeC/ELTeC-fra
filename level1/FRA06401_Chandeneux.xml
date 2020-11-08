@@ -11,6 +11,10 @@
         <!-- Les Ménages militaires : La Femme du capitaine Aubépin. Les Filles du colonel. Le Mariage du trésorier. Les Deux femmes du major -->
         <author xml:id="Chandeneux" ref="viaf:54272906 wikidata:Q2975144">Chandeneux, Claire de [Bérenger, Louise Lucienne Emma] (1836-1881)</author>
         <respStmt>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
           <resp>Encoding</resp>
           <name>Christof Schöch</name>
         </respStmt>
@@ -24,7 +28,14 @@
         <measure unit="words">157157</measure>
       </extent>
       <publicationStmt>
-        <p>à fournir</p>
+        <publisher ref="https://distant-reading. net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo. org/communities/eltec/">Zenodo. org</distributor>
+        <date when="2020-04-21" />
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -6053,7 +6064,7 @@
           <p>C'étaient des vers, cet adieu, des vers, non les premiers qu'elle eût reconnus pour l'œuvre de Just Évenin, mais les seuls qui lui eussent jamais été adressés.</p>
           <p>Radieuse, elle lut :</p>
           <quote type="letter">
-          <p>Une parole émue, interprète de l'âme, Un sourire enivrant, un serrement de main, Dans des yeux adorés de longs regards de flamme, Et puis ces mots : « Adieu !... je partirai demain ! »</p>
+            <p>Une parole émue, interprète de l'âme, Un sourire enivrant, un serrement de main, Dans des yeux adorés de longs regards de flamme, Et puis ces mots : « Adieu !... je partirai demain ! »</p>
           </quote>
           <p>Navrants souvenirs que j'effeuille, Consolerez-vous ma douleur ? Hélas ! avant que je la cueille, Le vent vient d'emporter la fleur. Il l'emporte au loin sur ses ailes, Là-bas, au pied des monts. Trouverai-je jamais des heures aussi belles ? Toujours je reverrai vos deux grands yeux profonds ; J'entendrai dans mon cœur vos paroles aimées. Quoi ! d'une main tremblante effleurant vos bras nus, Ne puis-je plus unir nos deux âmes charmées ?... Chastes enivrements, qu'êtes-vous devenus ? Du moins, des jours passés le souvenir s'élève ; Quand on est malheureux, on le sent agrandi. Adieu, chère Espérance !... Adieu, mon dernier Rêve !... Je ne demande rien, hors un mot que voici : Du nom qu'on vous donna daignerez-vous m'instruire ? Afin que, vous aimant, -- vous ne l'ignorez pas, -- Je grave dans mon cœur ce nom si doux à lire, Comme on fixe une croix aux tombes ici-bas.</p>
           <p>Jane ferma les yeux, d'où glisssèrent deux larmes.</p>
@@ -6083,7 +6094,7 @@
           <p>— Ce caprice ! dit-il.</p>
           <p>Jane, les yeux clos, relisait en pensée ce cri de détresse :</p>
           <quote type="letter">
-          <p>Adieu, chère Espérance !... adieu, mon dernier Rêve !</p>
+            <p>Adieu, chère Espérance !... adieu, mon dernier Rêve !</p>
           </quote>
           <p>André Jouanny fit un pas pour sortir. Un mot humble, un regard affectueux l'eussent retenu. Son cœur froissé ne demandait qu'à se dégonfler par la confiance et le pardon.</p>
           <p>Jane n'eut pour lui ni un mot ni un regard. Et ce ne fut pas par dureté d'âme ; elle était accablée de ces révélations successives et de ce prompt départ.</p>

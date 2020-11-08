@@ -10,7 +10,11 @@
         <title ref="viaf:unvailable wikidata:missing">La Maréchale : édition ELTeC</title>
         <author xml:id="Mirbeau" ref="viaf:100204602 wikidata:Q23441">Mirbeau, Octave (1848-1917)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -25,11 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -75,7 +76,9 @@
         <p>Vos épreuves lues avec soin, voici très sincèrement ce que je pense de votre livre.</p>
         <p>Avant tout, je crois au succès : une fable amusante et terrible, avec la pointe de carry qui va maintenant dans toutes nos sauces, -- la figure de votre maréchale, un Shylock femelle dont Balzac et Dickens vous auraient envié la rencontre, grande dame redescendue aux vilenies de l'instinct, entassant à poignées dans ses vieux bas les actes notariés, les baux, les obligations, les pièces d'or et les billets de banque -- une action rapide courant sur des phrases délicatement peintes, puis de l'esprit, beaucoup d'esprit, c'est plus qu'il n'en faut pour la fortune d'un volume.</p>
         <p>J'aime votre petite Chantal au joli prénom aristo et catholique, gardant son charme évaporé de naturel et de jeunesse malgré le souvenir de Renée Mauperin.</p>
-        <p>Par exemple, je lui en veux de l'omelette qu'elle va faire chez le Grec Baccaris. Ces œufs-là ne sont plus frais. Relisez <hi>La Faustin</hi><ref target="#FRA02802_N01">(1)</ref> et vous pourrez vous en convaincre. </p>
+        <p>Par exemple, je lui en veux de l'omelette qu'elle va faire chez le Grec Baccaris. Ces œufs-là ne sont plus frais. Relisez <hi>La Faustin</hi>
+          <ref target="#FRA02802_N01">(1)</ref> et vous pourrez vous en convaincre.
+        </p>
         <p>Ou plutôt non, ne lisez plus rien, mon camarade. Tâchez au contraire d'oublier vos admirations et vos lectures, elles seules me gâtent votre joli roman.</p>
         <p>ALPHONSE DAUDET.</p>
       </div>
@@ -625,12 +628,12 @@
         <p>— Mais, comtesse, je ne...</p>
         <p>— Les années, voyez-vous, c'est encore ce qu'on a inventé de mieux pour vieillir les gens. Et ça n'est pas gai !... Bon ! J'exagère. Si on n'a plus le plaisir, on a le reflet, l'ombre...</p>
         <quote type="poem">
-        <p>
-          <hi>...L'ombre d'un carrosse</hi>
-        </p>
-        <p>
-          <hi>Avecque l'ombre d'une brosse...</hi>
-        </p>
+          <p>
+            <hi>...L'ombre d'un carrosse</hi>
+          </p>
+          <p>
+            <hi>Avecque l'ombre d'une brosse...</hi>
+          </p>
         </quote>
         <p>Vous savez ?... Dame ! Pas brillant, le carrosse, et je vous avoue que de, temps en temps je m'accommoderais assez bien d'un... petit fiacre, pour si peu qu'il fût de chair et d'os... Enfin !... Je vous conseille de vous contenter de l'ombre de Mlle Chantal de Varèse... Non ? L'ombre ne vous suffit pas ?... Mes compliments !... C'est donc vrai, alors, que les Orientaux ont de ces pilules extraordinaires... ? Oh ! contez-moi ça !... J'ai la folie des malpropretés.</p>
         <p>— Pure légende !... Je vous donne ma parole...</p>
@@ -872,15 +875,15 @@
         <p>— <hi>Flûte !</hi> Mon maillot qui craque. </p>
         <p>— Fais voir ?</p>
         <quote type="poem">
-        <p>
-          <hi>Quand tu verras</hi>
-        </p>
-        <p>
-          <hi>La petite Hélène,</hi>
-        </p>
-        <p>
-          <hi>Tu lui diras</hi>
-        </p>
+          <p>
+            <hi>Quand tu verras</hi>
+          </p>
+          <p>
+            <hi>La petite Hélène,</hi>
+          </p>
+          <p>
+            <hi>Tu lui diras</hi>
+          </p>
         </quote>
         <p>
           <hi>Que je l'emmène</hi> (bis)... </p>
@@ -929,18 +932,18 @@
         <p>— Hein ! est-ce comme ça ? -- «  <hi>Oh ! mince, alorss ! » --</hi> Non ? Pas encore ? -- «  <hi>Oh ! mince, alorss ! » --</hi> Dis donc ? Ça y est, cette fois-ci ?... Hein ? Est-ce assez attrapé ? </p>
         <p>Le compère, un député de la droite, interrupteur fameux, d'une faconde éprouvée, posait le torse en costume Directoire, pendant que les « Théâtres de l'année » -- des hommes grotesquement juponnés -- piochaient leurs « imitations » dans un gros d'habits noirs, qui criaient : « Très chic ! » à chaque mot. Derrière, les poings sur les hanches, la grosse Blanche Mirette, des Variétés, braillait un refrain de café-concert :</p>
         <quote type="song">
-        <p>
-          <hi>C'est Ferdinand</hi>
-        </p>
-        <p>
-          <hi>Qu'a gagné l'lapin d'garenne !</hi>
-        </p>
-        <p>
-          <hi>C'est Ferdinand</hi>
-        </p>
-        <p>
-          <hi>Qu'a gagné l'lapin blanc !</hi>
-        </p>
+          <p>
+            <hi>C'est Ferdinand</hi>
+          </p>
+          <p>
+            <hi>Qu'a gagné l'lapin d'garenne !</hi>
+          </p>
+          <p>
+            <hi>C'est Ferdinand</hi>
+          </p>
+          <p>
+            <hi>Qu'a gagné l'lapin blanc !</hi>
+          </p>
         </quote>
         <p>qu'un vieux monsieur, assis au piano, lui accompagnait gravement à contre-mesure.</p>
         <p>Des gaietés de bastringue montaient, fouettées de champagne, avec d'âcres relents de chairs suantes et nues, où se fondait l'odeur grasse des fards, le fin piquant des veloutines.</p>
@@ -1192,9 +1195,9 @@
         <p>— Bonjour, Bombyca ! dit-elle en se relevant à sa blonde amie de terre cuite.</p>
         <p>Cependant le jardin s'éveille : d'abord les ramiers préludent ; puis c'est le <hi>tutti</hi> des buissons. Et Chantal, vexée d'être la seule à se taire, jette son chant dans la mêlée : </p>
         <quote type="song">
-        <p>
-          <hi>Nous marchions, cette nuit, égarés dans les bois...</hi>
-        </p>
+          <p>
+            <hi>Nous marchions, cette nuit, égarés dans les bois...</hi>
+          </p>
         </quote>
         <p>Alors, accoudée à la rampe, glissant au fil d'un songe commencé, ses yeux se vident et son âme s'envole, s'envole tout là-bas, au diable vauvert, boulevard Beauséjour, à Passy. Ô le mieux nommé des boulevards ! La porte bâille, et, debout, sur le seuil, Spiridion tricote entre Périclès, qui ronronne, et Athina qui vocalise, pendant qu'à triple tour enfermé dans le <hi>capharnaoum,</hi> M. Baccaris se mesure, la cigarette au bec, avec son char triomphal, et qu'en haut, dans le plein jour du <hi>mousée,</hi> un dragon peint à l'aquarelle. -- Un dragon ! Mais pas celui des Hespérides ! </p>
         <p>Ah ! taisez-vous, ramiers ! Ne jasez pas si fort, pierrots, mes camarades, et toi aussi, assez flûté, Bombyca ! C'est si gentil, voyager en idée, entr'apercevoir qui l'on aime !</p>
@@ -1225,12 +1228,12 @@
         <p>Elle ne vit pas le demi-sourire du valet : déjà elle trottait dans la cour, un soupçon d'angoisse à la gorge. Quelque chose l'inquiétait, qu'elle ne savait pas définir : l'absence de son père, pas si matineux d'habitude, les hésitations de Félicien, un je ne sais quoi d'inhabité là-haut.</p>
         <p>La veille, entre eux, cela avait été cependant bien convenu. Elle se rappelait à merveille : le duc dînait dehors. Lorsqu'il était descendu vers sept heures, il avait entendu son piano et était entré pour lui souhaiter le bonsoir. Il semblait un peu préoccupé, rien de plus. Mais tout de suite un air qu'elle chantait l'avait remis de belle humeur :</p>
         <quote type="song">
-        <p>
-          <hi>Quel di ché te go visto,</hi>
-        </p>
-        <p>
-          <hi>Quel di ché te ma piaso...</hi>
-        </p>
+          <p>
+            <hi>Quel di ché te go visto,</hi>
+          </p>
+          <p>
+            <hi>Quel di ché te ma piaso...</hi>
+          </p>
         </quote>
         <p>— Pour ta peine, nous ferons demain notre promenade, notre fameuse promenade ! lui avait-il dit. Rendez-vous dans la cour, à huit heures trois quarts. Heure militaire, mademoiselle !</p>
         <p>Là-dessus il était sorti, baissant la tête, crainte des bosses, et, sur la porte, il l'avait embrassée fort, fort, comme les jours qu'il partait aux manœuvres. Même elle se souvenait de lui avoir renoué sa cravate blanche, qui avait une idée souffert de l'embrassade.</p>

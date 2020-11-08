@@ -10,7 +10,11 @@
         <title ref="viaf:missing wikidata:missing">Marguerite, ou Deux amours : édition ELTeC</title>
         <author xml:id="Girardin" ref="viaf:24601979 wikidata:Q437094">Girardin, Delphine de [Delphine Gay] (1804-1855)</author>
         <respStmt>
-          <resp>encoded by</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Pia Geißel</name>
         </respStmt>
         <respStmt>
@@ -31,11 +35,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          First ElTeC edition
-          2019-10-03
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -1368,7 +1369,7 @@
         <p>Le prince de G… sonna.</p>
         <p>— Moi, je crois la victoire indécise, dit un quatrième interlocuteur ; madame de Meuilles serait bien embarrassée de dire celui des deux qu'elle préfère. </p>
         <p>— Vous les croyez manche à manche ?</p>
-        <p>—  <hi>Quatorze</hi> à !… cria le marqueur de billard. </p>
+        <p>— <hi>Quatorze</hi> à !… cria le marqueur de billard. </p>
         <p>Et cet à-propos, qui ressemblait à la voix de l'oracle, fit rire tout le monde. </p>
         <p>— Quatorze à !… répéta-t-on.</p>
         <p>— Moi, je suis pour Étienne ; je l'ai vu, il y a deux jours, au bal avec madame de Meuilles, et je vous assure qu'elle paraissait très occupée de lui. </p>

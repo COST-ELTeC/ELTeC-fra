@@ -10,7 +10,11 @@
         <title ref="viaf:missing wikidata:missing">Le piège aux maris : édition ELTeC</title>
         <author xml:id="Rattazzi" ref="viaf:30341384 wikidata:Q3292106">Rattazzi, Marie [Marie-Lætitia Bonaparte-Wyse] (1831-1902)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -25,11 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2019-06-13
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -1038,13 +1039,13 @@
         <head>XIII -- L'institutrice</head>
         <p>M. Baratte ne tarda pas à tenir la promesse qu'il avait faite aux dames Houlot. Peu de jours après leur visite à son agence, elles reçurent une lettre ainsi conçue :</p>
         <quote>
-        <p><hi rend="italic">« À Madame Houlot, rue de Lamartine, n° 26.</hi></p>
-        <p><hi rend="italic">« Paris, 27 mai 186…</hi></p>
-        <p>« Madame,</p>
-        <p>« J'ai l'honneur de vous informer que le résultat de mes recherches, ayant pour objet de trouver une place d'institutrice à votre charmante demoiselle, a été des plus satisfaisant. J'ai cinq familles à lui proposer. Si vous voulez bien prendre la peine de passer chez moi, demain de midi à deux heures, je vous donnerai les adresses des familles en question, et vous pourrez vous entourer par vous-même de tous les renseignements désirables.</p>
-        <p>« Dans l'attente de votre visite, j'ai l'honneur d'être votre très humble serviteur,</p>
-        <p>« Narcisse Baratte et Cie.</p>
-        <p>« Ex-professeur de dessin linéaire et décoré de juillet. »</p>
+          <p><hi rend="italic">« À Madame Houlot, rue de Lamartine, n° 26.</hi></p>
+          <p><hi rend="italic">« Paris, 27 mai 186…</hi></p>
+          <p>« Madame,</p>
+          <p>« J'ai l'honneur de vous informer que le résultat de mes recherches, ayant pour objet de trouver une place d'institutrice à votre charmante demoiselle, a été des plus satisfaisant. J'ai cinq familles à lui proposer. Si vous voulez bien prendre la peine de passer chez moi, demain de midi à deux heures, je vous donnerai les adresses des familles en question, et vous pourrez vous entourer par vous-même de tous les renseignements désirables.</p>
+          <p>« Dans l'attente de votre visite, j'ai l'honneur d'être votre très humble serviteur,</p>
+          <p>« Narcisse Baratte et Cie.</p>
+          <p>« Ex-professeur de dessin linéaire et décoré de juillet. »</p>
         </quote>
         <p>Les deux femmes furent exactes au rendez-vous. Le parti auquel la nécessité les avait contraintes était définitivement arrêté et chaque instant qui s'écoulait rendait leur situation plus critique. Chaque jour, pour subvenir aux besoins les plus impérieux, voyait disparaître de la maison un meuble ou un bijou. Le Mont-de-Piété, ce calvaire des pauvres, absorbait peu à peu tout ce qu'elles possédaient encore. Les deux montres d'or, souvenir d'un époux et d'un père tendrement aimé, reposaient dans les casiers de la rue des Blancs-Manteaux, renfermées dans de vulgaires boîtes à veilleuses. – Les bagues avaient suivi les montres ; – Mlle Houlot portait des boucles d'oreilles en jais monté sur cuivre. – Le linge avait fait le fatal voyagea son tour, – puis les robes, les tapis. – en un mot, tout ce qui avait quelque valeur était allé successivement s'enfouir dans ce gouffre béant, qui, semblable au tonneau des Danaïdes, est percé des deux côtés et ne peut jamais être comblé. Quand elles reçurent la lettre de Baratte, elles étaient occupées à empaqueter leur pendule et elles pleuraient silencieusement toutes les deux : c'était encore un souvenir enlevé au foyer domestique. Cette pendule, achetée lors du mariage de madame Houlot, avait marqué bien des heures charmantes, avant le fatal dénouement de la vie du chef de la famille. Les deux femmes ne se séparaient pas sans d'amers regrets de ce meuble, auquel l'habitude avait donné à leurs yeux une grande valeur. Que de fois, pendant leur labeur nocturne, les yeux fixés sur l'ouvrage qu'éclairait une lampe avec son abat-jour, n'avaient-elles pas suspendu leur travail et, l'aiguille en l'air, le cou tendu, n'avaient-elles pas écouté sonner les heures et ne s'étaient-elles pas dit : « Il n'est quedeux heures du matin, courage ! Encore une heure ou deux et nous mangerons demain ! »</p>
         <p>Ainsi, l'on doit comprendre quelle joie apporta dans le triste logement des deux infortunées la lettre de « <hi rend="italic">M. Baratte, ex-professeur de dessin et décoré de juillet. »</hi>
@@ -1300,7 +1301,7 @@
         <p>Et l'ex-buraliste exhibait sa large tabatière et s'administrait un dé de tabac.</p>
         <p>Enfin tout le monde était prêt. – Jules ouvrait la marche ; Hilarion donnait le bras à sa cousine ; Claire et mademoiselle Houlot, bras-dessus, bras-dessous, suivaient la caravane en caquetant de choses et d'autres. Mademoiselle Houlot avait pris en grande affection la charmante enfant qui lui était confiée ; ses beaux projets de tenir son élève à distance s'étaient évanouis devant cette nature primesautière, toute d'affection et de câlinerie. Ce n'étaient plus l'institutrice et son élève, – c'étaient la sœur aînée et la sœur cadette. – Éméla tenait l'autre bras de mademoiselle Houlot, et, sans dire un mot, écoutait le charmant babillage des deux <hi rend="italic">bonnes amies</hi> qu'elle aimait, elle aussi, de tout son cœur. Elle n'était point froissée de ce que l'on ne la mêlât pas à la conversation. Elle se disait que, probablement, elle n'avait pas assez d'esprit pour entrer en lutte avec ses deux compagnes et elle se contentait du lot qui lui échoyait, tout modeste qu'il fût. Cette mièvre créature n'était pas plus développée au moral qu'au physique, mais elle faisait preuve d'un grand jugement en ne se mêlant pas la plupart du temps, aux causeries et aux divertissements de ses jeunes amies. Nous avons au bout de la plume une phrase qui pourrait, à notre sens, donner une idée du caractère de cette enfant, et prouver qu'elle ne manquait pas de tact. Voici cette phrase que bien des lecteurs prendront, sans doute, pour une <hi rend="italic">Lapalissade ;</hi> mais qui cependant, toute biscornue qu'elle soit, nous semble avoir sa raison d'être : </p>
         <quote>
-        <p><hi rend="italic">« Il faut avoir énormément d'esprit pour savoir que l'on n'est qu'une bête ! »</hi></p>
+          <p><hi rend="italic">« Il faut avoir énormément d'esprit pour savoir que l'on n'est qu'une bête ! »</hi></p>
         </quote>
         <p>Tout alla bien pendant six mois. Claire, faisait des progrès rapides. Madame Daguet était enchantée, et le père Daguet enrageait de ne pouvoir placer un de ces mots caustiques qu'il chérissait, à propos de la jeune institutrice ; mademoiselle Houlot était invulnérable. D'une humeur toujours égale, d'une complaisance sans bornes, comme sans servilité, tout le monde l'<emph rend="italic">adorait</emph>, c'est le mot ! – Ainsi se trouvait-elle, sinon heureuse (pouvait-elle être heureuse sans sa mère), du moins calme et tranquille. Tous les mois elle envoyait cent francs à madame Houlot, et quand elle jetait dans la boîte la lettre qui contenait le précieux mandat, elle sentait passer dans son cœur comme un rayon de soleil. Si une larme furtive perlait le long de ses cils adorables, c'était une larme d'amour et de reconnaissance envers le Dieu bon qui lui permettait d'assurer l'existence de ce qu'elle avait de plus cher au monde. </p>
         <p>Cependant un grand changement s'opérait dans la personne d'un des membres de cette famille. Jules subissait une transformation. La vue de mademoiselle Houlot avait fait naître dans ce cœur, si <hi rend="italic">innocent</hi> jusque-là, des sensations dont il s'était effrayé tout d'abord. Peu à peu, il se familiarisa avec de certaines pensées, qui, quelque temps auparavant, lui eussent paru des crimes. Il devint inexact aux offices, au grand scandale de sa mère. Il ne sortait plus de la maison et ne rendait plus de visite à la Mexicaine, qui sentait et devinait trop bien les motifs de cet abandon. Il jetait parfois, à la dérobée, des regards étranges sur l'institutrice, et, quand ils faisaient de la musique ensemble, ses lunettes vertes tremblaient comme agitées par un mouvement convulsif. Il ne voyait pas les notes et estropiait tous les passages. </p>
@@ -1323,7 +1324,7 @@
         <p>Mademoiselle Houlot tint parole et partit, sans avoir revu Jules, qui s'était enfermé dans sa chambre. Elle reprit le chemin de fer de Paris, après avoir serré Claire et madame Daguet sur son cœur.</p>
         <p>— Soyez tranquilles – je serai discrète.</p>
         <p>Ce fut son dernier mot.</p>
-        <milestone unit="section" rend="line"/>
+        <milestone unit="section" rend="line" />
         <p>Madame Houlot, en voyant revenir inopinément sa fille, devina qu'un nouveau malheur allait encore augmenter la somme de leurs infortunes.</p>
         <p>L'institutrice lui raconta tout et sa mère lui dit :</p>
         <p>— Tu as bien agi ! Oh ! le vilain homme ! Mais que faire maintenant ?</p>

@@ -10,7 +10,7 @@
         <title ref="viaf:177407570 wikidata:Q2718088">Le curé de village : édition ELTeC</title>
         <author xml:id="Balzac" ref="viaf:29529595 wikidata:Q9711">Balzac, Honoré de (1799-1850)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -25,7 +25,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -60,12 +61,11 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">heterodiegetic</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
         <size xmlns="http://distantreading.net/eltec/ns" key="medium" />

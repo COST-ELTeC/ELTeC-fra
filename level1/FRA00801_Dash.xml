@@ -6,15 +6,19 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Le château de Pinon I : édition ELTeC</title>
-          <!-- Alternative title for the same text: "Le Salon du diable" -->
+        <!-- Alternative title for the same text: "Le Salon du diable" -->
         <author xml:id="Dash" ref="viaf:102278 wikidata:missing">Dash, Comtesse [Gabrielle Anna de Cisternes de Courtiras, vicomtesse de Saint-Mars] (1804-1872)</author>
         <respStmt>
-          <resp>encoded by</resp>
+          <resp>Encoding</resp>
           <name>Pia Geißel</name>
         </respStmt>
         <respStmt>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
           <resp>Original data capture</resp>
-          <name>Bibliothèque nationale de France, département Littérature et art,  Y2-25681</name>
+          <name>Bibliothèque nationale de France, département Littérature et art, Y2-25681</name>
         </respStmt>
       </titleStmt>
       <extent>
@@ -26,12 +30,12 @@
       <publicationStmt>
         <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
         <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2019-11-04"/>
+        <date when="2019-11-04" />
         <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-        <!--First ElTeC edition 2019-09-25 -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="printSource">
@@ -39,7 +43,7 @@
             <title>Le château de Pinon. VOL 1: Gallica edition</title>
             <author>Comptesse Dash</author>
             <publisher>Gallica (BnF)</publisher>
-            <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k54963878"/>
+            <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k54963878" />
             <date>2009</date>
           </bibl>
           <title>Le château de Pinon I</title>
@@ -67,17 +71,16 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">heterodiegetic</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
+        </keywords>
+      </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -101,9 +104,12 @@
         <p>A Madame La Vicomtesse de Courval</p>
       </div>
     </front>
+
     <body>
       <div type="chapter">
+
         <head>I</head>
+
         <head>L'HÔTELLERIE</head>
         <p>À la fin du mois d'octobre 1672, un lourd carrosse, traîné par quatre chevaux assez maigres et très fatigués, parcourait, vers les sept heures du soir, la rue Saint-Honoré ; le cocher et le laquais qui suivait s'arrêtaient à chaque nouvelle enseigne d'hôtellerie, et continuaient leur marche lorsqu'on avait répondu à leurs questions. Enfin, à l'auberge de Saint-Gabriel, après un colloque long avec le maître de la maison, l'équipage entra dans la cour, et la porte se referma, au grand désappointement des curieux.</p>
         <p>Cette voiture renfermait d'abord un vieux seigneur en habit de voyage dont l'air insignifiant cherchait à prendre de l'importance ; puis une jeune fille et sa suivante. Toutes deux sautèrent à terre avec la vivacité de leur âge.</p>
@@ -188,7 +194,9 @@
         <p>Et quelque chose de diabolique brillait dans les yeux de mademoiselle de Roucy, lorsqu'elle prononça ces mots en souriant.</p>
       </div>
       <div type="chapter">
+
         <head>II</head>
+
         <head>LA PRÉSENTATION.</head>
         <p>Le grand jour était arrivé. Dès le matin, Henriette, se mit à sa toilette et commença à se parer.</p>
         <p>— Louison, dit-elle, retiens bien ceci : Il faut que mademoiselle de Roucy, qui va être présentée ce matin en simple robe de gros de Tours blanc, sans bijoux, sans points de Hongrie, ni de Venise, soit remarquée de toute la Cour. Arrange-toi donc de manière à empêcher le moindre pli à mes cheveux et à mon corsage, que mes boucles soient tombantes et gracieuses, que cette branche de houx avec ses graines rouges, qui formera toute ma coiffure, soit placé artistement en arrière. Je l'ai apportée du bois de Sissone, et je ne m'attendais guère qu'elle paraîtrait devant le roi de France. Ce sont les diamants de ma couronne à moi.</p>
@@ -259,7 +267,7 @@
         <p>Madame la désigna pour l'accompagner, et ses irrésolutions se trouvèrent fixées. Il ne lui était pas possible de refuser à moins d'une maladie, et son frais visage démentait toute crainte de ce genre. Elle remit donc sa robe de gros de Tours, sa branche de houx, et pourtant elle était encore la plus belle. La fête parut magnifique. Le Roi dansa avec madame de Montespan et avec mademoiselle de Lavallière. Celle-ci avait peine à retenir ses pleurs, et ce supplice officiel lui était odieux. La pitié de ce que l'on aime est le plus grand des maux, après son ingratitude.</p>
         <p>Mademoiselle de Roucy ne quitta pas sa place derrière Madame, jusqu'au moment où celle-ci se leva pour passer dans la salle de Diane. Le cortège nombreux de la princesse fut divisé par la foule, et Henriette resta bientôt seule au coin d'une porte, assez éloignée de ses compagnes. A côté d'elle deux jeunes seigneurs se tenaient debout et causaient, l'un était le marquis de Lafarre, l'autre lui était inconnu.</p>
         <p>— Quoi donc ? disait Lafarre, vous êtes demeuré en route pour si peu de chose ?</p>
-        <p>— Ce n'est pas peu de chose à mon sens qu'une femme dévouée, répondait  l'étranger, je n'ai pas osé l'abandonner ainsi.</p>
+        <p>— Ce n'est pas peu de chose à mon sens qu'une femme dévouée, répondait l'étranger, je n'ai pas osé l'abandonner ainsi.</p>
         <p>— Et l'aimiez-vous donc ?</p>
         <p>— Je crois que oui, cependant je ne suis pas malheureux de son absence.</p>
         <p>— Alors cela n'est pas dangereux.</p>
@@ -280,19 +288,15 @@
         <p>Le regard du marquis se promena longtemps sur ce groupe de jeunes visages, qui tous cherchaient à lui plaire et à attirer son suffrage. Il s'avança enfin vers Henriette.</p>
         <p>— Mademoiselle, lui dit-il, avec un léger tremblement dans la voix, le Roi et Madame, m'ont autorisé, me refuserez-vous ?</p>
         <p>Henriette fit une grande révérence, et remercia par un geste plein de modestie et de dignité.</p>
-        <p>
-          — Il n'est pas maladroit, murmura le roi, il ne prend que la
-          <hi>belle  Picarde</hi>
-          .
-        </p>
+        <p> — Il n'est pas maladroit, murmura le roi, il ne prend que la <hi>belle Picarde</hi> . </p>
         <p>— Henriette, disait tout bas mademoiselle de Rochefort, vous avez magnifiquement gagné votre pari et je le proclamerai demain dans notre appartement. Mais silence ! le roi se retire, il vous faut suivre Madame, et n'ayez pas la contenance trop fière, si vous ne voulez pas qu'elle vous retienne une heure pour vous prêcher.</p>
         <p>La fête arriva à sa fin. Henriette, retirée dans sa petite chambre, ne dormit pas une minute, l'image du marquis d'Albret était sans cesse devant elle.</p>
         <p>— C'est ainsi qu'il me faudrait un époux, soupirait-elle.</p>
         <p>Aussitôt la promesse de son père ; ses engagements, l'impossibilité de les rompre, et surtout la crainte du comte de Bussy-Lameth lui revenaient à la mémoire et sa tristesse n'avait pas de bornes. Le matin de ce jour, elle se leva découragée, pensive, sans espoir et sans énergie. Elle n'écouta point les plaisanteries de ses compagnes et leur répondit encore moins ; elle ne causait qu'avec ses pensées. Sur le midi on lui apporta une lettre. Elle l'ouvrit indifféremment, mais après en avoir regardé la signature, son cœur battit à briser sa poitrine ; elle était du marquis d'Albret. Cette lettre contenait ces mots :</p>
         <quote type="letter">
-        <p>« Mademoiselle —,</p>
-        <p>Le Roi, et son Altesse Royale Madame, ayant désiré de me voir danser un pas moscovite avec une personne de la cour, et m'ayant permis de choisir parmi les filles de son Altesse Royale celle à qui je demanderais de vouloir bien me faire l'honneur de figurer avec moi, j'ose espérer que vous ne me refuserez pas le bonheur d'être votre cavalier. Si vous daignez y consentir, nous nous réunirons chez madame la marquise d'Heudicourt, pour arranger les entrées et les passes qui devront être exécutées par nous. Croyez bien, Mademoiselle, à toute «ma reconnaissance, pour un semblable bien fait, car on ne saurait être, plus passionnément que je le suis, Votre très humble et très obéissant esclave,</p>
-        <p><hi>Le marquis</hi>D'ALBRET. »</p>
+          <p>« Mademoiselle —,</p>
+          <p>Le Roi, et son Altesse Royale Madame, ayant désiré de me voir danser un pas moscovite avec une personne de la cour, et m'ayant permis de choisir parmi les filles de son Altesse Royale celle à qui je demanderais de vouloir bien me faire l'honneur de figurer avec moi, j'ose espérer que vous ne me refuserez pas le bonheur d'être votre cavalier. Si vous daignez y consentir, nous nous réunirons chez madame la marquise d'Heudicourt, pour arranger les entrées et les passes qui devront être exécutées par nous. Croyez bien, Mademoiselle, à toute «ma reconnaissance, pour un semblable bien fait, car on ne saurait être, plus passionnément que je le suis, Votre très humble et très obéissant esclave,</p>
+          <p><hi>Le marquis</hi>D'ALBRET. »</p>
         </quote>
         <p>— Comme Henriette a rougi ! s'écria mademoiselle de Rochefort.</p>
         <p>— C'est quelque billet doux, répliqua mademoiselle de Pons.</p>
@@ -338,7 +342,9 @@
         <p>La lutte entre toutes les passions des différents personnages s'engagea dès ce jour, ardente, impétueuse, incessante. Hélas ! notre cœur est leur champ de bataille, et le triomphe coûte cher au vainqueur !</p>
       </div>
       <div type="chapter">
+
         <head>III</head>
+
         <head>UN ASTRE ÉCLIPSÉ,</head>
         <p>Quinze jours s'écoulèrent. Mademoiselle de Roucy sentait s'accroître dans son cœur son amour pour le marquis, mais rien dans sa conduite ne l'avait trahie.Elle se montrait coquette , impérieuse, jamais tendre ni empressée. On annonça vers cette époque un voyage à Fontainebleau. Madame de Montespan, par calcul sans doute, donnait de l'ombrage au roi contre le duc de Lauzun. Le roi ne daigna pas s'en montrer jaloux , mais il résolut de s'en venger. Un matin chez la reine, la marquise était présente avec quelques femmes de son intimité.</p>
         <p>— Votre protégée reste-t-elle chez Madame ? dit le roi à madame d'Heudicourt.</p>
@@ -454,7 +460,9 @@
         <p>Fière de ce trait porté dans le sein de son ennemie, elle n'attendit pas de réponse, fit une profonde révérence et se retira.</p>
       </div>
       <div type="chapter">
+
         <head>IV</head>
+
         <head>AIMÉE JUSQU'À LA MORT,</head>
         <p>Pendant toute la durée du voyage Henriette resta appuyée dans le fond du carrosse, sans prononcer une parole ; elle ne répondit point aux questions de ses compagnons, et ils finirent par ne plus lui en adresser. Ils causaient entre eux de choses indifférentes, de la route, des auberges, de la guerre, pas un mot de mariage ni de la cour. Ils arrivèrent ainsi à Sissone les frères d'Henriette vinrent au-devant d'elle. Elle les embrassa du bout des lèvres, et apercevant le jeune comte de Bussy-Lameth qui se tenait derrière eux, elle remonta dans son appartement, en annonçant qu'elle ne reviendrait pas souper.</p>
         <p>Le lendemain, aussitôt son réveil, elle vit entrer son père, qui s'assit auprès de son lit, après lui avoir adressé un froid bonjour.</p>
@@ -484,8 +492,8 @@
         <p>— Adieu, Mademoiselle, je reviendrai de temps en temps savoir si vous êtes moins fière.</p>
         <p>Le comte de Roucy faisait comme tous les gens faibles révoltés contre leur tyran, il se croyait le maître et il ne trouvait pas de chaînes assez lourdes à imposer à sa fille. Aussitôt qu'il fut sorti de la chambre, Henriette se précipita vers la porte, mit le verrou, et prenant une plume, elle écrivit :</p>
         <quote type="letter">
-        <p>« On me défend de vous revoir, on veut que je donne ma main à cet odieux comte, soyez sans inquiétude, je l'ai dit à mon père, tant que vous serez au monde aucun autre ne recevra ma foi. Je ne crains ni persécutions ni menaces, et ma famille se lassera plutôt de me persécuter, que moi de souffrir pour me conserver à vous. Écrivez-moi : adressez la lettre à Louison Beaupré, elle m'arrivera tôt ou tard. Adieu, je suis prête à tout, j'attends et je vous aime.</p>
-        <p>HENRIETTE DE ROUCY. »</p>
+          <p>« On me défend de vous revoir, on veut que je donne ma main à cet odieux comte, soyez sans inquiétude, je l'ai dit à mon père, tant que vous serez au monde aucun autre ne recevra ma foi. Je ne crains ni persécutions ni menaces, et ma famille se lassera plutôt de me persécuter, que moi de souffrir pour me conserver à vous. Écrivez-moi : adressez la lettre à Louison Beaupré, elle m'arrivera tôt ou tard. Adieu, je suis prête à tout, j'attends et je vous aime.</p>
+          <p>HENRIETTE DE ROUCY. »</p>
         </quote>
         <p>Elle appela Louison, lui remit ce billet, se fit habiller et attendit, ainsi qu'elle venait de l'écrire. Sur le midi on lui apporta à dîner, une vieille femme de charge de M. de Lameth le père, mariée à son sommelier, nommé Joguet parut à la suite. Elle fît une profonde révérence et dit qu'elle était envoyée près de mademoiselle, de la part de M. son père, qu'elle devait coucher dans sa chambre et ne pas la quitter un instant.</p>
         <p>— C'est bien, répondit Henriette, sans observations.</p>
@@ -621,7 +629,9 @@
         <p>Le lendemain Mademoiselle de Roucy coucha aux Ursulines de Laon.</p>
       </div>
       <div type="chapter">
+
         <head>V</head>
+
         <head>PINON.</head>
         <quote type="poem">
           <l>Sur les ailes du temps la tristesse s'envole,</l>
@@ -681,8 +691,8 @@
         <p>Louison, comme un démon tentateur, montrait toujours la magnificence et les plaisirs pour compenser l'époux qu'on n'aimait pas. Henriette essayait de se persuader à elle-même qu'elle céderait pour le bonheur de son père. Dès que cette idée fut entrée dans sa tête, elle s'y cramponna ; c'était en effet le plus saint prétexte à donner pour colorer son inconstance.</p>
         <p>La veille du jour fixé, elle prit une plume et écrivit :</p>
         <quote type="letter">
-        <p>Mon père, vous avez toujours été pour moi d'une bonté et d'une indulgence sans pareilles. Je n'ai qu'un moyen de vous en prouver ma reconnaissance, c'est de vous obéir. Pour vous, pour vous seul, je consens à renoncer à la vie religieuse, je consens à épouser ce lu que vous avez choisi. Faites tout préparer, j'attendrai dans cet asile le moment fixé par vous. C'est aux pieds de ces autels, où j'ai tant prié, que je consommerai mon sacrifice, et je ne sortirai plus de ces lieux qu'avec le titre de « comtesse de Lameth.</p>
-        <p>Votre soumise et affectueuse fille, HENRIETTE DE ROUCY.</p>
+          <p>Mon père, vous avez toujours été pour moi d'une bonté et d'une indulgence sans pareilles. Je n'ai qu'un moyen de vous en prouver ma reconnaissance, c'est de vous obéir. Pour vous, pour vous seul, je consens à renoncer à la vie religieuse, je consens à épouser ce lu que vous avez choisi. Faites tout préparer, j'attendrai dans cet asile le moment fixé par vous. C'est aux pieds de ces autels, où j'ai tant prié, que je consommerai mon sacrifice, et je ne sortirai plus de ces lieux qu'avec le titre de « comtesse de Lameth.</p>
+          <p>Votre soumise et affectueuse fille, HENRIETTE DE ROUCY.</p>
         </quote>
         <p>— Vivat ! Mademoiselle, s'écria Louison quand elle tint cette lettre cachetée et prête à être remise au comte de Roucy. Il y aura demain une grande joie dans Sissone.</p>
         <p>— Je ne verrai pas mon père, je n'en ai pas le courage, Louison ; tu descendras à la grille et lu lui remettras cela. Tout est fini, me voilà donc liée !</p>
@@ -754,7 +764,9 @@
         <p>— Et votre mari ? Henriette ne répondit pas.</p>
       </div>
       <div type="chapter">
+
         <head>VI</head>
+
         <head>VISION.</head>
         <p>Le château d'Anizy, situé à un quart de lieue de celui de Pinon, appartenait aux évêques de Laon. Le cardinal d'Estrées, qui l'habitait alors, était un des convives les plus assidus de madame de Lameth. Il excellait dans la galanterie ,malgré son rochet et son camail, et il ne cessait de vanter les charmes de labelle châtelaine.</p>
         <p>Anizy est un vieux manoir, dont il était déjà question en 496. Il fut donné aux évêques en 500, lorsque saint Rémi érigea l'évêché de Laon. Plusieurs fois le bourg d'Anizy figura dans nos guerres civiles, comme appartenant à l'un ou l'autre parti ; enfin , en 1540, le cardinal de Bourbon fit construire le château, dont une portion existe encore aujourd'hui. C'était une des magnificences de la province que ce superbe monument, où plusieurs de nos rois, entr'autres François Ier, avaient reçu l'hospitalité. Les évêques de Laon y passaient presque toujours la belle saison, et le voisinage de Pinon n'était pas un des moindres agréments qu'ils y trouvaient.</p>
@@ -887,7 +899,9 @@
         <p>Tout à coup la comtesse de Lameth au moment d'entrer dans le salon, s'arrêta sur le seuil, jeta un cri affreux, et tomba évanouie.</p>
       </div>
       <div type="chapter">
+
         <head>VII</head>
+
         <head>BELLES AMOURS.</head>
         <p>On se hâta de transporter Madame de Lameth dans un appartement du château. Son beau-père et son mari la suivirent. Monseigneur le cardinal s'empressa autour d'elle, ainsi que tous les domestiques. L'évanouissement n'était point une feinte, elle fut plus d'une demi-heure à reprendre ses sens. Lorsqu'elle ouvrit les yeux, ses premiers regards tombèrent sur l'évêque de Laon, elle se jeta en bas du lit et se laissa tomber à ses genoux, en s'écriant :</p>
         <p>— Monseigneur, sauvez-moi !</p>
@@ -1064,17 +1078,18 @@
         <p>— Tout est tranquille, madame la comtesse. — Alors donne-la moi, Louison. Que vais-je apprendre !</p>
       </div>
       <div type="chapter">
+
         <head>VIII</head>
+
         <head>LETTRE.</head>
         <p>La lettre du marquis commençait ainsi.</p>
         <quote type="letter">
-        <p>« Je vous ai revue, Madame, je vous ai entendue, et vous êtes près de moi encore. Après vous avoir tant désirée, tant cherchée, tant regrettée, vous êtes là. Oh ! mon Dieu ! que : vous dirai-je ? J'ai la tête perdue. Depuis huit jours j'ai éprouvé tant de choses, et mes forces sont si épuisées ! Pourquoi donc m'avez-vous trahi, Henriette ? Pourquoi avez-vous donné à un autre ces droits qui n'appartenaient qu'à moi ? Vous m'avez pourtant écrit : <hi>Tant que vous  serez au monde je vous garderai ma foi.</hi> J'ai failli mourir ; c'était pour vous, Henriette. J'étais heureux de risquer ma vie pour votre renommée. Que n'ai-je succombé ! Je n'aurais pas assisté à mon malheur.
-        </p>
-        <p>Il m'est impossible de vous rendre ce que j'éprouvai à cette nouvelle. Je ne pouvais y croire, et si le roi ne l'avait pas répétée devant moi, j'en douterais encore. Mon oncle profita de mon étourdissement, de ma colère, il m'arracha mon consentement à son projet favori ; j'épousai ma cousine. J'éprouvai une espèce de bonheur à me venger, à vous rendre offense pour offense. Je donnais mon nom à une femme que je ne pouvais aimer ; c'était une consolation, un soulagement pour mon cœur. Vous m'aviez oublié ; je ne vous oublierais pas, moi, je n'en aurais que l'apparence. Je pourrais garder dans mon âme ce culte, cette adoration dont vous étiez l'objet, et vous deviez l'ignorer toujours. Hélas ! je n'en eus pas le courage.</p>
-        <p>Le besoin de vous revoir me dévorait. Je pris la vie en horreur loin de vous, je voulus vous montrer mes regrets, vous exprimer ma rage ; il fallait me rapprocher de vous à tout prix. Un ami consentit à m'accompagner. Nous quittâmes l'armée, et nous vînmes à Anizy. Pourquoi n'ai-je pas suivi ma première idée ? Je vous aurais facilement rencontrée, je vous aurais parlé sans témoins, je vous aurais entendue, vous vous seriez justifiée peut-être.</p>
-        <p>Henriette, au nom du ciel, ne me refusez pas une heure de conversation, une minute, si vous voulez, mais que je vous voie. Je vous en supplie à genoux. Si vous m'aimiez encore, rien ne nous séparerait plus. J'abandonnerais tout pour vous, ambition, fortune, famille, tout.</p>
-        <p>Prononce ?, Henriette, un mot, un mot de grâce. Vous tenez dans vos mains ma destinée. Jamais femme ne fut aimée comme vous, jamais un homme ne fut plus dévoué, plus esclave que je ne le suis. Et vous m'avez trahi pourtant ! J'attends, ma belle maîtresse, j'attends et je souffre. Ayez pitié de moi.</p>
-        <p>Charles-Amanieux d'ALBRET. »</p>
+          <p>« Je vous ai revue, Madame, je vous ai entendue, et vous êtes près de moi encore. Après vous avoir tant désirée, tant cherchée, tant regrettée, vous êtes là. Oh ! mon Dieu ! que : vous dirai-je ? J'ai la tête perdue. Depuis huit jours j'ai éprouvé tant de choses, et mes forces sont si épuisées ! Pourquoi donc m'avez-vous trahi, Henriette ? Pourquoi avez-vous donné à un autre ces droits qui n'appartenaient qu'à moi ? Vous m'avez pourtant écrit : <hi>Tant que vous serez au monde je vous garderai ma foi.</hi> J'ai failli mourir ; c'était pour vous, Henriette. J'étais heureux de risquer ma vie pour votre renommée. Que n'ai-je succombé ! Je n'aurais pas assisté à mon malheur. </p>
+          <p>Il m'est impossible de vous rendre ce que j'éprouvai à cette nouvelle. Je ne pouvais y croire, et si le roi ne l'avait pas répétée devant moi, j'en douterais encore. Mon oncle profita de mon étourdissement, de ma colère, il m'arracha mon consentement à son projet favori ; j'épousai ma cousine. J'éprouvai une espèce de bonheur à me venger, à vous rendre offense pour offense. Je donnais mon nom à une femme que je ne pouvais aimer ; c'était une consolation, un soulagement pour mon cœur. Vous m'aviez oublié ; je ne vous oublierais pas, moi, je n'en aurais que l'apparence. Je pourrais garder dans mon âme ce culte, cette adoration dont vous étiez l'objet, et vous deviez l'ignorer toujours. Hélas ! je n'en eus pas le courage.</p>
+          <p>Le besoin de vous revoir me dévorait. Je pris la vie en horreur loin de vous, je voulus vous montrer mes regrets, vous exprimer ma rage ; il fallait me rapprocher de vous à tout prix. Un ami consentit à m'accompagner. Nous quittâmes l'armée, et nous vînmes à Anizy. Pourquoi n'ai-je pas suivi ma première idée ? Je vous aurais facilement rencontrée, je vous aurais parlé sans témoins, je vous aurais entendue, vous vous seriez justifiée peut-être.</p>
+          <p>Henriette, au nom du ciel, ne me refusez pas une heure de conversation, une minute, si vous voulez, mais que je vous voie. Je vous en supplie à genoux. Si vous m'aimiez encore, rien ne nous séparerait plus. J'abandonnerais tout pour vous, ambition, fortune, famille, tout.</p>
+          <p>Prononce ?, Henriette, un mot, un mot de grâce. Vous tenez dans vos mains ma destinée. Jamais femme ne fut aimée comme vous, jamais un homme ne fut plus dévoué, plus esclave que je ne le suis. Et vous m'avez trahi pourtant ! J'attends, ma belle maîtresse, j'attends et je souffre. Ayez pitié de moi.</p>
+          <p>Charles-Amanieux d'ALBRET. »</p>
         </quote>
         <p>— Comme il m'aime, Louison ! dit la comtesse après avoir lu cette lettre, comme il m'aime ! Ah ! que je suis heureuse !</p>
         <p>— Oh ! oui, Madame, il vous aime, J'en étais sûre !</p>
@@ -1223,7 +1238,9 @@
         <p>— Je vous le promets. — Eh bien ! j'ai mon idée, — nous en parlerons.</p>
       </div>
       <div type="chapter">
+
         <head>IX</head>
+
         <head>LES DEUX GABRIELLE.</head>
         <p>Six mois se passèrent ainsi. Henriette se conduisit avec tant d'adresse, qu'elle écarta les soupçons de MM. de Lameth. Quoiqu'il lui en coûtât, elle n'écrivit point au marquis, n'en reçut aucune lettre, et ne voulut pas permettre à son amie de s'informer de lui.</p>
         <p>— Il ne faut qu'une minute pour perdre le fruit de nos travaux, disait-elle ; on peut regarder l'adresse de vos lettres, il peut s'en égarer : soyons plutôt en garde contre nous-mêmes. MM. de Lameth vont aller en Bourgogne, où un procès les appelle, car ils sont très processifs, ils me laisseront seule ici. Alors nous verrons.</p>
@@ -1420,7 +1437,9 @@
         <p>— Eh bien... à demain, Charles.</p>
       </div>
       <div type="chapter">
+
         <head>X</head>
+
         <head>EXPLICATION.</head>
         <p>Le lendemain, lorsque la comtesse s'éveilla, la pluie tombait par torrents. Le paysage, si riant la veille, ne se distinguait plus qu'à travers une brume froide et épaisse.</p>
         <p>— Voilà la vie, Madame, dit madame de Corcy, aucun de nos jours ne se ressemble. Pourtant vous avez encore du bonheur pour aujourd'hui.</p>
@@ -1564,7 +1583,9 @@
         <p>— Oh ! mon Dieu ! s'écria le comte, la maison de Bussy est perdue !</p>
       </div>
       <div type="chapter">
+
         <head>XI</head>
+
         <head>RETRAITE,</head>
         <p>Le soir de ce même jour, Louison fut mandée devant les deux comtes, et subit un interrogatoire. Elle ne se laissa pas intimider, protesta que la comtesse n'avait pas vu M. d'Albret, et répondit avec tant d'assurance que M. de Lameth en vint à douter du rapport de l'intendant, et demanda sérieusement à son père si Joguet ne les avait pas trompés.</p>
         <p>— Il n'a jamais aimé la comtesse, disait-il, et peut-être il a voulu la perdre.</p>
@@ -1600,7 +1621,8 @@
         <p>— Cela est vrai.</p>
         <p>Tout en parlant elle écrivait. — Et quelqu'un sait-il que tu as ces oiseaux.</p>
         <p>— Les gens de Madame, mais ils n'entrent jamais dans ma chambre, et ils ne s'apercevront pas que je ne les ai plus.</p>
-        <p>—Tout est au mieux ! maintenant place ce billet au cou de ton messager, nous ne tarderons pas à savoir si nous avons réussi, madame de Corcy viendra certainement. On attacha solidement la lettre à une faveur, Louison ouvrit la fenêtre et le pigeon s'envola.</p>        <p>Madame de Lameth le suivit des yeux en tremblant. Si un œil indiscret avait aperçu le joli courrier, c'en était fait de son avenir et de ses projets. Il se perdit bientôt dans les airs, volant à tire d'aile dans la direction de Courcy.</p>
+        <p>—Tout est au mieux ! maintenant place ce billet au cou de ton messager, nous ne tarderons pas à savoir si nous avons réussi, madame de Corcy viendra certainement. On attacha solidement la lettre à une faveur, Louison ouvrit la fenêtre et le pigeon s'envola.</p>
+        <p>Madame de Lameth le suivit des yeux en tremblant. Si un œil indiscret avait aperçu le joli courrier, c'en était fait de son avenir et de ses projets. Il se perdit bientôt dans les airs, volant à tire d'aile dans la direction de Courcy.</p>
         <p>— Il y a près de M. d'Albret un homme. dont je me défie, ce Rémond, en es-tu bien sûre ?</p>
         <p>— Que madame est peureuse, aujourd'hui !</p>
         <p>— Je suis payée pour l'être, notre aventure est si extraordinaire !</p>
@@ -1651,7 +1673,9 @@
         <p>— Que voulez-vous, Madame ? les hommes sont si méchants ! même en s'amusant ils nous blessent !</p>
       </div>
       <div type="chapter">
+
         <head>XII</head>
+
         <head>RETOUR.</head>
         <p>Quelques jours se passèrent dans l'inquiétude pour madame de Lameth et pour sa suivante. Elles attendaient madame de Corcy et ne comprenaient rien au silence qu'elle gardait envers elles. Leur situation était toujours la même, elles ne sortaient point, on les gardait à vue, et, d'un autre côté, la comtesse refusait obstinément la porte à son mari, qui, chaque matin, demandait à la voir. Enfin, madame de Corcy arriva. Son air était grave ; elle prit plus de précaution encore pour parler à son amie.</p>
         <p>— Prenez garde, dit elle ; nous sommes surveillées de tous les côtés. Comment n'avez-vous pas pris les moyens ordinaires pour m'envoyer votre lettre ? une lettre si importante.</p>
@@ -1745,9 +1769,7 @@
         <p>— Vous n'avez donc pas regardé l'écriture, mon fils ?</p>
         <p>— C'est de lui ! s'écria le jeune homme. Oh ! j'ai le droit de la lire, j'ai le droit de punir l'adultère sous le toit de mes ancêtres.</p>
         <p>À mesure qu'il lisait ses traits s'altéraient davantage, lorsqu'il eut fini, il sembla se recueillir, comme pour prendre des forces.</p>
-        <p>
-          — Monsieur, reprit-il, en parlant lentement, comme s'il prononçait une formule de mort, cette lettre est du marquis d'Albret. Il demande <hi>à sa  maîtresse</hi> de le recevoir cette nuit à une heure par le moyen qu'elle lui a indiqué. Il remercie sa belle amie de sa tendresse et lui jure une fidélité éternelle. Vous comprenez que je ne puis pas souffrir cela, il y a un terme à toutes les patiences. Agissez comme bon vous semblera, je vous laisse libre et j'approuve tout aveuglément. M. l'évêque de Noyon reste à Laon jusqu'à demain, j'irai passer ce temps avec lui, je ne suis donc responsable de rien aux yeux de la comtesse. Qu'on fasse atteler mon carrosse de cérémonie à six chevaux. Je veux que chacun me remarque. Adieu, mon père, le ciel vous garde d'être trompé.
-        </p>
+        <p> — Monsieur, reprit-il, en parlant lentement, comme s'il prononçait une formule de mort, cette lettre est du marquis d'Albret. Il demande <hi>à sa maîtresse</hi> de le recevoir cette nuit à une heure par le moyen qu'elle lui a indiqué. Il remercie sa belle amie de sa tendresse et lui jure une fidélité éternelle. Vous comprenez que je ne puis pas souffrir cela, il y a un terme à toutes les patiences. Agissez comme bon vous semblera, je vous laisse libre et j'approuve tout aveuglément. M. l'évêque de Noyon reste à Laon jusqu'à demain, j'irai passer ce temps avec lui, je ne suis donc responsable de rien aux yeux de la comtesse. Qu'on fasse atteler mon carrosse de cérémonie à six chevaux. Je veux que chacun me remarque. Adieu, mon père, le ciel vous garde d'être trompé. </p>
         <p>Une heure après, Lambert porta à madame de Lameth, rentrée dans son appartement, la lettre de M. le marquis d'Albret. Elle la lut avec des transports de joie infinis ; ce fut après l'avoir dévorée vingt fois qu'elle s'aperçut que l'adresse manquait. Elle interrogea Lambert, qui répondit du ton le plus simpl eque l'enveloppe portait son propre nom et que M. le marquis en avait probablement agi ainsi par prudence.</p>
         <p>— Tu as raison. Attend-on la réponse ?</p>
         <p>— Oui, madame la comtesse,</p>
@@ -1770,7 +1792,9 @@
         <p>— Que Dieu le conduise ! reprit vivement la comtesse, au moins celui-là ne me gênera pas ce soir.</p>
       </div>
       <div type="chapter">
+
         <head>XIII</head>
+
         <head>LE PORTRAIT.</head>
         <p>A l'heure du dîner, on vint prévenir la comtesse que son beau-père demandait l'honneur de sa compagnie et de celle de madame de Corcy.</p>
         <p>— Acceptez, dit vivement cette dernière, vous le blesseriez en refusant devant moi.</p>
@@ -1931,11 +1955,7 @@
         <p>— Tu l'as vu, Louison ? dit-elle. Eh bien ! je veux le voir aussi, moi !</p>
         <p>— Au nom du ciel, Madame, renoncez à ce projet ! Vous n'aurez pas la force de l'accomplir.</p>
         <p>— Vous ne me connaissez pas, madame de Corcy, je veux le voir et je le verrai. Croyez-vous donc que j'abandonnerai à mes ennemis les preuves dont ils peuvent se servir contre moi ? il est déjà trop tard peut-être pour leur enlever. J'ai été encore une fois trahie par cette race de Lameth, ils ont abusé de ma correspondance ; c'est résolu, je ne leur laisserai plus cette ressource, et ils me paieront cher l'assassinat qu'ils viennent de commettre.</p>
-        <p>
-          Elle avait repris, à peu de chose près, son aspect ordinaire ; seulement, elle ne s'aperçut pas qu'en attendant son amant elle avait ôté ses souliers, pour faire moins de bruit en allant à sa rencontre, et elle descendit
-          <hi>nu-pieds</hi>
-          .
-        </p>
+        <p> Elle avait repris, à peu de chose près, son aspect ordinaire ; seulement, elle ne s'aperçut pas qu'en attendant son amant elle avait ôté ses souliers, pour faire moins de bruit en allant à sa rencontre, et elle descendit <hi>nu-pieds</hi> . </p>
         <p>Sous la voûte elle trouva M. Cœur-de-Boy, éveillé par le tapage, et qui cherchait à en apprendre la cause. Madame de Corcy heurta quelque chose et se baissa pour voir ce que c'était. Elle saisit l'épée de M. d'Albret.</p>
         <p>— Son épée ! murmura Henriette en défaillant.</p>
         <p>— Montrez-moi cette arme, Madame, reprit la bailli, elle appartient certainement à un gentilhomme.</p>
@@ -1955,11 +1975,7 @@
         <p>— Ouvrez cette chemise. Pichard ouvrit la chemise.</p>
         <p>— Oui, continua-t-elle comme se parlant à elle-même, voilà la plaie ! Dieu ! qu'elle est large !</p>
         <p>Elle prit ses cheveux, enfermés dans une bourse et les mania.</p>
-        <p>
-          — Voilà, ajouta-t-elle, un homme qui a une belle tête et bien couverte
-          <ref target="#FRA00801N01">*</ref>
-          .
-        </p>
+        <p> — Voilà, ajouta-t-elle, un homme qui a une belle tête et bien couverte <ref target="#FRA00801N01">*</ref> . </p>
         <p>Elle releva la manche de sa chemise et lui toucha le bras, semblant chercher s'il n'avait pas un bracelet.</p>
         <p>— Où sont ses poches ? demanda-t-elle.</p>
         <p>On lui remit sou justaucorps et sa veste. Elle ouvrit les poches et en tira d'abord :</p>

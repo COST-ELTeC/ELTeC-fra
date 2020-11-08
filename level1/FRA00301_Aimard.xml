@@ -10,7 +10,7 @@
         <title ref="viaf:309322317 wikidata:Q19214045">Les Trappeurs de l'Arkansas : édition ELTeC</title>
         <author xml:id="Aimard" ref="viaf:9841962 wikidata:Q472068">Aimard, Gustave (1818-1883)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -25,11 +25,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />       <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
+
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

@@ -10,16 +10,16 @@
         <title ref="viaf:missing wikidata:missing">La nouvelle espérance : édition ELTeC</title>
         <author xml:id="Noailles" ref="viaf:95303465 wikidata:Q6050">Noailles, Anna de (1876-1933)</author>
         <respStmt>
-          <resp>encoded by</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Pia Geißel</name>
         </respStmt>
         <respStmt>
           <resp>Original data capture</resp>
           <name>Wikisource</name>
-          <name>Phe</name>
-          <name>Antybul</name>
-          <name>Ernest-Mtl</name>
-          <name>Aristoi</name>
         </respStmt>
       </titleStmt>
       <extent>
@@ -33,11 +33,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          First ElTeC edition
-          2019-10-02
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

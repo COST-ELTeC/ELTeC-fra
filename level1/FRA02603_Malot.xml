@@ -10,7 +10,11 @@
         <title ref="viaf:310221173 wikidata:Q21231298">Conscience : édition ELTeC</title>
         <author xml:id="Malot" ref="viaf:49228546 wikidata:Q315003">Malot, Hector (1830-1907)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -25,11 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -236,20 +237,20 @@
           <p>Sur un signe de Caffié, il expliqua quel était cet avenir, tandis que l'homme d'affaires, sa joue dans sa main, écoutait en poussant, de temps en temps, un soupir étouffé, une sorte de plainte.</p>
           <p>— Hum ! hum ! dit Caffié quand Saniel fut arrivé au bout de son explication ; vous savez, mon cher monsieur, vous savez :</p>
           <quote type="song">
-          <p>
-            <hi>Ma foi, sur l'avenir bien fou qui se fiera :</hi>
-          </p>
-          <p>
-            <hi>Tel qui rit vendredi, dimanche pleurera.</hi>
-          </p>
+            <p>
+              <hi>Ma foi, sur l'avenir bien fou qui se fiera :</hi>
+            </p>
+            <p>
+              <hi>Tel qui rit vendredi, dimanche pleurera.</hi>
+            </p>
           </quote>
           <p>Vous en êtes à dimanche, mon cher monsieur.</p>
           <p>— Mais je ne suis ni au bout de ma vie, ni au bout de mon énergie, et je vous assure que cette énergie me rend capable de beaucoup de choses.</p>
           <p>— Je n'en doute pas ; je sais ce que peut l'énergie : dites à un Grec crevant de faim de monter au ciel, il y va :</p>
           <quote type="poem">
-          <p>
-            <hi>Greculus esuriens in caelum, jusseris, ibit.</hi>
-          </p>
+            <p>
+              <hi>Greculus esuriens in caelum, jusseris, ibit.</hi>
+            </p>
           </quote>
           <p>Mais je ne vois pas que vous soyez parti pour le ciel.</p>
           <p>Caffié eut un mauvais sourire accompagné d'une grimace : avant d'être l'usurier de la rue Sainte-Anne dont tout le monde parlait comme d'un coquin, il avait été avoué en province, juge suppléant, et si des malheurs immérités l'avaient obligé à se démettre, pour venir cacher ses désagréments à Paris, il ne perdait jamais l'occasion de montrer qu'il était, par l'éducation, au-dessus de sa situation présente : trouvant dans ce nouveau client un érudit, il était bien aise de placer quelques citations qui devaient lui valoir de la considération.</p>
@@ -979,9 +980,9 @@
           <p>— C'est une lettre importante, dit le concierge ; le domestique qui me l'a remise m'a dit qu'elle renfermait de l'argent.</p>
           <p>Il fallait cette recommandation pour qu'en un pareil moment Saniel eût la pensée de l'ouvrir, -- ce qu'il fit en entrant chez lui.</p>
           <quote type="letter">
-          <p>« Je ne veux pas, mon cher docteur, quitter Paris pour Monaco, où je vais passer deux ou trois mois, sans vous adresser tous nos remerciements.</p>
-          <p>« Votre bien reconnaissant</p>
-          <p>« C. DUPHOT. »</p>
+            <p>« Je ne veux pas, mon cher docteur, quitter Paris pour Monaco, où je vais passer deux ou trois mois, sans vous adresser tous nos remerciements.</p>
+            <p>« Votre bien reconnaissant</p>
+            <p>« C. DUPHOT. »</p>
           </quote>
           <p>Ces remerciements étaient représentés par deux billets de cent francs, paiement plus que suffisant pour les soins que Saniel avait donnés, quelques mois auparavant, à la maîtresse de cet ancien camarade. Que lui importaient maintenant ces deux cents francs qui, quelques jours plus tôt, lui eussent été si utiles ; il les jeta sur son bureau ; et tout de suite, après avoir allumé deux bougies, il passa l'inspection de ses vêtements et de son linge.</p>
           <p>La précaution qu'il avait prise de se placer derrière le fauteuil lui avait réussi ; le sang, en jaillissant en avant et de chaque côté, ne l'avait pas atteint ; seules, la main qui tenait le couteau et la manchette de la chemise avaient été éclaboussées ; mais cela était sans conséquence : un médecin a bien le droit d'avoir du sang sur ses manches, et cette chemise allait rejoindre celle avec laquelle il avait, la nuit précédente, délivré la femme de la rue de la Corderie.</p>
@@ -1643,10 +1644,10 @@
           <p>— Lis-la-moi.</p>
           <p>Philis la reprit et lut :</p>
           <quote type="letter">
-          <p>« Chère petite sœur,</p>
-          <p>« Après m'avoir entendu, le juge d'instruction me garde. Adoucis pour maman la douleur de ce coup ; fais-lui comprendre qu'on ne peut pas ne pas reconnaître bientôt la fausseté de cette accusation et, de ton côté, emploie-toi à rendre évidente cette fausseté, tandis que, du mien, je vais travailler à prouver mon innocence.</p>
-          <p>« Embrasse bien la pauvre maman pour moi, et trouve dans ta tendresse, dans ta force et ta bonté des consolations pour elle ; la mienne sera de penser que tu es près d'elle, chère petite sœur bien-aimée.</p>
-          <p>« FLORENTIN. »</p>
+            <p>« Chère petite sœur,</p>
+            <p>« Après m'avoir entendu, le juge d'instruction me garde. Adoucis pour maman la douleur de ce coup ; fais-lui comprendre qu'on ne peut pas ne pas reconnaître bientôt la fausseté de cette accusation et, de ton côté, emploie-toi à rendre évidente cette fausseté, tandis que, du mien, je vais travailler à prouver mon innocence.</p>
+            <p>« Embrasse bien la pauvre maman pour moi, et trouve dans ta tendresse, dans ta force et ta bonté des consolations pour elle ; la mienne sera de penser que tu es près d'elle, chère petite sœur bien-aimée.</p>
+            <p>« FLORENTIN. »</p>
           </quote>
           <p>— Et c'est ce brave garçon qu'on accuse d'un assassinat ! s'écria madame Cormier en fondant en larmes.</p>
           <p>Il fallut plusieurs minutes à Philis pour calmer un peu cette crise.</p>
@@ -1771,10 +1772,10 @@
           <p>— La preuve que ce n'est pas Florentin qui était chez Caffié au moment où l'assassinat a été commis. Toute la journée d'hier et toute la matinée d'aujourd'hui, j'étais restée sous l'impression de honte qui me poursuivait, quand à trois heures j'ai reçu ce petit mot de la concierge de la rue Sainte-Anne.</p>
           <p>Elle sortit de sa poche un morceau de papier plié en forme de lettre, avec une adresse grossièrement écrite, qu'elle tendit à Saniel.</p>
           <quote type="letter">
-          <p>« Mademoiselle,</p>
-          <p>« Si vous voulez passer rue Sainte-Anne, j'ai quelque chose à vous apprendre qui vous fera bien plaisir, à ce que je crois.</p>
-          <p>« Je suis votre servante.</p>
-          <p>« Veuve ANAÏS BOUCHU. »</p>
+            <p>« Mademoiselle,</p>
+            <p>« Si vous voulez passer rue Sainte-Anne, j'ai quelque chose à vous apprendre qui vous fera bien plaisir, à ce que je crois.</p>
+            <p>« Je suis votre servante.</p>
+            <p>« Veuve ANAÏS BOUCHU. »</p>
           </quote>
           <p>— Tu sais que la vieille concierge aux reins ankylosés n'a jamais voulu admettre que mon frère pouvait être coupable. Florentin avait été poli et bon avec elle pendant son séjour chez Caffié, et elle lui en est restée reconnaissante. Bien souvent, elle m'avait dit qu'elle était certaine qu'on découvrirait le coupable, que les cartes l'annonçaient, et que, quand cela arriverait, elle me priait de l'en avertir. Au lieu que ce soit moi qui ait eu à lui apporter cette bonne nouvelle, c'est elle, comme tu le vois, qui m'a écrit de venir la recevoir d'elle. Tu penses comme je suis descendue vivement des Batignolles à la rue Sainte-Anne. Si loin qu'allât mon imagination, elle restait cependant au-dessous de la réalité : je comptais sur quelque indice favorable, une découverte, un témoignage, non sur une preuve ; et cette preuve, nous l'avons. Quand j'arrivai, la vieille femme me prit les deux mains et me dit qu'elle allait me conduire tout de suite auprès d'une dame qui avait vu l'assassin de Caffié.</p>
           <p>— Vu ! s'écria Saniel, frappé d'un coup qui le secoua de la tête aux pieds.</p>
@@ -2389,8 +2390,8 @@
           <p>— De la part de madame Dammauville, lui dit-elle ; il y a une réponse.</p>
           <p>Il la laissa dans le vestibule, éclairé par la porte ouverte sur le palier, et rentra dans son cabinet pour lire la lettre : le rêve n'avait pas duré longtemps, la réalité le ressaisissait de ses mains impitoyables ; cette lettre à coup sûr allait annoncer le coup qui le menaçait.</p>
           <quote type="letter">
-          <p>« Si M. le docteur Saniel est libre, je le prie de venir me voir ce soir pour affaire urgente ; je l'attendrai jusqu'à dix heures ; sinon je compte sur lui demain matin à partir de neuf heures.</p>
-          <p>« A. DAMMAUVILLE. »</p>
+            <p>« Si M. le docteur Saniel est libre, je le prie de venir me voir ce soir pour affaire urgente ; je l'attendrai jusqu'à dix heures ; sinon je compte sur lui demain matin à partir de neuf heures.</p>
+            <p>« A. DAMMAUVILLE. »</p>
           </quote>
           <p>Il revint dans le vestibule :</p>
           <p>— Dites à madame Dammauville que je serai près d'elle dans un quart d'heure.</p>
@@ -2949,7 +2950,9 @@
           <p>— Est-ce qu'il n'y a que les personnes malades de certaines maladies qui peuvent être mises en état de somnambulisme ?</p>
           <p>— C'était une croyance autrefois admise par le public et par beaucoup de médecins qu'on ne pouvait provoquer le somnambulisme que chez les sujets atteints d'hystérie, de nervosisme, mais il y avait là une erreur : le somnambulisme artificiel s'obtient chez un grand nombre de sujets parfaitement sains.</p>
           <p>— Conserve-t-on sa volonté dans le sommeil ?</p>
-          <p>— Le sujet ne conserve de spontanéité et de volonté que ce que veut bien lui en laisser son hypnotiseur, qui, à son gré peut le rendre triste, gai, colère, tendre et jouer de son âme comme d'un instrument.<ref target="#FRA02603_N01"/></p>
+          <p>— Le sujet ne conserve de spontanéité et de volonté que ce que veut bien lui en laisser son hypnotiseur, qui, à son gré peut le rendre triste, gai, colère, tendre et jouer de son âme comme d'un instrument.
+            <ref target="#FRA02603_N01" />
+          </p>
           <p>— Mais c'est effroyable.</p>
           <p>— Curieux au moins ; il est certain qu'il y a une paralysie locale de telle ou telle cellule dont l'étude deviendra le point de départ de découvertes intéressantes.</p>
           <p>— Une fois réveillé, le sujet se rappelle-t-il ce qu'il a dit pendant son sommeil ?</p>
@@ -3103,7 +3106,7 @@
           <p>— Philis !... Philis !</p>
           <p>On ne répondit pas : il courut à la cuisine, personne ; il vint dans son cabinet, personne non plus mais comme il regardait autour de lui, la lettre de Philis, placée sur son bureau, lui sauta au cœur ; il se jeta dessus, et d'une main tremblante l'ouvrit :</p>
           <quote type="letter">
-          <p>« Je suis partie pour ne plus revenir. Mon désespoir et mon dégoût de la vie sont tels, que sans ma mère et sans le pauvre être qui est là-bas, je me serais tuée ; mais malgré l'horreur de ma situation, il m'a fallu réfléchir, et je n'ai pas voulu aggraver par une faiblesse le mal qui s'est fait autour de moi. Ma mère n'est plus jeune, elle est malade et elle a cruellement souffert ; non seulement je lui dois d'adoucir sa vieillesse par ma présence, par le soutien matériel et moral que je puis lui donner, mais il faut qu'elle garde la confiance que je suis là pour la remplacer et ouvrir mes bras à son fils, à mon frère. C'est bien le moins que je puisse faire pour eux de l'attendre courageusement ; et si pesante, si terrible, si effroyable que soit désormais ma vie, je la supporterai pour que le malheureux, le paria que le sort implacable a terrassé, trouve en revenant, un foyer, une maison, une amie. Ce sera là mon unique but, ma raison d'être, et afin de me sauver des lâchetés, de la lassitude, ma pensée ira toujours en avant vers l'heure où me sera rendu celui dont je veux faire mon enfant et que mon amour doit sauver et guérir. Je sais que de longues années me séparent de ce jour, et que mon cœur brisé ne pourra jamais, avant qu'il se lève, avoir un moment de repos ; mais j'emploierai ce temps à travailler pour lui, pour le frère, pour l'enfant, pour l'être chéri qui m'arrivera vieilli, désespéré, et je veux qu'il puisse croire encore à quelque chose de bon, qu'il n'imagine pas que tout est injuste et infâme dans ce monde, car il me reviendra accablé par vingt ans de honte, de honte dégradante, imméritée. Comment les aura-t-il supportés, ces vingt ans ? Quels efforts ne me faudra-t-il pas faire pour lui prouver qu'il ne doit pas s'abandonner à la désespérance, et que la vie offre parfois le remède, la compassion aux plus profondes, aux plus injustes douleurs humaines ! Comment lui faire croire cela ? Comment amener son pauvre cœur fermé à la confiance, à l'épanchement, aux pleurs qui seuls pourront le soulager ? Enfin Dieu qui m'a tant éprouvée, viendra sans doute à mon aide et m'inspirera les paroles consolatrices, me montrera le chemin à suivre et me donnera la force de la persévérance ; n'ai-je pas déjà à le bénir d'être seule au monde en dehors de la maman et du frère, de ceux qui ne me trahiront pas ? Je n'ai point d'enfants de mes entrailles, et je suis sauvée de la terreur de voir une âme grandir pour le mal, une intelligence m'échapper et aller vers l'infamie ou le déshonneur. Je me retire donc comme je suis venue : pauvre fille j'étais, pauvre femme je m'en vais. J'ai repris les vêtements et les objets personnels que j'avais apportés dans le logis commun, aucun de ceux acquis de l'argent commun, et je vous interdis de rien changer à ma volonté en ce qui touche cette question matérielle, pas plus qu'à ma résolution de vous fuir. Rien ne peut plus nous réunir jamais ; rien ne nous réunira, aucune considération, aucune nécessité. Je repousse le passé, ce passé coupable dont la responsabilité pèse si lourdement sur ma conscience, et je voudrais perdre la mémoire d'un temps détesté. Il me serait impossible d'accepter la lutte, ni des supplications s'il vous convenait d'en faire. J'ai tranché nos liens, et nous serons désormais aussi loin l'un de l'autre que si l'un de nous était mort, plus loin encore. N'ayez donc aucun scrupule à me laisser seule en face d'une nouvelle vie, d'un recommencement qui peut paraître difficile et pénible à quiconque n'est pas à ma place. Les épreuves d'autrefois m'auront été bonnes, puisqu'elles m'ont aguerrie aux difficultés du travail ; la désolation d'aujourd'hui me soutiendra, en ce sens que, ayant souffert tout ce qu'on peut souffrir, je n'ai plus à craindre quelque catastrophe décourageante qui m'arrêterait dans mes résolutions. Pour ne pas vous compromettre et redevenir mieux moi-même, je reprendrai mon nom de famille, -- nom déshonoré, mais que je porterai sans honte. Je vivrai obscurément, absorbée par le travail et m'appliquant à oublier jusqu'à votre existence : faites de même. Vous trouverez peut-être que je suis dure, si vous songez au passé ; cependant ce n'est pas une désertion égoïste que ce départ ; je ne vous suis plus bonne à rien, et le repos dont vous avez besoin vous fuirait désormais près de moi. Au contraire, cherchez l'oubli comme je vais le chercher moi-même. Si vous parvenez à effacer de votre vie le temps pendant lequel je l'ai traversée, vous arriverez peut-être à éloigner le reste et à reconquérir un peu du calme d'autrefois. Je ne peux plus me rappeler que je vous ai aimé, car ma situation a cela de particulier que je ne garde même pas le refuge du souvenir ; à mon âge, il faut que je reste sans passé comme sans avenir ; ce qui fait la consolation des malheureux me manque avec tout. Je ne puis pas sortir de mon accablement pour essayer de retrouver une heure où la vie se soit montrée douce pour moi ; ces heures-là, au contraire, me font frémir et je me les reproche comme un crime. Ainsi, de quelque côté que je me retourne, je ne trouve que la douleur et les regrets poignants ; tout est flétri, déshonoré pour moi. »</p>
+            <p>« Je suis partie pour ne plus revenir. Mon désespoir et mon dégoût de la vie sont tels, que sans ma mère et sans le pauvre être qui est là-bas, je me serais tuée ; mais malgré l'horreur de ma situation, il m'a fallu réfléchir, et je n'ai pas voulu aggraver par une faiblesse le mal qui s'est fait autour de moi. Ma mère n'est plus jeune, elle est malade et elle a cruellement souffert ; non seulement je lui dois d'adoucir sa vieillesse par ma présence, par le soutien matériel et moral que je puis lui donner, mais il faut qu'elle garde la confiance que je suis là pour la remplacer et ouvrir mes bras à son fils, à mon frère. C'est bien le moins que je puisse faire pour eux de l'attendre courageusement ; et si pesante, si terrible, si effroyable que soit désormais ma vie, je la supporterai pour que le malheureux, le paria que le sort implacable a terrassé, trouve en revenant, un foyer, une maison, une amie. Ce sera là mon unique but, ma raison d'être, et afin de me sauver des lâchetés, de la lassitude, ma pensée ira toujours en avant vers l'heure où me sera rendu celui dont je veux faire mon enfant et que mon amour doit sauver et guérir. Je sais que de longues années me séparent de ce jour, et que mon cœur brisé ne pourra jamais, avant qu'il se lève, avoir un moment de repos ; mais j'emploierai ce temps à travailler pour lui, pour le frère, pour l'enfant, pour l'être chéri qui m'arrivera vieilli, désespéré, et je veux qu'il puisse croire encore à quelque chose de bon, qu'il n'imagine pas que tout est injuste et infâme dans ce monde, car il me reviendra accablé par vingt ans de honte, de honte dégradante, imméritée. Comment les aura-t-il supportés, ces vingt ans ? Quels efforts ne me faudra-t-il pas faire pour lui prouver qu'il ne doit pas s'abandonner à la désespérance, et que la vie offre parfois le remède, la compassion aux plus profondes, aux plus injustes douleurs humaines ! Comment lui faire croire cela ? Comment amener son pauvre cœur fermé à la confiance, à l'épanchement, aux pleurs qui seuls pourront le soulager ? Enfin Dieu qui m'a tant éprouvée, viendra sans doute à mon aide et m'inspirera les paroles consolatrices, me montrera le chemin à suivre et me donnera la force de la persévérance ; n'ai-je pas déjà à le bénir d'être seule au monde en dehors de la maman et du frère, de ceux qui ne me trahiront pas ? Je n'ai point d'enfants de mes entrailles, et je suis sauvée de la terreur de voir une âme grandir pour le mal, une intelligence m'échapper et aller vers l'infamie ou le déshonneur. Je me retire donc comme je suis venue : pauvre fille j'étais, pauvre femme je m'en vais. J'ai repris les vêtements et les objets personnels que j'avais apportés dans le logis commun, aucun de ceux acquis de l'argent commun, et je vous interdis de rien changer à ma volonté en ce qui touche cette question matérielle, pas plus qu'à ma résolution de vous fuir. Rien ne peut plus nous réunir jamais ; rien ne nous réunira, aucune considération, aucune nécessité. Je repousse le passé, ce passé coupable dont la responsabilité pèse si lourdement sur ma conscience, et je voudrais perdre la mémoire d'un temps détesté. Il me serait impossible d'accepter la lutte, ni des supplications s'il vous convenait d'en faire. J'ai tranché nos liens, et nous serons désormais aussi loin l'un de l'autre que si l'un de nous était mort, plus loin encore. N'ayez donc aucun scrupule à me laisser seule en face d'une nouvelle vie, d'un recommencement qui peut paraître difficile et pénible à quiconque n'est pas à ma place. Les épreuves d'autrefois m'auront été bonnes, puisqu'elles m'ont aguerrie aux difficultés du travail ; la désolation d'aujourd'hui me soutiendra, en ce sens que, ayant souffert tout ce qu'on peut souffrir, je n'ai plus à craindre quelque catastrophe décourageante qui m'arrêterait dans mes résolutions. Pour ne pas vous compromettre et redevenir mieux moi-même, je reprendrai mon nom de famille, -- nom déshonoré, mais que je porterai sans honte. Je vivrai obscurément, absorbée par le travail et m'appliquant à oublier jusqu'à votre existence : faites de même. Vous trouverez peut-être que je suis dure, si vous songez au passé ; cependant ce n'est pas une désertion égoïste que ce départ ; je ne vous suis plus bonne à rien, et le repos dont vous avez besoin vous fuirait désormais près de moi. Au contraire, cherchez l'oubli comme je vais le chercher moi-même. Si vous parvenez à effacer de votre vie le temps pendant lequel je l'ai traversée, vous arriverez peut-être à éloigner le reste et à reconquérir un peu du calme d'autrefois. Je ne peux plus me rappeler que je vous ai aimé, car ma situation a cela de particulier que je ne garde même pas le refuge du souvenir ; à mon âge, il faut que je reste sans passé comme sans avenir ; ce qui fait la consolation des malheureux me manque avec tout. Je ne puis pas sortir de mon accablement pour essayer de retrouver une heure où la vie se soit montrée douce pour moi ; ces heures-là, au contraire, me font frémir et je me les reproche comme un crime. Ainsi, de quelque côté que je me retourne, je ne trouve que la douleur et les regrets poignants ; tout est flétri, déshonoré pour moi. »</p>
           </quote>
           <p>Il avait lu cette lettre écrite d'un trait, d'une seule poussée, debout au milieu de son cabinet ; arrivé à la fin, vaguement il regarda autour de lui ; son fauteuil était un peu écarté de son bureau : il se laissa tomber dessus et resta là, anéanti, gardant la lettre dans sa main crispée :</p>
           <p>— Seul !</p>

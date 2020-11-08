@@ -10,7 +10,11 @@
         <title ref="oclc:465119441 viaf:unavailable wikidata:missing">Folla : édition ELTeC</title>
         <author xml:id="Dombre" ref="viaf:37053113 wikidata:Q42529454">Dombre, Roger [Marguerite Sisson / Marguerite Ligeron] (1859-1914)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -25,11 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -783,9 +784,9 @@
         <p>« Juliette est à Marseille, bon papa et bonne maman aussi. Qui sait ! je les verrai peut-être ; je vais leur écrire. »</p>
         <p>Aussitôt rentrée elle prit une feuille de grossier papier et y traça ces mots :</p>
         <quote type="letter">
-        <p>« Ma chère Juliette, tu n'as pas reconnu ta pauvre Folla dans la petite fille en guenilles qui t'a appelée sur le chemin d'Endoume.</p>
-        <p>« Je pense à toi et je souffre ; moi, je t'ai bien reconnue, va ! Tu as passé devant notre porte, et tu n'y es point entrée ; devant moi, et tu ne m'as rien dit. Je suis bien malheureuse. Je t'en supplie, dis à bon pa..., non, à M. et Mme Milane de t'amener chez nous ; je donnerais tout pour vous revoir. Je n'ai pas de plus beau papier, tu me pardonneras, et je n'ai pas non plus d'enveloppe, parce que je suis trop pauvre. Je t'en prie, viens.</p>
-        <p>« FOLLA. »</p>
+          <p>« Ma chère Juliette, tu n'as pas reconnu ta pauvre Folla dans la petite fille en guenilles qui t'a appelée sur le chemin d'Endoume.</p>
+          <p>« Je pense à toi et je souffre ; moi, je t'ai bien reconnue, va ! Tu as passé devant notre porte, et tu n'y es point entrée ; devant moi, et tu ne m'as rien dit. Je suis bien malheureuse. Je t'en supplie, dis à bon pa..., non, à M. et Mme Milane de t'amener chez nous ; je donnerais tout pour vous revoir. Je n'ai pas de plus beau papier, tu me pardonneras, et je n'ai pas non plus d'enveloppe, parce que je suis trop pauvre. Je t'en prie, viens.</p>
+          <p>« FOLLA. »</p>
         </quote>
         <p>Elle ferma la feuille, pliée tant bien que mal, avec quelques gouttes de bougie qu'elle y fit couler en guise de colle, puis elle réfléchit.</p>
         <p>Elle ne savait quelle adresse mettre sur sa lettre ; sans doute ses bienfaiteurs résidaient à Marseille, à l'hôtel, mais lequel ?</p>

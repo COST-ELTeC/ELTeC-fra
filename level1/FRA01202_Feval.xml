@@ -10,7 +10,11 @@
         <title ref="viaf:unavailable wikidata:missing">Les Errants de nuit : édition ELTeC</title>
         <author xml:id="FévalPH" ref="viaf:17222447 wikidata:Q472568">Féval, Paul Henri Corentin [dit Paul Féval père] (1816-1887)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -24,11 +28,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -3572,9 +3573,9 @@
           <p>– N'est-il point question dans tout ceci de l'héritage de Soleuvre ?</p>
           <p>Nicolas sauta quelques lignes et lut :</p>
           <quote type="letter">
-          <p>« Le dépôt, fait entre les mains du dernier abbé par Hector de Soleuvre est placé intégralement en l'étude de maître D. M</p>
-          <p>« En l'étude dudit maître D. M</p>
-          <p>« Le dépôt se monte à un million huit cent mille francs, que j'ai versés au dit notaire en bank-notes anglaises et en billets de la banque de France... »</p>
+            <p>« Le dépôt, fait entre les mains du dernier abbé par Hector de Soleuvre est placé intégralement en l'étude de maître D. M</p>
+            <p>« En l'étude dudit maître D. M</p>
+            <p>« Le dépôt se monte à un million huit cent mille francs, que j'ai versés au dit notaire en bank-notes anglaises et en billets de la banque de France... »</p>
           </quote>
           <p>– Entendez-vous cela, Hector de Soleuvre ! s'écria Jean Guern. Vous êtes riche de dix-huit cent mille francs.</p>
           <p>Le jeune homme ne répondit point. Nicolas Guern cependant continuait sa lecture. La pièce qu'il venait de lire se terminait, comme la plupart de celles que M. de Blamont avait laissées, par une sorte de serment repoussant l'accusation qui était la torture de sa dernière heure. On voyait que cette pensée l'avait poursuivi jusqu'au suprême instant. Chaque fois qu'il avait pris la plume pour faire ses dispositions, en vue de sa fin prochaine et volontaire, il avait protesté de son innocence et rejeté l'accusation sur le compte des véritables assassins : les trois frères Legagneur, Michel, Jean et Antoine.</p>

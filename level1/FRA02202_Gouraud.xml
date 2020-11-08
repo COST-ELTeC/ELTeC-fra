@@ -10,7 +10,11 @@
         <title ref="viaf:314022921 wikidata:missing">Le petit colporteur : édition ELTeC</title>
         <author xml:id="Gouraud" ref="viaf:31987653 wikidata:Q18115130">Gouraud, Julie [Louise d'Aulnay] (1810-1891)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -25,11 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -477,7 +478,8 @@
         <p>Nous ne suivrons pas Pierre dans toutes ses courses, il nous suffira de savoir que la vente allait si bien, que c'était devenu une nécessité d'aller s'approvisionner à Strasbourg. Strasbourg ! terme de l'ambition de Petit Pierre.</p>
         <p>La veille de Noël, notre cher petit voyageur n'était plus qu'à une lieue de la capitale de l'Alsace ; la campagne était couverte de neige. Des jeux bruyants avaient lieu dans un parc : des enfants riaient, gambadaient sur la neige, se réjouissant de la belle fête dont le jour approchait.</p>
         <p>« Oh ! dit une petite fille, en apercevant Pierre, s'il avait quelque chose de joli pour mettre à l'arbre de Noël ! Maman l'achèterait, car elle n'a pas voulu que Brigitte allât à Strasbourg pour acheter des surprises, et ma bonne m'a dit que notre arbre ne serait pas aussi beau que celui de l'année dernière. » La petite Cécile parlait avec une conviction qui passa dans l'âme des frères et sœurs. « Petit marchand, attendez un peu ! » Et toute la bande s'envola, comme une nuée d'oiseaux vers un sillon aux épis d'or.</p>
-        <p>La pensée de Cécile fut très appréciée par la famille. Brigitte alla chercher le petit marchand. À en croire ces messieurs et ces demoiselles, il fallait sans tarder que Pierre déballât ; mais cet enfant était déjà pour Mme Franck l'objet d'une tendre sollicitude. Son passage devant le château devait lui porter bonheur. Brigitte fut chargée de prendre soin de lui, et, certes la brave femme s'en acquitta bien ! Elle conduisit Pierre au poêle <ref target="#FRA02202_N01"/>, l'aida à se débarrasser de son manteau, et le fit causer. </p>
+        <p>La pensée de Cécile fut très appréciée par la famille. Brigitte alla chercher le petit marchand. À en croire ces messieurs et ces demoiselles, il fallait sans tarder que Pierre déballât ; mais cet enfant était déjà pour Mme Franck l'objet d'une tendre sollicitude. Son passage devant le château devait lui porter bonheur. Brigitte fut chargée de prendre soin de lui, et, certes la brave femme s'en acquitta bien ! Elle conduisit Pierre au poêle
+          <ref target="#FRA02202_N01" />, l'aida à se débarrasser de son manteau, et le fit causer. </p>
         <p>
           <label>BRIGITTE</label>
         </p>
@@ -531,14 +533,14 @@
         <p>Jamais, non jamais cette douce hospitalité ne s'effacera du souvenir de Pierre.</p>
         <p>Profitant de la bienveillance dont il se voyait l'objet, et s'apercevant qu'il avait vendu toutes ses plumes, il s'adressa à Brigitte pour la prier de lui en procurer une, car il voulait écrire à sa mère ; mais Brigitte n'en avait point, par l'excellente raison qu'elle ne savait pas écrire : « C'est égal, dit-elle, asseyez-vous là ? » Et Petit Pierre vit venir Cécile avec plume, encre et papier. La petite fille resta près de Pierre tout le temps qu'il écrivit. Elle était émerveillée du savoir de son protégé ; debout, la tête penchée, Cécile suivait avec intérêt la main de Pierre, disant à chaque minute : « Qu'est-ce que tu lui écris ? » Un sourire était la réponse. Plus heureux que Cécile, lisons la lettre que Petit Pierre écrivait à sa mère :</p>
         <quote type="letter">
-        <p>Dans un beau château, 25 décembre.</p>
-        <p>« Ma bonne mère.</p>
-        <p>« La date de cette lettre ne te surprendra pas plus que je ne suis surpris moi-même. Ah ! quand on voyage, il arrive toutes sortes d'histoires ! Jusqu'ici, les miennes sont charmantes. Figure-toi qu'il ne me restait plus qu'une lieue à faire pour arriver à Strasbourg, lorsque, passant près d'un beau parc où des enfants faisaient des boules de neige, on m'a appelé, fait entrer, et une petite Cécile âgée de six ans qui a les yeux noirs et les cheveux blonds comme ma sœur, m'a conduit en triomphe chez sa maman. Oh ! mère, qu'il y a de bons riches en ce monde 1 Mme Frank la mère de Cécile m'a acheté tout ce qui restait dans mon ballot. Elle m'a remis deux pièces d'or. Oui, tu ne te trompes pas, ni moi non plus : deux pièces d'or. Il y avait un arbre de Noël magnifique, et Petit Pierre a été posté au haut de l'arbre avec toutes ses marchandises. Quel bel effet je devais faire au milieu des petites bougies bleues et roses, des fleurs et de la verdure ! J'ai été adjugé à ma petite protectrice qui a distribué tous les objets dont elle était maîtresse.</p>
-        <p>« Mme Frank m'a engagé à rester. Je crois bien, mère, que j'étais ce qu'on appelle, le jour des rois, <hi>la part du bon Dieu</hi> , et je t'avoue que j'en suis fier. </p>
-        <p>« J'ai assisté à la messe de minuit. Je me disais : « Bien sûr, ma mère y est allée, Christine aussi. » Il me semblait être à côté de vous et que nous priions tous les trois ensemble. J'étais content, tranquille au milieu de ce bon monde, lorsqu'on s'est mis à chanter le Noël que tu aimes tant, et que le père nous chantait, quand nous étions petits. Alors, sans faire attention aux larmes que je sentais rouler sur mes joues, moi, qui ne suis pas hardi, j'ai entonné.</p>
-        <p>« J'ai dormi dans un bon lit. Déjà j'ai bien déjeuné, et, après avoir achevé la lettre que je t'écris en compagnie de Mlle Cécile, très étonnée de ma science, j'irai remercier d'abord les maîtres, ensuite les domestiques et je me mettrai en route pour la grande ville.</p>
-        <p>« Mère, ne te tourmente pas ; tu vois que le ciel me protège. Encore un peu de patience et je reviendrai, et nous travaillerons ensemble à notre petit champ.</p>
-        <p>« Je t'embrasse, ma bonne mère, et j'embrasse aussi ma sœurette de tout mon cœur.</p>
+          <p>Dans un beau château, 25 décembre.</p>
+          <p>« Ma bonne mère.</p>
+          <p>« La date de cette lettre ne te surprendra pas plus que je ne suis surpris moi-même. Ah ! quand on voyage, il arrive toutes sortes d'histoires ! Jusqu'ici, les miennes sont charmantes. Figure-toi qu'il ne me restait plus qu'une lieue à faire pour arriver à Strasbourg, lorsque, passant près d'un beau parc où des enfants faisaient des boules de neige, on m'a appelé, fait entrer, et une petite Cécile âgée de six ans qui a les yeux noirs et les cheveux blonds comme ma sœur, m'a conduit en triomphe chez sa maman. Oh ! mère, qu'il y a de bons riches en ce monde 1 Mme Frank la mère de Cécile m'a acheté tout ce qui restait dans mon ballot. Elle m'a remis deux pièces d'or. Oui, tu ne te trompes pas, ni moi non plus : deux pièces d'or. Il y avait un arbre de Noël magnifique, et Petit Pierre a été posté au haut de l'arbre avec toutes ses marchandises. Quel bel effet je devais faire au milieu des petites bougies bleues et roses, des fleurs et de la verdure ! J'ai été adjugé à ma petite protectrice qui a distribué tous les objets dont elle était maîtresse.</p>
+          <p>« Mme Frank m'a engagé à rester. Je crois bien, mère, que j'étais ce qu'on appelle, le jour des rois, <hi>la part du bon Dieu</hi> , et je t'avoue que j'en suis fier. </p>
+          <p>« J'ai assisté à la messe de minuit. Je me disais : « Bien sûr, ma mère y est allée, Christine aussi. » Il me semblait être à côté de vous et que nous priions tous les trois ensemble. J'étais content, tranquille au milieu de ce bon monde, lorsqu'on s'est mis à chanter le Noël que tu aimes tant, et que le père nous chantait, quand nous étions petits. Alors, sans faire attention aux larmes que je sentais rouler sur mes joues, moi, qui ne suis pas hardi, j'ai entonné.</p>
+          <p>« J'ai dormi dans un bon lit. Déjà j'ai bien déjeuné, et, après avoir achevé la lettre que je t'écris en compagnie de Mlle Cécile, très étonnée de ma science, j'irai remercier d'abord les maîtres, ensuite les domestiques et je me mettrai en route pour la grande ville.</p>
+          <p>« Mère, ne te tourmente pas ; tu vois que le ciel me protège. Encore un peu de patience et je reviendrai, et nous travaillerons ensemble à notre petit champ.</p>
+          <p>« Je t'embrasse, ma bonne mère, et j'embrasse aussi ma sœurette de tout mon cœur.</p>
         </quote>
       </div>
       <div type="chapter">

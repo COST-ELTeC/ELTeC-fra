@@ -9,13 +9,28 @@
       <titleStmt>
         <title ref="viaf:missing wikidata:Q3518724">Terres lorraines : édition ELTeC</title>
         <author xml:id="Moselly" ref="viaf:19681833 wikidata:Q2356724">Moselly, Emile (1870-1918)</author>
+        <respStmt>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
       </titleStmt>
       <extent>
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">78099</measure>
       </extent>
       <publicationStmt>
-        <p>à fournir</p>
+        <publisher ref="https://distant-reading. net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo. org/communities/eltec/">Zenodo. org</distributor>
+        <date when="2020-04-21" />
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -1477,14 +1492,14 @@
         <p>Un soir, comme il revenait d'une fatigante journée de pêche, la patronne lui remit une lettre. Pour la lire à son aise, il sortit dans l'étroite courette, donnant sur les jardins. Un peu de jour mourant jetait sur le papier une clarté pâle.</p>
         <p>Voici ce que Marthe lui écrivait :</p>
         <quote type="letter">
-        <p>« Mon cher Pierre,</p>
-        <p>« C'est pour te donner de nos nouvelles, et te dire que nous sommes en bonne santé. Mes parents te font bien leurs honnêtetés. Mon père, si vieux et tout cassé, se plaint de la grande fatigue, rapport à ses tournées dans les bois. Il n'est que temps qu'il prenne sa retraite, et que ça finisse. C'est pour te dire aussi que je pense tout le temps à toi ; mais il ne faut pas s'écouter, sans quoi je pleurerais toute la sainte journée, comme une Madeleine. Je travaille en compagnie de la vieille Marie-Anne, assise sur le banc à l'ombre. Tu verras, mon cher Pierre, toutes les belles affaires que je prépare, des tabliers, des mouchoirs de poche, tout un beau trousseau de mariage. Je me dépêche de faire mes points, sans penser à autre chose, et comme ça, la journée se passe.</p>
-        <p>« L'autre soir, je passais devant votre maison ; il y avait de la lumière, et j'ai entendu du bruit. J'étais si sotte que j'ai cru que vous étiez revenus, et ça m'a donné un coup. J'ai dû m'asseoir sur le bord du chemin, puis le vieux Guillaume est venu, il m'a parlé de toi et ça m'a un peu consolée.</p>
-        <p>« Et puis, j'ai voulu aller dans les chènevières, comme nous faisions, quand tu étais là. Il faisait si bon et l'air était si doux que je n'ai pas pu rester, parce que tout me paraissait trop triste.</p>
-        <p>« C'est pour te dire aussi qu'on va faire une vente chez les Mathieu, des pauvres vignerons qui n'ont pas eu de réussite dans leurs affaires. Il paraît qu'on enlèvera tout, jusqu'à la cendre de la cheminée. Maman Catherine dit qu'on pourrait bien y aller faire un tour, pour voir si quelque chose ne serait pas à notre convenance. Mais le mobilier de ces vieilles gens était comme eux, tout cassé et démantibulé, et je voudrais aussi que tout ce qui nous servira, dans les premiers temps, soit neuf et bien à nous. Maman prétend que c'est une drôle d'idée, mais j'y tiens. Pourtant on dit comme ça, qu'ils ont une belle pendule, qui leur vient d'une succession. Elle ferait bien sur la cheminée de notre belle chambre.</p>
-        <p>« Je m'arrête, car je veux mettre ma lettre à la poste pour qu'elle t'arrive tout de suite. Je glisse dans l'enveloppe deux brins du pot de réséda, qui est sur ma fenêtre, pour que tu penses à moi, en sentant leur bonne odeur.</p>
-        <p>« Quoique j'aie le cœur gros par moments, je finis toujours par me faire une raison. Adieu, Pierre, je t'embrasse comme je t'aime,</p>
-        <p>« Marthe THIRIET. »</p>
+          <p>« Mon cher Pierre,</p>
+          <p>« C'est pour te donner de nos nouvelles, et te dire que nous sommes en bonne santé. Mes parents te font bien leurs honnêtetés. Mon père, si vieux et tout cassé, se plaint de la grande fatigue, rapport à ses tournées dans les bois. Il n'est que temps qu'il prenne sa retraite, et que ça finisse. C'est pour te dire aussi que je pense tout le temps à toi ; mais il ne faut pas s'écouter, sans quoi je pleurerais toute la sainte journée, comme une Madeleine. Je travaille en compagnie de la vieille Marie-Anne, assise sur le banc à l'ombre. Tu verras, mon cher Pierre, toutes les belles affaires que je prépare, des tabliers, des mouchoirs de poche, tout un beau trousseau de mariage. Je me dépêche de faire mes points, sans penser à autre chose, et comme ça, la journée se passe.</p>
+          <p>« L'autre soir, je passais devant votre maison ; il y avait de la lumière, et j'ai entendu du bruit. J'étais si sotte que j'ai cru que vous étiez revenus, et ça m'a donné un coup. J'ai dû m'asseoir sur le bord du chemin, puis le vieux Guillaume est venu, il m'a parlé de toi et ça m'a un peu consolée.</p>
+          <p>« Et puis, j'ai voulu aller dans les chènevières, comme nous faisions, quand tu étais là. Il faisait si bon et l'air était si doux que je n'ai pas pu rester, parce que tout me paraissait trop triste.</p>
+          <p>« C'est pour te dire aussi qu'on va faire une vente chez les Mathieu, des pauvres vignerons qui n'ont pas eu de réussite dans leurs affaires. Il paraît qu'on enlèvera tout, jusqu'à la cendre de la cheminée. Maman Catherine dit qu'on pourrait bien y aller faire un tour, pour voir si quelque chose ne serait pas à notre convenance. Mais le mobilier de ces vieilles gens était comme eux, tout cassé et démantibulé, et je voudrais aussi que tout ce qui nous servira, dans les premiers temps, soit neuf et bien à nous. Maman prétend que c'est une drôle d'idée, mais j'y tiens. Pourtant on dit comme ça, qu'ils ont une belle pendule, qui leur vient d'une succession. Elle ferait bien sur la cheminée de notre belle chambre.</p>
+          <p>« Je m'arrête, car je veux mettre ma lettre à la poste pour qu'elle t'arrive tout de suite. Je glisse dans l'enveloppe deux brins du pot de réséda, qui est sur ma fenêtre, pour que tu penses à moi, en sentant leur bonne odeur.</p>
+          <p>« Quoique j'aie le cœur gros par moments, je finis toujours par me faire une raison. Adieu, Pierre, je t'embrasse comme je t'aime,</p>
+          <p>« Marthe THIRIET. »</p>
         </quote>
         <p>Pierre avait lu la lettre tout d'un trait, puis il la relut posément, savourant toutes les tendresses inexprimées qui se levaient de chaque ligne, de chaque mot, avec un murmure familier, un chuchotement câlin et enveloppant.</p>
         <p>Elle était là, tout près de lui, parlant tout bas dans ce soir calme. Certains mots, qui lui étaient habituels, rappelaient les gestes qui les accompagnaient, et cela lui donnait l'illusion de sa présence.</p>

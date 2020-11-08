@@ -10,7 +10,11 @@
         <title ref="oclc:561075297 viaf:unavailable wikidata:missing">En congé : édition ELTeC</title>
         <author xml:id="Fleuriot" ref="viaf:41872490 wikidata:Q3086433">Fleuriot, Zénaïde (1829-1890)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -25,11 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -873,9 +874,9 @@
         <milestone type="section" rend="space" unit="newline" />
         <p>Je viens de rapporter à la maison un cheval marin. Rassure-toi, il n'a aucun rapport avec le monstre qui a dévoré Hippolyte et qui a donné occasion à Racine d'écrire ces beaux vers qui plaisent singulièrement à la gente écolière :</p>
         <quote type="poem">
-        <p>
-          <hi>« À peine nous sortions des portes de Trézène. »</hi>
-        </p>
+          <p>
+            <hi>« À peine nous sortions des portes de Trézène. »</hi>
+          </p>
         </quote>
         <p>Mon cheval marin n'a ni pieds ni pattes, et il n'est guère plus long que mon doigt. C'est un animal parfaitement drôle. Sa tête et son encolure sont tout à fait celles d'un cheval, le reste du corps est une espèce de petit squelette annelé, autour duquel flotte une petite crinière.</p>
         <p>Je vais le faire sécher et je le conserverai soigneusement comme une de mes conquêtes ; j'ai cherché son nom scientifique, et j'ai trouvé Hippocampe.</p>
@@ -893,37 +894,37 @@
 
         <head>XX -- L'accident. -- Mon secrétaire. -- Mes visites. -- Post-scriptum.</head>
         <quote type="letter">
-        <p>Chère maman, ne t'inquiète en aucune façon, mais c'est de mon lit que je t'écris. Une grosse pierre a roulé du galgal et m'a éraflé le bras et l'épaule. Ces écorchures m'ayant donné un peu de fièvre, ma tante m'oblige à garder la chambre. Tout le monde me tient compagnie à tour de rôle, de sorte que je passe mon temps très agréablement. Nous jouons aux cartes, aux dominos, au loto, à la dînette ; seulement Marguerite me sert de la tisane au lieu de vin. Berthe pousse l'abnégation jusqu'à m'abandonner Mignonnette, et cette belle dame, assise dans son fauteuil, étend ses falbalas au pied de mon lit, et me regarde de ses jolis petits yeux d'émail.</p>
-        <milestone type="section" rend="space" unit="newline" />
-        <p>Ne vous étonnez pas de ne pas voir l'écriture de Robert, ma chère tante, je commets l'indiscrétion d'écrire sur son journal. En venant lui dire bonjour, c'était mon heure de garde, je l'ai vu qui regardait du coin de l'œil un petit cahier rouge qui le suit partout. Je sais que ce cahier contient le journal qu'il vous écrit, et je lui ai demandé s'il avait raconté son accident.</p>
-        <p>« Je n'en ai dit qu'un mot, m'a-t-il répondu, je suis très pressé, car je dois envoyer ces feuilles demain. »</p>
-        <p>Alors moitié jouant, moitié suppliant, j'ai obtenu la permission de lire cette page. Je reconnais une fois de plus la modestie de mon bon petit cousin ; mais, puisqu'il raconte ainsi en courant la scène du galgal, je me permets de compléter son récit sur son propre cahier.</p>
-        <p>Avant-hier, au galgal, j'étais un peu agitée par le bruit des vagues, et ne me rappelant pas la défense de papa qui nous défend de marcher ou de nous asseoir parmi ces dangereuses pierres roulantes, je suis allée me blottir dans un trou avec ma poupée Mignonnette, dont les bottines de voyage -- elle avait beaucoup marché sur les rochers -- étaient délacées. Gaston et Piérik qui grimpent toujours quelque part étaient montés tout au haut. Tout à coup, j'entends un grand cri poussé par maman qui préparait notre goûter au pied de la montagne de pierres : je lève la tête machinalement, une grosse pierre roulait juste au-dessus de moi. Ah ! que j'ai eu peur, ma chère tante ! j'ai mis mes deux bras devant ma figure pour ne plus rien voir. J'ai senti qu'on me poussait et j'ai entendu la grosse pierre tomber en faisant patatras. Alors j'ai regardé et j'ai aperçu Robert couché par terre. En voyant la pierre arriver sur moi, il s'était bravement élancé, l'avait un peu poussée à droite, m'avait repoussée à gauche et était tombé tout meurtri.</p>
-        <p>Papa et Neptune l'ont conduit au bas de la montagne, maman sanglotait, et Marguerite aussi. Il paraît que cette vilaine pierre aurait pu me tuer. Mon pauvre Robert avait des contusions à l'épaule et aux bras. On l'a pansé tout de suite ; le médecin que Gaston est allé chercher à cheval a dit que ce ne serait rien.</p>
-        <p>Nous aimions beaucoup Robert qui est si gentil, si amusant ; mais à présent, ma chère tante, nous l'aimons bien davantage.</p>
-        <p>Il se lèvera demain, le médecin l'a permis ; il pourra passer l'après-midi à son balcon et voir la mer, qu'il aime beaucoup.</p>
-        <p>Tous les gens du village viennent demander de ses nouvelles, Piérik et Marianna lui pêchent des cancres, et Neptune lui crie bonjour de sa porte avec une si grosse voix, que Robert l'entend très bien de son lit. Neptune aime beaucoup son petit frère Robert. Si vous l'aviez vu montrer le poing à la grosse pierre qui a failli nous tuer !</p>
-        <p>Je ne sais pas si l'on finit une page de journal comme une lettre, ma chère tante ; ce qu'il y a de certain, c'est que je termine en vous embrassant pour Robert et pour moi.</p>
-        <milestone type="section" rend="space" unit="newline" />
-        <p>On ne t'a jamais rien caché de mon indisposition, chère maman, et la preuve c'est que je t'écris au retour d'une expédition au Sémaphore. Pendant ma prison forcée j'ai beaucoup pensé au fameux toit que je cherchais, et je l'ai trouvé en bâtissant des châteaux de cartes avec Marguerite. J'ai fait apporter par Neptune deux pierres très plates et très larges, je les ai placées sur mes murailles comme des cartes à jouer. Elles se soutiennent très bien mutuellement, et tantôt nous allons remplir les interstices de ciment et de pierres. Le gros du toit est fait, il est solide et ne manque pas d'originalité.</p>
-        <p>Sois tranquille, chère maman, je ne me suis pas montré ingrat envers les bonnes familles du bourg. Je suis allé avec Gaston les remercier de l'intérêt qu'ils ont pris à ma santé. Je t'assure que je les aime tous beaucoup. Neptune a poussé l'héroïsme jusqu'à dire que si un bouillon de perroquet me faisait plaisir, la cuisinière devait tordre le cou à Ricoco et le plumer. Quant à Piérik et à Marianna, ils ne savaient que faire pour me distraire. Sitôt que j'apparaissais sur mon balcon, ils accouraient, et alors je voyais défiler de superbes attelages de cancres. Il est très amusant de voir les pauvres cancres tirer chacun de son bord, les plus gros renversent les plus petits dans la poussière, et renversés à leur tour par d'autres, qui par extraordinaire marchent dans le même sens, ils gigotent sur le sable les pattes en l'air, ce qui est très drôle. Quand je ris des comédies des cancres, Piérik et Marianna paraissent satisfaits.</p>
-        <p>J'espère que tu me permettras ce que ma tante permet à Gaston, c'est-à-dire de laisser à nos petits voisins mes habillements un peu avariés : souliers roussis par l'eau de la mer, blouses fanées, chapeaux déformés. Ils se composeront une garde-robe splendide avec ces objets désormais sans valeur pour nous. Hier, ma tante nous a donné la plus amusante des représentations. Piérik a été habillé de pied en cap de la défroque de Gaston. Le pauvre petit disparaissait dessous, et cependant il se trouvait si beau qu'il n'osait pas soulever le chapeau qui lui tombait sur le nez. Aux premiers pas qu'il a faits, il s'est étendu de tout son long. Il avait oublié que ses pantalons lui englobaient les pieds. Marguerite et Berthe voulaient donner leurs vieilles robes à Marianna, ma tante s'y est opposée.</p>
-        <p>« Ne lui ôtez pas sa simplicité, a-t-elle dit, toutes vos friperies la lui feraient peut-être perdre. J'aime mieux la voir courir nu-pieds qu'avec des bottines éculées, et son jupon solide de drap rouge lui est cent fois plus commode que vos longues jupes d'étoffe légère. »</p>
-        <p>Marguerite, qui a très bon cœur, ne s'est pas tenue pour battue, elle a collecté une petite somme, et s'occupe de faire faire un habillement neuf à Marianna. Je lui ai donné pour cet usage les cinq francs que je destinais à l'achat d'un filet neuf. Je me servirai de celui de Gaston puisque, hélas ! la fin de la pêche approche. Heureusement que la fin de la pêche c'est mon retour près de toi.</p>
-        <milestone type="section" rend="space" unit="newline" />
-        <p>Je t'assure, mère, que nous profitons de nos derniers jours. À cinq heures nous sommes sur pied. Toilette, prière, déjeuner sont rapidement faits, et en route tantôt pour une grève, tantôt pour l'autre, tantôt en barque, tantôt à pied. Neptune ne nous quitte plus, et je rame désormais aussi bien que Gaston. J'ai le pied aussi sûr que lui et le poignet presque aussi solide.</p>
-        <p>Quand ma bonne me voit me livrer à mes grandes gymnastiques maritimes, ramer, gouverner, escalader les rochers, monter dans ma chambre par mon balcon comme le défunt Griffart, courir sur le mât où Ricoco rêve à son pays, elle ne manque jamais de s'écrier :</p>
-        <p>« Madame ne le reconnaîtra pas, c'est sûr ! »</p>
-        <milestone type="section" rend="space" unit="newline" />
-        <p>Je t'écris d'Auray une dernière fois, chère maman. Nous avons dit adieu à Saint-Pierre, à ses grèves, à ses rochers, à son soleil, à ses dolmens, à ses menhirs, à ses habitants. Neptune nous a tous embrassés en partant, il était plus ému que le jour où je suis allé lui demander de me raconter son naufrage.</p>
-        <p>À Auray nous avons retrouvé ma tante Ludovic et l'illustre Louis toujours ennuyés, toujours maussades. Berthe a fait promettre à ma tante Ludovic qu'elle enverrait Marguerite aux prochaines vacances : ce qui a charmé Marguerite.</p>
-        <p>« Pour moi, je ne remets plus le pied dans ces bahuts, ni dans ce bête de pays », m'a dit Louis.</p>
-        <p>Puisse-t-il dire vrai, nous ne courrons plus le risque de l'y rencontrer.</p>
-        <milestone type="section" rend="space" unit="newline" />
-        <p>Ce soir tout le monde vient me conduire à la gare, car hélas ! je m'embarque pour Paris. Non, mais non, je pars pour retrouver ma mère chérie qui, je l'espère, n'aura plus qu'à se louer de son fils. Après-demain, si le hasard t'amène vers les quatre heures du matin par la gare Montparnasse, et si tu vois sortir d'un wagon de seconde classe un grand bahutien, noir comme un Cafre, maigre comme un clou, leste comme un singe, ayant l'air assez bon enfant et suivi par une bonne grosse mère portant par habitude un vieux panier à son bras, précipite-toi, car ce personnage sera ton fils, ton Robert, qui sera mille fois heureux de te voir et de t'embrasser.</p>
-        <p>ROBERT.</p>
-        <milestone type="section" rend="space" unit="newline" />
-        <p>P. S. Tu sais que j'aurai des prix l'an prochain, et que le philosophe des flaques ne hantera désormais les cancres que sur les grèves.</p>
+          <p>Chère maman, ne t'inquiète en aucune façon, mais c'est de mon lit que je t'écris. Une grosse pierre a roulé du galgal et m'a éraflé le bras et l'épaule. Ces écorchures m'ayant donné un peu de fièvre, ma tante m'oblige à garder la chambre. Tout le monde me tient compagnie à tour de rôle, de sorte que je passe mon temps très agréablement. Nous jouons aux cartes, aux dominos, au loto, à la dînette ; seulement Marguerite me sert de la tisane au lieu de vin. Berthe pousse l'abnégation jusqu'à m'abandonner Mignonnette, et cette belle dame, assise dans son fauteuil, étend ses falbalas au pied de mon lit, et me regarde de ses jolis petits yeux d'émail.</p>
+          <milestone type="section" rend="space" unit="newline" />
+          <p>Ne vous étonnez pas de ne pas voir l'écriture de Robert, ma chère tante, je commets l'indiscrétion d'écrire sur son journal. En venant lui dire bonjour, c'était mon heure de garde, je l'ai vu qui regardait du coin de l'œil un petit cahier rouge qui le suit partout. Je sais que ce cahier contient le journal qu'il vous écrit, et je lui ai demandé s'il avait raconté son accident.</p>
+          <p>« Je n'en ai dit qu'un mot, m'a-t-il répondu, je suis très pressé, car je dois envoyer ces feuilles demain. »</p>
+          <p>Alors moitié jouant, moitié suppliant, j'ai obtenu la permission de lire cette page. Je reconnais une fois de plus la modestie de mon bon petit cousin ; mais, puisqu'il raconte ainsi en courant la scène du galgal, je me permets de compléter son récit sur son propre cahier.</p>
+          <p>Avant-hier, au galgal, j'étais un peu agitée par le bruit des vagues, et ne me rappelant pas la défense de papa qui nous défend de marcher ou de nous asseoir parmi ces dangereuses pierres roulantes, je suis allée me blottir dans un trou avec ma poupée Mignonnette, dont les bottines de voyage -- elle avait beaucoup marché sur les rochers -- étaient délacées. Gaston et Piérik qui grimpent toujours quelque part étaient montés tout au haut. Tout à coup, j'entends un grand cri poussé par maman qui préparait notre goûter au pied de la montagne de pierres : je lève la tête machinalement, une grosse pierre roulait juste au-dessus de moi. Ah ! que j'ai eu peur, ma chère tante ! j'ai mis mes deux bras devant ma figure pour ne plus rien voir. J'ai senti qu'on me poussait et j'ai entendu la grosse pierre tomber en faisant patatras. Alors j'ai regardé et j'ai aperçu Robert couché par terre. En voyant la pierre arriver sur moi, il s'était bravement élancé, l'avait un peu poussée à droite, m'avait repoussée à gauche et était tombé tout meurtri.</p>
+          <p>Papa et Neptune l'ont conduit au bas de la montagne, maman sanglotait, et Marguerite aussi. Il paraît que cette vilaine pierre aurait pu me tuer. Mon pauvre Robert avait des contusions à l'épaule et aux bras. On l'a pansé tout de suite ; le médecin que Gaston est allé chercher à cheval a dit que ce ne serait rien.</p>
+          <p>Nous aimions beaucoup Robert qui est si gentil, si amusant ; mais à présent, ma chère tante, nous l'aimons bien davantage.</p>
+          <p>Il se lèvera demain, le médecin l'a permis ; il pourra passer l'après-midi à son balcon et voir la mer, qu'il aime beaucoup.</p>
+          <p>Tous les gens du village viennent demander de ses nouvelles, Piérik et Marianna lui pêchent des cancres, et Neptune lui crie bonjour de sa porte avec une si grosse voix, que Robert l'entend très bien de son lit. Neptune aime beaucoup son petit frère Robert. Si vous l'aviez vu montrer le poing à la grosse pierre qui a failli nous tuer !</p>
+          <p>Je ne sais pas si l'on finit une page de journal comme une lettre, ma chère tante ; ce qu'il y a de certain, c'est que je termine en vous embrassant pour Robert et pour moi.</p>
+          <milestone type="section" rend="space" unit="newline" />
+          <p>On ne t'a jamais rien caché de mon indisposition, chère maman, et la preuve c'est que je t'écris au retour d'une expédition au Sémaphore. Pendant ma prison forcée j'ai beaucoup pensé au fameux toit que je cherchais, et je l'ai trouvé en bâtissant des châteaux de cartes avec Marguerite. J'ai fait apporter par Neptune deux pierres très plates et très larges, je les ai placées sur mes murailles comme des cartes à jouer. Elles se soutiennent très bien mutuellement, et tantôt nous allons remplir les interstices de ciment et de pierres. Le gros du toit est fait, il est solide et ne manque pas d'originalité.</p>
+          <p>Sois tranquille, chère maman, je ne me suis pas montré ingrat envers les bonnes familles du bourg. Je suis allé avec Gaston les remercier de l'intérêt qu'ils ont pris à ma santé. Je t'assure que je les aime tous beaucoup. Neptune a poussé l'héroïsme jusqu'à dire que si un bouillon de perroquet me faisait plaisir, la cuisinière devait tordre le cou à Ricoco et le plumer. Quant à Piérik et à Marianna, ils ne savaient que faire pour me distraire. Sitôt que j'apparaissais sur mon balcon, ils accouraient, et alors je voyais défiler de superbes attelages de cancres. Il est très amusant de voir les pauvres cancres tirer chacun de son bord, les plus gros renversent les plus petits dans la poussière, et renversés à leur tour par d'autres, qui par extraordinaire marchent dans le même sens, ils gigotent sur le sable les pattes en l'air, ce qui est très drôle. Quand je ris des comédies des cancres, Piérik et Marianna paraissent satisfaits.</p>
+          <p>J'espère que tu me permettras ce que ma tante permet à Gaston, c'est-à-dire de laisser à nos petits voisins mes habillements un peu avariés : souliers roussis par l'eau de la mer, blouses fanées, chapeaux déformés. Ils se composeront une garde-robe splendide avec ces objets désormais sans valeur pour nous. Hier, ma tante nous a donné la plus amusante des représentations. Piérik a été habillé de pied en cap de la défroque de Gaston. Le pauvre petit disparaissait dessous, et cependant il se trouvait si beau qu'il n'osait pas soulever le chapeau qui lui tombait sur le nez. Aux premiers pas qu'il a faits, il s'est étendu de tout son long. Il avait oublié que ses pantalons lui englobaient les pieds. Marguerite et Berthe voulaient donner leurs vieilles robes à Marianna, ma tante s'y est opposée.</p>
+          <p>« Ne lui ôtez pas sa simplicité, a-t-elle dit, toutes vos friperies la lui feraient peut-être perdre. J'aime mieux la voir courir nu-pieds qu'avec des bottines éculées, et son jupon solide de drap rouge lui est cent fois plus commode que vos longues jupes d'étoffe légère. »</p>
+          <p>Marguerite, qui a très bon cœur, ne s'est pas tenue pour battue, elle a collecté une petite somme, et s'occupe de faire faire un habillement neuf à Marianna. Je lui ai donné pour cet usage les cinq francs que je destinais à l'achat d'un filet neuf. Je me servirai de celui de Gaston puisque, hélas ! la fin de la pêche approche. Heureusement que la fin de la pêche c'est mon retour près de toi.</p>
+          <milestone type="section" rend="space" unit="newline" />
+          <p>Je t'assure, mère, que nous profitons de nos derniers jours. À cinq heures nous sommes sur pied. Toilette, prière, déjeuner sont rapidement faits, et en route tantôt pour une grève, tantôt pour l'autre, tantôt en barque, tantôt à pied. Neptune ne nous quitte plus, et je rame désormais aussi bien que Gaston. J'ai le pied aussi sûr que lui et le poignet presque aussi solide.</p>
+          <p>Quand ma bonne me voit me livrer à mes grandes gymnastiques maritimes, ramer, gouverner, escalader les rochers, monter dans ma chambre par mon balcon comme le défunt Griffart, courir sur le mât où Ricoco rêve à son pays, elle ne manque jamais de s'écrier :</p>
+          <p>« Madame ne le reconnaîtra pas, c'est sûr ! »</p>
+          <milestone type="section" rend="space" unit="newline" />
+          <p>Je t'écris d'Auray une dernière fois, chère maman. Nous avons dit adieu à Saint-Pierre, à ses grèves, à ses rochers, à son soleil, à ses dolmens, à ses menhirs, à ses habitants. Neptune nous a tous embrassés en partant, il était plus ému que le jour où je suis allé lui demander de me raconter son naufrage.</p>
+          <p>À Auray nous avons retrouvé ma tante Ludovic et l'illustre Louis toujours ennuyés, toujours maussades. Berthe a fait promettre à ma tante Ludovic qu'elle enverrait Marguerite aux prochaines vacances : ce qui a charmé Marguerite.</p>
+          <p>« Pour moi, je ne remets plus le pied dans ces bahuts, ni dans ce bête de pays », m'a dit Louis.</p>
+          <p>Puisse-t-il dire vrai, nous ne courrons plus le risque de l'y rencontrer.</p>
+          <milestone type="section" rend="space" unit="newline" />
+          <p>Ce soir tout le monde vient me conduire à la gare, car hélas ! je m'embarque pour Paris. Non, mais non, je pars pour retrouver ma mère chérie qui, je l'espère, n'aura plus qu'à se louer de son fils. Après-demain, si le hasard t'amène vers les quatre heures du matin par la gare Montparnasse, et si tu vois sortir d'un wagon de seconde classe un grand bahutien, noir comme un Cafre, maigre comme un clou, leste comme un singe, ayant l'air assez bon enfant et suivi par une bonne grosse mère portant par habitude un vieux panier à son bras, précipite-toi, car ce personnage sera ton fils, ton Robert, qui sera mille fois heureux de te voir et de t'embrasser.</p>
+          <p>ROBERT.</p>
+          <milestone type="section" rend="space" unit="newline" />
+          <p>P. S. Tu sais que j'aurai des prix l'an prochain, et que le philosophe des flaques ne hantera désormais les cancres que sur les grèves.</p>
         </quote>
       </div>
     </body>

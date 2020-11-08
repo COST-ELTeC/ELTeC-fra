@@ -8,7 +8,11 @@
         <title ref="viaf:missing wikidata:missing">Le Bâtard de Ravaillac : édition ELTeC</title>
         <author xml:id="Montagne" ref="viaf:76379741 wikidata:Q47843466">Montagne, Édouard (1830-1899)</author>
         <respStmt>
-          <resp>encoded by</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Christof Schöch</name>
           <!-- Text quality is not great right now! -->
         </respStmt>
@@ -28,7 +32,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -2282,7 +2287,7 @@
           <p>– Allons donc ! fit-elle.</p>
           <p>– Il serait à croire, en effet, continua le bâtard de ron, que vous n'avez compromis l'existence de votre futur gendre. que pour satisfaire vos propres sentiments. --</p>
           <p>A ces mots, la colère que Mme de Laffémas maîtr avec peine éclata soudain. !</p>
-          <p>– On croirait vrai et juste, monsieur, dit-elle ton tellement menaçant, que les groupes qu'ils tra saient s'arrêtèrent stupéfaits. Ne faut-il pas un <hi rend="italic">b </hi>à une femme, poursuivit Guzla en assourdissai voix, puisqu'elle ne saurait venger mortelleme\] directement son injure. sauf par le poison  !</p>
+          <p>– On croirait vrai et juste, monsieur, dit-elle ton tellement menaçant, que les groupes qu'ils tra saient s'arrêtèrent stupéfaits. Ne faut-il pas un <hi rend="italic">b </hi>à une femme, poursuivit Guzla en assourdissai voix, puisqu'elle ne saurait venger mortelleme\] directement son injure. sauf par le poison !</p>
           <p>Il y avait comme un sinistre et involontaire à tissement dans ces dernières paroles.</p>
           <p>– Une arme appréciée peut-être dans votre fan madame ? riposta audacieusement Angel.</p>
           <p>– Non, monsieur, ne craignez encore rien ce rapport ; il me reste heureusement d'autres sources dont j'entends disposer auparavant. M aujourd'hui, il y a de ma part trêve forcée. demain !... demain ! murmura sourdement la favc je vous aurai perdu ; demain l'armistice royal expiré ; demain Louis XIII et Richelieu sauron se cachait cette nuit sous le déguiseme ntemblêmal de Brutus ; ils sauront que cet homme est le plus le plus lâche, le plus criminel d'entre tous, qu nomme Charles de Montaigu.</p>

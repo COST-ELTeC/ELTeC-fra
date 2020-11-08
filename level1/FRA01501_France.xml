@@ -10,7 +10,11 @@
         <title ref="viaf:2498149844946602960007 wikidata:missing">Les dieux ont soif: édition ELTeC</title>
         <author xml:id="France" ref="viaf:4925052 wikidata:Q42443">France, Anatole (1844-1924)</author>
         <respStmt>
-          <resp>encoded by</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Pia Geißel</name>
         </respStmt>
         <respStmt>
@@ -31,11 +35,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          First ElTeC edition
-          2019-10-03
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

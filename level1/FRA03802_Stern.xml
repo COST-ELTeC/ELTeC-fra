@@ -8,12 +8,16 @@
         <title ref="viaf:312334146 wikidata:Q7071424">Nélida : édition ELTeC</title>
         <author xml:id="Sand" ref="viaf:186930001 wikidata:Q253453">Stern, Daniel [Marie d'Agoult] (1805-1876)</author>
         <respStmt>
-          <resp>encoded by</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Pia Geißel</name>
         </respStmt>
         <respStmt>
           <resp>Original data capture</resp>
-          <name>Gutenberg. org</name>
+          <name>Gutenberg.org</name>
           <name>Mireille Harmelin</name>
           <name>Eric Vautier</name>
         </respStmt>
@@ -29,8 +33,8 @@
         <availability>
           <licence target="https://creativecommons. org/licenses/by/4. 0/" />
         </availability>
-        <ref type="doi" target="https://doi. org/10. 5281/zenodo. 3462435" />
-        <!-- First ElTeC edition 2019-10-01  -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

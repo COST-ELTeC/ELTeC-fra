@@ -7,13 +7,28 @@
       <titleStmt>
         <title ref="viaf:8216147270621135700006 wikidata:Q19194889">Le Feu : édition ELTeC</title>
         <author xml:id="Barbusse" ref="viaf:68925116 wikidata:Q18404">Barbusse, Henri (1873-1935)</author>
+        <respStmt>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
       </titleStmt>
       <extent>
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">119403</measure>
       </extent>
       <publicationStmt>
-        <p>à fournir</p>
+        <publisher ref="https://distant-reading. net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo. org/communities/eltec/">Zenodo. org</distributor>
+        <date when="2020-04-21" />
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -38,12 +53,11 @@
         <language ident="fr">French</language>
         <!-- With considerable amounts of colloquial language / spelling -->
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">heterodiegetic</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long" />

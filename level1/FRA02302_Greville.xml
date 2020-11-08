@@ -8,7 +8,11 @@
         <title ref="viaf:missing wikidata:missing">L'amie : édition ELTeC</title>
         <author xml:id="Gréville" ref="viaf:49258322 wikidata:Q2266038">Gréville, Henry [Alice Marie Céleste Fleury, dite Durand] (1842-1902)</author>
         <respStmt>
-          <resp>encoded by</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Pia Geißel</name>
         </respStmt>
         <respStmt>
@@ -28,9 +32,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!-- First ElTeC edition 2019-09-30
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -64,12 +67,11 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">heterodiegetic</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">heterodiegetic</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
         <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
@@ -734,7 +736,7 @@
         <p>Sa main attira le jeune homme vers elle, et il mit sur son front le baiser du retour, après quoi il s'excusa de sa méprise auprès de la jeune fille.</p>
         <p>— Je m'en vais, dit celle-ci en se levant brusquement.</p>
         <p>— Pas toute seule ! répondit Claire, comme émue à la pensée que son amie était si malade.</p>
-        <p>—  J'en ai l'habitude, reprit-elle brièvement.</p>
+        <p>— J'en ai l'habitude, reprit-elle brièvement.</p>
         <p>— Je vais vous reconduire, mademoiselle, dit Paul en se dirigeant vers la porte.</p>
         <p>— Ne prenez pas cette peine, monsieur, répliqua sèchement Camille.</p>
         <p>— Si, si, Paul, reconduis-la ! s'écria Claire.</p>

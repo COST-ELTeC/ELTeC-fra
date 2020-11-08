@@ -9,13 +9,28 @@
       <titleStmt>
         <title ref="viaf:599145424534886831258 wikidata:Q28496738">Mademoiselle de la Seiglière : édition ELTeC</title>
         <author xml:id="Sandeau" ref="viaf:56616138 wikidata:Q609039">Sandeau, Jules (1811-1883)</author>
+        <respStmt>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
       </titleStmt>
       <extent>
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">62501</measure>
       </extent>
       <publicationStmt>
-        <p>à fournir</p>
+        <publisher ref="https://distant-reading. net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo. org/communities/eltec/">Zenodo. org</distributor>
+        <date when="2020-04-21" />
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -393,7 +408,7 @@
           <milestone unit="section" />
           <p>Trois heures après, M. de Vaubert roulait vers Paris, moins perplexe et moins intrigué qu'on ne pourrait se l'imaginer, et convaincu que sa mère l'envoyait tout simplement acheter les présents de noce. À peine arrivé, il brisa le cachet de l'enveloppe qui renfermait les instructions de la baronne, et il lut les instructions suivantes:</p>
           <quote type="letter">
-          <p>«Amusez-vous, voyez le monde, ne fréquentez que des gens de votre rang, ne dérogez en rien ni jamais, ménagez votre jeunesse, ne songez à revenir que lorsque je vous rappellerai, et reposez-vous sur moi du soin de votre bonheur.»</p>
+            <p>«Amusez-vous, voyez le monde, ne fréquentez que des gens de votre rang, ne dérogez en rien ni jamais, ménagez votre jeunesse, ne songez à revenir que lorsque je vous rappellerai, et reposez-vous sur moi du soin de votre bonheur.»</p>
           </quote>
           <p>Raoul ne comprit pas et ne chercha point à comprendre. Le lendemain, il marchait gravement sur le boulevard, l'air froid et compassé, et, au milieu des splendeurs de ce Paris qu'il voyait pour la première fois, aussi peu curieux de voir et d'observer que s'il se promenait sur ses terres.</p>
         </div>
@@ -615,9 +630,9 @@
           <p>— Vous êtes un noble cœur, s'écria avec un mouvement de joie la baronne, qui comprit que l'affaire allait s'entamer ainsi qu'elle l'avait souhaité. Écrivez donc en ce sens à mademoiselle de La Seiglière. Soyez digne, mais aussi soyez tendre, afin qu'on ne puisse pas supposer que vous avez écrit seulement pour l'acquit de votre conscience. Cela fait, quoi qu'il arrive ensuite, vous aurez dignement rempli les devoirs d'un amant fidèle et d'un preux chevalier.</p>
           <p>Sans plus tarder, M. de Vaubert se mit devant un bureau, et sur un joli papier qu'il avait rapporté de Paris, glacé, musqué, timbré aux armes de sa maison, il écrivit les lignes suivantes, auxquelles la baronne, après en avoir pris connaissance, donna sa maternelle approbation, bien qu'elle eût désiré y trouver plus de passion et de tendresse. Ainsi, les hostilités allaient commencer; entre les mains de la rusée baronne, ce double feuillet de papier lustré, armorié, parfumé, et couvert sur la première page d'une belle écriture anglaise, n'était rien moins qu'une bombe qui, lancée dans la place, devait, en éclatant, exercer des ravages prévus, calculés, d'un effet à peu près certain.</p>
           <quote type="letter">
-          <p>/# «MADEMOISELLE, #/</p>
-          <p>«J'arrive et j'apprends en même temps la révolution qui s'est opérée dans votre destinée, et les nouvelles dispositions qu'a prises M. votre père pour replacer sur votre tête l'héritage de ses ancêtres, que vient de lui ravir le retour du fils de son ancien fermier. Qu'à ces fins M. le marquis ait cru pouvoir prendre sur lui de désunir deux mains et deux cœurs unis depuis dix ans devant Dieu, Dieu en jugera; je m'abstiens. Il ne sied pas d'ailleurs à la pauvreté de se mettre en balance avec la fortune. Seulement, il est de mon honneur, bien moins encore que de mon amour, de vous déclarer, Mademoiselle, que si vous ne partagiez pas en ceci les sentiments de M. votre père, et ne pensiez pas, comme lui, que la foi jurée ne soit qu'un vain mot, j'aurais autant de bonheur à partager avec vous ma modeste condition que vous en auriez eu vous-même à partager avec moi votre luxe et votre opulence. Après cet aveu, dont vous ne me ferez pas l'outrage de suspecter la sincérité, je n'ajouterai pas un mot; c'est à vous seule qu'il appartient désormais de décider de mon sort et du vôtre. Si vous repoussez mon humble offrande, reprenez ces lettres qui ne m'appartiennent plus; je souffrirai sans me plaindre ni murmurer. Si vous consentez, au contraire, à venir embellir ma vie et mon foyer, renvoyez-moi ces précieux gages, je les presserai avec joie et reconnaissance contre un cœur fidèle et dévoué.</p>
-          <p>/# «RAOUL.» #/</p>
+            <p>/# «MADEMOISELLE, #/</p>
+            <p>«J'arrive et j'apprends en même temps la révolution qui s'est opérée dans votre destinée, et les nouvelles dispositions qu'a prises M. votre père pour replacer sur votre tête l'héritage de ses ancêtres, que vient de lui ravir le retour du fils de son ancien fermier. Qu'à ces fins M. le marquis ait cru pouvoir prendre sur lui de désunir deux mains et deux cœurs unis depuis dix ans devant Dieu, Dieu en jugera; je m'abstiens. Il ne sied pas d'ailleurs à la pauvreté de se mettre en balance avec la fortune. Seulement, il est de mon honneur, bien moins encore que de mon amour, de vous déclarer, Mademoiselle, que si vous ne partagiez pas en ceci les sentiments de M. votre père, et ne pensiez pas, comme lui, que la foi jurée ne soit qu'un vain mot, j'aurais autant de bonheur à partager avec vous ma modeste condition que vous en auriez eu vous-même à partager avec moi votre luxe et votre opulence. Après cet aveu, dont vous ne me ferez pas l'outrage de suspecter la sincérité, je n'ajouterai pas un mot; c'est à vous seule qu'il appartient désormais de décider de mon sort et du vôtre. Si vous repoussez mon humble offrande, reprenez ces lettres qui ne m'appartiennent plus; je souffrirai sans me plaindre ni murmurer. Si vous consentez, au contraire, à venir embellir ma vie et mon foyer, renvoyez-moi ces précieux gages, je les presserai avec joie et reconnaissance contre un cœur fidèle et dévoué.</p>
+            <p>/# «RAOUL.» #/</p>
           </quote>
           <p>Ramenée violemment au sentiment de la réalité, Hélène n'hésita pas plus que Raoul n'avait hésité. Après être sortie de l'espèce de stupeur dans laquelle venait de la jeter la lecture de ces quelques lignes, elle courut à son appartement, et là, étouffant sans faiblesse le rêve d'une heure au plus, rayon éteint aussitôt qu'entrevu, fleur brisée au moment d'éclore, elle prit une plume pour écrire elle-même et signer l'arrêt de mort de son propre bonheur; mais, n'en trouvant pas le courage, elle se contenta de mettre ses lettres sous enveloppe et de les renvoyer immédiatement à Raoul. Cela fait, elle cacha sa tête entre ses mains, et ne put s'empêcher de verser quelques larmes, bien différentes, hélas! de celles qu'elle avait répandues le matin. Cependant, sous la mélancolie d'un vague regret à peine défini, elle sentit bientôt une sourde inquiétude remuer et gronder dans son sein. En lisant d'un seul regard le billet de M. de Vaubert, elle n'avait vu clairement, et nettement compris qu'une chose, c'est que ce jeune homme la rappelait solennellement à la foi jurée sous peine de parjure et de trahison; dans l'exaltation de sa conscience, Hélène avait négligé le reste. Une fois apaisée par le sacrifice, l'esprit plus calme et les sens plus rassis, elle se remémora peu à peu quelques expressions de la lettre de son fiancé, auxquelles sa pensée ne s'était pas arrêtée d'abord, mais qui avaient laissé en elle une impression confuse et pénible. Tout à coup, ses souvenirs se dégageant et devenant de plus en plus distincts, elle prit entre sa robe et sa ceinture le billet de Raoul, qu'elle avait glissé là, sans doute pour défendre et protéger son cœur; après l'avoir relu attentivement, après avoir pressuré chaque mot et creusé chaque phrase pour en faire jaillir la lumière, mademoiselle de La Seiglière le relut encore une fois; puis, passant insensiblement de la surprise à la réflexion, elle finit par s'abîmer dans une méditation profonde.</p>
           <milestone unit="section" />
@@ -744,9 +759,9 @@
           <p>— Ah! le malheureux! s'écria mademoiselle de La Seiglière en se tordant les bras avec désespoir, il veut, il va se tuer!</p>
           <p>Elle voulut courir, mais où? Roland allait plus vite que le vent. Il avait été convenu la veille que Raoul et sa mère viendraient le lendemain, dans la matinée, chercher le marquis et sa fille pour les conduire et les installer définitivement dans leur nouvelle demeure. Comme Hélène se disposait à sortir de sa chambre pour se rendre au salon, elle rencontra sur le seuil Jasmin, qui, en courtisan du malheur, lui présenta sur un plateau d'argent une lettre sous enveloppe. Hélène rentra précipitamment, rompit le cachet et lut ces lignes, évidemment tracées à la hâte:</p>
           <quote type="letter">
-          <p>/# «Mademoiselle, #/</p>
-          <p>«Ne partez pas, restez. Que voulez-vous que je fasse de cette fortune? Je ne pourrais l'employer qu'à faire un peu de bien; vous vous en acquitterez mieux que moi, avec plus de grâce, d'une façon plus agréable à Dieu. Seulement je vous prie de me mettre par la pensée pour moitié dans tous vos bienfaits; ça me portera bonheur. Ne vous souciez pas de ma destinée; je suis loin d'être sans ressources. Il me reste mon grade, mes épaulettes et mon épée. Je reprendrai du service; ce n'est plus le même drapeau, mais c'est encore et toujours la France. Adieu, Mademoiselle. Je vous aime et vous vénère. Je vous en veux pourtant un peu d'avoir pensé à m'embarrasser d'un million; mais je vous pardonne et vous bénis parce que vous avez aimé mon vieux père.</p>
-          <p>/# «BERNARD.» #/</p>
+            <p>/# «Mademoiselle, #/</p>
+            <p>«Ne partez pas, restez. Que voulez-vous que je fasse de cette fortune? Je ne pourrais l'employer qu'à faire un peu de bien; vous vous en acquitterez mieux que moi, avec plus de grâce, d'une façon plus agréable à Dieu. Seulement je vous prie de me mettre par la pensée pour moitié dans tous vos bienfaits; ça me portera bonheur. Ne vous souciez pas de ma destinée; je suis loin d'être sans ressources. Il me reste mon grade, mes épaulettes et mon épée. Je reprendrai du service; ce n'est plus le même drapeau, mais c'est encore et toujours la France. Adieu, Mademoiselle. Je vous aime et vous vénère. Je vous en veux pourtant un peu d'avoir pensé à m'embarrasser d'un million; mais je vous pardonne et vous bénis parce que vous avez aimé mon vieux père.</p>
+            <p>/# «BERNARD.» #/</p>
           </quote>
           <p>Sous le même pli se trouvait un testament olographe ainsi conçu:</p>
           <p>«Je donne et lègue à mademoiselle Hélène de La Seiglière tout ce que je possède ici-bas en légitime propriété.»</p>

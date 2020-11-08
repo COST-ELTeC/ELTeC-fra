@@ -10,6 +10,10 @@
         <title ref="viaf:312338810 wikidata:Q3211818">La porteuse de pain : édition ELTeC</title>
         <author xml:id="Montepin" ref="viaf:87953024 wikidata:Q2735316">de Montépin, Xavier (1839-1915)</author>
         <respStmt>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
           <resp>Encoding</resp>
           <name>Christof Schöch</name>
         </respStmt>
@@ -23,7 +27,14 @@
         <measure unit="words">145892</measure>
       </extent>
       <publicationStmt>
-        <p>à fournir</p>
+        <publisher ref="https://distant-reading. net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo. org/communities/eltec/">Zenodo. org</distributor>
+        <date when="2020-04-21" />
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -3013,8 +3024,8 @@
           <milestone unit="section" type="asterisk" />
           <p>Cinq jours après, Paul Harmant recevait ce mot :</p>
           <quote type="letter">
-          <p>« Cher cousin,</p>
-          <p>« J'ai découvert un gîte, avenue de Clichy, numéro 192, aux Batignolles. Je compte avoir à bref délai le plaisir de t'y recevoir. Tu me préviendras la veille et je ferai venir le déjeuner du Restaurant du père Latuile. »</p>
+            <p>« Cher cousin,</p>
+            <p>« J'ai découvert un gîte, avenue de Clichy, numéro 192, aux Batignolles. Je compte avoir à bref délai le plaisir de t'y recevoir. Tu me préviendras la veille et je ferai venir le déjeuner du Restaurant du père Latuile. »</p>
           </quote>
           <p>Paul Harmant reçut la lettre et la brûla après avoir gravé l'adresse dans sa mémoire. Pour échapper aux idées sombres qui l'obsédaient, l'industriel quittait dès le matin l'hôtel de la rue Murillo où Mary s'ennuyait.</p>
           <p>Mary avait revu une seule fois Lucien et s'était montrée charmante pour lui ; si charmante que le fiancé de Lucie évitait de se rencontrer avec la fille du millionnaire.</p>

@@ -9,13 +9,28 @@
       <titleStmt>
         <title ref="viaf:missing wikidata:Q17360873">La petite Comtesse : édition ELTeC</title>
         <author xml:id="Feuillet" ref="viaf:68928998 wikidata:Q1091989">Feuillet, Octave (1821-1890)</author>
+        <respStmt>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
       </titleStmt>
       <extent>
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">31143</measure>
       </extent>
       <publicationStmt>
-        <p>à fournir</p>
+        <publisher ref="https://distant-reading. net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo. org/communities/eltec/">Zenodo. org</distributor>
+        <date when="2020-04-21" />
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -48,12 +63,11 @@
       <langUsage>
         <language ident="fr">French</language>
       </langUsage>
-<textClass>
-  <keywords>
-    <term type="narrative-perspective">autodiegetic</term>
-  </keywords>
-</textClass>
-
+      <textClass>
+        <keywords>
+          <term type="narrative-perspective">autodiegetic</term>
+        </keywords>
+      </textClass>
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short" />
@@ -554,9 +568,9 @@
         <p>— Vous ne pouvez rester là !… Venez !… – J'ai vu qu'elle était hors d'état de se soutenir. – Ah ! Dieu bon ! Dieu puissant ! que faire ?… Qu'allez-vous devenir maintenant ? Que voulez-vous de moi ?…</p>
         <p>Elle n'a pas répondu. Elle tremblait, et ses dents se heurtaient. Je l'ai enlevée dans mes bras et je l'ai emportée. On réfléchit vite dans de tels instants. Aucun moyen imaginable pour la faire sortir de cette vallée, où les voitures ne peuvent pénétrer. Rien n'était désormais possible pour sauver son honneur ; il ne fallait plus songer qu'à la vie. J'ai gravi rapidement les degrés de ma cellule, et je l'ai déposée dans un fauteuil près du foyer, que j'ai rallumé à la hâte ; puis j'ai réveillé mes hôtes. J'ai donné à la meunière une explication vague et confuse. Je ne sais ce qu'elle en a compris, mais c'est une femme, elle a eu pitié. Elle a rendu à madame de Palme les premiers soins. Son mari est parti aussitôt à cheval, portant à la marquise de Malouet ce billet de ma main :</p>
         <quote type="letter">
-        <p>« Madame,</p>
-        <p>« Elle est ici, mourante. Au nom du Dieu de miséricorde, je vous invoque, je vous conjure… Venez consoler, venez bénir celle qui ne peut plus attendre que de vous en ce monde des paroles de bonté et de pardon.</p>
-        <p>« Veuillez dire à madame de Pontbrian ce que vous jugerez nécessaire. »</p>
+          <p>« Madame,</p>
+          <p>« Elle est ici, mourante. Au nom du Dieu de miséricorde, je vous invoque, je vous conjure… Venez consoler, venez bénir celle qui ne peut plus attendre que de vous en ce monde des paroles de bonté et de pardon.</p>
+          <p>« Veuillez dire à madame de Pontbrian ce que vous jugerez nécessaire. »</p>
         </quote>
         <p>Elle me demandait. Je suis retourné près d'elle. Je l'ai trouvée encore assise devant le feu. Elle n'avait pas voulu se laisser mettre dans le lit qu'on lui avait préparé. En m'apercevant, – singulière préoccupation de femme ! – sa première pensée a été pour le costume de paysanne contre lequel elle venait d'échanger ses vêtements imprégnés d'eau et souillés de boue.</p>
         <p>Elle s'est mise à rire en me le montrant ; mais son rire s'est tourné presque aussitôt en convulsions que j'ai eu de la peine à calmer.</p>

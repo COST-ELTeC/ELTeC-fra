@@ -9,13 +9,28 @@
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">L'autre vue : édition ELTeC</title>
         <author xml:id="Eekhoud" ref="viaf:19677089 wikidata:Q728405">Eekhoud, Georges (1854-1927)</author>
+        <respStmt>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
       </titleStmt>
       <extent>
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">48550</measure>
       </extent>
       <publicationStmt>
-        <p>à fournir</p>
+        <publisher ref="https://distant-reading. net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo. org/communities/eltec/">Zenodo. org</distributor>
+        <date when="2020-04-21" />
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -86,11 +101,16 @@
 
         <head> L'HONORABLE DEPUTE BERGMANS PRESENTE CE PAUVRE LAURENT PARIDAEL </head>
         <quote type="epigraph">
-          <p><foreign xml:lang="deu">Hast du die gute Gesellschaft gesehen ?</foreign></p>
-          <p><foreign xml:lang="deu">Gute Gesellschaft habe ich gesehen ; man nennt sie die gute Weil sie zum kleinsten Gedicht keine Gelegenheit gibt.</foreign></p>
+          <p>
+            <foreign xml:lang="deu">Hast du die gute Gesellschaft gesehen ?</foreign>
+          </p>
+          <p>
+            <foreign xml:lang="deu">Gute Gesellschaft habe ich gesehen ; man nennt sie die gute Weil sie zum kleinsten Gedicht keine Gelegenheit gibt.</foreign>
+          </p>
           <p>Gœthe (Venetianische Epigramme)</p>
         </quote>
-        <p>Les papiers publics se sont beaucoup occupés d'une affaire mystérieuse : celle de ce jeune fossoyeur condamné à six mois de prison pour violation de sépulture et emporté depuis par une fièvre cérébrale. Ils ont mis en cause, son nom ayant été mêlé aux débats judiciaires, feu M. Laurent Paridael, cousin de Régina Dobouziez, ma femme, laquelle avait épousé en premières noces M. Freddy Béjard qui périt si misérablement avec la plupart de ses ouvriers dans l'explosion de sa cartoucherie <ref target="#FRA05101_N1" />. Notre parent Laurent Paridael fut aussi relevé pour mort sur le terrain de la catastrophe. Plût à Dieu qu'il n'en eût pas réchappé. Il n'aurait plus traîné alors une vie déclassée, il se serait épargné de mourir plus piteusement encore par un suicide, après force excentricités. Son honorable famille n'eut point subi l'humiliation de voir son nom accolé à celui d'un malfaiteur et sa mémoire exposée aux commentaires d'une presse friande de scandales.</p>
+        <p>Les papiers publics se sont beaucoup occupés d'une affaire mystérieuse : celle de ce jeune fossoyeur condamné à six mois de prison pour violation de sépulture et emporté depuis par une fièvre cérébrale. Ils ont mis en cause, son nom ayant été mêlé aux débats judiciaires, feu M. Laurent Paridael, cousin de Régina Dobouziez, ma femme, laquelle avait épousé en premières noces M. Freddy Béjard qui périt si misérablement avec la plupart de ses ouvriers dans l'explosion de sa cartoucherie
+          <ref target="#FRA05101_N1" />. Notre parent Laurent Paridael fut aussi relevé pour mort sur le terrain de la catastrophe. Plût à Dieu qu'il n'en eût pas réchappé. Il n'aurait plus traîné alors une vie déclassée, il se serait épargné de mourir plus piteusement encore par un suicide, après force excentricités. Son honorable famille n'eut point subi l'humiliation de voir son nom accolé à celui d'un malfaiteur et sa mémoire exposée aux commentaires d'une presse friande de scandales.</p>
         <p>Sans doute, il me répugne de remuer ces souvenirs, mais il a circulé tant de racontars sur le caractère et la conduite de notre infortuné parent que j'ai jugé indispensable de rectifier les faits.</p>
         <p>Ce fut un personnage déconcertant, qui porta un défi aux convenances, mais il s'était fait une idée spéciale de l'humanité et de la nature, et en tenant compte de cette vision particulière, on reconnaîtra qu'il apporta certaine logique dans ses écarts et qu'il concilia ceux-ci avec une générosité chevaleresque ressemblant à une manière d'apostolat.</p>
         <p>Je l'ai intimement pratiqué, surtout avant mon mariage avec sa cousine M<hi>me</hi> veuve Béjard. Nos bons rapports subsistèrent jusqu'à ce que ses anomalies fussent devenues si flagrantes que sans rompre avec lui, je me vis forcé, par égard pour mon rang et mes relations, de ne plus m'afficher en sa compagnie.</p>

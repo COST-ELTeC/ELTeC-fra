@@ -10,24 +10,17 @@
         <title ref="viaf:missing wikidata:Q19212715">Les Princesses d'Amour : courtisanes japonaises : édition ELTeC</title>
         <author xml:id="GautierJ" ref="viaf:54148064 wikidata:Q2523100">Gautier, Judith (1845-1917)</author>
         <respStmt>
-          <resp>encoded by</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Pia Geißel</name>
         </respStmt>
         <respStmt>
           <resp>Original data capture</resp>
           <name> Wikisource <ref>http://fr.wikisource.org</ref>
           </name>
-          <name>Shaihulud</name>
-          <name>Hsarrazin</name>
-          <name>Joele.godard</name>
-          <name>Sapcal22</name>
-          <name>Figoblog</name>
-          <name>Le ciel est par dessus le toit</name>
-          <name>Acélan</name>
-          <name>JLTB34</name>
-          <name>Reptilien.19831209BE1</name>
-          <name>Aristoi</name>
-          <name>92.135.8.59</name>
         </respStmt>
       </titleStmt>
       <extent>
@@ -40,11 +33,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          First ElTeC edition
-          2019-09-29
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

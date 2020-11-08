@@ -10,7 +10,7 @@
         <title ref="viaf:missing wikidata:missing">Le Captain Cap : édition ELTeC</title>
         <author xml:id="Allais" ref="viaf:302147306 wikidata:missing">Allais, Alphone (1829-1871)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -25,7 +25,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />       <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
+
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

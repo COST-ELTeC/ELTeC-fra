@@ -10,7 +10,11 @@
         <title ref="viaf:186540937 wikidata:Q1570068">Sans famille : édition ELTeC</title>
         <author xml:id="Malot" ref="viaf:49228546 wikidata:Q315003">Malot, Hector (1830-1907)</author>
         <respStmt>
-          <resp>principal</resp>
+          <resp>Principal investigator</resp>
+          <name>Christof Schöch</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
           <name>Christof Schöch</name>
         </respStmt>
       </titleStmt>
@@ -24,11 +28,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" />
-        <!--
-          Published as part of ELTeC
-          2018-11-01
-        -->
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -1875,18 +1876,18 @@
           <p>J'aurais joué pour elle toute la journée avec plaisir ; mais son père dit que c'était assez, parce qu'il ne voulait pas qu'elle se fatiguât à tourner.</p>
           <p>Alors, au lieu de jouer un air de valse ou de danse, je chantai ma chanson napolitaine que Vitalis m'avait apprise :</p>
           <quote type="song">
-          <p>
-            <hi>Fenesta vascia e patrona crudele,</hi>
-          </p>
-          <p>
-            <hi>Quanta sospire m'aje fatto jettare.</hi>
-          </p>
-          <p>
-            <hi>M'arde stocore comm'a na cannela</hi>
-          </p>
-          <p>
-            <hi>Bella quanno te sento anno menarre.</hi>
-          </p>
+            <p>
+              <hi>Fenesta vascia e patrona crudele,</hi>
+            </p>
+            <p>
+              <hi>Quanta sospire m'aje fatto jettare.</hi>
+            </p>
+            <p>
+              <hi>M'arde stocore comm'a na cannela</hi>
+            </p>
+            <p>
+              <hi>Bella quanno te sento anno menarre.</hi>
+            </p>
           </quote>
           <p>Aux premières mesures, Lise vint se placer en face de moi, ses yeux fixés sur les miens, remuant les lèvres comme si mentalement elle répétait mes paroles, puis, quand l'accent de la chanson devint plus triste, elle recula doucement de quelques pas, si bien qu'à la dernière strophe elle se jeta en pleurant sur les genoux de son père.</p>
           <p>« Assez, dit celui-ci.</p>
@@ -1960,9 +1961,9 @@
           <p>Pour être vrai, il faut dire que tout ne nous était pas travail et fatigue ; nous avions aussi nos heures de repos et de plaisir, courtes, bien entendu, mais précisément par cela même plus délicieuses.</p>
           <p>Le dimanche, dans l'après-midi, on se réunissait sous un petit berceau de vignes qui touchait la maison ; j'allais prendre ma harpe au clou où elle restait accrochée pendant toute la semaine, et je faisais danser les deux frères et les deux sœurs. Quand ils étaient las de danser, ils me faisaient chanter mon répertoire, et ma chanson napolitaine produisait toujours son irrésistible effet sur Lise :</p>
           <quote type="letter">
-          <p>
-            <hi>Fenesta vascia e patrona crudele.</hi>
-          </p>
+            <p>
+              <hi>Fenesta vascia e patrona crudele.</hi>
+            </p>
           </quote>
           <p>Jamais je n'ai chanté la dernière strophe sans voir ses yeux mouillés.</p>
           <p>Alors, pour la distraire, je jouais une pièce bouffonne avec Capi. Pour lui aussi ces dimanches étaient des jours de fête ; ils lui rappelaient le passé, et, quand il avait fini son rôle, il l'eût volontiers recommencé.</p>
@@ -2236,9 +2237,9 @@
           <p>On n'est pas artiste sans avoir un peu d'amour-propre ; je voulus montrer à Mattia que, moi aussi, j'étais musicien.</p>
           <p>Je pris ma harpe et tout de suite, pour frapper un grand coup, je lui chantai ma fameuse chanson :</p>
           <quote type="song">
-          <p>
-            <hi>Fenesta vascia e patrona crudele...</hi>
-          </p>
+            <p>
+              <hi>Fenesta vascia e patrona crudele...</hi>
+            </p>
           </quote>
           <p>Et alors, comme cela se devait entre artistes, Mattia me paya les compliments que je venais de lui adresser par ses applaudissements ; il avait un grand talent, j'avais un grand talent, nous étions dignes l'un de l'autre.</p>
           <p>Mais nous ne pouvions pas rester ainsi à nous féliciter l'un l'autre ; il fallait, après avoir fait de la musique pour nous, pour notre plaisir, en faire pour notre souper et pour notre coucher.</p>
@@ -3404,10 +3405,10 @@
           <p>« Vite, vite, s'écria Mattia, lisons la lettre de Barberin. »</p>
           <p>Ce fut la main tremblante et le cœur serré que j'ouvris cette lettre :</p>
           <quote type="letter">
-          <p>« Ma chère femme,</p>
-          <p>« Je suis à l'hôpital, si malade que je crois que je ne me relèverai pas. Si j'en avais la force, je te dirais comment le mal m'est arrivé ; mais ça ne servirait à rien ; il vaut mieux aller au plus pressé. C'est donc pour te dire que, si je n'en réchappe pas, tu devras écrire à Greth and Galley, Greensquare, Lincoln's-Inn, à Londres ; ce sont des gens de loi chargés de retrouver Rémi. Tu leur diras que seule tu peux leur donner des nouvelles de l'enfant, et tu auras soin de te faire bien payer ces nouvelles ; il faut que cet argent te fasse vivre heureuse dans ta vieillesse. Tu sauras ce que Rémi est devenu en écrivant à un nommé Acquin, ancien jardinier, maintenant détenu à la prison de Clichy à Paris. Fais écrire toutes tes lettres par M. le curé, car dans cette affaire il ne faut se fier à personne. N'entreprends rien avant de savoir si je suis mort.</p>
-          <p>« Je t'embrasse une dernière fois.</p>
-          <p>« BARBERIN. »</p>
+            <p>« Ma chère femme,</p>
+            <p>« Je suis à l'hôpital, si malade que je crois que je ne me relèverai pas. Si j'en avais la force, je te dirais comment le mal m'est arrivé ; mais ça ne servirait à rien ; il vaut mieux aller au plus pressé. C'est donc pour te dire que, si je n'en réchappe pas, tu devras écrire à Greth and Galley, Greensquare, Lincoln's-Inn, à Londres ; ce sont des gens de loi chargés de retrouver Rémi. Tu leur diras que seule tu peux leur donner des nouvelles de l'enfant, et tu auras soin de te faire bien payer ces nouvelles ; il faut que cet argent te fasse vivre heureuse dans ta vieillesse. Tu sauras ce que Rémi est devenu en écrivant à un nommé Acquin, ancien jardinier, maintenant détenu à la prison de Clichy à Paris. Fais écrire toutes tes lettres par M. le curé, car dans cette affaire il ne faut se fier à personne. N'entreprends rien avant de savoir si je suis mort.</p>
+            <p>« Je t'embrasse une dernière fois.</p>
+            <p>« BARBERIN. »</p>
           </quote>
           <p>Je n'avais pas lu le dernier mot de cette lettre que Mattia se leva en faisant un saut.</p>
           <p>« En avant pour Londres ! » cria-t-il.</p>
@@ -4042,8 +4043,12 @@
           <p>Le mieux est de chercher et de visiter nous-mêmes toutes les maisons où peuvent loger les étrangers ; en réalité cela n'est pas bien difficile, nous n'avons qu'à jouer notre répertoire dans toutes les rues.</p>
           <p>Un après-midi, nous donnions ainsi un concert en pleine rue, n'ayant devant nous qu'une grille pour laquelle nous chantions, et derrière nous qu'un mur dont nous ne prenions pas souci. J'avais chanté à tue-tête la première strophe de ma chanson napolitaine et j'allais commencer la seconde, quand tout à coup nous entendîmes derrière nous, au-delà de ce mur, un cri ; puis on chanta cette seconde strophe, faiblement et avec une voix étrange :</p>
           <quote type="song">
-            <l><foreign rend="italic" xml:lang="ita">Vorria arreventare no piccinotto,</foreign></l>
-            <l><foreign>Cona lancella oghi vennenno acqua.</foreign></l>
+            <l>
+              <foreign rend="italic" xml:lang="ita">Vorria arreventare no piccinotto,</foreign>
+            </l>
+            <l>
+              <foreign>Cona lancella oghi vennenno acqua.</foreign>
+            </l>
           </quote>
           <p>Quelle pouvait être cette voix ?</p>
           <p>« Arthur ? » demanda Mattia.</p>
@@ -4126,8 +4131,8 @@
           <p>« Vous aurez prochainement à Londres la visite de Mattia ; malgré le succès prodigieux qui a accueilli la série de ses concerts ici, il nous quitte, appelé en Angleterre par des engagements auxquels il ne peut manquer. Je vous ai déjà parlé de ces concerts ; ils ont produit la plus vive sensation autant par la puissance et par l'originalité du virtuose que par le talent du compositeur ; pour tout dire, en un mot, Mattia est le Chopin du violon. »</p>
           <p>À ce moment, un domestique me remet une dépêche télégraphique qu'on vient d'apporter :</p>
           <quote type="letter">
-          <p>« C'est peut-être la traversée la plus courte, mais ce n'est pas la plus agréable ; en est-il d'agréable, d'ailleurs ? Quoi qu'il en soit, j'ai été si malade que c'est à Red-Hill seulement que je trouve la force de te prévenir ; j'ai pris Cristina en passant à Paris ; nous arriverons à Chegford à quatre heures dix minutes, envoie une voiture au-devant de nous.</p>
-          <p>« Mattia. »</p>
+            <p>« C'est peut-être la traversée la plus courte, mais ce n'est pas la plus agréable ; en est-il d'agréable, d'ailleurs ? Quoi qu'il en soit, j'ai été si malade que c'est à Red-Hill seulement que je trouve la force de te prévenir ; j'ai pris Cristina en passant à Paris ; nous arriverons à Chegford à quatre heures dix minutes, envoie une voiture au-devant de nous.</p>
+            <p>« Mattia. »</p>
           </quote>
           <p>En parlant de Cristina, j'avais regardé Arthur, mais il avait détourné les yeux ; ce fut seulement quand je fus arrivé à la fin de la dépêche qu'il les releva.</p>
           <p>« J'ai envie d'aller moi-même à Chegford, dit-il, je vais faire atteler le landau.</p>
