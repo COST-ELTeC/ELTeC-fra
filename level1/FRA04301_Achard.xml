@@ -31,8 +31,8 @@
         <availability>
           <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -40,14 +40,18 @@
           <ref target="http://www.bibebook.com/ebook/libre/amedee_achard-belle-rose.epub">http://www.bibebook.com/ebook/libre/amedee_achard-belle-rose.epub</ref>
         </bibl>
         <bibl type="printSource">
-          <author>Achard, Amédée (1814-1875)</author>
+          <author>Amédée Achard</author>
           <title>Belle-Rose</title>
           <publisher>Calmann-Levy</publisher>
           <date>1847</date>
-          <ref target="ark:/12148/bpt6k203192c" />
         </bibl>
         <bibl type="firstEdition">
+          <author>Amédée Achard</author>
+          <title>Belle-Rose</title>
+          <publisher>Calmann-Levy</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1847</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k203192c"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

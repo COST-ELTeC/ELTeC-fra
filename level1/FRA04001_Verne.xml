@@ -29,8 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -41,7 +41,12 @@
         <bibl type="printSource">
         </bibl>
         <bibl type="firstEdition">
+          <title>Un capitaine de quinze ans</title>
+          <author>Jules Verne</author>
+          <publisher>J. Hetzel, DL</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1878</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6541873g"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

@@ -29,8 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,7 +43,12 @@
           <date>2005</date>
         </bibl>
         <bibl type="firstEdition">
+          <title>Nanon</title>
+          <author>George Sand</author>
+          <publisher>Michel-Lévy frères</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1872</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k133656k"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

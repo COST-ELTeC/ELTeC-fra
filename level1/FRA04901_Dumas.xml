@@ -30,8 +30,8 @@
         <availability>
           <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -39,9 +39,12 @@
           <ref target="https://www.atramenta.net" />
         </bibl>
         <bibl type="printSource">
-          <author>Dumas, Alexandre [pere] (1802-1870)</author>
-          <title>La Reine Margot - Tome I</title>
+          <title>La reine Margot. Tome 1</title>
+          <author>Alexandre Dumas</author>
+          <publisher>Garnier Freres</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1845</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6138403c"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1845</date>

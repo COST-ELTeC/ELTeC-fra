@@ -29,8 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -38,9 +38,12 @@
           <ref target="http://www.bibebook.com/search/978-2-8247-1249-9">http://www.bibebook.com/search/978-2-8247-1249-9</ref>
         </bibl>
         <bibl type="printSource">
-          <author>Bazin, René (1853-1932)</author>
           <title>Le blé qui lève</title>
-          <date>1907</date>
+          <author>René Bazin</author>
+          <publisher>Calmann-Lévy</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1911</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k97700844"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1907</date>

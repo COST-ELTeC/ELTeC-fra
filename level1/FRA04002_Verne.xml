@@ -29,8 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -40,6 +40,12 @@
         </bibl>
         <bibl type="printSource">
           <!-- Texte écrit par Jules Verne en 1898, version modifiée par Michel Verne, publiée en 1910. -->
+          <title>Le secret de Wilhelm Storitz</title>
+          <author>Jules Verne</author>
+          <publisher>Collection Hetzel</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1910</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k56063663"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1898</date>

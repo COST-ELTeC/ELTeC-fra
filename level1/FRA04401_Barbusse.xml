@@ -27,8 +27,8 @@
         <availability>
           <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435" n="ELTeC umbrella collection concept DOI" />
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535" n="ELTeC-fra concept DOI" />
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -36,12 +36,17 @@
           <ref target="#unknownSource">#unknownSource</ref>
         </bibl>
         <bibl type="printSource">
-          <author>Barbusse, Henri (1873-1935)</author>
+          <author>Henri Barbusse</author>
           <title>Le Feu</title>
           <date>1916</date>
         </bibl>
         <bibl type="firstEdition">
+          <author>Henri Barbusse</author>
+          <title>Le Feu</title>
+          <publisher>journal d'une escouade</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1916</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k990598p"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
