@@ -29,8 +29,8 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/" />
         </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>       <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
-
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -770,16 +770,14 @@
         <p>– Ma fortune me coûte cher, disait-il au jeune Chavoncourt. Pour bien connaître une dévote, il faut malheureusement l'épouser !</p>
         <p>Mademoiselle de Watteville se conduit en fille vraiment extraordinaire. On disait d'elle : — <hi>Elle a des lubies !</hi> Elle va tous les ans voir les murailles de la Grande-Chartreuse. Peut-être voulait-elle imiter son grand-oncle en franchissant l'enceinte de ce couvent pour y chercher son mari, comme Watteville franchit les murs de son monastère pour recouvrer la liberté. </p>
         <p>En 1841, elle quitta Besançon dans l'intention, disait-on, de se marier ; mais, on ne sait pas encore la véritable cause de ce voyage d'où elle est revenue dans un état qui lui interdit de jamais reparaître dans le monde. Par un de ces hasards auxquels le vieil abbé de Grancey avait fait allusion, elle se trouva sur la Loire dans le bateau à vapeur dont la chaudière fit explosion. Mademoiselle de Watteville fut si cruellement maltraitée qu'elle a perdu le bras et la jambe gauche ; son visage porte d'affreuses cicatrices qui la privent de sa beauté ; sa santé soumise à des troubles horribles lui laisse peu de jours sans souffrance. Enfin, elle ne sort plus aujourd'hui de la Chartreuse des Rouxey où elle mène une vie entièrement vouée à des pratiques religieuses.</p>
+        <trailer>Paris, mai 1842.</trailer>
       </div>
     </body>
     <back>
       <div type="notes">
-        <note xml:id="N1">Nous n'ignorons pas que le culte de sainte Philomène n'a commencé qu'après la Révolution de 1830 en Italie. Cet anachronisme, à propos du nom de mademoiselle de Wateville, nous a paru sans importance ; mais il a été si remarqué par des personnes qui voudraient une entière exactitude dans cette histoire de mœurs, que l'auteur changera ce détail aussitôt que faire se pourra.</note>
+        <!-- This notes does not seem to have an anchor, neither in the digitalSource nor in the firstEdition. -->
+        <note>Nous n'ignorons pas que le culte de sainte Philomène n'a commencé qu'après la Révolution de 1830 en Italie. Cet anachronisme, à propos du nom de mademoiselle de Watteville, nous a paru sans importance ; mais il a été si remarqué par des personnes qui voudraient une entière exactitude dans cette histoire de mœurs, que l'auteur changera ce détail aussitôt que faire se pourra.</note>
       </div>
-      <div type="liminal">
-        <p>Paris, mai 1842.</p>
-      </div>
-      <!-- Not sure why this is here. <div> <ref target="#N1"></ref> </div> -->
     </back>
   </text>
 </TEI>

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA04202" xml:lang="fr">
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA04202" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -265,7 +263,7 @@
           <p>Quelle surabondance de force, de joie, d'orgueil, en ce petit être ! Quel trop-plein d'énergie ! Son corps et son esprit sont toujours en mouvement, emportés dans une ronde qui tourne à perdre haleine. Comme une petite salamandre, il danse jour et nuit dans la flamme. Un enthousiasme que rien ne lasse, et que tout alimente. Un rêve délirant, une source jaillissante, un trésor d'inépuisable espoir, un rire, un chant, une ivresse perpétuelle. La vie ne le tient pas encore ; à tout instant, il s'en échappe : il nage dans l'infini. Qu'il est heureux ! qu'il est fait pour être heureux ! Rien en lui qui ne croie au bonheur, qui n'y tende de toutes ses petites forces passionnées ! ...</p>
           <p>La vie se chargera vite de le mettre à la raison.</p>
         </div>
-        <div>
+        <div type="chapter">
 
           <head>II.</head>
           <quote type="verse">
@@ -444,7 +442,7 @@
           <p>Maintenant, tout s'efface, toute forme s'est fondue... Une dernière fois encore, à travers un voile de brume, apparaît, comme si l'on planait très haut, au-dessus de lui, le fleuve débordé, couvrant les champs, roulant auguste, lent, presque immobile. Et tout à fait au loin, comme une lueur d'acier au bord de l'horizon, une plaine liquide, une ligne de flots qui tremblent, -- la Mer. Le fleuve court à elle. Elle semble courir à lui. Elle l'aspire. Il la veut. Il va disparaître... La musique tournoie, les beaux rythmes de danse se balancent éperdus ; tout est balayé dans leur tourbillon triomphal... l'âme libre fend l'espace, comme le vol des hirondelles, ivres d'air, qui traversent le ciel avec des cris aigus... Joie ! Joie ! Il n'y a plus rien !... Ô bonheur infini !...</p>
           <p>Les heures avaient passé, le soir était venu, l'escalier était dans la nuit. Des gouttes de pluie faisaient sur la robe du fleuve des cercles, que le courant entraînait en dansant. Parfois une branche d'arbre, quelques écorces noires passaient sans bruit et s'en allaient. L'araignée meurtrière s'était retirée, repue, dans le coin le plus obscur. -- Et le petit Christophe était toujours penché sur le coin du soupirail, avec sa figure pâle, barbouillée, rayonnante de bonheur. Il dormait.</p>
         </div>
-        <div>
+        <div type="chapter">
 
           <head>III.</head>
           <p>E la faccia del sol nascere ombrata.</p>
@@ -863,7 +861,7 @@
           <p>Il est à son vieux piano, dans sa mansarde, seul. La nuit tombe. La lueur mourante du jour glisse sur le cahier de musique. Il se brise les yeux à lire, jusqu'à la dernière goutte de lumière. La tendresse des grands cœurs éteints, qui s'exhale de ces pages muettes, le pénètre amoureusement. Ses yeux se remplissent de larmes. Il lui semble qu'un être cher se tient derrière lui, qu'une haleine caresse sa joue, que deux bras vont enlacer son cou. Il se retourne, frissonnant. Il sent, il sait qu'il n'est pas seul. Une âme aimante, aimée, est là, auprès de lui. Il gémit de ne pouvoir la prendre. Et pourtant, cette ombre d'amertume, mêlée à son extase, a encore une douceur secrète. La tristesse même est lumineuse. Il pense à ses maîtres chéris, les génies disparus, dont l'âme revit dans ces musiques. Le cœur gonflé d'amour, il songe au bonheur surhumain, qui dut être la part de ces glorieux amis, puisqu'un reflet de leur bonheur est encore si brûlant. Il rêve d'être comme eux, de rayonner cet amour, dont quelques rayons perdus illuminent sa misère d'un sourire divin. Être dieu à son tour, être un foyer de joie, être un soleil de vie !...</p>
           <p>Hélas ! S'il devient un jour l'égal de ceux qu'il aime, s'il atteint à ce bonheur lumineux qu'il envie, il verra son illusion...</p>
         </div>
-        <div>
+        <div type="chapter">
 
           <head>II. -- Otto.</head>
           <p>Un dimanche que Christophe avait été invité par son Musikdirektor à venir dîner dans la petite maison de campagne, que Tobias Pfeiffer possédait à une heure de la ville, il prit le bateau du Rhin. Sur le pont, il s'assit auprès d'un jeune garçon de son âge, qui lui fit place avec empressement. Christophe n'y prêta aucune attention. Mais au bout d'un moment, sentant que son voisin ne cessait de l'observer, il le dévisagea. C'était un blondin aux joues roses et rebondies, avec une raie bien sage sur le côté de la tête et une ombre de duvet à la lèvre ; il avait la mine candide d'un grand poupon, malgré les efforts qu'il faisait pour paraître un gentleman ; il était mis avec un soin prétentieux : costume de flanelle, gants clairs, escarpins blancs, nœud de cravate bleu pâle ; et il tenait à la main une petite badine. Il regardait Christophe du coin de l'œil, sans tourner la tête, le cou raide, comme une poule ; et quand Christophe le regarda à son tour, il rougit jusqu'aux oreilles, tira un journal de sa poche, et feignit de s'y absorber, d'un air important. Mais quelques minutes après, il se précipita pour ramasser le chapeau de Christophe, qui était tombé. Christophe, surpris par tant de politesse, regarda de nouveau le jeune garçon, qui de nouveau rougit ; il remercia sèchement : car il n'aimait pas cet empressement obséquieux, et il détestait qu'on s'occupât de lui. Toutefois, il ne laissait pas d'en être flatté.</p>
@@ -1007,7 +1005,7 @@
           <p>Sans se donner le mot, ils se virent moins souvent. Ils essayèrent de s'écrire ; mais ils surveillaient toutes leurs expressions. Leurs lettres devinrent froides et insipides. Ils se découragèrent. Christophe prétexta son travail, Otto ses occupations, pour cesser leur correspondance. Bientôt après, Otto partit pour l'Université ; et l'amitié qui avait illuminé quelques mois de leur vie, s'obscurcit tout à fait.</p>
           <p>Aussi bien, un nouvel amour, dont celui-ci n'était qu'un avant-coureur, s'emparait du cœur de Christophe, et y faisait pâlir toute autre lumière.</p>
         </div>
-        <div>
+        <div type="chapter">
 
           <head>III. -- Minna.</head>
           <p>Quatre ou cinq mois avant ces événements, madame Josepha von Kerich, veuve depuis peu du conseiller d'État, Stephan von Kerich, avait quitté Berlin, où les fonctions de son mari les retenaient jusqu'alors, pour venir s'installer avec sa fillette dans la petite ville rhénane, son pays d'origine. Elle avait là une vieille maison de famille, avec un grand jardin, presque un parc, qui descendait le long de la colline, jusqu'au fleuve, non loin de la maison de Christophe. De sa mansarde, Christophe voyait les branches lourdes des arbres qui pendaient hors des murs, et le haut faîte du toit rouge aux tuiles moussues. Une petite ruelle en pente, où l'on ne passait guère, longeait le parc, à droite ; on pouvait de là, en grimpant sur une borne, regarder par-dessus le mur : Christophe ne s'en faisait pas faute. Il voyait alors les allées envahies par l'herbe, les pelouses semblables à des prairies sauvages, les arbres se mêlant et luttant en désordre, et la façade blanche, aux volets obstinément clos. Une ou deux fois par an, un jardinier venait faire une ronde et aérer la maison. La nature reprenait ensuite possession du jardin, et tout rentrait dans le silence.</p>
@@ -1242,7 +1240,7 @@
         </div>
       </div>
       <div type="group" n="3: L'adolescent (1904)">
-        <div>
+        <div type="chapter">
 
           <head>I.</head>
           <p>LA MAISON EULER</p>
@@ -1424,7 +1422,7 @@
           <p>Elle fascina Christophe. Appuyé contre un hêtre, il la regardait s'avancer vers la lisière du bois. Elle ne s'occupait pas de lui. Un moment, elle leva son regard indifférent : il vit ses yeux bleu dur dans la face hâlée. Elle passa, si près, que quand elle se pencha pour ramasser des herbes, par la chemise entrebâillée il vit un duvet blond sur la nuque et l'échine. L'obscur désir qui le gonflait éclata tout d'un coup. Il se jeta sur elle, par derrière, l'empoigna par la taille, lui renversa la tête en arrière, lui enfonça dans la bouche entr'ouverte sa bouche. Il baisa les lèvres sèches et gercées, il se heurta aux dents qui le mordirent de colère. Ses mains couraient sur les bras rudes, sur la chemise trempée de sueur. Elle se débattit. Il serra plus étroitement, il eut envie de l'étrangler. Elle se dégagea, cria, cracha, s'essuya les lèvres avec sa main, et le couvrit d'injures. Il l'avait lâchée, et s'enfuyait à travers champs. Elle lui lança des pierres, et continuait de décharger sur lui une litanie d'appellations ordurières. Il rougissait, bien moins de ce qu'elle pouvait dire ou penser, que de ce qu'il pensait lui-même. L'inconscience subite de son acte le remplissait de terreur. Qu'avait-il fait ? Qu'allait-il faire ? Ce qu'il en pouvait comprendre ne lui inspirait que dégoût. Et il était tenté par ce dégoût. Il luttait contre lui-même, et il ne savait de quel côté était le vrai Christophe. Une force aveugle l'assaillait, il la fuyait en vain : c'était se fuir soi-même. Que ferait-elle de lui ? Que ferait-il demain... dans une heure... le temps de traverser en courant la terre labourée, d'arriver au chemin ?... Y arriverait-il seulement ? Ne s'arrêterait-il pas, pour revenir en arrière, et courir à cette fille ? Et alors ?... Il se souvenait de la seconde de délire, où il la tenait à la gorge. Tous les actes étaient possibles. Un crime même !... Oui, même un crime... Le tumulte de son cœur le faisait haleter. Arrivé au chemin, il s'arrêta pour respirer. La fille causait, là-bas, avec une autre fille attirée par ses cris ; et, les poings sur les hanches, elles le regardaient, en riant aux éclats.</p>
           <p>Il revint. Il s'enferma chez lui, plusieurs jours, sans bouger. Il ne sortait, même en ville, que quand il y était forcé. Il évitait peureusement toute occasion de passer les portes, de s'aventurer dans les champs : il craignait d'y retrouver le souffle de folie, qui s'était abattu sur lui, comme un coup de vent dans un calme d'orage. Il croyait que les murailles de la ville pourraient l'en préserver. Il ne pensait pas qu'il suffit, pour que l'ennemi se glisse, d'une fente imperceptible entre deux volets clos, de l'épaisseur d'un regard.</p>
         </div>
-        <div>
+        <div type="chapter">
 
           <head>II.</head>
           <p>SABINE</p>
@@ -1838,7 +1836,7 @@
           <p>Il lui dédia ces chants, il entreprit de faire revivre dans sa musique son amour et sa peine... Il avait beau faire : amour et peine revivaient bien ; mais la pauvre Sabine n'y trouvait pas son compte. Amour et peine regardaient vers l'avenir, et non vers le passé. Christophe ne pouvait rien contre sa jeunesse. La sève remontait en lui avec une impétuosité nouvelle. Son chagrin, ses regrets, son chaste et brûlant amour, ses désirs refoulés, exaspéraient sa fièvre. En dépit de son deuil, son cœur battait des rythmes allègres et violents ; des chants emportés bondissaient sur des mètres ivres : tout célébrait la vie, la tristesse même prenait un caractère de fête. Christophe était trop franc pour persister à se faire illusion ; et il se méprisait. Mais la vie l'emportait ; et triste, l'âme pleine de mort et le corps plein de vie, il s'abandonna à sa force renaissante, à la joie délirante et absurde de vivre, que la douleur, la pitié, le désespoir, la blessure déchirante d'une perte irréparable, tous les tourments de la mort, ne font qu'aiguillonner et aviver chez les forts, en labourant leurs flancs d'un éperon furieux.</p>
           <p>Christophe savait d'ailleurs qu'il gardait en lui, dans les retraites souterraines de l'âme, un asile inaccessible, inviolable, où l'ombre de Sabine était close. Le torrent de la vie ne saurait l'emporter. Chacun porte au fond de lui comme un petit cimetière de ceux qu'il a aimés. Ils y dorment, des années, sans que rien vienne les troubler. Mais un jour vient, -- on le sait, -- où la fosse se rouvre. Les morts sortent de leur tombe, et sourient de leurs lèvres décolorées -- aimantes, toujours -- à l'aimé, à l'amant, dans le sein duquel leur souvenir repose, comme l'enfant qui dort dans les entrailles maternelles.</p>
         </div>
-        <div>
+        <div type="chapter">
 
           <head>III.</head>
           <p>ADA</p>
@@ -2635,7 +2633,7 @@
           <p>-- Tout de même, il s'en est fallu de peu... Fais attention, je te prie. Tu vas nous faire pincer.</p>
           <p>-- Bah ! disait Mannheim. Nous avons encore de beaux jours... Et puis, je lui fais des amis.</p>
         </div>
-        <div>
+        <div type="chapter">
 
           <head>DEUXIÈME PARTIE</head>
           <p>L'ENLISEMENT</p>
@@ -3116,7 +3114,7 @@
           <p>Les Reinhart pleurèrent. -- Mais ce fut un soulagement pour eux, après qu'ils eurent rompu.</p>
           <p>La ville pouvait triompher. Cette fois, Christophe était bien seul. Elle lui avait volé jusqu'au dernier souffle d'air : -- l'affection, si humble soit-elle, sans laquelle aucun cœur ne peut vivre.</p>
         </div>
-        <div>
+        <div type="chapter">
 
           <head>TROISIÈME PARTIE</head>
           <p>LA DÉLIVRANCE</p>
@@ -3772,7 +3770,7 @@
         </div>
       </div>
       <div type="group" n="5: La foire sur la place (1908)">
-        <div>
+        <div type="chapter">
 
           <head>I.</head>
           <p>Le désordre dans l'ordre. Des employés de chemin de fer débraillés et familiers. Des voyageurs qui protestaient contre le règlement, tout en s'y soumettant. -- Christophe était en France.</p>
@@ -4229,7 +4227,7 @@
           <p>-- Eh bien, mon vieux, cherchez, dit Sylvain Kohn, en riant de plus belle.</p>
           <p>Christophe pouvait chercher. Ils l'avaient bien cachée.</p>
         </div>
-        <div>
+        <div type="chapter">
 
           <head>II.</head>
           <p>Une impression plus forte s'imposait à Christophe, à mesure qu'il voyait plus clair dans la cuve aux idées, où fermentait l'art parisien : la suprématie de la femme sur cette société cosmopolite. Elle y tenait une place absurde, démesurée. Il ne lui suffisait plus d'être la compagne de l'homme. Il ne lui suffisait même pas de devenir son égale. Il fallait que son plaisir fût la première loi pour l'homme. Et l'homme s'y prêtait. Quand un peuple vieillit, il abdique sa volonté, sa foi, toutes ses raisons de vivre, dans les mains de la dispensatrice de plaisir. Les hommes font les œuvres ; mais les femmes font les hommes, -- (quand elles ne se mêlent pas de faire aussi les œuvres, comme c'était le cas dans la France d'alors) ; -- et ce qu'elles font, il serait plus juste de dire qu'elles le défont. L'éternel féminin a toujours exercé sans doute une force exaltante sur les meilleurs ; mais pour le commun des hommes et pour les époques fatiguées, il y a, comme l'a dit quelqu'un, un autre féminin tout aussi éternel, qui les attire en bas. Cet autre, était le maître de la pensée, le roi de la République.</p>
@@ -5896,7 +5894,7 @@
         </div>
       </div>
       <div type="group" n="8: Les amies (1910)">
-        <div>
+        <div type="chapter">
           <p>En dépit du succès qui se dessinait hors de France, la situation matérielle des deux amis était lente à s'améliorer. Périodiquement revenaient des moments difficiles, où l'on était obligé de se serrer le ventre. On se dédommageait, en mangeant double ration, quand on avait de l'argent. Mais c'était, à la longue, un régime exténuant.</p>
           <p>Pour le moment, ils étaient dans la période des vaches maigres. Christophe avait passé la moitié de la nuit à achever un travail insipide de transcription musicale pour Hecht ; il ne s'était couché qu'à l'aube, et il dormait à poings fermés, afin de rattraper le temps perdu. Olivier était sorti de bonne heure : il avait un cours à faire, à l'autre bout de Paris. Vers huit heures, le concierge, qui montait les lettres, sonna. D'habitude, il n'insistait pas, et glissait les papiers sous la porte. Il continua de frapper, ce matin-là. Christophe, mal éveillé, alla ouvrir, en bougonnant ; il n'écouta point ce que le concierge, souriant et prolixe, lui disait, à propos d'un article de journal, il prit les lettres sans les regarder, poussa la porte sans la fermer, se recoucha, et se rendormit, de plus belle.</p>
           <p>Une heure après, il était de nouveau réveillé en sursaut par des pas dans sa chambre ; et il avait la stupéfaction de voir, au pied de son lit, une figure inconnue, qui le saluait gravement. Un journaliste, trouvant la porte ouverte, était entré sans façon. Christophe, furieux, sauta du lit :</p>
