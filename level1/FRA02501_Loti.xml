@@ -39,6 +39,9 @@
           <ref target="http://www.ebooksgratuits.com/" />
         </bibl>
         <bibl type="printSource">
+          <title>Mon frère Yves</title>
+          <author>Pierre Loti</author>
+          <!-- Edition that was used is unknown. -->
         </bibl>
         <bibl type="firstEdition">
           <title>Mon frère Yves</title>

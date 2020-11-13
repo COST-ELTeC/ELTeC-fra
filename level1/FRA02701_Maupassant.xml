@@ -39,8 +39,13 @@
           <ref target="https://www.ebooksgratuits.com/details.php?book=1289" />
         </bibl>
         <bibl type="printSource">
+          <title>Bel-Ami</title>
+          <author>Guy de Maupassant</author>
+          <!-- The exact edition that was used is unknwown. -->
         </bibl>
         <bibl type="firstEdition">
+          <title>Bel-Ami</title>
+          <author>Guy de Maupassant</author>
           <date>1885</date>
         </bibl>
       </sourceDesc>
