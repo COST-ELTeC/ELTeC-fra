@@ -40,14 +40,18 @@
           <ref target="http://www.bibebook.com/ebook/libre/amedee_achard-belle-rose.epub">http://www.bibebook.com/ebook/libre/amedee_achard-belle-rose.epub</ref>
         </bibl>
         <bibl type="printSource">
-          <author>Achard, Amédée (1814-1875)</author>
+          <author>Amédée Achard</author>
           <title>Belle-Rose</title>
           <publisher>Calmann-Levy</publisher>
           <date>1847</date>
-          <ref target="ark:/12148/bpt6k203192c" />
         </bibl>
         <bibl type="firstEdition">
+          <author>Amédée Achard</author>
+          <title>Belle-Rose</title>
+          <publisher>Calmann-Levy</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1847</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k203192c"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

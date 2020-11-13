@@ -38,10 +38,12 @@
           <ref target="http://fr.groups.yahoo.com/group/ebooksgratuits" />
         </bibl>
         <bibl type="printSource">
-          <author>Barrès, Maurice</author>
           <title>Colette Baudoche: histoire d'une jeune fille de Metz</title>
+          <author>Maurice Barrès</author>
+          <publisher>F. Juven</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1909</date>
-          <ref target="ark:/12148/bpt6k6267092r" />
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6267092r"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1908</date>

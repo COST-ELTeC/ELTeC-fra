@@ -38,9 +38,12 @@
           <ref target="http://www.bibebook.com/search/978-2-8247-1249-9">http://www.bibebook.com/search/978-2-8247-1249-9</ref>
         </bibl>
         <bibl type="printSource">
-          <author>Bazin, René (1853-1932)</author>
           <title>Le blé qui lève</title>
-          <date>1907</date>
+          <author>René Bazin</author>
+          <publisher>Calmann-Lévy</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1911</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k97700844"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1907</date>

@@ -43,7 +43,12 @@
           <date>2005</date>
         </bibl>
         <bibl type="firstEdition">
+          <title>Nanon</title>
+          <author>George Sand</author>
+          <publisher>Michel-Lévy frères</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1872</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k133656k"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

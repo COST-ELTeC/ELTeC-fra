@@ -53,7 +53,12 @@
         </bibl>
         <bibl type="firstEdition">
           <!--  best guess -->
+          <title>Nélida</title>
+          <author>Daniel Stern</author>
+          <publisher>Amyot</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1846</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k130569x"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

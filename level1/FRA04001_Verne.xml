@@ -41,7 +41,12 @@
         <bibl type="printSource">
         </bibl>
         <bibl type="firstEdition">
+          <title>Un capitaine de quinze ans</title>
+          <author>Jules Verne</author>
+          <publisher>J. Hetzel, DL</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1878</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6541873g"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

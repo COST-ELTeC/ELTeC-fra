@@ -43,9 +43,12 @@
           </respStmt>
         </bibl>
         <bibl type="printSource">
-          <author>Georges Eekhoud</author>
           <title>L'Autre vue</title>
+          <author>Georges Eekhoud</author>
+          <publisher>Société du "Mercure de France"</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1904</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k62081h"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1904</date>

@@ -40,6 +40,12 @@
         </bibl>
         <bibl type="printSource">
           <!-- Texte écrit par Jules Verne en 1898, version modifiée par Michel Verne, publiée en 1910. -->
+          <title>Le secret de Wilhelm Storitz</title>
+          <author>Jules Verne</author>
+          <publisher>Collection Hetzel</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1910</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k56063663"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1898</date>

@@ -36,7 +36,14 @@
           <publisher>Computational Literary Genre Stylistics (CLiGS)</publisher>
           <!-- Originally from: Bibliothèque électronique du Québec -->
         </bibl>
-        <bibl type="printSource"> </bibl>
+        <bibl type="printSource">
+          <title>Horace</title>
+          <author>George Sand</author>
+          <publisher>J. Hetzel</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1854</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5725314v"></ref>
+        </bibl>
         <bibl type="firstEdition">
           <date>1840</date>
         </bibl>

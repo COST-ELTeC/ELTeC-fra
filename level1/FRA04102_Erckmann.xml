@@ -40,6 +40,12 @@
           <ref target="http://www.ebooksgratuits.com/" />
         </bibl>
         <bibl type="printSource">
+          <title>Madame Thérèse, ou Les volontaires de 92</title>
+          <author>Erckmann-Chatrian</author>
+          <publisher>J. Hetzel</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1879</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5542516h"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1863</date>

@@ -38,7 +38,12 @@
           <ref target="http://beq.ebooksgratuits.com" />
         </bibl>
         <bibl type="firstEdition">
+          <title>Le secret de Laurent</title>
+          <author>Mme de Stolz</author>
+          <publisher>Hachette et Cie</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1878</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6502382x"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

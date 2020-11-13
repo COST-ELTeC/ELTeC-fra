@@ -39,9 +39,12 @@
           <ref target="https://www.atramenta.net" />
         </bibl>
         <bibl type="printSource">
-          <author>Dumas, Alexandre [pere] (1802-1870)</author>
-          <title>La Reine Margot - Tome I</title>
+          <title>La reine Margot. Tome 1</title>
+          <author>Alexandre Dumas</author>
+          <publisher>Garnier Freres</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1845</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6138403c"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1845</date>

@@ -43,7 +43,12 @@
           <date>1882</date>
         </bibl>
         <bibl type="firstEdition">
-          <date>1866</date>
+          <title>Le dernier amour </title>
+          <author>Le dernier amour</author>
+          <publisher>Michel Lévy frères</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1867</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5526590r"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
