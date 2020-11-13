@@ -7,7 +7,7 @@
       <titleStmt>
         <title ref="viaf:219192997 wikidata:Q2476841">Jean-Christophe : édition ELTeC</title>
         <!-- All 10 tomes of Jean-Christophe -->
-        <author xml:id="Rolland" ref="viaf:71397100 wikidata:Q47162">Rolland, Romain (1866-1944)</author>
+        <author ref="viaf:71397100 wikidata:Q47162">Rolland, Romain (1866-1944)</author>
         <respStmt>
           <resp>Principal investigator</resp>
           <name>Christof Schöch</name>

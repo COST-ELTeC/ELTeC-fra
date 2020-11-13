@@ -9,7 +9,7 @@
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Les Ménages militaires : édition ELTeC</title>
         <!-- Les Ménages militaires : La Femme du capitaine Aubépin. Les Filles du colonel. Le Mariage du trésorier. Les Deux femmes du major -->
-        <author xml:id="Chandeneux" ref="viaf:54272906 wikidata:Q2975144">Chandeneux, Claire de [Bérenger, Louise Lucienne Emma] (1836-1881)</author>
+        <author ref="viaf:54272906 wikidata:Q2975144">Chandeneux, Claire de [Bérenger, Louise Lucienne Emma] (1836-1881)</author>
         <respStmt>
           <resp>Principal investigator</resp>
           <name>Christof Schöch</name>

@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:unavailable wikidata:missing">Le Secret de Laurent : édition ELTeC</title>
-        <author xml:id="Stolz" ref="viaf:19850120 wikidata:Q3275360">Stolz, Madame de [Fanny de Bégon] (1820-1898)</author>
+        <author ref="viaf:19850120 wikidata:Q3275360">Stolz, Madame de [Fanny de Bégon] (1820-1898)</author>
         <respStmt>
           <resp>Principal investigator</resp>
           <name>Christof Schöch</name>
