@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA06401" xml:lang="fr">
   <teiHeader>
@@ -27,34 +27,22 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">157157</measure>
       </extent>
-      <publicationStmt>
-        <publisher ref="https://distant-reading. net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo. org/communities/eltec/">Zenodo. org</distributor>
-        <date when="2020-04-21" />
-        <availability>
-          <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <publisher>Gallica (BnF)</publisher>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6484819g" />
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6483281f" />
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6483275q" />
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6479941x" />
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6484819g"/>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6483281f"/>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6483275q"/>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6479941x"/>
           <date>2014</date>
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <author>Claire de Chandeneux</author>
           <title>Les Ménages militaires</title>
           <pubPlace>Paris</pubPlace>
           <publisher>E. Plon</publisher>
           <!-- Deuxième édition -->
           <date>1876-1878</date>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <date>1876</date>
           <!-- First edition published 1875-1876, according to René-Pierre Colin 2019:83. -->
           <!-- Second edition completed in 1878:
@@ -62,11 +50,10 @@
           - vol. 2: Les Filles du colonel, 1877.
           - vol. 3: Le Mariage du trésorier, 1877.
           - vol. 4: Les Deux femmes du major, 1878. -->
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -78,14 +65,14 @@
         </keywords>
       </textClass>
       <textDesc>
-        <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="F" />
-        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
+        <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="F"/>
+        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long"/>
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low"/>
         <!-- Reprints 1970-2009: None (Ebook: 2015). Before 1970: 1878-1883.  -->
-        <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T2" />
+        <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-04-12">Upgraded from EPUB to TEI.</change>
     </revisionDesc>
   </teiHeader>
@@ -1295,7 +1282,7 @@
           <p>Ce ne fut cependant point assez vite pour empêcher la voix dure et méprisante de la comtesse d'arriver aux oreilles des deux femmes.</p>
           <p>Celte voix disait :</p>
           <p>— Comment ! chère madame ! vous saluez cette créature ?</p>
-          <p></p>
+          <p/>
         </div>
         <div type="chapter">
 
@@ -6138,7 +6125,7 @@
           <p>Ce n'était point ce qu'il espérait, mais c'était un souvenir.</p>
           <p>Pieusement, il approcha la petite feuille de ses lèvres et fit un cri de joie. Il venait d'y lire, finement tracé par une plume élégante sur l'étoffe soyeuse, un mot, un nom : JANE.</p>
           <p>Ce soir-là, dans la solitaire petite chambre du professeur, il y eut une profonde joie et une grande reconnaissance.</p>
-          <milestone unit="section" />
+          <milestone unit="section"/>
           <p>Quelques jours passèrent, pleins de préoccupations, de chiffres, de travaux administratifs pour André Jouanny. Sa permutation était parvenue au colonel du 206e. Le major Durajoux s'impatientait terriblement.</p>
           <p>Mais il était une chose que le mari de Jane attendait avec de bien autres angoisses : c'était la réponse de sa mère. Le verger ne se vendait donc pas ? Alors, pourquoi ne pas hypothéquer ce bout de terre ? Il devait bien valoir deux mille francs.</p>
           <p>Madame Jouanny mère avait répondu qu'on s en occupait, que l'affaire allait se terminer, qu'il ne lui resterait plus que des fleurs en pot sur ses fenêtres, mais qu'elle faisait ce dernier sacrifice à son André, sans même demander pourquoi son André l'exigeait d'elle.</p>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01403" xml:lang="fr">
   <teiHeader>
@@ -22,42 +22,29 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">64213</measure>
       </extent>
-      <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2019-11-04" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
-          <date />
-          <ref target="http://beq.ebooksgratuits.com" />
-        </bibl>
-        <bibl type="printSource">
+          <date/>
+          <ref target="http://beq.ebooksgratuits.com"/>
+        </bibl><bibl type="printSource">
           <title>Alberte</title>
           <author>Zénaïde Fleuriot</author>
           <publisher>V. Lecoffre</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1881</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6567022t"></ref>
-        </bibl>
-        <bibl type="firstEdition">
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6567022t"/>
+        </bibl><bibl type="firstEdition">
           <title>Alberte</title>
           <author>Zénaïde Fleuriot</author>
           <publisher>V. Lecoffre</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1881</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6567022t"></ref>
-        </bibl>
-      </sourceDesc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6567022t"/>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -69,13 +56,13 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
@@ -150,7 +137,7 @@
         <p>— Quelque chose comme... Voyons, on l'a souvent prononcé devant moi. Roberte, Alberte...</p>
         <p>— Alberte, interrompit David, c'est cela.</p>
         <p>Et il ajouta en souriant :</p>
-        <p>— La petite duchesse <ref target="#FRA01403_N01">(1)</ref>.</p>
+        <p>— La petite duchesse <ref target="#FRA01403_N01">(1)</ref><ref target="#FRA01403_N01">(1)</ref>.</p>
         <p>— Elle n'est point duchesse du tout, mon cher David.</p>
         <p>— Si, comme je l'entends, d'après un souvenir déjà lointain. Dites-moi, la connaissez-vous quelque peu ? Lui avez-vous été présenté ?</p>
         <p>— Je la connais par Roger de Châteaugrand et par son beau-frère Médéric de Valroux.</p>
@@ -840,7 +827,7 @@
         <p>« Le mal ne se montre qu'à intervalles, les crises sont courtes, la santé revient en apparence.</p>
         <p>« Puis, tout à coup, reparaissent l'alanguissement la toux, les symptômes morbides.</p>
         <p>« Ah ! quel lent et affreux martyre !</p>
-        <p>« Et ils sont si doux ces enfants qui doivent mourir à vingt ans, ils sont si attachants ! Tu as connu Jean ; je n'ai pas besoin de t'en dire davantage <ref target="#FRA01403_N02">(1)</ref>.</p>
+        <p>« Et ils sont si doux ces enfants qui doivent mourir à vingt ans, ils sont si attachants ! Tu as connu Jean ; je n'ai pas besoin de t'en dire davantage <ref target="#FRA01403_N02">(1)</ref><ref target="#FRA01403_N02">(1)</ref>.</p>
         <p>— Ma tante, dit Alberte, je vous comprends, et je vous assure que ce que vous venez de me dire détruit complètement cet obstacle qu'élevaient contre mon mariage avec Roger plusieurs de mes parents, entre autres la chanoinesse de Bonlieu, qui est un docteur en jupon.</p>
         <p>— Tu m'ôtes un grand souci. Je ne voulais pas t'écrire ces choses, et je pensais cependant que tu as l'âge de les entendre et que tu restes par trop désarmée devant ta parenté, qui nous est hostile, grâce à ta sœur Madeleine. Je ne puis comprendre d'où viennent ces résistances.</p>
         <p>« En compensation d'une fortune moins considérable, Roger a un grand avenir militaire devant lui. Il est sorti le second de Saint-Cyr, il a été l'un des premiers à l'École de guerre.</p>
@@ -1026,7 +1013,7 @@
         <p>Le dernier regard que le jeune officier jeta à Alberte en passant non loin d'elle, avant de quitter le grand salon, fut saisi au vol par Luna.</p>
         <p>— Alberte, dit-elle avec sa liberté ordinaire, quel est le nom de ce jeune homme qui vous a remis une lettre et qui est un des plus beaux cavaliers de cette fête ?</p>
         <p>— C'est mon cousin Roger de Châteaugrand.</p>
-        <p>— Le parent du Jean que nous avons tant pleuré à Cannes <ref target="#FRA01403_N03">(1)</ref> ? </p>
+        <p>— Le parent du Jean que nous avons tant pleuré à Cannes <ref target="#FRA01403_N03">(1)</ref><ref target="#FRA01403_N03">(1)</ref> ? </p>
         <p>— Son frère.</p>
         <p>— Eh bien, sa visite vous a rendue toute songeuse. De qui est cette lettre ?</p>
         <p>— De la comtesse de Châteaugrand.</p>
@@ -1353,7 +1340,7 @@
         <p>Luna, croqua une pastille, se mit à faire rouler la boîte entre ses doigts, et ajouta en s'appuyant sur l'épaule d'Aberte :</p>
         <p>— L'aimable marquise vous a-t-elle dit la fureur de David, hier ? Non, je ne l'ai jamais vu dans une telle colère rentrée.</p>
         <p>— Monsieur David avait sans doute quelque motif d'être contrarié, répondit Alberte, que le regard de Luna embarrassait.</p>
-        <p>— Il avait... celui-là. Il s'est contenu devant monsieur et madame de Valroux, mais à son retour cela lui a repris de plus belle. Il a cravaché son cheval tout comme autrefois, vous en souvient-il ? il cravachait son petit nègre Boulboul <ref target="#FRA01403_N04">(1)</ref>. </p>
+        <p>— Il avait... celui-là. Il s'est contenu devant monsieur et madame de Valroux, mais à son retour cela lui a repris de plus belle. Il a cravaché son cheval tout comme autrefois, vous en souvient-il ? il cravachait son petit nègre Boulboul <ref target="#FRA01403_N04">(1)</ref><ref target="#FRA01403_N04">(1)</ref>. </p>
         <p>— Je me souviens, dit Alberte ; mais, à notre prière, il s'était adouci.</p>
         <p>— À la vôtre, Alberte, à la vôtre. Oh ! vous avez toujours fait de lui ce que vous avez voulu.</p>
         <p>Mais, dites-moi, à l'Opéra ne vous a-t-il pas fait une mine affreuse ?</p>

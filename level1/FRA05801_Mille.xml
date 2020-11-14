@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA05801" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -20,36 +22,23 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">49700</measure>
       </extent>
-      <publicationStmt>
-        <publisher ref="https://distant-reading. net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo. org/communities/eltec/">Zenodo. org</distributor>
-        <date when="2020-04-21" />
-        <availability>
-          <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <publisher>Gallica (BnF)</publisher>
-          <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61362974" />
+          <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61362974"/>
           <!-- Apparently derived by OCR from <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61362974"/> -->
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <author>Pierre Mille</author>
           <title>Louise et Barnavaux</title>
           <publisher>Calmann-Lévy</publisher>
           <date>1912</date>
-          <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61362974" />
-        </bibl>
-        <bibl type="firstEdition">
+          <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61362974"/>
+        </bibl><bibl type="firstEdition">
           <date>1912</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -61,14 +50,14 @@
         </keywords>
       </textClass>
       <textDesc>
-        <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
-        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
+        <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
+        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short"/>
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low"/>
         <!-- Reprints 1970-2009: None. After 2009: 2015 ("Forgotten Books"), 2013 (Hachette-BnF). -->
-        <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
+        <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-04-05">entête auto-généré: à compléter </change>
     </revisionDesc>
   </teiHeader>

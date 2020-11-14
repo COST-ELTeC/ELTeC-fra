@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01201" xml:lang="fr">
   <teiHeader>
@@ -22,28 +22,16 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">136999</measure>
       </extent>
-      <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2019-11-04" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <publisher>Ebooks libres et gratuits</publisher>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <publisher>Dentu</publisher>
           <date>1868</date> ,
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -55,13 +43,13 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-08-12">cf Initial TEI version.</change>
@@ -105,7 +93,7 @@
           <p>— Monseigneur, mon histoire pourrait être racontée devant une carmélite. J'en abrégerai néanmoins les détails. La jeune dame était de la cour, et Votre Éminence sait par expérience comme on monte vite à la cour, quand on a du bonheur et du génie. Sans la méchante humeur du mari, qui était un homme à courte vue et qui me fit jeter peu de temps après dans un cul de basse-fosse, je serais à présent un personnage considérable, voilà le fait certain.</p>
           <p>— Singulier dénouement, murmura le prélat, pour une aventure qui vous mérita le nom de Fortune !</p>
           <p>— J'en demande pardon à Votre Éminence ! s'écria vivement le jeune cavalier. Je n'ai pas tout dit : le jour même où j'entrai en prison, mon logis brûla misérablement depuis les caves jusqu'aux greniers. Sans la jalousie maladroite de cet excellent seigneur, c'en était fait de moi ! En prison, d'ailleurs, je fis la connaissance d'un gentilhomme qui commandait une bande dans l'Apennin. Nous rompîmes nos chaînes ensemble, et, voyez la filière ! ce hasard me conduisit jusqu'à Rome sous prétexte d'y être pendu. Je dis tout à Monseigneur, sachant que les vrais politiques aiment à employer les gens qui ont une étoile. On me pendit en effet, mais la corde cassa, et Sa Sainteté ayant eu la curiosité de me voir, défendit qu'on recommençât avec une corde neuve.</p>
-          <p>« J'avais fait impression sur le père commun des fidèles par ma tournure galante et mon agréable caractère : au lieu d'être pendu, <hi>feu le petit collet</hi>,<ref target="#FRA01201_N01">(1)</ref> et Dieu sait où je serais parvenu dans cette voie nouvelle si le protonotaire apostolique n'avait eu une nièce. </p>
+          <p>« J'avais fait impression sur le père commun des fidèles par ma tournure galante et mon agréable caractère : au lieu d'être pendu, <hi>feu le petit collet</hi>,<ref target="#FRA01201_N01">(1)</ref><ref target="#FRA01201_N01">(1)</ref> et Dieu sait où je serais parvenu dans cette voie nouvelle si le protonotaire apostolique n'avait eu une nièce. </p>
           <p>« Je m'éveillai un matin au château Saint-Ange, et il faudrait être aveugle pour ne pas reconnaître là l'influence de mon étoile : ma vocation est l'épée, et huit jours de plus j'avais la tonsure !</p>
           <p>« Au lieu de cela et en moitié moins de temps, une personne charitable qui venait visiter les prisonniers, eut pitié de ma jeunesse et me donna la clef des champs. Je gagnai la mer et pris passage comme matelot à bord d'un navire qui revenait en France. Les corsaires algériens nous abordèrent en face de l'île de Sardaigne, et me voilà l'esclave des infidèles.</p>
           <p>« Mon étoile, Monseigneur ! Pendant qu'on m'emmenait captif au pays africain, la peste était à Marseille !</p>
@@ -398,10 +386,10 @@
           <p>Au moment où ils traversaient le pont, dépassant nos voyageurs, le vent souleva le voile de l'amazone, et Fortune ne put retenir un cri.</p>
           <p>Il avait reconnu le charmant visage de la dame mystérieuse qui s'était montrée la veille à la portière de la chaise.</p>
           <p>Et il eût juré que la Française lui avait adressé en passant un gracieux sourire.</p>
-          <milestone type="section" rend="asterisk" unit="asterisk" />
+          <milestone type="section" rend="asterisk" unit="asterisk"/>
           <p>Où l'on appelle pour la première fois Fortune :</p>
           <p>« M. le duc ».</p>
-          <milestone type="section" rend="asterisk" unit="asterisk" />
+          <milestone type="section" rend="asterisk" unit="asterisk"/>
           <p>Ce bon Michel Pacheco était payé pour ne point tromper quand il parlait d'espions échelonnés sur la route. Il ajoutait des profits politiques à son commerce de futaine, servant le roi et la ligue tour à tour, comme il convient à un marchand obligeant qui ne veut mécontenter aucune de ses pratiques.</p>
           <p>Une comédie, qui rappelait par de certains côtés les finesses cousues de fil blanc de la Fronde, se jouait entre Paris et Madrid, et tout le long du chemin il y avait des gens qui, comme Michel Pacheco, sans savoir au juste de quoi il s'agissait, connaissaient supérieurement les masques.</p>
           <p>On faisait du mystère à foison, car une conspiration qui ne se donnerait point la joie de la mise en scène périrait d'ennui dès le début.</p>
@@ -2218,9 +2206,9 @@
           <p>— Pendant que tu dansais, Thérèse Badin, ton père est mort assassiné !</p>
           <p>Thérèse poussa un cri déchirant et tomba évanouie entre les bras de ceux qui l'entouraient.</p>
           <p>Ceux qui l'entouraient n'étaient ni les deux comtesses, ni la baronne, ni le marquis, ni le vicomte, ni le chevalier, ni l'abbé. Tout ce noble monde avait disparu comme par enchantement.</p>
-          <milestone type="section" rend="asterisk" unit="asterisk" />
+          <milestone type="section" rend="asterisk" unit="asterisk"/>
           <p>Où la justice informe contre le cavalier Fortune.</p>
-          <milestone type="section" rend="asterisk" unit="asterisk" />
+          <milestone type="section" rend="asterisk" unit="asterisk"/>
           <p>L'autre foule, les fidèles, attendait toujours dans la rue des Cinq-Diamants, et sa constance n'avait pas encore été récompensée.</p>
           <p>On était allé chercher, deux heures en deçà, le commissaire de police du quartier des Innocents, qui se nommait maître Touchenot, mais ce magistrat avait passé une partie de la nuit à l'Épée-de-Bois pour veiller au maintien du bon ordre et jouer à la bassette.</p>
           <p>On avait frappé à la porte de divers juges de la Prévôté du Bailliage et du Présidial, tous séant au Châtelet, et dont les gouvernantes avaient répondu à l'unanimité que leurs maîtres entendaient dormir la grasse matinée.</p>

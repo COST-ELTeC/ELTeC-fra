@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA06901" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -24,42 +26,29 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">93413</measure>
       </extent>
-      <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2020-09-21" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <title>Révoltée</title>
           <author>Claude Vignon</author>
-          <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6540656z" />
+          <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6540656z"/>
           <publisher>BnF</publisher>
           <date>2013</date>
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <title>Révoltée !</title>
           <author>Claude Vignon</author>
           <publisher>Calmann Lévy, Éditeur</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1879</date>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <title>Révoltée !</title>
           <author>Claude Vignon</author>
           <publisher>Calmann Lévy, Éditeur</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1879</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -71,13 +60,13 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-09-21">File created</change>
     </revisionDesc>
   </teiHeader>
@@ -2717,7 +2706,7 @@
           <p>Les lettres flamboyaient ; les mots dansaient Non, ce n'était pas possible ! ce n'était pas vrai ! ces choses-là n'arrivaient pas !…</p>
           <p>Mais, pourtant, il fallait bien croire qu'elles arrivaient, puisque cette lettre de faire part était là ?…</p>
           <p> </p>
-          <p>« Madame veuve de Ré a l'honneur de vous faire part du mariage de M. Robert de Ré, son fils, avec mademoiselle X<hi rend="italic"></hi>*</p>
+          <p>« Madame veuve de Ré a l'honneur de vous faire part du mariage de M. Robert de Ré, son fils, avec mademoiselle X<hi rend="italic"/>*</p>
           <p>» Périgueux, ce 12 octobre 18…</p>
           <p>» On part. »</p>
           <p> </p>
@@ -2781,7 +2770,7 @@
           <p>– Bien.</p>
           <p>« Pourquoi donc, se disait Edmée, pour justifier à ses propres yeux la voie où elle s'engageait, pourquoi donc être l'odalisque de M. de la Chesnaie, au delà des mers entre M. de la Barre et quelques Arméniennes ennuyeuses, au lieu d'être, ici, celle de tous les hommes élégants et riches qui me plairont ou me paieront ? Et qu'ai-je à faire de ce préjugé ridicule qui met, dit-on, entre les courtisanes et les femmes du monde une barrière infranchissable ? Courtisane ? Femme du monde ? qu'est-ce que c'est ? Mademoiselle X… est une courtisane, parce qu'elle est née d'un ouvrier pauvre, qui ne pouvait lui donner de dot ; qu'elle a accepté une chambre meublée de son premier amant, quand elle avait seize ans, et qu'elle s'est fait donner une voiture à huit ressorts, par son avant-dernier, quand elle en avait quarante. Ma belle-mère est une femme du monde, parce qu'elle est née d'un ouvrier plus intelligent que l'autre, doublé d'un commerçant qui a fait fortune !… – plus ou moins proprement ! – et qui lui a payé un mari titré. Elle n'a d'amants que pour son plaisir. L'autre est obligée d'en avoir pour compenser les torts de la fortune. Probablement qu'elle n'en aurait aussi que pour son plaisir, si elle était riche.</p>
           <p>» Je comprends l'épouse chaste et immaculée… ainsi j'étais jadis… oui… alors l'amour de l'époux est doublé de son respect… Je comprends l'épouse instruite et éprise que j'eusse été pour Robert… car il a dit un grand mot le poète en disant :</p>
-          <p>  > > Et l'amour m'a refait une virginité ?</p>
+          <p>  &gt; &gt; Et l'amour m'a refait une virginité ?</p>
           <p> </p>
           <p>Ah ! que cela est vrai !…</p>
           <p>» Mais aujourd'hui, je ne saurais plus être l'épouse de personne !… Soyons donc la maîtresse de quelques-uns !… faisons faire des signes de croix, de plus, à madame de Clérac ! faisons rougir ma chaste belle-mère et introduisons une Impéria, parmi les chanoinesses de Remiremont qui illustrent l'arbre généalogique des Le Dam d'Anjault ! une femme cotée, parmi les femmes titrées…</p>
@@ -2896,7 +2885,7 @@
           <p>Il y eut un silence.</p>
           <p>– Savez-vous que vous êtes crânement jolie et que je suis, comme on disait jadis, « un heureux drôle ! »</p>
           <p>– Voilà ! vous avez attrapé mon bonnet au vol, en passant sous le vent du moulin.</p>
-          <p>– Je vous trouve plus jolie, ma foi, que le soir où vous avez fait sensation chez la duchesse de <hi rend="italic"></hi>*. Vous étiez en rose ; je vous vois encore ! et aussi le pauvre de Ré, qui tomba si fort amoureux de vous. Quel coup de soleil ! Vous l'avez su, peut-être bien ? En tous cas, aujourd'hui, il n'y a plus de danger à vous le dire, car il est marié et en voyage de noces.</p>
+          <p>– Je vous trouve plus jolie, ma foi, que le soir où vous avez fait sensation chez la duchesse de <hi rend="italic"/>*. Vous étiez en rose ; je vous vois encore ! et aussi le pauvre de Ré, qui tomba si fort amoureux de vous. Quel coup de soleil ! Vous l'avez su, peut-être bien ? En tous cas, aujourd'hui, il n'y a plus de danger à vous le dire, car il est marié et en voyage de noces.</p>
           <p>Edmée eut peur de crier, tant ces paroles, lancées en un tel moment, la poignaient.</p>
           <p>– Et vous, marquis, quand vous mariez-vous ? dit-elle d'un ton qu'elle essayait de rendre léger.</p>
           <p>– Ça dépend de la façon dont vous l'entendez ! Avec une demoiselle du monde, comme Robert, jamais. Avec vous, le plus tôt possible !</p>
@@ -2940,7 +2929,7 @@
           <p>M. d'Anjault le signa seul. On ne jugea pas à propos de demander la signature de M. de la Chesnaie, parce qu'on se défiait de sa faiblesse, depuis l'exclamation qu'il avait laissé échapper : « Pauvre créature ! »</p>
           <p>D'autre part, pour pouvoir continuer l'interprétation de tous les faits et gestes d'Edmée dans le même sens, on décida qu'il était important de les connaître, et on mit à ses trousses un de ces agents interlopes, qui font de la police pour le compte des particuliers.</p>
           <p>L'agent, tous les deux jours, faisait un rapport qu'on lisait en famille, car ces rapports étaient certes de nature à éteindre la compassion, dans le cœur de M. de la Chesnaie.</p>
-          <p>« 30 octobre. – La personne surveillée a reçu ce matin des fleurs et un bracelet de la part de M. le marquis de<hi rend="italic"></hi>* » A midi, le marquis est venu déjeuner avec elle.</p>
+          <p>« 30 octobre. – La personne surveillée a reçu ce matin des fleurs et un bracelet de la part de M. le marquis de<hi rend="italic"/>* » A midi, le marquis est venu déjeuner avec elle.</p>
           <p>» De deux heures à quatre, elle a reçu une couturière, une modiste, et trois jeunes gens : M.A., M.R., et M.J.</p>
           <p>» De quatre à six, elle est allée au Bois avec M. le marquis et dans sa voiture.</p>
           <p>» Le soir, elle a été vue, dans une avant-scène, aux Bouffes. Le marquis et d'autres messieurs sont venus lui rendre visite pendant les entr'actes. »</p>

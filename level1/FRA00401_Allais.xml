@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00401" xml:lang="fr">
   <teiHeader>
@@ -18,35 +18,23 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">41424</measure>
       </extent>
-      <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2019-11-04" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>       <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
-
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <title>Le Captain Cap</title>
           <author>Alphone Allais</author>
           <publisher>(unspecified)</publisher>
           <date>1902</date>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <title>Le Captain Cap</title>
           <author>Alphone Allais</author>
           <publisher>Felix Juven</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1902</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k165801v"></ref>
-        </bibl>
-      </sourceDesc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k165801v"/>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -58,13 +46,13 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-06-15">Conversion to ELTeC level-1 (Christof Schöch)</change>
     </revisionDesc>
@@ -100,13 +88,13 @@
 
           <head>Ville de Paris</head>
           <p><hi rend="italic">Aux Électeurs du IXe arrondissement, 2e circonscription.</hi>
-            <ref target="#FRA00401N000">(1)</ref>
+            <ref target="#FRA00401N000">(1)</ref><ref target="#FRA00401N000">(1)</ref>
           </p>
           <p>Un mot sur le Captain Cap</p>
           <p>Celui qui voudrait rencontrer l'homme du jour, n'aurait pas à le chercher ailleurs que dans la peau du Captain Cap, votre candidat.</p>
           <p>Le Captain Cap ! Tout le monde en parle aujourd'hui, mais combien peu le connaissent !</p>
           <p>J'ai l'honneur d'appartenir à cette petite élite.</p>
-          <p>La première fois que j'eus le plaisir de rencontrer Cap, c'était au bar de l'hôtel Saint-Pétersbourg ; la seconde fois à <hi rend="italic">l'Irish bar</hi> de la rue Royale ; la troisième, au <hi rend="italic">Silver-Grill</hi>  ; la quatrième, au <hi rend="italic">Scotch Tavern</hi> de la rue d'Astorg ; la cinquième, à l'<hi rend="italic">Australian Wine Store</hi> de l'avenue d'Eylau <ref target="#FRA00401N001">(1)</ref>. </p>
+          <p>La première fois que j'eus le plaisir de rencontrer Cap, c'était au bar de l'hôtel Saint-Pétersbourg ; la seconde fois à <hi rend="italic">l'Irish bar</hi> de la rue Royale ; la troisième, au <hi rend="italic">Silver-Grill</hi>  ; la quatrième, au <hi rend="italic">Scotch Tavern</hi> de la rue d'Astorg ; la cinquième, à l'<hi rend="italic">Australian Wine Store</hi> de l'avenue d'Eylau <ref target="#FRA00401N001">(1)</ref><ref target="#FRA00401N001">(1)</ref>. </p>
           <p>Peut-être intervertis-je l'ordre des bars, mais, comme on dit en arithmétique, le produit n'en demeure pas moins le même.</p>
           <p>Tout de suite, Cap me plut. Le récit de ses aventures, les petits refrains exotiques qu'il se plaît à fredonner entre temps, ses aperçus toujours neufs, sa haine de la Bureaucratie et de l'Europe, tout en Cap me charma et nous fûmes vite d'excellents amis.</p>
           <p>Il n'y a qu'à gagner à la fréquentation de tels hommes, et les notions que j'ai acquises depuis ma liaison avec Cap, tiennent presque du prodige.</p>
@@ -116,9 +104,9 @@
           <p>À Québec, Cap remplit pendant dix-huit mois les importantes fonctions de starter à l'Observatoire.</p>
           <p>C'est lui qui donnait le départ aux étoiles filantes.</p>
           <p>Au Labrador, Cap découvrit les importantes mines de charcuterie ( <hi rend="italic">meat-land</hi> ) qui sont actuellement la fortune de ce pays. </p>
-          <p>J'ai donné dans plusieurs journaux, voilà tantôt un an, l'explication absolument plausible de l'existence de ces carrières nutritives. J'ai attendu des démentis ; ils ne sont pas venus <ref target="#FRA00401N002">(1)</ref>. </p>
+          <p>J'ai donné dans plusieurs journaux, voilà tantôt un an, l'explication absolument plausible de l'existence de ces carrières nutritives. J'ai attendu des démentis ; ils ne sont pas venus <ref target="#FRA00401N002">(1)</ref><ref target="#FRA00401N002">(1)</ref>. </p>
           <p>Notre ami Cap est donc candidat à la députation. Je connais la deuxième circonscription du neuvième arrondissement, et je suis tranquille.</p>
-          <p>Que Cap passe au premier tour de scrutin, je n'oserais l'affirmer ; mais le ballottage pourrait bien réserver d'amères désillusions à MM. Strauss et Berger <ref target="#FRA00401N003">(1)</ref>. </p>
+          <p>Que Cap passe au premier tour de scrutin, je n'oserais l'affirmer ; mais le ballottage pourrait bien réserver d'amères désillusions à MM. Strauss et Berger <ref target="#FRA00401N003">(1)</ref><ref target="#FRA00401N003">(1)</ref>. </p>
           <p>Le programme de Cap est bien simple et se passe d'explications : Cap est anti-européen et anti-bureaucrate.</p>
           <p>En dehors de ces deux grandes lignes, toutes les revendications des électeurs sont les revendications de Cap. Dans la dernière réunion électorale, qui s'est tenue à l' <hi rend="italic">Auberge du Clou</hi> , quelqu'un a demandé le nivellement de la Butte Montmartre ; Cap s'est engagé à faire niveler la Butte Montmartre. </p>
           <p>Cap s'est également engagé à prolonger l'avenue Trudaine jusqu'à la place de la Concorde.</p>
@@ -179,7 +167,7 @@
             <hi rend="italic">À dimanche donc, et pas d'abstentions.</hi></p>
           <p>
             <hi rend="italic">Vive la République libre et sans bureaux !</hi></p>
-          <p />
+          <p/>
           <p>Albert C..., dit CAPTAIN CAP.</p>
         </div>
         <div type="chapter">
@@ -203,7 +191,7 @@
           <p>IXe arrondissement, 2e circonscription.</p>
           <p>
             <hi rend="italic">Comité anti-européen et anti-bureaucrate.</hi></p>
-          <p />
+          <p/>
           <p>Citoyens,</p>
           <p>Saint-Just a dit : « Vous avez renversé l'<hi rend="italic">aristocratie</hi>, mais vous avez créé la <hi rend="italic">bureaucratie</hi>.</p>
           <p>Il y a cent ans de cela et aujourd'hui la bureaucratie est plus que jamais toute-puissante.</p>
@@ -244,7 +232,7 @@
           <head>Une réunion électorale du Captain Cap</head>
           <p>La séance est ouverte à neuf heures et demie.</p>
           <p>Elle est présidée par le citoyen Maurice O'Reilly, dont l'éloge n'est plus à faire, et dont les électeurs du IXe ont pu maintes fois apprécier la valeur.</p>
-          <p>La présidence d'honneur est décernée au grand proscrit Alphonse Allais, victime de l'infâme bureaucratie <ref target="#FRA00401N004">(1)</ref>. </p>
+          <p>La présidence d'honneur est décernée au grand proscrit Alphonse Allais, victime de l'infâme bureaucratie <ref target="#FRA00401N004">(1)</ref><ref target="#FRA00401N004">(1)</ref>. </p>
           <p>Après avoir en quelques phrases brèves, mais énergiques, exposé les idées générales du Captain Cap, le citoyen Maurice O'Reilly donne lecture de trois télégrammes qui viennent d'arriver :</p>
           <quote type="letter">
             <p><hi rend="italic">Saint-Malo.</hi></p>
@@ -309,46 +297,46 @@
           <p>La candidature du Captain Cap, candidat anti-européen et anti-bureaucrate prend une excellente tournure dans le IXe arrondissement, 2e circonscription.</p>
           <p>Un comité d'adhésion et de propagande est déjà constitué. Nous y relevons les noms sympathiques de MM. Alphonse Allais, Courteline, Gandillot, Ponchon, Émile Goudeau, Narcisse Lebeau, Paul Clerget, le prince Joë Masson, Jules Jouy, Gérault (du Cantal), Jehan Sarrazin, Félix Huguenet, Paul Robert, Berthier.</p>
           <p>( <hi rend="italic">L'Écho de Paris</hi> , 11 août 1893.) </p>
-          <p />
+          <p/>
           <p>L'illustre Captain Cap, dont les journaux ont tant parlé ces temps derniers, se présente à la députation en qualité de candidat anti-européen et anti-bureaucrate.</p>
           <p>Le Captain Cap est un homme neuf, aux idées larges, ennemi déclaré de la routine et des paperasseries.</p>
           <p>Nous faisons des vœux pour qu'il soit élu.</p>
           <p>( <hi rend="italic">Le Diable au corps</hi> , Bruxelles, </p>
           <p>le 7 août 1893.)</p>
-          <p />
+          <p/>
           <p>Une nouvelle candidature vient de surgir dans le IXe arrondissement de Paris qui mérite l'honneur d'une mention, car le programme du candidat sort de la banalité ordinaire.</p>
           <p>Le nouveau candidat s'appelle M. C... ou « Captain Cap ».</p>
           <p>Il se déclare candidat anti-bureaucrate et anti-européen. S'il développe son programme, la seconde partie surtout, dans une réunion publique, les auditeurs ne s'ennuieront pas.</p>
           <p>( <hi rend="italic">Le Petit Journal</hi> , 7 août 1893.) </p>
-          <p />
+          <p/>
           <p>Une foule énorme, évaluée à plusieurs centaines d'électeurs du IXe arrondissement et d'autres arrondissements aussi, se pressait hier soir dans un des salons de l'Auberge du Clou pour entendre la profession de foi du Captain Cap.</p>
           <p>Cette réunion a été très mouvementée. Les portes ont été défoncées par quelques demoiselles dont les cartes n'avaient rien d'électoral. On a constaté avec regret que le citoyen candidat n'avait point exprimé dans son programme le désir de faire voter les femmes. La constitution du bureau notamment a soulevé de nombreuses protestations, le candidat se déclarant anti-bureaucrate.</p>
           <p>Finalement, la candidature du citoyen Captain Cap a été acclamée à l'unanimité moins trois voix.</p>
           <p>( <hi rend="italic">L'Écho de Paris</hi> , 13 août 1893.) </p>
-          <p />
+          <p/>
           <p>Montmartre sera toujours Montmartre. On y acclame chaque soir,... au Cabaret du Clou, la candidature du Captain Cap, soutenue par la fine fleur des fantaisistes de la Butte, MM. Alphonse Allais, Courteline, le peintre Robert, etc.</p>
           <p>Les questions que l'honorable Captain Cap s'engage à faire prévaloir sont les suivantes :</p>
           <p>Surélévation de Paris à la hauteur de Montmartre ; défense d'abandonner des tunnels sans lumière sur la voie publique ; création d'un Fort-Observatoire à Montmartre, dont les lunettes serviraient de canons ; création d'un Conseil des disques pour punir les accidents de chemins de fer, etc., etc.</p>
           <p>( <hi rend="italic">Le Figaro</hi> , 16 août 1893.) </p>
-          <p />
+          <p/>
           <p>LES ÉLECTIONS</p>
           <p>
             <hi rend="italic">Paris -- IX</hi> e <hi rend="italic">arrondissement -- 2</hi> e <hi rend="italic">circonscription.</hi>
           </p>
           <p>Les électeurs de la 2e circonscription du IXe arrondissement, réunis le 6 août à l'auberge du Clou, avenue Trudaine, après avoir entendu les citoyens O'Reilly, Berthez, Georges Albert, Paul Frény, Quinel, Brunais, etc., etc., et les franches et énergiques déclarations du Captain Cap, acclament sa candidature à l'unanimité moins 3 voix et s'engagent à la faire triompher au scrutin du 20 août.</p>
-          <p />
+          <p/>
           <p>LE CAPTAIN CAP</p>
           <p>Nous n'avons pas la prétention de faire connaître le célèbre Captain Cap dont on sait la joyeuse campagne anti-européenne et anti-bureaucratique sous les auspices d'Allais et de Courteline.</p>
           <p>Nous aurions voulu le joindre et savoir ce qu'il pense de ses 176 voix ; mais, semblable à tous les candidats malgré ses assurances fraternelles, il n'a pas plutôt ramassé les voix de ses électeurs qu'il les oublie et les abandonne -- l'ingrat ! À l'Auberge du Clou où il tenait habituellement ses assises, on nous dit qu'on ne l'a pas vu depuis quatre jours. Son imprimeur nous dévoile le lieu habituel des repas du candidat socialiste. Là, nous apprenons que le Captain Cap est parti en Normandie pour se remettre des fatigues de sa campagne électorale...</p>
           <p>( <hi rend="italic">L'Éclair</hi> , 28 août 1893.) </p>
-          <p />
+          <p/>
           <p>Nous ne parlerons que pour mémoire de cette débauche d'affiches multicolores, les unes superlativement laudatives, les autres bassement diffamatoires, dont les murs de Paris ont été revêtus dans la matinée et qui constituent, pour employer le style électoral, les manœuvres de l'extrême dernière heure. C'est aux candidats fantaisistes que revient la palme dans cette lutte homérique de la modeste bande contre le grand colombier. À Montmartre, M. le Captain Cap, un humoriste, né sans doute à l'ombre des ailes du Moulin de la Galette, a inondé sa circonscription de proclamations ainsi conçues :</p>
           <p>« Après vingt ans passés sur mer, qu'ai-je trouvé, en rentrant au pays ? Haines, hypocrisie, malversation, népotisme, nullité...</p>
           <p>« L'origine de tous ces maux, citoyens, n'allez pas la chercher plus loin : c'est le microbe de la bureaucratie.</p>
           <p>« Or, on ne parlemente pas avec les microbes.</p>
           <p>« ON LES TUE ! »</p>
           <p>( <hi rend="italic">Le Matin</hi> , 21 août 1893.) </p>
-          <p />
+          <p/>
           <p>Candidatures fantaisistes.</p>
           <p>Connaissez-vous the « Captain Cap ? »</p>
           <p>Non, sans doute. Peut-être croirez-vous qu'il s'agit d'un émule ou d'un disciple du célèbre tireur Ira Paine ?</p>
@@ -361,9 +349,9 @@
           <p>Nous avons vainement essayé de joindre the Captain Cap. Impossible de mettre la main dessus. Nul ne sait où perche ce terrible candidat. Vient-il des régions chères à Buffalo-Bill ? Est-ce un cow-boy, un redoutable adversaire des Peaux-Rouges ?</p>
           <p>Non ; <hi rend="italic">the Captain Cap</hi> nous paraît être un aimable fumiste. </p>
           <p>( <hi rend="italic">Le Gaulois</hi> , 6 août 1893.) </p>
-          <p />
+          <p/>
           <p>MON CANDIDAT</p>
-          <p />
+          <p/>
           <p>Il est incontestable qu'en ce moment plusieurs millions de Français sont embarrassés, moi tout le premier. J'ai été assez gêné, ces jours derniers, lorsque des milliers d'affiches multicolores m'ont invité à la lecture attentive et au choix judicieux. Les mots très difficiles : mandat impératif, hydre bourgeoise, tyrannie guesdiste, dansaient devant mes yeux ; et je me trouverais encore dans la même expectative si, par bonheur, je n'avais rencontré l'affiche de mon candidat :</p>
           <p>CAPTAIN CAP</p>
           <p>Candidat anti-bureaucratique et anti-européen.</p>
@@ -389,9 +377,9 @@
           <p>Son élection fera sans doute grand plaisir aux employés de l'administration des Postes et des Télégraphes ; car, d'après ses affirmations, il s'empressera de faire rétablir... l'ordre des facteurs.</p>
           <p>Charles QUINEL.</p>
           <p>( <hi rend="italic">Le Charivari</hi> , 13 août 1893.) </p>
-          <p />
+          <p/>
           <p>Terminons ces extraits par la petite note dont il est question précédemment et que le regretté Francisque Sarcey n'hésita pas à consacrer à notre ami :</p>
-          <p />
+          <p/>
           <p>« J'ai passé une excellente soirée, samedi, dans une petite société artistico-mondaine qui s'intitule <hi rend="italic">Le Gardénia</hi> , je ne sais pas trop pourquoi, peut-être parce que les membres de cette société affectionnent le gardénia de préférence à toute autre fleur. </p>
           <p>« Ce sont de charmants jeunes gens, d'ailleurs fort aimables, fort bien élevés, et passionnés, par-dessus tout, pour les choses de théâtre.</p>
           <p>« Est-ce que ça ne vaut pas mieux, entre nous, que d'aller au café s'abrutir, boire un tas de consommations qui vous font mal à l'estomac, et, finalement, dépenser beaucoup d'argent ?</p>
@@ -411,7 +399,7 @@
 
           <head>Déclaration</head>
           <p>Après tant d'indiscutables témoignages, au cas où le moindre de ces messieurs et dames de mes lecteurs s'aviserait encore de mettre en doute l'existence réelle du Captain Cap, je suis disposé -- quand et où l'on voudra -- à en faire une affaire personnelle.</p>
-          <p />
+          <p/>
           <p>A. A.</p>
         </div>
       </div>
@@ -434,7 +422,7 @@
           <p>Ces formules m'ont été confiées par l'homme de Paris qui possède le plus d'autorité dans cette matière, je veux parler de M. Louis Fouquet, propriétaire et directeur du célèbre bar qui fait le coin de l'avenue des Champs-Élysées et de l'avenue de l'Alma.</p>
           <p>Si quelqu'un de nos lecteurs désirait avoir sur la préparation des <hi rend="italic">American Drinks</hi> et sur le petit matériel que comporte ce sport, quelques détails supplémentaires, il n'a qu'à s'adresser directement à ce Louis Fouquet, jeune homme chez qui la technique impeccable s'allie à la plus parfaite courtoisie. </p>
           <p>Louis Fouquet se mettra volontiers à la disposition de nos lecteurs pour tous les renseignements concernant la matière.</p>
-          <p />
+          <p/>
           <p>A. A.</p>
         </div>
         <div type="chapter">
@@ -450,7 +438,7 @@
           <p>– Allô ! répondit Cap.</p>
           <p>Et il m'étreignit les mains avec une énergie peu commune. Il m'appela son <hi rend="italic">old fellow</hi> , me présenta au bonhomme qui l'accompagnait, un gentleman bien mis, entre deux ou trois âges, qu'il décorait du titre de <hi rend="italic">commodore</hi> , et m'emmena prendre un <hi rend="italic">drink</hi> dans une bodega espagnole tenue par des Belges qui vendent des boissons américaines. (Internationalisme, voilà bien de tes coups !) </p>
           <p>Cap commanda trois <hi rend="italic">John Collins</hi>
-            <ref target="#FRA00401N005">(1)</ref> de derrière les fagots.
+            <ref target="#FRA00401N005">(1)</ref><ref target="#FRA00401N005">(1)</ref> de derrière les fagots.
           </p>
           <p>Et se délièrent nos langues.</p>
           <p>Je reprochai à l'intrépide Captain le long temps qu'on ne l'avait point vu.</p>
@@ -487,7 +475,7 @@
           <p>– Voici comment elle procède, la girafe : elle se couche en exhalant une sorte de plainte mélodieuse qui a la propriété d'attirer le boa constrictor. Ce reptile arrive à pas de loup, si j'ose m'exprimer ainsi, et doucement, sans rien brusquer, s'enroule autour du cou de la jeune malade, du ras des épaules jusqu'au-dessus de la tête. Nos élégantes Parisiennes portent des boas en plume ou en fourrure. Les girafes portent des boas en boa, ce qui est bien plus près de la nature. Quarante-huit heures de ce traitement et la girafe est plus vaillante que jamais ! Hein ! qu'est-ce que vous dites de ça ?</p>
           <p>Le commodore se chargea de la réponse :</p>
           <p>-- J'ai à dire de cela qu'il ne faut pas voir dans l'acte du boa la moindre humanité -- la moindre <hi rend="italic">girafité</hi> , plutôt. -- Reptile curieux et potinier, le boa constrictor est très embêté de ne détenir qu'un horizon visuel restreint. S'il s'enroule autour du cou de la girafe, c'est tout simplement afin de voir plus loin et de plus haut. Voilà tout ! Et la girafe serait bien bête d'éprouver la moindre reconnaissance à l'égard de ce maudit. Garçon, trois <hi rend="italic">corpse revivers</hi>
-            <ref target="#FRA00401N006">(1)</ref>, et soignés, s. v. p.
+            <ref target="#FRA00401N006">(1)</ref><ref target="#FRA00401N006">(1)</ref>, et soignés, s. v. p.
           </p>
         </div>
         <div type="chapter">
@@ -517,7 +505,7 @@
           <p>À ce récit, un sourire d'incrédulité fleurit sur mes lèvres et de petites lueurs de rigolade avivèrent l'éclat de mon regard.</p>
           <p>Cap, mon interlocuteur, ne se démonta point ; il se contenta d'appeler le garçon du bar et de commander «  <hi rend="italic">Two more</hi>  », ce qui est la façon américaine de dire : «  <hi rend="italic">Remettez-nous ça</hi>  », ou plus clairement : «  <hi rend="italic">Encore une tournée.</hi>  » </p>
           <p>Le barman nous remit donc deux <hi rend="italic">mint-julep</hi>
-            <ref target="#FRA00401N007">(1)</ref>.
+            <ref target="#FRA00401N007">(1)</ref><ref target="#FRA00401N007">(1)</ref>.
           </p>
           <p>Je connais le <hi rend="italic">Captain Cap</hi> depuis pas mal de temps ; j'ai souvent l'occasion de le rencontrer dans ces nombreux <hi rend="italic">américan bars</hi> qui avoisinent notre Opéra national et l'église de la Magdeleine ; je suis accoutumé à ses hyperboles et à ses <hi rend="italic">bluffages</hi> , mais cette histoire-là, vraiment, dépassait les limites permises de la blague canadienne. </p>
           <p>(Les Canadiens, charmants enfants, d'ailleurs, sont, comme qui dirait, les Gascons transatlantiques, et Cap a beaucoup du caractère canadien.)</p>
@@ -562,7 +550,7 @@
           <p>« D'un pas de somnambule, Y... revint vers nous, prit son chapeau et sa canne. Il sortit.</p>
           <p>« Nous croyions tous à une bonne charge. Pas du tout ! Nous ne le revîmes plus jamais au café. En six mois, il passa ses derniers examens et sa thèse. -- À l'heure qu'il est, il est professeur à la Faculté de médecine de Nancy.</p>
           <p>« L'image de son regard dans la glace l'avait mis en état d'hypnose et il s'était fait suggérer à lui-même par son propre reflet de ne plus boire et de travailler ! »</p>
-          <p />
+          <p/>
           <p>Tous, nous avions écouté cette histoire avec beaucoup d'intérêt. Le Captain Cap, surtout, semblait vivement ému.</p>
           <p>– Croyez-vous, demanda-t-il au docteur, que ce procédé me réussirait, à moi ?</p>
           <p>– Pourquoi pas ? dit V... Vous pouvez toujours essayer.</p>
@@ -570,7 +558,7 @@
           <p>Toutes les injures des deux continents y passèrent. Tantôt Cap s'insultait en français, tantôt en anglais, et quelquefois en une langue parlée au sein d'une peuplade dont je soupçonne Cap d'être le seul membre.</p>
           <p>Quand le répertoire fut épuisé, Cap prit son chapeau, son pardessus et sortit sans dire un mot.</p>
           <p>– Ce serait drôle, fit l'un de nous, si Cap se mettait à travailler dès demain matin et qu'il devînt professeur à la Faculté de médecine de Nancy !</p>
-          <p>Malheureusement, cette illusion croula le soir même. Revenant chez moi et passant devant la brasserie Pousset, j'eus l'idée d'entrer voir si la Princesse Pâle, d'aventure, ne m'y attendait point <ref target="#FRA00401N008">(1)</ref>. </p>
+          <p>Malheureusement, cette illusion croula le soir même. Revenant chez moi et passant devant la brasserie Pousset, j'eus l'idée d'entrer voir si la Princesse Pâle, d'aventure, ne m'y attendait point <ref target="#FRA00401N008">(1)</ref><ref target="#FRA00401N008">(1)</ref>. </p>
           <p>Pas de Princesse Pâle ! (Dans les bras d'un autre, sans doute.) Mais, par contre, qu'aperçus-je, confortablement installé devant une eiffellesque pile de soucoupes ? Vous l'avez déjà deviné. Mon vieux Captain Cap.</p>
           <p>Il m'offrit un <hi rend="italic">demi</hi> de la meilleure grâce du monde et conclut philosophiquement : </p>
           <p>– Qu'est-ce que vous voulez ? L'autosuggestion ne réussit pas à tous les tempéraments.</p>
@@ -598,7 +586,7 @@
           <p>Une fois endormie, elle n'était plus qu'un outil de cire molle entre les doigts de votre volition, si, toutefois, nous osons nous exprimer ainsi.</p>
           <p>Si on voulait, on irait ce soir.</p>
           <p>On y alla.</p>
-          <p />
+          <p/>
           <p>De sa rude main droite d'homme de mer, Cap prit les menues menottes de la petite bergère montmartroise, et de l'autre opéra certaines passes connues de lui seul.</p>
           <p>Un, deux, trois... ça y est ! Elle dort.</p>
           <p>Alors Cap sortit de sa poche une pomme de terre crue et une goyave.</p>
@@ -620,7 +608,7 @@
           <head>Chapitre VI -- Où le Captain Cap indique un moyen bien simple d'assurer l'équilibre européen.</head>
           <p>– Dites-moi, mon cher Allais, vous est-il jamais venu à l'esprit l'idée de faire couver des œufs de hareng saur par une autruche empaillée ?</p>
           <p>– Jamais, mon cher Cap, au grand jamais, je vous le jure !</p>
-          <p>-- Eh bien, c'est exactement l'occupation à laquelle se livre M. Carnot <ref target="#FRA00401N009">(1)</ref> en ce moment. </p>
+          <p>-- Eh bien, c'est exactement l'occupation à laquelle se livre M. Carnot <ref target="#FRA00401N009">(1)</ref><ref target="#FRA00401N009">(1)</ref> en ce moment. </p>
           <p>– M. Carnot ?</p>
           <p>– M. Carnot lui-même.</p>
           <p>– M. Carnot fait couver des œufs de hareng saur par des autruches empaillées ?</p>
@@ -631,7 +619,7 @@
           <p>– Ni pour amener le désarmement sans lequel ne pourraient se produire nulle détente et nulle prospérité.</p>
           <p>– Bien sûr !</p>
           <p>– Quand je dis que M. Carnot fait couver des œufs de hareng saur par des autruches empaillées, il ne faut pas, bien entendu, prendre mon allégation au pied de la lettre. C'est une simple image que j'entends employer, un symbole, dirait Moréas. -- Symbole, priez pour nous !</p>
-          <p>Et pendant que le garçon du bar nous servait, car nous nous sentions très déprimés, chacun un gin-flip <ref target="#FRA00401N010">(1)</ref>, le Captain Cap reprit : </p>
+          <p>Et pendant que le garçon du bar nous servait, car nous nous sentions très déprimés, chacun un gin-flip <ref target="#FRA00401N010">(1)</ref><ref target="#FRA00401N010">(1)</ref>, le Captain Cap reprit : </p>
           <p>– Nous parlions de désarmement général, tout à l'heure... Savez-vous ce qui l'empêche, le désarmement, encore plus que la question d'Alsace-Lorraine ?</p>
           <p>– Dites-le-moi, et, après, je le saurai.</p>
           <p>– Ce qui empêche le désarmement, c'est la préoccupation de l'équilibre européen, et l'équilibre européen tient tout entier dans la question des Dardanelles et la question des Balkans.</p>
@@ -661,7 +649,7 @@
         <div type="chapter">
 
           <head>Chapitre VII -- Où le Captain Cap donne une magistrale leçon de savoir-faire à un barman ignare, européen et ahuri.</head>
-          <p>Bien que l'heure ne fût pas, à vrai dire, encore très avancée, une soif énorme étreignait les gorges du Captain Cap et de moi (triste conséquence, sans doute, des débauches de la veille) <ref target="#FRA00401N011">(1)</ref>. </p>
+          <p>Bien que l'heure ne fût pas, à vrai dire, encore très avancée, une soif énorme étreignait les gorges du Captain Cap et de moi (triste conséquence, sans doute, des débauches de la veille) <ref target="#FRA00401N011">(1)</ref><ref target="#FRA00401N011">(1)</ref>. </p>
           <p>D'un commun accord, nous eûmes vite défourché notre tandem, cependant que notre regard explorait l'horizon.</p>
           <p>Précisément, un grand café d'aspect très chic se présenta.</p>
           <p>Malgré l'apparence fâcheusement européenne de l'endroit, tout de même nous consentîmes à boire là.</p>
@@ -740,25 +728,25 @@
           <p>En arrivant à Nice, le Captain Cap et moi, deux affiches murales se disputèrent la gloire d'attirer notre attention.</p>
           <p>( <hi rend="italic">La phrase que je viens d'écrire est d'une syntaxe plutôt discutable. On ne dirait vraiment pas que j'ai fait mes humanités</hi> .) </p>
           <p>Celle de ces deux affiches qui me charma, moi, en voici la teneur :</p>
-          <p />
+          <p/>
           <p>X..., PÉDICURE</p>
           <p>TELLE RUE, TEL NUMÉRO</p>
           <p>LE SEUL PÉDICURE SÉRIEUX DE NICE</p>
-          <p />
+          <p/>
           <p>Jamais, comme en ce moment, je ne sentis l'horreur de toute absence, sur mes abatis, de cors, durillons, œils de perdrix et autres stratagèmes.</p>
           <p>Avoir sous la main un artiste qui, non content d'être sérieux, tient en même temps à être le seul sérieux d'une importante bourgade comme Nice, et ne trouver point matière à l'utiliser ! regrettable, ah ! que !...</p>
           <p>Cap me proposa bien un truc qu'il tenait d'une vieille coutume en usage chez les femmes de saura-t-on jamais quel archipel polynésien, lesquelles femmes font consister tout leur charme à détenir le plus grand nombre possible de durillons sur les parties du corps les moins indiquées pour cette fin.</p>
           <p>Je ne crus point devoir accepter, pour ce que ce jeu n'en valait point la chandelle, et nous passâmes à un autre genre de sport.</p>
           <p>Celle des affiches murales que préféra Cap, annonçait à Urbi, Orbi and C°, que tout individu, titulaire d'une petite somme variant entre vingt-cinq centimes et un franc, pouvait s'offrir le spectacle d'un orang-outang, autrement dit, messieurs et dames, le véritable homme des bois, le SEUL, (tel mon pédicure du début) ayant paru en France depuis les laps les plus reculés.</p>
           <p>Une gravure complétait ce texte, une gravure figurant le buste du quadrumane, et autour de cette gravure, ainsi qu'une inscription de médaille, s'étalaient ces mots, circulairement :</p>
-          <p />
+          <p/>
           <p>
             <hi rend="italic">Je m'appelle Auguste :</hi>
           </p>
           <p>
             <hi rend="italic">10,000 francs à qui prouvera le contraire !</hi>
           </p>
-          <p />
+          <p/>
           <p>Dix mille francs à qui prouvera le contraire !</p>
           <p>Le contraire de quoi ? Que le monstre en question fût un véritable orang-outang, un authentique homme des bois, ou simplement qu'il s'appelât, de son vrai nom, Auguste ?</p>
           <p>Pour l'âme limpide de Cap, nul doute ne savait exister.</p>
@@ -771,7 +759,7 @@
           <p>– Dam !</p>
           <p>– Allais, si vous répétez encore une seule fois ce mot dam, je vous f... un coup d'aviron sur la g... !</p>
           <p>Tout ce qu'on voudra sur la g..., hormis un aviron ! Telle est ma devise.</p>
-          <p>Je n'insistai point et nous parlâmes d'autre chose, en savourant le mannhattan cocktail <ref target="#FRA00401N012">(1)</ref> du bon accord. </p>
+          <p>Je n'insistai point et nous parlâmes d'autre chose, en savourant le mannhattan cocktail <ref target="#FRA00401N012">(1)</ref><ref target="#FRA00401N012">(1)</ref> du bon accord. </p>
           <p>Le soir même, Cap filait sur Antibes, regagnant son yacht, <hi rend="italic">le Roi des Madrépores</hi> , et je demeurai une grande quinzaine sans le revoir. </p>
           <p>Un matin, je fus réveillé par de grands éclats de voix dans mon antichambre : le clairon triomphal du Captain ébranlait mes parois.</p>
           <p>– Ah ! ah ! proclamait Cap, je les ai, les preuves, je les tiens !</p>
@@ -801,7 +789,7 @@
           <p>Cette terminologie vous semble un peu bizarre, parce que vous n'êtes pas habitués ; mais, la première fois qu'un homme a dit : «  <hi rend="italic">Moi, je suis du Midi</hi>  », cette phrase a paru bien drôle aussi, soyez-en convaincus. </p>
           <p>Mais ce n'est pas tout : de même que nous avons partagé la France en large, nous allons maintenant la diviser en long, c'est-à-dire dans le sens des longitudes.</p>
           <p>Nous formons ainsi sept zones qui porteront chacune le nom d'un jour de la semaine, à commencer par les parages de Brest, qui s'appelleront <hi rend="italic">Lundi</hi> , pour terminer à nos frontières de l'Est, là-bas, qui répondront au nom de <hi rend="italic">Dimanche</hi>
-            <ref target="#FRA00401N013">(1)</ref>.
+            <ref target="#FRA00401N013">(1)</ref><ref target="#FRA00401N013">(1)</ref>.
           </p>
           <p>Nous déterminerons ainsi des tas de petits carrés dont le seul énoncé indiquerait exactement la situation, beaucoup plus clairement qu'avec la vieille et ridicule mode des degrés de longitude et de latitude.</p>
           <p>Paris, par exemple, si je ne me trompe, se trouverait dans le <hi rend="italic">Jeudi</hi> -- <hi rend="italic">Cinq heures vingt</hi> . </p>
@@ -821,21 +809,21 @@
           <p>Je détiens le <hi rend="italic">record du millimètre</hi> sur piste et sur route. </p>
           <p>Je l'ai accompli sur piste, sans entraîneurs, en moins de 1/17 000e de seconde.</p>
           <p>Sur route, mon temps est un peu plus long : 1/14 000e de seconde.</p>
-          <p>Je dois ajouter que, dans cette dernière épreuve, j'eus contre moi un vent épouvantable, doublé d'une pluie torrentielle. Et puis -- peut-être devrais-je passer ce détail sous silence -- mes entraîneurs MM. X... et Y... <ref target="#FRA00401N014">(1)</ref>
-            <hi rend="italic">à la suite d'une absorption sans doute excessive de</hi> whisky stone fence <ref target="#FRA00401N015">(2)</ref> se trouvaient ivres-morts, comme par hasard. </p>
+          <p>Je dois ajouter que, dans cette dernière épreuve, j'eus contre moi un vent épouvantable, doublé d'une pluie torrentielle. Et puis -- peut-être devrais-je passer ce détail sous silence -- mes entraîneurs MM. X... et Y... <ref target="#FRA00401N014">(1)</ref><ref target="#FRA00401N014">(1)</ref>
+            <hi rend="italic">à la suite d'une absorption sans doute excessive de</hi> whisky stone fence <ref target="#FRA00401N015">(2)</ref><ref target="#FRA00401N015">(2)</ref> se trouvaient ivres-morts, comme par hasard. </p>
           <p>Je compte, d'ailleurs, battre mon propre temps, dans le courant de septembre prochain.</p>
           <p>En cette prévision, je m'entraîne sérieusement, travaillant quatorze heures par jour, moitié sur une descente de lit (représentant un tigre dans les jungles), moitié sur sable mouillé.</p>
           <p>Ma nourriture se compose exclusivement de rogue de limande très peu cuite, que j'arrose avec une infusion de chiendent coupée d'un bon tiers de queues de cerises.</p>
           <p>Quelle est mon attitude sur la machine ? me demandez-vous.</p>
           <p>À cet égard, j'ai toujours suivi un vieux dicton de l'École de Saverne que ma grand-mère me répétait souvent, au temps de mon enfance, et dont je n'ai jamais cessé de bien me trouver :</p>
-          <p />
+          <p/>
           <p>
             <hi rend="italic">Rigide comme un cyclamen</hi>
           </p>
           <p>
             <hi rend="italic">Chevauchez votre cycle. Amen !</hi>
           </p>
-          <p />
+          <p/>
           <p>J'évite donc de me pencher sur le guidon et tout le haut de mon corps tend, sans affectation, à se rapprocher de la verticale.</p>
           <p>Voilà, mon cher Allais, les quelques détails que vous avez sollicités de mon obligeance bien connue et de ma courtoisie dont l'éloge n'est plus à faire.</p>
           <p>Pour les renseignements complémentaires, consultez mon prochain ouvrage ( <hi rend="italic">sous presse</hi> ) : <hi rend="italic">Les Confessions d'un enfant du cycle</hi> . </p>
@@ -854,7 +842,7 @@
           <p>Le record du temps pour la descente de l'escalier de six étages serait également détenu, si nous l'en croyons, par notre intrépide et sportif ami.</p>
           <p>Laissons-lui la parole.</p>
           <p>– ... Par goût autant que par hygiène, je fais du pédestrianisme à outrance. Le Juif-Errant, dont vous faites votre Dieu, n'est, auprès de moi, qu'un lourdaud cul-de-plomb.</p>
-          <p>Pas de sport sérieux, n'est-ce pas ? sans entraîneurs. Or, mes minces ressources actuelles <ref target="#FRA00401N016">(1)</ref> m'interdisent de rémunérer de tels tiers. </p>
+          <p>Pas de sport sérieux, n'est-ce pas ? sans entraîneurs. Or, mes minces ressources actuelles <ref target="#FRA00401N016">(1)</ref><ref target="#FRA00401N016">(1)</ref> m'interdisent de rémunérer de tels tiers. </p>
           <p>Aussi, qu'ai-je imaginé ? Ne cherchez pas. J'ai imaginé de prendre comme entraîneur le premier venu, le dernier venu, n'importe qui, vous, le général Brugère, l'abbé Lemire, Carolus Duran, je m'en fiche.</p>
           <p>J'emboîte le pas de l'être choisi, et je m'en vais.</p>
           <p>L'être choisi s'aperçoit tout de suite du manège. Il accélère son allure. Moi la mienne. Et nous voilà partis, menant un train du diable.</p>
@@ -862,7 +850,7 @@
           <p>Toutes choses excellentes pour me faire conserver le record du <hi rend="italic">gnon</hi>  ! </p>
           <p>Qu'importe ?</p>
           <p>Mais me voilà bien loin de mon record... J'y reviens... Mais, d'abord un petit <hi rend="italic">thunder</hi>
-            <ref target="#FRA00401N016">(1)</ref>, voulez-vous ?
+            <ref target="#FRA00401N016">(1)</ref><ref target="#FRA00401N016">(1)</ref>, voulez-vous ?
           </p>
           <p>– Volontiers.</p>
           <p>– Hier donc, l'idée me vint de prendre, au lieu d'un entraîneur, une entraîneuse.</p>
@@ -879,7 +867,7 @@
         <div type="chapter">
 
           <head>Chapitre XI -- Nouveau projet du Captain Cap pour communications inter-astrales.</head>
-          <p>Le flamboiement inaccoutumé de Mars -- uniquement dû, d'ailleurs, à la générale adoption du bec Auer <ref target="#FRA00401N017">(1)</ref> par les habitants de cette planète -- a remis sur le tapis de l'actualité la toujours intéressante question des communications inter-astrales. </p>
+          <p>Le flamboiement inaccoutumé de Mars -- uniquement dû, d'ailleurs, à la générale adoption du bec Auer <ref target="#FRA00401N017">(1)</ref><ref target="#FRA00401N017">(1)</ref> par les habitants de cette planète -- a remis sur le tapis de l'actualité la toujours intéressante question des communications inter-astrales. </p>
           <p>Si véritablement des mondes animés grouillent au sein des astres environnants, comment leur faire signe, comment les aviser que la terre, notre petite terre chérie, est peuplée d'êtres intelligents (je parle de mes lecteurs), fort capables d'entrer en communication avec eux ?</p>
           <p>Charles Cros avait été très préoccupé de cette question et il publia un petit mémoire fort curieux en lequel il proposait un système de signaux lumineux, commençant sur un rythme très simple pour arriver à des rythmes plus compliqués, mais très susceptibles d'être perçus et compris par des bonshommes d'organisation cérébrale analogue à la nôtre.</p>
           <p>Tout cela est fort joli ; mais pour faire d'utiles signaux à des gens, encore faut-il que ces gens soient avertis de votre manège ou, seulement, vous regardent au moment où vous vous occupez d'eux.</p>
@@ -902,7 +890,7 @@
 
           <head>Chapitre XII -- Récit incroyable mais vrai de dressages d'animaux, obtenus sans effort par de patients bipèdes.</head>
           <p>Dimanche dernier, aux courses d'Auteuil, je fis la rencontre du Captain Cap et je ressentis de cette circonstance, une joie d'autant plus vive que je croyais, pour le moment, notre sympathique navigateur en rade de Bilbao.</p>
-          <p>La journée de dimanche dernier n'est pas tellement effondrée dans les abîmes de l'Histoire qu'on ne puisse se rappeler l'abominable temps qui sévissait alors <ref target="#FRA00401N018">(1)</ref>. </p>
+          <p>La journée de dimanche dernier n'est pas tellement effondrée dans les abîmes de l'Histoire qu'on ne puisse se rappeler l'abominable temps qui sévissait alors <ref target="#FRA00401N018">(1)</ref><ref target="#FRA00401N018">(1)</ref>. </p>
           <p>-- Mouillé pour mouillé, conclut Cap après les salutations d'usage, j'aimerais mieux me mouiller au sein de l' <hi rend="italic">Australian Wine Store</hi> de l'avenue d'Eylau. Est-ce point votre avis ? </p>
           <p>– J'abonde dans votre sens, Captain.</p>
           <p>– Alors, filons !</p>
@@ -910,12 +898,12 @@
           <p>– Qu'est-ce qu'il faut servir à ces messieurs ? demanda la gracieuse petite patronne.</p>
           <p>– Ah ! voilà, fit Cap. Que pourrait-on bien boire ?</p>
           <p>-- Pour moi, fis-je, il pleure dans mon cœur comme il pleut sur la ville, en sorte que je vais m'envoyer un bon petit <hi rend="italic">Angler's cocktail</hi>
-            <ref target="#FRA00401N019">(1)</ref>.
+            <ref target="#FRA00401N019">(1)</ref><ref target="#FRA00401N019">(1)</ref>.
           </p>
           <p>-- C'est une idée ! Moi aussi, je vais m'envoyer un bon petit <hi rend="italic">Angler's cocktail</hi> . Préparez-nous, madame, deux bons petits <hi rend="italic">Angler's cocktails</hi> , je vous prie. </p>
           <p>À ce moment, pénétra dans le bar un homme que Cap connaissait et qu'il me présenta.</p>
           <p>Son nom, je ne l'entendis pas bien ; mais sa fonction, vivrais-je aussi longtemps que toute une potée de patriarches, je ne l'oublierai jamais.</p>
-          <p>L'ami de Cap s'intitulait modestement : chef de musique à bord du GOUBET ! <ref target="#FRA00401N020">(1)</ref>
+          <p>L'ami de Cap s'intitulait modestement : chef de musique à bord du GOUBET ! <ref target="#FRA00401N020">(1)</ref><ref target="#FRA00401N020">(1)</ref>
           </p>
           <p>Cet étrange fonctionnaire se mit à nous conter des histoires plus étranges encore.</p>
           <p>Il avait passé tout l'été, affirmait-il, à dresser des moules.</p>
@@ -939,14 +927,14 @@
           <p>– En osier. Vous n'ignorez pas que les paysans californiens sont très experts en l'art de fabriquer des trombones à coulisse avec des brins d'osier ?</p>
           <p>– Je n'ai fait que traverser la Californie sans avoir le loisir de m'attarder au moindre détail ethnographique.</p>
           <p>– Alors, à chaque note émise par l'instrument, un oiseau s'envolait et venait se placer à la place convenable. Quand tout ce petit monde était placé, le concert commençait, les volatiles émettant leur note chacun à son tour.</p>
-          <p>La petite patronne <ref target="#FRA00401N021">(1)</ref> de l'<hi rend="italic">Australian Wine Store</hi> semblait au comble de la joie d'entendre une si mirifique imagination, et comme nous manifestions une vague méfiance, elle se chargea de venir au secours de Cap avec ces mots qu'elle prononça gravement : </p>
+          <p>La petite patronne <ref target="#FRA00401N021">(1)</ref><ref target="#FRA00401N021">(1)</ref> de l'<hi rend="italic">Australian Wine Store</hi> semblait au comble de la joie d'entendre une si mirifique imagination, et comme nous manifestions une vague méfiance, elle se chargea de venir au secours de Cap avec ces mots qu'elle prononça gravement : </p>
           <p>-- Tout ce que vient de dire le Captain est rigoureusement exact. Moi, je les ai vus, ces oiseaux mélomanes. C'était, n'est-ce pas, Cap ? sur la ligne télégraphique qui va de <hi rend="italic">Tahdblag-town</hi> à <hi rend="italic">Loofock-Place</hi>.</p>
         </div>
         <div type="chapter">
 
           <head>Chapitre XIII -- Description oiseuse et par conséquent détaillée des manipulations minutieuses et efficaces au moyen desquelles on remet à neuf les vieux confetti.</head>
           <p>D'un seul coup, Cap lampa le large verre d' <hi rend="italic">american grog</hi>
-            <ref target="#FRA00401N022">(1)</ref> qu'on venait de lui servir, et me dit :
+            <ref target="#FRA00401N022">(1)</ref><ref target="#FRA00401N022">(1)</ref> qu'on venait de lui servir, et me dit :
           </p>
           <p>– Alors, ça vous embête tant que ça, la pénible incertitude où vous pataugez !</p>
           <p>– Quelle pénible incertitude, dites-moi, Captain ?</p>
@@ -962,7 +950,7 @@
           <p>Cap tenait son homme.</p>
           <p>– Je vais vous le dire, moi, où vont les vieux confetti.</p>
           <p>Et pour donner un peu de cœur au ventre de Cap, je priai le garçon de nous servir, car je venais de piger un rhume sérieux, deux <hi rend="italic">ale-flips</hi>
-            <ref target="#FRA00401N023">(1)</ref> bien soignés.
+            <ref target="#FRA00401N023">(1)</ref><ref target="#FRA00401N023">(1)</ref> bien soignés.
           </p>
           <p>– Les vieux confetti ? Il n'y a pas de vieux confetti, ou plutôt, il n'y en aura plus.</p>
           <p>– Allons donc ! Et comment ce phénomène ?</p>
@@ -1004,7 +992,7 @@
 
           <head>Chapitre XIV -- Le Captain Cap et la défense nationale. -- Nouveau mode de transport de dépêches. -- La critique du général Dragomirov.</head>
           <p>Le premier être humain que j'aperçus, en sortant de la gare, fut mon vieil ami le Captain Cap, qui remontait d'un pas songeur la rue d'Amsterdam.</p>
-          <p>En vue de cette occurrence, la main de Dieu eut, jadis, la précaution de placer à cet endroit l' <hi rend="italic">Irish bar</hi> de notre vieux Austin <ref target="#FRA00401N024">(1)</ref>. </p>
+          <p>En vue de cette occurrence, la main de Dieu eut, jadis, la précaution de placer à cet endroit l' <hi rend="italic">Irish bar</hi> de notre vieux Austin <ref target="#FRA00401N024">(1)</ref><ref target="#FRA00401N024">(1)</ref>. </p>
           <p>Et puis il faisait si chaud depuis le buffet de Serquigny, ma dernière étape !</p>
           <p>Nous entrâmes.</p>
           <p>... Huit mois déjà passés que je n'avais vu le Captain !... Huit mois !...</p>
@@ -1020,7 +1008,7 @@
           <p>– C'était beau ?</p>
           <p>– Oh ! je n'ai pas eu le temps de regarder les troupes !... J'avais d'autres chiens à fouetter !</p>
           <p>– Je vois avec plaisir, mon cher Cap, que vous n'avez pas changé ! Car, il n'y a que vous au monde, et quelques aveugles, pour aller aux grandes manœuvres, sans jeter un coup d'œil sur les militaires.</p>
-          <p>-- Je ne fus en contact qu'avec les généralissimes, Zurlinden, Félix Faure et Dragomirov <ref target="#FRA00401N025">(1)</ref>. </p>
+          <p>-- Je ne fus en contact qu'avec les généralissimes, Zurlinden, Félix Faure et Dragomirov <ref target="#FRA00401N025">(1)</ref><ref target="#FRA00401N025">(1)</ref>. </p>
           <p>– Vous avez de jolies relations, Cap !</p>
           <p>– Dites plutôt que ces messieurs furent des plus honorés de me connaître.</p>
           <p>– Ont-ils au moins su vous apprécier ?</p>
@@ -1036,7 +1024,7 @@
           <p>– Impossible ! impossible ! ce serait compromettre la défense nationale.</p>
           <p>– La défense nationale ! le salut de la Patrie ! c'est vous qui venez me parler de ces sornettes, vous, Cap, l'apôtre de l'anti-européanisme !</p>
           <p>-- Le salut de la France m'intéresse autant qu'une partie de <hi rend="italic">poker dice</hi>
-            <ref target="#FRA00401N026">(1)</ref>
+            <ref target="#FRA00401N026">(1)</ref><ref target="#FRA00401N026">(1)</ref>
             <hi rend="italic">et j'aime beaucoup le</hi> poker dice*.
           </p>
           <p>Je me levai, tendis la main à Cap et, d'une voix consternée :</p>
@@ -1066,7 +1054,7 @@
           <p>Cap parlait, parlait autant pour cacher sa très réelle émotion que pour exprimer, en verbes définitifs, ses légitimes revendications.</p>
           <p>C'est ainsi que nous arrivâmes tout doucement devant l' <hi rend="italic">Australian Wine Store</hi> , de l'avenue d'Eylau, là, où il y a une petite patronne qui ressemble à un gros et frais baby chilien. </p>
           <p>Notre émotion devait avoir laissé des traces visibles sur notre physionomie, car le garçon du bar nous prépara, sans qu'il fût besoin de lui en intimer l'ordre, deux <hi rend="italic">brandy cocktails</hi>
-            <ref target="#FRA00401N027">(1)</ref>, breuvage qui s'indiqua de lui-même en ces circonstances.
+            <ref target="#FRA00401N027">(1)</ref><ref target="#FRA00401N027">(1)</ref>, breuvage qui s'indiqua de lui-même en ces circonstances.
           </p>
           <p>Un gentleman se trouvait déjà installé au bar devant une copieuse rasade d' <hi rend="italic">irish whisky</hi> , arrosé d'un tout petit peu d'eau. L' <hi rend="italic">irish whisky</hi> avec trop d'eau n'a presque plus de goût. </p>
           <p>Cap connaissait ce gentleman ; il me le présenta :</p>
@@ -1106,7 +1094,7 @@
           <p>– Cette objection n'en est pas une. L'ours blanc ne prend cette forme allongée que grâce à son régime exclusivement ichtyophagique.</p>
           <p>À ce moment, Cap affecta une attitude si triomphante que nous tînmes pour parole d'évangile cette dernière assertion, d'une logique pourtant peu aveuglante.</p>
           <p>Et nous dégustâmes sur l'heure un <hi rend="italic">rocky mountain punch</hi>
-            <ref target="#FRA00401N028">(1)</ref> avec énormément de glace dedans, pour nous assurer une vieillesse vigoureuse.
+            <ref target="#FRA00401N028">(1)</ref><ref target="#FRA00401N028">(1)</ref> avec énormément de glace dedans, pour nous assurer une vieillesse vigoureuse.
           </p>
         </div>
         <div type="chapter">
@@ -1133,7 +1121,7 @@
           <p>– Tiens, c'est vrai, je n'y avais point songé. Ce major Heitner est encore plus inconséquent que je ne croyais.</p>
           <p>Et pour chasser la mauvaise impression de l'inconséquence excessive du major, nous pénétrâmes, Cap et moi, dans un de ces petits <hi rend="italic">american bars</hi> , qui sont le plus bel ornement de la baie de Villefranche. </p>
           <p>Après l'ingurgitation d'un <hi rend="italic">lemon-squash</hi>
-            <ref target="#FRA00401N029">(1)</ref>, Cap reprit :
+            <ref target="#FRA00401N029">(1)</ref><ref target="#FRA00401N029">(1)</ref>, Cap reprit :
           </p>
           <p>– La guerre stupide que l'homme fait aux microbes va, d'ici peu de temps, coûter cher à l'humanité.</p>
           <p>– Dieu nous garde, Cap !</p>
@@ -1147,7 +1135,7 @@
           <p>– Et Max Nordau fera un livre sur eux. Ce sera très rigolo.</p>
           <p>– Hein ! Que dites-vous de ma théorie ?</p>
           <p>-- Épatante, Cap ! Paix à tous les microbes de bonne volonté ! Et, pour commencer la mise en pratique de votre idée, les microbes aiment-ils l' <hi rend="italic">irish cocktail</hi>
-            <ref target="#FRA00401N030">(1)</ref> ?
+            <ref target="#FRA00401N030">(1)</ref><ref target="#FRA00401N030">(1)</ref> ?
           </p>
           <p>– Ils l'adorent, Alphonse, n'en doutez point !</p>
           <p>-- Alors, garçon, deux <hi rend="italic">gin cocktails</hi>  ! Et préparez-nous-les, <hi rend="italic">carefully</hi> , vous savez ? </p>
@@ -1159,15 +1147,15 @@
           <head>Chapitre XVII -- Où le Captain Cap réussit sans appareil à ascensionner avec la régularité d'un oiseau.</head>
           <p>Ce pauvre Captain Cap commençait à me raser étrangement, avec ses aérostats, ses machines volantes, planantes et autres, qui m'indiffèrent également.</p>
           <p>J'allais prendre congé sur un quelconque motif, quand un gentleman d'aspect robuste, et qui avait semblé prendre un vif intérêt aux grandes idées de Cap, se leva, s'approcha, nous tendant le plus correctement du globe sa carte, une très chic carte de chez Stern, sur laquelle on pouvait lire ces mots :</p>
-          <p />
+          <p/>
           <p>Sir A. KASHTEY</p>
           <p>
             <hi rend="italic">Winnipeg.</hi>
           </p>
-          <p />
+          <p/>
           <p>Nous aimons beaucoup le Canada, Cap et moi, et la rencontre d'un Canadien, même d'un Canadien anglais, nous transporte toujours de joie.</p>
           <p>Aussi accueillîmes-nous, d'une mine accorte, ce noble étranger qui voulut bien consentir à accepter un <hi rend="italic">champagne-gobbler</hi>
-            <ref target="#FRA00401N040">(1)</ref>.
+            <ref target="#FRA00401N040">(1)</ref><ref target="#FRA00401N040">(1)</ref>.
           </p>
           <p>Quand nous eûmes échangé les préliminaires de la courtoisie courante :</p>
           <p>– C'est que, continua sir A. Kashtey, l'aérostation, ça me connaît un peu !... J'en ai fait jadis dans des conditions peut-être uniques au monde !</p>
@@ -1187,17 +1175,17 @@
           <p>– Nous le devinons ; mais expliquez-le tout de même, pour ceux de nos lecteurs qui ne connaissent M. Berthelot que de nom.</p>
           <p>– Vous avez raison !... Chaque fois qu'on met en contact du fer, de l'eau et un acide, il se dégage de l'hydrogène... Je n'eus qu'à clore hermétiquement mes orifices naturels, et en particulier ma bouche ; au bout de quelques secondes, gonflé du précieux gaz, je regagnais la surface des flots. Mais voilà !... Comme il est dit dans la complainte de la criminelle famille Fenayrou, j'avais mal calculé la poussée des gaz. Ne me contentant pas de flotter, je m'élevai dans les airs, balancé par une assez forte brise Est qui me poussa en amont de la rivière. Ce sport, nouveau pour moi, d'abord me ravit, puis bientôt me monotona. Au petit jour, j'entrouvris légèrement un coin des lèvres, comme un monsieur qui sourit. Un peu d'hydrogène s'évada ; me rapprochant peu à peu de mon poids normal, bientôt, je mis pied à terre, en un joli petit pays qui s'appelle Tadoussac et qui est situé à l'embouchure du Saguenay. Connaissez-vous Tadoussac ?</p>
           <p>– Si je connais Tadoussac ! Et la jolie petite vieille église ! (la première que les Français construisirent au Canada). Et les jeunes filles de Tadoussac qui vendent des photographies dans la vieille petite église au profit de la construction d'une nouvelle basilique !</p>
-          <p>(Et même si ces lignes viennent à tomber sous les yeux des jeunes filles de Tadoussac, qu'elles sachent bien que messieurs P. F., E. D., B. de C., A. A. ont gardé d'elles un souvenir imprescriptible à la fois et charmant <ref target="#FRA00401N041">(1)</ref>. </p>
+          <p>(Et même si ces lignes viennent à tomber sous les yeux des jeunes filles de Tadoussac, qu'elles sachent bien que messieurs P. F., E. D., B. de C., A. A. ont gardé d'elles un souvenir imprescriptible à la fois et charmant <ref target="#FRA00401N041">(1)</ref><ref target="#FRA00401N041">(1)</ref>. </p>
           <p>Sitôt fermée ma parenthèse, le gentleman de Winnipeg termina son récit avec une aisance presque injurieuse pour ce pauvre Cap :</p>
           <p>– Dès que j'eus mis pied à terre, j'exhalai le petit restant d'hydrogène qui me restait dans le coffre, et je gagnai la saumonnerie de Tadoussac en chantant à pleine voix cette vieille romance française que j'aime tant :</p>
-          <p />
+          <p/>
           <p>
             <hi rend="italic">Laissez les roses aux rosiers</hi>
           </p>
           <p>
             <hi rend="italic">Et les éléphants au lord-maire.</hi>
           </p>
-          <p />
+          <p/>
           <p>Visiblement contrarié, Cap haussa les épaules murmurant :</p>
           <p>– Ce bonhomme-là ne me fait pas l'effet d'un personnage bien sérieux.</p>
         </div>
@@ -1210,7 +1198,7 @@
           <p>-- Alors au <hi rend="italic">Chicago Bar</hi> , c'est tout près ? </p>
           <p>-- Au <hi rend="italic">Chicago Bar</hi> pas plus qu'à la <hi rend="italic">Leicester Tavern</hi>  ! </p>
           <p>– Vous m'inquiétez, Cap.</p>
-          <p>-- Tant que durera le conflit Anglo-Américain, je ne mettrai les pieds en aucun établissement John-Bullesque ni Uncle-Sameux <ref target="#FRA00401N042">(1)</ref>. Dans la situation que j'occupe, l'intégrale neutralité s'impose à moi. </p>
+          <p>-- Tant que durera le conflit Anglo-Américain, je ne mettrai les pieds en aucun établissement John-Bullesque ni Uncle-Sameux <ref target="#FRA00401N042">(1)</ref><ref target="#FRA00401N042">(1)</ref>. Dans la situation que j'occupe, l'intégrale neutralité s'impose à moi. </p>
           <p>– Et dans les brasseries vénézuéliennes, Cap, y allez-vous ?</p>
           <p>– Le moins possible... D'ailleurs, je ne bois plus rien à Paris. Dès que j'ai soif, je vais dans les départements, j'enfourche ma nonuplette...</p>
           <p>– Pardon, Cap, de vous interrompre. Votre... quoi enfourchez-vous ?</p>
@@ -1242,7 +1230,7 @@
           <head>Chapitre XIX -- Ce qu'on peut appeler sans crainte la maison vraiment moderne.</head>
           <p>– Eh bien, mon vieux Cap, que pensez-vous de cela ?</p>
           <p>– De quoi ?</p>
-          <p>Je tendis au Captain le numéro du <hi rend="italic">Journal</hi> en lequel Marcel Prévost traitait, avec son autorité et son charme coutumiers, la question de la maison moderne <ref target="#FRA00401N043">(1)</ref>. </p>
+          <p>Je tendis au Captain le numéro du <hi rend="italic">Journal</hi> en lequel Marcel Prévost traitait, avec son autorité et son charme coutumiers, la question de la maison moderne <ref target="#FRA00401N043">(1)</ref><ref target="#FRA00401N043">(1)</ref>. </p>
           <p>D'un rapide coup d'œil, d'un de ces coups d'œil que l'aigle le plus perspicace n'hésiterait pas à signer, notre vaillant camarade eut bientôt fait de dévorer ladite chronique.</p>
           <p>Puis il haussa les épaules, et d'une attitude qui lui est familière :</p>
           <p>– Votre ami Prévost, dit-il, me semble bien ingénu de tant s'effarer pour un monte-charge à ordures ménagères et pour le chauffage des W.-C.</p>
@@ -1255,7 +1243,7 @@
           <p>– Ah ! mon vieux Cap !... On ne me la fait plus, celle-là, je la connais !</p>
           <p>– Qu'est-ce que vous connaissez ?</p>
           <p>-- Il y a à San-Remo un hôtel qui, entre autres alléchances, met sur son prospectus cette curieuse indication : «  <hi rend="italic">Grâce à une ingénieuse combinaison, toutes les chambres de l'hôtel sont exposées au Midi</hi>
-            <ref target="#FRA00401N044">(1)</ref>*.* » Or, l'ingénieuse combinaison, la voici : L'hôtel, fort mince, ne comporte qu'une épaisseur de chambres, lesquelles, naturellement ont toutes la même orientation, celle du Midi. Si c'est ça que vous appelez la maison idéale !
+            <ref target="#FRA00401N044">(1)</ref><ref target="#FRA00401N044">(1)</ref>*.* » Or, l'ingénieuse combinaison, la voici : L'hôtel, fort mince, ne comporte qu'une épaisseur de chambres, lesquelles, naturellement ont toutes la même orientation, celle du Midi. Si c'est ça que vous appelez la maison idéale !
           </p>
           <p>– Quand vous aurez fini de parler, je causerai.</p>
           <p>– Allez.</p>
@@ -1268,7 +1256,7 @@
           <p>– Nous voilà loin, n'est-ce pas, mon cher, de la maison moderne de Marcel Prévost, aux tuyaux émaillés qui empêchent les microbes de remonter dans l'appartement !</p>
           <p>–-</p>
           <p>-- Un petit <hi rend="italic">coffee punch</hi>
-            <ref target="#FRA00401N045">(1)</ref>, Captain ?
+            <ref target="#FRA00401N045">(1)</ref><ref target="#FRA00401N045">(1)</ref>, Captain ?
           </p>
           <p>– Volontiers ! fit Cap.</p>
         </div>
@@ -1296,9 +1284,9 @@
           <p>Et ma stupeur, l'avouerai-je, se coupa d'un doigt d'incrédulité.</p>
           <p>– Parfaitement ! fit Cap de sa voix la plus tranquille.</p>
           <p>Et quand ce diable d'homme m'eut conté son affaire, je reconnus -- nom d'un chien ! -- que la monstruosité de son dire n'était qu'apparente.</p>
-          <p>... En 1888 <ref target="#FRA00401N046">(1)</ref>, Cap, chargé par l'Institut libre de Bougival d'une exploration géologique dans les Nouvelles-Galles du Sud, s'aventura au creux d'une large vallée en laquelle la main de l'homme n'avait encore jamais fichu les pieds. </p>
+          <p>... En 1888 <ref target="#FRA00401N046">(1)</ref><ref target="#FRA00401N046">(1)</ref>, Cap, chargé par l'Institut libre de Bougival d'une exploration géologique dans les Nouvelles-Galles du Sud, s'aventura au creux d'une large vallée en laquelle la main de l'homme n'avait encore jamais fichu les pieds. </p>
           <p>Aucune végétation ne s'épanouissait en ces lieux, pour cette excellente raison que la terre végétale y était remplacée par un formidable gisement de malachite.</p>
-          <p>Contrairement au vieux dicton, qui prétend que la malachite <ref target="#FRA00401N047">(2)</ref> ne profite jamais, Cap tira un parti étonnant de cette richesse minéralogique. </p>
+          <p>Contrairement au vieux dicton, qui prétend que la malachite <ref target="#FRA00401N047">(2)</ref><ref target="#FRA00401N047">(2)</ref> ne profite jamais, Cap tira un parti étonnant de cette richesse minéralogique. </p>
           <p>En un rien de temps, il avait fait niveler horizontalement le bloc de la malachite, et fondé à Pifpaftown (la plus proche cité du gisement) le <hi rend="italic">Grandiose Billard Club</hi> . </p>
           <p>Rien que pour le capitonnage des bandes de cet important billard, on eut recours à un peu plus de six mille quintaux de caoutchouc. Les billes -- ingénieuse innovation -- c'étaient d'énormes fromages sphériques dits de Hollande, et composés d'une pâte qu'un traitement assez simple (au pyrolignite d'alumine) transforme en ivoire de tout premier cartel. Il ne fallait pas songer, bien entendu, avec une installation aussi démesurée, à se servir de queues, comme vous et moi.</p>
           <p>Des canons montés sur des affûts roulant, sur de rapides <hi rend="italic">cable-cars</hi> , du dernier modèle, circulaient autour de l'exorbitant billard, et projetaient les énormes boules sur la surface de la malachite. </p>
@@ -1318,7 +1306,7 @@
           <p>Le dialogue dura longtemps sur ce ton. Moi, je me sentais un peu déprimé, cependant que le d'habitude si vivant Captain Cap était totalement aboli.</p>
           <p>Cap bâilla, s'étira comme un grand chat fatigué, et je devinai tout de suite ce qu'il allait me proposer : l'inévitable <hi rend="italic">cosmopolitan</hi>
             <hi rend="italic">claret punch</hi>
-            <ref target="#FRA00401N048">(1)</ref> en quelque bar saxon du voisinage. Je répondis par ces deux monosyllabes froidement émises :
+            <ref target="#FRA00401N048">(1)</ref><ref target="#FRA00401N048">(1)</ref> en quelque bar saxon du voisinage. Je répondis par ces deux monosyllabes froidement émises :
           </p>
           <p>– Non, Cap !</p>
           <p>Cap aurait reçu sur la tête tout le mont Valérien lancé d'une main sûre, qu'il ne se serait pas plus formellement écroulé.</p>
@@ -1338,7 +1326,7 @@
           <p>– Qu'est-ce que vous diriez qu'on allât faire un tour jusqu'au tourne-bride de la Celle-Saint-Cloud ?</p>
           <p>– Pourquoi non ?</p>
           <p>Cap et moi, nous avons tout un passé dans ce tourne-bride.</p>
-          <p>Que de fois le petit vin tout clair et tout léger qu'on y dégustait trancha drôlement et gaiement sur les redoutables <hi rend="italic">American drinks</hi> de la veille ! <ref target="#FRA00401N049">(1)</ref>
+          <p>Que de fois le petit vin tout clair et tout léger qu'on y dégustait trancha drôlement et gaiement sur les redoutables <hi rend="italic">American drinks</hi> de la veille ! <ref target="#FRA00401N049">(1)</ref><ref target="#FRA00401N049">(1)</ref>
           </p>
           <p>Il régnait tout le froid sec désirable pour une excursion dans les environs ouest de Paris.</p>
           <p>Notre petit <hi rend="italic">moto-car</hi> de chez Comiot roulait crânement sur la route. </p>
@@ -1361,7 +1349,7 @@
           <p>À ce moment, la bonne de l'aubergiste rentrait avec, dans un pot, du bon lait crémeux fraîchement trait.</p>
           <p>-- Tiens, fit Cap, si on fabriquait un <hi rend="italic">ice-cream-soda</hi> . </p>
           <p>Et au grand ahurissement de ces banlieusards, Cap nous confectionna un des plus délicieux <hi rend="italic">ice-cream-soda</hi>
-            <ref target="#FRA00401N050">(1)</ref> que j'aie goûtés de ma vie.
+            <ref target="#FRA00401N050">(1)</ref><ref target="#FRA00401N050">(1)</ref> que j'aie goûtés de ma vie.
           </p>
         </div>
         <div type="chapter">
@@ -1373,7 +1361,7 @@
           <p>– Surtout, si vous allez en Touraine, ne vous avisez pas de quitter le pays sans passer quelques jours chez moi, à B... Je vous mettrai en rapport avec un de ces petits Vouvray !... un de ces petits Bourgueil !... un de ces petits Chinon !... un de ces petits Saint-Avertin !...</p>
           <p>Quatre significatifs claquements de langue ponctuaient ces alléchances.</p>
           <p>-- Ça vous changera, ajoutait-il, de vos infernaux <hi rend="italic">whisky cocktails</hi>
-            <ref target="#FRA00401N051">(1)</ref>.
+            <ref target="#FRA00401N051">(1)</ref><ref target="#FRA00401N051">(1)</ref>.
           </p>
           <p>J'avais depuis longtemps oublié l'aimable invitation de M. Laidgency (car tel est son nom) quand Cap, un beau matin, me proposa :</p>
           <p>– Tu ne sais pas ? On devrait bien aller goûter aux crus de notre ami de l'autre jour.</p>
@@ -1387,7 +1375,7 @@
           <p>Cap me dit :</p>
           <p>– Je sais où c'est. Viens.</p>
           <p>–-</p>
-          <p>La petite ville de B... (comme beaucoup de petites villes sur la ligne d'Orléans), possède une gare située dans un faubourg assez lointain de la vraie agglomération citadine, dont elle est séparée par une longue avenue de tilleuls <ref target="#FRA00401N052">(1)</ref>. </p>
+          <p>La petite ville de B... (comme beaucoup de petites villes sur la ligne d'Orléans), possède une gare située dans un faubourg assez lointain de la vraie agglomération citadine, dont elle est séparée par une longue avenue de tilleuls <ref target="#FRA00401N052">(1)</ref><ref target="#FRA00401N052">(1)</ref>. </p>
           <p>Contemporaine, au bas mot, de François Ier, cette historique cité présente à l'œil ravi du voyageur un lacis inextricable de petites rues pittoresques, je n'en disconviens pas, mais au plus haut point labyrintheuses.</p>
           <p>La merveille était que ce damné Captain se dirigeât, par ce dédale, avec l'aisance et la désinvolture qu'il aurait mises à se balader dans Chicago, Québec, ou toute autre de ses villes natales.</p>
           <p>De deux choses l'une, pensais-je, ou Cap est déjà venu à B..., mais je suis sûr du contraire, ou il marche à l'aveuglette au risque de nous égarer.</p>
@@ -1437,7 +1425,7 @@
 
           <head>Chapitre XXIII -- Dans lequel M. Mougeot afflige par l'étendue de son cynisme mercantile l'âme délicate du Captain Cap.</head>
           <p>Une vieille coutume administrative veut que, chaque année, M. le directeur général des postes françaises applique tous ses soins et tout son goût à la confection d'un splendide calendrier de luxe duquel il n'est tiré qu'un nombre restreint d'exemplaires et qu'il se dérange en personne, ce haut fonctionnaire, pour en faire hommage à M. le chef de l'État, à MM. les ministres, à MM. les présidents des Chambres et, enfin, à quelques-unes des personnalités les plus notoires dont s'honore à bon droit notre pays.</p>
-          <p>C'est ainsi qu'un beau matin de fin décembre le captain Cap recevait la visite de M. Mougeot <ref target="#FRA00401N053">(1)</ref>. </p>
+          <p>C'est ainsi qu'un beau matin de fin décembre le captain Cap recevait la visite de M. Mougeot <ref target="#FRA00401N053">(1)</ref><ref target="#FRA00401N053">(1)</ref>. </p>
           <p>On a beau, mes chers amis, être pénétré de sa valeur, une telle démarche ne laisse pas que de vous toucher profondément, surtout quand on n'a rien fait pour la provoquer et Cap ne savait comment remercier notre actif sous-secrétaire d'État de sa mille fois trop flatteuse, disait-il, gracieuseté.</p>
           <p>Mais lui de protester et de se répandre en louanges à son égard, en compliments, en exultations qui finirent par, de cette humble violette qu'est le Captain, faire le plus confus des coquelicots.</p>
           <p>(Muer la violette en coquelicot ! Curieux cas de transformisme ! Qu'en penses-tu, vieille ombre de Darwin ?)</p>
@@ -1463,7 +1451,7 @@
           <p>– Le reste, vous le devinez... Ah ! dame, la galette avant tout !</p>
           <p>En me racontant cette histoire, Cap concluait en soupirant :</p>
           <p>– Comme la France a changé depuis les croisades !</p>
-          <p>Et comme le froid venait encore aggraver notre sujet de tristesse, nous nous jetâmes immédiatement sur un <hi rend="italic">gin cling</hi> des plus réconfortants <ref target="#FRA00401N054">(1)</ref>. </p>
+          <p>Et comme le froid venait encore aggraver notre sujet de tristesse, nous nous jetâmes immédiatement sur un <hi rend="italic">gin cling</hi> des plus réconfortants <ref target="#FRA00401N054">(1)</ref><ref target="#FRA00401N054">(1)</ref>. </p>
         </div>
         <div type="chapter">
 
@@ -1487,7 +1475,7 @@
           <p>Aimez-vous les gens à système ? Quoi de plus agréable dans les longs parcours !</p>
           <p>Comme dans presque toutes les inventions, géniales, le hasard fut de beaucoup dans la découverte qui va nous occuper.</p>
           <p>Le hasard, peut-être pas, mais les circonstances, pour dire plus juste.</p>
-          <p>Cap <ref target="#FRA00401N055">(1)</ref> donc accomplissait son service militaire dans je ne sais plus quelle garnison montagneuse, très réputée pour son extrême frigidité. </p>
+          <p>Cap <ref target="#FRA00401N055">(1)</ref><ref target="#FRA00401N055">(1)</ref> donc accomplissait son service militaire dans je ne sais plus quelle garnison montagneuse, très réputée pour son extrême frigidité. </p>
           <p>Une nuit qu'il était de faction près de la poudrière et qu'il avait oublié ses gants, une terreur folle le prit : ses deux mains, ses deux pauvres mains, subitement, s'engourdissaient à vue d'œil, si j'ose m'exprimer ainsi, et, nul doute ! ces appendices, si utiles à l'homme, allaient radicalement, geler.</p>
           <p>Horrible situation !</p>
           <p>Avoir les mains gelées ! Et le pauvre garçon, lâchant vite son flingot, se mit à souffler dans ses doigts, frappa ses mains l'une contre l'autre, les enfouit dans ses poches et dans les replis intimes de son vêtement.</p>
@@ -1504,11 +1492,11 @@
           <p>Avec ce diable d'homme, on ne manque pas une occasion de s'instruire en s'amusant. Laissons-lui donc la parole :</p>
           <p>La coutume de manger du boudin pendant la nuit de Noël remonte à la plus profonde antiquité.</p>
           <p>Ne lisons-nous pas dans les « Commentaires de César » : «  <hi rend="italic">Secundum antiquam habitudinem, Lexoviani celebrant naissanciæ Christi anniversarium empiffrandos e ipsos cum boldini</hi>
-            <ref target="#FRA00401N056">(1)</ref>
+            <ref target="#FRA00401N056">(1)</ref><ref target="#FRA00401N056">(1)</ref>
             <hi rend="italic">fantasticis quantitatibus</hi>.»
           </p>
           <p>Si nous abandonnons le terrain historique pour nous livrer aux investigations plus précises de la statistique, nous ornons notre esprit des chiffres suivants :</p>
-          <p>Une moyenne de cent Français (car il faut, bien entendu, ne point compter parmi ces dégustateurs les enfants en bas âge, plusieurs moribonds, les dames en couches et certaines personnalités, tel que M. Paul Deschanel, beaucoup trop bien élevées pour admettre un seul instant l'absorption d'un aussi grossier mets), une moyenne de cent Français, reprends-je, consomme un mètre de boudin <ref target="#FRA00401N057">(1)</ref>. </p>
+          <p>Une moyenne de cent Français (car il faut, bien entendu, ne point compter parmi ces dégustateurs les enfants en bas âge, plusieurs moribonds, les dames en couches et certaines personnalités, tel que M. Paul Deschanel, beaucoup trop bien élevées pour admettre un seul instant l'absorption d'un aussi grossier mets), une moyenne de cent Français, reprends-je, consomme un mètre de boudin <ref target="#FRA00401N057">(1)</ref><ref target="#FRA00401N057">(1)</ref>. </p>
           <p>Un mètre de boudin pour cent habitants, cela nous représente, si je sais compter (et je sais compter, je vous prie de le croire), trente et quelques kilomètres pour la France entière.</p>
           <p>Veuillez avoir l'obligeance mesdames et messieurs, d'inscrire ce chiffre sur un bout de papier : nous serons bien aise de le retrouver tout à l'heure.</p>
           <p>... Et maintenant, quittant la statistique, nous allons, si vous le voulez bien, faire un bond sur le tapis de ce j'appellerai, faute de mieux, la biologie.</p>
@@ -1546,7 +1534,7 @@
           <p>Sollicité par maint syndicat agricole, vinicole et autre exploitation en « cole », d'avoir à simplifier la question et d'obtenir à moindre « aria » résultat supérieur, le Captain Cap sentit d'elles-mêmes se hausser ses épaules à l'aisance de la tâche.</p>
           <p>Ne serait-il pas, il vous en fait juge, plus simple, tant qu'à perturber le nuage, de le perturber en son propre sein, grâce à de rustiques mongolfières en papier, chargées d'une simple livre de poudre de chasse qu'enflammerait une pâle mèche, analogue à celle dont se servent nos braves artificiers pour, à distance, allumer de prestigieuses pyrotechnies, le soir du 14 juillet, aux cris mille fois répétés de « Vive la République ! »</p>
           <p>Très simple, en vérité, mais -- ne nous fatiguons pas à le redire -- fallait-il y songer !</p>
-          <p />
+          <p/>
           <p>Comme le faisait hier, et fort judicieusement, observer, la charmante comtesse Nimportka, le charbon devient hors de prix.</p>
           <p>Soyons des hommes et ne cherchons pas à nous dissimuler l'atroce vérité : une crise industrielle se prépare.</p>
           <p>La question du charbon, mesdames et messieurs... Mais, avant d'entrer dans le vif du problème, rectifions, d'après les beaux travaux du Captain Cap, les fausses idées que nos lecteurs pourraient concevoir sur la formation du charbon.</p>
@@ -1583,7 +1571,7 @@
           <p>Non satisfait de les accoupler, ces rimes d'or, il les -- si j'ose inaugurer ce terme -- attriplait.</p>
           <p>(Je ne veux pas dire que Tony inventa ce mode, -- d'autres l'employaient depuis longtemps, -- mais, lui, l'appliqua dans toute sa rigueur.)</p>
           <p>Au bout de fort peu de temps, Tom Hatt m'apportait un petit poème qui débutait par ce curieux tercet :</p>
-          <p />
+          <p/>
           <p>
             <hi rend="italic">Dans les environs d'Aigues-</hi>
           </p>
@@ -1593,7 +1581,7 @@
           <p>
             <hi rend="italic">Auxquelles tu te ligues.</hi>
           </p>
-          <p />
+          <p/>
           <p>Etc., etc.</p>
           <p>– Mais, mon pauvre ami, ne pus-je m'empêcher de m'écrier, ça ne rime pas !</p>
           <p>– Je le sais déjà, répondit Tom, Tony me l'a dit.</p>
@@ -1602,7 +1590,7 @@
           <p>– Il a raison.</p>
           <p>– Je vais recommencer, voilà tout ! À demain !</p>
           <p>Et, le lendemain, en effet, Tom Hatt soumettait à mon examen un second morceau, de haute envolée, de philosophie profonde, mais dont voici le début :</p>
-          <p />
+          <p/>
           <p>
             <hi rend="italic">Tout vrai poète tient</hi>
           </p>
@@ -1612,7 +1600,7 @@
           <p>
             <hi rend="italic">De ceux qui balbutient.</hi>
           </p>
-          <p />
+          <p/>
           <p>Etc., etc.</p>
           <p>Devant tant de bonne volonté, je n'ai eu -- qu'est-ce que vous voulez ! -- qu'à m'incliner.</p>
           <p>– Cette fois-ci, mon vieux, ça y est ! Tous mes compliments !</p>
@@ -1622,7 +1610,7 @@
 
           <head>Chapitre XXVIII -- Odieuse violation d'un règlement formel.</head>
           <p>Dans le courrier du Captain Cap, ce matin, se trouvait cette lettre qu'il me confie et dont la publication pourra sauver des milliers d'êtres humains, sans compter les animaux (car rien ne prohibe qu'il s'en trouve en telle occurrence) d'un des plus affreux trépas qu'il soit donné aux habitants de notre planète d'éprouver :</p>
-          <p />
+          <p/>
           <p>« Cher monsieur et illustre Captain,</p>
           <p>« Je n'ai pas l'honneur de vous connaître, mais un de mes collègues de bureau vous désigne à moi comme un des rares personnages en vue actuellement vivants qui ne soient pas vendus à l'une quelconque de nos grandes administrations.</p>
           <p>« Vous êtes donc tout indiqué, cher monsieur, pour signaler au public une des plus incroyables monstruosités officielles dont, et cela depuis plus de cinquante ans, il ait à pâtir.</p>
@@ -1648,14 +1636,14 @@
           <p>« (M. Papillaud possède la photographie du dernier reçu de M. Baudin.)</p>
           <p>« Ah ! c'est du propre !</p>
           <p>« Veuillez agréer, etc. etc. »</p>
-          <p />
+          <p/>
           <p>Cette intéressante communication est signée d'un fonctionnaire au ministère des travaux publics qui prie Cap de ne pas imprimer son nom, rapport à la petite allocation du jour de l'An, laquelle, redoute-t-il, ne gagnerait rien à cette publicité.</p>
         </div>
         <div type="chapter">
 
           <head>Chapitre XXIX -- Où Parmentier se voit contester sa gloire.</head>
           <p>Brusquement, Cap se tourne vers un jeune homme à l'air idiot qui près de lui dégustait un <hi rend="italic">soyer au champagne</hi>
-            <ref target="#FRA00401N058">(1)</ref>.
+            <ref target="#FRA00401N058">(1)</ref><ref target="#FRA00401N058">(1)</ref>.
           </p>
           <p>– Lisez-vous le compte rendu de l'Académie des Sciences ?</p>
           <p>– Jamais.</p>
@@ -1686,7 +1674,7 @@
           <p>De là son incontestable notoriété.</p>
           <p>Mais M. Noël Bernard veillait.</p>
           <p>–-</p>
-          <p>Trop de zèle attristant Bernard <ref target="#FRA00401N059">(1)</ref> ! Je comprends et j'approuve de toutes mes forces qu'on lutte contre la tuberculose, mais il y a tubercules et tubercules. </p>
+          <p>Trop de zèle attristant Bernard <ref target="#FRA00401N059">(1)</ref><ref target="#FRA00401N059">(1)</ref> ! Je comprends et j'approuve de toutes mes forces qu'on lutte contre la tuberculose, mais il y a tubercules et tubercules. </p>
           <p>La pomme de terre, d'ailleurs, même en robe de chambre, est assez grande fille pour se défendre toute seule contre vos grotesques imputations.</p>
           <p>Et n'est-ce point, parlant de la pomme frite, radieusement puissante en sa frêle apparence, que Victor Hugo émit jadis : « Dans tubercule, il y a Hercule ! »</p>
         </div>
@@ -1716,7 +1704,7 @@
             <hi rend="italic">P.-S.</hi> Comme bien je m'y attendais, le simple et résumé programme de cette magnifique affaire, la « Société générale des Pelleteries de Paris », a suscité dans le monde si intéressant de la petite épargne française une émotion bien légitime. </p>
           <p>Cette idée, en effet, d'utiliser les catacombes en les transformant en vastes locaux frigides et simili-polaires où l'on pourra cultiver à foison les animaux riches en luxueuses fourrures, ne pouvait manquer de rencontrer un accueil sympathique, encourageant et flatteur. De mille départements à la fois, sans exagération, pleuvent les souscriptions, les demandes de renseignements, les conseils, les sollicitations à quelque emploi dans l'entreprise (si modeste soit-il, ajoute un pauvre bougre).</p>
           <p>De ce volumineux courrier citons les deux lettres suivantes, curieuses l'une et l'autre, bien qu'à des titres différents :</p>
-          <p />
+          <p/>
           <p>« Cher et glorieux Captain,</p>
           <p>« Comme vous, je crois la « Société générale des Pelleteries de Paris » appelée au plus brillant avenir : quand on obtient une peau de renard bleu, par exemple, à un prix de revient pas sensiblement supérieur à celui d'une peau de lapin, tenez pour certain qu'une telle entreprise est susceptible de réaliser des bénéfices inconnus jusqu'alors chez l'excellent M. Révillon ou tel autre de ses confrères en fourrures.</p>
           <p>« Eh bien, cher monsieur, ces bénéfices, je viens vous proposer de les accroître encore dans de sensibles proportions.</p>
@@ -1731,9 +1719,9 @@
           <p>« Dans l'espoir, etc., etc.</p>
           <p>« Veuillez, etc., etc.</p>
           <p>« EUGÈNE. »</p>
-          <p />
+          <p/>
           <p>L'autre lettre émane, j'en ai grand-peur, de quelqu'un de pas bien sérieux, quoique assez familier :</p>
-          <p />
+          <p/>
           <p>« Mon vieux Captain,</p>
           <p>« Très chic, ton truc d'installer le Septentrion et ses bêtes à poil de luxe dans les catacombes !</p>
           <p>« Mais ne crains-tu pas que tous ces opulents bestiaux ne soient pas bientôt pris du mal du pays ?</p>
@@ -1742,7 +1730,7 @@
           <p>« Hé, parbleu ! Polaire en personne, l'étoile Polaire elle-même !</p>
           <p>« À toi,</p>
           <p>« VICTOR. »</p>
-          <p />
+          <p/>
           <p>L'innocente plaisanterie de M. Victor n'empêchera pas la « Société des Pelleteries de Paris » de gravir d'une main sûre les marches du succès.</p>
         </div>
         <div type="chapter">
@@ -1762,7 +1750,7 @@
           </p>
           <p>Le Captain Cap est très informé sur l'histoire de camelots depuis les temps les plus reculés jusqu'à nos jours.</p>
           <p>-- Garçon ! s'écria-t-il deux <hi rend="italic">pick me up</hi>
-            <ref target="#FRA00401N060">(1)</ref> soignés !
+            <ref target="#FRA00401N060">(1)</ref><ref target="#FRA00401N060">(1)</ref> soignés !
           </p>
           <p>Puis, confortablement installé sur son haut fauteuil, il se livra à l'intéressante conférence que voici :</p>
           <p>Contrairement à l'idée généralement répandue dans le monde peu intéressant des esprits superficiels, l'industrie du camelot, loin d'être de création récente, remonte aux premiers temps de l'humanité.</p>
@@ -1773,19 +1761,19 @@
           <p>Cham Loth devint vite populaire par toute l'Asie, son pécule s'arrondissait à vue d'œil, en même temps que faiblissait son chagrin, si bien qu'au bout de peu de temps, le brave garçon était le premier à rire du curieux accident survenu à sa pauvre maman.</p>
           <p>L'exemple de Cham Loth porta ses fruits : beaucoup de jeunes hommes se répandirent par les pays voisins, débitant mille objets disparates, dont, à grosses clameurs, ils indiquaient le nom, l'emploi, les mérites et le prix.</p>
           <p>Par imitation, le peuple désignait ces vacarmeux individus sous le terme de leur initiateur : Cham Loth.</p>
-          <p>Le nom leur en resta et trépassa <ref target="#FRA00401N061">(1)</ref> les âges. </p>
+          <p>Le nom leur en resta et trépassa <ref target="#FRA00401N061">(1)</ref><ref target="#FRA00401N061">(1)</ref> les âges. </p>
           <p>–-</p>
           <p>Fiers de cette origine quasi-royale, nos modernes camelots cherchent à susciter un réveil dans leur corporation, un réveil doublé d'une ascension vers profits et honneurs.</p>
           <p>Nul doute que leur congrès ne fourmille d'intéressants détails, mais c'est surtout leur tournoi qui passionnera, je pense, notre capitale.</p>
           <p>Car le Congrès des camelots sera suivi d'un tournoi.</p>
           <p>Trente-sept mille camelots arrivés des quatre coins du globe se répandront dans toutes les rues de Paris, exerçant, à qui mieux mieux, leur active industrie et cherchant à vendre aux passants affolés des choses très probablement hétéroclites.</p>
-          <p />
+          <p/>
           <p>
             <hi rend="italic">P.-S.</hi> Jamais, je l'avoue, je n'aurais reconnu M. Salomon Reinach dans le gentleman qui se présentait si fort poliment au seuil de mon cabinet, avec, à la main, son chapeau haut de forme. J'aurais d'autant moins reconnu ce personnage que -- persistons en la voie des aveux -- cette fois était la première où se m'offrait l'occasion de sa vue. </p>
           <p>M. Salomon Reinach a bien des défauts, mais personne ne s'avisera, j'estime, à contester sa mirifique compétence en tout ce qui touche le savoir et l'interprétation des textes bibliques.</p>
           <p>Or, c'est précisément à l'occasion de ces derniers que, surmontant sa timidité naturelle, M. Salomon Reinach se décidait à venir me trouver.</p>
           <p>Laissons la parole à l'érudit exégète :</p>
-          <p>« Dans votre dernier article <ref target="#FRA00401N062">(1)</ref>, honoré monsieur, s'est glissée une erreur en la persistance de laquelle la réputation si solidement établie d'exactitude scientifique du Captain Cap pourrait bien essuyer quelque mauvais vernis. </p>
+          <p>« Dans votre dernier article <ref target="#FRA00401N062">(1)</ref><ref target="#FRA00401N062">(1)</ref>, honoré monsieur, s'est glissée une erreur en la persistance de laquelle la réputation si solidement établie d'exactitude scientifique du Captain Cap pourrait bien essuyer quelque mauvais vernis. </p>
           <p>« Cham Loth, il est vrai, fut bien, ainsi que vous le dites, le premier camelot dont fait mention la Bible ; il n'était pas le fils de Loth, comme vous l'avancez, mais seulement son gendre.</p>
           <p>« Venu d'Éthiopie en Chaldée, Cham -- il ne s'appelait encore que Cham -- fut admirablement reçu par la famille de Loth.</p>
           <p>« Ce qui devait arriver arriva : séduit par les charmes d'Echa, une des filles de Loth, Cham sut trouver le chemin du cœur de la belle enfant, et bientôt, en dépit de la résistance de la mère Loth, qui n'aimait pas les nègres -- Cham était noir -- il l'épousait et ajoutait à son nom de Cham celui de son beau-père. »</p>
@@ -1818,14 +1806,14 @@
           <p>Quand une dame me raconte qu'elle vient d'entendre de magnifiques « soli », je lui demande incontinent comment se portent ses « gigoli ». (Tête généralement de la personne !)</p>
           <p>S'il s'agit, comme en l'espèce, d'une langue morte, engageons alors le pauvre bougre de mot à regagner prestement la paix de son sépulcre, et qu'il n'en soit plus question !)</p>
           <p>–-</p>
-          <p />
+          <p/>
           <p>De tous côtés, donc, on ne parle que de sanatoriums.</p>
           <p>Et non seulement on en parle, ce qui ne suffirait pas à terrasser la tuberculose, mieux : on en édifie, on en inaugure même.</p>
           <p>Pas en nombre suffisant, hélas ! mais il y a commencement à tout, pas vrai ?</p>
           <p>Je n'ai pas la prétention de vous faire une leçon sur les conditions de bon agencement d'un sanatorium.</p>
           <p>Vous savez tous qu'un établissement de ce genre doit réaliser tout ce qu'il existe au monde de mieux comme isolement, bon air, température.</p>
           <p>Aussi, ne grouillent-ils pas en myriades, les endroits idoines à telles entreprises.</p>
-          <p>Et puis, il y a les voisins, qui poussent des cris de porc frais <ref target="#FRA00401N063">(1)</ref> et clament à la contamination dès qu'on parle d'installer, auprès de leurs domaines, châteaux ou masures, quelqu'un de ces fameux sanatoriums. </p>
+          <p>Et puis, il y a les voisins, qui poussent des cris de porc frais <ref target="#FRA00401N063">(1)</ref><ref target="#FRA00401N063">(1)</ref> et clament à la contamination dès qu'on parle d'installer, auprès de leurs domaines, châteaux ou masures, quelqu'un de ces fameux sanatoriums. </p>
           <p>Tout être qui réfléchit est amené donc à frémir en constatant les ravages sans cesse croissants du fléau terrible, et les rares barricades que, malgré toute notre science et tout notre effroi, nous arrivons à lui opposer, dérisoirement.</p>
           <p>Triste ! triste ! triste !</p>
           <p>Celui qui découvrira le secret du sanatorium nombreux et bon marché aura rendu, -- d'avance, nous lui tirons notre casquette -- un de ces services à l'humanité qui mettent un homme au rang des Jenner, des Lister, des Pasteur !</p>
@@ -1843,14 +1831,14 @@
         <div type="chapter">
 
           <head>Chapitre XXXIII -- Un aspect nouveau de la métallothérapie.</head>
-          <p>À l'époque -- et ça ne nous rajeunit pas -- où j'habitais le quartier Latin, les étudiants en médecine que j'avais habitude de vivre avec <ref target="#FRA00401N064">(1)</ref> s'entretenaient volontiers sur un nouveau mode de soulager l'humanité souffrante que venaient d'imaginer simultanément deux savants cliniciens, le docteur Burq et le docteur Dumontpallier : la métallothérapie, dont le seul nom nous dispensera d'en dire plus long. </p>
-          <p>Vers le même temps, il était également question, dans le même quartier, des curieux travaux du docteur Luys, auquel, à la Salpêtrière (je crois), il suffisait d'approcher certaines drogues de la plante des pieds de ses malades pour, entre autres résultats, leur enlever des névralgies intercostales, un simple rhume de cerveau, la teigne, etc., etc. <ref target="#FRA00401N065">(1)</ref>. </p>
+          <p>À l'époque -- et ça ne nous rajeunit pas -- où j'habitais le quartier Latin, les étudiants en médecine que j'avais habitude de vivre avec <ref target="#FRA00401N064">(1)</ref><ref target="#FRA00401N064">(1)</ref> s'entretenaient volontiers sur un nouveau mode de soulager l'humanité souffrante que venaient d'imaginer simultanément deux savants cliniciens, le docteur Burq et le docteur Dumontpallier : la métallothérapie, dont le seul nom nous dispensera d'en dire plus long. </p>
+          <p>Vers le même temps, il était également question, dans le même quartier, des curieux travaux du docteur Luys, auquel, à la Salpêtrière (je crois), il suffisait d'approcher certaines drogues de la plante des pieds de ses malades pour, entre autres résultats, leur enlever des névralgies intercostales, un simple rhume de cerveau, la teigne, etc., etc. <ref target="#FRA00401N065">(1)</ref><ref target="#FRA00401N065">(1)</ref>. </p>
           <p>Avouez que tout cela relevait quasiment du merveilleux, dirait M. Gaston Méry, notre actif conseiller municipal.</p>
           <p>J'ignore ce qu'il advint, depuis ces temps, du système métallothérapique des docteurs Burq et Dumontpallier, mais je me souviens que la prétendue « action des médicaments à distance » déchaîna bientôt sur la réputation du docteur Luys plus d'un sourire incrédule et fâcheux.</p>
-          <p>Eh bien, les gens qui souriaient avaient tort de sourire, et le petit fait dont celui qui écrit ces lignes fut ce matin même le stupéfié témoin, réunit dans une allégresse commune les mânes <ref target="#FRA00401N066">(2)</ref> de MM. Luys, Burq et Dumontpallier. </p>
+          <p>Eh bien, les gens qui souriaient avaient tort de sourire, et le petit fait dont celui qui écrit ces lignes fut ce matin même le stupéfié témoin, réunit dans une allégresse commune les mânes <ref target="#FRA00401N066">(2)</ref><ref target="#FRA00401N066">(2)</ref> de MM. Luys, Burq et Dumontpallier. </p>
           <p>Je me trouvais donc, vers onze heures et demie -- comme par hasard -- à la terrasse du café de la Paix, en compagnie du Captain Cap.</p>
           <p>Ce parfait gentleman me contait l'histoire suivante :</p>
-          <p>-- Vous voyez en moi un homme chargé d'une mission bien douce. Ayant perdu la somme de cinq francs par la faute d'un pari conclu avec Mme X. Y. Z. <ref target="#FRA00401N067">(1)</ref>, je me suis vu refuser la remise de l'enjeu : « Gardez ce dollar, m'intima la jolie gagnante, et remettez-le de ma part au premier pauvre véritablement intéressant que vous rencontrerez... » </p>
+          <p>-- Vous voyez en moi un homme chargé d'une mission bien douce. Ayant perdu la somme de cinq francs par la faute d'un pari conclu avec Mme X. Y. Z. <ref target="#FRA00401N067">(1)</ref><ref target="#FRA00401N067">(1)</ref>, je me suis vu refuser la remise de l'enjeu : « Gardez ce dollar, m'intima la jolie gagnante, et remettez-le de ma part au premier pauvre véritablement intéressant que vous rencontrerez... » </p>
           <p>Cap en était là de son récit quand soudain se présenta devant notre table cet indigent que connaissent si familièrement tous les Parisiens accoutumés à fréquenter de la Madeleine à l'Opéra.</p>
           <p>Je veux parler du sinistre homme roux à cheveux plats dont la marche, l'inlassable marche, n'est que la succession jamais arrêtée des secousses de tout un corps ataxique.</p>
           <p>– Tiens, s'écria Cap, le voilà mon pauvre ! Extirpant de sa poche la pièce de cinq francs, mon ami la colla dans le creux agité de la trépidante main.</p>
@@ -1868,7 +1856,7 @@
           <head> Chapitre XXXIV -- <hi rend="italic">Franchissons les rivières sur des ponts formés par des dos de crocodiles.</hi> </head>
           <p>Des lettres semblables à celle que voici honorent autant le citoyen qui les écrit que l'homme à qui elles sont destinées.</p>
           <p>Aussi n'hésité-je point à publier cette missive avant même de l'avoir lue :</p>
-          <p />
+          <p/>
           <p>« Monsieur et honoré Captain !</p>
           <p>« Avant de commencer, permettez-moi de retirer mon képi bien bas devant l'ardent patriote dont l'esprit toujours en éveil n'a jamais perdu de vue le salut national, quitte à l'assurer moyennant l'aide des animaux les plus inattendus.</p>
           <p>« L'idée de dresser des chiens militaires anti-cyclistes et des puces, non moins militaires, anti-chiens, est de celles que l'Europe vous envie.</p>
@@ -1891,7 +1879,7 @@
           <p>GUY D'AGOCH,</p>
           <p>
             <hi rend="italic">simple lieutenant d'infanterie.</hi>  » </p>
-          <p />
+          <p/>
           <p>Certes, l'idée de l'honorable correspondant est des plus séduisantes, mais comme dit Cap, vous verrez une fois de plus à l'œuvre l'inertie des bureaux.</p>
         </div>
         <div type="chapter">
@@ -1902,7 +1890,7 @@
           <p>Ce qui constitue le danger dans ces sortes de malheurs, c'est moins encore la flamme elle-même que l'incroyable panique qui se manifeste dès le début du sinistre et vient causer bousculades, encombrements, écrasements.</p>
           <p>Une foule qui, terrifiée, se presse dans les couloirs d'un théâtre, c'est un bouchon qui se gonflerait dans l'étranglé goulot d'une bouteille.</p>
           <p>–-</p>
-          <p />
+          <p/>
           <p>Tous les naturalistes vous diront que, chez l'anguille, le cas de trépas accidentel par combustion dans un théâtre ou autre endroit de plaisir en flammes, est un fait des plus rares.</p>
           <p>À quoi attribuer cette, en apparence, curieuse immunité ?</p>
           <p>À ceci, tout simplement, que l'anguille, lotie par la nature d'un corps parfaitement lisse et comme lubrifié, peut, dès la première alerte, se glisser, se faufiler et promptement parvenir au dehors sans que nulle aspérité personnelle extérieure ne vienne entraver son cours onduleux.</p>
@@ -1913,7 +1901,7 @@
           <p>Ayant, à la suite de longs travaux, remarqué que la peau d'anguille morte ne possède pas les mêmes qualités de glissement que celle de la vivante, il s'était décidé à la remplacer par de la peau de pêche, dont les propriétés, à cet égard, sont si connues et appréciées des amateurs.</p>
           <p>Son projet n'ayant, comme de juste, rencontré que le dédain ricaneur des grosses légumes, il en resta là de ses travaux philanthropiques.</p>
           <p>Un nouveau système visant au même but lui paraît plus pratique :</p>
-          <p>Ne pourrait-on pas, insinue-t-il, contraindre MM. les directeurs de théâtre à transformer les couloirs de leurs établissements en couloirs mobiles, semblables au trottoir roulant, vous vous souvenez, à l'Exposition de 1900 <ref target="#FRA00401N068">(1)</ref>, au Champ de Mars ? </p>
+          <p>Ne pourrait-on pas, insinue-t-il, contraindre MM. les directeurs de théâtre à transformer les couloirs de leurs établissements en couloirs mobiles, semblables au trottoir roulant, vous vous souvenez, à l'Exposition de 1900 <ref target="#FRA00401N068">(1)</ref><ref target="#FRA00401N068">(1)</ref>, au Champ de Mars ? </p>
           <p>De même pour les escaliers, à la place desquels on installerait des rampes mobiles analogues à celles que l'on put voir dans notre Exposition, avec, pourtant, cette différence qu'elles seraient, si j'ose m'exprimer ainsi, « descensionnelles ».</p>
           <p>En cas d'incendie, un simple déclic met en marche tout ce mécanisme.</p>
           <p>Ainsi, plus de bousculade, ou si bousculade, plus de catastrophe, puisque tout le monde sorti dans la rue, automatiquement.</p>
@@ -2041,7 +2029,7 @@
           <p>Voilà, je crois, un fait unique dans les fastes des grandes Compagnies : une réforme réunissant dans une commune satisfaction les actionnaires et le public.</p>
           <p>– Le voilà, conclut Cap, le bon collectivisme, le voilà bien.</p>
           <p>Et nous fêtâmes cette date, par, comme il faisait très chaud, un copieux <hi rend="italic">Champagne Julep</hi>
-            <ref target="#FRA00401N069">(1)</ref>.
+            <ref target="#FRA00401N069">(1)</ref><ref target="#FRA00401N069">(1)</ref>.
           </p>
         </div>
         <div type="chapter">
@@ -2053,12 +2041,12 @@
           <p>N'écarquillez pas vos yeux, braves gens, vous avez bien lu : le deuxième personnage de chacun de ces tandems, bel et bien, c'était un kangourou.</p>
           <p>Et tout ce monde, bêtes, gens, machines passa comme un rêve.</p>
           <p>Je me trouvais moi-même en ces parages, donnant un peu d'air à la triplette que je viens d'acheter avec Brunetière et le Captain Cap.</p>
-          <p>Non sans peine, nous suivîmes l'étrange vélochée <ref target="#FRA00401N070">(1)</ref> jusqu'à Suresnes. </p>
+          <p>Non sans peine, nous suivîmes l'étrange vélochée <ref target="#FRA00401N070">(1)</ref><ref target="#FRA00401N070">(1)</ref> jusqu'à Suresnes. </p>
           <p>Là, devant un modeste caboulot, la famille entière descendit.</p>
           <p>Seuls, les kangourous demeurèrent en selle, calant la machine de leur puissante queue sur le sol appuyée.</p>
           <p>Et rien n'était plus comique que le spectacle de ces animaux, graves et bien stylés, attendant sans broncher leurs maîtres, comme font les larbins anglais derrière les carrosses des vieux lords.</p>
           <p>Bientôt, devant un excellent <hi rend="italic">american-lemomade</hi>
-            <ref target="#FRA00401N071">(2)</ref>, nous avions fait la connaissance de toute la famille.
+            <ref target="#FRA00401N071">(2)</ref><ref target="#FRA00401N071">(2)</ref>, nous avions fait la connaissance de toute la famille.
           </p>
           <p>Avec sa coutumière bonhomie, Brunetière nous présenta, Cap et moi, sous le jour le plus flatteur qu'il put trouver.</p>
           <p>À son tour, la plus jeune des jeunes filles se présenta elle-même, puis nous présenta sa famille : son papa, sa maman, sa sœur et son petit frère.</p>
@@ -2099,7 +2087,7 @@
           <p>Comme musique, le sifflement du vent dans les cordages, le fracas des vagues, les cris des femmes et des enfants.</p>
           <p>Où sont-ils, les pauvres matelots ! Dieu seul le sait et peut-être n'en est-il pas bien sûr !</p>
           <p>Tout à coup, le capitaine a reniflé par N.-N.-O un puissant relent de vieux roquefort et par S.-E une fine odeur de <hi rend="italic">Martini Cocktail</hi>
-            <ref target="#FRA00401N072">(1)</ref>.
+            <ref target="#FRA00401N072">(1)</ref><ref target="#FRA00401N072">(1)</ref>.
           </p>
           <p>Il consulte sa carte (une carte qu'on dressera <hi rend="italic">ad hoc</hi> ), et reconnaît sa position. </p>
           <p>Sauvés ! merci, mon Dieu !</p>
@@ -2122,7 +2110,7 @@
           <p>Or, je vous prie, que pèse le gaz d'éclairage ?</p>
           <p>Ne se contentant pas de peser rien du tout, il pousse la coquetterie jusqu'à peser moins que rien, en vertu du principe d'Archimède.</p>
           <p>(Une courte parenthèse, si vous voulez, le temps de prendre un <hi rend="italic">alabazam cocktail</hi>
-            <ref target="#FRA00401N073">(1)</ref> : avez-vous remarqué qu'on parle toujours du principe d'Archimède et non de ses principes, dont il était, d'ailleurs, dénué à ce point, que sortant du bain il se promenait tout nu dans les plus fréquentées artères de Syracuse, pour se sécher, disait-il ?)
+            <ref target="#FRA00401N073">(1)</ref><ref target="#FRA00401N073">(1)</ref> : avez-vous remarqué qu'on parle toujours du principe d'Archimède et non de ses principes, dont il était, d'ailleurs, dénué à ce point, que sortant du bain il se promenait tout nu dans les plus fréquentées artères de Syracuse, pour se sécher, disait-il ?)
           </p>
           <p>Il arriverait donc, qu'en bonne logique, les Compagnies devraient remettre, au lieu de les percevoir, des sommes pour le transport de cette marchandise à poids négatif.</p>
           <p>Les choses se passeraient-elles ainsi dans la pratique ? Je ne crois pas.</p>
@@ -2156,7 +2144,7 @@
           <p>... Cette histoire m'est revenue en souvenance à la lecture d'une stupéfiante circulaire qu'a bien voulu me communiquer mon ami le Captain Cap en m'engageant à y mettre toutes mes économies.</p>
           <p>Il s'agit d'une affaire, mirifique au dire du prospectus, d'une entreprise de <hi rend="italic">Délardage de Cochons vivants</hi> . </p>
           <p>Le début de la circulaire, que voici textuellement vous éclairera sur la question :</p>
-          <p />
+          <p/>
           <p>« LA PORCARINE</p>
           <p>«  <hi rend="italic">Origine et principe de l'invention.</hi>  » </p>
           <p>« Le plus simple cultivateur sait que le cochon arrivé au moment psychologique ( <hi rend="italic">sic</hi> ), c'est-à-dire <hi rend="italic">gras à point</hi> , se laisse manger, par les rats, des portions importantes de sa chair. </p>
@@ -2207,7 +2195,7 @@
           <p>– Oh ! mon Dieu ! c'est bien simple. Je voulais m'assurer que vous étiez deux, parce que, si vous n'aviez été qu'un, c'est que j'aurais été, moi, abominablement gris... J'aime bien me rendre compte.</p>
           <p>Et Cap conclut :</p>
           <p>-- Puisque nous ne sommes pas gris, qui nous empêche de prendre un excellent <hi rend="italic">brandy shanteralla</hi>
-            <ref target="#FRA00401N074">(1)</ref> ?
+            <ref target="#FRA00401N074">(1)</ref><ref target="#FRA00401N074">(1)</ref> ?
           </p>
           <p>– Rien, Cap, rien au monde ne saurait nous prohiber cette démarche.</p>
         </div>
@@ -2272,7 +2260,7 @@
           <p>L'huile se trouva remplacée par de la bonne glycérine, légèrement teintée de jaune.</p>
           <p>... Tous ceux de nos lecteurs qui ont seulement passé deux ou trois ans dans une sérieuse fabrique de dynamite, savent que le mélange des corps ci-dessus forme ce qu'on est convenu d'appeler de la nitro-glycérine.</p>
           <p>Quand le mélange est opéré brusquement et sans précaution, il se produit une élévation de température bientôt suivie d'une de ces explosions après lesquelles on n'a qu'à tirer l'échelle (s'il en reste).</p>
-          <p />
+          <p/>
           <p>Les choses se passèrent comme il était prévu.</p>
           <p>Malgré le grand tralala du dîner de ce soir, la dame tint à accommoder sa salade elle-même. Alors le saladier fut réduit en miettes et la chicorée violemment projetée sur tous les assistants.</p>
           <p>Malheureusement, l'accident ne se borna pas à ces quelques dégâts.</p>
@@ -2283,18 +2271,18 @@
 
           <head>Chapitre XLVII -- Inconvénient d'une mauvaise prononciation.</head>
           <p>William Bott, que le Captain Cap baptisa fort spirituellement Henry Bott chaque fois qu'il abuse des <hi rend="italic">stars and stripes</hi>
-            <ref target="#FRA00401N075">(1)</ref>, est un Bostonien fort aimable, et des plus distingués, ainsi que sont, pour la plupart, les gens de Boston.
+            <ref target="#FRA00401N075">(1)</ref><ref target="#FRA00401N075">(1)</ref>, est un Bostonien fort aimable, et des plus distingués, ainsi que sont, pour la plupart, les gens de Boston.
           </p>
           <p>C'est à son propos que j'écrivis ces vers de rime assez plaisante, n'est-ce pas :</p>
-          <p />
+          <p/>
           <p>
             <hi rend="italic">Bott, en dansant la valse et le boston usa</hi>
           </p>
           <p>
             <hi rend="italic">Le parquet de Mary Webb, à Boston (U.S.A.)</hi>
-            <ref target="#FRA00401N076">(1)</ref>.
+            <ref target="#FRA00401N076">(1)</ref><ref target="#FRA00401N076">(1)</ref>.
           </p>
-          <p />
+          <p/>
           <p>Débarqué en France au printemps dernier, cet Américain, sur la recommandation de Cap, devint tout de suite mon ami.</p>
           <p>Le français qu'il parlait était un français irréprochable déjà ; seuls, quelques mots auraient gagné à être plus correctement prononcés.</p>
           <p>Ainsi, il disait <hi rend="italic">flott</hi> , <hi rend="italic">pott</hi>, comme si ces mots, à l'instar de son nom, eussent comporté deux <hi rend="italic">t</hi>. </p>

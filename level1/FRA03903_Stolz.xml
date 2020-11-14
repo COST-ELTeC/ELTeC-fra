@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03903" xml:lang="fr">
   <teiHeader>
@@ -22,33 +22,21 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">49150</measure>
       </extent>
-      <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2019-11-04" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
-          <ref target="http://beq.ebooksgratuits.com" />
-        </bibl>
-        <bibl type="firstEdition">
+          <ref target="http://beq.ebooksgratuits.com"/>
+        </bibl><bibl type="firstEdition">
           <title>Le secret de Laurent</title>
           <author>Mme de Stolz</author>
           <publisher>Hachette et Cie</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1878</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6502382x"></ref>
-        </bibl>
-      </sourceDesc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6502382x"/>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -60,13 +48,13 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
@@ -135,7 +123,7 @@
           <p>« J'ai fini mon papier, adieu, madame, je suis bien fâchée des pâtés.</p>
           <p>« MARIE DUBREUIL. »</p>
         </quote>
-        <milestone type="section" rend="space" unit="newline" />
+        <milestone type="section" rend="space" unit="newline"/>
         <p>La marquise posa sur le bureau la lettre de l'enfant pâle et, cachant son visage dans ses mains, elle se demanda comment il pouvait y avoir si près d'elle une famille aussi affligée, tandis qu'elle-même osait se plaindre de son sort ? C'étaient donc ce qu'on appelle des pauvres honteux, de ceux qui se dérobent aux regards, parce que le passé de leur famille ne leur montre que d'honorables labeurs, et non une main tendue à l'étranger. Il y avait là quelque chose à faire. Espérance le sentait. Elle relut la lettre de l'enfant pâle, et loin de la laisser errer à l'aventure comme un papier insignifiant, elle entrouvrit le tiroir intime, et y glissa la lettre de Marie, toujours dans son enveloppe.</p>
         <p>Revenons un moment sur nos pas pour faire connaissance avec Marie Dubreuil, et savoir en même temps par quelles circonstances avait passé l'enveloppe avant de tomber dans le mystérieux tiroir.</p>
         <p>Nous avons déjà vu l'enfant pâle entrer par une porte basse dans une maison d'assez pauvre apparence. Elle traversa la cour et pénétra dans un local assez laid, qu'elle appelait l'atelier de son père, et où se trouvait un établi et des outils de menuisier. C'était là, dans cette espèce de remise, que Dubreuil travaillait, quand il en avait la force. La chère petite se hâta de raconter à ses parents une partie de ce qu'elle venait de voir et d'entendre, et à la fin de son discours, elle étala pompeusement ses trois jolies enveloppes, presque sans les toucher, de peur de nuire à leur fraîcheur.</p>
@@ -964,7 +952,7 @@
           <p>« Votre servante,</p>
           <p>« MARIE DUBREUIL. »</p>
         </quote>
-        <milestone type="section" rend="space" unit="newline" />
+        <milestone type="section" rend="space" unit="newline"/>
         <p>« Voilà donc, dit Espérance, voilà où sont allées ses petites économies. Elle avait amassé, à force de temps et d'ordre, une somme destinée à s'acheter une robe blanche et un voile pour entrer dans la confrérie de la Sainte-Vierge, et elle n'y est pas entrée ; en voilà la raison. Et pourtant, je l'ai su par sa mère, c'était l'objet de tous ses vœux. Elle se tenait humblement dans un coin de l'église, regardant de loin l'autel tout en feux, suivant des yeux la procession dont elle ne pouvait faire partie, n'ayant point le costume d'usage ! Elle l'aura ; je veux le lui donner, tout en secourant son amie.</p>
         <p>— C'est une admirable enfant, dit le général. Combien, à son âge et dans sa situation, feraient juste assez pour leur mère, et consacreraient la plus grande partie de leur gain, non certes à un voile de vierge, mais à ces toilettes exagérées qui attirent le regard des passants ? Il n'y a pas beaucoup d'ouvrières plus jolies que Marie Dubreuil, et de plus sages il n'y en a point.</p>
         <p>La marquise, dans ses élans de bonté, aimait à ne pas faire attendre.</p>
@@ -1018,7 +1006,7 @@
           <p>« Adieu, ma chère enfant, continuez d'être, sous les yeux de votre bonne mère, bien travailleuse et bien modeste.</p>
           <p>« Mme de... »</p>
         </quote>
-        <milestone type="section" rend="space" unit="newline" />
+        <milestone type="section" rend="space" unit="newline"/>
         <p>— Eh bien, ma fille, vois ce que c'est que d'avoir de la conduite. Amanda aurait-elle jamais trouvé une pareille protection, quand elle se faisait gloire de n'avoir pas l'air d'une ouvrière ?</p>
         <p>— Maman, elle sera visitée, secourue, quel bonheur !</p>
         <p>— Tu vois bien qu'elle mentait quand elle disait devant toi, qui n'avais alors que quatorze ans : « Les riches sont tous des égoïstes. »</p>
@@ -1219,7 +1207,7 @@
           <p>« Permettez-moi de vous embrasser avec la plus vive et la plus respectueuse tendresse.</p>
           <p>« ALICE. »</p>
         </quote>
-        <milestone type="section" rend="space" unit="newline" />
+        <milestone type="section" rend="space" unit="newline"/>
         <p>Elle mit ce billet dans la précieuse enveloppe, qui comptait onze ans de date ; elle écrivit pour souscription : <hi>À maman</hi> , et le tout fut déposé sur le petit bureau du boudoir. </p>
         <p>Espérance, une heure après, entra dans sa jolie solitude, y trouva la pensée de son enfant, et, le cœur plein des sentiments les plus doux, se dit que, au moyen de quelques enveloppes semblables, elle avait mieux connu son devoir. Le soir, elle montra au général la lettre d'Alice qu'elle avait réunie à celle de son père dans un des compartiments de son buvard. Là aussi se trouvaient les deux lettres de l'enfant pâle, dans leurs jolies enveloppes satinées.</p>
         <p>« Mais tu n'as pas ton compte ? dit le vieillard, Marie t'a écrit trois fois. »</p>

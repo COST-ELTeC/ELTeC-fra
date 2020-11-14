@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01801" xml:lang="fr">
   <teiHeader>
@@ -22,38 +22,25 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">188983</measure>
       </extent>
-      <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2019-11-04" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <publisher>Project Gutenberg</publisher>
           <idno>17757</idno>
-          <ref target="https://www.gutenberg.org/ebooks/17757" />
+          <ref target="https://www.gutenberg.org/ebooks/17757"/>
           <date>2006</date>
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <title>Ellenore. 1ère série</title>
           <author>Marie Françoise Sophie Gay</author>
           <publisher>Michel Lévy</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1864</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k62042m"></ref>
-        </bibl>
-        <bibl type="firstEdition">
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k62042m"/>
+        </bibl><bibl type="firstEdition">
           <date>1844</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -66,13 +53,13 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-01">Initial TEI version.</change>
@@ -89,7 +76,7 @@
         <p>Les talents, les célébrités, les gens distingués de toutes les classes, échappés comme par miracle à la faux révolutionnaire, se réunissaient alors avec une joie mêlée de regrets, comme ces naufragés qui pleurent et s'embrassent après avoir vu périr le vaisseau qui portait leur fortune. La misère et la mort, ces deux niveaux dont aucune vanité ne saurait altérer la justesse, avaient établi une véritable égalité à côté de cette égalité fictive, prétexte du plus féroce despotisme. Le génie, l'esprit, le courage, le savoir, allaient de pair avec tout ce qui restait de nos anciennes illustrations. Le gentilhomme le plus entiché de ses vieux préjugés saisissait avec empressement l'occasion d'y être infidèle en se rapprochant du plébéien éloquent, ou de l'artiste spirituel auquel il devait sa sortie de prison.</p>
         <p>La reconnaissance était encore plus facile envers la femme qui l'avait méritée par un dévouement héroïque… Quel moraliste sévère, quel Solon des convenances aurait osé blâmer, dans ces temps de troubles, l'homme qui payait de son nom et de sa fortune l'asile offert, sous peine de mort, par la femme généreuse qui recueillait un proscrit ? Il paraissait si simple alors de préférer ses affections à des titres perdus, à des usages violés, à des seigneuries sous les scellés ! Passer de douces heures près de la personne qui venait de vous sauver la vie, était le bonheur suprême de ce temps de résurrection ; et je le demande à ceux qui ont recouvré depuis leurs châteaux, leurs honneurs et leurs titres, le retour de tous ces biens leur a-t-il jamais procuré d'aussi pures jouissances ?</p>
         <p>À ce dîner, où chaque convive tenait plus ou moins à l'histoire moderne, je me trouvai placée entre deux hommes de caractère, d'esprit et d'opinions très-opposés, mais que leur vif désir de briller dans la conversation rendaient tous deux fort aimables. C'était le vicomte de Ségur et Marie Chénier, l'auteur de <hi>Charles IX</hi> ; en face se trouvaient Garat l'idéologue, son neveu Maillat Garat, le chevalier de Panat, Benjamin Constant, l'abbé Siéyès, madame Talma et le comte de Savernon. Les deux derniers occupaient les places d'honneur auprès de la maîtresse de la maison. </p>
-        <p>Au milieu de ces spirituels convives on remarquait une figure angélique, c'était celle de la fille de madame de Condorcet, de cette ravissante Eliza[1] qui, à peine dans l'âge de l'adolescence, avait déjà la taille et les traits réguliers d'une statue grecque.<ref target="#N1">[1]</ref></p>
+        <p>Au milieu de ces spirituels convives on remarquait une figure angélique, c'était celle de la fille de madame de Condorcet, de cette ravissante Eliza[1] qui, à peine dans l'âge de l'adolescence, avait déjà la taille et les traits réguliers d'une statue grecque.<ref target="#N1">[1]</ref><ref target="#N1">[1]</ref></p>
         <p>Je ne saurais peindre l'étonnement, la curiosité, le plaisir que j'éprouvais à voir, à écouter tant de gens dont les réputations offraient de si piquants contrastes. D'abord terrifiée par le nom de Chénier, je gardai un silence observateur. Sans doute mon regard craintif trahissait ma pensée, car Chénier quitta un moment son air dédaigneux, et m'adressa la parole de la manière la plus gracieuse. Il me fit l'éloge de mon mari, auquel, ajouta-t-il, il avait été assez heureux pour rendre un léger service.</p>
         <p>Ce léger service n'était rien moins que celui de l'avoir fait sortir de la Conciergerie, la veille du jour où il devait être conduit au tribunal révolutionnaire.</p>
         <p>Je ne sais ce qui me frappa le plus des manières aristocratiques du citoyen Chénier, ou de la gaieté républicaine du vicomte de Ségur. Le premier avait fait tant de sacrifices à l'égalité, qu'on ne s'attendait pas à le voir prendre autant de soins de tenir à distance ceux qui auraient pu le traiter d'égal, et l'on ne s'attendait pas davantage à entendre le vicomte de Ségur rire de sa misère, et s'amuser si franchement des ridicules des bourreaux qu'il avait bravés.</p>
@@ -195,7 +182,7 @@
           <head>V</head>
           <p>L'idée de se savoir un appui contre la malveillance de madame de Montévreux rendit Ellénore plus calme, elle se promit de supporter avec plus de patience ce qu'elle appelait l'humeur capricieuse de sa bienfaitrice ; et elle retourna chez la duchesse aux heures où elle avait l'habitude de s'y rendre.</p>
           <p>D'abord elle fut frappée de la familiarité hautaine avec laquelle la duchesse lui parlait devant M. de Croixville, l'appelant à chaque minute pour lui demander son métier à broder, ses soies, son cordonnet, et laissant dix fois tomber son mouchoir pour le faire ramasser par Ellénore ; puis, quand vint le coiffeur, la duchesse le renvoya en disant:</p>
-          <p>— Je ne sortirai point aujourd'hui, j'ai mal à la tête, une longue coiffure me fatiguerait ; Ellénore arrangera mes cheveux, et me mettra ma baigneuse. <ref target="#N2">[2]</ref></p>
+          <p>— Je ne sortirai point aujourd'hui, j'ai mal à la tête, une longue coiffure me fatiguerait ; Ellénore arrangera mes cheveux, et me mettra ma baigneuse. <ref target="#N2">[2]</ref><ref target="#N2">[2]</ref></p>
           <p>Enchantée d'être choisie pour soigner sa protectrice, et pour épargner quelque secousse à sa tête malade, Ellénore se met à la coiffer de son mieux, en touchant à peine de ses jolis doigts les cheveux qu'elle boucle.</p>
           <p>— C'est bien, dit la duchesse. Maintenant, allez trouver mademoiselle Adeline ; je ne m'habillerai que dans une heure. Ellénore, pensant qu'on la chargeait d'un ordre pour mademoiselle Adeline, sortit sans faire attention au ton qui avait accompagné les derniers mots de la duchesse.</p>
           <p>Quand le mal passe la mesure, il est plus long à comprendre.</p>
@@ -2035,7 +2022,7 @@
           <l>Voulant rivaliser les grâces demi-nues</l>
           <l>A montrer leurs appas mettent beaucoup de soins,</l>
           <l>Mais on les aimait mieux quand on les voyait moins.</l>
-          <p>Que dirait aujourd'hui cet aimable critique, à la vue des mêmes nudités[1] que ne recouvrent plus un châle drapé à l'antique, ni même des gants longs ? <ref target="#N3">[1]</ref></p>
+          <p>Que dirait aujourd'hui cet aimable critique, à la vue des mêmes nudités[1] que ne recouvrent plus un châle drapé à l'antique, ni même des gants longs ? <ref target="#N3">[1]</ref><ref target="#N3">[1]</ref></p>
           <p>Dans cette tragédie d'<hi>Agamemnon</hi>, M. Lemercier avait fait preuve de son culte pour l'antique plus que ne le permettaient alors nos habitudes dramatiques, et cette routine à laquelle Racine s'était lui-même soumis de franciser les classiques grecs au goût des courtisans de Louis XIV ; l'auteur s'était permis le tutoiement général des personnages, et avait laissé à celui de Cassandre, à cette somnambule troyenne, dont les oracles étaient aussi sans crédit, toute la mélancolie de la résignation au plus grand des supplices: celui de dire toujours la vérité sans être jamais crue. </p>
           <p>Ce caractère, qui sortait des limites au delà desquelles les jeunes princesses de tragédie n'osaient s'aventurer, avait inspiré de si vives craintes à un académicien, ami de l'auteur, qu'il l'avait engagé à arranger ce rôle sur les patrons accoutumés, en l'ornant d'un petit amour bien timide et de toutes les jérémiades à l'usage de cet emploi. Heureusement, Lemercier avait l'esprit trop courageux pour céder à cet avis. Le succès a récompensé son audace. Mais, en dépit de cet exemple, on ne peut nier qu'en France, où l'on nous accuse de vouloir <hi>du nouveau, n'en fût-il plus au monde</hi> , il y a peine de mort pour toute espèce d'ouvrage dramatique qui hasarde la moindre innovation. Notre public n'est inconstant qu'en parure ; il n'est point de vieilles beautés qu'on ne puisse lui faire applaudir, à la faveur d'une robe nouvelle. Il garde toute sa malveillance pour les visages inconnus. C'est probablement ce qui fait qu'on lui en montre si rarement. </p>
           <p>Talma, qui brûlait du désir d'enrichir notre scène de tous les effets mâles et franchement tragiques d'Eschyle, de Sophocle, de Shakspear et de Schiller, saisit avec joie l'occasion de représenter le plus fidèlement possible un véritable Grec.</p>
@@ -3245,7 +3232,7 @@
           <head>XXXI</head>
           <quote type="letter">
             <p>LE COMTE DE SÉGUR A MADAME MANSLEY.</p>
-            <p>«Grâce au ciel et au puissant réparateur qu'il nous envoie, nous commençons à respirer ; le temps des persécuteurs est passé ! Revenez donc, chère madame, et ne craignez plus d'être confondue avec les nobles intrigantes qui se mêlent de conspirer. Tout finit par s'éclaircir. On le sait, vous n'avez jamais été coupable que de sauver vos ennemis, sorte de crime très-récemment puni de mort, mais que le sénatus-consulte, qui permet aux émigrés soumis de rentrer en France, va mettre au premier rang des vertus modernes. Déjà plusieurs de nos illustres familles ont profité de leur radiation pour venir solliciter du premier consul la restitution de leurs biens et l'ont obtenue ; cela devrait servir d'exemple à vos réfugiés de Londres, et rendre moins amères les injures qu'ils dictent quotidiennement à ce méchant Lepelletier, dont <hi>l'Ambigu</hi> [2] est bien le plus mauvais repas qu'on puisse servir à des abonnés. <ref target="#N4">[2]</ref> </p>
+            <p>«Grâce au ciel et au puissant réparateur qu'il nous envoie, nous commençons à respirer ; le temps des persécuteurs est passé ! Revenez donc, chère madame, et ne craignez plus d'être confondue avec les nobles intrigantes qui se mêlent de conspirer. Tout finit par s'éclaircir. On le sait, vous n'avez jamais été coupable que de sauver vos ennemis, sorte de crime très-récemment puni de mort, mais que le sénatus-consulte, qui permet aux émigrés soumis de rentrer en France, va mettre au premier rang des vertus modernes. Déjà plusieurs de nos illustres familles ont profité de leur radiation pour venir solliciter du premier consul la restitution de leurs biens et l'ont obtenue ; cela devrait servir d'exemple à vos réfugiés de Londres, et rendre moins amères les injures qu'ils dictent quotidiennement à ce méchant Lepelletier, dont <hi>l'Ambigu</hi> [2] est bien le plus mauvais repas qu'on puisse servir à des abonnés. <ref target="#N4">[2]</ref><ref target="#N4">[2]</ref> </p>
             <p>»On ne s'explique pas ici comment le gouvernement anglais, qui se dit en paix avec nous, autorise la publication de telles calomnies contre le nôtre. C'est, prétendent-ils, par respect pour leur liberté de la presse qu'ils nous laissent insulter de la sorte ; comme si l' <hi>Alien-bill</hi> ne leur donnait pas un moyen légal de chasser le pamphlétaire et les assassins qu'il encourage par ses écrits. Quoi ! le sort des deux plus grandes nations de l'Europe serait à la disposition d'un journaliste incendiaire, soudoyé par un parti malheureux, que la colère aveugle ? Quoi ! le flambeau de la guerre se rallumerait à ce foyer immonde ? le sang de nos braves coulerait pour effacer quelques lignes infamantes d'un misérable écrivain ? Non, je ne puis le croire, j'aime mieux penser que l'état florissant où se trouve aujourd'hui la France importune nos voisins, et que, ne pouvant médire de la gloire du vainqueur de l'Italie, ils l'attaquent dans sa politique et dans sa vie privée. Le malheur est qu'il a la faiblesse de s'irriter de ces calomnies. Ah ! que n'a-t-il un peu de la savante indifférence de son ministre Talleyrand, à qui je demandais, l'autre soir, comment il était parvenu à triompher de ses nombreux ennemis: </p>
             <p>»—En n'y prenant pas garde, m'a-t-il répondu.</p>
             <p>»Le secret de son éternel crédit sous tous les gouvernements est en entier dans cette réponse.</p>
@@ -3274,7 +3261,7 @@
             <p>»—Celle qui a fait le plus d'enfants, a-t-il répondu en lui tournant le dos.</p>
             <p>»L'auteur de <hi>Delphine</hi> avait espéré mieux, et son enthousiasme s'est changé subitement en haine, ce qui nous vaut de ravissantes épigrammes sur ce qui se fait et se dit journellement de ridicule aux Tuileries et à la Malmaison. Décidément nos beaux esprits n'y seront plus admis, et nos auteurs dramatiques n'y seront pas mieux traités que les écrivains et les orateurs. </p>
             <p>»On vient d'arrêter par ordre les représentations d' <hi>Édouard en Écosse</hi> . L'intérêt de la pièce en a causé la perte, le talent d'Alexandre Duval, le crédit de mademoiselle Contat, les prières de madame Bonaparte, tout a échoué contre la volonté d'un guerrier qui n'a peur de rien, si ce n'est des explications du parterre français. </p>
-            <p>»Il arrive encore pis à mon ami Emmanuel Du… On vient de l'exiler pour le plus innocent des opéras-comiques, ayant pour titre l' <hi>Antichambre</hi> [3], et pour tort, celui de représenter plusieurs fripons de laquais singeant leurs maîtres d'une manière tellement vraie que de grands personnages ont cru s'y reconnaître. C'est bien humble, direz-vous ; mais c'est ainsi. Je devrais avoir ma part de cette disgrâce, car je suis coupable de quelques mauvais couplets de ce pauvre opéra, qui ne me semblait pas avoir jamais rien à démêler avec la politique et la police. Je dois, sans doute, cet excès d'indulgence de la part du sultan, à mon fils qui se bat dans son armée, et à mon frère qui se ferait tuer pour lui être agréable. Je ne partage ni le dévouement de l'un ni l'aveuglement de l'autre ; mais je respecte toutes les illusions, celles de la gloire comme celles de la vanité. <ref target="#N5">[3]</ref> </p>
+            <p>»Il arrive encore pis à mon ami Emmanuel Du… On vient de l'exiler pour le plus innocent des opéras-comiques, ayant pour titre l' <hi>Antichambre</hi> [3], et pour tort, celui de représenter plusieurs fripons de laquais singeant leurs maîtres d'une manière tellement vraie que de grands personnages ont cru s'y reconnaître. C'est bien humble, direz-vous ; mais c'est ainsi. Je devrais avoir ma part de cette disgrâce, car je suis coupable de quelques mauvais couplets de ce pauvre opéra, qui ne me semblait pas avoir jamais rien à démêler avec la politique et la police. Je dois, sans doute, cet excès d'indulgence de la part du sultan, à mon fils qui se bat dans son armée, et à mon frère qui se ferait tuer pour lui être agréable. Je ne partage ni le dévouement de l'un ni l'aveuglement de l'autre ; mais je respecte toutes les illusions, celles de la gloire comme celles de la vanité. <ref target="#N5">[3]</ref><ref target="#N5">[3]</ref> </p>
             <p>»A propos de vanité, la Harpe continue ses homélies académiques. Il cache son vieux bonnet rouge sous un capuchon monacal, dans l'espoir de faire oublier ses discours par ses sermons, ses chansons par ses cantiques, et ses rendez-vous grivois avec la célèbre gouvernante par la pénitence de lire mutuellement leurs ouvrages. Voici un quatrain improvisé en rêve, à la dernière séance du lycée républicain, par un des endormis du professeur :</p>
             <l>On disait autrefois proverbialement,</l>
             <l>Pour exprimer l'ennui, bâiller comme une carpe ;</l>
@@ -3303,7 +3290,7 @@
           <l>Notre bonheur est accompli</l>
           <l>Voilà le culte rétabli.</l>
           <p>On récite dans tous les lycées des vers sur cette grande restauration. Les dévots se réjouissent, les philosophes font la grimace ; l'un d'eux prétendait l'autre jour que le curé et le vicaire de sa paroisse disaient de lui :</p>
-          <p>Puisqu'il ne croit qu'en Dieu, c'est sans doute un athée. <ref target="#N6">[4]</ref></p>
+          <p>Puisqu'il ne croit qu'en Dieu, c'est sans doute un athée. <ref target="#N6">[4]</ref><ref target="#N6">[4]</ref></p>
           <p>Les éternels frondeurs disent que le <hi>Petit Caporal</hi> ne pouvant plus se livrer aux plaisirs de la guerre, s'amuse à jouer à la chapelle ; ils voient déjà l'inquisition régner dans notre pays et les auto-da-fé remplacer la guillotine. Chacun juge les événements d'après ses intérêts, ses préjugés. Ma mère pleure de joie lorsqu'elle lit mon nom dans <hi>le Moniteur</hi> à propos d'une victoire ; mon grand-père dit que je me déshonore en servant l'usurpateur. Je suis accablé tour à tour de félicitations, d'injures, sans m'enorgueillir ni m'offenser des unes ni des autres, car ma destinée, un mot d'elle en a disposé, ajouta Lucien en montrant Ellénore. Je n'en ai plus la responsabilité ; vivre pour justifier sa charité, sa protection, consacrer la vie que je lui dois à lui faire honneur, à lui obéir, à… </p>
           <p>— Eh bien, taisez-vous, interrompit brusquement Ellénore, ne revenez pas sans cesse sur une idée qui m'importune, et dont mes amis se moquent avec raison, ou je ne vous recevrai plus.</p>
           <p>— C'est montrer trop de sévérité, dit madame Delmer ; les sentiments exprimés tout haut ne méritent pas tant de colère.</p>

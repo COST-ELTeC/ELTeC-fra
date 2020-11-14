@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00503" xml:lang="fr">
   <teiHeader>
@@ -18,44 +18,31 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">93205</measure>
       </extent>
-      <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2019-11-04" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">COST-ELTeC concept DOI</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra concept DOI</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <publisher>Éfélé</publisher>
           <date>2014</date>
           <idno>000075</idno>
-          <ref target="http://efele.net/ebooks/livres/000075" />
-        </bibl>
-        <bibl type="printSource">
+          <ref target="http://efele.net/ebooks/livres/000075"/>
+        </bibl><bibl type="printSource">
           <title>Le curé de village</title>
           <author>Honoré de Balzac</author>
           <pubPlace>Paris</pubPlace>
           <publisher>Furne, J. Dubochet et Cie, J. Hetzel et Paulin</publisher>
           <date>1842-1848</date>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <title>Le curé de village</title>
           <author>Honoré de Balzac</author>
           <publisher>bureaux du "Siècle"</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1854</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5821334m"></ref>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5821334m"/>
           <!-- Version primitive en feuilleton : 1839 -->
           <!-- Novel first appeared in "La presse", serial (January-August 1839), then in flight. in 1841 before being included in "The human comedy" in the "Scenes of country life" (t. XIII, 1846) in the part entitled "Studies of manners". -->
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -67,13 +54,13 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-08-07">Initial TEI version.</change>
@@ -982,7 +969,7 @@
       </div>
     </body>
     <back>
-      <div type="notes" />
+      <div type="notes"/>
       <div type="liminal">
         <p>Paris, janvier 1837 - mars 1845.</p>
       </div>
