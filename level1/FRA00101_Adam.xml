@@ -26,7 +26,15 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">21636</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+</publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           <title>Mon village</title>
           <author>Juliette Lamber (Madame Adam)</author>
@@ -67,7 +75,8 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
+    <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-09-30">File created</change>
       <change when="2019-10-23">upgrade to ELTeC-1</change>
@@ -90,7 +99,7 @@
       <div type="liminal">
         <p>Quand notre curé dit la messe, il n'oublie jamais la préface. Je vas faire comme monsieur le curé : une fois n'est pas coutume.</p>
         <p>M'est avis qu'il y a trop longtemps qu'on raconte des histoires de furolles, de loups-garous, de voleurs et puis de revenants.</p>
-        <p>Je m'illusionne à croire que ce que nous faisons et disons au village pourrait intéresser quelque peu les gens lettrés et bien intentionnés à l'égard de nous autres paysans. Assuré que je m'illusionne ; mais fût-ce <ref target="#FRA00101N01">[1]</ref><ref target="#FRA00101N01">[1]</ref> ! il en sera ce qu'il en sera.</p>
+        <p>Je m'illusionne à croire que ce que nous faisons et disons au village pourrait intéresser quelque peu les gens lettrés et bien intentionnés à l'égard de nous autres paysans. Assuré que je m'illusionne ; mais fût-ce <ref target="#FRA00101N01">[1]</ref><ref target="#FRA00101N01">[1]</ref><ref target="#FRA00101N01">[1]</ref><ref target="#FRA00101N01">[1]</ref> ! il en sera ce qu'il en sera.</p>
         <p>Je commence d'abord par apprendre à un chacun que je ne passe point, dans notre pays, pour être ce que nous appelons un homme de plume ; d'autre part, que je suis né en pleine Picardie.</p>
         <p>Fût-ce encore ! je prétends être Français comme personne, et je me charge, à moi tout seul, de le prouver avant une heure d'ici.</p>
         <p>Pour finir, je fais savoir que j'ai toujours été tisserand de mon état, et que je reste dans la maison où restait mon père, à Saint-Brunelle, près Morlincourt, Oise ; de plus, que Fructueux Cellier est mon nom.</p>
@@ -104,16 +113,16 @@
 
         <head>UNE VEILLÉE.</head>
         <p>Depuis un nombre innombrable d'hivers, c'est dans la maison de Norine Duclos qu'ont lieu les plus égayantes veillées de notre village. Adonc, certain soir, comme j'entrais chez Norine, je la trouvai en train de prêcher ses trois petiotes.</p>
-        <p>— Hé ! Mandine, criait-elle, dépêche-toi de balayer la maison ; plus vite que ça ! Surtout n'oublie pas le coin où la femme de Jean-Claude a épluché une pomme ce matin. Toi, la Rose, prends mon couvet et emplis-le. Habile <ref target="#FRA00101N02">[2]</ref><ref target="#FRA00101N02">[2]</ref> , habile.</p>
+        <p>— Hé ! Mandine, criait-elle, dépêche-toi de balayer la maison ; plus vite que ça ! Surtout n'oublie pas le coin où la femme de Jean-Claude a épluché une pomme ce matin. Toi, la Rose, prends mon couvet et emplis-le. Habile <ref target="#FRA00101N02">[2]</ref><ref target="#FRA00101N02">[2]</ref><ref target="#FRA00101N02">[2]</ref><ref target="#FRA00101N02">[2]</ref> , habile.</p>
         <p>Désirée ! Monte sur l'escabeau et décroche une chandelle à la poutre ; trouve le chandelier. Bon ! voilà du cuivre qui terluit comme le dos d'une citrouille. Frotte, frotte ; là !... Faites excuse, Cellier, dit Norine, mais des fillettes, ça ne s'avise de rien, il faut tout leur commander.</p>
         <p>Quand on doit parler d'une ménagère, en voilà une ! Elle passe, à bon droit, pour la plus regardante de Saint-Brunelle ; on se mirerait dans son armoire en noyer de même que devant un miroir, et je vous avertis que les couverts d'étain qui pendent à</p>
         <p>sa potière, brillent comme du pur argent.</p>
         <p>Il paraît difficile de rencontrer dans les palais, savez-vous, trois brins de filles comme Armandine, la Rose et puis Désirée.</p>
         <p>À réserve de la Rose, qui me semble une miette trop rétue pour une jeunesse de campagne, les petiotes de Norine sont capables sur beaucoup de points.</p>
-        <p>Tandis que ses sœurs mettent leur gloire à regarder cliqueter le feu <ref target="#FRA00101N03">[3]</ref><ref target="#FRA00101N03">[3]</ref> , la Rose met sa gloire à se promener suivie d'un tas de galants.</p>
+        <p>Tandis que ses sœurs mettent leur gloire à regarder cliqueter le feu <ref target="#FRA00101N03">[3]</ref><ref target="#FRA00101N03">[3]</ref><ref target="#FRA00101N03">[3]</ref><ref target="#FRA00101N03">[3]</ref> , la Rose met sa gloire à se promener suivie d'un tas de galants.</p>
         <p>Si mioche qu'elle ait été, elle a toujours passé pour garçonnière ; mais fût-ce ! comme son oncle Jean-Claude, ce n'est pas la plus bête de chez nous.</p>
         <p>À la fin des fins, la maison s'emplit ; les couseuses se placent le plus près possible de la chandelle, les fileuses derrière les couseuses, et les tricoteuses n'importe où. On devise de choses et d'autres, on glose à tort et à travers, et les langues tournent, tournent pareillement aux rouets des meilleures fileuses.</p>
-        <p>— L'hiver viendra sans oraisons, dit le père Roux, berger, en faisant trotter ses aiguilles plus vite que ses moutons <ref target="#FRA00101N04">[4]</ref><ref target="#FRA00101N04">[4]</ref> .</p>
+        <p>— L'hiver viendra sans oraisons, dit le père Roux, berger, en faisant trotter ses aiguilles plus vite que ses moutons <ref target="#FRA00101N04">[4]</ref><ref target="#FRA00101N04">[4]</ref><ref target="#FRA00101N04">[4]</ref><ref target="#FRA00101N04">[4]</ref> .</p>
         <p>— Taisez-vous, vieux huguenot, dit la petiote à Perpétue, vous ne savez qu'offenser le bon Dieu.</p>
         <p>— Qu'est-ce que tu chantes là ? des psaumes ? Garde-les pour monsieur le curé. Tiens ! voilà Jean-Claude. Bonsoir, Jean-Claude !</p>
         <p>— Bonsoir, mon frère, dit Norine.</p>
@@ -177,7 +186,7 @@
         <p>— Comment ! on ne parle pas français chez nous ? Je ne suis mi déjà de si loin : Vermand, ce n'est jamais qu'à vingt lieues d'ici.</p>
         <p>— Je soutiens que Vermand c'est hors de France ! Tiens, puisqu'on chante, chante dans ton parler, la mère, et on verra, dit le père Roux.</p>
         <p>— Chantez, chantons, qu'on chante ! dit le dragon en refermant la porte. Bonsoir à un chacun.</p>
-        <p>— Bonsoir, Pierre <ref target="#FRA00101N05">[5]</ref><ref target="#FRA00101N05">[5]</ref> , dit la compagnie :</p>
+        <p>— Bonsoir, Pierre <ref target="#FRA00101N05">[5]</ref><ref target="#FRA00101N05">[5]</ref><ref target="#FRA00101N05">[5]</ref><ref target="#FRA00101N05">[5]</ref> , dit la compagnie :</p>
         <p>La mère Remblay se mit à chanter, d'une belle voix perçante, une chanson. En voilà le refrain ; comprenez si vous pouvez :</p>
         <quote type="song">
           <l>Ch' solé y r'luit, ch' moinet y cainte,</l>
@@ -187,7 +196,7 @@
           <l>V'nez dans nos bous sous leu n'ombrache,</l>
           <l>V'nez donc bachelette, v'nez aveu nous ;</l>
           <l>Eussiez une tiote miette d'courache,</l>
-          <l> Y foët rud'ment dous dans ché bous <ref target="#FRA00101N06">[6]</ref><ref target="#FRA00101N06">[6]</ref> . </l>
+          <l> Y foët rud'ment dous dans ché bous <ref target="#FRA00101N06">[6]</ref><ref target="#FRA00101N06">[6]</ref><ref target="#FRA00101N06">[6]</ref><ref target="#FRA00101N06">[6]</ref> . </l>
         </quote>
         <p>C'est pourtant de cette manière-là qu'ils devisent du côté de Saint-Quentin ; mais fût-ce !</p>
         <p>La retraite sonne, pour bien dire, neuf heures. Les bonnets blancs tirent de leurs poches des noix, des pommes et puis du pain. Filles et garçons, à qui mieux mieux, font claquer leurs mâchoires.</p>
@@ -261,7 +270,7 @@
         <head>II</head>
 
         <head>LA ROSE.</head>
-        <p>À force, à force de payer ses galants, « d'écoute s'il pleut » <ref target="#FRA00101N07">[7]</ref><ref target="#FRA00101N07">[7]</ref> et de les voir accourir tout de même, la Rose devenait un brin trop acrimonieuse ; fière comme Artaban, elle s'illusionnait au point de croire qu'elle serait toujours pareillement festoyée.</p>
+        <p>À force, à force de payer ses galants, « d'écoute s'il pleut » <ref target="#FRA00101N07">[7]</ref><ref target="#FRA00101N07">[7]</ref><ref target="#FRA00101N07">[7]</ref><ref target="#FRA00101N07">[7]</ref> et de les voir accourir tout de même, la Rose devenait un brin trop acrimonieuse ; fière comme Artaban, elle s'illusionnait au point de croire qu'elle serait toujours pareillement festoyée.</p>
         <p>Aussi les garçons, pour la faire endêver, ne trouvaient-ils rien de mieux que de lui parler mariage. M'est avis que ce n'était pas un manque de réflexion qui faisait refuser, à cette jeunesse, par ainsi les épouseurs. Une preuve, c'est que d'aucunes fois la fillette prétendait que, dans nos pays, une femme mariée et une bête de somme, c'est approchant la même chose. Adonc, que pour se mettre la corde au cou, et, au respect que je vous dois, faire cinq ou six mioches, il n'y a jamais de presse.</p>
         <p>Norine disait, quand elle se ramentevait tous les partis que sa fille avait rejetés : « Assuré qu'il nous faudra attendre monsieur Plaisant. »</p>
         <p>Depuis quelques semaines, d'après la connaissance qu'un chacun possédait de la manière d'être de la Rose, on ne se faisait pas faute de remarquer qu'elle aimait moins à badiner du mariage, et que le dimanche, à rebours d'autrefois, elle s'en allait baguenauder dans les prés avec un seul galant.</p>
@@ -359,7 +368,7 @@
         <p>Qu'est-ce ? demandai-je ? — « C'est rien, me répondit la bergère ; c'est un parigot ! »</p>
         <p>— Oui, mais, dit Jean-Claude, depuis notre mairesse, on ne voit plus tant de misères.</p>
         <p>— Allons donc ! elle n'arrive à rien. Les nourrices se moquent d'elle ; le mois passé, n'a-t-elle pas essayé de reprendre le parigot de la femme Jeacquet ? une misérable qui le laissait brûler pour la sixième fois. Il a fallu rendre le parigot. La Jeacquet, une dévote, a fait intervenir M. le curé et menacé le maire d'une plainte aux gendarmes ; le maire a eu peur, comme toujours.</p>
-        <p>— Je l'abomine, moi, cette Jeacquet, dit Jean-Claude, c'est une paresseuse. Hier, en plein jour, ne se promenait-elle pas dans le village avec son petiot en grandissime toilette ! Figurez-vous que le meneur <ref target="#FRA00101N09">[9]</ref><ref target="#FRA00101N09">[9]</ref> lui avait remis, pour son parigot, un paquet de nippes, et qu'elle s'en allait montrant ces nippes-là sur le dos de son propre enfant, tandis que le nourrisson se traînait, tout en loques, devant sa porte. Afin de reparler de madame la mairesse, ce n'est point de sa faute si elle n'arrive pas à bien.</p>
+        <p>— Je l'abomine, moi, cette Jeacquet, dit Jean-Claude, c'est une paresseuse. Hier, en plein jour, ne se promenait-elle pas dans le village avec son petiot en grandissime toilette ! Figurez-vous que le meneur <ref target="#FRA00101N09">[9]</ref><ref target="#FRA00101N09">[9]</ref><ref target="#FRA00101N09">[9]</ref><ref target="#FRA00101N09">[9]</ref> lui avait remis, pour son parigot, un paquet de nippes, et qu'elle s'en allait montrant ces nippes-là sur le dos de son propre enfant, tandis que le nourrisson se traînait, tout en loques, devant sa porte. Afin de reparler de madame la mairesse, ce n'est point de sa faute si elle n'arrive pas à bien.</p>
         <p>— C'est vrai, dit M. Céran ; mais que peut une femme, de quel droit userait-elle ?</p>
         <p>— Du droit que lui donne sa grande bonté, dit Jean-Claude ; vous ressouvenez-vous de ce qu'elle a fait pour la parigote ?</p>
         <p>— Oh ! cela, dit le médecin d'une voix émotionnée, c'est un de ces actes qui illuminent toute une vie.</p>
@@ -654,7 +663,7 @@
 
         <head>LES NOCES.</head>
         <p>Chez Norine, chez la grande Jacqueline, chez Perpétue, tout terluit du haut jusqu'en bas.</p>
-        <p>Les commères de notre village se sont partagé la besogne sous les ordres des trois grands cordons <ref target="#FRA00101N10">[10]</ref><ref target="#FRA00101N10">[10]</ref> .</p>
+        <p>Les commères de notre village se sont partagé la besogne sous les ordres des trois grands cordons <ref target="#FRA00101N10">[10]</ref><ref target="#FRA00101N10">[10]</ref><ref target="#FRA00101N10">[10]</ref><ref target="#FRA00101N10">[10]</ref> .</p>
         <p>Sous leurs ordres on a récuré les casseroles, épluché les légumes, plumé les volailles, enfourné et défourné les gâteaux et les flans, puis, dès le fin matin, dressé les tables dans les maisons.</p>
         <p>Pour les hommes, ils sont descendus aux caves, dans le but de percer les muids de cidre et de vin du cru.</p>
         <p>Il y a passé quinze grands jours que les ménagères conservent leur crème. J'opine qu'on pourra user à foison du beurre dans les sauces.</p>
@@ -814,7 +823,7 @@
         <p>Sortez des maisons, gais moissonneurs, sortez des maisons pour aller aux champs.</p>
         <p>Les blés sont mûrs.</p>
         <p>Tout ce que j'ai dit là, de vrai, la cloche qui sonne la moisson, les moineaux des bois, les moineaux des champs, les bêtes dans les écuries, tout ça chante la même chose.</p>
-        <p>Dans le but de ne pas aller à la France <ref target="#FRA00101N11">[11]</ref><ref target="#FRA00101N11">[11]</ref> , je me suis engagé à</p>
+        <p>Dans le but de ne pas aller à la France <ref target="#FRA00101N11">[11]</ref><ref target="#FRA00101N11">[11]</ref><ref target="#FRA00101N11">[11]</ref><ref target="#FRA00101N11">[11]</ref> , je me suis engagé à</p>
         <p>faire la moisson chez le fermier. Je serai payé en blé : c'est convenu ; du blé n'est pas de l'argent... Mais on a tant de mal à</p>
         <p>la France !</p>
         <p>Ah ! pour ceux-là qui sortent du pays, ni les moineaux, ni les bêtes, ni la cloche du village, ne chantent la chanson de tout à</p>
@@ -836,7 +845,7 @@
         <p>En voilà une de chaleur, le sommes-nous harassés ! Nous avons moissonné d'arrache-pied. Le temps est si sec, que le blé s'égrenait... Si tous les faucheurs s'étaient trouvés là, on n'aurait eu que demi-mal, mais les meilleurs sont à la France.</p>
         <p>Reviendront-ils vivants ? et dans quel état ? Pourvu qu'ils ne nous rapportent pas encore quelque épidémie ! Fût-ce ! M. Céran nous guérira.</p>
         <p>Le père Roux, berger, soutient que la lune a un grain ou deux, les pluies vont venir. J'ai vu dans les champs deux pièces de blé encore debout : l'une est à Jean-Claude et l'autre à Cadet Lambin, tous les deux sont à la France. S'il pleut, leur pauvre blé va germer.</p>
-        <p>Chaque année, on se fait une fête du retour des franciers <ref target="#FRA00101N12">[12]</ref><ref target="#FRA00101N12">[12]</ref> , et c'est presque toujours un enterrement...</p>
+        <p>Chaque année, on se fait une fête du retour des franciers <ref target="#FRA00101N12">[12]</ref><ref target="#FRA00101N12">[12]</ref><ref target="#FRA00101N12">[12]</ref><ref target="#FRA00101N12">[12]</ref> , et c'est presque toujours un enterrement...</p>
         <milestone unit="section" rend="dot"/>
         <p>Les voilà ! les voilà ! Voilà les franciers revenus !</p>
         <p>— Où sont-ils ? — Sur la place ! — Courons les embrasser !</p>
@@ -897,9 +906,9 @@
         <p>Chanvriers et chanvrières partent le matin, tout engourdis ; mais on s'égaye vite aux champs. L'odeur du chanvre, voyez-vous, monte quelque peu à la tête des chanvriers et les pousse à</p>
         <p>chanter, comme plus tard le chènevis porte les moineaux à</p>
         <p>siffloter.</p>
-        <p>La cueillette des femelles une fois achevée, on entreprend celle des mâles <ref target="#FRA00101N13">[13]</ref><ref target="#FRA00101N13">[13]</ref> .</p>
+        <p>La cueillette des femelles une fois achevée, on entreprend celle des mâles <ref target="#FRA00101N13">[13]</ref><ref target="#FRA00101N13">[13]</ref><ref target="#FRA00101N13">[13]</ref><ref target="#FRA00101N13">[13]</ref> .</p>
         <p>Dans nos pays, la culture du chanvre ne se faisant point sur une grande échelle, pressés que nous sommes de jouir de notre récolte, nous la mettons, à peine sèche, dans les rouissoirs, et puis nous l'en retirons au cœur de l'hiver ; c'est un rude métier, je vous l'assure.</p>
-        <p>Quand nous trouvons notre chanvre suffisamment égoutté, nous le mâchons <ref target="#FRA00101N14">[14]</ref><ref target="#FRA00101N14">[14]</ref> ; plus tard les bonnets blancs le filent. C'est avec ce fil-là que nous autres tisserands nous faisons la toile.</p>
+        <p>Quand nous trouvons notre chanvre suffisamment égoutté, nous le mâchons <ref target="#FRA00101N14">[14]</ref><ref target="#FRA00101N14">[14]</ref><ref target="#FRA00101N14">[14]</ref><ref target="#FRA00101N14">[14]</ref> ; plus tard les bonnets blancs le filent. C'est avec ce fil-là que nous autres tisserands nous faisons la toile.</p>
       </div>
       <div type="chapter">
 
@@ -924,7 +933,7 @@
           <p>« Il s'agirait de transporter sur des points donnés, à des prix équivalents à ceux des trains de plaisir, moindres même s'il se pouvait, les moissonneurs qui descendent du Nord à l'époque de la moisson.</p>
           <p>« Puisque vous avez su, Messieurs, trouver moyen de gagner aux trains de plaisir, il serait triste de penser que vous dussiez perdre. <hi rend="capitals">AUX TRAINS DE TRAVAIL</hi>. </p>
         </quote>
-        <p>« Agréez, Messieurs <ref target="#FRA00101N15">[15]</ref><ref target="#FRA00101N15">[15]</ref> ... »</p>
+        <p>« Agréez, Messieurs <ref target="#FRA00101N15">[15]</ref><ref target="#FRA00101N15">[15]</ref><ref target="#FRA00101N15">[15]</ref><ref target="#FRA00101N15">[15]</ref> ... »</p>
         <p>— Les politesses d'usage ! dit Jean-Claude. Hein ! la compagnie, et qu'est-ce que vous pensez de cette pétition-là ?</p>
         <p>— Tout de même, dit un chacun, si on pouvait arriver à ne pas payer plus cher pour aller à la France que le père Roux, berger, lors de son voyage à Paris, c'est ça qui serait joliment avantageux.</p>
         <p>— Avisez-vous de soutenir que les bonnets blancs n'entendent rien aux choses d'administration, dit Jean-Claude ; moi, je vous répondrai que de sa vie, de ses jours, jamais un de nous autres imbéciles n'aurait songé à cette pétition-là. De quelle utilité ne serait pas, au pauvre monde de nos pays, l'arrangement d'une affaire pareille ! J'opine qu'afin d'achever, en une seule nuit, le voyage que nous mettons huit ou dix jours à finir, nous prendrions volontiers un détour de quelques lieues pour trouver des stations de chemin de fer.</p>

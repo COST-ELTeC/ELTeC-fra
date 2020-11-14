@@ -29,7 +29,15 @@
         <measure unit="pages">332</measure>
         <measure unit="vols">2</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+</publicationStmt>
       <sourceDesc><bibl type="printSource">
           <bibl type="digitalSource">
             <title>Le château de Pinon. VOL 1: Gallica edition</title>
@@ -73,7 +81,8 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
+    <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-09-25">File created</change>
       <change when="2019-10-17">upgrade to ELTeC-1</change>
@@ -1965,7 +1974,7 @@
         <p>— Ouvrez cette chemise. Pichard ouvrit la chemise.</p>
         <p>— Oui, continua-t-elle comme se parlant à elle-même, voilà la plaie ! Dieu ! qu'elle est large !</p>
         <p>Elle prit ses cheveux, enfermés dans une bourse et les mania.</p>
-        <p> — Voilà, ajouta-t-elle, un homme qui a une belle tête et bien couverte <ref target="#FRA00801N01">*</ref><ref target="#FRA00801N01">*</ref> . </p>
+        <p> — Voilà, ajouta-t-elle, un homme qui a une belle tête et bien couverte <ref target="#FRA00801N01">*</ref><ref target="#FRA00801N01">*</ref><ref target="#FRA00801N01">*</ref><ref target="#FRA00801N01">*</ref> . </p>
         <p>Elle releva la manche de sa chemise et lui toucha le bras, semblant chercher s'il n'avait pas un bracelet.</p>
         <p>— Où sont ses poches ? demanda-t-elle.</p>
         <p>On lui remit sou justaucorps et sa veste. Elle ouvrit les poches et en tira d'abord :</p>

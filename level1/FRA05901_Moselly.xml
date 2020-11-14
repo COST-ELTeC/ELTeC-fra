@@ -22,7 +22,15 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">78099</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+</publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           <publisher>Bibebook</publisher>
           <ref target="http://www.bibebook.com/search/978-2-8247-1132-4">http://www.bibebook.com/search/978-2-8247-1132-4</ref>
@@ -63,7 +71,8 @@
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
+    <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-04-05">entête auto-généré: à compléter </change>
     </revisionDesc>
   </teiHeader>

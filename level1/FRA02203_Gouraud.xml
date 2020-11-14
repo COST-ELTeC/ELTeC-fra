@@ -22,7 +22,15 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">45477</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+</publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
           <ref target="http://beq.ebooksgratuits.com"/>
@@ -54,7 +62,8 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
+    <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
@@ -660,7 +669,7 @@
           <l>Garçon de la montagna,</l>
           <l>Te fauilla pa veni</l>
           <l>Che vouila ma dourmi.</l>
-          <ref target="#FRA02203_N01"/><ref target="#FRA02203_N01"/>
+          <ref target="#FRA02203_N01"/><ref target="#FRA02203_N01"/><ref target="#FRA02203_N01"/><ref target="#FRA02203_N01"/>
         </quote>
         <p>Il fut donc décidé qu'on suivrait le conseil de Mme de Sarlières, qu'on attendrait la mise en vente du <hi>Petit-Château.</hi>
         </p>

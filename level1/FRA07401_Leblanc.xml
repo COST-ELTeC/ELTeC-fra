@@ -26,7 +26,15 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">112340</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+</publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           <title>813</title>
           <author>Maurice Leblanc</author>
@@ -62,7 +70,8 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
+    <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-09-23">File created</change>
     </revisionDesc>
   </teiHeader>
@@ -1883,7 +1892,7 @@
           <p>– Non, chef…</p>
           <p>Mais Dieuzy se ranimait, et tout de suite, les yeux à peine ouverts, il marmotta :</p>
           <p>– Ici, sur le palier, la petite porte…</p>
-          <p>– Ah ! bon sang, la porte de la septième chambre ! s'écria le chef de la Sûreté. J'avais pourtant bien dit qu'on la ferme à clef… Il était certain qu'un jour ou l'autre...<ref target="#note_1">[1]</ref><ref target="#note_1">[1]</ref>
+          <p>– Ah ! bon sang, la porte de la septième chambre ! s'écria le chef de la Sûreté. J'avais pourtant bien dit qu'on la ferme à clef… Il était certain qu'un jour ou l'autre...<ref target="#note_1">[1]</ref><ref target="#note_1">[1]</ref><ref target="#note_1">[1]</ref><ref target="#note_1">[1]</ref>
           </p>
           <p>Il se rua sur la poignée.</p>
           <p>– Eh parbleu ! Le verrou est poussé de l'autre côté, maintenant. La porte était vitrée en partie. Avec la crosse de son revolver, il brisa un carreau, puis tira le verrou et dit à Gourel :</p>

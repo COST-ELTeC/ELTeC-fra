@@ -18,7 +18,15 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">139314</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+</publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           <title>Belle rivière</title>
           <author>Gustave Aimard</author>
@@ -52,7 +60,8 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
+    <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
@@ -320,7 +329,7 @@
           <p>Le chasseur reprit en souriant :</p>
           <p>— J'ai supposé que le chef, fatigué d'une longue route à travers la forêt, aimerait mieux demeurer tranquille auprès du feu que me suivre par une nuit aussi noire, par un ciel sans étoiles.</p>
           <p>Le Peau-Rouge releva vivement la tête.</p>
-          <p>— Sans-Piste est très gai, dit-il. Sans-Piste plaisante. Ne sait-il pas que Koua-Handé <ref target="#FRA00302_N01">(1)</ref><ref target="#FRA00302_N01">(1)</ref> est un chef et que la fatigue n'a point de prise sur lui ? Les Hurons sont des hommes et non des vieilles femmes bavardes. Où va mon frère ? </p>
+          <p>— Sans-Piste est très gai, dit-il. Sans-Piste plaisante. Ne sait-il pas que Koua-Handé <ref target="#FRA00302_N01">(1)</ref><ref target="#FRA00302_N01">(1)</ref><ref target="#FRA00302_N01">(1)</ref><ref target="#FRA00302_N01">(1)</ref> est un chef et que la fatigue n'a point de prise sur lui ? Les Hurons sont des hommes et non des vieilles femmes bavardes. Où va mon frère ? </p>
           <p>— Surveiller les alentours du camp.</p>
           <p>— Bon.</p>
           <p>— Venez-vous avec nous ?</p>
@@ -664,7 +673,7 @@
           <p>Il va sans dire qu'on les retint prisonniers de guerre.</p>
           <p>Nous n'appuierons pas davantage sur cet épouvantable attentat.</p>
           <p>On n'invente pas de pareils faits lorsqu'il s'agit d'une grande figure historique comme celle de Washington.</p>
-          <p>Seulement, nous sommes obligé d'affirmer à nos lecteurs que ce récit est vrai de point en point.<ref target="#FRA00302_N02">(1)</ref><ref target="#FRA00302_N02">(1)</ref>
+          <p>Seulement, nous sommes obligé d'affirmer à nos lecteurs que ce récit est vrai de point en point.<ref target="#FRA00302_N02">(1)</ref><ref target="#FRA00302_N02">(1)</ref><ref target="#FRA00302_N02">(1)</ref><ref target="#FRA00302_N02">(1)</ref>
           </p>
           <p>Deux hommes avaient profité du tumulte et du désordre jeté par l'intervention des Indiens pour tirer au large et s'échapper.</p>
           <p>Ces deux hommes étaient : Berger, le chasseur canadien, et Kouha-Handé, le chef huron.</p>
@@ -6345,7 +6354,7 @@
           <p>Cette commission conférait au capitaine les pouvoirs les plus étendus.</p>
           <p>Le jeune homme en témoigna chaleureusement sa reconnaissance à M. de Contrecœur.</p>
           <p>Un paragraphe surtout le toucha vivement ; il était ainsi conçu :</p>
-          <p>« Luy ordonnons de les attaquer, s'il voit jour à le faire, et de détruire (les Anglais) même en entier, s'il le peut, pour les châtier de l'assassin (sic) qu'ils nous ont fait, en violant les droits les plus sacrés des nations policées. » <ref target="#FRA00302_N03">(1)</ref><ref target="#FRA00302_N03">(1)</ref>
+          <p>« Luy ordonnons de les attaquer, s'il voit jour à le faire, et de détruire (les Anglais) même en entier, s'il le peut, pour les châtier de l'assassin (sic) qu'ils nous ont fait, en violant les droits les plus sacrés des nations policées. » <ref target="#FRA00302_N03">(1)</ref><ref target="#FRA00302_N03">(1)</ref><ref target="#FRA00302_N03">(1)</ref><ref target="#FRA00302_N03">(1)</ref>
           </p>
           <p>Cette allusion au guet-apens dont son frère avait été victime, en lui rappelant son serment de vengeance, mit le comble à sa joie et à son enthousiasme.</p>
           <p>— Enfin ! dit-il, mon malheureux frère sera donc vengé ! Quand tes hommes arriveront-ils, Berger ?</p>
@@ -6445,7 +6454,7 @@
           <p>Au bout de dix heures d'une lutte acharnée, la mousqueterie française avait forcé l'artillerie anglaise à cesser son feu.</p>
           <p>On prépara tout pour l'assaut. Au moment de lancer les colonnes d'attaque, un drapeau blanc parut sur les remparts : l'ennemi demandait à capituler.</p>
           <p>Les Anglais avaient eu quatre-vingt dix hommes tués ou blessés mortellement, beaucoup de soldats hors de combat, par suite de blessures légères, et toute leur artillerie démontée. Une longue résistance devenait impossible. Ce fut le colonel Georges Washington qui se rendit en personne auprès du commandant français.</p>
-          <p>— Nous pourrions venger un assassinat, dit M. de Villiers à Washington, qui se tenait pâle, mais ferme devant lui, nous ne l'imitons pas. <ref target="#FRA00302_N04">(1)</ref><ref target="#FRA00302_N04">(1)</ref>
+          <p>— Nous pourrions venger un assassinat, dit M. de Villiers à Washington, qui se tenait pâle, mais ferme devant lui, nous ne l'imitons pas. <ref target="#FRA00302_N04">(1)</ref><ref target="#FRA00302_N04">(1)</ref><ref target="#FRA00302_N04">(1)</ref><ref target="#FRA00302_N04">(1)</ref>
           </p>
           <p>Le capitaine accorda la capitulation demandée.</p>
           <p>Elle fut signée à huit heures du soir.</p>
@@ -6460,12 +6469,12 @@
           </quote>
           <p>Puis la capitulation se terminait par ces mots :</p>
           <quote type="document">
-            <p>« Fait double, sur un des postes de notre blocus, les jour et an que dessus. -- Signé : James Mackay, Georges Washington, Coulon de Villiers. » <ref target="#FRA00302_N05">(1)</ref><ref target="#FRA00302_N05">(1)</ref>
+            <p>« Fait double, sur un des postes de notre blocus, les jour et an que dessus. -- Signé : James Mackay, Georges Washington, Coulon de Villiers. » <ref target="#FRA00302_N05">(1)</ref><ref target="#FRA00302_N05">(1)</ref><ref target="#FRA00302_N05">(1)</ref><ref target="#FRA00302_N05">(1)</ref>
             </p>
           </quote>
           <p>La vengeance était complète, la revanche éclatante, puisque le coupable reconnaissait lui-même par sa signature, le crime qu'il avait commis, et qu'il était contraint de se courber devant la générosité de l'homme dont il avait si odieusement tué le frère.</p>
           <p>Cette victoire, si promptement obtenue, n'avait coûté aux Français que deux hommes tués et soixante-dix blessés.</p>
-          <p>À peine la capitulation fut-elle signée, que les Anglais, pris d'une terreur panique inexplicable, s'enfuirent dans toutes les directions, et cela avec tant de précipitation, qu'ils ne songèrent même pas à emporter leur drapeau et qu'ils l'abandonnèrent. <ref target="#FRA00302_N06">(1)</ref><ref target="#FRA00302_N06">(1)</ref>
+          <p>À peine la capitulation fut-elle signée, que les Anglais, pris d'une terreur panique inexplicable, s'enfuirent dans toutes les directions, et cela avec tant de précipitation, qu'ils ne songèrent même pas à emporter leur drapeau et qu'ils l'abandonnèrent. <ref target="#FRA00302_N06">(1)</ref><ref target="#FRA00302_N06">(1)</ref><ref target="#FRA00302_N06">(1)</ref><ref target="#FRA00302_N06">(1)</ref>
           </p>
           <p>Le lendemain, au lever du soleil, les Français prirent possession du fort et s'y établirent.</p>
           <p>Mme de Maleval avait disparu sans laisser de traces ; toutes les recherches faites pour la retrouver furent inutiles : personne ne l'avait vue.</p>

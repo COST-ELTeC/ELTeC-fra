@@ -22,7 +22,15 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">47052</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+</publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           <publisher>Bibebook</publisher>
           <ref target="http://www.bibebook.com/search/978-2-8247-0851-5">http://www.bibebook.com/search/978-2-8247-0851-5</ref>
@@ -55,7 +63,8 @@
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
+    <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-04-05">entête auto-généré: à compléter </change>
     </revisionDesc>
   </teiHeader>
@@ -349,7 +358,7 @@
           <p>M. Bobby est mélancolique, mais ses lèvres serrées et son menton dur témoignent d'une volonté que rien ne fait fléchir.</p>
           <p>Il a posé le carnet sur la tablette, a fait jouer le ressort. Il feuillette, remonte en arrière et enfin relit.</p>
           <p>« Moi, citoyen anglais, né dans la ville de Londres, cockney pur sang, ayant entendu les cloches de Bow-Church mêler leur son grave à mes premiers vagissements…
-            <ref target="#FRA05501_N1"/><ref target="#FRA05501_N1"/> j'ai été expulsé de France et je n'ai pu résister. Me pardonnent mes aïeux d'Azincourt !</p>
+            <ref target="#FRA05501_N1"/><ref target="#FRA05501_N1"/><ref target="#FRA05501_N1"/><ref target="#FRA05501_N1"/> j'ai été expulsé de France et je n'ai pu résister. Me pardonnent mes aïeux d'Azincourt !</p>
           <p>« Mais la Providence, à laquelle nul ne résiste, avait décidé que son fidèle serviteur n'aurait point, par cet affront, épuisé la coupe d'amertume.</p>
           <p>« Dès le lendemain de mon retour en mes pénates, une convocation, dont la sécheresse ne me promettait rien de bon, m'appelait à Scotland Yard où je fus reçu par M. Sewingtrow, mon chef direct.</p>
           <p>« Encouragé par la fermeté de Suzan – c'est-à-dire de madame Bobby – je me présentai, en homme sûr de la bonté de sa cause.</p>
@@ -469,7 +478,7 @@
           <p>M. Bobby bondit sur ses pieds et, obéissant à une force supérieure à sa volonté, esquissa un pas de gigue, en chantonnant un vieux refrain de minstrel nègre.</p>
           <l>Buffalo girls,</l>
           <l>Wont ye come out tonight... etc
-            <ref target="#FRA05501_N2"/><ref target="#FRA05501_N2"/>
+            <ref target="#FRA05501_N2"/><ref target="#FRA05501_N2"/><ref target="#FRA05501_N2"/><ref target="#FRA05501_N2"/>
           </l>
           <p>— Eh bien, sir ! devenez-vous fou vous-même ! s'écria miss Mary, un peu inquiète.</p>
           <p>M. Bobby retomba d'aplomb, au port d'armes.</p>

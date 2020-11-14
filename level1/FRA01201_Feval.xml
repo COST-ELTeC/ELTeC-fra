@@ -22,7 +22,15 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">136999</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+</publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           <publisher>Ebooks libres et gratuits</publisher>
         </bibl><bibl type="firstEdition">
@@ -49,7 +57,8 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
+    <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-08-12">cf Initial TEI version.</change>
@@ -93,7 +102,7 @@
           <p>— Monseigneur, mon histoire pourrait être racontée devant une carmélite. J'en abrégerai néanmoins les détails. La jeune dame était de la cour, et Votre Éminence sait par expérience comme on monte vite à la cour, quand on a du bonheur et du génie. Sans la méchante humeur du mari, qui était un homme à courte vue et qui me fit jeter peu de temps après dans un cul de basse-fosse, je serais à présent un personnage considérable, voilà le fait certain.</p>
           <p>— Singulier dénouement, murmura le prélat, pour une aventure qui vous mérita le nom de Fortune !</p>
           <p>— J'en demande pardon à Votre Éminence ! s'écria vivement le jeune cavalier. Je n'ai pas tout dit : le jour même où j'entrai en prison, mon logis brûla misérablement depuis les caves jusqu'aux greniers. Sans la jalousie maladroite de cet excellent seigneur, c'en était fait de moi ! En prison, d'ailleurs, je fis la connaissance d'un gentilhomme qui commandait une bande dans l'Apennin. Nous rompîmes nos chaînes ensemble, et, voyez la filière ! ce hasard me conduisit jusqu'à Rome sous prétexte d'y être pendu. Je dis tout à Monseigneur, sachant que les vrais politiques aiment à employer les gens qui ont une étoile. On me pendit en effet, mais la corde cassa, et Sa Sainteté ayant eu la curiosité de me voir, défendit qu'on recommençât avec une corde neuve.</p>
-          <p>« J'avais fait impression sur le père commun des fidèles par ma tournure galante et mon agréable caractère : au lieu d'être pendu, <hi>feu le petit collet</hi>,<ref target="#FRA01201_N01">(1)</ref><ref target="#FRA01201_N01">(1)</ref> et Dieu sait où je serais parvenu dans cette voie nouvelle si le protonotaire apostolique n'avait eu une nièce. </p>
+          <p>« J'avais fait impression sur le père commun des fidèles par ma tournure galante et mon agréable caractère : au lieu d'être pendu, <hi>feu le petit collet</hi>,<ref target="#FRA01201_N01">(1)</ref><ref target="#FRA01201_N01">(1)</ref><ref target="#FRA01201_N01">(1)</ref><ref target="#FRA01201_N01">(1)</ref> et Dieu sait où je serais parvenu dans cette voie nouvelle si le protonotaire apostolique n'avait eu une nièce. </p>
           <p>« Je m'éveillai un matin au château Saint-Ange, et il faudrait être aveugle pour ne pas reconnaître là l'influence de mon étoile : ma vocation est l'épée, et huit jours de plus j'avais la tonsure !</p>
           <p>« Au lieu de cela et en moitié moins de temps, une personne charitable qui venait visiter les prisonniers, eut pitié de ma jeunesse et me donna la clef des champs. Je gagnai la mer et pris passage comme matelot à bord d'un navire qui revenait en France. Les corsaires algériens nous abordèrent en face de l'île de Sardaigne, et me voilà l'esclave des infidèles.</p>
           <p>« Mon étoile, Monseigneur ! Pendant qu'on m'emmenait captif au pays africain, la peste était à Marseille !</p>

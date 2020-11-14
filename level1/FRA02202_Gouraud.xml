@@ -22,7 +22,15 @@
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">43357</measure>
       </extent>
-      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fr</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fr release 1.0.0</ref></publicationStmt>
+      <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+</publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
           <date/>
@@ -56,7 +64,8 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2020-11-14">Checked by checkup script</change>
+    <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
@@ -467,7 +476,7 @@
         <p>La veille de Noël, notre cher petit voyageur n'était plus qu'à une lieue de la capitale de l'Alsace ; la campagne était couverte de neige. Des jeux bruyants avaient lieu dans un parc : des enfants riaient, gambadaient sur la neige, se réjouissant de la belle fête dont le jour approchait.</p>
         <p>« Oh ! dit une petite fille, en apercevant Pierre, s'il avait quelque chose de joli pour mettre à l'arbre de Noël ! Maman l'achèterait, car elle n'a pas voulu que Brigitte allât à Strasbourg pour acheter des surprises, et ma bonne m'a dit que notre arbre ne serait pas aussi beau que celui de l'année dernière. » La petite Cécile parlait avec une conviction qui passa dans l'âme des frères et sœurs. « Petit marchand, attendez un peu ! » Et toute la bande s'envola, comme une nuée d'oiseaux vers un sillon aux épis d'or.</p>
         <p>La pensée de Cécile fut très appréciée par la famille. Brigitte alla chercher le petit marchand. À en croire ces messieurs et ces demoiselles, il fallait sans tarder que Pierre déballât ; mais cet enfant était déjà pour Mme Franck l'objet d'une tendre sollicitude. Son passage devant le château devait lui porter bonheur. Brigitte fut chargée de prendre soin de lui, et, certes la brave femme s'en acquitta bien ! Elle conduisit Pierre au poêle
-          <ref target="#FRA02202_N01"/><ref target="#FRA02202_N01"/>, l'aida à se débarrasser de son manteau, et le fit causer. </p>
+          <ref target="#FRA02202_N01"/><ref target="#FRA02202_N01"/><ref target="#FRA02202_N01"/><ref target="#FRA02202_N01"/>, l'aida à se débarrasser de son manteau, et le fit causer. </p>
         <p>
           <label>BRIGITTE</label>
         </p>
