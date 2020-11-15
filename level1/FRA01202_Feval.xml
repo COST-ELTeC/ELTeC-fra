@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01202" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01202" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -41,7 +38,7 @@
           <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6541902r"/>
         </bibl><bibl type="firstEdition">
           <publisher>Le Pays</publisher>
-          <date>1857</date> <!-- du 26 juin au 3 octobre -->
+          <date>1857</date> 
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">

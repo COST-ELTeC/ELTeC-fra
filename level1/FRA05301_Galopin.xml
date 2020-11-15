@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA05301" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA05301" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <!-- Word count: tokens as counted in text split on "\W+" -->
+        
         <measure unit="words">50310</measure>
       </extent>
       <publicationStmt>
@@ -63,7 +60,7 @@
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short"/>
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low"/>
-        <!-- Reprints 1970-2009: None. After 2009: 2018. -->
+        
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
@@ -1748,7 +1745,7 @@
         <p>Nous allions évidemment comparaître devant l'élite intellectuelle de la planète Mars…</p>
         <p>Les chaînes qui nous entouraient les chevilles se desserrèrent tout à coup et disparurent sous la plateforme… Nous n'étions plus attachés que par les mains, mais la tresse métallique qui les retenait nous en laissait à peu près l'usage.</p>
         <p>Une des « grosses têtes » fit un signe et notre plancher roulant glissa jusqu'à l'estrade. Les « Mégalocéphales
-          <ref target="#FRA05301_N1"/><ref target="#FRA05301_N1"/><ref target="#FRA05301_N1"/><ref target="#FRA05301_N1"/> », dont nous n'étions plus séparés que de quelques mètres, nous regardèrent avec attention, puis causèrent longtemps entre eux.</p>
+          <ref target="#FRA05301_N1"/> », dont nous n'étions plus séparés que de quelques mètres, nous regardèrent avec attention, puis causèrent longtemps entre eux.</p>
         <p>Enfin, celui qui paraissait être le chef des gnomes à gros cerveau fit entendre un sifflement prolongé.</p>
         <p>Il y eut une poussée dans la foule, quelques cris bizarres, puis on jeta dans notre enceinte un pauvre petit Martien qui poussait des gémissements lamentables…</p>
         <p>— C'est une expérience, dit le docteur, ils veulent s'assurer si nous sommes réellement des sauvages…</p>
@@ -1927,7 +1924,7 @@
         <p>— Tu es sans doute, me dit-il, de cette planète ronde et lumineuse que nous apercevons d'ici quand la nuit tombe… et avec laquelle, depuis si longtemps, nous cherchons à communiquer… sans succès…</p>
         <p>Et il m'apprit alors que, depuis un nombre incalculable d'années, les Martiens allumaient chaque soir des feux immenses dans l'espoir qu'on leur répondrait de la Terre.</p>
         <p>Quand je lui narrai comment nous étions parvenus dans Mars, le Roi ouvrit de grands yeux et parut enthousiasmé, mais nous nous aperçûmes plus tard qu'il n'avait absolument rien compris à nos explications et que la question de la gravitation lui était totalement étrangère
-          <ref target="#FRA05301_N2"/><ref target="#FRA05301_N2"/><ref target="#FRA05301_N2"/><ref target="#FRA05301_N2"/>.</p>
+          <ref target="#FRA05301_N2"/>.</p>
         <p>Il sembla encore plus étonné quand je lui appris que j'avais quarante ans et le docteur soixante, et que, sur Terre, on ne dépassait guère soixante-dix ans.</p>
         <p>Dans la planète Mars, la longévité est prodigieuse… la moyenne de la vie est de trois cents ans.</p>
         <p>Pendant les deux cents premières années, les Martiens sont <hi>Vizadôs</hi>(actifs), puis ils deviennent <hi>Gagâyou</hi>, c'est-à-dire inutiles, et ne peuvent plus rendre aucun service à la collectivité… Quand l'âge a affaibli leurs facultés, on les parque dans de grandes cités où ils sont servis par des <hi>Noussaï</hi>(esclaves au petit cerveau) et ils achèvent là leur existence.</p>

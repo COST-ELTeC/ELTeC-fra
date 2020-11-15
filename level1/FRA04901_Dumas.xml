@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA04901" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA04901" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <!-- Word count: tokens as counted in text split on "\W+" -->
+        
         <measure unit="words">217375</measure>
         <measure unit="vols">2</measure>
       </extent>
@@ -63,7 +60,7 @@
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long"/>
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="high"/>
-        <!-- Reprints 1970-2009: 1995, 2001, 2002, 2005, 2007 . Before 1970: 1962 etc.. After 2009: 2011, 2012, 2012, 2014 (Hachette-BnF), 2015 (Brassard), 2016 (Hachette-BnF), 2017 (Forgotten Books), 2018 (CLE), 2019 (Altaya). -->
+        
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>

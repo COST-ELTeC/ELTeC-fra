@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02603" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02603" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <!-- Word count: tokens as counted in text split on "\W+" -->
+        
         <measure unit="words">105754</measure>
       </extent>
       <publicationStmt>
@@ -2948,7 +2945,7 @@
           <p>— C'était une croyance autrefois admise par le public et par beaucoup de médecins qu'on ne pouvait provoquer le somnambulisme que chez les sujets atteints d'hystérie, de nervosisme, mais il y avait là une erreur : le somnambulisme artificiel s'obtient chez un grand nombre de sujets parfaitement sains.</p>
           <p>— Conserve-t-on sa volonté dans le sommeil ?</p>
           <p>— Le sujet ne conserve de spontanéité et de volonté que ce que veut bien lui en laisser son hypnotiseur, qui, à son gré peut le rendre triste, gai, colère, tendre et jouer de son âme comme d'un instrument.
-            <ref target="#FRA02603_N01"/><ref target="#FRA02603_N01"/><ref target="#FRA02603_N01"/><ref target="#FRA02603_N01"/>
+            <ref target="#FRA02603_N01"/>
           </p>
           <p>— Mais c'est effroyable.</p>
           <p>— Curieux au moins ; il est certain qu'il y a une paralysie locale de telle ou telle cellule dont l'étude deviendra le point de départ de découvertes intéressantes.</p>

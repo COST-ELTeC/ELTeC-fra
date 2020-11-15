@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03101" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03101" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <!-- Word count: tokens as counted in text split on "\W+" -->
+        
         <measure unit="words">68667</measure>
       </extent>
       <publicationStmt>
@@ -35,7 +32,7 @@
           <ref target="https://github.com/cligs/romandixneuf/blob/master/master/rd0010.xml">La baronne trépassée</ref>
           <publisher>Computational Literary Genre Stylistics (CLiGS)</publisher>
           <idno type="CLiGS">rd0010</idno>
-          <!-- Originally: Bibliothèque électronique du Québec (BEQ), id 977 -->
+          
         </bibl><bibl type="printSource">
           <title>La baronne trépassée. Tome 1</title>
           <author>Ponson du Terrail, Pierre Alexis</author>
@@ -1592,7 +1589,7 @@
           <p>» – À ce soir, dis-je à Hermann.</p>
           <p>» Il voulut me retenir ; je fus inflexible. On me donna un cheval, et je t'assure qu'il ne me fut point inutile, car j'étais bien lasse ! Je l'enfourchai, et pris la route du village dans le cimetière duquel j'avais passé la nuit précédente.</p>
           <p>» Il y avait à l'entour du champ de repos une belle prairie ; j'y cueillis quelques <hi>vergissmeinnicht(1)</hi>
-            <ref target="#FRA03101N1"/><ref target="#FRA03101N1"/><ref target="#FRA03101N1"/><ref target="#FRA03101N1"/> et quelques marguerites pour en respirer le parfum dans ma fosse, et j'attachai le cheval à une haie d'aubépine. Le cheval se mit à brouter l'herbe ; et je rentrai dans le cimetière. </p>
+            <ref target="#FRA03101N1"/> et quelques marguerites pour en respirer le parfum dans ma fosse, et j'attachai le cheval à une haie d'aubépine. Le cheval se mit à brouter l'herbe ; et je rentrai dans le cimetière. </p>
           <p>» La fosse vide que j'avais occupée la veille était prise depuis la brume ; j'errai plus d'une heure sans en trouver une autre, et je fus obligée d'attendre dans une touffe de cyprès que le fossoyeur, qui en creusait une depuis l'aube, eût achevé et fut parti.</p>
           <p>» Le soir, je retrouvai le cheval ; je remontai dessus, et gagnai le château au galop. Le comte et ses fils me reçurent à bras ouverts, ils m'indiquèrent mon rôle – que je savais d'avance, tu imagines bien – et ils me dirent qu'un <hi>znapan</hi> devait t'amener le lendemain de Marienwerder. </p>
           <p>» – Gretchen, me dit Hermann, viens chez moi ; il faut que je te donne toutes les instructions nécessaires.</p>

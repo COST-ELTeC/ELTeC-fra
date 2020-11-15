@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01201" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01201" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <!-- Word count: tokens as counted in text split on "\W+" -->
+        
         <measure unit="words">136999</measure>
       </extent>
       <publicationStmt>
@@ -102,7 +99,7 @@
           <p>— Monseigneur, mon histoire pourrait être racontée devant une carmélite. J'en abrégerai néanmoins les détails. La jeune dame était de la cour, et Votre Éminence sait par expérience comme on monte vite à la cour, quand on a du bonheur et du génie. Sans la méchante humeur du mari, qui était un homme à courte vue et qui me fit jeter peu de temps après dans un cul de basse-fosse, je serais à présent un personnage considérable, voilà le fait certain.</p>
           <p>— Singulier dénouement, murmura le prélat, pour une aventure qui vous mérita le nom de Fortune !</p>
           <p>— J'en demande pardon à Votre Éminence ! s'écria vivement le jeune cavalier. Je n'ai pas tout dit : le jour même où j'entrai en prison, mon logis brûla misérablement depuis les caves jusqu'aux greniers. Sans la jalousie maladroite de cet excellent seigneur, c'en était fait de moi ! En prison, d'ailleurs, je fis la connaissance d'un gentilhomme qui commandait une bande dans l'Apennin. Nous rompîmes nos chaînes ensemble, et, voyez la filière ! ce hasard me conduisit jusqu'à Rome sous prétexte d'y être pendu. Je dis tout à Monseigneur, sachant que les vrais politiques aiment à employer les gens qui ont une étoile. On me pendit en effet, mais la corde cassa, et Sa Sainteté ayant eu la curiosité de me voir, défendit qu'on recommençât avec une corde neuve.</p>
-          <p>« J'avais fait impression sur le père commun des fidèles par ma tournure galante et mon agréable caractère : au lieu d'être pendu, <hi>feu le petit collet</hi>,<ref target="#FRA01201_N01">(1)</ref><ref target="#FRA01201_N01">(1)</ref><ref target="#FRA01201_N01">(1)</ref><ref target="#FRA01201_N01">(1)</ref> et Dieu sait où je serais parvenu dans cette voie nouvelle si le protonotaire apostolique n'avait eu une nièce. </p>
+          <p>« J'avais fait impression sur le père commun des fidèles par ma tournure galante et mon agréable caractère : au lieu d'être pendu, <hi>feu le petit collet</hi>,<ref target="#FRA01201_N01">(1)</ref> et Dieu sait où je serais parvenu dans cette voie nouvelle si le protonotaire apostolique n'avait eu une nièce. </p>
           <p>« Je m'éveillai un matin au château Saint-Ange, et il faudrait être aveugle pour ne pas reconnaître là l'influence de mon étoile : ma vocation est l'épée, et huit jours de plus j'avais la tonsure !</p>
           <p>« Au lieu de cela et en moitié moins de temps, une personne charitable qui venait visiter les prisonniers, eut pitié de ma jeunesse et me donna la clef des champs. Je gagnai la mer et pris passage comme matelot à bord d'un navire qui revenait en France. Les corsaires algériens nous abordèrent en face de l'île de Sardaigne, et me voilà l'esclave des infidèles.</p>
           <p>« Mon étoile, Monseigneur ! Pendant qu'on m'emmenait captif au pays africain, la peste était à Marseille !</p>

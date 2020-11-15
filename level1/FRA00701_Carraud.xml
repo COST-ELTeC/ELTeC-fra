@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA00701" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA00701" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,7 +23,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <!-- Word count: tokens as counted in text split on "\W+" -->
+        
         <measure unit="words">53860</measure>
       </extent>
       <publicationStmt>
@@ -52,7 +49,7 @@
           <date>2006</date>
           <ref target="http://www.gutenberg.org/ebooks/18715"/>
         </bibl><bibl type="firstEdition">
-          <!-- best guess -->
+          
           <title>La petite Jeanne ou Le devoir</title>
           <author>Zulma Carraud</author>
           <pubPlace>Paris</pubPlace>
@@ -124,8 +121,8 @@
           <p>Elle semait du froment deux années de suite dans son champ, qui, la troisième, rapportait alternativement du trèfle et des pommes de terre. </p>
           <p>Elle récoltait assez de blé pour se nourrir pendant les trois ans. Mais si l'année était mauvaise, la mère Nannette vendait la pièce de toile qu'elle avait fait faire avec le chanvre amassé et filé pendant quatre ans. L'argent qu'elle en retirait lui servait à compléter sa provision de blé ; et, malgré tout cela, elle pâtissait bien un peu l'hiver. </p>
           <p>Pour que la terre rapporte chaque année sans se reposer, il faut beaucoup de fumier ; la mère Nannette, qui le savait bien, avait une vache et une chèvre qu'elle menait paître sur les communaux et le long des haies. Avec leur lait elle faisait du beurre et des fromages, qu'elle vendait à la ville voisine. Quand ses bêtes étaient rentrées à l'étable, elle allait chercher pour elles de l'herbe dans les champs et au bord des ruisseaux. Comme elle les tenait bien proprement, elles étaient en bon état. L'hiver, elles mangeaient ou du trèfle qui avait été rentré bien sec, ou du regain récolté après la fauche des grands foins. </p>
-          <p>La mère Nannette vendait son vin et ne buvait que sa boisson <ref target="#FRA00701N01">[1]</ref><ref target="#FRA00701N01">[1]</ref><ref target="#FRA00701N01">[1]</ref><ref target="#FRA00701N01">[1]</ref> ; mais, comme l'argent qu'elle tirait de son vin suffisait bien juste, avec celui de son beurre et de ses fromages, à payer l'impôt et les façons de son champ et de sa vigne, et qu'il lui fallait encore se procurer quelque argent pour son entretien, elle élevait des oisons qu'elle achetait au sortir de la coque. Elle se donnait beaucoup de mal pour appâter ces petites bêtes et pour les garantir du froid pendant la nuit. Ses voisines plumaient leurs oies quatre fois avant de les vendre ; mais la mère Nannette disait que c'était une mauvaise méthode, parce qu'ainsi la plume n'avait pas le temps de se nourrir, et elle ne plumait les siennes que trois fois ; puis elle en vendait la moitié pour la Toussaint et l'autre moitié à Noël. </p>
-          <!-- a picture in the original has been omitted. [Illustration : Chaumière de la mère Nannette] -->
+          <p>La mère Nannette vendait son vin et ne buvait que sa boisson <ref target="#FRA00701N01">[1]</ref> ; mais, comme l'argent qu'elle tirait de son vin suffisait bien juste, avec celui de son beurre et de ses fromages, à payer l'impôt et les façons de son champ et de sa vigne, et qu'il lui fallait encore se procurer quelque argent pour son entretien, elle élevait des oisons qu'elle achetait au sortir de la coque. Elle se donnait beaucoup de mal pour appâter ces petites bêtes et pour les garantir du froid pendant la nuit. Ses voisines plumaient leurs oies quatre fois avant de les vendre ; mais la mère Nannette disait que c'était une mauvaise méthode, parce qu'ainsi la plume n'avait pas le temps de se nourrir, et elle ne plumait les siennes que trois fois ; puis elle en vendait la moitié pour la Toussaint et l'autre moitié à Noël. </p>
+          
           <gap rend="graphic"/>
           <p>Tout cela ne lui rapportait pas une grosse somme ; mais elle était si ménagère qu'il lui restait toujours un peu d'argent à la fin de l'année. </p>
           <p>Pourtant elle ne se nourrissait pas trop mal, disant qu'elle aimait mieux donner au boucher une pièce de cinquante centimes toutes les semaines, que vingt-cinq francs par an au médecin et au pharmacien. </p>
@@ -136,7 +133,7 @@
           <p>Un matin, la mère Nannette, tricotant devant sa porte, vit venir à elle une jeune femme qui tenait par la main une petite fille de sept à huit ans et qui lui demanda un morceau de pain. Comme cette femme était très-pâle et avait l'air malade, la mère Nannette l'emmena dans sa maison et la fit asseoir. Elle ralluma son feu, fit réchauffer un reste de soupe qu'elle avait gardé pour son repas du soir et le donna aux deux mendiantes. L'enfant mangea de si bon cœur, que la mère Nannette vit bien que cette petite fille n'avait pas souvent si bonne chance. Ensuite elle leur versa un verre de boisson à chacune, et dit à la pauvre femme : </p>
           <p>« Mon Dieu ! il faut qu'il vous soit arrivé un bien grand malheur, pour qu'une femme, aussi jeune que vous, ait pu se décider à demander son pain ! </p>
           <p>— Oh ! oui, un bien grand malheur, ma chère femme. Il faut se trouver dépourvue de toute ressource pour se résoudre à en venir là. J'ai bien souffert de la faim avant de pouvoir me décider à tendre la main ; je crois que je me serais plutôt laissé mourir, si je n'avais la crainte de Dieu et si je n'aimais tant cette pauvre innocente que voilà, et qui serait morte aussi. Quand il m'en coûte trop pour aller demander, je la regarde et je reprends courage. C'est bien triste, allez, ma chère femme, quand on a du cœur, de vivre en ne faisant rien, aux dépens de ceux qui travaillent ! mais je ne peux pas faire autrement. </p>
-          <!-- a picture in the original has been omitted. Illustration : Catherine et Jeanne. -->
+          
           <gap rend="graphic"/>
           <p>— Pourquoi donc ? dit la mère Nannette. Contez-moi ça.»</p>
           <p>La pauvre femme dit à la mère Nannette :</p>
@@ -256,7 +253,7 @@
 
           <head>Retour de Catherine.</head>
           <p>Vers midi, l'on vit venir maître Guillaume dans une charrette attelée d'un bel âne brun. Il s'arrêta devant la porte de la mère Nannette, et fit descendre Catherine, qui fut bien contente de revoir sa petite Jeanne qu'elle n'avait jamais quittée auparavant. Elle détela l'âne ; la mère Nannette le prit par le licou pour l'attacher dans l'étable à côté de sa vache ; puis elle remplit le râtelier de bon trèfle, et revint aider Guillaume à descendre le coffre et le lit de Catherine. Ce lit avait des rideaux de toile rayée et une paillasse que Guillaume avait remplie de paille fraîche, en souvenir de son amitié pour son parent, l'homme défunt de Catherine. Il y avait aussi une petite chaise. On monta le ciel du lit dans un coin de la chambre, qui était fort grande ; on mit le châlit dessous et le coffre au pied du lit. </p>
-          <!-- a picture in the original has been omitted. Illustration : Jeanne récite ses prières.-->
+          
           <gap rend="graphics"/>
           <p>« A présent que tout est en place, vous allez goûter avec nous, maître Guillaume, dit la mère Nannette. J'ai fait une bonne fricassée de pommes de terre nouvelles que j'ai accommodées avec mon beurre tout frais ; j'ai aussi cueilli une salade dans mon jardin, et nous l'assaisonnerons avec l'huile de mon noyer. Mon pain n'a que quatre jours, et mes pruniers, sans les vanter, donnent d'excellentes prunes.» </p>
           <p>En disant cela, elle alla au cellier avec la petite Jeanne, et en rapporta du vin bien rouge, qui écumait tout autour de la gueule du broc. </p>
@@ -564,7 +561,7 @@
           <p>— Mais elle ne se croyait peut-être pas si près de sa fin ; vous ne lui avez donc pas rappelé ce qu'elle devait faire pour vous ? </p>
           <p>— Non vraiment, monsieur le maire, j'en aurais été bien fâchée ! Si la pauvre femme s'était crue en danger, cette idée l'aurait peut-être fait mourir plus tôt. Elle n'a pas eu un seul instant la pensée que tout serait bientôt fini pour elle, et pour tout l'or du monde je ne le lui aurais pas dit. D'ailleurs, je suis jeune et je peux travailler : il est juste que son neveu hérite ; il faudra l'avertir. </p>
           <p>— Je vais lui envoyer un exprès,» dit le maire. Et il sortit.</p>
-          <!-- a picture in the original has been omitted. Jeanne se mit à genoux -->
+          
           <gap rend="graphic"/>
           <p>Jeanne se mit à genoux au pied du lit et lut les prières des morts ; de temps en temps elle se levait pour embrasser la défunte, puis elle continuait ses prières en pleurant. Elle fit la veillée du corps en compagnie des deux bonnes voisines qui ne voulurent pas la quitter. </p>
         </div>
@@ -652,7 +649,7 @@
 
           <head>Grand Louis se met en colère.</head>
           <p>Grand Louis le laboureur, qui n'était pas mauvais au fond, avait l'humeur difficile ; rien ne le contentait ; on avait beau faire, il ne trouvait jamais rien de bon. Les filles et les servantes de la maison ne pouvaient pas le souffrir ; il avait toujours de mauvaises paroles à leur dire, et elles les lui rendaient bien. Il brusquait aussi la petite Jeanne ; mais elle ne lui répondait jamais. </p>
-          <p>Un jour qu'il faisait beau soleil, grand Louis s'habilla pour aller à l'assemblée <ref target="#FRA00701N02">[2]</ref><ref target="#FRA00701N02">[2]</ref><ref target="#FRA00701N02">[2]</ref><ref target="#FRA00701N02">[2]</ref> de Meunet-sur-Vatan <ref target="#FRA00701N03">[3]</ref><ref target="#FRA00701N03">[3]</ref><ref target="#FRA00701N03">[3]</ref><ref target="#FRA00701N03">[3]</ref> ; il venait de mettre un pantalon neuf et une blouse qui n'avait pas encore servi. Quand il voulut prendre son carton à chapeau, qui était sur une planche de l'écurie à côté de son lit, il monta sur la traverse d'une herse en fer dressée le long du mur ; mais le pied lui manqua à l'instant même où il venait d'atteindre le carton, qui lui échappa ; en voulant le rattraper, il s'accrocha aux dents de la herse, qui déchirèrent son pantalon et sa blouse du haut jusqu'en bas. Il se mit dans une si grande colère, qu'on l'entendait jurer de la maison. Le bouvier alla voir ce qu'il avait, et revint le raconter aux filles qui étaient devant la porte. </p>
+          <p>Un jour qu'il faisait beau soleil, grand Louis s'habilla pour aller à l'assemblée  de Meunet-sur-Vatan <ref target="#FRA00701N03">[3]</ref> ; il venait de mettre un pantalon neuf et une blouse qui n'avait pas encore servi. Quand il voulut prendre son carton à chapeau, qui était sur une planche de l'écurie à côté de son lit, il monta sur la traverse d'une herse en fer dressée le long du mur ; mais le pied lui manqua à l'instant même où il venait d'atteindre le carton, qui lui échappa ; en voulant le rattraper, il s'accrocha aux dents de la herse, qui déchirèrent son pantalon et sa blouse du haut jusqu'en bas. Il se mit dans une si grande colère, qu'on l'entendait jurer de la maison. Le bouvier alla voir ce qu'il avait, et revint le raconter aux filles qui étaient devant la porte. </p>
           <p>« C'est bien fait pour lui, dit Solange ; il est si butor, que ce n'est pas dommage qu'il lui arrive quelque chose. </p>
           <p>— Sais-tu que c'est bien vilain ce que tu dis là, Solange ! dit Jeanne ; grand Louis est le meilleur laboureur du pays, et il rend de grands services à ton père. Ses habillements lui ont coûté de l'argent, et c'est malheureux pour lui s'il ne peut plus s'en servir.» </p>
           <p>Les garçons du bourg, qui étaient venus chercher grand Louis, se moquaient de lui ; ils le pressaient d'en finir pour venir avec eux, car on le regardait comme le chef de la jeunesse du pays, tant il était grand et fort ; et puis il avait plus d'esprit qu'eux tous. </p>
@@ -825,7 +822,7 @@
           <p>— C'est qu'on m'avait dit qu'on y gagnait beaucoup d'argent, et je voulais acheter un petit fonds d'étoffes aussitôt que j'aurais seulement une centaine de francs. </p>
           <p>— Eh bien, vous a-t-on dit la vérité ? Avez-vous gagné plus qu'en vendant de bons livres ? </p>
           <p>— Mon Dieu non : je ne suis pas assez hardi pour faire ce métier-là; j'ai toujours peur d'être pris, et je ne vends presque rien. </p>
-          <!-- a picture in the original has been omitted Mais... il se mit à ses genoux.-->
+          
           <gap rend="graphic"/>
           <p>— Je suis sûr que c'est précisément pour cela que vous êtes sorti si vite dimanche, quand tous les gens de la maison revenaient des vêpres. </p>
           <p>— Oui, monsieur, parce que j'avais vu le garde champêtre avec eux.</p>
@@ -972,7 +969,7 @@
           <p>— Mon petit père Colis, dit Jeanne, vous ne ferez pas cet affront à mon maître : ce n'est pas sa faute si je n'ai pas veillé sur ses bêtes ; mais, voyez-vous, je n'étais occupée que de ce chien enragé, et j'avais peur qu'il ne mordît mes chiennes qui valent leur pesant d'or ; si elles avaient été mordues, il en serait arrivé du malheur dans le pays. </p>
           <p>Estimez vous-même le dommage que vous ont fait mes moutons, et je vous le payerai aussitôt que je serai rentrée à la maison. </p>
           <p>— Du tout, petite, du tout ; je veux que le père Tixier ait sa condamnation tout comme un autre, pour lui apprendre à avoir un peu plus d'indulgence pour les pauvres gens qui sont pris sur ses terres. Je vais aller en ville tout exprès. Tu vois que j'ai deux bons témoins.» </p>
-          <!-- a picture in the original has been omitted. Jeanne est menacée-->
+          
           <gap rend="graphic"/>
         </div>
         <div type="chapter">
@@ -1102,7 +1099,7 @@
           <head>Tout le monde aime Jeanne.</head>
           <p>Tous ceux qui venaient au Grand-Bail aimaient Jeanne, parce qu'elle était avenante pour tout le monde, pour les pauvres comme pour les autres. </p>
           <p>Quand de petits enfants demandaient à la porte, elle les faisait entrer, les débarbouillait, leur lavait les mains. Si elle n'avait rien à mettre sur leur pain, elle tirait de la piquette pour qu'ils pussent le tremper ; ou bien, s'il y avait de <hi>la beurrée</hi>
-            <ref target="#FRA00701N04">[4]</ref><ref target="#FRA00701N04">[4]</ref><ref target="#FRA00701N04">[4]</ref><ref target="#FRA00701N04">[4]</ref> , elle la leur donnait à boire. L'hiver, elle faisait cuire des pommes de terre sous la cendre pour réchauffer l'estomac de ces pauvres petits. Si des femmes âgées venaient demander l'aumône, elle les faisait asseoir au coin du feu ; elle ôtait elle-même leur capote et la posait sur un lit, puis elle bassinait leurs sabots, et il était bien rare qu'elle n'eût pas quelque reste de soupe à leur donner. Quand elles s'étaient bien reposées, elles les reconduisait jusqu'au chemin, pour qu'elles ne se heurtassent pas contre les charrettes, le bois, et tout ce qui encombre la cour d'une ferme.
+            <ref target="#FRA00701N04">[4]</ref> , elle la leur donnait à boire. L'hiver, elle faisait cuire des pommes de terre sous la cendre pour réchauffer l'estomac de ces pauvres petits. Si des femmes âgées venaient demander l'aumône, elle les faisait asseoir au coin du feu ; elle ôtait elle-même leur capote et la posait sur un lit, puis elle bassinait leurs sabots, et il était bien rare qu'elle n'eût pas quelque reste de soupe à leur donner. Quand elles s'étaient bien reposées, elles les reconduisait jusqu'au chemin, pour qu'elles ne se heurtassent pas contre les charrettes, le bois, et tout ce qui encombre la cour d'une ferme.
           </p>
           <p>Après la Toussaint, l'on cassa les noix à la veillée ; Jeanne, qui allait souvent chez Mme Dumont, en avait rapporté le <hi>Livre de morale pratique</hi> . </p>
           <p>C'est un livre bien instructif et bien amusant, et elle en lisait tout haut de beaux passages à la veillée du dimanche. </p>
@@ -1580,7 +1577,7 @@
           <p>— Pourquoi donc ça ?</p>
           <p>— C'est que tu as un beau jardin en avant ; on ne voit ni fumier ni immondices devant ta porte. Et avec quoi comptes-tu donc fumer tes champs ? </p>
           <p>— Je peux bien avoir de quoi fumer mes champs sans mettre mon fumier sous mes fenêtres, pour empester ma maison et rendre mes enfants malades. N'ai-je pas ma cour, où est l'étable ? </p>
-          <!-- a picture in the original has been omitted.Illustration : Jeanne et ses deux enfants. -->
+          
           <gap rend="graphic"/>
           <p>— Mais si tu ne mets pas de la paille pourrir devant ta porte, le peu de bétail que tu as ne pourra suffire à fumer tes champs. </p>
           <p>— Vous croyez donc que cette paille que vous mettez pourrir devant vos portes fait un bon engrais ? Vous vous trompez fort : c'est bon pour vous donner la fièvre ainsi qu'à vos enfants, et voilà tout. </p>
@@ -2228,7 +2225,7 @@
           <p>— Mon pauvre garçon ! dit Jeanne, as-tu donc été aussi malheureux que cela ?</p>
           <p>— Ne me plaignez pas, ma mère ; c'est à cette misère que j'ai dû de comprendre tout ce que vous avez été pour moi. J'ai fait bien des réflexions pendant que je broyais ces cailloux, et mon cœur, aussi dur qu'eux, s'est amolli par le souvenir de la façon indigne dont j'avais reconnu la bonté de Dieu, qui m'avait donné une mère telle que vous pour le remplacer sur terre auprès de moi. </p>
           <p>« J'appris qu'on travaillait au canal de Berry, et je me dirigeai de ce côté. Je passai dans la foule des ouvriers sans que l'on s'inquiétât beaucoup de mes papiers. Au bout de quelques semaines d'un travail assidu, je fus remarqué par mon chef de brigade, qui m'employa à la surveillance, et j'eus une meilleure paye. Après la campagne, ayant quelque argent à ma disposition, je résolus de reprendre mon tour de France, et l'on me délivra un livret et un certificat de bonne conduite. </p>
-          <!-- a picture in the original has been omitted Illustration : Paul casse les pierres.-->
+          
           <gap rend="graphic"/>
           <p>« Mon naturel peu endurant essaya plus d'une fois de se montrer ; alors je pensais aux pierres de la route, et je contins si bien mon humeur qu'elle cessa de reparaître. Puis, en allant de boutique en boutique, j'ai bien observé toutes les différentes familles, et j'y ai rarement rencontré une femme comme vous, ma chère mère, et peu d'enfants qui valussent Nannette et Sylvain. Je me demandais souvent ce que j'avais été au milieu de vous tous, et la honte me couvrait le visage de rougeur. </p>
           <p>« J'ai promis à Dieu de ne jamais vous causer volontairement aucune peine ; ainsi, ma mère, ne craignez pas que je trouble à présent la paix de votre maison. Je sais maintenant ce que je vous dois, et je vous aime d'un grand amour. Si le sort ne me fait pas soldat, j'irai travailler dans la ville où demeure Sylvain, et je m'y établirai un peu plus tard ; car j'apporte quelques épargnes. </p>

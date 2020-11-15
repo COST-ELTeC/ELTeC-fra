@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA02101" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA02101" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,7 +22,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <!-- Word count: tokens as counted in text split on "\W+" -->
+        
         <measure unit="words">69231</measure>
       </extent>
       <publicationStmt>
@@ -50,7 +47,7 @@
           <pubPlace>Paris</pubPlace>
           <date>1860</date>
         </bibl><bibl type="firstEdition">
-          <!-- best guess -->
+          
           <title>Marguerite ou deux amours</title>
           <author>Delphine Gay de Girardin</author>
           <publisher>impr. de Serrière</publisher>
@@ -69,7 +66,7 @@
       <textClass>
         <keywords>
           <term type="narrative-perspective">heterodiegetic</term>
-          <!-- With a hint of homodiegetic signals: "il y a six ans de cela" -->
+          
         </keywords>
       </textClass>
       <textDesc>

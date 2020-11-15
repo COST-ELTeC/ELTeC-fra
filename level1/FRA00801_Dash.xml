@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA00801" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA00801" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Le château de Pinon I : édition ELTeC</title>
-        <!-- Alternative title for the same text: "Le Salon du diable" -->
+        
         <author ref="viaf:102278 wikidata:missing">Dash, Comtesse [Gabrielle Anna de Cisternes de Courtiras, vicomtesse de Saint-Mars] (1804-1872)</author>
         <respStmt>
           <resp>Encoding</resp>
@@ -24,7 +21,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <!-- Word count: tokens as counted in text split on "\W+" -->
+        
         <measure unit="words">45263</measure>
         <measure unit="pages">332</measure>
         <measure unit="vols">2</measure>
@@ -50,10 +47,10 @@
           <author>Competesse Dash</author>
           <publisher>Desessart 22, RUE DES GRANDS-AUGUSTINS</publisher>
           <pubPlace>Paris</pubPlace>
-          <!-- Gallica entered wrong date. Original date for print source according to scan : 1843 -->
+          
           <date>1844</date>
         </bibl><bibl type="firstEdition">
-          <!-- best guess -->
+          
           <title>Le château de Pinon I. VOL 1.</title>
           <author>Competesse Dash</author>
           <publisher>Desessart 22</publisher>
@@ -1974,7 +1971,7 @@
         <p>— Ouvrez cette chemise. Pichard ouvrit la chemise.</p>
         <p>— Oui, continua-t-elle comme se parlant à elle-même, voilà la plaie ! Dieu ! qu'elle est large !</p>
         <p>Elle prit ses cheveux, enfermés dans une bourse et les mania.</p>
-        <p> — Voilà, ajouta-t-elle, un homme qui a une belle tête et bien couverte <ref target="#FRA00801N01">*</ref><ref target="#FRA00801N01">*</ref><ref target="#FRA00801N01">*</ref><ref target="#FRA00801N01">*</ref> . </p>
+        <p> — Voilà, ajouta-t-elle, un homme qui a une belle tête et bien couverte <ref target="#FRA00801N01">*</ref> . </p>
         <p>Elle releva la manche de sa chemise et lui toucha le bras, semblant chercher s'il n'avait pas un bracelet.</p>
         <p>— Où sont ses poches ? demanda-t-elle.</p>
         <p>On lui remit sou justaucorps et sa veste. Elle ouvrit les poches et en tira d'abord :</p>

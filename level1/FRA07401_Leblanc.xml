@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA07401" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA07401" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +20,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <!-- Word count: tokens as counted in text split on "\W+" -->
+        
         <measure unit="words">112340</measure>
       </extent>
       <publicationStmt>
@@ -1892,7 +1889,7 @@
           <p>– Non, chef…</p>
           <p>Mais Dieuzy se ranimait, et tout de suite, les yeux à peine ouverts, il marmotta :</p>
           <p>– Ici, sur le palier, la petite porte…</p>
-          <p>– Ah ! bon sang, la porte de la septième chambre ! s'écria le chef de la Sûreté. J'avais pourtant bien dit qu'on la ferme à clef… Il était certain qu'un jour ou l'autre...<ref target="#note_1">[1]</ref><ref target="#note_1">[1]</ref><ref target="#note_1">[1]</ref><ref target="#note_1">[1]</ref>
+          <p>– Ah ! bon sang, la porte de la septième chambre ! s'écria le chef de la Sûreté. J'avais pourtant bien dit qu'on la ferme à clef… Il était certain qu'un jour ou l'autre...<ref target="#note_1">[1]</ref>
           </p>
           <p>Il se rua sur la poignée.</p>
           <p>– Eh parbleu ! Le verrou est poussé de l'autre côté, maintenant. La porte était vitrée en partie. Avec la crosse de son revolver, il brisa un carreau, puis tira le verrou et dit à Gourel :</p>

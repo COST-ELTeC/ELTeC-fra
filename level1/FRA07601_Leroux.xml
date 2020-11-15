@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA07601" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA07601" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +20,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <!-- Word count: tokens as counted in text split on "\W+" -->
+        
         <measure unit="words">217799</measure>
       </extent>
       <publicationStmt>
@@ -49,7 +46,7 @@
           <pubPlace>Paris</pubPlace>
           <publisher>Fayard (Le Livre Populaire n°96)</publisher>
           <date>1913</date>
-          <!-- Freuilleton: Le Matin, du 18 Août au 31 janvier 1911   -->
+          
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">

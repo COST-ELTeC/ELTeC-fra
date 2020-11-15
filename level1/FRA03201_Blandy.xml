@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA03201" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA03201" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +20,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <!-- Word count: tokens as counted in text split on "\W+" -->
+        
         <measure unit="words">84121</measure>
         <measure unit="pages">297</measure>
       </extent>
@@ -172,7 +169,7 @@
         <p>Rose s'élança des genoux de maman Suzette pour courir au devant du meunier Jean Mailhes. </p>
         <p>« Moi ! dit-elle. Il y a si longtemps que j'ai envie de visiter la grotte. Ah ! quel bonheur! vous emmènerez aussi Bernard et Mariette, monsieur Mailhes, car je ne m'amuserais pas sans eux. </p>
         <p>— J'ai même une place pour ma soeur Suzette, répondit le meunier ; je la connais, elle ne vous confierait pas à moi, quoique je ne sois pas un étourdi. Elle aurait peur de tout : d'un rhume, d'un faux pas dans les chambres escarpées de la grotte, d'un accident de voiture, que sais-je ? Quant à mes enfants, bien sûr que je les emmène. 11 vous faut votre petite compagne Mariette, ma Rouzétou... c'est-à-dire mademoiselle Rose, dit le meunier en se reprenant. Puis j'ai besoin
-          <gap rend="figure"/><!-- C'était le mounier Jean Mailhes. --> <pb/> <pb/> de Bernard, parce que nous serons trop de voyageurs pour que je charge ma charrette d'un de mes garçons. J'espère que le grec et le latin ne s'opposent pas à ce que Bernard m'aide à décharger et à recharger mes sacs à la foire du Mas d'Azil. » </p>
+          <gap rend="figure"/> <pb/> <pb/> de Bernard, parce que nous serons trop de voyageurs pour que je charge ma charrette d'un de mes garçons. J'espère que le grec et le latin ne s'opposent pas à ce que Bernard m'aide à décharger et à recharger mes sacs à la foire du Mas d'Azil. » </p>
         <p>Bernard répondit gaiement : « Il n'y a que la couleur noire de mon habit de collégien qui s'y oppose, et, pourvu que vous me prêtiez une de vos vestes, mon cher père, je serai enchanté d'être votre garçon meunier. </p>
         <p>— Ah ! s'écria Rose en frappant à petits coups l'habit de drap couleur cendre de M. Mailhes, d'où s'échappa un nuage de farine, il serait poudré à blanc, l'uniforme. » </p>
         <p>Ils riaient tous de si bon cœur, qu'ils ne s'aperçurent pas de l'arrivée, auprès d'eux, d'une servante de la maison Lapeyre, qui avait traversé le corridor et la terrasse presque sur les pas du meunier. </p>
@@ -269,7 +266,7 @@
         <p>Un fou rire courut autour de la table lorsque, après le récit de sa perquisition infructueuse, la bonne dame ajouta : </p>
         <p>« Je m'en revenais par ici, un peu tracassée de l'idée que M. Lapeyre s'en était allé par distraction jusqu'à sa métairie, quand j'ai rencontré mon neveu Bernard, qui venait de courir la campagne. Il fait de longues excursions tous les matins, pour chasser les papillons dont il fait collection. Il m'a dit avoir rencontré, du côté de Daumazan, sur les bords de la rivière, le percepteur armé de sa ligne à pêcher, allant côte à côte avec M. Lapeyre, qui déclamait tout haut en faisant de grands bras. Ils s'arrêtaient de place en place, mais en s'éloignant toujours de Montserrou. » </p><pb/>
         <gap/>
-        <!-- M. Lapeyre déclamait. --> <pb/><pb/>
+         <pb/><pb/>
         <p>Maman Suzette s'arrêta court, interloquée par l'accès de gaieté générale qui avait gagné jusqu'à l'oncle Anténor. </p>
         <p>« Et puis ? lui dit enfin celui-ci. </p>
         <p>— Ce n'est pas, reprit-elle, le percepteur qui rappellerait l'heure du dîner à monsieur votre frère. Il a les habitudes de son pays du Nord, le percepteur, il appelle le dîner déjeuner et il déjeune à onze heures ; il s'en va ensuite à la pêche tout le reste de la journée quand il n'a pas de besogne à son bureau. J'ai donc renvoyé là-bas mon neveu Bernard, qui est plus alerte que moi, et je l'ai chargé de ne point quitter M. Lapeyre d'un pas, qu'il ne l'ait ramené ici. » </p>
@@ -277,7 +274,7 @@
         <p>« Si je voulais continuer le débat, je dirais que c'est une jolie épigramme que 1 envoi de cet écolier à son maître, pour arracher ce dernier aux charmes de l'école buissonnière. Qui se chargera, à Paris, de remettre mon frère dans le bon chemin lorsqu'il s'égarera par distraction ? </p>
         <p>Moi ! » dit Mme Félicie en redressant sa jolie taille et en levant un peu haut son nez busqué. </p><pb/><pb/>
         <gap rend="figure"/>
-        <!-- Papa Jacques était là. -->
+        
       </div>
       <div type="chapter">
 
@@ -318,7 +315,7 @@
         <p>Mariette avait tellement l'habitude de se prêter aux moindres volontés de Rose, qu'elle l'imita tout de suite en jetant sur sa tête son mouchoir de poche à la place de son chapeau, qu'elle noua par les brides à une branche du pêcher; mais elle ne put s'empêcher de dire aussitôt après, avec un bon rire </p>
         <p>« C'est drôle que je comprenne mieux ce qui se passe au loin, que ce qui est tout près de moi. Pourquoi nous déguises-tu en marchandes de chansons des rues avec nos mouchoirs noués sous le menton? </p>
         <p>— C'est, répondit Rose, pour qu'Erembert ne nous retrouve pas tout de suite. Tu n'as donc pas vu papa Jacques lui faire signe de monter à la vigne? C'est peut-être pour m'emmener avec lui, ou peut-être pour qu'il s'amuse avec nous. En tous cas, papa Jacques lui aura indiqué le nœud rouge de mon chapeau et les bluets du tien comme indications pour nous trouver parmi les autres vendangeuses. Nous
-          <gap rend="figure"/> <!-- Rose s'assit à terre. --> <pb/> <pb/> le dépistons avec nos mouchoirs, et nous avons le temps de nous glisser jusqu'à la maisonnette aux outils. Il y a un banc à l'ombre, justement placé en face de l'autre versant de la côte. Nous allons nous y asseoir et tout le temps qu'Erembert ne nous aura pas trouvées sera autant de gagné pour nous. » </p>
+          <gap rend="figure"/>  <pb/> <pb/> le dépistons avec nos mouchoirs, et nous avons le temps de nous glisser jusqu'à la maisonnette aux outils. Il y a un banc à l'ombre, justement placé en face de l'autre versant de la côte. Nous allons nous y asseoir et tout le temps qu'Erembert ne nous aura pas trouvées sera autant de gagné pour nous. » </p>
         <p>Cinq minutes après, les deux fillettes arrivaient tout essoufflées à la maisonnette, se hâtaient de longer les noisetiers qui l'entouraient, et se réfugiaient sur le banc d'où elles ne pouvaient plus observer le mouvement des vendanges, mais où elles restaient invisibles pour qui ne connaissait pas cette cachette. </p>
         <p>« Nous aurions dû prévenir Bernard, dit Mariette. Lui aussi va nous chercher, et il est capable d'amener ici ton cousin. </p>
         <p>— Oh! comme je serais fâchée contre ton frère s'il faisait cette gaucherie ! s'écria Rose. </p>
@@ -371,7 +368,7 @@
         <p>« Moi et ma femme, répondit papa Jacques, nous mangerons avec ces gens-là, qui sont nos voisins et nos amis; mais il y a un couvert à part pour votre cousine, Bernard et Mariette. Vous ferez le quatrième, puisque M. Lapeyre le permet. </p>
         <p>— Oh ! très bien comme cela, » répondit Erembert, qui se promit de s'indemniser le soir de sa mésaventure de la journée.</p> <pb/>
         <gap rend="figure"/>
-        <!-- Mlle Battistine avait fait étendre du linge.-->
+        
       </div>
       <div type="chapter">
 
@@ -457,7 +454,7 @@
         <p>11 ne ressemblait guère à l'Erembert du matin, frais et pimpant sous son costume neuf de coutil gris, cet Erembert qui se prit à courir pour venir se jeter dans les bras de sa mère : son buste était empaqueté dans une veste de drap brun trop large pour lui et dont les manches lui descendaient jusqu'aux doigts ; ce qu'on voyait de sa culotte courte et de ses chaussettes était maculé de boue séchée et ses souliers vernis étaient remplacés par de laides et fort grosses chaussures dans lesquelles ses pieds flottaient. Un de ces mouchoirs multicolores qui sont la coiffure des paysannes, lui servait de cravate et formait sous son menton un nœud négligé à la Steinkerque, dont les bouts s'enfonçaient dans la poche de sa veste. Il était grotesque ainsi, le pauvre Erembert, et n'avait rien à envier à sa cousine en fait de mascarade. Mais la perspective d'une dînette à quatre le rendait insensible à cette incorrection de tenue, et ce fut en riant qu'il raconta comment on l'avait séché dans le refuge en allumant un feu de sarments, et combien il était content d'aller souper chez les Doulis. Papa Jacques avait bien regretté qu'il n'y eût que trois cailles et un perdreau pour le rôti delà petite table, mais Rose avait dit qu'elle laisserait sa caille à son cousin. C'était gentil de sa part, n'est-ce pas? </p>
         <p>« Et ton père ? lui demanda Mlle Battistine. </p>
         <p>— Il nous a quittés pour faire un tour au café. Il a dit qu'il <pb/>
-          <gap rend="figure"/> <!-- Le pauvre Erembert était grotesque. --> <pb/><pb/> souperait chez vous, ma tante, et qu'ensuite il irait écouter chez les Doulis les chansons des vendangeurs. Il y en a de vieilles qu'il veut noter. Tu sais, maman, nous sommes servis à part, dans le salon. Le souper va être excellent. Rose m'a conté le menu. Il y aura un entremets sucré pour notre table et peut-être aussi des crêpes. Suzette Doulis les fait si bonnes, et presque fines comme de la dentelle. On voit au travers. Oh ! comme je vais m'amuser! </p>
+          <gap rend="figure"/>  <pb/><pb/> souperait chez vous, ma tante, et qu'ensuite il irait écouter chez les Doulis les chansons des vendangeurs. Il y en a de vieilles qu'il veut noter. Tu sais, maman, nous sommes servis à part, dans le salon. Le souper va être excellent. Rose m'a conté le menu. Il y aura un entremets sucré pour notre table et peut-être aussi des crêpes. Suzette Doulis les fait si bonnes, et presque fines comme de la dentelle. On voit au travers. Oh ! comme je vais m'amuser! </p>
         <p>— Tu n'iras pas ainsi attifé, lui dit sa mère, et puis tu ne m'as pas demandé la permission. </p>
         <p>— Bah ! qu'est-ce que cela fait... chez des paysans! dit Erembert. D'abord, papa s'est engagé : on compte sur moi, et puisque je te dis que ça m'amuse ! Adieu ! je veux arriver le premier. » </p>
         <p>Il prit sa course vers le pont, pour rejoindre le premier groupe de vendangeurs, qui était déjà en vue de la maison Doulis, bien résolu à faire le sourd, si sa mère le rappelait ; mais elle n'y songea même pas. Erembert avait opposé à ses observations un argument sans réplique : Puisqu'il allait s'amuser!... </p>
@@ -468,7 +465,7 @@
         <p>maman Suzette s'impatiente de ne pas me voir arriver. </p>
         <p>C'est donc toi qu'elle appelle Rouzétou ? dit Mme Félicie <pb/> avec une hauteur méprisante. Nous avions à Toulouse une fille de cuisine... une laveuse de vaisselle qui ne répondait qu'à ce nom; elle ne comprenait pas quand on l'appelait Rose, et c'était chez elle une marque de bon goût, après tout, de ne vouloir être que Rouzétou. Ce nom vulgaire lui seyait. Il est vrai qu'il ne messied pas non plus à une personne fagotée.comme tu l'es, ma pauvre petite! »</p> <pb/>
         <gap rend="figure"/>
-        <!--Mme Felicie dut se faire conduire. -->
+        
       </div>
       <div type="chapter">
 
@@ -550,7 +547,7 @@
         <p>Dans le landau, l'impression était tout autre. M. Lapeyre traduisait son admiration en périodes enthousiastes qu'il adressait à Mme Félicie. Celle-ci, peu sensible aux beautés de la nature, écoutait pourtant religieusement son mari, par fierté au sujet de ce bel exercice littéraire. Mariette n'avait pas soufflé mot depuis le départ de Montserrou ; elle espéra qu'un aparté passerait inaperçu à l'ombre de l'improvisation de M. Lapeyre et elle se pencha vers Rose pour lui dire : </p>
         <p>« Tourne la tête et vois comme la route et la montagne font-lé-zigzag. On dirait qu'on ne peut pas sortir d'ici. Par derrière, un mur de rochers. Devant nous, un autre mur. On se croirait enfermé ici pour toujours. Qu'est-ce que cela te rappelle ? </p>
         <p>— C'est très sauvage, c'est beau, dit Rose après avoir <pb/>
-          <gap rend="figure"/> <!-- Brunet était entêté. --> <pb/><pb/> observé ce singulier effet de perspective, mais je ne sais pas. à quoi comparer ce site. </p>
+          <gap rend="figure"/>  <pb/><pb/> observé ce singulier effet de perspective, mais je ne sais pas. à quoi comparer ce site. </p>
         <p>— Notre lecture d'avant-hier !... fit Mariette. </p>
         <p>— Ah! oui, ceci représenterait assez bien le défilé des Thermopyles. » </p>
         <p>Ce nom classique frappa les oreilles de M. Lapeyre, qui voulut savoir pourquoi il avait été prononcé. </p>
@@ -563,7 +560,7 @@
         <p>Quoique excellent, ce repas fut moins gai que ne le sont d'habitude les réfections des touristes. Mme Lapeyre ne parlait que pour offrir des mets aux convives ou pour dire en passant un mot aimable a sa nièce. Celle-ci manquait d'entrain; elle était affligée de la gêne qu'exprimaient la physionomie de Bernard et le maintien de Mariette; leur embarras lui pesait et la gagnait; puis elle en voulait un peu à papa Jacques de l'appeler à chaque instant de ce vilain nom de Rouzétou. Décidément, c'était vulgaire, cette traduction en patois du nom de Rose; ce n'était pas étonnant, ce froncement de sourcil de tante Félicie chaque fois que papa Jacques donnait à sa nièce ce nom de laveuse de vaisselle. </p>
         <p>Erembert non plus, n'était pas content. Tout ce qu'il avait vu jusque-là ne valait pas qu'on vint de si loin et ce qu'on disait de la grotte ne présageait rien de plus beau. Une fameuse curiosité qu'une montagne traversée par une route, quand il y a tant de tunnels de chemin de fer dont on ne parle point!... </p><pb/><pb/>
         <gap rend="figure"/>
-        <!-- Erembert revint tout à coup. -->
+        
       </div>
       <div type="chapter">
 
@@ -627,7 +624,7 @@
         <p>Il était nuit noire lorsque les voyageurs se retrouvèrent devant cette auberge de Sabarat où maître Brunet avait voulu faire halte à l'aller. Cette fois, tenu de plus près par son cavalier, auquel la fraîcheur du temps donnait plus de présence d'esprit, il se borna à saluer d'un reniflement sonore son gîte de prédilection et suivit gaillardement les traces du landau. Mais deux kilomètres plus loin, M. Lapeyre trouva bien lourd le poids de son manteau chargé de pluie, et à une nouvelle proposition de Jacques Doulis, qui lui avait demandé de temps à autre s'il ne voulait pas se mettre au sec dans le landau, on fil halte pour opérer ce changement. M. Lapeyre trouva place dans la large voiture dont les hôtes gardaient un silence maussade, soit parce qu'ils étaient fatigués, soit que la pluie dont les vitres levées ruisselaient eût influé sur. leur humeur. Mme Lapeyre était seule animée et chuchotait tout bas à l'oreille de Rose. </p>
         <p>Quand la voiture s'arrêta devant le portail de la métairie, après être descendu de son siège pour ouvrir la portière à la famille Lapeyre, Jacques Doulis fit quelques pas en arrière pour voir quelle figure faisait Brunet, dont il s'était un peu préoccupé de ne point entendre le pas... </p>
         <p>Le meunier n'avait rien exagéré dans ses recommandations au cavalier. Soit que M. Lapeyre eût mal fixé le nœud de la bride, soit, ce qui était plus probable, qu'il eût oublié d'attacher le cheval, Brunet n'était plus derrière le landau.</p> <pb/>
-        <gap rend="figure"/> <!-- M. Lapeyre suivait sur son cheval. --> <pb/><pb/>
+        <gap rend="figure"/>  <pb/><pb/>
         <p>Un incident de ce genre n'était pas capable d'altérer la sérénité de M. Lapeyre ; mais, comme il était sensible aux contrariétés qui frappaient autrui de son fait, il s'excusa de sa distraction, tout en affirmant que Brunet aurait l'esprit de regagner tout seul le moulin. A cette heure de nuit, Jacques Doulis ne pouvait se mettre en route à la recherche de l'animal perdu ; il dut se contenter de cette consolation. Son attention fut d'ailleurs distraite par le mouvement de Rose, qui s'élançait du marchepied dans les bras de sa tante. </p>
         <p>« Quelle fantaisie, lui dit-il, de descendre te mouiller les pieds ! N'as-tu pas fait tes adieux dans la voiture? </p>
         <p>— Oui, répondit Mme Lapeyre d'un ton narquois, elle les a faits à Mariette et à Bernard, et elle est descendue ici parce que je l'emmène demain passer une huitaine de jours à Toulouse. Aglaé ira de grand matin chercher chez vous les objets de toilette nécessaires pour ce petit voyage. » </p>
@@ -667,7 +664,7 @@
         <p>Après avoir agité confusément toutes ces idées, Rose fondit en larmes. Mme Lapeyre s'empressa de la consoler, mais sans parvenir à lui faire expliquer le sujet de son chagrin. Rose ne savait comment exprimer par des paroles le combat de son cœur entre sa tendresse pour ses nourriciers et son aspiration vers ces belles, choses de civilisation raffinée qu'elle avait entrevues à Toulouse. </p>
         <p>D'ailleurs, on arrivait à Montserrou. Après avoir franchi l'Esplanade, la diligence s'arrêtait sur le pavé pointu de la rue en geignant de tous ses vieux ais secoués. Déjà M. Carmel était descendu et tendait la main à Mme Lapeyre avec les grâces arrondies qui caractérisaient ses gestes et ses moindres phrases. R fallait descendre et rentrer ces larmes qui voulaient encore couler... Oh! si l'on rencontrait en chemin maman Suzette ! </p><pb/><pb/>
         <gap rend="figure"/>
-        <!-- Il trépignait sur place.-->
+        
       </div>
       <div type="chapter">
 
@@ -739,7 +736,7 @@
         <p>Bernard ne perdit pas son temps à démontrer que le ridicule de cette épreuve ne devait pas être attribué à l'impéritie du photographe. Il avait en tête un projet trop important pour sentir la moindre picoterie d'amour-propre. Rose allait partir et, puisqu'on n'avait jamais fait son portrait, ses amis n'auraient pas la consolation de regarder son image en son absence. Il fallait donc profiter de l'occasion si Rose y consentait. Ce serait une belle surprise à faire à maman Suzette. </p>
         <p>« Et le meilleur remerciement pour moi, dit papa Jacques à son neveu. Je serai donc plus que payé dès le premier jour du plaisir que je t'ai fait. » </p>
         <p>Rose accepta avec enthousiasme ; elle posa seule d'abord, <pb/>
-          <gap rend="figure"/> <!-- Elle voulut avoir son portrait avec Mariette. --> <pb/><pb/> puis sur les genoux de papa Jacques ; elle voulut ensuite avoir son portrait avec Mariette; enfin elle demanda à Bernard de poser en tiers. On se grouperait comme dans leurs réunions d'autrefois, elle et Mariette tenant une broderie à la main, et lui, Bernard, ayant un livre ouvert devant lui. C'était contrariant de n'avoir pas le Plutarque. Pour prêter à l'illusion, on le remplaça par le grand livre de comptes du moulin. </p>
+          <gap rend="figure"/>  <pb/><pb/> puis sur les genoux de papa Jacques ; elle voulut ensuite avoir son portrait avec Mariette; enfin elle demanda à Bernard de poser en tiers. On se grouperait comme dans leurs réunions d'autrefois, elle et Mariette tenant une broderie à la main, et lui, Bernard, ayant un livre ouvert devant lui. C'était contrariant de n'avoir pas le Plutarque. Pour prêter à l'illusion, on le remplaça par le grand livre de comptes du moulin. </p>
         <p>« Si Bernard pose, qui manoeuvrera la mécanique ? demanda Jean Mailhes. </p>
         <p>— Vous, père, s'il vous plaît, répondit Bernard. Je vais vous expliquer comment. </p>
         <p>— C'est que je m'y connais moins qu'à mes meules, et puis ton fourniment de plaques ne durera pas longtemps, si tu en uses tant dans une seule journée. </p>
@@ -761,7 +758,7 @@
         <p>Que dit une mère à son enfant chérie au moment de s'en séparer? Tout est bénédiction dans son cœur. Avant de s'endormir le soir à la chartreuse pour sa dernière nuit à Mont-serrou, Rose pensa longtemps à ces derniers mots de maman Suzette : </p>
         <p>« N'aie pas peur que je meure parce que je suis pâle et maigre, car je comprends que c'est là ce qui te fait pleurer. Le bon Dieu me fera vivre pour te revoir encore. Ne m'oublie pas, et, si plus tard on te fait de la peine, si les gens de Paris ne sont pas pour toi ce qu'ils devraient, souviens-toi que tu as une mère qui t'aime et une maison qui t'appartient. »</p> <pb/>
         <gap rend="figure"/>
-        <!-- C'était effrayant d'être perchée si haut.-->
+        
       </div>
       <div type="chapter">
 
@@ -817,7 +814,7 @@
         <p>Rose regrettait sa jolie chambre, mais après tout elle n'était pas fâchée de se montrer, d'un caractère conciliant. Elle acceptait de bonne grâce quand la porte du salon s'ouvrit brusquement. C'était Aglaé qui faisait une entrée pathétique, son mouchoir sur ses yeux, la figure rouge et gonflée. Elle arrivait de ce « petit grenier à rats du sixième étage » où on prétendait la loger, et elle venait déclarer qu'elle ne coucherait pas là. Elle y aurait trop peur. Savait-on qui allait et venait par l'escalier, dans cette maison où l'on ne connaissait personne, ' dans ce Paris plein de malfaiteurs? Si on l'avait prévenue des conditions du service, elle ne se serait pas dévouée à ses maîtres jusqu'à quitter pour eux pays et famille. Si on ne lui permettait pas de passer la nuit dans l'appartement... n'importe où... sur une chaise, elle n'avait pas d'autre ressource que de reprendre le train; mais comment retrouver la gare? </p>
         <p>Aglaé entremêlait de gros sanglots ces propos décousus. Comme il n'y avait moyen ni de lui faire entendre raison ni de l'expédier par le chemin de fer, ce fut elle qui prit le lit du cabinet de travail, et l'on arrangea une couchette pour Rose sur le divan du salon. </p>
         <p>Les déceptions de l'arrivée furent compensées pour Rose les jours suivants par les promenades qu'elle fit avec son oncle à travers Paris, pendant que sa tante procédait à l'installation de l'appartement. Erembert ne les accompagnait pas toujours, pour s'être, selon son expression, supérieurement ennuyé avec eux au musée du Louvre. Dans ses tête-à-tête avec son oncle, Rose retrouvait cette impression déjà ressentie au Mas d'Azil. Il l'intéressait aux moindres sujets de causerie qu'il animait de sa verve imagée. Il la faisait souvent rire par ses traits spirituels; il l'instruisait en se jouant; si elle n'était jamais lasse de le questionner et de l'écouter, lui, de son côté, était ravi de l'ouverture d'esprit de Rose et il lui arrivait de murmurer. <pb/>
-          <gap rend="figure"/> <!-- C'était Aglaé. --> <pb/><pb/> « Ah! si Erembert te ressemblait ! » </p>
+          <gap rend="figure"/>  <pb/><pb/> « Ah! si Erembert te ressemblait ! » </p>
         <p>C'était la douceur de ces témoignages d'affection qui empêchait Rose de n'être pas trop mortifiée en se voyant réduite à jouer un rôle secondaire dans la maison de son tuteur, elle qui avait été chez maman Suzette le personnage important. Quelques réflexions, après tout fort sensées, de tante Félicie sur ce point, firent apprécier à Rose, mieux qu'elle ne l'avait jamais fait, sa situation dans le monde. De quel droit blâmait-elle les caprices de son cousin, quand ces caprices étaient autorisés par Mme Félicie, comme ceux qu'elle-même aurait pu avoir à Montserrou auraient eu pour complices dociles ses nourriciers? En trouvant cette conclusion, Rose regretta de ne pouvoir communiquer à personne ce résultat de ses pensées et de n'avoir pas là Bernard et Mariette pour leur dire : « Voilà à quoi m'a servi de lire Plutarque. Sans les maximes des marges du livre qui indiquent la moralité de chaque fait, je n'aurais pas trouvé cette première maxime de ma biographie. » </p>
         <p>C'était dans sa chambre que Rose méditait ainsi le soir pour se rendre compte de son sort, car, après cinq nuits en camp volant dans le salon, elle avait été mise en possession, non pas certes de la chambre lilas, mais du cabinet de toilette dont Mme Félicie se privait pour laisser à son fils la pièce qu'il avait choisie. Ce cabinet était si exigu, qu'il n'y avait de place que pour un lit de fer, un lavabo et une chaise, et il n'était éclairé que par une demi-fenêtre; mais c'était pour Rose un chez-soi qui lui avait bien manqué les premiers jours où l'on faisait son lit à minuit sur le divan, après le départ des visiteurs, et où on la réveillait dès sept heures du matin pour qu'elle fût levée avant l'arrivée des tapissiers. </p>
         <p>Ces visiteurs du soir étaient les amis assez intimes pour être reçus dans le tohu-bohu d'une installation : d'abord M. Theulade, petit homme vif et sec, toujours en mouvement ; puis Mme Chelleray, une grande vieille dame dont les cheveux blancs étaient disposés en groupes de boucles crêpelées ; ses traits réguliers la rendaient imposante, mais sans <pb/> que la timidité qu'elle inspirait fût pénible, car sa physionomie grave respirait l'indulgence et l'affabilité. Telle fut du moins l'impression de Rose quand on l'appela au salon pour la présenter à Mme Chelleray. Les autres visiteurs étaient des professeurs de l'Université, des journalistes, un député de l'Ariège, tous s'intéressant plus ou moins au succès littéraire de leur compatriote et ayant promis d'y aider de toute leur influence. </p>
@@ -863,7 +860,7 @@
         <p>Cette phrase était saluée par les éclats de rire de toutes les autres. Amélie se signalait entre toutes par son hilarité et c'était naturel, puisque c'était elle qui avait donné le mot d'ordre de cette gracieuse plaisanterie. Comme Rose s étudiait à parler lentement, suivant les recommandations de Mlle Adélaïde, et qu'Amélie ne lui avait pas fait répéter <pb/> un seul mot de ses informations, elle devina un parti pris de moquerie et répondit à la cinquième fillette qui renouvela cette malice : </p>
         <p>« Eh bien, j'attendrai de savoir parler français pour jouer avec vous ?</p> <pb/>
         <gap rend="figure"/>
-        <!-- Il était en grande amitié avec un Japonais. -->
+        
       </div>
       <div type="chapter">
 
@@ -956,12 +953,12 @@
         <p>Tu n'auras plus de quoi me frapper, dit-elle après avoir rompu sur son genou la règle d'ébène. </p>
         <p>— Tu crois? tu crois? » s'écria Erembert en grinçant des dents. </p>
         <p>Il lança l'un après l'autre à la tête de sa cousine les livres classiques épars sur la table. L'un d'eux, mal dirigé, renversa l'encrier sur le tapis; un autre ébranla la suspension et fit danser l'abat-jour de verre dépoli. Un troisième atteignit en pleine figure Rose qui s'enfuyait, épouvantée des <pb/>
-          <gap rend="figure"/> <!-- L'un d'eux reversa l'encrier. --> <pb/><pb/> yeux méchants d'Erembert. En ouvrant la porte, elle se heurta contre sa tante Félicie, qui accourait au bruit. « Qu'as-tu encore fait à Erembert ? » </p>
+          <gap rend="figure"/>  <pb/><pb/> yeux méchants d'Erembert. En ouvrant la porte, elle se heurta contre sa tante Félicie, qui accourait au bruit. « Qu'as-tu encore fait à Erembert ? » </p>
         <p>Cette question annonçait une partialité si injuste, que Rose resta clouée sur place, aussi muette qu'un coupable pris en flagrant délit. </p>
         <p>Erembert n'était pas muet, lui ! Il montrait la règle cassée, l'encrier répandu, la lampe qui fournissait des oscillations de pendule au-dessus de la table. C'était Rose qui avait fait tout cela. </p>
         <p>« Vous ne paraîtrez pas à table de huit jours ; on vous portera votre potage et du pain dans votre chambre, dit Mme Lapeyre à sa nièce. Je ne supporterai plus vos brutalités de paysanne ; c'était bon pour les niais de Montserrou de les aduler. Ici elles ne réussiront pas, je vous en préviens. Retirez-vous dans votre chambre. » </p><pb/><pb/>
         <gap rend="figure"/>
-        <!-- Ils voulaient fonder un nouveau journal. -->
+        
       </div>
       <div type="chapter">
 
@@ -1044,7 +1041,7 @@
         <p>« Est-ce qu'il viendra assez de monde pour occuper toutes ces places'/ » demanda Mme Lapeyre à la maîtresse de la maison. </p>
         <p>Mme Chelleray n'eut pas le temps de lui répondre; elle devait aller au-devant du premier groupe d'invités. </p> <pb/>
         <gap rend="figure"/>
-        <!-- Il n'y avait d'arrivé que les artistes. --> <pb/><pb/>
+         <pb/><pb/>
         <p>M. Lapevre avait déjà lié connaissance avec le violoncelliste; tous deux causaient comme de vieux amis. </p>
         <p>Mme Lapeyre alla s'asseoir au premier rang des fauteuils, puis elle s'avisa qu'elle ne pourrait pas juger de l'effet de la lecture sur l'auditoire. Malgré Erembert, qui voulait à toute force figurer « à côté de papa », elle prit place au septième rang, non sans avoir jeté au passage un regard satisfait sur une glace qui lui renvoyait l'image d'une jolie femme mise avec goût. Pour peu que l'oeuvre du littérateur eût l'élégance le bon air de Mme Félicie, son succès était certain. </p>
         <p>Rose, qui suivait timidement sa tante et son cousin dans leurs évolutions, était parée d'une façon économique dans une ancienne robe de Mme Félicie, retapée pour la circonstance. Cette robe grise avait promis de paraître fraîche aux lumières; elle soutenait mal cette gageure : c'était peut-être le voisinage du satin grenat et des dentelles crème de Mme Lapeyre qui lui nuisait; mais le fait est que Rose, avec sa taille gauche d'adolescente, avait là dedans un air pauvret dont sa tante fut humiliée. Quelle différence avec Erembert, qui parait tout ce qu'il portait et qui avait déjà les airs de tête, la tenue correcte, les gestes rares et nets d'un gentleman ! </p>
@@ -1063,7 +1060,7 @@
         <p>— Non, dit Rose. </p>
         <p>— Si. Il y a deux personnes, deux hommes. J'ai entendu craquer leurs souliers. L'un d'eux a imité la roulade que le violon a faite tout à l'heure. L'autre a dit : « Tais-toi donc, scélérat. » Et, maintenant, ils sont assis sur le canapé, juste derrière nous. C'est très ennuyeux, nous ne pourrons rien dire sans qu'ils l'entendent, une fois que la musique aura cessé. Pourquoi ne sont-ils pas avec tout le monde, ceux-là? » </p><pb/><pb/>
         <gap rend="figure"/>
-        <!-- Sa diction s'anima. -->
+        
       </div>
       <div type="chapter">
 
@@ -1127,7 +1124,7 @@
         <p>Le servage domestique de la pupille de M. Lapeyre n'était Pas connu hors de la maison. Mme Lapeyre offrait un soir par semaine une tasse de thé aux personnes avec lesquelles elle était restée en relations; ces soirs-là, la porte était ouverte <pb/> et le thé servi par une ouvrière à la journée ; celle-ci consentait à donner quelques heures de plus pour contenter une cliente qui faisait un excellent marche en payant ces heures supplémentaires. On avait ainsi une bonne apparence de service à peu de frais. </p>
         <p>Personne ne se doutait de la double tâche fournie par la pauvre Rose. Son tuteur lui-même ne se rendait pas compte de F exploitation à laquelle sa femme se livrait. D'abord, il était chez lui le moins possible, pour esquiver les soupirs agressifs, les allusions piquantes, dont Mme Félicie le harcelait. C'en était lait à tout jamais de l'union de ce ménage. Mme Lapeyre avait subi une faillite d'espérances que sa nature vaniteuse ne devait jamais pardonner. De son côté, M. Lapeyre souffrait de n'être plus soutenu par la foi des siens dans son mérite; mais, au lieu de l'amener à douter de lui-même, cet abandon de son drapeau littéraire le lui faisait porter plus haut, en génie méconnu. Des semaines entières se passaient sans que la table de famille fût animée par cette causerie intime où chacun dit son mot. M. Lapeyre ne parlait plus que par monosyllabes; son air distrait d'autrefois était remplacé par une impassibilité de commande, sorte de bouclier contre les attaques indirectes de Mme Félicie et contrôles mots féroces d'Erembert. </p>
         <p>M. Lapeyre se dédommageait au dehors de cette contrainte par une expansion de ses facultés intellectuelles, au profit de qui lui prêtait une oreille complaisante. Sans parler de ses cours d'histoire et de littérature, qu'il rendait plus intéressants que jamais, il saisissait au passage l'un ou l'autre des littérateurs de sa connaissance qu'il rencontrait, et laissait échapper en improvisations rapides toutes les idées qu'il n'avait plus le courage de mettre en oeuvre lui-même. Le soir, au cercle ou au café, il était toujours entouré d'un groupe de gens de plume qui faisaient leur profit des paradoxes brillants, des traits spirituels de ce grand remueur d'idées, auquel il n'avait manqué que de se consacrer à la littérature dès sa jeunesse pour y réussir. Plus d'une fois, <pb/>
-          <gap rend="figure"/> <!-- Erembert se moquait d'elle. --> <pb/><pb/> M. Lapeyre retrouva, dans un article de journal ou dans le roman de quelque Revue, le développement de ses propres inspirations. C'était à la fois pour lui une flatterie et une amertume. Ses idées valaient donc quelque chose puisqu'on les imprimait et qu'elles faisaient honneur à autrui. Il aurait dû — il le sentait, mais trop vaguement — il aurait dû profiter de cette leçon pour utiliser lui-même les ressources de son intelligence; mais il était trop découragé pour tenter cet effort. </p>
+          <gap rend="figure"/>  <pb/><pb/> M. Lapeyre retrouva, dans un article de journal ou dans le roman de quelque Revue, le développement de ses propres inspirations. C'était à la fois pour lui une flatterie et une amertume. Ses idées valaient donc quelque chose puisqu'on les imprimait et qu'elles faisaient honneur à autrui. Il aurait dû — il le sentait, mais trop vaguement — il aurait dû profiter de cette leçon pour utiliser lui-même les ressources de son intelligence; mais il était trop découragé pour tenter cet effort. </p>
         <p>Déchu de son prestige dans sa famille, M. Lapeyre ne paraissait donc chez lui que par échappées, et il n'aurait peut-être jamais su que sa pupille y fournissait des corvées pénibles, si en traversant l'antichambre un matin au moment de sortir, cette exclamation navrante n'avait frappé ses oreilles : « Oh! que je suis malheureuse ! » </p>
         <p>M. Lapeyre s'arrêta. </p>
         <p>« C'est toi, Rose, dit-il, qui te plains ainsi ? » </p>
@@ -1170,7 +1167,7 @@
         <p>Assise au bureau d'Henriette, miss Dillon croisait en travers sur le quatrième feuillet de sa lettre les longs caractères pointus de toute écriture anglaise. Elle fut bien surprise de voir s'agenouiller à ses côtés, sur le marchepied du bureau, cette ceinture bleue qui, gentiment, en anglais détestable, mais compréhensible, lui faisait amende honorable en son <pb/> nom et au nom de ses compagnes, et lui promettait une conduite irréprochable pour l'avenir. Il y eut par-ci par-là, dans ce petit discours, des mots français mis à la place des termes anglais qui se dérobaient. </p>
         <p>Si miss Dillon avait voulu prendre une revanche, elle aurait pu rire de la prononciation qui en défigurait le texte autant que ses crouyels dénaturaient le français. Mais miss Dillon ne songea qu'à remercier Rose. Seulement, l'émotion, la surprise lui ôtant ses moyens d'élocution, elle ne sut qu'ouvrir ses bras à son élève repentante. </p><pb/><pb/>
         <gap rend="figure"/>
-        <!-- Ses dimanches se passaient aux courses. -->
+        
       </div>
       <div type="chapter">
 
@@ -1205,7 +1202,7 @@
         <p>« Vous ne me reconnaissez pas? Et moi qui avais tant espéré que vous ne m'aviez pas oublié tout à fait? Si je suis entré à. Saint-Cyr, ne vous souvient-il pas que c'est d'après votre conseil, et qu'après une lecture de Plutarque vous n'aviez pas trouvé pour moi une plus belle carrière que la carrière militaire? </p>
         <p>— Ah ! Bernard ! » s'écria Rose, étonnée de n'avoir pas re-connu tout de suite dans la physionomie ouverte de ce grand jeune homme les traits°de son ami d'enfance. Elle voulut lui tendre ses deux mains ; mais elles étaient employées à soutenir ce chargement trivial, qui lui fit tellement honte à ce moment que deux larmes lui montèrent aux yeux. Une idée analogue occupait le Saint-Cyrien, et ils restèrent un moment silencieux, elle, par confusion d'être surprise dans un office si vulgaire, lui, souffrant à la fois de son propre chagrin et de. celui de Rose. Il fut le premier à sortir de cette situation pénible; il la trancha par le geste doucement impérieux qui enleva de la main droite de la jeune fille le filet chargé de légumes. </p>
         <p>« Vous allez tacher vos gants, je ne veux pas, » dit Rose.</p> <pb/>
-        <gap rend="figure"/> <!-- Le militaire s'arrêta. --> <pb/><pb/>
+        <gap rend="figure"/>  <pb/><pb/>
         <p>Par une interprétation plus subtile des règles du savoir-vivre que sa première démonstration, Bernard s'élança le premier dans l'escalier, qu'il monta de deux en deux marches, en laissant loin derrière lui la jeune fille. Elle lui sut gré de cette délicatesse ; le lieu banal où ils s'étaient rencontrés n'était pas propre à une reconnaissance entre anciens amis. Quand Rose eut monté plus posément les quatre étages de l'appartement et qu'elle retrouva devant la porte fermée le visiteur qui l'attendait pour être introduit par elle, elle avait si bien vaincu sa première impression de fausse honte, qu'elle reprit le filet des mains de Bernard en lui disant avec gaieté : </p>
         <p>« À chacun son fourniment, s'il vous plaît. Le butin pris par surprise n'est pas légitimement acquis. </p>
         <p>— Et vous riez... de ceci? répondit tristement Bernard. Ah ! si maman Suzette vous voyait en ce moment... </p>
@@ -1282,7 +1279,7 @@
         <p>Il attira sa nièce dans ses bras pour lui donner un baiser tout paternel. </p>
         <p>« Eh bien, mon oncle, dit Rose, ne vendez pas Primevère, qui est... » — Elle allait dire : la plus jolie; elle se reprit pour ajouter : — « une des mieux réussies de vos oeuvres, et, puisque je possède trente mille francs et que je n'en verse que vingt mille pour le premier payement du pensionnat laissez-moi <pb/> vous en offrir six mille pour l'édition de vos oeuvres et votre installation à la métairie. </p>
         <p>— Jamais ! s'écria M. Lapeyre. Ce serait me décharger singulièrement de mes fonctions de tuteur que de dépouiller ma nièce. » </p><pb/><pb/>
-        <gap rend="figure"/> <!-- Andréas Romero était un jeune Mexicain. -->
+        <gap rend="figure"/> 
       </div>
       <div type="chapter">
 
@@ -1363,7 +1360,7 @@
         <p>« Mademoiselle, Mme Chelleray a déjà des visites qu'elle reçoit là-haut, dans son cabinet. Voulez-vous que je sonne pour vous annoncer, ou préférez-vous monter pour attendre dans le grand salon que ces personnes sortent? » </p>
         <p>Rose choisit ce dernier parti. La démarche qu'elle venait faire ne comportait pas la cérémonie du coup de cloche; elle se glissa dans ce grand salon dont elle avait cru prendre possession le jour même par acte notarié. Elle s'y trouvait dans une situation bien différente et le sentiment de ce contraste entre la réalité et ce qui aurait pu être l'accablait tellement, qu'elle entendit d'abord comme dans un songe la conversation qui s'échangeait dans le cabinet dont la porte était ouverte et les portières relevées. </p>
         <p>En entrant au salon, Rose avait eu le soin discret de rouler un fauteuil, de tousser légèrement pour indiquer à Mme Chelleray qu'elle devrait fermer cette porte si elle ne se souciait <pb/>
-          <gap rend="figure"/> <!-- Des chiffonniers courbés sous la hotte. --> <pb/><pb/> pas d'être entendue de la personne qui attendait au salon. </p>
+          <gap rend="figure"/>  <pb/><pb/> pas d'être entendue de la personne qui attendait au salon. </p>
         <p>On parlait anglais là-dedans, auprès de la table à écrire de Mme Chelleray qui, de temps à autre, répondait en tâtonnant ses mots et fort lentement. La voix qui se faisait le plus souvent entendre était une voix de femme claire et chantante, mais dans des modulations tout anglaises. Ce timbre, semblable au son de perles d'acier tombant une à une sur une surface de cristal, rappela à Rose la voix de miss Dillon ; mais il n'était pas probable que miss Dillon se trouvât en France et à Paris. Elle avait quitté l'institution un an auparavant pour aller exercer le même professorat en Italie, dans l'intérêt de la santé de sa jeune soeur, dont ses leçons payaient l'entretien. </p>
         <p>Ce ne fut donc point par curiosité, mais parce que Rose cherchait à reconnaître dans les inflexions de cette voix celles qui lui rappelaient miss Dillon, qu'elle finit par saisir le sens de cette causerie. </p>
         <p>« Non, chère madame, disait l'Anglaise, je ne me contenterais pas d'une médiocrité pour occuper la place en question. Il me faut une personne hors ligner N'est-il pas vrai, </p>
@@ -1408,7 +1405,7 @@
         <p>Mme Chelleray y consentit, mais en faisant, elle aussi, ses conditions; elle exigea de Rose la remise des quatorze mille francs en billets de banque qui lui restaient et qu'elle se chargea de placer en rentes nominatives dont elle enverrait le titre par lettre chargée à son ancienne élève; puis elle arracha à celle-ci l'autorisation d'instruire Mme Lapeyre du larcin de son fils, afin qu'elle veillât de plus près sur ce jeune homme; mais il fut convenu qu'elle ne ferait cette révélation à la mère que lorsque M. Lapeyre serait fixé dans le Midi. </p>
         <p>« Et maintenant, dit Mme Chelleray à Rose, puisque votre chambre vous attendait ici, vous allez prendre un léger repas et vous dédommager ensuite de votre nuit blanche en dormant jusqu'au soir. Songez que demain peut-être vous serez en route pour Londres. Les Pershale sont pressés. M. Thornton avait déjà parlé de télégraphier tout de suite dans le cas où j'aurais quelqu'un tout prêt. »</p> <pb/>
         <gap rend="figure"/>
-        <!--Elle aperçut son amie Henriette.-->
+        
       </div>
       <div type="chapter">
 
@@ -1506,7 +1503,7 @@
         <p>Des éclats de rire partirent de tous côtés à cette démonstration de la sympathie subite de Cicily pour l'étrangère. Slough était le plus vilain chien du monde, le rebut de la race canine. Les enfants l'avaient trouvé un beau jour sur la route, tout éclopé, et ils l'avaient rapporté par pitié à Wood-Lodge. </p>
         <p>Cicily s'était prise d'affection pour cette pauvre bête, au point de ne pas permettre qu'on la touchât sans sa permission. C'était son jouet favori; pour Slough elle avait abandonné ses poupées au dernier né de la famille, au baby de dix-huit mois qui dormait dans son berceau à cette heure de présentation générale. </p>
         <p>Cette permission à la nouvelle venue d'embrasser Slough était une faveur extraordinaire, et lorsqu'on eut raconté à <pb/> Rose l'histoire de Slough pour lui expliquer l'hilarité générale, elle prit confiance dans sa nouvelle destinée, et pensa que cette maison bénie où les chiens perdus, fussent-ils sales et laids, trouvaient place au foyer, pourrait devenir la sienne, en dépit des préventions de M. Edward Pershale. </p><pb/><pb/>
-        <gap rend="figure"/> <!--  Les enfants l'appelaient miss Rosy. -->
+        <gap rend="figure"/> 
       </div>
       <div type="chapter">
 
@@ -1542,7 +1539,7 @@
         <p>— Je n'irais pas au delà de la troisième mesure; je suis trop rouillée, répondit la mère de famille. </p>
         <p>— C'est honteux de la part de Bessie de massacrer ainsi cette sonate, dit M. Edward Pershale en faisant des gestes irrités, avec son archet au bout du bras. Voilà ce que c'est que d'avoir cessé les leçons de son ancien professeur de Chelmsford pour la remettre aux soins de cette institutrice à tout apprendre. Est-ce que les Françaises entendent quelque chose à la musique, sinon à celle qui les fait danser? » </p>
         <p>Si M. Edward Pershale n'avait pas été tellement en colère <pb/>
-          <gap rend="figure"/> <!-- Tous les Pershal étaient musiciens. --> <pb/><pb/> que ses tics nerveux lui convulsionnaient la face, sa belle-soeur lui aurait appris que miss Rosy jouait en perfection ces variations encore trop difficiles pour son élève; mais en personne prudente, elle laissa passer cette attaque contre la Française, et elle s'ingéniait à chercher une diversion lorsque Mabel se présenta, son benjoë dressé sur son bras droit à la façon d'un fusil au port d'armes, et sollicita la faveur de faire entendre une petite chansonnette. </p>
+          <gap rend="figure"/>  <pb/><pb/> que ses tics nerveux lui convulsionnaient la face, sa belle-soeur lui aurait appris que miss Rosy jouait en perfection ces variations encore trop difficiles pour son élève; mais en personne prudente, elle laissa passer cette attaque contre la Française, et elle s'ingéniait à chercher une diversion lorsque Mabel se présenta, son benjoë dressé sur son bras droit à la façon d'un fusil au port d'armes, et sollicita la faveur de faire entendre une petite chansonnette. </p>
         <p>« Ce sera l'intermède comique après notre fiasco piteux, dit M. Edward Pershale. Va, petite bohémienne, chante-nous ton air nègre. » </p>
         <p>Était-ce un prélude pour un air nègre que cette modulation en mineur? et cet accompagnement en sourdine, tout en notes piquées qui soutenait la voix de Mabel articulant des syllabes à la fois sonores et harmonieuses, était-ce vraiment un accompagnement noté, imprimé, appris par l'exécutante? Quelques variantes au refrain en firent douter le mélomane, et, quand Mabel eut accueilli avec gaieté trois salves d'applaudissements très mérités, M. Edward Pershale appela sa nièce près de lui pour lui dire : </p>
         <p>« Où as-tu pris cette chose-là ? c'est un bijou ; et qu'est-ce que c'est que cet idiome? de l'italien ? de l'espagnol? car ce n'est pas un chant nègre à benjoë ; ton instrument ne se prête pas de lui-même aux finesses que tu as su lui imposer. Où as-tu pêché cela ? </p>
@@ -1621,7 +1618,7 @@
         <p>C'était en anticipant par l'imagination sur les circonstances de ce rapatriement que Rose calmait sa nostalgie; mais elle souffrait trop de tout ce qui lui rappelait le pays pour accueillir avec joie ce séjour d'un Français à Wood-Lodge dont chacun lui faisait fête, M. Edward Pershale le premier; il passait quelques semaines de convalescence chez son frère, et sauf un va-et-vient de télégrammes qui portaient chaque matin ses instructions à son bureau de la Cité, il ne s'occupait que de musique, de promenades et de causeries dans lesquelles revenait souvent le nom de M. Meys. Il donnait cours à son humeur caustique en faisant de son sauveur des portraits contradictoires, en réponse aux questions de ses neveux et de ses nièces sur l'extérieur du jeune officier; après avoir été décrit sous l'apparence imposante d'un grand et bel homme blond, un peu fort, M. Meys se rapetissait jusqu'aux plus infimes proportions exigées par la toise militaire, et il <pb/> échangeait ses cheveux d'or et son teint flamand contre les attributs des bruns les plus moricauds; quand l'auditoire se récriait sur cette mystification, M. Edward Pershale répondait : </p>
         <p>« Je le fais exprès. C'est bien le moins que je doive à mon sauveur de lui épargner le : « Je l'aurais cru mieux que cela », qui suit les descriptions faites d'avance. Je ménage mes effets. » </p>
         <p>Rose ne comprit pas le sourire à son adresse qui accompagnait ces derniers mots ; mais elle s'en souvint au moment où M. Edward Pershale, qui était allé chercher M. Meys à la gare de Chelmsford, descendit de voiture avec le Français, devant la porte fleuronnée du hall. </p><pb/><pb/>
-        <gap rend="figure"/> <!-- M. Pershale referma la porte. -->
+        <gap rend="figure"/> 
       </div>
       <div type="chapter">
 

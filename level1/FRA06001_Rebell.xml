@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA06001" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA06001" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <!-- Word count: tokens as counted in text split on "\W+" -->
+        
         <measure unit="words">53060</measure>
       </extent>
       <publicationStmt>
@@ -57,14 +54,14 @@
       <textClass>
         <keywords>
           <term type="narrative-perspective">heterodiegetic</term>
-          <!-- Heterodiegetic dominates, but there is a frame narrative. -->
+          
         </keywords>
       </textClass>
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="medium"/>
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="high"/>
-        <!-- Reprints 1970-2009: 1978, 1985, 1996, 1996. After 2009: 2017. -->
+        
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
@@ -347,7 +344,7 @@
         </p>
         <p>— Oui, M. de Montouroy. Il venait beaucoup trop de monde ici. J'y mets ordre. Allons, Zinga, retirez-vous à présent.</p>
         <p>Mais avec un empressement exagéré et comme une exubérance d'affection, Zinga s'est encore agenouillée devant mon lit et ma couvert les mains de baisers. Puis, dénouant tout un côté de sa candale
-          <ref target="#FRA06001_N1"/><ref target="#FRA06001_N1"/><ref target="#FRA06001_N1"/><ref target="#FRA06001_N1"/>, elle m'a montré des pièces d'or.</p>
+          <ref target="#FRA06001_N1"/>, elle m'a montré des pièces d'or.</p>
         <p>
           <foreign>Es zot-oulé vandè mo to lang</foreign>
         </p>
@@ -650,7 +647,7 @@
           <foreign>Maîtress, mô libre !</foreign>
         </p>
         <p>— Et que m'importe, lui criai-je, que tu sois libre ! Tu serais la femme du gouverneur, espèce de racoleuse d'hommes, traînée de boue, que je te fouetterais comme une bozale
-          <ref target="#FRA06001_N2"/><ref target="#FRA06001_N2"/><ref target="#FRA06001_N2"/><ref target="#FRA06001_N2"/>.</p>
+          <ref target="#FRA06001_N2"/>.</p>
         <p>Et du balai de lianes que j'avais emporté pour châtier Cochonnette, je lui cinglai les jambes. Elle poussa un rugissement terrible, plus honteuse que blessée ; puis, au milieu de sanglots, elle criait :</p>
         <p>
           <foreign>Parler, mô, di tout ké fi, mame Lafon ki fi mouri !</foreign>
@@ -882,7 +879,7 @@
         <p>— Il le permet, mais il ne veut pas que je le quitte.</p>
         <p>— On se passerait de sa volonté,</p>
         <p>— II peut me lancer une piaye
-          <ref target="#FRA06001_N3"/><ref target="#FRA06001_N3"/><ref target="#FRA06001_N3"/><ref target="#FRA06001_N3"/>. C'est un sorcier,</p>
+          <ref target="#FRA06001_N3"/>. C'est un sorcier,</p>
         <p>— Je te défendrai contre lui.</p>
         <p>— Et la maîtresse, la Madame Gourgueil. Je ne peux pas l'abandonner.</p>
         <p>— J'irai lui demander de t'affranchir.</p>
@@ -1042,7 +1039,7 @@
           <p>« Nanette Berthier. »</p>
         </quote>
         <p>Ce nom n'est que trop connu au Cap français. Nanette Berthier, que ses amis de couleur appellent Kouma-Toulou, la Langue Joyeuse, et que nous nommons familièrement Dodue-Fleurie, est une fort belle négresse, grande et grasse, une véritable <hi>pièce d'Inde</hi>
-          <ref target="#FRA06001_N4"/><ref target="#FRA06001_N4"/><ref target="#FRA06001_N4"/><ref target="#FRA06001_N4"/>. Il n'est point de négociants, de voyageurs de passage à Saint-Domingue qui manquent d'aller souper avec Dodue-Fleurie ; ils croiraient même ignorer les délices de l'île s'ils n'obtenaient, à prix d'or, une de ses nuits où, dit-on, elle ne se montre jamais oisive. La lourde volupté que dégage son corps lorsqu'elle se promène dans les rues et les jardins du Cap ; tout ce qu'il y a de grossière et ardente luxure dans le balancement de ses hanches vastes, dans ses claquements provocateurs de langue, dans le jeu de ses paupières bordées de longs cils, tantôt retombées comme dans une extase, tantôt levées sur des yeux blancs, où le regard étincelle de colère ou de dédain ; ses domestiques noirs qu'elle traite comme des animaux, mais auxquels elle donne des livrées dignes de la Cour ; son luxe, ses toilettes, ses fantaisies ruineuses, les suicides des hommes qu'elle a désespérés par son mépris ou ses caprices, tout lui a fait une célébrité inouïe. Elle se croit reine et elle agit en despote. Combien a-t-elle brisé de mariages et fait pleurer de confiantes fiancées ! Personne n'ose élever la voix contre elle. Il a fallu que le fils du gouverneur s'éprit de cette femme pour que le père alarmé et furieux d'une telle liaison menaçât la courtisane de la faire arrêter et de déchirer l'acte qui l'affranchissait. Alors pour quelques mois elle a abandonné sa magnifique maison et s'est retirée dans ce logis à demi secret qu'elle m'indique dans sa lettre, ne sortant plus et condamnant sa porte à son ancien amoureux afin d'apaiser le père. Je ne connais pas d'être qui me répugne davantage que cette Dodue-Fleurie. Zinga m'irrite ; Zinga m'effraie ; Zinga me rappelle d'atroces souvenirs ; mais que de fois l'ai-je sentie liée et dévouée à mon être, soit qu'une caresse me l'eût conquise, soit que la beauté de mon corps ou la supériorité de ma race exerce sur son esprit quelque fascination, soit enfin que le fouet, quand il m'est arrivé d'en user avec elle, lui ait fait comprendre la force de ma volonté. Mais je n'ai jamais vu cette Dodue-Fleurie, sans ressentir comme un soulèvement de dégoût ; toute sa personne me révolte ; sous ses cotillons de soie brochés d'or et parfumés à la poudre à la maréchale, je sens une odeur d'huile et de chair mal lavée. Elle me produit l'impression d'une latrine décorée somptueusement, et pourtant, moi comme les autres, je me sens dominée par elle, et si elle me regarde en face, à la promenade, je baisse les yeux. Ah ! il ne fallait pas affranchir un pareil monstre ; c'est comme si on ouvrait un cloaque, on serait vite infecté par son débordement. Mais vais-je être injuste, envers l'être qui va sauver mon Antoinette ; ne puis-je dominer ma répugnance et accepter, quel qu'il soit, le recours que m'envoie le Ciel !</p>
+          <ref target="#FRA06001_N4"/>. Il n'est point de négociants, de voyageurs de passage à Saint-Domingue qui manquent d'aller souper avec Dodue-Fleurie ; ils croiraient même ignorer les délices de l'île s'ils n'obtenaient, à prix d'or, une de ses nuits où, dit-on, elle ne se montre jamais oisive. La lourde volupté que dégage son corps lorsqu'elle se promène dans les rues et les jardins du Cap ; tout ce qu'il y a de grossière et ardente luxure dans le balancement de ses hanches vastes, dans ses claquements provocateurs de langue, dans le jeu de ses paupières bordées de longs cils, tantôt retombées comme dans une extase, tantôt levées sur des yeux blancs, où le regard étincelle de colère ou de dédain ; ses domestiques noirs qu'elle traite comme des animaux, mais auxquels elle donne des livrées dignes de la Cour ; son luxe, ses toilettes, ses fantaisies ruineuses, les suicides des hommes qu'elle a désespérés par son mépris ou ses caprices, tout lui a fait une célébrité inouïe. Elle se croit reine et elle agit en despote. Combien a-t-elle brisé de mariages et fait pleurer de confiantes fiancées ! Personne n'ose élever la voix contre elle. Il a fallu que le fils du gouverneur s'éprit de cette femme pour que le père alarmé et furieux d'une telle liaison menaçât la courtisane de la faire arrêter et de déchirer l'acte qui l'affranchissait. Alors pour quelques mois elle a abandonné sa magnifique maison et s'est retirée dans ce logis à demi secret qu'elle m'indique dans sa lettre, ne sortant plus et condamnant sa porte à son ancien amoureux afin d'apaiser le père. Je ne connais pas d'être qui me répugne davantage que cette Dodue-Fleurie. Zinga m'irrite ; Zinga m'effraie ; Zinga me rappelle d'atroces souvenirs ; mais que de fois l'ai-je sentie liée et dévouée à mon être, soit qu'une caresse me l'eût conquise, soit que la beauté de mon corps ou la supériorité de ma race exerce sur son esprit quelque fascination, soit enfin que le fouet, quand il m'est arrivé d'en user avec elle, lui ait fait comprendre la force de ma volonté. Mais je n'ai jamais vu cette Dodue-Fleurie, sans ressentir comme un soulèvement de dégoût ; toute sa personne me révolte ; sous ses cotillons de soie brochés d'or et parfumés à la poudre à la maréchale, je sens une odeur d'huile et de chair mal lavée. Elle me produit l'impression d'une latrine décorée somptueusement, et pourtant, moi comme les autres, je me sens dominée par elle, et si elle me regarde en face, à la promenade, je baisse les yeux. Ah ! il ne fallait pas affranchir un pareil monstre ; c'est comme si on ouvrait un cloaque, on serait vite infecté par son débordement. Mais vais-je être injuste, envers l'être qui va sauver mon Antoinette ; ne puis-je dominer ma répugnance et accepter, quel qu'il soit, le recours que m'envoie le Ciel !</p>
         <p>Dès que j'eus pris connaissance de la lettre, je dis à la petite négrillonne que j'irais trouver sa maîtresse, le soir même. Aussitôt elle s'inclina, fît une pirouette de bouffonne, stylée à divertir sa maîtresse, et remonta dans le palanquin qui redescendit très vite vers le Cap, sur les épaules de ses porteurs.</p>
         <p>Je n'avais pas hésité un seul instant à lui donner cette réponse ; l'humiliation d'une pareille démarche ne me coûtait pas, ou plutôt j'avais le pressentiment que cette femme allait me parler d'Antoinette et cela seul suffisait à m'attirer chez elle. Peut-être aussi ai-je senti dans sa lettre ce mystérieux pouvoir qu'elle exerce sur tous et auquel il faut se soumettre, malgré soi.</p>
         <p>Je passai la journée avec ma chère enfant ; elle s'était remise peu à peu de son émotion, mais quand elle sut que son amie Agathe avait disparu, elle sanglota et rien ne put la consoler. Il fallait que j'eusse toutes ces inquiétudes et qu'elle m'occupât à ce point l'esprit, pour souffrir si courageusement les horribles douleurs d'entrailles qui vinrent me tourmenter. Je m'imaginais qu'un cercle de fer me comprimait, me rétrécissait le ventre de moment en moment ; le mal avait des élans brusques et des coups féroces. Parfois j'aurais eu envie de me rouler par terre tant je souffrais, et je cachais ma torture à Antoinette de crainte de l'ennuyer. Une minute il me fut impossible de dissimuler. Elle m'interrogea, « Oh ! ce ne sera rien, » lui-dis-je. En réalité je ne m'expliquais point ce mal subit ; et je me rappelai un fait dont le docteur Chiron m'avait parlé, peu de jours avant : l'empoisonnement d'une maîtresse par ses esclaves. Etais-je aussi, moi, empoisonnée ? La crainte de laisser paraître une inquiétude vaine lorsque je m'étais montrée d'abord si tranquille, m'empêcha d'appeler le docteur. Je pensai qu'il se moquerait de moi.</p>

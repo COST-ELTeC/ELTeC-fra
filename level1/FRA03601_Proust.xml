@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03601" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03601" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <!-- Word count: tokens as counted in text split on "\W+" -->
+        
         <measure unit="words">181469</measure>
       </extent>
       <publicationStmt>
@@ -33,7 +30,7 @@
 </publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
-          <!-- Collection À tous les vents -->
+          
           <date>digital</date>
           <ref target="http://www.beq.ebooksgratuits.com/"/>
         </bibl><bibl type="printSource">
@@ -44,7 +41,7 @@
           <pubPlace>Paris</pubPlace>
           <publisher>Grasset</publisher>
           <date>1913</date>
-          <!-- revised edition Paris: Gallimard, 1919 -->
+          
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
