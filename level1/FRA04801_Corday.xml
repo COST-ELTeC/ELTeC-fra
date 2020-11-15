@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count : tokens as counted in text split on "\W+" -->
         <measure unit="words">35151</measure>
       </extent>
       <publicationStmt>
@@ -41,7 +41,11 @@
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
-      
+      <!--
+        <p>NOTES SUR LA TRANSCRIPTION :</p>
+        <p>— Les erreurs clairement introduites par le typographe ont été corrigées.</p>
+        <p>— On a conservé l'orthographie de l'original, incluant ses variantes.</p>
+    -->
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -56,7 +60,7 @@
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short"/>
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low"/>
-        
+        <!-- Reprints 1970-2009: None. Before 1970: 1937. After 2009: 2017 (Forgotten Books). -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>

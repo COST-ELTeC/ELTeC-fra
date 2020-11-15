@@ -16,9 +16,9 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">31172</measure>
-        
+        <!-- from Gallica record -->
         <measure unit="pages">258</measure>
       </extent>
       <publicationStmt>
@@ -60,7 +60,7 @@
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short"/>
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="high"/>
-        
+        <!-- Reprints 1970-2009: 2001. Before 1970: 1909, 1916, 1917, 1919, 1920, 1923, 1926, 1928, 1930, 1934, 1937, 1939, 1941, 1943, 1946, 1947, 1957, 1966, 1967, 1968. After 2009: 2012, 2013, 2015. -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
@@ -71,7 +71,7 @@
   </teiHeader>
   <text>
     <front>
-      
+      <!-- added from Gallica online facsimile by LB-->
       <div type="titlepage">
         <p>COLETTE BAUDOCHE </p>
         <p>HISTOIRE D'UNE JEUNE FILLE DE METZ </p>
@@ -98,7 +98,7 @@
 
     <body>
       <div type="chapter">
-        
+        <!-- apparently only one chapter -->
         <p>Il n'y a pas de ville qui se fasse mieux aimer que Metz. Un Messin français à qui l'on rappelle sa cathédrale, l'Esplanade, les rues étroites aux noms familiers, la Moselle au pied des remparts et les villages disséminés sur les collines, s'attendrit. Et pourtant ces gens de Metz sont de vieux civilisés, modérés, nuancés, jaloux de cacher leur puissance d'enthousiasme. Un passant ne s'explique pas cette émotion en faveur d'une ville de guerre, où il n'a vu qu'une belle cathédrale et des vestiges du dix-huitième siècle, auprès d'une rivière agréable. Mais il faut comprendre que Metz ne vise pas à plaire aux sens ; elle séduit d'une manière plus profonde : c'est une ville pour l'âme, pour la vieille âme française, militaire et rurale.</p>
         <p>Les statues de Fabert et de Ney, que sont venues rejoindre celles de Guillaume le Ier et, de Frédéric-Charles, étaient entourées du prestige qu'on accorde aux pierres tutélaires. On se montrait les héros des grandes guerres sur les places où les officiers allemands exercent aujourd'hui leurs recrues. Les édifices civils gardent encore la marque des ingénieurs de notre armée ; c'est partout droiture et simplicité, netteté des frontons sculptés, aspect rectiligne de l'ensemble. D'un bord â l'autre de la place Royale, le palais de justice s'accorde fraternellement avec la caserne du génie ; les maisons bourgeoises, elles-mêmes, se rangent â l'alignement, et, sous les arcades de la place Saint-Louis, on croit sentir une discipline. Cet esprit s'étend sur la douce vallée mosellane. Depuis l'Esplanade, on devine sous un ciel nuageux douze villages vignerons, baignés ou mirés dans la Moselle, et qui nous caressent, comme elle, par la douceur mouillée de leurs noms : Sey, qui donne le premier de nos vins ; Rozérieulles, où chaque maison possède sa vigne ; Woippy, le pays des fraises ; Lorry, que ses mirabelles enrichissent ; tous chargés d'arbres à fruits qui semblent les abriter et les aimer. Mais les collines où ils s'étagent ont leurs têtes aplanies : c'est qu'elles sont devenues les forts de Plappeville, de Saint-Quentin, de Saint-Blaise et de Sommy.</p>
         <p>Les Messins d'avant la guerre, tous soldats ou parents de soldats, vivaient en rapports journaliers avec la région agricole. Les rentiers y avaient leurs fermes, les marchands leurs acheteurs, et la plus modeste famille rêvait d'une maison de campagne où, chaque automne, on irait surveiller la vendange. Tout cela composait une atmosphère très propre â la conservation du vieux type français. Qui n'a pas connu, médité cette ville, ignore peut-être la valeur d'une civilisation formée dans les mœurs de l'agriculture et de la guerre. Les Lorrains émigrés ne regrettent pas simplement des paysages, des habitudes, une société dispersée, ils croient avoir laissé derrière eux quelque chose de leur santé morale.</p>

@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">188983</measure>
       </extent>
       <publicationStmt>
@@ -54,7 +54,7 @@
       <textClass>
         <keywords>
           <term type="narrative-perspective">homodiegetic</term>
-          
+          <!-- Clearly homodiegetic in the beginning, less obvious later. -->
         </keywords>
       </textClass>
       <textDesc>

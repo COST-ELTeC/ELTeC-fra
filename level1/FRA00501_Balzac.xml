@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">42274</measure>
       </extent>
       <publicationStmt>
@@ -39,7 +39,7 @@
           <pubPlace>Paris</pubPlace>
           <publisher>Furne, J.-J. Dubochet et Cie, J. Hetzel et Paulin</publisher>
           <date>1842</date>
-          
+          <!-- 1842-1848, vol. 1: 1842 -->
         </bibl><bibl type="firstEdition">
           <title>Albert Savarus</title>
           <author>Honoré de Balzac</author>
@@ -768,7 +768,7 @@
     </body>
     <back>
       <div type="notes">
-        
+        <!-- This notes does not seem to have an anchor, neither in the digitalSource nor in the firstEdition. -->
         <note>Nous n'ignorons pas que le culte de sainte Philomène n'a commencé qu'après la Révolution de 1830 en Italie. Cet anachronisme, à propos du nom de mademoiselle de Watteville, nous a paru sans importance ; mais il a été si remarqué par des personnes qui voudraient une entière exactitude dans cette histoire de mœurs, que l'auteur changera ce détail aussitôt que faire se pourra.</note>
       </div>
     </back>

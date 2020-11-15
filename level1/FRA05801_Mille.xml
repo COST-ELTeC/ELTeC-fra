@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">49700</measure>
       </extent>
       <publicationStmt>
@@ -31,7 +31,7 @@
       <sourceDesc><bibl type="digitalSource">
           <publisher>Gallica (BnF)</publisher>
           <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61362974"/>
-          
+          <!-- Apparently derived by OCR from <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61362974"/> -->
         </bibl><bibl type="printSource">
           <author>Pierre Mille</author>
           <title>Louise et Barnavaux</title>
@@ -58,7 +58,7 @@
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short"/>
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low"/>
-        
+        <!-- Reprints 1970-2009: None. After 2009: 2015 ("Forgotten Books"), 2013 (Hachette-BnF). -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>

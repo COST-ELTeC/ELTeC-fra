@@ -21,7 +21,7 @@
 				</respStmt>
 			</titleStmt>
 			<extent>
-				
+				<!-- Word count: tokens as counted in text split on "\W+" -->
 				<measure unit="words">35097</measure>
 			</extent>
 			<publicationStmt>
@@ -59,7 +59,7 @@
 			<textClass>
 				<keywords>
 					<term type="narrative-perspective">heterodiegetic</term>
-					
+					<!-- Only the first chapter is in autodiegetic mode. -->
 				</keywords>
 			</textClass>
 			<textDesc>

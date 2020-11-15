@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">43357</measure>
       </extent>
       <publicationStmt>
@@ -51,7 +51,7 @@
       <textClass>
         <keywords>
           <term type="narrative-perspective">heterodiegetic</term>
-          
+          <!-- Curious novel with lots of drama-style dialogue. -->
         </keywords>
       </textClass>
       <textDesc>

@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">105395</measure>
       </extent>
       <publicationStmt>
@@ -31,7 +31,7 @@
       <sourceDesc><bibl type="digitalSource">
           <publisher>Wikisource</publisher>
           <ref target="http://www.fr.wikisource.org"/>
-          
+          <!-- via Feedbooks. -->
         </bibl><bibl type="printSource">
           <title>Salammbô</title>
           <author>Gustave Flaubert</author>
@@ -59,7 +59,7 @@
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
         <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        
+        <!-- worldcat.py error, not clear why -->
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>

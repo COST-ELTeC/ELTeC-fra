@@ -6,7 +6,7 @@
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Blondine, roman nouveau : édition ELTeC</title>
         <author ref="viaf:(inexistent)">de Valgand, Cécile [Piolenc, Cécile Marchand-Caruë, Mise de]</author>
-        
+        <!-- The years of birth and death of this author could not be identified. -->
         <respStmt>
           <resp>Principal investigator</resp>
           <name>Christof Schöch</name>
@@ -21,7 +21,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">49025</measure>
       </extent>
       <publicationStmt>

@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">31143</measure>
       </extent>
       <publicationStmt>
@@ -45,7 +45,7 @@
           <date>1857</date>
         </bibl><bibl type="firstEdition">
           <date>1856</date>
-          
+          <!-- Certainement 1856 en feuilleton; éventuellement déjà en volume en 1856. -->
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
@@ -64,7 +64,7 @@
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short"/>
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low"/>
-        
+        <!-- Reprints 1970-2009: None. Before 1970: 1856, 1857, 1862, 1863, 1869, 1871, 1877, 1893 . After 2009: 2017 (Forgotten Books), 2018 (Hachette-BnF). -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>

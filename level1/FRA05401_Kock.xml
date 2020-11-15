@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count : tokens as counted in text split on "\W+" -->
         <measure unit="words">99323</measure>
       </extent>
       <publicationStmt>
@@ -37,7 +37,7 @@
           <date>1850</date>
         </bibl><bibl type="firstEdition">
           <date>1849</date>
-          
+          <!-- Best guess; might be earlier! -->
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
@@ -56,7 +56,7 @@
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="medium"/>
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="high"/>
-        
+        <!-- Reprints 1970-2009: 1994. After 2009: 2017 (Forgotten Books). Before 1970: 1904, 1869, 1850, 1849. -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>

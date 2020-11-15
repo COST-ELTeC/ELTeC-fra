@@ -12,7 +12,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">87744</measure>
       </extent>
       <publicationStmt>
@@ -39,7 +39,7 @@
           <title>Le petit chose</title>
           <author>Alphonse Daudet</author>
           <date>1867</date>
-          
+          <!--(1866-1867)-->
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">

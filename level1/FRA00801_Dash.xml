@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Le château de Pinon I : édition ELTeC</title>
-        
+        <!-- Alternative title for the same text: "Le Salon du diable" -->
         <author ref="viaf:102278 wikidata:missing">Dash, Comtesse [Gabrielle Anna de Cisternes de Courtiras, vicomtesse de Saint-Mars] (1804-1872)</author>
         <respStmt>
           <resp>Encoding</resp>
@@ -21,7 +21,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">45263</measure>
         <measure unit="pages">332</measure>
         <measure unit="vols">2</measure>
@@ -47,10 +47,10 @@
           <author>Competesse Dash</author>
           <publisher>Desessart 22, RUE DES GRANDS-AUGUSTINS</publisher>
           <pubPlace>Paris</pubPlace>
-          
+          <!-- Gallica entered wrong date. Original date for print source according to scan : 1843 -->
           <date>1844</date>
         </bibl><bibl type="firstEdition">
-          
+          <!-- best guess -->
           <title>Le château de Pinon I. VOL 1.</title>
           <author>Competesse Dash</author>
           <publisher>Desessart 22</publisher>

@@ -22,7 +22,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">38804</measure>
       </extent>
       <publicationStmt>
@@ -47,7 +47,7 @@
           <pubPlace>Paris</pubPlace>
           <date>1856</date>
         </bibl><bibl type="firstEdition">
-          
+          <!-- best guess -->
           <date>1855</date>
         </bibl></sourceDesc>
     </fileDesc>
@@ -61,7 +61,7 @@
       <textClass>
         <keywords>
           <term type="narrative-perspective">homodiegetic</term>
-          
+          <!-- Maybe even heterodiegetic -->
         </keywords>
       </textClass>
       <textDesc>

@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">53060</measure>
       </extent>
       <publicationStmt>
@@ -54,14 +54,14 @@
       <textClass>
         <keywords>
           <term type="narrative-perspective">heterodiegetic</term>
-          
+          <!-- Heterodiegetic dominates, but there is a frame narrative. -->
         </keywords>
       </textClass>
       <textDesc>
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="medium"/>
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="high"/>
-        
+        <!-- Reprints 1970-2009: 1978, 1985, 1996, 1996. After 2009: 2017. -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>

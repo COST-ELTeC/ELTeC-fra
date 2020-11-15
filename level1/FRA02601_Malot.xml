@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">70236</measure>
       </extent>
       <publicationStmt>
@@ -32,7 +32,7 @@
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
           <ref target="http://beq.ebooksgratuits.com"/>
         </bibl><bibl type="printSource">
-          
+          <!-- "édition nouvelle" -->
           <pubPlace>Paris</pubPlace>
           <publisher>Librairie Ch. Delagrave</publisher>
           <date>1884</date>

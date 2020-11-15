@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">125179</measure>
       </extent>
       <publicationStmt>
@@ -35,7 +35,7 @@
         </bibl><bibl type="printSource">
           <title>Un capitaine de quinze ans</title>
           <author>Jules Verne</author>
-          
+          <!-- The exact edition used is unknown. -->
         </bibl><bibl type="firstEdition">
           <title>Un capitaine de quinze ans</title>
           <author>Jules Verne</author>

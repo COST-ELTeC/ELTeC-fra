@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">77338</measure>
       </extent>
       <publicationStmt>
@@ -30,11 +30,11 @@
 </publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           <publisher>Ebooks libres et gratuits</publisher>
-          
+          <!-- originally Feedbooks -->
         </bibl><bibl type="printSource">
           <title>Une vie</title>
           <author>Guy de Maupassant</author>
-          
+          <!-- The exact edition that was used is unknown. -->
         </bibl><bibl type="firstEdition">
           <title>Une vie</title>
           <author>Guy de Maupassant</author>
@@ -55,7 +55,7 @@
         <keywords>
           <term type="narrative-perspective">heterodiegetic</term>
           <term type="subgenre">Bildungsroman</term>
-          
+          <!-- Or Anti-Bildungsroman -->
         </keywords>
       </textClass>
       <textDesc>

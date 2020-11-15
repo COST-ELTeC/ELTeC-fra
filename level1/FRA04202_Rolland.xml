@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:219192997 wikidata:Q2476841">Jean-Christophe : édition ELTeC</title>
-        
+        <!-- All 10 tomes of Jean-Christophe -->
         <author ref="viaf:71397100 wikidata:Q47162">Rolland, Romain (1866-1944)</author>
         <respStmt>
           <resp>Principal investigator</resp>
@@ -21,7 +21,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">587440</measure>
         <measure unit="vols">10</measure>
       </extent>
@@ -38,7 +38,7 @@
           <publisher>CLiGS</publisher>
           <ref target="https://cligs.hypotheses.org"/>
           <date>2016</date>
-          
+          <!-- 10 tomes: rv0771, rv0772, rv0773, rv0774, rv0775, rv0776, rv0777, rv0778, rv0779, rv0780.  -->
         </bibl><bibl type="digitalSource">
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
           <ref target="http://beq.ebooksgratuits.com"/>
@@ -46,10 +46,10 @@
         </bibl><bibl type="printSource">
           <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k9782125h"/>
           <date>1931-1934</date>
-          
+          <!-- Not sure this is really the print source. -->
         </bibl><bibl type="firstEdition">
           <date>1912</date>
-          
+          <!-- 10 tomes: 1904-1912 -->
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">

@@ -12,7 +12,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">104131</measure>
       </extent>
       <publicationStmt>
@@ -26,7 +26,7 @@
 </publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           <publisher>(unspecified)</publisher>
-          
+          <!-- "Scan" -->
           <date>2014</date>
         </bibl><bibl type="firstEdition">
           <date>1886</date> ,

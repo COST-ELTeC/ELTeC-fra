@@ -21,7 +21,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">51537</measure>
       </extent>
       <publicationStmt>
@@ -46,7 +46,7 @@
           <pubPlace>Paris</pubPlace>
           <date>1893</date>
         </bibl><bibl type="firstEdition">
-          
+          <!-- best guess -->
           <title>Fleurs d'Orient</title>
           <author>Judith Gautier</author>
           <publisher>A. Colin</publisher>

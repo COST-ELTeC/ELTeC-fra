@@ -20,7 +20,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">177144</measure>
       </extent>
       <publicationStmt>
@@ -37,7 +37,7 @@
           <author>Auguste Maquet</author>
           <publisher>Gallica (BnF)</publisher>
           <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5834334t"/>
-          
+          <!-- BnF, Littérature et art, Y2-3775 -->
           <date>2010-05-04</date>
         </bibl><bibl type="printSource">
           <title>La Maison du baigneur</title>
@@ -47,7 +47,7 @@
           <date>1875</date>
         </bibl><bibl type="firstEdition">
           <date>1857</date>
-          
+          <!-- Source : https://fr.wikipedia.org/wiki/Auguste_Maquet-->
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
@@ -71,7 +71,7 @@
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long"/>
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low"/>
-        
+        <!-- Reprints 1970-2009: None. After 2009: 2016 (Hachette-BnF). Before 1970: Lots in the 1850s! -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
@@ -92,7 +92,7 @@
     <body>
       <div type="liminal">
         <gap rend="figure"/>
-        
+        <!-- — Ne craignez rien, monsieur du Bourdet, j'en aurai soin comme sa mère. -->
       </div>
       <div type="chapter">
 
@@ -628,7 +628,7 @@
         <p>— Qui rêve toujours, ne parle jamais, et trouve moyen de s'ennuyer près d'une Espagnole de quinze ans sous le ciel de France !... Non, certes, rien ; j'aime la joie, moi, j'aime la vie !...</p>
         <p>— Ce sera un coup terrible pour mon frère, dit Cadenet abattu.</p>
         <p>— Tu as raison, Cadenet, et je ne souffrirai pas qu'un brave compagnon tel que toi fronce un moment le sourcil par ma faute. Il y a cent oiseaux environ, tous inconnus en
-          <gap unit="figure" extent="1"/>  France. Laisse-m'en cinquante, et je vais t'en envoyer cinquante dont ton frère fera tout ce qu'il voudra.</p>
+          <gap unit="figure" extent="1"/> <!-- Il cassait des noix pour le convive --> France. Laisse-m'en cinquante, et je vais t'en envoyer cinquante dont ton frère fera tout ce qu'il voudra.</p>
         <p>— Est-ce vrai ? s'écria Cadenet, rouge de plaisir.</p>
         <p>— Vrai, sur mon âme. Ma fiancée aura bien assez de divertissement avec cinquante oiseaux. Sans compter que je ne ferai pas comme le roi, moi, et que je veux être un mari près duquel on ne s'ennuie guère.</p>
         <p>— Cher ami ! brave ami ! Je cours annoncer cette bonne nouvelle à Luynes, qui viendra lui-même te remercier. À propos, le prix ?... Fais-nous payer comme si c'était pour le roi.</p>
@@ -794,7 +794,7 @@
         <p>Reçu à l'entrée de ses appartements par ses valets et ses familiers,il refusa les soins de tous, ne se laissa pas même déshabiller, et passa dans son cabinet où, après quelques moments de rêverie, il fit appeler le bailli du Palais,, homme d'un cœur à l'épreuve, sa . créature et son premier officier.</p>
         <p>— Oui, murmura-t-il tandis que l'huissier courait exécuter son ordre ; oui, le moment est venu ; il le faut !... Dieu m'est témoin !.., Et il leva son œil éteint vers un grand christ, seul et saint ornement de ces murailles sévères : Vous m'êtes témoin, mon Dieu ! que je ne cède pas à un ressentiment particulier, au vulgaire désir de satisfaire une vengeance peut-être légitime ; non ! je vois cet État perdu, ce peuple écrasé, ce roi menacé d'une chute honteuse. Lui, pauvre enfant que m'avait recommandé son père ! Eh bien ! c'est tout cela qu'il faut sauver. Ainsi donc, après six années de patience, de douleurs, me voilà remis en face de la même angoisse, du même doute. La terrible alternative qui se dressa devant moi en 1610 m'apparaît de nouveau, et plus menaçante encore cette fois ! Alors, je tenais sous ma main tous les assassins de mon malheureux maître ; j'avais l'accusatrice ardente et forte, car mademoiselle de Coman n'eût reculé devant rien ; j'avais les témoins. D'un signe, d'un geste, je faisais tomber les plus criminelles,
           <gap rend="figure"/>
-           les plus hautes têtes de ce royaume, et toute là France, qui les soupçonnait, sans oser les demander au bourreau, m'eût béni. L'on eût élevé des statues à mon courage.</p>
+          <!--Prenez garde, dit d'Espernon.--> les plus hautes têtes de ce royaume, et toute là France, qui les soupçonnait, sans oser les demander au bourreau, m'eût béni. L'on eût élevé des statues à mon courage.</p>
         <p>M. de Harlay s'avança vers le crucifix les mains jointes.</p>
         <p>— Alors, continuait-il, vous le savez, Dieu éternel, ici-même, à vos pieds, je vous demandai un rayon de votre infaillible sagesse. Valait-il mieux absoudre que de frapper ? Valait-il mieux entourer ce trône chancelant, d'oubli, de silence, de pardon ; que de l'arroser de sang ? Était-ce plutôt mon devoir de garder, malgré ce que je savais, la mère pour défendre son fils, que de livrer ce fils à toutes les ambitions, toutes les rivalités des princes et des huguenots, purs assurément de crimes, mais accoutumés à convoiter le trône à travers les guerres civiles ? Je choisis librement, froidement. L'accusatrice fut sacrifiée. Mademoiselle de Coman expie dans une prison éternelle son innocence et le malheur d'avoir pénétré l'épouvantable secret. Seulement les scélérats voulaient m'arracher sa vie, et moi, en la laissant vivre, par justice, j'ai gardé aujourd'hui un suprême moyen de les punir. Les deux témoignages que j'avais alors pour soutenir mademoiselle de Coman, je les ai toujours. L'un est si terrible, il touche si haut, que ma conscience recule encore devant l'usage qu'un fils en aurait à faire. Ce coup, réservons-le. Essayons de ne le point porter. Le second témoignage peut suffire ; arme maniée d'une main ferme, il fera justice des assassins dorés, des coquins subalternes, qui se croient bien grands aujourd'hui parce que je les ai laissés pousser, champignons vénéneux, dans l'indifférence et dans les ténèbres, et qui osent insulter ma toge parce qu'ils 'pensent que je n'ai rien gardé sous ses plis... Ceux-là, je ne veux pas même salir l'échafaud de leur sang. Je rassemblerai mes preuves en silence ; je tiendrai le flambeau d'une main, le fouet ;de l'autre, et leur offrirai à choisir. Ils choisiront le fouet. Qu'ils partent, qu'ils disparaissent, sauvant leur tête ignoble, après avoir dégorgé tout notre or. Oh ! ce sera un beau jour ! La patrie l'attend... Et, après ce dernier effort, après ce .dernier service, personne ne pourra plus rien exiger de ma vieillesse, et, serviteur fatigué, j'aurai le droit de m'endormir. Le président se promena lentement, les : bras croisés, dans la vaste salle. — La besogne n'est pas faite, se dit-il ; ce second témoignage, il faut l'obtenir de la bouche qui me l'a fourni en 1610. Et depuis ce temps, que de choses se sont passés ! Le cœur alors généreux ne se sera-t-il pas livré à nos ennemis ? Est-il glacé par la mort ? Ou bien, ce qui est aussi dangereux et plus probable, ne sera-t-il pas engourdi dans le calme d'une vie heureuse, retirée, que je lui conseillai moi-même alors, en lui enjoignant le plus impénétrable silence ? Et, en ce cas, il reculera devant les risques d'une généreuse action ; il préférera le bonheur au devoir. N'importe, j'essayerai. Je le manderai près de moi. C'était une âme honnête, un talent pur, et dans sa carrière d'avocat au parlement, je lui ai rendu quelques services. Peut-être aurai-je conservé sur lui quelque influence, soit que le chef s'adresse à son honneur, soit que le bienfaiteur parle à sa reconnaissance.</p>
         <p>On frappa doucement à la porte du cabinet.</p>
@@ -955,7 +955,7 @@
         <p>— Écrivez, monseigneur : — « L'an 1610, le premier jour de mai, c'est-à-dire treize jours avant la mort du roi, moi, Claude Jacques du Bourdet, avocat au Parlement, passant dans la rue Saint-Antoine pour rentrer chez moi, rue de la Couture-Sainte Catherine, je fis la rencontre d'une femme que je connaissais demoiselle de compagnie de madame la marquise de Verneuil, et qui s'appelle mademoiselle de Coman. Je l'abordai, bien qu'il fût tard et qu'elle parût chercher à m'éviter. Elle était accompagnée d'un homme grand et fort, âgé d'environ trente à trente-cinq ans, barbe rouge et cheveux noirs, qu'elle me dit avoir commission de sa maîtresse de conduire loger dans la maison d'un baigneur nommé la Vienne... »</p>
         <p>— Trouvez-vous à propos d'ajouter, interrompit le président, ce que, je m'en souviens, vous m'avez dit il y a six ans, à savoir : que
           <gap rend="figure"/>
-           ce la Vienne était en même temps valet dé pied chez le roi, et l'un de ceux qui, si malencontreusement, quittèrent le carrosse de Sa Majesté au moment de l'embarras des voitures dans la rue de la Féronnerie ?</p>
+          <!--«- Que ferai-je de cette plume ? — Page 560.--> ce la Vienne était en même temps valet dé pied chez le roi, et l'un de ceux qui, si malencontreusement, quittèrent le carrosse de Sa Majesté au moment de l'embarras des voitures dans la rue de la Féronnerie ?</p>
         <p>— Parfaitement, monseigneur, excusez-moi, je l'avais oublié.</p>
         <p>— Continuez... J'ai écrit...</p>
         <p>« — Laquelle maison est située rue de la Cerisaie, près la place Royale, sur l'emplacement du fort bel hôtel bâti par un seigneur étranger, après la mort duquel il fut rasé complètement. »</p>
@@ -1351,7 +1351,7 @@
         <p>— Leur prétexte ? demanda la reine timidement, i</p>
         <p>— Diverses subtilités, dit l'Espagnol, que la vérité embarrassait.</p>
         <p>— Allons, madame, il faut en finir, du courage, glissa d'Espernon à l'oreille de Marie de Médicis, N'attendez pas que cette armée soit en bataille.
-          <gap rend="figure"/> 
+          <gap rend="figure"/> <!-- Otez-lui ses chefs. — C'est un homme hardi — Page 573.-->
         </p>
         <p>— Faites-<emph>nous</emph> libres une bonne fois, souffla Concini à l'autre oreille.</p>
         <p>— C'est l'affaire d'un moment pour arrêter tous les princes, ajouta d'Espernon, Il suffit de douze hommes résolus commandés par moi, et je dispose d'au moins soixante.</p>
@@ -1522,7 +1522,7 @@
         <p>— Ah ! madame, dit don Luis d'une voix tremblante, vous vous perdez, vous me perdriez avec vous si je vous laissais faire. Allons, enfant, sois homme pour une minute, viens avec moi. Ta mère te suivra, j'en suis sûr.</p>
         <p>L'enfant comprit et s'élança vers la porte. La maréchale au désespoir trépigna sur ses coffrets, sur ses reliques, mais suivit son fils et poussa de sourdes imprécations. On descendit ainsi l'escalier ; mais il était trop tard, la foule, semblable aux lames échevelées qui déferlent sur les grèves dans la tempête, fondait à la fois sur la maison, par la rue, par les jardins, par le voisinage. Picard, ressuscité, conduisait l'émeute. Sa voix infernale dominait toutes les autres.</p>
         <gap unit="figure" extent="1"/>
-        
+        <!-- Tout, cette fois, éta it Lien perdu. -->
         <p>— Nous sommes morts ! dit Leonora.</p>
         <p>Le comte jeta autour de lui un regard sûr et rapide.</p>
         <p>— Comment ne sont-ils pas encore montés ? se demanda-t-il en prêtant l'oreille, qui peut les retenir en bas ?</p>
@@ -1664,7 +1664,7 @@
         <p>— Ce fut, dit-on, à Fontainebleau, dans le palais même, aux environs de l'Orangerie, la veille du jour où vint mourir à Paris la belle Gabrielle.</p>
         <p>— Cet ami de M. de Pontis était sans doute un officier, un gentilhomme comme lui ? demanda Aubin.</p>
         <p>— C'était un jeune seigneur accompli, dont la fortune était immense, la naissance quasi royale, un ami du feu roi, que toute la cour recherchait pour son esprit, sa magnificence et sa rare beauté. On l'appelait Espérance, une sorte de surnom sous lequel il dissimulait-, disait-on, l'origine la plus illustre. Ce jeune homme était surtout aimé de
-          <gap unit="figure" extent="1"/>  M. de Crillon, qui, après sa mort, quitta la cour et se retira chez lui à Avignon. L'histoire de ce combat mystérieux ne s'est jamais répandue. Je l'ai sue, moi, à cause d'un commencement d'enquête que la ville de Fontainebleau avait cru devoir faire, et qui fut arrêtée court par ordre du roi.</p>
+          <gap unit="figure" extent="1"/> <!-- B rnanJ entendit qiioljife eliuse sautrr. --> M. de Crillon, qui, après sa mort, quitta la cour et se retira chez lui à Avignon. L'histoire de ce combat mystérieux ne s'est jamais répandue. Je l'ai sue, moi, à cause d'un commencement d'enquête que la ville de Fontainebleau avait cru devoir faire, et qui fut arrêtée court par ordre du roi.</p>
         <p>— Je comprends parfaitement, dit Bernard. Le roi, qui aimait ce jeune seigneur, aura pris M. de Pontis en disgrâce.</p>
         <p>— Nullement... Le roi a tout fait pour rappeler à lui votre oncle et lui faire oublier son malheur ; car, je vous -le répète, l'amitié qui unissait ces deux gens était proverbiale à la cour. Espérance avait sauvé la vie à Pontis, il le protégeait, il le logeait. De son côté, Pontis eût donné mille vies pour son protecteur. En sorte que nul n'a jamais bien compris la cause de cette lutte fratricide. Pontis fut nommé deux ans après lieutenant dans les gardes. Il fit avec le roi toutes les campagnes de Savoie. Il avertit Sa Majesté des complots de M. de Biron, auquel même il résista l'épée à la main ; un jour que le maréchal voulait forcer l'armée à trahir son maître. Mais au lieu de revenir à Paris recevoir la récompense de services si éminents, il continua de vivre obscurément en province. Il voyageait beaucoup, et se tint éloigné de la cour avec une obstination que peut-être maintenant vous comprendrez, car. ses regrets sont ineffaçables, car ils ont creusé une plaie éternelle en son cœur, et vous remarquerez que jamais votre oncle ne boit de vin, que jamais il ne rit, que jamais il ne prononce le mot espérance, usant d'une périphrase lorsque l'idée représentée par ce mot vient à s'offrir dans la conversation.</p>
         <milestone unit="section"/>
@@ -1780,7 +1780,7 @@
         <p>— Alors, mademoiselle, dit la tante, surprise de ce mouvement séditieux qu'elle voulut réprimer par quelque sévérité, tâchez d'inspirer vous-même une impression favorable à un jeune homme qu'on dit sage et plein de bons sentiments. Je doute que vous y parveniez avec cette pétulance qui s'allume bien mal à propos chez vous, et que je n'avais pas encore remarquée.</p>
         <p>Mais voilà que ces messieurs entrent dans le jardin. J'ai encore le temps de vous dire que le parti qui se présente n'est pas de ceux qu'une honnête jeune fille laisse échapper sans le regretter longtemps. Conduisez-vous donc si modestement, si convenablement, qu'en cas de déconvenue les loris au moins ne soient pas de votre côté.</p>
         <gap unit="figure" extent="1"/>
-        
+        <!-- Sylvie tendit la main. -->
         <p>Sylvie avait repris son calme et son immobilité comme un bon soldat devant l'ennemi. Elle vit à cinquante pas et détailla Bernard d'un seul coup d'œil, sans pourtant que nul pût dire l'avoir vue lever les yeux, et, le cœur ému, la tête froide, elle répliqua :</p>
         <p>— Merci, ma tante, je tâcherai.</p>
         <p>Bernard, paré d'un habit tourterelle, et, mieux encore, de sa radieuse jeunesse, flanqué d'Aubin qui le tenait par la main, suivait du Bourdet dans l'allée principale.</p>
@@ -1937,7 +1937,7 @@
         <p>D'ailleurs, nous le savons, il n'était plus ambitieux. Certains souffles contraires courbent prématurément les tètes les plus hautaines. Celle-là était plus que courbée. À le voir de loin, médiocre de taille, ferme et vigoureux, irréprochable dans sa tenue de soldat gentilhomme, la botte bien tirée, l'épée bien pendue, le chapeau bien planté, le gant collé à la main, l'on eût cru pouvoir à peine mettre sur cette figure les trente-cinq années qui composaient son âge. Mais s'il approchait, s'il découvrait son front dévasté, avoir ce pli profond creusé entre ses yeux, la froide fixité de son regard d'oiseau, la courbe sévère du nez, la double ride dans laquelle glissait son épaisse moustache argentée ; à voir la bouche inflexible dont l'arc ne se détendait jamais complètement pour sourire, ce n'était plus la jeunesse, ce n'était plus l'ardent courage qu'on lisait sur ces traits flétris, mais la vieillesse aux mépris stoïques, mais le travail pénible d'un esprit découragé, qui combat chrétiennement le désespoir.</p>
         <p>Cette apparition glaça Bernard au premier coup d'œil. Aubin, enfant, n'avait vu dans cet austère visage que la majesté de l'oncle. Du Bourdet ne regretta plus autant ses cinquante ans, dont la fraîcheur enjouée ne marquait souvent que trente-cinq.</p>
         <gap rend="figure"/>
-        
+        <!--Autour de l'enfant bondissaient deux chiens, — Page 614. -->
         <p>Après les premiers embrassements, qui furent tendres et longs ; après l'échange de questions qui renouent les chaînes de famille, interrompues par l'éloignement et l'absence, Pontis, qui déclara n'être point fatigué, fit compliment à du Bourdet sur ses fils, sa maison et sa bonne mine. Les fils, il s'appuyait sur eux ; la maison, il la parcourait ; la bonne mine, elle éclatait aux yeux de Pontis, en avant duquel marchait à reculons le bonhomme, cordialement pénétré de tendresse et de joie.</p>
         <p>Aubin muet, ravi, examinait en levant la tête le noble profil, l'encolure martiale et l'épée chevaleresque, dont le lourd pommeau venait parfois l'avertir, à la hauteur de l'épaule, qu'il avait l'honneur de donner le bras à un héros.</p>
         <p>Du Bourdet se fit expliquer les réparations des redans, contrescarpes et lunettes de Grenoble, détails dans lesquels Pontis se montra excessivement sobre. On découvrit ainsi que l'art des fortifications n'était pas le thème favori de l'oncle ; ce dernier en revenait plus volontiers aux voyages de Bernard et à la ressemblance d'Aubin avec sa mère.</p>
@@ -2116,7 +2116,7 @@
         <p>Du Bourdet, ébranlé, balbutia :</p>
         <p>— Si j'ai eu cet affreux malheur, d'autres peuvent y échapper.</p>
         <p>— Allons ! s'écria Pontis, est-ce que jamais ce qui est bon survit à ce qui est pire ? Est&gt; ce que l'homme ne perd pas toujours en chemin les louis d'or, gardant seulement les sous de cuivre ? Mon frère, quand un corps est brillant, superbe, parfait, quand une âme est généreuse et excellente, quand un esprit rayonne et charme, remarquez bien que ces dons précieux sont autant de chances de ruine et de deuil. La mort choisit toujours et choisit bien sa moisson ! J'ai vu des créatures belles et adorables comme nul n'en retrouvera jamais
-          <gap unit="figure"/>  sur la terre ; admirer ces beautés était une extase, respirer le parfum de ces âmes, c'était respirer le bonheur de la vie éternelle. Il m'a été donné de vivre avec le génie, avec la victoire, avec l'amour incarnés dans des corps humains, habités par de nobles âmes qui m'aimaient... Où est tout cela ?... Pourquoi suis-je seul ? pourquoi voyez-vous mes cheveux blancs ? pourquoi, si vous appuyez la main sur ma poitrine, sentirez-vous le vide du désespoir, là où Dieu aurait pu permettre que je sentisse palpiter mon cœur ?...</p>
+          <gap unit="figure"/> <!-- Il piqua son cheval. — Page 624.--> sur la terre ; admirer ces beautés était une extase, respirer le parfum de ces âmes, c'était respirer le bonheur de la vie éternelle. Il m'a été donné de vivre avec le génie, avec la victoire, avec l'amour incarnés dans des corps humains, habités par de nobles âmes qui m'aimaient... Où est tout cela ?... Pourquoi suis-je seul ? pourquoi voyez-vous mes cheveux blancs ? pourquoi, si vous appuyez la main sur ma poitrine, sentirez-vous le vide du désespoir, là où Dieu aurait pu permettre que je sentisse palpiter mon cœur ?...</p>
         <p>— Cher, bien cher ami, dit du Bourdet, c'est la faute du destin et non d'une femme.</p>
         <p>— C'est la faute d'une femme, toujours !</p>
         <p>s'écria le chevalier, l'œil troublé, les lèvres tremblantes : méchantes, elles torturent lentement ou assassinent avec férocité, celles-là on les combat, on les tue — elles sont les moins dangereuses. Bonnes,accomplies,elles sèment autant de discordes que de regards. Le feu de leurs passions dévore ceux qu'elles aiment : phares menteurs, elles attirent toujours quelqu'un dans un gouffre ou sur un écueil. Croyez-moi, du Bourdet, tout ce que je vous dis là est bien vrai, et je ne le réduis à des proportions si douces que pour ne pas vous épouvanter en vous laissant apercevoir la vérité terrible qui habite au fond de ma pensée.</p>
@@ -2240,7 +2240,7 @@
         <p>Marguerite obéit machinalement.</p>
         <p>Les chevaux pénétrèrent dans la glèbe sablonneuse, muette, et gagnèrent ainsi la lisière du bois. Alors commença une corvée des plus rudes, un martyre. Les chevaux se jetant à tort à travers dans les taillis, dans les fourrés, force leur fut bientôt de s'arrêter : ils frémissaient de douleur en s'égratignant aux ronces, et Marguerite, la tête baissée, roulée dans son manteau, pleurait, et, à bout de forces, invoquait un prompt salut ou une prompte mort.</p>
         <p>De loin, ils entendirent passer et repasser
-          <gap unit="figure" extent="1"/>  sur la route sonore ceux qui les poursuivaient, et dont les imprécations arrivaient parfois jusqu'à leur retraite, comme des cris d'oiseaux funèbres.</p>
+          <gap unit="figure" extent="1"/> <!-- Du Bourdet courut à elle. --> sur la route sonore ceux qui les poursuivaient, et dont les imprécations arrivaient parfois jusqu'à leur retraite, comme des cris d'oiseaux funèbres.</p>
         <p>Après un repos, indispensable aux deux chevaux, qui n'avaient pas, eux, l'excitation de l'orgueil et la satisfaction de la conscience, La Fougeraie donna le signal du départ ; on trouva une route praticable, et, d'après ses calculs, l'écuyer crut se diriger vers cette chaîne de petits bois qui vont rejoindre la forêt de Sénart. Mais, au point du jour, il reconnut son erreur. Les chevaux eussent dû atteindre depuis longtemps soit Boussy-Saint-Antoine, soit même Hyères. Cependant ils se traînaient à peine dans des landes et des bruyères tout à fait inconnues, et le jour était déjà bien avancé qu'ils marchaient encore sans plus de succès.</p>
         <p>L'un des deux animaux tomba : c'était la monture de La Fougeraie.</p>
         <p>Quelques mouvements convulsifs, une écume sanglante au bord des naseaux, et ce fut tout. La pauvre bête était morte.</p>
@@ -2411,7 +2411,7 @@
         <p>Bientôt cette infaillible consolation de la nature au réveil pénétra comme par son front jusqu'au plus profond de son âme. Et alors, se sentant jeune, forte, devinant Dieu sous ces vapeurs d'or, elle réfléchit que le désespoir ne changerait rien à sa situation ; que, prisonnière pour éviter de plus grands malheurs, elle devrait s'estimer bien heureuse d'avoir trouvé une si charmante et si sûre' prison. Ce parterre diapré de fleurs qu'elle voyait en abaissant son regard, ces fontaines murmurantes, dont la fraîcheur montait jusqu'à elle en blanches fumées, tout cela n'était-il pas son bien, sa récréation pendant une journée ?</p>
         <p>Il fallait donc vivre, et vivre résignée, joyeuse même, profiter du rayon de soleil, amasser des forces, du courage pour les fatigues et les chagrins à venir. Quoi de plus propre à rasséréner une âme que la vue de cette maison où tous les bonheurs semblaient s'être donné rendez-vous ?</p>
         <p>Marguerite alors commença une visite dans sa prison. Marchant d'un pas furtif, essayant son adresse sur les portes, elle pénétra dans une chambre contiguë à la sienne. C'était un grand cabinet sans issue, où elle trouva l'antique toilette de la défunte, et ses robes, et tout ce luxe de soins et d'innocente recherche d'une femme habituée à plaire, que la mort avait surprise encore en sa jeunesse. Puis les beaux fruits et la collation la tentèrent ; elle trempa ses lèvres dans quelques gouttes de vin d'Espagne, à la santé du bon La Fougeraie,
-          <gap unit="figure" extent="1"/>  à celle aussi de l'hôte généreux qui lui avait ouvert sa maison.</p>
+          <gap unit="figure" extent="1"/> <!-- Elle écoutait encore. --> à celle aussi de l'hôte généreux qui lui avait ouvert sa maison.</p>
         <p>Et, ce verre à la main, elle vint s'asseoir près de la fenêtre, rêveuse, se disant que l'aventure était bien étrange, et qu'il y avait là, tout près d'elle, des gens que peut-être elle coudoierait un jour, sans qu'ils se cloutassent du hasard qui, pendant vingt-quatre heures, les avait réunis à elle sous ce toit sacré. Ce jeune homme, par exemple, ce Bernard qui allait se marier, et dont au Louvre elle avait sauvé la liberté, lui qui ne la connaissait pas, ne se souvenait pas seulement d'elle, combien elle le surprendrait si, plus tard, masquée, en quelque fête où elle le trouverait avec sa jeune femme, elle l'abordait, et, lui prenant le bras, lui racontait en détail tout ce qu'elle avait vu chez lui : le buis bénit oublié sous le Christ, la statuette de marbre jauni sur le bahut d'ébène, les dessins des rideaux, les figures grotesques des chenets. Qui sait ? Quelque épisode du jour des fiançailles qu'elle surprendrait dans le jardin par les losanges de son observatoire.</p>
         <p>Elle pensait ainsi, les yeux vaguement fixés vers le parterre, quand elle entendit ouvrir une porte sur le palier, en face de sa chambre. Un pas d'homme craqua dans l'escalier, une autre porte s'ouvrit au rez-de-chaussée ; le bruit de ce pas continua dans le sable et s'éloigna peu à peu de la maison. Marguerite vit alors, au milieu des arbres, passer quelqu'un autour duquel sautaient deux chiens. Le promeneur si matinal se retourna pour regarder le ciel : C'était Bernard !</p>
         <p>Le jeune homme ne se doutait guère qu'on le vît si distinctement, et qu'on analysât chacun de ses gestes avec l'intention d'y trouver l'empressement et la belle humeur d'un amoureux qu'on marie. Cependant la comtesse avait commencé par cette idée. Mais Bernard sembla prendre à tâche de lui .donner le change. Il-allait et. venait, les mains derrière le clos, lentement, imprimant chaque pas dans le sable avec la scrupuleuse attention, de n'en point faire un plus, creux, que l'autre, sorte d'occupation qui, si elle n'annonce pas un esprit bien troublé, ne prouve pas non plus une gaieté bien folle.</p>
@@ -2589,7 +2589,7 @@
         <p>— Mon neveu !.. arrivez enfin... Cher Monsieur de Preuil, je vous présente mon neveu, le baron des Noyers.</p>
         <p>Bernard saluait, et saluait affectueusement le nouveau venu, dont la figure s'efforçait d'être aussi agréable que sa parure était soignée.</p>
         <p>Tout à coup Aubin poussa un cri, devint pâle, et, reculant épouvanté, saisit Bernard
-          <gap unit="figure"/> d'une main, son oncle Pontis de l'autre, en disant :</p>
+          <gap unit="figure"/><!-- — Monsieur ! dit la comtesse tremblante. — Page 650.--> d'une main, son oncle Pontis de l'autre, en disant :</p>
         <p>— Sauvez-moi, mon frère ! sauvez-moi, mon oncle ! c'est le capitaine Hugues !</p>
         <p>Cette scène imprévue altéra singulièrement, comme on le pense, le charme de la présentation. Le capitaine parut surpris lui-même, et son hésitation ne produisit pas un bon effet sur Bernard et sur Pontis.</p>
         <p>— Il est vrai qu'on m'appelle le capitaine Hugues en temps de service, balbutia le baron, mais ce nom-là n'est pas fait pour effrayer les petits enfants.</p>
@@ -2794,7 +2794,7 @@
         <p>— Quoi ! se disait-il, lui aussi a donc un secret ?</p>
         <p>Mais déjà Pontis, comme tout homme résolu, avait marché à l'exécution. Il donnait ses ordres, il visitait ses chevaux, il faisait préparer ses valises. Du Bourdet le suivait machinalement dans ses tours et détours : on avait tout oublié, mariage, affaires, Bernard.</p>
         <gap unit="figure" extent="1"/>
-        
+        <!-- Je le sauverai malgré tout. -->
         <p>Mais Bernard ne s'oubliait pas. Après avoir congédié les invités, enchantés de fuir, fût-ce à jeun, une maison où régnait la discorde, le jeune homme avait concentré toute sa logique sur ce seul point :</p>
         <p>— On me cache quelque chose, et ce quelque chose a été découvert ici, dans la maison, lorsque mon beau-père a remonté à sa chambre.</p>
         <p>Il est rare qu'une volonté circonscrite dans un petit cercle ne triomphe pas de-tous les obstacles. Bernard en fit l'épreuve. Il n'avait pas creusé son idée dix minutes que l'étincelle en jaillit.</p>
@@ -3093,7 +3093,7 @@
         <p>La reine et Concini se regardaient muets et effrayés. Marie ne songeait pas même à se mettre en colère, tant sa favorite l'avait habituée à souffrir de pareils emportements.</p>
         <p>Mais Concini voulut venger la majesté un peu trop oubliée de sa reine.</p>
         <p>— Il me semble, dit-il à sa femme, que vous allez trop loin dans votre douleur. Ce n'est pas à la reine qu'il faut vous en prendre,
-          <gap unit="figure" extent="1"/>  mais à Dieu... Vous êtes aussi bien la sujette de l'une que vous l'êtes de l'autre. Leonora se redressa, blême et furieuse : — Voilà un plaisant conseiller, dit-elle, qui ose me faire la leçon ! Le bélître oublierait-il qui je suis, et qui il est ? sous sa casaque de maréchal de France, on dirait qu'il se prend au sérieux ! Concino, mon drôle ! rappelez-vous la misère et les chausses percées que je vous raccommodais ; rappelez-vous les journées sans pain, et la main, votre main aujourd'hui couverte de bagues, que vous tendiez à toute aumône. Oh ! ne faites pas le personnage avec moi, je suis l'artisan de bien des fortunes, de la vôtre surtout.</p>
+          <gap unit="figure" extent="1"/> <!-- Voilà un plaisant conseiller --> mais à Dieu... Vous êtes aussi bien la sujette de l'une que vous l'êtes de l'autre. Leonora se redressa, blême et furieuse : — Voilà un plaisant conseiller, dit-elle, qui ose me faire la leçon ! Le bélître oublierait-il qui je suis, et qui il est ? sous sa casaque de maréchal de France, on dirait qu'il se prend au sérieux ! Concino, mon drôle ! rappelez-vous la misère et les chausses percées que je vous raccommodais ; rappelez-vous les journées sans pain, et la main, votre main aujourd'hui couverte de bagues, que vous tendiez à toute aumône. Oh ! ne faites pas le personnage avec moi, je suis l'artisan de bien des fortunes, de la vôtre surtout.</p>
         <p>Supposez-vous cette figure vous eussiez réussi à autre chose qu'à mourir de faim ? Qui vous a prôné, poussé, empêché de faire mille sottises ? Qui a soufflé dans votre cervelle creuse les quelques idées que vous avez eu l'air d'avoir ? Ah ! vous faites l'homme patient, vous ! l'homme courageux ! Qui sait ? vous avez peut-être quelque bourse secrète où puiser ; vous avez peut-être des consolations cachées ? Un si beau gentilhomme ! visage de pâte molle ; corps tordu, rompu et vaillant comme son épée de maréchal ; de belles dames vous aideront, n'est-ce pas ? Moi, je suis vieille ; moi, je ne vaux plus la bière où vous méditez de me mettre afin de recommencer la vie. C'est qu'il y pense, le scélérat ! Je le devine hi en, allez ; mais vous n'en êtes pas encore où vous croyez, vous et. ceux qui vous soutiennent ! </p>
         <p>En/achevant ces mots elle se jeta dans un fauteuils-inondée de larmes et déchirée parles sanglots.</p>
         <p>Là reine et Concino se regardèrent encore, tandis que la malheureuse Florentine essayait de dissimuler une douleur qu'elle-taxait dé honteuse faiblesse.</p>
@@ -3250,7 +3250,7 @@
         <p>— Je vous sais homme bien élevé, bien courtois, monsieur de Cadenet, et je ne montrerais pas ainsi ma petite femme un peu niaise et rougissante* à d'autres seigneurs moins discrets. Les uns la feraient rougir beaucoup trop ; avec les autres, elle désapprendrait trop vite de rougir.</p>
         <p>— Tu parles en garçon d'esprit. Je respecte toutes les dames, mais ta femme a droit doublement à mes respects, pour toi d'abord, pour ses mérites et vertus ensuite.</p>
         <p>— Vertus, oui ! mérites, oui ! dites-le, répétez-le, seigneur, car j'avouerai que cette
-          <gap rend="figure"/>  éducation-là m'a réconcilié avec les éducations de couvent.</p>
+          <gap rend="figure"/> <!-- — Vous nie faites l'honneur de venir ici ? — Page 079.--> éducation-là m'a réconcilié avec les éducations de couvent.</p>
         <p>— Ah ! madame la Vienne sort du couvent ?</p>
         <p>— Des Feuillantines de Boissise.</p>
         <p>— Hein ?</p>
@@ -3421,7 +3421,7 @@
         <p>Elle, heureuse de ce calme inusité, ne soupçonnait pas même qu'il pût y avoir en cette maison un bruit, un hôte.</p>
         <p>Cette tranquillité ne devait pas être de longue durée.</p>
         <p>Un grand fracas de chevaux et de voix se fait entendre dans la cour. Leonora voit accourir
-          <gap unit="figure" extent="1"/>  une de ses femmes avec Corbinelli. Elle se jette sous l'ombre opaque d'un groupe de marronniers et de sycomores dont les ramures aux trois quarts dépouillées obscurcissent cependant un espace immense.</p>
+          <gap unit="figure" extent="1"/> <!-- — Des diamants ! des perles ! s'écria-t-elle. --> une de ses femmes avec Corbinelli. Elle se jette sous l'ombre opaque d'un groupe de marronniers et de sycomores dont les ramures aux trois quarts dépouillées obscurcissent cependant un espace immense.</p>
         <p>— Madame, dit l'Italien, c'est M. le maréchal qui a suivi vos traces et qui arrive vous chercher ; il est accompagné de deux personnes dont l'une est, je crois, M. de Siete-Iglesias... notre sauveur.</p>
         <p>— Vous savez ce que j'ai dit, répondit Leonora, je ne veux voir âme qui vive. Allez !</p>
         <p>— Madame... M. le maréchal insistera...</p>
@@ -3594,7 +3594,7 @@
         <p>Cette prédiction avait eu lieu deux jours avant le souper que la Vienne donna pour célébrer ses noces. Rien, depuis ce moment, n'avait modifié l'état du malade. Cadenet, qui, malgré le nombre et la chaleur des vins, rentra dans sa chambre parfaitement sain d'esprit, examina Bernard en son sommeil, sans y attacher plus de soin que de coutume, et sans remarquer la position du corps, qui d'ordinaire rigide et uniforme en ses plans, était, ce soir-là, replié, tordu, la tête à demi cachée sous son bras droit qu'un mouvement convulsif faisait trembler.</p>
         <p>Cadenet, tout préoccupé de ce qu'il venait de voir chez la Vienne, tout troublé de la présence de Sylvie, qui ajoutait une complication menaçante à tant de complications, se coucha de bonne heure sans s'apercevoir de rien, pressé qu'il était de rêver à ce singulier mariage et de dormir pour avoir des idées plus nettes le lendemain.</p>
         <p>En effet, songeant qu'à tout prix il allait falloir tirer Bernard de cette maison où tôt ou tard il serait reconnu par Sylvie et Hugues, où peut-être il serait dénoncé par eux et livré par la Vienne, dont la faiblesse
-          <gap rend="figure"/>  envers le pouvoir régnant était proverbiale :</p>
+          <gap rend="figure"/> <!-- C'est moi ! dit la reine-mère.--> envers le pouvoir régnant était proverbiale :</p>
         <p>— J'écrirai demain matin à Luynes, se dit Cadenet, lui seul peut me délivrer de cet embarras et m'indiquer un asile sûr où mon pauvre Bernard aille mourir en paix.</p>
         <p>Et, consolé par cette idée, il éteignit son flambeau comme chaque soir, et s'endormit. Peut-être l'image de Sylvie lui apparut-elle moins effrayante en un songe, où il se flattait d'exercer déjà sur elle quelque influence galante dont il ferait profiter son malheureux ami.</p>
         <p>Tout à coup, il fut réveillé par un cri. Il se dresse sur son séant et écoute ; rien ne bruit dans la chambre. Une longue minute se passe ; rien. Mais, comme il allait reprendre son sommeil, il entendit Bernard s'agiter et murmurer quelques vagues gémissements.</p>
@@ -3774,7 +3774,7 @@
         <p>Nul de ceux qu'il interpellait directement ou indirectement ne répondit.</p>
         <p>— Sont-ce bien mes gens qui ont fait cela ? demanda le roi.</p>
         <p>— Votre Majesté va droit à la question, dit le vieillard avec un sang-froid qui fit battre plus d'un cœur autour de la reine-mère. Sont-ce bien les gens du roi qui ont égorgé un homme déjà vieux, un enfant de douze ans et sa nourrice ? Moi, je le nie !</p>
-        <gap rend="figure"/> 
+        <gap rend="figure"/> <!-- Commanda fleuristes et marmitons les plus huppés. — Page 700.-->
         <p>— S'ils ont eu à se défendre ! dit la reine-mère.</p>
         <p>— Je voudrais qu'on le prouvât, répliqua M. de Harlay. </p>
         <p>— N'est-ce pas au procès-verbal ? de| manda le duc d'Espernon.</p>
@@ -3941,7 +3941,7 @@
         <p>— Laisse-moi donc parler... Sylvie n'est pas du tout ce que tu crois ; elle est mariée.</p>
         <p>— Tant mieux pour elle, mais ce n'est pas
           <gap extent="1" unit="figure"/>
-           une raison pour que je reste sous le même toit que cette femme !</p>
+          <!--Tous deux lui prirent une main.--> une raison pour que je reste sous le même toit que cette femme !</p>
         <p>— Impossible de faire autrement. L'homme qu'elle a épousé, c'est le gros la Vienne.</p>
         <p>— Le baigneur ?</p>
         <p>— Mon Dieu, oui.</p>
@@ -4130,7 +4130,7 @@
         <p>Alors commença, dans un coin de cette galerie, entre les quatre personnages qui s'étaient réunis, d'Espernon, Concino, l'Espagnol et la marquise, un entretien dont nul n'eût soupçonné l'importance à voir le calme des uns et la banale physionomie des autres. Ce fut M. d'Espernon qui commença.</p>
         <p>— Voici, dit-il, mes rapports de la journée. Ce matin, le président a reçu en audience un jeune homme qui n'est autre que le beau-fils de celui que vous savez, des Bordes, échappé on ne sait pourquoi au piège.</p>
         <p>— Et ce jeune homme, ajouta la marquise,
-          <gap rend="figure"/>  est logé, d'après mes rapports à moi, chez la Vienne, où son ami, le petit Cadenet, l'avait apporté en secret après l'événement.</p>
+          <gap rend="figure"/> <!-- La voilà, dit-il, la voilà ! — Page 716. --> est logé, d'après mes rapports à moi, chez la Vienne, où son ami, le petit Cadenet, l'avait apporté en secret après l'événement.</p>
         <p>— Voilà donc pourquoi, interrompit Concino, ce Luynes disait son frère malade. Il y a complot de ce côté. Ces frères-là nous gênent ; je m'en débarrasserai. Moi, ajouta-t-il, j'ai fait rendre ce matin le jugement et notifier au vieux président un ordre de la reine. C'est à n'y plus revenir.</p>
         <p>— Oui, dit la marquise, mais le jugement ne nomme que du Bourdet et un fils qu'il avait. Il ne mentionne pas cet autre ressuscité qu'on appelle de Preuil, et qui voudra peut-être suivre quelque vengeance.</p>
         <p>— Ses biens sont confisqués, il n'a plus un denier ; d'ailleurs, nous le surveillerons, répondit le maréchal : le danger n'est pas là. Voilà donc tout ce qu'on sait du président ?</p>
@@ -4306,7 +4306,7 @@
         <p>Ce sang-froid exaspéra Siete-Iglesias. Échauffé, d'ailleurs, par la soif de son prochain triomphe, comme s'échauffe la bête de proie au pressentiment du carnage :</p>
         <p>— Je dis, s'écria-t-il, que votre jeune cour croulera faute d'appui ! que votre orgueilleuse petite Espagnole, qui trahit l'Espagne, tombera dans l'ignominie ! que votre Nestor le président mourra de sa rage impuissante ! et que le dernier débris de votre révolte, le fils de du Bourdet, héritier — qui sait ? — des secrets de famille, ne demandera pas demain
           <gap unit="figure" extent="1"/>
-           où sont les cadavres de ses parents, car demain il aura rejoint leurs ombres !</p>
+          <!--Elle s'arrêta, muette, épouvantée. --> où sont les cadavres de ses parents, car demain il aura rejoint leurs ombres !</p>
         <p>Marguerite tressaillit, et ses yeux humides se séchèrent au contact de la flamme qui en jaillit tout à coup.</p>
         <p>— Et moi, murmura-t-elle en s'approchant de l'Espagnol stupéfait, je vous dis que demain vous serez le plus humble, le plus muet des vingt millions d'hommes qui vivent en France ; je vous dis que demain vous adorerez à genoux le roi et la jeune reine, mes maîtres et les vôtres ; je dis que demain monsieur Bernard de Preuil vivra — comme il vit aujourd'hui — mais beaucoup plus tranquille ; car tout à l'heure vous m'allez remettre un sauf-conduit signé par la reine-mère ; et si, dans cinq minutes, je n'ai pas reçu de vous cette pièce, parfaitement en règle, inattaquable, irrévocable, jointe à une restitution des biens du malheureux héritier des Bordes, dans cinq minutes, entendez-vous, monsieur, tout ce qu'il y a ici de gentilshommes, de princes, de grands, vos ennemis ou vos amis, toute cette foule saura de moi quel était l'homme à la visière grillée qui, la nuit, a lâchement assassiné dans sa chambre l'avocat au Parlement du Bourdet.</p>
         <p>Un nuage de plomb s'étendit sur le front de l'Espagnol, ses joues se creusèrent, sa fauve prunelle rayonna d'une lueur sinistre.</p>
@@ -4482,7 +4482,7 @@
         <p>L'homme qui, tout à l'heure, suivait Bernard, se mit à le précéder ; on monta un escalier de bois luisant à larges degrés carrelés de briques ; le guide s'arrêta au premier étage, sur un palier donnant accès à deux chambres, dont l'une était fermée par une portière en grosse tapisserie de Flandres.</p>
         <p>— Entrez là, dit le guide à Bernard, qui le regarda en face, stupéfait de ce calme, de ce silence, de cette solitude.</p>
         <p>Il écarta les rideaux d'une main hésitante
-          <gap unit="figure" extent="1"/>  et passa dans cette chambre, où probablement allait se décider son sort.</p>
+          <gap unit="figure" extent="1"/> <!-- Il vint tomber à genoux devant le lit. — Page 730 --> et passa dans cette chambre, où probablement allait se décider son sort.</p>
         <milestone unit="section" rend="asterisk"/>
         <p>Cette vaste pièce, tendue de vieux damas de laine autrefois vert, à larges dessins, un peu brouillés par les années et les morsures du soleil, n'était éclairée que par une cire brûlant dans un mortier de marbre. Elle avait son meuble du même âge que la tenture, vieux fauteuils à bras tordus sculptés dans le frêne, dont les sièges de cuir de Cordoue s'harmoniaient doucement avec la paisible lueur d'un feu de braise assoupi dans l'âtre. Un grand tapis à feuillages semés d'oiseaux et de chasseurs bizarres s'étendait sous la table massive aux pieds torses. Aux murailles pendaient, là un tableau, là une arme, plus loin un bénitier. Un gros chat blanc ronflait devant le feu, près d'une bouilloire ventrue qui ronflait comme lui. C'était peut-être la chambre d'une vieille femme, le capharnaüm d'un paisible bourgeois endormi depuis la fin de la Ligue, c'était peut-être le dortoir d'un malade, mais nullement le cabinet d'un gouverneur de prison d'État.</p>
         <p>Bernard cherchait à s'orienter, regardait chaque chose autour de lui et interrogeait la clarté blafarde qui glissait du ciel neigeux par l'imposte à châssis de plomb d'une vieille fenêtre, quand un grincement d'anneaux sur une tringle de fer attira ses yeux vers les rideaux d'un grand lit carré qu'il n'avait pas encore aperçu dans l'angle le plus noir, ou il se confondait avec les tentures de la chambre.</p>
@@ -4661,7 +4661,7 @@
         <p>— Vous m'accepterez donc ?</p>
         <p>— D'autant plus volontiers que tout mon travail, toutes mes veilles, toutes mes angoisses, n'avaient pour but que votre fortune et celle de votre postérité.</p>
         <p>Je le sais bien !... Voilà pourquoi je suis venue à vous, voilà pourquoi je vous adjure encore de me dire : Ce secret, étouffé en 1611 sur les lèvres de mademoiselle de Coman, ce secret qui fait trembler, je le devine, tous nos ennemis..., je dis nos ennemis, n'est-ce pas, mon père ?... cette arme invincible, si vous trouvez la main capable de la manier, je ne vous prie pas de la confier à mon bras, non, mais faites-la moi voir seulement d'avance ; permettez-moi-d'apprécier dans ma joie, dans ma reconnaissance, le poids et la profondeur des coups qu'elle saura frapper. Alors, monsieur le président,
-          <gap unit="figure" extent="1"/> alors, au lieu de me laisser abaisser peu à peu, comme je le fais, pour éviter qu'on m'écrase, alors je relèverai la tête, je persuaderai au roi sa force, notre force ; je grouperai autour de notre trône, ridicule aujourd'hui, formidable demain, tous ceux qui veulent la gloire, le bonheur, l'intégrité de ce royaume. Alors, je forcerai ce fils chancelant, qui n'est à présent que le fils de l'Italienne, sa mère, je le forcerai à se souvenir qu'il est fils d'Henri IV, d'Henri IV dont il a l'héritage à maintenir, la mémoire à honorer... à venger peut-être... Oh ! comprenez-vous que je suis Française maintenant ? et dites-moi loyalement que ce crime dont vous parliez tout à l'heure, vous m'apprendrez à le venger !</p>
+          <gap unit="figure" extent="1"/><!-- — Vous mentez ! dit le vieillard. --> alors, au lieu de me laisser abaisser peu à peu, comme je le fais, pour éviter qu'on m'écrase, alors je relèverai la tête, je persuaderai au roi sa force, notre force ; je grouperai autour de notre trône, ridicule aujourd'hui, formidable demain, tous ceux qui veulent la gloire, le bonheur, l'intégrité de ce royaume. Alors, je forcerai ce fils chancelant, qui n'est à présent que le fils de l'Italienne, sa mère, je le forcerai à se souvenir qu'il est fils d'Henri IV, d'Henri IV dont il a l'héritage à maintenir, la mémoire à honorer... à venger peut-être... Oh ! comprenez-vous que je suis Française maintenant ? et dites-moi loyalement que ce crime dont vous parliez tout à l'heure, vous m'apprendrez à le venger !</p>
         <p>— Il sera fait selon vos désirs, répondit simplement l'illustre magistrat. Vous venez de détruire jusqu'à la moindre de mes objections, vous avez éteint mon dernier scrupule. Dans peu d'instants, vous saurez tout comme moi-même. Mes moyens, mes plans, mes armes, je vous aurai tout livré. Je viens de descendre dans ma conscience, c'est-à-dire de consulter Dieu, et cette voix infaillible m'a répondu que si vous me trahissiez par gré ou par faute, vous vous trahiriez vous-même, vous l'unique objet, avec le roi, de ma pénible et magnifique entreprise. Désormais votre avenir ne sera plus qu'entre vos mains. Votre Majesté veut-elle prendre la peine de me suivre ?</p>
         <p>— Où cela, je vous prie ?</p>
         <p>— Nous allons dans la prison de mademoiselle de Coman : vous l'entendrez, vous verrez jaillir la vérité que j'ai cachée précieusement jusqu'à ce jour.</p>
@@ -4866,7 +4866,7 @@
         <p>Immobile, frissonnante, bien qu'elle se rappelât avec espoir la parole de la Vienne et qu'elle l'attendît bien vite, Sylvie ne pouvait chasser de son esprit troublé mille pensées, mille remords plus douloureux que des terreurs.</p>
         <p>Ainsi, de cette place où elle était, la Vienne prétendait avoir vue dans le mystérieux cabinet aux coussins. Ainsi le hasard seul avait permis qu'il ne vît pas, dix-huit mois avant, celle qu'aujourd'hui il amenait là pour rire des autres ! Ainsi ce redoutable hasard voulait qu'elle fût aujourd'hui la femme de la Vienne, et qu'elle rentrât dans le pavillon par la porte légitime de la Cerisaie. Et la Vienne riait, le pauvre homme !</p>
         <p>Mais Siete-Iglesias... que devait-il penser ? quel sourire diabolique n'allait-il pas trouver pour complimenter le baigneur, le comte qui dans une heure entrerait aussi dans ce pavillon, et demanderait peut-être à la Vienne des nouvelles de sa jeune femme ?</p>
-        <gap rend="figure"/>
+        <gap rend="figure"/><!-- Sylvie ne pouvait en croire ses yeux. — Page 747.</p>-->
         <p>Ces idées fermentaient dans la tête de Sylvie, et en firent jaillir d'atroces douleurs, rapides et pétillantes comme des étincelles.</p>
         <p>Tout à coup, elle crut entendre marcher, elle prêta l'oreille.</p>
         <p>Le mouvement involontaire qu'elle fit dérangea les étoffes, et, par un trou semblable à une lentille rouge, elle vit sourdre un filet lumineux qui pénétra jusqu'à son visage.</p>
@@ -5060,7 +5060,7 @@
         <p>La Florentine, après un geste de satisfaction, se reposait, comme rassasiée.</p>
         <p>— Eh bien, qu'on place cet argent dans les charrettes, dit la reine-mère.</p>
         <gap extent="1" unit="figure"/>
-        
+        <!-- Il s'arrêta un instant. -->
         <p>Le gouverneur hasarda de demander un acquit à caution, pour ses registres, dit-il.</p>
         <p>— Avec cela qu'ils sont bien tenus ses registres, dit d'Espernon bas, en ricanant, au maréchal d'Ancre.</p>
         <p>— On vous donnera les reçus, repartit Concino, soyez sans inquiétude, messire, et sans qu'il soit besoin du contrôle de la cour des comptes.</p>
@@ -5263,7 +5263,7 @@
         <p>— Qu'appelez-vous meurtriers ?... s'écria le maréchal tremblant de colère.</p>
         <p>— C'est un-mot français qui s'applique à tous ceux qui ont verse le sang, répondit fièrement la jeune reine. S'il s'applique à vous, tremblez ! S'il ne vous concerne pas, taisez-vous !</p>
         <p>— C'était un des mots favoris de feu l'illustre président, dit la régente avec un rire brutal.</p>
-        <gap extent="figure"/>
+        <gap extent="figure"/><!-- — Oui, nous partons, reprit-il. — Page 764.-->
         <p>— C'est de lui que je l'ai appris, en effet, repartit Anne, et il l'avait appris, lui, de mademoiselle de Coman, votre prisonnière.</p>
         <p>— Sire ! s'écria Marie de Médicis en secouant le bras du roi, qui semblait évanoui plutôt qu'enfoncé dans son fauteuil, on insulte votre mère !</p>
         <p>— Le roi sent bien aussi qu'on insulte sa femme, dit Anne d'Autriche. </p>
@@ -5482,7 +5482,7 @@
         <head>LA CHANCE TOURNE.</head>
         <p>L'intérêt exalté de cette situation dérobait heureusement aux deux amies le danger terrible où les eût placées l'arrivée d'un messager de la cour. Elles concentraient depuis quelques minutes toute leur attention, toute leur vie sur cette salle où Bernard allait paraître. Le gouverneur fit enlever son couvert et s'installa le plus majestueusement qu'il put dans son fauteuil, la lampe derrière lui, de façon à ce qu'elle frappât le visage de son interlocuteur. Plus le temps avançait, plus le charme exercé par les enchanteresses se dissipait. Le gouverneur revenait peu à peu de sa générosité comme d'une ivresse. Et, au moment où l'on entendit des pas dans la galerie voisine, ceux du porte-clefs, sans doute, le repentir commençait à s'emparer de du Thiers.</p>
         <p>Bernard entra. Qu'avaient fait la solitude et le doute, de sa jeunesse, de ses vives couleurs, de son frais sourire ? Bernard, depuis douze jours, avait vécu douze années. Son front, couvert de ses cheveux, brillait par places blanches et mates sous ce voile noir. Ses yeux avaient contracté la rigide fixité de l'inquiétude qui guette. Ses habits, déjà usés, collaient à son corps comme pour en
-          <gap extent="figure"/>  accuser la maigreur. On eût dit que ses mains pâles s'étaient allongées, elles sortaient pendantes et froides de sa manchette en lambeaux.</p>
+          <gap extent="figure"/> <!-- Le nom de madame la Vienne ouvrit les portes. — Page 766. --> accuser la maigreur. On eût dit que ses mains pâles s'étaient allongées, elles sortaient pendantes et froides de sa manchette en lambeaux.</p>
         <p>Tout en lui respirait, non pas cette langueur du corps qui souffre, mais cette morne atonie de l'esprit malade, prélude effrayant des fièvres morales qui rongent peu à peu l'intelligence. Bernard, tant éprouvé depuis si peu de jours, n'avait pas encore épuisé toute sa religion, mais il était à bout de courage : il croyait encore qu'il y a un Dieu, mais il n'en espérait plus rien.</p>
         <p>Quand il parut, ainsi faible, ainsi défait, dans la haute et noire chambre ; quand, avec la politesse déjà timide du prisonnier, il salua M. du Thiers, ce fut, dans le cabinet voisin, derrière la porte, une telle surprise, un tel saisissement des deux pauvres femmes, qu'involontairement elles s'appuyèrent l'une à l'autre, une main sur la bouche, pour contenir le cri que chacune d'elles eût voulu pousser.</p>
         <p>Le gouverneur examinait son prisonnier sans le voir. Il ne s'occupait que de la répercussion de la scène sur ses privilégiées. Faire marcher son automate, le faire parler un peu pour prouver qu'il vivait encore, en arriver même à le faire sourire, s'il était possible, tel était le but que se proposait l'honnête gouverneur. L'atteindre lui eût paru le nec plus ultra de la libéralité, de la prudhomie.</p>
@@ -5644,7 +5644,7 @@
         <p>— Sire, c'est convenu depuis hier.</p>
         <p>— Nullement. Ce qui est convenu, c'est que ma mère devient plus que jamais reine de France, c'est que je suis moins roi que jamais. Voilà qui est convenu, pas autre chose ; du moins, voilà, ce que j'ai accordé.</p>
         <p>— Oh ! répliqua Anne un peu surprise, vous avez bien accordé aussi l'exil de vos amis les meilleurs.</p>
-        <gap extent="figure"/> 
+        <gap extent="figure"/> <!-- Le cavalier s'arrêta. — Page 771. -->
         <p>— Vous voulez parler de Luynes. C'est vrai, dit le pauvre roi avec mélancolie, Luynes m'a quitté. C'était mon seul ami. Je l'aimais tendrement. Il m'a quitté sans attendre que je le retinsse.</p>
         <p>— Il savait trop bien qu'on l'eût fait arrêter jusque dans votre chambre, sire, et que vous ne l'eussiez pas défendu, puisque vous n'avez pas défendu votre femme.</p>
         <p>— Contre ma mère ? répondit Louis gravement. Puis-je donc défendre quelqu'un contre ma mère ?</p>
@@ -5815,7 +5815,7 @@
         <p>— À son frère, le grand-duc.</p>
         <p>— Et cette lettre, sire ?...</p>
         <p>— Cette lettre, m'a dit la reine, s'est trouvée égarée, dans le désordre où l'affreuse
-          <gap rend="figure"/>  nouvelle plongea tout le palais. Cette lettre inachevée disparut, et jamais nul n'a su ce qu'elle était devenue, bien que personne, assurait ma mère, n'eût pénétré alors dans sa chambre. Pontis écouta religieusement ces détails.</p>
+          <gap rend="figure"/> <!-- — Je t'ai déjà dit de ne pas faire un geste. — Page 790. --> nouvelle plongea tout le palais. Cette lettre inachevée disparut, et jamais nul n'a su ce qu'elle était devenue, bien que personne, assurait ma mère, n'eût pénétré alors dans sa chambre. Pontis écouta religieusement ces détails.</p>
         <p>— La mémoire de Votre Majesté, dit-il, est fidèle.</p>
         <p>Il tira de son pourpoint une enveloppe épaisse, cachetée, qu'il déposa entre les mains du roi.</p>
         <p>— Veuillez ouvrir, dit-il, sire. Et il éclaira de sa lampe.</p>
@@ -5938,7 +5938,7 @@
         <p>Ici Pontis s'arrêta encore. Son cœur se révoltait devant les mots qui lui restaient à dire pour compléter son rôle ; mais l'impérieux besoin de vaincre lui donna la force d'aller jusqu'au bout.</p>
         <p>— Allons, pensa-t-il, un dernier sacrifice ; il ne faut pas qu'ils soupçonnent le piège avant demain !</p>
         <p>— Je veux, reprit-il, cent mille écus pour me taire et quitter la France. Je les veux, non pas tout de suite, car vous ne les avez pas là tout prêts, mais demain dans la matinée. Je serai au pont tournant du Louvre à huit heures, attendant celui de vous qui m'apportera la somme ; à celui-là je remettrai la lettre de la reine et me voilà désarmé. Je n'aurai plus aucun intérêt à vous trahir. Mais si à huit heures, je ne vois personne, je traverse le pont du Louvre et vais tout raconter au roi. Il en sera ce qu'il en sera, mais j'ai de la peine à croire que le jeune prince, tout faible de cœur qu'on le dit, supporte patiemment mon récit, et je suis curieux de savoir ce qui arriverait s'il apprenait, par
-          <gap unit="figure" extent="1"/> exemple, que sa mère, votre confidente au 14 mai, monsieur le maréchal d'Ancre, vous a gardé près d'elle, comblé d'honneurs, et nommé maréchal de France... Tenez, cela ne me rapporterait certainement pas cent mille écus, mais vous n'en auriez de bénéfice ni les uns ni les autres. Ainsi, pas de dénégations, de protestations ; je ne vous demande pas d'aveu, moi, peu m'importe, ma conviction est faite ; dites-moi seulement si demain à huit heures quelqu'un de vous sera au pont tournant du Louvre avec la somme convenue.</p>
+          <gap unit="figure" extent="1"/><!-- Ainsi croulait cette fortune colossale. --> exemple, que sa mère, votre confidente au 14 mai, monsieur le maréchal d'Ancre, vous a gardé près d'elle, comblé d'honneurs, et nommé maréchal de France... Tenez, cela ne me rapporterait certainement pas cent mille écus, mais vous n'en auriez de bénéfice ni les uns ni les autres. Ainsi, pas de dénégations, de protestations ; je ne vous demande pas d'aveu, moi, peu m'importe, ma conviction est faite ; dites-moi seulement si demain à huit heures quelqu'un de vous sera au pont tournant du Louvre avec la somme convenue.</p>
         <p>Il y eut un moment solennel. Pontis s'arma de tout son sang-froid, de toute sa vigueur pour ne pas laisser transparaître dans ses yeux la joie de ce premier triomphe — leur silence !</p>
         <p>Les quatre s'entre-regardèrent, se comprirent. Il était évident pour tous qu'il fallait conjurer le premier péril, quitte à aviser après.</p>
         <p>— Rien que la lettre de la reine, dit Concino, cette lettre seule, bien qu'elle ne prouve absolument rien, suffirait à compromettre notre illustre et innocente maîtresse : rien que cette lettre vaut plus de cent mille écus ; apportez-la, vous recevrez cinq cent mille livres.</p>
@@ -6097,7 +6097,7 @@
         <p>Corbinelli, effaré, taché du sang de son maître, avait réussi à rentrer chez la reine-mère ; il venait se jeter à ses pieds, il croyait, le misérable, que là seulement était le salut... peut-être même y rêvait-il la vengeance. Corbinelli n'avait pas osé retourner chez Leonora. Sachant sa tendre affection pour le maréchal, il se préoccupait avec tout le monde, non du sort de la veuve qui paraissait inattaquable sous la protection de son amie la régente, mais de l'effet que produirait sur elle l'affreuse nouvelle.</p>
         <p>Corbinelli vint donc se jeter aux pieds de Marie, et avec des larmes, des cris, avec tout le luxe de la mimique italienne, il demanda quel moyen elle lui conseillait de prendre pour annoncer à la maréchale la mort de son mari.</p>
         <p>— Eh ! s'écria la régente avec colère, qu'ai-je affaire de ces gens-là? Tant pis pour
-          <gap unit="figure" extent="1"/>  eux ; je leur ai prédit moi-même qu'il leur arriverait malheur. <emph rend="italic">Si on n'ose pas dire à la Galigaï la mort de son mari, qu'on la lui chante !</emph>
+          <gap unit="figure" extent="1"/> <!-- Il tomba sous l'épouvantable niveau. --> eux ; je leur ai prédit moi-même qu'il leur arriverait malheur. <emph rend="italic">Si on n'ose pas dire à la Galigaï la mort de son mari, qu'on la lui chante !</emph>
         </p>
         <p>Et sur ces mots, qui suffiraient seuls à souiller une mémoire, la reine-mère passa dans une autre chambre pour mieux oublier des amis si chers la veille encore, et pour ne plus s'occuper que d'elle-même.</p>
         <p>Corbinelli, stupéfait, navré, sortit. Il erra quelques moments dans le Louvre ; puis, rencontrant la Vienne, qui sortait chantant de chez le majordome, pour quelque compte, et ne savait encore rien, il se cramponna au bras de ce camarade et lui apprit l'événement.</p>
@@ -6231,7 +6231,7 @@
         <p>Lorsque, au milieu de ces désolantes pensées, la comtesse voyait l'image de Bernard si près de son cœur et à jamais séparé d'elle ; lorsqu'elle le voyait offrant sa jeunesse, son avenir, qu'elle serait contrainte de refuser ; lorsqu'elle se disait que, lassé d'attendre, il se rebuterait et choisirait une autre compagne, Marguerite sentait que de pareilles douleurs seraient au-dessus de ses forces, et que la protection d'une reine ne la sauverait pas du plus réel malheur dont elle eût jamais été frappée.</p>
         <p>La route ne se fit pas gaiement, on le conçoit, sous l'influence de ces impressions. Mais l'aspect rajeuni de Paris, l'effervescence du peuple, la fierté des soldats, heureux d'avoir reconquis leur maître, transportèrent Aubin de joie et d'admiration.</p>
         <p>Marguerite brûlait d'aller d'abord interroger Sylvie ; si elle s'y fût décidée, un seul mot, un seul baiser de l'héroïne encore effarée, encore malade de son exploit de la veille, lui eût épargné bien des angoisses. Mais Marguerite craignit de faire avec trop d'empressement les affaires de son cœur ; Bernard était libre, quoi de plus à désirer ? Elle soupira, mais descendit au Louvre chez la jeune reine, comptant la retrouver dans son appartement ; on lui apprit qu'Anne d'Autriche
-          <gap extent="figure"/>  était chez le roi pour une audience que Louis XIII allait donner à sa mère, audience au résultat de laquelle s'intéressait toute la cour, avec des sentiments bien divers divers car si la reine-mère réussissait à se réconcilier avec son fils, comme elle l'espérait, la situation demeurait celle de la veille ; et bien des gens avaient intérêt soit à diriger l'avenir, soit à ne rien changer au passé.</p>
+          <gap extent="figure"/> <!-- Louis XIII, dit le Juste, fils de Henri IV et de Marie de Médicis, né en 1601, monté sur le trône en 1610, à l'âge de neuf ans, marié à Marie-Anne d'Autriche, meurt en 1643, âgé de 42 ans. --> était chez le roi pour une audience que Louis XIII allait donner à sa mère, audience au résultat de laquelle s'intéressait toute la cour, avec des sentiments bien divers divers car si la reine-mère réussissait à se réconcilier avec son fils, comme elle l'espérait, la situation demeurait celle de la veille ; et bien des gens avaient intérêt soit à diriger l'avenir, soit à ne rien changer au passé.</p>
         <p>Tandis que Marguerite, affligée de ce contre-temps, se préparait à prendre un peu de repos dans sa chambre, cherchait Estefana ou quelque familier pour avoir des nouvelles plus intimes, et faisait prévenir Cadenet de son arrivée, Aubin, abandonné quelques moments à lui-même, regardait, non sans effroi, ce vaste Louvre, et n'osait s'aventurer bien loin de peur de s'égarer.</p>
         <p>Une plainte, qu'il entendit du côté de l'escalier, l'appela. Il aperçut sur les marches froides, désertes, un enfant comme lui, nu-tête, sans manteau, à peine vêtu, grelottant et qui pleurait.</p>
         <p>Il lui semblait avoir déjà vu cet enfant ; l'image délicate et douce était demeurée dans sa mémoire, encadrée d'un lugubre souvenir.</p>

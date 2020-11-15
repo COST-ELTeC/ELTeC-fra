@@ -20,7 +20,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">29772</measure>
       </extent>
       <publicationStmt>

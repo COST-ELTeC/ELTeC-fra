@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">44196</measure>
         <measure unit="pages">252</measure>
       </extent>
@@ -58,7 +58,7 @@
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
         <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        
+        <!-- Reprints 1970-2009: None. Before 1970: 1911. -->
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>

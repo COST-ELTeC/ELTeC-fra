@@ -22,7 +22,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">71994</measure>
       </extent>
       <publicationStmt>
@@ -47,7 +47,7 @@
           <pubPlace>Paris</pubPlace>
           <date>1939</date>
         </bibl><bibl type="firstEdition">
-          
+          <!-- best guess -->
           <title>Les dieux ont soif</title>
           <author>Anatole France </author>
           <publisher>Calmann-Lévy</publisher>

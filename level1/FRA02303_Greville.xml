@@ -45,7 +45,7 @@
           <date>1879</date>
           <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6545712p"/>
         </bibl><bibl type="firstEdition">
-          
+          <!-- best guess: the very first edition I can find is at the same time the "Cinquième édition" from 1878 which is quite odd. Next publication year is 1879. So it's a tough decision wether it's T2 or T3-->
           <title>Aridane</title>
           <author>Henry Gréville</author>
           <date>1878</date>

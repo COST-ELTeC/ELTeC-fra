@@ -20,7 +20,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">217799</measure>
       </extent>
       <publicationStmt>
@@ -46,7 +46,7 @@
           <pubPlace>Paris</pubPlace>
           <publisher>Fayard (Le Livre Populaire n°96)</publisher>
           <date>1913</date>
-          
+          <!-- Freuilleton: Le Matin, du 18 Août au 31 janvier 1911   -->
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">

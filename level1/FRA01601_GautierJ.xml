@@ -21,7 +21,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">107267</measure>
       </extent>
       <publicationStmt>
@@ -46,7 +46,7 @@
           <pubPlace>Paris</pubPlace>
           <date>1887</date>
         </bibl><bibl type="firstEdition">
-          
+          <!-- best guess -->
           <title>La Sœur du Soleil (L'Usurpateur)</title>
           <author>Judith Gautier</author>
           <publisher>Dentu</publisher>

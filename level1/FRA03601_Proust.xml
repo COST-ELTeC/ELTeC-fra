@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">181469</measure>
       </extent>
       <publicationStmt>
@@ -30,7 +30,7 @@
 </publicationStmt>
       <sourceDesc><bibl type="digitalSource">
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
-          
+          <!-- Collection À tous les vents -->
           <date>digital</date>
           <ref target="http://www.beq.ebooksgratuits.com/"/>
         </bibl><bibl type="printSource">
@@ -41,7 +41,7 @@
           <pubPlace>Paris</pubPlace>
           <publisher>Grasset</publisher>
           <date>1913</date>
-          
+          <!-- revised edition Paris: Gallimard, 1919 -->
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">

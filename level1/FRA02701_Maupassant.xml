@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">111187</measure>
       </extent>
       <publicationStmt>
@@ -35,7 +35,7 @@
         </bibl><bibl type="printSource">
           <title>Bel-Ami</title>
           <author>Guy de Maupassant</author>
-          
+          <!-- The exact edition that was used is unknwown. -->
         </bibl><bibl type="firstEdition">
           <title>Bel-Ami</title>
           <author>Guy de Maupassant</author>

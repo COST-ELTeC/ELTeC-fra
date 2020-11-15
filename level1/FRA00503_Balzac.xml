@@ -12,7 +12,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">93205</measure>
       </extent>
       <publicationStmt>
@@ -42,8 +42,8 @@
           <pubPlace>Paris</pubPlace>
           <date>1854</date>
           <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5821334m"/>
-          
-          
+          <!-- Version primitive en feuilleton : 1839 -->
+          <!-- Novel first appeared in "La presse", serial (January-August 1839), then in flight. in 1841 before being included in "The human comedy" in the "Scenes of country life" (t. XIII, 1846) in the part entitled "Studies of manners". -->
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">

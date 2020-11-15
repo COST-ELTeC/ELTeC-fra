@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">119403</measure>
       </extent>
       <publicationStmt>
@@ -50,7 +50,7 @@
     <profileDesc>
       <langUsage>
         <language ident="fr">French</language>
-        
+        <!-- With considerable amounts of colloquial language / spelling -->
       </langUsage>
       <textClass>
         <keywords>
@@ -61,7 +61,7 @@
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long"/>
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="high"/>
-        
+        <!-- Reprints 1970-2009: several. Before 1970: many. After 2009: several. -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>

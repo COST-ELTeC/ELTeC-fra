@@ -20,7 +20,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">56757</measure>
       </extent>
       <publicationStmt>
@@ -45,7 +45,7 @@
           <pubPlace>Paris</pubPlace>
           <date>1903</date>
         </bibl><bibl type="firstEdition">
-          
+          <!-- best guess -->
           <title>La nouvelle espérance</title>
           <author>Comptesse Mathieu de Noailles</author>
           <publisher>Calmann-Lévy</publisher>

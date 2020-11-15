@@ -22,7 +22,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!--  Word count: tokens as counted in text split on "\W+"  -->
         <measure unit="words">70592</measure>
       </extent>
       <publicationStmt>
@@ -47,7 +47,7 @@
           <pubPlace>Paris</pubPlace>
           <date>1866</date>
         </bibl><bibl type="firstEdition">
-          
+          <!--  best guess -->
           <title>Nélida</title>
           <author>Daniel Stern</author>
           <publisher>Amyot</publisher>

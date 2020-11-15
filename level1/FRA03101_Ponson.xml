@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">68667</measure>
       </extent>
       <publicationStmt>
@@ -32,7 +32,7 @@
           <ref target="https://github.com/cligs/romandixneuf/blob/master/master/rd0010.xml">La baronne trépassée</ref>
           <publisher>Computational Literary Genre Stylistics (CLiGS)</publisher>
           <idno type="CLiGS">rd0010</idno>
-          
+          <!-- Originally: Bibliothèque électronique du Québec (BEQ), id 977 -->
         </bibl><bibl type="printSource">
           <title>La baronne trépassée. Tome 1</title>
           <author>Ponson du Terrail, Pierre Alexis</author>

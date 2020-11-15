@@ -16,7 +16,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">55614</measure>
       </extent>
       <publicationStmt>
@@ -33,7 +33,7 @@
           <ref target="http://beq.ebooksgratuits.com"/>
           <date>2005</date>
         </bibl><bibl type="printSource">
-          
+          <!-- Texte écrit par Jules Verne en 1898, version modifiée par Michel Verne, publiée en 1910. -->
           <title>Le secret de Wilhelm Storitz</title>
           <author>Jules Verne</author>
           <publisher>Collection Hetzel</publisher>
@@ -42,7 +42,7 @@
           <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k56063663"/>
         </bibl><bibl type="firstEdition">
           <date>1898</date>
-          
+          <!-- (version de 1910) -->
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
@@ -55,7 +55,7 @@
       <textClass>
         <keywords>
           <term type="narrative-perspective">autodiegetic</term>
-          
+          <!-- Possibly homodiegetic -->
         </keywords>
       </textClass>
       <textDesc>

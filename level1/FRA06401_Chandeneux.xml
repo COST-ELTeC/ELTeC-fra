@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title ref="viaf:missing wikidata:missing">Les Ménages militaires : édition ELTeC</title>
-        
+        <!-- Les Ménages militaires : La Femme du capitaine Aubépin. Les Filles du colonel. Le Mariage du trésorier. Les Deux femmes du major -->
         <author ref="viaf:54272906 wikidata:Q2975144">Chandeneux, Claire de [Bérenger, Louise Lucienne Emma] (1836-1881)</author>
         <respStmt>
           <resp>Principal investigator</resp>
@@ -21,7 +21,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">157157</measure>
       </extent>
       <publicationStmt>
@@ -45,12 +45,16 @@
           <title>Les Ménages militaires</title>
           <pubPlace>Paris</pubPlace>
           <publisher>E. Plon</publisher>
-          
+          <!-- Deuxième édition -->
           <date>1876-1878</date>
         </bibl><bibl type="firstEdition">
           <date>1876</date>
-          
-          
+          <!-- First edition published 1875-1876, according to René-Pierre Colin 2019:83. -->
+          <!-- Second edition completed in 1878:
+          - vol. 1: La Femme du capitaine Aubépin, 1876.
+          - vol. 2: Les Filles du colonel, 1877.
+          - vol. 3: Le Mariage du trésorier, 1877.
+          - vol. 4: Les Deux femmes du major, 1878. -->
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
@@ -69,7 +73,7 @@
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="F"/>
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long"/>
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low"/>
-        
+        <!-- Reprints 1970-2009: None (Ebook: 2015). Before 1970: 1878-1883.  -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>

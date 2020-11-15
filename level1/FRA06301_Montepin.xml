@@ -20,7 +20,7 @@
         </respStmt>
       </titleStmt>
       <extent>
-        
+        <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">145892</measure>
       </extent>
       <publicationStmt>
@@ -59,7 +59,7 @@
         <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
         <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long"/>
         <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="high"/>
-        
+        <!-- Reprints 1970-2009: 1980, 1981. Before 1970: 1885, 1887, 1890, 1803-05, 1908, 1927, 1939, 1942, 1949. -->
         <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
