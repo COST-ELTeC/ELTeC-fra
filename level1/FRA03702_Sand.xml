@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03702" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03702" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,32 +23,39 @@
         <measure unit="words">88169</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2020-11-14" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
-          <ref target="http://beq.ebooksgratuits.com"/>
-        </bibl><bibl type="printSource">
+          <ref target="http://beq.ebooksgratuits.com" />
+        </bibl>
+        <bibl type="printSource">
           <pubPlace>Paris</pubPlace>
           <publisher>Calmann Lévy</publisher>
           <date>1882</date>
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="firstEdition">
           <title>Le dernier amour </title>
           <author>Le dernier amour</author>
           <publisher>Michel Lévy frères</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1867</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5526590r"/>
-        </bibl></sourceDesc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5526590r" />
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -58,14 +68,15 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
+      <change when="2020-11-14">Converted by checkUp script for new release</change>
+      <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
@@ -1107,7 +1118,7 @@
           <p>» Mais voilà qu'au lieu de te calmer, au lieu de te ramener, je te fâche encore !... Tu t'emportes quand je te le dis, et je te le dis sans cesse, c'est comme une fatalité ! Au lieu de me gronder et de me menacer, rassure-moi donc ! Ne sais-tu répondre que par des caresses et du délire ? Ces réponses-là, tu sais bien que, venant de toi, elles sont irrésistibles ; mais nous vivons séparés, nous nous voyons rarement, et plus rarement encore nous pouvons être seuls et bien cachés. Quand il y a des témoins autour de nous, d'où vient que nous nous querellons, que tu sembles me haïr, que je suis prête à te haïr aussi ? C'est monstrueux, le mal que nous nous faisons quand nous voulons revenir à l'amitié, aux relations de famille et d'intérêt commun ! Comment peux-tu croire que je ne pense pas à ton avenir avec plus de prévoyance et de raison que toi-même ? Je vois bien que je n'aurai pas d'enfants, je suis maudite ! Sylvestre en a eu, le malheur vient de moi ! Tu m'avais promis... Non, je suis maudite ! Il faudra bien que tes enfants soient les miens, quoique je ne les aime pas ; mais ce que tu voudras, je le voudrai. Sylvestre ne veut rien, lui. Je l'ai sondé encore hier soir à ce sujet, il ne veut rien. Tu n'as guère à craindre que nous ayons de la famille, puisque, d'ailleurs, tu m'ordonnes de n'être plus que sa sœur. Cela sera si tu m'aimes, je trouverai des défaites, je me dirai malade. Il est si crédule et si dévoué ! Pauvre Sylvestre ! Enfin aime-moi, tout est là. Reviens ardent et noyé d'amour comme tu l'étais d'abord. Sinon, je me tuerai, vois-tu, car je suis très coupable, je le sais. Je ne le sens pas encore beaucoup. Tant que j'aurai de l'espérance, je ferai taire le repentir ; mais, si tu me brises, si tu m'abandonnes, je me haïrai moi-même et je ne supporterai pas la vie.</p>
           <p>» Je te dis tout cela, il le faut ; il faut que tu réfléchisses à l'horreur de ma situation, et que tu prennes garde à toi aussi. Il ne faut pas trop te jouer de ma jalousie et porter aux nues l'imbécile paysanne que tu as épousée par dépit. Je ne réponds pas de ne la point mettre sous mes pieds, si tu la pousses à me braver. -- Ah ! tiens, je deviens folle, je deviens méchante. Moi qui étais généreuse, je ne le suis plus ; tu as tué ma bonté. Je peux encore combler ta femme de prévenances et de présents ; mais me défendre de la détester, c'est impossible, quand je pense à ce second enfant, venu sitôt après le premier, et dans un moment où tu me jurais que ta femme n'était pour toi qu'une servante, que tu ne l'aimais pas ! -- Je suis à plaindre, les heures s'écoulent, Sylvestre s'obstine à rester à son bureau. Je vais employer le moyen que tu m'as donné pour t'écrire, il me paraît sûr. Adieu ; viens bientôt, ou donne-moi un autre rendez-vous, -- ou crains que je n'aille chez toi, -- que je ne dise la vérité à ta femme ou à mon mari. Je suis capable de tout, si tu me laisses encore compter les jours et les semaines dans l'état de désespoir et de fièvre où je suis ! »</p>
         </quote>
-        <milestone type="section" rend="space" unit="newline"/>
+        <milestone type="section" rend="space" unit="newline" />
         <p>Pourquoi aurais-je intercepté cette lettre odieuse et déplorable ? Elle était une épine de plus dans la couronne de blessures que s'était tressée Tonino en croyant se parer des lauriers de la victoire et des myrtes de l'amour. Ces deux malheureux avaient à se châtier l'un par l'autre ; l'expiation était dans son plein. Je ne pouvais que l'abréger par mon intervention. Séparés brusquement, ces deux êtres se regretteraient encore ; il valait mieux les laisser devenir le supplice vivant, incessant, inévitable l'un de l'autre. Je fus implacable, moi, dans ce moment-là !</p>
         <p>— Qu'ils se déchirent et se maudissent ! m'écriai-je ; qu'ils ruinent l'existence l'un de l'autre ! qu'ils se haïssent et se brisent ! C'est ici que cesse pour moi le devoir de la protection.</p>
         <p>Je repliai la lettre, que j'avais lue presque sans la toucher, tant elle me répugnait. Je recollai rapidement et adroitement la boîte. Je courus retrouver le petit Pierre ; je la lui remis.</p>
@@ -1433,7 +1444,7 @@
           <p>» Il n'y pouvait rien non plus, lui ! il voulait m'aimer, il y avait entre lui et moi quelque chose qui le repoussait. Il me l'avait bien prédit que, le jour où il ne m'estimerait plus, je lui deviendrais étrangère et indifférente. Tout cela, c'est ma faute. J'aurais dû t'épouser et te tromper pour lui. Tu me l'aurais pardonné, toi qui n'as pas de cœur et que l'argent console de tout. Voilà ce que je pense de toi, voilà mon adieu. Il le lira, lui à qui je n'ose plus parler. Il crachera sur ton nom et sur mon héritage, qui salirait ses mains pures ; mais il ne crachera pas sur ma tombe. Il y mettra des fleurs, une larme peut-être !... Ah ! Sylvestre, si vous saviez comme je vous aimais !... Mais vous ne pouvez pas le croire, vous ne comprenez pas qu'on aime et qu'on trahisse... -- Vous... Non, je ne veux pas lui parler, je l'irriterais. Tout ce qui est moi vivante lui est amer et repoussant. Allons, il faut mourir. J'ai horreur de la mort pourtant, et je n'aurais jamais cru en venir là ! J'ai été si souvent et si longtemps malade, que je comptais sur elle pour me délivrer de mes tourments... Mais je guéris, je ne souffre plus de mon corps, et mon âme me torture. Il faut que je me la donne à moi-même, cette mort dont j'ai peur !... Eh bien, raison de plus : si j'avais envie de mourir, si je me sentais épuisée, infirme, lasse d'agir, où serait le courage, où serait ma punition ?</p>
           <p>» ... C'est fini, j'ai bu. Vais-je souffrir ? Sera-ce long ? Je sens de la force à présent, je vois clair dans ma vie, je n'ai pas d'excuse. Sylvestre, admirable ; toi, infâme ; moi... l'orgueil m'a empêchée d'accepter ma déchéance. J'ai sans doute commis un grand crime ; mais à quoi bon s'humilier, puisque rien ne peut l'effacer ? La mort seule... Ah ! mourir vite ! -- Oui... bientôt. Je ne peux plus penser. -- Tout est lourd. Tout m'écrase. L'air m'écrase. Tout me... rien ne... Félicie... trente-deux ans... morte le... je ne sais plus. »</p>
         </quote>
-        <milestone type="section" rend="space" unit="newline"/>
+        <milestone type="section" rend="space" unit="newline" />
         <p>Je relus plusieurs fois cette lettre navrante, je la recopiai pour la conserver, et j'envoyai l'original, comme lettre de faire part, à celui dont l'amour avait tué Félicie.</p>
         <p>Je me demandais cependant avec effroi si je n'étais pas, autant que lui, le meurtrier de cette infortunée. Par le fait, hélas ! oui ! Si j'avais pu lui rendre mon amour, elle eût pu vivre. Je ne croyais plus au sien ; il était mêlé, depuis une année, de trop de colère et de ressentiment. L'orgueil blessé avait amené la haine et le désespoir. Si j'avais su feindre, je l'aurais sauvée ; mais il est des natures qui ne peuvent pas mentir et qui l'essaieraient en vain. Pouvais-je me reprocher de n'être pas un hypocrite ? Et même, au-delà de la mort, pouvais-je faire grâce à cette femme qui n'avait pas voulu accepter la conséquence inévitable de son égarement, et qui semblait chercher à me punir de sa faute en m'infligeant un éternel remords ?</p>
         <p>Je fis grâce pourtant. Je sentis dans ce suicide le côté mal éclairé, mais réel, d'une grandeur native. Félicie avait aspiré à l'idéal sans le bien connaître. Elle avait eu soif d'honneur, elle avait cru qu'on peut le perdre et le retrouver, puisque, déjà déchue, elle avait gagné mon respect et reçu ma foi. Elle n'avait pas été libre de réfléchir, au jour de la seconde chute, et, après cette chute, elle avait été moins libre encore de comprendre sa situation et la mienne. La lumière de l'âme ne traverse pas impunément certaines ténèbres. La conscience s'oblitère, le flambeau intérieur pâlit de plus en plus. Dans ce demi-jour de sa raison et de son affection pour moi, elle avait espéré se purifier par une mort qu'elle jugeait héroïque, et dont l'athéisme n'avait pas empêché l'épouvante. Cela était affreux, mais elle avait, certes, cru faire le contraire d'une lâcheté, puisqu'elle comptait sur le sacrifice de sa vie pour se racheter à mes yeux. Pauvre Félicie !</p>

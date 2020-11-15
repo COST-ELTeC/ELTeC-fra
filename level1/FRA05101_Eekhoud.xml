@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA05101" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA05101" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,15 +23,19 @@
         <measure unit="words">48550</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2020-11-14" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <publisher>Bibebook</publisher>
           <ref target="http://www.bibebook.com/ebook/libre/georges_eekhoud-lautre_vue.epub">http://www.bibebook.com/ebook/libre/georges_eekhoud-lautre_vue.epub</ref>
           <respStmt>
@@ -36,19 +43,22 @@
             <name>Gabriel Cabos </name>
             <name>Fontes : David Rakowski's Manfred Klein Dan Sayers Justus Erich Walbaum - Khunrath</name>
           </respStmt>
-        </bibl><bibl type="printSource">
+        </bibl>
+        <bibl type="printSource">
           <title>L'Autre vue</title>
           <author>Georges Eekhoud</author>
           <publisher>Société du "Mercure de France"</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1904</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k62081h"/>
-        </bibl><bibl type="firstEdition">
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k62081h" />
+        </bibl>
+        <bibl type="firstEdition">
           <date>1904</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -60,15 +70,16 @@
         </keywords>
       </textClass>
       <textDesc>
-        <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
-        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short"/>
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low"/>
+        <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
+        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
         <!-- Reprint count 1970-2009: None. Before 1970: 1925, 1926. After 2009: 2015, 2016 (Hachette-BnF), 2017 (Forgotten Books). -->
-        <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
+        <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
+      <change when="2020-11-14">Converted by checkUp script for new release</change>
+      <change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-04-05">entête auto-généré: à compléter </change>
     </revisionDesc>
   </teiHeader>
@@ -78,7 +89,7 @@
 
         <head> Georges Eekhoud </head>
         <p>L'Autre vue </p>
-        <gap unit="graphic"/>
+        <gap unit="graphic" />
         <p>Un texte du domaine public.</p>
         <p>Une édition libre.</p>
         <p>L'âme pâtit en tant qu'elle a des idées inadéquates.</p>
@@ -106,7 +117,7 @@
           <p>Gœthe (Venetianische Epigramme)</p>
         </quote>
         <p>Les papiers publics se sont beaucoup occupés d'une affaire mystérieuse : celle de ce jeune fossoyeur condamné à six mois de prison pour violation de sépulture et emporté depuis par une fièvre cérébrale. Ils ont mis en cause, son nom ayant été mêlé aux débats judiciaires, feu M. Laurent Paridael, cousin de Régina Dobouziez, ma femme, laquelle avait épousé en premières noces M. Freddy Béjard qui périt si misérablement avec la plupart de ses ouvriers dans l'explosion de sa cartoucherie
-          <ref target="#FRA05101_N1"/>. Notre parent Laurent Paridael fut aussi relevé pour mort sur le terrain de la catastrophe. Plût à Dieu qu'il n'en eût pas réchappé. Il n'aurait plus traîné alors une vie déclassée, il se serait épargné de mourir plus piteusement encore par un suicide, après force excentricités. Son honorable famille n'eut point subi l'humiliation de voir son nom accolé à celui d'un malfaiteur et sa mémoire exposée aux commentaires d'une presse friande de scandales.</p>
+          <ref target="#FRA05101_N1" />. Notre parent Laurent Paridael fut aussi relevé pour mort sur le terrain de la catastrophe. Plût à Dieu qu'il n'en eût pas réchappé. Il n'aurait plus traîné alors une vie déclassée, il se serait épargné de mourir plus piteusement encore par un suicide, après force excentricités. Son honorable famille n'eut point subi l'humiliation de voir son nom accolé à celui d'un malfaiteur et sa mémoire exposée aux commentaires d'une presse friande de scandales.</p>
         <p>Sans doute, il me répugne de remuer ces souvenirs, mais il a circulé tant de racontars sur le caractère et la conduite de notre infortuné parent que j'ai jugé indispensable de rectifier les faits.</p>
         <p>Ce fut un personnage déconcertant, qui porta un défi aux convenances, mais il s'était fait une idée spéciale de l'humanité et de la nature, et en tenant compte de cette vision particulière, on reconnaîtra qu'il apporta certaine logique dans ses écarts et qu'il concilia ceux-ci avec une générosité chevaleresque ressemblant à une manière d'apostolat.</p>
         <p>Je l'ai intimement pratiqué, surtout avant mon mariage avec sa cousine M<hi>me</hi> veuve Béjard. Nos bons rapports subsistèrent jusqu'à ce que ses anomalies fussent devenues si flagrantes que sans rompre avec lui, je me vis forcé, par égard pour mon rang et mes relations, de ne plus m'afficher en sa compagnie.</p>
@@ -117,7 +128,7 @@
         <p>En livrant ces mémoires à la publicité, je me flatte aussi de rendre service aux savants qui s'occupent de nos psychoses et qui nous prémunissent contre les écarts de ce que, dans notre infatuation, nous avons qualifié de génie. Le cas de Paridael me paraît, certes, de nature à intéresser ces spécialistes. Un problème d'un ordre extrêmement actuel se rattache à sa fin comme aussi à la mésaventure de cet obscur manœuvre dont je parlais en commençant.</p>
         <p>Après ces indispensables prolégomènes, je me reporterai à l'époque où je fis la connaissance de Laurent Paridael.</p>
         <p>Ce fut lors d'un dîner sans cérémonie chez M. et Mme Dobouziez, les grands industriels, fabricants de bougies stéariques, mes futurs beaux-parents. Orphelin depuis deux ans et placé par ses tuteurs, mes amphytrions
-          <ref target="#FRA05101_N2"/>, dans un collège lointain, le jeune Laurent était venu passer ses vacances au pays.</p>
+          <ref target="#FRA05101_N2" />, dans un collège lointain, le jeune Laurent était venu passer ses vacances au pays.</p>
         <p>Nous nous étions mis à table. M. Dobouziez servait le potage. Les domestiques continuaient à réclamer Laurent à cor et à cri, l'un au pied de l'escalier, l'autre à la porte de la rue, un troisième à celle du jardin. Le retardataire accourut enfin essoufflé et tout en nage. C'était un garçon de figure intéressante, très solide pour ses quatorze ans, un large front offusqué par des broussailles de cheveux châtains, de grands yeux caves et cernés, le regard farouche d'une bête traquée, la bouche assez forte plissée par une expression précoce de malaise et d'amertume. Des écorchures aux joues et aux mains, un costume neuf couvert de boue et déjà troué, indiquaient un tempérament de casse-cou et un adepte des exercices violents.</p>
         <p>En le voyant équipé de cette façon, M. Dobouziez fronça les sourcils et le foudroya du regard :</p>
         <p>— Comme vous voilà fait ! Allons, dépêchez-vous de monter à votre chambre et ne revenez que lorsque vous serez présentable !</p>
@@ -131,7 +142,7 @@
         <p>Parfois ils pivotent sur eux-mêmes, se tournent le dos, s'éloignent quelque temps pour pirouetter de nouveau, se refaire vis-à-vis et se rapprocher, de la même allure réglée, sur le pas sonore de leur outil. On dirait d'une danse très lente, d'un menuet du travail.</p>
         <p>Il leur arrive de s'arrêter pour reprendre haleine et échanger quelques puérilités auxquelles leur sourire prête une portée ineffable. Ils rejettent leur coiffe en arrière, se calent, les poings sur les hanches ou les bras croisés, les jambes un peu écartées, après s'être essuyé le front d'un revers de main ou à la manche de la chemise. Braves gens ! Leur sueur embaume autant que la sève des sapins et des rouvres ; elle est l'encens de cet office agréable au Seigneur. Quelle prière vaut leur travail ?</p>
         <p>Hier, au tournant d'une rue dans le centre de la ville, j'entrevis un admirable jeune charretier. Il se tenait debout sur son tombereau vide, le fouet et la longe à la main, de l'air dont il eût conduit un quadrige. Il souriait d'un sourire aussi intrépide que le claquement de son fouet ou le hennissement de son cheval. En somme, pourquoi souriait-il ? Il y avait du soleil, la vie lui était bonne. Ce petit ouvrier condensait, en sa personne réjouie, tout le relief et le cachet professionnels. Il quintessenciait la corporation. Au carrefour suivant, il vira, disparut, fouet claquant, char cahotant, la bouche goulue et les yeux incendiaires, rosé et ambré, poignant de crânerie et de jeunesse : Antinoüs
-          <ref target="#FRA05101_N3"/> charretier.</p>
+          <ref target="#FRA05101_N3" /> charretier.</p>
         <p>Tel chiffonnier, tel mendiant, me fait tomber en arrêt ; je leur demanderais de venir me voir chaque jour, de m'être un régal pour les yeux. Ces pauvres diables ignorent leur splendeur. Nul n'estimerait celle-ci comme je le fais.</p>
         <p>Il m'arrivera de m'éprendre d'une simple voix. Un gagne-petit criant son sable, ses fagots, ses moules ; appelant les os et les drilles dans sa hotte ou sa besace, résume en une intonation toute la navrance d'un adagio. Ces haillons de voix accumulent le pathétisme d'une vie de lutte et de misère.</p>
         <p>Je me rappelle une nuit d'été ou deux gaillards allaient et venaient en se querellant sous ma fenêtre. Réveillé en sursaut et de méchante humeur, je bondis pour envoyer ces braillards à tous les diables. M'étant penché au dehors, le charme de la nuit ou plutôt un autre charme que je ne tardai pas à m'expliquer, m'empêcha d'intervenir. Je ne parvenais pas à distinguer mes deux querelleurs ; en revanche, je les suivais des oreilles. Ils se disaient des injures en une langue que je ne saisissais pas, qui était sans doute au flamand ce que l'argot est au français. De quelles voix ils proféraient ces injures ! Sans les voir je me serais pris à les aimer pour leurs voix lyriques ! Etaient-ce des escarpes qui se disputaient un butin ou deux amis, rivaux en amour ? L'un accusait l'autre et celui-ci se défendait avec chaleur. En viendraient-ils aux prises ?</p>
@@ -212,10 +223,8 @@
         <p>Tu crois, cousin ?</p>
         <p>Beaucoup n'ont qu'un temps, une saison de beauté. Ils passent comme une fleur, un insecte rare. Précoces, ils mûrissent trop vite. Rien de plus intensif que l'atmosphère de leur milieu. Aussi se fanent-ils prématurément. Leur vie n'est qu'une aube, qu'une adolescence. Heureusement, ils sont aussi prolifiques qu'éphémères et leur progéniture leur ressemble bientôt pour mes suprêmes délices.</p>
         <p>L'âge auquel je les préfère ? Aux approches de la conscription et parfois, plus tôt encore, dès l'époque où l'apprentissage d'un métier et les premières escapades commencent à leur donner du roux, à l'heure du déniaisage, du duvet à la lèvre et du poil follet au menton ; au moment de cette puberté si irritante chez les gamins élevés à la grâce de Dieu, puis entrepris par des initiateurs sans vergogne ; à la minute climatérique où la mue rogue et dyscole, fanfaronne de vice et de cynisme, prodigue aussi de câlines gaucheries et de naïves détentes ; à la saison où ils jettent leurs gourmes en s'abandonnant en toute licence à leurs postulations de moineaux francs, pillards, batailleurs et voluptueux.</p>
-        <p>L'accoutrement de mes voyous subit des caprices et des modes tout comme celui des mondains ; fluctuations lentes et moins radicales qu'en haut de l'échelle, mais caractéristiques. S'ils ne vont pieds nus – et combien ces pauvres paturons
-          , calleux et poudreux, émergent pathétiquement des penaillons
-           et des franges de leur « folzar
-          <ref target="#FRA05101_N6"/> » – ils chaussent des sabots blancs ou jaunes, très pâles ou orangés comme les fromages de la Hollande. On en trouve à la pointe relevée comme un crochet de patin frison ou une proue de gondole, peints de diverses couleurs, ciselés et taillés, même dorés, historiés de figures et d'attributs, le tout d'une fantaisie délicieusement barbare.</p>
+        <p>L'accoutrement de mes voyous subit des caprices et des modes tout comme celui des mondains ; fluctuations lentes et moins radicales qu'en haut de l'échelle, mais caractéristiques. S'ils ne vont pieds nus – et combien ces pauvres paturons , calleux et poudreux, émergent pathétiquement des penaillons et des franges de leur « folzar
+          <ref target="#FRA05101_N6" /> » – ils chaussent des sabots blancs ou jaunes, très pâles ou orangés comme les fromages de la Hollande. On en trouve à la pointe relevée comme un crochet de patin frison ou une proue de gondole, peints de diverses couleurs, ciselés et taillés, même dorés, historiés de figures et d'attributs, le tout d'une fantaisie délicieusement barbare.</p>
         <p>Parfois mes favoris connaissent des saisons de luxe durant lesquelles ils porteront des chaussures de cuir. On n'en voit que la pointe à cause de la guêtre ou du pied d'éléphant formé par le bas de la « culbute » (que l'argot a de noms suggestifs pour le vêtement bifurqué !) dont il importé que le haut bride les fesses et les cuisses. D'autres jours, ils traîneront des savates et des espadrilles qu'ils s'amusent à quitter et à reprendre ; ils laceront des bottines jaunes sur leurs chaussettes lie de vin ou feront sonner de lourdes bottes à gros clous – un luxe que ces clous !</p>
         <p>Généralement ils vont habillés de ce velours côtelé appelé piloux qui – sans préjudice des autres tons : mastic, réséda ou vert bouteille – parcourt toute la gamme des bruns, depuis le jaune d'or ou le roux flamboyant jusqu'au havane ou au chocolat. S'ils ne parviennent à se fendre de tout le complet de velours, leurs jambes au moins sont culottées de cette ragoûtante étoffe aussi caressante à l'œil que douillette au toucher, de ces velours tirant sur le pelage des félins, tièdes comme une fourrure, électrisés, dirait-on, par les réactions de la marche, les manœuvres, les jeux et les rixes de leurs propriétaires. Avec le temps ces velours se bonifient comme le vin et les cigares. Au relief des coudes, des fesses et des genoux, l'étoffe se met à luire, puis à se râper, jusqu'à ce qu'enfin sous les guenilles rapiécées à outrance, la chair montre sa couleur de pain bis ou de poisson fumé. Le plus souvent sans veste, sans bourgeron, sans vareuse de gros bleu marine, ils endossent des jerseys bleus aussi, mais parfois de différentes couleurs, zébrés à la façon des maillots de canotiers ou d'acrobates. Ces tricots échancrés dégagent la rude et ferme encolure comme chez les matelots. Combien mes lurons portent beau et se moulent avantageusement dans ces gaines élastiques ! S'ils s'appliquent une chemise, ils la choisissent de flanelle et de couleur. Ils ne se prêteront que rarement au supplice du carcan empesé et ils se passent presque autant de cravate, à moins que leur limace assez décolletée n'ait un collet rabattu sous lequel ils glissent une voyante lavallière, une écharpe nouée à la marine ou une cordelière à glands multicolores.</p>
         <p>Jamais de paletot, ou bien ils n'ont que cela sur le corps. Mais l'hiver tous s'emmitouflent la gorge et la nuque jusqu'au nez dans un de ces larges cache-misère dont ils rejettent les deux bouts sur le dos ; tandis que les jambes grelottent sous des chausses presque réduites en charpie.</p>
@@ -497,7 +506,7 @@
         <p>— Elle…</p>
         <p>— Elle ! Qui ça, elle ?</p>
         <p>— Blonte-Mie. Sa gigolette. L'ancienne à Kassul, pour qui nous sommes même allés nous battre contre ceux de Molenbeek, comme si les caresses de pareille garse
-          <ref target="#FRA05101_N7"/> valaient la peine de semer la brouille entre des copains.</p>
+          <ref target="#FRA05101_N7" /> valaient la peine de semer la brouille entre des copains.</p>
         <p>Et voilà que mes deux braves truands brandissant le poing, tapant du pied, les larmes aux yeux, entament un récit qu'ils sont obligés d'interrompre pour se mordre les lèvres et ne pas éclater en sanglots. Leur émotion me gagne. A un moment, nous pleurions tous trois. Quand je me représente ce beau, ce franc et solide Bugutte livré au scalpel des carabins !</p>
         <p>— Hier, à ce que nous rapportèrent les logeurs, ses voisins, il rentra un peu tard et un peu gris, mais pas méchant, selon sa coutume. Blonte-Mie l'accabla de sottises, lui reprochant de prétendues sorties avec d'autres femmes. Comme elle lui réclamait l'argent de ses fleurs et qu'il refusait, elle a menacé de le fouiller. Il l'a repoussée, elle a osé le frapper ; il a tanné dessus pour avoir la paix. Puis il s'est endormi… Elle a profité de son sommeil pour lui verser dans l'oreille tout le contenu d'une bouteille de vitriol, plus d'un litre. Aux rugissements du martyr les voisins sont intervenus. Blonte-Mie paie d'audace : Tich serait sujet à des attaques de delirium tremens. Mais on découvre la bouteille. L'odeur trahit la gaupe. Tandis que les uns emportent Bugutte à Saint-Pierre où il succomba quelques instants après dans les convulsions ; d'autres se hâtent d'avertir la police.</p>
         <p>Demeurée seule, Blonte-Mie en profite pour fermer la porte de la rue et remonte se barricader dans sa chambre. La nouvelle s'est répandue. Nous accourons et trouvons la rue sens dessus dessous.</p>
@@ -777,7 +786,7 @@
         <p>Il y a tout lieu de supposer que, depuis ce moment, et peut-être même avant cette malencontreuse promenade à Trémeloo, Paridael nous assimilait tous tant que nous étions, Marbol, Vyveloy et moi-même, à ce pauvre fonctionnaire qu'il citait en toutes lettres dans son journal, mais dont j'ai tu le nom. Sans doute, notre fantasque ami dût-il se livrer plus d'une fois au milieu de nous à des commentaires semblables à ceux dont il bafouait, en <hi>catimini</hi>, les réflexions pleines de bon sens de ce brave homme. Il devenait de plus en plus irritable et agressif, et ne souffrait aucune contradiction. Je le vois debout, gesticulant, pleurant presque de rage, la voix rauque de sanglots, le visage convulsé. Son état s'expliquait par la mort et la disparition de ses « amis » de Bruxelles, sur lesquels il ne nous avait jamais touché un mot. Une visite à une maison pénitentiaire de la Campine, où il croyait retrouver sans doute Jef, Cassisme et Zwolu, aggrava encore son hypéresthésie. Je transcris une partie de la relation qu'il nous fit de cette descente aux enfers sociaux, et qu'il rapporte dans son journal avec la vive discussion à laquelle elle donna lieu entre Marbol et lui.</p>
         <p>A Merxplas, l'émotion la plus forte m'attendait dans un atelier où, par équipes de vingt à trente, les colons attelés aux rais d'une énorme roue sans jantes, font tourner la meule d'un moulin et broient eux-mêmes le grain du pain destiné à leur consommation.</p>
         <p>Quand je fus arrivé à distinguer assez clairement les visages dans le clair-obscur de cette salle noire et basse, saturée de sueur volatilisée et retentissante de soupirs et de cris d'ahan, le directeur de l'établissement attira mon attention sur deux de ses pensionnaires. On les appelait Appol et Brouscard
-          <ref target="#FRA05101_N8"/>, et ils donnaient l'exemple d'une amitié comme on n'en rencontra que chez les Grecs. Brouscard était un brun vigoureux, dont le sourire de bravoure, en tournant crânement la meule, me parut plutôt triste. L'autre, Appol, un blondin, le contemplait avec une sorte d'admiration anxieuse, ne perdant pas un des mouvements du fort garçon. J'appris que celui-ci prenait à son compte la corvée du gringalet et lui en abandonnait le salaire, c'est-à-dire la poignée de monnaie fictive au moyen de laquelle les prisonniers se procurent quelque douceur : tabac, fruits, bière et laitage.</p>
+          <ref target="#FRA05101_N8" />, et ils donnaient l'exemple d'une amitié comme on n'en rencontra que chez les Grecs. Brouscard était un brun vigoureux, dont le sourire de bravoure, en tournant crânement la meule, me parut plutôt triste. L'autre, Appol, un blondin, le contemplait avec une sorte d'admiration anxieuse, ne perdant pas un des mouvements du fort garçon. J'appris que celui-ci prenait à son compte la corvée du gringalet et lui en abandonnait le salaire, c'est-à-dire la poignée de monnaie fictive au moyen de laquelle les prisonniers se procurent quelque douceur : tabac, fruits, bière et laitage.</p>
         <p>— N'est-ce pas bizarre et humiliant pour les honnêtes gens, me fit observer le directeur, que ces drôles donnent un pareil exemple de dévouement ? Plus d'une fois, j'assistai entre eux à des combats de générosité qui m'eussent touché jusqu'aux larmes, si j'avais ignoré la tare de mes héros. Une mère n'a pas plus de soins pour son enfant malingre que ce robuste bougre n'en prodigue à son protégé débile. Hélas ! que ne sont-ils accouplés pour le bien comme pour le mal ! Car, il importe de le constater, si, chez les Hellènes, les amis luttaient de civisme et de courage au service de la patrie ou du bien public, tombaient ensemble dans la bataille, ou s'ils risquaient leur vie pour frapper le tyran de leur cité, ceux-ci scellèrent un pacte moins honorable, et ils ne sortiront d'ici que pour rivaliser d'exploits criminels et s'entraîner réciproquement aux pires forfaitures !</p>
         <p>Je trouvai en ce moment le brave garde-chiourme un peu prud'hommesque, et, comme la légende le rapporte de Denys de Syracuse, j'aurais voulu retourner sur mes pas, me présenter à ces deux inséparables et leur demander, ainsi que le tyran à la fin de la célèbre ballade de Schiller, à faire le troisième dans le mariage fraternel de ces Damon et Phytias du pénitencier :</p>
         <l>Nehmt auch mich zum Genossen</l>
@@ -823,7 +832,7 @@
         <p>Malgré le vandalisme administratif, l'architecture du château préserve en partie son grand air aristocratique. De l'intérieur, il n'y a rien à dire. Les éternelles salles blanches ou ocres des casernes, des hôpitaux et des prisons. Le même mobilier sommaire et banal, sans caprice et sans imprévu. Des ergastules à peine plus viciés que les ateliers des travailleurs libres. Ni tableau, ni gravure. Parfois un Christ en plâtre, un Sacré-Cœur en chromo.</p>
         <p>Quelques jours avant mon arrivée, aux caissons et aux trumeaux d'un salon décoré autrefois par un élève de Boucher et devenu un réfectoire, la blondeur rosée des déesses et des amours risquait de timides provocations et souriait à travers les haillons de leur linceul de chaux. Nos polissons reluquaient ces joliesses. Vite on a requis les badigeonneurs.</p>
         <p>Mais la vivante quoique prisonnière jeunesse passionne les maussades locaux, comme elle attendrit et humanise en quelque sorte la solennité du pays d'alentour. Sans nos petits correctionnaires, la contrée serait à peu près déserte. Elle devra sa fertilité future à ces défricheurs malgré eux. Et pourtant, nous semblons faire le vide autour de nous. La quarantaine, l'interdit se prolonge même au-delà de la tombe : morts, les colons ne vont point jusqu'au cimetière du village dont les premiers feux ne commencent à s'éparpiller qu'à deux lieues du château. Nos pauvres petits défunts continuent à être parqués entre eux, comme de leur vivant, dans un coin isolé de la plaine indiqué par une demi-douzaine de croix noires. Mais la bruyère se charge de fleurir opulemment cette sépulture des jeunes parias et, en toute saison, elle la drape de violet comme pour le deuil des rois
-          <ref target="#FRA05101_N9"/> !</p>
+          <ref target="#FRA05101_N9" /> !</p>
         <p>C'est Anvers et Bruxelles, surtout Bruxelles, qui fournissent le plus de pensionnaires à Poulderbauge. Il nous en arrive de telles rafles qu'on semble les avoir « pressés » dans leurs sentines, comme on recrutait autrefois les matelots. La brusque métamorphose de ces enfants du pavé en de petits paysans contribua pour beaucoup à l'impression étrange que j'éprouvai en arrivant ici. La physionomie malicieuse et les allures dégingandées de ces citadins endurcis contrastent avec leur accoutrement de valet de ferme. Même lorsque le plein air les a un peu halés et lorsque le farineux régime alimentaire les a légèrement bouffis, ils ont toujours la mine de paysans plus précoces et plus raffinés que ne le seraient de véritables villageois à leur âge.</p>
         <p>En dévisageant les nouveaux venus, je m'attends à voir surgir, parmi ces têtes chiffonnées et pourtant si expressives et si prenantes, les frimousses de Zwolu et de Cassisme. C'est ainsi qu'ils doivent être attifés à Ruysselède. Il me semble retrouver mes voyous bruxellois un jour de Mardi-Gras où on me les aurait déguisés en palefreniers, en porchers, en garçons de charrue, voire en mousses et en pasteurs, d'autant plus que leur chapeau de paille à ruban leur donne un faux air bucolique de berger d'opéra.</p>
         <p>Les jours de la semaine, ils portent la même blouse bleue lâche et flottante comme le sarrau des Campinois ; le dimanche, lorsqu'ils en endossent une propre, ils la serrent d'une ceinture noire à boucle de cuivre. Les mousses renfoncent leur blouse dans leur pantalon. Pour tous, celui-ci est de drap noir les jours de fête et de coutil les autres jours. Généralement, ils ont un foulard rouge au cou.</p>
@@ -1052,7 +1061,7 @@
         <p>Loué et béni le Créateur tout-puissant ! Grâces lui soient même rendues pour ces épreuves sans lesquelles je n'aurais jamais connu ces cuisantes dilections et sans lesquelles je n'aurais jamais été aveuglé par la sombre splendeur de ses pauvres créatures… Mais à présent, mon Père, je veux retourner auprès de vous, porté sur leurs haleines confondues !</p>
         <p>Où donc ai-je lu cette pensée ? « Dans certaines îles sans annales où les foyers préhistoriques demeurent encore à fleur de terre, l'eau, le lait, les œufs, tout est cru, sans saveur. Sur ce sol trop neuf que n'ont point fait des cadavres, l'homme ne peut rien trouver que d'insipide. Il faut le goût de la cendre dans la coupe du plaisir. Pour m'arrêter au plus beau paysage j'y veux des tombes parlantes. Tout être vivant naît d'un sol, d'une race, d'une atmosphère, et le génie ne se manifeste tel qu'autant qu'il se relie étroitement à la terre et à ses morts. Le cimetière c'est la patrie. Une nation c'est la possession en commun d'un antique cimetière et la volonté de faire valoir cet héritage indivis. Avec une chaire d'enseignement et un cimetière on a l'essentiel d'une patrie. »</p>
         <p>Ces lignes profondes
-          <ref target="#FRA05101_N10"/> me mettent sur la piste de ce que je ressens moi-même ; elles m'édifient sur mes postulations ; elles me révèlent mes attaches et ma raison d'être.</p>
+          <ref target="#FRA05101_N10" /> me mettent sur la piste de ce que je ressens moi-même ; elles m'édifient sur mes postulations ; elles me révèlent mes attaches et ma raison d'être.</p>
         <p>Or, fut-il cimetière plus riche, humus ou compost humain plus fait, plus concentré que dans ces terreaux de Brabant, de Flandre et d'Anvers, mes provinces préférées ? Voilà pourquoi les êtres si beaux m'y touchèrent de plus près qu'ailleurs.</p>
         <p>Il y a mieux : en partant de cette découverte je m'analyse plus profondément encore, je me suis initié à moi-même, je me saisis.</p>
         <p>Je m'explique enfin, Seigneur, le prestige déraisonnable – au point de vue de mes contemporains et de la norme – que ces jeunes terrassiers aux frusques de velours fauves exercèrent sur ma sensibilité. Ils sont faits à l'image de la terre, ils portent la livrée de la glèbe ; elle les graisse, elle les enduit, elle les oint et les pétrit sans cesse, elle les imprègne, elle les flatte ; elle les encrasse provisoirement en attendant que, jalouse et insatiable, après s'être jouée d'eux et les avoir éclaboussés de sa boue, saupoudrés de sa poussière, elle les reprenne tout à fait dans sa gueule dévorante et qu'elle les engloutisse et les fasse fondre dans ses entrailles. Elle est la terre, la mort, la fin à laquelle j'aspire.</p>

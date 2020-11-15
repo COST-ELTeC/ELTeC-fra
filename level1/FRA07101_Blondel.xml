@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA07101" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA07101" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,36 +27,43 @@
         <measure unit="words">42483</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2020-11-14" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <title>Élise, ou l'éducation particulière</title>
           <author>Adèle Blondel</author>
-          <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k5625757r"/>
+          <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k5625757r" />
           <publisher>BnF</publisher>
           <date>2009</date>
-        </bibl><bibl type="printSource">
+        </bibl>
+        <bibl type="printSource">
           <title>Élise, ou l'éducation particulière</title>
           <author>Adèle Blondel</author>
           <publisher>Mégard</publisher>
           <pubPlace>Rouen</pubPlace>
           <date>1856</date>
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="firstEdition">
           <title>Élise, ou l'éducation particulière</title>
           <author>Adèle Blondel</author>
           <publisher>Mégard</publisher>
           <pubPlace>Rouen</pubPlace>
           <date>1856</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -65,14 +75,15 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
+      <change when="2020-11-14">Converted by checkUp script for new release</change>
+      <change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-09-21">File created</change>
     </revisionDesc>
   </teiHeader>
@@ -653,7 +664,7 @@
         <p>– Je vous en prie, ma chère, dit Elise à son amie, tâchez de finir votre récit avant l'arrivée de Mme de Séligny, car alors nous ne serons plus seules. </p>
         <p>– Ce qui me reste à vous apprendre ne sera pas long, répondit Léonie, je continue : </p>
         <p>Me voici donc revenue avec mon père pour ne plus le quitter ; ce fut une grande joie pour tous deux. J'avais la douce liberté d'une maîtresse de maison ; je m'occupais des détails du ménage et je me rendais utile à mon père en l'aidant dans ses écritures. Nous n'avions pas de fortune, mais nous vivions honorablement dans notre médiocrité. Quelques amis venaient à certains jours égayer notre solitude ; nous passions nos soirées sans aucun ennui : tantôt je faisais de la musique ; mon père y prenait grand plaisir, car il chantait lui-même fort bien ; il avait une gaieté charmante et se plaisait à me raconter les principaux événements de sa vie ; d'autres fois je lui faisais d'agréables lectures, plus souvent encore une partie de dames ou de piquet : c'était lui qui m'avait appris ces jeux qu'il aimait beaucoup. L'été nous faisions de jolies promenades ensemble ; enfin mon père me répétait souvent qu'il ne s'était jamais trouvé si heureux, même au temps de sa plus haute fortune. Ces paroles me comblaient de joie. Quatre ans se passèrent de la sorte. Hélas ! le bonheur n'est pas fait pour cette vie ! De nouveaux revers vinrent nous assaillir : mon père, qui était la bonté même, ne pouvait jamais refuser un service. On connaissait son caractère ; plusieurs intrigants abusèrent de sa trop grande bonté ; il prêta des sommes qui n'étaient pas en elles-mêmes considérables, mais qui l'étaient pour sa position et qui furent tout à fait perdues. Ce malheur nous réduisit à la plus pénible situation ; je fis tout ce qui dépendait de moi pour l'adoucir : je donnais des leçons, je travaillais, et à force de soins et d'économie j'épargnais à mon père des privations qu'il n'aurait pu supporter. Mais le chagrin s'empara de lui, insensiblement sa gaieté disparut ; il devint taciturne et rêveur ; plus d'une fois je l'entendis soupirer et je le vis verser des larmes qu'il s'efforçait de me cacher. C'est alors que je fus bien malheureuse, car je comprenais toutes ses peines et je ne pouvais y remédier. Cela dura environ six ans. Nous arrivâmes à cette époque fatale où le fléau destructeur promena ses ravages dans la capitale ; mon père en fut atteint ; jugez de mon désespoir ! mes soins ne purent le sauver ; il succomba après deux jours d'affreuses souffrances ; il demanda les secours de la religion et mourut dans mes bras en me bénissant. </p>
-        <p/>
+        <p />
         <p> Ici Léonie fut obligée de s'arrêter : ses pleurs lui coupaient la parole. Mlle Derville y mêla les siens. Après quelques instants de silence : </p>
         <p>– Ah ! mon amie, lui dit-elle, je comprends tout ce que vous avez souffert ; Dieu seul peut adoucir et consoler des peines de cette nature. Sans doute, il ne vous abandonna pas. </p>
         <p>– Il est vrai que sa bonté veilla sur moi d'une manière sensible ; mais j'eus d'abord des souffrances, des embarras et des misères de toutes sortes. </p>
@@ -723,165 +734,165 @@
         <p>Elise avait l'habitude, ces jours-là, de laisser les enfants seules, afin qu'elles pussent s'amuser en toute liberté ; elle se tenait dans la chambre voisine, mais de manière à pouvoir entendre ce qui se passait dans le salon. </p>
         <p>D'abord on s'entretint de nouvelles indifférentes, ensuite chacune raconta ce qui l'intéressait plus particulièrement. </p>
         <p>– Pour moi, dit l'aimable Marie, je suis bien contente ; j'ai été la première à la composition d'orthographe et à celle d'écriture. Voilà une bonne semaine ; si cela continue, j'espère bien avoir deux premiers prix, ajouta-t-elle avec une légère nuance d'amour-propre. </p>
-        <p/>
+        <p />
         <p> LOUISE. </p>
-        <p/>
+        <p />
         <p> Voilà qui est merveilleux ! dans une classe toute composée de petites filles ! Parmi les aveugles... </p>
-        <p/>
+        <p />
         <p> LAURE. </p>
-        <p/>
+        <p />
         <p> Finis donc, Louise, ne vas-tu pas encore te moquer de Marie ? Tu me ferais croire que tu en es jalouse. </p>
-        <p/>
+        <p />
         <p> LOUISE. </p>
-        <p/>
+        <p />
         <p> Moi ! point du tout, je t'assure ; mais seulement je n'aime pas qu'elle se vante pour si peu de chose. </p>
-        <p/>
+        <p />
         <p> MARIE. </p>
-        <p/>
+        <p />
         <p> Les élèves de ma classe ne sont plus des enfants ; elles sont de mon âge : il y en a même une grande qui a quinze ans. </p>
-        <p/>
+        <p />
         <p> LAURE. </p>
-        <p/>
+        <p />
         <p> Tu as raison d'être contente, ma petite, parce que tes succès font beaucoup de plaisir à tes parents. Aussi je t'en fais mon compliment bien sincère. </p>
-        <p/>
+        <p />
         <p> HENRIETTE. </p>
-        <p/>
+        <p />
         <p> Et moi aussi, ma chère amie. </p>
-        <p/>
+        <p />
         <p> LAURE. </p>
-        <p/>
+        <p />
         <p> As-tu appris la romance que je t'ai prêtée, Louise ? Comment la trouves-tu ? </p>
-        <p/>
+        <p />
         <p> LOUISE. </p>
-        <p/>
+        <p />
         <p> Elle est bien difficile. J'ai essayé de la déchiffrer, mais je n'ai pas pu en venir à bout ; je n'ai pas pris ma leçon de piano hier, parce que Mlle Léonie était malade. </p>
-        <p/>
+        <p />
         <p> HENRIETTE. </p>
-        <p/>
+        <p />
         <p> Et moi, j'ai eu bien du chagrin, j'avais peur que notre bonne amie ne fit une grande maladie ; elle était fort souffrante. Heureusement elle est bien aujourd'hui : c'est un gros rhume qui, je l'espère, n'aura pas de suites fâcheuses. </p>
-        <p/>
+        <p />
         <p> LOUISE. </p>
-        <p/>
+        <p />
         <p> La pauvre Henriette est toujours prête à s'alarmer. C'est vraiment le médecin Tant-pis. Croiriez-vous qu'hier elle a pleuré toute la journée, et que le soir elle m'a plantée là pour aller auprès de sa malade ? </p>
-        <p/>
+        <p />
         <p> MARIE. </p>
-        <p/>
+        <p />
         <p> Elle a fort bien fait. A sa place, j'aurais agi de même. LOUISE. Je n'ai pas un mauvais cœur, assurément, mais je ne m'effraye pas pour une légère indisposition de ma bonne amie. Cependant je n'ai pas eu le courage de faire de la musique ; je me suis amusée tranquillement à lire. </p>
-        <p/>
+        <p />
         <p> LAURE. </p>
-        <p/>
+        <p />
         <p> Veux-tu nous raconter cette lecture ? </p>
-        <p/>
+        <p />
         <p> LOUISE. </p>
-        <p/>
+        <p />
         <p> Oh ! ce n'était pas gai : c'est une tragédie de Voltaire ; on l'appelle Mérope. </p>
-        <p/>
+        <p />
         <p> LAURE. </p>
-        <p/>
+        <p />
         <p> Bon ! je la connais. Je l'ai lue avec maman et Mlle Elise. </p>
-        <p/>
+        <p />
         <p> HENRIETTE. </p>
-        <p/>
+        <p />
         <p> Mais, ma sœur, où donc as-tu trouvé les tragédies de Voltaire ? Cet ouvrage n'est pas dans notre bibliothèque. </p>
-        <p/>
+        <p />
         <p> LOUISE. </p>
-        <p/>
+        <p />
         <p> C'est un bon tour de ma façon. Figurez-vous que ce livre était dans la chambre de maman, sur le coin de la cheminée. J'ai profité d'un instant où maman regardait d'un autre côté ; crac, je l'ai pris et je l'ai mis dans ma poche. </p>
-        <p/>
+        <p />
         <p> LAURE. </p>
-        <p/>
+        <p />
         <p> Cela n'est pas bien, ma petite ; il ne faut jamais rien faire en cachette. Et cette lecture t'a sans doute amusée ? </p>
-        <p/>
+        <p />
         <p> LOUISE. </p>
-        <p/>
+        <p />
         <p> Oui, vraiment. C'est une fort belle tragédie ; mais il y a un passage qui m'a choquée... </p>
         <p>Ici Mlle Derville entra dans le salon. </p>
         <p>– Vraiment, Louise, dit-elle, je serais bien aise de connaître l'objet de votre critique. </p>
-        <p/>
+        <p />
         <p> LOUISE. </p>
-        <p/>
+        <p />
         <p> C'est l'endroit où Mérope dit ces vers : </p>
         <p>Quand on a tout perdu, quand on n'a plus d'espoir, La vie est un opprobre et la mort un devoir. </p>
-        <p/>
+        <p />
         <p> Je trouve cela très-mauvais : c'est contraire à la morale, et surtout à la religion qui nous défend le suicide. </p>
-        <p/>
+        <p />
         <p> Mlle DERVILLE. </p>
-        <p/>
+        <p />
         <p> Vous avez raison, mon enfant : c'est parfaitement bien jugé. </p>
-        <p/>
+        <p />
         <p> LAURE. </p>
-        <p/>
+        <p />
         <p> Je trouve aussi, moi, que c'est une idée fausse de dire : « Quand on n'a plus d'espoir ! » Tant que nous sommes en ce monde, nous ne devons jamais désespérer. Ce sont les cœurs lâches qui se désespèrent. </p>
-        <p/>
+        <p />
         <p> Mlle DERVILLE. </p>
-        <p/>
+        <p />
         <p> Assurément, ma chère. Mais à quoi pensez-vous donc, Marie ? Vous êtes là toute rêveuse ?... </p>
-        <p/>
+        <p />
         <p> MARIE. </p>
-        <p/>
+        <p />
         <p> Je cherche dans ma tète pour voir s'il n'y aurait pas moyen de corriger ces deux vers. </p>
-        <p/>
+        <p />
         <p> LOUISE. </p>
-        <p/>
+        <p />
         <p> Pour le coup, Marie, c'est pousser loin la prétention. Comment, tu veux corriger les vers de Voltaire ! En vérité, ce serait plaisant. </p>
-        <p/>
+        <p />
         <p> MARIE. </p>
-        <p/>
+        <p />
         <p> Eh bien, j'ai trouvé quelque chose. Ris tant que tu voudras ; cela m'est égal. </p>
-        <p/>
+        <p />
         <p> Mlle DERVILLE. </p>
-        <p/>
+        <p />
         <p> Voulez-vous nous faire part de cette heureuse inspiration ? </p>
-        <p/>
+        <p />
         <p> MARIE. </p>
-        <p/>
+        <p />
         <p> Ne vaudrait-il pas mieux dire : Quand on a tout perdu, toujours on a l'espoir De vivre avec honneur en faisant son devoir. </p>
-        <p/>
+        <p />
         <p> Mlle DERVILLE. </p>
-        <p/>
+        <p />
         <p> Bravo, Marie ; c'est fort bien trouvé ; la morale est parfaite, et la vérité s'y trouve. </p>
-        <p/>
+        <p />
         <p> LOUISE. </p>
-        <p/>
+        <p />
         <p> Je m'incline devant ton génie. Décidément, Marie, tu es une dixième muse. </p>
-        <p/>
+        <p />
         <p> Mlle DERVILLE. </p>
-        <p/>
+        <p />
         <p> Comment se fait-il donc, Louise, que vous ayez lu cet ouvrage sans la permission de votre maman ou de votre gouvernante ? </p>
-        <p/>
+        <p />
         <p> LOUISE. </p>
-        <p/>
+        <p />
         <p> Ah ! mademoiselle, je vois que vous avez tout entendu. Si j'avais su que vous étiez si près de nous, je n'en aurais pas parlé. Aussi tu ne m'as pas prévenue, Laure, c'est une trahison manifeste. </p>
-        <p/>
+        <p />
         <p> LAURE. </p>
-        <p/>
+        <p />
         <p> Je t'assure, ma petite, que je n'y ai pas pensé. D'ailleurs, je n'ai pas peur de parler devant mademoiselle. Quand j'ai quelque tort, elle me donne de bons conseils pour me corriger, et voilà tout. </p>
-        <p/>
+        <p />
         <p> Mlle DERVILLE. </p>
         <p>Vous avez bien mérité d'être punie, Louise. </p>
-        <p/>
+        <p />
         <p> LOUISE. </p>
-        <p/>
+        <p />
         <p> Ah bah ! je ne vois pas un grand mal à cela. Ce livre est bon, car vous l'avez fait lire à Laure. </p>
-        <p/>
+        <p />
         <p> Mlle DERVILLE. </p>
-        <p/>
+        <p />
         <p> La faute est dans la désobéissance. Vous avez manqué de soumission à votre maman et à votre maîtresse. Une jeune personne bien élevée ne doit jamais se permettre d'ouvrir un livre sans avoir pris conseil des personnes qui la dirigent. </p>
-        <p/>
+        <p />
         <p> LOUISE. </p>
-        <p/>
+        <p />
         <p> Oh ! je vous en prie, n'en dites rien à Mlle Léonie. Elle me gronderait trop, elle est si sévère ! </p>
-        <p/>
+        <p />
         <p> HENRIETTE. </p>
-        <p/>
+        <p />
         <p> Ce que tu dis là n'est pas bien, ma sœur, car notre bonne amie est douce et indulgente. </p>
-        <p/>
+        <p />
         <p> LOUISE. </p>
-        <p/>
+        <p />
         <p> Oui, pour toi, parce que tu es sa préférée ; quant à moi, c'est bien différent. </p>
-        <p/>
+        <p />
         <p> Mlle DERVILLE. </p>
-        <p/>
+        <p />
         <p> Assez, Louise ; n'ajoutez pas à votre première faute en accusant mal à propos votre gouvernante. Mlle Léonie vous aime toutes les deux, mais elle vous traitre selon votre conduite et votre caractère. Je ne lui dirai rien de ce qui s'est passé, à condition que vous lui ferez vous-même l'aveu de cette étourderie et surtout que vous promettrez sincèrement de vous corriger. </p>
         <p>Louise fit cette promesse, et tout fut dit. </p>
         <p>Vers quatre heures, Mme de Séligny vint prévenir les jeunes personnes qu'il était temps de s'occuper des préparatifs du dîner. Elles avaient demandé la permission de faire des crèmes et du nougat, et se firent un grand plaisir de cette partie. Elles y réussirent à merveille et reçurent beaucoup de compliments sur leurs talents culinaires. </p>

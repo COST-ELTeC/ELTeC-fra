@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA06001" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA06001" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,32 +23,39 @@
         <measure unit="words">53060</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2020-11-14" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <publisher>Bibebook</publisher>
           <ref target="http://www.bibebook.com/search/978-2-8247-1135-5">http://www.bibebook.com/search/978-2-8247-1135-5</ref>
           <respStmt>
             <resp>Ont contribué à cette édition</resp>
             <name>Association de Promotion de l'Ecriture et de la Lecture</name>
           </respStmt>
-        </bibl><bibl type="printSource">
+        </bibl>
+        <bibl type="printSource">
           <author>Rebell, Hugues</author>
           <title>Les Nuits chaudes du Cap français</title>
           <date>1902</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k241281c"/>
-        </bibl><bibl type="firstEdition">
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k241281c" />
+        </bibl>
+        <bibl type="firstEdition">
           <date>1902</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -58,15 +68,16 @@
         </keywords>
       </textClass>
       <textDesc>
-        <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
-        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="medium"/>
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="high"/>
+        <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
+        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="medium" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="high" />
         <!-- Reprints 1970-2009: 1978, 1985, 1996, 1996. After 2009: 2017. -->
-        <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
+        <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
+      <change when="2020-11-14">Converted by checkUp script for new release</change>
+      <change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-04-05">entête auto-généré: à compléter </change>
     </revisionDesc>
   </teiHeader>
@@ -93,7 +104,7 @@
         <head> LA VENGEANCE D'UN INCONNU </head>
         <p>COMME JE VISITAIS BORDEAUX, par un matin d'été, et, que je suivais, avec un ami, une ruelle sombre conduisant à la Porte du Palais, mon regard s'attacha sur une maison du XVIIIe siècle, aux balcons de fer renflés, soutenus de cariatides, aux hautes fenêtres surmontées de mascarons grimaçants. Encadrée de jardins, de hauts feuillages pleins de ténèbres, elle semblait prendre ses aises avec les baraques étriquées, tordues, sans doute pauvrement habitées, de son entourage, où l'on voyait du linge et des mouchoirs rouges à sécher. En dépit de la lumière jaune et avare qui ne l'éclairait qu'à demi, des figures sculptées assez rudement, des amours aux jambes cagneuses et aux pieds serpentins cabriolant sous les balustres massifs du premier étage, cette demeure avait grand air ; j'y lisais comme une expression de richesse fastueuse et insolente ; des souvenirs de ce négoce hardi qui s'en allait à travers le monde, à la ruine ou à la fortune et qui, s'il avait réussi, étalait au retour son triomphe et criait ses plaisirs.</p>
         <p>Voyant que les vieux murs m'avaient rendu songeur, mon compagnon, qui était de la ville, me dit : « Cette maison a une histoire singulière. » Je la lui demandai. Et voici à peu près ce qu'il me conta, tandis que nous nous faisions un chemin avec peine au milieu des marchandes de fruits voiturant leurs éventaires et des servantes allant aux provisions, les cheveux enroulés sous un foulard écarlate.</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Pour écraser l'émeute qu'avaient soulevée à Bordeaux l'arrestation des députés girondins, l'arrêt des affaires et enfin la famine, la Convention venait d'envoyer avec pleins pouvoirs le représentant Tallien. C'était un homme médiocre, paisible, mais fat et ambitieux qui, par intérêt, besoin de se distinguer, de conquérir un rang élevé dans la République, devint tout d'un coup sanguinaire. Trouvant que l'insurrection s'était calmée trop promptement pour sa gloire, il affecta de découvrir partout des complots et des conspirateurs, et la guillotine ne chôma plus.</p>
         <p>Cependant, au milieu de ces boucheries, Tallien eut un moment d'humanité et il se laissa attendrir. Une jeune femme, Thérésia de Cabarrus, épouse divorcée de M. de Fontenay, se trouvant en prison comme suspecte, s'autorisa d'une courte entrevue qu'elle avait eue naguère avec le représentant pour lui demander justice ; elle parvint à le voir, le toucha de sa vive et agaçante beauté d'Espagnole. Tallien lui rendit la liberté, et n'eut pas de peine ensuite à en faire sa maîtresse ; sans être beau ni agréable, c'était alors une puissance, que Thérésia, peu farouche, et surtout intéressée, devait se plaire à conquérir. On les vit passer sur le Cours de Tourny, enlacés comme d'humbles et obscurs amoureux ; dès lors, Bordeaux les confondit dans la même réprobation.</p>
         <p>Thérésia, pourtant, loin de ressembler à Tallien, mettait son honneur féminin à être bonne et s'appliquait à la miséricorde comme à une élégance. Arracher de Tallien des passeports, parfois des levées d'écrou ; empêcher des visites domiciliaires, prévenir des condamnations, c'était son jeu. Seulement, comme la bonté est une vertu qui mérite récompense et qu'on ne peut guère attendre celles de l'autre monde, Thérésia trouvait juste de faire payer ses grâces à ses obligés. Tantôt c'était un collier de douze ou quinze mille livres, tantôt c'était presque une fortune, vite gaspillée d'ailleurs, en joyaux, en toilette et en fêtes.</p>
@@ -121,7 +132,7 @@
         <p>— Mes caresses ?</p>
         <p>— Non, ces lettres…</p>
         <p>— Mais ce n'est pourtant pas ma faute si on m'écrit, répliquait Thérésia de cette voix claire des Espagnoles du nord, résonnante comme un roulement de tambour.</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Thérésia ne cachait guère son existence. Sauf les grâces accordées aux suspects qu'il fallait naturellement tenir secrètes si on ne voulait pas risquer sa fortune et plus encore, elle ne laissait rien ignorer de son ménage avec Tallien, de ses amours passées et de ses amoureux du moment. Sa cour d'admirateurs aussi bien que ses domestiques se chargeaient de colporter, avec les menus faits de sa maison, les médisances qui se succédaient sur ses lèvres. L'aventure de la lettre fut bientôt la fable de la ville.</p>
         <p>Cet amant méprisé se nommait Dubousquens. C'était un des plus riches négociants de Bordeaux, bel homme avec cela, jeune encore, ayant ces façons élégantes, autoritaires et affables du haut commerce bordelais qui était autrefois une véritable aristocratie. Il passait pour un homme habile en affaires, assez fin dans la conduite de sa vie ; et, bien que ce ne fût pas son métier d'écrire des billets doux, on s'étonnait qu'il eût en cette occasion montré tant de maladresse. Il fallait que Thérésia lui eût tourné la tête. D'ordinaire il observait une réserve extrême ; et, en dehors des affaires et des réceptions obligées, son existence s'écoulait presque mystérieuse au fond de son hôtel de la rue Sainte-Catherine.</p>
         <p>Il est vrai qu'il n'avait pas toujours ainsi vécu. On l'avait connu gai, d'une prodigalité extravagante, affichant son luxe et ses débauches. Il entretenait alors une comédienne à la mode, et c'est pour elle qu'il avait fait bâtir ce fastueux hôtel de la Porte du Palais, où il ne l'installa point, car les amants se brouillèrent avant qu'il ne fût achevé. Après la rupture, Dubousquens était parti pour Saint-Domingue, d'où arriva un beau jour cette nouvelle : « Dubousquens se marie ! Dubousquens se marie ! »</p>
@@ -135,7 +146,7 @@
         <p>On prétendait qu'entre le négociant et la jeune noire, il existait quelque sorcellerie diabolique et comme un pacte exécrable de luxure. Depuis plus de cinq ans, ils étaient ainsi enchaînés l'un à l'autre.</p>
         <p>Tous ces bruits vinrent aux oreilles de Thérésia de Fontenay qui s'amusa fort d'avoir pour adorateur « L'homme à la négresse ».</p>
         <p>Elle ne comprenait rien à cette double adoration : « S'il m'aime tant, disait-elle, que ne quitte-t-il sa miss Chocolat. Bah ! cœur d'artichaut : une feuille pour tout le monde ! »</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Cependant, avec une persistance, une régularité inexplicable, les épîtres amoureuses de Dubousquens arrivaient chaque matin à Thérésia. Elle ne les montrait point à Tallien, et les mettait dans un petit bonheur du jour où elle conservait tout ce qui lui rappelait ses caprices ou flattait son âme vaniteuse. Bien qu'assez lasse d'une poursuite si opiniâtre, elle avait jugé convenable de ne point repousser brutalement une passion dont elle pouvait plus tard avoir besoin et tirer profit ; sans rien faire pour l'encourager, elle voulait attendre.</p>
         <p>Mais ce qu'elle supportait d'abord sans trop d'ennui, lui devint bientôt odieux. Les lettres, peu à peu, avaient changé de style. Ce n'étaient plus d'humbles supplications, d'idolâtres prières, mais des ordres et des menaces, puis des insultes.</p>
         <p>Enfin la mesure fut dépassée. Un matin la servante Frénelle vit sa maîtresse blême, tremblante d'émotion, les yeux en larmes, sauter à bas de son lit, se précipiter vers Tallien, lui tendre un papier bouchonné, déchiré comme si on avait voulu le détruire et qu'on se fût, après coup, décidé à le conserver.</p>
@@ -160,7 +171,7 @@
         <p>— Voyons, m'aimes-tu, Tallien ? Vas-tu souffrir qu'on insulte ta Thérésia ? Vas-tu hésiter à châtier un monstre ! De quoi as-tu peur ? N'es-tu pas le maître ici ? D'ailleurs, il est suspect, ce bandit. Ah ! si tu ne prends pas mieux ma défense, tu verras ce qui arrivera. Ils me traiteront comme Théroigne, ils me battront, ils me fouleront aux pieds, ils m'égorgeront peut-être, les infâmes !</p>
         <p>— Sois donc tranquille ! sois donc tranquille !</p>
         <p>— Non ! je ne serai pas tranquille tant que tu ne m'auras pas vengée !</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Le lendemain de cette scène, Jumilhac, le premier commis de Dubousquens, fut averti du danger que courait son patron par une chanteuse du théâtre, amie de Thérésia. Dubousquens était alors à son hôtel de la Porte du Palais, dont l'accès était interdit à tout le monde. Mais Jumilhac, sous le coup d'une si pressante menace, ne crut point devoir respecter la défense, et, sans retard, il s'en fut le trouver.</p>
         <p>A l'heure qu'il arriva, la rue était déserte. Sous le ciel clair, l'hôtel et les jardins formaient une nuit impénétrable. Mais comme il levait le marteau pour frapper, il surprit un mince filet de lumière aux fenêtres du premier étage et, au même instant, un cri atroce, un rugissement prolongé qui remplit la rue. Malgré l'émotion qu'il éprouvait, Jumilhac heurta violemment à la porte. La curiosité, et aussi le désir d'être utile à Dubousquens, dominaient son inquiétude. On ne parut pas l'avoir entendu. Des cris étouffés, puis perçants, retentirent encore ; enfin, comme il s'obstinait à frapper, une fenêtre s'ouvrit, un homme parut, demanda :</p>
         <p>— Qui est là ?</p>
@@ -212,11 +223,11 @@
         <p>— Ah l canailles, cria-t-il, qui a pu leur dire !</p>
         <p>Et il essaya de faire feu de ses pistolets ; mais aussitôt on se jeta sur lui, il fut désarmé en un clin d'œil.</p>
         <p>Comme on l'entraînait avec Jumilhac, une forme noire surgit au milieu des gendarmes, les bouscula, glissa entre leurs mains. C'était la négresse qui s'était échappée ou qu'on venait de délivrer. Elle se détourna encourant, envoya du bout de ses longs doigts un baiser ironique à Dubousquens, eut son rire étrange pareil à un aboiement de chienne, puis elle disparut dans une ruelle.</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Dubousquens fut condamné à mort. Thérésia, implacable dans sa haine, suivit d'un balcon, en compagnie de Tallien, l'exécution de son insulteur. Il mourut courageusement, en homme qui a épuisé les plaisirs et peut-être, au milieu de toutes les apparences du bonheur, les maux de ce monde.</p>
         <p>Mon guide ignore ce que devint la négresse. Elle dut quitter la France, retourner parmi les siens, maintenant affranchis et maîtres, oublier au milieu d'eux son servage, ses amours horribles, peut-être ses crimes.</p>
         <p>A Bordeaux, le secret de cette vengeance et de cette union bizarre n'est point encore éclairci. Il dort au milieu de ces vieilles murailles, dont les mascarons grimaçants ont je ne sais quel cruel sourire. Sans doute on craint toujours les fantômes de ce passé tragique, car les volets clos et le seuil moussu de l'hôtel exhalent la sombre tristesse des maisons abandonnées.</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Quelques jours après avoir entendu et consigné par écrit cette aventure, le hasard nous mettait entre les mains divers manuscrits qui semblent se rapporter à notre histoire : c'est le journal d'une dame créole, le livre de bord d'un négrier et un cahier des mémoires d'un docteur. Plus tard nous fîmes encore une nouvelle découverte. Nous donnerons toutes ces pages à la suite de ce récit. Peut-être le lecteur trouvera-t-il comme nous qu'un même lien les unit et que, contenant chacune des renseignements spéciaux, et écrites d'un style particulier, elles n'en forment pas moins, dans leur ensemble, comme les diverses parties d'une même histoire.</p>
       </div>
       <div type="chapter">
@@ -254,10 +265,10 @@
         <p>Et si Dieu n'existait pas ?.. Mme du Plantier est athée ; le docteur Chiron aussi. Ce sont des êtres intelligents pourtant, aussi intelligents que moi, et beaucoup plus instruits. Peut-être ma croyance vient-elle de mon éducation, et de cette bête de tante qui me faisait tout le jour, quand j'étais fillette, ânonner le catéchisme… A Paris il y a, paraît-il, de grands esprits qui ne croient pas.</p>
         <p>Dans cette nuit chaude, c'est en vain que j'essaie de m'assoupir. A chaque instant des idées surgissent en moi ; il faut que je reprenne mon cahier, ma plume, et que j'écrive comme pour soulager mon esprit en feu.</p>
         <p>Le vrai soulagement sans doute serait de parler à Antoinette. Si, enfin, je savais ce qu'elle pense de Montouroy ? si j'avais la certitude qu'elle est prête à l'épouser. Elle partirait avec lui pour Saint-Domingue ; peut-être même le couple quitterait-il l'île ; je ne la verrais plus.</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Un désir de causer avec elle dès à présent m'a saisie. Il m'a semblé que le calme et la fraîcheur de la nuit seraient plus propices à notre entretien que le jour. Puis les esclaves dorment. Zinga elle-même s'est assoupie. Je l'entends ronfler à coté. Je ne verrai pas devant nous son sourire railleur ; elle ne soupçonnera rien ; elle ne s'avisera donc pas de m'adresser des reproches pour faire acte d'autorité.</p>
         <p>Je me suis levée ; et, sans prendre la peine de me vêtir, j'ai traversé le corridor, je suis allée avec un flambeau jusqu'à la chambre d'Antoinette, j'ai écarté la portière : Antoinette dort aussi elle, doucement. C'est à peine si je perçois son souffle. J'ai été surprise. D'ordinaire elle se couche moins tôt. Je crains de l'éveiller. Elle est si tranquille ! Pourquoi troubler cette âme d'un amour auquel elle ne songe pas encore ? Son enfance lui est légère ; elle s'y attarde, dirait-on, avec délices. C'est vrai. Cependant l'image d'un jeune amant pourrait bien la ravir aussi. Et puis qu'importe qu'elle aime ou qu'elle reste innocente ! J'ai besoin, moi, qu'elle se marie ; il faut que je sache son opinion sur Montouroy. Elle l'aime peut-être. Et si elle ne l'aime pas, elle l'épousera tout de même. Pourtant je ne ne voudrais pas avoir trop l'air de la contraindre.</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Je suis entrée dans la chambre ; je me suis approchée du lit. Comme sa bouche large, charnue, entr'ouverte, comme ses paupières aux longs cils, bien arrondies et baissées, lui donnent de grâce ! Le jour, quand elle laisse voir son regard, elle trahit moins sa pensée que dans ce sommeil ingénu et souriant. Un peu de feu anime son teint ; ses cheveux châtains, aux touffes opulentes, sont répandus ici et là sur l'oreiller ; de ses pieds unis, elle foule les draps rejetés au bas du lit, et, comme pour corriger ce désordre, son bras, d'un geste pudique, ramène la chemise sur son sein.</p>
         <p>Jamais je n'aurais soupçonné qu'elle pût être aussi jolie. J'ai eu soudain pitié d'elle. Quelle destinée atroce m'a livré cette malheureuse enfant !</p>
         <p>Mais, dominant une émotion si nuisible à mes intérêts, j'ai hâté le réveil d'Antoinette, en levant l'abat-jour du flambeau. A la clarté subite qui tombait sur son visage, elle a ouvert les yeux, et, tout de suite, elle a fait une moue gentille, une moue d'enfant volontaire qui se révolte contre une pénitence.</p>
@@ -344,7 +355,7 @@
         </p>
         <p>— Oui, M. de Montouroy. Il venait beaucoup trop de monde ici. J'y mets ordre. Allons, Zinga, retirez-vous à présent.</p>
         <p>Mais avec un empressement exagéré et comme une exubérance d'affection, Zinga s'est encore agenouillée devant mon lit et ma couvert les mains de baisers. Puis, dénouant tout un côté de sa candale
-          <ref target="#FRA06001_N1"/>, elle m'a montré des pièces d'or.</p>
+          <ref target="#FRA06001_N1" />, elle m'a montré des pièces d'or.</p>
         <p>
           <foreign>Es zot-oulé vandè mo to lang</foreign>
         </p>
@@ -357,7 +368,7 @@
         <p>Savoir lire, savoir écrire, est-ce bien utile pour une esclave ? Et pourquoi Zinga a-t-elle si grande envie de s'instruire ? Est-ce pour m'adresser cette demande qu'elle est entrée chez moi ? Est-ce pour m'avertir de cette visite, lorsque tout le jour elle me l'a laissée ignorer ? Plus je songe à cette fille, plus je suis inquiète.</p>
         <p>J'ai bien pu subir ses caresses brutales, mais je la hais, je hais son sourire faux, je hais son odeur huileuse dont mon lit est encore tout imprégné. Ce soir une tache immonde souillait sa jupe, et cependant je l'ai laissée s'approcher de moi avec sa puanteur, sa saleté, et toute l'horreur secrète de son être, plus repoussante encore par ce que l'on devine que par ce que laisse voir son corps. Comment donc ai-je pu la trouver belle et quelle est aujourd'hui ma lâcheté, pour la craindre et ne pas oser, une bonne fois, l'éloigner à jamais !</p>
         <p>Il me semble que si elle n'était pas là, je retrouverais la paix, je me sentirais réconciliée avec Dieu, et l'innocence d'Antoinette me rendrait moi-même innocente ou du moins meilleure… La chère enfant ! je tremble quand je songe que sa grâce l'expose à tant de séductions misérables… Que lui voulait aujourd'hui cet inconnu ?</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Ce que j'ai surpris, ce qui m'est arrivé aujourd'hui, me remplit d'inquiétude. Je crains, en voulant être trop habile, d'avoir manqué de prudence. Il y a tant de corruption et de méchanceté dans cette société du Cap qu'il faut à chaque instant me défendre et défendre Antoinette. Le vice et l'envie nous entourent. La grâce d'une enfant et un peu de fortune, il n'en faut pas davantage pour irriter toutes les convoitises.</p>
         <p>Si Zinga voulait être silencieuse, mais elle est mariée ! Je sais bien qu'elle me caresse peut-être avec plus de plaisir que son mari. C'est un commandeur si rude, par ses façons lourdes, son embonpoint embarrassant, sa face épaisse de mulâtre ! Quand il n'effraie pas, il provoque au rire plus qu'à l'amour. Il ne paraît d'ailleurs pas moins brutal avec sa femme qu'avec ses esclaves. Je crois qu'il m'est dévoué, et pourtant ce matin, en entrant chez eux à une heure où ils ne m'attendaient point, j'ai surpris une singulière conversation. Ils me tournaient le dos et étaient si occupés de leur causerie qu'ils ne m'ont pas entendue.</p>
         <p>— Pourquoi trahis-tu les tiens ? disait-il, pourquoi ne me montres-tu pas plus de confiance ? Tu oublies qu'en obéissant (obéisssant) à ce blanc, en lui remettant ce qu'il veut, ce qui t'est facile, tu sers ta race et tu t'enrichis avec moi.</p>
@@ -507,7 +518,7 @@
         <p>Canaille ! si tu en avais l'audace, je te tuerais !</p>
         <p>Mais non, Antoinette n'a que l'indifférence de son âge. Je dois la surveiller davantage, l'amuser, lui donner mille plaisirs. Il faudra bien qu'elle m'aime.</p>
         <p>Surtout j'aurai l'œil sur mes ennemis.</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Par une soirée étouffante, nous étions tous réunis dans le salon des jalaps : Mme de Létang, Agathe auprès d'Antoinette. Mme Du Plantier, le docteur Chiron, l'abbé de La Pouyade et moi. De la galerie vitrée dont les volets viennent d'être retirés, nous pouvons découvrir la mer que le ciel, couvert de lourds nuages, a subitement assombrie et qui nous étreint de la menace infinie et obscure de ses vagues. Elles sont confondues en une montagne mouvante qui s'avance lentement vers nous, qui brille ici de l'éclat dur d'un métal en fusion, et là-bas. jusqu'à l'horizon, se creuse, plonge en une profonde vallée de ténèbres. Au large, dans l'immensité, un lac glauque, lumineux et tranquille semble dormir.</p>
         <p>— Regardez donc, ma chère amie, dit Mme Du Plantier, cette admirable clarté d'émeraudes. Cela me rappelle la jupe que je portais au bal du gouverneur. Vous la voyez, ma chère, cette toilette qui m'avait été envoyée de Paris ?… le bas de la robe en crêpe blanc, la jupe vert d'eau, couverte de crêpe rayé en paillon d'argent. La couturière de la reine l'avait faite pour la comtesse de Chimay qui l'avait trouvée trop chère, et comme j'ai absolument sa taille, c'est à peine s'il y avait eu besoin de quelques retouches.</p>
         <p>Mme Du Plantier parle en se rengorgeant avec un jeu bien amusant de mentons, dont les uns ont l'air de crever, tandis que d'autres en dessus ou en dessous naissent et grandissent.</p>
@@ -647,7 +658,7 @@
           <foreign>Maîtress, mô libre !</foreign>
         </p>
         <p>— Et que m'importe, lui criai-je, que tu sois libre ! Tu serais la femme du gouverneur, espèce de racoleuse d'hommes, traînée de boue, que je te fouetterais comme une bozale
-          <ref target="#FRA06001_N2"/>.</p>
+          <ref target="#FRA06001_N2" />.</p>
         <p>Et du balai de lianes que j'avais emporté pour châtier Cochonnette, je lui cinglai les jambes. Elle poussa un rugissement terrible, plus honteuse que blessée ; puis, au milieu de sanglots, elle criait :</p>
         <p>
           <foreign>Parler, mô, di tout ké fi, mame Lafon ki fi mouri !</foreign>
@@ -688,7 +699,7 @@
         <p>A quoi bon l'interroger encore, puisque je ne puis avoir foi à ses paroles, malgré toute mon envie de les croire véridiques.</p>
         <p>J'ai laissé mes hôtes s'effrayer et se rassurer à la parole du quaker ; j'ai regagné ma chambre, je me suis jetée sur mon lit, et j'ai pleuré. Zinga n'est pas venue cette nuit ; elle savait bien que je l'aurais chassée. Mais Dieu a eu pitié de moi ; il m'a envoyé un rêve de délices : j'ai vu près de moi la chérie ; elle était douce et elle m'aimait.</p>
         <p>Seigneur ! je vous en supplie, faites qu'elle ne me quitte pas, qu'elle ne s'éprenne pas d'un homme. — C'est pour son bien ! elle serait si malheureuse !</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Je m'étais éveillée avec tant de plaisir ! Ah ! je n'aurais pas prévu la fin horrible de cette journée !</p>
         <p>Quand je me levai, le soleil étincelait sur la mer, et une brise fraîche m'apportait les odeurs mielleuses et acides du jardin. C'est à peine si l'orage a laissé de traces autour de la maison tandis qu'à une demi-lieue, la plantation de M. de Mauduit a beaucoup souffert.</p>
         <p>Mes angoisses de la veille s'étaient dissipées à la clarté limpide du ciel ; à peine hors du lit, je courus à la chambre d'Antoinette. Je voulais lui dire que je lui pardonnais ou, du moins, lui souffler une excuse qui pût motiver mon pardon. La chère enfant ! j'éprouve tant de peine à lui causer le moindre chagrin ! mais je ne puis vaincre l'égoïsme cruel de mon affection. Ah ! si j'étais sûre qu'elle m'aimât, j'aurais de moins dures exigences.</p>
@@ -879,7 +890,7 @@
         <p>— Il le permet, mais il ne veut pas que je le quitte.</p>
         <p>— On se passerait de sa volonté,</p>
         <p>— II peut me lancer une piaye
-          <ref target="#FRA06001_N3"/>. C'est un sorcier,</p>
+          <ref target="#FRA06001_N3" />. C'est un sorcier,</p>
         <p>— Je te défendrai contre lui.</p>
         <p>— Et la maîtresse, la Madame Gourgueil. Je ne peux pas l'abandonner.</p>
         <p>— J'irai lui demander de t'affranchir.</p>
@@ -995,7 +1006,7 @@
         <p>Je ne me fierai plus à personne, qu'à moi-même.</p>
         <p>Au besoin je saurai la défendre. M. le comte de Provence avait donné à mon mari d'excellents pistolets. Ils resteront désormais sur ma table, près de mon lit, tout chargés. Je ne suis point maladroite.</p>
         <p>Mais qui donc a eu l'audace de commander cet enlèvement ?… Je ne crois pas que Dubousquens, ni Figeroux soient coupables. Et pourtant !.. Dès demain j'irai porter plainte au Conseil ; il faudra bien qu'on découvre les coupables et qu'on venge mon Antoinette !</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Au milieu de tous les périls qui me menacent et dans l'inquiétude où je suis de perdre mon enfant, je n'espérais pas trouver un auxiliaire à la fois si précieux et si méprisé, ni qu'une main ignoble et charitable se tendrait vers la mienne et que je l'accepterais.</p>
         <p>Je m'étais rendue des le matin, au Cap, chez M. de la Pouyade. Il reposait encore. Par mes instances auprès de son esclave, je l'avais presque contraint de se lever et de venir entendre ma confession.</p>
         <p>Il était accouru vers moi, l'habit à demi déboutonné, les souliers dénoués, une barbe de ia veille et la perruque de travers. N'importe ! c'était un prêtre, et j'avais si grand besoin à ce moment de me confier à un ministre de Dieu et d'entendre, par ses lèvres, que j'étais pardonnée d'en haut, que je l'avais, tel quel, entraîné dans l'église.</p>
@@ -1039,7 +1050,7 @@
           <p>« Nanette Berthier. »</p>
         </quote>
         <p>Ce nom n'est que trop connu au Cap français. Nanette Berthier, que ses amis de couleur appellent Kouma-Toulou, la Langue Joyeuse, et que nous nommons familièrement Dodue-Fleurie, est une fort belle négresse, grande et grasse, une véritable <hi>pièce d'Inde</hi>
-          <ref target="#FRA06001_N4"/>. Il n'est point de négociants, de voyageurs de passage à Saint-Domingue qui manquent d'aller souper avec Dodue-Fleurie ; ils croiraient même ignorer les délices de l'île s'ils n'obtenaient, à prix d'or, une de ses nuits où, dit-on, elle ne se montre jamais oisive. La lourde volupté que dégage son corps lorsqu'elle se promène dans les rues et les jardins du Cap ; tout ce qu'il y a de grossière et ardente luxure dans le balancement de ses hanches vastes, dans ses claquements provocateurs de langue, dans le jeu de ses paupières bordées de longs cils, tantôt retombées comme dans une extase, tantôt levées sur des yeux blancs, où le regard étincelle de colère ou de dédain ; ses domestiques noirs qu'elle traite comme des animaux, mais auxquels elle donne des livrées dignes de la Cour ; son luxe, ses toilettes, ses fantaisies ruineuses, les suicides des hommes qu'elle a désespérés par son mépris ou ses caprices, tout lui a fait une célébrité inouïe. Elle se croit reine et elle agit en despote. Combien a-t-elle brisé de mariages et fait pleurer de confiantes fiancées ! Personne n'ose élever la voix contre elle. Il a fallu que le fils du gouverneur s'éprit de cette femme pour que le père alarmé et furieux d'une telle liaison menaçât la courtisane de la faire arrêter et de déchirer l'acte qui l'affranchissait. Alors pour quelques mois elle a abandonné sa magnifique maison et s'est retirée dans ce logis à demi secret qu'elle m'indique dans sa lettre, ne sortant plus et condamnant sa porte à son ancien amoureux afin d'apaiser le père. Je ne connais pas d'être qui me répugne davantage que cette Dodue-Fleurie. Zinga m'irrite ; Zinga m'effraie ; Zinga me rappelle d'atroces souvenirs ; mais que de fois l'ai-je sentie liée et dévouée à mon être, soit qu'une caresse me l'eût conquise, soit que la beauté de mon corps ou la supériorité de ma race exerce sur son esprit quelque fascination, soit enfin que le fouet, quand il m'est arrivé d'en user avec elle, lui ait fait comprendre la force de ma volonté. Mais je n'ai jamais vu cette Dodue-Fleurie, sans ressentir comme un soulèvement de dégoût ; toute sa personne me révolte ; sous ses cotillons de soie brochés d'or et parfumés à la poudre à la maréchale, je sens une odeur d'huile et de chair mal lavée. Elle me produit l'impression d'une latrine décorée somptueusement, et pourtant, moi comme les autres, je me sens dominée par elle, et si elle me regarde en face, à la promenade, je baisse les yeux. Ah ! il ne fallait pas affranchir un pareil monstre ; c'est comme si on ouvrait un cloaque, on serait vite infecté par son débordement. Mais vais-je être injuste, envers l'être qui va sauver mon Antoinette ; ne puis-je dominer ma répugnance et accepter, quel qu'il soit, le recours que m'envoie le Ciel !</p>
+          <ref target="#FRA06001_N4" />. Il n'est point de négociants, de voyageurs de passage à Saint-Domingue qui manquent d'aller souper avec Dodue-Fleurie ; ils croiraient même ignorer les délices de l'île s'ils n'obtenaient, à prix d'or, une de ses nuits où, dit-on, elle ne se montre jamais oisive. La lourde volupté que dégage son corps lorsqu'elle se promène dans les rues et les jardins du Cap ; tout ce qu'il y a de grossière et ardente luxure dans le balancement de ses hanches vastes, dans ses claquements provocateurs de langue, dans le jeu de ses paupières bordées de longs cils, tantôt retombées comme dans une extase, tantôt levées sur des yeux blancs, où le regard étincelle de colère ou de dédain ; ses domestiques noirs qu'elle traite comme des animaux, mais auxquels elle donne des livrées dignes de la Cour ; son luxe, ses toilettes, ses fantaisies ruineuses, les suicides des hommes qu'elle a désespérés par son mépris ou ses caprices, tout lui a fait une célébrité inouïe. Elle se croit reine et elle agit en despote. Combien a-t-elle brisé de mariages et fait pleurer de confiantes fiancées ! Personne n'ose élever la voix contre elle. Il a fallu que le fils du gouverneur s'éprit de cette femme pour que le père alarmé et furieux d'une telle liaison menaçât la courtisane de la faire arrêter et de déchirer l'acte qui l'affranchissait. Alors pour quelques mois elle a abandonné sa magnifique maison et s'est retirée dans ce logis à demi secret qu'elle m'indique dans sa lettre, ne sortant plus et condamnant sa porte à son ancien amoureux afin d'apaiser le père. Je ne connais pas d'être qui me répugne davantage que cette Dodue-Fleurie. Zinga m'irrite ; Zinga m'effraie ; Zinga me rappelle d'atroces souvenirs ; mais que de fois l'ai-je sentie liée et dévouée à mon être, soit qu'une caresse me l'eût conquise, soit que la beauté de mon corps ou la supériorité de ma race exerce sur son esprit quelque fascination, soit enfin que le fouet, quand il m'est arrivé d'en user avec elle, lui ait fait comprendre la force de ma volonté. Mais je n'ai jamais vu cette Dodue-Fleurie, sans ressentir comme un soulèvement de dégoût ; toute sa personne me révolte ; sous ses cotillons de soie brochés d'or et parfumés à la poudre à la maréchale, je sens une odeur d'huile et de chair mal lavée. Elle me produit l'impression d'une latrine décorée somptueusement, et pourtant, moi comme les autres, je me sens dominée par elle, et si elle me regarde en face, à la promenade, je baisse les yeux. Ah ! il ne fallait pas affranchir un pareil monstre ; c'est comme si on ouvrait un cloaque, on serait vite infecté par son débordement. Mais vais-je être injuste, envers l'être qui va sauver mon Antoinette ; ne puis-je dominer ma répugnance et accepter, quel qu'il soit, le recours que m'envoie le Ciel !</p>
         <p>Dès que j'eus pris connaissance de la lettre, je dis à la petite négrillonne que j'irais trouver sa maîtresse, le soir même. Aussitôt elle s'inclina, fît une pirouette de bouffonne, stylée à divertir sa maîtresse, et remonta dans le palanquin qui redescendit très vite vers le Cap, sur les épaules de ses porteurs.</p>
         <p>Je n'avais pas hésité un seul instant à lui donner cette réponse ; l'humiliation d'une pareille démarche ne me coûtait pas, ou plutôt j'avais le pressentiment que cette femme allait me parler d'Antoinette et cela seul suffisait à m'attirer chez elle. Peut-être aussi ai-je senti dans sa lettre ce mystérieux pouvoir qu'elle exerce sur tous et auquel il faut se soumettre, malgré soi.</p>
         <p>Je passai la journée avec ma chère enfant ; elle s'était remise peu à peu de son émotion, mais quand elle sut que son amie Agathe avait disparu, elle sanglota et rien ne put la consoler. Il fallait que j'eusse toutes ces inquiétudes et qu'elle m'occupât à ce point l'esprit, pour souffrir si courageusement les horribles douleurs d'entrailles qui vinrent me tourmenter. Je m'imaginais qu'un cercle de fer me comprimait, me rétrécissait le ventre de moment en moment ; le mal avait des élans brusques et des coups féroces. Parfois j'aurais eu envie de me rouler par terre tant je souffrais, et je cachais ma torture à Antoinette de crainte de l'ennuyer. Une minute il me fut impossible de dissimuler. Elle m'interrogea, « Oh ! ce ne sera rien, » lui-dis-je. En réalité je ne m'expliquais point ce mal subit ; et je me rappelai un fait dont le docteur Chiron m'avait parlé, peu de jours avant : l'empoisonnement d'une maîtresse par ses esclaves. Etais-je aussi, moi, empoisonnée ? La crainte de laisser paraître une inquiétude vaine lorsque je m'étais montrée d'abord si tranquille, m'empêcha d'appeler le docteur. Je pensai qu'il se moquerait de moi.</p>
@@ -1348,7 +1359,7 @@
         <p>— Etes-vous donc avec les révoltés, demandai-je, que vous connaissez si bien leurs secrets ?</p>
         <p>— Oh ! moi, dit-elle avec un gros rire et en se plaquant les deux mains sur la croupe, je suis seulement pour Dodue-Fleurie ! Je suis pour le parti qui triomphera, car c'est lui que je devrai dominer. Cependant je ne désire point que les esclaves réussissent. Qu'ai-je à gagner avec ces fous furieux ?</p>
         <p>Là-dessus elle me dit adieu, et, ayant trouvé Troussot et Zozo dans l'antichambre, je repris la route des lngas. Tous les noirs s'étaient rassemblés du côté du Morne des Capucins, et je n'eus aucune peine à sortir du Cap. J'arrivai aux Ingas comme l'aube blanchissait le ciel. Je me précipitai vers le lit d'Antoinette. Dieu merci ! elle reposait doucement, la bouche entr'ouverte et souriant de ce joli sourire qu'elle a lorsqu'elle dort. Je l'embrassai sans l'éveiller et, me couchant près d'elle, je me laissai aller au sommeil, lasse de tant d'émotions.</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>J'ai reconnu aujourd'hui que Dodue-Fleurie ne m'avait pas trompée, et que les périls contre lesquels elle cherche à me prémunir n'étaient point imaginaires.</p>
         <p>Mme de Létang qui, lors de l'enlèvement d'Agathe, a cherché querelle à Mme Du Plantier, l'a insultée dans la rue et même, prétend-on, l'a fait battre dans sa maison par deux noirs, s'est reconciliée subitement avec elle ; elles sont venues chez moi cet après-midi en compagnie du révérend Goring, dont elles se moquaient si bien naguère,</p>
         <p>— Ma chère amie, m'a dit Mme de Létang en se composant un visage sévère, j'ai une pénible requête à vous adresser, mais j'espère que veus comprendrez quels sentiments désintéressés me l'inspirent. L'amitié même que je vous porte me l'a rendue nécessaire, et je dois ajouter, la pitié que nous devons avoir pour nos semblables malheureux et persécutés.</p>
@@ -1381,7 +1392,7 @@
         <p><hi>« Je sais que Létang et Du Plantier, écrivait la négresse, veulent porter plainte contre vous, et vous enlever Antoinette ; mais je les en empêcherai bien : pour retenir Létang, j'ai sa fille ; quant à Du Plantier, je connais certaine histoire de succession où l'on aide à mourir une veille tante avec beaucoup d'empressement ; histoire qu'elle n'aimerait guère voir divulguée, et dont je l'effraierai pour la forcer à se taire.</hi></p>
         <p><hi>« Si pourtant mes menaces ne suffisaient pas, je vous engagerais à quitter le Cap. »</hi></p>
         <p>Quitter le Cap, c'est perdre une partie de ma fortune, car comment diriger cette plantation si je suis loin des Ingas, et, d'un autre côté, comment la vendre sans perte ? Enfin, pour garder avec moi Antoinette et sauver ma liberté, je dois me résigner à tout. Je vais me préparer au départ — et, au premier bruit d'une dénonciation, je me dérobe à vos calomnies et à vos vengeances, misérables ! qui me punissez d'avoir eu pour vous trop d'amitié !</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Ce sont des heures que je n'oublierai pas ; avoir fait un tel rêve de bonheur, avoir cru à l'innocence, à l'affection, à la gratitude de quelqu'un et être ainsi soudainement détrompée : c'est trop horrible. Ah ! mon Dieu, si criminelle que je sois, deviez-vous me châtier ainsi !</p>
         <p>Je souffrais depuis quelque temps, après mes repas, de cruelles douleurs d'entrailles ; comme j'ai toujours eu un estomac assez délicat et que ma gourmandise me fait rechercher plutôt les aliments agréables au goût, qu'une saine et facile nourriture, je ne m'inquiétais pas de la cause de ces souffrances et je tâchais de les supporter le plus patiemment possible.</p>
         <p>Une après-souper, mon mal, à la suite d'élans violents et inattendus, semblait s'être calmé. Devant la véranda je jouissais avec délices des derniers rayons du soleil. La fraîcheur était venue ; les machines de la sucrerie étaient arrêtées ; les chants des noirs emplissaient la plantation. Je me sentais rassurée, confiante. Non, me disais-je, les craintes que j'ai eues le soir de ma visite à Dodue Fleurie sont vaines. Nos esclaves nous sont soumis. Et, au Cap, on n'ose rien entreprendre contre moi. A mes côtés, Antoinette, fatiguée de la journée qui avait été fort chaude, s'était étendue ; elle dormait doucement, la tête appuyée sur les genoux de Zinga qui, elle aussi, s'était assoupie. Zinga se montrait depuis quelque temps si attentive à nous servir, Antoinette et moi, que je lui avais pardonné une passion, à mes yeux, inoffensive. Loin de suivre les conseils de Dodue Fleurie, je ne l'avais point envoyée aux travaux de la plantation, je la gardais auprès de moi. Pourtant j'avais accepté une esclave que m'avait envoyée la courtisane pour veiller sur Antoinette ; lorsque Zinga s'en allait au Cap elle ne devait pas quitter ma fille un instant. Figeroux seul était de ma part l'objet d'une étroite surveillance, et j'attendais pour le renvoyer d'avoir trouvé son remplaçant.</p>
@@ -1545,7 +1556,7 @@
         <p>Troussot qui avait le front couvert de sang, soupira d'une voix grave :</p>
         <p>— Antoinette morte. On a tué bonne petite maîtresse !</p>
         <p>Il me fut impossible d'en entendre davantage. On m'a dit que je suis tombée sur le pont sans connaissance, et que, durant une partie de la traversée, ma vie a été en péril.</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Aux premiers moments où la douleur sembla me faire grâce, où, après avoir tant souffert, je me réveillais de mon mal, je reprenais les habitudes de la vie comme afin d'avoir plus de force pour souffrir encore, Zozo me raconta le crime atroce qui m'avait ravi toutes mes jouissances.</p>
         <p>Quelque temps après mon départ, Zozo avait découvert Antoinette alors qu'elle allait sortir de la plantation pour se diriger sur le Cap ; et il l'avait ramenée dans sa chambre bien qu'Antoinette, se défendant avec toute l'énergie du désespoir, n'eut cessé de le mordre et de le frapper.</p>
         <p>Après l'avoir enfermée, il m'avait attendue, en compagnie de Troussot, devant la chambre de la pauvre enfant.</p>
@@ -1564,7 +1575,7 @@
         <p>Sans respect pour le corps de ma chère enfant, Dodue Fleurie et Montouroy se réconcilièrent devant lui dans une étreinte immonde.</p>
         <p>Ils parvinrent à calmer leurs esclaves et à les ramener avec eux.</p>
         <p>Mon Dieu, ne pouviez-vous aussi me prendre, si vous teniez à ravir cet ange au ciel !</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Zinga, Dubousquens se trouvent sur le <hi>Duquesne</hi> <hi>;</hi> ils se sont embarqués en pleine mer, le soir de l'incendie. Ils vivent ici en secret, dans leur cabine, loin du capitaine, des passagers et de l'équipage, mais comme l'animal découvre son ennemi à l'odeur, j'ai bien deviné leur présence ; et dès que j'ai pu me lever de mon lit, je les ai vus, je les ai épiés, je les ai surpris, l'homme vautré sur la femme, qui le baisait, qui l'embrassait, qui le caressait comme un enfant.</p>
         <p>— Antoinette était sotte, était bête, disait Zinga ; moi, je sais toutes les caresses, les consolantes ! les endormeuses ! et celles qui font vivre en une minute des existences. Oh ! tu l'oublieras auprès de moi, je serai ta petite amie, je me ferai française pour te plaire. Vois, déjà je sais ta langue, je saurai bientôt toutes les façons des femmes de ton pays. Et tu ne te rappelleras plus même <hi>son</hi> nom.</p>
         <p>— Tais-toi, sacrilège, tais-toi, disait-il. Oh ! ce charme, cette grâce de l'innocence, où les retrouver jamais ?</p>

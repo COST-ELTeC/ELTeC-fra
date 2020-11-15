@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA05301" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA05301" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,15 +23,19 @@
         <measure unit="words">50310</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2020-11-14" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <publisher>Bibebook</publisher>
           <ref target="http://www.bibebook.com/ebook/libre/arnould_galopin-le_docteur_omega_aventures_fantastiques_de_trois_francais_dans_la_planete_mars.epub">http://www.bibebook.com/ebook/libre/arnould_galopin-le_docteur_omega_aventures_fantastiques_de_trois_francais_dans_la_planete_mars.epub</ref>
           <respStmt>
@@ -36,16 +43,19 @@
             <name>Gabriel Cabos </name>
             <name>Fontes : David Rakowski's Manfred Klein Dan Sayers Justus Erich Walbaum - Khunrath</name>
           </respStmt>
-        </bibl><bibl type="printSource">
+        </bibl>
+        <bibl type="printSource">
           <author>Galopin, Arnould (1865-1934)</author>
           <title>Le Docteur Omega (Aventures fantastiques de trois Français dans la Planète Mars)</title>
           <date>1906</date>
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="firstEdition">
           <date>1906</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -57,15 +67,16 @@
         </keywords>
       </textClass>
       <textDesc>
-        <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
-        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short"/>
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low"/>
+        <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
+        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
         <!-- Reprints 1970-2009: None. After 2009: 2018. -->
-        <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
+        <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
+      <change when="2020-11-14">Converted by checkUp script for new release</change>
+      <change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-04-05">entête auto-généré: à compléter </change>
     </revisionDesc>
   </teiHeader>
@@ -75,7 +86,7 @@
         <p>Arnould Galopin </p>
         <p>Le Docteur Omega </p>
         <p>(Aventures fantastiques de trois Français dans la Planète Mars) </p>
-        <gap unit="graphic"/>
+        <gap unit="graphic" />
         <p>Un texte du domaine public.</p>
         <p>Une édition libre.</p>
         <p>
@@ -591,7 +602,7 @@
         <p>— Tout cela est féerique !… Pourvu que vous puissiez mettre à exécution ce projet grandiose !…</p>
         <p>— Rien ne m'en empêche, répondit le savant… J'ai fait le sacrifice de ma fortune pour mener à bien cette entreprise.</p>
         <p>Je me suis déjà entendu télégraphiquement avec les établissements du Creusot ; prochainement je leur enverrai un double de ces plans et ils commenceront aussitôt les travaux.</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Pendant près de trois mois nous travaillâmes sans relâche. Le savant refit tous ses calculs, modifia une partie de ses plans et moi je recopiai les indications qu'il avait hâtivement griffonnées.</p>
         <p>Enfin, le 27 novembre, je partis pour le Creusot, en compagnie du docteur et de Fred.</p>
         <p>Quand nous arrivâmes aux usines, l'énorme projectile avait déjà été coulé dans les moules, mais comme, bien entendu, on n'avait pu le fondre d'un seul bloc, il était divisé en trois parties que l'on devait réunir entre elles à l'aide de boulons et de frettes.</p>
@@ -1460,7 +1471,7 @@
         <p>— Ces animaux-là ne doivent pas être bien terribles dit Fred.</p>
         <p>— Peut-être, répondit le docteur… mais il est plus prudent de les éviter… Entrer en collision avec eux pour s'assurer de leur résistance, ce serait courir le risque d'endommager notre véhicule, et une « panne » n'aurait rien d'agréable dans ces régions, bien qu'elles soient merveilleuses…</p>
         <p>Bientôt les pachydermes ne furent plus à nos yeux qu'une petite ligne rosée qui, rapidement, s'atténua et se fondit sur l'horizon.</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>La chaleur commençait à se faire sentir. Nous relevâmes sur le thermomètre 12 degrés au-dessus et, après le froid sibérien que nous avions éprouvé, cette température nous parut plutôt élevée… La plaine s'incurvait maintenant et une chaîne de montagnes apparaissait à notre droite… L'herbe de la jungle avait changé de couleur ; elle tirait sur le rouge et les plantes qui y croissaient avaient des formes nouvelles… Bientôt nous entendîmes comme un bruit de cataractes et nous aperçûmes sur notre droite des torrents écumeux qui descendaient des rochers pour se jeter dans un lac immense sur lequel flottaient des bêtes étranges. De loin, on eût dit des cygnes, mais de près, l'illusion n'était plus possible.</p>
         <p>Figurez-vous des oiseaux ayant des têtes de requin, des ailes dentelées, en forme de croissant, des cous ridiculement longs et flexibles, et vous aurez une idée des volatiles aquatiques des terres martiennes.</p>
         <p>— Décidément… tout est laid ici, remarqua Fred, les hommes et les bêtes…</p>
@@ -1512,7 +1523,7 @@
         <p>— Oui et cela n'est déjà pas si bête… La région que nous venons de traverser est peuplée de boas terriens, de reptiles qui ne peuvent, à cause de leur conformation, monter aux arbres comme nos serpents terrestres… Ce sont plutôt d'énormes vers, dont l'étreinte doit être des moins agréables… Pour éviter les caresses meurtrières de ces hideux ennemis, les Martiens se sont confectionné des ailes et ont construit leurs maisons dans leurs arbres… Nous approchons du foyer de la civilisation martienne, conclut sentencieusement le docteur.</p>
         <p>Cette remarque, qui n'avait rien que de très logique, me plongea dans un abîme de réflexions… Jusqu'alors, nous avions pu triompher des habitants de la planète inconnue, mais que nous réservait l'avenir ?… Par une naturelle association d'idées, j'en vins à conclure que puisque certains Martiens avaient eu l'ingéniosité de se fabriquer des ailes, nous arriverions sans doute en des régions encore plus civilisées, plus instruites, où ces ailes seraient peut-être remplacées par des engins meurtriers et puissants… Il était évident, d'après ce que nous venions de voir, que ces terres inconnues recelaient des êtres très bien doués sous le rapport de l'intelligence…</p>
         <p>Et je ne pouvais me défendre d'un léger frisson en songeant que, bientôt peut-être, toute cette science, toute cette force que nous apportions de la Terre, ne nous servirait à rien.</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Le <hi>Cosmos</hi> filait toujours…</p>
         <p>Maintenant, nous avions la sensation très nette que nous approchions d'une ville…</p>
         <p>En effet, la plaine n'était plus inculte comme celles que nous avions traversées jusqu'alors… Par-ci par-là, on voyait des quartiers de terre symétriquement alignés et de couleur différente… Ici, c'étaient des bandes jaunâtres, là, des rectangles rouges, plus loin, des carrés mauves et bleus, orangés ou roux ardent…</p>
@@ -1745,7 +1756,7 @@
         <p>Nous allions évidemment comparaître devant l'élite intellectuelle de la planète Mars…</p>
         <p>Les chaînes qui nous entouraient les chevilles se desserrèrent tout à coup et disparurent sous la plateforme… Nous n'étions plus attachés que par les mains, mais la tresse métallique qui les retenait nous en laissait à peu près l'usage.</p>
         <p>Une des « grosses têtes » fit un signe et notre plancher roulant glissa jusqu'à l'estrade. Les « Mégalocéphales
-          <ref target="#FRA05301_N1"/> », dont nous n'étions plus séparés que de quelques mètres, nous regardèrent avec attention, puis causèrent longtemps entre eux.</p>
+          <ref target="#FRA05301_N1" /> », dont nous n'étions plus séparés que de quelques mètres, nous regardèrent avec attention, puis causèrent longtemps entre eux.</p>
         <p>Enfin, celui qui paraissait être le chef des gnomes à gros cerveau fit entendre un sifflement prolongé.</p>
         <p>Il y eut une poussée dans la foule, quelques cris bizarres, puis on jeta dans notre enceinte un pauvre petit Martien qui poussait des gémissements lamentables…</p>
         <p>— C'est une expérience, dit le docteur, ils veulent s'assurer si nous sommes réellement des sauvages…</p>
@@ -1924,7 +1935,7 @@
         <p>— Tu es sans doute, me dit-il, de cette planète ronde et lumineuse que nous apercevons d'ici quand la nuit tombe… et avec laquelle, depuis si longtemps, nous cherchons à communiquer… sans succès…</p>
         <p>Et il m'apprit alors que, depuis un nombre incalculable d'années, les Martiens allumaient chaque soir des feux immenses dans l'espoir qu'on leur répondrait de la Terre.</p>
         <p>Quand je lui narrai comment nous étions parvenus dans Mars, le Roi ouvrit de grands yeux et parut enthousiasmé, mais nous nous aperçûmes plus tard qu'il n'avait absolument rien compris à nos explications et que la question de la gravitation lui était totalement étrangère
-          <ref target="#FRA05301_N2"/>.</p>
+          <ref target="#FRA05301_N2" />.</p>
         <p>Il sembla encore plus étonné quand je lui appris que j'avais quarante ans et le docteur soixante, et que, sur Terre, on ne dépassait guère soixante-dix ans.</p>
         <p>Dans la planète Mars, la longévité est prodigieuse… la moyenne de la vie est de trois cents ans.</p>
         <p>Pendant les deux cents premières années, les Martiens sont <hi>Vizadôs</hi>(actifs), puis ils deviennent <hi>Gagâyou</hi>, c'est-à-dire inutiles, et ne peuvent plus rendre aucun service à la collectivité… Quand l'âge a affaibli leurs facultés, on les parque dans de grandes cités où ils sont servis par des <hi>Noussaï</hi>(esclaves au petit cerveau) et ils achèvent là leur existence.</p>
@@ -2018,7 +2029,7 @@
         <p>Le Grand Razaïou, après avoir contemplé avec une évidente satisfaction l'immense charnier qu'il avait devant lui, reprit le chemin de Musiolii, suivi d'une nuée d'automobiles.</p>
         <p>Un peu avant d'entrer dans la ville, il mit pied à terre et fit, au milieu de ses troupes, une entrée triomphale…</p>
         <p>Les Martiens du Nord avaient, en quelques heures, écrasé ceux du Sud !</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Le docteur se remit immédiatement au travail.</p>
         <p>Enfin, un jour, il me dit :</p>
         <p>— Ce soir, monsieur Borel… nous allons tenter une grande expérience… Aidez-moi à transporter tout cet attirail en plein air… Quand la Terre commencera à briller… je lui enverrai ma première dépêche……</p>
@@ -2108,7 +2119,7 @@
         <p>Le docteur crut devoir les rassurer en leur disant qu'il avait depuis longtemps l'intention de retourner au bord des mers glaciales où il avait laissé un curieux engin qu'il désirait beaucoup faire admirer au grand Razaïou… Il s'excusa même fort poliment d'avoir ainsi emmené quatre ingénieurs martiens sans leur expliquer le but du voyage.</p>
         <p>Les Mégalocéphales parurent reprendre confiance, mais l'un d'eux, nommé <hi>Barazionii,</hi> et qui était fort peureux, chercha à convaincre le docteur du danger qu'il y avait à parcourir les régions de feu et ensuite les contrées glaciaires.</p>
         <p>Mais sa petite voix fut couverte par le ronflement du moteur qui maintenant battait avec un bruit terrible.</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Notre voyage dura cent vingt heures ; nous marchâmes nuit et jour jusqu'au moment où nous arrivâmes dans les régions glaciaires ; là, à cause de la végétation diurne, nous fûmes obligés de nous arrêter pour attendre que les plantes gigantesques écloses sous l'effet du soleil eussent été détruites par le froid de la nuit.</p>
         <p>Enfin, nous aperçûmes les collines de glace qui bordaient la mer martienne…</p>
         <p>Les Mégalocéphales, qui n'étaient pas habitués au froid, grelottaient comme de pauvres chiens mouillés et faisaient peine à voir.</p>
@@ -2355,7 +2366,7 @@
         <p>Je ne puis me rappeler sans un frisson de bonheur cette délicieuse rencontre qui mit en notre présence le docteur Helvétius et ses compagnons Blacwell et Somerson… Du coup, je lâchai les Martiens pour me précipiter dans les bras de nos sauveteurs et les Mégalocéphales se seraient certainement enfuis… si le docteur ne les avait rattrapés aussitôt… Pauvres petits êtres… leur destinée devait s'accomplir !…</p>
         <p>Les effusions calmées, le docteur Helvétius manifesta l'intention de visiter la planète Mars… mais nous lui fîmes comprendre, non sans difficulté, que c'était s'exposer inutilement et que d'ailleurs les Martiens qu'il rencontrerait ressembleraient tous à ceux que nous avions amenés…</p>
         <p>Il fit cependant une longue promenade en compagnie de ses deux compagnons et du docteur Oméga, puis, nous montâmes tous dans le <hi>Cosmos</hi>n° 2 et, quelques instants après, nous fendions l'espace avec la rapidité de la foudre…</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>J'aurais pu détailler le voyage et les préparatifs de l'expédition du docteur Helvétius, mais c'est sur sa prière que je n'en ai rien fait. Le savant anglais travaille en ce moment à un livre qui portera pour titre : <hi>Comment j'ai retrouvé le docteur Oméga</hi>, et il n'appartenait pas à un humble violoniste comme moi de déflorer cet ouvrage…</p>
         <p>On sait comment nous fûmes accueillis à notre retour sur Terre : après être tombés en Angleterre, aux environs d'Hereford, nous revînmes en France où les honneurs du triomphe nous furent décernés…</p>
         <p>Le docteur présenta les Martiens à l'Académie des Sciences dont il fut élu membre à l'unanimité. Le président de la République nous reçut en audience solennelle… et tint à placer lui-même sur nos poitrines la croix des braves… De plus on nous dota d'une rente considérable sur l'Etat et une souscription monstre fut ouverte à l'effet de construire dix <hi>Cosmos</hi> gigantesques destinés à effectuer un service régulier entre la Terre et la planète Mars…</p>

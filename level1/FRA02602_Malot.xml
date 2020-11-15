@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02602" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02602" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,32 +22,39 @@
         <measure unit="words">123735</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2020-11-14" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
-          <ref target="http://beq.ebooksgratuits.com"/>
-        </bibl><bibl type="printSource">
+          <ref target="http://beq.ebooksgratuits.com" />
+        </bibl>
+        <bibl type="printSource">
           <title>Sans famille</title>
           <author>Hector Malot</author>
           <publisher>J. Hetzel et Cie</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1880</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k97632083"/>
-        </bibl><bibl type="firstEdition">
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k97632083" />
+        </bibl>
+        <bibl type="firstEdition">
           <title>Sans famille</title>
           <author>Hector Malot</author>
           <date>1878</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -56,14 +66,15 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
+      <change when="2020-11-14">Converted by checkUp script for new release</change>
+      <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
@@ -2568,7 +2579,7 @@
           <p>Nous n'étions plus à quarante mètres sous terre, l'air n'était plus comprimé, les parois de la remontée ne nous pressaient plus, nos bourdonnements d'oreilles avaient cessé, nous respirions librement, nos cœurs battaient dans nos poitrines !</p>
           <p>Avant de revoir la chaude lumière du soleil, avant d'entendre le bruit du vent dans les feuilles, nous devions rester là pendant de longues et cruelles journées, souffrant toutes les souffrances, nous demandant avec angoisse si jamais nous verrions cette lumière et si jamais il nous serait donné d'entendre cette douce musique.</p>
           <p>Mais, pour vous raconter cette effroyable catastrophe des mines de la Truyère, telle qu'elle a eu lieu, je dois vous dire maintenant comment elle s'était produite, et quels moyens les ingénieurs employaient pour nous sauver.</p>
-          <milestone type="section" rend="space" unit="newline"/>
+          <milestone type="section" rend="space" unit="newline" />
           <p>Lorsque nous étions descendus dans la mine, le lundi matin, le ciel était couvert de nuages sombres et tout annonçait un orage. Vers sept heures cet orage avait éclaté, accompagné d'un véritable déluge. Les nuages qui traînaient bas s'étaient engagés dans la vallée tortueuse de la Divonne et, pris dans ce cirque de collines, ils n'avaient pas pu s'élever au-dessus ; tout ce qu'ils renfermaient de pluie, ils l'avaient versé sur la vallée ; ce n'était pas une averse, c'était une cataracte, un déluge. En quelques minutes les eaux de la Divonne et des affluents avaient gonflé, ce qui se comprend facilement, car, sur un sol de pierre, l'eau n'est pas absorbée, mais, suivant la pente du terrain, elle roule jusqu'à la rivière. Subitement les eaux de la Divonne coulèrent à pleins bords dans son lit escarpé, et celles des torrents de Saint-Andéol et de la Truyère débordèrent. Refoulées par la crue de la Divonne, les eaux du ravin de la Truyère ne trouvèrent pas à s'écouler, et alors elles s'épanchèrent sur le terrain qui recouvre les mines. Ce débordement s'était fait d'une façon presque instantanée ; mais les ouvriers du dehors occupés au lavage du minerai, forcés par l'orage de se mettre à l'abri, n'avaient couru aucun danger. Ce n'était pas la première fois qu'une inondation arrivait à la Truyère, et, comme les ouvertures des trois puits étaient à des hauteurs où les eaux ne pouvaient pas monter, on n'avait d'autre inquiétude que de préserver les amas de bois qui se trouvaient préparés pour servir au boisage des galeries.</p>
           <p>C'était à ce soin que s'occupait l'ingénieur de la mine, lorsque tout à coup il vit les eaux tourbillonner et se précipiter dans un gouffre qu'elles venaient de se creuser. Ce gouffre se trouvait sur l'affleurement d'une couche de charbon.</p>
           <p>Il n'a pas besoin de longues réflexions pour comprendre ce qui vient de se passer : les eaux se sont précipitées dans la mine, et le plan de la couche leur sert de lit ; elles baissent au-dehors ; la mine va être inondée, elle va se remplir ; les ouvriers vont être noyés.</p>
@@ -2589,7 +2600,7 @@
           <p>Des bennes d'épuisement sont installées dans les trois puits, et elles ne s'arrêteront plus ni jour ni nuit, jusqu'au moment où la dernière goutte d'eau sera versée dans la Divonne.</p>
           <p>En même temps on commence à creuser des galeries. Où va-t-on ? on ne sait trop ; un peu au hasard, mais on va. Il y eut divergence dans le conseil des ingénieurs sur l'utilité de ces galeries qu'on doit diriger à l'aventure, dans l'incertitude où l'on est sur la position des ouvriers encore vivants ; mais l'ingénieur de la mine espère que des hommes auront pu se réfugier dans les vieux travaux, où l'inondation n'aura pas pu les atteindre, et il veut qu'un percement direct, à partir du jour, soit conduit vers ces vieux travaux, ne dût-on sauver personne.</p>
           <p>Ce percement est mené sur une largeur aussi étroite que possible, afin de perdre moins de temps, et un seul piqueur est à l'avancement ; le charbon qu'il abat est enlevé au fur et à mesure, dans des corbeilles qu'on se passe en faisant la chaîne ; aussitôt que le piqueur est fatigué, il est remplacé par un autre. Ainsi, sans repos et sans relâche, le jour comme la nuit, se poursuivent simultanément ces doubles travaux : l'épuisement et le percement.</p>
-          <milestone type="section" rend="space" unit="newline"/>
+          <milestone type="section" rend="space" unit="newline" />
           <p>Si le temps est long pour ceux qui du dehors travaillent à notre délivrance, combien plus long encore l'est-il pour nous, impuissants et prisonniers, qui n'avons qu'à attendre sans savoir si l'on arrivera à nous assez tôt pour nous sauver !</p>
           <p>Le bruit des bennes d'épuisement ne nous maintint pas longtemps dans la fièvre de joie qu'il nous avait tout d'abord donnée. La réaction se fit avec la réflexion. Nous n'étions pas abandonnés, on s'occupait de notre sauvetage, c'était là l'espérance ; l'épuisement se ferait-il assez vite ? c'était là l'angoisse.</p>
           <p>Aux tourments de l'esprit se joignaient d'ailleurs maintenant les tourments du corps. La position dans laquelle nous étions obligés de nous tenir sur notre palier était des plus fatigantes ; nous ne pouvions plus faire de mouvements pour nous dégourdir, et nos douleurs de tête étaient devenues vives et gênantes.</p>
@@ -2674,7 +2685,7 @@
           <p>Les sons perçus étaient si faibles qu'il était impossible de déterminer la place précise d'où ils venaient. Mais l'indication, cependant, était suffisante pour dire que des ouvriers échappés à l'inondation se trouvaient dans une des trois remontées de la galerie plate des vieux travaux. Ce n'est plus une descente qui ira au-devant des prisonniers, mais trois, de manière à arriver aux trois remontées. Lorsqu'on sera plus avancé et qu'on entendra mieux, on abandonnera les descentes inutiles pour concentrer les efforts sur la bonne.</p>
           <p>Le travail reprend avec plus d'ardeur, et c'est à qui des compagnies voisines enverra à la Truyère ses meilleurs piqueurs.</p>
           <p>À l'espérance résultant du creusement des descentes se joint celle d'arriver par la galerie, car l'eau baisse dans le puits.</p>
-          <milestone type="section" rend="space" unit="newline"/>
+          <milestone type="section" rend="space" unit="newline" />
           <p>Lorsque dans notre remontée nous entendîmes l'appel frappé par l'ingénieur, l'effet fut le même que lorsque nous avions entendu les bennes d'épuisement tomber dans les puits.</p>
           <p>« Sauvés ! »</p>
           <p>Ce fut un cri de joie qui s'échappa de nos bouches, et sans réfléchir nous crûmes qu'on allait nous donner la main.</p>

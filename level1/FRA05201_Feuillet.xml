@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA05201" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA05201" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,15 +23,19 @@
         <measure unit="words">31143</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2020-11-14" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <publisher>Bibebook</publisher>
           <ref target="http://www.bibebook.com/search/978-2-8247-1448-6">http://www.bibebook.com/search/978-2-8247-1448-6</ref>
           <respStmt>
@@ -39,17 +46,20 @@
             <name>Justus Erich Walbaum</name>
             <name>Khunrath</name>
           </respStmt>
-        </bibl><bibl type="printSource">
+        </bibl>
+        <bibl type="printSource">
           <author>Feuillet, Octave (1821-1890)</author>
           <title>La petite comtesse</title>
           <date>1857</date>
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="firstEdition">
           <date>1856</date>
           <!-- Certainement 1856 en feuilleton; éventuellement déjà en volume en 1856. -->
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -61,15 +71,16 @@
         </keywords>
       </textClass>
       <textDesc>
-        <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M"/>
-        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short"/>
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low"/>
+        <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="M" />
+        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="short" />
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
         <!-- Reprints 1970-2009: None. Before 1970: 1856, 1857, 1862, 1863, 1869, 1871, 1877, 1893 . After 2009: 2017 (Forgotten Books), 2018 (Hachette-BnF). -->
-        <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T1"/>
+        <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T1" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
+      <change when="2020-11-14">Converted by checkUp script for new release</change>
+      <change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-04-05">entête auto-généré: à compléter </change>
     </revisionDesc>
   </teiHeader>
@@ -551,7 +562,7 @@
         <p>Me voici donc dans ma cellule. Qu'elle me paraît froide, sombre et triste ! Le ciel aussi s'est mis en deuil. Depuis mon arrivée dans ce pays et malgré la saison, je n'avais vu que des jours et des nuits d'été. Ce soir, un glacial ouragan d'automne s'est déchaîné sur la vallée ; le vent siffle dans les ruines et en arrache des fragments qui tombent lourdement sur le sol. Une pluie violente bat mes vitraux. – Il me semble qu'il pleut des larmes !</p>
         <p>Des larmes ! j'en ai le cœur rempli… et pas une ne veut monter jusqu'à mes yeux ! – J'ai prié pourtant, j'ai prié Dieu longuement, – non pas, mon ami, ce Dieu insaisissable que nous poursuivons vainement au-delà des étoiles et des mondes, mais le seul Dieu vraiment secourable aux affligés, le Dieu de mon enfance, – le Dieu de cette pauvre femme !</p>
         <p>Ah ! je ne veux plus songer qu'à mon retour près de toi. Après-demain, mon ami, et peut-être avant que cette lettre…</p>
-        <milestone unit="section"/>
+        <milestone unit="section" />
         <p>Viens, Paul ! Si tu peux quitter ta mère, viens, je t'en supplie, viens me soutenir. Dieu me frappe !</p>
         <p>J'écrivais cette ligne interrompue, quand, au milieu des bruits confus de la tempête, mon oreille a cru saisir le son d'une voix, d'une plainte humaine. Je me suis jeté à ma fenêtre ; je me suis penché au dehors pour percer les ténèbres, et j'ai entrevu sur le sol noir et inondé une forme vague, une sorte de paquet blanchâtre. En même temps, un gémissement plus distinct est monté jusqu'à moi. – Une lueur de la terrible vérité m'a traversé l'esprit comme une lame aiguë. – J'ai gagné dans la nuit la porte du moulin ; près du seuil, j'ai vu un cheval abandonné ; il portait une selle de femme. Je me suis précipité en courant vers l'autre face des ruines, et, dans le clos qui est situé sous la fenêtre de ma cellule et qui garde encore des traces de l'ancien cimetière des moines, j'ai trouvé l'infortunée. Elle était là, assise et comme écrasée sur une vieille dalle tumulaire, grelottant de tous ses membres sous les torrents d'eau glacée qu'un ciel impitoyable versait sans relâche sur sa légère toilette de fête. J'ai saisi ses deux mains, essayant de la relever.</p>
         <p>— Ah ! malheureuse enfant ! qu'avez-vous fait ? ah ! malheureuse !</p>

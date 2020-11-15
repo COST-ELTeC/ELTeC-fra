@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03001" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03001" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,36 +23,43 @@
         <measure unit="words">115270</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2020-11-14" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <publisher>Project Gutenberg</publisher>
           <date>2007</date>
           <idno>20950</idno>
-        </bibl><bibl type="printSource">
+        </bibl>
+        <bibl type="printSource">
           <title>La Grande Marnière</title>
           <author>Georges Ohnet</author>
           <publisher>Lith. F. Appel</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1889</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b9005511c"/>
-        </bibl><bibl type="firstEdition">
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b9005511c" />
+        </bibl>
+        <bibl type="firstEdition">
           <title>La Grande Marnière</title>
           <author>Georges Ohnet</author>
           <publisher>P. Ollendorff</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1885</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k663772"/>
-        </bibl></sourceDesc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k663772" />
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -61,14 +71,15 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
+      <change when="2020-11-14">Converted by checkUp script for new release</change>
+      <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-08-15">cf Initial TEI version.</change>
@@ -270,7 +281,7 @@
         <p>Honoré était un beau garçon, de moyenne taille, blond, avec des yeux bleus très doux. Quand il traversait la petite ville, conduisant son tilbury, et faisant, au trot sonore de ses deux chevaux, vibrer les carreaux des maisons, plus d'une femme risquait un œil à la fenêtre. Bien des cœurs battaient pour lui en secret. Mais qu'espérer d'un élégant qui passait pour avoir à Paris des bonnes fortunes miraculeuses, et retenir, par les mêmes chaînes de fleurs, les comédiennes célèbres et les fières grandes dames ? Cependant un événement se préparait, qui devait avoir un grand retentissement dans le pays, et exercer sur la destinée du marquis une influence considérable.</p>
         <p>Dans la rue du Marché, auprès de la fontaine publique, dont le rejaillissement continuel piquait la pierre des murs d'une moisissure verdâtre, s'élevait une étroite maison basse, à pignon aigu et penchant, aux fenêtres à guillotine garnies de carreaux verts, bossués, au centre, d'un cul de bouteille. Au-dessus de la porte, sur un tableau noir, étaient écrits ces mots: <hi>Gâtelier, marchand de fourrages, sons, recoupes et avoines</hi> . La petite boutique, au rez-de-chaussée, était encombrée de sacs de grains, et, dans un vaste casier, appliqué à la muraille, des bocaux d'échantillons rarement remués rancissaient sous la poussière. Cet humide et triste réduit, où le soleil n'entrait jamais, parut cependant lumineux au marquis. C'était un jour de marché : sa voiture avait été arrêtée par un encombrement ; il laissa tomber un regard distrait sur cet intérieur sombre, et resta ébloui. Assise auprès de la fenêtre relevée, travaillant à un ouvrage de broderie, une jeune fille, blonde comme une madone de Raphaël, le teint blanc, la bouche rêveuse et tendre, des yeux bleus ombragés par de longs cils châtains, lui apparut pleine de la grâce délicate et charmante d'une fleur qui languit sans air et sans soleil. </p>
         <p>Les charrettes qui barraient la rue s'étaient éloignées, les paysans qui débattaient le prix d'une vente, à grand renfort de cris et de tapes dans la main, avaient gagné le cabaret voisin, le passage était libre, les chevaux du marquis, ne voyant plus d'obstacle, piaffaient d'impatience, et cependant il restait là, les yeux fixés sur cette fenêtre où rayonnait cette exquise beauté, oubliant où il était, se souciant peu d'être observé, méprisant les commentaires des bourgeois de la ville, tout à son admiration, et pris d'un ardent désir de descendre, pour se rapprocher de celle qui venait de le troubler si profondément. Une aigre sonnette, mise en mouvement par l'huisserie, l'arracha désagréablement à son extase. Il jeta un regard chagrin sur la rue sale, sur la maison vieille et noire, se demandant par quelle ironie de la destinée cette perle se trouvait dans ce bourbier. Il ressentit alors une sorte de commotion magnétique. Un homme venait de paraître sur le seuil, s'était appuyé au chambranle de la porte, et, de là, faisait peser sur le marquis le regard provocant de ses prunelles jaunes. M. de Clairefont, du haut de son siège, dévisagea cet audacieux. Il le vit petit, maigre, avec une figure chafouine éclairée par des yeux d'une vivacité extraordinaire. Il était vêtu comme un ouvrier, d'une veste de ratine grise et d'un pantalon de velours vert usé aux genoux. Au même moment, la jeune fille leva la tête, et aperçut Honoré arrêté devant la boutique. Elle rougit, se détourna, affecta un air indifférent, et, quittant sa chaise, elle s'enfonça dans les profondeurs obscures de la boutique. Le marquis l'entendit qui disait d'une voix douce et chantante :</p>
-        <milestone type="section" rend="asterisk" unit="asterisk"/>
+        <milestone type="section" rend="asterisk" unit="asterisk" />
         <p>— Carvajan, au lieu de regarder dans la rue, terminez donc vos expéditions...</p>
         <p>Le commis secoua son front basané comme pour en chasser de pénibles pensées, tourna une fois encore vers le jeune homme son visage sombre et menaçant, puis, lentement, il laissa aller la porte qui retomba avec un bruit de carreaux ébranlés. Honoré toucha ses chevaux, et, se tournant vers son domestique qui était assis impassible, les bras croisés, sur le siège de derrière :</p>
         <p>— Quelle est donc cette jolie fille ? dit-il en affectant un air insouciant.</p>
@@ -459,7 +470,7 @@
         <p>— S'il n'épouse pas, c'est qu'apparemment il peut faire autrement. Du reste, c'est de tradition dans la famille. On sait qu'autrefois la tante Isabelle a fait ses farces !</p>
         <p>Jour de Dieu ! Si Mlle de Saint-Maurice avait eu vent de ces propos, quelle algarade, et comme elle eût riposté par des soufflets ! Mais les Clairefont vivaient loin de tout, et la calomnie mourait sur le seuil de leur château morose et silencieux.</p>
         <p>Depuis un assez long temps Antoinette, emportée au courant de ses souvenirs, était arrêtée devant les talus blancs de la Grande Marnière. Elle avait tout oublié ; sa singulière rencontre, l'heure qui la pressait ; et, laissant flotter les rênes sur le cou de son cheval, elle restait immobile. À ses pieds les charpentes des puits d'extraction pourrissaient inutiles, les hangars s'ouvraient, vides d'ouvriers, les wagons restaient immobiles entre les rails conduisant aux fours à chaux éteints. Toute cette exploitation, poussée pendant des années fiévreusement, avait cessé. Les immenses travaux commencés n'avaient pas été achevés. Et les amoncellements de calcaire improductif représentaient la fortune de la noble maison, les espérances de bonheur de la jeune fille, la sécurité des vieux jours du père de famille. Tout le passé, le présent et l'avenir, compromis sans rémission. Et pourtant que de fois Antoinette avait entendu le marquis s'écrier, en montrant la colline : Ici est la fortune de la maison !</p>
-        <milestone type="section" rend="asterisk" unit="asterisk"/>
+        <milestone type="section" rend="asterisk" unit="asterisk" />
         <p>Il avait fait faire des expériences qui toutes avaient été concluantes: la chaux de Clairefont pouvait défier toute concurrence. Pendant plusieurs années la vente avait été considérable. Mais le marquis, pour perfectionner son outillage, s'était mis à inventer des machines. Il avait expérimenté des moyens de calcination nouveaux. Et dans ses tentatives il avait gaspillé le bénéfice de son entreprise. Toujours le manque de suite dans les idées. La folle du logis s'égarant à la recherche du mieux, quand le bien existait, facile et sûr ; le génie diabolique de l'inventeur sans cesse en quête d'un progrès à réaliser. Alors, au lieu de la réussite pure et simple, par le droit et ordinaire chemin, l'insuccès par des voies détournées et ardues. Et la ruine succédant à la fortune.</p>
         <p>Cependant, malgré l'amer désenchantement que lui causaient tant d'échecs successifs, au fond de l'esprit de la jeune fille une dernière espérance fleurissait encore. Elle avait en son père une foi superstitieuse. Elle pensait: Il finira par trouver, comme il le dit si souvent ; et ce jour-là, comme dans un prodigieux conte de fées, les blocs crayeux de la colline se changeront en or.</p>
         <p>La cloche qui annonçait le déjeuner sonnant dans le lointain tira Antoinette de ses rêves. Elle donna un coup de cravache à sa monture, partit au galop, et vivement arriva à la grille. Elle secoua sa tête pensive, prit un air riant, traversa la cour immense, entre les pavés de laquelle l'herbe poussait haute, sauta toute seule à terre, ouvrit la porte d'une écurie, et, débridant sa bête, la laissa aller vers la stalle garnie de paille fraîche Puis, retroussant sa longue jupe sur son bras, elle se dirigea, suivie de son chien, vers la salle à manger.</p>
@@ -704,7 +715,7 @@
         <p>— En vieillissant il s'est humanisé. Qui sait s'il ne ferait pas vraiment beaucoup pour me plaire ?</p>
         <p>Il eut la pensée de profiter des bonnes dispositions où il le voyait, et de tout lui avouer. Il était temps encore peut-être de détourner le coup suspendu sur Clairefont. Si la rentrée de l'enfant, pendant si longtemps errant à travers le monde, pouvait être le signal d'une pacification heureuse ? Oh ! de quelle tendresse il paierait son père, si, par condescendance pour lui, il consentait à épargner ses ennemis vaincus ! Il se figurait Antoinette débarrassée de ses soucis, libre de sourire. Et ce serait à lui que la jeune fille devrait la sécurité de la vie pour son père, et le calme du cœur pour elle. Un grand attendrissement s'empara de Pascal. Sans retard, il voulut tenter l'épreuve.</p>
         <p>— Mon père, depuis que je suis rentré chez vous, dit-il, j'admire comme tout a changé. Je vous ai retrouvé le premier de la ville... Vous avez une grande situation, et je comprends qu'elle n'est pas encore ce qu'elle peut être...</p>
-        <milestone type="section" rend="asterisk" unit="asterisk"/>
+        <milestone type="section" rend="asterisk" unit="asterisk" />
         <p>Carvajan baissa la tête en signe d'affirmation. Un rire muet passa sur son visage basané.</p>
         <p>— Je vois cependant un point noir à l'horizon : c'est l'état d'hostilité dans lequel vous vivez avec les habitants de Clairefont... Croyez-vous qu'il soit digne de vous de prolonger une lutte qui jette du trouble dans le pays ? Car, vraiment, tous ceux qui ne sont pas pour vous sont pour eux... Et c'est une véritable discorde que vous entretenez.</p>
         <p>Le banquier baissa le nez, comme lorsqu'il ne voulait pas s'expliquer et, avec une sourde ironie :</p>
@@ -901,7 +912,7 @@
         <p>La petite Bihorel, qui avait la cinquantaine, fit une révérence de dévote et conduisit les deux dames du château jusqu'à la porte de la sacristie. À peine la tante et la nièce furent-elles seules dans l'église, que Mlle de Saint-Maurice, regardant Antoinette avec des yeux pétillants de curiosité :</p>
         <p>— Ah ça, ma belle, je suppose que tu as reconnu ton donateur au portrait que le curé a tracé de lui ? C'est assurément le jeune sire de Carvajan, en personne.</p>
         <p>— Tante ! murmura la jeune fille avec ennui.</p>
-        <milestone type="section" rend="asterisk" unit="asterisk"/>
+        <milestone type="section" rend="asterisk" unit="asterisk" />
         <p>— Eh bien ! quoi donc ? Le fils de ce vieux coquin, pris de remords peut-être, rend un peu de l'argent volé par son père, et se sert de ta main pour faire cette restitution agréable aux hommes et à Dieu. C'est fort moral, et du dernier galant !... Tu vas voir que nous aurons, sans nous en douter, un allié dans la maison du monstre.</p>
         <p>— Je vous en prie, tante, ne plaisantez pas sur un pareil sujet ! dit Mlle de Clairefont d'une voix troublée.</p>
         <p>— Qu'est-ce donc ? Je ne comprends pas ton émotion, s'écria la vieille fille avec étonnement.</p>
@@ -1154,7 +1165,7 @@
         <p>Dans la salle de danse, l'émotion causée par l'intervention de Mlle de Clairefont n'était pas encore calmée. La tante de Saint-Maurice, d'abord pétrifiée, avait fini par reprendre ses esprits et, la figure fulgurante :</p>
         <p>— Ah ! çà, mais qu'est-ce que tout cela signifie ? gronda-t-elle... Deviens-tu folle, ma fille ? Tu fais des politesses à ce jeune «maltôtier», quand il méritait une bonne leçon pour son impertinence...</p>
         <p>— Non ! tante, non, c'est nous qui avons eu tous les torts... Il fallait ne pas venir ici, où nous savions que nous n'avions rien que de mauvais à attendre... Il fallait surtout ne pas provoquer ce jeune homme...</p>
-        <milestone type="section" rend="asterisk" unit="asterisk"/>
+        <milestone type="section" rend="asterisk" unit="asterisk" />
         <p>— Mais tu n'as donc pas vu le vieux sacripant de père, riant d'avance de la bonne plaisanterie qu'il faisait, en t'exposant à te trouver nez à nez avec son fils ?...</p>
         <p>Antoinette hocha la tête avec tristesse.</p>
         <p>— Ne nous attaquons pas à cet homme : nous ne serions pas les plus forts... Cédons le terrain, c'est ce que nous avons de mieux à faire.</p>
@@ -1419,7 +1430,7 @@
         <p>À l'indignation des premiers moments, lorsque la tante de Saint-Maurice s'écriait superbement: «Mais il est impossible qu'on soupçonne un Clairefont !», avait succédé une terreur vague faite d'ignorance : celle des enfants qui s'éloignent de l'ombre peuplée par leur imagination de fantômes effrayants. En somme, on ne savait rien de ce qui se passait ni de ce qu'on pouvait craindre ; mais ce mystère-là était plus formidable que ne l'eût été la connaissance de ce qu'il fallait redouter. Sur les faits s'étendait une obscurité dans laquelle les malheureux se débattaient impuissants.</p>
         <p>Leur préoccupation principale était de faire le silence autour du marquis. Ils ne pouvaient supporter la pensée que le père fût instruit de l'accusation portée contre son fils. À tout prix, ils étaient résolus à l'empêcher de la connaître. La tranquillité du vieillard devait avant tout être sauvegardée. Depuis trente ans, la famille avait subi son despotisme, et s'était pliée à ses caprices les plus déraisonnables. Tout faire pour ne point tourmenter le marquis avait été le mot d'ordre à Clairefont. Les enfants et la tante de Saint-Maurice s'étaient conformés à cette règle : Antoinette et Robert avec un tendre respect, la vieille fille avec des accès de mauvaise humeur réprimés à grand'peine. On avait tout accepté, même les menaces de ruine. Plutôt mourir que de révéler la menace du déshonneur. Le premier mot de la tante Isabelle avait été :</p>
         <p>— Emmenons le marquis à Saint-Maurice !...</p>
-        <milestone type="section" rend="asterisk" unit="asterisk"/>
+        <milestone type="section" rend="asterisk" unit="asterisk" />
         <p>Mais Antoinette, toujours sage, au milieu même du désespoir, avait répondu aussitôt:</p>
         <p>— Il ne saurait nulle part être mieux qu'à Clairefont. Dans son appartement séparé, il est à mille lieues du monde. Ce sera à nous de veiller à ce qu'on ne pénètre pas jusqu'à lui... Il ne lit aucun journal, il ne sort jamais... Il restera, quoi qu'il arrive, dans une quiétude complète. S'il faut absolument lui dire quelque chose, eh bien, nous choisirons au moins le moment, et nous serons juges de l'étendue de l'aveu.</p>
         <p>Et tous trois, réunis dans le petit salon du rez-de-chaussée, les fenêtres ouvertes sur la terrasse, ils attendaient, dans une anxiété plus intolérable que le mal lui-même, l'oreille ouverte aux mille bruits du dehors, les yeux fixés sur la montée de Clairefont qui cheminait poudreuse et nue dans la verdure de la colline. C'était par cette route, qu'ils interrogeaient, que pouvait leur venir le danger. Et dans les yeux de la tante de Saint-Maurice éclatait le désir mal contenu de la résistance.</p>
@@ -1657,7 +1668,7 @@
         <p>— Ce sera bien difficile...</p>
         <p>— Et pourtant, tout lui dire, c'est le tuer ! Il ne supportera pas un pareil coup... L'entretien sérieux que j'ai eu avec lui ce matin l'a bouleversé... Il souffre... Que voulez-vous ? Il n'est pas habitué aux contrariétés... Nous les avons jusqu'à présent gardées pour nous seuls. Il pouvait se livrer paisiblement aux travaux qui sont sa joie et son existence même. Il était si confiant dans ses découvertes !... J'espérais toujours... S'il avait enfin trouvé ce qu'il cherche, ne serait-ce pas un crime de le priver de ce résultat si laborieusement obtenu ?</p>
         <p>— Ne pensons plus à cela, pour le moment, Mademoiselle... Il s'agit de savoir ce que vous voulez faire... Vous êtes sous le coup d'une expropriation par voie de saisie immobilière... Jugement rendu, signifié, délais obtenus grâce à des oppositions successives, qui n'ont abouti qu'à vous procurer du temps, en augmentant les frais... Aujourd'hui, je puis encore user de moyens dilatoires, pour vous maintenir pendant quelques jours en possession... Nous continuerons la bataille du papier timbré... Mais il faudra toujours en arriver à la chute finale. Et ces atermoiements n'auront pour résultat que d'exaspérer Carvajan. D'un autre côté, si nous laissons saisir, nous avons chance, avant la vente, de voir aboutir l'affaire de votre frère. Dégagés de tout souci, nous portons tous nos efforts sur sa défense. Nous prions quelque avocat éminent du barreau de Paris de soutenir sa cause, et nous pouvons arriver à l'arracher des mains de vos ennemis. Une fois hors de danger, oh ! alors, nous n'avons plus rien à ménager, et nous tâchons de tirer de nos biens-fonds tout le parti possible. Nous envoyons des annonces aux notaires du département et de la capitale, afin de trouver des acquéreurs importants pour le château et le domaine. Nous nous adressons aux fabricants de chaux de Senonches, nous leur faisons valoir le péril de la concurrence, nous les engageons à pousser pour obtenir l'enchère, afin d'unifier les tarifs. Carvajan, qui devient enragé, pousse de son côté, et, grâce à cette rivalité, les adjudications sont faites à des prix inespérés. Si bien qu'une fois la cloche fondue, nous trouvons pour M. le marquis, toutes les dettes payées, un reliquat de deux ou trois cent mille francs, lesquels, habilement placés par mes soins, lui permettent de vivre honorablement à Saint-Maurice. Voilà, ma chère demoiselle, le plan que j'ai conçu et que je venais vous proposer.</p>
-        <milestone type="section" rend="asterisk" unit="asterisk"/>
+        <milestone type="section" rend="asterisk" unit="asterisk" />
         <p>Le bon Malézeau, entraîné par la chaleur de son débit, ne bredouillait plus et ne hachait plus son discours de ses habituels Monsieur, Madame, ou Mademoiselle, mais le tic de ses yeux avait redoublé et, derrière ses lunettes d'or, son regard papillotait terrible.</p>
         <p>— Oui, c'est là ce qu'il faut faire, dit Antoinette, voilà ce que la raison conseille... Oh ! Dieu, à force de tourments et de tristesse, j'en viendrai à quitter cette maison presque sans regrets: j'y aurai trop souffert... Je m'en remets à vous, cher monsieur Malézeau ; voyez mon père, raisonnez-le, obtenez de lui qu'il se repose sur vous et sur moi du soin d'arranger ses affaires. Faisons le vide autour de lui, jusqu'à ce que mon frère soit revenu... Après le péril, nous pourrons lui laisser soupçonner nos inquiétudes. Il y aura assez de joie pour les lui faire oublier.</p>
         <p>Elle eut un doux et triste sourire :</p>
@@ -1908,7 +1919,7 @@
         <p>Carvajan dressa l'oreille. Dans l'accent de son fils il avait découvert une sonorité singulière. Il l'observa et lui trouva la contenance embarrassée.</p>
         <p>— Eh bien ! allons fumer dans mon cabinet, dit-il en se levant.</p>
         <p>Ils passèrent dans la grande pièce sombre, éclairée seulement par une lampe placée sur le bureau du banquier. Et, avec une ivresse délicieuse, Pascal retrouva flottant, affaibli dans l'air, le parfum qu'Antoinette avait laissé, trace subtile de son séjour dans la maison de l'ennemi. Carvajan avait un odorat de sauvage ; il respira avec force, mais ne sonna mot. Il marchait à grands pas, suivant son habitude. Les soupçons qu'il avait formés sur le compte de son fils tendaient à se préciser, et lui causaient une sourde inquiétude : Serait-il de connivence avec les gens de Clairefont ? se demandait-il. Mais comment, par quelle entremise ? Absorbé dans la recherche de ce problème, il allongeait ses enjambées, allant de la fenêtre au bureau, lorsque, sur la console en vieil acajou empire, qui garnissait le trumeau du côté de la rue, un morceau de tissu noir attira son attention. Il s'approcha machinalement, le regarda, reconnut une voilette de femme, et, avec une exclamation, s'en emparant:</p>
-        <milestone type="section" rend="asterisk" unit="asterisk"/>
+        <milestone type="section" rend="asterisk" unit="asterisk" />
         <p>— Qui est-ce qui a laissé ça ici ? cria-t-il. Qui donc est venu en mon absence ? Sacredié ! J'avais bien reniflé, en entrant, une odeur qui n'était pas catholique !...</p>
         <p>Il mit la voilette sous le nez de Pascal.</p>
         <p>— Tu dois être informé, toi, monsieur le casanier, qui n'es pas sorti de la journée ? Cet objet de toilette n'appartient pas à une des dames de La Neuville... Dieu merci, elles ne se cachent pas le visage !... Est-ce que ?...</p>
@@ -2155,7 +2166,7 @@
         <p>— Tu ne sais ce que tu fais. Tu attires sur toi des colères, dont je ne pourrai peut-être pas toujours te préserver... Ne passe plus jamais par ici !... Quand tu iras là-haut, prends la grande route... Adieu !</p>
         <p>Il partit, presque en courant, dans la direction de l'auberge de Pourtois. Pascal rentra chez Malézeau. Il pensa: Mon père a voulu m'effrayer... Qu'ai-je à craindre ?</p>
         <p>Il continua à suivre, pour aller à Clairefont, le sentier de la Grande Marnière. Deux jours plus tard, comme il regagnait La Neuville, vers six heures, arrivé au détour du sentier, il entendit une détonation, et une branche de bouleau, brisée à un pied de sa tête, tomba sur le chemin. D'un bond, le jeune homme se jeta derrière le talus de la route, et, à l'abri, il attendit, regardant au loin. Dans les rougeurs du soleil couchant, une petite fumée blanche monta, mais la lande resta déserte. Celui qui avait tiré ne parut pas. Il s'était enfui au travers des genêts, ou se cachait dans un trou de marne. Pascal demeura là, quelques instants, puis, se courbant pour ne pas être vu, il s'éloigna.</p>
-        <milestone type="section" rend="asterisk" unit="asterisk"/>
+        <milestone type="section" rend="asterisk" unit="asterisk" />
         <p>— Il n'y a pas à s'y tromper : c'était Chassevent, se dit-il. Mais comment n'a-t-il pas tiré son second coup ?... Il avait le temps... Peut-être se proposait-il seulement de me faire peur ?... Cependant la balle a passé bien près.</p>
         <p>Les recommandations de son père lui revinrent à la mémoire. Évidemment il se doutait des projets du braconnier. Ne pouvant se faire obéir de cette brute, il avait au moins essayé de protéger son fils. Allons ! toute tendresse n'était pas morte en lui.</p>
         <p>À Clairefont Pascal garda le silence sur l'incident ; seulement il prit un autre chemin.</p>
@@ -2393,7 +2404,7 @@
         <p>— Il grimpe dans le clocher !</p>
         <p>Et, à la clarté de la lune, l'idiot se montra à une des ogives de la plate-forme. Les pas de l'agent, qui le poursuivait, résonnaient à l'intérieur. Le Roussot gravit les échelons qui conduisaient à la charpente supportant la cloche. Il se dressa, apparition fantastique, la figure grimaçante, les cheveux hérissés, livide d'épouvante.</p>
         <p>L'agent parut au-dessous de lui, montant toujours. Le berger regarda le faîte du clocher, et, avec une agilité et une force de gorille, grimpa le long des poutres. Il se tint un instant debout sur un étroit rebord, puis il parut pris de vertige, se balança, comme attiré par le vide, poussa un horrible éclat de rire, et, perdant son point d'appui, il fila dans l'espace.</p>
-        <milestone type="section" rend="asterisk" unit="asterisk"/>
+        <milestone type="section" rend="asterisk" unit="asterisk" />
         <p>Robert, Pascal et le magistrat n'eurent que le temps de se jeter en arrière. Le corps du Roussot, tournant sur lui-même dans sa chute, décrivit une courbe effrayante, et vint s'abattre, avec un bruit mat, sur la tombe même de Rose, éclaboussant de son sang la pierre encore trempée de ses larmes.</p>
       </div>
       <div type="chapter">
@@ -2505,7 +2516,7 @@
       </div>
     </body>
     <back>
-      <div type="notes"/>
+      <div type="notes" />
       <div type="liminal">
         <p>FIN</p>
       </div>

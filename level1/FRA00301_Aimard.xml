@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00301" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00301" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,31 +19,37 @@
         <measure unit="words">90276</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2020-11-14" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <title>Les Trappeurs de l'Arkansas</title>
           <author>Gustave Aimard</author>
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
-          <ref target="https://www.ebooksgratuits.com/details.php?book=953"/>
+          <ref target="https://www.ebooksgratuits.com/details.php?book=953" />
           <date>2005</date>
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="firstEdition">
           <title>Les Trappeurs de l'Arkansas</title>
           <author>Gustave Aimard</author>
           <publisher>Amyot</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1858</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6213686g"/>
-        </bibl></sourceDesc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6213686g" />
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -52,14 +61,15 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
+      <change when="2020-11-14">Converted by checkUp script for new release</change>
+      <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
@@ -103,15 +113,15 @@
           <p>Hermosillo, anciennement le <hi>Pitic</hi> et que l'expédition du comte de Raousset-Boulbon a rendu célèbre, est l'entrepôt du commerce mexicain dans le Pacifique et compte plus de neuf mille habitants. </p>
           <p>Cette ville, bâtie sur un plateau qui s'abaisse dans la direction du nord-ouest en pente douce jusqu'à la mer, s'appuie et s'abrite frileusement contre une colline nommée <hi>el Cerro de la campana --</hi> Montagne de la cloche --, dont le sommet est couronné d'énormes blocs de pierre qui, lorsqu'on les touche, rendent un son clair et métallique. </p>
           <p>Du reste, comme ses autres sœurs américaines, cette <foreign>ciudad</foreign> est sale, bâtie en pisé et présente aux yeux étonnés du voyageur un mélange de ruines, d'incurie et de désolation qui attriste l'âme. </p>
-          <milestone type="section" rend="space" unit="newline"/>
+          <milestone type="section" rend="space" unit="newline" />
           <p>Le jour où commence ce récit, c'est-à-dire le 17 janvier 1817, entre trois et quatre heures de l'après-midi, moment où d'ordinaire la population fait la <foreign>siesta,</foreign> retirée au fond de ses demeures, la ville d'Hermosillo, si calme et si tranquille d'ordinaire, offrait un aspect étrange. </p>
           <p>Une foule de <hi>Leperos,</hi> de <hi>Gambusinos,</hi> de contrebandiers et surtout de <hi>Rateros</hi> se pressait avec des cris, des menaces et des hurlements sans nom, dans la <foreign>calle del Rosario</foreign> -- rue du Rosaire. Quelques soldats espagnols -- le Mexique à cette époque n'avait pas encore secoué le joug de la métropole -- cherchaient en vain à rétablir l'ordre et à dissiper la foule, frappant à tort et à travers à grands coups de bois de lances sur les individus qui se trouvaient devant eux. </p>
           <p>Mais le tumulte loin de diminuer allait au contraire toujours croissant, les Indiens <hi>Hiaquis</hi> surtout, mêlés à la foule, criaient et gesticulaient d'une façon réellement effrayante. </p>
           <p>Les fenêtres de toutes les maisons regorgeaient de têtes d'hommes et de femmes qui, les regards fixés du côté du Cerro de la campana, du pied duquel s'élevaient d'épais nuages de fumée en tourbillonnant vers le ciel, semblaient être dans l'attente d'un événement extraordinaire.</p>
           <p>Tout à coup de grands cris se firent entendre, la foule se fendit en deux comme une grenade trop mûre, chacun se jeta de côté avec les marques de la plus grande frayeur et un jeune homme, un enfant plutôt car il avait à peine seize ans, apparut emporté comme dans un tourbillon par le galop furieux d'un cheval à demi sauvage.</p>
           <p>– Arrêtez-le ! criaient les uns.</p>
-          <p>—  <hi>Lassez-le !</hi> vociféraient les autres. </p>
-          <p>—  <hi>Valgamedios !</hi> murmuraient les femmes en se signant, c'est le démon lui-même. </p>
+          <p>— <hi>Lassez-le !</hi> vociféraient les autres. </p>
+          <p>— <hi>Valgamedios !</hi> murmuraient les femmes en se signant, c'est le démon lui-même. </p>
           <p>Mais chacun, loin de songer à l'arrêter, l'évitait au plus vite ; le hardi garçon continuait sa course rapide, un sourire railleur aux lèvres, le visage enflammé, l'œil étincelant et distribuant à droite et à gauche de rudes coups de <foreign>chicote</foreign> à ceux qui se hasardaient trop près de lui, ou que leur mauvais destin empêchait de s'éloigner aussi vite qu'ils l'auraient voulu. </p>
           <p>— Eh ! eh ! <hi>Caspita !</hi> fit lorsque l'enfant le frôla en passant un <foreign>vaquero</foreign> à la face stupide et aux membres athlétiques, au diable soit le fou qui a manqué me renverser ! Eh mais, ajouta-t-il après avoir jeté un regard sur le jeune homme, je ne me trompe pas, c'est Rafaël, le fils de mon compère ! attends un peu, <foreign>picaro !</foreign>
           </p>
@@ -597,7 +607,7 @@
           <p>Les chasseurs sortirent du fourré avec la plus grande précaution. Au lieu de traverser la rivière ils rebroussèrent chemin et suivirent pendant quelque temps la route qu'ils avaient déjà faite, puis ils appuyèrent sur la gauche et s'engagèrent dans un ravin, où ils disparurent bientôt au milieu de hautes herbes.</p>
           <p>– Je vous laisse nous guider, Belhumeur, dit le Cœur-Loyal, je ne sais réellement pas où vous nous conduisez.</p>
           <p>– Rapportez-vous-en à moi, j'ai découvert par hasard à deux portées de fusil de l'endroit où nous sommes une espèce de citadelle où nos chevaux seront on ne peut mieux, et dans laquelle, le cas échéant, nous pourrions soutenir un siège en règle.</p>
-          <p>—  <foreign xml:lang="esp" rend="italic">Caramba !</foreign> exclama le chasseur, qui par ce juron qui lui était habituel, trahissait son origine espagnole, comment avez-vous donc fait cette précieuse découverte ? </p>
+          <p>— <foreign xml:lang="esp" rend="italic">Caramba !</foreign> exclama le chasseur, qui par ce juron qui lui était habituel, trahissait son origine espagnole, comment avez-vous donc fait cette précieuse découverte ? </p>
           <p>– Mon Dieu ! dit Belhumeur, de la façon la plus simple, je venais de tendre mes trappes, lorsqu'en gravissant la montagne qui est là devant nous, afin d'abréger mon chemin et de vous rejoindre plus vite, à peu près aux deux tiers de la montée je vis passer entre les broussailles le museau velu d'un superbe ours.</p>
           <p>– Ah ! ah ! mais je connais à peu près cette aventure, vous m'avez apporté ce jour-là, si je ne me trompe, non pas une, mais bien deux peaux d'ours noir.</p>
           <p>– C'est cela même, mes gaillards étaient deux, un mâle et une femelle, vous comprenez qu'à leur vue mes instincts de chasseur se réveillèrent immédiatement, oubliant ma fatigue, j'armai ma carabine et je me mis à leur poursuite. Vous allez voir par vous-même quel fort ils avaient choisi, ajouta-t-il en mettant pied à terre, manœuvre que son compagnon imita.</p>
@@ -637,7 +647,7 @@
           <p>Alors avec un sang-froid extrême, le chasseur dégaina son couteau et l'enfonça jusqu'à la poignée dans le cœur de son ennemi.</p>
           <p>Lorsque le sauvage vit qu'il était perdu il dédaigna de tenter une résistance inutile, mais fixant sur le Canadien un regard de haine et de dédain, un sourire ironique plissa ses lèvres et il laissa venir la mort avec un visage impassible.</p>
           <p>Belhumeur replaça son couteau à sa ceinture et poussant le cadavre de côté :</p>
-          <p>—  <hi>Un !</hi> dit-il imperturbablement. </p>
+          <p>— <hi>Un !</hi> dit-il imperturbablement. </p>
           <p>Et il recommença à ramper.</p>
           <p>Le Cœur-Loyal avait suivi les mouvements de son ami avec la plus grande attention, prêt à le secourir si besoin était ; lorsque l'Indien fut mort il reprit impassiblement la piste.</p>
           <p>Bientôt la lueur d'un feu brilla entre les arbres et une odeur de chair rôtie frappa l'odorat subtil des chasseurs.</p>
@@ -777,7 +787,7 @@
           <p>– Je pouvais vous tuer, continua le chasseur, je ne l'ai pas voulu, voici la seconde fois que je vous donne la vie, chef, ce sera la dernière, ne vous trouvez plus sur ma route, et surtout ne volez plus mes trappes, sinon je vous jure que je ne vous ferai pas grâce.</p>
           <p>– La Tête-d'Aigle est un chef renommé parmi les hommes de sa tribu, répondit l'Indien avec orgueil, il ne craint pas la mort, le chasseur blanc peut le tuer, il ne le verra pas se plaindre.</p>
           <p>– Non, je ne vous tuerai pas, chef, mon Dieu défend de verser le sang d'un homme sans nécessité.</p>
-          <p>—  <hi>Oah !</hi> fit l'Indien avec un sourire ironique, mon frère est missionnaire. </p>
+          <p>— <hi>Oah !</hi> fit l'Indien avec un sourire ironique, mon frère est missionnaire. </p>
           <p>– Non, je suis un honnête trappeur, je ne veux pas vous assassiner.</p>
           <p>— Mon frère blanc a des sentiments de vieilles femmes, reprit l'Indien, <foreign rend="italic">Nehu nutah</foreign> ne pardonne pas, il se venge ! </p>
           <p>– Vous ferez comme il vous plaira, chef, répondit le chasseur en haussant les épaules avec dédain, je n'ai pas la prétention de changer votre nature, seulement vous êtes averti, adieu.</p>
@@ -785,7 +795,7 @@
           <p>Le chef sembla rester insensible à cette nouvelle insulte, seulement ses sourcils se froncèrent, il ne bougea pas, mais il suivit d'un regard implacable ses deux ennemis qui, sans plus s'occuper de lui, s'enfoncèrent dans la forêt.</p>
           <p>– C'est égal, dit Belhumeur en manière de réflexion, vous avez eu tort, Cœur-Loyal, vous auriez dû le tuer.</p>
           <p>– Bah ! pour quoi faire ? répondit insoucieusement le chasseur.</p>
-          <p>—  <hi>Cascaras !</hi> pour quoi faire ? et mais c'eût été une vermine de moins dans la prairie. </p>
+          <p>— <hi>Cascaras !</hi> pour quoi faire ? et mais c'eût été une vermine de moins dans la prairie. </p>
           <p>– Il y en a tant, fit l'autre, qu'une de plus ne signifie pas grand-chose.</p>
           <p>– C'est vrai ! répondit Belhumeur convaincu, mais où allons-nous maintenant ?</p>
           <p>– Chercher nos trappes, caramba ! croyez-vous que je veuille les perdre ?</p>
@@ -1008,7 +1018,7 @@
           <p>– Sont ici.</p>
           <p>– Ils m'appartiendront ?</p>
           <p>– Tous les habitants du village seront remis entre les mains de mon frère.</p>
-          <p>—  <hi>Och !</hi> le chasseur n'est pas venu ? </p>
+          <p>— <hi>Och !</hi> le chasseur n'est pas venu ? </p>
           <p>– Pas encore.</p>
           <p>– Il arrivera trop tard.</p>
           <p>– C'est probable.</p>
@@ -1122,7 +1132,7 @@
           <p>— <foreign xml:lang="esp" rend="italic">Usted no conocer amigo ?</foreign> -- Vous ne pas connaître ami ? -- lui dit-il en mauvais espagnol avec l'accent guttural de sa race. </p>
           <p>À cette parole, le vieillard tressaillit, regardant à son tour l'Indien.</p>
           <p>— Oh ! dit-il avec étonnement, <foreign rend="italic">el Gallo --</foreign> le Coq. </p>
-          <p>—  <hi>Oah !</hi> répondit le chef avec satisfaction, je suis un ami de la tête grise, les Peaux-Rouges n'ont pas deux cœurs, mon père m'a sauvé la vie, mon père viendra dans ma hutte. </p>
+          <p>— <hi>Oah !</hi> répondit le chef avec satisfaction, je suis un ami de la tête grise, les Peaux-Rouges n'ont pas deux cœurs, mon père m'a sauvé la vie, mon père viendra dans ma hutte. </p>
           <p>– Merci, chef, j'accepte votre proposition, dit le vieillard en serrant chaleureusement la main que l'Indien lui tendait.</p>
           <p>Et il alla en toute hâte se placer auprès d'une femme d'un certain âge, au visage noble, dont les traits flétris par la douleur, conservaient cependant les traces d'une grande beauté.</p>
           <p>– Dieu soit béni ! dit-elle avec effusion, lorsque le vieillard la rejoignit.</p>
@@ -1543,8 +1553,8 @@
           <p>Et, après s'être incliné profondément devant la jeune fille, il s'éloigna rapidement.</p>
           <p>Quinze jours après cette bizarre aventure dont elle n'avait pas jugé à propos de parler à son oncle, doña Luz quittait Mexico sans avoir revu l'inconnu. Seulement, la veille de son départ, en entrant dans sa chambre à coucher, la jeune fille avait trouvé sur son prie-Dieu un papier plié en quatre. Sur ce papier étaient écrits ces quelques mots, d'une écriture fine et élégante :</p>
           <quote type="letter">
-          <p>« Vous partez, doña Luz, souvenez-vous que je vous ai dit au revoir.</p>
-          <p>« Votre sauveur de la calle de Plateros. »</p>
+            <p>« Vous partez, doña Luz, souvenez-vous que je vous ai dit au revoir.</p>
+            <p>« Votre sauveur de la calle de Plateros. »</p>
           </quote>
           <p>Pendant longtemps cette étrange rencontre avait fortement occupé l'esprit de la jeune fille, un instant elle avait cru que le Cœur-Loyal et son sauveur inconnu étaient le même homme, mais cette supposition s'était bientôt évanouie. Quelle probabilité qu'il en fût ainsi ? Dans quel but le Cœur-Loyal, après l'avoir sauvée, se serait-il si promptement éloigné ? cela eût été absurde.</p>
           <p>Mais, par une de ces conséquences ou de ces inconséquences, comme on le voudra, de l'esprit humain, au fur et à mesure que l'aventure de Mexico s'effaçait dans sa pensée, le Cœur-Loyal y grandissait.</p>
@@ -1976,7 +1986,7 @@
           <p>– Parbleu !</p>
           <p>– Et puis vous ajouterez, retenez bien ces paroles qu'il faudra lui redire textuellement.</p>
           <p>– J'écoute de toutes mes oreilles, je les graverai dans ma mémoire.</p>
-          <p>—  <hi>L'Élan-Noir, l'heure sonne.</hi> Vous avez bien compris, n'est-ce pas ? </p>
+          <p>— <hi>L'Élan-Noir, l'heure sonne.</hi> Vous avez bien compris, n'est-ce pas ? </p>
           <p>– Parfaitement, señorita.</p>
           <p>– Vous jurez de faire ce que je vous demande ?</p>
           <p>– Je vous le jure, dit-il d'une voix grave, au lever du soleil j'irai trouver le trappeur, je lui rendrai compte des événements de la nuit et j'ajouterai : l'Élan-Noir, l'heure sonne. Est-ce tout ce que vous désirez de moi ?</p>
@@ -2027,9 +2037,9 @@
           <p>– Non, dit-il au bout d'un instant, je n'ai pas de compagne.</p>
           <p>– Que lui est donc cette femme, alors ? dit le chef avec une feinte surprise en désignant la dame espagnole qui se tenait morne et silencieuse aux côtés du vieillard.</p>
           <p>– Cette femme est ma maîtresse.</p>
-          <p>—  <hi>Ooah !</hi> mon frère serait-il esclave ? fit le Comanche avec un mauvais sourire. </p>
+          <p>— <hi>Ooah !</hi> mon frère serait-il esclave ? fit le Comanche avec un mauvais sourire. </p>
           <p>– Non, reprit fièrement le vieillard, je ne suis pas l'esclave de cette femme, je suis son serviteur dévoué.</p>
-          <p>—  <hi>Ooah !</hi> dit le chef en hochant la tête et réfléchissant profondément sur cette réponse. </p>
+          <p>— <hi>Ooah !</hi> dit le chef en hochant la tête et réfléchissant profondément sur cette réponse. </p>
           <p>Mais les paroles de l'Espagnol ne pouvaient être comprises par l'Indien, la distinction était trop subtile pour qu'il la saisît. Après deux ou trois minutes il secoua la tête et renonça à chercher la solution de ce problème pour lui incompréhensible.</p>
           <p>– Bon, dit-il en faisant glisser un regard ironique sous ses paupières demi-closes, la femme partira avec mon frère.</p>
           <p>– C'est ainsi que je l'ai toujours entendu, répondit l'Espagnol.</p>
@@ -2047,7 +2057,7 @@
           <p>– Oh ! oh ! dit-il d'une voix douce avec un sourire sympathique, le fils de ma mère est un grand chasseur, tant mieux.</p>
           <p>Le cœur de la pauvre femme se dilata de joie.</p>
           <p>– Oui, dit-elle avec effusion, c'est un des plus braves trappeurs des prairies de l'ouest.</p>
-          <p>—  <hi>Ooah !</hi> fit le chef de plus en plus aimable, ce guerrier renommé doit avoir un nom respecté de tous dans les prairies ? </p>
+          <p>— <hi>Ooah !</hi> fit le chef de plus en plus aimable, ce guerrier renommé doit avoir un nom respecté de tous dans les prairies ? </p>
           <p>L'Espagnol souffrait le martyre ; tenu en respect par l'œil du Comanche, il ne savait comment avertir sa maîtresse de ne pas prononcer le nom de son fils.</p>
           <p>– Son nom est bien connu, dit la dame.</p>
           <p>– Oh ! s'écria vivement le vieillard, toutes les mères sont ainsi, pour elles leurs fils sont des héros ! Celui-là, bien que ce soit un excellent jeune homme, ne vaut pas mieux qu'un autre, certes, son nom n'est jamais arrivé jusqu'à mon frère.</p>
@@ -2060,7 +2070,7 @@
           <p>– Non, pas avant que ma mère m'ait dit le nom de son fils le grand guerrier, dit le Comanche en fronçant les sourcils et en frappant du pied avec une colère mal contenue.</p>
           <p>Le chasseur vit qu'il fallait en finir, son parti fut pris en une seconde.</p>
           <p>– Mon frère est un grand chef, dit-il, quoique sa chevelure soit brune, sa sagesse est immense ; je suis son ami, il ne voudra pas abuser du hasard qui a livré entre ses mains la mère de son ennemi ; le fils de cette femme est le Cœur-Loyal.</p>
-          <p>—  <hi>Ooah !</hi> fit la Tête-d'Aigle avec un sourire sinistre, je le savais ; pourquoi les visages pâles ont-ils deux langues et deux cœurs et cherchent-ils toujours à tromper les Peaux-Rouges ? </p>
+          <p>— <hi>Ooah !</hi> fit la Tête-d'Aigle avec un sourire sinistre, je le savais ; pourquoi les visages pâles ont-ils deux langues et deux cœurs et cherchent-ils toujours à tromper les Peaux-Rouges ? </p>
           <p>– Nous n'avons pas cherché à vous tromper, chef.</p>
           <p>– Si, depuis que vous êtes avec nous, vous avez été traités comme des fils de la tribu, je vous ai sauvé la vie !</p>
           <p>– C'est vrai !</p>
@@ -2385,7 +2395,7 @@
           <p>— Guerriers, je remercie le <hi>Maître de la vie</hi> de ce qu'il nous aime, nous Peaux-Rouges, et de ce qu'il nous envoie aujourd'hui ces deux hommes pâles qui pourront enfin ouvrir leur cœur. Prenez courage, jeunes gens, ne laissez pas vos âmes s'appesantir, et chassez loin de vous le mauvais esprit. Nous vous aimons, Cœur-Loyal, nous avons entendu parler de votre humanité pour les Indiens. Nous croyons que votre cœur est ouvert, et que vos veines coulent claires comme le soleil. Il est vrai que nous autres Indiens n'avons pas beaucoup de sens, lorsque l'eau ardente nous commande, et que nous pouvons vous avoir déplu dans diverses circonstances. Mais nous espérons que vous n'y penserez plus, et que, tant que vous et nous serons dans les prairies, nous chasserons côte à côte, comme doivent le faire des guerriers qui s'aiment et se respectent <hi>*(1)</hi> *. </p>
           <p>Le Cœur-Loyal répondit :</p>
           <p>– Vous, chefs et autres membres de la nation des Comanches des grands lacs dont les yeux sont ouverts, j'espère que vous prêterez l'oreille aux paroles de ma bouche. Le Maître de la vie a ouvert mon cerveau et fait souffler à ma poitrine des paroles amicales. Mon cœur est rempli de sentiments pour vous, pour vos femmes, pour vos enfants, et ce que je vous dis en ce moment procède de la racine des sentiments de mon ami et des miens ; jamais dans la prairie mon hatto n'a été fermé aux chasseurs de votre nation. Pourquoi donc me faites-vous la guerre ? pourquoi donc torturer ma mère, qui est une vieille femme, et chercher à m'arracher la vie ? Je répugne à verser le sang indien ; car, je vous le répète, malgré tout le mal que vous m'avez fait, mon cœur s'élance vers vous.</p>
-          <p>—  <hi>Ooah !</hi> interrompit la Tête-d'Aigle, mon frère parle bien ; mais la blessure qu'il m'a faite n'est pas encore cicatrisée. </p>
+          <p>— <hi>Ooah !</hi> interrompit la Tête-d'Aigle, mon frère parle bien ; mais la blessure qu'il m'a faite n'est pas encore cicatrisée. </p>
           <p>– Mon frère est fou, répondit le chasseur ; me croit-il donc si maladroit de ne pas l'avoir tué si telle avait été mon intention. Je vais vous prouver ce dont je suis capable et de quelle façon je comprends le courage d'un guerrier. Que je fasse un signe, cette femme et cet enfant auront vécu.</p>
           <p>– Oui, appuya Belhumeur.</p>
           <p>Un frisson parcourut les rangs de l'assemblée. La Tête-d'Aigle sentit une sueur froide perler à ses tempes.</p>
@@ -2481,7 +2491,7 @@
           <p>Chargé de ce fardeau qui ne semblait nullement le gêner dans sa marche, il reprit à grands pas la route qu'il venait de suivre et rentra dans son camp.</p>
           <p>Il déposa le guide auprès d'un brasier à demi éteint dans lequel il jeta quelques brassées de bois sec pour le raviver. Bientôt une flamme claire lui permit d'examiner l'homme qui gisait sans connaissance à ses pieds.</p>
           <p>Les traits du Babillard étaient livides, une sueur froide perlait à ses tempes et le sang coulait en abondance d'une blessure qu'il avait à la poitrine.</p>
-          <p>—  <hi>Cascaras !</hi> murmura le capitaine, voilà un pauvre diable bien avarié, pourvu qu'avant de passer il puisse me dire quels sont ceux qui l'ont mis dans cet état et ce qu'est devenu Kennedy ! </p>
+          <p>— <hi>Cascaras !</hi> murmura le capitaine, voilà un pauvre diable bien avarié, pourvu qu'avant de passer il puisse me dire quels sont ceux qui l'ont mis dans cet état et ce qu'est devenu Kennedy ! </p>
           <p>De même que tous les coureurs des bois, le capitaine possédait certaines connaissances pratiques en médecine, il n'était pas embarrassé pour soigner une blessure d'arme à feu.</p>
           <p>Grâce aux soins qu'il prodigua au bandit, celui-ci ne tarda pas à revenir à lui. Il poussa un profond soupir, ouvrit des yeux hagards et resta pendant un temps assez long sans pouvoir parler ; mais cependant, après plusieurs efforts infructueux, aidé par le capitaine, il parvint à s'asseoir, et hochant la tête à plusieurs reprises, il lui dit avec tristesse, d'une voix basse et entrecoupée :</p>
           <p>– Tout est perdu, capitaine ! notre coup est manqué.</p>
@@ -2633,7 +2643,7 @@
           <p>— Oh ! l'ignorance ! murmura le savant, et il ajouta tout haut avec ce ton de condescendance doctorale particulier aux disciples d'Esculape : mon ami, je cueille des simples que je collectionne, afin de les classer dans mon herbier ; la flore de ces prairies est magnifique, je suis convaincu que j'ai découvert au moins trois nouvelles espèces du <foreign xml:lang="gre" rend="italic">chirostemon pentadactylon</foreign> dont le genre appartient à la <foreign xml:lang="lat" rend="italic">Flora mexicana.</foreign>
           </p>
           <p>-- Ah ! fit le chasseur en ouvrant des yeux énormes et faisant des efforts inouïs pour ne pas rire au nez du docteur, vous croyez avoir trouvé trois espèces nouvelles de... </p>
-          <p>—  <foreign xml:lang="gre" rend="italic">Chirostemon pentadactylon,</foreign> mon ami, dit le savant avec douceur. </p>
+          <p>— <foreign xml:lang="gre" rend="italic">Chirostemon pentadactylon,</foreign> mon ami, dit le savant avec douceur. </p>
           <p>– Ah bah !</p>
           <p>– Au moins, peut-être y en a-t-il quatre.</p>
           <p>– Oh ! oh ! cela est donc bien utile ?</p>
@@ -2768,7 +2778,7 @@
           <p>Lorsque la décision des chefs fut connue, ce fut une joie universelle dans la tribu.</p>
           <p>Les alliés devaient se mettre en route au soleil couchant, afin de surprendre l'ennemi.</p>
           <p>L'on dansa, avec toutes les cérémonies usitées en pareil cas, la grande danse de guerre, pendant laquelle les guerriers répètent continuellement en chœur :</p>
-          <p>—  <foreign rend="italic">Wabimdam Kitchée manitoo, agarmissey hapitch neatissum !</foreign>
+          <p>— <foreign rend="italic">Wabimdam Kitchée manitoo, agarmissey hapitch neatissum !</foreign>
           </p>
           <p>C'est-à-dire :</p>
           <p>Maître de la vie, vois-moi d'un œil favorable, tu m'as donné le courage d'ouvrir mes veines.</p>
@@ -3233,7 +3243,7 @@
           <p>– C'est cela ! reprit le pirate en ricanant, voilà qui est convenu, ce dévouement vous fait honneur, moricaud.</p>
           <p>Revenant alors au général, le capitaine bassina ses plaies avec de l'eau fraîche, le pansa avec soin ; puis, après avoir fait placer devant les prisonniers des vivres, auxquels le Nègre seul fit honneur, le pirate se retira.</p>
           <p>Vers le milieu de la journée, le capitaine réunit autour de lui les principaux de la bande.</p>
-          <p>—  <foreign xml:lang="esp" rend="italic">Caballeros,</foreign> leur dit-il, nous ne pouvons pas le nier, nous avons perdu la première partie, les prisonniers que nous avons faits son loin de rembourser nos frais, nous ne devons point rester sous le coup d'un échec, qui nous déshonore et nous rend ridicules. Je vais entamer une seconde partie ; cette fois, si je ne la gagne pas, j'aurai du malheur ; pendant mon absence, surveillez bien les prisonniers. Faites attention à la dernière recommandation que je vous fais : si demain à minuit je ne suis pas de retour sain et sauf au milieu de vous, à minuit et quart, vous fusillerez les deux prisonniers sans rémission ; vous m'avez bien compris, n'est-ce pas ? Sans rémission. </p>
+          <p>— <foreign xml:lang="esp" rend="italic">Caballeros,</foreign> leur dit-il, nous ne pouvons pas le nier, nous avons perdu la première partie, les prisonniers que nous avons faits son loin de rembourser nos frais, nous ne devons point rester sous le coup d'un échec, qui nous déshonore et nous rend ridicules. Je vais entamer une seconde partie ; cette fois, si je ne la gagne pas, j'aurai du malheur ; pendant mon absence, surveillez bien les prisonniers. Faites attention à la dernière recommandation que je vous fais : si demain à minuit je ne suis pas de retour sain et sauf au milieu de vous, à minuit et quart, vous fusillerez les deux prisonniers sans rémission ; vous m'avez bien compris, n'est-ce pas ? Sans rémission. </p>
           <p>– Soyez tranquille, capitaine, répondit Franck au nom de ses camarades, vous pouvez partir, vos ordres seront exécutés.</p>
           <p>– J'y compte, mais surtout ne les fusillez ni une minute plus tôt ni une minute plus tard.</p>
           <p>– À l'heure juste.</p>
@@ -3273,7 +3283,7 @@
           <p>À l'instant où ils quittaient la place où venait d'avoir lieu leur conversation, les branches d'un buisson s'écartèrent avec précaution, une tête rasée, et ne conservant au sommet qu'une longue touffe de cheveux dans laquelle une plume était plantée, apparut, puis un corps, puis un homme tout entier, qui bondit comme un jaguar à leur poursuite.</p>
           <p>Cet homme était la Tête-d'Aigle.</p>
           <p>Il assista silencieux à l'embarquement des deux Blancs, les vit entrer dans la grotte, puis il disparut à son tour dans l'épaisseur des bois après avoir murmuré à voix basse le mot :</p>
-          <p>—  <hi>Och !</hi> -- bon -- la suprême expression de joie dans le langage des Comanches. </p>
+          <p>— <hi>Och !</hi> -- bon -- la suprême expression de joie dans le langage des Comanches. </p>
           <p>Le docteur avait tout simplement servi d'appât pour attirer le pirate et le faire tomber dans le piège tendu par le chef indien.</p>
           <p>Maintenant le digne savant était-il d'intelligence avec la Tête-d'Aigle ? c'est ce que nous saurons bientôt.</p>
           <p>Le lendemain au point du jour le pirate fit faire une battue générale aux environs de la grotte.</p>
@@ -3475,8 +3485,8 @@
           <p>– À mort donc ! s'écria le pirate en dirigeant un de ses pistolets sur le Cœur-Loyal.</p>
           <p>Mais prompt comme la pensée, Belhumeur qui suivait ses mouvements avec anxiété, se jeta devant son ami avec une vitesse décuplée par la gravité de la situation.</p>
           <p>Le coup partit. La balle atteignit le Canadien qui tomba baigné dans son sang.</p>
-          <p>—  <hi>Un !</hi> cria le pirate avec un rire féroce. </p>
-          <p>—  <hi>Deux !</hi> hurla la Tête-d'Aigle, et par un bond de panthère il sauta sur le cheval du pirate. </p>
+          <p>— <hi>Un !</hi> cria le pirate avec un rire féroce. </p>
+          <p>— <hi>Deux !</hi> hurla la Tête-d'Aigle, et par un bond de panthère il sauta sur le cheval du pirate. </p>
           <p>Avant que le capitaine pût faire un mouvement pour se défendre, l'Indien le saisit de sa main gauche par ses longs cheveux dont il forma une touffe et lui renversa brusquement la tête en arrière.</p>
           <p>– Malédiction ! s'écria le pirate en cherchant vainement à se débarrasser de son ennemi.</p>
           <p>Alors il se passa une chose qui glaça d'horreur tous les assistants.</p>
@@ -3526,7 +3536,7 @@
           <p>La proposition faite par la Tête-d'Aigle révolta l'orgueil des pirates.</p>
           <p>– De quel droit, s'écria Franck, le Cœur-Loyal intercède-t-il pour nous ? Croit-il donc que nous ne sommes pas des hommes ? que les tortures pourront nous arracher des cris ou des plaintes indignes de nous ? Non ! non ! que l'on nous conduise au supplice, celui que vous nous infligerez ne sera jamais aussi cruel que ceux que nous faisions subir aux guerriers de votre nation, lorsqu'ils tombaient entre nos mains.</p>
           <p>À ces paroles hautaines, un frémissement de colère parcourut les rangs des Indiens, tandis que les pirates poussaient au contraire des cris de joie et de triomphe.</p>
-          <p>—  <hi>Chiens ! lapins !</hi> disaient-ils, les Comanches sont des <hi>vieilles femmes</hi> auxquels on donnera des jupons. </p>
+          <p>— <hi>Chiens ! lapins !</hi> disaient-ils, les Comanches sont des <hi>vieilles femmes</hi> auxquels on donnera des jupons. </p>
           <p>Le Cœur-Loyal s'avança.</p>
           <p>Le silence se rétablit.</p>
           <p>– Vous avez mal compris les paroles du chef, fit-il, en vous laissant le choix de votre mort, c'est non pas une insulte, mais une marque de déférence que l'on vous donne ; voici mon poignard, on va vous détacher, qu'il passe de main en main et qu'il s'enfonce à tour de rôle dans toutes vos poitrines ! l'homme qui, libre, sans hésiter se tue d'un seul coup, est plus brave que celui qui attaché au poteau des tortures, ne pouvant supporter la douleur, insulte son bourreau afin de recevoir une mort prompte.</p>
@@ -3663,7 +3673,7 @@
           <p>Dans le doute, j'armai mes revolvers et j'attendis.</p>
           <p>Mon attente ne fut pas longue.</p>
           <p>Au bout de cinq minutes le cavalier m'avait rejoint.</p>
-          <p>—  <foreign xml:lang="esp" rend="italic">Buenas noches, caballero</foreign> -- bonsoir, monsieur, -- me dit-il en passant. </p>
+          <p>— <foreign xml:lang="esp" rend="italic">Buenas noches, caballero</foreign> -- bonsoir, monsieur, -- me dit-il en passant. </p>
           <p>Il y avait dans la façon dont ce salut m'était jeté quelque chose de si franc que mes soupçons s'évanouirent subitement.</p>
           <p>Je répondis.</p>
           <p>– Où allez-vous donc aussi tard ? reprit-il.</p>
@@ -3765,7 +3775,7 @@
       </div>
     </body>
     <back>
-      <div type="notes"/>
+      <div type="notes" />
       <div type="liminal">
         <p>1  Nous donnons ici la traduction de ce discours qui peut intéresser le lecteur comme spécimen du langage des Comanches.</p>
         <p>« Meegvoitch kitchée manitoo, kaigait-kee zargetoone an nishinnorbay nogomé, shafuyyar payshik artwwaay winnin tercushenan, cawween kitchée morgussey, an nishinnorbay nogome, cawwickar indenendum. Kaygait kitchée muskowway geosay haguarmissey waybenan matchée oathty nee zargetoone saggonash artawway winnin kaygait hapadgey kitchee morgussey an nishinnorbay ; kaig wotch annaboikassey nennerwind mornooch towvach nee zargey debwoye kee appayomar, cuppar bebone nepewar appiminiqui omar » <hi>\[NdA\].</hi>

@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03302" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03302" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,15 +23,19 @@
         <measure unit="pages">322</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2020-11-14" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <ref target="https://ebooks-bnr.com/bonaparte-wyse-marie-laetitia-de-solms-le-piege-aux-maris-tome-1">Le piège aux maris</ref>
           <publisher>Bibliothèque numérique romande</publisher>
           <idno type="bnr">bonaparte-wyse-marie-laetitia-de-solms-le-piege-aux-maris-tome-1</idno>
@@ -46,12 +53,13 @@
             <publisher>A. Cadot</publisher>
             <pubPlace>Paris</pubPlace>
             <date>1865</date>
-            <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6456888h"/>
+            <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6456888h" />
           </bibl>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -63,14 +71,15 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
+      <change when="2020-11-14">Converted by checkUp script for new release</change>
+      <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-06-13">Conversion to TEI (Christof Schöch)</change>
     </revisionDesc>
@@ -664,7 +673,7 @@
         <p>Après l'opéra, un joyeux souper réunit dans un cabinet du restaurant connu sous le nom de Maison-Dorée, une dizaine de personnes, hommes et femmes, appartenant, les uns à ce que la société parisienne a de plus élevé, les autres à ce monde interlope composé de tous les degrés qui séparent la blanchisseuse de la modiste, la petite bonne de la femme de chambre, et qui sert aux plaisirs coûteux des hommes à la mode.</p>
         <p>Parmi eux se trouvaient le prince de Libstein et Suzanne la Folle, le vicomte de Chatenay et Titi.</p>
         <p>Titi, ordinairement froide, et dont la figure au repos avait presque toujours une expression dédaigneuse, était ce soir-là rayonnante de plaisir et même de gaieté. – Sa beauté était pour ainsi dire illuminée par la joie du triomphe de la vanité ! L'Opéra avait été pour elle une occasion de voir la toute-puissance de ses charmes agir sur la population masculine d'une salle entière. Elle savait maintenant que tout lui était permis, et le peu de reconnaissance qu'elle avait jusqu'à ce jour accordé au vicomte s'évanouit devant la certitude de pouvoir dorénavant se passer de lui.</p>
-        <p>Suzanne la Folle, elle dont la physionomie était si gaie d'habitude, au contraire, avait une expression de mélancolie qui lui allait à <hi rend="bold italic"/> ravir. Cette émotion intérieure, qui l'avait si complètement dominée pendant la représentation, lui laissait un souvenir à la fois plein de charme et de remords. Jamais personne ne l'avait vue ainsi, et tous s'accordaient à trouver qu'elle était délicieuse sous ce nouvel aspect et que sa beauté, qui pour des yeux exercés commençait un peu à se faner, y puisait un nouveau lustre. </p>
+        <p>Suzanne la Folle, elle dont la physionomie était si gaie d'habitude, au contraire, avait une expression de mélancolie qui lui allait à <hi rend="bold italic" /> ravir. Cette émotion intérieure, qui l'avait si complètement dominée pendant la représentation, lui laissait un souvenir à la fois plein de charme et de remords. Jamais personne ne l'avait vue ainsi, et tous s'accordaient à trouver qu'elle était délicieuse sous ce nouvel aspect et que sa beauté, qui pour des yeux exercés commençait un peu à se faner, y puisait un nouveau lustre. </p>
         <p>Cela ne dura du reste qu'au commencement du souper. Suzanne buvait beaucoup, et cherchait à ramener en elle la gaîté et l'insouciance qui lui avaient mérité son surnom.</p>
         <p>Le prince de Libstein, était certainement celui qui prêtait le moins d'attention à sa maîtresse : il la connaissait trop ! Il n'avait, lui, des yeux que pour Titi et s'extasiait avec complaisance sur sa grâce attrayante. Les éloges qu'il adressait au vicomte sur les qualités physiques de la jeune fille étaient si exagérés et si outrés, que celui-ci avait fini par en être presque agacé.</p>
         <p>Le vicomte avait également changé de caractère et de pensée. À l'Opéra, il s'était trouvé, comme l'avait deviné Titi, dans la loge d'une des femmes les plus distinguées de Paris. Elle s'était enquise de ses projets d'avenir et lui avait parlé d'une alliance qu'elle rêvait pour lui ; il s'agissait d'une jeune fille riche, noble et belle, qui, outre sa fortune, apportait en dot à son mari de puissantes relations et une position magnifique. Le vicomte sans dire ni oui ni non, avait promis de se laisser présenter. Il était bien décidé, si ce mariage lui convenait, à renoncer de suite à sa vie de garçon. Comme il l'avait dit à son ami le romancier, il s'était donné la tâche de se faire aimer de la jeune fille qu'il <hi rend="italic">lançait</hi> et de venger ensuite la famille et le fiancé de Titi. Mais il n'avait pas réussi. Le cœur de celle ci était tellement sec qu'il avait été impossible au vicomte de l'émouvoir ou de l'attendrir. À cette tâche ingrate, il avait ressenti une sorte de dégoût qui, latent d'abord, avait fini par se révéler à ses yeux. Cette soirée surtout avait apporté en lui un grand changement ; la perspective d'un brillant et prochain mariage, il lui donnait beaucoup à réfléchir. Et, dans le fond de son cœur, il était sinon blessé du moins ennuyé de l'inutilité des efforts qu'il avait faits auprès de Titi pour en obtenir un peu d'amour : c'était la première bataille dont il ne sortait pas vainqueur. </p>
@@ -797,7 +806,7 @@
 
         <head>IX -- Journalistes et journaux.</head>
         <p>Vers le 21 du mois de mars, dans une jolie petite chambre, sise au dernier étage de la maison de la rue Lamartine, dormait un jeune homme de vingt ans à peu près.</p>
-        <p>Vingt ans, âge des illusions, des rêves sinon dorés, du moins enthousiastes ; âge charmant dont on ne sait pas profiter et qu'on regrette plus tard. – Illusions, rêveries, croyances, on a tous ces dons précieux de la divinité au printemps de la vie. Et lorsque de tous vos souvenirs, de tous vos bonheurs passés, il ne reste plus que des fleurs sèches et des lettres jaunies, on éprouve encore un plaisir amer à <hi rend="bold italic"/> repasser dans sa mémoire ce beau et trop court passage d'une existence limitée aux banalités du devoir social et des exigences pratiques. </p>
+        <p>Vingt ans, âge des illusions, des rêves sinon dorés, du moins enthousiastes ; âge charmant dont on ne sait pas profiter et qu'on regrette plus tard. – Illusions, rêveries, croyances, on a tous ces dons précieux de la divinité au printemps de la vie. Et lorsque de tous vos souvenirs, de tous vos bonheurs passés, il ne reste plus que des fleurs sèches et des lettres jaunies, on éprouve encore un plaisir amer à <hi rend="bold italic" /> repasser dans sa mémoire ce beau et trop court passage d'une existence limitée aux banalités du devoir social et des exigences pratiques. </p>
         <p>À vingt ans on croit à l'avenir, à l'amour, à la gloire ! – Hélas ! la triste réalité vient bientôt mettre son impitoyable <hi rend="italic">Veto</hi> sur toutes ces chimères. On se rappelle encore qu'il était doux d'attendre, à cinq heures du matin, dans une prairie couverte de neige, la femme que l'on aimait. Quand elle apparaissait, il n'y avait plus ni neige, ni nuit, ni brouillard glacial ! Non, c'était le doux amour qui arrivait, toujours vêtu de son joli habit rose et vert. </p>
         <p>Quand on a vingt ans, il n'y a pour le cœur du poète qu'une seule saison, – la saison bénie, que les Italiens, ces maîtres en sentiment, ont si gentiment nommée la Primavera !</p>
         <p>Ô Primavera bénie ! Où êtes-vous maintenant que les rides commencent à cercler les yeux… Que le hâle des passions inassouvies, des désirs chimériques ou des plaisirs impurs a terni l'âme et le visage ? Où êtes-vous, aspirations saintes vers le beau et le bien, où êtes-vous, idéales pensées d'art et de poésie ? – Bien loin… Bien loin…</p>
@@ -1319,7 +1328,7 @@
         <p>Mademoiselle Houlot tint parole et partit, sans avoir revu Jules, qui s'était enfermé dans sa chambre. Elle reprit le chemin de fer de Paris, après avoir serré Claire et madame Daguet sur son cœur.</p>
         <p>— Soyez tranquilles – je serai discrète.</p>
         <p>Ce fut son dernier mot.</p>
-        <milestone unit="section" rend="line"/>
+        <milestone unit="section" rend="line" />
         <p>Madame Houlot, en voyant revenir inopinément sa fille, devina qu'un nouveau malheur allait encore augmenter la somme de leurs infortunes.</p>
         <p>L'institutrice lui raconta tout et sa mère lui dit :</p>
         <p>— Tu as bien agi ! Oh ! le vilain homme ! Mais que faire maintenant ?</p>

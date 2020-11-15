@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA06801" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA06801" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,30 +23,37 @@
         <measure unit="words">73552</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2020-11-14" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <title>L'Elzévir de maroquin rouge</title>
           <publisher>Gallica (BnF)</publisher>
-          <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k57182783"/>
+          <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k57182783" />
           <date>2013</date>
-        </bibl><bibl type="printSource">
+        </bibl>
+        <bibl type="printSource">
           <title>L'Elzévir de maroquin rouge</title>
           <pubPlace>Metz</pubPlace>
           <publisher>Typographie Rousseau-Pallez, éditeur</publisher>
           <date>1861</date>
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="firstEdition">
           <title>L'Elzévir de maroquin rouge</title>
           <pubPlace>Metz</pubPlace>
           <publisher>Typographie Rousseau-Pallez, éditeur</publisher>
           <date>1861</date>
-        </bibl></sourceDesc>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p>ELTeC level 1 encoding.</p>
@@ -59,14 +69,15 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
+      <change when="2020-11-14">Converted by checkUp script for new release</change>
+      <change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-09-16">File created</change>
     </revisionDesc>
   </teiHeader>
@@ -978,7 +989,7 @@
         <p>Monsieur, </p>
         <p>Je vous ai promis la main de ma fille et une implacable nécessité me force de retirer ma parole. Ce mariage est désormais impossible. Vous n'avez pas démérité près de moi et je vous liens pour un homme de cœur et un honnête homme. Mais j'ai à remplir des devoirs qui sont incompatibles avec la promesse téméraire que je vous ai faite. Oubliez Clémence qui ne peut plus être à vous, qui va être à un autre. Ne m'accusez ni de cruauté, ni d'inconstance. Il y a dans la vie des conjonctures qui commandent des résolutions bien douloureuses, et les circonstances auxquelles je cède, vous pourrez les connaître un jour. J'ose dire qu'elles laisseront intacts vos sentiments d'estime pour moi. </p>
         <p>Le major GRANDURAND. </p>
-        <p/>
+        <p />
         <p> Le père de Clémence ignorait l'art des transitions. Ce qu'il avait résolu, il l'exécutait comme une consigne.Sa lettre écrite, il la prit toute ouverte et revint près de sa fille. Son visage portait l'empreinte d'une inexorable sévérité. Clémence en fut épouvantée... </p>
         <p>-- Ah ! mon père, dit-elle, quel malheur allez vous m'annoncer ?... </p>
         <p>-- Lisez, ma fille... dit le major, et obéissez. Et il tendit à Clémence la lettre fatale. </p>
@@ -1638,11 +1649,11 @@
         <p>-- Non, mère, le regard d'une créature du bon Dieu ne peut pas mentir à ce point. J'ignore, je ne veux pas savoir ce qui retient mon Xavier loin de moi ; mais ce que je sais bien, c'est que malgré les apparences, malgré tout ce qui le condamne, je crois en lui. </p>
         <p>-- Il n'y a que la foi qui nous sauve... dît-on, mais elle peut nous perdre aussi !.. murmura Mme Grandurand. </p>
         <p>M. d'Ancerville et sa compagne s'étaient perdus dans la foule ; Mme Grandurand et sa fille ne le revirent plus et ne tardèrent pas à se retirer. Clémence était calme, nulle trace d'inquiétude n'assombrissait son front charmant. Cette sublime confiance dans le respect des serments était lettre close pour la femme du major. Sa nature un peu positive ne pouvait s'élever à cette hauteur de sentiment. Elle se demandait comment elle pourrait mettre fin à une situation qui allait compromettre le repos de sa fille et remettre tout en question dans sa vie, quand elle reçut une lettre ainsi conçue : </p>
-        <p/>
+        <p />
         <p> « Madame, </p>
-        <p/>
+        <p />
         <p> Un vieil ami, que vous avez reconnu peut-être, désire vous entretenir. Il veut expliquer ce qui a pu vous paraître obscur dans sa conduite. Il s'adresse à votre loyauté pour vous supplier de ne pas faire part à Mlle Clémence Grandurand de l'entrevue indispensable qu'il vous demande. Il sera demain à trois heures sous les allées des marronniers où il espère qu'il pourra vous entretenir sans témoins. » </p>
-        <p/>
+        <p />
         <p> La lettre ne portait pas de signature, </p>
         <p>-- Enfin ! je vais donc savoir le fin mot... se dit la dame avec un soupir de soulagement. </p>
         <p>Qu'on juge si la soirée, la nuit et la matinée du lendemain durent paraître longues à Mme Grandurand !.. </p>

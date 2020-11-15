@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00302" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA00302" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,30 +19,36 @@
         <measure unit="words">139314</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2020-11-14" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <title>Belle rivière</title>
           <author>Gustave Aimard</author>
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
-          <ref target="http://beq.ebooksgratuits.com/vents-epub/Aimard-riviere.epub"/>
-        </bibl><bibl type="firstEdition">
+          <ref target="http://beq.ebooksgratuits.com/vents-epub/Aimard-riviere.epub" />
+        </bibl>
+        <bibl type="firstEdition">
           <title>Belle rivière</title>
           <author>Gustave Aimard</author>
           <publisher>H. Geffroy</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1894</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k57626038"/>
-        </bibl></sourceDesc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k57626038" />
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -51,14 +60,15 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
+      <change when="2020-11-14">Converted by checkUp script for new release</change>
+      <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2018-11-01">Conversion with CLIGStoELTeC stylesheet for ELTeC-1</change>
       <change when="2015-07-17">cf Initial TEI version.</change>
@@ -4207,8 +4217,8 @@
           <p>Le jeune homme ouvrit la lettre et la lut rapidement.</p>
           <p>Elle ne contenait que ces mots :</p>
           <quote type="letter">
-          <p>« Le porteur de la présente a toute ma confiance. Ajoutez foi à ce qu'il vous dira de ma part. Je n'ai pas de secrets pour lui.</p>
-          <p>« De Contrecœur. »</p>
+            <p>« Le porteur de la présente a toute ma confiance. Ajoutez foi à ce qu'il vous dira de ma part. Je n'ai pas de secrets pour lui.</p>
+            <p>« De Contrecœur. »</p>
           </quote>
           <p>— C'est bien, monsieur, répondit gracieusement le comte en rendant la lettre ; je n'avais pas besoin de cette nouvelle preuve que vous me donnez de votre fidélité pour savoir que je pouvais me fier à vous.</p>
           <p>— Merci, monsieur, répondit le Proscrit en repliant la lettre et la renfermant de nouveau dans le sachet.</p>
@@ -5359,8 +5369,8 @@
           <p>Il l'ouvrit en tremblant, le parcourut des yeux et une expression d'ineffable bonheur se peignit aussitôt sur ses traits un instant auparavant livides comme ceux d'un cadavre.</p>
           <p>Voici les quelques mots écrits d'une main tremblée sur ce papier si providentiellement arrivé à son adresse, et que le comte relut mille fois :</p>
           <quote type="letter">
-          <p>« Vous êtes parti ; je pars aussi, hélas ! Quand reviendrai-je ? je l'ignore. Mais vous viendrez, vous ! Vous m'aimez ; votre première visite sera pour la pauvre recluse, qui ne sera pas là pour vous recevoir et vous souhaiter la bienvenue du retour. Alors vous visiterez tous les endroits où si souvent nous avons erré ensemble en nous racontant notre amour. Ce nid, dont nous avons nourri la frêle couvée, vous le retrouverez. Ses habitants ont pris leur vol ; à leur place, je mets mon cœur. Je vous aime et j'espère ; quoi qu'il arrive, espérez ! Au revoir ! bientôt.</p>
-          <p>« ANGÈLE. »</p>
+            <p>« Vous êtes parti ; je pars aussi, hélas ! Quand reviendrai-je ? je l'ignore. Mais vous viendrez, vous ! Vous m'aimez ; votre première visite sera pour la pauvre recluse, qui ne sera pas là pour vous recevoir et vous souhaiter la bienvenue du retour. Alors vous visiterez tous les endroits où si souvent nous avons erré ensemble en nous racontant notre amour. Ce nid, dont nous avons nourri la frêle couvée, vous le retrouverez. Ses habitants ont pris leur vol ; à leur place, je mets mon cœur. Je vous aime et j'espère ; quoi qu'il arrive, espérez ! Au revoir ! bientôt.</p>
+            <p>« ANGÈLE. »</p>
           </quote>
           <p>Après avoir cent fois pressé sur ses lèvres ce papier qui lui rendait le bonheur, le comte, avec cet enfantillage de l'amour que comprennent si bien ceux qui aiment réellement, ramassa soigneusement ces fleurs qui lui étaient échappées, il enveloppa les débris, désormais sacrés pour lui, dans la précieuse lettre, et il cacha le tout sur son cœur.</p>
           <p>Après avoir dit un dernier adieu à cette chaumière qu'il était contraint de quitter, bien qu'à regret, il sortit de l'enclos et rejoignit Rameau-d'Or.</p>
@@ -5888,9 +5898,9 @@
           <p>Le comte, le cœur palpitant, jeta un regard soupçonneux autour de lui, afin de ne pas être surpris ; il alla appuyer l'épaule contre la porte par laquelle était sorti le domestique ; puis la main frémissante, il brisa le fil et déroula la feuille. Cette feuille était une lettre ; sur sa pulpe, avec un éclat de bois taillé en stylet, on avait gravé profondément des lettres faciles à déchiffrer.</p>
           <p>Le comte lut rapidement ce qui suit :</p>
           <quote type="letter">
-          <p>« Depuis sept jours, je suis embusqué dans les arbres en face de votre fenêtre, guettant sans cesse votre présence. Vous voilà enfin ; Dieu soit loué ! Des amis sûrs veillent pour vous sauver. Prenez garde aux gens au pouvoir desquels vous êtes ; n'adressez aucune question, refusez toute entrevue demandez à vous promener au dehors, cette permission vous sera accordée. Quoi que vous voyiez, quoi que vous entendiez, quels que soient les gens que vous rencontriez pendant votre promenade, ne vous étonnez de rien, ne reconnaissez personne. Quand vous entendrez le cri du mawkawis, tenez-vous prêt, ouvrez votre fenêtre ; la délivrance approchera !</p>
-          <p>» UN AMI.</p>
-          <p>« Détruisez cette feuille. Espoir, courage ! »</p>
+            <p>« Depuis sept jours, je suis embusqué dans les arbres en face de votre fenêtre, guettant sans cesse votre présence. Vous voilà enfin ; Dieu soit loué ! Des amis sûrs veillent pour vous sauver. Prenez garde aux gens au pouvoir desquels vous êtes ; n'adressez aucune question, refusez toute entrevue demandez à vous promener au dehors, cette permission vous sera accordée. Quoi que vous voyiez, quoi que vous entendiez, quels que soient les gens que vous rencontriez pendant votre promenade, ne vous étonnez de rien, ne reconnaissez personne. Quand vous entendrez le cri du mawkawis, tenez-vous prêt, ouvrez votre fenêtre ; la délivrance approchera !</p>
+            <p>» UN AMI.</p>
+            <p>« Détruisez cette feuille. Espoir, courage ! »</p>
           </quote>
           <p>— Ah ! s'écria le comte avec joie, je ne suis donc pas abandonné de tous !</p>
           <p>Après avoir écrasé la feuille sous le talon de sa chaussure, il saisit le sifflet et le porta à ses lèvres.</p>
@@ -6510,12 +6520,12 @@
           <p>Une fois seul, le comte de Villiers ouvrit le dernier adieu du Proscrit.</p>
           <p>Voici le peu de mots qu'il contenait :</p>
           <quote type="letter">
-          <p>« J'étais jaloux !... Ne le soyez pas, vous qui aimez ma fille ! je vivais dans le même monde que votre père, Louis... Un faux soupçon nous mit l'injure aux lèvres et le fer à la main. J'ai tué votre père, Louis ! voilà pourquoi je ne vous ai jamais appelé mon fils ! Ç'a été mon châtiment. Je me suis expatrié à la suite de folies de jeunesse. Je n'ai pas eu le courage de faire le malheur de ma fille et le vôtre en vous empêchant de l'épouser. Je le devais peut-être.</p>
-          <p>« Pardonnez-moi !</p>
-          <p>« J'emporte ce secret terrible dans ma tombe.</p>
-          <p>« Angèle ignore jusqu'à son vrai nom.</p>
-          <p>« Libre à vous de le lui révéler. Pardon encore !</p>
-          <p>« Jan-Pol le Proscrit, duc de Saint-Hérem. »</p>
+            <p>« J'étais jaloux !... Ne le soyez pas, vous qui aimez ma fille ! je vivais dans le même monde que votre père, Louis... Un faux soupçon nous mit l'injure aux lèvres et le fer à la main. J'ai tué votre père, Louis ! voilà pourquoi je ne vous ai jamais appelé mon fils ! Ç'a été mon châtiment. Je me suis expatrié à la suite de folies de jeunesse. Je n'ai pas eu le courage de faire le malheur de ma fille et le vôtre en vous empêchant de l'épouser. Je le devais peut-être.</p>
+            <p>« Pardonnez-moi !</p>
+            <p>« J'emporte ce secret terrible dans ma tombe.</p>
+            <p>« Angèle ignore jusqu'à son vrai nom.</p>
+            <p>« Libre à vous de le lui révéler. Pardon encore !</p>
+            <p>« Jan-Pol le Proscrit, duc de Saint-Hérem. »</p>
           </quote>
           <p>— Qu'as-tu, Louis ? demanda Angèle, qui le vit pâlir.</p>
           <p>— Rien, mon enfant ! mon Angèle bien-aimée ! répondit M. de Villiers, qui déchira le papier et en jeta les morceaux à la mer.</p>

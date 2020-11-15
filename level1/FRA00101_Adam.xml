@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA00101" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA00101" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,37 +27,44 @@
         <measure unit="words">21636</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2020-11-14" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <title>Mon village</title>
           <author>Juliette Lamber (Madame Adam)</author>
-          <ref target="https://fr.wikisource.org/wiki/Mon_village/Texte_entier"/>
+          <ref target="https://fr.wikisource.org/wiki/Mon_village/Texte_entier" />
           <publisher>Wikisource</publisher>
           <date>2019</date>
-        </bibl><bibl type="printSource">
+        </bibl>
+        <bibl type="printSource">
           <title>Mon Village</title>
           <author>Juliette Lamber</author>
           <publisher>Michel Lévy Frères, Libraries Éditeurs, Rue Vivienne 2</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1868</date>
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="firstEdition">
           <title>Mon Village</title>
           <author>Juliette Lamber</author>
           <publisher>Michel Lévy Frères</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1860</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k3045979q"/>
-        </bibl></sourceDesc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k3045979q" />
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -66,14 +76,15 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
+      <change when="2020-11-14">Converted by checkUp script for new release</change>
+      <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-09-30">File created</change>
       <change when="2019-10-23">upgrade to ELTeC-1</change>
@@ -843,7 +854,7 @@
         <p>Reviendront-ils vivants ? et dans quel état ? Pourvu qu'ils ne nous rapportent pas encore quelque épidémie ! Fût-ce ! M. Céran nous guérira.</p>
         <p>Le père Roux, berger, soutient que la lune a un grain ou deux, les pluies vont venir. J'ai vu dans les champs deux pièces de blé encore debout : l'une est à Jean-Claude et l'autre à Cadet Lambin, tous les deux sont à la France. S'il pleut, leur pauvre blé va germer.</p>
         <p>Chaque année, on se fait une fête du retour des franciers <ref target="#FRA00101N12">[12]</ref> , et c'est presque toujours un enterrement...</p>
-        <milestone unit="section" rend="dot"/>
+        <milestone unit="section" rend="dot" />
         <p>Les voilà ! les voilà ! Voilà les franciers revenus !</p>
         <p>— Où sont-ils ? — Sur la place ! — Courons les embrasser !</p>
         <p>— Depuis quinze longs jours et quinze longues nuits qu'ils étaient partis ! — Mon pauvre fieu ! — Mon pauvre homme !</p>

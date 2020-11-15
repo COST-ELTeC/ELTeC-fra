@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA03802" xml:lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA03802" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,38 +29,45 @@
         <measure unit="words">70592</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2020-11-14" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <title>Nelida</title>
           <author>Daniel Stern</author>
           <publisher>Project Gutenberg</publisher>
-          <ref target="http://www. gutenberg. org/ebooks/26863"/>
+          <ref target="http://www. gutenberg. org/ebooks/26863" />
           <date>2008</date>
-        </bibl><bibl type="printSource">
+        </bibl>
+        <bibl type="printSource">
           <title>Nélida</title>
           <author>Daniel Stern</author>
           <publisher>MICHEL LÉVY FRÈRES, LIBRAIRES ÉDITEURS</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1866</date>
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="firstEdition">
           <!--  best guess -->
           <title>Nélida</title>
           <author>Daniel Stern</author>
           <publisher>Amyot</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1846</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k130569x"/>
-        </bibl></sourceDesc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k130569x" />
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -69,14 +79,15 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-14">Checked by checkup script</change>
+      <change when="2020-11-14">Converted by checkUp script for new release</change>
+      <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
       <change when="2019-10-01">File created</change>
       <change when="2019-10-18">upgrade to ELTeC-1</change>
@@ -104,7 +115,9 @@
 
           <head>Introduction</head>
           <quote type="epigraph">
-            <p><foreign xml:lang="deu">Alle Erscheinungen dieser Zeit zeigen dass die Befriedigung im alten Leben sich nicht mehr findet.</foreign></p>
+            <p>
+              <foreign xml:lang="deu">Alle Erscheinungen dieser Zeit zeigen dass die Befriedigung im alten Leben sich nicht mehr findet.</foreign>
+            </p>
           </quote>
           <p>HEGEL.</p>
           <p>C'était au mois de juin ; le soleil, à son midi, inondait l'horizon de clartés ; pas un nuage ne voilait la splendeur du ciel. Une chaude brise glissait sur l'étang et se jouait dans les roseaux sonores. Près de la rive, à l'ombre d'un rideau de peupliers, sommeillait un couple de cygnes. Le nénuphar ouvrait ses ailes blanches sur le miroir des eaux.</p>
@@ -149,7 +162,7 @@
           <p>En installant Nélida dans ce petit réduit, la supérieure lui remit la clef d'une armoire où se trouvaient réunis une trentaine de volumes qui ne faisaient point partie de la bibliothèque du pensionnat. C'était un trésor secret, un choix trop bien approprié aux dispositions rêveuses de la jeune fille, de ces auteurs plus fervents qu'orthodoxes, plus séduits que convaincus, qui n'ont cherché dans la doctrine que les sucs propres à distiller le miel ; qui n'ont vu dans l'Évangile que les parfums de Madeleine ou la blonde tête de Jean reposant sur le sein ému du Christ, et qui parlent, imprudents, le langage amolli des tendresses humaines pour exprimer les ardeurs du divin amour qui les consume. Nélida profita avec bonheur de la liberté qu'on lui laissait. L'attrait tout nouveau pour elle de ces livres brûlants, ces voluptés de l'extase et du ravissement en Dieu offertes ainsi tout d'un coup sans préparation, sans contre-poids, à son imagination avide et aux instincts de sa jeunesse qui commençaient à s'éveiller, causèrent un grand ravage dans son esprit, Les effusions dithyrambiques des Thérèse, des Chantal, des Liguori, dans le sein de l'époux ou de l'ami céleste, firent surelle l'effet d'une musique enivrante qui plonge l'âme et les sens en des songes délicieux. Bientôt elle s'absorba dans ces lectures au point de prendre en un dégoût mortel les études de la classe et le caquet des pensionnaires. Elle n'avait pas trouvé d'ailleurs, parmi ces dernières, une seule jeune fille vers laquelle elle se sentît attirée. La plupart étaient des demoiselles nobles et riches comme elle, mais aussi pleines de morgue, aussi entichées de leur noblesse et de leur fortune qu'elle l'était peu elle-même. Toutes se voyaient au couvent à regret, souhaitaient impatiemment d'en sortir, et ne s'entretenaient, dans leurs épanchements vaniteux, que des somptuosités de la maison paternelle et des plaisirs sans nombre qui les y attendaient.</p>
           <p>La supérieure venait presque chaque jour, à l'issue du dernier office, s'asseoir auprès du lit de Nélida déjà couchée, et causait avec elle, tantôt de la première communion qui approchait, tantôt des dangers du monde où la jeune fille allait vivre, tantôt enfin de ses lectures dont elle lui expliquait les symboles et le sens caché à un point de vue d'une rare élévation, avec un don particulier de persuasion et d'éloquence. De jour en jour, la religieuse prenait un intérêt plus vif à son élève qui, de son côté, s'attachait à elle avec passion. Mère Sainte-Élisabeth, c'est ainsi qu'on l'appelait, avait porté dans le monde un nom illustre, et, sous l'humilité de la robe de bure et du bandeau de lin, il était facile de reconnaître encore en elle cette habitude d'ascendant involontaire que donnent aux femmes une grande naissance et une grande beauté. Elle n'était pourtant plus belle, quoiqu'elle comptât trente ans à peine ; elle avait trop souffert.</p>
           <p>L'ovale de son visage eût été d'une pureté parfaite, mais le chagrin avait miné ses joues ; son nez droit et fier, les contours fins de sa lèvre pâlier appelaient les plus nobles formes de la statuaire ; mais ses yeux noirs, ardents et secs, étaient très-enfoncés dans leur orbite, et son front était sillonné de rides qui se creusaient d'une manière effrayante au moindre froncement de ses épais sourcils ; tout en elle portait la trace d'une lutte violente de passions dominées plutôt qu'apaisées. Lorsqu'elle allait au chœur, grande et un peu ployée sous ses longs voiles noirs, sa croix d'argent brillant sur sa poitrine, on éprouvait en la voyant un sentiment mélangé de respect, d'étonnement, de curiosité et de crainte ; on sentait là une force cachée qui attirait et repoussait tout à la fois ; il semblait qu'on eût la révélation d'une grande destinée brisée.</p>
-          <p>Un soir, rentrant à une heure plus avancée que de coutume, après une visite de surveillance dans les dortoirs, elle aperçut de la lumière dans la chambre de Nélida. Irritée de cette désobéissance et de l'abus que faisait la jeune fille des privilèges qu'on lui accordait, elle entra vivement chez elle pour lui reprocher, avec sévérité cette fois, une veille prolongée si au delà de l'heure permise ; mais un spectacle inattendu fit évanouir sa colère. Nélida, dans sa robe de nuit, était agenouillée au pied du crucifix, les mains jointes, les yeux levés, le visage baigné de larmes. Ses cheveux dénoués tombaient en larges ondes sur son vêtement blanc ; ses deux pieds nus passaient à demi sous les chastes plis qui l'enveloppaient tout entière ; une petite lampe posée à terre l'éclairait d'une lueur vacillante, et dessinait sa silhouette incertaine sur le fond sombre de la cellule ; on eût dit l'une des Marie éplorée auprès du sépulcre vide, ou l'un de ces anges contristés par les péchés de l'homme, tels qu'ils apparaissaient, à Florence, dans l'église de Saint-Marc, au bienheureux frère de Fiesole. Mère Sainte-Élisabeth demeura immobile et contempla longtemps l'enfant de ses prédilections, si absorbée dans l'ardente prière qu'elle ne voyait et n'entendait rien autour d'elle ; puis, saisie de respect à la pensée de l'union mystérieuse qui s'accomplissait là entre une âme sans tache et le Dieu d'amour, la religieuse ploya les genoux ; et alors, pendant plusieurs minutes, ces deux femmes, dont l'une avait renoncé à toutes ses espérances terrestres, tandis que l'autre posait à peine le pied sur le seuil de la vie, firent monter vers le ciel la même prière. Toutes deux se levèrent au même moment, et, sans proférer une parole, elles se jetèrent dans les bras l'une de l'autre.  — Qu'avez-vous ? dit enfin mère Sainte-Élisabeth du ton le plus compatissant, oubliant qu'elle était venue là pour faire des reproches ; pourquoi vous trouvé-je ainsi toute en pleurs ? Auriez-vous quelque chagrin que j'ignore ? Me cacheriez-vous quelque chose, Nélida ?</p>
+          <p>Un soir, rentrant à une heure plus avancée que de coutume, après une visite de surveillance dans les dortoirs, elle aperçut de la lumière dans la chambre de Nélida. Irritée de cette désobéissance et de l'abus que faisait la jeune fille des privilèges qu'on lui accordait, elle entra vivement chez elle pour lui reprocher, avec sévérité cette fois, une veille prolongée si au delà de l'heure permise ; mais un spectacle inattendu fit évanouir sa colère. Nélida, dans sa robe de nuit, était agenouillée au pied du crucifix, les mains jointes, les yeux levés, le visage baigné de larmes. Ses cheveux dénoués tombaient en larges ondes sur son vêtement blanc ; ses deux pieds nus passaient à demi sous les chastes plis qui l'enveloppaient tout entière ; une petite lampe posée à terre l'éclairait d'une lueur vacillante, et dessinait sa silhouette incertaine sur le fond sombre de la cellule ; on eût dit l'une des Marie éplorée auprès du sépulcre vide, ou l'un de ces anges contristés par les péchés de l'homme, tels qu'ils apparaissaient, à Florence, dans l'église de Saint-Marc, au bienheureux frère de Fiesole. Mère Sainte-Élisabeth demeura immobile et contempla longtemps l'enfant de ses prédilections, si absorbée dans l'ardente prière qu'elle ne voyait et n'entendait rien autour d'elle ; puis, saisie de respect à la pensée de l'union mystérieuse qui s'accomplissait là entre une âme sans tache et le Dieu d'amour, la religieuse ploya les genoux ; et alors, pendant plusieurs minutes, ces deux femmes, dont l'une avait renoncé à toutes ses espérances terrestres, tandis que l'autre posait à peine le pied sur le seuil de la vie, firent monter vers le ciel la même prière. Toutes deux se levèrent au même moment, et, sans proférer une parole, elles se jetèrent dans les bras l'une de l'autre. — Qu'avez-vous ? dit enfin mère Sainte-Élisabeth du ton le plus compatissant, oubliant qu'elle était venue là pour faire des reproches ; pourquoi vous trouvé-je ainsi toute en pleurs ? Auriez-vous quelque chagrin que j'ignore ? Me cacheriez-vous quelque chose, Nélida ?</p>
           <p>— Rien au monde, ma mère, reprit la jeune fille avec un accent de vérité convaincant.</p>
           <p>— Mais ces larmes, cette prière, si avant dans la nuit ?</p>
           <p>— Je souffre, ma mère, reprit l'enfant ; je souffre beaucoup.</p>
@@ -297,7 +310,7 @@
           <p>— À l'instant même je vous nommais à ma nièce, reprit madame d'Hespel en faisant un geste qui équivalait à une présentation, et je m'adressais la même question. Il y a, si je ne me trompe, quatre ans que vous avez quitté Paris, et quatre ans, à mon âge, continua-t-elle en minaudant, c'est un siècle. Je suis changée à faire peur ; vous me retrouvez décidément vieille.</p>
           <p>Le comte de Kervaëns, qui pendant tout ce temps avait tenu ses yeux pénétrants attachés sur Nélida, n'entendit point ou feignit de ne pas entendre. La vicomtesse fut forcée d'ajouter :</p>
           <p>— Et nous revenez-vous cette fois <hi>tout de bon</hi> ? </p>
-          <p>—  <hi>Tout de bon</hi> , en vérité, madame, reprit le comte. Je mets fin à ma vie voyageuse. Je viens d'acheter un petit hôtel dans votre rue. </p>
+          <p>— <hi>Tout de bon</hi> , en vérité, madame, reprit le comte. Je mets fin à ma vie voyageuse. Je viens d'acheter un petit hôtel dans votre rue. </p>
           <p>Incessamment je vais en Bretagne pour arranger mon vieux manoir, refaire des baux qui n'ont pas été augmentés depuis vingt ans, et chasser un fripon de régisseur qui m'a indignement volé, à ce qu'on m'écrit. Puis une fois de retour, vous verrez en moi un homme de tous points recommandable.</p>
           <p>— Contez-moi donc ce que vous êtes devenu pendant ces quatre années ?</p>
           <p>— Ce que je suis devenu, madame, reprit M. de Kervaëns en flattant d'une main fort belle, qu'il avait négligemment dégantée, la fine encolure de son cheval, ce serait bien long à vous dire. J'ai voyagé comme Joconde, comme Childe-Harold, comme le Juif errant ; j'ai vu l'Italie, la Grèce, Constantinople, la Russie, et même en passant, un peu de Danemark, ma parole d'honneur. J'ai observé profondément, et conclu de mes observations que les hommes étaient partout aussi maussades, mais que les femmes n'étaient nulle part aussi charmantes qu'à Paris ; voilà pourquoi je suis revenu.</p>
@@ -604,7 +617,7 @@
           <p>Madame de Kervaëns à son tour, encouragée par les regards admiratifs des hommes qui lui faisaient cortège, de M. de Verneuil surtout, qui jouissait visiblement de sa supériorité, madame de Kervaëns, qui se sentait belle et voyait sur le visage de son mari une approbation non équivoque, soutint cette épreuve, la première de ce genre à laquelle elle fût soumise, avec une aisance parfaite. Elle se montra prévenante sans affectation, aimable avec dignité, presque gaie. Il serait difficile de dire ce qui se passait dans le cœur de Timoléon. En retrouvant la marquise d'une manière si inattendue, en la revoyant jolie, provocante, il s'était senti repris d'un désir violent de se venger d'elle, de la punir de ses caprices. Les coquetteries redoublées d'Élisa durant la confusion et le bruit de la chasse l'avaient excité ; il s'était oublié jusqu'à lui faire une nouvelle déclaration. Sa vanité était compromise, la lutte engagée ; il fallait qu'il en sortît vainqueur, ne fût-ce que pour le triomphe d'un jour. D'un autre côté, il était ravi de faire voir à cette femme dédaigneuse combien il lui avait été facile de l'oublier auprès d'une épouse jeune et belle. Comme il était, avant tout, homme du monde et fier du nom qu'il portait, il savait un gré infini à Nélida de se montrer si grande dame. Ce jour fut un des plus glorieux de sa vie. Lui, si mesuré, si impassible d'ordinaire, animé par la chasse, par les excellents vins qu'il avait fait servir à profusion, par une conversation semée de sous-entendus, d'allusions cachées, de piquants quiproquos, il ne se possédait pas.</p>
           <p>Plus d'une fois, pendant la soirée, il serra la main de Nélida avec transport, tout en cherchant des yeux la marquise ; une fois même, il prit une des longues boucles blondes de sa femme et la porta tendrement à ses lèvres. M. de Verneuil était ravi ; la marquise commençait à douter de sa victoire et perdait contenance. Bientôt, se plaignant, d'une grande fatigue, elle demanda à se retirer, et Nélida rentrée chez elle s'abandonna en silence à la joie de son cœur. Pendant que ses femmes défaisaient sa robe et son voile, elle revenait avec un bonheur infini sur les mille petits incidents de la soirée. Elle se rappelait chaque regard, commentait chaque parole, se croyant certaine d'avoir reconquis le cœur, un moment distrait, de son mari. Deux heures s'écoulèrent sans qu'elle songeât à se mettre au lit. Se sentant les nerfs malades, elle ouvrit sa fenêtre pour respirer l'air pur de la nuit. Le temps était très-doux ; les étoiles scintillaient au firmament ; tout était silencieux, tout dormait. Nélida eut envie de descendre dans le parc.</p>
           <p>S'enveloppant la tête et les épaules d'un grand châle, elle se glissa sans bruit par un escalier dérobé, et sortit du château par une petite porte qu'elle s'étonna de ne pas trouver fermée. Comme son premier mouvement, dans ses joies et dans ses peines, étaient toujours d'invoquer Dieu, elle prit le chemin de la chapelle bâtie, au bord du ravin, à saint Cornely, patron de l'Armorique, dans le lieu même où, suivant la légende, s'était accompli un de ses plus surprenants miracles. Elle ouvrit, non sans quelque peine, la porte massive du sanctuaire, où brûlait nuit et jour une lampe consacrée, et, s'agenouillant sur les marches de l'autel, se mit à prier comme elle ne l'avait pas fait depuis un temps considérable. Toute sa ferveur de jeune fille lui revenait en ce moment ; son âme, allégée d'un pesant fardeau, se dilatait et s'élevait joyeuse vers le ciel.</p>
-          <p>Tout à coup il lui sembla entendre sur le gravier des pas furtifs qui se rapprochaient de la chapelle. Elle eut peur et demeura immobile ; les pas s'étaient arrêtés près de la porte. Au bout de quelques minutes, n'entendant plus rien, elle crut s'être trompée et se disposait à sortir, lorsque de nouveaux pas plus accusés firent crier le sable, et une voix bien connue dit très-bas:  — Êtes-vous là?</p>
+          <p>Tout à coup il lui sembla entendre sur le gravier des pas furtifs qui se rapprochaient de la chapelle. Elle eut peur et demeura immobile ; les pas s'étaient arrêtés près de la porte. Au bout de quelques minutes, n'entendant plus rien, elle crut s'être trompée et se disposait à sortir, lorsque de nouveaux pas plus accusés firent crier le sable, et une voix bien connue dit très-bas: — Êtes-vous là?</p>
           <p>— Me voici sur le banc, répondit-on.</p>
           <p>Nélida, tremblante, s'appuya contre le bénitier. C'était son mari et Hortense qui venaient là. Que pouvaient-ils avoir à se dire de si mystérieux ? Quel affreux secret allait-elle surprendre encore ? Elle écouta.</p>
           <p>— D'où provient cet incommode caprice de vouloir me parler en plein air et en pleines ténèbres ? dit Timoléon avec brusquerie. Que me voulez-vous ?</p>
@@ -1060,10 +1073,18 @@
 
           <head>XXIII</head>
           <quote type="poem">
-            <l><foreign xml:lang="deu"><hi>Allein</hi> musst Du entfalten deine Schwingen, </foreign></l>
-            <l><foreign xml:lang="deu"><hi>Allein</hi> Dich auf die See des Lebens wagen. </foreign></l>
-            <l><foreign xml:lang="deu"><hi>Allein</hi> nach Deinem Idealen jagen, </foreign></l>
-            <l><foreign xml:lang="deu"><hi>Allein</hi> , <hi>allein</hi> , nach Deinem Himmel ringen. </foreign></l>
+            <l>
+              <foreign xml:lang="deu"><hi>Allein</hi> musst Du entfalten deine Schwingen, </foreign>
+            </l>
+            <l>
+              <foreign xml:lang="deu"><hi>Allein</hi> Dich auf die See des Lebens wagen. </foreign>
+            </l>
+            <l>
+              <foreign xml:lang="deu"><hi>Allein</hi> nach Deinem Idealen jagen, </foreign>
+            </l>
+            <l>
+              <foreign xml:lang="deu"><hi>Allein</hi> , <hi>allein</hi> , nach Deinem Himmel ringen. </foreign>
+            </l>
           </quote>
           <p>GEORGE HERWEGH.</p>
           <p>Près d'un mois s'était écoulé. Nélida, qui avait reçu une nouvelle secousse en apprenant la mort de son mari, était bien loin de reprendre des forces. Les espérances de mère Saint-Élisabeth ne se réalisaient pas, et la religieuse commençait à partager les appréhensions de Férez, qui regardait l'état de madame de Kervaëns comme inguérissable. Elle aurait voulu et n'osait aborder de front cette tristesse taciturne ; elle redoutait et souhaitait tout à la fois une crise qui pouvait être funeste, mais qui pouvait aussi déterminer le réveil de cette léthargie morale où Nélida semblait se complaire.</p>
@@ -1128,7 +1149,7 @@
           <p>La soif de l'idéal est en vous, Nélida. L'idéal a fait la force et l'angoisse de votre vie. Vous avez cru le trouver dans le renoncement du cloître ; je m'applaudirai toujours, malgré vos infortunes, de vous avoir désabusée. Il vous est apparu dans le mariage ; c'est là qu'il serait pour la plupart des femmes, si la société n'avait faussé les conditions naturelles de ce sérieux contrat. Plus tard, vous l'avez cherché dans l'amour passionné d'un seul ; ce fut votre illusion la plus funeste. Loin de moi la pensée d'accuser celui que vous avez aimé ; il ne vaut peut-être ni plus ni moins qu'un autre homme ; l'égoïsme a revêtu chez lui sa forme la plus belle : la forme poétique. Mais il n'était pas digne de votre sublime abnégation ; il sentait que vous étiez aveuglée, et cette conscience lui causait de grands tourments dont il se délivrait par de grandes faiblesses. Voulez-vous pleurer éternellement une erreur réparable ? Voulez-vous vous abîmer dans les larmes ? Voulez-vous rendre à Dieu une âme vide de bien ?...</p>
           <p>Mère Sainte-Elisabeth avait parlé longtemps. La lampe s'éteignait et les premières lueurs de l'aube pénétraient dans la chambre. Les rues désertes commençaient à retentir de ces bruits graves qui annoncent le réveil des travailleurs. Quelques charrettes, apportant à la ville les provisions de la journée, roulaient pesamment sur le pavé sonore. La religieuse alla à la fenêtre ; Nélida se leva et la suivit en silence.</p>
           <p>Toutes deux s'appuyèrent sur le balcon et regardèrent, tantôt la rue où passait de loin à loin un ouvrier chargé de ses outils, tantôt le ciel où de pâles étoiles luttaient encore contre la clarté envahissante du jour.</p>
-          <p>—  <hi>Venez à moi</hi> , a dit notre sauveur à ceux-là, reprit la religieuse en montrant la rue ; eh bien ! moi je vous dis: <hi>Allez à eux</hi> . </p>
+          <p>— <hi>Venez à moi</hi> , a dit notre sauveur à ceux-là, reprit la religieuse en montrant la rue ; eh bien ! moi je vous dis: <hi>Allez à eux</hi> . </p>
           <p>Nélida se pencha sur cette main inspirée, et murmura d'une voix émue quelques paroles que mère Sainte-Élisabeth devina plutôt qu'elle ne les comprit...</p>
           <p>— Vous consentiriez à vivre ? dit la religieuse avec transport.</p>
           <p>— J'essayerai du moins, répondit Nélida.</p>
@@ -1224,8 +1245,8 @@
         <div type="chapter">
 
           <head>XXVI</head>
-          <p>...  —  Et pourquoi voulez-vous que je m'irrite de ce qui se fait, se dit et se pense, là où je ne me soucie pas d'être ? dit Ewald à Guermann dans une discussion souvent renouvelée depuis la soirée de la taverne. Que m'importe à moi, je vous prie, cette espèce de prison dorée que vous appelez le monde, quand je possède de droit divin la création tout entière, avec tout ce qu'elle renferme de visible à mon œil et d'appréciable à mon intelligence ?</p>
-          <p>—  Mais comment, disait Guermann, vous dont l'âme est généreuse et forte, n'êtes-vous pas possédé du désir de châtier l'orgueil de ces privilégiés du siècle, et de <hi>réhabiliter</hi> en votre personne (c'était le grand mot saint-simonien qui revenait toujours à sa bouche) une classe d'hommes nobles et opprimés ?... </p>
+          <p>... — Et pourquoi voulez-vous que je m'irrite de ce qui se fait, se dit et se pense, là où je ne me soucie pas d'être ? dit Ewald à Guermann dans une discussion souvent renouvelée depuis la soirée de la taverne. Que m'importe à moi, je vous prie, cette espèce de prison dorée que vous appelez le monde, quand je possède de droit divin la création tout entière, avec tout ce qu'elle renferme de visible à mon œil et d'appréciable à mon intelligence ?</p>
+          <p>— Mais comment, disait Guermann, vous dont l'âme est généreuse et forte, n'êtes-vous pas possédé du désir de châtier l'orgueil de ces privilégiés du siècle, et de <hi>réhabiliter</hi> en votre personne (c'était le grand mot saint-simonien qui revenait toujours à sa bouche) une classe d'hommes nobles et opprimés ?... </p>
           <p>— Encore une fois qu'y gagneraient-ils, mon cher Guermann ? Vous me trouvez trop modeste ; ne serait-ce pas, au contraire, que mon orgueil est plus grand que le vôtre ? car il ne daigne point envier des biens qui ne sont point enviables. Vous me croyez sans ambition ? J'en ai une, jamais assouvie, mais aussi jamais découragée : celle de me rapprocher de plus en plus, dans mon art, de l'idéal divin.</p>
           <p>— Admettons que vous fassiez sagement de ne pas vouloir pénétrer dans une société qui ne vous accueillerait qu'avec condescendance, reprenait Guermann ; comment est-il possible que vous, vous, d'organisation exquise s'il en fût, délicat et sensible comme une femme, vous puissiez supporter chaque jour...</p>
           <p>— Ah ! nous y voilà, interrompit Ewald en riant... les joies grossières de la taverne, le contact peu velouté de mes rudes amis, n'est-il pas vrai ? Que voulez-vous, Guermann ! Quand j'ai passé tout le jour dans un sérieux travail, en entretiens graves avec la Muse, j'ai besoin de reposer mes nerfs, de retremper mes esprits fatigués aux libres flots de la vie matérielle. La taverne est une réaction nécessaire qui rétablit l'équilibre dans tout mon être. J'y apporte, je ne vous le cache pas, le sentiment d'une supériorité qui flatte suffisamment mon secret orgueil.</p>
@@ -1295,14 +1316,14 @@
           <p>Un soir, plus lasse, plus abattue encore que de coutume, s'étant éloignée un instant du malade assoupi, elle avait ouvert la fenêtre de la chambre voisine, et respirait d'une poitrine embrasée la fraîche brise des champs. Le silence était partout, au dedans et au dehors.</p>
           <p>Pâle, échevelée, un grand châle jeté sur ses épaules nues, Élisa regardait au hasard dans la campagne, lorsqu'un bruit lointain de roues sur le chemin caillouteux la fit tressaillir. Le bruit se rapprochait ; bientôt elle aperçut, à travers les branches à peine feuillées des acacias du jardin, une voiture s'arrêter à la petite porte verte. La clef de fer tourna en grinçant dans la serrure ; la porte s'ouvrit. Élisa poussa un cri en voyant se dessiner dans l'ombre et s'avancer par l'allée de rosiers qui menait droit au perron, la forme blanche de madame de Kervaëns appuyée sur M. Bernard. Elle mit ses deux mains sur son cœur qui battait avec une vitesse effrayante, et se précipita hors de la chambre.</p>
           <p>Quelle rencontre ! et que le sort s'amuse à de sinistres jeux ! Pour la seconde fois, il mettait en présence ces deux femmes, destinées à souffrir l'une par l'autre, l'une avec l'autre. Une première fois, dans un splendide lieu de fête, elles s'étaient tendu une main frémissante de jalousie ; elles avaient échangé un regard de défi où brillait encore toutes les présomptions de la jeunesse ; aujourd'hui, à deux pas d'un mourant, si pâles toutes deux qu'on les prendrait pour des fantômes, leurs mains se cherchent dans une étreinte que le malheur a rendue sincère, leurs yeux se rencontrent sans haine ; aucune étincelle n'en jaillis plus: une même terreur les glace, une même fatalité les brise.</p>
-          <p>Sans articuler une parole, Élisa entraîna madame de Kervaëns sur un banc de pierre qui bordait l'allée ; là, d'une voix entrecoupée, à travers un déluge de larmes, elle lui apprit dans quel état était Guermann.  —  Sauvez-le, sauvez-le ! s'écriait-elle en attachant sur madame de Kervaëns ses grands yeux égarés ; vous seule, pouvez l'empêcher de mourir !</p>
+          <p>Sans articuler une parole, Élisa entraîna madame de Kervaëns sur un banc de pierre qui bordait l'allée ; là, d'une voix entrecoupée, à travers un déluge de larmes, elle lui apprit dans quel état était Guermann. — Sauvez-le, sauvez-le ! s'écriait-elle en attachant sur madame de Kervaëns ses grands yeux égarés ; vous seule, pouvez l'empêcher de mourir !</p>
           <p>Et la pauvre femme, humble et superstitieuse, incapable de contenir le désordre de ses esprits, implorait le pardon de Nélida, faisait vœu d'entrer au cloître, s'abandonnait enfin à tout l'excès de la passion désespérée.</p>
           <p>Habituée à maîtriser ses douleurs, madame de Kervaëns, en serrant doucement les mains de la marquise, l'exhorta à plus de calme, puis, la laissant au bras de M. Bernard, elle s'avança seule vers la maison.</p>
           <p>Son instinct la conduisit tout droit à la chambre du malade. Les rideaux soigneusement fermés n'y laissaient pénétrer qu'une faible lueur. Elle arriva au lit de Guermann sans être aperçue. En jetant les yeux sur lui, elle eut peine à le reconnaître, tant la souffrance avait altéré ses traits. Ses cheveux, qu'il avait laissé croître depuis plusieurs mois, tombaient en longues mèches noires sur ses joues amaigries dont ils faisaient encore ressortir la pâleur livide ; sa bouche était contractée, l'harmonie de son beau visage détruite. Se penchant sur le lit de son amant, en contenant les larmes qui la suffoquaient, Nélida attacha sur ses yeux, perdus dans le vide, un regard où se concentra tout ce qu'elle avait de volonté et d'amour ; le malade tressaillit, fit un mouvement brusque, et, se levant sur son séant, il regarda d'abord autour de lui, puis sa vue s'arrêta longtemps sur madame de Kervaëns comme sur un objet qu'il cherchait à reconnaître. Elle baissa les yeux et demeura immobile pour lui donner le temps de rassembler ses esprits ; ce moment fut une éternité ! Lorsqu'elle releva les yeux, elle rencontra ceux de son amant, non plus hagards et vagues cette fois, mais fixés sur elle et éclairés du rayon intérieur.</p>
           <p>— Nélida ! murmura Guermann. Un long silence suivit cette exclamation.</p>
           <p>— Nélida ! reprit-il avec un sourd gémissement. Elle voulut parler, la craintes cella ses lèvres.</p>
           <p>— Que vous êtes belle ! dit Guermann. Et sa main fit un mouvement pour chercher celle de madame de Kervaëns. Tout ce que le cœur de Guermann avait encore d'amour, tout ce que l'âme de Nélida renfermait de pardon fut échangé dans cette étreinte suprême.</p>
-          <p>Au bout de quelques minutes: Oh ! oui, oui, tu es belle et tu es bonne, murmura-t-il ; je t'ai appelée, tu m'as entendu et tu viens... Oh ! que je t'aime !...  — Et les larmes inondèrent son visage...  —  Mais il est trop tard...</p>
+          <p>Au bout de quelques minutes: Oh ! oui, oui, tu es belle et tu es bonne, murmura-t-il ; je t'ai appelée, tu m'as entendu et tu viens... Oh ! que je t'aime !... — Et les larmes inondèrent son visage... — Mais il est trop tard...</p>
           <p>Nélida ne put se contenir davantage ; elle se jeta dans les bras de Guermann, et recueillit d'une lèvre d'amante ses pleurs amers.</p>
           <p>En ce moment, le docteur et Ewald, qui ne passaient pas un seul jour sans venir voir Guermann, entraient dans la chambre. Au bruit que fit la porte, Nélida s'arracha des bras de son amant qui la serrait avec une force convulsive.</p>
           <p>Il jeta sur ceux qui entraient un regard sombre :</p>
@@ -1313,7 +1334,7 @@
           <p>Vivez...</p>
           <p>— Pourquoi vivre ? la vie est amère, dit-il.</p>
           <p>— Vivez pour vos travaux, pour votre honneur, pour votre gloire...</p>
-          <p>— Ah ! vous ne m'aimez plus, dit-il en l'interrompant avec un douloureux sourire... Vous ne me dites pas de vivre pour notre amour...  — Puis après un moment de silence : Il était si beau, si pur, si profond et si grand, ton amour ! Du jour où j'ai pu te quitter, j'ai quitté, pour ne plus les retrouver jamais, ma vertu, mon repos, mon bonheur, mon génie.</p>
+          <p>— Ah ! vous ne m'aimez plus, dit-il en l'interrompant avec un douloureux sourire... Vous ne me dites pas de vivre pour notre amour... — Puis après un moment de silence : Il était si beau, si pur, si profond et si grand, ton amour ! Du jour où j'ai pu te quitter, j'ai quitté, pour ne plus les retrouver jamais, ma vertu, mon repos, mon bonheur, mon génie.</p>
           <p>— Vous retrouverez tout, dit Nélida.</p>
           <p>— J'ai tout retrouvé, puisque te voilà près de moi, dit-il en la regardant comme en extase. Ta main, en passant sur mon front, en enlève les sombres pensées. Ton haleine purifie l'air que je respire, et qui tout à l'heure encore, brûlait ma poitrine. Tes paroles sont une mélodie ineffable à mon oreille...</p>
           <p>Il retomba défaillant sous l'émotion trop vive... ses yeux se fermèrent.</p>
@@ -1321,7 +1342,7 @@
           <p>Après avoir tâté le pouls de Guermann, il fit signe à M. Bernard qui l'avait suivi, d'emmener Nélida.</p>
           <p>Guermann vécut deux jours encore, mais sans recouvrer l'usage de ses sens. Son agonie fut douce et tranquille. Il ne parut plus souffrir.</p>
           <p>Il est permis d'espérer que cette dernière étreinte d'une main magnétique, que ce dernier regard d'un amour souverain, furent pour cette âme haletante un gage de la paix éternelle. Nélida put croire que, du moins à l'heure de la mort, elle avait été pour son amant ce qu'elle aurait voulu être dans sa vie : la prière exaucée, la faute pardonnée, la Béatrix qui montre les cieux ouverts.</p>
-          <milestone unit="section" rend="stars"/>
+          <milestone unit="section" rend="stars" />
           <p>Que devint Nélida ? Si le lecteur s'intéresse à cette femme courageuse assez pour désirer connaître le lendemain de ses jours d'épreuve ; s'il veut apprendre quelle maturité peut succéder à une telle jeunesse, quel soir à un tel matin ; s'il demande quel est le port où se reposent ici-bas les âmes ainsi faites, nous le lui dirons peut-être en son lieu ; mais ne doit-il pas déjà le pressentir ?</p>
           <p>Chez les femmes les plus hautement douées, le cœur, dans ses élans rapides, dépasse de si loin la pensée, qu'à lui seul il agite, soumet, bouleverse et entraîne au hasard toute la première moitié de l'existence. La pensée, plus lente en sa marche, grandit, d'abord inaperçue, au sein des orages ; mais peu à peu elle s'élève au-dessus d'eux, les connaît, les juge, les condamne ou les absout ; elle devient souveraine. Le combat fut long et cruel pour Nélida, et quand elle entra en possession des forces que la nature lui avait données, elle se trouva en présence d'ennemis extérieurs aussi formidables que l'avait été son amour. La lutte recommença sous d'autres aspects et dans une autre arène. Quelles en furent l'issue et la récompense ? Il n'est que trop facile de le deviner.</p>
           <p>N'appartenons-nous pas à un temps où rien ne s'accomplit, où nul n'achève aucune tâche ? Les hommes et les choses ne semblent-ils pas frappés aujourd'hui de je ne sais quel ironique anathème ? Ne voyons-nous pas autour de nous tout enthousiasme égaré, toute force dispersée, toute volonté engloutie dans la sombre tourmente de nos incertitudes ?</p>
