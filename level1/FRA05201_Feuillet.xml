@@ -48,9 +48,12 @@
           </respStmt>
         </bibl>
         <bibl type="printSource">
-          <author>Feuillet, Octave (1821-1890)</author>
+          <author>Octave Feuillet</author>
           <title>La petite comtesse</title>
-          <date>1857</date>
+          <publisher>M. Lévy frères</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1869</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5853824d"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1856</date>

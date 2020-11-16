@@ -40,9 +40,12 @@
           <ref target="http://www.gutenberg.org/files/32113/32113-h/32113-h.htm">http ://www.gutenberg.org/files/32113/32113-h/32113-h.htm</ref>
         </bibl>
         <bibl type="printSource">
-          <author>Kock, Paul de (1793-1871)</author>
+          <author>Paul de Kock</author>
           <title>Madeleine</title>
+          <publisher>G. Barba</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1850</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5838965p"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1849</date>

@@ -47,7 +47,9 @@
         <bibl type="printSource">
           <author>Sandeau, Jules</author>
           <title>Mademoiselle de la Seiglière</title>
-          <date>1848</date>
+          <publisher>Michel-Lévy frères</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1847</date>
           <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5699005s" />
           <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k56998400" />
         </bibl>

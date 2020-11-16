@@ -48,7 +48,12 @@
           <date>1897</date>
         </bibl>
         <bibl type="firstEdition">
+          <title>Totote : roman inédit</title>
+          <author>Gyp</author>
+          <publisher>P. Lamm</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1897</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k96916946"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

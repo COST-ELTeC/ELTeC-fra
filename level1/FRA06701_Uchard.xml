@@ -53,9 +53,11 @@
         </bibl>
         <bibl type="firstEdition">
           <title>La Buveuse de perles</title>
+          <author>Mario Uchard</author>
           <pubPlace>Paris</pubPlace>
           <publisher>Calmann Lévy</publisher>
           <date>1882</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6557908c"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

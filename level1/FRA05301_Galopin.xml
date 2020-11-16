@@ -45,9 +45,13 @@
           </respStmt>
         </bibl>
         <bibl type="printSource">
-          <author>Galopin, Arnould (1865-1934)</author>
+          <author>Arnould Galopin</author>
           <title>Le Docteur Omega (Aventures fantastiques de trois Français dans la Planète Mars)</title>
+          <publisher>A. Michel</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1906</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5824800g"></ref>
+          <!-- no publication date on Gallica -->
         </bibl>
         <bibl type="firstEdition">
           <date>1906</date>
