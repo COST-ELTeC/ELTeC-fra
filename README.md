@@ -42,4 +42,5 @@ If you use this corpus in your research or teaching, please follow good scholarl
   publisher = {COST Action Distant Reading for European Literary History},
   url = {https://github.com/COST-ELTeC/ELTeC-fra/},
   doi = {10.5281/zenodo.4264647},
+  }
 ```
