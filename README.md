@@ -32,14 +32,14 @@ If you use this corpus in your research or teaching, please follow good scholarl
 * *French Novel Collection (ELTeC-fra)*, edited by Christof Schöch and Lou Burnard. Version v1.0.0, November 2020. In: *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: https://doi.org/10.5281/zenodo.4264647
 
 ```
-@misc{schoech_ELTeCfra_2020,
+@collection{schoech_ELTeCfra_2020,
   title = {French Novel Collection (ELTeC-fra)},
-  inbook = {European Literary Text Collection (ELTeC)}
+  maintitle = {European Literary Text Collection (ELTeC)},
   editor = {Schöch, Christof and Burnard, Lou},
   version = {v1.0.0},
   year = {2020},
-  month = {November},
-  publisher = {COST Action Distant Reading for European Literary History}
-  url = {https://github.com/COST-ELTeC/ELTeC-fra/}, 
-  doi = {https://doi.org/10.5281/zenodo.4264647},  
-  }
+  month = {11},
+  publisher = {COST Action Distant Reading for European Literary History},
+  url = {https://github.com/COST-ELTeC/ELTeC-fra/},
+  doi = {10.5281/zenodo.4264647},
+```
