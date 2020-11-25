@@ -47,7 +47,13 @@
           <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6576703v" />
         </bibl>
         <bibl type="firstEdition">
-          <date>1869</date>
+          <title>L'Éducation sentimentale histoire d'un jeune homme</title>
+          <author>Gustave Flaubert</author>
+          <publisher>M. Lévy frères</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1869-1870</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k1516439r">Vol. 1</ref>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b8617219s">Vol. 2</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

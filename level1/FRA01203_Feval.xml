@@ -36,6 +36,8 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
+          <title>Le loup blanc</title>
+          <author>Paul Féval</author>
           <publisher>Ebooks libres et gratuits</publisher>
         </bibl>
         <bibl type="printSource">
@@ -47,6 +49,8 @@
           <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k80334r" />
         </bibl>
         <bibl type="firstEdition">
+          <title>Le loup blanc</title>
+          <author>Paul Féval</author>
           <pubPlace>Paris</pubPlace>
           <publisher>Chlendowski</publisher>
           <date>1845</date>

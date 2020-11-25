@@ -47,7 +47,10 @@
         <bibl type="firstEdition">
           <title>Le petit chose</title>
           <author>Alphonse Daudet</author>
-          <date>1867</date>
+          <publisher>J. Hetzel</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1868</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k1522819d" />
           <!--(1866-1867)-->
         </bibl>
       </sourceDesc>
