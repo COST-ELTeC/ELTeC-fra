@@ -50,9 +50,10 @@
         <bibl type="printSource">
           <title>La Sœur du Soleil (L'Usurpateur)</title>
           <author>Judith Gautier</author>
-          <publisher>Dentu &amp; Cie, Éditeurs, Palais-Royal, 15-17-19, Galerie d'Orleans </publisher>
+          <publisher>Dentu</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1887</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k811244" />
         </bibl>
         <bibl type="firstEdition">
           <!-- best guess -->
