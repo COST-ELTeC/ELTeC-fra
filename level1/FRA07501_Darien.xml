@@ -49,6 +49,10 @@
         <bibl type="printSource">
           <title>Le Voleur</title>
           <author>Georges Darien</author>
+          <publisher>P.-V. Stock</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1898</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6101718v"></ref>
         </bibl>
         <bibl type="firstEdition">
           <title>Le Voleur</title>

@@ -51,7 +51,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61451614" />
         </bibl>
         <bibl type="firstEdition">
+          <title>La décadence latine. XVI, Modestie et vanité</title>
+          <author>Joséphin Peladan</author>
+          <publisher>Société du "Mercure de France"</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1902</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k61451614"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

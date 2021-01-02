@@ -40,6 +40,14 @@
           <date />
           <ref target="http://beq.ebooksgratuits.com" />
         </bibl>
+        <bibl type="printSource">
+          <title>Le petit colporteur</title>
+          <author>Julie Gouraud</author>
+          <publisher>Hachette</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1867</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k65157064" />
+        </bibl>
         <bibl type="firstEdition">
           <title>Le petit colporteur</title>
           <author>Julie Gouraud</author>

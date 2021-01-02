@@ -49,9 +49,11 @@
         </bibl>
         <bibl type="firstEdition">
           <title>L'Elzévir de maroquin rouge</title>
+          <author>Victor Vaillant</author>
           <pubPlace>Metz</pubPlace>
-          <publisher>Typographie Rousseau-Pallez, éditeur</publisher>
+          <publisher>Rousseau-Pallez</publisher>
           <date>1861</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k57182783"></ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

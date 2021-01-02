@@ -45,8 +45,12 @@
           <date>2007</date>
         </bibl>
         <bibl type="printSource">
-          <author>de Montépin, Xavier (1839-1915)</author>
+          <author>Xavier de Montépin</author>
           <title>La porteuse de pain</title>
+          <publisher>H. Geoffroy</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1903-1905</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5504400t"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1884</date>

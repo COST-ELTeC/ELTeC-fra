@@ -40,9 +40,13 @@
           <ref target="http://www.bibebook.com/search/978-2-8247-0851-5">http://www.bibebook.com/search/978-2-8247-0851-5</ref>
         </bibl>
         <bibl type="printSource">
-          <author>Lermina, Jules (1839-1915)</author>
+          <author>Jules Lermina</author>
           <title>L'effrayante aventure</title>
-          <date>1910</date>
+          <publisher>J. Tallandier</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1913</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k62658n"></ref>
+          <!-- the only one edition on Gallica -->>
         </bibl>
         <bibl type="firstEdition">
           <date>1910</date>

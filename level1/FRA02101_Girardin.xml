@@ -49,11 +49,12 @@
           <date>2013-04-11</date>
         </bibl>
         <bibl type="printSource">
-          <title> Œuvres complètes de Madame Émile de Girardin née Delphine Gay : Tome troisième : nouvelles et contes </title>
+          <title>Marguerite, ou Deux amours (Nouvelle édition)</title>
           <author>Delphine Gay</author>
-          <publisher>Plon</publisher>
+          <publisher>Michel Lévy frères</publisher>
           <pubPlace>Paris</pubPlace>
-          <date>1860</date>
+          <date>1859</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k4802413" />
         </bibl>
         <bibl type="firstEdition">
           <!-- best guess -->

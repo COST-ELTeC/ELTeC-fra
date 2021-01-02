@@ -44,8 +44,9 @@
           <author>Pierre Mille</author>
           <title>Louise et Barnavaux</title>
           <publisher>Calmann-Lévy</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1912</date>
-          <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61362974" />
+          <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61362974"></ref>
         </bibl>
         <bibl type="firstEdition">
           <date>1912</date>

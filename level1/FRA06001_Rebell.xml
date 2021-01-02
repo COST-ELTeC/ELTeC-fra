@@ -44,10 +44,13 @@
           </respStmt>
         </bibl>
         <bibl type="printSource">
-          <author>Rebell, Hugues</author>
+          <author>Hugues Rebell</author>
           <title>Les Nuits chaudes du Cap français</title>
-          <date>1902</date>
+          <publisher>éditions de la Plume</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1918</date>
           <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k241281c" />
+          <!-- according to Gallica the year of publication is 1918, not 1902 -->
         </bibl>
         <bibl type="firstEdition">
           <date>1902</date>

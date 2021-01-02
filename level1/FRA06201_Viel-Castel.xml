@@ -41,11 +41,12 @@
           <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k5607125s">http://gallica.bnf.fr/ark:/12148/bpt6k5607125s</ref>
         </bibl>
         <bibl type="printSource">
-          <author>Viel-Castel, Horace de (1802-1864)</author>
+          <author>Horace de Viel-Castel</author>
           <title>Archambaud de Comborn</title>
-          <publisher>Amyot (Paris)</publisher>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5607125s" />
+          <publisher>Amyot</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1845</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5607125s" />
         </bibl>
         <bibl type="firstEdition">
           <date>1845</date>
