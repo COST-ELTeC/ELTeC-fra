@@ -35,6 +35,13 @@
         <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="firstEdition">
+          <title>Marie-Claire</title>
+          <author>Marguerite Audoux</author>
+          <publisher>Fasquelle</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>1910</date>
+        </bibl>
         <bibl type="digitalSource">
           <title>Marie-Claire</title>
           <author>Marguerite Audoux</author>
@@ -42,7 +49,7 @@
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
           <idno type="beq">977</idno>
         </bibl>
-        <bibl type="firstEdition">
+        <bibl type="printSource">
           <title>Marie-Claire</title>
           <author>Marguerite Audoux</author>
           <publisher>A. Fayard et Cie</publisher>
@@ -68,7 +75,7 @@
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
         <size xmlns="http://distantreading.net/eltec/ns" key="short" />
         <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
-        <!-- Prix Fémina -->
+        <!-- Prix Fémina 1910 -->
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>
