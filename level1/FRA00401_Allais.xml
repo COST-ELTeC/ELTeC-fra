@@ -17,6 +17,7 @@
       <extent>
         <!-- Word count: tokens as counted in text split on "\W+" -->
         <measure unit="words">41424</measure>
+        <measure unit="pages">283</measure> <!-- in-16 BnF -->
       </extent>
       <publicationStmt>
         <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
@@ -34,8 +35,18 @@
         <bibl type="digitalSource">
           <title>Le Captain Cap</title>
           <author>Alphonse Allais</author>
-          <publisher>(unspecified)</publisher>
+          <publisher>BnF</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date>2011</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k165801v" />
+        </bibl>
+        <bibl type="printSource">
+          <title>Le Captain Cap</title>
+          <author>Alphonse Allais</author>
+          <publisher>Felix Juven</publisher>
+          <pubPlace>Paris</pubPlace>
           <date>1902</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k165801v" />
         </bibl>
         <bibl type="firstEdition">
           <title>Le Captain Cap</title>
