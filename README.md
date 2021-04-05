@@ -40,6 +40,8 @@ If you use this corpus in your research or teaching, please follow good scholarl
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC. 
 
+The concept DOI for all versions of ELTeC-fra is the following: https://doi.org/10.5281/zenodo.3462535. 
+
 * v1.0.1, April 2020: This release includes 100 novels in level 1 encoding. Minor updates to the metadata were provided with this release. The DOI of this release release is: [10.5281/zenodo.4662433](https://doi.org/10.5281/zenodo.4662433)
 * v1.0.0, November 2020: This release includes 100 novels in level 1 encoding. With this release, a corpus compliance score (E5C) of 100 was reached. The DOI of this release release is: [10.5281/zenodo.4264647](https://doi.org/10.5281/zenodo.4264647)
 * v0.9.1, June 2020: This release includes 100 novels in level 1 encoding. Some further enhancements remain planned as work towards v1.0.0. See: [v0.9.1](https://github.com/COST-ELTeC/ELTeC-fra/releases/tag/v0.9.1) and [issues in milestone v1.0.0](https://github.com/COST-ELTeC/ELTeC-fra/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.0.0). The [E5C](https://github.com/distantreading/WG1/wiki/E5C-discussion-paper) score of this release is 97.7/100.  
