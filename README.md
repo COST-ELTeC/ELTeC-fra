@@ -20,7 +20,7 @@ All texts included in this collection are in the public domain. No claim to copy
 
 If you use this corpus in your research or teaching, please follow good scholarly practice and use the following citation suggestion to acknowledge your source:
 
-* *French Novel Collection (ELTeC-fra)*, edited by Christof Schöch and Lou Burnard. Version v1.0.1, April 2021. In: *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: https://doi.org/10.5281/zenodo.4662433
+* *French Novel Corpus (ELTeC-fra)*, edited by Christof Schöch and Lou Burnard. Version v1.0.1, April 2021. In: *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: https://doi.org/10.5281/zenodo.4662433
 
 ```
 @collection{schoech_ELTeCfra_2020,
