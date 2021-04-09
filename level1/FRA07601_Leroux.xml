@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA07601" xml:lang="fr">
   <teiHeader>
@@ -27,40 +27,33 @@
         <measure unit="words">217799</measure>
       </extent>
       <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2020-11-14" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
+</publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <title>La Reine du Sabbat</title>
           <author>Gaston Leroux</author>
           <publisher>Ebooks libres et gratuits</publisher>
           <date>2010</date>
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <title>La Reine du Sabbat</title>
           <author>Gaston Leroux</author>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <title>La Reine du Sabbat</title>
           <author>Gaston Leroux</author>
           <pubPlace>Paris</pubPlace>
           <publisher>Fayard (Le Livre Populaire n°96)</publisher>
           <date>1913</date>
           <!-- Freuilleton: Le Matin, du 18 Août au 31 janvier 1911   -->
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -72,13 +65,14 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-09-24">File created</change>
@@ -150,7 +144,7 @@
           <p>Mais la vieille lui saisit le poignet.</p>
           <p>– Attends ! dit-elle. J'ai préparé quelque chose pour toi. Aussi vrai que j'ai été changée en chatte, tu ne t'en iras pas d'ici <hi rend="italic">sans savoir !</hi></p>
           <p>Et avant qu'il ait eu le temps de s'y opposer, elle avait jeté sur un réchaud, où brûlaient des charbons, une poignée de graines qui remplirent immédiatement la roulotte d'une fumée et d'une odeur insupportables. La sorcière s'était jetée aussitôt sur une sorte de trépied fait de trois branches de coudrier, et telle la pythonisse antique, elle commençait de subir l'influence des effluves. Alors elle fit entendre une série de vocables étranges, accompagnés de cris gutturaux et bizarres, et qui devait sans doute avoir une signification bien sinistre, car Réginald en parut fort impressionné.</p>
-          <p>Quand la sorcière se fut tue, il remit son manteau, et Giska, qui le regardait avec des yeux fous de prêtresse en communication avec son Dieu, vit qu'il avait sur la poitrine, noué en sautoir, le fouet à manche de cuivre et à longue lanière du Grand Coesre<hi rend="italic" />\{1\}<hi rend="italic" />. Alors elle descendit de son trépied et se mit à genoux. Réginald dénoua le fouet et le lui remit.</p>
+          <p>Quand la sorcière se fut tue, il remit son manteau, et Giska, qui le regardait avec des yeux fous de prêtresse en communication avec son Dieu, vit qu'il avait sur la poitrine, noué en sautoir, le fouet à manche de cuivre et à longue lanière du Grand Coesre<hi rend="italic"/>\{1\}<hi rend="italic"/>. Alors elle descendit de son trépied et se mit à genoux. Réginald dénoua le fouet et le lui remit.</p>
           <p>– Giska, fit-il, si tu ne me revois plus, tu leur porteras cela, aux Saintes-Maries-de-la-Mer !</p>
           <p>Puis brusquement l'homme sortit de la roulotte et regagna sa voiture. L'équipage reprit au galop le chemin de Paris ; mais tout à coup, au-dessus de la plaine nue, froide et déserte, un grand cri courut, qui roula dans l'air, qui rattrapa les chevaux, qui vint frapper Réginald au fond de sa voiture :</p>
           <p>– <hi rend="italic">N'y va pas ce soir !</hi></p>
@@ -243,7 +237,7 @@
           <p>Milly et Réginald étaient parvenus au premier étage sans encombre, prenant, du reste, les plus grandes précautions pour qu'aucun bruit ne vînt révéler leur présence. D'après les rapides paroles de Milly, on pouvait imaginer facilement que toutes les issues de l'hôtel étaient gardées. Réginald ne pouvait espérer forcer ces gardes-là. Il n'avait pas une arme sur lui... Aussi, sa situation était terrible, car il devait s'attendre à quelque chose d'horrible de la vengeance d'un homme comme Léopold-Ferdinand qui le tenait à sa disposition à l'ambassade d'Austrasie, c'est-à-dire chez lui, tous les princes de l'empire pouvant, dans l'enceinte de cet hôtel, bénéficier jusqu'au crime du régime diplomatique d'exterritorialité. La police de France n'avait point à connaître de ce qui se passait au-delà de ce seuil. Mais de cela, l'homme n'avait cure : il ne pensait encore, toujours, qu'à sa royale maîtresse...</p>
           <p>Sa vie à lui ne comptait pas, si Marie-Sylvie pouvait être sauvée. Son angoisse à cause d'elle était affreuse... Et il continuait de suivre Milly dans le noir... Ils se tenaient par la main... Celle de la petite était glacée et tremblait. Ses hésitations parurent suspectes à Réginald. Où allait-il ? Où le conduisait-on ? Qu'est-ce que l'on faisait de lui ? Il n'en savait rien ! Il ignorait les lieux : c'était la première fois qu'il venait à l'ambassade d'Austrasie.</p>
           <p>Du noir, du noir et du silence. Une porte est ouverte à tâtons et grince. Ils s'arrêtent, étouffant leur respiration, écoutant. Rien. Ils avancent. Encore des ténèbres. Ah ! c'est le parquet maintenant qui crie ! Encore une porte qu'ils franchissent ! Et tout à coup, derrière eux, <hi rend="italic">ils sentent que la porte se referme toute seule... </hi>Milly pousse un léger cri, et puis on n'entend plus rien que les bruits sourds et haletants d'une lutte terrible qui agite l'ombre.</p>
-          <milestone unit="section" />
+          <milestone unit="section"/>
           <p>Et enfin de la lumière, là-bas, tout au fond de la pièce... une lampe, dont la lueur, concentrée sous un abat-jour, éclaire l'uniforme éclatant de blancheur et le crâne d'un officier chauve, penché sur des dossiers... Dans la pénombre, à droite et à gauche, on devine deux autres uniformes dont les boutons, les aiguillettes, un bout d'épaulette accrochent quelques rayons. Les ténèbres se piquent encore de la petite lueur jaune d'une lampe minuscule sur la droite. Et derrière ce mince rayonnement jaune, une ombre est debout dont on n'aperçoit bien que la garde éblouissante du sabre.</p>
           <p>La disposition de ces figures entre-aperçues rappelle, à s'y méprendre, l'aspect d'un tribunal militaire, la nuit, réuni d'urgence pour prononcer un jugement terrible et rapide sur quelque affaire secrète qui ne peut se terminer que par la mort de l'accusé, condamné à être fusillé en sourdine au fond d'un fossé, au petit jour, ou au fond d'une cave, la nuit.</p>
           <p>Un crime de plus ou de moins ne comptait pas pour cette race terrible des Wolfbourg, qui régnait depuis des siècles sur l'Austrasie. Les salles de leurs palais, les murs de leurs châteaux féodaux, portaient les traces de leur politique sanglante, et étaient peuplés des fantômes de leurs victimes...</p>
@@ -317,7 +311,7 @@
           <p>– Jure-le ! Jure-le ! Tu vas mourir ! Jure-le sur ton salut éternel !</p>
           <p>– Je le jure sur mon...</p>
           <p>Et Réginald, dans un affreux soupir, auquel répond un rire infernal derrière les murs, se soulève une dernière fois pour aller tomber sur les lèvres blêmes de l'une des deux jumelles, y achever sa phrase et mourir !</p>
-          <milestone unit="section" />
+          <milestone unit="section"/>
           <p>Léopold-Ferdinand s'est rué sur Réginald, l'a arraché à la couche où il est allé jeter son dernier soupir, et l'a fait rouler sur le parquet. Et maintenant, le voilà, à genoux, auprès du corps ; il regarde et il écoute.</p>
           <p>– Je crois qu'il est bien mort ! fit-il. Regarde donc, Karl ! Karl se penche à son tour sur le cadavre, écarte les vêtements qui recouvrent cette noble poitrine et, levant son poignard, l'enfonce jusqu'à la garde...</p>
           <p>– Pour en être plus sûr ! dit Karl...</p>
@@ -326,13 +320,13 @@
           <p>Au-dessus du front de marbre, dans la chevelure plus noire que la nuit, <hi rend="italic">vient de pousser une mèche blanche. </hi>Et il reste sans un geste, stupéfait, devant ce phénomène... ne pouvant comprendre. Enfin, il calme son émoi et dit, la voix mal assurée :</p>
           <p>– On va pouvoir les reconnaître l'une de l'autre, maintenant. Viens, Karl !</p>
           <p>Et, ayant enjambé le cadavre, le bourreau s'en va, suivi de son aide... Derrière les murs, le rire s'est tu.</p>
-          <milestone unit="section" />
+          <milestone unit="section"/>
           <p>Quelques minutes se passent sans que rien vienne troubler le silence de cette chambre funèbre où il y a un corps de plus... et puis une porte s'ouvre tout doucement, et une vieille qui sanglote, toute couverte de voiles noirs, une vieille noble dame, couronnée de cheveux blancs, s'avance vers le cadavre, tombe à genoux, et dépose un baiser sur le front sanglant de Réginald. Après quoi, elle glisse la main dans la poche du gilet et « <hi rend="italic">fait la montre du mort »</hi>. Puis elle se relève, se signe et dit tout haut :</p>
           <p><hi rend="italic">À deux heures</hi></p>
           <p><hi rend="italic">Et quart</hi></p>
           <p><hi rend="italic">Comme à toute heure</hi></p>
           <p><hi rend="italic">Que Jésus</hi></p>
-          <p><hi rend="italic">Soit dans ton cœur ! </hi><hi rend="italic" />\{2\}<hi rend="italic" /></p>
+          <p><hi rend="italic">Soit dans ton cœur ! </hi><hi rend="italic"/>\{2\}<hi rend="italic"/></p>
           <trailer>FIN DU PROLOGUE</trailer>
         </div>
       </div>
@@ -367,7 +361,7 @@
           <p>Jeannot soupire :</p>
           <p>– Je n'étais pas fait pour être horloger...</p>
           <p>Quant à M. Baptiste, il n'a prêté aucune attention à la scène de Jeannot et de Magnus. Son regard ne s'est éclairé un peu qu'en apercevant la roulotte de l'antique Giska, la paysanne de la Forêt Noire. La sorcière, de son côté, a aperçu M. Baptiste et a remué son menton d'une certaine façon qui a paru satisfaire l'horloger. Et M. Baptiste traînant toujours Jeannot par la main, s'est mis à suivre la roulotte. À ce moment, les cris redoublent en tête de la caravane. Cela vient de la place de l'Église. Chacun s'y précipite, s'y entasse, s'y étouffe. Le peuple des nomades a enfin atteint le <hi rend="italic">seuil, la Pierre Promise.</hi></p>
-          <p>Une grande joie est répandue sur tous les visages. Ils sont arrivés. Demain, on leur ouvrira les portes du sanctuaire, et tous, ils oublient les chemins parcourus, tous les romani, même ceux qui sont venus de très loin et qui traînent à leurs souliers d'osier la poudre des deux mondes... Ceux qui ont accompli les premiers rites, les premières prières, accompagnées de signes incompréhensibles aux profanes, font place à d'autres, et s'en vont procéder à leur hâtive installation en attendant les cérémonies du lendemain<hi rend="italic" />\{3\}<hi rend="italic" />. Des tentes se dressent partout, sur les places, sur la plage, dans la plaine.</p>
+          <p>Une grande joie est répandue sur tous les visages. Ils sont arrivés. Demain, on leur ouvrira les portes du sanctuaire, et tous, ils oublient les chemins parcourus, tous les romani, même ceux qui sont venus de très loin et qui traînent à leurs souliers d'osier la poudre des deux mondes... Ceux qui ont accompli les premiers rites, les premières prières, accompagnées de signes incompréhensibles aux profanes, font place à d'autres, et s'en vont procéder à leur hâtive installation en attendant les cérémonies du lendemain<hi rend="italic"/>\{3\}<hi rend="italic"/>. Des tentes se dressent partout, sur les places, sur la plage, dans la plaine.</p>
           <p>Des forains dressent déjà leurs baraques pour les fêtes qui suivent les cérémonies religieuses et l'élection du roi. Des feux s'allument, çà et là, sous les chaudrons pendus à trois bâtons en faisceau, et qui contiennent la soupe du soir. De la marmaille demi-nue souffle sur les charbons ardents, tandis que les premiers des tribus se réunissent au bord de la mer, s'accroupissent en cercle et parlementent déjà autour de l'événement attendu...</p>
           <p>... attendu depuis cinq ans...</p>
           <p>... Car depuis cinq ans les romichals n'ont point de chef. <hi rend="italic">Un signe mystérieux venu d'en haut leur a ordonné d'attendre. </hi>Et toutes les bandes accourues, il y a cinq ans aux Saintes-Maries-de-la-Mer s'en étaient retournées et s'étaient dispersées aux quatre coins du monde sans le mot d'ordre suprême qui fait les cigains joyeux et pleins d'espoir.</p>
@@ -430,7 +424,7 @@
           <p>– Ma foi, non !</p>
           <p>– Tant mieux pour toi, Jeannot... Et il y a longtemps que tu as vu ces montres-là ?</p>
           <p>– Cinq années passées, au moins, avant que je vienne ici pour la première fois, où j'ai fait votre connaissance.</p>
-          <p>– C'est donc ça, reprit Magnus pensif, en se grattant le menton de ses trois index, c'est donc ça que M. Baptiste est l'horloger des fils de la femme ?<hi rend="italic" />\{4\}<hi rend="italic" /></p>
+          <p>– C'est donc ça, reprit Magnus pensif, en se grattant le menton de ses trois index, c'est donc ça que M. Baptiste est l'horloger des fils de la femme ?<hi rend="italic"/>\{4\}<hi rend="italic"/></p>
           <p>– Qu'est-ce que vous me conseillez de faire, monsieur Magnus ?</p>
           <p>– Moi, je te conseille d'aller te coucher... Ah ! encore un mot, Petit-Jeannot... Si, par hasard, tu avais envie de raconter à un autre qu'à moi l'histoire des montres... eh bien, un conseil... Tais-toi ! Adieu, Jeannot !</p>
         </div>
@@ -445,7 +439,7 @@
           <p>À cause de ce mélange d'ombres et de flammes, de cette alternance de ténèbres et de clartés, de ce grouillement fantomatique de démons qui tantôt apparaissaient comme des figures en feu, et tantôt s'éteignaient comme si on avait soufflé dessus, il put se croire descendu dans un coin de l'enfer. D'abord, tout sembla tourner autour de lui. Il percevait peu de détails ; tout cela semblait être les figures, les têtes, les bras, les gestes, les haillons d'une même masse en délire qui s'étirait, se rétrécissait, se rallongeait, s'agitait, commandée par une seule âme damnée ; et de cette masse montait une odeur à laquelle la senteur des cierges et celle des encens et certains autres parfums d'Arabie se mêlèrent pour prendre Petit-Jeannot à la gorge et le faire défaillir.</p>
           <p>Il eut honte de lui-même. N'était-il donc pas un vrai romani ? Déjà il distingue mieux ce qui se passe ; il perçoit des sons tout particuliers au-dessous et au-dessus de la grande litanie énervante composée uniquement avec le nom de Sarah. « Ah ! Sarah ! Ah ! Ah ! Ah ! Sarah ! Sarah ! Sarah ! Sarah ! Ah ! Ah ! Ah ! ahahsarah ! » Ce sont des sons de crânes sur les dalles, des bruits terribles de fronts sur le pavé d'airain... Comment, comment ces fronts n'éclatent-ils pas comme des noix ? Et puis voilà, autour des cierges, des cris plus aigus de femmes pâmées qui écartent les bras comme si on les clouait en croix... Elles tournent, tournent, tournent, les cheveux dénoués, la gorge sifflante, et puis elles s'abattent dans une crise affreuse... Et on les emporte jusqu'au fond ténébreux de la crypte, pendant que d'autres les remplacent et que la litanie continue : « Sarah ! Sarah ! Sarah ! Sarahahah ! Sarah ! Sarah ! »</p>
           <p>Depuis combien de temps cette scène dure-t-elle ? Jeannot pourrait-il le dire ? Non, car il est comme enivré et sa bouche entrouverte chantonne déjà : « Sarah ! Sarah ! Ah ! Ah ! Ah ! » Et même les mouvements de la danse commencent à le faire danser... Autour de l'autel où brûlent les cierges, filles, femmes, estropiés se trémoussent à l'envi les uns et les autres. On se cambre, on se tord, on s'agite en mille façons extravagantes... Et Petit-Jeannot va se tordre lui aussi, quand une main tout à coup le saisit, puis une autre, puis une autre, le tirant par en bas... Il se penche. Qu'est-ce qui l'agrippe ainsi ? Ah ! ce sont les trois bonnes mains amies de ce cher M. Magnus. Et il se laisse conduire.</p>
-          <p>– Viens ! dit M. Magnus. Laissons ces fous. Nous allons nous asseoir à côté des <hi rend="italic">aurari</hi><hi rend="italic" />\{5\}<hi rend="italic" />, des chaudronniers et des <hi rend="italic">lingurari</hi><hi rend="italic" />\{6\}<hi rend="italic" />. Ce sont des gens sérieux qui laissent crier tous les <hi rend="italic">liaessi</hi><hi rend="italic" />\{7\}<hi rend="italic" />. Et tu feras comme moi, et tu ne te laisseras pas émouvoir... Comment as-tu pu passer inaperçu avec ta taille, avec ton petit complet de magasin de nouveautés ?</p>
+          <p>– Viens ! dit M. Magnus. Laissons ces fous. Nous allons nous asseoir à côté des <hi rend="italic">aurari</hi><hi rend="italic"/>\{5\}<hi rend="italic"/>, des chaudronniers et des <hi rend="italic">lingurari</hi><hi rend="italic"/>\{6\}<hi rend="italic"/>. Ce sont des gens sérieux qui laissent crier tous les <hi rend="italic">liaessi</hi><hi rend="italic"/>\{7\}<hi rend="italic"/>. Et tu feras comme moi, et tu ne te laisseras pas émouvoir... Comment as-tu pu passer inaperçu avec ta taille, avec ton petit complet de magasin de nouveautés ?</p>
           <p>– Bah ! fait Petit-Jeannot, je ne me suis point caché.</p>
           <p>Et il exhibe à M. Magnus une montre qu'il a tirée de son gousset.</p>
           <p>– Oh ! tu m'en diras tant ! fait M. Magnus. Mais prends garde ! ces petites affaires-là, ça brûle !</p>
@@ -453,11 +447,11 @@
           <p>– Est-ce qu'on ne va pas bientôt élire le grand-coesre ?</p>
           <p>– Attends un peu, répond le nain. Avant, on va tuer les deux petits enfants.</p>
           <p>– Comment ! on va tuer deux petits enfants ?</p>
-          <p>– Oh ! fait M. Magnus avec une moue méprisante, ce sont deux petits enfants de <hi rend="italic">gadschi</hi><hi rend="italic" />\{8\}<hi rend="italic" />.</p>
+          <p>– Oh ! fait M. Magnus avec une moue méprisante, ce sont deux petits enfants de <hi rend="italic">gadschi</hi><hi rend="italic"/>\{8\}<hi rend="italic"/>.</p>
           <p>– C'est abominable ! Je ne veux pas voir une chose pareille !</p>
           <p>– Chut ! Tu vas te faire écharper. C'est un sacrifice que nous faisons à sainte Sarah pour qu'elle nous donne le <hi rend="italic">Coesre vengeur.</hi></p>
           <p><hi rend="italic">-- </hi>Vrai ? Ce sont deux petits enfants que l'on a volés ? interrogea en tremblant le pusillanime Jeannot.</p>
-          <p>– Non ! On les a achetés à leurs pères et à leurs mères. Oh ! ils sont bien à nous. Nous les avons achetés avec notre argent<hi rend="italic" />\{9\}<hi rend="italic" />. Jamais on n'aurait pu offrir à sainte Sarah un enfant qu'on aurait volé. Je croyais que tu savais cela, Petit-Jeannot. Ces enfants-là, ils sont à nous et bons pour le sacrifice comme Isaac était à Jacob !</p>
+          <p>– Non ! On les a achetés à leurs pères et à leurs mères. Oh ! ils sont bien à nous. Nous les avons achetés avec notre argent<hi rend="italic"/>\{9\}<hi rend="italic"/>. Jamais on n'aurait pu offrir à sainte Sarah un enfant qu'on aurait volé. Je croyais que tu savais cela, Petit-Jeannot. Ces enfants-là, ils sont à nous et bons pour le sacrifice comme Isaac était à Jacob !</p>
           <p>– Monsieur Magnus, je veux m'en aller !</p>
           <p>Ils étaient arrivés dans un des coins les plus profonds de la crypte ; et là, Petit-Jeannot, dont les yeux commençaient à se faire à l'obscurité, distingua un grand nombre d'ombres assises et qui ne remuaient, ni ne parlaient, ni ne chantaient.</p>
           <p>– Tu peux t'asseoir ici, avec nous, Petit-Jeannot. Tu es de la confrérie.</p>
@@ -518,7 +512,7 @@
           <p>Et l'amazone se dresse debout sur ses étriers d'or, les deux soleils noirs de ses yeux lancent des flammes sombres :</p>
           <p>– Tous ici, depuis le premier des <hi rend="italic">aurari </hi>jusqu'au dernier des <hi rend="italic">liaessei, </hi>vous me jurerez fidélité ! Je suis votre Grand-Coesre ! Je suis votre Reine ! Mâles et femelles, vous êtes à moi !</p>
           <p>Ce disant, elle fait claquer au-dessus de sa tête le Fouet sacré, et cette fois, d'une façon si effrayante, que l'écho de la vieille basilique en est déchiré... Et pendant que le fouet claque, elle proclame encore sa tyrannie :</p>
-          <p>– Tous ! Tous ! Tous ! Vous êtes mes <hi rend="italic">vabrassi !</hi><hi rend="italic" />\{10\}<hi rend="italic" /></p>
+          <p>– Tous ! Tous ! Tous ! Vous êtes mes <hi rend="italic">vabrassi !</hi><hi rend="italic"/>\{10\}<hi rend="italic"/></p>
           <p>Tumulte effroyable et puis silence... Alors quatre géants s'avancent. C'est Balthazar le Croate, c'est Routchouk le Valaque, c'est Hedjaz du grand désert de la mer Rouge, et Attila le Dace.</p>
           <p>Attila le Dace prend la parole.</p>
           <p>– Non, dit-il, nous ne sommes point tes <hi rend="italic">vabrassi ! </hi>Et Balthazar le Croate :</p>
@@ -526,7 +520,7 @@
           <p>Hedjaz du grand désert de la mer Rouge :</p>
           <p>– Tu as le fouet également : mais ce sont des attributs que tu as volés à l'aide de quelque sortilège. Il ne sera pas difficile de te les arracher.</p>
           <p>Ce fut Routchouk le Valaque qui prononça la parole la plus grave :</p>
-          <p>– <hi rend="italic">Comment veux-tu avoir des vabrassi ! Tu ne saurais pas les fouetter !</hi><hi rend="italic" />\{11\}<hi rend="italic" /></p>
+          <p>– <hi rend="italic">Comment veux-tu avoir des vabrassi ! Tu ne saurais pas les fouetter !</hi><hi rend="italic"/>\{11\}<hi rend="italic"/></p>
           <p>L'amazone avait croisé les bras sur sa jeune poitrine haletante. Son petit poing crispé tenait toujours le fouet ; les rênes flottaient sur l'encolure du merveilleux cheval blanc qui ne bougeait pas plus qu'un cheval de bronze.</p>
           <p>La foule des bohémiens attendait maintenant, sans manifestations, ce qui allait, ce qui <hi rend="italic">devait </hi>se passer. Tous étaient stupéfaits de l'arrivée de cette radieuse enfant, car ils ne pouvaient se faire à cette idée qu'ils trouveraient en elle un maître. Encore une fois, était-il possible que Sarah eût remis leur sort entre des mains si tendres ? Ce devait être une épreuve. Enfin, on allait voir. Ils attendaient, pour se prononcer, l'issue de la « cérémonie du Fouet » comme on attendait au moyen âge l'issue du duel appelé « jugement de Dieu ».</p>
           <p>Chaque fois qu'on élisait un Grand-Coesre, il y avait des <hi rend="italic">vabrassi </hi>qui se révoltaient, qui voulaient tenter l'épreuve du fouet, et cela n'avait pas d'autre importance que celle qu'il fallait attacher à un rite consacré ; cela faisait partie intrinsèque de la cérémonie au bout de laquelle le Grand Coesre, vainqueur, était acclamé. Mais dans la circonstance on ne présageait rien de bon de la fragilité de l'amazone rouge. Elle pouvait raconter qu'elle apportait « l'Heure Rouge » ; si elle ne savait pas manier le fouet, elle serait traitée comme la dernière des <hi rend="italic">gadschi !</hi></p>
@@ -542,7 +536,7 @@
           <p>Les quatre géants avaient commencé à se débattre en silence sous les coups. Furieux et bondissants, ils essayaient d'éviter la terrible lanière qui sifflait de tous côtés à la fois et les poursuivait partout. Et bientôt ils ne purent plus retenir le cri de leur douleur, le rugissement de leur rage. Le visage et le torse en sang, ils étaient étourdis, aveuglés et leurs bras ne pouvaient rien pour eux que leur éviter de trop cruelles atteintes. Ils n'avaient que le temps de garantir de leurs mains impuissantes, les yeux... les yeux qu'un coup de la mèche sacrée pouvait aller chercher au fond des orbites et cueillir comme des fruits.</p>
           <p>Et maintenant, ils râlaient, ils s'accroupissaient, ils essayaient encore quelques bonds, et puis ils s'affalaient, vaincus par le petit poing de la déesse nouvelle, de la vierge maîtresse, du petit Dieu doré. Et une clameur insensée proclama cette victoire.</p>
           <p>Alors commença la ronde traditionnelle autour du fouet qui continuait de claquer. Des fanatiques, ivres de cris, de chants, de prières et de blasphèmes, se dévêtirent à leur tour et hommes et femmes, la poitrine nue, s'offrirent avec exaltation à tous les coups de lanière, et pendant que la lanière cinglait, cinglait encore, ils tournaient, tournaient encore en psalmodiant comme des derviches, et en « demandant de la douleur » comme les Aïssaouas... Et la litanie reprenait dans tous les coins de la crypte son rythme monotone et lugubre... Sarahahaha ! sarahaahahasarah !...</p>
-          <p>Enfin Giska, qui semblait commander à cette tourbe de damnés, lança un ordre guttural qui arrêta la ronde net. Et Giska dit à la princesse dorée<hi rend="italic" />\{12\}<hi rend="italic" /> :</p>
+          <p>Enfin Giska, qui semblait commander à cette tourbe de damnés, lança un ordre guttural qui arrêta la ronde net. Et Giska dit à la princesse dorée<hi rend="italic"/>\{12\}<hi rend="italic"/> :</p>
           <p>– C'est bien ; tu es le Grand-Coesre annoncé. Tu es la plus forte de tous, et la femme a vaincu le mâle. Ton poignet est petit, mais ton fouet est terrible ; tu es notre reine et nous sommes tes vabrassi ! Tout ici t'appartient : nos personnes, nos biens et nos vies. La chair du sacrifice elle-même est à toi. Prends le poignard toi-même, et que le sang des <hi rend="italic">gadschi </hi>coule sur tes petits doigts dorés !</p>
           <p>Elle fit un signe, et les deux bohémiennes apportèrent les deux petits enfants qui se mirent à crier... Tranquillement la princesse dorée avait noué en sautoir, sur sa poitrine, le fouet sanglant. Aucune fatigue ne se lisait sur son jeune et frais visage. Elle prit les deux enfants qui cessèrent de pleurer, les serra contre son cœur et dit :</p>
           <p>– Ils sont à moi : ils vivront !</p>
@@ -552,13 +546,13 @@
           <p>Le livre fut apporté et déposé sur l'autel de pierre. Alors elle éleva les deux petits enfants au-dessus de l'<hi rend="italic">É</hi>vangile et prêta ce serment :</p>
           <p>– Je jure, dit-elle, sur notre Évangile, que j'enverrai aux enfers plus de <hi rend="italic">gadschi </hi>qu'il y a de gouttes de sang dans les veines de ces deux petites filles.</p>
           <p>Et pour qu'il n'y eût aucun doute sur l'œuvre de vengeance qu'elle promettait, elle prononça le serment solennel dit « du roi Sigismond » :</p>
-          <p>– « Comme le Seigneur a noyé Pharaon dans la mer Rouge, ainsi soit englouti dans les entrailles de la terre le cigain qui, ayant juré sur son Évangile, aura menti à un cigain ! Qu'il soit maudit, et <hi rend="italic">que jamais aucun vol ne lui réussisse !</hi><hi rend="italic" />\{13\}<hi rend="italic" /></p>
+          <p>– « Comme le Seigneur a noyé Pharaon dans la mer Rouge, ainsi soit englouti dans les entrailles de la terre le cigain qui, ayant juré sur son Évangile, aura menti à un cigain ! Qu'il soit maudit, et <hi rend="italic">que jamais aucun vol ne lui réussisse !</hi><hi rend="italic"/>\{13\}<hi rend="italic"/></p>
           <p>Aussitôt que l'amazone eut prononcé ce terrible serment, Giska fit un signe et tout le monde courba la tête. La vieille bohémienne avait ouvert l'Évangile, et lu en chantant.</p>
           <p>– L'Évangile tzigane... murmura Jeannot, en retirant pieusement sa casquette.</p>
           <p>Giska chantait :</p>
           <p>« ... Seuls, les tziganes sont les vrais chrétiens... Seuls, les tziganes sont les fils de Dieu... Jésus l'a dit, en vérité... Il n'a aimé que les gens de la route... Il a dit : « Nourrissez-vous comme les petits oiseaux qui mangent le grain partout où ils le trouvent... »</p>
           <p>... C'est Jésus qui a appris au romanichel à mendier et à marcher pieds nus... Et c'est Saint-Pierre, son disciple bien-aimé, qui a enseigné aux tziganes à trahir leurs semblables... Et le voilà à la porte du Paradis...</p>
-          <p>... Car c'est Jésus qui a institué tous les corps d'état...<hi rend="italic" />\{14\}<hi rend="italic" /> Depuis celui du vol au « rendez-moi » jusqu'à tous ceux de la musique, de la bonne aventure et de la chaudronnerie... Que Jésus, la sainte Vierge et sainte Sarah nous protègent ! »</p>
+          <p>... Car c'est Jésus qui a institué tous les corps d'état...<hi rend="italic"/>\{14\}<hi rend="italic"/> Depuis celui du vol au « rendez-moi » jusqu'à tous ceux de la musique, de la bonne aventure et de la chaudronnerie... Que Jésus, la sainte Vierge et sainte Sarah nous protègent ! »</p>
           <p>Quand Giska eut cessé cette étrange prière, tout le peuple se releva. La jeune amazone alors enveloppa dans les plis de sa robe de flamme les deux petits-enfants, et, divine protectrice, s'enfonça, sur son cheval, au plus noir de la crypte, pendant que des clameurs d'amour l'accompagnaient. Elle se retourna une dernière fois :</p>
           <p>– Qu'on distribue le Pain et le Vin ! ordonna-t-elle.</p>
           <p>La tourbe nomade, épuisée de contorsions, de convulsions et d'invocations, ne songea plus qu'à se faire des forces dans la ripaille. Des tonneaux pleins de provisions, des barils gonflés de vin et d'hydromel roulèrent sous les voûtes... Alors commença une effroyable orgie, comme jamais la crypte des Saintes-Maries-de-la-Mer n'en avait vu. Ce fut un tel sabbat que l'on appela la reine qui avait été élue cette nuit-là : <hi rend="italic">la Reine du Sabbat.</hi></p>
@@ -1277,7 +1271,7 @@
           <p>– Le fameux Jacques Ork ? Ça n'est pas possible !</p>
           <p>– C'est comme je vous le dis, monsieur, le propre beau-père de Jacques Ork. On ne connaissait le fiancé de Marguerite au village que sous ce nom-là : Jacques Ork. Et voici dans quelles circonstances on a connu l'autre nom, le vrai ! Jacques Ork s'absentait assez souvent. Il expliquait à sa fiancée qu'il était obligé de se rendre en Haute-Austrasie pour quelques intérêts qu'il y avait encore et qui lui restaient à régler. Il y avait un mois environ que Jacques Ork était fiancé à Marguerite, et il était justement absent, quand le bruit se répandit en Bavière, et jusque dans le pays de Brisgau, qu'une grande revue militaire allait être passée aux environs de Salzbourg, devant l'empereur François. Depuis longtemps maître Henry avait à cœur de revoir de vieux parents qu'il avait laissés là-bas au pied du Gaisberg. Ce fut pour lui une occasion ; il fut décidé que toute la famille ferait le voyage de Salzbourg et assisterait à la revue.</p>
           <p>« Ainsi arriva-t-il. Or l'empereur souffrant se fit remplacer à cette solennité militaire par un membre de sa famille. Le matin, Marguerite, son père et sa mère étaient des premiers sur le champ de manœuvres et ils admiraient la belle tenue des troupes, quand, très loin d'eux, les trompettes sonnèrent le « garde-à-vous », et les aides de camp se mirent à courir au galop de leurs chevaux. Les promeneurs aperçurent alors, au sommet d'une petite éminence, le chef de ces troupes et son état-major qui parcouraient la ligne à grande allure. Ce chef était, à n'en pas douter, celui qui remplaçait l'empereur, l'archiduc le plus aimé, le plus populaire de toute l'Austrasie, l'archiduc Jacques. Celui-ci en effet passa près des Muller, suivi de son cortège éclatant. Les parents de Marguerite se mirent à trembler des pieds à la tête, et Marguerite elle-même poussa un grand cri et s'évanouit...</p>
-          <p>Tous trois avaient reconnu, dans l'archiduc Jacques, Jacques Ork lui-même ! Or le prince s'était retourné au cri poussé par Marguerite et avait vu sa fiancée. Laissant là son état-major et ses soldats, il se précipita, se pencha sur Marguerite, lui donna les plus doux soins et l'emporta dans ses bras. Le soir-même, il annonça à son entourage que Marguerite, la fille de l'horloger de Büchen, serait la femme de l'archiduc Jacques<hi rend="italic" />\{15\}<hi rend="italic" />. C'est alors qu'il y eut entre l'empereur et l'archiduc une rupture éclatante, et l'Europe tout entière fut au courant de cette querelle de cour. Enfin il y eut la disparition mystérieuse de l'archiduc.</p>
+          <p>Tous trois avaient reconnu, dans l'archiduc Jacques, Jacques Ork lui-même ! Or le prince s'était retourné au cri poussé par Marguerite et avait vu sa fiancée. Laissant là son état-major et ses soldats, il se précipita, se pencha sur Marguerite, lui donna les plus doux soins et l'emporta dans ses bras. Le soir-même, il annonça à son entourage que Marguerite, la fille de l'horloger de Büchen, serait la femme de l'archiduc Jacques<hi rend="italic"/>\{15\}<hi rend="italic"/>. C'est alors qu'il y eut entre l'empereur et l'archiduc une rupture éclatante, et l'Europe tout entière fut au courant de cette querelle de cour. Enfin il y eut la disparition mystérieuse de l'archiduc.</p>
           <p>– Oui ! oui ! interrompit le marchand de parapluies, je crois bien ! Ça a fait une histoire de tous les diables !</p>
           <p>– Oui, une histoire de tous les diables, mais que personne ne connaît bien, voyez-vous, maître Franz Holtzchener, car on a bien parlé d'abord de drame, et même d'assassinat, mais on a laissé dire, et puis chacun, par sécurité, n'a plus voulu rien entendre. Du reste <hi rend="italic">on a été assez malin, en haut lieu, pour n'interroger personne, </hi>et on a laissé tout doucement s'affirmer en Europe la légende que Jacques Ork était tout simplement parti en Amérique avec sa famille...</p>
           <p>– Tout de même, vous, maître Mathias, et vous, maître Martin, reprit Franz Holtzchener, vous devez en savoir plus long que les autres...</p>
@@ -1331,7 +1325,7 @@
           <p>« Était-il possible qu'en quelques minutes il eût changé pareillement ! Lui, tout à l'heure encore si fier et si droit et si vaillant, et même héroïque en face du malheur qui menaçait sa maison ! Que s'était-il donc passé ? Jacques Ork n'avait-il point dit devant nous que Marguerite était innocente ? Mais pourquoi Jacques Ork, qui avait vu l'innocence de sa femme, était-il si <hi rend="italic">rouge, des pieds à la tête ?</hi></p>
           <p>« Jacques Ork suivait... mais on ne savait quelle figure il pouvait avoir sous tout ce sang qui le barbouillait, et l'on n'apercevait bien que ses yeux qui brillaient d'un éclat terrible à travers des larmes que l'on aurait dites glacées.</p>
           <p>Maître Henri vint à nous en trébuchant à chaque pas ; il avait toujours le fusil. Il le remit à maître Martin :</p>
-          <p>« -- Martin ! Tiens mon fusil, mon bon fusil de chasse que je ne peux plus porter, avec lequel j'ai tué dix loups. Ne t'en sépare jamais, ni jour ni nuit. Tiens-le propre ! Récure-le ! Qu'il soit brillant comme un mark tout neuf ! <hi rend="italic">Et toujours prêt pour les loups, car ce n'est pas ce qui manque dans la forêt...</hi><hi rend="italic" />\{16\}<hi rend="italic" /> Tu me le rendras, quand je te le demanderai !</p>
+          <p>« -- Martin ! Tiens mon fusil, mon bon fusil de chasse que je ne peux plus porter, avec lequel j'ai tué dix loups. Ne t'en sépare jamais, ni jour ni nuit. Tiens-le propre ! Récure-le ! Qu'il soit brillant comme un mark tout neuf ! <hi rend="italic">Et toujours prêt pour les loups, car ce n'est pas ce qui manque dans la forêt...</hi><hi rend="italic"/>\{16\}<hi rend="italic"/> Tu me le rendras, quand je te le demanderai !</p>
           <p>« -- Et quand viendras-tu me le demander ? demanda maître Martin.</p>
           <p>« -- Quand il sera <hi rend="italic">deux heures et quart !</hi></p>
           <p>Ici le marchand de parapluies interrompit maître Mathias. Ce M. Franz Holtzchener paraissait du reste fort impatient et ne tenait pas en place sur son tabouret.</p>
@@ -1592,7 +1586,7 @@
           <p>Et elle alla s'asseoir dans un coin du rocher avec ses deux enfants, qu'elle serrait dans ses bras... Et puis, elle s'endormit presque aussitôt... et les petites aussi se rendormirent... mêlant leur innocent sommeil au premier bon sommeil de la Dame de minuit ! La Fée Dorée regardait dormir paisiblement Marie-Sylvie.</p>
           <p>– C'est vous, mon Dieu ! dit-elle, qui m'avez conduite ici. C'est vous qui y avez amené, par je ne sais quel miracle, ces deux enfants qui me doivent la vie, et qui, en échange, peut-être, en lui apportant le calme, vont rendre la raison à ma mère ! Vous êtes donc avec nous, mon Dieu !</p>
           <p>Elle courba la tête et parut s'abîmer dans une longue prière...</p>
-          <milestone unit="section" />
+          <milestone unit="section"/>
           <p>Petit-Jeannot n'avait pas encore fait un mouvement. Quand il entendit sa progéniture gémir dans le petit cercueil, il serra, plein d'effroi, ses deux poupées dans ses bras, comme si ce geste pouvait faire taire les petites des gadschi.</p>
           <p>– Mon Dieu ! pensa-t-il, que va-t-il arriver ?</p>
           <p>Et il arriva ce que nous avons dit : la folle joie de Marie-Sylvie, puis son apaisement, ses pleurs, son heureux sommeil... et la prière de la Fée dorée... Maintenant, Petit-Jeannot voit que l'amazone se retourne et adresse un geste aux deux hommes.</p>
@@ -1621,7 +1615,7 @@
           <p>– Oh ! oh ! fit-il, qu'est-ce cela ? On me laisse respirer !</p>
           <p>Les deux hommes, devant lui, avaient tiré leur casquette et lui adressaient cent compliments que Petit-Jeannot ne perdit point de temps à écouter. Il vit le chemin libre et en deux bonds se trouva hors de la grotte.</p>
           <p>– C'est drôle ! pensait-il... ils m'ont lâché dès qu'ils ont vu ma montre... M. Baptiste avait donc raison quand il me disait de ne point m'en séparer et qu'elle me rendrait un jour de gros services ! Et moi qui avais voulu honnêtement la lui rendre ! Quelle leçon pour l'avenir ! Petit-Jeannot, garde tout et retiens tout !</p>
-          <milestone unit="section" />
+          <milestone unit="section"/>
           <p>Le lendemain, qui était le jour de la foire de Todtnau, Petit-Jeannot se promenait sur la place du marché, attendant M. Magnus qui lui avait donné, là, rendez-vous. Petit-Jeannot était triste, car il avait en vain cherché les deux institutrices et n'avait pu retrouver trace de leur passage... Et ce n'est point la vue de M. Paumgartner, lequel s'avançait glorieusement au milieu des petites baraques, qui aurait pu ramener, sur ses lèvres, le sourire et, dans son cœur, la bonne humeur. M. Paumgartner fut rejoint presque aussitôt par un domestique à la livrée de l'hôtel de l'Aigle.</p>
           <p>– Une dépêche pour vous, monsieur Paumgartner. M. Paumgartner lut la dépêche.</p>
           <p>– Bah ! fit-il tout haut, fort étonné, une dépêche de mon frère ! Comment sait-il que je suis aujourd'hui à Todtnau et descendu à l'« Aigle » ? Et il me mande d'urgence à Vienne ! Qu'est-ce que cela veut dire ?</p>
@@ -2076,7 +2070,7 @@
           <p>Ismaïl s'était relevé et avait déjà gagné la porte secrète qu'il se disposait à refermer avec soin.</p>
           <p>– Laisse ! ordonna François. Le serviteur obéit et disparut.</p>
           <p>– Ah ! gémit François, qui se laissa aller devant le jésuite à un désespoir immense... Toutes les portes de chez moi, qu'on les laisse bien ouvertes ! Qu'il vienne ! Qu'il vienne à moi... Que je le voie ! Que je lui parle ! Ah ! le voir, le jour... l'entendre, le jour ! lui qui vient si souvent me parler la nuit !</p>
-          <milestone unit="section" />
+          <milestone unit="section"/>
           <p>Quelques minutes après la sortie d'Ismaïl du cabinet de l'empereur, un homme qui avait la taille de ce fidèle serviteur et sa démarche, mais qui n'avait pas tout à fait sa figure, car Ismaïl avait le visage entièrement rasé et cet homme portait une barbe fort opulente, sortait de la Hofburg par un étroit souterrain qui donnait sur l'Augustinerstrasse et que fermait une lourde grille. À ce moment -- il pouvait être quatre heures de l'après-midi -- l'Augustinerstrasse est généralement assez fréquentée ; mais dans l'instant où notre homme s'y glissait, on n'y voyait que des patrouilles. Et il fallut plusieurs fois que le mystérieux passant prononçât le mot de passe pour sortir sans encombre du quartier.</p>
           <p>Il parvint ainsi jusqu'au Donau-Kanal, qu'il traversa près de la Rudolf-Kausern ; après quoi il se trouva dans un quartier qui paraissait abandonné aux passions populaires... Là, aucune troupe, aucun agent... Par la Rembrantstrasse, il atteignit les abords de l'Augarten en coudoyant les figures les plus étranges, les groupes les plus suspects. Tous les vices, toutes les ignominies s'étaient donné là rendez-vous entre l'Augarten et le Prater, et une barricade s'élevait au milieu même de cette voie magnifique qui les relie tous deux à la Kaiser Josephstrasse... Cette barricade avait été élevée le matin même par les étudiants et les bourgeois, mais bourgeois et étudiants s'étaient enfuis devant leurs auxiliaires inattendus. Ainsi, le Prater était mis au pillage ; une cinquantaine de brutes, qui semblaient obéir à un mot d'ordre et que rien ne venait déranger dans leur lugubre besogne, avaient arraché les planches des petites boutiques qui bordaient certaines allées, déraciné des arbres, jeté le tout à travers la chaussée, après quoi, ils avaient versé sur ce bûcher du pétrole et y avaient mis le feu. Une fumée sinistre s'élevait au-dessus des plus hautes maisons en menaçants tourbillons.</p>
           <p>Ce triste spectacle ne semblait point fait pour émouvoir notre homme qui lui tourna rapidement le dos, remontant vers des quartiers plus tranquilles et plus déserts... L'homme arriva ainsi dans un coin fort retiré au long des bords mêmes du Danube. Il se trouvait maintenant dans la Kaiser-Wasserstrasse, la <hi rend="italic">rue de l'Eau de l'Empereur.</hi></p>
@@ -2478,7 +2472,7 @@
           <p>– Il m'a dit, fit doucement Stella, qu'il avait fait un serment qui, tant qu'il ne serait point accompli, lui défendait le mariage...</p>
           <p>– Vous voyez bien alors que je ne puis vous bénir selon la mode de la « Porte-de-Fer », repartit Myrrha, dont le sein se soulevait sous le coup d'une émotion extraordinaire, <hi rend="italic">car il se peut qu'il meure sans avoir accompli son serment.</hi></p>
           <p><hi rend="italic">-- Alors je mourrai vierge ! </hi>ma sœur, mais nous aurons été l'un à l'autre dans la mort. Bénissez-moi donc à la mode de la « Porte-de-Fer » !</p>
-          <p>Myrrha se recueillit et prononça les paroles que le jude<hi rend="italic" />\{17\}<hi rend="italic" /> fait entendre sur le front de l'épouse le jour des noces :</p>
+          <p>Myrrha se recueillit et prononça les paroles que le jude<hi rend="italic"/>\{17\}<hi rend="italic"/> fait entendre sur le front de l'épouse le jour des noces :</p>
           <p>– « <hi rend="italic">Frileuse fille d'Égypte qui n'est vêtue que de cordes, fais-t'en des ceintures que ton époux dénouera, et tu auras chaud ! »</hi></p>
           <p>Quand Rynaldo releva Stella, il était aussi tremblant que Stella était calme, car désormais ce trésor lui appartenait, mais il ne pouvait oublier qu'il avait fait serment de n'y point toucher.</p>
           <p>– Ma sœur, dit Stella, en s'asseyant auprès de l'aveugle, Rynaldo m'a souvent parlé de vous et je vous aimais avant de vous connaître. Quand il m'a dit votre malheur, je n'ai pu retenir mes larmes. Comment donc une aussi terrible catastrophe qui vous a privée, si belle et si jeune, de la lumière du jour, a-t-elle pu vous frapper ?</p>
@@ -2490,7 +2484,7 @@
           <p>– Ce que tu ne dis pas, ce que je ne dirai jamais assez, Myrrha, c'est que ton désespoir fut dépassé par ton amour pour moi ! Oh ! cette semaine maudite, à Trieste, où tu apparus dans le cirque, les <hi rend="italic">yeux morts !</hi></p>
           <p>– Comment, vous avez continué les exercices du cirque étant aveugle !</p>
           <p>– Mon frère Rynaldo, répondit simplement Myrrha, était bien jeune, et il nous fallait de l'or pour vivre.</p>
-          <p>– Mais on ne s'apercevait donc de rien ?<hi rend="italic" />\{18\}<hi rend="italic" /> </p>
+          <p>– Mais on ne s'apercevait donc de rien ?<hi rend="italic"/>\{18\}<hi rend="italic"/> </p>
           <p>Alors la voix vibrante de Rynaldo se fit entendre :</p>
           <p>– On ne s'est aperçu de ses yeux morts que le jour où Darius a bondi dans le public et marqué de son sabot d'or la face infâme...</p>
           <p>– Rynaldo ! -- Myrrha s'était dressée, haletante : -- Tais-toi ! Tais-toi... Tais-toi !</p>
@@ -2581,7 +2575,7 @@
           <p>Stella lança un regard sombre à ces hommes qui n'avaient pas su garder leur foi à la fédération, et qui s'étaient laissé honteusement entraîner dans la politique de Brixen. Elle avait résolu de les perdre et de jeter leurs cadavres en travers de toute la diplomatie du premier ministre de l'empire. D'une voix vibrante, elle répondit à la question du conjuré :</p>
           <p>– Je suis <hi rend="italic">l'Heure Rouge !</hi></p>
           <p>Aussitôt, écartant les plis de son manteau, Stella apparut dans son costume éclatant : tunique écarlate à brandebourgs, <hi rend="italic">grand fouet en sautoir, </hi>bottes jaunes, et tous les attributs du Grand Coesre. Le kandjar luisant et les pistolets richement damasquinés étaient passés dans la ceinture. Il n'y eût qu'un cri : -- La Reine du Sabbat !</p>
-          <p>– Oui ! Croates, Slaves, Magyars, Tchèques, Bosniaques, Italiens, et ceux de Dalmatie ! C'est moi, la <hi rend="italic">Reine du Sabbat, </hi>qui vous a été annoncée... moi, moi, votre amie et votre alliée, l'héritière de Réginald, qui vient vous dire : « L'heure est venue de marcher derrière le ban. »<hi rend="italic" />\{19\}<hi rend="italic" /></p>
+          <p>– Oui ! Croates, Slaves, Magyars, Tchèques, Bosniaques, Italiens, et ceux de Dalmatie ! C'est moi, la <hi rend="italic">Reine du Sabbat, </hi>qui vous a été annoncée... moi, moi, votre amie et votre alliée, l'héritière de Réginald, qui vient vous dire : « L'heure est venue de marcher derrière le ban. »<hi rend="italic"/>\{19\}<hi rend="italic"/></p>
           <p>– <hi rend="italic">Le ban est mort ! </hi>fit une voix sourde, à moins que Réginald ne soit ressuscité !</p>
           <p>Tous répétèrent en courbant la tête :</p>
           <p>– Le <hi rend="italic">ban </hi>est mort !</p>
@@ -4172,7 +4166,7 @@
           <p>– Bien, monsieur Sans-Nom.</p>
           <p>– Vous direz que je vous ai apporté l'ordre au nom du « maître de l'heure ». Allez !</p>
           <p>Les deux ombres se séparèrent, et M. Sans-Nom rentra dans son bosquet, d'où il avait pu voir et même entendre tout ce qui se passait dans la cabane rustique où était enfermée cette pauvre Mlle Berthe.</p>
-          <milestone unit="section" />
+          <milestone unit="section"/>
           <p>Le père Rossi et les deux autres, précédés toujours de Franz Holtzchener et de sa lanterne, étaient arrivés devant le couvent des séraphins.</p>
           <p>Ce couvent était le résultat du génie policier de Franz Holtzchener. Un jour que celui-ci errait aux environs de Zelle, veillant vaguement sur la sécurité de son souverain qui était en villégiature au Joli-Colombier, il avait rencontré, assis sur les ruines d'un couvent de minimes, un pauvre moine sur la figure duquel il avait lu tous les vices et toutes les misères. Le moine, qui avait nom Basile, lui confessa qu'il avait été chassé de son ordre, qui était celui des capucins, parce qu'on l'avait découvert gourmand, paillard, orgueilleux. Il avait subi toutes les corrections, mais rien n'avait pu l'améliorer, et on l'avait chassé. Il avait essayé quelques métiers ; mais il n'avait réussi dans aucun. Il rêvait d'être à la tête d'un couvent où l'on saurait vivre.</p>
           <p>« -- Ah ! mon frère, disait-il à Franz Holtzchener, il ne s'agit que de déployer un peu d'intelligence dans une aussi admirable place. Un père directeur ne doit manquer de rien, car les dévotes s'intéressent très fort à lui. A-t-il une petite toux ? Se plaint-il un peu de l'estomac ou de la poitrine ? Aussitôt on envoie les bouillons gras ou maigres, des confitures, des biscuits, des bouteilles de vin. Une dévote a-t-elle quelque secret à dévoiler ? C'est toujours à son directeur qu'elle s'adresse. Enfin, s'il a quelque penchant à la galanterie, il sait bien où s'adresser.</p>
@@ -4405,7 +4399,7 @@
           <p>La Reine du Sabbat avait entraîné si rapidement avec elle son Petit-Jeannot que celui-ci avait eu à peine le temps de remercier sa bienfaitrice et d'embrasser sa fiancée. Berthe et le nain avaient été laissés du même coup sur la route.</p>
           <p>– Retourne avec cette jeune fille à la grotte ! avait crié en manière d'adieu la Reine du Sabbat à M. Magnus, et dis bien à Mathias et à maître Martin que l'on fasse le mort jusqu'à mon retour !</p>
           <p>Et elle avait éperonné Darius, dévorateur d'espace, jusqu'au chemin de fer qui devait emporter la petite jumelle de Carinthie et Jeannot vers la <hi rend="italic">chambre des horloges.</hi></p>
-          <milestone unit="section" />
+          <milestone unit="section"/>
           <p>Dans les sous-sols du vieux palais Cardinal, ils ont gravi un petit escalier... Il y a là une porte close.</p>
           <p>– C'est là ! fait le jeune homme à voix basse.</p>
           <p>Il se penche contre la porte pour écouter... Régina fait de même... ils redressent la tête tous deux...</p>
@@ -4454,7 +4448,7 @@
           <p>– Vas-tu te taire ! fit-elle.</p>
           <p>Et elle l'expédia derrière la porte avec ordre de l'attendre là, cependant qu'elle, ayant refermé la porte, attendait derrière la palissade. Elle avait eu le soin, dès la première alerte donnée par Jeannot, de mettre son tabouret en place et d'éteindre les cierges. Et elle attendit ce qui allait se passer. Soudain elle reconnut la voix de M. Baptiste, en même temps que la lueur d'une petite lanterne portative parvenait jusqu'à elle. Non, M. Baptiste n'était pas seul, il semblait guider quelqu'un dans l'ombre et il disait :</p>
           <p>– Par ici ! par ici... madame !</p>
-          <milestone unit="section" />
+          <milestone unit="section"/>
           <p>Quelques minutes avant l'arrivée de Régina et de Petit-Jeannot, dans la chambre des horloges, M. Baptiste était penché sur son ouvrage. La porte du petit magasin avait été tout à coup poussée. Au bruit du timbre, M. Baptiste avait levé doucement la tête. Il regardait... tranquillement, il regardait... C'était une cliente... « une dame très bien ! tout en noir... » une dame en deuil, certainement...</p>
           <p>Elle a refermé la porte... M. Baptiste se lève, va, toujours fort paisiblement, chercher un siège -- l'unique chaise de la pièce -- et le montrant à la visiteuse :</p>
           <p>– Votre Majesté daigne-t-elle s'asseoir chez un pauvre horloger ? dit-il en s'inclinant avec respect.</p>
@@ -4649,7 +4643,7 @@
           <p>– Vous voyez bien, monseigneur que ceci n'est pas un chemin ! Si vous vous y obstinez, nous allons tous nous y rompre le cou, car je vous avertis, monseigneur, que nous exécuterons notre consigne jusqu'au bout et que nous ne vous quitterons point.</p>
           <p>– Eh bien, messieurs, en ce cas, suivez-moi.</p>
           <p>Rynaldo ne dit plus un mot. Il s'était élancé avec l'agilité d'un singe. Il grimpait cette falaise à pic, entre les rocs de laquelle, de temps en temps, un sapin lui tendait l'aide de ses rameaux ou de ses racines. Si bien qu'ils se fussent habitués, au temps de leur jeunesse, à ce genre d'exercice, maître Mathias et le père Martin ne purent suivre longtemps le jeune homme. Leurs vieilles jambes refusèrent bientôt un service aussi ardent, et ils s'arrêtèrent avec un gémissement de désespoir en entendant Rynaldo qui, arrivé au sommet du pic, jetait un cri de triomphe avant de disparaître.</p>
-          <milestone unit="section" />
+          <milestone unit="section"/>
           <p>Le troisième coup de la messe venait de sonner. Le clergé, à la tête duquel s'était placé Mgr l'archevêque cardinal de Vienne, se tenait sur le seuil de la chapelle, attendant le blanc cortège des deux jeunes mariées et de leurs filles d'honneur. L'empereur, le roi Léopold-Ferdinand, les princes et les princesses se trouvaient réunis dans l'antique salle des gardes, attendant le moment de suivre les deux jeunes filles qui se montraient rayonnantes, sous la blancheur éblouissante de leurs voiles.</p>
           <p>Jusqu'à cette minute, une sorte de gêne que nul ne s'avouait avait plané sur cette réunion auguste des derniers membres de la famille impériale. Mais à cette minute, voilà que l'amour vainqueur et tout-puissant, qui allait donner à Ethel et à Karl ces deux joyaux, les plus beaux joyaux de la couronne d'Austrasie, Régina et Tania, les adorables jumelles de Carinthie... voilà que l'amour chasse tous les nuages, rassure tous les cœurs... Les cloches de l'hyménée sonnent à toute volée. Radieuse, triomphante, Régina donne le signal du départ du cortège.</p>
           <p>L'empereur a voulu conduire lui-même ses nièces à l'autel, et il a pris la main de chacune d'elles. Donc s'avancent l'empereur, Régina, Tania, puis Léopold-Ferdinand, Ethel et Karl le Rouge... puis les rares princes et princesses qui ont le droit, qui ont le devoir de se trouver là. Le cortège est à deux pas de la chapelle. La princesse Régina a déjà posé son pied mignon, chaussé de satin blanc, sur la première pierre du temple où l'homme de Dieu va l'unir pour la vie à celui qu'elle a préféré à tous, au duc de Bramberg, dit Karl le Rouge... quand soudain, quelque chose qui ressemble à un tourbillon, à un cyclone, court, arrive, gronde, se précipite, suivie, poursuivie par les clameurs et la course éperdue des gardes... Mais rien n'arrête cette chose... Cette chose bouscule, renverse, passe par-dessus tout... et cette chose bondit au milieu du cortège et s'arrête enfin sur le seuil de la chapelle, devant Régina et l'empereur et Tania, épouvantés, qui reculent.</p>
@@ -5026,7 +5020,7 @@
           <p>– Monsieur Magnus ! s'écria Rynaldo.</p>
           <p>– Tais-toi et regarde ! fit Régina. On distingue maintenant.</p>
           <p>– Oh ! soupira Rynaldo dans un gémissement qui passait par toutes les gammes de l'étonnement et de l'horreur.</p>
-          <milestone unit="section" />
+          <milestone unit="section"/>
           <p>Nous avons laissé Léopold-Ferdinand suspendu au-dessus de l'abîme. Bientôt le mouvement de glissement dans le vide s'accentua. La corde à laquelle il était attaché le descendait rapidement au fond du précipice. Là un homme se tenait prêt à le recevoir. Le roi reconnut le père de Marguerite Müller qui le regardait sous la lune, d'un air si furieusement féroce qu'il crut sa dernière minute venue. Il se demanda quel supplice lui était réservé.</p>
           <p>Cependant le petit vieux, qui n'avait pas lâché son fusil, s'était mis à côté du corps ficelé de Léopold-Ferdinand sans prononcer une parole. Du haut des rochers, on avait jeté la corde, et tranquillement, son fusil entre les jambes, maître Henri enroulait cette corde autour de son bras. Cinq minutes se passèrent ainsi. Sur ces entrefaites, les deux autres petits vieux de la Forêt apparurent. Ils étaient venus jusque-là par des chemins ignorés des chèvres mêmes et qu'eux seuls connaissaient. Et ils s'assirent à côté de maître Henri. Maître Mathias fit craquer une allumette et regarda l'heure à sa montre.</p>
           <p>– Oh ! nous avons le temps ! dit-il.</p>
@@ -5427,14 +5421,14 @@
           <p>– Et l'empereur ? interroge le moine...</p>
           <p>– Je jure sur cette morte que sa dernière prière sera exaucée. L'empereur vivra et ceux qu'il aime vivront. Allez ! Arrêtez-vous à Constance. C'est là que François vous rejoindra.</p>
           <p>Jacques, penché au-dessus des créneaux de la tour Cage-de-Fer, vit le moine prendre le corps de sa mère dans ses bras et monter avec elle dans la voiture... On entendit le roulement d'une voiture, puis la Forêt-Noire retomba à son silence nocturne... Un quart d'heure plus tard, une autre voiture passait au carrefour d'Enfer... C'était l'empereur qui emportait avec lui les corps toujours endormis de sa maîtresse et de son enfant, et qui revenait à la vie au contact de ces chairs tant aimées...</p>
-          <milestone unit="section" />
+          <milestone unit="section"/>
           <p>À cette même heure exactement, maître Henri Müller, à l'affût derrière une haie du parc de la tour Cage-de-Fer, attendait l'empereur. Jacques Ork l'avait placé en lui disant :</p>
           <p>– Maître Henri, vous savez que la chasse aux loups est ouverte depuis longtemps ; mais je vous ai promis un coup de maître... Rappelez-vous ce jour que je vous ai dit à Büchen, en vous apprenant la mort de Marguerite, du petit Albert et de la petite Gisèle : « C'est moi qui les ai tués. Voici votre fusil. Tuez-moi, à moins que vous ne préfériez tuer l'empereur, à cause de qui je les ai tués. » Et vous m'avez répondu : « J'aime mieux tuer l'empereur. » Mais je vous ai dit : « Ça peut être long. » Vous m'avez répondu : « J'attendrai. » Eh bien, maître Henri Müller, le jour est arrivé. Prenez votre fusil et mettez-vous là, et n'en bougez pas... Vous allez le voir arriver tout à l'heure... Il viendra comme ça, tout doucement, le long de la haie... Vous ne pouvez pas le rater. Vous lui lâcherez votre coup de fusil dans l'oreille ! »</p>
           <p>Maître Henri Müller est donc là, à l'affût, avec son fusil. Le canon du fusil est appuyé sur la haie, à hauteur de tête. Ah ! que l'empereur vienne, et maître Henri Müller n'a qu'à appuyer sur la gâchette ! Justement, le voilà, l'empereur, le voilà qui arrive tout doucement... Certainement, il ne se doute de rien. Encore quelques pas ! Deux pas ! Là, ça y est ! Le coup part, un coup éclatant. Certes le chasseur a une charge double... Et l'autre a basculé... Oh ! cela n'a pas été long ! Il s'est étalé par terre... les bras en croix.</p>
           <p>Maître Henri a bondi sur le chemin, et de l'autre côté de la haie deux ombres sont accourues... Voilà trois hommes penchés sur un corps qui sursaute des derniers spasmes de l'agonie dans la grande capote de l'empereur... Le coup de fusil a fait sauter la coiffe assez loin de là... Eh ! mais ! Ils se relèvent, les trois hommes, en poussant un seul cri :</p>
           <p>– Ce n'est pas l'empereur !</p>
           <p>– Non ! ça n'est pas l'empereur... c'est Jacques Ork ! gémit la voix qui agonise. Maître Henri Müller, il faut me pardonner, car tout de même j'ai tenu parole. Je vous avais dit : <hi rend="italic">l'empereur ou moi ! Eh bien, c'est moi ! </hi>Approchez, maître Henri Müller et maître Mathias, et vous aussi, maître Martin... et recueillez ma dernière volonté... Vous allez aller me déposer là-haut... tout là-haut... sur la plate-forme de la tour... Je veux mourir en regardant les étoiles... en plein ciel... une dernière fois... Et puis, laissant mon corps, vous fuirez... vous fuirez bien vite... cette demeure maudite... que j'ai condamnée... comme tout ce qu'elle contient... aux flammes... Le feu... le feu purifie tout... Adieu ! À... Adieu ! Marguerite, Albert, Gisèle. Priez pour moi !</p>
-          <milestone unit="section" />
+          <milestone unit="section"/>
           <p>Il pouvait être quatre heures du matin, cette nuit-là, quand soudain les petites églises de tous les villages se mirent à sonner le tocsin sur les pentes du Val-d'Enfer. La tour Cage-de-Fer brûlait. Et elle brûla si vite et si bien qu'il fut impossible de lui porter secours. Elle brûlait comme une prodigieuse torche. On la voyait surtout bien brûler de la place de l'église de Biichen, où toute la population accourait, affolée et curieuse. En un moment, certains s'écrièrent : « Regardez ! Regardez ! tout en haut de la tour... Il y a des ombres qui tournent... qui tournent avec des fusils... Ils courent en tournant avec des fusils sur l'épaule ! »</p>
           <p>Plus tard, il y eut des compagnons à Büchen qui prétendirent qu'ils avaient vu griller là-haut les <hi rend="italic">trois petits vieux de la Forêt-Noire, </hi>et on les crut d'autant plus qu'on ne les revit jamais, les trois petits vieux, et que les <hi rend="italic">trois petits chalets abandonnés </hi>ont refermé leurs portes pour toujours.</p>
         </div>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA05602" xml:lang="fr">
   <teiHeader>
@@ -24,38 +24,31 @@
         <measure unit="vols">2</measure>
       </extent>
       <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2020-11-14" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
+</publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <publisher>Project Gutenberg</publisher>
           <ref target="http://www.gutenberg.org/ebooks/50997">http ://www.gutenberg.org/ebooks/50997</ref>
           <respStmt>
             <resp> Produced by</resp>
             <name>Giovanni Fini, Clarity and the Online Distributed Proofreading Team at http://www.pgdp.net</name>
           </respStmt>
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <author>Lesueur, Daniel </author>
           <title>Le marquis de Valcor</title>
           <date>1904</date>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <date>1904</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
       <!--  <p>NOTES SUR LA TRANSCRIPTION :</p>
       <p>— Les erreurs clairement introduites par le typographe ont été corrigées.</p>
       <p>— On a conservé l'orthographie de l'original, incluant ses variantes.</p>
@@ -71,14 +64,15 @@
         </keywords>
       </textClass>
       <textDesc>
-        <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="F" />
-        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long" />
-        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low" />
+        <e:authorGender xmlns:e="http://distantreading.net/eltec/ns" key="F"/>
+        <e:size xmlns:e="http://distantreading.net/eltec/ns" key="long"/>
+        <e:reprintCount xmlns:e="http://distantreading.net/eltec/ns" key="low"/>
         <!-- Reprints 1970-2009: None. After 2009: 2017 (Forgotten Books).  -->
-        <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4" />
+        <e:timeSlot xmlns:e="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-04-11">entête auto-généré: à compléter </change>

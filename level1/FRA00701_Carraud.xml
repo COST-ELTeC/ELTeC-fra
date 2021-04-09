@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA00701" xml:lang="fr">
   <teiHeader>
@@ -30,44 +30,37 @@
         <measure unit="words">53860</measure>
       </extent>
       <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2020-11-14" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="printSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
+</publicationStmt>
+      <sourceDesc><bibl type="printSource">
           <title> La petite Jeanne ou Le devoir. Livre de lecture courante spécialement destiné aux écoles primaires de filles. Nouvelle Édition </title>
           <author>MME Z. Carraud</author>
           <pubPlace>Paris</pubPlace>
           <publisher>Hachette</publisher>
           <date>1884</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k64363w" />
-        </bibl>
-        <bibl type="digitalSource">
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k64363w"/>
+        </bibl><bibl type="digitalSource">
           <title>La petite Jeanne ; ou, Le devoir</title>
           <author>Zulma Carraud</author>
           <publisher>Project Gutenberg</publisher>
           <date>2006</date>
-          <ref target="http://www.gutenberg.org/ebooks/18715" />
-        </bibl>
-        <bibl type="firstEdition">
+          <ref target="http://www.gutenberg.org/ebooks/18715"/>
+        </bibl><bibl type="firstEdition">
           <!-- best guess -->
           <title>La petite Jeanne ou Le devoir</title>
           <author>Zulma Carraud</author>
           <pubPlace>Paris</pubPlace>
           <date>1852</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -79,13 +72,14 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
@@ -134,7 +128,7 @@
           <p>Pour que la terre rapporte chaque année sans se reposer, il faut beaucoup de fumier ; la mère Nannette, qui le savait bien, avait une vache et une chèvre qu'elle menait paître sur les communaux et le long des haies. Avec leur lait elle faisait du beurre et des fromages, qu'elle vendait à la ville voisine. Quand ses bêtes étaient rentrées à l'étable, elle allait chercher pour elles de l'herbe dans les champs et au bord des ruisseaux. Comme elle les tenait bien proprement, elles étaient en bon état. L'hiver, elles mangeaient ou du trèfle qui avait été rentré bien sec, ou du regain récolté après la fauche des grands foins. </p>
           <p>La mère Nannette vendait son vin et ne buvait que sa boisson <ref target="#FRA00701N01">[1]</ref> ; mais, comme l'argent qu'elle tirait de son vin suffisait bien juste, avec celui de son beurre et de ses fromages, à payer l'impôt et les façons de son champ et de sa vigne, et qu'il lui fallait encore se procurer quelque argent pour son entretien, elle élevait des oisons qu'elle achetait au sortir de la coque. Elle se donnait beaucoup de mal pour appâter ces petites bêtes et pour les garantir du froid pendant la nuit. Ses voisines plumaient leurs oies quatre fois avant de les vendre ; mais la mère Nannette disait que c'était une mauvaise méthode, parce qu'ainsi la plume n'avait pas le temps de se nourrir, et elle ne plumait les siennes que trois fois ; puis elle en vendait la moitié pour la Toussaint et l'autre moitié à Noël. </p>
           <!-- a picture in the original has been omitted. [Illustration : Chaumière de la mère Nannette] -->
-          <gap rend="graphic" />
+          <gap rend="graphic"/>
           <p>Tout cela ne lui rapportait pas une grosse somme ; mais elle était si ménagère qu'il lui restait toujours un peu d'argent à la fin de l'année. </p>
           <p>Pourtant elle ne se nourrissait pas trop mal, disant qu'elle aimait mieux donner au boucher une pièce de cinquante centimes toutes les semaines, que vingt-cinq francs par an au médecin et au pharmacien. </p>
         </div>
@@ -145,7 +139,7 @@
           <p>« Mon Dieu ! il faut qu'il vous soit arrivé un bien grand malheur, pour qu'une femme, aussi jeune que vous, ait pu se décider à demander son pain ! </p>
           <p>— Oh ! oui, un bien grand malheur, ma chère femme. Il faut se trouver dépourvue de toute ressource pour se résoudre à en venir là. J'ai bien souffert de la faim avant de pouvoir me décider à tendre la main ; je crois que je me serais plutôt laissé mourir, si je n'avais la crainte de Dieu et si je n'aimais tant cette pauvre innocente que voilà, et qui serait morte aussi. Quand il m'en coûte trop pour aller demander, je la regarde et je reprends courage. C'est bien triste, allez, ma chère femme, quand on a du cœur, de vivre en ne faisant rien, aux dépens de ceux qui travaillent ! mais je ne peux pas faire autrement. </p>
           <!-- a picture in the original has been omitted. Illustration : Catherine et Jeanne. -->
-          <gap rend="graphic" />
+          <gap rend="graphic"/>
           <p>— Pourquoi donc ? dit la mère Nannette. Contez-moi ça.»</p>
           <p>La pauvre femme dit à la mère Nannette :</p>
           <p>« Je suis du village qui est auprès du Cher, à trois lieues d'ici. Il y a deux mois, j'ai perdu mon mari à la suite d'une grosse maladie qui l'a retenu au lit pendant bien longtemps. J'ai vendu tout ce que j'avais afin de pouvoir le soigner. Quand il n'y a plus rien eu à la maison que le lit sur lequel il était couché, il a bien fallu s'endetter. Après sa mort, on a vendu la maison, le jardin, la chènevière, enfin tout, pour payer le médecin et les autres, et je ne sais plus où me retirer. On ne veut pas me louer, même une petite chambre, parce que je n'ai pas de mobilier pour répondre du loyer. Je couche avec ma petite Jeanne dans les granges, quand on veut bien m'y souffrir, ou bien sur les tas de chaume. C'est bon à présent qu'il fait chaud ; mais plus tard, comment faire avec cette enfant, moi à qui les médecins ont défendu de sortir pendant tout l'hiver ?» </p>
@@ -265,7 +259,7 @@
           <head>Retour de Catherine.</head>
           <p>Vers midi, l'on vit venir maître Guillaume dans une charrette attelée d'un bel âne brun. Il s'arrêta devant la porte de la mère Nannette, et fit descendre Catherine, qui fut bien contente de revoir sa petite Jeanne qu'elle n'avait jamais quittée auparavant. Elle détela l'âne ; la mère Nannette le prit par le licou pour l'attacher dans l'étable à côté de sa vache ; puis elle remplit le râtelier de bon trèfle, et revint aider Guillaume à descendre le coffre et le lit de Catherine. Ce lit avait des rideaux de toile rayée et une paillasse que Guillaume avait remplie de paille fraîche, en souvenir de son amitié pour son parent, l'homme défunt de Catherine. Il y avait aussi une petite chaise. On monta le ciel du lit dans un coin de la chambre, qui était fort grande ; on mit le châlit dessous et le coffre au pied du lit. </p>
           <!-- a picture in the original has been omitted. Illustration : Jeanne récite ses prières.-->
-          <gap rend="graphics" />
+          <gap rend="graphics"/>
           <p>« A présent que tout est en place, vous allez goûter avec nous, maître Guillaume, dit la mère Nannette. J'ai fait une bonne fricassée de pommes de terre nouvelles que j'ai accommodées avec mon beurre tout frais ; j'ai aussi cueilli une salade dans mon jardin, et nous l'assaisonnerons avec l'huile de mon noyer. Mon pain n'a que quatre jours, et mes pruniers, sans les vanter, donnent d'excellentes prunes.» </p>
           <p>En disant cela, elle alla au cellier avec la petite Jeanne, et en rapporta du vin bien rouge, qui écumait tout autour de la gueule du broc. </p>
           <p>« Voyez-vous, maître Guillaume, dit-elle en posant le vase sur la table, j'ai toujours un quartaut de bon vin en perce. Si quelque voisin reçoit un mauvais coup, je lui en porte un peu ; quand un malade en convalescence n'a pas de vin pour se refaire, je lui en donne aussi longtemps qu'il en a besoin ; et tous les dimanches j'en donne aussi une chopine au père Bonnet, le vieux pauvre du bourg : ça le réchauffe, le cher homme, qui aura quatre-vingts ans à Noël prochain. Pour moi, je n'en bois guère que lorsque j'ai du monde, comme aujourd'hui.» </p>
@@ -573,7 +567,7 @@
           <p>— Non vraiment, monsieur le maire, j'en aurais été bien fâchée ! Si la pauvre femme s'était crue en danger, cette idée l'aurait peut-être fait mourir plus tôt. Elle n'a pas eu un seul instant la pensée que tout serait bientôt fini pour elle, et pour tout l'or du monde je ne le lui aurais pas dit. D'ailleurs, je suis jeune et je peux travailler : il est juste que son neveu hérite ; il faudra l'avertir. </p>
           <p>— Je vais lui envoyer un exprès,» dit le maire. Et il sortit.</p>
           <!-- a picture in the original has been omitted. Jeanne se mit à genoux -->
-          <gap rend="graphic" />
+          <gap rend="graphic"/>
           <p>Jeanne se mit à genoux au pied du lit et lut les prières des morts ; de temps en temps elle se levait pour embrasser la défunte, puis elle continuait ses prières en pleurant. Elle fit la veillée du corps en compagnie des deux bonnes voisines qui ne voulurent pas la quitter. </p>
         </div>
         <div type="chapter">
@@ -834,7 +828,7 @@
           <p>— Eh bien, vous a-t-on dit la vérité ? Avez-vous gagné plus qu'en vendant de bons livres ? </p>
           <p>— Mon Dieu non : je ne suis pas assez hardi pour faire ce métier-là; j'ai toujours peur d'être pris, et je ne vends presque rien. </p>
           <!-- a picture in the original has been omitted Mais... il se mit à ses genoux.-->
-          <gap rend="graphic" />
+          <gap rend="graphic"/>
           <p>— Je suis sûr que c'est précisément pour cela que vous êtes sorti si vite dimanche, quand tous les gens de la maison revenaient des vêpres. </p>
           <p>— Oui, monsieur, parce que j'avais vu le garde champêtre avec eux.</p>
           <p>— Voyez un peu ! votre détestable commerce a failli vous coûter la vie.</p>
@@ -981,7 +975,7 @@
           <p>Estimez vous-même le dommage que vous ont fait mes moutons, et je vous le payerai aussitôt que je serai rentrée à la maison. </p>
           <p>— Du tout, petite, du tout ; je veux que le père Tixier ait sa condamnation tout comme un autre, pour lui apprendre à avoir un peu plus d'indulgence pour les pauvres gens qui sont pris sur ses terres. Je vais aller en ville tout exprès. Tu vois que j'ai deux bons témoins.» </p>
           <!-- a picture in the original has been omitted. Jeanne est menacée-->
-          <gap rend="graphic" />
+          <gap rend="graphic"/>
         </div>
         <div type="chapter">
 
@@ -1589,7 +1583,7 @@
           <p>— C'est que tu as un beau jardin en avant ; on ne voit ni fumier ni immondices devant ta porte. Et avec quoi comptes-tu donc fumer tes champs ? </p>
           <p>— Je peux bien avoir de quoi fumer mes champs sans mettre mon fumier sous mes fenêtres, pour empester ma maison et rendre mes enfants malades. N'ai-je pas ma cour, où est l'étable ? </p>
           <!-- a picture in the original has been omitted.Illustration : Jeanne et ses deux enfants. -->
-          <gap rend="graphic" />
+          <gap rend="graphic"/>
           <p>— Mais si tu ne mets pas de la paille pourrir devant ta porte, le peu de bétail que tu as ne pourra suffire à fumer tes champs. </p>
           <p>— Vous croyez donc que cette paille que vous mettez pourrir devant vos portes fait un bon engrais ? Vous vous trompez fort : c'est bon pour vous donner la fièvre ainsi qu'à vos enfants, et voilà tout. </p>
           <p>— Comment fais-tu donc, toi ?</p>
@@ -2237,7 +2231,7 @@
           <p>— Ne me plaignez pas, ma mère ; c'est à cette misère que j'ai dû de comprendre tout ce que vous avez été pour moi. J'ai fait bien des réflexions pendant que je broyais ces cailloux, et mon cœur, aussi dur qu'eux, s'est amolli par le souvenir de la façon indigne dont j'avais reconnu la bonté de Dieu, qui m'avait donné une mère telle que vous pour le remplacer sur terre auprès de moi. </p>
           <p>« J'appris qu'on travaillait au canal de Berry, et je me dirigeai de ce côté. Je passai dans la foule des ouvriers sans que l'on s'inquiétât beaucoup de mes papiers. Au bout de quelques semaines d'un travail assidu, je fus remarqué par mon chef de brigade, qui m'employa à la surveillance, et j'eus une meilleure paye. Après la campagne, ayant quelque argent à ma disposition, je résolus de reprendre mon tour de France, et l'on me délivra un livret et un certificat de bonne conduite. </p>
           <!-- a picture in the original has been omitted Illustration : Paul casse les pierres.-->
-          <gap rend="graphic" />
+          <gap rend="graphic"/>
           <p>« Mon naturel peu endurant essaya plus d'une fois de se montrer ; alors je pensais aux pierres de la route, et je contins si bien mon humeur qu'elle cessa de reparaître. Puis, en allant de boutique en boutique, j'ai bien observé toutes les différentes familles, et j'y ai rarement rencontré une femme comme vous, ma chère mère, et peu d'enfants qui valussent Nannette et Sylvain. Je me demandais souvent ce que j'avais été au milieu de vous tous, et la honte me couvrait le visage de rougeur. </p>
           <p>« J'ai promis à Dieu de ne jamais vous causer volontairement aucune peine ; ainsi, ma mère, ne craignez pas que je trouble à présent la paix de votre maison. Je sais maintenant ce que je vous dois, et je vous aime d'un grand amour. Si le sort ne me fait pas soldat, j'irai travailler dans la ville où demeure Sylvain, et je m'y établirai un peu plus tard ; car j'apporte quelques épargnes. </p>
           <p>— Comment as-tu fait, Paul, lui dit son beau-frère, pour mettre quelque chose de côté ? d'ordinaire, les compagnons ne sont guère économes, et d'ailleurs l'on n'a pas toujours de l'ouvrage. </p>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA02001" xml:lang="fr">
   <teiHeader>
@@ -24,41 +24,34 @@
         <measure unit="words">21626</measure>
       </extent>
       <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2020-11-14" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
+</publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <title>Vers le pôle en aéroplane : roman d'aventures</title>
           <publisher>Gallica (BnF)</publisher>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k65899h" />
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k65899h"/>
           <date>2012</date>
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <title>Vers le pôle en aéroplane : roman d'aventures</title>
           <author>Jehan Gilbert</author>
           <pubPlace>Nancy</pubPlace>
           <publisher>P. Pierron, imprimeur-éditeur</publisher>
           <date>1912</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k65899h" />
-        </bibl>
-        <bibl type="firstEdition">
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k65899h"/>
+        </bibl><bibl type="firstEdition">
           <title>Vers le pôle en aéroplane : roman d'aventures</title>
           <author>Jehan Gilbert</author>
           <pubPlace>Nancy</pubPlace>
           <publisher>P. Pierron, imprimeur-éditeur</publisher>
           <date>1912</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k65899h" />
-        </bibl>
-      </sourceDesc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k65899h"/>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p>ELTeC level 1 encoding. In some instances, "corr" has been used to mark modernized spelling.</p>
@@ -74,13 +67,14 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-03-10">Fixed spelling and tokenization (CS).</change>
@@ -102,7 +96,7 @@
         <head>LE BANQUET</head>
         <p>Dans la grande salle des fêtes de 1' « Aéro-Club », le banquet s'achevait. L'on entendait un brouhaha confus de conversations, de vaisselle entrechoquée, d'argenterie remuée. Prestes, les maîtres d'hôtel circulaient entre les txbles, les plats à la main.</p>
         <p>Dans une loggia, la musique de la garde républicaine, à demi dissimulée par des plantes vertes et des guirlandes de fleurs, commença une valse lente.</p>
-        <pb />
+        <pb/>
         <p>La mélodie, d'abord sourde, puis toute menue, devint soudain langoureuse et câline. Chacun l'écoutait sans cependant interrompre la conversation engagée. C'est là l'une des plus grandes influences de la musique, d'avoir quand même prise sur nos sentiments artistiques, alors qu'on n'y prête qu'une attention minime.</p>
         <p>Mais il fallait bien le reconnaître, jamais une musique aussi douce, aussi enveloppante n'avait eu autant de chances de plaire à ces nombreux convives que groupait le banquet de l'Aéro-Club.</p>
         <p>C'était une valse spécialement composée pour cette réunion, par le jeune maître Marc Delmas, elle s'intitulait « Horizons » et n'était de la première à la dernière mesure qu'un enchantement.</p>

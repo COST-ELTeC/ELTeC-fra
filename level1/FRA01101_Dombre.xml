@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01101" xml:lang="fr">
   <teiHeader>
@@ -23,29 +23,23 @@
         <measure unit="words">50336</measure>
       </extent>
       <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2020-11-14" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
+</publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
-          <ref target="http://beq.ebooksgratuits.com" />
-        </bibl>
-        <bibl type="firstEdition">
+          <ref target="http://beq.ebooksgratuits.com"/>
+        </bibl><bibl type="firstEdition">
           <date>1890</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -57,13 +51,14 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
@@ -481,7 +476,7 @@
               <hi>De profundis, sur l'air du tra la la la...</hi>
             </p>
           </quote>
-          <milestone type="section" rend="space" unit="newline" />
+          <milestone type="section" rend="space" unit="newline"/>
           <p>— Aussi, reprit l'enfant, boudeuse à ce ressouvenir, Mlle Maudrey, leur institutrice, m'a ordonné de me taire, comme si elle avait le droit de me faire des observations. Je ne l'aime pas, Mlle Maudrey.</p>
           <p>— Tu préfères ta fräulen Frida, n'est-ce pas ? Tu en fais tout ce que tu veux.</p>
           <p>— Oh ! Fräulen, répliqua Gilberte, allongeant ses fines lèvres roses dans une moue dédaigneuse, je ne l'aime pas non plus.</p>
@@ -1147,7 +1142,7 @@
               <hi>Minuit, Chrétiens, c'est l'heure solennelle.</hi>
             </p>
           </quote>
-          <milestone type="section" rend="space" unit="newline" />
+          <milestone type="section" rend="space" unit="newline"/>
           <p>On s'apprêtait à rire, on bâillait d'avance, le plus poliment qu'on pouvait... et voilà que tous firent silence, pris soudain sous le charme de cette splendide voix de baryton, mâle et sonore, dont les notes avaient un velouté et une expression délicieuse.</p>
           <p>La surprise fut générale et de sincères applaudissements éclatèrent quand le chanteur termina l'hymne chrétienne. Il reçut les louanges froidement, un fin sourire errant sur sa bouche fière.</p>
           <p>Se retournant vers Gilberte qui, elle, ne parlait pas, il lui dit avec une pointe de raillerie :</p>
@@ -1694,7 +1689,7 @@
               <hi>Si c'est aimer, je l'aime.</hi>
             </p>
           </quote>
-          <milestone type="section" rend="space" unit="newline" />
+          <milestone type="section" rend="space" unit="newline"/>
           <p>Quand elle abandonna le piano, elle rougit en voyant fixés sur elle les yeux étincelants de son cousin.</p>
         </div>
         <div type="chapter">
@@ -1765,7 +1760,7 @@
               <hi>Quelqu'un mourût pour lui...</hi>
             </p>
           </quote>
-          <milestone type="section" rend="space" unit="newline" />
+          <milestone type="section" rend="space" unit="newline"/>
           <p>— Oh ! non, pas cela, répondit la jeune fille dont un sourire sarcastique plissait la lèvre rouge. J'ai ici de la musique plus nouvelle.</p>
           <p>Et elle choisit, parmi les feuilles qu'elle avait achetées récemment, quelques couples tirés d'une opérette en vogue.</p>
           <p>Pendant ce temps, Albéric attirait à lui, nonchalamment, le livre que sa cousine venait d'abandonner sur son siège.</p>
@@ -1939,7 +1934,7 @@
           <p>« Pardonnez-moi cette lettre couleur feuille morte, et faites-moi la surprise d'une visite, si c'est possible ; Nice n'est pas si éloigné de Marseille.</p>
           <p>« Embrassez pour moi mes cousines ; je vous tends, comme autrefois, mon front toujours nuageux.</p>
           <p>« GILBERTE. »</p>
-          <milestone type="section" rend="space" unit="newline" />
+          <milestone type="section" rend="space" unit="newline"/>
           <p>À quelque temps de là, Mme Daltier alla voir sa nièce à Nice ; on lui fit les plus grands éloges de Gilberte qui était vraiment aimée chez les Métaxo et qui brillait incontestablement dans la petite société grecque que l'on voyait dans la ville et aux environs.</p>
           <p>Cependant Mme Daltier revint soucieuse chez elle. Son mari et son fils aîné l'interrogèrent avec empressement sur Mlle Mauduit.</p>
           <p>Elle répondit :</p>
@@ -2150,7 +2145,7 @@
           <p>— Ne crains rien, la joie ne tue pas, répondit Mme Daltier en portant secours à la malade.</p>
           <p>Ce ne fut qu'une courte faiblesse et Gilberte rouvrit les yeux pour jouir avec ivresse de son bonheur.</p>
           <p>De ce jour, la convalescence marcha rapidement, et Gilberte ne regretta pas d'avoir échangé le pont mobile du <hi>Guadiana</hi> contre le toit béni des Daltier. </p>
-          <milestone unit="section" rend="dots" />
+          <milestone unit="section" rend="dots"/>
           <p>On revient d'une messe d'action de grâces à Saint-Charles où toute la famille, y compris Gilberte, a fait la communion pour remercier Dieu d'avoir non seulement guéri le corps, mais encore ramené à lui la brebis égaré.</p>
           <p>Après le déjeuner égayé par une douce causerie et de joyeux projets d'avenir, Gilberte et Albéric s'entretiennent dans le petit salon qui a vu les premières joies pures et les premières désolations de la jeune fille.</p>
           <p>— À quelle époque notre mariage ? demande Albéric dont le visage rayonne d'une allégresse sans bornes.</p>

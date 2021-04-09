@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA02603" xml:lang="fr">
   <teiHeader>
@@ -23,34 +23,28 @@
         <measure unit="words">105754</measure>
       </extent>
       <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2020-11-14" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
+</publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
-          <ref target="http://beq.ebooksgratuits.com" />
-        </bibl>
-        <bibl type="firstEdition">
+          <ref target="http://beq.ebooksgratuits.com"/>
+        </bibl><bibl type="firstEdition">
           <title>Conscience</title>
           <author>Hector Malot</author>
           <publisher>G. Charpentier</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1888</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k912745" />
-        </bibl>
-      </sourceDesc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k912745"/>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -62,13 +56,14 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
@@ -2955,7 +2950,7 @@
           <p>— C'était une croyance autrefois admise par le public et par beaucoup de médecins qu'on ne pouvait provoquer le somnambulisme que chez les sujets atteints d'hystérie, de nervosisme, mais il y avait là une erreur : le somnambulisme artificiel s'obtient chez un grand nombre de sujets parfaitement sains.</p>
           <p>— Conserve-t-on sa volonté dans le sommeil ?</p>
           <p>— Le sujet ne conserve de spontanéité et de volonté que ce que veut bien lui en laisser son hypnotiseur, qui, à son gré peut le rendre triste, gai, colère, tendre et jouer de son âme comme d'un instrument.
-            <ref target="#FRA02603_N01" />
+            <ref target="#FRA02603_N01"/>
           </p>
           <p>— Mais c'est effroyable.</p>
           <p>— Curieux au moins ; il est certain qu'il y a une paralysie locale de telle ou telle cellule dont l'étude deviendra le point de départ de découvertes intéressantes.</p>
@@ -3114,7 +3109,7 @@
           </quote>
           <p>Il avait lu cette lettre écrite d'un trait, d'une seule poussée, debout au milieu de son cabinet ; arrivé à la fin, vaguement il regarda autour de lui ; son fauteuil était un peu écarté de son bureau : il se laissa tomber dessus et resta là, anéanti, gardant la lettre dans sa main crispée :</p>
           <p>— Seul !</p>
-          <milestone type="section" rend="space" unit="newline" />
+          <milestone type="section" rend="space" unit="newline"/>
           <p>C'était une après-midi d'octobre, sombre et boueuse ; dans la rue des Saints-Pères, le long des maisons qui cachent l'hôpital de la Charité, des coupés étaient rangés, attendant, et leur file se prolongeait jusque sur le boulevard Saint-Germain, où les cochers, descendus de leur siège, causaient en gens qui sont habitués à se rencontrer. Du porche à colonnes prétentieuses et lourdes qui fait le coin de la rue et du boulevard, vers quatre heures et demie, dans l'obscurité qui commençait, on vit sortir des hommes à la tournure grave et aux vêtements sombres, -- les membres de l'Académie de médecine, -- qui, la séance du mardi levée, regagnaient leurs voitures : les uns, ceux-là étaient seuls, vivement, pour partir grand train ; les autres, ceux-là étaient accompagnés, avec d'habiles lenteurs, s'arrêtant pour aborder aimablement un journaliste et lui recommander leur communication de ce jour, ou bien continuant avec un confrère non académicien l'entretien commencé dans la salle des pas-perdus ; c'était la Bourse aux consultations qui s'achevait, l'originalité la plus amusante de ce lieu pour ceux qui savent regarder ou sont au courant des petites intrigues électorales qu'on joue là. Tous les membres de l'Académie n'ont pas, en effet, une longue liste de malades chez qui courir ; mais tous ont une voix à donner, et ce sont ceux-là que les candidats entourent, en tâchant de les gagner... On a déjà une riche clientèle, mais on n'est pas encore de l'Académie ; on manœuvre donc pour y arriver : avec le chirurgien, on arrange, aux frais des clients qui ont la foi, une consultation pour aller voir un panaris superficiel ; avec le médecin, on en arrange une pour visiter une migraineuse. On espère que, le jour du vote venu, l'académicien ne refusera pas sa voix à un confrère qui, par des consultations de cette importance, vous fait gagner mille ou quinze cents francs par an, vous envoie du gibier de sa chasse, sa loge à l'Opéra, son coupon des Français ; et qu'en galant homme qu'il est, il aura la reconnaissance de l'estomac ou du porte-monnaie.</p>
           <p>Un des académiciens, qui parut le dernier au haut des marches, était un homme de grande taille, mais voûté, au visage creux et blême, qu'éclairaient deux yeux bleu pâle d'une expression étrange, dure et désolée à la fois ; il s'avançait seul, et à sa démarche lourde, à son pas traînant, on pouvait se demander s'il avait soixante ans, tandis que, par d'autres côtés il gardait encore une certaine jeunesse, -- Saniel, vieilli de vingt ans.</p>
           <p>Sans que personne échangeât un signe de tête ou un serrement de main avec lui, il descendit sur le trottoir, et, le remontant, il vint jusqu'au boulevard, où il ouvrit la portière d'un coupé dont l'intérieur montrait l'installation complète d'une bibliothèque ambulante : tablette pour écrire, avec papier, encrier et lampe, poches, soufflets tous pleins de livres et de brochures.</p>

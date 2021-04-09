@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03704" xml:lang="fr">
   <teiHeader>
@@ -22,37 +22,30 @@
         <measure unit="words">133214</measure>
       </extent>
       <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2020-11-14" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
+</publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <publisher>Computational Literary Genre Stylistics (CLiGS)</publisher>
           <!-- Originally from: Bibliothèque électronique du Québec -->
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <title>Horace</title>
           <author>George Sand</author>
           <publisher>J. Hetzel</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1854</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5725314v" />
-        </bibl>
-        <bibl type="firstEdition">
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5725314v"/>
+        </bibl><bibl type="firstEdition">
           <date>1840</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -64,14 +57,15 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
         <!-- Reprints 1970-2009: 1980, 1982, 2004, 2008. Before 1970: 1969 etc. After 2009: 2013, 2013, 2017. -->
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-04-11">Conversion to ELTeC-1</change>
@@ -246,7 +240,7 @@
 
         <head>4</head>
         <p>Paul Arsène revint me voir ; et quand nous fûmes seuls, j'obtins, non sans peine, la confidence que je pressentais. Il commença par me faire en ces termes le récit de sa vie :</p>
-        <milestone unit="section" type="space" />
+        <milestone unit="section" type="space"/>
         <p>Comme je vous l'ai dit, Monsieur, mon père est cordonnier en province. Nous étions cinq enfants ; je suis le troisième. L'aîné était un homme fait lorsque mon père, déjà vieux, et pouvant se retirer du métier avec un peu de bien, s'est remarié avec une femme qui n'était ni belle ni bonne, ni jeune ni riche, mais qui s'est emparée de son esprit, et qui gaspille son honneur et son argent. Mon père, trompé, malheureux, d'autant plus épris qu'elle lui donne plus de sujets de jalousie, s'est <hi rend="italic">jeté dans le vin</hi>, pour s'étourdir, comme on fait dans notre classe quand on a du chagrin. Pauvre père ! nous avons bien patienté avec lui, car il nous faisait vraiment pitié. Nous l'avions connu si sage et si bon ! Enfin, un temps est venu où il n'était plus possible d'y tenir. Son caractère avait tellement changé, que pour un mot, pour un regard, il se jetait sur nous pour nous frapper. Nous n'étions plus des enfants, nous ne pouvions pas souffrir cela. D'ailleurs nous avions été élevés avec douceur, et nous n'étions pas habitués à avoir l'enfer dans notre famille. Et puis, ne voilà-t-il pas qu'il a pris de la jalousie contre mon frère aîné ! Le fait est que la belle-mère lui avait fait des avances, parce qu'il était beau garçon et bon enfant ; mais il l'avait menacée de tout raconter à mon père, et elle avait pris les devants, comme dans la tragédie de <hi rend="italic">Phèdre</hi>, que je n'ai jamais vu jouer depuis sans pleurer. Elle avait accusé mon pauvre frère de ses propres égarements d'esprit. Alors mon frère s'est vendu comme remplaçant, et il est parti. Le second, qui prévoyait que quelque chose de semblable pourrait bien lui arriver, est venu ici chercher fortune, en me promettant de me faire venir aussitôt qu'il aurait trouvé un moyen d'exister. Moi, je restais à la maison avec mes deux sœurs, et je vivais assez tranquillement, parce que j'avais pris le parti de laisser crier la méchante femme sans jamais lui répondre. J'aimais à m'occuper ; je savais assez bien ce que j'avais appris en classe ; et quand je n'aidais pas mon père à la boutique, je m'amusais à lire ou à barbouiller du papier, car j'ai toujours eu du goût pour le dessin. Mais comme je pensais que cela ne me servirait jamais à rien, j'y perdais le moins de temps possible. Un jour, un peintre qui parcourait le pays pour faire des études de paysage, commanda chez nous une paire de gros souliers, et je fus chargé d'aller lui prendre mesure. Il avait des albums étalés sur la table de sa petite chambre d'auberge ; je lui demandai la permission de les regarder ; et comme ma curiosité lui donnait à penser, il me dit de lui faire, d'<hi rend="italic">idée</hi>, un <hi rend="italic">bonhomme</hi> sur un bout de papier qu'il me mit dans les mains ainsi qu'un crayon. Je pensai qu'il se moquait de moi ; mais le plaisir de charbonner avec un crayon si noir sur un papier si coulant l'emporta sur l'amour-propre. Je fis ce qui me passa par la tête ; il le regarda, et ne rit pas. Il voulut même le coller dans son album, et y écrire mon nom, ma profession et le nom de mon endroit.</p>
         <p>— Vous avez tort de rester ouvrier, me dit-il : vous êtes né pour la peinture. À votre place, je quitterais tout pour aller étudier dans quelque grande ville.</p>
         <p>Il me proposa même de m'emmener ; car il était bon et généreux, ce jeune homme-là. Il me donna son adresse à Paris, afin que, si le cœur m'en disait, je pusse aller le trouver. Je le remerciai, et n'osai ni le suivre ni croire aux espérances qu'il me donnait. Je retournai à mes cuirs et à mes formes, et un an se passa encore sans orage entre mon père et moi.</p>
@@ -272,7 +266,7 @@
         <p>— C'est bien, vous paierez au massier.</p>
         <p>Cela voulait dire, comme je le sus bientôt, que je mettrais seulement à la masse l'argent qui sert à payer le loyer de la salle et les modèles, mais que le maître ne recevrait rien pour lui, et que j'aurais ses leçons gratis. Aussi, je porte ce maître-là dans mon cœur, voyez-vous !</p>
         <p>Voilà bientôt six mois que cela dure, et je me trouverais bien heureux si cela pouvait durer toujours. Mais cela ne se peut plus ; il faut que ma position change, et qu'au lieu de marcher patiemment dans la plus belle carrière, je me mette à courir au plus vite dans n'importe laquelle.</p>
-        <milestone unit="section" type="space" />
+        <milestone unit="section" type="space"/>
         <p>Ici le Masaccio se troubla visiblement ; il ne raconta plus dans l'abondance et la naïveté de ses pensées. Il chercha des prétextes, et il n'en trouva aucun de plausible pour motiver l'irrésolution où il était tombé. Il me montra une lettre de sa sœur Louison, qui contenait de fraîches nouvelles de la tante Henriette. Cette bonne vieille parente était devenue tout à fait infirme, et ne servait plus que de porte-respect à ses deux nièces, qui travaillaient à la journée pour la faire vivre. Les médecins la condamnaient, et on ne pouvait espérer de la conserver au-delà de trois ou quatre mois.</p>
         <p>— Quand nous l'aurons perdue, disait Paul Arsène, que deviendront mes sœurs ? Resteront-elles seules dans une petite ville où elles n'ont point d'autres parents que la tante Henriette, exposées à tous les dangers qui entourent deux jolies filles abandonnées ? D'ailleurs mon père ne le souffrirait pas ; et il ne serait pas de son devoir de le souffrir ; et alors leur sort serait pire ; car non seulement elles seraient exposées aux mauvais traitements de la belle-mère, mais encore elles auraient sous les yeux les mauvais exemples de cette femme, qui n'est pas seulement méchante. Le seul parti que j'aie à prendre est donc ou d'aller rejoindre mes sœurs en province et de m'y établir comme ouvrier, pour ne les plus quitter, ou de les faire venir ici, et de les y soutenir jusqu'à ce qu'elles puissent, par leur travail, se soutenir elles-mêmes.</p>
         <p>— Tout cela est fort juste et fort bien pensé, lui dis-je ; mais si vos sœurs sont fortes et laborieuses comme vous le dites, elles ne seront pas longtemps à votre charge. Je ne vois donc pas que vous soyez forcé de vous créer un état qui donne des appointements fixes aussi considérables que vous le disiez l'autre jour. Il ne s'agit que de trouver l'argent nécessaire pour faire venir Louison et Suzanne, et pour les aider un peu dans les commencements. Eh bien, vous avez des amis qui pourront vous avancer cette somme sans se gêner, et moi-même...</p>
@@ -933,10 +927,10 @@
         <p>— Tu es mon meilleur ami, lui dit-elle, tu vas me rendre un dernier service, le plus pénible de tous pour toi, et surtout pour moi. Tu vas me dire un éternel adieu. Ne m'en demande pas la raison ; je ne peux pas et je ne veux pas te la dire.</p>
         <p>— C'est inutile, j'ai deviné depuis longtemps, répondit Arsène. Comme tu ne me disais rien, je pensais que mon devoir était de rester tant que tu semblerais désirer ma protection. Mais puisqu'au lieu de t'être utile, elle te nuit, je me retire. Seulement, ne me dis pas que c'est pour toujours, et promets-moi que quand tu auras besoin de moi, tu me rappelleras. Tu n'auras qu'un mot à dire, un geste à faire, et je serai à tes ordres. Tiens, Marthe, si tu veux, je passerai tous les jours sous ta fenêtre : tu n'as qu'à y attacher un mouchoir, un ruban, un signe quelconque, le même jour tu me verras accourir. Promets-moi cela.</p>
         <p>Marthe le promit en pleurant ; Arsène ne revint plus. Mais ce n'était pas assez pour satisfaire l'orgueil d'Horace. Un jour que, suivant sa coutume, il avait emmené Marthe chez lui, nous l'attendîmes en vain pour souper, et nous reçûmes d'elle, le soir, le billet suivant :</p>
-        <milestone unit="section" type="space" />
+        <milestone unit="section" type="space"/>
         <p>« Ne m'attendez pas, chers et dignes amis. Je ne rentrerai plus dans votre maison. J'ai découvert que je n'y devais pas mon bien-être à votre seule générosité, mais que Paul y avait longtemps contribué, et qu'il y contribue encore, puisque tous les meubles que vous m'avez soi-disant prêtés lui appartiennent. Vous comprenez que, sachant cela, je n'en puis plus profiter. D'ailleurs, le monde est si méchant qu'il calomnie les affections les plus vertueuses. Je ne veux pas vous répéter les vils propos dont je suis l'objet. J'aime mieux, en les faisant cesser et en m'arrachant avec douleur d'auprès de vous, ne vous parler que de mon éternelle reconnaissance pour vos bontés envers moi, et de l'attachement inaltérable que vous porte à jamais</p>
         <p>Votre amie, Marthe. »</p>
-        <milestone unit="section" type="space" />
+        <milestone unit="section" type="space"/>
         <p>— Voici encore une lâcheté d'Horace, s'écria Eugénie indignée. Il lui a révélé un secret que j'avais confié à son honneur.</p>
         <p>— Ces sortes de choses échappent, malgré soi, dans l'emportement de la colère, lui répondis-je ; et c'est le résultat d'une querelle entre eux.</p>
         <p>— Marthe est perdue, reprit Eugénie, perdue à jamais ! car elle appartient sans réserve et sans retour à un méchant homme.</p>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA03003" xml:lang="fr">
   <teiHeader>
@@ -22,34 +22,27 @@
         <measure unit="words">50561</measure>
       </extent>
       <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2020-11-14" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
+</publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <publisher>Project Gutenberg</publisher>
           <date>2009</date>
           <idno>18073</idno>
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <publisher>Ollendorff</publisher>
           <date>1903</date>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <date>1894</date> <!-- 1892-1894 -->
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -61,13 +54,14 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
@@ -498,7 +492,7 @@
           <p>--Allons donc ! Vous pratiquez admirablement le <hi>sic vos non vobis</hi> .... Et les excès que vous défendez à un client, vous vous les permettez parfaitement à vous-mêmes.... C'est comme pour le tabac. Ne fumez pas !... Et, en sortant, le médecin allume son cigare dans l'escalier.... Allons, allons ! Ne soyez pas plus rigoriste qu'il ne faut ! Et, pour ce qui me concerne, rassurez-vous : tout n'a qu'un temps. Je serai probablement sobre la semaine ou l'année prochaine. </p>
           <p>— Oui, à Pâques ou à la Trinité !</p>
           <p>— En attendant, faites-moi donner à boire, car vous m'avez fait parler, et cela m'a desséché le gosier....</p>
-          <milestone type="section" rend="asterisk" unit="asterisk" />
+          <milestone type="section" rend="asterisk" unit="asterisk"/>
           <p>— De la tisane ?...</p>
           <p>— Non, du grog....</p>
           <p>— Alors très léger ?</p>
@@ -741,7 +735,7 @@
           <p>— Oh ! pas grand chose de très mal. Mais rien de très bien. C'est l'inutilité néfaste de la jeunesse oisive, avec tout ce qui s'ensuit. Il n'a pas eu l'inconvenance de me le raconter, mais je l'ai clairement compris. M. Christian Vernier est un viveur, très blasé, très ennuyé, très disposé à faire des sottises par désœuvrement ; avec cela, entouré de gens qui le flattent et l'exploitent, en le poussant aux pires actions.</p>
           <p>— Malheureuse enfant ! s'écria M. Harnoy. Quelle clairvoyance inattendue possèdes-tu donc, pour avoir deviné toutes ces choses qui m'ont échappé à moi, et qui n'ont pas frappé ta mère ? Car, hier soir, elle ne tarissait pas d'éloges sur la famille Vernier, et sur Christian lui-même ! Mais enfin, pendant trois semaines, nous l'avons eu sous notre toit, ce garçon. Nous avons pu le connaître. Il est charmant, doux, facile. Et brusquement, si je t'en croyais, il se changerait en un être malfaisant et redoutable ! Ma fille, tu as un défaut immense : tu es exagérée. Tu grossis les choses avec des préoccupations imaginaires. Je crois que ta mère et moi nous ne sommes pas des imbéciles. Eh bien ! nous n'avons aucune des craintes que tu ressens. Et, si tu épousais le fils Vernier nous pourrions envisager l'avenir sans aucun souci. Et ce serait un bien grand soulagement pour nous !</p>
           <p>— Crois, mon cher père, que je ferai tout ce que je pourrai pour te contenter, sans aller cependant jusqu'à compromettre ma sécurité.</p>
-          <milestone type="section" rend="asterisk" unit="asterisk" />
+          <milestone type="section" rend="asterisk" unit="asterisk"/>
           <p>— Allons ! c'est bien ! je ne t'en demande pas davantage. D'ailleurs, tu auras le temps de réfléchir, de consulter.</p>
           <p>— C'est bien mon intention.</p>
           <p>— Mais qui ? Nous ne connaissons personne dans l'entourage de la famille Vernier.</p>
@@ -1072,7 +1066,7 @@
           <p>Christian lui fit raison sans hésiter. Une légère rougeur monta à ses pommettes, une excitation soudaine tendit ses nerfs. Et comme Clamiron avait versé du vin dans la coupe reposée sur la table, le fiancé de Geneviève cria dans le bruit des verres tintant aux mains des convives :</p>
           <p>— Je vous en souhaite une pareille à chacun, mes petits !</p>
           <p>Et, sans qu'on l'y eût invité, il porta encore une fois la coupe à sa bouche. Ses yeux s'allumèrent, comme une lampe dont la flamme s'avive. Dans son cerveau purifié par une abstinence prolongée, un trouble soudain se manifesta. Machinalement, et comme retrouvant ses habitudes anciennes, il but de nouveau. Au milieu du tapage, parmi les interpellations qui s'échangeaient dans la chaleur de la pièce où flottaient les odeurs des mets et le bouquet des vins, il eut le sentiment qu'il se laissait entraîner à un danger certain. Il regarda autour de lui d'un air de défi, et ne vit que des physionomies souriantes, des yeux bienveillants, n'entendit que des rires. Nul dessein de lui nuire, le seul projet de se divertir entre soi, et bien tranquillement. Le dessert était servi, et la glace circulait autour de la table. Vertemousse avait même allumé une cigarette et fumait en contant ses exploits cynégétiques. Christian se rassura, mais il sentit que sa tête était déjà plus échauffée qu'il ne convenait, il se pencha vers Clamiron et lui dit :</p>
-          <milestone type="section" rend="asterisk" unit="asterisk" />
+          <milestone type="section" rend="asterisk" unit="asterisk"/>
           <p>— Fais-moi donc donner un verre d'eau.</p>
           <p>— Tout de suite.</p>
           <p>Pavé appela le maître d'hôtel et lui parla à voix basse. Celui-ci mit sur la table une bouteille qui avait la forme et la couleur d'une bouteille d'eau d'Evian, Christian prit la bouteille et emplit lui-même son verre. Puis, distraitement, il le vida aux trois quarts. Il lâcha un juron, reposa le verre si fort sur la table qu'il le brisa, et, d'un ton furieux, il cria :</p>
@@ -1292,8 +1286,8 @@
       </div>
     </body>
     <back>
-      <div type="notes" />
-      <div type="liminal" />
+      <div type="notes"/>
+      <div type="liminal"/>
     </back>
   </text>
 </TEI>

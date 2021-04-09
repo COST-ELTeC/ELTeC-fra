@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA06701" xml:lang="fr">
   <teiHeader>
@@ -27,39 +27,32 @@
         <measure unit="words">60908</measure>
       </extent>
       <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2020-11-14" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
+</publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <title>La Buveuse de perles</title>
           <publisher>Gallica (BnF)</publisher>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6557908c" />
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6557908c"/>
           <date>2013</date>
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <title>La Buveuse de perles</title>
           <pubPlace>Paris</pubPlace>
           <publisher>Calmann Lévy</publisher>
           <date>1882</date>
-        </bibl>
-        <bibl type="firstEdition">
+        </bibl><bibl type="firstEdition">
           <title>La Buveuse de perles</title>
           <author>Mario Uchard</author>
           <pubPlace>Paris</pubPlace>
           <publisher>Calmann Lévy</publisher>
           <date>1882</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6557908c"></ref>
-        </bibl>
-      </sourceDesc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6557908c"/>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p>ELTeC level 1 encoding.</p>
@@ -75,13 +68,14 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="medium" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low" />
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Checked by checkup script</change>
       <change when="2020-09-16">File created</change>
@@ -1689,12 +1683,12 @@
         <p>C'était par un beau jour d'arrière-automne, et le tour du lac s'en émut.</p>
         <p>Le vicomte de Trédec étant très connu pour ses attaches aristocratiques, on s'interrogeait. Les airs de fille d'Albion de Catherine, à demi cachée sous son léger voile, comme si elle n'eût eu nul souci de son éclatante beauté, cette note juste d'élégance et de distinction qui ne permettait point les suppositions équivoques sur le rang de cette belle inconnue, intriguaient fort toute la <hi rend="italic">gentry</hi>.</p>
         <p> </p>
-        <p />
-        <p />
+        <p/>
+        <p/>
         <p>Qui était-elle ?... D'où venait-elle ?...</p>
         <p>L'effet fut pour ainsi dire instantané.</p>
-        <p />
-        <p />
+        <p/>
+        <p/>
         <p> </p>
         <p>En son hôtel, le train avait suivi, avec ce tact particulier qu'elle apportait en toute chose. Sous la direction savante du vicomte, décidément de la maison, et qui veillait à tout, la guidant, là formant à cette perfection de style mondain, plus rare qu'on ne pense, même chez les femmes de haut lieu, et dont elle avait si bien l'intuition, en quelques jours elle fut <hi rend="italic">mistress Hogarth</hi> jusqu'au bout des ongles. Avec un tel Mentor, réglant enfin jusqu'aux convenances de toilettes, selon la circonstance, l'heure du jour, ou le temps qu'il faisait, tout fut bientôt chez elle d'un ton exquis.</p>
         <p>Cependant, sur les hauteurs de son empyrée, un léger nuage troublait l'azur de Catherine. Son parrain qui l'amusait, la distrayait, la promenait, lui était devenu trop utile pour qu'elle pût se passer un seul jour de lui. Chaque matin, il arrivait ; mais, après la scène plus que vive que le vicomte avait eue avec Cambrelu chez les Lorrain, il était un peu difficile que ses deux protecteurs se rencontrassent. Il en résultait une gêne, peu lourde à la vérité, car. dès que le marchand de guano venait en visite, le vicomte, que sa grandeur n'attachait point au rivage, se retirait, laissant la place, et montait jouer avec l'enfant.</p>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="FRA01303" xml:lang="fr">
   <teiHeader>
@@ -23,40 +23,33 @@
         <measure unit="words">105395</measure>
       </extent>
       <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-        <date when="2020-11-14" />
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/" />
-        </availability>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-        <ref type="doi" target="https://doi.org/10.5281/zenodo.4264647">ELTeC-fra release 1.0.0</ref>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
+</publicationStmt>
+      <sourceDesc><bibl type="digitalSource">
           <publisher>Wikisource</publisher>
-          <ref target="http://www.fr.wikisource.org" />
+          <ref target="http://www.fr.wikisource.org"/>
           <!-- via Feedbooks. -->
-        </bibl>
-        <bibl type="printSource">
+        </bibl><bibl type="printSource">
           <title>Salammbô</title>
           <author>Gustave Flaubert</author>
           <publisher>Michel Lévy frères</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1863</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b8626108m" />
-        </bibl>
-        <bibl type="firstEdition">
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b8626108m"/>
+        </bibl><bibl type="firstEdition">
           <title>Salammbô</title>
           <author>Gustave Flaubert</author>
           <date>1862</date>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -68,14 +61,15 @@
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M" />
-        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
         <!-- worldcat.py error, not clear why -->
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
@@ -85,7 +79,7 @@
   </teiHeader>
   <text>
     <front>
-      <div type="liminal" />
+      <div type="liminal"/>
     </front>
 
     <body>
