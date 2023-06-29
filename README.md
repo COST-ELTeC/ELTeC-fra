@@ -44,6 +44,7 @@ General information about ELTeC releases is available at https://github.com/COST
 
 The concept DOI for all versions of ELTeC-fra is the following: https://doi.org/10.5281/zenodo.3462535. 
 
+* recent changes: A level-2-encoded version valid against the `level2_strict` schema (with `<s>...</s>` tags) is now available (June 2023). 
 * recent changes: A linguistically-annotated version (level 2 encoding) is now available, ahead of a v2.0.0 release.  
 * v1.0.1, April 2021: This release includes 100 novels in level 1 encoding. Minor updates to the metadata were provided with this release. The DOI of this release release is: [10.5281/zenodo.4662433](https://doi.org/10.5281/zenodo.4662433)
 * v1.0.0, November 2020: This release includes 100 novels in level 1 encoding. With this release, a corpus compliance score (E5C) of 100 was reached. The DOI of this release release is: [10.5281/zenodo.4264647](https://doi.org/10.5281/zenodo.4264647)
