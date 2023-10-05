@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA01601" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:3075147270505335700009 wikidata:Q19189680">La Sœur du Soleil : édition ELTeC</title>
+        <title ref="viaf:3075147270505335700009 wikidata:Q19189680">La Sœur du Soleil (L'Usurpateur) : édition ELTeC</title>
         <author ref="viaf:54148064 wikidata:Q2523100">Gautier, Judith (1845-1917)</author>
         <respStmt>
           <resp>Principal investigator</resp>
@@ -19,7 +17,9 @@
         </respStmt>
         <respStmt>
           <resp>Original data capture</resp>
-          <name>Wikisource contributors, <ref>http://fr.wikisource.org</ref>
+          <name>
+            Wikisource contributors,
+            <ref>http://fr.wikisource.org</ref>
           </name>
         </respStmt>
       </titleStmt>
@@ -28,39 +28,46 @@
         <measure unit="words">107267</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2021-04-09" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <title>La Sœur du Soleil</title>
           <author>Judith Gautier</author>
           <publisher>Wikisource</publisher>
           <date>2001</date>
-          <ref target="https://fr.wikisource.org/wiki/La_S%C5%93ur_du_Soleil"/>
-        </bibl><bibl type="printSource">
+          <ref target="https://fr.wikisource.org/wiki/La_S%C5%93ur_du_Soleil" />
+        </bibl>
+        <bibl type="printSource">
           <title>La Sœur du Soleil (L'Usurpateur)</title>
           <author>Judith Gautier</author>
           <publisher>Dentu</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1887</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k811244"/>
-        </bibl><bibl type="firstEdition">
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k811244" />
+        </bibl>
+        <bibl type="firstEdition">
           <!-- best guess -->
-          <title>La Sœur du Soleil (L'Usurpateur)</title>
+          <title>’Usurpateur, épisode de l'histoire japonaise (1615)</title>
           <author>Judith Gautier</author>
-          <publisher>Dentu</publisher>
+          <publisher>A. Lacroix</publisher>
           <pubPlace>Paris</pubPlace>
-          <date>1887</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k811244"/>
-        </bibl></sourceDesc>
+          <date>1875</date>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k96000394" />
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -69,17 +76,20 @@
       <textClass>
         <keywords>
           <term type="narrative-perspective">heterodiegetic</term>
+          <term type="subgenre">historical novel</term>
+          <!-- Source: https://digitalcommons.montclair.edu/modernlang-literatures-facpubs/71/ -->
+          <term type="setting-country">Japan</term>
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="long" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2021-04-09">Converted by checkUp script for new release</change>
+      <change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
@@ -93,16 +103,16 @@
         <p>La Sœur du Soleil Judith Gautier DENTU &amp; Cie, Paris, 1887</p>
       </div>
     </front>
-
     <body>
       <div type="chapter">
-
         <head>I</head>
-
         <head>LE BOIS DE CITRONNIERS</head>
         <p>La nuit allait finir. Tout dormait dans la belle et joyeuse Osaka. Seul, le cri strident des sentinelles, s'appelant sur les remparts, traversait, par instants, le silence que rien ne troublait plus, hors la lointaine rumeur de la mer dans le golfe.</p>
-        <p>Au-dessus de la grande masse sombre, formée par les Palais et les jardins du siogoun
-          <ref target="#FRA01601_N01"/>[1] , une étoile s'effaçait lentement. Le crépuscule matinal frissonnait dans l'air. La cime des bois commençait à découper plus nettement ses ondes sur le ciel qui bleuissait.</p>
+        <p>
+          Au-dessus de la grande masse sombre, formée par les Palais et les jardins du siogoun
+          <ref target="#FRA01601_N01" />
+          [1] , une étoile s'effaçait lentement. Le crépuscule matinal frissonnait dans l'air. La cime des bois commençait à découper plus nettement ses ondes sur le ciel qui bleuissait.
+        </p>
         <p>Bientôt une lueur pâle toucha les plus hauts arbres, puis se glissa entre les branches et les feuillages et filtra jusqu'au sol.</p>
         <p>Alors, dans les jardins du prince, des allées encombrées de ronces en fleur ébauchèrent leur vaporeuse perspective ; l'herbe reprit sa couleur d'émeraude ; une touffe de pivoines vit revenir l'éclat de ses fleurs somptueuses, et un escalier blanc se dévoila à demi de la brume dans le lointain d'une avenue.</p>
         <p>Enfin, brusquement, le ciel s'empourpra ; des flèches de lumière, traversant les buissons, firent étinceler des gouttes d'eau sur les feuilles. Un faisan s'abattit ; lourdement une grue secoua ses ailes neigeuses et, avec un long cri, s'envola lentement dans la clarté, tandis que la terre fumait comme une cassolette et que les oiseaux, à pleine voix, acclamaient le soleil levant.</p>
@@ -135,8 +145,11 @@
         <p>— Que dis-tu ? s'écria Ivakoura ; qu'est-ce qui peut te faire croire cela ?</p>
         <p>— Ta pâleur, ami, et tes yeux las.</p>
         <p>— Ne suis-je pas toujours ainsi ?</p>
-        <p>— La toilette que tu portes serait encore trop somptueuse à l'heure du coq [2] ; et regarde ! le soleil se lève à peine, nous sommes à l'heure du lapin
-          <ref target="#FRA01601_N03"/>[3] .</p>
+        <p>
+          — La toilette que tu portes serait encore trop somptueuse à l'heure du coq [2] ; et regarde ! le soleil se lève à peine, nous sommes à l'heure du lapin
+          <ref target="#FRA01601_N03" />
+          [3] .
+        </p>
         <p>— Pour honorer un maître tel que toi, il n'est pas d'heure trop matinale.</p>
         <p>— Est-ce aussi pour m'honorer, infidèle sujet, que tu te présentes devant moi armé ? Ces deux sabres, oubliés à ta ceinture, te condamnent ; tu venais de rentrer au palais lorsque je t'ai fait appeler.</p>
         <p>Le coupable baissait la tête, renonçant à se défendre.</p>
@@ -186,9 +199,7 @@
         <p>Le siogoun demeura longtemps immobile à la même place, soucieux, regardant le gazon foulé par le poids léger d'Omiti.</p>
       </div>
       <div type="chapter">
-
         <head>II</head>
-
         <head>LA BLESSURE DE NAGATO</head>
         <p>Le prince de Nagato était rentré dans son palais.</p>
         <p>Il dormait, étendu sur une pile de fines nattes. Autour de lui régnait une obscurité presque complète, car on avait baissé les stores et déployé de grands paravents devant les fenêtres.</p>
@@ -225,8 +236,11 @@
         <p>Il faisait frais dans cette chambre, et une une odeur de camphre et de musc emplissait l'air.</p>
         <p>— Maître ! maître ! dit Loo à demi voix, c'est l'heure, et puis il y a là un messager.</p>
         <p>— Un messager ! s'écria Nagato, en se dressant sur un coude ; comment est-il ?</p>
-        <p>— Il est vêtu comme un samouraï
-          <ref target="#FRA01601_N04"/>[1] : des sabres sont passés à sa ceinture.</p>
+        <p>
+          — Il est vêtu comme un samouraï
+          <ref target="#FRA01601_N04" />
+          [1] : des sabres sont passés à sa ceinture.
+        </p>
         <p>— Qu'il entre vite, dit le prince avec un tremblement dans la voix.</p>
         <p>Loo alla faire signe au messager, qui se prosterna au seuil de la chambre.</p>
         <p>— Approche ! dit Nagato.</p>
@@ -236,8 +250,11 @@
         <p>« Tu es venu, illustre, je le sais mais pourquoi cette folie et pourquoi ce mystère ? Je ne puis comprendre tes actions. J'ai reçu de graves réprimandes de ma souveraine à cause de toi. Tu sais : je traversais les jardins pour la suivre jusqu'à son palais, lorsque, tout à coup, je te vis adossé à un arbre. Je ne pus retenir un cri et, à ce cri, elle se retourna vers moi et suivit la direction de mon regard.</p>
         <p>« Ah dit-elle, c'est la vue de Nagato qui t'arrache de pareils cris. Ne pourrais-tu au moins les retenir et me cacher le spectacle de ton impudeur ?</p>
         <p>« Puis elle s'est retournée plusieurs fois vers toi. Le courroux de ses yeux me faisait peur. Je n'oserai pas paraître devant elle demain, et je t'envoie ce message pour te supplier de ne plus renouveler ces étranges apparitions qui ont pour moi des suites si funestes.</p>
-        <p>« Hélas ! ne sais-tu pas que je t'aime, et faut-il te le dire : je serai ta femme quand tu le voudras... Mais tu te plais à m'adorer comme une déesse de la pagode des Trente-Trois mille Trois cent Trente-Trois
-          <ref target="#FRA01601_N05"/> [2] . Si tu n'avais risqué ta vie plusieurs fois, seulement pour m'apercevoir, je croirais que tu te joues de moi.</p>
+        <p>
+          « Hélas ! ne sais-tu pas que je t'aime, et faut-il te le dire : je serai ta femme quand tu le voudras... Mais tu te plais à m'adorer comme une déesse de la pagode des Trente-Trois mille Trois cent Trente-Trois
+          <ref target="#FRA01601_N05" />
+          [2] . Si tu n'avais risqué ta vie plusieurs fois, seulement pour m'apercevoir, je croirais que tu te joues de moi.
+        </p>
         <p>Je t'en conjure, ne m'expose plus à de pareilles réprimandes, et n'oublie pas que je suis prête à te reconnaître pour mon seigneur, et que vivre près de toi est mon plus cher désir. »</p>
         <p>Nagato sourit et referma lentement le rouleau ; il fixa son regard sur la bande claire que la fenêtre jetait sur le plancher et rêva profondément.</p>
         <p>Le jeune Loo était fort désappointé ; il avait essayé de lire derrière son maître, mais le rouleau était écrit en caractères chinois et sa science était prise en défaut ; il savait assez bien le kata-kana et avait même quelques connaissances de l'hira-kana, mais il ignorait, malheureusement, l'écriture chinoise. Pour cacher son dépit, il s'approcha d'une fenêtre et, soulevant un coin du store, il regarda dehors.</p>
@@ -330,9 +347,7 @@
         <p>Nagato s'éloigna rapidement après avoir salué le roi, qui répondit par un geste amical.</p>
       </div>
       <div type="chapter">
-
         <head>III</head>
-
         <head>LA FÊTE DU GÉNIE DE LA MER</head>
         <p>Le lendemain, dès l'aube, les rues d'Osaka furent pleines de mouvement et de joie. On se préparait pour la fête tout en se réjouissant à l'avance du plaisir prochain. Les maisons commerçantes, celles des artisans et des gens du peuple, largement ouvertes sur la rue, laissaient voir leur intérieur simple, meublé seulement par quelques paravents aux belles couleurs.</p>
         <p>On entendait des voix, des rires, et, par moment, un enfant mutin s'échappait des bras de sa mère, occupée à le parer de ses plus beaux vêtements, et venait gambader et trépigner de joie sur les marches de bois descendant de la maison vers la chaussée.</p>
@@ -406,9 +421,7 @@
         <p>— Hiéyas !</p>
       </div>
       <div type="chapter">
-
         <head>IV</head>
-
         <head>LA SŒUR DU SOLEIL</head>
         <p>C'est l'heure la plus chaude de la journée. Toutes les salles du palais de Kioto sont plongées dans une fraîche obscurité, grâce aux stores baissés et aux paravents déployés devant les fenêtres.</p>
         <p>Kioto, c'est la capitale, la ville sacrée, résidence d'un dieu exilé sur la terre, le descendant direct des célestes fondateurs du Japon, le souverain absolu, le pontife de toutes les religions pratiquées dans le royaume du soleil levant, le mikado enfin. Le siogoun n'est que le premier parmi les sujets du mikado ; mais celui-ci, écrasé par sa propre majesté, aveuglé par sa splendeur surhumaine, laisse le soin des affaires terrestres au siogoun, qui règne à sa place, tandis qu'il s'absorbe solitairement dans le sentiment de sa propre sublimité.</p>
@@ -538,9 +551,7 @@
         <p>terrible folie, désir sans espoir qui me fait si doucement souffrir, combien ne vas-tu pas t'accroître à la suite de cette entrevue inespérée ! Déjà je m'enfuyais d'Osaka, éperdu, pareil à un plongeur à qui l'air va manquer, et je venais ici contempler les palais qui la dérobent aux regarda, ou quelquefois l'apercevoir de loin, accoudée à une galerie ou traversant, au milieu de ses femmes, une allée de jardin, et j'emportais alors une provision de bonheur. Mais maintenant j'ai respiré le parfum qui émane d'elle, sa voix a caressé mon oreille, j'ai entendu mon nom vibrer sur ses lèvres. Saurai-je me contenter de ce qui naguère emplissait ma vie ? Je suis perdu, mon existence est brisée par cet amour impossible, et cependant je suis heureux. Tout à l'heure je vais la revoir encore, non plus dans la contrainte d'une audience politique, mais pouvant tout à mon aise m'éblouir de sa beauté. Aurai-je la force de cacher mon trouble et mon criminel amour ? Oui, divine souveraine devant toi seule mon âme orgueilleuse a pu se prosterner et mon rêve monte vers toi comme la brume vers le soleil. Déesse, je t'adore avec épouvante et respect ; mais, hélas ! je t'aime aussi avec une folle tendresse comme si tu n'étais qu'une femme !</p>
       </div>
       <div type="chapter">
-
         <head>V</head>
-
         <head>LES CAVALIERS DU CIEL</head>
         <p>La nuit est venue. Une fraîcheur délicieuse succède à la chaleur du jour et les fleurs des parterres, mouillées de rosée, jettent leur parfum.</p>
         <p>Les galeries qui précèdent les salles du palais, dans lesquelles ont lieu les divertissements de la soirée, sont illuminées et couvertes de conviés, qui respirent avec délices l'air du soir. Le prince de Nagato gravit l'escalier d'honneur, bordé de chaque côté par une rampe vivante de jolis pages, qui tous tiennent à la main une tige dorée à l'extrémité de laquelle oscille une lanterne ronde. Le prince traverse les galeries lentement, à cause de la foule ; il s'incline lorsqu'il rencontre un haut dignitaire de la cour, salue d'une phrase aimable les princes ses égaux et se rapproche de la salle du trône.</p>
@@ -571,8 +582,11 @@
         <p>Le maître consent au marché et les laisse partir.</p>
         <p>Alors l'époux se jette aux pieds de l'épouse il la remercie avec effusion de l'avoir ainsi délivré de l'esclavage. Mais la femme se transforme : elle devient tellement brillante que le jeune homme, ébloui, ne peut plus la regarder.</p>
         <p>— Je suis la tisseuse céleste, dit-elle ; ton courage au travail et ta piété filiale m'ont touchée, et, te voyant malheureux, je suis descendue du ciel pour te secourir. Tout ce que tu entreprendras désormais réussira si tu ne quittes jamais le chemin de la vertu.</p>
-        <p>Cela dit, la divine tisseuse monte au ciel et va reprendre sa place dans la maison des vers à soie
-          <ref target="#FRA01601_N06"/> [1] .</p>
+        <p>
+          Cela dit, la divine tisseuse monte au ciel et va reprendre sa place dans la maison des vers à soie
+          <ref target="#FRA01601_N06" />
+          [1] .
+        </p>
         <p>L'orchestre, alors, joue un air de danse. Le rideau se baisse et se relève bientôt. Il laisse voir le jardin d'une pagode avec ses bosquets de bambous, ces édifices légers, aux toitures vastes, soutenues par un enchevêtrement de poutres de toutes couleurs.</p>
         <p>Alors des scènes de pantomime se succèdent sans se lier entre elles. Les légendes religieuses ou guerrières sont mises en scène ; des héros fabuleux, des personnages symboliques se montrent dans le costume des temps anciens, les uns coiffés de la mitre en forme d'œuf, vêtus de la tunique à longues manches ouvertes, d'autres ayant sur la tête le casque antique sans cimier, avec ses ornements d'or qui protègent la nuque, ou portant une coiffure fantastique, large, haute, qui a la forme d'une pyramide d'or et est toute garnie de franges et de grelots ; ces personnages tiennent à la main des branches, des sabres, des miroirs et toutes sortes d'objets emblématiques. Mais souvent le sens du symbole est oublié, personne ne le comprend plus ; il a traversé les âges sans rien perdre de son aspect, mais il est comme un coffre fermé dont la clef est perdue.</p>
         <p>Voici le héros qui tua un dragon terrible, installé, pendant de longues années, dans le palais même des mikados.</p>
@@ -671,9 +685,7 @@
         <p>— Allons, lui dit le prince, ferme ta bouche stupéfaite et relève-toi ; je ne suis pas encore mort. Appelle mes serviteurs et cours chercher le médecin.</p>
       </div>
       <div type="chapter">
-
         <head>VI</head>
-
         <head>LA CONFRÉRIE DES AVEUGLES</head>
         <p>Quelques heures plus tard, des courtisans étaient groupés sous la vérandah du palais de Hiéyas ; ils voulaient être les premiers à saluer le véritable maître et attendaient son réveil. Les uns, adossés aux colonnettes en bois de cèdre qui supportaient la toiture, les autres fièrement campés, une main sur la hanche, froissant les plis soyeux de leur tunique large, ils prêtaient l'oreille à l'un d'entre eux qui racontait une anecdote, sans doute fort intéressante, car elle était écoutée attentivement et les auditeurs laissaient parfois échapper un éclat de rire aussitôt étouffé par respect pour le sommeil de l'illustre dormeur.</p>
         <p>Le narrateur était le prince de Toza, et le prince de Nagato le héros de l'aventure qu'il contait.</p>
@@ -741,8 +753,11 @@
         <p>— Nagato ne vient jamais saluer Hiéyas, il le déteste profondément, c'est son ennemi déclaré.</p>
         <p>— Un pareil ennemi n'est guère à craindre, dit le prince de Toza. Au retour de ses folies nocturnes, il n'est capable que de dormir.</p>
         <p>— Je ne sais si cela est l'avis du régent.</p>
-        <p>— S'il pensait autrement, supporterait-il de lui des injures propres à le faire condamner au hara-kiri
-          <ref target="#FRA01601_N07"/> [1] . Si le prince est encore vivant, c'est à la douceur d'Hiéyas qu'il le doit.</p>
+        <p>
+          — S'il pensait autrement, supporterait-il de lui des injures propres à le faire condamner au hara-kiri
+          <ref target="#FRA01601_N07" />
+          [1] . Si le prince est encore vivant, c'est à la douceur d'Hiéyas qu'il le doit.
+        </p>
         <p>— Ou à la protection pleine de tendresse de Fidé-Yori.</p>
         <p>— Sans doute Hiéyas n'est magnanime que par égard pour le maître, mais s'il n'avait que des ennemis de l'espèce de Nagato, il s'estimerait heureux.</p>
         <p>Pendant que les courtisans s'entretenaient ainsi en attendant son réveil, Hiéyas, levé depuis longtemps, se promenait à grands pas dans sa chambre, inquiet, agité, portant sur son visage soucieux des traces d'insomnie.</p>
@@ -752,8 +767,11 @@
         <p>— Patiente encore quelques instants, disait Faxibo, ceux que tu viens d'envoyer sur la route de Kioto ne peuvent être encore revenus.</p>
         <p>— Mais les autres ! ils étaient quarante et nul ne revient s'il m'a échappé cette fois encore, c'est à devenir fou.</p>
         <p>— Tu t'exagères peut-être l'importance de cet homme, dit Faxibo. C'est une intrigue amoureuse qui l'attire à Kioto ; il a la tête pleine de folies.</p>
-        <p>— Tu crois cela, et moi je t'avoue que cet homme m'épouvante, dit le régent avec force, en s'arrêtant devant Faxibo ; on ne sait jamais ce qu'il fait ; on le croit ici, il est là ; il déjoue les espions les plus fins : l'un affirme qu'il l'a suivi à Kioto, l'autre jure qu'il ne l'a pas perdu de vue un instant et qu'il n'est pas sorti d'Osaka ; tous ses amis ont soupé avec lui tandis qu'il se battait, en revenant de la Miako
-          <ref target="#FRA01601_N08"/> [2] , avec des hommes postés par moi. On croit qu'il dort ou s'occupe de ses amours ; un de mes projets va-t-il s'accomplir, sa main s'abaisse sur moi au dernier instant. Depuis longtemps l'empire serait à nous sans lui ; mes partisans sont nombreux, mais les siens ne sont pas moins forts, et il a pour lui le droit. Tiens, ce plan que j'avais si habilement combiné pour débarrasser, sous une apparence accidentelle, le pays d'un souverain sans talent et sans énergie, ce plan qui faisait tomber le pouvoir entre mes mains, qui l'a fait avorter ? quel était le cocher maudit qui a lancé sur le pont cet infernal attelage ? Nagato ! Lui, toujours. Cependant, ajouta Hiéyas, un autre, un de mes alliés, a dû trahir, car il est impossible que rien ait transpiré de ce projet. Ah ! si je savais le nom du traitre Je me donnerais au moins le plaisir d'une terrible vengeance.</p>
+        <p>
+          — Tu crois cela, et moi je t'avoue que cet homme m'épouvante, dit le régent avec force, en s'arrêtant devant Faxibo ; on ne sait jamais ce qu'il fait ; on le croit ici, il est là ; il déjoue les espions les plus fins : l'un affirme qu'il l'a suivi à Kioto, l'autre jure qu'il ne l'a pas perdu de vue un instant et qu'il n'est pas sorti d'Osaka ; tous ses amis ont soupé avec lui tandis qu'il se battait, en revenant de la Miako
+          <ref target="#FRA01601_N08" />
+          [2] , avec des hommes postés par moi. On croit qu'il dort ou s'occupe de ses amours ; un de mes projets va-t-il s'accomplir, sa main s'abaisse sur moi au dernier instant. Depuis longtemps l'empire serait à nous sans lui ; mes partisans sont nombreux, mais les siens ne sont pas moins forts, et il a pour lui le droit. Tiens, ce plan que j'avais si habilement combiné pour débarrasser, sous une apparence accidentelle, le pays d'un souverain sans talent et sans énergie, ce plan qui faisait tomber le pouvoir entre mes mains, qui l'a fait avorter ? quel était le cocher maudit qui a lancé sur le pont cet infernal attelage ? Nagato ! Lui, toujours. Cependant, ajouta Hiéyas, un autre, un de mes alliés, a dû trahir, car il est impossible que rien ait transpiré de ce projet. Ah ! si je savais le nom du traitre Je me donnerais au moins le plaisir d'une terrible vengeance.
+        </p>
         <p>— Je t'ai fait part de ce que j'ai pu découvrir, dit Faxibo.</p>
         <p>Fidé-Yori s'est écrié au moment de l'écroulement : « Omiti, tu as dit vrai ! »</p>
         <p>— Omiti ! Qu'est-ce qu'Omiti ? Je ne connais pas ce nom.</p>
@@ -788,9 +806,7 @@
         <p>Il les salua d'un geste et sortit lentement, le front baissé, suivi seulement de Faxibo.</p>
       </div>
       <div type="chapter">
-
         <head>VII</head>
-
         <head>LE PARJURE</head>
         <p>Lorsqu'il entra dans la salle où l'attendait Fidé-Yori, Hiéyas comprit que quelque chose de grave allait s'accomplir.</p>
         <p>Tous les partisans dévoués au fils de Taïko-Sama étaient réunis dans cette salle.</p>
@@ -870,9 +886,7 @@
         <p>— Trop tard s'écria-t-il, le prince de Nagato n'avait que trop raison : Hiéyas est en fuite.</p>
       </div>
       <div type="chapter">
-
         <head>VIII</head>
-
         <head>LE CHÂTEAU D'OVARI</head>
         <p>Sur le rivage de l'océan Pacifique, au faîte d'une colline rocheuse, s'élève la forteresse des princes d'Ovari. Ses murailles, percées de meurtrières, se déploient en suivant les sinuosités du terrain. Elles sont masquées cà et là par des groupes d'arbres et des buissons dont la fraîche verdure contraste heureusement avec les parois déchirées des roches couleur de rouille. De loin en loin se dresse une tour carrée dont la base s'élargit comme le pied d'une pyramide ; un toit aux bords relevés la recouvre.</p>
         <p>Du sommet de la forteresse la vue est admirable. Une petite baie s'arrondit jusqu'au pied de la colline et offre un abri sûr aux jonques et aux barques qui fendent en tous sens l'eau limpide plus loin, les flots bleus de l'océan Pacifique se déroulent et tracent à l'horizon une ligne rigide, d'un azur plus sombre. Du côté de la terre, les premières ondulations d'une chaîne de montagnes bossellent le sol ; des rochers que la mousse veloute le parsèment, et les hautes collines, par places, sont cultivées jusqu'à leur faîte. D'un mont à l'autre une vallée se creuse, laissant voir un village tapi à l'ombre d'un petit bois, près d'un ruisseau, puis au fond de nouvelles collines ferment la vallée.</p>
@@ -941,9 +955,7 @@
         <p>— Bien ! bien ! dit-il, demain au jour je serai prêt à partir.</p>
       </div>
       <div type="chapter">
-
         <head>IX</head>
-
         <head>LA MAISON DE THÉ</head>
         <p>Dans un des faubourgs d'Osaka, non loin de la plage qui laisse glisser vers la mer la pente lisse de son sable blanc, s'étendait un vaste bâtiment dont les toitures, de hauteurs inégales, dépassaient le niveau des habitations environnantes. La façade de cette maison s'ouvrait largement sur une rue populeuse, toujours encombrée et pleine de tumulte.</p>
         <p>Le premier étage montrait de grandes fenêtres fermées par des stores de couleurs vives, fréquemment projetés en avant sous la poussée que leur imprimaient des jeunes femmes curieuses, dont on entendait les éclats de rire.</p>
@@ -1015,9 +1027,7 @@
         <p>Puis il quitta la maison de thé de l'Aurore, et quiconque, lorsqu'il tourna l'angle de la rue, l'eût vu changer de pas en se frottant les mains et dépasser les plus alertes, eût peut-être suspecté l'authenticité de sa vieillesse et de sa barbe blanche.</p>
       </div>
       <div type="chapter">
-
         <head>X</head>
-
         <head>LE RENDEZ-VOUS</head>
         <p>Le prince de Nagato est étendu sur un matelas de satin noir, il enfonce un de ses coudes dans un coussin et livre son autre bras à un médecin accroupi auprès de lui.</p>
         <p>Le médecin lui tâte le pouls.</p>
@@ -1074,9 +1084,7 @@
         <p>Le prince put se croire exaucé, car, se renversant sur les coussins, il perdit connaissance.</p>
       </div>
       <div type="chapter">
-
         <head>XI</head>
-
         <head>LES CAILLES GUERRIÈRES</head>
         <p>Dans un adorable paysage au milieu d'un bois touffu, la résidence d'été de la Kisaki élève ses jolies toitures dorées.</p>
         <p>L'épais feuillage des arbres prodigieusement hauts semble s'écarter à regret pour faire place à ces toits brillants, qui se projettent tout autour du palais et abritent une large vérandah dont le sol est couvert de tapis et jonché de coussins de soie et de satin brodés d'or.</p>
@@ -1204,9 +1212,7 @@
         <p>On se sépara bientôt et les ambassadeurs furent conduits aux pavillons qui leur étaient destinées et qui étaient enfouis sous la verdure et les fleurs.</p>
       </div>
       <div type="chapter">
-
         <head>XII</head>
-
         <head>LE VERGER OCCIDENTAL</head>
         <p>Lorsque le prince de Nagato s'éveilla, le lendemain, il éprouva un sentiment de bien être et de joie que depuis longtemps il ne connaissait plus. Jouissant de cet instant de nonchalante rêverie qui est comme l'aube du réveil, il laissait errer ses regards sur les ombres sautillantes des feuilles que le soleil, du dehors, jetait contre les stores fermés. Des milliers d'oiseaux piaillaient et gazouillaient, et l'on eût pu croire que c'était la lumière elle-même qui chantait dans ce pétillement de voix claires.</p>
         <p>Le prince songeait à la journée de bonheur qui allait s'écouler.</p>
@@ -1234,8 +1240,11 @@
         <p>Ce temple s'appuie d'un côté sur des piliers de bois prodigieusement hauts qui descendent jusqu'au pied de la montagne ; de l'autre, il s'adosse à une roche taillée à pic il abrite sous sa large toiture recouverte de plaques en porcelaine bleue, une divinité à mille bras.</p>
         <p>Sur la terrasse couverte de gros cailloux, qui se projette devant la façade du temple, on a disposé des pliants pour que les nobles promeneurs se reposent et jouissent tout à leur aise de la beauté du point de vue.</p>
         <p>Ils arrivent bientôt et s'installent.</p>
-        <p>Kioto s'étend sous leurs regards, avec ses innombrables maisons, basses mais élégantes, qui entourent le parc immense du Daïri
-          <ref target="#FRA01601_N09"/> [1] , lac de verdure duquel surgit çà et là comme un îlot, un toit large et magnifique. On peut suivre des yeux la ligne claire que tracent les murailles autour du parc.</p>
+        <p>
+          Kioto s'étend sous leurs regards, avec ses innombrables maisons, basses mais élégantes, qui entourent le parc immense du Daïri
+          <ref target="#FRA01601_N09" />
+          [1] , lac de verdure duquel surgit çà et là comme un îlot, un toit large et magnifique. On peut suivre des yeux la ligne claire que tracent les murailles autour du parc.
+        </p>
         <p>Au sud de la ville, une rivière, l'Idogava, luit sous le soleil.</p>
         <p>La plaine, riche et bien cultivée, s'étend au delà. Un autre cours d'eau, la rivière de l'Oie-Sauvage, coule au centre de la ville, près de la forteresse de Nisio-Nosiro qui dresse ses hauts remparts et sa tour carrée coiffée d'un toit relevé des bords.</p>
         <p>Derrière la ville se déploie un demi-cercle de hautes collines couvertes de végétations et de temples de toutes sortes qui s'étagent sur les pentes, les escaladent et disparaissent à demi dans les feuillages et les fleurs. Les seigneurs se montrent les uns aux autres le temple d'Iasacca ou des Huit-Escarpements, la tour de To-Tsé, à cinq étages de toitures légères la chapelle de Guihon, qui ne contient qu'un miroir métallique de forme ronde, et qui est environnée d'un grand nombre de jolies maisons dans lesquelles on boit du thé et du saké ; puis en bas, vers la plaine, sur la route qui mène à Fusimi, la pagode colossale de Daïbouds, très haute, très magnifique, et qui contient dans l'enceinte de ses jardins le temple des Trente-Trois mille Trois cent Trente-Trois Dieux édifice très long et peu large.</p>
@@ -1324,9 +1333,7 @@
         <p>Et tandis qu'elle s'éloignait précipitamment il cacha son visage dans ses mains et laissa éclater les sanglots qui l'étouffaient.</p>
       </div>
       <div type="chapter">
-
         <head>XIII</head>
-
         <head>LES TRENTE-TROIS DÎNERS DU MIKADO</head>
         <p>Le sublime Fils des dieux s'ennuie. Il est assis les jambes croisées sur une estrade couverte de tapis, entre des flots de brocart d'or qui descendent du plafond et sont ramassés à grands plis de chaque côté.</p>
         <p>Une enfilade d'appartements s'étend devant le regard du souverain.</p>
@@ -1361,9 +1368,7 @@
         <p>— Oh ! cela ne fait rien, dit Go-Mitzou-No, qui se hâta, dès que son épouse se fut éloignée, de rattraper le temps perdu.</p>
       </div>
       <div type="chapter">
-
         <head>XIV</head>
-
         <head>LA CHASSE AU VOL</head>
         <p>Quelques jours après la réception dos ambassadeurs, vers la dixième heure du matin, l'heure du serpent, un jeune cavalier courait à toute bride sur la route qui conduit d'Osaka à Kioto.</p>
         <p>À cette heure, la route est très encombrée ; bêtes de somme, colporteurs, hommes et femmes du peuple se croisent sur tout son parcours. Des paysans portent les produits de leurs champs dans les villes des environs ; ils se rendent à Fusini, à Yodo, à Firacca ; des marchandises de toutes espèces sont transportées d'Osaka à Kioto : du riz, des poissons salés, des métaux, du bois précieux, tandis que Kioto envoie à la ville du siogoun, du thé, de la soie, des vases de bronze et des objets laqués.</p>
@@ -1447,9 +1452,7 @@
         <p>Le même jour les envoyés de Fidé-Yori quittèrent Kioto et retournèrent à Osaka.</p>
       </div>
       <div type="chapter">
-
         <head>XV</head>
-
         <head>L'USURPATEUR</head>
         <p>En deux mois à peine, comme l'avait dit Signénari, Hiéyas était devenu formidable ; il avait sous ses ordres une armée que la rumeur publique fixait à cinq cent mille hommes. Les provinces de Sagami, de Mikava, de Sourouga, qui lui appartenaient, avaient fourni un nombre considérable de soldats.</p>
         <p>Le seigneur d'Ovari, le plus dévoué des partisans de Hiéyas, fit prendre les armes à tous les hommes valides de sa principauté, de sorte qu'il ne resta pas un seul laboureur sur ses terres. Le prince de Toza s'était retranché d'une façon formidable dans la grande île Sikof, située vers le sud du royaume, en face de la baie d'Osaka ; de là il menaçait la capitale du siogoun.</p>
@@ -1495,9 +1498,7 @@
         <p>— Eh bien ! je suis riche, s'écria Hieyas en riant, je n'ai pas besoin de me presser, je vais prendre quelques jours de repos.</p>
       </div>
       <div type="chapter">
-
         <head>XVI</head>
-
         <head>LES PÉCHEURS DE LA BAIE D'OSAKA</head>
         <p>Une agitation extraordinaire règne dans le château de Fidé-</p>
         <p>Yori. À chaque instant des chefs militaires couverts de lourdes cuirasses franchissent la porte de la première muraille : on entend le pas de leurs chevaux résonner sous la voûte profonde.</p>
@@ -1683,9 +1684,7 @@
         <p>« Si je n'étais un homme, je voudrais être un tonnelet ! »</p>
       </div>
       <div type="chapter">
-
         <head>XVII</head>
-
         <head>L'ÎLE DE LA LIBELLULE</head>
         <p>La belle Yodogimi verse des larmes. Elle est debout, appuyée contre un panneau de laque noire, un bras levé dans un mouvement de douleur, les doigts légèrement crispés sur la paroi lisse et brillante, la tête renversée, un peu inclinée vers l'épaule : elle pleure sans oublier d'être belle.</p>
         <p>Yodogimi a bientôt quarante ans : qui le croirait à la voir si charmante ? Ses yeux très grands sont pleins d'éclat encore, ses lèvres sont fraîches, son teint est pur et l'unique torsade formée par sa chevelure roule jusque sur le sol, comme un serpent noir.</p>
@@ -2027,9 +2026,7 @@
         <p>On courut sur les rivages. La mer était vide, la flottille du prince de Nagato avait disparu.</p>
       </div>
       <div type="chapter">
-
         <head>XVIII</head>
-
         <head>LA PRINCIPAUTÉ DE NAGATO</head>
         <p>Fatkoura était partie, avec toute sa maison, tous ses bagages, et une garde d'honneur que lui donnait la reine, à cause des dangers de la route. Elle s'était rendue à Hagui, dans le château de son fiancé.</p>
         <p>La jeune femme éprouvait une sorte de joie cruelle au milieu du désespoir de son amour déçu.</p>
@@ -2369,9 +2366,7 @@
         <p>Le soir même, un messager, portant une tête sanglante, enveloppée de soie rouge et enfermée dans un sac de paille, quitta le château de Toza.</p>
       </div>
       <div type="chapter">
-
         <head>XIX</head>
-
         <head>UNE TOMBE</head>
         <p>La nouvelle de la victoire remportée à Soumiossi par le général Harounaga était rapidement parvenue à Osaka. Yodogimi elle-même était venue, avec une joie impétueuse, l'annoncer à Fidé-Yori. Elle ne cachait pas l'orgueil que lui inspirait le triomphe de son amant. Bientôt cependant des paysans arrivant de Soumiossi racontèrent en détail les péripéties de la bataille. Le nom du prince de Nagato remplaça partout celui de Harounaga.</p>
         <p>Yodogimi défendit sous des peines sévères de répéter une pareille calomnie, elle s'emporta, fatigua son fils de folles récriminations. Fidé-Yori la laissait dire, il louait tout haut Harounaga et tout bas remerciait son ami fidèle, au dévouement insatiable.</p>
@@ -2479,9 +2474,7 @@
         <p>Cinq mille hommes avaient péri dans ce souterrain long de plusieurs lieues.</p>
       </div>
       <div type="chapter">
-
         <head>XX</head>
-
         <head>LES MESSAGERS</head>
         <p>Hiéyas s'était lui-même avancé, avec cinquante mille hommes, à quelques lieues de Soumiossi. Il était venu par la mer, en passant très loin des côtes pour ne pas être aperçu par les soldats de Massa-Nori, campés sur les rives de la province d'Issé.</p>
         <p>Tous les plans de défense mis en œuvre par les généraux de Fidé-Yori, Hiéyas les connut promptement, et il s'ingénia à déjouer toutes les prévisions de ses adversaires. Il les laissa barrer l'île Nipon, et, prenant la mer, il s'avança en deçà de leurs lignes et vint débarquer entre Osaka et Kioto. Il voulait arriver le plus rapidement possible à faire le siège d'Osaka, dont la prise mettrait fin à la guerre.</p>
@@ -2809,9 +2802,7 @@
         <p>Le prince de Nagato sentait en lui une de ces volontés irrésistibles. Pour la sauver, elle, il lui semblait qu'il eût à lui seul dispersé une armée.</p>
       </div>
       <div type="chapter">
-
         <head>XXI</head>
-
         <head>LA KISAKI</head>
         <p>Kioto était à cinq lieues seulement du camp de Hiéyas, mais le prince de Nagato fit faire un détour afin de ne pas entrer dans la ville du côté de Fusimi, occupée par les vainqueurs ; ils gagnèrent les rives du lac de Biva et les longèrent.</p>
         <p>Le jour commençait à poindre. L'obscurité était encore partout sur la terre, mais le ciel et l'eau blanchissaient ; un brouillard fin traînait ça et là.</p>
@@ -3015,9 +3006,7 @@
         <p>Au moment où la Kisaki et le prince s'éloignaient, le buisson qui les avait abrités s'agita, et un homme qui y était caché s'enfuit.</p>
       </div>
       <div type="chapter">
-
         <head>XXII</head>
-
         <head>LE MIKADO</head>
         <p>Kioto échappait donc au danger qu'elle avait couru ; le combat était terminé, les incendies s'éteignaient. La reine, qui avait été emportée par des mains criminelles, au moment où la ville était en proie à la confusion et à l'épouvante, fut ramenée par le prince de Nagato, à travers un peuple ivre de joie. Les maisons, si bien closes quelques heures auparavant, étaient ouvertes toutes grandes ; tout le monde sortait dans les rues ; les habitants causaient avec les soldats ; on roulait dehors des tonneaux de saké, on les effondrait, on chantait, on dansait. On s'était cru mort et l'on se retrouvait vivant. Il y avait de quoi être joyeux : des cris partaient d'une rue ou d'une place ; ils rebondissaient de bouche en bouche et bientôt toute la ville les répétait :</p>
         <p>— Gloire au mikado !</p>
@@ -3136,9 +3125,7 @@
         <p>Nagato sortit du palais, quelques heures plus tard il s'embarqua, et fit voile pour l'île d'Avadsi.</p>
       </div>
       <div type="chapter">
-
         <head>XXIII</head>
-
         <head>FATKOURA</head>
         <p>La captive du seigneur de Toza trouvait les jours longs et monotones. Elle attendait le vengeur, certaine qu'il viendrait la délivrer, mais se disant qu'il tardait un peu. Elle était obsédée par l'amour croissant dont Toza la poursuivait. Après l'exécution de celui qu'il croyait être Nagato, il s'était abstenu de la visiter ; puis, s'apercevant que la douleur de Fatkoura était peu violente, et qu'elle paraissait résignée, il avait conçu quelque espoir et recommencé à l'importuner. Tantôt il était humble, soumis, suppliant ; tantôt il s'emportait, menaçait ; quelquefois, il essayait d'attendrir la jeune femme par des larmes elle demeurait implacable.</p>
         <p>— Larmes de tigre, disait-elle, qui voit sa proie lui échapper.</p>
@@ -3296,9 +3283,7 @@
         <p>— Toute souffrance est finie pour elle, dit le médecin ; elle se repose et oublie ses tourments dans la tranquillité sereine du dernier sommeil.</p>
       </div>
       <div type="chapter">
-
         <head>XXIV</head>
-
         <head>LE TRAITÉ DE PAIX</head>
         <p>Hiéyas consentait à mettre fin à la guerre, mais, comme l'avait dit Fidé-Yori, ses conditions étaient rudes.</p>
         <p>— J'exige, avait-il dit, l'exécution d'une des trois propositions suivantes : que Fidé-Yori abandonne la forteresse et qu'il aille passer sept ans à Yamato ; que l'on me donne Yodogimi comme otage, ou que l'on démolisse les murs et que l'on comble les fossés du château d'Osaka.</p>
@@ -3346,9 +3331,7 @@
         <p>Hiéyas, en soupirant, se piqua de nouveau et renforça sa signature alors seulement, le jeune général lui donna le traité signé par Fidé-Yori.</p>
       </div>
       <div type="chapter">
-
         <head>XXV</head>
-
         <head>CONFIDENCES</head>
         <p>Une joie folle emplissait Osaka. Cette ville de plaisir, de luxe, de fêtes perpétuelles avait en horreur la guerre, les conflits politiques, les deuils, toutes choses qui l'empêchaient de se divertir : le divertissement étant, pour les habitants, le but principal de la vie. C'était donc fini ! On pouvait donc remplacer le visage qu'allongeaient la tristesse et l'inquiétude par la face élargie et épanouie dans le rire. À la première nouvelle de la paix, toute la ville se mit à danser, les matelots sur les quais du Yodo-Gava, les marchands au seuil de leurs maisons, les serviteurs dans les cours des palais. Les riches particuliers, les fonctionnaires, les nobles n'étaient pas moins satisfaits, s'ils mettaient un peu plus de réserve dans la manifestation de leur joie. Les princesses surtout étaient heureuses : confinées dans leurs palais, séparées de leurs époux, elles avaient cru vieillir dans cette guerre. On se réveillait d'un cauchemar. Il allait être permis encore d'être belle, de sourire, de se parer.</p>
         <p>Elles couraient aux grands coffres de laque et en tiraient, au milieu d'un parfum de musc et de bois précieux, les robes superbes qu'elles y avaient ensevelies, pour adopter des toilettes plus sombres. C'était sur le sol un amoncellement admirable de satin, de soie, de crêpe, des couleurs les plus tendres. Mais on trouvait ces toilettes un peu fanées et froissées, et l'on faisait venir les fabricants, les tailleurs, les brodeuses.</p>
@@ -3445,8 +3428,11 @@
         <p>Pendant que cette œuvre de destruction s'accomplissait, la ville continuait a se réjouir. Fidé-Yori fit fondre une cloche énorme, et la dédia solennellement, au temple de Bouddha ; sur cette cloche il avait fait graver ceci : Désormais, ma maison sera tranquille.</p>
         <p>À l'occasion de cette dédicace, des réjouissances publiques avaient eu lieu. Maintenant on annonçait une représentation splendide, au principal théâtre d'Osaka. On devait mettre au jour un drame nouveau : le Taïko-ki, c'est-à-dire l'histoire de Taïko.</p>
         <p>Cette œuvre semi-historique venait d'être écrite à la gloire du père de Fidé-Yori. Le moment était bien choisi pour la représenter ; aussi se hâtait-on de tout préparer. Mais la mise en scène devait être très soignée, on n'avait pu encore fixer le jour de la représentation.</p>
-        <p>On ne parlait que de cela dans la ville. Les places étaient toutes retenues à l'avance ; on les payait de cinq à six kobangs
-          <ref target="#FRA01601_N10"/>[1] . Les femmes devenaient folles au milieu des préparatifs de leurs toilettes ; les tailleurs, les brodeuses haletaient. On vantait les mérites de l'acteur principal qui devait remplir le rôle de Taiko. Tout le monde le connaissait ; il était célèbre. On l'avait surnommé Nariko-Ma, la « Toupie-Ronflante. »</p>
+        <p>
+          On ne parlait que de cela dans la ville. Les places étaient toutes retenues à l'avance ; on les payait de cinq à six kobangs
+          <ref target="#FRA01601_N10" />
+          [1] . Les femmes devenaient folles au milieu des préparatifs de leurs toilettes ; les tailleurs, les brodeuses haletaient. On vantait les mérites de l'acteur principal qui devait remplir le rôle de Taiko. Tout le monde le connaissait ; il était célèbre. On l'avait surnommé Nariko-Ma, la « Toupie-Ronflante. »
+        </p>
         <p>Fidé-Yori, lui aussi, attendait impatiemment le jour de la représentation. Il espérait qu'Omiti y viendrait, et là, du moins, elle ne pourrait lui échapper. Ses recherches dans la ville avec le prince de Nagato n'avaient eu aucun résultat. Il n'était pas aussi aisé qu'ils se l'étaient imaginé de pénétrer dans toutes les maisons et de s'informer d'une jeune fille. Ils avaient commencé par les demeures des nobles. Là, c'était plus facile. Le siogoun honorait d'une visite, incognito, les épouses des seigneurs absents, il avait la fantaisie de voir la famille des princesses, et passait ainsi en revue toutes les jeunes filles nobles d'Osaka.</p>
         <p>Pour pénétrer chez les riches particuliers les deux amis furent contraints de se déguiser, et ils n'étaient pas toujours bien reçus.</p>
         <p>Leurs ruses pour se faire montrer les filles de la maison variaient ; ils prétendaient avoir vu tomber de la manche d'une jeune fille un objet d'une valeur inestimable qu'ils ne voulaient rendre qu'à elle. Ou bien ils se disaient envoyés par un vieillard au désespoir, qui venait de perdre sa fille unique, et qui cherchait une enfant du même âge, lui ressemblant un peu, afin de lui laisser sa fortune, qui était immense. Cette dernière invention du prince de Nagato réussissait assez bien, mais la besogne était rude, ils avaient déjà employé huit jours à ces recherches et ils n'avaient encore visité que les palais et une rue d'Osaka.</p>
@@ -3458,9 +3444,7 @@
         <p>— C'est au théâtre que nous la verrons ; elle y sera, j'en suis sûr, disait le siogoun se rattachant à cette espérance.</p>
       </div>
       <div type="chapter">
-
         <head>XXVI</head>
-
         <head>LE GRAND THÉÂTRE D'OSAKA</head>
         <p>Sur un des plus vastes canaux qui coupent en tous sens la ville d'Osaka, le théâtre déploie sa large façade, surmontée de deux toitures. On peut donc arriver au spectacle en bateau ; on peut aussi s'y rendre à pied ou en norimono, car un quai, pavé de dalles grises, s'étend devant le bâtiment et le sépare du canal.</p>
         <p>Deux gigantesques bannières en soie bleue, couvertes de caractères chinois, sont accrochées à des mâts à chaque angle de la façade, elles dépassent de beaucoup les toits de l'édifice. Sur de grands tableaux, à fond d'or, les scènes principales des pièces que l'on va représenter sont peintes avec une richesse de couleur inouïe. On voit des guerriers, des princesses, des dieux, des démons, dans les attitudes les plus exagérées. Souvent la peinture est remplacée par une combinaison d'étoffes, disposées en relief velours, crêpe ou satin, qui figurent les vêtements des personnages, et produisent le plus brillant effet. Sous les toitures sont accrochées, aux poutres rouges qui s'entrecroisent, d'énormes lanternes, rondes au rez-de-chaussée, carrées à l'étage supérieur. Sur la crête du toit, un animal fantastique, chien ou lion, s'avance vers la façade en ouvrant sa large gueule, en hérissant sa queue et sa crinière.</p>
@@ -3553,9 +3537,7 @@
         <p>Elle n'est pas venue ! Tout est fini, tout est tristesse en mon esprit, et cette vie qu'elle m'a conservée, je voudrais m'en délivrer à présent !</p>
       </div>
       <div type="chapter">
-
         <head>XXVII</head>
-
         <head>OMITI</head>
         <p>L'hiver est venu. Aux jours brûlants succèdent des jours glacés. Le ciel, couleur de cendre, semble avoir changé de rôle avec la terre, éclatante de blancheur, dans son vêtement de neige.</p>
         <p>Près des faubourgs d'Osaka, la plage déserte a conservé intacte l'ouate épaisse tombée du ciel. Les flots, qui reflètent les nuages ternes, ont des aspects d'encre. Quelques rochers se dressent ça et là ; la neige déchirée s'accroche aux aspérités de leurs parois. Des mouettes, que le vent contrarie dans leur vol, battent des ailes ; elles paraissent grises et sales sur cette blancheur.</p>
@@ -3759,9 +3741,7 @@
         <p>— Je t'aime ! murmura Omiti en levant vers le roi ses beaux yeux mouillés de larmes.</p>
       </div>
       <div type="chapter">
-
         <head>XXVIII</head>
-
         <head>DÉSORMAIS MA MAISON SERA TRANQUILLE</head>
         <p>On avait arrêté les meneurs du complot, dans l'auberge du Soleil levant ; mais les soldats de Hiéyas, prévenus à temps, n'avaient pas débarqué, de sorte que, tout en ayant la certitude que Hiéyas était le chef secret de la conspiration, on ne pouvait invoquer aucune preuve contre lui. Cependant il était évident que la guerre civile allait recommencer. Le général Yoké-Moura était d'avis qu'il fallait prendre l'initiative et aller porter la guerre dans la province ennemie. Les autres généraux, au contraire, voulaient rassembler toutes les forces autour d'Osaka et attendre.</p>
         <p>La discorde éclata entre les chefs.</p>
@@ -3822,9 +3802,7 @@
         <p>Le prince n'avait que le temps d'arriver à l'heure prescrite ; il partit précipitamment.</p>
       </div>
       <div type="chapter">
-
         <head>XXIX</head>
-
         <head>LA GRANDE PRÊTRESSE DU SOLEIL</head>
         <p>C'est à Naïkou, dans la province d'Issé, baignée par les flots de l'océan Pacifique, que s'élève le temple primitif de Ten-Sio-</p>
         <p>Daï-Tsin. D'après les légendes divines, la déesse Soleil serait née sur l'emplacement même de ce temple.</p>
@@ -3886,9 +3864,7 @@
         <p>Ivakoura tendit les bras vers elle, mais la grande prêtresse du Soleil s'enfonça dans l'ombre, qui l'enveloppa et la déroba à jamais.</p>
       </div>
       <div type="chapter">
-
         <head>XXX</head>
-
         <head>BATAILLES</head>
         <p>Hiéyas était aux portes d'Osaka avec une armée de trois cent mille hommes. Venant des provinces septentrionales il avait traversé la grande île Nipon, en écrasant sur son passage les détachements chargés de garder le pays. Les soldats de Fidé-Yori étaient morts en héros, pas un n'avait reculé ; les troupes des princes avaient résisté mollement, au contraire. D'ailleurs l'armée de Hiéyas, puissante comme un fleuve gonflé par les pluies, ne pouvait être entravée dans sa marche. Elle arriva près d'Osaka et enveloppa la ville. Sans prendre de repos, elle l'attaqua de tous les côtés à la fois.</p>
         <p>Fidé-Yori avait partagé son armée en trois corps de cinquante mille hommes chacun : Signénari et Moritzka commandaient le premier, Harounaga, Moto-Tsoumou, Aroufza le second, Yoké-</p>
@@ -3983,9 +3959,7 @@
         <p>— Non, c'est impossible ! s'écria tout à coup le siogoun ; je ne veux pas voir couler leur sang, je ne veux pas les voir mortes ; c'est moi qui mourrai le premier !</p>
       </div>
       <div type="chapter">
-
         <head>XXXI</head>
-
         <head>LE BÛCHER</head>
         <p>— Personne ne mourra ! s'écria tout à coup une voix, au moment où Fidé-Yori tournait son arme contre lui-même.</p>
         <p>Le prince de Nagato apparut au seuil de la chambre.</p>
@@ -4031,8 +4005,11 @@
         <p>Les cris des soldats s'élevaient autour du château.</p>
         <p>— Fidé-Yori a mis le feu au palais : il va périr dans les flammes, disait-on.</p>
         <p>Ceux qui étaient encore à l'abri de la troisième muraille ouvrirent les portes et sortirent précipitamment ; ils se rendirent.</p>
-        <p>D'ailleurs, la bataille avait cessé ; l'usurpateur était à la porte de la forteresse ; on s'agenouillait sur son passage on l'acclamait, on le proclamait le seul et légitime siogoun. C'était le second jour de la sixième lune de la première année du Nengo-Gen-Va
-          <ref target="#FRA01601_N11"/> [1] .</p>
+        <p>
+          D'ailleurs, la bataille avait cessé ; l'usurpateur était à la porte de la forteresse ; on s'agenouillait sur son passage on l'acclamait, on le proclamait le seul et légitime siogoun. C'était le second jour de la sixième lune de la première année du Nengo-Gen-Va
+          <ref target="#FRA01601_N11" />
+          [1] .
+        </p>
         <p>Du sommet de la tour, le prince de Nagato voyait la litière dans laquelle était couché Hiéyas. Il entendait les clameurs triomphales qui l'accueillaient.</p>
         <p>— La gloire et la puissance royale ne sont rien auprès de l'amour heureux, murmura-t-il en reportant ses yeux sur la barque qui portait ses amis.</p>
         <p>Elle était en mer à présent, hors de la portée des soldats ; elle déployait sa voile et fuyait rapidement.</p>
@@ -4045,8 +4022,11 @@
         <p>« Un jour les fleurs s'inclineront pour mourir, elles laisseront tomber comme un diamant leur âme lumineuse, alors les deux gouttes d'eau pourront se rejoindre et se confondre. »</p>
         <p>La chaleur était intolérable. Le papier brûla tout à coup entre les doigts du prince. L'air lui manquait, il se sentait mourir.</p>
         <p>Ma bien-aimée ! s'écria-t-il, je pars le premier, ne me fais pas attendre trop longtemps, au rendez-vous.</p>
-        <p>Comme les pétales énormes d'une fleur de feu, les flammes enfermèrent la dernière terrasse, elles s'étendirent sur la toiture ; les deux gigantesques poissons d'or se tordirent, sur la crête du toit, comme s'ils étaient vivants, puis ils coulèrent en deux ruisseaux incandescents. Bientôt l'édifice entier s'écroula, avec un fracas terrible, en faisant jaillir vers le ciel une gerbe immense de flammes et d'étincelles.
-          <ref target="#FRA01601_N12"/> [1]</p>
+        <p>
+          Comme les pétales énormes d'une fleur de feu, les flammes enfermèrent la dernière terrasse, elles s'étendirent sur la toiture ; les deux gigantesques poissons d'or se tordirent, sur la crête du toit, comme s'ils étaient vivants, puis ils coulèrent en deux ruisseaux incandescents. Bientôt l'édifice entier s'écroula, avec un fracas terrible, en faisant jaillir vers le ciel une gerbe immense de flammes et d'étincelles.
+          <ref target="#FRA01601_N12" />
+          [1]
+        </p>
       </div>
     </body>
     <back>

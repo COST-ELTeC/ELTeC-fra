@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRA01603" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -19,7 +17,9 @@
         </respStmt>
         <respStmt>
           <resp>Original data capture</resp>
-          <name> Wikisource <ref>http://fr.wikisource.org</ref>
+          <name>
+            Wikisource
+            <ref>http://fr.wikisource.org</ref>
           </name>
         </respStmt>
       </titleStmt>
@@ -27,38 +27,45 @@
         <measure unit="words">29460</measure>
       </extent>
       <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
-</publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+        <date when="2021-04-09" />
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" />
+        </availability>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
+        <ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
           <title>Les Princesses d'Amour : courtisanes japonaises</title>
           <author>Judith Gautier</author>
           <publisher>Wikisource</publisher>
           <date>2011</date>
-          <ref target="https://fr.wikisource.org/wiki/Les_Princesses_d%E2%80%99Amour"/>
-        </bibl><bibl type="printSource">
+          <ref target="https://fr.wikisource.org/wiki/Les_Princesses_d%E2%80%99Amour" />
+        </bibl>
+        <bibl type="printSource">
           <title>Les Princesses d'Amour (Courtisanes Japonaises)</title>
           <author>Judith Gautier</author>
-          <publisher>Société d'Éditions Littéraires et artistiques, Librarie Paul Ollendorf, 50, Chaussée d'Antin </publisher>
+          <publisher>Société d'Éditions Littéraires et artistiques, Librarie Paul Ollendorf, 50, Chaussée d'Antin</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1900</date>
-        </bibl><bibl type="firstEdition">
+        </bibl>
+        <bibl type="firstEdition">
           <!-- best guess -->
           <title>Les Princesses d'Amour (Courtisanes Japonaises)</title>
           <author>Judith Gautier</author>
           <publisher>P. Ollendorff</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1900</date>
-          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k831954"/>
-        </bibl></sourceDesc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k831954" />
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
-      <p/>
+      <p />
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -67,17 +74,20 @@
       <textClass>
         <keywords>
           <term type="narrative-perspective">heterodiegetic</term>
+          <term type="subgenre">social novel</term>
+          <!-- Low confidence for this subgenre label -->
+          <term type="setting-country">Japan</term>
         </keywords>
       </textClass>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="F" />
+        <size xmlns="http://distantreading.net/eltec/ns" key="short" />
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high" />
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4" />
       </textDesc>
     </profileDesc>
     <revisionDesc>
-<change when="2021-04-09">Converted by checkUp script for new release</change>
+      <change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Converted by checkUp script for new release</change>
       <change when="2020-11-14">Checked by checkup script</change>
       <change when="2019-11-04">Checked by releaseChecker script</change>
@@ -91,12 +101,9 @@
         <p>Les Princesses d'Amour : courtisanes japonaises Judith Gautier Société d'éditions littéraires et artistiques,</p>
       </div>
     </front>
-
     <body>
       <div type="chapter">
-
         <head>I</head>
-
         <head>LE DAÏMIO DE KAMA-KOURA</head>
         <p>— Si mes amis de Tokio, me voyaient ainsi, le nez vers la terre, accroupi très humblement devant le daïmio et sa noble épouse, ils me trouveraient bien peu moderne, pas du tout « dans le train », comme l'on dit à Paris, à ce qu'il paraît, et ils se moqueraient de moi. J'ai tout à fait l'air d'un samouraï du temps féodal, prosterné devant son seigneur... Il est vrai que notre féodalité, à nous, régnait encore il y a vingt-cinq ans à peine et que, moralement, je suis toujours vassal de mon prince dans cette cour très arriérée. Kama-Koura n'est pas Tokio, hélas !</p>
         <p>C'est par la cervelle joyeuse du jeune étudiant Yamato, que passaient ces réflexions, tandis qu'accroupi, les mains sur les cuisses, la tête courbée sur sa poitrine, il écoutait, d'un air profondément respectueux, la communication que lui faisait, d'une voix lente et solennelle, le vieux daïmio de Kama-Koura.</p>
@@ -129,9 +136,7 @@
         <p>— Allons, rendez-vous auprès de mon intendant, dit le daïmio, il vous remettra une somme importante, afin que vous puissiez mener à bien cette jolie équipée.</p>
       </div>
       <div type="chapter">
-
         <head>II</head>
-
         <head>TOKIO MODERNE</head>
         <p>Le résultat de cette conférence secrète fut que le jeune prince San-Daï, et son malicieux camarade, arrivèrent à Tokio, le soir même de ce jour, par la gare de Simbassi.</p>
         <p>Arrêté au bord du trottoir, San-Daï regardait, vaguement, la perspective de la rue, bordée de réverbères et de poteaux télégraphiques, tandis que son compagnon donnait aux domestiques, venus avec eux, des ordres pour le transport des bagages.</p>
@@ -179,9 +184,7 @@
         <p>Ils franchirent ainsi la grande porte appelée : Omon, et pénétrèrent dans la Cité d'Amour.</p>
       </div>
       <div type="chapter">
-
         <head>III</head>
-
         <head>LA CITÉ D'AMOUR</head>
         <p>Étrange palais, en effet !</p>
         <p>Après la porte franchie, au lieu de l'avenue ombreuse et paisible, gardée par quelques vieux serviteurs, aux visages graves et respectueux, une large rue droite, pleine de foule et de bruit, bordée de maisons de thé, pavoisées et illuminées, avec, dans les plis des banderoles, le titre de l'établissement « À la Pluie de Printemps », « Au Bois de Cerisiers », « Au Saule Vert ».</p>
@@ -248,9 +251,7 @@
         <p>Une fille d'honneur, d'une distinction parfaite, le reçut à l'entrée ; le fit asseoir, et s'éloigna, pour aller prévenir sa maîtresse.</p>
       </div>
       <div type="chapter">
-
         <head>IV</head>
-
         <head>LA PRÉSENTATION</head>
         <p>Le jeune prince San-Daï luttait en vain contre l'émotion extraordinaire qui l'envahissait, à l'idée d'être en présence de cette noble jeune fille, si belle et si savante. S'il allait lui paraître gauche, ne pas oser lui parler, lui déplaire ! cela l'emplirait de tristesse ; car, dès qu'il avait entendu prononcer ce nom si joli de l'Oiseau-Fleur, il avait éprouvé un trouble singulier, comme le choc d'un pressentiment, et lui, qui n'avait jamais pensé aux femmes, les méprisant un peu, même, comme des êtres frivoles et décevants, était forcé de s'avouer, avec une surprise profonde, que la pensée seule de cette princesse inconnue, bouleversait son cœur et effaçait toutes choses de son esprit.</p>
         <p>La fille d'honneur revint, fit glisser une cloison, qui découvrit une autre pièce, très éclairée, et s'agenouilla, les deux mains sur le sol.</p>
@@ -314,9 +315,7 @@
         <p>— Bah ! Bah ! en attendant il faut célébrer vos noces, dit Yamato.</p>
       </div>
       <div type="chapter">
-
         <head>V</head>
-
         <head>NOCES ÉPHÉMÈRES</head>
         <p>La Cigogne-Danseuse était entrée aussi, avec les jolies jeunes filles, et des serviteurs s'empressaient. Ils apportèrent une petite table basse, qu'ils placèrent devant le prince, puis ils posèrent sur la table, trois coupes en bois laqué ; l'on déboucha, alors, un flacon de saké.</p>
         <p>— Vous voyez, prince, dit Yamato en versant le vin dans la première tasse, cette cérémonie est exactement la même que celle qui a lieu dans le mariage entre nobles. Vous serez donc véritablement l'époux de cette belle princesse... durant toute la nuit.</p>
@@ -375,9 +374,7 @@
         <p>Alors, Broc-d'Or, en même temps que les servantes éteignaient les lumières, referma sur eux la moustiquaire en gaze de soie verte, qui les enveloppa d'une atmosphère de rêve, tandis que la douce lueur de la lune emplissait la chambre, et que la petite lampe de bronze, devant la déesse de la mer et de l'amour, brillait dans un angle, comme une étoile.</p>
       </div>
       <div type="chapter">
-
         <head>VI</head>
-
         <head>LES LARMES DES MARCHANDES DE SOURIRES</head>
         <p>Il est parti, le joli prince aux yeux de velours, et l'Oiseau-</p>
         <p>Fleur, tout anéantie, songe à lui, le long des nuits et des journées. Après une semaine entière d'un merveilleux bonheur, il s'est arraché d'auprès d'elle, mais c'est pour la conquérir. Certain, maintenant, qu'elle n'a été qu'à lui, il a juré de nouveau qu'elle ne sera à aucun autre ; et il est parti, décidé à affronter la colère de ses parents, à lutter contre leur volonté, à triompher de tous les obstacles. Yamato, consterné et plein d'effroi, l'a suivi, promettant néanmoins, lui la cause première de toute l'aventure, de servir de son mieux son noble ami.</p>
@@ -435,9 +432,7 @@
         <p>— Je m'étais toujours doutée que cette mort n'était pas naturelle, dit Jeune Saule.</p>
       </div>
       <div type="chapter">
-
         <head>VII</head>
-
         <head>BARBARE D'OCCIDENT</head>
         <p>Voici, dit Ko-Mourasaki :</p>
         <p>— La Perle était extrêmement belle, très fière et très savante.</p>
@@ -468,9 +463,7 @@
         <p>— Je suis curieuse de vous entendre, répondit l'Oiseau-Fleur.</p>
       </div>
       <div type="chapter">
-
         <head>VIII</head>
-
         <head>AU POIDS DE L'OR</head>
         <p>— Sans être très ancienne, cette histoire n'est pas d'aujourd'hui, dit Guitare de Jade ; elle s'est passée au temps où les seigneurs portaient encore des sabres, où le Japon, fermé aux étrangers, gardait jalousement les traditions et le parfum des temps disparus... Il y a trente ou quarante ans, peut-être, Sarcelle de Soie était, comme nous toutes, belle, insoucieuse et esclave ; le soin de sa personne, ses toilettes, ses coiffures, la bonne tenue de sa maison, l'occupaient uniquement. Aucun des hommes qu'elle recevait n'était parvenu à toucher son cœur, jusqu'au jour, où elle rencontra le samouraï Kaïdo. C'était le vassal d'un prince très malheureux, qui avait été vaincu, après de longs combats, par une maison rivale, avait vu ses États envahis, son château dévasté, ses trésors pillés, et s'était enfui, avec sa famille, on ne savait où. La ruine du maître fut, du même coup, naturellement, celle des serviteurs, et le charmant Kaïdo, était très pauvre.</p>
         <p>Lorsqu'il vint au Yosi-Wara, il accompagnait un ami, plus fortuné, et était seulement invité au souper. Mais Sarcelle de Soie, touchée au cœur pour la première fois, n'avait de regards que pour lui. Elle improvisa même un outa à son adresse :</p>
@@ -510,9 +503,7 @@
         <p>Et, seulement quand toute les jeunes suivantes eurent disparu, par l'entrebâillement d'un panneau que la dernière referma sur elle, elle commença.</p>
       </div>
       <div type="chapter">
-
         <head>IX</head>
-
         <head>LA PRINCESSE INCONNUE</head>
         <p>— Un soir, — il y a déjà plus de vingt ans et aucune de nous n'était hors de l'enfance, alors — un norimono élégant, mais sans insignes, entra dans l'enceinte du Yosi-Wara, porté par deux hommes, qui dissimulaient leur visage, sous la coiffure de ronine [2] et qui s'éloignèrent, en emportant le véhicule, dès que celle qui l'occupait en fut descendue.</p>
         <p>C'était une jeune femme, très grave et très belle ; du type aristocratique le plus pur.</p>
@@ -537,7 +528,7 @@
         <p>— Le juge est mort durant la dernière lune, dit-elle, il n'y a plus de témoin du serment. Et, d'une saccade, elle fit le manuscrit déroulé, courir comme une coulée de lait, sur les nattes.</p>
         <p>— Votre silence est éloquent, ajouta-t-elle, je n'ai pas besoin de vous dire : écoutez.</p>
         <p>Elle lut.</p>
-        <p>Château de Fusimi, la 1 re année de Gengi, au 6 e mois[3].</p>
+        <p>Château de Fusimi, la 1 re année de Gengi, au 6e mois [3].</p>
         <p>« Après deux cents ans d'une paix heureuse, la guerre civile éclate, hélas !...</p>
         <p>« Ô ! brutale douleur ! Nouvelle funeste !... C'en est fait du charme de la vie. Un buffle furieux a brisé la barrière de l'enclos et piétine les fleurs ravissantes. Hélas ! hélas ! les sentiments les plus subtils, vont être pétris avec la boue et le sang !</p>
         <p>« Dans l'alcôve désertée, les cordes de la lyre, avec un tintement lugubre, se brisent d'elles-mêmes !</p>
@@ -749,9 +740,7 @@
         <p>— Après une aussi terrible histoire, dit-elle, on ne devrait plus rien conter. L'usage, veut, cependant, que la reine d'un jour, qui préside la réunion, parle après ses sujettes, en terminant le tournoi. Je veux donc me conformer à l'usage, en vous disant, brièvement, une histoire, différente des vôtres, car il n'y est pas question d'amour. Elle est un exemple frappant, à mon avis, de notre caractère ; et elle montre, combien l'éducation, si haute, que l'on nous donne, peut rendre, dans un corps impur, noble l'esprit, et généreux le cœur. Voici :</p>
       </div>
       <div type="chapter">
-
         <head>X</head>
-
         <head>ÉVENTAIL DE RAYONS</head>
         <p>Mitzu-Vogi (Éventail de Rayons) était célèbre, parmi les grandes oïrans, autant par sa beauté, sa coquetterie effrénée et son luxe, que par les raffinements de ses amours, et, surtout, son arrogance, cruelle ou câline. Elle feignait, de feindre qu'elle n'aimait pas, ou simulait, des élans de passion désordonnée, qui affolaient ses amants, sans que jamais son cœur, à elle, eût un battement plus vif. Les fortunes, elle les dévorait, puis rejetait, loin d'elle, l'homme ruiné, comme la pelure d'un kaki.</p>
         <p>Un jour, on lui annonça, qu'une femme demandait à la voir, pour lui présenter des flèches à cheveux, en corail, d'un rare travail. Comme elle désirait, justement, acheter des ornements de cette espèce, Éventail de Rayons laissa entrer la marchande.</p>
@@ -784,9 +773,7 @@
         <p>Et comme l'heure des réceptions approchait, les oïrans, rappelèrent leurs suivantes, et après avoir pris congé de l'Oiseau-Fleur, sans rien omettre du cérémonial prescrit, descendirent, majestueusement, l'escalier, et se retirèrent.</p>
       </div>
       <div type="chapter">
-
         <head>XI</head>
-
         <head>PLEURS ET PARFUMS</head>
         <p>L'Oiseau-Fleur, allongée sur le sol, la tête dans ses mains, pleure à grands sanglots, tandis que Broc d'Or, debout et navrée, contemple la nuque de sa maîtresse, qui semble du satin blanc, entre le satin bleu de la robe et le satin noir des cheveux.</p>
         <p>La belle princesse d'amour, a reçu une lettre terrible : Le daïmio de Kama-Koura, s'oppose absolument à sa libération, et à son mariage avec le prince son fils. La courtisane n'entrera pas au château ; on n'y donnera le nom de fille, qu'à une princesse authentique, descendante d'une famille égale à celle de Kama-</p>
@@ -855,9 +842,7 @@
         <p>La princesse, agenouillée sur le tapis, s'y appuyant de la main gauche, prit le pinceau et se mit à tracer, rapidement, des caractères.</p>
       </div>
       <div type="chapter">
-
         <head>XII</head>
-
         <head>LA BARRIÈRE DE BAMBOUS VERTS</head>
         <p>— Tu veux mourir ?... tant qu'elle est vivante, cela n'a pas de sens. Pourtant, si tu es irrévocablement décidé, c'est bien !... je ferai tendre ce kiosque de draperies blanches et nous accomplirons ensemble le Hara-Kiri ; à moins que tu ne préfères être plus moderne, et user du revolver.</p>
         <p>C'est tout au fond du parc, au bord d'un étang, devant une perspective ravissante, que Yamato dit ces paroles au jeune prince Sandaï, affalé sur les nattes, les deux bras sur l'accoudoir et le menton dans ses mains. Devant l'entrée de l'enclos réservé au jeune prince, une barrière légère, en bambous verts, indique, selon l'ancien usage, que le seigneur est prisonnier.</p>
@@ -893,9 +878,7 @@
         <p>Dans ce cas je reviens, tendre ce pavillon de draperies blanches, et nous nous ouvrons le ventre de compagnie, en criant : Béni soit le Hara-Kiri du bon vieux temps, qui met fin à toutes les peines.</p>
       </div>
       <div type="chapter">
-
         <head>XIII</head>
-
         <head>À LA LANCE ROUILLÉE</head>
         <p>Yamato, après une course rapide au Yosi-Wara, et une secrète entrevue avec l'Oiseau-Fleur, s'enfonça dans un quartier pauvre de Tokio et, ayant cherché quelque temps vainement, se fit indiquer, par un agent de police, en uniforme moderne, l'auberge</p>
         <p>« À la Lance Rouillée. » C'était une vieille petite maison de thé, aux boiseries vermoulues, toute noire, sous le ruissellement de la pluie, qui tombait ce jour-là. Elle devait dater de loin, la pauvre bicoque, et ne sacrifiait guère au goût nouveau, les carreaux de papier, étaient, là, toujours de mise, et il faisait sombre à l'intérieur, surtout par cette journée triste.</p>
@@ -1028,9 +1011,7 @@
         <p>Et il haussa la voix pour faire la question à travers le guichet, parce que le véhicule approchait, sifflant bruyamment.</p>
       </div>
       <div type="chapter">
-
         <head>XIV</head>
-
         <head>VERS LE PASSÉ</head>
         <p>Une lourde jonque, de modèle ancien, presque hors de service, ouvrait sa voile de paille, et louvoyait, sur un bras de la mer intérieure, qu'elle s'efforçait de traverser, malgré l'absence de vent.</p>
         <p>Oï-Kantaro n'avait, naturellement, pas voulu prendre le petit vapeur, qui dessert les ports, dans ces parages, et Yamato, de plus en plus impatienté, dissimulait mal sa mauvaise humeur.</p>
@@ -1079,9 +1060,7 @@
         <p>L'intendant dénoua sa ceinture, et, s'en servant comme d'un fouet, chassa, à grands coups légers, ce troupeau affolé, qui s'éparpilla en tous sens, puis, en un instant, disparut.</p>
       </div>
       <div type="chapter">
-
         <head>XV</head>
-
         <head>LA CEINTURE DE SOIE</head>
         <p>« Je vais t'attendre, mon bien-aimé, dans un séjour inaccessible, où mon amour sera hors d'atteinte.</p>
         <p>« Mon jeune corps, qui fit tes délices, je dois le sacrifier, pour te garder mon âme.</p>
@@ -1122,13 +1101,11 @@
         <p>— Sèche vite cette rosée de larmes, ma fille, et souris au joli nom, qui est le tien : Rosée de l'Aube.</p>
         <p>Broc d'Or frappait ses mains l'une contre l'autre.</p>
         <p>— À quoi tient la destinée ! s'écria-t-elle. Si ma maladresse n'avait pas embrouillé le nœud de cette ceinture, ce ne seraient pas des larmes de joie, que nous essuierions, à présent, sur nos joues. La minute, passée en efforts, pour dénouer ce qui ne se dénouait pas, voilà ce qui a donné le temps, au bonheur, d'arriver !</p>
-        <p>FIN 1. ↑ IX e siècle.</p>
-        <p>2. ↑ C'est une sorte de cloche, entrant jusqu'au cou et à travers laquelle sont </p>
-        <p>ménagés des jours. Cette coiffure masque était portée par les vassaux mutins des </p>
-        <p>princes. On les appelait alors : Ronines, espèce de chevaliers errants, quelquefois </p>
-        <p>brigands.</p>
-        <p>3. ↑ Juillet 1864 .</p>
-        <p>4. ↑ Braves.</p>
+        <p>FIN</p>
+        <p>1. IX e siècle.</p>
+        <p>2. C'est une sorte de cloche, entrant jusqu'au cou et à travers laquelle sont ménagés des jours. Cette coiffure masque était portée par les vassaux mutins des princes. On les appelait alors : Ronines, espèce de chevaliers errants, quelquefois brigands.</p>
+        <p>3. Juillet 1864 .</p>
+        <p>4. Braves.</p>
       </div>
     </body>
   </text>

@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:unavailable wikidata:missing">Les Errants de nuit : édition ELTeC</title>
+        <title ref="viaf:unavailable wikidata:missing">Les Errants de la nuit : édition ELTeC</title>
         <author ref="viaf:17222447 wikidata:Q472568">Féval, Paul Henri Corentin [dit Paul Féval père] (1816-1887)</author>
         <respStmt>
           <resp>Principal investigator</resp>
@@ -33,14 +33,14 @@
       <sourceDesc><bibl type="digitalSource">
           <publisher>Ebooks libres et gratuits</publisher>
         </bibl><bibl type="printSource">
-          <title>Les errants de nuit</title>
+          <title>Les errants de la nuit</title>
           <author>Paul Féval</author>
           <publisher>V. Palmé</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1880</date>
           <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6541902r"/>
         </bibl><bibl type="firstEdition">
-          <title>Les errants de nuit</title>
+          <title>Les errants de la nuit</title>
           <author>Paul Féval</author>
           <publisher>Le Pays</publisher>
           <date>1857</date> <!-- du 26 juin au 3 octobre -->
@@ -56,6 +56,8 @@
       <textClass>
         <keywords>
           <term type="narrative-perspective">heterodiegetic</term>
+          <term type="subgenre">adventure novel</term>
+          <term type="setting-type">rural (Ardennes)</term>
         </keywords>
       </textClass>
       <textDesc>

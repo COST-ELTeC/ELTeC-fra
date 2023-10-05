@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:644145424532886830955 wikidata:Q3224087">le Loup blanc : édition ELTeC</title>
+        <title ref="viaf:644145424532886830955 wikidata:Q3224087">Le Loup blanc : édition ELTeC</title>
         <author ref="viaf:17222447 wikidata:Q472568">Féval, Paul Henri Corentin [dit Paul Féval père] (1816-1887)</author>
         <respStmt>
           <resp>Principal investigator</resp>
@@ -32,7 +32,7 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
 </publicationStmt>
       <sourceDesc><bibl type="digitalSource">
-          <title>Le loup blanc</title>
+          <title>Le Loup blanc</title>
           <author>Paul Féval</author>
           <publisher>Ebooks libres et gratuits</publisher>
         </bibl><bibl type="printSource">
@@ -43,7 +43,7 @@
           <date>1883</date>
           <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k80334r"/>
         </bibl><bibl type="firstEdition">
-          <title>Le loup blanc</title>
+          <title>Le Loup blanc</title>
           <author>Paul Féval</author>
           <pubPlace>Paris</pubPlace>
           <publisher>Chlendowski</publisher>
@@ -61,6 +61,7 @@
       <textClass>
         <keywords>
           <term type="narrative-perspective">heterodiegetic</term>
+          <term type="subgenre">adventure novel</term>
         </keywords>
       </textClass>
       <textDesc>

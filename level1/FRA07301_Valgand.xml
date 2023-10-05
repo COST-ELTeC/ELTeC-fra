@@ -7,9 +7,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:missing wikidata:missing">Blondine, roman nouveau : édition ELTeC</title>
-        <author ref="viaf:(inexistent)">Valgand, Cécile de [Piolenc, Cécile Marchand-Caruë, Mise de]</author>
+        <title ref="viaf:missing wikidata:Q111366703">Blondine, roman nouveau : édition ELTeC</title>
+        <author ref="viaf:missing wikidata:Q111329011">Valgand, Cécile de [Piolenc, Cécile Marchand-Caruë, Mise de] (XXXX-XXXX)</author>
+        <!-- The author's name is a pseudonym, the author's actual name is "Piolenc, Cécile Marchand-Caruë, Mise de" -->
         <!-- The years of birth and death of this author could not be identified. -->
+        <!-- BnF identifier: ark:/12148/bpt6k5698775j -->
         <respStmt>
           <resp>Principal investigator</resp>
           <name>Christof Schöch</name>
