@@ -31,16 +31,20 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3462535">ELTeC-fra</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4662433">ELTeC-fra release 1.0.1</ref>
 </publicationStmt>
-      <sourceDesc><bibl type="digitalSource">
+      <sourceDesc>
+      <bibl type="digitalSource">
           <publisher>Bibliothèque électronique du Québec (BEQ)</publisher>
-          <ref target="http://beq.ebooksgratuits.com"/>
-        </bibl><bibl type="printSource">
+                <title>Le dernier amour </title>
+          <author>George Sand</author>
+    <ref target="http://beq.ebooksgratuits.com"/>
+        </bibl>
+        <bibl type="printSource">
           <pubPlace>Paris</pubPlace>
           <publisher>Calmann Lévy</publisher>
           <date>1882</date>
         </bibl><bibl type="firstEdition">
           <title>Le dernier amour </title>
-          <author>Le dernier amour</author>
+          <author>George Sand</author>
           <publisher>Michel Lévy frères</publisher>
           <pubPlace>Paris</pubPlace>
           <date>1867</date>
@@ -58,6 +62,8 @@
         <keywords>
           <term type="narrative-perspective">autodiegetic</term>
           <!-- possibly homodiegetic -->
+          <term type="subgenre">social novel</term>
+          <!-- Maybe a "roman de moeurs" ? -->
         </keywords>
       </textClass>
       <textDesc>
